@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-def scrapChessGame(url):
+def scrapChessGameSite(url):
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
     gameTable = soup.find("table", {"class": "dialog"})
@@ -52,9 +52,32 @@ def getAmountOfPages(gameTable):
     pageTable = gameTable.find("table", {"class": "paginator"})
     return len(pageTable.find_all("td")) - 2
 
-#Some test links
-scrapChessGame('https://gameknot.com/annotation.pl/the-evergreen-game?gm=561')
-scrapChessGame('https://gameknot.com/annotation.pl/bobby-fischers-game-of-the-century?gm=256')
-scrapChessGame('https://gameknot.com/annotation.pl/tournament-in-wijk-aan-zee-annotated-by-g-kasparov?gm=216')
-scrapChessGame('https://gameknot.com/annotation.pl/team-play-effect-of-competitive-situation-on-style-of-play?gm=11878')
-scrapChessGame('https://gameknot.com/annotation.pl/a-short-fight-against-the-classical-pawn-center?gm=17618')
+
+def scrapChessGames(url):
+
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, 'html.parser')
+
+    gamesTr = soup.find_all("tr", {"class": ["evn_list", "odd_list"]})
+
+    games = {}
+
+    games['url'] = url
+
+    for game in gamesTr:
+        games[game.find_all("a")[1].text] = game.find_all("a")[1]['href']
+
+    f = open("../Data/GameknotJSON/links.json", "w+")
+    f.write(json.dumps(games, indent=4))
+    f.close()
+
+
+
+# Some test links
+# scrapChessGameSite('https://gameknot.com/annotation.pl/the-evergreen-game?gm=561')
+# scrapChessGameSite('https://gameknot.com/annotation.pl/bobby-fischers-game-of-the-century?gm=256')
+# scrapChessGameSite('https://gameknot.com/annotation.pl/tournament-in-wijk-aan-zee-annotated-by-g-kasparov?gm=216')
+# scrapChessGameSite('https://gameknot.com/annotation.pl/team-play-effect-of-competitive-situation-on-style-of-play?gm=11878')
+# scrapChessGameSite('https://gameknot.com/annotation.pl/a-short-fight-against-the-classical-pawn-center?gm=17618')
+
+scrapChessGames('https://gameknot.com/best-annotated-games.pl')
