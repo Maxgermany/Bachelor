@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import os
+import Data.Scripts.Database as DatabaseHelper
 
 def scrapChessGameSite(url):
     page = requests.get(url)
@@ -54,23 +56,61 @@ def getAmountOfPages(gameTable):
     return int(pages[-2].text)
 
 
-def scrapChessGames(url):
+def scrapChessGames(url, pagingationString = '?p='):
 
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     gamesTr = soup.find_all("tr", {"class": ["evn_list", "odd_list"]})
 
-    games = {}
+    games = []
 
-    games['url'] = url
+    amountPages = getAmountOfPages(soup)
+
+    for i in range(1, amountPages):
+        page = requests.get(url + pagingationString + str(i))
+        soup = BeautifulSoup(page.content, 'html.parser')
+
+        for game in soup.find_all("tr", {"class": ["evn_list", "odd_list"]}):
+            gamesTr.append(game)
 
     for game in gamesTr:
-        games[game.find_all("a")[1].text] = game.find_all("a")[1]['href']
 
-    f = open("../Data/GameknotJSON/links.json", "w+")
-    f.write(json.dumps(games, indent=4))
-    f.close()
+        gameObject = {}
+        gameObject['initialURL'] = url
+        gameObject['url'] = "gameknot.com" + game.find_all("a")[1]['href']
+        gameObject['gameName'] = game.find_all("a")[1].text
+
+        for tag in game.find_all('em'):
+            tag.decompose()
+
+        gameObject['players'] = game.text.split("\n")[2]
+
+        tds = game.find_all("td")
+        gameObject['result'] = tds[2].text
+        gameObject['time'] = tds[3].text
+
+        games.append(gameObject)
+
+        DatabaseHelper.writeGameIntoDB(gameName = gameObject['gameName'], url = gameObject['url'], initialURL = url, players = gameObject['players'], result = gameObject['result'], time = gameObject['time'])
+
+    path = '../Data/GameknotJSON/links.json'
+
+    if os.path.exists(path):
+        f = open(path, "r+")
+    else:
+        f = open(path, "w+")
+
+    content = f.read()
+
+    if content == "":
+        json.dump(games, f, indent = 4)
+    else:
+        data = json.loads(content)
+        data += [game for game in games if game not in data]
+        f.seek(0)
+        json.dump(data, f, indent = 4)
+        f.close()
 
 
 
@@ -81,4 +121,5 @@ def scrapChessGames(url):
 # scrapChessGameSite('https://gameknot.com/annotation.pl/team-play-effect-of-competitive-situation-on-style-of-play?gm=11878')
 # scrapChessGameSite('https://gameknot.com/annotation.pl/a-short-fight-against-the-classical-pawn-center?gm=17618')
 
-scrapChessGames('https://gameknot.com/best-annotated-games.pl')
+scrapChessGames('https://gameknot.com/best-annotated-games.pl', '?pp=')
+scrapChessGames('https://gameknot.com/list_annotated.pl?u=all', '&p=')
