@@ -50,7 +50,8 @@ def scrapChessGameSite(url):
 
 def getAmountOfPages(gameTable):
     pageTable = gameTable.find("table", {"class": "paginator"})
-    return len(pageTable.find_all("td")) - 2
+    pages = pageTable.find_all(("td"))
+    return int(pages[-2].text)
 
 
 def scrapChessGames(url):
