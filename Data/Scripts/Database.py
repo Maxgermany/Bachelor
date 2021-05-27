@@ -39,7 +39,7 @@ def writeGameIntoDB(gameName = "", url = "", initialURL = '', scrapped = False, 
 
     con.close()
 
-def getUnscrappedURLS(amount = 10):
+def getUnscrapedURLS(amount = 10):
     con = sqlite3.connect('../Data/chessData.db')
 
     c = con.cursor()
@@ -52,5 +52,20 @@ def getUnscrappedURLS(amount = 10):
         sql = "SELECT url FROM GAMES WHERE scrapped = 0 LIMIT ?"
         c.execute(sql, (amount,))
         return c.fetchall()
+
+    con.close()
+
+def setURLToScraped(url = "", opening = ""):
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMES' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "UPDATE GAMES SET scrapped = 1, opening = ? WHERE url = ?"
+        con.execute(sql, (opening, url))
 
     con.close()
