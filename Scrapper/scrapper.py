@@ -78,7 +78,7 @@ def scrapChessGames(url, pagingationString = '?p='):
 
         gameObject = {}
         gameObject['initialURL'] = url
-        gameObject['url'] = "gameknot.com" + game.find_all("a")[1]['href']
+        gameObject['url'] = "https://gameknot.com" + game.find_all("a")[1]['href']
         gameObject['gameName'] = game.find_all("a")[1].text
 
         for tag in game.find_all('em'):
