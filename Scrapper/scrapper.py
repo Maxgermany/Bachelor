@@ -12,15 +12,15 @@ def scrapChessGameSite(url):
     comments = gameTable.find_all("td", {"style": "vertical-align: top;"})
     moves = gameTable.find_all("td", {"style": "vertical-align: top; width: 20%;"})
 
+    gameData = soup.find("div", {"style": "padding: 4px 0px; line-height: 150%;"})
+    gameData = gameData.text.split("\n")
+
     amountPages = getAmountOfPages(gameTable)
 
     for i in range(1, amountPages):
 
         page = requests.get(url + "&pg=" + str(i))
         soup = BeautifulSoup(page.content, 'html.parser')
-
-        gameData = soup.find("div", {"style": "padding: 4px 0px; line-height: 150%;"})
-        gameData = gameData.text.split("\n")
 
         gameTable = soup.find("table", {"class": "dialog"})
         commentTemp = gameTable.find_all("td", {"style": "vertical-align: top;"})
@@ -43,15 +43,29 @@ def scrapChessGameSite(url):
     exportData['url'] = url
     exportData['gameName'] = gameData[1]
     exportData['players'] = gameData[2]
-    exportData['oppening'] = gameData[4]
+    exportData['opening'] = gameData[4][15:]
 
-    f = open("../Data/GameknotJSON/" + gameData[1].replace('"', "") + ".json", "w+")
+    path = "../Data/GameknotJSON/" + gameData[1].replace('"', "") + ".json"
+    i = 1
+
+    while os.path.exists(path):
+        path = "../Data/GameknotJSON/" + gameData[1].replace('"', "") + " - " + str(i) + ".json"
+        i += 1
+
+    f = open(path, "w+")
+
     f.write(json.dumps(exportData, indent=4))
     f.close()
+
+    return exportData['opening']
 
 
 def getAmountOfPages(gameTable):
     pageTable = gameTable.find("table", {"class": "paginator"})
+
+    if pageTable is None:
+        return 1
+
     pages = pageTable.find_all(("td"))
     return int(pages[-2].text)
 
@@ -113,6 +127,12 @@ def scrapChessGames(url, pagingationString = '?p='):
         f.close()
 
 
+def scrapChessGameSiteAutomatic():
+
+    urls = DatabaseHelper.getUnscrapedURLS(10)
+    for url in urls:
+        opening = scrapChessGameSite(url[0])
+        DatabaseHelper.setURLToScraped(url[0], opening)
 
 # Some test links
 # scrapChessGameSite('https://gameknot.com/annotation.pl/the-evergreen-game?gm=561')
@@ -121,5 +141,8 @@ def scrapChessGames(url, pagingationString = '?p='):
 # scrapChessGameSite('https://gameknot.com/annotation.pl/team-play-effect-of-competitive-situation-on-style-of-play?gm=11878')
 # scrapChessGameSite('https://gameknot.com/annotation.pl/a-short-fight-against-the-classical-pawn-center?gm=17618')
 
-scrapChessGames('https://gameknot.com/best-annotated-games.pl', '?pp=')
-scrapChessGames('https://gameknot.com/list_annotated.pl?u=all', '&p=')
+#scrapChessGames('https://gameknot.com/best-annotated-games.pl', '?pp=')
+#scrapChessGames('https://gameknot.com/list_annotated.pl?u=all', '&p=')
+
+
+scrapChessGameSiteAutomatic()
