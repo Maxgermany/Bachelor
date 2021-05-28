@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6": "Nice opening",
+        "3. Bb5": "A common move",
+        "3... d6 4. Nc3 a6 5. Bxc6+ bxc6": "Exchange pieces",
+        "6. d4 f6 7. dxe5 fxe5": "King with open window, i didnt like it",
+        "8. Bg5 Be7": "Kind of jail filling",
+        "9. h4 Bxg5": "So better getting softer",
+        "10. Nxg5 h6 11. Nf3 Bg4": "Now\u00b4s my turn, Irregular business all over the table",
+        "12. Qe2 c5 13. a3 Qb8 14. Rb1 Nf6 15. Nd5": "Non effective moves, hard to move in this puzzle",
+        "15... Nh5 16. O-O g5 17. hxg5 hxg5": "Looking forward to get an active tower!!!",
+        "18. Qe3 Nf4 19. Nf6+": "But made an awful mistake!!",
+        "19... Kf8 20. Nxg4 Qc8": "Intermidiate idea",
+        "21. Nfh2": "I thought it\u00b4s over, so ALL IN",
+        "21... Qe8 22. c4 Qh5 23. Qf3 Ke7 24. Rfd1 Raf8 25. Qe3 Rf6 26. Kf1": "Didnt bite, king can smell it",
+        "26... Rf7 27. b4 Rfh7": "Vertical triple attack, f4 cannot be in better place, closing kings retreat if he dont get hurry!!!",
+        "28. bxc5": "White dindt see it coming?? Star running man!!! Ke1 now!!!!",
+        "28... Qxh2": "Sacrifice the queen, because Chekmate or Ng2 and get even",
+        "29. Nxh2 Rh7xh2 30. cxd6+": "How many pawns did he take?? I lost count",
+        "30... Ke6 31. Ke1 Nxg2+": "Get even",
+        "32. Kf1 Nxe3+ 33. fxe3 cxd6": "A mistake and its over!",
+        "34. Rb6": "Ups",
+        "34... Rh2h1+ 35. Ke2 Rh8h2+ 36. Kd3 Rxd1+": "I really nice game, succesful vertical attack!! Thank you",
+        "37. Kc3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/vertical-tripleattack?gm=49947",
+    "gameName": "Vertical TripleAttack",
+    "players": "d-tao (1338) vs. ofiuco (1454)",
+    "opening": "Ruy Lopez (C62), old Steinitz defence"
+}

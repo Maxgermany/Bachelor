@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "This is one of my first games in GK\r\n\r\ntypical e4 starting",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "i usually use italian opening",
+        "3... Qf6": "but playing with Queen?\r\ni wasnt expecting that",
+        "4. d3": "opening the way of my bishop",
+        "4... Na5": "i think this is a bad move\r\nthrowing away your Knight outside of battle area",
+        "5. Bg5 Qb6 6. Nc3": "using Queen in early stage gives me advantage of improving my weapons",
+        "6... f6 7. Be3 Qd6 8. O-O a6 9. Ba4 b5 10. Bb3": "trying to force back my bishop",
+        "10... Bb7 11. Bd5": "i reconsider this move\r\ni think i could do a better one",
+        "11... Bxd5 12. Nxd5 f5 13. Bd2": "this is to avoid a f4 and also targets the black knight",
+        "13... fxe4 14. dxe4 Nf6 15. Bxa5": "my opponent made a easy mistake",
+        "15... c6 16. Nc7+": "and lost the rook",
+        "16... Ke7 17. Nxa8 c5 18. Bc7": "making another mistake in hurry\r\ni have problems about using the time",
+        "18... Qc6 19. Nb6 Qxc7": "i am really lucky he chose the bishop",
+        "20. Nd5+ Nxd5 21. Qxd5 h5": "i have no idea why he made this move..  g6 would be better or h6",
+        "22. Nxe5 d6 23. Ng6+": "where would you move in this situation?",
+        "23... Kf6": "that is the worse choice and ends the game",
+        "24. Qf5#": "i am new at chess and tring to be better\r\ni really be grateful if you share your opinions"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=43446",
+    "gameName": "Let's play chess",
+    "players": "-insomnia- (1202) vs. vonanimal (1100)",
+    "opening": "Ruy Lopez (Spanish opening) (C60)"
+}

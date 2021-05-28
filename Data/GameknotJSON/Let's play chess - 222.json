@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 Bg4": "As in the famous Morphy - Duke of Brunswick and Cout Isouard. This move is actually bad.",
+        "4. dxe5": "The correct continuation, I will gain at least the Bishop pair.",
+        "4... Bxf3": "Relatively best. Worse would have been 4... dxe5 5. Qxd8 Kxd8 Nxe5 where I would have gained a pawn and where Black King would have been stuck in the center.",
+        "5. Qxf3 dxe5 6. Bc4": "Up to this point the game has followed the famous Morphy one. Here Black deviates from it with a worse move.",
+        "6... f6": "This move removes mating threat but terribly weakens Black's Kingside and removes the most natural square for the development of his Knight. More natural would have been 6... Nf6, as in the above mentioned game, or 6... Qf6.",
+        "7. Qb3 b6": "The final blunder, probably he hasn't seen the checkmate coming.",
+        "8. Bf7+": "My first idea was Bxg8, winning a piece, but after a few seconds I saw Bf7. After this move checkmate follows: 8... Kd7 (or Ke7) 9. Qe6#."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=56038",
+    "gameName": "Let's play chess",
+    "players": "dnage (1200) vs. montyq (1424)",
+    "opening": "Philidor's defence (C41)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6": "ruy lopez - exchange variation, my favorite.",
+        "5. b3": "an unsound move. 0-0 is the theory. the c1 bishop has an important job to keep f4 square in variations so it wouldnt be smart to put it on b2.",
+        "5... Bg4 6. h3 Bxf3 7. Qxf3 Bc5 8. Bb2 f6 9. d3": "white created \"holes\" in his black squares on the queen side.",
+        "9... Ne7 10. Nd2 Ng6 11. O-O Qd6": "black wants 0-0-0 and to attack in the king side.",
+        "12. a4 Nf4": "the bishop on b2 cant take on f4...",
+        "13. Nc4 Qd7 14. Bc3 O-O-O 15. Bd2 h5": "black gives a pawn. I think it is not that good but it is playable in order to attack.",
+        "16. Bxf4 exf4 17. Qxf4 Rdf8 18. Ne3 g5 19. Qf3 Rh6": "?! white plays Nf5 and the rook must go back. a waste of time.",
+        "20. Nf5 Rhh8 21. Rad1 Kb8 22. d4 Ba7 23. d5 Rfg8": "g4 is a threat now.",
+        "24. dxc6 Qxc6": "black is with a pawn down but he is pushing white and attacking all the time.",
+        "25. Ne7": "black missed that one...",
+        "25... Qe6 26. Nxg8 Qxg8 27. Qxf6 Bc5 28. Rfe1 g4 29. Qh4 g3": "black is trying to \"fish\" in the king side. basically white has a great material advantage.",
+        "30. Kh1 gxf2 31. Ref1 Ka7 32. b4 Qg7": "?? why giving up the piece?",
+        "33. Rxf2": "?? why not takig the piece?",
+        "33... Bxf2 34. Qxf2+ Kb8 35. c4 Rf8": "white is won with his central pawn....",
+        "36. Qe2 Qe5 37. Rd5 Qg3 38. Rxh5": "Rf5 prevents the mess...",
+        "38... Rf2 39. Rh8+ Ka7 40. Rg8": "only move.",
+        "40... Qf4 41. g3 Qc1+": "the end..."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13477",
+    "gameName": "Team match",
+    "players": "rae1donaldson (1184) vs. newaygochesswiza (1203)",
+    "opening": "Ruy Lopez (C68), exchange, Alekhine variation"
+}

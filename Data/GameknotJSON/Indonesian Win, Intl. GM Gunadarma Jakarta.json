@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. g3": "From the tournament name International GM Gunadarma, Jakarta.",
+        "1... d5 2. Nf3 c6 3. Bg2 Bg4 4. b3 Nd7 5. Bb2 Ngf6 6. d3 e6 7. O-O Bd6 8. Nbd2 O-O 9. Qe1 Re8 10. h3": "Hickl is a Hypermodern player, eventhough he is White, all of his pieces are only advance to the 3rd rank. Hickl adalah pemain gaya hypermodern, walaupun memegang putih hingga tahap ini dia menyusun perwiranya tak lebih dari baris ketiga\n",
+        "10... Bh5 11. e4 e5 12. Nh4 Qb6 13. Nf5": "Hickl is known as defensive player, here he can opt for aggresive move like 13.g4!. Hickl dikenal sebagai pemain bertahan, langkah agresif di sini adalah 13.g4!\n",
+        "13... Bf8 14. Kh2 Rad8 15. a3 Nc5 16. Rb1 Bg6 17. Nh4 dxe4 18. dxe4 Qc7 19. Nxg6 hxg6 20. Rd1 Rd7 21. Qe2 b5 22. b4 Na4 23. Ba1 a5": "Dede take on the initiative on Queen side, the side where White most weak. Dede mengambil inisiatif menyerang di sayap ratu, jika dia masih menyusun buah dengan ..23.Red8 maka Hickl bisa mengambil inisiatif dari sayap raja. If ..23.Red8 24.f4 Bd6 25.c4 bxc4 26.Nxc4 exf4 27.e5 fxg3+ 28.Kh1, white won a piece\n",
+        "24. c3 Red8 25. Nb3 axb4 26. cxb4 Nb6 27. Rxd7 Qxd7 28. Na5 c5": "Black sacrifices a pawn in order to maintains initiative. Hitam mengorbankan bidak untuk inisiatif. Bidak c6 akan jadi bidak terbelakang jika dibiarkan tertinggal.\r\n",
+        "29. bxc5 Bxc5 30. Bxe5 Qd3": "The a3 pawn is poisonous. 30..Bxa3? 31.Qe3 Bd6 32.Bxf6 (32. Qxb6?! Bxe5 33.Nc6 Re8 34.Qxb5 white only won a pawn) 32..gxf6 33.Qxb6 white won a piece\n",
+        "31. Qa2 Nxe4": "still poisonous to take a3 pawn, 31..Qxa3 32.Qxa3 Bxa3 33.Bc7 white won\n",
+        "32. Nb3 Nc4 33. Nxc5": "Feeling suddenly under pressure Hickl takes the natural move. Better is 33.Re1 Nxe6 34.Nxc5 Ng4+ 35.hxg4 Nxc5 in equal position. Merasa tertekan Hickl melangkah langkah natural yang justru salah.\n",
+        "33... Nxc5 34. Bf4 Qxa3": "now Black is the one with a pawn ahead, and the pawn is the precious free pawn.\n",
+        "35. Qe2 Ne6 36. Bc1 Qd3 37. Qxd3 Rxd3 38. Re1 b4 39. Bf1 Rc3 40. Bf4 Nxf4 41. Re8+ Kh7 42. gxf4 Nd2 43. Be2 Nf3+ 44. Kg2 Nd4 45. Bg4 b3 46. Rb8 f5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/indonesian-win-intl-gm-gunadarma-jakarta?gm=24930",
+    "gameName": "Indonesian Win, Intl. GM Gunadarma Jakarta",
+    "players": "GM Joerg Hickl  vs. IM Dede Liu ",
+    "opening": "Benko's opening (A00)"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 Nc6 2. Nf3 e6 3. a3 Bd6": "pourquoi jouer le fou sur cette position ? C'est une perte de temps \u00e9norme",
+        "4. d4 e5 5. d5 Nd4 6. c3": "les blancs font n'importe quoi. L'\u00e9change cavalier dame r\u00e9cup\u00e8re gagne le pion et le temps sur l'attaque en g7",
+        "6... Nxf3+ 7. Qxf3 Nf6 8. Bd3 c6 9. c4 b6 10. Nc3 Bc5": "tu vois tu as perdu un temps \u00e0 jouer le fou ici alors que le mettre directement eut \u00e9t\u00e9 pr\u00e9f\u00e9rable",
+        "11. Be3 d6 12. h3 Bd4": "pourquoi le jouer ici ??",
+        "13. Bxd4 exd4 14. Ne2 c5 15. O-O g6 16. Ng3 Rb8 17. Qe2 Ng8": "le cavalier perd beaucoup trop de temps et est compl\u00e8tement inefficace",
+        "18. Qc2 Qd7 19. Rae1 Nh6 20. e5 O-O 21. e6 fxe6 22. dxe6 Qe7 23. Qe2 Bb7 24. Qd2 Nf5 25. Nxf5 gxf5": "le preuve la structure est bris\u00e9e",
+        "26. f3 d5 27. Qh6 Rf6 28. Qg5+ Kh8 29. Bxf5 dxc4 30. Qh4 h6 31. g4 Rg8 32. f4 Kg7 33. g5 Rxf5": "hum les blancs ont rat\u00e9 le coup du jeu : pion prend \u00e9chec, puis dame prend dame, la partie est pli\u00e9e",
+        "34. Kh2 hxg5 35. Rfg1 Rh8 36. Qg3 Kf8 37. fxg5 c3 38. bxc3 dxc3 39. Qxc3 Rf2+ 40. Kg3 Rf3+ 41. Qxf3+ Bxf3 42. Rgf1 Qxg5+ 43. Kxf3 Rxh3+ 44. Ke2+ Ke7 45. Kd1 Rh2 46. Rf7+ Ke8 47. Rd7 Qg4+ 48. Kc1 Qc4+ 49. Kd1 Qc2#": "beaucoup trop d'erreurs dans cette partie. Ramika est tr\u00e8s certainement under rated (bon j'ai perdu pas mal de points ces derniers temps mais j'ai l'habitude de jouer \u00e0 1700 et des poussi\u00e8res)"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-ramika?gm=26766",
+    "gameName": "Challenge from ramika",
+    "players": "ramika (1520) vs. avyl (1251)",
+    "opening": "KP (B00), Nimzovich defence"
+}

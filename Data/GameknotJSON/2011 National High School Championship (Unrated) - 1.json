@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "Probably my most interesting game of the tournament. Only in the Unrated section would you see something like this. ",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5": "Going for the Fried Liver...",
+        "4... Bc5": "I've never seen a response to the Fried Liver like this before.",
+        "5. Nxf7": "Thought I won something here as well as a pawn.",
+        "5... Bxf2+": "So this line for the Fried Liver apparently is called the Traxxler (Sorry, I don't know how to spell it). ",
+        "6. Kxf2": "Apparently a mistake by me. I'm supposed to move Kf1 instead of Kxf2.",
+        "6... Nxe4+": "Getting slightly worried as I've never seen this line before.",
+        "7. Ke3 Qh4": "At this point I figured I might as well use my king as a supporting piece since it was basically in the middle of the board almost...haha",
+        "8. Qf3": "Adding support to the Knight on f7 and preventing Qf4.",
+        "8... Ng5 9. Nxg5 Qxg5+ 10. Kd3 d5": "Don't know why he played that.",
+        "11. Bxd5 Bf5+ 12. Kc3 Nd4 13. Qe3": "Trying to trade Queens to clear the middle area of any major pieces.",
+        "13... Qe7 14. d3": "Creating an escape route for my King.",
+        "14... Qc5+ 15. Bc4 b5 16. b4": "I talked to Evan after the game about this. b4 was the one move he didn't calculate for (again, this is the unrated section. You don't typically see moves like these in the unrated section).",
+        "16... Qd6 17. Bb3 a5 18. bxa5": "Probably shouldn't have taken.",
+        "18... Rxa5 19. Bb2": "I feel like this move killed me in the end.",
+        "19... Qc6+ 20. Kd2": "Now I'm in trouble.",
+        "20... Qxg2+ 21. Kc3 b4+ 22. Kxb4 Rb5+ 23. Kc3 Rc5+ 24. Kb4 Qb7+ 25. Ka3 Ra5+ 26. Ba4+": "I actually hadn't noticed my Ba4 block actually had put him in check as well. Thus he just moved regularly and played Nxc2++ which theoretically is checkmate but since I had him in check it was illegal. Oh well, too late to change the results now.",
+        "26... Rxa4+ 27. Kxa4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/2011-national-high-school-championship-unrated?gm=39029",
+    "gameName": "2011 National High School Championship (Unrated)",
+    "players": "Andrew Tat (unr) vs. Evan A. (unr)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

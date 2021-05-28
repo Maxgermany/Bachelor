@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. e3 a6 3. Nc3 Nc6 4. Be2 Nf6 5. Nf3 e6 6. O-O h6 7. b3 Bb4 8. Bb2 O-O 9. a3 Bd6 10. Na4": "Thinking about 11. N c5 to make some pressure in the Queen side.",
+        "10... b6": "The b pawn fenced the next move.",
+        "11. Bd3 e5 12. dxe5 Nxe5 13. Nxe5 Bb7 14. Nf3 c5 15. Bxf6 Qxf6": "A pawn is smoothly stolen.",
+        "16. Nxb6 Rab8": "Looking for a fork.",
+        "17. Nd7": "Black is in deep trouble.",
+        "17... Qd8 18. Nxb8 Qxb8 19. c4 dxc4 20. Bxc4 Rd8 21. Qd3": "White made a bad move putting the Queen in danger.",
+        "21... Bxh2+": "With the check, I realized that I'll loose the Queen.",
+        "22. Nxh2 Rxd3 23. Bxd3": "Fortunately, Bishop came into the action and got the Rook, leaving Black Queen against three pieces including the two Rooks. ",
+        "23... Qd6 24. Rfd1 Qf6 25. Be2 Be4 26. Bf3 Bc2 27. Rdc1 Bxb3 28. Rab1 c4 29. Bd5 Qd6 30. Bxc4": "Marching for the victory, the menace of the c file has eliminated.  ",
+        "30... Bxc4 31. Rxc4 Qxa3 32. Rc8+ Kh7 33. Rb7 Kg6 34. Rc6+ f6 35. Ra7 a5 36. Rcc7 Qa1+ 37. Nf1": "I got my King safe enough with the excess Knight.",
+        "37... f5 38. Rcxg7+": "Just harvesting!!!!!!!!",
+        "38... Qxg7 39. Rxg7+ Kxg7": "Got rid of all the major pieces off the board.",
+        "40. Nd2": "My guardian is coming into action.",
+        "40... a4 41. Nc4 Kf6 42. Kf1 Ke6 43. Ke2": "Desperate of the pawn and black resigning, giving me the victory!!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=36448",
+    "gameName": "Let's play chess",
+    "players": "kapila (1138) vs. bennykoo (1295)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

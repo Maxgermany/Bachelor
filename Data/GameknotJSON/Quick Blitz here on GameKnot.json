@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "Opened e4  Thinking about how to play against a stronger player.\n",
+        "1... c5": "book move by black",
+        "2. Nf3": "my move is book, I just want to develop my pieces quickly.",
+        "2... a6": "Black seems to be doing a measure to prevent my LSB from moving to b5.",
+        "3. Nc3": "I continue to bring out another knight.",
+        "3... d6 4. d4 cxd4 5. Nxd4 h6": "Another non developing move by black",
+        "6. Bc4": "I made this aggressive move with my LSB. I just wanted to get ready to castle King-side. I could of also played to d3, But I had an attack planned king-side.",
+        "6... e6": "Black blocks with another pawn move. Black has not yet developed any pieces besides his pawns.   ",
+        "7. O-O": "O-O",
+        "7... Nf6": "Black makes his first developing move with his knight. I think I have decent amount of pieces out and am looking to get more aggressive.",
+        "8. f4": "I move out my pawn 2-spaces allowing my queen to advance to h5 soon!",
+        "8... Qb6": "Black moves out his Queen to b6. looking at my King and pins my Knight.",
+        "9. Kh1": "I move to the corner breaking the pin.",
+        "9... Be7": "Well Black manages to get out the DSB.",
+        "10. e5": "I attack with my pawn to e5.",
+        "10... dxe5": "Pawn takes pawn.",
+        "11. fxe5": "I retake pawn with a pawn attacking the Black Knight.",
+        "11... Nfd7": "?Black knight moves to d7, I thought he might of moved up the center to  the e4 outpost.",
+        "12. Bxe6": "This is a trap to have the pawn on f7 to take my LSB. When you see this type of move and it looks like a blunder you must beware. ",
+        "12... fxe6": "Black takes and  now makes room to check with my Queen soon.",
+        "13. Na4": "I attack the queen with my Knight. With future plans of checking with my Queen on h5.",
+        "13... Qa5": "Black queen moves away from the attack of knight on a4.",
+        "14. Qh5+": "Time to end this game quickly Check with White Queen to h5.",
+        "14... Kd8": "Kink moves to d8 and is going to be forced check my the white knight.",
+        "15. Nxe6#": "Checkmate by the knight.  Black did not develop in the game leading white to win easily."
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-blitz-here-on-gameknot?gm=49104",
+    "gameName": "Quick Blitz here on GameKnot",
+    "players": "redfox17 (1189) vs. Mutfi72 (1605)",
+    "opening": "Sicilian (B28), O'Kelly variation"
+}

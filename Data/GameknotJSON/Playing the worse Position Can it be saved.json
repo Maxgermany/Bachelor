@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 Nc6 3. f4 d6 4. Nf3 g6 5. Bb5 Bd7 6. O-O e6": "My opponent has taken the game out of the book lines with this abnormal setup. Both white and black will now achieve the 3 opening goals. The position is not extremely open or too likely to open. This generally weakens the need to perform the 3 opening tasks very quickly, so exceptions happen often.",
+        "7. d3": "Not a bad move for me, but a pyschological mistake. I continue to play my intended setup against black's best book moves against another setup. It is certainly a reasonable choice, but 7.d4! takes advantage of the only imbalance in the position: White is better developed. The center will open quickly to white's advantage. ",
+        "7... Nge7 8. Qe1": "Here, 8.d4 is the best move. It would look very foolish to play it after 7.d3, and would clearly show that I knew my original plan was not best. Generally, when one player goes with a setup or plan that is second best, he will go on with it, even if another plan is better. It is psychologically hard for many players to avoid this, even though it would be better for their game.",
+        "8... Bg7 9. e5 d5 10. Kh1": "The waiting move is preparing for the king safety on the diagonal, but 10.Qf2, going along with the plan, was the best move. ",
+        "10... a6 11. Bxc6 Bxc6 12. Bd2 b5": "The plans for both sides are clearer. White will attempt to close the position maximally and to provide support for the knights over the bishops. Black should open up the position for the bishops, but only after he has caught up in the development and safety of the king. You can tell the correct plan in an instant by looking at the position and looking at the motifs and ideas for both sides.",
+        "13. a3 h5": "(?)Quite a big mistake, and this weak move shows that black does not understand the correct plans for both sides. The move looks like an attempt to attack against my king or place the bishop on h6. Neither of them go with the correct and are clearly not exceptions. Furthermore, it allows white to have a clear move to finish the first step of the plan: Create outposts and good points for the knights.",
+        "14. b4": "The strong move that takes control over d4, allowing the knights to favor the bishops.",
+        "14... cxb4 15. axb4 Nf5 16. Qf2 Bf8 17. Ne2": "Now the bishops are clearly inferior to the knights, which means that my first step is over with. My next plan is to use my superior pieces to penetrate the position and attack in the middlegame. ",
+        "17... Be7 18. Ned4 Nxd4 19. Nxd4": "In the middlegame, one needs to come up with an attack on weaknesses. If there are none, one must improve their pieces to take advantage of possible weaknesses to be created. There is a weak a6 pawn, and a good c5 square for a piece.",
+        "19... Bb7 20. Rfb1 Qd7 21. Ra5 Bd8 22. Ra3": "It is clear that black has nothing to do, since his position is clearly worse. ",
+        "22... O-O 23. Be3 Rc8 24. Nb3": "So while black is shuffling his pieces around, white is taking aim at the c5 and a6 squares. The plan is to further penetrate into the position.",
+        "24... Be7 25. Nc5 Qc7 26. Bd4 a5": "Instead of going passively and waiting for me to complete my plan, black sacrifices a pawn. Now white will have a concrete permanent advantage to convert. Thus, he has in a way, completed his plan.",
+        "27. Rxa5 Rca8 28. Rba1 Rxa5 29. Rxa5 Ra8 30. Rxa8+ Bxa8 31. Qg1": "At first, I clearly believed this endgame to be winning for white, due to the easy way for white to protect all the points in his territory and the weak black king with opposite colored bishops. Now it is not so clear. The readers can say what they think.",
+        "31... Bxc5 32. Bxc5 Qc6 33. d4 Qa6": "-",
+        "34. h3 Qa2 35. Qf2 Bc6": "-",
+        "36. Kh2 Be8 37. Be7 Qc4": "-",
+        "38. Qd2 Qf1 39. c3 Qb1 40. Qe3 Qe4": "-",
+        "41. Qg3 Kh7 42. Bg5 Bc6": "White has the ability to control when he attempts to make progress. Although there is now clear way to proceed, white needs to allow black to weaken his own position. ",
+        "43. Qf2 Qd3 44. Qb2 Qd1": "-",
+        "45. Bf6 Qe1 46. h4 Be8": "(??)The blunder has happened and black has weakened his own position. Correct is 46...Qd1 not allowing the queen to penetrate along the a file. White would then have to attack the black king. ",
+        "47. Qa3": "Now the win is trivial, and black's position crumbles.",
+        "47... Qd2 48. Bg5 Qe3 49. Qa8 Bd7 50. Qb7": "The bishop lacks mobility and will be lost.",
+        "50... Be8 51. Qe7 Qxc3 52. Qxe8 Qc7 53. Bf6 g5 54. Qh8+ Kg6 55. Qg7+ Kf5 56. Qxg5+": "White won easily. But the question is, could the game have been saved? White would seemingly have to take a risk, sacrificing many queenside pawns to checkmate on the kingside, or somehow penetrate on the a file. "
+    },
+    "url": "https://gameknot.com/annotation.pl/playing-the-worse-position-can-it-be-saved?gm=44734",
+    "gameName": "Playing the worse Position: Can it be saved?",
+    "players": "Me (2096) vs. Opponent (----)",
+    "opening": "Sicilian (B23), Grand Prix attack"
+}

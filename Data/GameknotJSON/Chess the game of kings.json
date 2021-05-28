@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Qh5 Nc6": "The only thing you can do against 2. Qh5.",
+        "3. Bc4 Nh6 4. d4 Bb4+ 5. c3 Bd6 6. Bxh6 O-O 7. Bg5 Qe8 8. Qg4 Be7 9. d5 Na5 10. Bb5 c6 11. Qh4 f5 12. Bxe7 Rf7 13. Bb4 cxb5 14. Bxa5 d6 15. Nh3 h6 16. Bb4 fxe4 17. Qxe4 Rd7 18. f4 Qh5 19. f5 a5 20. Bxd6 Rxd6 21. Qxe5 Raa6 22. Qe8+": "?? Obviously didn't see my queen. He told me so in a comment after he'd committed to the move.",
+        "22... Qxe8+ 23. Kf2": "The hunt is on. But there are things I must be careful of. I have to keep pressure on the king so White does not move the queen knight and join his rooks together.",
+        "23... Rxd5": "Now I have two files open, controlling two squares on White's back rank.",
+        "24. Re1 Qd8 25. g4 Bxf5": "This sac of my bishop opens up a third file for my remaining rook.",
+        "26. gxf5 Rxf5+ 27. Kg1": "I was expecting 27. Ke2 Re6#, but no problem, I still have mate in two with 27. Rg6  28. Kh1 Qd5#.",
+        "27... Rg6+ 28. Kh1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-the-game-of-kings?gm=13018",
+    "gameName": "Chess the game of kings",
+    "players": "pawn-king (1212) vs. angelbear_oh (1200)",
+    "opening": "KP (C20), Patzer opening"
+}

@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "1. e4 e5\n2. Nf3 d6\n3. c4\nDefensa Philidor. Negras ganan 24%",
+        "3. c4": "Esta respuesta no est\u00e1 tabulada. Rompo la estrategia.\nLo m\u00e1s jugado es 3.d4",
+        "3... Nf6 4. Nc3 c5 5. g3 Bg4 6. Bg2 Nc6 7. O-O Nd4 8. d3 Be7 9. h3 Bxf3 10. Bxf3 O-O 11. a3 a5 12. Nd5 Nxd5 13. cxd5 Qd7": "Aqu\u00ed bajo mi opini\u00f3n negro comete un error b\u00e1sico que es jugar varias veces con la misma pieza: 13. ... Qd7 14. ... Qb5 15. ... Qb4. Luego en 17 y 18 sigue moviendo la reina, pero para entonces Blanco ha invadido ya el terreno de las negras moviendo el resto de fichas.",
+        "14. Bg4 Qb5 15. a4 Qb4 16. Bf5 g6 17. Qg4 Qb3 18. Bh6 Qxd3 19. h4 Nf3+ 20. Kg2": "Aqu\u00ed empieza el desastre. La Reina y el caballo negros en l\u00ednea.  Llevando el caballo a Nf3 , despu\u00e9s de ah\u00ed, cualquier movimiento del caballo lo dejaba en l\u00ednea con la reina ( Nd2 o Nd4 ) y por tanto a tiro de torre. Quiz\u00e1s lo mejor era haber hecho Qe2.",
+        "20... Bf6 21. Ra3 Qe2 22. Rxf3 Bg7 23. Bxg7 f6 24. Bh6 Rf7 25. Bxg6 Raf8 26. Bxf7+ Kxf7 27. Qg7+ Ke8 28. Qxf8+ Kd7 29. Rxf6 Qxe4+ 30. f3 Qxd5 31. Rf7+ Kc6 32. Qc8+ Kb6 33. Qxb7+ Qxb7 34. Rxb7+ Kxb7 35. Bd2 Kb6 36. Rd1 c4 37. Bc3 Kc5 38. Bxa5 d5 39. Rc1 d4 40. b4+ Kd5 41. b5 c3 42. b6 Kc4 43. b7 d3 44. Bxc3 Kb3 45. b8=Q+ Kc4 46. Qxe5 Kb3 47. Qb5+ Ka2 48. Qb2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-x-el-fallo?gm=14285",
+    "gameName": "a x el fallo",
+    "players": "kandahar (1189) vs. koco (1229)",
+    "opening": "Philidor's defence (C41)"
+}

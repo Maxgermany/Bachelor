@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 Be7 5. O-O O-O 6. Re1 b6 7. Nbd2 Bb7": "Colle-opening with a painful bishop on b7.",
+        "8. e4 dxe4 9. Nxe4 Nxe4 10. Bxe4 Bxe4 11. Rxe4": "after exchanges I lost my key-bishop, but I won territory and I was better developed.",
+        "11... Nc6 12. c3": "to make passiv on the queenside.",
+        "12... h6 13. a3": "plan b4.",
+        "13... Re8 14. Bd2 Bg5 15. Nxg5": "worstens the pawnstructure, the black squared bishop seems enough to be, to hold the black squares.",
+        "15... hxg5 16. Qh5 f6 17. h4": "try to double on h-file.",
+        "17... e5 18. Rae1": "preventing exd4",
+        "18... Re6 19. hxg5 Qe8 20. g6": "donot want exchange my attacker queen for a passiv one.",
+        "20... Kf8 21. Qh8+ Ke7 22. Qxg7+ Kd6 23. f4": "try to open. blacks' rook on a8 is out on game...",
+        "23... Qg8 24. Qxg8": "I will have two connected pawns on open files.",
+        "24... Rxg8 25. f5 Ree8 26. dxe5+ Nxe5 27. Bf4 c5 28. Bxe5+ Rxe5 29. Rd1+ Kc6 30. Rxe5 fxe5": "game is over.",
+        "31. Rf1 Kd6 32. f6": "it is unstoppable...",
+        "32... Ke6 33. f7 Rd8 34. g7 Rd1 35. f8=N+": "a surprise...",
+        "35... Ke7 36. Ng6+": "and the rook is over, too. Rd7 defences the pawn."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=9139",
+    "gameName": "Let's play chess",
+    "players": "gazdvez (1621) vs. h51nvnd2002 (1575)",
+    "opening": "Queen's pawn (A46), Yusupov-Rubinstein system"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 d5 5. c5 Bf5 6. Bd3 Bxd3 7. Qxd3 e6 8. Nf3 Nc6 9. O-O Be7 10. a3 O-O 11. Nc3 a6 12. Bf4 Nh5 13. Be3 Nf6 14. Nd2 Qc7 15. f4 Ng4 16. Rae1 Nxe3 17. Rxe3 Bf6 18. Ne2 Ne7 19. g4 g6 20. Rh3 Qd7 21. Nf3 Nc6 22. Ng5": "Trying to isolate the h7 pawn and open up another rank...",
+        "22... Bxg5 23. fxg5 e5 24. Rh4 exd4 25. Rf6 Kg7 26. Nxd4 Ne5 27. Qh3": "Was thinking of dropping queen to c3 as the diagonal to the king would be full of my pieces, handy for discovered checks...",
+        "27... Rfh8": "Good square to hold black in at the back",
+        "28. Rd6 Qa4": "Great move to go around the back",
+        "29. Qc3": "R x d5 would lose after Qd1, so I took 15 minutes to go to where I had planned 2 moves previously...",
+        "29... Qxd4+": "I thought I was gone here with the Nf3 to follow up....",
+        "30. Qxd4": "But the diagonal was useful after all..."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=52577",
+    "gameName": "Chess game",
+    "players": "BD  vs. ED (EM Rd 1 2013) ",
+    "opening": "Benoni defence (A56)"
+}

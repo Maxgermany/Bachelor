@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Bd7 9. g4 Nc6 10. O-O-O b5": "this deviates from theory. unless you know otherwise? ",
+        "11. Bxb5": "this is reasonable",
+        "11... Ne5 12. Be2 Rb8 13. h4": "following theory putting pleasure on  black's king side. Eventually  Bh6 ",
+        "13... Bxg4 14. fxg4 Nfxg4 15. Rdg1": "wrong move. white does not read black's attention. ",
+        "15... Nxe3 16. Qxe3 Qb6 17. Nd1": "too late.",
+        "17... Nc4 18. Bxc4 Bxd4 19. Qg3 Bxb2+ 20. Nxb2 Qxb2+ 21. Kd2 Qb4+": "better Qd4 ",
+        "22. Qc3 Rfc8": "can avoid the exchange.  22... Qc5",
+        "23. Qxb4 Rxb4 24. Bd3 h5": "might be unnecessary ",
+        "25. Rgb1 Rcb8": "what about 25...Ra4?",
+        "26. Rb3 Kg7 27. Rhb1 Rb4xb3": "black should avoid the bonding of the pawns. not too late with 27... a5. if 28. Kc3 then 28... Rc8  ",
+        "28. Rxb3 Rb6 29. a4 Rxb3 30. cxb3 Kf6 31. b4 Ke5 32. Kc3 g5 33. hxg5 h4 34. a5 h3 35. Bf1 h2 36. Bg2 Kf4 37. b5 Kg3 38. Bh1 Kf2 39. e5 dxe5 40. b6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=18639",
+    "gameName": "Let's play chess",
+    "players": "yaronmr (1663) vs. simsim314 (1645)",
+    "opening": "Sicilian (B76), dragon, Yugoslav attack, Rauser variation"
+}

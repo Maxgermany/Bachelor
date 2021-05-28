@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. f4": "I like playing against strange openings, as it usually indicates a player who has some learned openings but isn't solid in his overall play.  Not that my decision-making is great either.",
+        "1... Nf6": "To prevent 2. e4 and transition to a more normal King-side opening.",
+        "2. b3 c5": "The fiancetto is a long-term threat; for now Black takes the middle.",
+        "3. Bb2 Nc6 4. Nf3 d5 5. e3": "At this point White accepts a position which is nearly a reversed Dutch, putting him somewhat behind.",
+        "5... g6": "Invites the exchange; the doubled KBP will help secure the middle.",
+        "6. Bxf6 exf6 7. c4 Be6 8. cxd5 Bxd5 9. Nc3 Bg7 10. e4 Be6 11. Bb5 Qc7 12. Bxc6+ Qxc6 13. O-O f5 14. e5 f6": "The position here is a little odd.  Black has the overall advantage with two bishops against two knights, but White's exchanges have freed his position.  Black needs exf6 Bxf6 to get his second bishop really in play.",
+        "15. Re1 Kf7 16. d3 Rad8 17. Qc2 a6 18. Rad1 Rd7 19. d4 Rhd8 20. d5": "Looking for the fork.",
+        "20... Bxd5 21. Nxd5 Rd7xd5": "As it happens, that pawn was too well defended; Black wins a pawn against the ill-conceived attack and with his Rooks now doubled and White's knight sidelined, Black has the advantage.",
+        "22. e6+ Ke7 23. Rxd5 Rxd5 24. a3 Rd6 25. b4 cxb4 26. Qxc6 Rxc6 27. Nd4 Rc4 28. Rd1 bxa3 29. Nb3 Rxf4 30. Ra1 a2 31. Rxa2 Rc4 32. Re2 b6 33. Ra2 a5 34. Nd2 Rc6 35. Nf3 Rxe6 36. Nd4 Re1+ 37. Kf2 Rb1 38. Rc2 Kd7 39. Rd2 Kc8": "A mistake; with the Rook on White's back rank the pawns can take care of themselves on the Queen's side.  The King's side is protected only by a backward bishop.",
+        "40. Ne6 Bh6 41. Rd8+ Kb7 42. Rd7+ Kc6 43. Rxh7 Bg5 44. Rg7": "A nicely executed attack from White, if a little too late.",
+        "44... Rb2+ 45. Kf3 Kd6 46. Nxg5 fxg5 47. Rxg6+ Ke5 48. Rxg5 Rb3+ 49. Kf2": "Black is back to a single-pawn - and considerable positional - advantage.",
+        "49... Ke4 50. h4 a4 51. h5 a3 52. Rg8 Kf4 53. h6 a2 54. h7 Rb2+ 55. Kg1 a1=Q+ 56. Kh2 Rb1 57. g3+ Kf3 58. Rf8 Rh1#": "A somewhat sloppy finisher on both sides."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-birds-opening?gm=28416",
+    "gameName": "Let's play chess (Bird's Opening)",
+    "players": "anton60 (1431) vs. jmfpeaceable (1396)",
+    "opening": "Bird's opening (A02)"
+}

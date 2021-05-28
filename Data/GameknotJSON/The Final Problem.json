@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qa4": "?! It starts here with (6. \nQd1\n +0.24/27 6... \nexd5\n 7. \nQxd5\n \nBd6\n 8. \nBg5\n \nNf6\n 9. \nQd2\n \nO-O\n 10. \nNf3\n \nBe7\n 11. \ne4\n \nQxd2+\n 12. \nBxd2\n \nRe8\n 13. \nBd3\n \nBb4\n 14. \nO-O-O\n \nBc5\n 15. \nNd5\n \nNg4\n 16. \nNc7\n \nNxf2\n 17. \nNxe8\n \nNxd3+\n 18. \nKb1\n \nNf2\n 19. \nRc1\n \nBb6\n)",
+        "6... exd5 7. Nf3": "?! -0.50/31\n(7. \ne3\n -0.24/27 7... \nNf6\n 8. \nNf3\n \nBd6\n 9. \nNb5\n \nBe7\n 10. \nBd3\n \nO-O\n 11. \nO-O\n \nBd7\n 12. \nQb3\n \nRc8\n 13. \nBd2\n \nNe4\n 14. \nRfd1\n \nBf5\n 15. \nRac1\n \na6\n 16. \nBxe4\n \nBxe4\n 17. \nNbd4\n \nQc7\n 18. \nQa4\n \nQd6\n 19. \nNxc6\n \nRxc6\n 20. \nRxc6\n)",
+        "7... d4 8. Nb5 Bd7": "?! 0.00/29\n(8... \nNf6\n -0.70/28 9. \nBd2\n \nNe4\n 10. \nNfxd4\n \nNc5\n 11. \nQc4\n \na6\n 12. \nNxc6\n \naxb5\n 13. \nQxc5\n \nQxd2+\n 14. \nKxd2\n \nBxc5\n 15. \nNe5\n \nO-O\n 16. \ne3\n \nRd8+\n 17. \nKc3\n \nBe7\n 18. \nBd3\n \nb4+\n 19. \nKc2\n \nBf6\n 20. \nf4\n \nBe6\n 21. \nRhd1\n \nBxe5\n 22. \nfxe5\n \nRac8+\n 23. \nKd2\n \nBf5\n 24. \ne4\n \nBxe4\n 25. \nKe3\n \nBxg2\n 26. \nRac1\n \nBc6\n 27. \nRc4\n \nRe8\n)",
+        "9. Nbxd4": "??  -3.21/32\n(9. \na3\n 0.00/29 9... \nRc8\n 10. \nQb3\n \nBe6\n 11. \nQa4\n \nBd7\n)",
+        "9... Bb4+ 10. Kd1 Nxd4": "? -0.45/30\n(10... \nBc5\n -3.06/28 11. \nNb3\n \nNb4\n 12. \nQa3\n \nBa4+\n 13. \nBd2\n \nb5\n 14. \nKc1\n \nNd3+\n 15. \nexd3\n \nBxa3\n 16. \nbxa3\n \nNf6\n 17. \nKb2\n \nO-O\n 18. \nRc1\n \na5\n 19. \nNc5\n \nNg4\n 20. \nBe2\n \nNxf2\n 21. \nRhe1\n \nQd5\n 22. \nKa1\n \nRfc8\n 23. \nd4\n \nf6\n 24. \nh3\n \nh6\n 25. \nRc3\n \nNe4\n)",
+        "11. Qxb4 Nxf3 12. exf3 Ba4+": "?! 0.00/35\n(12... \nNe7\n -0.44/27 13. \nBd3\n \nO-O\n 14. \nBg5\n \nRe8\n 15. \nBxe7\n \nRxe7\n 16. \nRe1\n \nBe6\n 17. \nRe3\n \nRd7\n 18. \nKe2\n \nRd4\n 19. \nQxb7\n \nRb8\n 20. \nQa6\n \nRxb2+\n 21. \nKf1\n \nRd2\n 22. \nRxe6\n \nfxe6\n 23. \nQxe6+\n \nKh8\n 24. \nRe1\n \nQg8\n 25. \nBf5\n \nQxe6\n 26. \nBxe6\n \nRb2\n 27. \nBb3\n \ng6\n 28. \nRe2\n \nRdd2\n 29. \nRxd2\n \nRxd2\n)",
+        "13. Ke2 Qd1+ 14. Ke3 O-O-O": "?? +3.05/31\n(14... \nQd7\n 0.00/32 15. \nQd4\n \nQe7+\n 16. \nKf4\n \nQh4+\n 17. \nKe3\n \nQe7+\n)",
+        "15. Bd2 Qxa1": "?! +4.11/33\n(15... \nQxd2+\n +3.15/28 16. \nQxd2\n \nRxd2\n 17. \nKxd2\n \nNe7\n 18. \nRc1+\n \nBc6\n 19. \nBc4\n \nf6\n 20. \nKc3\n \nRd8\n 21. \nRhd1\n \nNg6\n 22. \nb4\n \na6\n 23. \nBe6+\n \nKc7\n 24. \nRxd8\n \nKxd8\n 25. \nRd1+\n \nKe7\n 26. \nBf5\n \nNh4\n 27. \nBe4\n \nBxe4\n 28. \nfxe4\n \ng5\n 29. \nRg1\n \nNg6\n 30. \ng3\n \nNe5\n 31. \nh3\n \nNf3\n)",
+        "16. Ba6 Re8+": "? +7.41/32\n(16... \nBc6\n +4.11/31 17. \nRxa1\n \nNe7\n 18. \nBxb7+\n \nBxb7\n 19. \nKe2\n \nNc6\n 20. \nRc1\n \nRhe8+\n 21. \nBe3\n \nRe6\n 22. \nQa4\n \nKd7\n 23. \nRd1+\n \nKe8\n 24. \nRxd8+\n \nKxd8\n 25. \nQh4+\n \nRe7\n 26. \nKf1\n \nBa6+\n 27. \nKg1\n \nKc8\n 28. \nQxh7\n \ng6\n 29. \nQh8+\n \nKb7\n 30. \nQc3\n \nRd7\n 31. \nQb3+\n \nKa8\n 32. \nh3\n \nBb7\n 33. \nQa4\n \nRd3\n)",
+        "17. Kf4 Re4+": "?? #12/24\n(17... \nbxa6\n +6.79/30 18. \nRxa1\n \nBc6\n 19. \nRc1\n \nRe6\n 20. \nQf8+\n \nKd7\n 21. \nKg3\n \nNf6\n 22. \nQxf7+\n \nRe7\n 23. \nQc4\n \nBd5\n 24. \nQxa6\n \nRb8\n 25. \nBc3\n \nKe8\n 26. \nBxf6\n \ngxf6\n 27. \nQxf6\n \nBg8\n 28. \nb3\n \nRe6\n 29. \nQf4\n \nRd8\n 30. \nRc7\n \na6\n 31. \nQa4+\n \nKf8\n 32. \nh3\n \nRe7\n 33. \nQh4\n \nRde8\n 34. \nQh6+\n \nKf7\n 35. \nRc5\n \nRe6\n)",
+        "18. fxe4 g5+ 19. Kg3 Qxh1": "?? #5/24",
+        "20. Qxb7+ Kd8 21. Qc8+ Ke7 22. Bb4+ Kf6 23. Qf5+ Kg7 24. Qxg5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-final-problem?gm=68006",
+    "gameName": "\"The Final Problem\"",
+    "players": "Sherlock Holmes  vs. Moriarty ",
+    "opening": "QGD (D32), Tarrasch, von Hennig-Schara gambit"
+}

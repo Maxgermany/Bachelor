@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 f6": "The Damiano defense is always going to be an EPIC FAIL.",
+        "3. Nxe5": "I sack my knight for a good purpose.",
+        "3... fxe5 4. Qh5+": "Either forcing to move his king out then i would  checkmate him soon. ",
+        "4... g6": "Probably the best move if you didn't want to get checkmated.",
+        "5. Qxe5+ Qe7": "loses his rook\r\n",
+        "6. Qxh8 Nf6": "apturing my pawn with his queen would be a better move.",
+        "7. d3": "I just realised my queen is trapped!",
+        "7... Qg7": "But If he tried attacking it with a minor piece i might've already rescued it. He could moved his g pawn then maneuvered the queenside knight to g6",
+        "8. Qxg7": "He offered me his queen so i capture it",
+        "8... Bxg7 9. Nc3 c6 10. Be2 d6": "c7 hinderd his development.",
+        "11. Be3 Ng8 12. h3 Bd7 13. Bd2 Na6 14. a3 Be5 15. Bf3 O-O-O 16. O-O-O Re8 17. Be3 b6 18. d4 Bf6 19. Be2 b5 20. a4 Nb4 21. axb5 Ne7 22. bxc6 Nexc6": "Now he;s connected his two knight together",
+        "23. d5 Na5 24. Bxa7 Kb7 25. Be3 Bxc3 26. bxc3 Na6 27. Bxa6+ Kxa6 28. Kd2 Nc4+ 29. Ke2 Bb5": "Now he's harrassing my king",
+        "30. Kf3 Ne5+ 31. Kg3 Nc4 32. Rda1+ Na5 33. f3 Bc4 34. Bc1 Rb8 35. Ba3 Rb6 36. Bb4 Rb5 37. Rhd1 Kb6 38. Bxa5+ Rxa5 39. Rxa5 Kxa5 40. f4": "He resigns Because of material count. I find it extremely hard to believe that he had only captured 1 pawn while i have captured 5 I pick off his pawns one by one then exchange my rook for bishop and then it would be an easy win for me. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=39142",
+    "gameName": "Team match",
+    "players": "richard1234567 (1384) vs. artykid (1252)",
+    "opening": "Damiano's defence (C40)"
+}

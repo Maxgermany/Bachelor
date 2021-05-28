@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4": "Normally I play 2.Nc3 but as I have trained this one so I wanted to give a try in this game.",
+        "2... d5 3. e5": "3.exd5 is played normally in here but I prefer to play this one.",
+        "3... Nc6 4. Bb5 Bf5": "This was little surprise as my opponents have normally played 4...Bd7 5.Bxc6 Bxc6 6.Nf3 making d4 possible for white.",
+        "5. Nf3": "5.Bxc6  bxc6 6.Ne2 e6 other possibility on here.",
+        "5... Qb6 6. a4 O-O-O 7. Nc3": "7.d3 Bg4 8.Bxc6 Qxc6 is better as then game looks to be equal. 7.Nc3 gives black advantage.",
+        "7... d4": "Now black gains more space and his pawn advances forward.",
+        "8. Nh4": "This move was little weird for me to play but I played this one completely intuitive and I think this is much better than 9.Nb1.",
+        "8... dxc3 9. Nxf5 a6 10. Bxc6 Qxc6": "Black wanted to trade his rook to my bishop and now his looking for g2 square too.",
+        "11. Qe2 cxd2+ 12. Bxd2 g6": "12...e6 Ng3 is other choice for black in here and these both moves makes black possible to go f5 square with his knight by playing Nh6 first.",
+        "13. Ne3 Nh6 14. O-O": "I felt that this is good time to castle.",
+        "14... Nf5 15. Nxf5 gxf5": "By trading knights im trying to follow basic rule that doubled pawns are not so good.",
+        "16. Bc3 Rg8": "16.Be3 Rg8 might be even better.",
+        "17. b3": "Now im looking for Rae1 followed by e6 as my a4 pawn is protected.",
+        "17... Bh6 18. Rae1 Rg4 19. e6": "Now im ready to trade queens.",
+        "19... Qxe6 20. Qxe6+ fxe6 21. Rxe6 Bxf4 22. Rxe7 h6 23. Rf7": "22...h6? 23.Rf7?? now we both made mistakes but mine was bigger. This game was equal but after these moves black gained advantage. 22...Rdg8 23.Re2 Rh4 would have keeped this game equal as 22...h6? should be followed by 23.h3 Rg3 24.Ba5 Be3  25.Rxe3 Rxe3 26.Bxd8 Kxd8 27.Rxf5 and white has clear advantage and should win this game by accurate endgame.",
+        "23... Rdg8": "Now black punsihes me right away as I didnt saw what I sould have played.",
+        "24. g3 Bxg3 25. Rf1xf5 Bxh2+ 26. Kxh2": "Now I blundered this totally I wasnt even in time trouble but I took bishop right away and then happened that very many has encountered that you see your mistake right after you move before opponent has even moved.",
+        "26... Rh4#": "Checkmate! I should have played 26.Kf1 Rg1  27.Ke2 R8g2  28.Ke3. Black has his advantage but game wouldnt be over then yet."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-tournament?gm=14116",
+    "gameName": "Blitz tournament",
+    "players": "Koijja (1421) vs. Opponent (1787)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

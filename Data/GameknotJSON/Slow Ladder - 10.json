@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "He opens with e4.",
+        "1... e5": "I answer e5",
+        "2. Bc4": "he answers withBf1-c4",
+        "2... Bc5": "I answer with Bf8-c5.Is that not pretty i have\"matched\" each of his moves with same move.Can you see it?Don't worry if you cannot. I totally missed it to.Ke8 is very much in danger now.",
+        "3. Qf3": "Qd1-f3 for white this is pivotal moment and where i lost the game,i should have been watching whole board.But no i was concentrating developing center.IF ONLY IF i had seen Qf3 i would have moved Ng8-f6 or even moved Qd8-e7 most likely i would have went with Ng8-f6.Basically my king is sitting there unprotected waiting to get killed!",
+        "3... d6": "VERY wrong move d7-d6.King is doomed",
+        "4. Qxf7#": "Qfe-f7# King is iced"
+    },
+    "url": "https://gameknot.com/annotation.pl/slow-ladder?gm=52619",
+    "gameName": "Slow Ladder",
+    "players": "rogerdee (1131) vs. hiredgun112 (819)",
+    "opening": "Bishop's opening (C23), Classical variation"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 e6": "I don't know what this is, so I'll just play what feels natural.",
+        "2. c4 d6": "As I said earlier, I don't know this opening but he seems to be playing a little cautiously. ",
+        "3. e4": "I take advantage and stick another pawn in the center.",
+        "3... Nf6 4. Nc3 Nc6 5. Nf3": "I think I have a superior center, but can it hold?",
+        "5... a5 6. a4 Bd7 7. Bd3 Nb4": "I'm not sure what he's trying to do here, but it's a little annoying to have a knight lodged there.",
+        "8. Bg5 Be7": "Too bad he noticed that I could win his knight with e5 if he didn't block.",
+        "9. e5": "I decided to play it anyway.",
+        "9... Nxd3+ 10. Qxd3": "I certainly didn't mind that trade, it brought my queen out.",
+        "10... dxe5 11. dxe5 Ng4 12. Bxe7 Qxe7 13. h3": "I get rid of the knight",
+        "13... Nh6 14. Nb5": "Threatens a fork on c7",
+        "14... Bc6": "Discovers a defense.",
+        "15. O-O-O": "I know queenside castling might now have been wise because of the pawn cover being blown off, but this doubles my queen and rook on the open file.",
+        "15... O-O 16. h4 Nf5 17. g4": "I start a pawn storm",
+        "17... Rad8": "Hmmm complications",
+        "18. Qc2 Bxf3": "I almost cried here. Luckily I found a way to win back my piece and not lose anything.",
+        "19. Rxd8 Bxh1 20. Rxf8+ Kxf8 21. gxf5 Qc5": "And material is even.",
+        "22. fxe6": "I miss a better move here",
+        "22... Qxe5": "But he gives me another chance and this time I see it.",
+        "23. Qd1": "! Forks a mate threat and the bishop.",
+        "23... Be4": "?? misses it",
+        "24. Qd8#": "MATE! As always, please comment and rate."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-game?gm=50644",
+    "gameName": "Blitz game",
+    "players": "porcho (1154) vs. bagus02 (1200)",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

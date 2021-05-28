@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4 c6 2. Qf3": "Quick queen development",
+        "2... d5 3. Nc3 e5 4. exd5 cxd5 5. Nxd5 Be6 6. Bb5+ Nd7 7. Nc3 Ngf6 8. d3 Bb4 9. Qg3 O-O 10. Bh6 Ng4 11. h3": "Blunder? ",
+        "11... Nxh6 12. O-O-O Bxc3 13. bxc3 Nf5 14. Qf3 f6 15. g4 Nd6 16. a4 a6 17. Bxd7 Qxd7 18. Qe3 Bd5 19. Rh2 Qxa4 20. g5 Rac8 21. c4": "bishop sacrifice wins the game",
+        "21... Bxc4 22. dxc4 Nxc4": "queen is attacked. Could have continued with the lost of Q",
+        "23. Qe2 Qa1#": "Checkmate balck wins"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=14165",
+    "gameName": "Let's play chess",
+    "players": "ynwa96 (1246) vs. izjar (1200)",
+    "opening": "Caro-Kann defence (B10)"
+}

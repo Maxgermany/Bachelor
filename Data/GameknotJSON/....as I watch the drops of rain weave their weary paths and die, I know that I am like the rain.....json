@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4": "D4 it still amazes me that it took me so long to play D4",
+        "1... Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. c3": "This is a typical London set up",
+        "5... Qb6 6. Qb3 Qxb3 7. axb3": "Again this is standard",
+        "7... cxd4 8. exd4 Bg4 9. Nbd2 e6 10. Bb5 Nh5 11. Bg3 a6 12. Ne5": "Black is in trouble now",
+        "12... Rc8 13. Bxc6+ bxc6 14. Nxg4": "White is now a minor piece  to the good, is ahead on development and is threatening blacks queenside",
+        "14... Ra8 15. O-O": "White completes development N e5 may have been better",
+        "15... Be7 16. Ne5 c5 17. dxc5 Bxc5 18. b4 Bd6": "Black falls into the trap",
+        "19. Nxf7 Bxg3 20. fxg3 Ke7": "Black now resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/as-i-watch-the-drops-of-rain-weave-their-weary-paths-and-die-i-know-that-i-am-like-the-rain?gm=35515",
+    "gameName": "....as I watch the drops of rain weave their weary paths and die, I know that I am like the rain....",
+    "players": "dwardman (1708) vs. frknmniac (1578)",
+    "opening": "Queen's pawn game (A46)"
+}

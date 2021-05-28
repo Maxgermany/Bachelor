@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. exd5 exd5": "I hate the exchange variation - I love the French because of the play in the center but this just opens it up. Coincidentally its what I play as white against the French for that very reason. ",
+        "4. Nf3 Nc6": "This isn't mainline as far as I know - I saw it had a good record with the database so I figured I'd take a crack at it - it's a little odd feeling being a French player and restricting the C pawn. ",
+        "5. Bb5 Bd6 6. c4 dxc4 7. d5 a6 8. Ba4 b5 9. dxc6 bxa4": "This got real gross and I gave up pawn structure for a temporary pawn but with one to capture. I think it'll be fine if I win the race for development while tending pawns.",
+        "10. O-O Ne7 11. Nbd2 Be6 12. Qxa4 c3": "Looking for takes, I castled, Bd5 then takes but of course he could not take which is what happens.",
+        "13. Ne4": "In retrospect here I should've take b2 and opened up that lane rather than letting him take - I preferred to not let him point to kingside and wanted to finishing developing but now on mover 14 I'm seeing that's not optimal. ",
+        "13... O-O 14. Nxc3": "So I'm down a pawn entering the middle game - the middle is torn asunder and he has slightly more of a command of it with his knights. General plan of attack is I need his pawn on c6 to stay competitive. Similarly I think his best plan is to target c7 via moves like Bf4, Ne4 and Rc1. Ultimately I like my bishop pair with the open board but it'll be hard to limit his knights. Qe8 seems challenges the pawn but Nd4 defends and challenges my bishop straight away. Projected line of 14. ... Qe8 15. Nd4 Nd5 16. Re1 Nxc3 17. bxc3 seems okay but doesn't terribly get me closer to my objectives. Qb1 seizes an open column and lets tickle a potential target on b2. ",
+        "14... Qb8 15. Nd4 Nd5 16. Nxd5 Bxd5 17. Nf5": "Interesting move - obviously threatening Nxd6 which would help the advancement of the c6 pawn. Be5 seems natural to challenge b2 but he's threatening Ne7+ to take Bd5. I think Qb6 wins the pawn back temporarily with 18. Nxd6 Bxc6 and he does not appear to have any inbetween moves but 19. Qf4 or any number of Q moves appear to get the d6 pawn back after the exchange. Still I'd rather get the pawn off c6, get rid of my backward pawns and start seizing open lanes for counter play. ",
+        "17... Qb6 18. Qg4": "Threatening mate on g7; Be5 centralizes my bishop and protects but presumably he follows up with Bh6. I'm assuming secondary target following g6 is exchange knight and push pawn on the c file. Alternatively he might see a mating net I'm missing. ",
+        "18... g6 19. Nxd6 cxd6 20. Bh6 Rfe8 21. Qg5": "So this is crushing - I saw all three threats but I can't stop them - I need to get the Q on the A1-H8 diagonal but there's no way to do it without losing the bishop or letting the pawn push. Even if I manage to prevent the mate threat via something like \n\n21.\tQg5\tQd4\n22.\tRfd1\tQe5\n23.\tRxd5\tQxg5\n24.\tBxg5\tRac8\n25.\tRxd6\t\n\nI'm still down a full piece and two pawns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-kmbll?gm=67006",
+    "gameName": "Challenge from kmbll",
+    "players": "headstart (1819) vs. kmbll (1778)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

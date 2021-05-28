@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "An unrated game against a friend.",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "Ruy Lopez. Because I like to attack.",
+        "3... Bc5 4. c3": "The classical defense, and the standard response by white.",
+        "4... d6 5. d4": "Black's 4. ... d6 wasn't a recommended move in the defense. Better might have been 4. ... Nf6 threatening the pawn at e4 and preparing to castle. I'm not sure my 5. d4 was the best move available, but like I said, I like to attack and this felt like an attack.",
+        "5... exd4 6. cxd4": "5. ... Pxe4 was very nearly a forced move. 5. ... Bb6 would have allowed 6. d5 capturing the pinned knight at c6.",
+        "6... Bb4+ 7. Bd2": "Nice play by black, it gives him time to unpin his knight, say with Bd7.",
+        "7... Bxd2+ 8. Qxd2 Qf6 9. d5": "Black didn't save his pinned knight so I decided to go try to eat it. Black's queen threatens my pawn at b2 (and then my rook at a1) so I have to be careful to keep an eye on that.",
+        "9... a6 10. Bxc6+ bxc6 11. dxc6": "Evidently black didn't want me to eat his knight so I had to settle for eating his knight's pawn instead. Had I played 10. Ba4, then black would have replied with 10. ... b5 and I would lose my chance to win the knight entirely.",
+        "11... Ne7 12. Nd4": "The brave little pawn on c6 is all alone up there. He needs a little protection, but the pawn at b2 is pinned and cannot rush to his aid quite yet.",
+        "12... O-O 13. O-O a5 14. Nc3": "Black played 13. ... a5 to bring his rook to a6 to bear pressure on my pawn on c6. This knight move lets me defend the pawn much more aggresively than the passive Rc1 would have.",
+        "14... Ra6 15. Nd5": "Now I fork his queen and his undefended pawn at c7. He can't really save them both unless he trades knights. However, 15. ... Qg6 to pressure the white pawn on e4 and to threaten 16. ... Bh3 had some interesting lines for black, but I felt I could adequately refute all the threats and come out ahead.",
+        "15... Nxd5 16. exd5": "And now my pawn at c6 is fairly secure (once I see to the safety of the d5 pawn).",
+        "16... Qe5 17. Nb5": "Defends my pawn and puts pressure on black's pawn on c7.",
+        "17... Qe7 18. Rfe1": "Black didn't have much to save his pawn. But now white is driving the black queen back to her starting square and relegating her to the tragic role of a pawn's only defender.",
+        "18... Qd8 19. Re4": "Planning Ra-e1 followed by Re7.",
+        "19... Bf5 20. Ra4": "Black changed my plans a bit, so I decided on a different approach.",
+        "20... h6 21. Rxa5": "Not 21. ... Rxa5 because then 22 Qxa5 and white wins the pawn at c7. And if 21. ... Rb5 white cannot play 22. Ra7 for then black plays 22. ... Rxb5. So much better for white is 22. a5 to protect the knight, and if black replies with 22. ... f6, 23 Ra7 Rf7, 24 Qa5 and now black is in trouble again (after 25. Nxc7 Rxc7, 26 Qxb6 wins black's rook and pawn for just a knight).",
+        "21... Qg5 22. Qxg5": "And all of that planning was cast aside when black decided to trade queens. Apparently he forgot his rook at a6 was still en prise.",
+        "22... hxg5 23. Rxa6 Rb8 24. Nxc7": "Sure, now black can have my pawn at b2, but I'm much more interested in promoting my c-pawn than saving the pawn at b2. Besides, it's an even trade, pawn for pawn, so I am not even losing material.",
+        "24... Rxb2 25. Ra8+": "Primarily to defend c8.",
+        "25... Kh7 26. Na6": "What was I thinking? This was a horrible move. I had to play 26. Rc1! but I blew it.",
+        "26... Rc2 27. c7": "The pawn is just one square away from heaven, but it cannot quite reach it because of my last foolish move. Now black has two defenders on c8 and there is little I can do about it. I'm considering driving the bishop back to d7 with a couple pawn moves, then attacking it with my knight from b8 (which then blocks my rook, so this isn't quite a great plan yet). Maybe I would be better off just marching my king over to d1 so I can play Rc1, but then black has an all you can eat pawn buffet with my king-side pawns, and I still couldn't promote my c-pawn due to black's Bxc8 after I promote. I really should have played 26. Rc1. Really.",
+        "27... Bd3 28. c8=Q": "But black did the unexpected. He abandoned c8 in favor of attacking my knight on a6. Fine with me, I'll gladly trade knight pawn for black's last rook. I'm expecting 28. ... Rxc8, 29. Rxc8 Bxa6, 30. Rd8 to win the pawn at d6 and begin the promotion process all over again on the d-file with no black rook to foil my plans, expecting the bishop to sacrifice himself at d7 to prevent the promotion, at which time the pawn at a2 becomes the next candidate for promotion, with my rook to keep black's king away and guarantee I will finally get a queen off of one of these pawns. But black decided he had had enough."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-wrong-way-to-promote?gm=20961",
+    "gameName": "The Wrong Way to Promote",
+    "players": "blake84120 (1429) vs. remohgramps (1115)",
+    "opening": "Ruy Lopez (C64), classical defence, 4.c3"
+}

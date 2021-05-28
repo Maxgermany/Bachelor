@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3": "rachazando la invitaci\u00f3n de jugar el Gambito Blumenfeld\nAlternative variation: 4.d5 b5 5.dxe6 fxe6 6.cxb5 d5 [di\u00f3 a Paco una r\u00e1pida victoria ante Malakhatko en la s\u00e9ptima ronda]\n",
+        "4... cxd4 5. Nxd4 d5 6. Bg2 e5 7. Nf3 d4 8. O-O Nc6 9. e3 Be7": "Alternative variation: 9...d3 $5\n",
+        "10. exd4 exd4 11. Bf4 Be6": "m\u00e1s preciso que\nAlternative variation: 11...O-O 12.Ne5 Qb6 13.Qb3 Qc5 14.Re1 Be6 15.Nd2 Na5 16.Qa4 Qb4 17.Qc2 Qb6 18.a3 Nc6 19.Nxc6 bxc6 20.b4 [jugado en el Campeonato de Espa\u00f1a en la partida Illescas Cordoba, M (2591)-Garza Marco,S (2447) Palma de Mallorca 2009]\n",
+        "12. Ne5 Rc8 13. Re1 O-O 14. Nd2 Nxe5 15. Bxe5 Qd7 16. Ne4 Rfd8": "Vallejo valora acertadamente que su pe\u00f3n pasado compensa con creces la debilidad del enroque que va a producirse\n",
+        "17. Bxf6": "Alternative variation: 17.Nxf6+ gxf6 18.Bf4 Rxc4 [es ventajoso para las negras]\n",
+        "17... gxf6 18. Qh5 d3": "no s\u00f3lo avanzando el pe\u00f3n pasado sino habilitando la casilla d4 para la dama desde donde va a ser una aut\u00e9ntica reina\n",
+        "19. Qh6 Qd4 20. b3": "la continuaci\u00f3n cr\u00edtica es\nAlternative variation: 20.Nc3 d2 21.Re4 Qd3 22.Rd1 (22.Rxe6 [las negras tendr\u00edan que encontrar la intermedia] Bf8 23.Qh3 (23.Qh4 fxe6 24.Be4 Qd7) 23...fxe6 [con ventaja]) 22...Bf8 23.Qh4 h6 24.Bf1 Qc2 25.Rd4 [Estas variantes de ordenador son extremadamente dificiles, o imposibles, de controlar en partida viva.]\n",
+        "20... b5 21. c5 Rxc5": "una elegante soluci\u00f3n pr\u00e1ctica, sin el caballo las blancas no tienen nada en el flanco derey\nPor supuesto Paco habr\u00e1 considerado\nAlternative variation: 21...d2 22.Red1 Bg4 [pero tal vez no le gustaba permitir] 23.b4 Bxd1 24.Rxd1 Qxb4 25.Qf4 Qd4 26.Bh3 Rc6 27.Bf5\n",
+        "22. Nxc5 Bxc5": "ahora no es f\u00e1cil encontrar una jugada con blancas\n",
+        "23. Rad1": "la mejor defensa es permitir la captura en f2\nAlternative variation: 23.Be4 Qxf2+ 24.Kh1 Bf5 $1\nAlternative variation: 23.Qd2 Bb4\nAlternative variation: 23.Qf4 d2 24.Red1 Qxa1 25.Rxa1 d1=Q+ 26.Rxd1 Rxd1+ 27.Bf1 Bh3\nAlternative variation: 23.Qe3 d2 24.Red1 Qxa1\n",
+        "23... Qxf2+ 24. Kh1 Bf8 25. Qh5 Qc5": "desalojando, o cambiando, la pieza m\u00e1s activa del blanco\n",
+        "26. Qf3 d2 27. Ref1 Qg5 28. Qxf6 Qxf6 29. Rxf6 a5": "amenaza a4 que activar\u00e1 el alfil de casillas blancas\n",
+        "30. Rf4 Bh6 31. Rh4": "abandonar la cuarta fila supone permitir a4\nAlternative variation: 31.Rf2 a4 $1\n",
+        "31... Kg7 32. Kg1 Bf5 33. Kf2 Bc2 34. Bf3": "la \u00fanica esperanza del blanco es un final con alfiles de diferente color pero...\n",
+        "34... Rd6": "amenazando la mortal Tf6\n",
+        "35. Rg4+ Kf8 36. Re4 Rf6": "y las blancas abandonan, Paco Vallejo est\u00e1 en lo m\u00e1s alto a falta de tan solo una ronda.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/8th-gibtelecom-chess-festival-2010-gibraltar?gm=29347",
+    "gameName": "8th Gibtelecom Chess Festival 2010, Gibraltar",
+    "players": "Naumann, A. (2525) vs. Vallejo Pons, F. (2705)",
+    "opening": "Blumenfeld counter-gambit (E10)"
+}

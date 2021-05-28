@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. e5": "French Defence, Advanced Variation/Nimzowitsch Variation probably other names too.\n(It's unfortunate that sometimes chess players are tested and 'fail' because the chess player is unable to respond with the correct chess tradition of the questioner).\n\nI know strong players who don't use this Variation as they believe White ends up with a backwards Pawn for the rest of the game.  They'd be right, until White loses the pawn of course.\n\nAfter getting my head around Opening i hope to concentrate more on the Tarrasch variation 3.Nd2",
+        "3... c5": "Alternative 3...Bd7, 4.Nf3 a6, 5.c4 dxc4 6.Bxc4 Bc6 7.0-0 Be7 8.Nc3 h6 9.Qe2 Nd7 10 Rd1 with White having a slight advantage",
+        "4. c3 Nc6": "Old traditional lines that have proved their test of time.\n4. ...Ne7 5.Nf3 Nec6 6.Bd3 b6 7.Bg5 Qd7 8.0-0 Ba6 9.dxc5 bxc5 10 Bxa6 Nxa6\n 11. c4 white slight advantage",
+        "5. Nf3 Bd7": "I feel White is only responding to the treats of Black and as White feel on the back foot.\nBlack is at a crossroads, 5...Nh6 6.dxc5 Bxc5 7.b4 Bb6 8.bxh6 gxh6 9.b5 Ne7 10. Bd3 Ng6 11. 0-0 0-0 12. a4 f6  with equal chances\n\n5..Qb6 a very common move 6.Be2 cxd4 7.cxd4 Nh6 8. b3 Nf5 9.Bb2 Bb4+ 10. Kf1",
+        "6. Be2 Nge7 7. Na3": "While the dark-squared Bishop is out of sight, move the bN as another Defender on c2 for the d4 Pawn",
+        "7... a6 8. Nc2 Ng6": "I was suprise dby this move I took for granted the Knight would go to f5.",
+        "9. h4": "few different things, h5 means the Knight has to move again.\ng5 is less friendly for the Black Bishop\ng5 maybe an outpost for Bishop or Night.",
+        "9... cxd4 10. cxd4 Be7 11. h5": "I think this is a mistake on my part.",
+        "11... Nh4 12. Nxh4 Bxh4 13. h6 g6": "White missed some opportunities there and now has an isolated Pawn far from any support",
+        "14. g3 Bg5 15. f4 Be7 16. a3": "White doesn't have any moves to impact on the game.\nWaiting to be put down by Black.",
+        "16... Qb6 17. b4 Rc8 18. Bb2 Na7 19. O-O Ba4 20. Rc1 a5 21. Qd2 Rxc2 22. Rxc2 Bxc2 23. Qxc2": "While the exchanges relieve the tension, I would hope 23....0-0 would mean Black has a comfortable game.",
+        "23... axb4": "I suppose securing free lines for DSB, Queen and Rook to follow can't be any harm.",
+        "24. Qa4+": "Nusiance check.....",
+        "24... Nc6": "..... that brings the Knight back into the game",
+        "25. Qa8+": "Nusinace check part 2, but credit to Black his pieces are focussed on d4 and d8",
+        "25... Bd8": "So all this blocking is to perform Castling right?",
+        "26. Rc1": "White had some thinking to do, Qa4 means the Knight doesn't move but the Black is in play after 26....0-0\n\nAlso, I considered Rd1, probably the Best Move, shores up the defence, gives King back f1.\nalso axb4, just because, I hate passed pawns.  But Black lost a tempo by taking on b4 so it would be just be giving it back to him.  Also 26. RC1 0-0 27Qa4 bxa3 28 Bxa3+ Kf8 29.Bb5 keeps things sharp.",
+        "26... Nxd4": "Is this premature?",
+        "27. Bxd4 Qxd4+ 28. Kf1 bxa3": "28....0-0 or 28.....Qb6 how can White win?",
+        "29. Bb5+": "from here it's forced mate.",
+        "29... Ke7 30. Qxa3+": "lucky, lucky, lucky.\n\nIt's a reminder that if a player is leading for a long time, don't take your eyes off the ball.\nAlso, develop all your pieces."
+    },
+    "url": "https://gameknot.com/annotation.pl/french-defence-advanced-nimzo?gm=43839",
+    "gameName": "French defence (Advanced/Nimzo)",
+    "players": "liam1260 (1486) vs. makovei (1605)",
+    "opening": "French (C02), advance, Euwe variation"
+}

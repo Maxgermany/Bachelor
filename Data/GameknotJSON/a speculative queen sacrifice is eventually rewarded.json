@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. d3": "guioco pianissimo.. so far so boring",
+        "5... h6 6. a3 Nf6 7. b4 Bb6 8. b5 Nd4 9. c3 Nxf3+ 10. Qxf3 O-O": "plenty of threats down black's king side but nothing to worry, let's calmly castle",
+        "11. Qg3": "here they come the threat is Bxh6 but the best form of defence is attack.",
+        "11... Nh5 12. Qf3 c6": "my blunder.. can't even remember why i chose this move.",
+        "13. Qxh5 Be6 14. Bxe6 fxe6": "that exchange suited me nicely.. but I'm still a whole piece down.. at this point I've decided that the game is pretty much lost",
+        "15. Qg4 Qf6 16. bxc6 bxc6 17. a4 Qxf2+": "here we go, nothing to lose really. I can't see a complete way through but after Rxf2 Rxf2 ... Ra-f8 is a  strong attack. ",
+        "18. Rxf2 Rxf2 19. Qxe6+": "white must guard against discovered check with the rook attacking the queen.",
+        "19... Kh8 20. d4 Raf8": "white is not out of danger yet. (not by a long way!) ",
+        "21. Nd2 exd4 22. h3": "if cxd4 Bxd4 probably wins white's rook whilst h3 seems to diffuse the danger from blacks rooks.",
+        "22... dxc3 23. Kh2 cxd2 24. Ba3": "I think Bxd2 would probably better, giving up material but handing back the initiative to white.",
+        "24... Bd4 25. Rd1 Be5+ 26. Kg1": "oh dear.. only other choice here is 26. Qxe5 dxe5 27. Bxf8 Rxf8 28. Rxd2 swapping queen and bishop for bishop and rook and getting rid of that pesky seventh rank pawn",
+        "26... Rf2f1+": "I can exchange rooks because of Bd4 ",
+        "27. Rxf1 Bd4+ 28. Kh2 Rxf1 29. Qxd6 d1=Q": "now it's pretty much all over for white",
+        "30. Bc5 Bxc5 31. Qxc5 Qxa4 32. e5 Qf4+ 33. g3 Qd2+": "phew.. no idea how i pulled that one off. "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-speculative-queen-sacrifice-is-eventually-rewarded?gm=10991",
+    "gameName": "a speculative queen sacrifice is eventually rewarded",
+    "players": "barrym (1450) vs. onemonkey (1483)",
+    "opening": "Giuoco Piano (C50)"
+}

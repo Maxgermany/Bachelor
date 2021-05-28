@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. dxe5 dxe5 5. Bc4 c6 6. Bg5 Qc7 7. Nc3 h6 8. Bh4 Be7 9. Bxe7 Nxe7 10. O-O O-O 11. b4": "Routine play up to here, But now, Instead, 11 a4 was better.",
+        "11... b5 12. Bb3 a5 13. a3 Re8 14. Qe2 Nf8 15. h3 Be6 16. Bxe6 Nxe6 17. Rad1 axb4 18. axb4 Ng6": "Black wants to free e7 for the Q and exploit dark square weaknesses.",
+        "19. g3 Qe7": "Threatens the pawn. ",
+        "20. Kg2": "?? The worst place to move the King...",
+        "20... Ngf4+": "White resigns, since if the N is taken the second fork wins the Q.",
+        "21. gxf4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/watch-those-forks?gm=26155",
+    "gameName": "Watch those Forks!",
+    "players": "NN (1425) vs. dmaestro (1458)",
+    "opening": "Philidor (C41), Hanham variation"
+}

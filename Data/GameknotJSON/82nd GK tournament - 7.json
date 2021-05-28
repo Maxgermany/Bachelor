@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Pirc Defense",
+        "1... d6 2. Bc4 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 Nxe4": "If i take e4 then he will move d5 forking( For all the people confused about this move)",
+        "6. Bxf7+": "I give up my light squared bishop in an attempt to dislodge his king.",
+        "6... Kxf7 7. Nxe4 Rf8 8. Nf3 Kg8 9. O-O Bg4 10. h3 Bxf3 11. gxf3 d5 12. Ng5 Qd7 13. Qd3 Bf6 14. Kh2 e5 15. c3 Kg7 16. Rfg1 Nc6 17. Rg3": "This was when i thought i was a mating chance with Nxh7!",
+        "17... Ne7 18. f4 e4": "My knight will fall with h6 and my queen has lost it's attacking diagonals.",
+        "19. Nxe4 Nf5": "He lets my knight live?",
+        "20. Nc5": "Perhaps he thought he would win the exchange but it wouldn't be too good since i also had a pawn. I also thought his knight wasn't valuable and getting rid of his central pawn would allow me to rip open his kingside with f5 etc.. I believe Nc5 is a great multi purpose move. It attack the queen, It threatens to remove a defense of the f5 knight, it attacks b7 and prepares for a e6 fork. He can't defends against all these threats at once.",
+        "20... Qc6 21. Qxf5 Rae8 22. Qd7+": "Forcing the exchange of queens",
+        "22... Qxd7 23. Nxd7 Rf7 24. Nxf6 Rxf6 25. Rc1 Kf7 26. Rc2 a5 27. Re2 Rfe6 28. Kg1 b5 29. Kf1 Ra8 30. Bd2 Rf6 31. Re5 Re8 32. Rxe8 Kxe8 33. Rg5 h6 34. Rxd5 c6 35. Re5+ Kd7 36. Ke2 a4 37. Be3 h5 38. f3 Kd6 39. Kd3 Rf5 40. Rxf5": "He allowed the exchange of rooks. ",
+        "40... gxf5 41. a3 Kd5 42. h4 Kd6": "My bishop isn't really doing anything so I just counted myself aas having 1 extra pawn on d4 since my pawns were doubled.",
+        "43. c4 bxc4+ 44. Kxc4 Kc7 45. Kc5 Kd7 46. d5 cxd5": "Activating my king and dark squared bishop although it's not going to have much use.",
+        "47. Kxd5 Ke7 48. Kc4 Kd6 49. Kb4 Kc6 50. Kxa4 Kb7 51. b4 Ka6 52. b5+ Kb7 53. Ka5 Ka8 54. Bc1 Kb7 55. b6 Ka8 56. Ka6 Kb8 57. b7": "He resigned in this position as i would promote and checkmate ihm"
+    },
+    "url": "https://gameknot.com/annotation.pl/82nd-gk-tournament?gm=40380",
+    "gameName": "82nd GK tournament",
+    "players": "richard1234567 (1414) vs. takenoprisoner (1450)",
+    "opening": "Pirc defence (B07)"
+}

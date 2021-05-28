@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. f4 d5 2. Nf3 g6 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Kc6 9. Bxg4 Bg7 10. O-O": "Ne6 is worth consideration here.",
+        "10... Na6 11. c3": "The idea is to block the dark squares, keep the N off c2, and then capture the e pawn. Nxe4 immediately is met by Qd4+. ",
+        "11... h5 12. Bh3": "?? A serious blunder. As is typical in this motif, a seemingly normal move can turn bad quickly. Be2! was necessary to protect d3 and maintain the idea of capturing on e4 with the potential of a pin.",
+        "12... Qd3 13. Re1 Nc5 14. b4": "?? Seemingly good but tactically unsound. ",
+        "14... Bd4+": "At this point, White should resign. Capturing the bishop loses an essential rook to check, and interposing the rook is futile. Otherwise, only one king move is possible.",
+        "15. Kh1 Bf2": "The point.",
+        "16. Rg1": "The only move to try and retain some material. White then resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-ii?gm=26616",
+    "gameName": "The Annotation Project II",
+    "players": "dmaestro (1567) vs. easy19 (2256)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

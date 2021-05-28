@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5": "Italian Game.",
+        "4. b4": "Evan's Gambit. White cedes material for rapid development.",
+        "4... Bxb4 5. c3 Ba5 6. O-O Nf6": "Black leaves the book. 6...d6 was the play.",
+        "7. Ba3": "Develops and prevents enemy castling.",
+        "7... Bb6": "? Again, 7...d6 was better.",
+        "8. d4": "Steinitz initiates the action.",
+        "8... exd4 9. Qb3": "! f7 is a target of opportunity.",
+        "9... d5": "Logical - center is staked, light squared bishop now active, and the attack on f7 is slowed.",
+        "10. exd5": "Creating a totally open file white will rush to.",
+        "10... Na5": "! Looking to break up the threat along the a2-g8 digonal.",
+        "11. Re1+": "We all saw this coming..........Black must interpose the check and lose a piece, as 11...Kd7 gets  messy after 12.Bb5 .",
+        "11... Be6": "Black opts to sac his bishop, and probably hopes to castle queenside.",
+        "12. dxe6": "!! Steinitz sacs his queen! A six move combo of death is unleashed.",
+        "12... Nxb3 13. exf7+": "1",
+        "13... Kd7 14. Be6+": "2",
+        "14... Kc6 15. Ne5+": "3",
+        "15... Kb5 16. Bc4+": "4",
+        "16... Ka5": "[16...Ka4 17.BxN  Ka5]",
+        "17. Bb4+": "5",
+        "17... Ka4 18. axb3#": "6! A real gem of a mini! The calculating ability of Steinitz was really incredible. I hope you enjoyed it:) - Thomas"
+    },
+    "url": "https://gameknot.com/annotation.pl/exhibition-game-stalking-the-enemy-king-101?gm=837",
+    "gameName": "Exhibition Game (Stalking the Enemy King 101)",
+    "players": "Wilhelm Steinitz  vs. Rock (unknown) ",
+    "opening": "Evans gambit (C52), Richardson attack"
+}

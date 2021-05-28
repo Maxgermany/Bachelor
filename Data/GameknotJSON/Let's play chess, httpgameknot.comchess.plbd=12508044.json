@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 Bb4 7. Bd2": "El enroque es perfectamente v\u00e1lido, pero prefiero mantener bajo control el centro",
+        "7... O-O 8. O-O dxc4 9. Bxc4 b5 10. Bd3": "otra opci\u00f3n es Ab3, pero como dije antes tenia en mente tanto el control del centro como un posible ataque al flanco de rey",
+        "10... a6 11. a3 Be7 12. e4": "ganando espacio!",
+        "12... c5": "correcto, las negras no dejan que me consolide en el centro e inmediatamente lo atacan",
+        "13. d5 exd5 14. exd5 Bb7 15. Bf4 Nxd5": "mala jugada! yo esperaba Ch5 a lo que pensaba jugar Ae3 y el pe\u00f3n de d5 me debe de dar una ligera ventaja",
+        "16. Nxd5 Bxd5 17. Bxh7+ Kxh7 18. Qxd5 Nf6 19. Qf5+": "ganando tiempo para poner las torres en el centro",
+        "19... g6 20. Qh3+ Kg8 21. Rad1 Qb6 22. Be5": "En realidad las blancas solo deben de tener una liger\u00edsima ventaja ya que las negras ocupar\u00e1n tambien el centro con sus torres, pero con esta centralizaci\u00f3n pretendo adem\u00e1s hacer \"rayos X\" a la casilla h8 as\u00ed como tener bajo control a un defensor del enroque negro",
+        "22... Nh7": "Esta jugada es horrorosa! y todo a pesar de que es una partida por \"correspondencia\" a traves de internet, est\u00e1 claro que mi rival es un jugador bastante \u00e9tico y no utiliz\u00f3 ning\u00fan programa inform\u00e1tico, y yo tampoco! os lo prometo!",
+        "23. Rd6": "jugada ganadora, las negras aceptaron el \"regalo griego\" y perdieron inmediatamente, pero de todos modos el control de la casilla f6 hace que gane con mi penetraci\u00f3n de Dama en h6",
+        "23... Bxd6 24. Ng5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-http-gameknot-com-chess-pl-bd-12508044?gm=26743",
+    "gameName": "Let's play chess, http://gameknot.com/chess.pl?bd=12508044",
+    "players": "seviman (1200) vs. geput (1200)",
+    "opening": "Queen's pawn game (E10)"
+}

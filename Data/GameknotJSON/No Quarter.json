@@ -1,0 +1,11 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. Bc4 h5 4. h4 g6 5. Ng5 f6 6. Nf7 Qd7 7. Nxh8 Nh6 8. Nxg6 Qg4 9. Qxg4 hxg4 10. d3 g3 11. fxg3 Ng4 12. O-O a6 13. Bg5 Nd7 14. Be6 fxg5 15. Bxg4 Be7 16. Bh5": "coup qui semble anodin mais en fait crucial",
+        "16... b5 17. Nxe5+": "echec en otant le cavalier...",
+        "17... Kd8 18. Nc6#": "...qui fait mat au coup suivant"
+    },
+    "url": "https://gameknot.com/annotation.pl/no-quarter?gm=17337",
+    "gameName": "No Quarter",
+    "players": "jonathan1000r (1299) vs. guenole (1234)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "A simple win, because a blunder from my opponent. ",
+        "1... d5 2. exd5 Qxd5 3. d3 c6 4. Nc3 Qe5+ 5. Be3 Bf5 6. Nf3 Qc7 7. Be2 e6": "The exchange of the wsb is normal in this opening.",
+        "8. a3 Nd7 9. Nh4 Bg6 10. Nxg6 hxg6 11. Qd2": "A chance normally I don't have...",
+        "11... Rxh2 12. Rxh2 Qxh2 13. g3": "Risky, but, I bet it, playable.",
+        "13... Qh1+ 14. Bf1 Qh5": "Preventing him from castling.",
+        "15. Be2 Qa5": "The h column can become a weakness for me, but I am prepared to cope with it.",
+        "16. O-O-O": "I cannot resist a sac...",
+        "16... Bxa3 17. bxa3 Qxa3+ 18. Kb1 b5 19. Na2 b4 20. Qc1 Rb8": "I am not sure I will have enough compensation if he exchanges the queens...",
+        "21. Bxa7": "First blunder.",
+        "21... Qxa7 22. Qb2 Qxf2 23. Bf1 Qxg3 24. d4": "Second blunder. ",
+        "24... b3 25. Ka1 bxa2 26. Qxa2 Qc3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/opponents-heavy-blunders?gm=26878",
+    "gameName": "Opponent's heavy blunders.",
+    "players": "cadivi (1660) vs. damalfi (1694)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6": "Protecting the pawn.",
+        "3. c3 Nf6 4. d4": "Instead of defending you attack, a perfectly good strategy.",
+        "4... exd4 5. e5": "Pressing the attack.  This will help you develop your position without sacrificing material.  Good strong opening.",
+        "5... Qe7 6. Qe2 Nd5 7. Na3 dxc3 8. e6": "This pawn was safe where it was.  Now it isn't.",
+        "8... Qxe6 9. Ng5": "Now I am encouraged to swap queens, strengthening that three pawn advantage.",
+        "9... Qxe2+ 10. Bxe2 cxb2 11. Bxb2 Be7 12. Nc2": "Why toss the g5 knight?",
+        "12... Bxg5 13. Nd4": "Better yet would be BxPg7, making back a point while breaking up the black king's pawns.",
+        "13... Nxd4 14. Bxd4": "Now I must protect Pg7.",
+        "14... O-O 15. O-O Nf4 16. Rfe1 Re8 17. Bc3": "Oops, this gives black white's white bishop.  Bc4 would have been better.\n",
+        "17... Nxe2+ 18. Kf1": "If black moves the knight black loses the game with RxRe8#.\n",
+        "18... d5 19. g3 Bd7 20. Rxe2": "White should have taken the knight before the black bishop could pin white's rook against his king.",
+        "20... Bb5 21. h4": "Nice response, threaten something else.  In this case the reprieve is only temporary.",
+        "21... Bxe2+": "Rook is worth more than bishop, but the check saves it.",
+        "22. Kg2 Bf6": "Tome to trade more.",
+        "23. Rc1 Bxc3 24. Rxc3 c6 25. Rc2": "White decides to gang rape the a2 pawn.",
+        "25... Bc4 26. g4 Re2 27. Rc3 Rxa2 28. Rf3": "White wonders if he will have a second chance to play pin the rook on the king.  Probably not.",
+        "28... d4 29. Rf4": "Not. Good to pressure the pawn, though.",
+        "29... Bd5+ 30. Kg1 d3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-corpagent?gm=41304",
+    "gameName": "Challenge from corpagent",
+    "players": "corpagent (1200) vs. pasha582 (1610)",
+    "opening": "Ponziani (C44), Fraser defence"
+}

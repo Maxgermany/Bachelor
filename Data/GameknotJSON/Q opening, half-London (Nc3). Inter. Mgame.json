@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "Molto interessante per lo sfruttamento della posizione nella mossa 17. Vittoria con un pezzo in meno, bel finale!",
+        "1... Nf6 2. Bf4 g6 3. Nc3 d5 4. h3 Bg7 5. e3 O-O 6. Bd3 Nbd7 7. Nf3 c5 8. Nb5 c4 9. Nc7 Rb8 10. Be2 Ne4 11. Nxd5 Qa5+ 12. Nc3 Ra8 13. O-O Nxc3 14. bxc3 Qxc3 15. a4 Qb4 16. Nd2 c3 17. Ne4 Nb6": "Ok, qui il piano \ufffd anche quello di bloccare la donna nera. Con a5, il blocco \ufffd mortale. Ma il nero ha modo di rispondere Cd5. \nA questa, ho gi\ufffd analizzato che bisogna muovere l'alfere a h2 per non perdere un tempo preziosissimo se il nero spinge f5-f4. \nLa mossa complementaria delle bianche \ufffd Dd3. \nSe viene giocata prima, il nero risponde Cd5, il bianco ritira l'alfiere in h2, e adesso la donna si pu\ufffd ritirare solo in a5, e da l\ufffd con Tb5 vince, perch\ufffd poi prende il cavallo d5. \nIl nero ha una mossa per parare questo inconveniente, e la pi\ufffd aggressiva (a parte ritirare la donna in b4 subito, e poi impedire Tb5 con a6), f5-f4. \nIl dubbio, qui, \ufffd se ritirare il cavallo o di lasciarlo, giocando Tfb1.\nSe F5xCe4, Dxe4 e la risposta naturale, Cf6, mi fa perdere un tempo prezioso, ma alla fine nessuno mi potr\ufffd impedire di prendere, prima o poi, il pedone in c3. \nSe il cavallo si ritira, per esempio in g3 (la pi\ufffd brutta), non pu\ufffd ancora ritirare la donna in d6, perch\ufffd con Cf5 poi mangio l'alfiere in g8, lasciandomi con un finale vantaggioso. Se invece la ritira in a5, per continuare a difendere il pedone, con Tb1 continuo l'attacco. Prevedibilmente a6, Ac4 e la mia posizione \ufffd migliore. \nSe invece il cavallo si ritira avanzando a c5, la mia minaccia rimane, ma se gioca b6, il mio cavallo va a b3, e comunque non \ufffd male. ",
+        "18. Qd3 Nd5 19. Bh2 Qa5 20. Rfb1 a6 21. Rb3 b6 22. Nxc3 Bf5 23. Qd2 Rac8 24. Raa3 Nf6 25. g4 Be6 26. Rb2 Nd5 27. Rbb3 f5 28. Qd3": "Errore, errore!",
+        "28... Nb4 29. Qd2 Bxb3 30. cxb3 Nd5 31. Bc4": "Ma questa non l'aveva vista, secondo me.",
+        "31... e6 32. Bd6": "E neanche questa.",
+        "32... Qxc3 33. Qxc3 Nxc3 34. Bxe6+": "La mitica coppia di alfieri...",
+        "34... Kh8 35. gxf5 Rfe8 36. Bxc8": "Perch\ufffd mangiare questa torre in particolare? Lo vedrete nel prossimo capitolo. ",
+        "36... Rxc8 37. fxg6 hxg6 38. Ra1 Bf8": "Errore, errore. Bisognava proteggere la colonna c, togliere di l\ufffd il cavallo. ",
+        "39. Be5+ Kh7 40. Kg2 Bg7 41. Bxg7 Kxg7 42. Rc1": "Raggiunto lo scopo: un pezzo in meno, ma i pedoni centrali sono forti. ",
+        "42... b5 43. e4 b4 44. d5 Kf6 45. f4 Re8 46. e5+ Kf5 47. d6 Kxf4 48. d7 Rd8 49. e6 Nd5 50. Rc8": "Incredibile, no?"
+    },
+    "url": "https://gameknot.com/annotation.pl/q-opening-half-london-nc3-inter-mgame?gm=18542",
+    "gameName": "Q opening, half-London (Nc3). Inter. Mgame",
+    "players": "damalfi (1682) vs. martinsc (1679)",
+    "opening": "Queen's pawn game (A45)"
+}

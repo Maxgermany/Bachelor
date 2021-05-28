@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4": "Is this the center game?",
+        "3... exd4 4. Nxd4 Nxd4": "?! I know this is a mistake, it brings white's queen out and it can't be easily attacked.",
+        "5. Qxd4 Nf6": "?! Probably not great since he can just chase it with his pawn.",
+        "6. Bd3": "Not the best square to develop the bishop too, it's blocked in by the pawn.",
+        "6... Be7 7. O-O d6 8. Bb5+": "?! this just lets me chase the bishop with tempo.",
+        "8... c6": "So I do",
+        "9. Bc4 Bg4 10. f3": "Would the h pawn have been better? This lines up the king and queen for a possible pin, but if I retreat my bishop to h5 it doesn't have much scope.",
+        "10... Be6": "Will he exchange?",
+        "11. Bxe6": "yup.",
+        "11... fxe6 12. e5 dxe5 13. Qxe5 O-O": "?! hangs a pawn. At least my my rook has a half open file.",
+        "14. Qxe6+ Rf7": "probably Kg8-h8 was better, this pins the rook.",
+        "15. Nc3": "Finally he's catching up on development.",
+        "15... Bc5+": "Trying to get my bishop more active. Although it might not by so good because he can develop his bishop while blocking it.",
+        "16. Be3": "And he does",
+        "16... Bxe3+": "So I trade.",
+        "17. Qxe3 Nd5": "Moving my knight to the center of the board and if he decides to trade then I can centralize my queen.",
+        "18. Qd4 Nxc3": "So I initiate it.",
+        "19. Qxc3 Rc8": "I probably should have developed my queen.",
+        "20. Qb3 Qd4+ 21. Kh1 Rd8 22. Rfd1 Qf6 23. Rd2": "?? Loses a rook for no reason.",
+        "23... Rxd2": "So I take it.",
+        "24. Re1 Qe5": "He could just move his rook, but if he takes my queen my rook will deliver back rank mate.",
+        "25. h3": "?? loses his other rook.",
+        "25... Qxe1+": "And he resigns. Please comment."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=50219",
+    "gameName": "Let's play chess",
+    "players": "tristan1 (1109) vs. porcho (1074)",
+    "opening": "Scotch (C45), Ghulam Kassim variation"
+}

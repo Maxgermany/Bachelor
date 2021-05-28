@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "2. .......... Nf6 - A Petrov's Defense!  - I respond with the standard move Nxe5.  Many moons ago on gameknot I tried The Petrov 3 Knights but it did not work out, although the game was against a 2100  Expert (See the Long Lost Battle for how that game went).",
+        "3. Nxe5 d6 4. Nf3 Nxe4 5. d4 c6 6. Bd3": "6. Bd3 - the last moves have been very bookish - I now play Bd3 to enable me to castle kingside and to shoo away the enemy knight.",
+        "6... Qb6": "6. ............ Qb6?? - an agressive looking move but it drops a whole piece!",
+        "7. Bxe4 d5 8. Bd3 Bb4+ 9. c3 Be7 10. Qc2": "10. Qc2 - protecting the b2 pawn should Frere Lenoir wish to move somewhere else - Glenda is, together with Frere Leblanc, also eyeing up the h7 pawn.  This will induce the following weakness.",
+        "10... g6 11. O-O O-O": "11. ......... 0-0? - natural but I think my opponent is castling into it.  Frere Lenoir immediately takes up a commanding position on h6 forcing the f8 rook to move or get captured.",
+        "12. Bh6 Re8 13. Re1": "13.  Re1 - centralising my rook and pinning the enemy dsb.",
+        "13... Bd7 14. Nbd2 a5 15. Ne5": "15. Ne5 - after completing my development it is time to prepare a storming of the castled position.  This is the first time on gameknot that I have sacrificed a piece when material has been relatively even - only a piece up here.  Even if the sac does not work I may still end up a clear pawn or two to the good which should be enough to secure an endgame victory.",
+        "15... a4 16. Nxg6": "16. Nxg6 - black tries to counter on the queenside with her pawn push to a4 - she does not know what I am going to unleash on her - although black is a piece down, you would not believe that on move 15 she was going to cop Old Matey 4 moves down the line.",
+        "16... fxg6": "16. ........... fxg6? - better to take with the h pawn.  This would make my victory bid a lot harder.  I continue to rip her castled position to shreds.",
+        "17. Bxg6 Rf8": "17. .......... Rf8 - allows a forced mate in 5 moves, I play my next move Bxh7  and I then sent my opponent a pm announcing mate in 5, providing analysis.  She played Kf7 which allowed mate on the move.  But what if she had played Kh8 - can you the jury find the mate?  Answers on a postcard.  Cheers.  Joanne",
+        "18. Bxh7+ Kf7 19. Qg6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/placida-storming-the-bastion?gm=18889",
+    "gameName": "Placida - Storming The Bastion!",
+    "players": "jstevens1 (1691) vs. NN (1313)",
+    "opening": "Petrov (C42), classical attack"
+}

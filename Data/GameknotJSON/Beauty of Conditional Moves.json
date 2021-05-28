@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Philidor's defense.",
+        "3. Bc4": "Steinitz variation of Philidor's defense.",
+        "3... h6 4. d4 exd4 5. Nxd4 Qf6 6. O-O Nd7": "Not in Gameknot's database.  Seems like a decent move to me, though.",
+        "7. Nc3 Ne5 8. Nd5": "I ignore the threat to the bishop by attacking black's queen.  If black does not move the queen white checks, trading queen for knight, and can move the bishop later.  Black's best move here is Qd8, to protect Pc7 from the classic K/R fork by NxP.",
+        "8... Qd8": "The white bishop could be protected by Ne3.",
+        "9. Nb5": "White likes doubling up on that pawn instead.  Although it looks like black could fork the white knights with a pawn, white trades a knight (possibly two with Pc6) for a rook.",
+        "9... Nxc4 10. Nbxc7+ Kd7 11. Nxa8 Ne5 12. Be3": "Be3 lets white retrieve the knight from the corner.",
+        "12... Nf6": "Ok, free pawn instead.  First white must trade knights.",
+        "13. Nxf6+ Qxf6 14. Bxa7 h5 15. c4": "At first blush this might look like a bad move, but 15. c4 NxPc4 is followed by 16. Qa4+.  White then makes off with the knight, or worse.  Black was wise not to take this bait.",
+        "15... Nc6 16. Nb6+": "Here it looks like white erred, trapping the bishop.  But 16. Nb6+ Kc7 would be followed by Nd5+, and the white knight mounts the black queen.  Black doesn't make this bad move, answering with Kd8 instead.  White must trade the knight (or bishop) for black's white bishop to keep the point advantage, though Pb2 is at risk and will likely fall.",
+        "16... Kd8 17. Nxc8 Kxc8 18. Be3 Ne5": "Pb2 is called the \"poisoned pawn.\"  Black focuses on Pc4 instead, giving white an opportunity to protect both pawns.",
+        "19. Qa4": "Actually, white had been eager for black to take the b pawn, so the a rook could bear down on the b file.",
+        "19... Nc6 20. Qa8+ Kc7 21. b4 Qd8": "Up four points fair trades are to white's advantage.",
+        "22. Qxd8+ Kxd8 23. Bb6+ Kd7 24. a3 Ne5 25. Rac1 Be7 26. Rfd1 Kc6 27. c5 dxc5 28. bxc5": "White takes the pawn to protect the bishop.",
+        "28... Nd7 29. a4 Ra8 30. a5 Nxc5 31. Rd5 Ra6": "Here white realizes the h pawn is undefended.",
+        "32. Bxc5 b6 33. Bxe7+": "It's force mate from here.  Black put up a valiant fight.  White got lucky with early trades."
+    },
+    "url": "https://gameknot.com/annotation.pl/beauty-of-conditional-moves?gm=55644",
+    "gameName": "Beauty of Conditional Moves",
+    "players": "pasha582 (1676) vs. tinymolloy (1474)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

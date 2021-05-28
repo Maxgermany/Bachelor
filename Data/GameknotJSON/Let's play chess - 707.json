@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 f5": "Black chooses the \"tight-agressive\" Dutch Opening, an opening  not very familiar to black. ",
+        "2. c4 Nf6 3. Nc3 g6 4. h4 d5 5. e3 c6 6. Be2 Be6 7. Nf3 Nbd7 8. Ng5": "Naturally... Black should have prevented this by playing H5 - H6.  ",
+        "8... Bf7 9. h5": "White doesn't waste a second...",
+        "9... Bg7": "Last call for that exchange...",
+        "10. Nxf7": "Naturally...",
+        "10... Kxf7": "...Placing the king in a very uncomfortable position in the center...",
+        "11. hxg6+ hxg6 12. Rxh8 Qxh8 13. Bd2 Qh1+": "I don't know what black was thinking here... I think that even black doesn't have a clue... testing i guess...",
+        "14. Bf1 Rh8 15. Qe2 e5 16. O-O-O Qh7": "Change of plans... the queen and rook are shooting the wrong way... ",
+        "17. cxd5 cxd5 18. dxe5 Nxe5 19. Nb5 Ne4": "!! The decisive move!! Hoping white takes the bait...",
+        "20. Nxa7": "He does?????????????? White totally gives up his initiative, and from this moment on white is on \"reactive mode\" - black has gained all the initiative....",
+        "20... Ra8 21. Nb5 Rxa2 22. f3 Ng3 23. Qf2 Nxf1 24. Qxf1 Nc4": "The threat is revealed !\nNow the lonely b2 pawn is in great danger...",
+        "25. Bc3 Bxc3 26. bxc3 Qh8": "Bull's Eye! (and not g7).",
+        "27. Qd3": "Now white has regained his initiative and is threatening to win a pawn, possibly a knight, and even later pass a pawn.... That white rook has to go!!!",
+        "27... Ra1+ 28. Kc2 Rxd1 29. Nd6+": "A terrible mistake???....... the rest is pretty straightforward...",
+        "29... Nxd6 30. Qxd1 Qe5 31. Qd3 Nc4 32. e4 Nb6 33. exd5 Qxd5 34. Qe3 Nc4 35. Qh6 b5 36. Qh7+ Kf6 37. f4 Qxg2+ 38. Kb3 Qb2#": "Not such a bad ending for a game i wanted to resign in a couple of instances :) But let's face it, white played bad moves in key situations, and ultimately lost..."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=28218",
+    "gameName": "Let's play chess",
+    "players": "hussar (1350) vs. crninho (1526)",
+    "opening": "Dutch with c4 & Nc3 (A85)"
+}

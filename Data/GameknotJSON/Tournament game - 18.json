@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5": "Book.",
+        "5. Bd3 b6 6. Nge2": "Avoiding the pressure from Bobotsov's QB, which will be fianchettoed.",
+        "6... Bb7 7. O-O cxd4 8. exd4 Be7": "Portisch has a slight lead in development.",
+        "9. d5": "If Bobotsev accepts the sacrifice, Portisch can put him under tremendous pressure.",
+        "9... exd5 10. cxd5 Nxd5": "Taking the plunge.",
+        "11. Nxd5 Bxd5 12. Nf4 Bb7 13. Re1": "Pinning the Bishop. Now Portisch's advantage in development is turned to account.",
+        "13... Nc6": "A mistake. Bobotsev should unpin the Bishop at once.",
+        "14. Nh5 Kf8": "One move too late.",
+        "15. Nxg7": "Ripping open the King-side.",
+        "15... h6": "KxN is met with Q-N4ch, and the King-hunt would be on in earnest.",
+        "16. Nf5 Bg5 17. Nd6 Qc7 18. Bg6": "Portisch tightens the screws.",
+        "18... Ne7 19. Bxf7 Rh7 20. Bb3 Qc6 21. Nxb7 Qxb7": "Bobotsov is a Pawn down with a shattered position. He fights on for a short while longer.",
+        "22. Bxg5 hxg5 23. Qd3 Rg7": "The hammer blow is about to fall.",
+        "24. Rxe7 Kxe7 25. Bd5": "Bobotsov resigns, as there is no defense to Q-K4ch."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=29948",
+    "gameName": "Tournament game",
+    "players": "Lajos Portisch (GM) vs. Milko Bobotsov (GM)",
+    "opening": "Nimzo-Indian (E41), e3, Huebner variation"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4": "3. ...  Nd4!? last time when i have encountered this variation i have been trapped.. and i lost the game..",
+        "4. Nxe5 Qg5": "4. ... Qg5!? very nice attemp to destroy my king side..but i counter attack at his king side having a check at Bxf7!!",
+        "5. Bxf7+ Ke7 6. Qh5": "6. Qh5!! here i have challenge him to a queen to queen to defense my horse from the attack his queen..but he refuse, instead he attack my Qg2!? to have a piece advantage.",
+        "6... Qxg2 7. Rf1": "see here..he have nothing to do..",
+        "7... Nf6": "7. ... Nf6?? should take the 7. ... Qxe4  to have a piece advantage.\r\n\r\nas have comment by:\r\n\r\n heinzkat  (2202) on 19-Feb-08:\r\nI think you somehow missed 7. ... Qxe4  with AT LEAST a perpetual check for Black already. Maybe even more... via 8. Kd1 Qxc2  9. Ke1 Qe4  it's a draw; via 9. Ke1 Qxc1  10. Qd1 Nc2  Black should be winning.\r\n",
+        "8. Qh4 Nxc2+ 9. Ke2 Nxa1 10. Nc3": "10. Nc3!? is a good move to prepare for a check in d5..and probably have a mate in the later game.",
+        "10... Nc2 11. Nd5+ Kd6 12. Qf4 Qxe4+ 13. Qxe4 Nxe4 14. Nc4+ Kc5 15. Ne5 Kd6 16. f4 Nd4+ 17. Ke3 Kc5 18. Kxe4 d6 19. Nd3+ Kc4": "here he wants to save his horse..but not quite..because he will be trapped.",
+        "20. Nxc7+": "this position was very brilliant..",
+        "20... Ne6 21. b3#": "as i was saying that it is a brilliant position!!! thanks for viewing my annotation!"
+    },
+    "url": "https://gameknot.com/annotation.pl/e4-e5-nd4-variation-i-dont-know-the-name-of-this-variation?gm=14141",
+    "gameName": "e4-e5...Nd4 variation..i don't know the name of this variation.",
+    "players": "crielio_criel (1476) vs. random player (0000)",
+    "opening": "Blackburne shilling gambit (C50)"
+}

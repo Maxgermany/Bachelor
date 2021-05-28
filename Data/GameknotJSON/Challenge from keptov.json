@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. h3 Bxf3 8. Bxf3 e5 9. d5 Nbd7 10. Be3 Nb6 11. Qe2 Qd7 12. h4 h5 13. Bg5 Nh7 14. g4 Nxg5 15. hxg5 hxg4 16. Bxg4 Qe7 17. O-O-O Qxg5+ 18. Kb1 Nxc4": "Une exp\u00e9rience. Autrement, les colonnes h et g ouvertes sont une bonne compensation pour la perte du pion blanc.",
+        "19. Qxc4 Qxg4 20. Qxc7 Rac8 21. Qxd6 Rxc3": "Le coup que les blancs avaient en t\u00eate avec leur 18\u00e8me coup. L'initiative change de camp. Est-ce suffisant pour la perte de l'\u00e9change?",
+        "22. bxc3 Qxe4+ 23. Ka1": "Je crois que Roi en c1 \u00e9tait meilleur. Le roi se place en plein sur la diagonale du fou noir et m\u00eame si pour l'instant \u00e7a semble bien ferm\u00e9, \u00e7a va s'ouvrir en grand bient\u00f4t.",
+        "23... Qc2 24. Qc5 e4 25. Rdc1 Qa4 26. Kb2 b6 27. Qa3 Qd7 28. Qb3 Rc8": "Alerte maximale pour le pion c.",
+        "29. Rhe1 Qf5 30. Rc2 Rc5 31. Rd1 a6": "Apr\u00e8s ce coup, la position blanche devient de plus en plus inconfortable.",
+        "32. a4": "Aurait-il \u00e9t\u00e9 mieux de jouer Roi en a1? La position blanche demeure difficile m\u00eame apr\u00e8s ce coup.",
+        "32... b5 33. a5": "Ici Roi en a1 \u00e9tait probablement le seul coup possible (ou dame en a3?)",
+        "33... b4": "Tout va s'ouvrir devant le roi maintenant.",
+        "34. Kc1": "Tentative d\u00e9sesp\u00e9r\u00e9e du roi.",
+        "34... Bh6+ 35. Kb1 bxc3 36. d6": "Bon r\u00e9flexe. Je me suis demand\u00e9 si les blancs n'auraient pas fait mieux de tenter cette pouss\u00e9e plus t\u00f4t. C'aurait \u00e9t\u00e9 une autre partie.",
+        "36... Rb5 37. d7 Rxb3+ 38. Ka2 Qxa5+ 39. Kxb3 Bg5 40. Rxc3": "Le temps d'\u00e9valuer la position. Les noirs ont une position gagnante mais il faut faire tr\u00e8s attention au pion d blanc. Il doit \u00eatre sous haute surveillance car il peut encore faire renverser la vapeur compl\u00e8tement.",
+        "40... Qb6+ 41. Kc2 Qxf2+": "Un pion est un pion. Les noirs ont maintenant trois pions pass\u00e9s et c'est ce qui va grandement faciliter le gain.",
+        "42. Kb3 Qb6+ 43. Kc2 Bd8": "Un coup important. Il faut emp\u00eacher toute tentative de pousser ce pion \u00e9ventuellement.",
+        "44. Rc8 Kg7 45. Rd2 f5": "Ici les blancs ont abandonn\u00e9, un peu pr\u00e9matur\u00e9ment \u00e0 mon avis. Il suffirait d'un moment d'inattention et tout peut chavirer encore. Mais il est clair qu'avec le moindrement d'attention, les noirs vont l'emporter."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-keptov?gm=3153",
+    "gameName": "Challenge from keptov",
+    "players": "keptov (1628) vs. guy04 (1790)",
+    "opening": "King's Indian (E91), 6.Be2"
+}

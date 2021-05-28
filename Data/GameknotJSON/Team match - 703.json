@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "Match between Team Checkmate (white) and Snowdragons (black).",
+        "1... d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4": "Queens Gambit Accepted, Janowski-Larsen variation (D25).",
+        "5. Bxc4 e6": "When I googled this opening I found a 'game to memorize' between Portisch and Spassky, Geneva 1977. ",
+        "6. h3 Bh5 7. Nbd2": "Portisch developed his Knight to c3, which covers more of the center and leaves space to develop the Bishop.",
+        "7... Bb4 8. a3 Ba5 9. b4 Bb6 10. Bb2 a5": "Black is badly positioned. With h4 he tries to release his black Bishop. But the Queen's Knight is still not developed (and won't be for a while) and the pieces are not working together at all.\r\n\r\nWhite's position is better. All 4 small pieces are looking at the center of the board.",
+        "11. Qb3": "This creates several threats. White's bishop could actually take the e-pawn, fxe6 and Qxe6  with agressive play possible by white (Ne5 or Ng5, play d5 to add the black-square bishop. But also bxa5, Rxa5, Rb1 looks good for white.",
+        "11... Nd5 12. Bxd5 Qxd5 13. Qxd5 exd5 14. b5 O-O 15. g4 Bg6 16. Ne5 c6 17. a4 f6 18. Nxg6 hxg6 19. Ba3 Re8 20. Bc5 Bxc5": "20....., Nd7 ?!. 21 Bxb6, Nxb6. 22. bxc6, bxc6. 23, 0-0 leaves white with options. The played 20...., Bxc5 will follow with dxc5 and makes that pawn vulnerable there instead of being a strong center pawn. I think this will give black more options, also because the black rooks will work together quicker than white can bring in his second rook.",
+        "21. dxc5": "This weakens White's center position, but we must be careful that those 3 pawns are not coming too close to promotion.",
+        "21... Nd7": "Developing your Knight on move 21, that must be a well rested horse...",
+        "22. Rc1 d4": "This simple move weakens White's position quite a bit. The e-pawn can not take as it is pinned, it will be taken itself.",
+        "23. e4": "So it moves up, but now the Knight must babysit that pawn.",
+        "23... Re5": "Time to take on the cavalry on the Queen's wing.",
+        "24. bxc6 bxc6 25. O-O": "Nxc5 then 26. f4! and the Rook has to run, leaving the Knight on c5 for grab.\r\n\r\nThe fact that White had to castle to get his second Rook in play is exactly the tempo Black needed.",
+        "25... Rxc5 26. f3": "lBlack looked at 26...., Rb8. 27. Rxc5, Nxc5. 28. Rc1, Nxa4. 29. Rxc6 which is better for white.",
+        "26... Rxc1 27. Rxc1 c5": "I like this position for black. Those two pawns can become dangerous and the Knight and the Rook can defend the position from behind.",
+        "28. Nb3 d3": "When 29. Nxc5, Nxc5. 30. Rxc5, Rd8 Black will win.",
+        "29. Nd2": "White is clueless, has not many options.",
+        "29... Rb8 30. Rc3 Rb4 31. Rxd3 Nb6 32. Rd8+ Kf7 33. Rb8 Nxa4 34. Rxb4 cxb4": "This looks like a winning position for Black. One way or another one of those pawns should be able to promote.",
+        "35. Nc4 b3 36. Nd2 b2 37. Nb1 Nb6 38. Kf2 a4 39. Ke2 Nc4": "Key move at this point, allowing the a-pawn to move up. Game over now.",
+        "40. Kd3 a3 41. Kxc4 a2": "And white gives up."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=15270",
+    "gameName": "Team match",
+    "players": "adrian21 (1551) vs. radboud (1584)",
+    "opening": "QGA, Janowsky-Larsen variation (D25)"
+}

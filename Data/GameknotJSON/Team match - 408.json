@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3": "Also possible are Ng5, Nc3 or O-O",
+        "4... h6": "Trying to avoid any Loli Attack Or Fried Liver or some deadly knight sac on f7.",
+        "5. Nc3 a6": "Trying to keep hold of the b5 square to avoid any Nb5 or Bb5. I can also play b5 attacking the bishop and then i'll play Bb7 but this pawn structure will be crippled by a4",
+        "6. a3 Bc5 7. h3 d6 8. Bd2 Qe7 9. Qc1": "I believe this was trying to get rid of pawn cover if i castle short.",
+        "9... Be6 10. Bxe6 Qxe6 11. b4 Ba7 12. g4": "A Pawn Storm on both sides?",
+        "12... Nd4 13. Nh4 g6 14. g5 hxg5 15. Bxg5 O-O-O 16. Qd2": "This is a blunder! I am allowed to take the knight on h4...",
+        "16... Rxh4": "Because since the defense of f3 is now gone, I can freely place my knight on f3 and unleash a devastating king ,queen fork.  But Rook Vs Queen isn't entirely lost. I could always make a blunder just as i always do.",
+        "17. Qc1 Nf3+ 18. Kf1 Nxg5 19. Qxg5 Rxh3": "Trying to be greedy",
+        "20. Qg2 Rxh1+ 21. Qxh1 Ng4 22. Nd1 f5 23. f3 Ne3+": "Forked his king and Knight, well not really. Good to exchange pieces off.",
+        "24. Nxe3 Bxe3 25. Qh4 g5 26. Qe1 Bf4 27. c4 fxe4 28. Qxe4 Rh8 29. Kg1": "Guess he saw what i was trying to do",
+        "29... Qh3 30. Kf2": "Now the rook on a1 will fall in a few moves.",
+        "30... Qg3+ 31. Ke2 Rh2+ 32. Kd1 Rh1+": "Also possible was 32.Qg1+ Qe1 33.Qxe1+ Kxe1 34. Rh1+ Kf2 or Ke2 35. Rxa1",
+        "33. Kc2 Qf2+ 34. Kc3 Qd2+ 35. Kb3 Rxa1 36. Qf5+ Kb8 37. Qf8+": "Last checks before mate",
+        "37... Ka7 38. b5 Rb1+ 39. Ka4 axb5+ 40. cxb5 Qxd3 41. Qf7 Qxb5#": "GG"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=40378",
+    "gameName": "Team match",
+    "players": "sgtlittle (1148) vs. richard1234567 (1414)",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

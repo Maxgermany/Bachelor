@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Nf6 3. c4": "The \"weak move\" white should avoid. ",
+        "3... e6": "Icelandic. ",
+        "4. dxe6 Bxe6": "Here, white is strangely weak. ",
+        "5. d4": "Looks good, doesn't it?",
+        "5... Bb4+ 6. Nc3 Ne4": "Here, if Bd2, Qxd4, threatening mate on f2",
+        "7. d5": "A try. ",
+        "7... Qf6": "Mate is threatened, while the N is untouchable. Here, white has two moves. The one he played, Qc2, looks ok for the moment, but I wonder to see qhat happens if he plays Qa4+.",
+        "8. Qc2 Nxc3": "White loses this knight or the Rook a1 after Bxc3+.",
+        "9. Bd2": "white now threatens to take back the knigh. It can't go away without exposing the Bb5 to a loss. ",
+        "9... Bf5": "If Ba4, b3 was strong. I could have taken the e column with check inmediately (whit can't interpose the dsb with Be3, but it is not a very strong check unless I can further press on e2 with my B and R (after castling). Now, white can try Bd3, and I will consider Ne5 in return. ",
+        "10. Qb3": "The only square for the queen to go! Now, both the knight and the bishop are \"en prise\". ",
+        "10... Qe5+ 11. Ne2": "And here my opponent disconnected. I wonder what would have been the rest of the game. ",
+        "11... Nxe2 12. Qxb4 Nc3+ 13. Be3 Ne4 14. Qxb7 O-O 15. f4 Qe7 16. Qxa8 Qb4+ 17. Kd1 Qxb2 18. Rc1 Nc3+ 19. Ke1 Re8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/an-icelandic-incomplete-miniature?gm=56209",
+    "gameName": "An Icelandic incomplete miniature",
+    "players": "player (1700+) vs. damalfi ",
+    "opening": "Scandinavian (B01), Icelandic gambit"
+}

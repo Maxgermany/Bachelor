@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "Queen's Gambit",
+        "2... dxc4": "I think I'm starting to like Queen's Gambit Acceped more.",
+        "3. e3 b5 4. a4 Bd7 5. Nc3": "Would Nd2 have been better?",
+        "5... a6": "Winning back that initial pawn is taking a while. The big exchange that follows here destroys both our queenside flanks, leaving neither side with a clear advantage.",
+        "6. axb5 Bxb5 7. Nxb5 Nd7 8. Qc2": "Not sure why I did this",
+        "8... axb5 9. Rxa8 Qxa8 10. b3 e6 11. Ne2 Ngf6 12. bxc4": "Finally avenged the gambit pawn.",
+        "12... Bb4+ 13. Nc3 Ne4": "Black is applying a lot of pressure.",
+        "14. Bb2 Ndf6 15. cxb5 Qa5 16. Ke2 Bxc3 17. Bxc3 Qxb5+ 18. Ke1 Qf5": "I think this was a bad move, eventually gaining me the knight at e4.",
+        "19. Bd3 O-O 20. f3 Qd5 21. fxe4 Qg5": "This move trapped black's queen in a confined space; I spend a few turns trying to box her in further.",
+        "22. Qf2 Ra8 23. h4 Qh5 24. Be2 Qh6 25. e5 Ne4": "Black's knight forks my bishop and queen; what to do?\n\nSeeing pending knight forks is something I really need to work on!",
+        "26. Qf3": "I pretend I'm saving my queen and sacrificing my bishop. I hope he thinks I moved the queen just to threaten e4.",
+        "26... Nxc3": "He doesn't see it. This move doesn't only expose his rook, it also means checkmate.",
+        "27. Qxa8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=56116",
+    "gameName": "Let's play chess",
+    "players": "junux (1302) vs. wolfstrike (1219)",
+    "opening": "Queen's gambit accepted (D20)"
+}

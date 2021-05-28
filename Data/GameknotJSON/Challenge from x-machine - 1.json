@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "standard opening and most popular so far in my survey on my blog {see profile}",
+        "1... e5": "blocking and keeps the center deadlocked and for now closed",
+        "2. Nf3": "yuck, i either need to not play e4 anymore or learn how to defend against this fun opening",
+        "2... Nc6": "ah.........i guess no latvian here",
+        "3. Bc4": "bishop attack time to block with a hungarian defense",
+        "3... Be7": "yep hungarian",
+        "4. Nc3": "here comes hungry knight",
+        "4... d6": "opening up my bishop on c8",
+        "5. Ng5": "urk, as X machine put it later : what was I thinking?",
+        "5... Bxg5": "up a minor piece, my usual tactical awareness",
+        "6. O-O": "castling , getting safe probably a wise idea",
+        "6... Nf6": "out comes the knight so I can do the same",
+        "7. h3": "pawn storm stops Bh3 possibility ice cold",
+        "7... O-O": "time to copy here and become mr. copyCat",
+        "8. Nd5": "outposter",
+        "8... Nxe4": "unfortunately pawnbuster just leapt into duty",
+        "9. Re1": "attack!",
+        "9... Nf6": "retreat and attack for a trade",
+        "10. Nxf6+": "trade,YES!",
+        "10... Bxf6": "deciding not to trap my bishop off on a desrted island",
+        "11. d3": "developing a hopefully good potential attack",
+        "11... Bh4": "threatening Bxf2 after Qf6",
+        "12. Bd2": "brining over for an attack or protection",
+        "12... Qf6": "going thorugh with the attack",
+        "13. g3": "Now I'm not sure why he resigned here but probably because his castle is getting ripped to shreds. I of course got immediately rechallenged to a rematch, which I \"definitely\" deserved, sadly it ended similarly with a blunder. Good game, X-Machine I hope you get me good next time for the pain of these two losses. Until next time, Gator, when I'll have the 2nd game of our epicly sadly short series."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-x-machine?gm=27668",
+    "gameName": "Challenge from x-machine",
+    "players": "x-machine (1215) vs. gatorwarrior (1485)",
+    "opening": "Hungarian defence (C50)"
+}

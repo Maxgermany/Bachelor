@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "Kings gambit",
+        "1... e5": "Book",
+        "2. f4": "Yeah",
+        "2... f5": "!?",
+        "3. Bd3": "!?",
+        "3... exf4": "Ah oh",
+        "4. exf5": "Yummy!",
+        "4... g6": "?",
+        "5. fxg6": "Haha",
+        "5... hxg6": "Hmph",
+        "6. Bxg6+": "+1",
+        "6... Ke7": "Only move",
+        "7. Qe2+": "Check",
+        "7... Kd6": "King power!",
+        "8. Qd3+": "Haha",
+        "8... Ke7": "Back",
+        "9. Qe4+": "Heheh",
+        "9... Kf6": "Dancing king",
+        "10. Qf5+": "Teehee!",
+        "10... Kg7": "Oof!",
+        "11. Qf7+": "Check",
+        "11... Kh6": "King to the side",
+        "12. d4": "Threatening mate!",
+        "12... Ne7": "???????????????????????",
+        "13. Bxf4#": "Checkmate on the 13th move!!!!!!!!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=65395",
+    "gameName": "Chess game",
+    "players": "eric2jin (white) vs. linusinsulins (black)",
+    "opening": "King's gambit (C30)"
+}

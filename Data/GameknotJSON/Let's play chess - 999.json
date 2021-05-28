@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4": "Normal Ruy-Lopez Exchange Variation stuff:",
+        "6. Nxf7": "Here Black takes me by surprise as he prefers to give up his N for a single p & perhaps a slightly exposed K. Better was 3.Nd3  ",
+        "6... Kxf7": "I think slightly better was to insert 6....,Qxe4  & then follow it up with 7...,Kxf7, picking the N. Anyway one always learns by experience...",
+        "7. Qf3+ Nf6 8. O-O Qxe4": "white plays daringly; dropping his pieces & ps",
+        "9. Qb3+": "This check doesnt scare black as he can easily block it with",
+        "9... Qe6": "Probably white accepted ...,Be6?! giving scope for Qxb7",
+        "10. Qf3 Bc5": "Completes his K-side development & gets ready for his K to transfer to g-file after ....,Rf8",
+        "11. Nc3 Rf8 12. d3 Kg8 13. Bf4": "This aims at blacks c7-p but Iam in no mood to drops this p & so plays",
+        "13... Qf7": "defends the p & now threatens ....,Nh5 when white has to make a choice between B retreat or posting it on f4",
+        "14. g3": "prefers to place the B on f4 rather than allow Q swap",
+        "14... Nh5 15. Ne2": "Anyway the position is beyond repair",
+        "15... Nxf4 16. Nxf4 g5": "The pin is horrible as either of his Q or N drops. With 2 piece down white decides to call off."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=14353",
+    "gameName": "Let's play chess",
+    "players": "florislicht (1455) vs. smartmoves (1435)",
+    "opening": "Ruy Lopez (C68), exchange, Alekhine variation"
+}

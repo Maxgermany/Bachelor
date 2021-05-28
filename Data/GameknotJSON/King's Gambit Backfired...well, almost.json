@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 d6": "Kings Gambit, Fischer defense. I've played thousands of KG games as white (and hundreds of Latvian Gambits as black), yet this one was unique as I very soon found myself under early attack. Normally it's the other way around: the gambiteer should be the early attacker. That being said, under a threat of mate, Caissa smiled and I found a sneaky way out...and was able to turn the tables just in time.  ",
+        "4. d4 Be7 5. Bc4 c6 6. O-O": "6. Bxf4 would have saved me a lot of trouble had I played it instead of 0-0. In playing the King's Gambit I've discovered that when you can safely recoup the f-pawn, it's usually the right decision to make. The bishop and/or knight can most of the time relocate to safe havens after black advances g5 and g4.",
+        "6... g5 7. Nc3 Bg4 8. b3": "Not a good move. Better perhaps was the quiet 8. Bd2 without gridlocking the WSB's retreat. I also missed the blistering 8. Bxf7+! Kxf7 9. Nxg5+ Bxg5 10. Qxg4 Bxf4. In blitz normally with the Kings Gambit I do not fianchetto the DSB. But here for some reason -- probably since I had more time to think -- I went against my intuition. And I soon regretted it.   ",
+        "8... Nh6 9. Bb2 Nd7 10. d5 Ne5 11. Be2 Bxf3 12. Bxf3 g4": "By now I'm regretting my 6th and 8th moves. The f-pawn should have been taken while I had the chance, and my DSB should have never left the c1-h6 diagonal. My only consolation exists in the potential discovery on h8. ",
+        "13. Be2 Qb6+ 14. Kh1 Qe3": "Things are heating up! At this point I was wondering what the hell went wrong. I was expecting 15...0-0-0 on the next move, with a fantastic assault commencing. And the pawns on f4 and g4 were starting to look like the twin fangs of a snarling dragon. Plus, I was still down a pawn with no material or positional compensation.",
+        "15. Bd3": "I needed to do something about that invasive queen ASAP. This move adds reinforcement to e4 and protects the c3 knight as I plan to swing my DSB back down to b1, aggressing the queen and hitting the f4 pawn twice. Basically praying for a miracle.",
+        "15... f3 16. gxf3": "I realized I had to take the pawn, for after 16. Bc1?, black has the nasty ...fxg2+ 17. Kxg2 Qh3+ 18. Kh1 (not Kg1?, on account of Nxf3+) ...g3 19. Qe2 Nhg4! with a crushing attack.",
+        "16... Qg5": "On the brink of death, 16...Qg5? lost a piece, and here Caissa smiled at me. ",
+        "17. f4 Qh4 18. fxe5 g3": "I let up my guard and breathed a sigh of relief here, but soon saw that I wasn't out of the woods yet. Black still had a few dangerous tricks left.",
+        "19. Qe2": "Preventing mate: 19...Qxh2#",
+        "19... Ng4": "Threatening the devastating 21...Nxh2!",
+        "20. Rf4 h5 21. exd6 Bxd6 22. e5 Bc5 23. Ne4 Bf2": "This move took me by surprise, as I didn't see the bishop's shield allowing the instant 24...Qxh2#. My mind blanked here, and I actually thought I'd lost the game over this stupid oversight. I texted my opponent and congratulated him on the awesome move. I told him I'd need a few days to calculate some variations. ",
+        "24. Nd6+": "After spending almost two full days deliberating between 24. Nf6+ and 24. Nd6+ (I also considered 24. Kg2 out of sheer desperation), I went with this move, fully expecting him to play 24...Kd8 and escape to the queenside. Had he played it, I would have most likely continued with 25. Kg2 (as 25. Nxf6+ Kc7 26. d6+ Kb8 goes nowhere, and ...Qxh2# still must be dealt with). Suddenly Caissa smiled at me once again :) ",
+        "24... Kf8 25. Rxf7+ Kg8": "Here I played a forcing move that effectively ended the game. It's not too hard to see. Can you find it?",
+        "26. Rg7+": "A rook sacrifice that must be accepted, for the alternative is 26...Kf8? Qf3+ and black is destroyed.",
+        "26... Kxg7 27. Nf5+": "Game officially over. I thought the events leading to this royal fork were quite interesting; as this was definitely a rollercoaster chess game, and if not for a few blunders on my opponent's behalf, I would have been made into minced-meat. But such is the unpredictable beauty of our glorious game. We played on for another move or so.   ",
+        "27... Kf8 28. Nxh4 g2+ 29. Nxg2": "Black resigned. Hope you enjoyed this little excursion. Happy chess!"
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gambit-backfired-well-almost?gm=61977",
+    "gameName": "King's Gambit Backfired...well, almost",
+    "players": "mortuarydirector (1795) vs. bholifield (1783)",
+    "opening": "KGA (C34), Fischer defence"
+}

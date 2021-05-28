@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "King's Knight Opening.",
+        "2... Qf6": "Greco Defense.",
+        "3. d4 Nc6 4. dxe5 Nxe5 5. Ng5 d6 6. Bb5+ Bd7 7. Nc3 Ng4": "Ok, QxN is perfectly legit here.  The black bishop is not defending the knight since it is protecting the king.  Also, before taking the knight, white could take the bishop, stopping black's ability to castle.  Then QxN+.",
+        "8. O-O": "Uh, no.  Though this does prevent QxPf2#.",
+        "8... c6 9. Be2 Ne5 10. b3 h5 11. Ba3": "White is probably right to bypass BxPh5, as this opens black's rook file on white's castle. While this moves leaves the white knight undefended, white can counter with a pawn fork.  White's castle pawns suffer, and white doubles pawns, but also attacks the d6 pawn.",
+        "11... Qxg5": "White essentially trades a knight and pawn for a knight.  Pd6 will end up at e5 where black can protect it and exert control over the center.",
+        "12. f4 Nf3+": "Well, black ends up with white's f4 pawn instead.",
+        "13. Rxf3": "...or not.  Excellent response by white.",
+        "13... Qxg2+": "?  Trading the queen for a pawn seems questionable.  Qg6 works.  Qf6 threatens Nc3.  Pe5, PxPe5, Pf4xPe5, QxPe5...  Lots of options better than this one.",
+        "14. Kxg2 Bg4 15. Rd3 O-O-O": "Every trade now plays to white's advantage.",
+        "16. Bxg4+ hxg4 17. e5": "Oh, I like QxPg4+ better.  But this move is ok.",
+        "17... d5 18. Bxf8": "Excellent.  RxB, QxPg4+, black cannot block (interpose) so must move the king.  White follows with QxPg7 forking black's rooks.  The carnage continues.",
+        "18... Rxf8 19. Qxg4+ Kc7": "Qxg7 is actually not that great, as black can defend with Ne7 and white must move the king or queen or suffer a pin.  Better yet is Na4, or Rd4.  20.  Qxg7, Nf7.  21. Qf6 Ng6 or black must defend the knight with a rook.  Or check white's king."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=55073",
+    "gameName": "Team match",
+    "players": "psycho422 (1030) vs. scotlandthebrave (1131)",
+    "opening": "Greco defence (C40)"
+}

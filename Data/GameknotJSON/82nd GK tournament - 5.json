@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "This is the most common first move.",
+        "1... c6": "I decide to play a more solid defense rather than e5 because I might run into a fried liver or ruy lopez.",
+        "2. d4": "Grabbing the centre.",
+        "2... d5 3. Nc3 dxe4 4. Nxe4": "White now has an undefended strong knight on e4.",
+        "4... Bf5": "Attacks the knight with tempo. I could've played Nd2 but it blocks the LSB.",
+        "5. Nc3": "Far better here was Ng3 attacking the bishop. Then could come the classical variation with 5. .... Bg6  h4 6. h6 Nf3 7. Nd7 h5 8. Nh7 Bd3!\nInstead he opts for the dubious Nc3 and moves back to the same place.",
+        "5... e6": "Gripping d5 and making way for my DSB",
+        "6. Nf3 Nd7": "Prevents Ne5",
+        "7. h3 h6": "Since my LSB was valuable i wanted a escape square for my LSB if he played Nh4.",
+        "8. Bc4": "Tries to indirectly attack f7. My pawn on e6 is blocking the diagonal.",
+        "8... Ngf6": "Developing movess.",
+        "9. a3": "Probably a waste of time. Fat better here was O-O, Be3 Bd2 and Bb3 is playable.",
+        "9... Bd6 10. Be3": "Overprotecting the d4 pawn.",
+        "10... Qe7": "Better here was probably Qb6 or Qc7.",
+        "11. Bd3": "Trying to exchange LSB's",
+        "11... Bxd3 12. Qxd3 O-O 13. O-O Rac8 14. d5": "Not a brilliant move. I can now have 2 centre pawns. A rook pawn for a centre pawn. Worth it.",
+        "14... cxd5 15. Bxa7": "Snatches the a pawn.",
+        "15... b6": " BLocks the diagonal for the DSB.",
+        "16. a4 Rca8 17. Nb5": "Trying to hold onto the DSB.",
+        "17... Nc5": "Attacks the queen with tempo and makes way for my queen to attack the DSB.",
+        "18. Qc3 Nfe4": "Harasses the queen more.",
+        "19. Qd4 Rxa7": "Exchanging 2 pieces for a rook.",
+        "20. Nxa7 Qxa7 21. b3 Rc8 22. Nd2 Nxd2 23. Qxd2 Ne4 24. Qe3 Rxc2": "I grab the free pawn. A minor piece and a pawn is almost equal to a rook in terms of power but 2 minor pieces and 1 pawn is too much.",
+        "25. Rac1 Bc5": "Attacks the queen and hits the f2 square.",
+        "26. Qd3 Rxc1": "Once Rxc1 I would play Nxf2. REgardless of where the queen moves, the next move is going to be Nd3  picking up the rook unless the queen could be attack. I would be 2 pawns and a bishop up so here white resigns. White could've played on tried to pick some more pawns although it would be extremely hard as My position is extremely solid and The queen alone can not infiltrate. Every pawn is protected and I have a queen that could patrol around the pawn chains."
+    },
+    "url": "https://gameknot.com/annotation.pl/82nd-gk-tournament?gm=40971",
+    "gameName": "82nd GK tournament",
+    "players": "clelmolucio (1325) vs. richard1234567 (1496)",
+    "opening": "Caro-Kann (B18), classical variation"
+}

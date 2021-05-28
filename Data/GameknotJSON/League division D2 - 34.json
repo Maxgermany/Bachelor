@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "This game is a fair reminder of the importance of 1) king safety) and 2) piece development in the opening (they often go hand-in-hand). White embarks on a series of hopeful moves, leaving his king in the center. His kingside rook and bishop remain asleep all game.",
+        "1... Nf6 2. Nf3 g6 3. Nc3": "'?'",
+        "3... d5": "Easily Black's best. White's 3.Nc3 is positionally dubious, locking in the c-pawn and allowing Black to play ..d5 with strong central control. Note how Black dominates the central light squares. If allowed, he will contest the dark squares via ..Bg7, ..Na6/..Nbd7, and ultimately ..c5/..e5, etc. Black threatens an edge already.",
+        "4. Bf4": "The only move to retain equality. White  develops his c1 bishop before closing the pawn chain.",
+        "4... Bg7 5. e3 Bg4": "'!?' - Theory prefers the immediate ..c6 or ..0-0, both of which will be played anyway and offer more flexibility. Still, ..Bg4 fights for e5 and threatens to exchange Black's \"problem\" bishop with White's most promising minor piece, which is hard to argue against.",
+        "6. Nb5": "'?' - After ..Na6 (forced), White is simply under-developed, and he will lose a tempo in retreat to ..c6. Black has an edge here.",
+        "6... Na6 7. c4": "'?!' - The beginning of a bad plan. White is still 2 moves from castling and this doesn't help matters. Black will hardly acquiesce central control via ..dxc4?, which is the only vindication for White's idea.",
+        "7... c6 8. Na3": "'??' - In fact after this move, Black wins immediately. White's failure to develop (and castle!) now combines with newly-created dark squared weaknesses (c4 opens the e1-h5 diagonal while the dark bishop is locked out of defense) to doom him.",
+        "8... Ne4": "'?' - Not strictly speaking a blunder (Black is still clearly better and should win), but it allows White to develop his f1 bishop and so meet Qa5  with Kf1 and relative safety. This inaccuracy is no doubt related to Black's proclivity for playing many games concurrently (and fast-playing the less taxing ones), a habit he has since halted. And so Black reserves his right to make excuses for occasionally weak play!",
+        "9. cxd5": "'??' - White has lost the thread of the game. It was not too late for Be2 (or even Qa4, stopping ..Qa5  directly)",
+        "9... Qa5+ 10. Ke2 Qb4 11. Rb1 cxd5 12. Nc2": "'?!' - An inaccuracy in a hopeless position. More tenacious was 12.h3, to eradicate the pin on Nf3 that paralyzes White's position.",
+        "12... Qb5+ 13. Ke1 Qa5+ 14. Ke2 Qxa2 15. Ke1 Qa5+ 16. Ke2 Nb4 17. Nxb4 Qxb4 18. Qc2": "Apparently missing Black's reply. This move hastens White's demise.",
+        "18... Rc8 19. Qd3 Bd7": "'!' - The point. Black can redirect his bishop to b5 and win the queen (White's king has nowhere to go), while the Nf3 is simply offside.",
+        "20. Qa3": "An invitation to dine with His Majesty from the White Queen herself.",
+        "20... Bb5+ 21. Kd1 Nxf2#": "A pretty mate. Four pieces collaborate in White's demise, which seems appropriate punishment for White's haphazard opening development."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2?gm=6203",
+    "gameName": "League division D2",
+    "players": "scarecrow1167 (1458) vs. scottyad (1789)",
+    "opening": "King's Indian (A48), East Indian defence"
+}

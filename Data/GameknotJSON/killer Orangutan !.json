@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. b4": "orangutan opening : i'm trying to tame the beast !",
+        "1... e5": "classical, treathening weak b4",
+        "2. Bb2": "main line : proposing exchange b4 agains e5 but destroying black center and then treaths if black take b4. ",
+        "2... Qf6": "unknown variation ! I thing this is not so good exposing the queen to a dicovered attack",
+        "3. a3": "to prevent Bxb4",
+        "3... c5 4. Nc3": "i have a secret weapon prepared... : Kd5...Kc7+ wins rook. Of course this is not so secret !",
+        "4... cxb4 5. Nd5": "but it can serve ! At less to get back my b4 pawn",
+        "5... Qd6 6. Nxb4 g6 7. Nf3": "fighnting for center",
+        "7... Bg7 8. e3": "c4 will be a nice position for my LSB...",
+        "8... Bf6 9. Bc4 Qb6": "blunder : I come again with my knight in d5",
+        "10. Nd5 Qc6": "i willl win the e5 pawn after exchange black bishop with d5 knight",
+        "11. Nxf6+ Nxf6": "so ther is the nice fork coming, i'm sure the good players have seen it from before...isnt it ?!",
+        "12. Bxf7+": "first : sacrifice bishop",
+        "12... Kxf7": "he should not...",
+        "13. Nxe5+": "here we are ! So isnt the orangutan a funy one ?"
+    },
+    "url": "https://gameknot.com/annotation.pl/killer-orangutan?gm=47402",
+    "gameName": "killer Orangutan  ! ",
+    "players": "31415 (1219) vs. kali197 ((?))",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

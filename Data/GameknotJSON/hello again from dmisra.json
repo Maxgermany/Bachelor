@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "See my other annotated games, I learnt the Kings gambit 4 months ago and I am always trying it out.",
+        "2... exf4": "he takes it",
+        "3. Nf3 Nf6 4. Nc3": "normally i would have got the lsb out first in kings gambit but his knight move forces me to protect my e pawn",
+        "4... Be7 5. Bc4 O-O 6. d4": "want to recover his f pawn, but should i have castled first ?!",
+        "6... d6 7. Bxf4": "pawn recovered, but effectively he has castled and my planned kings gambit attack on his kingside has evaporated. could i have done anything different?",
+        "7... Nc6 8. O-O Bg4 9. a3": "preventing N b4",
+        "9... Qd7 10. Qd3": "get my queen off the pin and it points towards his h7",
+        "10... Nd8 11. Rae1 Ne6 12. Be3 Nh5 13. Qd2": "preventing Nf4",
+        "13... g6": "now i think that is a mistake for it weakens his king defence, i think g6 should be played only if the dsb is sitting on g7. am i right ??",
+        "14. Kh1 Neg7 15. Ng1 Be6 16. d5 Bg4": "he is losing moves just pushing his bishop around while i have advanced into the centre d5",
+        "17. h3 Ng3+": "SLOPPY OF ME",
+        "18. Kh2 Nxf1+ 19. Rxf1 Bh5": "I am 2 points down but decide to take his bishop so...",
+        "20. g4 Bxg4 21. hxg4 Qxg4": "now the king is looking exposed so...",
+        "22. Qg2 Qd7 23. Nf3": "get my pieces out as I rebuild my attack",
+        "23... c6 24. Qh3": "i want to exchange queens for with my limited rating I find the opponents combination of 2 rooks and queen daunting in end games. was i right to go for q exchange??",
+        "24... Qc7": "Please try and guess what is whites best move for attack now and then see how I played the next 4 moves",
+        "25. Bd4": "now suddenly i eye his weakness around his king, no plan as yet, just feel attack is best option",
+        "25... cxd5": "should i retake or leave for later. i actually see a better plan...",
+        "26. Qh6": "he wakes to this threat",
+        "26... Ne6": "now i analyse furiously. options- N or e or Bxd5, or move N to g5..\r\ndare i sense victory??",
+        "27. Nxd5": "if he takes my lsb, i will go NxB, Kh8.... Ng5 etc. ",
+        "27... Qd7": "he is now under pressure ...",
+        "28. Bf6": "if he takes my bishop Nf6 will be decisive",
+        "28... Rfe8 29. Ng5": "funny game chess . on move 25 i am angry with my earlier sloppiness. suddenly, as if through a mist i see some opportunity and 4 moves later it is over. hope you enjoyed. PL COMMENT FREELY"
+    },
+    "url": "https://gameknot.com/annotation.pl/hello-again-from-dmisra?gm=19048",
+    "gameName": "hello again from dmisra",
+    "players": "dmisra (1614) vs. freeman108 (1582)",
+    "opening": "KGA (C34), Schallop defence"
+}

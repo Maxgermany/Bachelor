@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5": "Not facing the Sicilian, a change!",
+        "2. Nf3 Nc6 3. c3": "Attempting the Ponziani",
+        "3... Bc5": "Slightly un-usual take on the opening",
+        "4. Bc4 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nge7": "Not sure about this, seems a little negative",
+        "8. O-O O-O 9. Bg5 h6 10. Bh4 g5": "Think this is an error",
+        "11. Bxg5 hxg5 12. Nxg5": "Sacrifice has opened him up",
+        "12... Kg7 13. Qh5 Rh8 14. Qxf7+ Kh6 15. Qf6+ Ng6 16. Qxd8 Nxd8 17. f4": "He looks so exposed here",
+        "17... Nxf4": "Moving a defender?",
+        "18. Rxf4 Kxg5 19. Raf1 Ne6 20. Rf4f5+": "Pin coming",
+        "20... Kg6 21. Rf5f6+": "Piece gone",
+        "21... Kg7 22. Bxe6 Bxe6 23. Rxe6 Rae8 24. Rxe8": "He still might have a chance here, with more mobile bishop against rook but 2 pawns down",
+        "24... Rxe8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d1?gm=28178",
+    "gameName": "League division D1",
+    "players": "gsv_bagpuss (1562) vs. copmanis (1598)",
+    "opening": "Ponziani opening (C44)"
+}

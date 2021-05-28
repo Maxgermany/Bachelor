@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. a4 g6 3. b3 Bg7 4. Ra2 e6 5. Ne2 Ne7 6. Ng3 O-O 7. h4 d5": "in my case, just normal development in the Hungarian variation of the Sicilian; I had really no idea, what White was up to: frankly, I didn't even look at it; to me, this player was a deranged madman/woman...",
+        "8. h5": "to be honest, not a bad move after all: maybe even the best; and at least, it caught me off guard...",
+        "8... Nbc6": "totally minding my own 'blind business', I possibly did not even glance at the possibility of g5, h6, Be5!, leading to much complications for White; this move is fine also, but it made me forget Be5...",
+        "9. h6": "White is not about to leave his - a  bit overly vain - plans: at this point, better hxg6, fxg6, Bb2...",
+        "9... Bf6": "still being a bit oblivious of what was really going on, I totally missed Be5!: from here, Blacks' play is already winning; after Bb2, Bxg3, fxg3, Nb4!, Black has the best of play...",
+        "10. Bb2": "already somewhat dubious in this position: this will further bury Ra2, after trading; better Be2, d3, Kf1, and get into safety first mode...",
+        "10... Bxb2 11. Rxb2 Ne5": "still, not paying real good attention: this throws away most of the advantage, I had already - obliviously - built up; f5 or Qd6 here, would have been much stronger; but I was just playing the same 'trustful' rusty riddle, I had always played; a real shame, because I had 'plenty of time' left: I usually play this opening moves - mostly regardless of 'any counter play' - always winning time on the clock... (we play 3+10)",
+        "12. Nc3 a6": "again: too cautious; preventing Nb5 - as I always do - is immaterial here: I usually plan d4 here, to drive away Nc3, and that was already better than this (after d4, Nb5, f6!)... even a direct f6 - or even f5 - would have won at least several tempi...",
+        "13. b4": "obviously trying to release the cramped Ra2; but I was in  no mood to play cxb4: still being stubborn...",
+        "13... d4": "had I looked closer, I might have found cxb4, Rxb4, Qa5!, or d4 after Rxb4...",
+        "14. Nce2": "lucky for me, White didn't find the stronger Na2, Qc7, bxc5, bxc5, Qxc5, c3!...",
+        "14... b6": "still missing cxb4, Rxb4, Qa5; after Rxd4, N7c6, Black is clearly better...",
+        "15. bxc5 bxc5": "to be totally honest: White has coped very well so far; although Black has more space on the board, there is little room to make a winning plan: after just Nc1 (to prevent a devastating Black d3), followed by f4, White can make room for setting up a decent defense...",
+        "16. c3": "again, a move that totally baffled me at first: I was calculating with f4, Nc4, Rb1, Qc7, e5, f6, Nc1, Nb6, and had frankly no idea, how to ever win this... so for the first time in this game, I had to think really hard...",
+        "16... Nd3#": "I really have to admit: finding this move took me the best part of a couple of minutes - which I luckily had more than enough of; I considered Nc4, I considered d3, I considered Ng4, but none of it brought me anywhere... to be brutally honest: I played this only to fork Rb2 under check, and mate was never on my mind... I forgot the most important rule in chess, in always asking yourself, at any move: how can I mate?"
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-mates-choking?gm=63610",
+    "gameName": "Fierce Queen mates choking...",
+    "players": "miadavid (unrated) vs. fiercequeen (unrated)",
+    "opening": "Sicilian defence (B20)"
+}

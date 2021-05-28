@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 cxd4 5. Nxd4 Ne7 6. Bg5 Nbc6 7. Na3": "Oh great.  He just blunders away a pawn.\n",
+        "7... Nxe5 8. c3 h6 9. Bf4": "Qc7 would just walk into a pin.\n",
+        "9... Ne5g6": "Black is much better here.  Moving either knight to g6 or c6 was O.K.\n",
+        "10. Nab5": "Oh great.  He just blunders away a piece. \n",
+        "10... Nxf4 11. Nd6+": "Oh great.  He just blunders away another piece.\n",
+        "11... Qxd6 12. Nb5 Qe5+ 13. Be2 Nxg2+": "Bd7 and a6 are about the same.\n",
+        "14. Kf1 Nf4 15. Qa4": "Oh great.  He blunders away his king.\n",
+        "15... Qxe2+ 16. Kg1 Nh3+ 17. Kg2 Qxf2+ 18. Kxh3 e5+ 19. Qg4 Qf3+ 20. Kh4 Qxg4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=56342",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "Terry Emmons  vs. John Coffey ",
+    "opening": "French (C00), Wing gambit"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4": "A very common opening move.",
+        "2... Nc6 3. Nf3 Nd4": "Try this if you are sure you are not playing someone who would be suspicious of a trap.",
+        "4. Nxe5": "White takes the poisoned pawn.",
+        "4... Qg5": "Queen comes to feint an attack on the knight.",
+        "5. Nxf7": "White think they have a fork.",
+        "5... Qxg2": "Black starts to make trouble.",
+        "6. Rf1 Qxe4+": "End game.",
+        "7. Be2": "White has nothing to offer.",
+        "7... Nf3#": "Sweet. Good to use on kids learning the game to make them aware at all times of traps and a good lesson to never take the poisoned pawn. Do not feel the need to leave negative comments. xx"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-neat-trap-for-black?gm=44497",
+    "gameName": "A neat trap for black",
+    "players": "santiagomx (1220) vs. greyblack (1343)",
+    "opening": "Bishop's opening (C23)"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6": "Se opt\u00f3 por la apertura Italiana, al parecer la favorita de Hassmett",
+        "4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8. Bxc6 bxc6 9. O-O Bc5": "En esta posici\u00f3n Juan Meruvia afirmo que era mejor la jugada Ae7, sin embargo como demostraron los an\u00e1lisis ambas jugadas dan igualdad para ambos bandos, claro que juan se empe\u00f1aba en afirmar que con la jugada Ae7 se es m\u00e1s f\u00e1cil empujar la cadena de peones comenzando por el pe\u00f3n \" c \", simple cuesti\u00f3n de gustos.",
+        "10. Be3 O-O 11. f3 Ng5 12. f4 Ne4 13. Nd2 f6": "Hasta aqu\u00ed la apertura fu\u00e9 jugada perfectamente por ambos jugadores, en la jugada propuesta por las negras no record\u00e9 la continuaci\u00f3n m\u00e1s fuerte para mi gusto seg\u00fan la linea que era f5 , seg\u00fan mi base de datos de hecho f6 fu\u00e9 una novedad que para sorpresa mia tambien es buena y da igualdad a las negras. Por ejemplo , 14 .- Cxe4- dxe4  15.-De2-Ag4   16.-Dxg4-Axd4   17.-Tfe1 - fxe5  18.-fxe5 - Dd5   19. Tad1-Axe3+   20.-Txe3 - Dxe5    =(0.07) Rybka 3 (no soy muy amigo de los analisis con computadora pero crei que la posici\u00f3n critica as\u00ed lo ameritaba)",
+        "14. Nxe4 dxe4 15. Qd2 fxe5 16. fxe5 Qe7": "Igualdad por todos lados, el peon doblado en c de las negras no se ver\u00e1 muy lindo pero tienen las mismas oportunidades de defenderlo como las blancas de atacarlo, se puede decir que es un punto debil en forma de espejismo.",
+        "17. e6 Bxd4 18. exd7 Rxf1+ 19. Rxf1 Bxb2": "La jugada ingenua de las negras pierde automaticamente, mucho mejor era  19.- Txf1 - Axe3+  20.-Dxe3- Dxd7  21.-Dxe4-h6  22.-b3-Te8   23.-Df4 - Dd5  con mucho juego a\u00fan",
+        "20. c3 Ba3": "El golpe de las blancas no tarda en llegar ya que era una jugada evidente que esclarece la mala disposici\u00f3n del alfil negro.",
+        "21. Bg5": "Es raro pero durante dos partidas consecutivas me ocurrio lo que con mis amigos de Blitz denominamos como \" Delirium Tremens\"  poco frecuente en este tipo de partidas. Primero con Sebastian Urquiola con quien perd\u00ed en solo 9 jugadas si no mal recuerdo,  pero me sirvi\u00f3 de lecci\u00f3n para estar m\u00e1s atento y separar problemas externos con los problemas dentro de las 64 casillas. "
+    },
+    "url": "https://gameknot.com/annotation.pl/cerrado-jaque-64?gm=36648",
+    "gameName": "Cerrado Jaque 64",
+    "players": "Daruich, Hassmett  vs. Sanhueza, Felipe ",
+    "opening": "Two knights defence, Keidanz variation (C55)"
+}

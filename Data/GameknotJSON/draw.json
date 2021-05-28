@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6": "i play the Orthodox",
+        "3. Nf3 Nf6 4. g3 c6 5. Bg2 Bd6 6. Qc2": "this guards c4",
+        "6... O-O 7. Nbd2 Nbd7 8. O-O e5": "ok i want to open up the center!",
+        "9. cxd5 Nxd5 10. Nc4": "three hits on e5",
+        "10... Qe7": "its safe",
+        "11. Nxd6 Qxd6 12. Rd1 exd4 13. Rxd4 Qe7": "he was going to go e4 winning my knight!",
+        "14. a3 Nd7f6 15. e4 Nc7 16. Bf4 Ne6 17. Rc4 Nxf4": "doubled pawns!",
+        "18. gxf4 Be6 19. Rd4 Rad8 20. Rad1 Rxd4 21. Nxd4": "he offered a draw i agreed!"
+    },
+    "url": "https://gameknot.com/annotation.pl/draw?gm=43988",
+    "gameName": "draw ",
+    "players": "randy09 (2204) vs. water123 (1830)",
+    "opening": "QGD Slav (D30)"
+}

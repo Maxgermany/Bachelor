@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 Nf6": "Hoping to try the Budapest.",
+        "2. e3": "It won't be...",
+        "2... e6": "Now I am at a complete loss. ",
+        "3. c4 c5": "I know this is a known position, but not for me as black.",
+        "4. Nf3 Nc6 5. Be2": "Passive. I am not sure about this move. ",
+        "5... Qb6": "I try to take advantage. But I overlook d5,",
+        "6. O-O": "He doesn't play it, he wants to play sure. ",
+        "6... d5": "With a lot of complications I cannot handle, but I hope my opponent won't, either :-)",
+        "7. b3": "Being solid, apparently. ",
+        "7... Be7": "Passive, but I thought that I could handle every possible exchange from white. But I am not sure about that. ",
+        "8. Ng5": "Will be the kingside my fate? I can take the offered pawn since after cxd, exd, Nxd, Be3, e5 holds, or Qxd, QxQ (forced), NxQ, Be3 is not a threat anymore. But I couldn't see all this during the game, so I played...",
+        "8... O-O": "White is still undeveloped, so I took my chances.",
+        "9. f4": "Launching an attack but losing tempo for developement. ",
+        "9... h6": "All this time I completely forgot about the d4 pawn... :-)",
+        "10. Nf3": "Now I cannot take it anymore! :-(",
+        "10... Ne4": "A nice outpost, to block white's kingside intentions. ",
+        "11. Nc3": "Can you imagine? I missed NxN!",
+        "11... Rd8": "Looking forward to win d4. ",
+        "12. Nxe4": "He realized and exchanged, but...",
+        "12... dxe4 13. Ne5 Nxe5 14. fxe5 cxd4 15. exd4 Rxd4": "And black wins!",
+        "16. Qc2 Rd2+ 17. Kh1 Rxc2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-win?gm=41131",
+    "gameName": "Quick win",
+    "players": "troncote  vs. damalfi ",
+    "opening": "Queen's pawn game (A45)"
+}

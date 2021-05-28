@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. g3": "Having an extra opening for the bishop is really unnecessary.\n",
+        "5... Nc6": "More usual for me would be Bd6.\n",
+        "6. c3": "\n",
+        "6... Bd6 7. Bg5": "This costs valuable time when white needs to castle.\n",
+        "7... O-O 8. Bg2 Re8+ 9. Be3 Ng4 10. Qd2 Nxe3 11. fxe3": "This backward pawn will be white's undoing.",
+        "11... Ne7": "Obviously better than Na5 12. b3.\n",
+        "12. O-O Nf5 13. Re1 h5": "Since Black's pieces are aimed toward the kingside, this makes sense.\n",
+        "14. Qd3 c5": "14. ... h4 is also good.  15. g4 h3  16. Bxh3 Nh4 with threats and complications.  17. Nxh4?? Qxh4 forks two pieces.  18. e4 dxe4 19. Rxe4 Rxe4 20. Qxe4 Qh4 with powerful threats.\n",
+        "15. c4": "A tactical blunder.\n",
+        "15... dxc4": "Now white should try to hang on with Qd2.\n",
+        "16. Qxc4": "Qd2 was better.",
+        "16... Nxe3 17. Qe2": "17. Qc3  is just slightly better because black would like to be able to play cxd4 followed by Bc5.",
+        "17... Bd7": "Bf5, Bg4 and cxd4 are also good.\n",
+        "18. Nc3": "This is the wrong square because after cxd4 threatening the knight, white's options are more limited.  Nbd2 is better.\n",
+        "18... cxd4 19. Nxd4 Bc5": "Suddenly things are horrid for white.  Now 20. Nb3?? Nxg2+ 21. Kxg2 Bc6+.  If instead 21. Nxc5  Rxe2  22. Rxe2 Qb6 will eventually win because the pins and material advantage.\n",
+        "20. Qd3": "20. Qd2 doesn't seem to be any better after Nxg2.\n",
+        "20... Nxg2": "Now if 21. Kxg2 Bc6+ 22. Kf1 Qd7! puts white in a world of hurt.",
+        "21. Rxe8+ Bxe8 22. Kxg2": "22. Nce2 might prolong the agony longer. ",
+        "22... Bc6+ 23. Ne4 Qxd4 24. Qxd4 Bxd4 25. Kf3": "If 25. Re1 then Re8.",
+        "25... Re8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=59768",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "rravanne  vs. John Coffey, Chess Player at Lar ",
+    "opening": "French (C00), Wing gambit"
+}

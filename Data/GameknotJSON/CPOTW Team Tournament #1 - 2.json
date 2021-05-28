@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "yah i get to do a silcian",
+        "1... c5 2. Bc4 Nc6 3. Nf3 e6": "my usaul silican set-up",
+        "4. Nc3 a6": "i did not anyone to go to b5",
+        "5. a4 Qa5 6. d3": "he pins his own knight, and now i can attack his bishop",
+        "6... b5 7. Bb3": "i might be able to attack it again",
+        "7... c4 8. dxc4 bxa4": "now i got his bishop trapped in a box",
+        "9. Rxa4": "not really but it kinda did not work and i lost a pawn for my efforts",
+        "9... Qc5": "gotta vacat and accept my loss",
+        "10. Be3": "gotta move her again",
+        "10... Qh5 11. h3 Nf6 12. Rh2 Bd6": "i did not notice that this was a free piece. my bad",
+        "13. Qxd6 Qg6 14. c5 Rb8 15. e5 Ng8": "he pushes my knight bac to square 1",
+        "16. Nh4 Qh5 17. Qc7 Nge7 18. g3 O-O 19. Ne4 Nd5 20. Bxd5 Rxb2 21. Kd2 Nb4 22. Bb3 Nxc2 23. Bxc2 Bb7 24. Nc3 Bc6 25. Ra2 Rb7 26. Qd6 f6 27. Bd1 Qf7 28. f4 fxe5 29. Qxe5 Rfb8 30. Ke1 Rb7b4 31. Rhc2 Ba4 32. Nxa4 Rb4b1 33. Nc3": "i am totally throwing away this game, without even trying to",
+        "33... Rb1b3 34. Bd4 Kf8 35. f5 exf5 36. Nxf5 Re8": "i pinned his queen but i truelly think that this is too little way too late",
+        "37. Rcf2 Rxe5+ 38. Bxe5 Kg8 39. Rxa6": "i cannot stop ra8 which would spell mate i resigned here. for after ra8 my queen has to interpose the cehck and he checks with his knight on e7 and i have to unguard my queen the rook takes(either one) and its mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/cpotw-team-tournament-1?gm=6564",
+    "gameName": "CPOTW Team Tournament #1",
+    "players": "eqj2 (1268) vs. darius_vitrosoo (1292)",
+    "opening": "Sicilian defence (B20)"
+}

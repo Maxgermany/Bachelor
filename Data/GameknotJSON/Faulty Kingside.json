@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 g6 2. e4 Nh6 3. Bd3 f6": "Hippopotamus Opening.",
+        "4. Ne2 Bg7 5. O-O O-O 6. f4 Kh8": "? waste of tempo. I should have developed my Q-side pieces.",
+        "7. Nbc3 d6 8. f5": "White clearly has the lead in development and can now start his attack.",
+        "8... Ng4 9. h3 Ne3": "Didn't see the DSB Bishop lurking there, on the square its been on the whole game.",
+        "10. Bxe3 gxf5": "Desperation.",
+        "11. exf5 c5 12. Nf4 Bh6 13. Ng6+ hxg6 14. Bxh6 Re8 15. fxg6 Be6": "No use. e6 would have been better, so I could get out my Queen.",
+        "16. Qh5 Qd7": "Why?!",
+        "17. Bg7+": "I hope this was helpful."
+    },
+    "url": "https://gameknot.com/annotation.pl/faulty-kingside?gm=37159",
+    "gameName": "Faulty Kingside",
+    "players": "makokha (1617) vs. theancientbeast ",
+    "opening": "Modern defence (A40)"
+}

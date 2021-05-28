@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This is my first annotation so excuse the errors, standard king pawn opening",
+        "1... e5": "standard king pawn reply",
+        "2. Nf3": "attack king pawn",
+        "2... Nc6": "knight defends king pawn and attacks d4",
+        "3. Nc3": "I am trying to open up a queen pawn attack here",
+        "3... Nf6": "mirror move",
+        "4. Bb5": "I decide to mix it up, in hindsight a mistake",
+        "4... Nd4": "attacks the knight defended by the pawn",
+        "5. Ba4": "I should have taken the knight here but was unhappy with the pawn attacking my knight",
+        "5... Bc5": "sensible knight attack for good position",
+        "6. Nxe5": "decided to take the pawn",
+        "6... O-O 7. Nd3 Bb6": "I should be castling here",
+        "8. Nd5": "but I go on the attack",
+        "8... Nxd5": "good move as it opens up the attack on the king",
+        "9. exd5 Re8+": "not happy to give up the queen so try to get out of it",
+        "10. Kf1 Qh4": "attacking move by the queen",
+        "11. f3": "not sure why I did this blind panic I think",
+        "11... Nf5": "mate in sight",
+        "12. Nc5": "desperate defence but I know I have lost",
+        "12... Ng3+ 13. Kg1 Qd4#": "short and brutal"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-and-learning-to-run-mt-part-4?gm=48271",
+    "gameName": "Walking the Walk and Learning to Run MT Part 4",
+    "players": "chrisforbes21 (1207) vs. myevilluck (2076)",
+    "opening": "Four knights (C48), Rubinstein counter-gambit"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 Bd7": "Uncommon move in the opening, the main line is O-O. \nThis move, anyway, didn't surprise me too much, because the play can proceed like in the main lines.",
+        "7. Qd2 O-O 8. O-O-O Nc6 9. f3 Re8 10. g4 Nxd4 11. Qxd4 h6": "?! Generally, no one wants to create a contact point for the opponent's pawn storm. \nProbably, he should have tried to create some counterplay on the queenside, because in those positions he can only hope to defend.",
+        "12. h4 Nh7 13. Nd5": "! A quite surprising move, because it stops the most annoying move on Black side: Bf6.",
+        "13... Bf8": "Contrary to the first impression, Bxh4 doesn't gain material, because of Rxh4 and Nxc7, then the d6 pawn falls.",
+        "14. Qd2 Nf6 15. Nxf6+": "! Gaining a tempo for the opening of the kingside lines with g5.",
+        "15... Qxf6 16. g5 hxg5 17. hxg5 Qg6 18. Bd3 f5": "It blocks e5, but it allows a quite nice tactic, that I managed to spot after almost half an hour of analysis at the board.",
+        "19. Bc4+ Be6 20. exf5 Qxf5 21. Bd3": "! The move probably missed, because it is always easy to miss retreating moves. Now the King is open and the conclusion is near.",
+        "21... Qc5 22. Bg6 Bf5": "? The better Be7 would have delayed the checkmate by 10 moves or more, but this is just suicidal.",
+        "23. Rh8+": "! Mate in 3, so resignation is perfectly sound."
+    },
+    "url": "https://gameknot.com/annotation.pl/96th-gk-tournament?gm=46134",
+    "gameName": "96th GK tournament",
+    "players": "cavillus (1680) vs. 7beaufeet7 (1553)",
+    "opening": "Philidor (C41), Berger variation"
+}

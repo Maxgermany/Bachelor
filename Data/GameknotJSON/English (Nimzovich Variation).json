@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. c4 e5 2. Nf3 e4 3. Nd4 Nc6 4. Nxc6 dxc6 5. Nc3 Nf6 6. g3 Bb4 7. Bg2 Bxc3": "Black wants to keep White from ganging up on the weakling at e5 with Nc3, Bg2 and Qc2, so this exchange, giving up the Bishop-pair, is almost mandatory lest Black bolt right out of the starting gate into a defensive and mostly passive box.",
+        "8. bxc3 O-O 9. O-O Re8 10. d4 Bg4": "A puzzlingly one-dimensional move, since the Bishop is doing nothing but inhibiting White's King-pawn from stepping forward, and not even in any significant way. Better was 10. ...Be6, to force White to make a decision in the center.",
+        "11. Bg5 h6 12. Bxf6 Qxf6 13. Qc2": "Now the double attack on Black's e-pawn exposes the impotence of his 10th move and compels a loss of tempo.",
+        "13... Bf5 14. Qb2 Rab8 15. Rad1": "And now Black can't play ...Be6 anymore because of the supported pawn-push to d5.",
+        "15... h5": "The second move for Black's h-pawn, which basically loses another tempo thus more than justifying White's own loss of time in reply ...",
+        "16. h4 Kh7": "Black wants to open either the g- or h-file for his Rooks. The problem is that to do so he has to expose his King somewhat, and he needs his Bishop in that immediate neighborhood to help support his counterattack ...both of which factors White will soon exploit to his advantage.",
+        "17. e3": "Making it hard for the Rook on e8 to enter the game via e6 and then along the 6th rank after the pawn-push to d5.",
+        "17... g5": "Preparing with ...Rg8 first is better because Black's Queen will actually be misplaced after the capture on g5.",
+        "18. hxg5 Qxg5 19. d5": "More than an attempt to open the d-file, the text also wants to prepare the opening of both the a1-h8 and a2-g8 diagonals plus keep options available for activity on the b1-h7 diagonal.",
+        "19... Bg4": "This is simply a mistake. Black's counterattack should come down the g-file, and here he wastes time by putting yet a second piece in the way. The push 19. ...h4 was the best move.",
+        "20. Rd2 Bf3 21. dxc6": "White doesn't fear opening the b-file since it simply forces him to play his Queen to a better square.",
+        "21... bxc6 22. Qc2": "Now the threat is 23. Bf3.",
+        "22... Kh8 23. Rd7 Qf5 24. Bxf3": "Deserves at least a \"!?\" If Black takes the Rook then Be4 is followed by a quick Kg2 and Rh1+, and suddenly it's White who has a nasty attack for the Exchange. If 24. ...Qf3 then Black loses all the pressure he's tried to build up on the Kingside. And finally if 24. ...ef3?? 25. Qf5 wins. Objectively Black has one choice, and he plays it.",
+        "24... Qxf3 25. Qd1": "White prepares to let his Queenside pawns dissolve while he gets Black's Kingside and threats against the King. And although objectively best is 25. ...Qd1  26. Rfd1 Rb7 (or 26. ...Rb2  27. R1d2 with a likely draw), Black has other ideas.",
+        "25... Rb2 26. Rxc7 Rxa2 27. Qd4+": "Wins Black's a-pawn on the move.",
+        "27... Kg8 28. Rxa7 Rxa7 29. Qxa7 h4": "Black is playing to win, but wrongheadedly. White has too many saving options now.",
+        "30. Qd7": "Not only attacking Black's Rook but covering the g4 checking square.",
+        "30... Ra8 31. gxh4 f5": "Black seems fixated on calling check on g4. Much better was 31. ...Kh8! with the nasty follow-up ....Rg8.",
+        "32. Kh2 Kh8 33. Qxc6": "Winning a third pawn; and now if 33. ...Rg8  34. Qh6 mates. In this position, Black abandoned the game, and so ... 1-0.\n\n\n --- To respond to the comment made by \"thedessertfox\": If 33 ...Rf8 it's mate in two, as follows, 34. Qh6+ Kg8  35. Rg1#"
+    },
+    "url": "https://gameknot.com/annotation.pl/english-nimzovich-variation?gm=38306",
+    "gameName": "English (Nimzovich Variation)",
+    "players": "Avocet (1200) vs. examinfo (1757)",
+    "opening": "English, Nimzovich, Flohr variation (A20)"
+}

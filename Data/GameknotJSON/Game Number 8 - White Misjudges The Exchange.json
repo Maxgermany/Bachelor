@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "My opponent opens with what I consider to be the strongest opening move.  The King's Pawn avoids many of the slower manoeuvrings of other openings, allowing White to concentrate on fast attacking play.",
+        "1... c5": "I respond with the Sicilian.  It creates an unbalanced board, allowing Black to attempt to call some of the shots early on in the game.",
+        "2. Nc3": "White preserves the option of an open or closed Sicilian.  Black must now be cautious.",
+        "2... e6 3. Nf3 a6": "Black is looking to counter White\u2019s expected fianchetto with one of his own after 4.g3 b5.",
+        "4. a3": "I think 4.g3 was the better move here, not really sure what the aim of White's was.  I suspect it was a passive move, waiting to see what Black's intentions were.  But I think this move tosses away the advantage White has by virtue of the colour of his pieces.",
+        "4... d5": "Black responds with d5,  showing a real willingness to contest over the central squares.",
+        "5. exd5 exd5": "Pawn exchange.  White is in danger of losing control of the match.",
+        "6. d3 Nc6 7. h3 Nf6 8. Be2 Be7 9. O-O O-O": "Both players castle.  White is slightly cramped in his positioning.",
+        "10. d4 Ne4": "Black threatens White's Knight, beginning to take the initiative away from White and assuming control of the match.",
+        "11. Nxe4": "White offers an exchange of Knights, which Black eagerly accepts.",
+        "11... dxe4 12. d5": "!!! Oh dear.  White was evidently thinking of an exchange of Knights again, but overlooked the fact that the initiative was with Black allowing for 12...exf3 13.Bxf3 Nd4 which gives Black a +2 material advantage.",
+        "12... exf3 13. Bxf3 Nd4 14. Be4 f5": "Black threatens White's Bishop.",
+        "15. Bf3 f4 16. c4 Bf5": "Black wins after White's timeout."
+    },
+    "url": "https://gameknot.com/annotation.pl/game-number-8-white-misjudges-the-exchange?gm=26430",
+    "gameName": "Game Number 8 - White Misjudges The Exchange",
+    "players": "muginz (1486) vs. freddz123 (1542)",
+    "opening": "Sicilian (B23), closed, Korchnoi variation"
+}

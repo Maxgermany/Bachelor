@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4 3. e3 e5 4. Bxc4 exd4 5. Ne2 d3 6. Qxd3 Qxd3 7. Bxd3 Bb4+ 8. Bd2 Bxd2+ 9. Nxd2 Nc6 10. O-O Be6 11. a3": "Computer analysis claims this was a mistake.  Black's preferred response was to castle queen side.  Nf4 g5 13. Nxe6 fxe6 14. Ne4 Rxd3 15. Nxg5 Nf6 16. Rad1 Rb3 17. Rd2 Re8 18. Rfd1 Ne5 leaving black up two points.\n",
+        "11... Nf6": "Computer analysis claims Nf6 Mistake: -0.14 \u00bb \u2026 Nf6 12. Nf3 O-O-O 13. Ned4 Nxd4 14. Nxd4 Bd5 15. Rfd1 Rhe8 16. Rac1 Kb8 17. b4 Be4 18. a4 Bxd3 19. Rxd3 Re5\nBest: +2.55 \u00bb \u2026 O-O-O 12. Nf4 g5 13. Nxe6 fxe6 14. Ne4 Rxd3 15. Nxg5 Nf6 16. Nxe6 Rd6 17. Nc5 Rd2 18. b3 Rhd8 19. f4 Rc2 20. Rac1\n\n\"Best\" leaves black up one point.\n",
+        "12. Rac1 O-O-O 13. Nf4": "The only thing protecting the white bishop is the white knight.  Threaten the knight and white will now have to decide which piece to sacrifice.\n\nComputer analysis claimed this was a mistake, but it is what I would have done.",
+        "13... g5": "Computer analysis claimed this move was a mistake, preferring Ne5.",
+        "14. Rxc6": "This seems like a desperate move.  Hey, knight for rook?  Any day.  White gets to save the bishop and d2 Knight, however.",
+        "14... bxc6 15. Ba6+ Kb8 16. Nxe6 Rxd2": "This knight has the advantage of threatening white's b pawn, whereas taking the other knight would split my pawns up and not yield as big an advantage.\n",
+        "17. Nxg5 Rxb2 18. Nxf7": "White molests the black pawns, which were easy pickings.",
+        "18... Re8": "Why not Rf8 to threaten the white knight?  The knight can't move to d6 because of the c7 pawn.  Re8 is a much more open file.  And this rook really needs to come out to play.",
+        "19. h3 Rb6": "Time for the white bishop to move.  Black wants to be able to advance the a pawn.",
+        "20. Bd3 Rb3": "Ha!  White's idle threat against the h pawn costs white it's a pawn.",
+        "21. Rb1": "Trade?  You bet!",
+        "21... Rxb1+ 22. Bxb1 c5 23. Kf1 Re7 24. Ng5 h6 25. Nf3 Ne4": "White is protected from a king bishop fork (Nd7) by his knight.  But the protection vanishes with Ke2-Nc3+.\n",
+        "26. Ke2": "Computer analysis calls this a blunder, suggesting Bd3 instead.",
+        "26... Nc3+": "White resigns.  A knight and five pawns against black's knight, rook and four tattered pawns is too much."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=36401",
+    "gameName": "Team match",
+    "players": "braavio (1439) vs. pasha582 (1571)",
+    "opening": "Queen's gambit accepted (D20)"
+}

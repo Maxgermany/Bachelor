@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. c3": "Too slow better is c4 attacking the centre and leaving the option of playing Nc3 open. The text move really hurts white more than it helps.",
+        "3... Bg4 4. Ne5": "it is better to not play this move so early in the game. White should focus on continuing to develop his pieces.",
+        "4... Bf5 5. Qb3": "The idea of advantage of fact that black has played the light coloured bishop. ",
+        "5... Qc8": "The only way to defend because the presence of the Knight on e5 makes b6 suicidal",
+        "6. c4 dxc4": "creating a outpost on d5 for my knights and releasing the tension in the centre. ",
+        "7. Qxc4 e6 8. Nc3 Nbd7 9. Bf4 Nb6": "driving back the queen and strengthening my hold on d5.",
+        "10. Qb3 Be7": "...Nd5 is possible but still premature. It is better to complete your piece development before engaging in combat.",
+        "11. e3 O-O 12. Be2 Nbd5": "Now that I have completed my development I am ready to seize control of the game.",
+        "13. Nxd5 Nxd5 14. O-O a5": "grabing space on the queenside and threatening a4",
+        "15. Rac1": "placing the rook on the semi-open c-file.",
+        "15... a4 16. Qd1 Nxf4": "removes a defender of e5 and preparing the advance of ...c5 with the aim of undermining the e5 Knight.",
+        "17. exf4 Rd8": "attacking d5 and pinning the weak pawn to the queen.",
+        "18. Rc4": "defending d4 but d4 is not under immedaite threat so playing Bf3 to give the bishop more influence over the board is better. Plus Bf3 prevents b5. Something that Ozzz is not seeing.",
+        "18... c5 19. Bd3": "white is seeking to exchange bishops but I am not going to trade my nice bishop for his bad one. ",
+        "19... b5": "Winning the fight for d4.",
+        "20. Rc1 Rxd4 21. Qf3 Bxd3 22. Nxd3 c4 23. Ne5 Rd2 24. b3": "This leads to a quicker end. This allows black to open up the a-file to be used by the rook. When defending a position is best to play moves that keep the position closed. ",
+        "24... axb3 25. axb3 f6 26. Nc6 Bc5 27. f5 Rd3 28. Qe4 exf5 29. Ne7+ Bxe7 30. Qxe7 Rxb3 31. Rfe1 Rd3 32. Qb4 Qd7 33. h3 Ra2 34. Re7 Qd5 35. Re8+ Kf7 36. Qe7+ Kg6": "White resigns because he has ran out of checks.",
+        "37. Rg8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d1?gm=13596",
+    "gameName": "League division D1",
+    "players": "ozzz (1657) vs. elyhim (1869)",
+    "opening": "Queen's pawn game (A46)"
+}

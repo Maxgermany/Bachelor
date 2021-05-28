@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4": "King's Gambit accepted",
+        "3. Bc4": "Bishop's gambit. ",
+        "3... Nc6 4. d4 Qg5": "Interesting. Never saw this move before this game. I think the game database had good stats on this move but I think the game shows it does not quite work for black. ",
+        "5. Nf3 Qxg2 6. Rg1 Qh3": "Already black's lost too many tempo's for the extra pawn. Neglecting development is always very dangerous in the king's gambit and perhaps more so in the Bishop lines.",
+        "7. Bxf7+": "My opponent missed that the bishop can not be taken. Still after e.g. 7. Kd8 Bxf4 white has a huge lead in development, an enemy king trapped in the centre, a advanced queen to harass and will most likely win.  ",
+        "7... Kxf7 8. Ng5+ Ke8 9. Nxh3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-shots-in-the-kga-bishop-gambit-with-3-nc6-4-d4-qg5?gm=42605",
+    "gameName": "Opening shots in the KGA, Bishop gambit (with 3. ... Nc6 4. d4 Qg5)",
+    "players": "oogklep (1700) vs. sergoidva (1512)",
+    "opening": "KGA (C33), bishop's gambit, Maurian defence"
+}

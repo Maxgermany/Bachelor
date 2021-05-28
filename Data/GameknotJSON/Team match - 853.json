@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "standard opening",
+        "1... e5 2. Bc4 Qf6": "a little early i think it almost demands him doing Bc5 soon",
+        "3. b3 Bc5": "see told you",
+        "4. Nh3 d5": "pawn donation?",
+        "5. Bxd5 Bxh3": "nice trade, i did not see it at first",
+        "6. Qe2 Bxg2 7. Rg1 Bh3 8. Bxb7": "my turn",
+        "8... Na6": "hmm do i want a knight or a rook, ",
+        "9. Bxa8 Nb4": "big mistake, do you see why?",
+        "10. Qb5+": "i win the bishop",
+        "10... Bd7 11. Qxc5 Nc6 12. Bxc6 Bxc6 13. Bb2": "nice spot for it",
+        "13... Qe6": "that does not guard the pawn",
+        "14. Bxe5 f6": "oh another pawn",
+        "15. Bxc7 Bxe4": "i figured he would us the queen,",
+        "16. Nc3": "moved the knight so it could block the check,coming soon",
+        "16... Bxc2+ 17. Ne2": "see...",
+        "17... Bd3": "notice white still has Rxg7..",
+        "18. Qe3 Qe7 19. Qxd3": "bishop trade, still look at g7",
+        "19... Qxc7 20. Qe3+ Ne7": "perfect",
+        "21. Rxg7": "pins the knight twice",
+        "21... Rf8 22. Rc1": "yell at the queen and hopfully get c8",
+        "22... Qb7 23. Rc8+": "yes, the queen is pinned to the mate",
+        "23... Kd7 24. Qxe7+": "if Kxc8 the i get mate, so the king has to,um well he has nothing else.",
+        "24... Kxc8 25. Qxf8#": "nice mate both king and queen under attack!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=5781",
+    "gameName": "Team match",
+    "players": "darius_vitrosoo (1360) vs. tiptronic (1356)",
+    "opening": "Bishop's opening (C23)"
+}

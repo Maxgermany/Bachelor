@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. f4": "I have started to play this \"dutch\" with white, does give some interesting games. \nThe reason why I comment this game is to show that you have to be carefull about ",
+        "1... d5 2. Nf3 c5 3. b3 d4 4. Bb2 Nc6 5. Na3 Nf6 6. e3 a6 7. exd4": "My idea is to play Nc4, if black play b5 then move the night to e4, if possible I would play a4 to prevent b5.",
+        "7... cxd4 8. Bd3": "I want to develop my bishop and believe that this is better than e2 (c4 is not an option due to b5 and we are helping black to develop his queen side).",
+        "8... Qd6": "Not a good move, the basic idea is to develop your pieces first then the queen - yes there are openings where you develop the queen early.\nAnother good opening point is that you should not move the same pice twice during the opening (unless someone force you to).\nb7-b5 would have been a natural way to develop - it prevent white from playing Nc4, and it develop the queen side, e6 is also a good plan to develop the black bishop.",
+        "9. O-O Qxf4 10. Nxd4 Qd6 11. Nxc6 Qxc6 12. Nc4 Bg4 13. Be2 Qe4": "A clear mistake - Bxe2 followed by e6 and developing the bishop and castle would be a way to move forward, but white have an easy game here.",
+        "14. Re1 Bxe2 15. Rxe2 Qc6 16. Ne5 Qb6+ 17. d4 Nd5": "A mistake - white want to play c4 and now he do it with a tempo.",
+        "18. c4 Nf4": "The best would be to move the night back to f6 and accept the mistake.",
+        "19. Re4 g5 20. Qg4 Ne6": "Game over - not much else to do, but this will end the game fast.",
+        "21. Nxf7 Kxf7 22. Qf5+ Ke8 23. Rxe6 Qc7 24. Rf1 Kd8 25. Ba3": "Prepare a nice ending.",
+        "25... b5 26. Qxf8+": "Qd5 would win the rook, but this is also nice, it win the queen and a rook (example - Rxf8, 27.Rxf8+, Kd7 28.Rxe7+,Kc6 29.Rxc7+ and Rxa8.)"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-giovinappi?gm=39407",
+    "gameName": "Challenge from giovinappi",
+    "players": "hvalsoe (1934) vs. giovinappi (1490)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

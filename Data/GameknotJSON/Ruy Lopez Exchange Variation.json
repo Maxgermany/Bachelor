@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6": "As per plan.",
+        "4... dxc6 5. O-O Qf6": "This answer is rather rare. Continuations like 5... f6 or 5... Bg4 are believed to be more robust. ",
+        "6. d4 exd4 7. Bg5": "White develops his piece at the expense of the black Queen. Then he offers the generally desirable for him Queens exchange...",
+        "7... Qd6 8. Qxd4 Qxd4": "...and Black for some reason does accept it. 8... Be7 would be an alternative, though it is equal to resignation from the pair of bishops.",
+        "9. Nxd4 Bd7 10. Nc3 h6": "Black's idea is clear: he wants the annoying Bishop to go away. Now I have serious doubts where to retreat: h4, f4 or e3? During the game I had a feeling the Bishop on h4 would be more active and Black's pawn advance would only weaken square f5. It looks like I underestimated the importance of grabbing more territory.\n\nFritz says however, better would be simple 11.Be3 Nf6 12.Rad1.     ",
+        "11. Bh4 g5 12. Bg3 O-O-O": "Black has forced the white Bishop to retreat and castled; now Black is absolutely fine. Black's dark-squared Bishop seems to have an opportunity to seize the long diagonal, so White attempts to close this diagonal:",
+        "13. Be5 f6 14. Bg3": "White has achieved his goal but lost a tempo. In response to White's strange actions, Black makes natural moves and his position is getting better. Now that the white Bishop runs away, the black pawns are naturally chasing after him.",
+        "14... h5 15. h4": "Fritz says this is an accurate move. Still, Black's pressure on the K-side is unpleasant.",
+        "15... c5": "And this is rather premature: Black has not yet developed his pieces, and now he weakens d5 square. Fritz points out, the most accurate would be 15... Bg4 and this truly would pose some problems to White.",
+        "16. Nde2": "Mistake in return. Fritz advises 16... Nf5. White did only see that after BxN he would be incapable of defending the f5 pawn. But the variation should follow: 16. Nf5 Bxf5 17. ef5 Nh6 18. hg5 fg5 19.Be5 Rh7.",
+        "16... Ne7 17. Rad1 Ng6": "Mistake. Up to this moment Black enjoyed a little bit better position. Fritz recommends 17... Re8 18. Rd2 Bg7 19. Rfd1 Bc6 20. f3 f5 21. hg5 h4, but it would be hard to find such a move. Now White jumps at the opportunity with 18. Nd5. ",
+        "18. Nd5 gxh4": "Consequently, but wrong. Relatively best was 18. Bb5, but White had expected and was prepared for this continuation: 19. Rfe1 gh4 20. Bh2 Bd6 21. Nec3 and Black pawn structure would be nothing but shattered. Now the game is lost for Black. ",
+        "19. Bxc7 Re8": "In this position White should have played (pointed out by Fritz) 20. Ba5! The pawn e4 is inviolable: after 20... Rxe4 21. Nb6+ light squared Bishop would be lost. Retreating with the Bishop does not help because of the weakness of the 8th rank: 20... Bc6 21. Nxf6, and the Rook must not leave its square because of checkmate. Now White does not lose his advantage but moves on to win in a more straightforward way.",
+        "20. Nxf6 Re7 21. Bd6": "White wants to perform the exchange of as many pieces as possible. However, more accurate would be instant 21. Nxd7. Now Black can diminish the advantage of White by playing 21... Bb5 and would fight a pawn back, but with somewhat shattered position. As the most accurate for White Fritz holds 21. Ba5.",
+        "21... Rf7": "Now the overall exchange runs smoothly.",
+        "22. Bxf8 Rhxf8 23. Nxd7 Rxd7 24. Rxd7 Kxd7": "The game has switched from the middlegame to an endgame where White is ahead a pawn and enjoys better pawn structure. White wants to make use of his joint passed pawns, at the same time he delays centralisation of the black King: 25. f4 and if 25... Ke6 then 26. f5+. A bit better for White was to activate figures: Rd1 and Rd5.",
+        "25. f4 Ne7 26. Kf2": "In this position the best for Black was 26... Rg8. White would have problems coordinating his pieces and taking care of g2 pawn and protecting square g3.",
+        "26... Nc6 27. Ke3": "Since 27... Nb4 would be pointless (after 28. c3 Nxa2 29. Ra1 black Knight must die) I was expecting again 27... Rg8. I would probably try to hold to g2 pawn and this would cause the game to last long. Most pragmatic would be given by Fritz 27... Rg8 28. Rd1+ Ke6 29. Rd5! Rxg2 30. Rc5 Rh2 31. Rxh5 Rh3+ 32. Kf2 Rh2+ 33.Kf3 h3.",
+        "27... Ne5": "But Black blunders and loses instantly.",
+        "28. Rd1+": "Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/ruy-lopez-exchange-variation?gm=25747",
+    "gameName": "Ruy Lopez Exchange Variation",
+    "players": "fajter (1796) vs. schaakhamster (1757)",
+    "opening": "Ruy Lopez (C69), exchange variation, 5.O-O"
+}

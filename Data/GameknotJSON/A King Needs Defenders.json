@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "A team match, I'm playing white. I begin as always with the Open Game.",
+        "1... c5 2. Nf3 Nc6 3. Nc3": "Black responds with the Sicilian Defense, Orthodox Variation, challenging white's control of d4. White responds with a bit of a waiting move, supporting the safe king's pawn and taking control of d4, giving black his choice of Sicilian lines.",
+        "3... d6 4. d4 cxd4 5. Nxd4": "Now we're in a more main-line Orthodox Sicilian, except that black would normally have a knight on f6 instead of c6 here.",
+        "5... Nf6 6. Bg5": "And now we arrive at the Richter-Rauzer Attack.",
+        "6... Bd7 7. Be2": "6. ... Bd7 is the Larsen Variation of the Richter Rouzer. Black adds a defender to his knight on c6 which frees the b-pawn to advance. 7. Qd2 is a far more common move for white, but the DB says 7. Be2 has a better win percentage and a lower draw percentage, both of which appeal to me, so I take the DB's advice. Frankly, I see no benefit of one over the other, and since 7. Qd2 is often met with 7. ... Nxd4 which gains a tempo for black, I decide to go with the better percentages.",
+        "7... e6 8. O-O Be7 9. Ndb5": "Now we're out of the DB and out of my book as well. This move makes a direct attack against the black pawn on d6, a pawn that is a little problematic for black to defend.",
+        "9... Qb8 10. Qd3 a6 11. Bxf6 gxf6 12. Nd4": "Forced to retreat.",
+        "12... b5 13. a3": "One knight had to retreat, no reason to retreat them both.",
+        "13... Qb6 14. Nxc6 Bxc6 15. Qh3": "Keeping pressure on black's kingside pawns while clearing a way for a rook on the half-open d-file.",
+        "15... Qc5 16. Rad1 Kd7 17. Bh5": "A fairly lame attack, actually.",
+        "17... Raf8 18. b4 Qg5 19. f4 Qg7 20. Rd2": "Defending g2 as well as preparing to double rooks.",
+        "20... Kc7 21. Qe3": "But then something better comes along. White finds a way to harry the black king.",
+        "21... Kb7 22. a4": "And now black has done something strange and dangerous. He brought his queen and queen's rook over to the kingside and then marched his king over to the indefensible queenside, almost bereft of defenders, just asking for white's better-centralized forces to come a calling. A king needs defenders.",
+        "22... Rfc8 23. axb5 Bxb5 24. Nxb5 axb5 25. Bf3": "First we clear a bunch of garbage out of the way and at the same time opening the a-file. Now we bring in the bishop. White will have 3-4 pieces on the attack in the next couple moves while black will have only 0-1 pieces on defense. Something's gotta give.",
+        "25... Rc4 26. e5+": "25. ... Rc4?? was a bold move that seals black's fate. Now white's bishop and queen have free access to the black king, and white will add a rook on the open a-file momentarily. Black is already doomed, but just how doomed is yet to be seen.",
+        "26... d5 27. Rxd5": "The pawn on d5 only gave the illusion of defending the king. Black has nothing better than to accept the sacrifice.",
+        "27... exd5 28. Bxd5+ Rc6 29. Ra1": "And now the nail in black's coffin. With his queen too far away to come rescue the king, black has no solution here. Not 29. Rhc8 Qa7#. Black might try 29. ... Ra8 30. Rxa8 Kxa8 31. Bxc6+ Kb8 32. Qb6+ Kc8 33. Qc7+ Kd8 34. Qd7#. Everything else loses faster, so black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-king-needs-defenders?gm=25648",
+    "gameName": "A King Needs Defenders",
+    "players": "blake84120 (2043) vs. michbarc (1953)",
+    "opening": "Sicilian defence (B30)"
+}

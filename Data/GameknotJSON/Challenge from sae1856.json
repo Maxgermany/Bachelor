@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nc3 d5 3. Bf4": "(A45) Queen's Pawn game\n\n\n\n2/24/15\n",
+        "3... Bf5 4. Nf3 e6": "If and when Bd3 is played, ...Bg6 is on the cards with the ideas of:\n     -exchanging off White's attacking bishop \n&/or-creating pressure along the newly opened g-file",
+        "5. a3 Bd6": "developing and creating problems for white: \n6 d3 allows black to maim white's k-side for no compensation; \n6 Bxd6 Qxd6 7 Nb5 seems to lose steam after  7...Qb6.  \nSo \n6 Bg5 seems like a reasonable way to preserve the tension and keep pressure on black's position, It also seems though that after ...Nbd7 and ...c6 Black is able to benefit from White's lost tempo by creating a little K-side pressure",
+        "6. Bg5 Nbd7 7. e3 c6 8. Bd3 Bg6 9. Qd2 Qc7 10. O-O-O Ne4": "!?/?!, Interesting but slightly dubious.  This was not the way I had originally hoped to accomplish the positional objectives mention on 4...e6.  Even so, this move still secures them, but at the cost of  doubled g and e pawns, a serious weakness on e6, and a commitment to a K-side attack themed around the e4 strong point.\n\nMy game notes focused on this line:\nthe intention after 11 Bxe4:\n\n11. .. dxe4 12. Nh4 f6 13. Bf4 Bxf4 14. exf4 Bf7 15. Nxe4 O-O 16. f5 e5 17. d5 cxd5 18. Nc3 ",
+        "11. Bxe4 dxe4 12. Nh4 f6 13. Nxg6 hxg6 14. Bf4 Bxf4 15. exf4 f5 16. h3 Nb6 17. Rhe1": "Telegraphing the planned f2-f3 break which exploits the e6 weakness",
+        "17... Nd5 18. Nxd5 cxd5 19. f3 Kf7": "This was intended to protect g6 and avoid the Qb4+ but fearlessly allows Qd5+ after the forcing d4-d5 break. However 19 ...Ke7 Qb4+ does not seem to leave Black in a happy place",
+        "20. fxe4 dxe4 21. d5": "My reason for not being too afraid of this break/check line on the d-file is my confidence in Black's ability to force simplification into a favorable pawn endgame utilizing the e4 strong point theme in the form of protected passed pawn.\nafter ...Ke7.",
+        "21... exd5 22. Qxd5+ Ke7 23. g4 Rhd8 24. Qe5+ Qxe5 25. fxe5 Rxd1+ 26. Rxd1 Rd8 27. Rxd8 Kxd8 28. Kd2 Kd7 29. Ke3 Ke7": "Triangulation, intended to maximize the potential of that precious passed e4 ",
+        "30. c4 Ke6 31. Kd4 e3": "Like a good soldier, giving up the ghost for the greater good!  ...and:the opposition, continued dominance of e4, and tactical possibilities with the potential to create another protected chain on h4-g5",
+        "32. Kxe3 Kxe5 33. b4 f4+ 34. Kf3 g5 35. c5 Kd5 36. h4 gxh4 37. Kxf4 g5+ 38. Kf3 Kc4 39. Ke3 Kb3 40. Kf3": "! Leaving Black room to misstep with 40...Kxa3? 41 b5 1-0 after the c pawn promotes",
+        "40... a6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-sae1856?gm=57823",
+    "gameName": "Challenge from sae1856",
+    "players": "sae1856 (1498) vs. denstructo (1664)",
+    "opening": "Queen's pawn game (A45)"
+}

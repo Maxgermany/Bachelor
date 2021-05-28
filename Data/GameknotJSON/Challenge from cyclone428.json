@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This was our second meeting on the board.  I accepted the challenge he issued immediately on the conclusion of our first encounter.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Qf6": "I was certainly aware by now of his tendency to attack hard and fast.",
+        "4. O-O d6": "Opening a line for his Queen's Bishop to join the attack.",
+        "5. Nc3 Qg6": "Made with an eye on Bh3 perhaps?",
+        "6. d3": "Submitting to the pin but making Bh3 questionable perhaps?",
+        "6... Bg4 7. Re1 Nd4 8. Kh1": "Foregoing pawn structure to lend additional support to the f3 square.",
+        "8... Ne6 9. Re3": "Most likely there are better alternatives available.  (Did I learn anything from our previous confrontation?)",
+        "9... Ng5 10. Qf1 Nf6": "Hmmm, a chance to untangle my position!",
+        "11. Nxg5 Qxg5 12. Rg3 Qh4 13. Nd5 O-O-O 14. Nxf6 gxf6": "One could only hope he would mistakenly retake with his Queen.",
+        "15. Bxf7 Rd7 16. Bb3": "If my Bishop had not been en prise I might have given h3 a shot at this point.",
+        "16... Rg7": "He is ganging up on my King, and I don't recall it ever doing anything to him.",
+        "17. Be3": "This was more for defensive than offensive purposes.",
+        "17... Rhg8": "I cannot believe my luck!!!!!  He is so focused on my King's position he forgot about my Bishop at b3.",
+        "18. Bxg8": "Not to hesitate in this situation.  (In other words this was just a mistake and not part of any greater trap.)",
+        "18... Rxg8 19. f3": "Now, let us look at his g4 Bishop's status.",
+        "19... h5 20. fxg4 hxg4 21. Qf5+": "I was hoping the Black Rook undefended by a pawn would be on g4 when I made this move; but you work with whatever is there.  The check gives Black an opportunity to go wrong.",
+        "21... Kb8": "And he immediately takes it.  Perhaps it was the Bishop aiming at a7; whatever the reason, Kb8 will cost Black nothing less than a Rook.",
+        "22. Qe6": "Black can alleviate the mating threat but cannot simultaneously protect his Rook.",
+        "22... Rh8": "He misses my mating threat, saves his Rook and threatens his own mate.",
+        "23. Qe8#": "Maybe he was hoping I did not know what I had and would play Kg1.  Better to have given up the Rook with say b7 or c5 although an ultimate loss would still have been likely."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-cyclone428?gm=35291",
+    "gameName": "Challenge from cyclone428",
+    "players": "throneseeker (1474) vs. cyclone428 (1377)",
+    "opening": "King's pawn game (C50)"
+}

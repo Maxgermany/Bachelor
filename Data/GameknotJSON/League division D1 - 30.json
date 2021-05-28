@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4": "A misunderstanding of the position in the opening. I saved, but then blundered in a position with a pawn less but maybe I could have run for drawn. ",
+        "1... Nf6 2. h3 e6 3. Nf3 c5 4. Bf4 Nc6 5. e3": "A mistake, because I didn't considered the danger of the queen in b6. I realized the difference for black with a time more (since he didn't lose time playing d7-d5!) so he got the advantage. I must have played c3, in order to \"build the wall\" and gain time. ",
+        "5... Qb6 6. b3 Nd5 7. Bg3 cxd4 8. Nxd4 Bb4+ 9. Nd2 Nxd4 10. exd4 Qxd4 11. Rc1 O-O 12. Bd3 Nf4": "Ok. It was very tempting 13. Qg4, where the simple one for you is Nxd3 , 14. cxd3, QxQ etc. \nIf you 13. ... Qb2, 14. BxNf4, QxRc1 (14. Rb1 doesn't work because of NxBd3 ), 15. Ke2, QxRh1, and then try to take advantage of my bishops and queen over your castle, for example 16. Be5, f6, 17. Qh4, h6... but I am not sure it will lead to something. If I play Nf1, your queen is temporalily trapped, but I cannot swear I will take it.\nIf 16. Bh6, you will play Bc3, and my attack half-vanishes.\nThis move is a little sad, but maybe I can survive a little more. A good opening lesson for me, thank you.",
+        "13. Bxf4 Qxf4 14. c3 Bc5 15. Ne4 Bb6 16. O-O d5 17. Ng3": "I didn't see the tactics here. Nd2 would have been better. A second pawn is fatal in this position. ",
+        "17... Bxf2+": "Probably it was better QxN.",
+        "18. Rxf2 Qxg3 19. Rf3 Qg5 20. Qe1": "Trying to attack with not-natural moves, but it doesn't work!",
+        "20... e5 21. Rg3 Qe7 22. Qe3 f5 23. Qh6 e4 24. Be2 f4 25. Rg5 f3 26. gxf3 exf3 27. Rg3": "Without hope, I bludered. Bd4 wouldn't have given more chances to me, after Bf5. ",
+        "27... Qc5+ 28. Kf1 fxe2+ 29. Kxe2 Qf2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d1?gm=17734",
+    "gameName": "League division D1",
+    "players": "damalfi (1675) vs. docstrange (1758)",
+    "opening": "Queen's pawn game (A45)"
+}

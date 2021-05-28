@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 g6": "against stronger players, I sometimes consider d6: b5 and d5 are weak spots, at this point; but most of them, have no clue...",
+        "3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 e6": "d5 taken care of: b5 is not penetrable, due to a7-a6; for now...",
+        "6. Be3 Ne7": "preparing castling, and d7-d5...",
+        "7. Bf4 O-O 8. e5": "d5 is prohibited for now: but we have other options...",
+        "8... a6 9. Bd3 b5 10. a4 Nbc6 11. Be2 d5": "now, after exd6ep, we can capture Nd4...",
+        "12. axb5 Nxe5": "or this one...",
+        "13. bxa6 Nc4 14. b3 Ne5 15. O-O Qb6 16. Be3 Qb4 17. f4": "a very bold move...",
+        "17... Qxc3 18. fxe5 Bxe5 19. Ra2 Bxd4 20. Bxd4 Qc7 21. Qa1 Nf5 22. Qc3 Qxc3 23. Bxc3 d4 24. Bd2 e5": "the smoke is clearing: Black has conquered the center...",
+        "25. Bd3 Nd6 26. Bb4 Rd8": "Black needs f7-f5...",
+        "27. Rfa1 Bf5": "at this point, better than f7-f5: we need to connect the Rooks...",
+        "28. Ba5 Rd7 29. Bxf5 Nxf5": "Black has created two free pawns...",
+        "30. Rd1": "Re1, would have been better: but White wants to avoid d4-d3...",
+        "30... e4 31. Bb4 d3 32. cxd3 exd3 33. Bd2 Nd4": "new issues...",
+        "34. b4 Ne2+ 35. Kf2 Rd5": "here comes trouble...",
+        "36. Be3": "White needs to make room for an escaping King...",
+        "36... Rf5+ 37. Ke1 Nc3": "the Coup de Grace...",
+        "38. Rxd3": "with this, White resigned: he will lose everything..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-in-just-another-sicilian-part-2?gm=65431",
+    "gameName": "fiercequeen, in just another Sicilian (part 2)...",
+    "players": "saintlucifer (1418) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B23), closed"
+}

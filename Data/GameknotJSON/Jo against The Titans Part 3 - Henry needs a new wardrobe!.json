@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\n\nIt is time for game number 3 which also ended in a loss.  This time, at least my opponent had to sacrifice material to get at Henry.  I took a free pawn because I could not see that there was any immediate mate threat.  However, taking the pawn led to an exchange sacrifice which I had to accept or be a piece for two pawns light.  After having this material deficit in my game against Janet and losing to her in the manner I did I decided to accept the sacrifice and make Dongoodman prove its soundness.  Unfortunately he did exactly that and Henry ended up ..... well ..... erm ..... you will just have to follow this link and find out! http://gameknot.com/analyze-board.pl?bd=18572637&fb=1&rnd=0.2366468098222443.",
+        "1... d5 2. c4 dxc4": "2. ..... dxc4 - another QGA.",
+        "3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5": "5. ..... c5 - aiming to prevent white from gaining a dominant pawn centre.",
+        "6. O-O a6 7. Qe2 b5": "7. ...... b5 - expansion on the queenside.",
+        "8. Bd3 cxd4 9. exd4": "9. exd4 - pawn trade.",
+        "9... Nc6 10. a4 bxa4 11. Rxa4": "11. Rxa4 - another pawn trade.",
+        "11... Nb4 12. Bb5+ Bd7 13. Bxd7+ Qxd7": "13. ..... Qxd7 - bishop trade.",
+        "14. Nc3 Be7 15. Bg5 Qb7 16. Ne5 O-O": "16. ...... 0-0 - Henry seems as safe as houses, but Dongoodman will soon prove that his house was made only of sticks and will blow it away a la big bad wolf!  That was another epithet that me and Bob Jacobs had for the Master Mater btw!",
+        "17. f4 Rfd8": "17. ...... Rfd8 - In hindsight I think that the other rook should have gone to this square.  At least f7 would have been guarded and RxP would really have won a pawn and not allowed the disaster that was to follow.  Mind you, Dongoodman may well have backed up his pawn if I had moved the other rook to d8.",
+        "18. f5 Rxd4 19. fxe6 fxe6": "19. .... fxe6 - the first breach in the wall is made.",
+        "20. Nf3 Rd6 21. Bxf6 Bxf6": "21. .... Bxf6.  B for N trade.",
+        "22. Ne4 Rc6 23. Nfg5 Bd4+": "23. .... Bd4+ - seemingly a good way to evade knight capture and avoid breaking up Henry's position.  But Dongoodman finds another way.",
+        "24. Kh1 e5": "24. .... e5 - again it seemed a good idea.  After all, that extra pawn is a passer and could well pose a threat to my opponent later on.  But, now.  What a difference it would have made if my rook had already been on f8 instead of a8.",
+        "25. Rxb4": "25. Rxb4! - What?!!! An exchange sac?!  Where is all this gonna lead to?",
+        "25... Qxb4 26. Qh5": "26. Qh5! - aha, here comes the Wicked Witch of the West and Henry is now in Old Matey's shadow!  I try and avoid this mate and a possible Philidor's Legacy Mate (smothered mate) by moving my pawn to h6.",
+        "26... h6 27. Qf7+ Kh8": "27. .... Kh8 - forced.",
+        "28. Qf5": "28. Qf5 - the threat is Qh7#.",
+        "28... hxg5 29. Nxg5": "29. Nxg5 - again the threat of mate is renewed.",
+        "29... Rh6": "29. ..... Rh6 - nothing for it.",
+        "30. Nf7+ Kg8 31. Nxh6+ gxh6": "31. ...... gxh6 - so the knights disappear from the board and so does my rook.  Sadly so does Henry's pawn shelter.  Henry has been totally denuded and needs a whole new wardrobe, never mind those medieval stockings.  But Glenda will not have time to cast the first stich or fill in the order form for a new wardrobe from MFI.  The Wicked Witch of the West and the WR on f1 will keep Henry so confined that he will not even be able to attempt a Deadly Dash despite having a few large, juicy, crevettes for lunch which has done wonders for his fitness!  At 64 he should be putting his feet up in his castle and not be dashing around that battlefield.  That is 18 year old Glenda's job!",
+        "32. Qg6+ Kh8 33. Qxh6+ Kg8": "33. .... Kg8 - now, let's take stock.  Remove both rooks from the board and the game will most certainly be drawn as white will have nothing better than Ye Olde Perpetualle.  Remove both sets of major pieces and it is game, set and match to Yours Truly!  But, alas, both sets of major pieces are on the board and the Witch only needs one piece to assist her and, what with Henry's enforced moonshine, the assistance of a rook is deadly.",
+        "34. Qe6+ Kh8 35. Qh3+ Kg8 36. Qg3+": "36. Qg3+ - the killer.  Notice that the Wicked Witch of the West covers the square e1, preventing Glenda coming down on that square and delivering a back row mate.  Take away that pawn and white's next move would have allowed mate in two, again on the back row and white must either continue checking Henry ad infinitum or allow me to make a move which will cover Henry.  Alas, that pawn is there and mate is now unavoidable.  I did not attempt to prolong the agony and preferred to allow instant death on my terms by threatening mate to prove the point that although I have been beaten fairly and squarely here, I wanted to show everyone that I have not lost sight of the fact that the object of the game is to checkmate my opponent's king, even if that opponent is 1000 rating points above me!  Anyhow, I have my work cut out if I am gonna compete with consistency against this level of play.  Anyhow, well played Dongoodman - Joanne",
+        "36... Kh8 37. Rf7 Qxb2 38. Qg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/jo-against-the-titans-part-3-henry-needs-a-new-wardrobe?gm=47662",
+    "gameName": "Jo against The Titans Part 3 - Henry needs a new wardrobe!",
+    "players": "dongoodman (2332) vs. jstevens1 (1953)",
+    "opening": "QGA (D28), classical, 7...b5"
+}

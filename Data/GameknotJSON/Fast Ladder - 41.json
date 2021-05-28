@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5": "Here I make my first mistake. 4. e4 is the move bringing up the wall of pawns but my unfamiliarity with the opening is quickly exposed by an experience opponent. I think it is very important to be able to attack an opponent who strays from the standard line and the ability to do so separates those who have memorized opening move sequences from those who know and understand the opening in depth.",
+        "4... O-O 5. e3": "I'm playing a Queen's Gambit Declined here and not taking my opponents moves into account.",
+        "5... d6 6. Nf3 Bg4": "Typically black would play 6. ... e5 here but my opponent realizes that I'm not playing classically and swoops in immediately.",
+        "7. h3 Bxf3 8. Qxf3 c6": "Clearing the way for the Queen which I completely fail to note.",
+        "9. Bd3": "I'm still playing Queen's Gambit Declined!",
+        "9... Nbd7 10. Ne4": "Now I leave my Bishop open to attack",
+        "10... Nxe4 11. Bxe4": "Perhaps 11. Qxe4 is better but as it attacks the e-pawn for when the Queen forks my Bishop and King but my position is already extremely poor.",
+        "11... Qa5+ 12. b4 Qxg5 13. O-O": "Castles straight into the teeth of the Queen but White is already extremely cramped.",
+        "13... e5": "Taking advantage of the power of the Fianchetto",
+        "14. d5": "I'm trying to lock that Bishop into position but my opponent has too many options, the simplest he immediately puts forward.",
+        "14... f5": "Look at those Black pawns! Outstanding.",
+        "15. Bc2 e4": "Just classical control of squares. White can only retreat.",
+        "16. Qd1 Bxa1 17. Qxa1 Ne5": "White can easily resign now but I like to play and tend to keep going in these situations.",
+        "18. dxc6 bxc6 19. c5": "Hoping to open lines but my opponent is willing to sacrifice the Knight to further hem me in.",
+        "19... d5": "I'm still not sure if those was intentional or a blunder. I think 19. ... Nf3+ 20. Kh1 Nh4 is better as it saves the Knight and sets up serious mating attacks",
+        "20. Qxe5 Qf6": "Not many good squares for the Queen at this stage but trading is not to my benefit so, of course, I ...",
+        "21. Qxf6": "Trade Queens.",
+        "21... Rxf6 22. Bb3 a5": "Again, those pawns!",
+        "23. b5": "Probably 23. bxc6 is better as I don't lose the pawn outright.",
+        "23... a4 24. Bd1 cxb5": "Black controls virtually all the squares on the board.",
+        "25. Be2 b4 26. Bb5 Ra5": "I finally resigned at this point. I can retreat the Bishop but with my passed pawn lost it is just a matter of time until I'm forced to trade a piece to stop Black from Queening. I thought this game was an excellent example of how to handle an oppponent not particular familiar with an opening but who is relatively sound in any case. Understand the purpose of each move and attack an opponent who moves imprecisely. "
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=32001",
+    "gameName": "Fast Ladder",
+    "players": "tomlib (1525) vs. doctorfeelgood (1692)",
+    "opening": "King's Indian (E61), Smyslov system"
+}

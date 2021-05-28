@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "My usual",
+        "1... e5": "A normal reply",
+        "2. Nf3": "Looking for Ruy Lopez",
+        "2... a6": "Preparing Nc6 but loses the e-pawn",
+        "3. Nxe5 Qg5 4. Nf3": "I could have played d4 discovered attack on Queen",
+        "4... Qf4 5. Nc3 Bc5": "? loses a piece",
+        "6. d4": "! winning the bishop plus a discovered attack on the queen",
+        "6... Bb4": "?? Loses queen",
+        "7. Bxf4": "Black resigns.\n\nLessons to learn\n\n1.) Watch out for discovered attacks\n2.) Don't move queen in opening if your down on development and/or it can be attacked for easy lose of tempo"
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-game-for-teaching?gm=38519",
+    "gameName": "Blitz Game for teaching",
+    "players": "thedessertfox  vs. nairbp ",
+    "opening": "King's knight opening (C40)"
+}

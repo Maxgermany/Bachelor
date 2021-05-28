@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 e6 3. c4 c6 4. Nc3 dxc4": "The signature move of the Noteboom Variation, also sometimes referred to as the Stolen Pawn.  Black grabs a pawn at the expense of development and the usual complications ensue.  The opening isn't seen that often so White probably has the better of it, but it has some surprise value (if there is such a thing in correspondence chess).",
+        "5. a4 Bb4 6. e4 b5 7. axb5 cxb5 8. Bg5 Qc7 9. Nd2": "9 Be2 is the usual move.",
+        "9... Bd7 10. Be2 Bc6 11. O-O Ne7 12. Bxe7 Qxe7 13. d5": "Unexpected and outstanding.  White strikes at the center while Black's king is still uncastled.    ",
+        "13... Bxc3 14. bxc3 exd5": "Too ambitious.  14.. Bd7 or Bb7 is better.  Black can't open the game with his king still on e8.",
+        "15. exd5 Bb7 16. Bxc4 O-O 17. Bxb5 Bxd5 18. c4 Bb7 19. Re1 Qg5 20. Nf3 Qg4 21. Qd6": "Another entirely unexpected move.  White threatens the nasty 22 Qxf8 ! with mate to follow.",
+        "21... Rc8": "Perhaps better was 21.. g6, though White clearly has the initiative either way.",
+        "22. Qe7 Bc6 23. Qxf7+ Kxf7 24. Ne5+ Kf8 25. Nxg4 Bxb5 26. cxb5": "And White has turned the tables on Black, coming from a pawn down to a pawn up.  My only hope is to liquidate to a drawn ending.",
+        "26... Nd7 27. Ne5 Nb6": "27.. Nxe5 would be more in line with that drawn ending I spoke of, but I don't want to help White activate his rooks.  I have to be choosier in making exchanges.",
+        "28. Rec1 Rxc1+ 29. Rxc1 a6 30. bxa6": "Of course, 30 Rc6 axb5, 31 Rxb6?? loses to the back rank mate.  ",
+        "30... Rxa6 31. g3 Nd5 32. h4 Nf6 33. Rc4 Re6 34. f4 Ra6 35. Kg2 Ra1 36. Rd4 Rb1 37. Nd7+": "This was a surprise.  The resulting material (with pawns on the same side of the board) is a typical draw.  It had to be better to keep the knights on.  ",
+        "37... Nxd7": "With a draw offer which White declined.",
+        "38. Rxd7 Kg8 39. h5 g6 40. h6 Rb8 41. Kh3 Rf8 42. Rg7+ Kh8": "Black spends the next 6 moves marking time with his king as there seems to be little else to do.  I have to wait for White to push on.",
+        "43. Re7 Kg8 44. Kg4 Kh8 45. Re5 Kg8 46. Kg5 Kh8 47. g4 Kg8 48. Re6 Kh8 49. Rf6 Ra8 50. f5 gxf5 51. gxf5": "White's certainly better as he has a passed pawn which isn't a rook pawn.  Not the ending I hoped for way back when.",
+        "51... Kg8 52. Rd6 Rf8 53. Kf4 Re8": "Fritz wants 53.. Kf7, and if 54 Rd7  Kf6! when Black only temporarily goes down two pawns.  Ultimately White would be left with a useless rook pawn, but I missed all that.",
+        "54. Re6": "Fritz says White can press on for a win with 54 Rd7.  Luckily for me it wasn't too clear at the board.  White instead offers an exchange, perhaps not realizing that Black's king holds the opposition in the pawn ending. ",
+        "54... Rxe6 55. fxe6 Kf8 56. Kg5 Ke7 57. Kf5 Ke8": "One square makes a world of difference here.  If instead 57.. Kf8?? 58 Kf6 and Black's king has lost the opposition and the game.  I was once on the winning end of such a mistake made by an A-player short on time in an O.T.B. game.  In correspondence these things are easier.    ",
+        "58. Kf6": "And White now offers the draw and Black accepts.  An interesting game which sums up the points for both sides when grabbing a pawn in the opening.  The final decision is a matter of taste.    "
+    },
+    "url": "https://gameknot.com/annotation.pl/qgd-noteboom-variation?gm=19741",
+    "gameName": "QGD, Noteboom Variation",
+    "players": "vladzub (1834) vs. jaybekay (1837)",
+    "opening": "Queen's pawn game (D02)"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 f5": "what was the name of this defense ?\ni'm just begining to experiment it\ntks for help",
+        "2. exf5": "looks very dangerous for black, but give some interesting oportunities and make the surprise for white, instead of good players ...",
+        "2... Nf6": "the knight avoid the mate after Qd1 h5 \nbut it a hot situation, isnt it ?",
+        "3. b3": "trying to kill my knight to go on mating whith the queen,\nfirst we take back the f5 pawn\n\n",
+        "3... d5 4. Bb2": "fianchetto to cancel the knight bishop, i will defend it whith the queen ",
+        "4... e5 5. Bxe5 Bxf5 6. d4 Bb4+": "this was the genius move,but at this time i didnt realize it  !!!\nbecause it will open the h7 b1 diagonal...so i'm preparing a mate _moves before !\nof course i didnt knew it ...",
+        "7. c3 Bd6": "in way to trow this bishop out",
+        "8. Qe2": "this is not so dangerous, i will roque and he will be in dangers whit the rook",
+        "8... O-O": "in way to move ...f8 E8",
+        "9. Nd2": "this was the mistake of the white : roque to the queen side ....",
+        "9... Re8": "they should go away anywaybecause there is a strong dnager whith my rook",
+        "10. O-O-O Ba3#": "and mate !!!\nwhat a mate, i think the most beautifull in mylife !\nisnt it ?\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/1-e4-f5-black-mate-white-at-10th-move?gm=46303",
+    "gameName": "1. E4 - F5, black mate white at 10th move !",
+    "players": "matsumoto (1715) vs. 31415 (1206)",
+    "opening": "Fred (B00)"
+}

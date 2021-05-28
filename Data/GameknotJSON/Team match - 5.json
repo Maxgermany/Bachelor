@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. Nf3": "This game features an Open Reti, where White accepts doubled and isolated a-pawns for open lines and Queenside pressure.",
+        "1... d5 2. c4 e6 3. g3 dxc4 4. Bg2": "The Queen sortie to a4 then capturing on c4 is not so good as the Queen is misplaced on c4 and valuable time is wasted just to recover the pawn.",
+        "4... Nd7": "Transposition into the main lines with Nf6 is possible, also a6, and c5 are also theoretically important.",
+        "5. Qc2": "A move pioneered by Mihai Suba and Lev Polugaevsky.  The Queen is much better off on c2, where it exerts pressure down the c-file and in the center.",
+        "5... Nb6 6. Na3": "Expecting the exchange and the doubling of the pawns, with the result of opening the b-file for the White Queen's rook.",
+        "6... Bxa3": "Black accepts the offer which does make it hard for white to recover the pawn, however, the resulting in the resulting middlegame, White will have the two bishops in an open position with rooks bearing down two open files.",
+        "7. bxa3 Nf6 8. Ne5": "8. 0-0?! Bd7 9. Ne5 is met with 10. Ba4 Qc3 11. Nfd5, and Black is looking good.  Black could also have introduced this threat earlier had he kept the Knight on d7 and played Ngf6 on move 5.",
+        "8... O-O 9. O-O Nfd5 10. Nxc4": "Material is now even.",
+        "10... Nxc4": "10...Bd7, followed by Bb5 seems like a better plan.  White's Queen is centralized and the rooks will come to the open files and the bishops will rake the board.",
+        "11. Qxc4 Bd7": "11...c6 looks good.",
+        "12. Bb2": "Following the plan.",
+        "12... Bc6": "Opposing the light-squared bishop.  A cardinal rule of chess, is that if your opponent has the two Bishops, try and trade one off.",
+        "13. Rab1": "That pesky plan again!!!",
+        "13... Qd7 14. Ba1 Rad8": "Seeking counterplay down the d-file.",
+        "15. Rfc1": "White's pieces are taking up premium squares.",
+        "15... Ne7": "15...Rfe8 or 15...f6 controlling the dark squares and staking out center territory, are definately stronger.",
+        "16. Bxc6 Nxc6": "Loses a pawn, which in itself is not that important as White has doubled and isolated a-pawns, however, c6 is now weak and with it the pawn on c7 which will fall soon also.",
+        "17. Rxb7 Rdb8 18. Rb3": "If Black want's some relief by exchanging a pair of Rooks, I will be happy to recapture with the a2 pawn and keep a material and positional plus, due to the weakness down the c-file.",
+        "18... Ne7 19. Qxc7 Rbd8 20. d4": "Black's counterplay is slowly being taken away from him.  Now the ...f6 and ...e5 strategy will be a little harder to implement.",
+        "20... Qe8": "Keeping the Queens on the board is Black's only chance for survival.  A simplification now would turn into a won endgame for White.  However, now the a-pawn falls and White's material advantage is too much.",
+        "21. Qxa7 Nc8 22. Qc5 Nd6 23. Rcb1 Ne4 24. Qc2": "Beware the Knight fork!!",
+        "24... Nd6 25. Qc7": "and black resigns in a hopeless middlegame."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=648",
+    "gameName": "Team match",
+    "players": "mybookrunsdeep (1872) vs. grandpatzer (2112)",
+    "opening": "Reti opening (A09)"
+}

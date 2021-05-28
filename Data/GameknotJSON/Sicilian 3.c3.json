@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Been awhile since I did one of these...and this one seems like a great game to do it on. The tactics in here are immense and I do believe one of my best efforts on GK. Funny how some games and positions you just see everything...and others you are like my grandmother lost in the gorcery store in search of the broccoli. Well this one I saw pretty dang good. So this is a setup tourney dealing with the c3 or Alapin variation of the sicillian defense.",
+        "1... c5 2. Nf3 d6 3. c3 g6 4. Bc4 Nc6 5. O-O Nf6 6. Qb3 e6 7. d4": "Everything standard till here. Yes folks nothing is guarding the e4 pawn...always remember \"greek gifts\".",
+        "7... Nxe4 8. d5 Ne5": "after 8...exd5 9.Bxd5 the weakness on the f7 pawn comes too much into play",
+        "9. Nxe5 dxe5 10. dxe6 fxe6 11. Re1": "Now the fun begins. The Re1 of course hits the undefended knight on e4 ( hence the trap that was laid ) and of course it looks like a damn Big Mac right in the center. This shows why jumping on a pawn and not getting your king to safety is a bad thing. I mean didn't we learn those rules back from Reinfeld?",
+        "11... Nd6 12. Nd2": "Of course 12.Rxe5 is there...but always remember development and tempo. So far I have not alot going on...but neither does he. So let's get our pieces out. Nd2 sets up for Nf3 and then I am hitting the e5 pawn twice and also have the threat of Bg5 hitting the queen. These are the thoughts going through my head as I have this sey up on an analysis set and telling the wife I don't care about what she is doing in Farmville",
+        "12... Qe7 13. Nf3 Bg7": "Okay now he is defending the pawn again as well as the Qe7 move also adds help to the weak e6 pawn and starts to make room for him to take his boy queenside",
+        "14. Bg5": "Told ya it was coming! Get her outta here!",
+        "14... Qc7": "14...Bf6 leads to 15.Bxf6 Qxf6 16.Rad1",
+        "15. Nxe5": "So now I gotta take the pawn",
+        "15... Nxc4": "Getting rid of that pesky bishop but also setting a trap. 16.Qxc4 Bxe5 and his probs in the center are solved and can develop Bd7 and castle...sooo...",
+        "16. Qa4+ Kf8": "Ha! Squashed that idea! Of course 16...Bd7? 17.Nxd7 Qxd7 18.Rxe6 and it's time to drag grandma over to show her the broccoli",
+        "17. Nxc4 Bd7 18. Qd1": "Recentralizing my girl and eyeing the open f file",
+        "18... h6 19. Qf3+ Kg8 20. Bf4": "Screwing with his queen again...plus of course holding all of the claim to the e5 square",
+        "20... Qc6 21. Qg3": "Piling up on e5 and looking at the undefended g6 pawn",
+        "21... g5": "crap...oh well...but e5 is still mine",
+        "22. Be5 Rh7": "22...Bxe5? allows 23.Nxe5 hitting the queen and bishop and then Rd1 and I pile up on the Bd7",
+        "23. f4": "Trying to take away the g5 pawn and utilize the pin on the Bg7. Now I don't wanna use h4 due to opening up the h file...the f pawn is okay because the black pawn on c5 stops any checks that might get his queen a tempo on me",
+        "23... Rf8 24. fxg5 hxg5 25. Rad1": "Okay...now I have all kinds of goodies...Nd6...Bd6 and still Qxg5 is there",
+        "25... Be8 26. Qxg5 Rf5": "Not too scary but must keep the pin on the Bg7",
+        "27. Qg4 Kh8": "Okay pin is now gone so Hey!! let's do another!!",
+        "28. Rd8": "Blam!!! Now Nd6 is glaring",
+        "28... b6": "I said huh? I expected Qa4 which would have made me stop and see if i really was with grandma in the produce section....sooo since i am piling on...",
+        "29. Re3 Rf8 30. Rg3": "Now the pressure is just too much",
+        "30... Rg8 31. Qf4 Qb7 32. Nd6": "And that is what I have been waiting to play. I can let ya'll have fun and look what all can happen. Please comment. Dave"
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-3-c3?gm=39134",
+    "gameName": "Sicilian 3.c3",
+    "players": "nmdavidb (2062) vs. valeriuzaharia (2033)",
+    "opening": "Sicilian (B50)"
+}

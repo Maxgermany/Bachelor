@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. c4 e6": "Smart move!",
+        "4. Nc3 Be7 5. Bf4": "So far as in Game 2",
+        "5... O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2": "still as Game 2",
+        "8... Nc6 9. a3 Qa5 10. Nd2": "The first deviation from Game 2 where Magnus played 10.Rd1. Most common responses are 10...Be7 or 10...Bb4 But Caruana instantly responded with",
+        "10... Qd8": "It is a less popular move than 10...Be7 or 10...Bb4, but it clearly aims to prevent potential forks with b2-b4 or Nd2-b3. \n\u200bMost likely Magnus and his team focused their preparation on the more popular responses to 10.Nd2, so maybe after the rarely seen 10...Qd8 he is out of his \"book\" at this point and is taking his time.",
+        "11. Nb3": "It is logical. If White would have made a quiet developing move such as 11.Be2 Black would get the initiative after 11...d4. ",
+        "11... Bb6": "In my database, 11...Be7 12.Rd1, White went 6-0! So it is a smart move for Caruana to find a different option. 11...Bb6 a new move according to the database. \nSome are wondering why players do not analyze everything. The answer is simple. It is physically impossible to analyze everything & especially memorize everything! Neither player knows what the opponent will play. So it is the job of the players and their seconds to guess wisely!",
+        "12. Be2": "Another logical development to prepare 0-0. This opening choice is much more suitable for Carlsen, a big improvement over game 6. White is slightly better because of the backward Bishop on c8. Now let's see how he can take advantage of this. There are a lot of attractions from the non-traditional chess fans for this World Championship. My twitter commentary had around 533,000 twitter impression during game 6. People are intrigued because these 2 are quite different in every way.",
+        "12... Qe7": "Just clearing the d8 square potentially for the Rook. Carlsen's team has to be very excited as he has obtained a \"normal\" position that is not in the Caruana's wheelhouse. They believe Carlsen is superior in the middlegame phase if he does not have to face against super software and super hardware behind Caruana's home prep.",
+        "13. Bg5": "I personally do not like this move. Very strange. I prefer 13. Rd1 or 13. 0-0. White is fine, it is not a blunder, but I prefer other choices. It is encouraging psychologically for Carlsen when Caruana has to think. This is exactly Carlsen wants to see. He is not afraid of Caruana. He is just afraid of Caruana's notorious and lethal home preparation! \n\u200bThis is precisely why Bobby Fischer advocated for Fischer Random so there would be no 60-move deep opening analysis. This is why Bobby and I spent countless hours working on and perfecting all the Fischer Random rules people play with today.\nAfter thinking for a long time, Caruana played ",
+        "13... dxc4": "Now I like 14. Nd2 to capture the c4 pawn with the Knight.",
+        "14. Nd2": "Carlsen agreed with this move choice. The Knight is more suited on c4 than b3. \nNow Caruana needs to play 14...Ne5. He needs to be precise and not so passive, especially with his Bishop sitting on c8. Even though white is only slightly better, it is much easier to play white in this position. Caruana did indeed play",
+        "14... Ne5": "It is important to understand that if you have a cramp position, it is good to trade pieces to open up squares. Therefore, eventually if white plays Nc4, black can at least trade the Knights and the c6 square freed up for the c8 Bishop.",
+        "15. O-O Bd7": "Now Caruana is trying to bring his last undeveloped Bishop out. Both players are just making logical moves. Amateur players can learn a lot from this. Make sure pieces are developed, King is safe, control the center, etc. Simple chess rules! ",
+        "16. Bf4": "Carlsen is following another rule of chess. If you have space advantage and your opponent's position is more cramped, do not trade pieces to maintain advantage. So Carlsen chases the Knight away so he can capture on c4 without any exchange of pieces.",
+        "16... Ng6 17. Bg3 Bc6 18. Nxc4 Bc7 19. Rfd1 Rfd8": "Now pieces are developed for both sides. Symmetrical pawn structure. This will be a long middlegame struggle with very little chance for advantage. For most, it would be a disappointment to get so little out of white, normal for Carlsen.\nThe strategy for this game is like Nadal v Djokovic at French Open Tennis. They are just going to sit back on the baseline and play out long long long baseline rallies. So if you want fast pace action, watch Wimbledon ",
+        "20. Rxd8+ Rxd8 21. Rd1 Rxd1+ 22. Qxd1 Nd5": "Pieces coming off the board. This game is heading for a slow draw. ",
+        "23. Qd4 Nxc3 24. Qxc3 Bxg3 25. hxg3 Qd7": "Caruana is trading everything he can. He is telling Carlsen to prove his endgame skill. No GM in this level should lose in such a position. So I expect Caruana to go i nto game 8 tomorrow with the score 3.5 - 3.5.",
+        "26. Bd3 b6": "Well, Carlsen can try f3, Kf2 and eventually Ne5. He can slowly try to do something, but 99.999999% the game will end in a draw.",
+        "27. f3 Bb7 28. Bxg6 hxg6 29. e4": "Carlsen will now work toward trading Queens. That would result in Knight v Bishop endgame, a slight imbalance.",
+        "29... Qc7 30. e5": "As long as Caruana keeps Queens on the board, he has nothing to worry about. ",
+        "30... Qc5+ 31. Kh2 Ba6 32. Nd6 Qxc3 33. bxc3 f6": "Still equal. The difference now is both sides need to be careful as both have pawn weaknesses.",
+        "34. f4 Kf8 35. Kg1 Ke7 36. Kf2": "We must feed this position into super computers again because I do not know how to win with either color! ",
+        "36... Kd7 37. Ke3 Bf1": "Now will they repeat moves with 38. Kf3 Ba6 39. Ke3 Bf1? ",
+        "38. Kf2 Ba6 39. Ke3 Bf1 40. Kf2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/world-chess-championship-game-7-live?gm=65721",
+    "gameName": "\"World Chess Championship Game 7 LIVE!\"",
+    "players": "Carlsen  vs. Caruana ",
+    "opening": "Queen's pawn game (A46)"
+}

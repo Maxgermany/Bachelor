@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. e5": "a common move",
+        "2... Nd5 3. c4 Nb6 4. c5 Nd5": "at this point the knight is safe and cannot be harmed as it is on an outpost",
+        "5. d4 d6 6. Bc4 Be6": "the complexity is of this central position",
+        "7. Nf3 Nc6 8. Ng5 Qd7 9. Qf3 f6 10. Bxd5 fxg5 11. Qh5+": "not such a bad move because after g6 qxg5 bxb  exd6 the bishop must move or be protected giving two pawns for a bishop",
+        "11... g6 12. Qxg5 Bxd5 13. O-O": "i was stumped by this move",
+        "13... Nxd4": "i should have movged my bishop",
+        "14. exd6 Qc6 15. Nc3 e6 16. dxc7 Bf3": "with the obvious intention pxb nxp winning the queen",
+        "17. Bf4 Bxc5 18. Qf6 Rf8 19. Qg7 Rxf4 20. Qg8+ Bf8 21. Qxh7 Rg4 22. g3 Bh1 23. Qh3": "this when the game gets confusing and i start to make mistakes",
+        "23... Bb4 24. Rae1 Nf3+": "a definite mistsake",
+        "25. Kxh1 Nxe1+ 26. f3": "this gets very confusing, the rook is no longer protected by the threat of checkmate and the queen is free",
+        "26... Rd4 27. Qh8+": "a change of affairs ",
+        "27... Kd7 28. Qxa8 Kxc7": "taking away the troublesome pawn",
+        "29. Rxe1 Rd1": "a risky move, it could have got sticky if he had taken with the kight",
+        "30. Rxd1": "fortunately not",
+        "30... Qxf3+ 31. Kg1 Bc5+": "the position as it stands",
+        "32. Rd4": "the only move available",
+        "32... Bxd4#": "my finishing blow"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-change-of-affairs?gm=28930",
+    "gameName": "a change of affairs",
+    "players": "pinuzzi (1255) vs. kamshaft (1156)",
+    "opening": "Alekhine's defence (B02), two pawns' attack, Mikenas variation"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nf3 Bg7 5. g3 O-O 6. Bg2 d6 7. Nc3 Bg4 8. O-O Qd7 9. e4 Nh5 10. Be3 Na6 11. Qd2 Bh3 12. Rab1": "His pawns are weak on the a/b file.  I intend to exploit this also while aiming to put a knight on e6.",
+        "12... Bxg2 13. Kxg2": "I like this pocket for my king.  His knight on h5 is useless.",
+        "13... f5 14. exf5 Rxf5 15. Nh4 Rf7 16. Nf3 Nc7 17. Ng5 Rff8 18. b4 b6 19. a4 cxb4 20. Rxb4 Na6 21. Rb5 Nc5 22. a5 Rab8 23. Rfb1 Bh8 24. Bxc5 dxc5 25. Nce4 Qf5 26. Qe2": "He doesn't have many good moves and I was thinking he would bring the bishop down to d4.",
+        "26... Bd4": "Indeed he does.",
+        "27. Ne6": "Attack the bishop and rook.",
+        "27... Rf7 28. axb6 a6 29. Ra5 Bxf2": "Wow, this surprised me as he loses the bishop.",
+        "30. Rf1 Qe5 31. Rxf2 Rxf2+ 32. Kxf2 Rxb6": "I've got to be careful as a move to b2 results in a draw.",
+        "33. Ra2 Nf6 34. Ne4xc5 Qf5+ 35. Kg2": "Hide the king.",
+        "35... Rb1": "Pointless to attack when there is none.",
+        "36. Rxa6 h5": "Can you spot the mate in 9?",
+        "37. Ra8+": "Check.   King has one square to go to avoid mate in next move.   However, it's all over.",
+        "37... Kh7 38. Ng5+": "In this position I set three conditional moves for mate.   38. ..qxg5, 39. qxe7+, kh6, 40. rh8+, nh7, 41. rxh7#.   Or, 38. ...kh6, 39. nf7+, kg7, 40. ne6+, kxf7, 41. rf8#.   Or, 38...kg7, 39. nce6+, kh6, 40. nf7+, kh7, 41. rh8#.\n\nSweet."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=55714",
+    "gameName": "Team match",
+    "players": "inkyx (1768) vs. kecman-pfc (1780)",
+    "opening": "Benoni defence, Hromodka system (A56)"
+}

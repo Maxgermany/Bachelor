@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "King's pawn opening,not fearing...",
+        "1... c5": "The sicilian!I usually don't play 1.e4 because of it.Not because I fear the opening itself,but the studying of reams of lines that goes with it.",
+        "2. Nf3": "The most logical-and popular-move.",
+        "2... d6": "Also in vouge are 2...Nc6 and 2...e6",
+        "3. d4": "I usually play the Moscow variation,3.Bb5+ here.",
+        "3... cxd4 4. Nxd4 Nf6 5. Nc3 g6": "Dragon variation,Black aims to Fianchetto his Bishop",
+        "6. Be3 Bg7 7. f3": "Yugoslav attack.This leads to very exciting games due to that it usually involves opposite-side castling.",
+        "7... O-O 8. Qd2 Nc6 9. Bc4": "The older continuation 9.O-O-O is also good,but I stick with the main line.",
+        "9... Bd7 10. O-O-O Rc8": "In this variation,Black's counterplay is all based,down the c-file,White will aim for h2-h4-h5 followed by Bh6.",
+        "11. Bb3 Nxd4": "The main line is 11...Ne5",
+        "12. Bxd4 b5 13. Nd5": "! Hitting on the idea for the d5-square",
+        "13... Nxd5": "The only move,according to the World database",
+        "14. Bxg7 Kxg7 15. exd5 a5": "threatening 16...a4",
+        "16. a3": "White has the advantage,due to weakened dark-squares on the King-side,which White will take advantage of later.",
+        "16... Rc5 17. h4": "Looking for h5.",
+        "17... Qb6": "? Hopelessly slow.I don't really know any other move for Black though.",
+        "18. h5 Rfc8 19. hxg6 hxg6": "Black is now lost.",
+        "20. Qh6+": "The end for Black",
+        "20... Kf6 21. Qh4+": "!A good move forcing Black' king back.",
+        "21... Kg7": "Arguably the best chance since 21...g5,21...Kf5 and 21...Ke5 all are losing.I do not wish to tire you out with all the lines I prepared.",
+        "22. Qd4+": "!Using the weak dark squares to his advantage",
+        "22... f6 23. Qh4": "!The queen heads BACK to h4 after forcing Black,to play f6 further weakening the position.Black was played all the way to mate through intertia,I suppose.",
+        "23... f5 24. Qxe7+ Kg8 25. Qh7+ Kf8 26. Qh8+ Ke7 27. Rh7#": "This game was quite a bloody one and helped me win my group with a 5/6 score(I lost one due to time-out)Comments are quite welcome."
+    },
+    "url": "https://gameknot.com/annotation.pl/if-you-fianchetto-your-bishop-be-careful-of-trading-it-off-when-heavy-pieces-are-still-on-the-board?gm=26378",
+    "gameName": "If you Fianchetto your Bishop,be careful of trading it off when heavy pieces are still on the board!",
+    "players": "rookie879 (1528) vs. darojak (1548)",
+    "opening": "Sicilian (B78), dragon, Yugoslav attack, 10.O-O-O"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "King's gambit... tricky opening as the game will show it.",
+        "2... exf4": "usual answer",
+        "3. Nf3 g5": "The most common answer",
+        "4. Nc3 d6": "Still in the books",
+        "5. Bc4": "Menacing f7",
+        "5... Bg7": "Taking control of the long diagonal and enabling a further Bd4+ (which is black's plan)",
+        "6. O-O": "White has castled and is strong on the center but his king can be attacked via the a7 f2 diagonal. Black has 2 options : developp the queenside pi\u00e8ces to enable the castle or use the white's king weakness to attack.",
+        "6... Nc6": "First : develop the center (common move) and taking control of d4",
+        "7. d3": "One of the most common answer, protecting the e pawn and freeing the DSB.",
+        "7... Bg4": "Pinning the knight and developping on the queenside.",
+        "8. h3": "Mistake. It weakens the king and achieve little... White should have carried on developping on the center, unpinning his knight by moving the queen or attacking on the center...",
+        "8... h5": "... for black doesn't have to move the bishop.",
+        "9. hxg4": "Blunder. White falls in the trap and will soon be in big trouble.",
+        "9... hxg4": "Now the white king is in serious danger ",
+        "10. Nh2": "Mistake. White has little good move available but 10. Nd2 was better as was 10. Nd5 (abandoning the knight to his doom)",
+        "10... Bd4+": "White submits here for if 11. Be3 Bxe3+ and the situation is the same with one bishop less for white\nif 11. Kh1 g3 and white is facing an unavoidable mate by 12. Rxh2+mate If 11. Rf2 Bxf2 12. Kxf2 Rxh2 and white is 4 points late in material with a very weak king."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=56207",
+    "gameName": "Team match",
+    "players": "toffie62 (1771) vs. ptitroque (1835)",
+    "opening": "KGA (C37), Quaade gambit"
+}

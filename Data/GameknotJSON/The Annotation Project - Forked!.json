@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nYesterday I got my 11th point out of 14 games in this Mini-Tournament.  I was playing black against Nuntar (Michael).   In this tournament there has been a minefield of tactics, especially forks to look out for.  Now, for all who know Glenda, you wouldn't believe she could be up to nasty tricks such as deadly forks would you?  Well read on.  We start the action on move 9 where I choose to play 9....... e6.",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6 9. Bxg4 e6": "9. ....... e6 - this move opens up Fou Lenoir's diagonal.  Although this hind e pawn is hanging to two pieces, this pawn has somehow managed to survive a long way into the game.",
+        "10. Nc3 Na6 11. a3 Qf6 12. O-O": "12. 0-0 - moves WK to safety and defends the f4 pawn.",
+        "12... h5 13. Be2 Be7 14. Ngxe4 Qd4+": "14. ....... Qd4+ - Glenda has started to get used to excursions into the enemy camp, alas her old broomstick, now cobweb free broke through lack of use.  However, she found time to visit Olivanders and purchased a Harry Potter Nimbus 2000 Broom.  She fixes her glare on the WK who moves out of the way to h1. ",
+        "15. Kh1 Raf8": "15. ...... Raf8 - clearing the way for a possible castle by hand long.  However I do spot that if I move Henry to c7 then a white horsie will spring onto b5 catching the Royal Couple in a fork.  Glenda thought that it would be a good idea to ride back to her home-square.  Much to Michael's chagrin she will not stay there!",
+        "16. b3 Qd8 17. Bb2 Bf6 18. Bxa6": "18. Bxa6 - I expected N for B trade here but white decides to bust up my queenside pawn structure.  I get rid of his lsb though and break up a dangerous bishop pair.",
+        "18... bxa6 19. Na4": "19. Na4? - this will allow a combo that should win at least a pawn.",
+        "19... Bxb2 20. Nxb2": "20. Nxb2 - step 1, a bishop trade, luring the two steeds into a forkable position.",
+        "20... Qd4": "20. ....... Qd4 - now the fork, back comes Glenda on her broomstick!",
+        "21. Nc3 Qxd2": "21. .... Qxd2 - Michael saves his knight but I snaffle up the d2 pawn.  Now the knight on c3 and the f4 pawn are under fire, another fork.",
+        "22. Rfd1": "22. Rfd1?? - loses piece for nothing.",
+        "22... Qxc3": "22. ...... Qxc3 - Glenda gleefully turns Michael's steed to dust.  Michael finds himself 6 points down in material.  He decides he does not have sufficient compo for this and waves the white flag."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-forked?gm=25479",
+    "gameName": "The Annotation Project - Forked!",
+    "players": "nuntar (1627) vs. jstevens1 (1805)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

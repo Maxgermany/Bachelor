@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6": "I wanted to experiment with Queens Gambit, as I am not nearly as familiar with QP openings as I am with KP.  He declines the gambit.  I was excited.",
+        "3. Nc3 c6 4. Nf3 dxc4 5. e4": "Transposing to QGA, or is this simply count as a variation on QGD?",
+        "5... b5 6. Be2 h6 7. O-O Nf6 8. e5 Nd5 9. Ne4 f5 10. Ng3": "His pawn structure is unbalanced, his king is weak, and I have a larger force on the kingside, so I attempted to attack.",
+        "10... c5 11. dxc5 Bxc5 12. Nh5 O-O 13. Nd4": "What a horrible move by me.   Obvious to anyone, and easily countered.  I lose tempo automatically.",
+        "13... Qb6": "I can only move my knight back.  If I try to bolster with Be3, the best I can hope for is an even exchange (bad for me if I want to exploit his pawn structure) and the worst is my queen getting forked.  On average, I lose a pawn and give him control of the f-file.",
+        "14. Nf3 f4 15. Qc2 Ba6": "He gives me an opening to the kingside, and he misreads my setup move as preparation to attach the c4 pawn.  His bishop is now neatly tucked away on the side of the board and completely useless.",
+        "16. Qg6 Rf7 17. Qg4": "I lose tempo but I now present a solid threat to his king.",
+        "17... c3 18. bxc3 Nxc3 19. Bd3 Rd7": "Someone wasn't paying attention.  Lucky me.",
+        "20. Nf6+ Kf7 21. Nxd7 Nxd7 22. Bg6+ Ke7 23. Qh4+ Kf8 24. Bxf4 Ne2+ 25. Kh1 Nd4": "If 25....Nxf4 then 26. Qxf4  and I either get his knight or his rook.",
+        "26. Nxd4 Bxd4 27. Bxh6": "My attempt at a bishop sac, but he doesn't take the bait.  I was looking for 27...gxh6 28. Qxh6  Ke7 (Kg8 leads to mate) 29. Qg7  Kd8 30. Qg8  and I win the rook.",
+        "27... Bxe5": "Interesting attempt to protect himself, but he leaves his pieces open.",
+        "28. Be3 Qb7": "Rook is now protect, oh well.",
+        "29. Qh8+ Ke7 30. Bg5+ Bf6 31. Qxg7+ Kd6 32. Bxf6 Nxf6 33. Qxf6 b4 34. Rfd1+ Kc5 35. Rac1+ Kb5 36. Qe5+ Ka4 37. Bc2+ Ka3 38. Qe3+ b3 39. Bxb3 Kb4 40. Qd4+ Ka5 41. Rc5+ Bb5 42. Qa4+ Kb6 43. Qxb5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-rajsahae?gm=13605",
+    "gameName": "Challenge from rajsahae",
+    "players": "rajsahae (1474) vs. drgideonfell (1405)",
+    "opening": "QGD (D31), semi-Slav, Noteboom variation"
+}

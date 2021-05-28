@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. Nc3 Nf6 5. O-O a6": "After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.",
+        "6. d4 b5": "For his move 6th move black moves his 4th pawn which white correctly punishes.",
+        "7. Bxf7+ Kxf7 8. Nxe5+ Nxe5 9. dxe5 Ne8 10. Qd5+ Kg6 11. Qxa8": "& the bishop is returned with interest.",
+        "11... c6 12. Qa7 c5 13. Qa8": "I prefer 13.  Be3. It develops a piece, connects the rooks, & attacks the c5 pawn.",
+        "13... d6 14. exd6 Nxd6 15. Qd5 Be7 16. f4": "16. Bf4 developing a piece, attacking the knight & connecting the rooks.",
+        "16... Kh7 17. b3 b4 18. Ne2 Bf6 19. e5 Re8 20. Ng3 Be6 21. Qxc5 Nb7 22. Qe3 Bh4 23. Qd3+": "When ahead swap pieces not pawns. They should be queened.",
+        "23... Qxd3 24. cxd3 Nc5 25. d4 Nd3 26. f5 Bd5 27. Be3 Bc6 28. Rad1": "28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.",
+        "28... Bb5 29. Rf3 a5 30. Ne4 Bc6 31. Rh3 Bxe4 32. Rxh4 Bxf5 33. g4 Be4 34. g5 Kg6": "This is a faulty bishop sac. Compare with 7. Bxf7",
+        "35. Rxe4 Nb2 36. Rd2 Kf5 37. Rf4+ Kg6 38. Rxb2 hxg5 39. Rg2": "39. Rg4 quickly wins the pawn.",
+        "39... Kh5 40. Rf5 g6 41. Rfxg5+ Kh4 42. Rg5xg6": "Or 42. Bf2  Kh3 43. Rb5b4 any 44. Rg2g3#",
+        "42... Rh8 43. d5": "When ahead trade pieces. 43. Rh6  Rxh6 44. Bxh6 & black resigns because he can't cross the g file to stop the pawns. ",
+        "43... Rh5": "Black takes the bait & is mated.",
+        "44. Rg6g4+ Kh3 45. Rg2g3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3?gm=18474",
+    "gameName": "League division D3",
+    "players": "bobdoleeatsfood (1353) vs. debeli (1295)",
+    "opening": "King's pawn game (C50)"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4": "Bishop opening",
+        "2... Qf6": "It is not wise to move with the queen into the open board so early in the game. Theory recommends 2... Nf6 and black equalize pretty soon.",
+        "3. Nf3 Bc5 4. O-O Qg6": "???? a huge mistake. black leaves the e5  pawn and loses the f7 pawn afterwards. 4... d6 with Bg4 later on was inquired.",
+        "5. Nxe5": "obviously",
+        "5... Qg5": "in this poor situation I think 5... Qb6 was a slight better.",
+        "6. Nxf7 Qg6": "why? White takes the rook and the queen will still be threatened...",
+        "7. Nxh8 Qg5 8. d4": "white is practically won. 8. Bxg8 works too.",
+        "8... Qe7 9. dxc5 Nf6 10. Bg5": "it's somehow amazing. black didn't develop any piece... at all...",
+        "10... Qf8 11. Nf7 d5 12. Bxf6 Kxf7 13. Qxd5+ Be6": "mate in 3",
+        "14. Qxe6+ Kg6 15. Qf5+ Kh6 16. Qg5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=57869",
+    "gameName": "Team match",
+    "players": "wsteinitz (1325) vs. benardgondwe (1252)",
+    "opening": "Bishop's opening (C23)"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "intro: the game is characterized by an aggressive attack on the exposed king by white, rated 1840, resulting in a delay of development, and a shift of focus away from center. black answers by playing for queenside space, his position gradually improves to compensate for the material deficit, squeezing out his opponents mobility until tactical resources can be secured, creating a nice finish. ---- \n",
+        "1... f5 2. exf5 Nf6": "The Fred (1.e4 f5 2. exf5 Kf7) with the more solid, 2...Nf6, is often called 'The Hollyrock Gambit'. - Palliser.\n",
+        "3. Be2 Nc6 4. Bh5+ g6 5. fxg6 Bg7 6. gxh7+ Kf8 7. Bg6 Nxh7 8. Bxh7 Rxh7 9. Qf3+": "9. Qf3+, white says black is busted, so i'm seeking an early kill. \n",
+        "9... Kg8 10. Nc3 Ne5": "10. Ne5!? 10. Nd4 would have threatened the knight fork-check, but after responding with 11. Qd1, white would be able to focus on development, which would not be a good strategy for black in this type of psychological defense.\n",
+        "11. Qg3 e6 12. d3": "12. d3 ?! this inaccuracy frees the bishop, but 12. d4 was better - since my bishop is pinned and can't win the pawn - it demonstrates white's focus on the king, rather than on the center.\n",
+        "12... d5 13. Bg5 Qd6 14. Bf6": "14. Bf6 ?! now white wins the f6 square, but again, like 12. d3, this move is focused on the king's corner. better was the central 14. Bf4 which still retains the advantage. as a result, my opponent allows the following clearance...\n",
+        "14... Nxd3+ 15. cxd3 Qxg3 16. fxg3 Bxf6 17. O-O-O Bg5+": "17...Bg5+, i won a pawn and i got to put a psych-check on the king, quite a surprise from a 'busted opening', lol!\n",
+        "18. Kc2 c6": "my general strategy is to gain space, squeezing out my opponents mobility, with focus on the knights. here, i take away b5, weakening the knight on c3 which will need to find a stronger square. \n",
+        "19. Nce2 e5 20. Nf3 Bf6 21. Rdf1 Bf5": "21. Bf5?!  to provoke g4. i wanted to finish development and prevent the rook from infiltrating. white could not find any tactical way to take advantage of this mistake.\n",
+        "22. h3": "22. h3 ?! ...building the position. he has the f file, and pushing the g/h pawns could squash my king like a bug, but he misses a threat.\n",
+        "22... e4 23. dxe4 Bxe4+ 24. Kb3 Re8 25. Nf4 c5 26. Rf2 c4+ 27. Ka3 a5": "27...a5, there are some winning lines that initiate with Bb7+ available for the next couple of moves, but were quite beyond black's ability to calculate the risk.\n",
+        "28. Nd2 b5 29. Nxd5": "29. Nxd5, white wins a pawn and creates a complicated tactical position. this pawn grab puts both black bishops en prise, threatening Nxf6+ for my rook, and BxN, RxB which allows white's rook to penetrate. but i found a way to equalize.\n",
+        "29... Bxb2+ 30. Kxb2 Bxd5 31. g4 Rhe7 32. Rhf1 b4": "32...b4, believe it or not, i now have mate threats.",
+        "33. Nf3 c3+ 34. Ka1": "34. Ka1?! to help stop promotion threats, other squares for the king give white chances for longer survival.\nperhaps 34. Ka1 was played to lure Re1+?? i do have a back-rank mate, but the knight on f3 defends. eventually i found a complicated way to wrest it from its guardians. ",
+        "34... Bxf3": "34...Bxf3! simply crushing. the bishop cannot be taken: if 34. Rxf3/gxf3 then its 35...Re1+ 36. RxR RxR#\n",
+        "35. Kb1": "35. Kb1, the king flees for c2 to prevent mate. i need to stop him, but 35...Be3 and i am blocking my own way.\n",
+        "35... Be2": "35. Be2! an invincible bishop\n",
+        "36. Rh1": "36. Rh1, he saves the rook but loses the game. \n",
+        "36... Bd3+": "36. Bd3+ white resigns (on 37. Ka1/Kc1/Rc2 then 37...Re1+ 38. RxR Rxe1#). 0-1 --- this opening taunts white into believing black is busted. you will find two responses from white - natural developing moves, or aggressive attacks. you can use this to plan your advantage with adequate preparation running 10 to 15 perfect opening moves with very little study. please don't enter this opening without preparation, but if you are a prepared class player, the Hollyrock Gambit can become a devastating surprise weapon. \n"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-fred-hollyrock-gambit-0-1?gm=31068",
+    "gameName": "The Fred: Hollyrock Gambit - 0-1",
+    "players": "NN (1840) vs. charlbroiled (1191)",
+    "opening": "Fred (B00)"
+}

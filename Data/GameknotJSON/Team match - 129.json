@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Philidor's Defense.",
+        "3. h3 Nf6 4. Bb5+": "This move is actually somewhat promising for black, though the move tree is pretty sparse this far down.  We anticipate black will move Pc6, permitting the queen egress.",
+        "4... c6 5. Ba4 b5 6. Bb3 Be6 7. Nc3": "Here I am partial to BxBe6, which doubles black's pawns.  Not that that is a big thing, but it makes Ng5 nice.",
+        "7... Nbd7 8. d3": "This will prove a good solid move.  I still like BxBe6 to prevent black doubling white's pawns.  Maybe I get too hung up on pawn doubling.  It isn't that big an advantage.",
+        "8... Nc5 9. O-O d5": "Black withdraws cover for Pe5.  NxPe5 looks real good.",
+        "10. d4 exd4 11. Ne2 Nfxe4 12. Nexd4 Qf6 13. Be3": "Nf3 was covering Nd4.  I would move Re1 here.  Even better, NxPc6.  You can't do NxPc6 after Be3, since Bc1 protects against QxPb2.",
+        "13... a5": "Actually, NxPc6 still looks good, followed with BxPd5 unless black attacks Nc6.  The white queen is covering BxPd5.",
+        "14. Nxc6": "Yay!",
+        "14... Qxb2": "And here the game came to an unfortunate conclusion.  BxPd5 would have given white lots of sweet options.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=57436",
+    "gameName": "Team match",
+    "players": "wichita1967 (1079) vs. rodeomouse (1180)",
+    "opening": "Philidor's defence (C41)"
+}

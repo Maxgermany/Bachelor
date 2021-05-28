@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3": "The weird and wonderful Birds From Gambit...the position is meant to allow black the opportunity of mobilising his pieces quickly in return for the pawn, which can be equalized quickly anyway....in theory! In practice, I had alot of trouble with black but had some good successes with the white pieces....this game being one of them.",
+        "4... Nf6": "both 4...Nc6 and 4...g5 immediately laucnhing an offensive, are both playable here.",
+        "5. d4": "5 g3 is also an option but here I am immediately staking a claim for the centre",
+        "5... O-O 6. g3 c5 7. c3 Nc6 8. Bg2 Bg4": "black now has all his minor pieces mobilised and he has castled, so far then, the theory behind the gambit for black is coming through",
+        "9. O-O Qc7": "A mistake by black....best was Re8 10d5 Ne5 leading to only a slight advantage for white",
+        "10. d5": "this pawn is now crucial to the whole game and every move I make now is geared toward advancing this pawn ",
+        "10... Ne5 11. Nxe5 Bxe5 12. Qc2": "preparing for e4",
+        "12... Bh5 13. e4 Bg6 14. Qd3 Rad8 15. Qc4 Rfe8 16. Bg5 b5 17. Qxb5 Rdb8 18. Qc4 Rxb2 19. Nd2 Nd7 20. Qd3 h6 21. Bf4 Nf6 22. Bxe5 Rxe5 23. c4 Qa5 24. Rf2 Re8 25. Bf3 Rxa2 26. Rxa2 Qxa2": "so whilst I'm busy trying to push my d pawn, black is creating his own passed pawn on the a file",
+        "27. Qe3 Nd7 28. Bg2 a5": "the race begins!",
+        "29. Qc3 a4 30. Bh3 Ne5": "Nf6 was a better move here followed by 31 e5  Ne4 32 Nxe4  Qb1+  33 Rf1  Qxe4",
+        "31. d6 f6 32. d7 Rb8 33. Kg2 Nc6 34. Be6+ Kh7 35. e5": "I should have played Qe3 here followed by 35...Nd4 36 Bf5  Qb2 37 Nf3  Qb3  38 Qf4  Rd8 and a good advantage for white",
+        "35... Qc2 36. Qe3": "however I spot my error and now white has a good position",
+        "36... fxe5": "this is a mistake by black who should have taken with his knight putting it on a good square protected by his f pawn. Instead, now he has 3 isolated pawns and although a pawn down I am able to launch an attack",
+        "37. Bd5 Nb4 38. Qxe5": "and black loses his rook",
+        "38... Nxd5 39. Qxb8 Ne3+ 40. Kf3 Bh5+ 41. g4 Bxg4+ 42. Kxe3 Qc3+ 43. Kf4 Qd4+ 44. Ne4 Bxd7 45. Qd6 g5+ 46. Kf3 Bg4+ 47. Kxg4 Qxe4+": "black fought on looking for a draw perhaps from perpetual check",
+        "48. Kg3 Qe3+ 49. Kg2": "but once I was able to get my king around the rook, black would soon run out of options",
+        "49... Qe4+ 50. Rf3 Qe2+ 51. Kg3 Qe1+ 52. Kh3 Qh4+ 53. Kg2 Qg4+ 54. Qg3": "and black has no option but to hand the move back to me",
+        "54... Qe6 55. Qc7+ Kg6 56. Qxc5 Qe2+ 57. Kg3 Qe1+ 58. Rf2 Qe6 59. Qd5 Qe8 60. c5 a3 61. c6 a2 62. Rxa2": "and black resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/birds-from-gambit?gm=42253",
+    "gameName": "Birds From Gambit",
+    "players": "mentaaa (1958) vs. chesspernik580 (1994)",
+    "opening": "Bird (A02), From gambit, Lasker variation"
+}

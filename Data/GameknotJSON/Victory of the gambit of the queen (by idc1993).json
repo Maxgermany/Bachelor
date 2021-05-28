@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "Gambit of the queen...",
+        "2... dxc4": "Black commited a mistake in accepting the gambit...but there were still hopes...",
+        "3. e3 b5": "The black sealed it's destination in trying to keep the pawn obtained",
+        "4. a4 c6 5. axb5 cxb5 6. Qf3 Nc6 7. Qxc6+ Bd7 8. Qb7 e6 9. Bd2 Ne7 10. Nc3 Bc6 11. Qa6 Qb8 12. Ra5 Nd5": "Mistake....",
+        "13. Qxc6+ Kd8 14. Rxb5 Qc8 15. Qxc4": "Q",
+        "15... Nc7": "Qxc4 would be better.....",
+        "16. Ra5 Be7 17. Nb5 Nxb5 18. Qxc8+ Rxc8 19. Bxb5 Rb8": "????attack the bishop?????....well if I were black in this stage I would be certain to be defeated and would try anything....to be fair there were no more reasonable moves for black",
+        "20. Rxa7": "At least if the black had taken the bishop and lost it's rook the game would have lasted more...",
+        "20... Rc8 21. Ba5+ Rc7 22. Ra8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/victory-of-the-gambit-of-the-queen-by-idc1993?gm=31429",
+    "gameName": "Victory of the gambit of the queen (by idc1993)",
+    "players": "idc1993 (1200) vs. trexbean (1318)",
+    "opening": "Queen's gambit accepted (D20)"
+}

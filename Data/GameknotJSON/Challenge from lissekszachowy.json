@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Here playing black on a ruy lopez game.",
+        "3... Nf6 4. d3": "Well not the best continuation, but that okay. ",
+        "4... Bc5": "Threathening f2 and ready to castle.",
+        "5. Bg5 a6": "Developping my queen side.",
+        "6. Bxc6 dxc6": "Exchange of the knight-bishop. White must not take the e pawn because it is trapped.",
+        "7. Nxe5": "?",
+        "7... Qd4": "! That's why. Threatening Qxf2#. White must now lose his knight.",
+        "8. O-O Qxe5": "Now I really have the advantage. Now threatening the bishop + b2. ",
+        "9. Bxf6": "Exchanging the pieces. White is now totally unfanged and underdevelopped. The only advantage he got right now is the pawns in the middle. Maybe to keep his bishop by returning back to c1 would have given better attack further in the game for white. ",
+        "9... gxf6": "! By doing so, it give me a nice passage for my rook to the king and a better position to attack. Don't forget that if I would have taken it with my queen, white would have done e4-e5, giving him better counter-attack. Anyway, my king is not threated at all and it will be better if I castle on the queen side. ",
+        "10. c3": "Protecting the b pawn and preparing d4, forking my queen and my bishop + it solidify the center. ",
+        "10... Bd6": "Avoiding the trap and threatening h2. ",
+        "11. g3": "I think f4 would have been better here. ",
+        "11... Rg8": "Now there's many possibilities of attack on my side! My rook is prepared so I can make Bg4 in the next moves. I'm already planning to make a x mate with my queen and my bishop on h3 and f3. ",
+        "12. d4": "I can't take the e pawn because of Re1.",
+        "12... Qe6": "Ready to execute my plan.",
+        "13. Re1 Qh3 14. e5": "Well my defense is breaking and I will probably not able to castle but I still think I have advantage. ",
+        "14... fxe5 15. dxe5 Bc5": "I look in a bad situation but I really think the situation of white is worst. Anyway his rook and his knight is not developped and I would probably be able to castle before he does any threats to my king. \r\n\r\nFrom my side, I'm now ready to unleash a huge attack. The f2 pawn is now pinned and there's now many way to reach the king. With the knight I've got in the beginning of the game, I don't really care right now to sacrifice some of my pieces. Bxf2 or Bg4 would be a nice continuation for black.",
+        "16. Re2": "! By doing this, not only he protects the f pawn but he stops the threat of bg4 + it give him space to do Qf1 avoiding an x mate with my bishop and my queen.",
+        "16... Rxg3+": "!! Another solution!\r\n\r\n17.hxg3 Qxg3+ 18.Kf1 Bh3+ 19.Ke1 Qg1+ 20.Kd2 Rd8+ 21.Kc2 Qd1#\r\n\r\n                  if 18.Kh1 Qf3+ 19.Kg1 Bh3 20.Qf1 Bxf1 21. Kxf1 Qh1#\r\n\r\n                                   if 19.Kh2 Qf4+ 20.Kg2 Qf4+ 21.Kh2 Qh4+ 22.Kg1 Bh3 23.Qf1(if not Qg3+ then Qg2#) Bxf1 24.Kxf1 Qh1#                      \r\n\r\nComputer analysis: Blunder: +Mate(11) \u00bb 16. Re2 Rxg3+ 17. hxg3 Qxg3+ 18. Kh1 Qh4+ 19. Kg1 Bh3 20. Kh2 Bg4+ 21. Kg2 Qh3+ 22. Kg1 Qg3+ 23. Kf1 Bh3+ 24. Ke1 Qg1+ 25. Kd2 Rd8+ 26. Kc2\r\nBest: +4.57 \u00bb 16. Qf3 Bg4 17. Qg2 Qh5 18. Nd2 O-O-O 19. Ne4 Qxe5 20. Nxc5 Qxc5 21. h3 Be6 22. Re3 Bc4 23. b3 Bd3\r\n \r\n",
+        "17. Kh1": "??",
+        "17... Qg2#": "I'm little bit disapointed by the mate, but it was a very nice game with a lot of potential. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-lissekszachowy?gm=40264",
+    "gameName": "Challenge from lissekszachowy",
+    "players": "lissekszachowy (1314) vs. drchopper (1549)",
+    "opening": "Ruy Lopez (C65), Berlin defence, Kaufmann variation"
+}

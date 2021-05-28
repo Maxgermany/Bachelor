@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Bb7 13. Bg5": "Mistake? Perhaps Nbd2 would have been better here. Losing the bishop pair, even while gaining the extra pawn didn't work out so well for white.",
+        "13... h6 14. Bh4 Nc6 15. Bg3 Nb4 16. Nbd2 Nh5 17. Bh2 Nxc2 18. Qxc2 Nf4 19. dxe5": "I'm winning a pawn here, but black's bishops become very active.",
+        "19... dxe5 20. Nxe5 Rc8 21. Qd1": "I saw pretty much everything that black was trying to do, but couldn't figure out how to stop it.",
+        "21... Nd3": "Computer calls this position even.",
+        "22. Nxd3 Qxd3 23. Nb3 Qxd1 24. Raxd1 Rc2": "computer calls this position even.",
+        "25. Be5 Bb4 26. Re3 Re8 27. Bd4 Rxe4 28. Rxe4 Bxe4 29. a3 Bf8 30. Bc3": "Computer recommends 30. Nd2 Bb7 31. Nf1 Rc8 32. Ne3 Rd8 33. Kf1 g6 34. Ke2 f5 35. g3 f4 36. gxf4 Bg7 37. Bxg7 Rxd1 38. Kxd1 Kxg7",
+        "30... Rxc3": "30...Bxa3 31. Nd4 Bxb2 32. Nxc2 Bxc3 was another possibility which would've retained two passed pawns on the queenside for black.",
+        "31. bxc3 Bc2 32. Rd8 Bxb3 33. Ra8 Bc4 34. Rxa6 b4 35. Ra8 b3 36. f3 g6 37. Kf2 Kg7 38. Ke1 b2": "38...Bxa3 is perhaps more direct. But the text move certainly works.",
+        "39. Rb8 Bxa3 40. Kd2 Be6 41. g4 Bd5 42. Kc2 Bxf3 43. Rxb2 Bxb2 44. Kxb2 f5 45. gxf5 gxf5 46. c4 Kf7 47. Kc3 Ke7 48. Kd4 Be2 49. Ke5 Bd3 50. c5 Kd7 51. Kd5 Bc2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-thefiddler?gm=53274",
+    "gameName": "Challenge from thefiddler",
+    "players": "thefiddler (1859) vs. artful (1886)",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

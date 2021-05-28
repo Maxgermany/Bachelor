@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Nf3 Nc6 6. Bb5 Bd7 7. O-O Nf6": "All the games start here. The Grand Prix Attack is a lot of things, but \"boring\" isn't one of them.",
+        "8. d3 Bg4 9. h3 Bxf3 10. Qxf3": "The game is already getting interesting. My opponent has elected to exchange minor pieces on KB6. As a result of the exchange, I now have a threat to win a Pawn by 11 BxN ch PxB 12 QxP ch.",
+        "10... Qd6": "Black defends the threat and centralizes the Queen nicely.",
+        "11. Bd2 O-O-O 12. g3 a6": "Forcing a decision.",
+        "13. Bxc6 bxc6": "Both Kings are now somewhat exposed.",
+        "14. Na4 Qd4+": "With this nice tactical shot, Black wins a piece.",
+        "15. Kh2 Qxa4 16. b3 Qb5 17. c4": "I hasten to force Black's Queen away from the action.",
+        "17... Qb7 18. Ba5 Re8 19. Rfe1 e6 20. Re5": "I haven't given up hope. Despite being a piece down, there is enough wood left on the board to provoke complications.",
+        "20... Bd6 21. Ree1 g6 22. Bc3": "I provoke one here...",
+        "22... h5 23. Bxf6": "...and it works. Just as I overlooked a piece capture earlier, Black overlooks this equalizer.",
+        "23... Rhg8 24. h4 Be7 25. Bxe7 Rxe7 26. Rab1": "All the minor pieces are gone. I feel I have a decent shot in the all-heavy-piece end game due to my better Q-side Pawn position.",
+        "26... Qb8 27. Red1 Qd6 28. Rd2 e5 29. fxe5 Qxe5 30. Qxc6+": "I exploit the weakened Black Q-side by winning a Pawn with tempo.",
+        "30... Kd8 31. Qe4": "Now ahead in material, I look to simplify by removing the Queens. My opponent accedes.",
+        "31... Qxe4 32. dxe4+ Kc8 33. Re1": "I am a Pawn ahead, but winning won't be easy. I will need to centralize my King and keep my Rooks mobile.",
+        "33... Kb7 34. Rd5 Kc6 35. e5 f6 36. Rd6+ Kc7 37. Rxf6": "Now I'm two pawns up and have a passed KP. I feel my chances have improved significantly.",
+        "37... a5 38. Ra6 Kb7 39. Rxa5": "Now I have a second passed Pawn.",
+        "39... Kc6 40. a3 Kb6 41. b4 cxb4 42. axb4": "With connected passed Q-side Pawns, it's a matter of technique now.",
+        "42... Rc8 43. c5+ Kc6 44. Raa1 Rb8 45. Rab1 Re6 46. Re4 Ra8 47. Kg2 Ra2+ 48. Kf3 Ra3+ 49. Kf4 Re8 50. g4 hxg4 51. Kxg4": "Removing the last possible threat.",
+        "51... Kd5 52. Rbe1 Rb3 53. Re1e3 Rxe3 54. Rxe3 Rxe5 55. Rxe5+": "I was expecting 55... KxR, to which the response would be 56 K-N5 eliminating the last Black Pawn.",
+        "55... Kc4 56. c6 Kxb4 57. c7": "For some reason Black chose not to capture my Rook, which simply made matters easier. Black resigns here."
+    },
+    "url": "https://gameknot.com/annotation.pl/grand-prix-attack-mini-tournament?gm=44525",
+    "gameName": "Grand Prix Attack mini-tournament",
+    "players": "last_archimedean (1411) vs. lasteagle (1256)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

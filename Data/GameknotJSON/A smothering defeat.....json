@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5": "black opts for Sicillian Defense...",
+        "2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O d5 6. d3 Ne7 7. c4 Bb7 8. Nc3": "White continues to avoid initiating the pawn exchange, as that will allow black to un-double his c-pawns.",
+        "8... d4": "Black decides to play for space, and pushes the pawn.",
+        "9. Na4 Ng6": "Black opens a lane for his bB, protects the weak doubled pawn, and has brought his king-side N into the fray.",
+        "10. Nd2 e5 11. Nb3": "White is bringing more pressure on the weak doubled pawn than black can protect against.",
+        "11... Rb8 12. f4 Nxf4 13. Bxf4 exf4 14. Rxf4 Bd6 15. e5 Be7": "if black plays 15....BxP, then 16.Re4 (pinning the B), and black must decide between delegating his Q to guard duty, or pushing the f-pawn forward to support the B, leaving the K vulernable to check from white's Q at h5, forcing black to move his K into the center of the board, or push the g-pawn forward, causing further weakening of possible king-side castle.\r\n \r\nblack opts to retreat.",
+        "16. e6 O-O 17. exf7+ Rxf7 18. Rxf7 Kxf7 19. Naxc5 Bxc5 20. Qh5+ Kg8 21. Qxc5 Qd7 22. Qxa7 Rd8": "better would have been 22....Ra8, forcing white to respond to the threat to his Q.",
+        "23. Nc5 Qe7 24. Nxb7 Qe3+": "black cannot play 24....Rd7, hoping to win the N since 25.Qb8 has devastating effects - black cannot intercede with his R because d8 is controlled by the N!",
+        "25. Kh1 Re8": "black lines up for a back-rank mate.",
+        "26. Rg1 Qxd3": "white takes the opportunity to gobble up a pawn, paving the way for what is now a past pawn.",
+        "27. Nd6 Rf8 28. Qb7 Qe2 29. Qxc6 d3 30. Qd5+": "black has 1 recourse, and white has sealed the victory.",
+        "30... Kh8 31. Nf7+": "step two, and white moves in closer for the kill.....",
+        "31... Kg8 32. Nh6+": "double check! and black MUST move his K .",
+        "32... Kh8 33. Qg8+": "Brilliant! \r\n \r\nwait for it.....",
+        "33... Rxg8 34. Nf7#": "White has smothered black with a Queen sacrifice."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-smothering-defeat?gm=24354",
+    "gameName": "A smothering defeat....",
+    "players": "leonenko (2164) vs. mistindantacles (1649)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

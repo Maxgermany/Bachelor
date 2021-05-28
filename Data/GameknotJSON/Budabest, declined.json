@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e5": "Introducing 2...e5!? so called budabest gambit. a really sharp counter-attacking opening which has some potential giving black an initiative for a pawn.",
+        "3. d5": "Budabest declined. at this point I would say black has already at least equalized, almost like gambiting without losing a pawn. Take a look of development.",
+        "3... Bc5 4. Nc3 O-O 5. e4 d6 6. h3 Na6 7. a3": "Usually moving h3 and a3 early would be useless but this opening has practically forced him to move them.",
+        "7... Bd4 8. Bg5": "8.Bg5? this is bad time pinning a knight, Nge2 should have giving pretty equal chances. now black punishes by making double pawns and leaving e pawn unprotected.",
+        "8... Bxc3+ 9. bxc3 h6 10. Bxf6": "Helps black queen to develop but there isnt much of a choise since e pawn would be gone.",
+        "10... Qxf6 11. Qf3 Qg6 12. Bd3 f5": "12..f5!  opens path for almost everything without any risk. 12.g4 would have blocked this attack. but it has its own weaknesses.",
+        "13. g3 Nc5": "No hurries in exchanging.",
+        "14. exf5 Bxf5 15. Bxf5 Rxf5 16. Qe3 Raf8": "Every piece is in good use unlike whites pieces. Also the pawn position looks worse with white.",
+        "17. Rh2": "Sad to say but this is whites best defence move.",
+        "17... Rf5f4": "17...Rf4! intending to e4 .  if pawn takes knight and rook falls",
+        "18. Ne2 Rf4f3 19. Qd2 Nd3+ 20. Kd1 Nxf2+ 21. Kc1 Nd3+": "Here I noticed 21.Rd3!! would have won much more easier. 22.Qc2 22...Rd1  23.Kb2 23...Nd3 ",
+        "22. Kc2 Nc5+ 23. Kb2 Rf3f2 24. Rxf2 Rxf2 25. Qe3 Qe4": "Cant take rook...",
+        "26. Qxe4 Nxe4 27. Re1 Nxg3 28. Kb3 Rxe2 29. Rxe2 Nxe2": "The game is materially won now.",
+        "30. Kb4 g5 31. c5 dxc5+ 32. Kxc5 Nf4 33. c4 Nxh3 34. Kb5 g4 35. c5 g3 36. d6 cxd6 37. cxd6 Kf7": "White resings. This proves that weakly played opening may be fatal even if the rest of the game would've been played well. watch your development!"
+    },
+    "url": "https://gameknot.com/annotation.pl/budabest-declined?gm=8894",
+    "gameName": "Budabest, declined",
+    "players": "khayur (1710) vs. kain- (1694)",
+    "opening": "Budapest defence declined (A51)"
+}

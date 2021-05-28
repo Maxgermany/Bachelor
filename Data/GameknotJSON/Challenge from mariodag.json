@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 h5": "h5? is awkard...",
+        "2. Bc4 Nf6 3. e5": "Pushing with a pawn..",
+        "3... Nh7": "Bad move...",
+        "4. Qf3": "Moving the queen for checkmate..",
+        "4... a5": "a5?? is too bad...",
+        "5. Qxf7#": "And checkmate....Well mistakes that you shouldn't have made in the opening...."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-mariodag?gm=25863",
+    "gameName": "Challenge from mariodag",
+    "players": "mariodag (1342) vs. moonfairie (526)",
+    "opening": "King's pawn opening (B00)"
+}

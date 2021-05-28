@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. c4 g6": "A mini-tournament game. I am playing black, and faced with the English Opening, I choose 1. ... g6 because this often leads to the Kings Indian Defense which is one of my favorites because it tends to be more active than positional.",
+        "2. g3 Bg7 3. Bg2 e5": "Hmm, no idea where this opening is leading. Black decides to grab a piece of the center.",
+        "4. Nc3 d6": "And then secure that piece, but I'm not sure from what.",
+        "5. e4 Nc6 6. d3 f5": "Challenging the center.",
+        "7. Nge2 Nh6": "Not a great place for a knight, but I'm looking at f7 as a home for it, and meanwhile it still contributes to the pressure at f5.",
+        "8. O-O O-O 9. f4 fxe4": "OK, time to let off some steam.",
+        "10. Nxe4 exf4 11. Bxf4 Nf5": "I think all that really accomplished was replacing white's pawns in the center with pieces. Black would have liked to play 11. Bxb2 but the bishop was too busy defending the knight on h6. Time to get off that square.",
+        "12. Qd2 Bd7 13. Rab1 h6 14. a3 Ncd4": "Aiming to be a thorn in white's center.",
+        "15. Nxd4 Bxd4+": "Now this feels like it wins material.",
+        "16. Kh1 g5 17. Nxg5 hxg5 18. Bd5+ Kh7 19. Bxg5 Bf6": "A bishop for two pawns. Hope that was worth it, because now white has a decent attack against black's exposed king, and white has two passed pawns. Black has an extra knight to compensate for that.",
+        "20. Bxf6 Qxf6 21. Bxb7 Rae8": "Uh oh, there goes that third pawn. Now material is even, but black's pawns are looking pretty scarce - I hope the knight is enough. I wonder if that could have been prevented?",
+        "22. Be4 Qh6": "Threatening to win a pawn and the exchange with Nxg3+. Not that I think white will allow that. And first there is the matter that the knight is pinned to the black king.",
+        "23. Qxh6+ Kxh6 24. Rf4 Kg7 25. Rg4+ Kh8": "I truly considered offering a draw after this move. And I didn't think white would take it. But it looks like black's best hope is to play for a draw, hoping he can stop all those white pawns without having to sacrifice too much material in the process. But, I decided to play on a bit and see if things might not improve.",
+        "26. Rg5 Re5 27. Rh5+ Kg7 28. Kg1 Rh8": "Trade enough pieces, and that knight might become a superstar.",
+        "29. Rg5+ Kh6 30. h4 Ne7": "Getting the superstar out of danger and forcing a rook exchange.",
+        "31. Rxe5 dxe5": "But, now black's pawns are far more hopeless than before, with none of them supporting any other. Black's three isolated pawns have to stand up to white's 4 connected pawns, a tough assignment. Meanwhile, the superstar is going to be busy with white's two passed, supported pawns.",
+        "32. Rf1 Kg7": "Mustn't let that rook into our home, skewering the superstar to the black bishop.",
+        "33. Kg2 Rh6": "The black rook would like to play along the whole width of the board, harassing white pawns far and near, but some of those files are blocked by black's other pieces and pawns, so the rook leaves the bank rank and sets up camp on the 6th.",
+        "34. b4 Ra6": "Harassment.",
+        "35. Ra1 Nf5": "The superstar wants to help the rook with his new job.",
+        "36. Ra2 Nd4": "From here, the superstar can strike out at the white queenside pawns, and he also keeps white's king behind bars, working with the black bishop to keep the white king off of h3 and f3 for now.",
+        "37. c5 Be6": "Uh oh, white finally gave black a break. 37. c5? costs white at least one pawn, starting with 37. ... Be6 38. Ra1 Nb3 followed by 39. ... Rxa3. At that point the white pawn on b4 becomes backward and unsupported and a possible target. White suprised me by resigning here. Black is about to win a pawn, but that didn't seem to me to be entirely decisive yet while he still had his two passed pawns on the kingside to give him hope."
+    },
+    "url": "https://gameknot.com/annotation.pl/superstar?gm=23023",
+    "gameName": "Superstar",
+    "players": "elfin (1769) vs. blake84120 (1893)",
+    "opening": "English opening (A10)"
+}

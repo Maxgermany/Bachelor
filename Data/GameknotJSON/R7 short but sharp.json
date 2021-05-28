@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e6": "Ah, this was my fourth game with White, but he wasthe first opponent who didn't choose the Sicilian.",
+        "2. d4 d5 3. Nc3": "I used to play 3.exd5 exd5 4.c4!?, but I didn't feel comfortable in the ensuing positions so I started playing this.",
+        "3... dxe4": "I don't know what this variation is called, but I feel it's quite passive for Black and doesn't offer much chances for  counterplay, although his position is solid.",
+        "4. Nxe4 Nd7 5. Bd3": "Normally 5.Nf3 is played, but this is also OK.",
+        "5... Ngf6": "Challenging my knight on e4.",
+        "6. Nf3 Nxe4 7. Bxe4 Nf6": "Developing his knight to a better square with tempo.",
+        "8. Bd3 c5": "A thematic break for Black in the French. He has to put some pressure on the White centre.",
+        "9. Bg5": "More common are 9.O-O and 9.dxc5. But both of us were out of our theoretical knowledge from move 4 or so.",
+        "9... a6": "!? This is a new move in the 365chess.com database. In 11 of the 15 games where 9.Bg5 was played, the Black player responded with 9...cxd4. The move was played to prevent Bb5+ and to prepare ...b5 for himself.",
+        "10. c3": "\r\nStrengthening the centre (but not intending to recapture with the c-pawn if White were to play ...cxd4, as that would leave me with an isolated pawn).",
+        "10... h6": "My opponent said he was not content with this move afterwards and had preferred to play 10...b5, but I don't think this move is that bad.",
+        "11. Bh4 cxd4 12. Nxd4 Be7": "Preparing to castle, but I had actually expected Black to play 12...e5.",
+        "13. O-O O-O 14. Re1": "Now I prevent ...e5.",
+        "14... b5": "? seeking for counterplay, but this weakens the a8-h1 diagonal and gives White some nice possibilities. Fritz' suggestion is 14...Qd5, probably to prepare ...e5 again and maybe also to strengthen the a8-h1 diagonal (although if he'd follow up immediately with 15...b5?? white would win an exchange with 16.Bxf6 Bxf6 17.Be4).",
+        "15. Qf3": "?! Right idea, but there was a better move. I had considered 15.Be4?, 15.Bxf6? Bxf6 16.Be4, 15.Nc6 and this move. Best was 15.Nc6! Qe8 16.Be4, when 16...Nxe4?? fails to 17.Nxe7+ etc., so Black has to play 16...Bb7 17.Nxe7 Qxe7 18.Bxf6 gxf6 (18...Qxf6?? 19.Bxb7). 15.Bxf6? Bxf6 16.Be4 doesn't win an exchange as we thought in the post-game analysis, because after 16...Ra7 17.Nc6 Black can exchange queens and then save his rook. also 15.Be4? accomplishes nothing due to 15...Nxe4 16.Bxe7 Qxe7 17.Rxe4 Bb7 and Black's position is at least equal, if not better.",
+        "15... Qb6": "Developing his queen on the a7-g1 diagonal towards the White king.",
+        "16. Rad1": "Placing my pieces on optimal squares and not falling for 16.Qxa8?! Bb7 trapping the queen, although it may be OK after 17.Qxf8+ Kxf8 when I have exchanged my queen for 2 rooks, but I think my queen is better than the two rooks in this position). But why would I get into such a complicated line if I'm simply better by playing normal moves?",
+        "16... Bd7 17. Nf5": "!? Forcing a weakness in the Black pawn structure, and also complicating the position. My computer programme Fritz seems not to like it that much at first and considers 17.Bc2 better, but after analyzing a bit it says White has an advantage in this line as well.",
+        "17... exf5": "This is virtually forced. 17...Bd8?? 18.Nxh6+! gxh6 19.Bxf6 Bxf6 20.Qxf6 and Black is dead lost, 17...Re8?? fails to the same line, or 17...Qd8 just leaves White in total control of the game after 18.Be4.",
+        "18. Rxe7 Rad8": "An alternative given by Fritz is 18...g5!? when Fritz comes up with an interesting line: 19.Rxd7! Nxd7 20.Qxf5 Qg6 21.Qxd7 Qh5! 22.Be4 Qxh4. However, this position must be better for White as well. Black wanted to avoid all this so he decided to protect his bishop a second time.",
+        "19. Ree1": "? This is just an outright blunder on my part. I should have protected my bishop with 19.Bg3.",
+        "19... g5": "Obvious and good, it just wins the bishop.",
+        "20. Bg3 f4 21. Bxf4 gxf4 22. Qxf4": "The open king position might give some compensation, but it's not quite enough.",
+        "22... Kg7": "?! And while I was pondering over my next move, Black suddenly offered a draw which I decided to accept. With 22...Rfe8 he could have taken the sting out of my attack by forcing an exchange of rooks (or forcing my rook to leave the e-file). In the analysis my opponent said he felt that I was better in the final position, while I thought my position was equal at best. According to the computer I was right: after 23.Re3 (which was one of the two moves along with 23.Qg3+ that I was considering) it gives the position as 0.00, because 23...Nd5 virtually forces a move repetition with 24.Qe5+ Nf6 and there's nothing better than simply 25.Qf4 Nd5, repeating moves. I don't really see an improvement on that line either. We were also running quite low on time already and I felt I would not be able to win in the attack because I needed time to calculate and I'm not good at rapid or blitz chess. Finally I was also happy with a draw against a player with almost 1600. I guess the draw was a fair result of this game. Thanks for reading this annotation and please feel free to comment."
+    },
+    "url": "https://gameknot.com/annotation.pl/r7-short-but-sharp?gm=47227",
+    "gameName": "R7: short but sharp",
+    "players": "l-d-j (1387) vs. Black Player (1596)",
+    "opening": "French (C10), Rubinstein variation"
+}

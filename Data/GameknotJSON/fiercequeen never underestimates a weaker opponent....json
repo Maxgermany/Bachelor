@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4": "never understood this move: this is a remnant from the so called 'Fischer-move' in some old variation of the Sicilian...",
+        "2... g6 3. a3 Bg7 4. Ne2 e6 5. f4 Ne7 6. O-O O-O 7. d3 d5 8. Ba2 b5": "why not? in this stage, anything goes in the Sicilian...",
+        "9. Qe1 a5": "just what the Sicilian is all about: conquering the Queens' wing by brute force...",
+        "10. f5 exf5 11. exf5 Nxf5 12. Nbc3": "looking for trouble...",
+        "12... b4 13. Nxd5 Bb7 14. Ndf4 bxa3": "introducing new trouble, on the Queens' wing: pawn b2 is pinned...",
+        "15. Rb1 Qb6 16. bxa3 Qc6": "threatening mate on g2: out of the blue...",
+        "17. Bd5": "the only move...",
+        "17... Qxd5": "they do not call me fiercequeen for nothing: I am never afraid of saccing my Queen...",
+        "18. Nxd5 Bxd5 19. Nf4 Ba2 20. Rb7 Nc6": "completing development: White is way behind...",
+        "21. Nd5 Bxd5 22. Rd7 Rae8": "maybe better Rfe8? you tell me...",
+        "23. Qd1 Be6 24. Rc7 Ncd4": "the light cavalry, comes in...",
+        "25. Rxc5 Rec8 26. Rxa5": "greed, before the fall...",
+        "26... Rxc2 27. Bf4 Rfc8": "Black is not mocking around: virtually a mere pawn behind, all pieces are in full attack mode...",
+        "28. Qb1 Ne2+ 29. Kh1 Nfd4": "Black has conquered the board...",
+        "30. Qb7 Nxf4": "after Rxf4??, Rc1+, soon followed by mate...",
+        "31. Ra8 Rxa8 32. Qxa8+ Bf8 33. Qe4 Nde2": "closing the deal...",
+        "34. d4 Bd5": "the final chord, and the winning move...",
+        "35. Qxc2": "again, greed before the final fall...",
+        "35... Bxg2#": "to be honest, I had not reckoned with mate: although well deserved..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-never-underestimates-a-weaker-opponent?gm=65045",
+    "gameName": "fiercequeen never underestimates a weaker opponent...",
+    "players": "palamine (1117) vs. fiercequeen (2059)",
+    "opening": "Sicilian defence (B20)"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. g3": "First move here is made by white.",
+        "1... g6": "Black sends a defence;the White's pawn won't make it to the other side.",
+        "2. e4": "But this is not white's intension.",
+        "2... f5": "Black is confused; he sends out an attack!",
+        "3. Qh5": "Out comes the queen!",
+        "3... h6": "This pawn is the bait. If the queen captures it, the rook will get her.",
+        "4. Qxg6#": "CHECKMATE! The queen captures the OTHER pawn and the king is stuck!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-simple-checkmate?gm=26683",
+    "gameName": "A simple Checkmate",
+    "players": "Marcus  vs. Nathan ",
+    "opening": "Benko's opening (A00)"
+}

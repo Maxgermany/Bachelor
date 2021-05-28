@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. b4": "The uncommon, and dubious wing gambit.",
+        "2... cxb4 3. c3": "This is new! But against the fundamental opening ideas.. we want control of the center!",
+        "3... d5": ".. I'll fight for that control, thank you!",
+        "4. exd5 Qxd5 5. Nf3 e5 6. d4 Nc6 7. Be2 e4 8. Nfd2": "White's position is terribly cramped.. He has obvious troubles developing.",
+        "8... Nf6 9. O-O Be7 10. Bb2": "A very poor developing move.. The bishop is staring at its own color pawn! It's not good here!",
+        "10... O-O 11. h3": "Not sure of the purpose of this move.",
+        "11... Qg5": "Threatening Bxh3",
+        "12. Kh1 Qh4 13. Nc4 Nd5 14. Ne3": "A terrible mistake. The crucial h2-b8 diagonal becomes under heavy, undefendable fire now, because of the lack of pawns and pieces (dark bishop sitting on b2, remember that?) around it!",
+        "14... Nxe3 15. fxe3 Bd6": "I'm threatening Qg3, as well as Bxh3. Rf4 is the only way to defend. ",
+        "16. g4": "That just makes it easy!",
+        "16... Qxh3+ 17. Kg1 Qh2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=26058",
+    "gameName": "Fast Ladder",
+    "players": "warn1584 (1381) vs. chessy131 (1843)",
+    "opening": "Sicilian (B20), wing gambit, Santasiere variation"
+}

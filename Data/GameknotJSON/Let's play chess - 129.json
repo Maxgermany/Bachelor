@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 c5": "I've been experimenting with this setup for Black.  White expects the French or Pirc and gets something completely different.  It often transposes into an open Sicilian.",
+        "3. d5 exd5 4. exd5 d6": "In this case, it has transposed into a Benoni structure.",
+        "5. Nc3 a6 6. a4 h6 7. Nf3 Nf6 8. h3 Be7 9. Bf4 O-O 10. Be2 Bf5 11. Bd3 Bxd3 12. Qxd3": "The challenge in this structure is to figure out something useful to do with the Nb8.",
+        "12... Nbd7 13. O-O Re8 14. Ne2 Nf8 15. Ng3 Ng6": "The N is happier on g6.",
+        "16. Bd2 Qc7 17. c4 Bf8 18. Bc3 Nd7 19. Nf5 Nde5 20. Nxe5 Nxe5 21. Qg3": "White tries to gang up on g7.",
+        "21... Kh7": "Removing the pin for now.",
+        "22. f4 Ng6 23. h4": "Aggressively trying to push the Ng6 away, making g7 vulnerable again.",
+        "23... Qd7": "White Nf5 is also loose, even though it is on a great square.",
+        "24. Qg4": "White resigned here, I think prematurely.  Black can play Ne7, but White can defend with Ne3, avoiding the loss of a piece.  Black can gain a pawn with Nxh4, but I don't think White's game is lost.  On the contrary, White has more space and better pieces.  Perhaps I am missing something, but I was surprised by the win."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=62758",
+    "gameName": "Let's play chess",
+    "players": "spastic (1525) vs. mmoody95 (1834)",
+    "opening": "French defence (C00)"
+}

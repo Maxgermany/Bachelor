@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "Queen's Gambit.\n",
+        "2... e6": "Queen's Gambit Declined.\n",
+        "3. Nc3 c5": "Nf6 is the more typical response.",
+        "4. cxd5 exd5 5. dxc5 Bxc5 6. e3 h5 7. Be2 Qh4": "The queen was the only piece protecting Pd5.  Nf6 might have been better.  Black has good control of the center, strengthening that is usually a good idea.\n",
+        "8. g3 Qb4 9. Qc2 d4 10. a3 Qb6 11. Ne4": "White threatens Bc5.  Nd7 would counter.  But Pb4 would give white a bishop.  Black is in trouble.",
+        "11... Bb4+ 12. axb4 Qxb4+ 13. Bd2 Qb6 14. Nf3 dxe3 15. Bxe3 Qa5+": "Qb4+ would have been safer, followed by Qe7 to defend against white playing QxBc8+.  Because white would probably interpose the bishop.  But Qe7 attacks Ne4, giving black momentum.",
+        "16. Rxa5 b6": "Nope.  Nc6 lets the rook defend against QxBc8+, while the knight defends Pa7, threatened by white's bishop and rook.\n",
+        "17. Qxc8+": "Forced mate.",
+        "17... Ke7 18. Re5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/138th-gk-tournament?gm=60738",
+    "gameName": "138th GK tournament",
+    "players": "jericho (1205) vs. nevhelp (993)",
+    "opening": "QGD (D32), Tarrasch defence, Tarrasch gambit"
+}

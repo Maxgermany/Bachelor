@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 d6": "All book through here.",
+        "4. d4": "I opt for an aggressive continuation.",
+        "4... Nxd4": "\"Challenge accepted.\"",
+        "5. Nxd4": "The natural response.",
+        "5... exd4": "Of course, Black recaptures.",
+        "6. Qxd4": "Finishing the sequence of exchanges.",
+        "6... Qf6": "Offering another exchange.",
+        "7. Qd3": "This one I decline.",
+        "7... Be6": "Development continues apace.",
+        "8. Nc3": "The natural square.",
+        "8... Ne7": "Setting up his next move.",
+        "9. O-O": "Heading for safety.",
+        "9... Ng6": "Completing the sequence.",
+        "10. Bd2": "Clearing the back rank.",
+        "10... Be7": "Likewise.",
+        "11. f4": "Setting up an \"ideal center\" -- two central Pawns abreast on the 4th rank.",
+        "11... Bxc4": "Swapping down.",
+        "12. Qxc4": "I of course must recapture.",
+        "12... O-O-O": "The correct move was 12... O-O.",
+        "13. Nd5": "Black must lose either his Queen or his King. He resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=61165",
+    "gameName": "Fast Ladder",
+    "players": "last_archimedean (1453) vs. fourgmbari (1546)",
+    "opening": "King's pawn game (C50)"
+}

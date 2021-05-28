@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O c6 6. Bc4 d6 7. Re1 Nf6 8. c3 Ng4 9. h3 Ne5": "Up to now, this is the Main Line of Bird's Defense. All these moves are book.",
+        "10. Bf1": "Threatening to take over the center [10... PxP 11 NPxP, followed by 12 P-Q4.]",
+        "10... d3": "If White tries 11 R-K3 trapping the QP, Black plays 11... P-KN4! 12 RxP P-N5 with strong pressure.",
+        "11. f4 Qb6+": "Taking immediate advantage of the newly open diagonal.",
+        "12. Kh1": "Natural, but 12 K-R2! was better.",
+        "12... h5 13. fxe5 Bg4": "This Bishop is taboo [14 PxB??? PxP mate.]",
+        "14. Qb3 Qf2 15. Qxb7": "There is no better option [15 R-Q1 is answered by either 15... B-Q7 or 15... BxR].",
+        "15... Rd8 16. Rd1": "To divert the B.",
+        "16... Bxd1 17. Qxc6+": "Now Black can't interpose the B.",
+        "17... Ke7 18. Qc7+ Rd7 19. exd6+ Kf6": "The Rook cannot be taken [20 QxR QxB ch 21 K-R2 Q-B5 ch 22 K-N1 BxP! 23 Q-B5 ch QxQ 24 PxQ B-N6!!! and White has no defense against 25... R-K1 and 26... R-K8 mate.]",
+        "20. e5+ Kxe5 21. Qxd7 Qxf1+ 22. Kh2 Bxd6": "Threatening a deadly discovered check.",
+        "23. c4 Qf4+ 24. Kh1 Kf6": "White resigns, as he must now lose either the Queen or the King."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-bird-defense-soars?gm=55100",
+    "gameName": "The Bird (Defense) soars",
+    "players": "Tudev Ujtumen (IM) vs. Anatoly Lein (IM)",
+    "opening": "Ruy Lopez (C61), Bird's defence, Paulsen variation"
+}

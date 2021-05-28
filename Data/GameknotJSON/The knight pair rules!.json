@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "A  fun game I played with coppe. He always plays a great game",
+        "1... e5 2. Nf3 Nc6 3. c3": "It looks like a Guoico piano.",
+        "3... Nf6 4. d3 Bc5 5. h3 d6 6. Be2 a6": "I was more concerned with having a place to move the bishop back to than I was with defending the b5 square.",
+        "7. Bg5": "Pinning the knight to the queen.",
+        "7... O-O 8. b4 Ba7 9. Na3": "The queen knight enters the game.",
+        "9... Be6": "Mostly just to get his lazy ass to work!",
+        "10. Nc2 h6 11. Be3 Bxe3": "I'd rather just get rid of you than worry about keeping that diagonal.",
+        "12. Nxe3 Ne7": "I am turning out to be a real knight player, who used to think that the bishops are more powerful. Having both bishops is great, but how about having both knights?",
+        "13. Qc2 Qd7 14. Nf1 Kh8 15. Ne3 Rfg8 16. Nh2 g5 17. Nhg4": "Some real action on the king side.",
+        "17... Rg6 18. f3 Nh5": "It looks like he did that to over protect his pawn. but he opened up a great square for my knight. He always wanted to be an outpost.",
+        "19. Kf2 Nf4": "A knight firmly entrenched as both a blockade and an outpost. ",
+        "20. Rag1 f5 21. Nh2": "Chased the knight away.",
+        "21... Rag8 22. Ke1 h5 23. c4 Kg7": "I had to do it! I just didn't feel like mixing it up with the pawns, and having a rook or two coming down the rook file toward my king.",
+        "24. g4": "First strike!",
+        "24... fxg4": "And the fight is on!",
+        "25. hxg4 h4": "I think it was the right time to lock it up.",
+        "26. Qb2 Nc6": "Headed for a land of opportunity.",
+        "27. Nhf1 Nd4": "Oh glory! an outpost and a blockade like his brother!",
+        "28. Rh2 Nxf3+": "He resigned. If he takes my bishop Nxp is a killer knight fork."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-knight-pair-rules?gm=68018",
+    "gameName": "The knight pair rules!",
+    "players": "coppe (1536) vs. mattlrkn (1622)",
+    "opening": "Ponziani (C44), Jaenisch counter-attack"
+}

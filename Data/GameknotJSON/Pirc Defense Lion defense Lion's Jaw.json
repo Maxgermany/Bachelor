@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 d6": "I Play the Pirc. The Pirc is not a Queen side counter attacking system like the Sicilian, but still it is a counter attacking system. The Pirc is good for beginners. What ever white plays, black can play d6; Nf6; g6; Bg7; 0-0 setting up a Indian defense. In this game black has to play to an exception",
+        "2. d4 Nf6 3. f3": "hmm? White decides not to play the mainline move Nc3 and sets up a Samisch type attack. The chessgames.com database calls this the Lion's Jaw hence the name of my title. Black can play into it and continue playing g6; Bg7; 0-0 transposing into a King's Indian defense if white plays c4; nc3; Be3. But I, knowing theory, do not play into it!",
+        "3... e5": "hah! I am prepared to trade Queen's! This line avoids the lion Jaw attack and Black plays for the center.",
+        "4. Bg5": "I do not know if this is good or bad for white. ",
+        "4... Be7 5. c3": "??? Now this is bad for white. He plays too timid",
+        "5... O-O 6. dxe5 dxe5 7. Qxd8 Rxd8 8. Bc4 Nbd7 9. b3": "I do know what white was trying to accomplish",
+        "9... c6": "I was planing to chase the bishop away",
+        "10. a4": "But white seen it coming",
+        "10... Nb6": "Yet again attacking the bishop",
+        "11. Nd2": "And I believe this was very wrong. This move allows me to control the light squares with my bishop. Which by the way is idle and inactive on c8",
+        "11... Nxc4 12. Nxc4 Be6": "Now my bishop is active! Yes I knew by playing Be6 that white had the option of taking my e5 pawn But I was attacking the b3 pawn not the knight! This also allows me to attack his king. Notice that all my pieces are develop and white still has not castled yet. My pieces controlling the center, able to coordinate with each other upon the attack. This is a skill you learn playing the Pirc.",
+        "13. Nxe5 Bxb3 14. Rb1 Bxa4 15. Rxb7": "Notice that his king is asking to be attack?",
+        "15... Rd1+": "This rook is stronger than White's rook on a7. After white moves the king to e2, the rook pins the knight on g1 against rook on h1 making them both inactive.",
+        "16. Ke2 Bc5": "Now his king is in a state of Zugzwang or stalemate",
+        "17. Be3 Bxe3 18. Kxe3 Bb5 19. c4 Ba6 20. Rxf7 Bxc4 21. Rxf6": "I also thought this was dubious for white",
+        "21... gxf6 22. Nxc4": "Now my rooks come into play and escort the a pawn",
+        "22... a5 23. h4": "White missed his chance to take the pawn",
+        "23... a4 24. Na3 Rb8 25. Ke2 Ra1 26. Nc4 a3 27. Kd3": "Yet again he chooses not to take the a pawn",
+        "27... a2 28. Ne3 Rc1": "AWE. The winning move. I do not know what white was thinking on his next two moves. ",
+        "29. Nc2": "!?",
+        "29... Rxc2": "!",
+        "30. Ne2": "?",
+        "30... Rxe2": "!! ",
+        "31. Kxe2 Rb1": "White resign"
+    },
+    "url": "https://gameknot.com/annotation.pl/pirc-defense-lion-defense-lions-jaw?gm=16127",
+    "gameName": "Pirc Defense: Lion defense: Lion's Jaw",
+    "players": "sandsaver (1750) vs. freeman8201 (1605)",
+    "opening": "Pirc defence (B07)"
+}

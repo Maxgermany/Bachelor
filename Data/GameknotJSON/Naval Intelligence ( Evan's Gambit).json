@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "\"William Davies Evans was born on Musland Farm, St. Dogwell's, North Pembrokeshire, Wales, UK.\r\nIt was in 1824 whilst commanding a steam packet that sailed between Milford in Wales and Waterford in Ireland he invented the gambit for which he became famous. Its original form was 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.0-0 d6 5.b4. \r\nHe also is credited for discovering that the \"Little Game of Chess\" (an endgame composition involving only two kings with three pawns each) is actually won for the player who moves first, not drawn, as had been believed for over a hundred years.\" chessgames.com\r\nThis is one of Evan's games where he plays his renound gambit. I hope you like it. It is a very entertaining one.\r\n\r\n",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4": "This is the Evans Gambit. This romantic gambit has proven to be greatly resilient to modern technology, while it is not generally thought of as a path to advantage it hasn't been refuted(correct me if I'm wrong).The idea of this opening is to gain momentum while opening the centre., this is often at the expense of a pawn or two.For this reason this line of the Guoco Piano has often attracted attention from more aggressive players and and will probably continue to do so in the future. Even Garry Kasparov found the opening worth playing a few times.  He even used it to beat none other than ANAND! Pretty good surprise weapon,no?",
+        "4... Bxb4": "It is often said that the way to refute a gambit is to accept it. Black grabs a pawn so as to have the option of uploading it in a later stage in the game in order to neutralize whites resulting initiative. I don't agree with this in all cases however in this case i do partly. ",
+        "5. c3": "This is the plan of giving away the b4 pawn to gain tempo by forcing black to move his bishop repetitively while he gains  momentum in the centre.",
+        "5... Ba5": "This retreat is probably the most natural responce to the Evans Gambit.The e1-a5 diagonal, pinning the c3 and d2 pawns for the momentand, more importantly is not in any kind of trouble on a5. or instance it would be in danger on c5 because of d4. Or 5.Be7 which is solid yet deemed passive by experts, On the other side though white will be able to put pressure on blacks position with Ba3 later on, Black's plan to meet this is with d2-d3, i would pick this option as in the games I have played with it has neutralized whites pressure with no positional disadvatages.( not for black anyway!)",
+        "6. O-O": "A fairly logical move. Now the pin on black's bishop on white's king has been removed. However another fairly rare move is the side line 6.Qb3!? ",
+        "6... d6": "As I said. Again logical solidifying the e5 pawn and also stopping the danger of Ba3.",
+        "7. d4 Bg4": "?! This looks a decent developing move at first, which also seems provides a useful pin. Howver earlier I mentioned 6.Qb3. This move would have  effectively pinned black's light squared bishop to b7. Now white can play it with an extra edge.",
+        "8. Qb3": "This attacks the f7 pawn and removes the pin. However what has made this move even more powerful is the fact that because of black's last move has left the pawn on b7 now hanging.",
+        "8... Qd7": "This is a good move in this situation. It defends the f7 square. ",
+        "9. Ng5": "Many beginners in chess would immediately take the pawn on b7 without thinking. However thats what keeps their rating so low. Capt. Evans decides to keep the attack on. If white does do 9.Qxb7 black can simply exchange with 9... Bxf3 this damages whites pawn structure and leaves his king in danger. The materialwill be equal which will make the novice content however black will have the upperhad. Also blacks queen can be blocked in.",
+        "9... Nd8": "This defends b7 and f7. As you can see white's kingside is completely developed and his king is castled;also most of whites pieces are are in powerful attacking positions. Where as black's pieces are scattered around the board in awkward positions such as the bishop on a5 and the knight on d8.  Also blacks king is in the middle of the board in mortal danger.\r\n",
+        "10. dxe5": "! This move is very good as you will see from whites 11th move. I'll give you a tip I metioned the danger of this move earlier on in this annotation.",
+        "10... dxe5 11. Ba3": "Did you get it? This move is now worth while because the pawn on d6 has been removed. It build tension on the kingside and prevents black from castling kinside.",
+        "11... Nh6": "This defends f7 although it is now a very passive piece.",
+        "12. f3": "White tells the bishop to shuv off or else! This is so he can put his rook on the open d file.",
+        "12... Bb6+": "This is an attempt to bring the bishop back into the game.",
+        "13. Kh1 Bh5 14. Rd1": "This is the good attacking move that I metioned earlier. This removes black's queen one of the main defenders of the f7 square.",
+        "14... Qc8 15. Rxd8+": "?! This move is shaky it gives black a \"get out of jail card\"",
+        "15... Qxd8 16. Nxf7 Qh4": "??And black has missed his chance. He could have plyed 16...Qf6 which is a much better defence which just about brings him back into the game and would have given him a chance of survivng. He did avoid another blunder,if 16...Nxf7 then 17.Bb5  c6 18.Qe6  Qe7 19.Qxe7 mate. 16...Bxf7 runs into 17.Bxf7  Nxf7 18.Qe6  Qe7 Qxe7 mate. The same happens with 16...Bxf7",
+        "17. Qb5+": "The rest is just simple. There is no way back now for black, the only thing he can do now is prolong the mate.",
+        "17... c6 18. Qxe5+ Kd7": "Forced if 18.Qe7 Qxe7 checkmate.",
+        "19. Qe6+ Kc7": "Forced.",
+        "20. Bd6#": "Checkmate. Thanks for looking at my annotation. I hope you enjoyed this game as much as I did. If you have any feed back then please PM me.\r\nMy regards\r\nTom"
+    },
+    "url": "https://gameknot.com/annotation.pl/naval-intelligence-evans-gambit?gm=6038",
+    "gameName": "Naval Intelligence ( Evan's Gambit)",
+    "players": "Captain William Davies Evans (N/A) vs. Alexander MacDonnell (N/A)",
+    "opening": "Evans gambit (C52), Alapin-Steinitz variation"
+}

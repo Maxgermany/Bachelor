@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. cxd5 Ne4": "The game next door (Boris Gelfand vs Fabiano Caruana) went for a direct 7...exd5, ended a draw.\r\n\r\nDi meja sebelah Boris Gelfand lawan Fabiano Caruana dimainkan 7...exd5, berakhir remis.",
+        "8. Qc2 exd5 9. Bf4 Bf5 10. Qxc7": "White is exchanging the Queen in the hope that his bishop pair will do better in middle game. \r\n\r\nPutih menukar Ratunya dengan harapan bahwa pasangan gajah kembar akan lebih kuat dibanding perwira musuh.",
+        "10... Qxc7 11. Bxc7": "Although now Black seems better developed but White does has some excellent idea on how to developed his.\r\n\r\nWalaupun keliatannya Hitam punya pasukan lebih maju di tengah2 papan, tapi Putih ternyata punya akal cerdik....",
+        "11... Rc8 12. Bf4 Rc2 13. f3": "That is by advancing the Kingside pawn, taking the advantage that this is also attacking the enemy's pieces.\r\n\r\nYaitu sekalian memajukan pion nya sekalian mengancam buah musuh, akibatnya Putih menjadi punya serangan pion yang cukup signifikan di sini.",
+        "13... Nf6 14. g4 Bg6 15. h4": "15.Rc1 Rxc1 16.Bxc1 Nc6, White securing his +1 pawn but Black will keep up with the development very soon also. Moro is choose in more positional approach, that is developing his already advanced pawns to attack the Black's king, while luring his opponent a material but less developed piece.\r\n\r\nDi sini Putih bisa bermain mempertahankan keunggulan materialnya dengan 15.Rc1 Rxc1 16.Bxc1 Nc6, namun si Moro lebih percaya kalau serangan pion nya lebih kuat daripada kehilangan satu pion.",
+        "15... Rxb2 16. h5 Bc2 17. e3 Ba4 18. Rh2 Rb3": "swapping the rook will let white fully control the battlefield since white other rook is more active.\r\n\r\nJika terjadi tukaran benteng, hitam masih kalah mobilitas karena Benteng Putih lebih terbuka.",
+        "19. Ne2": "at the moment the pawn structure on kingside make a good foundation for white attacks. but Black threat on queenside need to be addressed also.\r\n\r\nSekarang susunan pion Putih sudah baik, tapi ancaman dua perwira Hitam di sebelah sayap ratu juga musti ditanggapi serius.",
+        "19... Nbd7 20. g5 Ne8 21. Nc1 Rb6 22. Na2 Nf8 23. Nb4": "The Knight successfuly landed in desire outpost. It strongly defending this side while also block Black active rook and now White can continue the attack he has built before.\r\n\r\nDan Kuda Putih berhasil duduk di petak yang baik, sekaligus memblok Benteng musuh yang sangat aktif.",
+        "23... Rd8 24. h6 Ne6": "24...gxh6 25.gxh6 Ng6 looks ok. as well as 24...g6 25.Bg3 Bb5!. But letting White open up a file for his h rook looks a bad idea.\r\n\r\nLangkah lainnya (liat di atas) cukup menjanjikan, tapi kok hitam pilih membiarkan Putih menukar pion di g7 dan membuat Benteng h Putih sekarang terbuka lebar.",
+        "25. hxg7 Nxf4 26. exf4 Nxg7 27. Bd3 Ne6": "First blunder by Black, this allowing White to pacing up his pawn storm.\r\n\r\nKesalahan pertama, sekarang Putih siap menyerang penuh mengandalkan pion pion nya.",
+        "28. f5 Nf4": "28...Nxd4 29.Kf2 Bd7 30.f6 Bf5 31.Rah1 Rxb4 32.axb4 Bxd3 33.Rd1 position quite unclear.",
+        "29. f6 h5": "A second blunder, 29...Nxd3+ 30.Nxd3 Rb3 31.Ne5 Rc8 position will still ok for both.",
+        "30. Kf2 a5": "Black position is collapsing now, attempting for a counter attack on the other side.\r\n\r\nPosisi Hitam sekarang udah jatuh, serangan balasan di sayap lain mulai di coba.",
+        "31. Kg3 Ng6 32. Rxh5 axb4 33. Rah1 bxa3": "now the matting combo is like : 34. Bxg6 fxg6 35. Rh8+ Kf7 36. R1h7+ Ke6 37. Rxd8 Kf5 38. f7 Kxg5 39. Rxd5+ Kf6 40. f8=Q+ Ke6 41. Re5#\r\n",
+        "34. Rh5h7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/shredding-1-d4-2009-biel?gm=25295",
+    "gameName": "Shredding 1.d4, 2009 Biel",
+    "players": "Morozevich,A  vs. Alekseev,Evgeny ",
+    "opening": "Nimzo-Indian (E32), classical, Adorjan gambit"
+}

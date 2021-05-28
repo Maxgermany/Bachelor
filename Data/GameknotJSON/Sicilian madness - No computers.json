@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5": "This move is usual, but i dont like. I dont know why i did it (it could be due to the gameknot opening book)",
+        "7. Nb3 Be7 8. O-O b5": "I didnt know this move was an error",
+        "9. a4 b4 10. Nd5 Nc6 11. Nxf6+ Bxf6 12. Be3 Be6 13. Qd3 O-O 14. Rfd1 Qe7": "I thought \"I will lost a pawn but it doesnt matter, because that pawn is a burden (i dont know if it\u00b4s the correct translation for 'lastre'). I prefer to open the d-column for a counterattack in the queen side (if i could do it)\"",
+        "15. Qxd6 Nd4 16. Rxd4": "why is this move correct?. For me was an error",
+        "16... exd4 17. Qxe7 Bxe7 18. Nxd4": "Ok, we both have same value of pieces, but for me i have more value because i had lost a pawn anyway",
+        "18... Bd7 19. Bc4": "now i have other plan:change pieces and keep my rook (more powerful than a bishop or knight) for the end of the game",
+        "19... Bf6 20. b3 Rfd8 21. Rd1 Be6 22. Be2 Bxd4": "strong knight out",
+        "23. Rxd4 Rxd4": "white with no rooks and open column, i thought at that moment i had advantage",
+        "24. Bxd4 Rc8": "one pawn you, one pawn me",
+        "25. Bd3 Bxb3": "obvious, with less pieces, i have advantage for the power of my rook (as I said)",
+        "26. cxb3 Rd8 27. Bxa6 Rxd4": "same value, but my rook have the power",
+        "28. f3 Rd2": "and the king is prisoner ",
+        "29. Bc4 Rc2 30. Bd5 g5": "for keep the white king with less room",
+        "31. h3 Kg7": "the king is in the battle",
+        "32. Kh2 h5 33. h4": "this was an error. ",
+        "33... gxh4 34. Kh3 Kg6 35. f4 f6 36. Be6 Rf2": "and the rook is better than the bishop",
+        "37. f5+ Kg5 38. Bd7 Re2": "other pawn is mine :-)",
+        "39. Be6 Rxe4 40. a5": "this move has no hope...",
+        "40... Re1 41. Kh2 Ra1": "another one... :-)",
+        "42. a6 Rxa6": "here the game was over for me",
+        "43. Kg1 Ra2 44. Kf1 Kg4": "and the way for h-pawn (or even f-pawn) is almost clear\r\nI think i didnt win this game but minuchin lost it"
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-madness-no-computers?gm=32752",
+    "gameName": "Sicilian madness - No computers",
+    "players": "minuchin (1695) vs. akuma_neko (1854)",
+    "opening": "Sicilian (B92), Najdorf, Opovcensky variation"
+}

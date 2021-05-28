@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "The game played is a Sicilian Defense. I will just breeze through the opening.",
+        "1... c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8. Bb3 Ng4": "By this time 8. ...Na5? was no longer played. In another GM game played in '58  that move was followed by 9. e5! Nxb3 10. ef Nxa1 11. fg with a huge advantage for white. Fischer has also played this against Reshevsky. Except Reshevsky played 9. ...Ne8 10. Bxf7 ! Kxf7 11. Ne6!! lost his Queen. Ne6 still would have been played if Black captured f7 with the rook.",
+        "9. Qxg4 Nxd4 10. Qh4": "Theory here would be Qd1, believing that the move made by White in the game leads to a bland draw.",
+        "10... Qa5 11. O-O Bf6": "This is the position that \"theoretically\" leads to a draw. The Queen cannot go to g3 or f4 since Black \"sacrifices\" the Queen on c3 and obtains a great advantage. The retreat of the Queen to d1 after 12. Qg4 d5 is logically inconsistent, the Queen could have gone to d1 a couple moves earlier without giving Black an extra tempi. It has been seen for White to move back and forth from h6 to h4, draw by  repetition. I read here that Chernikov was certain that Nez had decided to get some rest that day. It's been said that Nez loved chess to much to take a day off. Here Chernikov was report as strolling impatiently around for 45 minutes waiting for Nez to offer a draw. ",
+        "12. Qxf6": "!\nChernikov didn't leave the table until the end of the game. \nBlack has a weakness around his King along with backward development.",
+        "12... Ne2+": "!\nThe best move here. Black gains time for defense by diverting the white Knight from the center. 12. ...Nxb3 does not work because of 13. ab! Qxa1 14. Qxe7 Qa5 15. Bh6 Qd8 16. Nd5!",
+        "13. Nxe2 exf6 14. Nc3 Re8": "It is said that d5 was the correct move. Who knows.",
+        "15. Nd5 Re6 16. Bd4 Kg7 17. Rad1 d6 18. Rd3 Bd7 19. Rf3": "Aiming at f6.",
+        "19... Bb5 20. Bc3 Qd8 21. Nxf6": "!",
+        "21... Be2": "After 21. ...Bxf1 22. Ng4  Kg8 23.Bxe6 wins",
+        "22. Nxh7+": "Another great move!",
+        "22... Kg8": "If Black can't take the Knight. 22. ..Kxh7 23. Rxf7  Kh6 24. Bxe6 Bxf1 25. Bd2  g5 26. Bf5 Qh8 27. h4!\nOn 26. ...Qg8 leads to a forced mate.",
+        "23. Rh3 Re5 24. f4 Bxf1 25. Kxf1 Rc8 26. Bd4": "This Bishop is much stronger than the Rook on e5!",
+        "26... b5 27. Ng5 Rc7 28. Bxf7+ Rxf7 29. Rh8+ Kxh8 30. Nxf7+ Kh7 31. Nxd8 Rxe4 32. Nc6 Rxf4+ 33. Ke2": "Black resigns. \n"
+    },
+    "url": "https://gameknot.com/annotation.pl/russian-championship?gm=17429",
+    "gameName": "Russian Championship",
+    "players": "Nezhmetdinov  vs. Chernikov ",
+    "opening": "Sicilian (B35), accelerated fianchetto, modern variation with Bc4"
+}

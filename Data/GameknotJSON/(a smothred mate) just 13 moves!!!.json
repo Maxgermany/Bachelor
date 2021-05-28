@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "this was my second game against a well rated player, at the time he was 1801. i show an example of a good looking smothered mate. he was evidentlly a bit upset that he fell for an obvious move. this however does hold some merit and has a good look to it so it would be good to analyse.i took the white pieces.\r\n\r\ne4 the move i will almost always open with",
+        "1... c6": "my opponent had already played me and lost so i think in playing the caro-kahn he was trying to throw me off gaurd in thinking perhaps i would not know it.",
+        "2. d4": "this is in standards of the opening book. when black follows with d5 white will keep a good center with a pawn advance to e5",
+        "2... d5 3. e5 Bf5": "this is another book move with a bishop attaking a later weak pawn. once white has developed this move may be a cause for concern. ",
+        "4. Nf3": "white is in no immediate threat so a continuation of development is the best choice here.solidifying the center",
+        "4... e6": "this is still a book move. black tries to compensate the center  ",
+        "5. Be2": "this move primarily is done for me to castle.blacks bishop is poised at the moment so i want to go kingside out of harms way",
+        "5... Nd7": "the idea here is to advance a pawn to position his knight in the center after the exchange",
+        "6. O-O": "logical. also i was wanting to see what black had in mind",
+        "6... c5": "i saw this move without any worry",
+        "7. Nc3": "thexchange looked good for black, this way i would have a better game if black takes the pawn",
+        "7... c4": "looks powerfull for black but all his play is on the queenside",
+        "8. Be3": "development",
+        "8... a6": "stoping my knight moving to b5, i feel this is too pasive and so i begin my attack",
+        "9. Qd2": "this move is the first in my attacking idea, somtimes you have to make a passive move to attack",
+        "9... Ne7": "now this is a mistake which i will take advantage of, better perhaps would have been bishop to b4",
+        "10. Nh4": "many players would think this was illogical but it is ok for white. an attack on the kingside is forming",
+        "10... Rc8": "trying to free some space by using a rook lift but all is too late at this point also cramping his king. note there are no escape squares for the king",
+        "11. Bg5": "now the knight cannot move i am setting up the mating move",
+        "11... h6": "black fails to see what i have planned",
+        "12. Nxf5": "this seems a great move black will have a hard time even if he chooses to take the knight. from here there are only a few moves that will avoid the checkmate",
+        "12... hxg5": "this is not one of them. black gets too greedy. ",
+        "13. Nd6#": "white doesnt mind giving up his dark bishop. a very nice smothered mate. just 13 moves against such a higly rated player. hope you have enjoyed"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-smothred-mate-just-13-moves?gm=1121",
+    "gameName": "(a smothred mate) just 13 moves!!!",
+    "players": "craig_osborne (1776) vs. fenderbender2470 (1801)",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

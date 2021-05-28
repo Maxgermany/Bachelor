@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "In this game, I gain positional advantages which eventually lead to the win of a pawn. My opponent sacs another pawn to keep my knight hemmed in. I sac it to go into an ending a knight for 2 pawns down, but my king is so active, it is very hard to defend. I honestly couldn't see all the posibilities to the end. I wonder - would a computer have played this sac? Perhaps someone with Fritz or a decent chess computer can tell me please? Was there a defence?",
+        "1... c5": "The Sicilian is the most popular and best-scoring response to White's first move 1.e4. \"Indeed, most statistical surveys suggest that 1.d4 is the most successful first move for White, but only because 1...c5 scores so highly against 1.e4.\" (Rowson, Jonathan (2005). Chess for Zebras: Thinking Differently About Black and White. Gambit Publications. p. 243. ISBN 1901983854.)",
+        "2. Nf3 Nc6 3. Nc3 d6 4. Bb5 Bd7 5. Bxc6 Bxc6": "I was a bit surprised at black exchanging on c6. Surely it is better to wait?",
+        "6. d3 g6 7. b3 Bg7 8. Bb2 f5 9. exf5 Qa5 10. Qd2 Bxf3 11. gxf3 gxf5 12. O-O-O": "I have managed to weaken his pawns.",
+        "12... O-O-O 13. Kb1 e6 14. Ne4 Qxd2": "White finds an interesting way of exchanging. I wasn't worried about exchanges. Pawn weaknesses can be harder to defend in endings.",
+        "15. Nxd2 Bxb2 16. Kxb2 Nf6 17. Nc4 b5 18. Ne3 Rhg8 19. Rhg1 d5 20. a3 d4 21. Ng2 Nd5 22. Rde1 Kd7 23. Nh4 Rxg1 24. Rxg1 Kd6 25. Rg7 Rd7 26. Rg8": "Black has centrally placed pieces. The white knight is off-side, but the rook is active.",
+        "26... Nc3 27. Kc1 Kd5 28. Ng2 Ke5 29. f4+ Kf6 30. h3 Rg7": "So I force the exchange of rooks",
+        "31. Rxg7 Kxg7": "This is very hard for white not to lose a pawn. He finds the best way to lose it!",
+        "32. Kd2 Nb1+ 33. Kc1 Nxa3 34. b4": "Bravo! With this clever sacrifice white keeps the black knight blocked in. Without this move black is winning easily.",
+        "34... cxb4 35. Kb2 Kf6 36. Ne1 Ke7 37. Nf3 Kd6 38. Nxd4 a5 39. Nb3 a4 40. Nd4 Kd5 41. Nf3 h6 42. h4 Nc4+": "And here it is. I thought I had to play this to make any progress. I saw that the endings were hard for white, but I couldn't see every possibility.",
+        "43. dxc4+ bxc4": "and black has his pawns straightened out.",
+        "44. Ne5": "I think this is an error. 44. c3 by white offers more resistance I think.",
+        "44... c3+": "Now he doesn't get a chance to play it.",
+        "45. Ka2 Ke4": "While my king is a great attacking piece",
+        "46. Nf7 h5 47. Nd8 Kxf4 48. Nxe6+ Kg4 49. Nd4 Kxh4 50. Nxf5+": "White has managed to maintain his slight theoretical plus, but the h pawn is a winner!",
+        "50... Kg4 51. Ng3": "This move looks like a blunder to me, although it may be lost at this stage. Trying to keep checking the king, seems better.",
+        "51... h4 52. Nh1 Kf3 53. Kb1 b3 54. cxb3 axb3": "I told my opponent how I was to finish him off \"I can play h3 and h2 followed by Kg2. If you try f4 I queen with check and can stop you queening. If you meet Kg2 with Ng3, I take your f pawn and your knight cannot stop my h pawn queening.\" He resigned. The questions are - could have held that ending? Are there any computer programs which would have played that knight sac?"
+    },
+    "url": "https://gameknot.com/annotation.pl/would-a-computer-have-played-this-move?gm=24291",
+    "gameName": "Would a computer have played this move?",
+    "players": "ibinor (1752) vs. charleshiggie (1907)",
+    "opening": "Sicilian defence (B30)"
+}

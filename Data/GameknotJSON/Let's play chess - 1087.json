@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. d4 Bf5 3. Nc3 c6 4. Bf4 Nf6 5. Ne5 Nbd7": "Up to this point these are just standard opening moves.\n",
+        "6. Nxd7 Qxd7 7. f3 e6 8. e4": "the first real mistake of the game, black can now force the win of a pawn \n",
+        "8... dxe4 9. Be5": "another bad move by white, this allows black to further develop his pieces towards the center",
+        "9... Nd5 10. fxe4": "with this move black can go up a pawn and make whites pawns awkward\n",
+        "10... Nxc3 11. bxc3 Bxe4 12. Qe2 Bg6 13. g3": "the only real problem black has is moving his king into saftey\n",
+        "13... f6 14. Bf4 Bd6 15. Bh3 Bf7 16. O-O": "white allows the trade of bishops which should be avoided, because he is down material \n",
+        "16... Bxf4 17. Rxf4 O-O-O": "black finally moves his king to safety but has to survive one last assult",
+        "18. Rd1 Rhe8 19. d5 cxd5 20. c4 Qc6 21. cxd5 Rxd5 22. Bg2": "black had already seen this move and saw that there was a defense for it with the inbetween move.",
+        "22... Rxd1+ 23. Qxd1 Qc7 24. Rb4": "here white has dropped an entire rook and can resign with a clear concius but continues to plot on in a hopeless situation",
+        "24... Qc5+ 25. Rd4 e5 26. Qf3": "white becomes the victim of a relntless assult after this move",
+        "26... Qxd4+ 27. Kf1 Bc4+ 28. Ke1 Qg1+ 29. Kd2 Rd8+ 30. Kc3 Qd4+": "white resigns here because there is no way to prevent the loss of his queen"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=7538",
+    "gameName": "Let's play chess",
+    "players": "robertto (1329) vs. isthisrealifex (1200)",
+    "opening": "Reti opening (A06)"
+}

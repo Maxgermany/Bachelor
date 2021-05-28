@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. f3": "blacks could mate in 2",
+        "1... c5": "but not ! this is the danger of theory. he is just playing what he has study, but not the best against my stupid opening",
+        "2. c3": "going on in the absurdity. i have to tell you my goal : the king has to walk f2, e3, d3, to c2",
+        "2... Nc6": "sicilian has nothing to do with my opening",
+        "3. Kf2": "having fun\n",
+        "3... e6 4. Ke3": "ha ha ha ",
+        "4... d5 5. Kd3": "i'm dying !\n",
+        "5... b5": "will he mate me or not ! ?",
+        "6. Kc2 c4 7. e3": "giving some space to my pieces, let's start to play seriously now ",
+        "7... Qa5": "preparing Qa4+",
+        "8. Qe2": "giving space to the king but too late",
+        "8... Qa4+ 9. b3 cxb3+": "easy",
+        "10. Kb2": "that 's all !",
+        "10... bxa2 11. Rxa2": "now the black queen is being in trouble !",
+        "11... Qc4 12. Qxc4": "exchange is in my advantage considering the white situation",
+        "12... bxc4 13. d4 Nf6 14. Ne2 Be7 15. g4 O-O 16. h4 Bd7 17. Kc2 Rfb8 18. Ng3 Bd6 19. Nh5 Ne8 20. Bd2 g6 21. Nf4 e5 22. Nxd5 exd4 23. exd4 Be6 24. Bxc4 Kg7 25. h5 Nf6 26. h6+ Kf8 27. Nxf6 Bxc4 28. Nd7+ Ke7 29. Nxb8 Bxa2 30. Nxc6+ Kd7 31. Ne5+ Kc7 32. Nxf7": "first blunder ! i was +5 ",
+        "32... Bxf7 33. Re1 Ba2 34. Bg5 Rb8 35. Nd2 Bd5 36. Ra1 Rb7 37. c4 Bf7 38. c5 Bg3 39. Ne4 Bb3+ 40. Kc3 Bd5 41. Nxg3": "black blunder\n",
+        "41... Bxf3 42. Bf4+ Kc6 43. Ra6+ Kb5 44. Ra1 Bxg4 45. Rb1+ Kc6 46. Rxb7": "exchange in my advantage, i have 1 piece more, the end sould be mine",
+        "46... Kxb7 47. Kb4 Bf3 48. Nf1 a6 49. Ne3 Kc6 50. Ka5 Be2 51. Bd6 g5 52. d5+ Kd7 53. Nc2 Bc4 54. Nb4 g4 55. Bg3": "black resign. this is a good lesson about the jail of theory"
+    },
+    "url": "https://gameknot.com/annotation.pl/awfull-opening-but-wins?gm=54889",
+    "gameName": "awfull opening ...but wins !",
+    "players": "31415 (1451) vs. simpazsimpa (1408)",
+    "opening": "Gedult's opening (A00)"
+}

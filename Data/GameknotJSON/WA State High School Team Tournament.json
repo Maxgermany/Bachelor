@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "My standard opening\n",
+        "1... e6": "French defence\n",
+        "2. d3 d5 3. exd5 exd5 4. Nf3 Bg4 5. h3 Qe7+ 6. Qe2 Qxe2+": "I think that BxN would have been a better move at this time, because it would ruin the kingside pawn structure\n",
+        "7. Bxe2 Bxf3 8. Bxf3 Nf6 9. Bg5 Be7 10. O-O": "Getting king to safety\n",
+        "10... h6 11. Bxf6 Bxf6 12. Re1+": "Preventing castle\n",
+        "12... Kd7 13. c3 c6 14. Nd2 Na6 15. d4 Rhe8 16. b4": "Gaining space on the queen side \n",
+        "16... Rxe1+ 17. Rxe1 Re8 18. Rxe8": "Didn't want him to keep his rook on the open file and didn't want to protect my rook\n",
+        "18... Kxe8 19. a4 Nc7 20. Kf1 b6 21. g3 a5 22. bxa5 bxa5 23. Ke2 Ke7 24. Kd3 Kd6 25. Nb3": "Free pawn on a5\n",
+        "25... Ne6": "putting pressure on the d4 pawn\n",
+        "26. Nxa5 c5": "!? this move is good at first site but it ends up leading to an equal trade\n",
+        "27. Bg4": "I spent alot of time on this move but finally found a solution\n",
+        "27... cxd4 28. Bxe6 fxe6 29. cxd4 Kc7 30. Nb3 Kb6 31. Kc3 e5 32. dxe5 Bxe5+ 33. Kd3 g5 34. h4 g4 35. h5 Bf6 36. Ke3 Bg5+ 37. Kd4": "working my way towards the g pawn\n",
+        "37... Kc6 38. Ke5 Bd8 39. Kf5 Bb6 40. Kxg4 Bxf2": "I liked the trade of pawns here because it moved the bishop to a less active square\n",
+        "41. Kf4 Ba7 42. g4 Bb8+ 43. Ke3": "preventing a pawn advance\n",
+        "43... Be5 44. Nd4+": "Hoping for trade\n",
+        "44... Kc5 45. Nf5 d4+ 46. Kd3": "stopping pawn\n",
+        "46... Kb4 47. Nxd4 Kxa4 48. Nf5": "threatening final hope for black\n",
+        "48... Bf4 49. Ke4 Bg5 50. Ke5 Kb5 51. Ke6 Kc5 52. Kf7 Kd5 53. Kg6 Bd2 54. Nxh6 Ke5 55. Nf7+ Kf4 56. g5 Kg4 57. h6 Bc3 58. h7 Bd4 59. h8=Q Bxh8 60. Nxh8 Kf4 61. Nf7 Ke4 62. Kf6": "Black resigns. This was my third win at the tournament and had surpassed my goals after only getting 2.5 points the year before on 5th board I now had 3 on second. \n"
+    },
+    "url": "https://gameknot.com/annotation.pl/wa-state-high-school-team-tournament?gm=8662",
+    "gameName": "WA State High School Team Tournament",
+    "players": "Chris Peterson  vs. Denis Chang ",
+    "opening": "French (C00), Reversed Philidor formation"
+}

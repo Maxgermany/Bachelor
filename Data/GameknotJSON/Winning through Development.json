@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "There's a nice theme to this one, which is all about development, and is a great example of how to win quickly despite making no extremely good moves.",
+        "1... e5 2. Nf3 d6": "This move is just fine: the Philidor defense.  Gives black a solid position, but gives white a little more space.  Black's dark bishop is blocked in, but it's his choice to do this.",
+        "3. d4": "Aggressively grabbing space and going for the center.  Bc4 is also fine here, but d4 is a little more immediate.",
+        "3... exd4": "The most common response.",
+        "4. Qxd4": "!?  Okay, this move is less common.  Most people play Nxd4 here, with a position that winds up resembling a sicilian dragon, except with a black pawn on c7 instead of e7.  I prefer the Queen capture here, as it:\na) brings another piece into play\nb) prevents Be7 for the time being\nc) keeps the knight on the useful f3 square\nd) tempts black to go queen chasing",
+        "4... c5": "Standard here is Nc6 followed by Bb5, with a slight advantage to white.  Dean decides to kick the queen out with his c-pawn instead.  Not an awful move, but it doesn't help black with developing a piece.",
+        "5. Bb5+": "Sure, I could've retreated the queen, but b5 is a good square for the bishop, plus if black plays Bd7, I have Qd3, retaining a developmental edge.",
+        "5... Nc6": "Defending with the knight instead.  Although I could double black's pawns with Bxc6  here, I'll still have to address the threat to the queen.",
+        "6. Qd1": "A chance to regroup.  Black could play something like Qc7, Bd7, Nf6, or even something to e7 here, with relative equality.",
+        "6... a6": "?!  I don't like this move.  It pretty much forces Bxc6 (as Bd3 and Be2 don't look promising), but there were many better moves.  Now, after the exchanges, white will have a developmental edge and it will still be his move.",
+        "7. Bxc6+ bxc6 8. Nc3": "\"Knights before bishops.\"  The game is hardly won here, of course, but which side would you rather be?  White has more space, more developed pieces, can castle anytime, and has open lines for his pieces.  Black has doubled c-pawns, a blocked in dark-squared bishop, less space, and no developed pieces.  His only compensation is that he has the two bishops.",
+        "8... Bg4": "Aggressive and optimistic, given the shape of things here.  It's hard to suggest something better, though, as not much looks good.  For example, if Nf6, how to answer e5?",
+        "9. Bf4": "Although a lot of moves look reasonable here, this looked best to me.  It loads up further on the center, pressures d6, and ignores black's Bg4.",
+        "9... Bxf3": "?  This is a poor move, underestimating white's developmental edge.  By trading off his only good piece (which took two moves to do) and allowing white to replace his Nf3 with a Qf3, black gives white a 3-0 edge in developed pieces, plus gives up his only advantage: the two bishops.",
+        "10. Qxf3": "And now what for black?  Does anything look good?  Something has to be done about the kingside, although it appears black's goose may already be cooked.",
+        "10... Nf6": "As good a try as any, although maybe Ne7 followed by Ng6 offered more resistance? ",
+        "11. O-O-O": "!  A good developing move.  The rook is really well positioned on d1 and surely makes the black queen uncomfortable.  Black seriously needs to address the threat of e5 now.",
+        "11... h6": "?!  This misses the threat of e5.  Sure, it prevents Bg5 and threatens to support g5 for black, but this is just too slow.",
+        "12. e5": "!?  This was a tough move to play, since Rhe1 was very tempting here.  Black is out of good moves now, as pretty much anything both loses material and opens up lines to the black king, who's now caught in the center.",
+        "12... Nd7": "Nd5 doesn't look much better.",
+        "13. exd6": "Again, this looks better than Rhe1.  Black's dark squared bishop is now in a coffin, and Rhe1 looms disastrously.",
+        "13... Qf6": "Giving the king some running room.",
+        "14. Rhe1+": "Finally completing development!  Notice all the things white is threatening/attacking, and how impotent black's pieces appear to be.",
+        "14... Kd8": "Pretty much forced.  Although Dean resigned here, and it's early, black doesn't really have a good shot here.  White has a lot to dish out, and black doesn't have the pieces in the right places to defend.  Simple moves, like Qe3, are almost impossible to defend against.  Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/winning-through-development?gm=18428",
+    "gameName": "Winning through Development",
+    "players": "ethansiegel (1764) vs. yodean (1599)",
+    "opening": "Philidor (C41), Boden variation"
+}

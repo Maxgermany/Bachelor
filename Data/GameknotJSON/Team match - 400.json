@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "I was hoping for a Fried liver.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Bc5": "This is the Giucco Piano. I could've played many moves such as b4 or the main line which is c3.",
+        "4. O-O": "Instead I choose a safer route.",
+        "4... Nf6": "If d6 i would play b4. Captain Evans who invented the Evans Gambit won against McConnell when 4. Bc4 d6 5.b4 and he got crushed.",
+        "5. Nc3 O-O 6. d3 d6 7. h3 h6": "He's starting to copy me.",
+        "8. Qe2 Nd4 9. Nxd4 Bxd4 10. Bd2 c6 11. Bb3 a6 12. a3": "Making an escape square for thr bishop",
+        "12... b5 13. Rab1 Bb7 14. Nd1 d5 15. Bc3 c5 16. Bxd4 exd4 17. e5 Re8 18. f4 c4 19. Ba2 a5 20. Qf2 Nh5 21. Qxd4": "Drops a pawn",
+        "21... Ra6 22. dxc4 bxc4 23. g4 Ng3": "g4 had to be the biggest blunder. The knight has infiltrated and I have made many weaknesses.",
+        "24. Rf2": "If 24. Rf3 attacking the knight  24. ....  Ne2+ forks the king and queens. IT shouldn't be too hard to defeat me after.",
+        "24... Rg6 25. Rg2 Qh4 26. f5 Nxf5": "I didn't take the knight. Why not? I don't even know myself.",
+        "27. Qc3 d4 28. Qxc4": "drops another pawn to launch a discovered attack on my rook.",
+        "28... Bxg2 29. Qxf7+": "He obviously didn't calculate properly.",
+        "29... Kh7 30. Qxe8 Bxh3": "There was a mate on g8 which he obviously didn't see. This was supposed to be his win as his pieces are more active and all my pieces are on the queenside and I can't really defend my queen. I was lucky to win this.",
+        "31. Qg8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=40662",
+    "gameName": "Team match",
+    "players": "richard1234567 (1457) vs. izzylizzy (1402)",
+    "opening": "Giuoco Piano (C50)"
+}

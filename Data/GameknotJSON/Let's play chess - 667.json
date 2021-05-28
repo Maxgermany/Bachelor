@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 g6 2. d4 Bg7 3. c4 Nf6 4. Nc3": "The move e4-e5 is tempting but not very good",
+        "4... O-O 5. f3 d6 6. Be3 Nc6 7. Nge2 a5 8. Qd2 a4 9. h4 e5 10. d5 Nb4 11. O-O-O a3 12. b3 c5 13. dxc6 e.p. bxc6 14. Bc5": "Much stronger then the obvious Qxd6.\r\nIts always good to complicate, against an opponent with a lower ELO.",
+        "14... dxc5": "Loses a lot of material",
+        "15. Qxd8 Bh6+ 16. Kb1 Nxe4": "Deparation perhaphs?",
+        "17. fxe4 Rxd8 18. Rxd8+ Bf8 19. g3 Nd3 20. Rxd3 f5 21. Bh3 fxe4 22. Rd8": "I have no interest in that pawn, since it only blocks my opponend.\r\nMore important there is room for attacking blacks king.",
+        "22... Bb7 23. Be6+ Kg7 24. Rd7+ Kf6": "Checkmate is on the horizon",
+        "25. Bg4 Bc8": "Now the hard choice: Ne4 or Rf1?",
+        "26. Nxe4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=30550",
+    "gameName": "Let's play chess",
+    "players": "eduard352 (1846) vs. nick_mack (1144)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

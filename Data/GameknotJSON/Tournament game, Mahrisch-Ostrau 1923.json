@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Nf6 3. f4 d5": "Lasker countergambits Hromadka's Vienna Gambit. Now the game gets interesting fast.",
+        "4. fxe5": "Not only capturing the Pawn but attacking the Knight...",
+        "4... Nxe4": "...forcing this recapture.",
+        "5. Qf3": "Hromadka immediately pressures the weak spot at KB7.",
+        "5... Nc6": "Lasker aims to win the advanced P at K5.",
+        "6. Bb5": "Hromadka counters with a pin.",
+        "6... Nxc3": "Lasker removes the Knight threatening his own center Pawn.",
+        "7. bxc3": "Hromadka captures towards the center, preparing for P-Q4.",
+        "7... Be7": "Lasker prepares to castle.",
+        "8. d4": "Hromadka follows up...",
+        "8... O-O": "...as does Lasker.",
+        "9. Bd3": "With Lasker's K now on KN1, Hromadka repositions his B to aim that direction.",
+        "9... f6": "Creating a flight square.",
+        "10. Qh5": "Threatening QxP ch.",
+        "10... g6": "Cutting the B's diagonal.",
+        "11. Bxg6": "Hromadka plays a drawing sacrifice...",
+        "11... hxg6": "...which Lasker accepts.",
+        "12. Qxg6+": "Forcing Black's response.",
+        "12... Kh8": "Without a piece to interpose on the second rank, Lasker has no choice.",
+        "13. Qh6+": "Draw agreed. White has a perpetual check on KR6 and KN6."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-mahrisch-ostrau-1923?gm=37397",
+    "gameName": "Tournament game, Mahrisch-Ostrau 1923",
+    "players": "Karel Hromadka  vs. Emanuel Lasker ",
+    "opening": "Vienna gambit (C29), Paulsen attack"
+}

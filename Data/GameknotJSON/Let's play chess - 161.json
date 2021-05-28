@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. Nc3 Bf5 4. Bg5 e6 5. Nh4": "if this were the slav black could allow the LSB exchange of the for the Knight where it is to exert more control of the e4 square.",
+        "5... Bg6": "a retreat to temp the knight to take the bishop and open the h file for black's rook, with the obvious negative being the doubled pawns and lake of pawn mobility.",
+        "6. Nxg6 hxg6 7. Qd3 c6 8. e4": "a strong move by white, white has better control of the center and also has better development so he is seizing on this initiative and playing energetically.",
+        "8... dxe4": "not forced but black would have had a very cramped position had he instead chosen to play Be7 instead of the capture as white could then push on to e5 with an unclear position developing where white would still stand better.",
+        "9. Nxe4": "white exerts steady pressure in the center and on black's knight",
+        "9... Nbd7 10. Nxf6+ Nxf6": "black could have captured with the pawn and then fianchettoed his bishop to exert pressure on the long diagonal, it would have also given his pawn mass more mobility, but instead chose to recapture with the knight. There are \u00b1's to each plan. Though blacks Knight stands better on f6 and now black's bishop still has some dynamism, I would probably play this either way in the future. ",
+        "11. Be2 Be7 12. c3 Qb6": "a temporary location for the queen to engage white's queenside pawns and deter white from long castling. Though the deterrent is probably only psychological as white would still have a good game had he chosen to 0-0-0 here. White also has the option to let the pawn go to energize his rooks and black would be ill advised to take the b2 with white now capturing the b7 pawn and the ensuing pig on the 7th would be unenviable for black to say the least.",
+        "13. b4": "white controls a lot of space on the queenside but play will soon be on the kingside and white's backward pawn at c3 is a long term weakness, though it will not factor into this game.",
+        "13... Rd8 14. O-O": "white has the bishop pair, control of the center and queenside, the game is far form preordained but objectively white looks to stand better at this point.",
+        "14... Qc7": "eying the h pawn",
+        "15. g3 Nd5": "prompting a trade and the removal of white's strong bishop pair and looking for relative equality",
+        "16. Be3 Qd7": "setting a trap",
+        "17. Rab1": "a solid developing move, though it neglects the implicit threat ahead.",
+        "17... e5": "white should resist taking the pawn and evaluate the threat at hand, black's queen is eying the h3 square and from there all roads lead to Rome. White needs to think of damage control here.",
+        "18. dxe5": "a serious mistake that leads to the end of the game though not with a bang but with a wimper.",
+        "18... Qh3": "a loss of material cannot be avoided form this point on and a drawn game is out of reach for white form here on without help form black.",
+        "19. Bh5": "a bishop sacrifice to avoid mate",
+        "19... Rxh5": "qxb would have been a slight mistake, but would probably have led to a comparable position after white plays 20 h4, g5. Also, black should have considered Nf4 and the complications that ensue, but this move was not considered during the game.",
+        "20. Rfd1 Qxh2+ 21. Kf1 Nxe3+": "trading down to a won endgame, though this is probably an imprecision.",
+        "22. Qxe3 Qh3+ 23. Ke1 Qg4 24. Rxd8+ Bxd8 25. Rc1 Rh1+ 26. Kd2 Bb6 27. Qd3 Rxc1 28. Kxc1 Bxf2 29. Qd6": "this move means the end for white, from here white is forced to trade queens.",
+        "29... Qg5+ 30. Kb2 Qd8": "the white queen has no escape and must be traded leaving black too far ahead for any real counter play.",
+        "31. Qxd8+ Kxd8 32. g4 Ke7": "this prevents white from breaking the connectivity of blacks pawns & white resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=60559",
+    "gameName": "Let's play chess",
+    "players": "deepblue81 (1775) vs. knightmare2 (1786)",
+    "opening": "Queen's pawn game (D02)"
+}

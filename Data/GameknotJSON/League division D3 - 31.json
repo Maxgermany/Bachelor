@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6": "Two knights defence (C55)",
+        "4. Nc3 Bb4 5. Ng5 d6": "H\u00e4r funderade jag om jag skulle ta f7 med S eller med L, men beslutade att ta med S. Det ger fler m\u00f6jligheter i forts\u00e4ttningen.\n H\u00e4r l\u00e4mnar svart Two knights defence (C55) f \u00f6 . 5...0-0 hade varit i den linjen.",
+        "6. Nxf7 Bg4 7. f3 Qd7 8. Nxh8 Be6 9. Bxe6 Qxe6 10. O-O O-O-O 11. d3 Rxh8 12. Be3 Nd4 13. a3 Bc5 14. Rb1 d5 15. exd5 Nxd5 16. Nxd5 Qxd5 17. b4 Bd6 18. c4 Qf7": "H\u00e4r forts\u00e4tter jag att jaga svarts l\u00f6pare. I \u00f6vrigt s\u00e5 beh\u00f6ver jag komma ut med mina torn och min dam.",
+        "19. c5 Be7": "Mina pj\u00e4ser \u00e4r en aning blockerade, s\u00e5 det \u00e4r sv\u00e5rt att bygga upp n\u00e5gon snygg kombination f\u00f6r tillf\u00e4llet. Utv\u00e4xlar L mot S p\u00e5 d4.",
+        "20. Bxd4 exd4 21. Qe2": "Ett ganska aggressivt inbjudande, som kan leda till att vi snart utv\u00e4xlar v\u00e5ra D. Om inte annat f\u00e5r jag lite spelrum f\u00f6r tornen. B\u00e4st att is\u00e5fall flytta bT ist\u00e4llet f\u00f6r fT, om utv\u00e4xlingen sker l\u00e4ngs f-filen. Men vi f\u00e5r se.",
+        "21... Re8 22. Rbe1": "Om svart spelar medvetet, s\u00e5 kommer v\u00e5ra D snart att utv\u00e4xlas. F\u00f6rdelen \u00e4r att jag g\u00f6r det med schack.",
+        "22... Bh4 23. Qxe8+": "Svart spelar som v\u00e4ntat, s\u00e5 jag g\u00e5r ner och utv\u00e4xlar D. S\u00e5 f\u00e5r jag ett T p\u00e5 k\u00f6pet.",
+        "23... Qxe8 24. Rxe8+ Kd7 25. Re4 Bf6": "Han g\u00e5r ner med L f\u00f6r att skydda d4, men d\u00e5 dubblar jag p\u00e5 e-filen.",
+        "26. Rfe1": "Nu har jag b\u00e5de materiellt och positionellt \u00f6vertag. En rad m\u00f6jligheter att agera med mina T \u00f6ppnar sig.",
+        "26... b6 27. Re4e6": "Pressar upp\u00e5t och sk\u00e4r av svarts K i sina f\u00e4rdv\u00e4gar.",
+        "27... bxc5 28. bxc5": "En naturlig utv\u00e4xling. Nu g\u00e4ller det bara att beh\u00e5lla pressen upp\u00e5t, och leta efter avslut.",
+        "28... c6": "Det b\u00f6rjar bli dags att s\u00e4tta K in i spelet, men f\u00f6rst l\u00e4gger vi en bondestruktur p\u00e5 ljusa rutor. D\u00e5 kan hans L inte tracka dom.",
+        "29. g4 Bh4 30. Re1e4": "Han siktar f\u00f6rmodligen p\u00e5 att ta min c-bonde med L k\u00f6ksv\u00e4gen. B\u00e4st att l\u00e5ta a-bonden st\u00e5 kvar och parera,men se upp f\u00f6r m\u00f6rka rutor s\u00e5l\u00e4nge hans L existerar.",
+        "30... a5": "Ser inget omedelbart, utan passar p\u00e5 att s\u00e4tta a-bonden p\u00e5 ljus ruta. Stoppar \u00e4ven svarts a-bonde p\u00e5 sin promov\u00e4g.",
+        "31. a4 g6": "Nu \u00e4r det dags att sikta mot K, och ev mattn\u00e4t kan v\u00e4xa fram.",
+        "32. Rd6+": "Bonden skyddar fint \u00e4ven om han parerar p\u00e5 c7.",
+        "32... Kc7 33. Re8": "Det \u00e4r alltid klurigt att finna mattar n\u00e4r det st\u00e5r m\u00e5nga pj\u00e4ser kvar p\u00e5 br\u00e4det. F\u00e5r se upp f\u00f6r patt ocks\u00e5, samt hans l\u00f6mska L.",
+        "33... Be1": "M\u00e5h\u00e4nda offrar han sin L medvetet f\u00f6r att f\u00f6rsena mattl\u00e4get. Men jag vill helst slippa hans L. s\u00e5 jag tar den iaf.",
+        "34. Rxe1 h5": "D\u00e5 knyter vi ihop mattn\u00e4tet.",
+        "35. Re7+": "Vart han \u00e4n g\u00e5r med K, s\u00e5 sl\u00e5r jag g6 med d-T. S\u00e4g att han g\u00e5r Kc8 och sedan Kc7, s\u00e5 s\u00e4krar jag e-T till h7 och sedan g\u00e5r jag ner och mattar.",
+        "35... Kc8 36. Rxg6": "Nu \u00e4r det endast en fr\u00e5ga om teknik, och sedan \u00e4r han matt.",
+        "36... Kd8 37. Rh7": "Matt inom ett drag.",
+        "37... Ke8 38. Rg8#": "D\u00e4r satt den !"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3?gm=28933",
+    "gameName": "League division D3",
+    "players": "chekof (1203) vs. gatortim (1232)",
+    "opening": "Two knights defence (C55)"
+}

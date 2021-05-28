@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "the same tournament (najdorf variation 6. Bg5) offered by enasab. Here is a variation that is clearly NOT to play for black",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4": "quite classical",
+        "7... Nc6": "this opens a nice possibility for white. Nc6 has to be very cautious with black",
+        "8. e5": "this is not a sacrifice",
+        "8... dxe5 9. Nxc6": "and this is why",
+        "9... Qxd1+ 10. Rxd1 bxc6 11. fxe5": "black pawn structure is already ruined and the next attempt to reconstruct it will face a nice punishment",
+        "11... Nd5 12. Ne4": "this is the punishment... Where?",
+        "12... Be7 13. Bxe7 Nxe7 14. Nd6+": "here.",
+        "14... Kf8 15. Bd3 g6 16. O-O": "and here...",
+        "16... Kg7": "the vague solution here was more in Nf5 followed by enventual Nh6 or a good exchange with one of the minor pieces... this becomes now a tragedy.",
+        "17. Rxf7+ Kh6 18. Rxe7": "and it is virtually over. The game was only interesting to show that 7. ... Nc6 is not a good idea.",
+        "18... Rf8 19. Nxc8 Raxc8 20. Bxa6 Rca8 21. Bc4 Ra4 22. Bxe6 Raf4 23. Red7 Rf4f2 24. Rd7d2 Rxd2 25. Rxd2 Re8 26. Bd7 Rxe5 27. Bxc6 Re6 28. Bd5 Rd6 29. Rd3 Rb6 30. b3 Rf6 31. a4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/najdorf-for-fast-players?gm=32960",
+    "gameName": "Najdorf for fast players",
+    "players": "thitho (1732) vs. nikolausi (1503)",
+    "opening": "Sicilian (B96), Najdorf, 7.f4"
+}

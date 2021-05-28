@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "skull-kid moves out infront of his king",
+        "1... e5": "ucetocold does the same",
+        "2. Bb5 c6 3. Bc4 Qh4 4. Qf3 d5 5. Bd3 b5 6. Nh3 g5": "ucetocold going into defence",
+        "7. Qf5 Ne7 8. Qxg5 Qh6 9. f3 f6 10. Qg4 Bxg4 11. fxg4 dxe4 12. Bxe4 Bg7 13. O-O O-O 14. d4 exd4 15. Bxh6 Bxh6 16. Nf4 f5 17. Bxf5 Nxf5 18. gxf5 Rxf5 19. Na3 Bxf4 20. g3 Rc5 21. gxf4 Nd7 22. Rae1": "its all tied up",
+        "22... Rd5 23. Re8+ Rxe8 24. b4 c5 25. Rb1 Rf8 26. Rf1 Rg5+ 27. fxg5 Rxf1+ 28. Kxf1": "tied up again",
+        "28... Ne5 29. bxc5 a5 30. h4 h5 31. Nxb5 a4 32. c3 dxc3 33. Nxc3 a3 34. Nb5 Kf8 35. Nxa3 Kf7 36. c6 Nxc6 37. Nc4 Kg6 38. Nd6 Nd4 39. Ne4 Nf3 40. Ng3 Nxh4 41. Nxh5 Kxg5 42. a3 Kf5 43. a4 Nf3 44. a5 Ne5 45. a6 Nc6 46. Ng7+ Kf6 47. Ne8+ Ke7 48. Nc7 Kd7 49. Nb5 Kc8 50. a7 Kb7 51. a8=R Kxa8 52. Nc7+ Kb8 53. Nb5 Ne5 54. Kf2 Nd3+ 55. Ke3 Nc5": "its hard to pick a winner",
+        "56. Kd4 Nb7 57. Kd5 Kc8 58. Kc6 Kb8 59. Nd6 Nd8+ 60. Kd7 Nb7 61. Kc6 Ka7 62. Nxb7": "white wins!!!!!!!!!!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-difficult-choice?gm=2395",
+    "gameName": "a difficult choice",
+    "players": "skull-kid (40) vs. ucetocold (37)",
+    "opening": "King's pawn game (C20)"
+}

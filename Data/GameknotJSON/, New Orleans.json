@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "apertura del peon rey, libera el juego del alfil blanco del blanco en la diagonal f1 a a6. Libera el juego de la dama que pasa a dominar la diagonal d1 a h5. Ademas al avanzar el peon ocupa el centro. \n",
+        "1... e5": "El jugador de piezas negras se opone al avance del peon contrario y libera las diagonales del alfil y dama del mismo modo que el jugador de piezas blancas. \n",
+        "2. Nf3": "Jugada de desarrollo que amenaza comer el peon central ",
+        "2... Nc6": "desarrolla el caballo y defiende el peon central ",
+        "3. Bc4": "desarrolla el alfil y domina con su alfil blanco la diagonal que va de a2 a g8. En realidad no, no es asi, porque esta obstruida la diagonal por el peon de f7. ",
+        "3... Bc5": "El alfil de casillas negras amenaza el punto f2 y domina la diagonal y se desarrolla. ",
+        "4. b4": "Este es el famoso gambio evans. Pierde un peon y gana un tiempo. \n",
+        "4... Bxb4 5. c3": "aca se produce la primer ganacia de tiempo, porque el peon del blanco se desarrolla y el alfil se ve obligado a repetir movidas con la misma pieza. Se ve obligado a mover dos veces la misma pieza, eso es la p\u00e9rdida de un tiempo que gano el peon. De modo que no puedo decir que gane un tiempo si no obligo a perder un tiempo al otro. Ganar un tiempo es obligar a perder un tiempo al otro. Si yo uso un tiempo y el otro usa tambien un tiempo, queda parejo en tiempos. Si yo uso un tiempo mientras el otro pierde un tiempo, si gano un tiempo. Ese es el tema de los tiempos. \n",
+        "5... Bc5 6. d4 exd4 7. cxd4 Bb6": "el blanco gano dos tiempos porque si uno observa el tablero tiene dos peones m\u00e1s desarrollados que el negro y ocupa el centro del tablero . la ganancia de los tiempos se produjo cuando el blanco avanzo sus peones amenazando al alfil. entonces mientras el blanco desarrolla el negro se ve obligado a mover varias veces la misma pieza. ",
+        "8. O-O Na5 9. Bd3 Ne7 10. Nc3 O-O 11. Ba3": "El alfil hace presi\u00f3n sobre la diagonal de a3 a f8, pero aprovecha que clava el caballo. en realidad el jugador de las negras puede cortar la diagonal avanzando su peon pero el blanco puede avanzar su peon a e5 y de ese modo sigue presionando sobre el peon que corta obstruye la diagonal. ",
+        "11... d6 12. e5 Bf5 13. exd6 cxd6 14. Ne4 d5": "este ",
+        "15. Nf6+": "este sacrificio del caballo es el inicio de una combinaci\u00f3n . el caballo se sacrifica porque despues recupera la pieza al cambiar el alfil por el caballo negro y poder tomar el alfil negro. De modo que se recupera la pieza y deja al enroque negro mal posicionado. Es por eso que sacrifica el caballo. El secreto de la combinaci\u00f3n es que el alfil negro de casillas blancas queda sin defensa. esa combinacion no podia haberse hecho si no estaba el alfil de a3 presionando. ",
+        "15... gxf6 16. Bxe7 Qxe7 17. Bxf5 Nc4 18. Re1 Qd6 19. Ne5 fxe5 20. Qg4+ Kh8 21. Qh5 Kg7 22. Qg5+ Kh8 23. Qh5 h6 24. Rxe5 Nxe5 25. dxe5 Qc6 26. e6 Kg7 27. g4 Qc3 28. g5 Qxa1+ 29. Kg2 Qf6 30. gxf6+ Kxf6 31. exf7 Rxf7 32. Qg6+ Ke7 33. Qe6+ Kf8 34. Qxh6+ Rg7+ 35. Bg6 Kg8 36. h4 d4 37. h5 d3 38. Qg5 Rd8 39. h6 d2 40. Qf6 Rgd7 41. Bf5 d1=- 42. h7+ Rxh7 43. Be6+ Rf7 44. Bxf7+ Kh7 45. Qg6+ Kh8 46. Qh6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/new-orleans?gm=65345",
+    "gameName": ", New Orleans",
+    "players": "Morphy  vs. Alonzo Morphy ",
+    "opening": "Evans gambit (C51), normal variation"
+}

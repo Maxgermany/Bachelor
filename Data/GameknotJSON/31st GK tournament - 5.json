@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6": "The so called Berlin defense or Berlin Wall, seldom seen at the highest level beacause of its strenght. Kramnik used it very often.",
+        "4. O-O Nxe4 5. d4": "The indirect protection of the pawn.",
+        "5... exd4": "The pawn should not be taken. Best and normal its the theorical continuation 5.-...Nd5, and after 6.-Bxc6 dxc5 7.-dxe5 Nf5 8.-Qxd8 Kxd7 the debate its still on wheter black uncastled king and pawn weaknesses can survive white's onslaught defending with the power of the bishop pair.",
+        "6. Re1": "The natural explotation of the open e file.",
+        "6... f5 7. Nxd4": "Threatening f3.",
+        "7... Nxd4 8. Qxd4 c6 9. Qe5+": "If 9.-Bc4 then d5 its good for black.",
+        "9... Qe7 10. Qxf5": "10.-Qxe7 Bxe7 11.-Bd3 d5 its good for black.",
+        "10... d5": "d6 was a better move.",
+        "11. Qxd5": "The refutation of 10.-...d5",
+        "11... Bd7 12. Qxe4": "Winning a piece.",
+        "12... cxb5": "If 12.-Qxe4 Rxe4  13.-Be7 Bd3 wins a piece.",
+        "13. Qxe7+ Bxe7 14. Bg5": "Can black do something now?",
+        "14... O-O 15. Bxe7 Rae8 16. Nd2 Rf5 17. Bb4 Rc8 18. c3 Bc6 19. Nf3": "White has clearly no objection in returning a pawn to exchange pieces.",
+        "19... Bxf3 20. gxf3 Rxf3 21. Re3 Rf5": "avoiding exchanges.",
+        "22. Rae1": "Treathening to exchange rooks by 23.-Re8 ",
+        "22... Rc6 23. Re3e8+ Kf7 24. Re1e7+ Kg6 25. Re7e6+": "white seeks exchanges.",
+        "25... Kh5 26. Re6e5 Rxe5 27. Rxe5+ Kg4 28. Rxb5": "Now white a pawn and a piece up confortably wins.",
+        "28... g5 29. Rxb7": "Make two pawns.",
+        "29... h5 30. Rxa7 h4 31. a4 Kh3 32. Re7 Rc8 33. a5 Rd8": "With the hopeful trheath 34.-Rd1 mate.",
+        "34. Re1 Rd2 35. Ba3": "35.-a6 could have been triyed too, but i just wanted to play safe.",
+        "35... g4 36. a6 g3 37. hxg3": "Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/31st-gk-tournament?gm=594",
+    "gameName": "31st GK tournament",
+    "players": "poder_yaqui (1280) vs. keitho (1607)",
+    "opening": "Ruy Lopez (C67), open Berlin defence, l'Hermet variation"
+}

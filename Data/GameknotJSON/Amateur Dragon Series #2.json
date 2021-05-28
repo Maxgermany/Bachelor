@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rb8": "The 'Chinese' Dragon. Black will play directly along the b-file, aiming to open up the b-file for his a8 rook as soon as possible via ..b5 (often as a sacrifice). For more information on this variation, the reader can check out some of my past annotations.\n",
+        "11. g4": "As I've noted before, this move is simply a mistake! White weakens the f3 pawn prematurely, allowing Black to play ..b5 followed by ..Ne5 and the threat of .. Nxf3 causes White tremendous problems.\n",
+        "11... b5 12. Ndxb5 Ne5 13. Be2 Bxb5 14. Nxb5 Nxf3": "The point. White cannot defend the b5 knight and the f3 pawn at once. Now Black regains material with a strong attack.\n",
+        "15. Bxf3 Rxb5 16. h4": "Uh oh. White overlooks the threat to b2 (again with this square!) that arises after the f6 knight moves (threatening forced mate in several moves after .. Bxb2 ). This is a typical Dragon motif (it often occurs after an Exchange sacrifice along the c-file too), where the knight attacks the queen and reveals an even deadlier attack on b2. White is dead lost.\n",
+        "16... Nxe4 17. Bxe4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/amateur-dragon-series-2?gm=6380",
+    "gameName": "Amateur Dragon Series #2",
+    "players": "kingstuart (1730) vs. scottyad (1917)",
+    "opening": "Reti opening (A04)"
+}

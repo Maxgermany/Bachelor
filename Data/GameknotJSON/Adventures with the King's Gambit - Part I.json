@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "What else? ;-)",
+        "1... e5 2. f4": "Offering the King's Gambit, which I love to play as sharp alternative to the well-known second move Nf3.",
+        "2... exf4": "The opponents accepts the gambit, so I'm quite lucky - to be honest, I haven't had the time yet to study the King's Gambit declined :)",
+        "3. Nf3": "The usual move, developing and avoiding a queen check on h4. A sharper variant is 3. Bc4, which I haven't really tried out so far, because I'm a bit uncomfortable when my king has to move that early in the game (the opponent can force that simply with 3... Qh4+, but I've heard once that it isn't a good move at all) and hence castling king's side isn't possible anymore.",
+        "3... d6": "Bobby Fischer's refutation. In his article \"A Bust to the King's Gambit\" published in 1961, he suggests this \"high-class waiting move\" and claims \"In my opinion the King's Gambit is busted. It loses by force.\"",
+        "4. d4": "Taking more control of the center and freeing the dark-squared bishop who aims at the pawn f4.",
+        "4... Bg4": "Pinning my knight. The usual move here is g5, trying to hold the pawn on f4.",
+        "5. Bxf4": "Getting back the gambit pawn, which feels good ;) Fritz 12 rates this position already as approx. +1 for White! So Black should have better not given away his pawn for free.",
+        "5... Bxf3": "Taking my knight. I don't consider this to be a good move - now White has the pair of bishops, his queen can get a nice home on the open f-file, but Black hasn't developed a single piece at all.",
+        "6. Qxf3": "According to Fritz, gxf3 is also quite okay, but taking with the queen is more natural.",
+        "6... Nf6": "Developing and aiming my pawn of e4.",
+        "7. Bc4": "Time for one of the key-moves in the King's Gambit! Prepares castling and puts pressure on f7. Fritz likes Nc3 the most.",
+        "7... Qe7": "Putting more pressure on e4...",
+        "8. Nc3": "...so I have to defend it.",
+        "8... d5": "? Sacrificing a pawn.",
+        "9. Nxd5": "The best move would have been e5 - now Black mustn't capture the bishop on c4 because this would make 10. Qxb7 possible!",
+        "9... Nxd5": "Note that the on the first sight attractive because pawn-winning 9... Qxd4+ isn't possible because of the fork on c7: 10. Qxe4+ Nxe4 11. Nxc7+",
+        "10. Bxd5 Qb4+": "Aiming at the pawn b2, but leaving f7 *very* weak!",
+        "11. c3": "Better would have been Bd2, immediately creating a threat on f7.",
+        "11... Qxb2": "?",
+        "12. Bxf7+": "! Even better is, according to Fritz, castling king's side.",
+        "12... Kxf7": "?? Black doesn't see the discovering check that loses the queen.",
+        "13. Bc1+ Kg8 14. Bxb2": "At this point Black resigned. The King's Gambit often leads to quick wins, but of course also quick losses due to a very vulnerable king-side, so every move has to be played precisely. Part II of my King's Gambit adventures series will be about a game that I lost within only 10 moves - this time again because of a queen loss."
+    },
+    "url": "https://gameknot.com/annotation.pl/adventures-with-the-kings-gambit-part-i?gm=30768",
+    "gameName": "Adventures with the King's Gambit - Part I",
+    "players": "thestack (1411) vs. boneyt (1461)",
+    "opening": "KGA (C34), Fischer defence"
+}

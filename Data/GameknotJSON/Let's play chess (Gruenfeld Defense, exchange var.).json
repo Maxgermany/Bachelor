@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6": "A defense I don't see particularly often.  On the other hand I prefer to limit my Queen-side openings, as I often do poorly in the midgame transitions.",
+        "3. Nc3 d5 4. cxd5 Nxd5 5. e4": "With this move White plans to look for development room and tempo if Black retreats the knight.  The exchange is however acceptable.",
+        "5... Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Nf3": "At this point White's position begins to feel a little awkward.  It's open and well-developed for the time-being, but the King's pawn could be a sticking point, and the QRP might prove weak.  The Queen's pawn, meanwhile, appears protected, but can be assaulted.",
+        "8... c5 9. Bb2": "Not 9. dxc5 Bxc3+ winning the rook.  The bishop moves to b2 rather than e3 to allow the possibility of future exchange, but in retrospect this feels cramped.",
+        "9... Nc6 10. O-O Bg4 11. e5": "White is not adverse to accepting the pin at this stage, which may prove a mistake as the position can be made to swing around it. 11. Be2 was likely preferable as the pin on Black's KBP is relatively inconsequential.",
+        "11... Rc8 12. h3": "At any event, the Bishop should be moved here, as the exchange results in an overwhelming positional superiority for Black.",
+        "12... Bxf3 13. Qxf3 cxd4 14. Rfd1": "Possibly 14. cxd4 was better, but the possible follow-up ...Nxd4 15. Bxd4 results in White still down a pawn (two eventually) and behind in tempo.",
+        "14... Nxe5 15. Qd5 Qxd5 16. Bxd5 dxc3 17. Ba3 Rc7 18. Rde1 Rd8 19. Bf3 Nxf3+ 20. gxf3 e6 21. Kg2 Rd2 22. Red1 Rcd7 23. Rxd2 Rxd2 24. Bb4 Rb2 25. a3 c2 26. Rc1 Bh6": "No good options; White resigns.  A lesson learned."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-gruenfeld-defense-exchange-var?gm=27765",
+    "gameName": "Let's play chess (Gruenfeld Defense, exchange var.)",
+    "players": "jmfpeaceable (1448) vs. loddar (1847)",
+    "opening": "Gruenfeld (D86), exchange, Larsen variation"
+}

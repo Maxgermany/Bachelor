@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. Nf3": "Hi everyone!\r\n\r\nAt last some happy news to post on another battle on the Expert's Playing Field - a draw game against my expert buddy Michael.  We did follow the World DB for most of the game - I deviated on move 23 to exchange down into an opposite bishop ending to give me the chance to play through an ending with an expert on a level playing field.  Michael thought it was a little too level and offered me a draw!  Although it would have been interesting to play it through I decided that the chance to obtain only my third Expert Draw in my chessic career was too good to pass up, especially given my atrocious record against the Experts.  Anyhow, on with the game, I decide to have another stab at the Reti Opening with 1. Nf3.",
+        "1... c5 2. c4": "2. c4 - transposes the opening into an English Opening.",
+        "2... Nf6 3. Nc3 e6 4. g3": "4. g3 - preparing to fianchetto Fou Leblanc on the long h1-a8 diagonal.",
+        "4... b6 5. Bg2 Bb7 6. O-O Be7": "6. ....... Be7 - black clears the way to castle kingside, however, as you will see later on, his king will remain in the centre.",
+        "7. d4 cxd4 8. Qxd4": "8. Qxd4 - pawn trade.",
+        "8... d6": "8. ...... d6 - preparing e5 perhaps?",
+        "9. Rd1": "9. Rd1 - puts pressure on the d6 pawn which although at the moment is guarded by the dsb it may well tie down that bishop to defending it!",
+        "9... a6 10. b3": "10. b3 - solidifies c5.",
+        "10... Nbd7 11. e4": "11. e4 - increases control of d5.",
+        "11... Qc7 12. Ba3": "12. Ba3 - the back row decks between the rooks are cleared.",
+        "12... Nc5 13. e5 dxe5 14. Qxe5": "14. Qxe5 - pawn trade - now the d file is opened.  A queen trade is on the cards.",
+        "14... Rc8 15. Qxc7 Rxc7": "15. ........ Rxc7 - the queen trade duly occurs.",
+        "16. Bc1": "16. Bc1 - Fou Lenoir undevelops but heads for f4.  Before that happens we have a knight trade.",
+        "16... Nfe4 17. Nxe4 Bxe4 18. Bf4": "18. Bf4 - attacks c7 rook.",
+        "18... Rc8 19. Bd6": "19. Bd6 - now a bishop trade is on the cards.",
+        "19... f6 20. Bxc5 Bxc5": "20.  Bxc5 - but a bishop for knight trade occurs instead.",
+        "21. Rde1 Bxf3 22. Bxf3": "22. Bxf3 - another B for N trade occurs.  Suddenly we have opposite colour bishops.  Michael defends the e6 pawn by moving his king.",
+        "22... Kf7 23. Rad1": "23. Rad1 - in the World DB white played Bb7.  I analysed that taking the a6 pawn after a Rb8 move, say, would have allowed Fou Leblanc to be skewered against my a2 pawn allowing a Bone in the Throat.  I decide to force a trade down to an opposite colour bishops ending.  Black must trade or allow me to monopolise the d file.",
+        "23... Rhd8 24. Rxd8 Rxd8 25. Rd1 Rxd1+": "25. ........ Rxd1+ and DRAW OFFER!  Despite the difference in our ratings and despite the fact that I had previously lost 5 out of my 6 games with him he did not wish to play out the ending.  I thought that he would given the fact that his king was more centralised than Henry but he didn't.  Michael is still winning overall - by 5.5 points to 1 in our 7 game encounters.  Still, after the recent horror show against Master Freddy I am only too pleased to have something like this to write home about."
+    },
+    "url": "https://gameknot.com/annotation.pl/only-my-third-expert-draw?gm=24183",
+    "gameName": "Only my third Expert Draw",
+    "players": "jstevens1 (1781) vs. harpo_marx (2052)",
+    "opening": "Reti opening (A04)"
+}

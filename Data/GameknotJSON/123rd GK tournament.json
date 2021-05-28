@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, game part of the 123GK Tournament. I'm playing an experienced player. King opening for utopia",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "Ruy Lopez",
+        "3... a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3": "With this move white is preparing the soldier push for City Centre ",
+        "7... d6 8. d4": "Here contact at City Centre",
+        "8... Ba7": "I decide to retreat and keep the diagonal",
+        "9. a4": "White is pushing forward soldiers on the queen side",
+        "9... O-O": "Better keep Renzo safe",
+        "10. Na3 b4": "Black push b soldier in white territory to force le Chevalier blanc to decide",
+        "11. Nc2 bxc3": "b soldier accomplish his mission by opening white soldier backline ",
+        "12. bxc3 Nxe4": "Le chevalier noir jump in City centre to open field space ",
+        "13. Qe1": "White Lady positioning i e file targeting le Chevalier noir & control further movement at the City Centre upcoming collapse",
+        "13... Nf6 14. dxe5 dxe5 15. Nxe5 Bb7": "Black development complete with 2 priest together targeting the white king",
+        "16. Ba3": "white priest too aligned targeting my Renzo",
+        "16... Nxe5": "Action starts by le Chevalier noir",
+        "17. Bxf8": "White prefer taking rook",
+        "17... Nd3": "Le chevalier noir jumping close to the white Lady and preparing attack on f2",
+        "18. Qe2 Nxf2 19. Bb4": "the priest retreat - white prefer taking the risk than exchange pieces",
+        "19... Nf6g4": "Le deuxieme chevalier noir s'approche du roi blanc",
+        "20. Bxf7+": "and white try to bring out the Renzo from his castle",
+        "20... Kh8": "Renzo prefer staying in his Castle ",
+        "21. Rae1": "White big cannon on e file looking for a mate",
+        "21... Ne4+": "Discover check and mate protection",
+        "22. Kh1 Qh4": "La dame Noire rentre en jeu puissante et le blanc resigne. "
+    },
+    "url": "https://gameknot.com/annotation.pl/123rd-gk-tournament?gm=57094",
+    "gameName": "123rd GK tournament",
+    "players": "utopia15 (1924) vs. celtic-tiger (1819)",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

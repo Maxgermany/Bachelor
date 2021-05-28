@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "It starts with the Italian opening, or guioco piano.",
+        "1... e5 2. Nf3 Nc6 3. Bc4": "There are a few things black can do here. 3... Bc5, which was played, 3...Nf6 which follows by 4 Ng5 which is another aggresive opening worth for a study, 3...Be7 and some players play 3...h6 because they really don't like 4Ng5 but still want to play Nf6. Usually after those moves, I play 4d4 and open up the board.",
+        "3... Bc5": "This is a normal reply.",
+        "4. b4": "This is the start of the Evan's gambit.",
+        "4... Bxb4": "Black accepts the gambit. It is the most common reply. White will make up for the lost pawn for rapid expansion and a strong attack which we'll see later.",
+        "5. c3": "c3 with tempo. There are usually 3 moves that people play here. Ba5, which is the most common, Bc5 and Be7. All have its pro's and con's.",
+        "5... Ba5": "Ba5 is the most common in this position.",
+        "6. d4": "This opens up the board. But if you never played the Evan's gambit and look at the board, you will see that the c-pawn is pinned and that the d-pawn is attacked two times. So black usually grabs it.",
+        "6... exd4": "White is now down 2 pawns. But he will not retake this pawn.",
+        "7. O-O": "Black must feel really comfortable here. 70-0 almost looks like a desperation move. Black feels very well about this position. Black sees that he can take another free pawn.",
+        "7... dxc3": "White takes the third free pawn and white is down 3 points and the queenside is wide open. But this move dxc3 is actually not that good. Nge7 is a lot better. I would advise to play that if you ever play this opening as black.",
+        "8. Qb3": "8Qb3 this looks like another desperate move to retake the pawn. However if you take a longer look there is a valid threat. Qe7 or Qf6 is called for. But black will just try to develop more.",
+        "8... d6": "8...d6 This move is a very bad move. It looks like a normal developing move and it would be a good move in different circumstances.",
+        "9. Bxf7+": "9Bxf7 check",
+        "9... Kf8": "Ke7 was probably better, though it has the threat Bg5+ pinning the queen. But the knight can move in front of it.",
+        "10. Bxg8": "If black want to take back the bishop, he has to do it with the rook. ",
+        "10... Rxg8": "Rxg8",
+        "11. Ng5": "Ng5 a devastating move. Now if black doesn't do anything he will get Qf7 checkmate.",
+        "11... Ne5": "One of the ways to stop the mate.",
+        "12. Nxh7+": "Nxh7+ and black resigned! the black rook is lost, because the king cannot move to f7 to protect it. If he plays Ke7 there is another surprise Bg5+ losing the queen. If you ever come across this opening as black then I would advise to play differently but try to find the better moves for black."
+    },
+    "url": "https://gameknot.com/annotation.pl/another-victim-of-evans-gambit?gm=55062",
+    "gameName": "another victim of evan's gambit",
+    "players": "schakertje (1627) vs. ichfalk (1573)",
+    "opening": "Evans gambit (C52), compromised defence, Paulsen variation"
+}

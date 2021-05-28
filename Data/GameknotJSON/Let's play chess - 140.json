@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. c3": "The Saragossa opening. I don't see any strategy to it.",
+        "1... e5": "I respond by grabbing the center",
+        "2. e4 Nf6 3. Qa4": "White defends with his queen. It's best not to move the queen this early in the game because developing pieces can attack it and force it to move.",
+        "3... Nc6 4. Bc4": "White attacks black's weak f7 pawn.",
+        "4... Nxe4": "White's bishop blocked the queen's rank, allowing this capture.",
+        "5. d3": "White attacks the knight.",
+        "5... Nc5": "Black moves his knight to safety and attacks the white queen, forcing it to move.",
+        "6. Qc2 d6": "Black gains a diagonal for his c8 bishop.",
+        "7. b4": "White attacks black's knight again.",
+        "7... Ne6 8. a4 Be7 9. Nd2": "More advancing.",
+        "9... O-O": "Black castles.",
+        "10. b5": "Another attack! White's pawns are suffocating.",
+        "10... Na5 11. Ba2": "Black chases away the bishop.",
+        "11... Nc5 12. Bb1": "White's move seems pointless.",
+        "12... Bf5": "An attack on the d3 pawn",
+        "13. g4": "What's this?",
+        "13... Nxd3+": "Black plans to grab the g4 pawn later.",
+        "14. Kf1 Nc4": "Black forgot about the g4 pawn",
+        "15. gxf5 Nf4": "Black moves his knight away from the queen.",
+        "16. f6 Bxf6": "Black takes the pawn without noticing that...",
+        "17. Qxh7#": "...this was going to happen. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=61831",
+    "gameName": "Let's play chess",
+    "players": "gojira1968 (1367) vs. wjtaylor (1121)",
+    "opening": "Saragossa opening (A00)"
+}

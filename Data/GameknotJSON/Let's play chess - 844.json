@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 e6 2. c4 Qf6": "Why the queen so fast?",
+        "3. Nf3 Nc6 4. Bg5": "The queen is vulnerable from the beginning.",
+        "4... Qg6 5. e3 h6 6. Bd3 f5 7. Bf4 Bd6 8. Nh4 Qg4 9. Qxg4": "After much queenattacks I decided to just exchange them.",
+        "9... fxg4 10. Bxd6 cxd6 11. Ng6 Rh7 12. Ne5": "That was the rook, or the pawn who was too close.",
+        "12... g6": "Strange defence.",
+        "13. Bxg6+": "I did it too fast, later on i saw 13. Nxc6 b/dxc6 14. Bxg6+ was better.",
+        "13... Kf8 14. Bxh7 Nxe5": "Why not the pawn?",
+        "15. dxe5 dxe5 16. Bxg8 Kxg8 17. O-O b6 18. Rd1 a5 19. Nc3 Ba6 20. b3 Rd8 21. Ne4 Kf8 22. Nf6": "Getting some more pawns.",
+        "22... a4 23. Nxg4 a3 24. Nxe5 d6 25. Nc6 Rd7 26. Nb8": "Double attacked",
+        "26... Ra7 27. Rxd6 Ke7 28. Rxb6 Rb7": "Good try, but not good enough.",
+        "29. Nc6+ Kd7 30. Rxa6 Kc7 31. Rd1 e5 32. Nxe5": "Closing in.",
+        "32... Rb6 33. Rd7+": "Near mate here, Kc8 gives fastest mate, Kb8 looses the rook.",
+        "33... Kc8": "Near mate here. ",
+        "34. Ra8+ Rb8 35. Raa7": "Mate with Rac7 or needed to be blocked by rook loss.",
+        "35... h5 36. Rac7#": "I won my first game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23933",
+    "gameName": "Let's play chess",
+    "players": "nightflame (1200) vs. earthdome (1292)",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

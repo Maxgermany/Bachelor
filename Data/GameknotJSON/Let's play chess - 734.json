@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "This started as a fairly ordinary game. For me it is after a long slide in my rating which has plummeted more than 100 points. \n\n",
+        "1... d5 2. c4 dxc4 3. e4 b5 4. Nc3 a6 5. Nf3 Bg4 6. Be2": "All fairly standard so far though black has made no development on the kings side and I am able to castle next move. This turns into a significant factor fairly quickly",
+        "6... e6": "Allows the dsb a chance to escape however it also blocks some of the retreat lines of the lsb",
+        "7. O-O h6": "preventing Bg5",
+        "8. b3": "Now my king is safely tucked away I look at busting the black queenside pawn structure",
+        "8... cxb3 9. Qxb3": "Although this may seem premature I preferred it to axb3. It raises the future possibility of Bc4 if only I can get rid of the black b pawn and I wanted to keep my options open for my dsb",
+        "9... Nf6 10. a4": "This is a poor move from me, better perhaps would be to develop my dsb or even a3, my intention was to get that black pawn out of my way",
+        "10... b4": "Instead black now has a passed pawn and he can bring up further reinforcements with Nc6 or a5 and there isn't a lot I can do about it",
+        "11. Ne5": "I decided to place the knight here as if it stays there it will be difficult to attack and it is restricting blacks movement. I'm not clear I have any better options at this point",
+        "11... Bxe2 12. Nxe2": "At this point I am starting to form a nice little plan. If I can get my knight to f4 I think I can cause black a lot of problems with a little knight fork on f7",
+        "12... Nxe4": "grabs material but I think black should have been looking to castle",
+        "13. Nf4": "The white squares around the black king are weak and I am hoping to take advantage of this",
+        "13... Bd6": "Black can now castle though its too late",
+        "14. Nxf7": "There is my little fork, black can't take the knight due to Kxf7, Qxe6+, Kf8, Ng6#. Blacks e pawn is now completely isolated and undefended from my queen",
+        "14... Qf6 15. Nxh8": "I really wasn't sure about this move, although it gains material the knight could be considered to be very poorly placed, though it is attacking one of the squares around the black king and I have the option of Ng6 again closing the king down. I was also tempted with Nxd6+, cxd6 (or Nxd6), Qxb4 getting rid of that passer",
+        "15... Bxf4": "I'm not sure this is the best move from black as it takes another defender away from the king which is already pretty exposed. ",
+        "16. Bxf4": "This is my bait to draw the queen away from the defence of the e pawn",
+        "16... Qxf4": "Black takes the bait",
+        "17. Qxe6+": "So I take full advantage. Kf8 gives Ng6# ",
+        "17... Kd8": "Pretty much forced",
+        "18. Nf7+ Qxf7": "Again forced",
+        "19. Qxf7 Nd6 20. Qf8+": "and black resigned.\n\nMany thanks for reading please feel free to comment and suggest better moves"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=27130",
+    "gameName": "Let's play chess",
+    "players": "elwoos (1481) vs. stateline (1457)",
+    "opening": "QGA (D20), 3.e4"
+}

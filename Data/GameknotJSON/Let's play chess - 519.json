@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "This game is neither sharp, nor violent. It's didactic in that the Black conquers advantage step by step: first by damaging the pawn structure of the opponent, than by improving the placement of the pieces, then by winning the endgame - with a little help by the White ;)",
+        "1... d5 2. e3": "This is supposed to be the beginning of a stonewall. Damn...",
+        "2... Bf5 3. Nc3": "The White, however, readily jumps out of the theory.",
+        "3... e6 4. Bd3 Ne7 5. Nf3 Bxd3 6. Qxd3 Nf5": "This leave the White with the possibility of 7. Qb5+ Nd7 8. Qxb7 Be7 9. O-O O-O which is not optimal for the Black. Alternatives were Nd7 and Nc6. The Black wants to send an outpost in c5 and is hurrying to castle.",
+        "7. Ne5 a6": "The Black realizes that he must take care of Qb5+.",
+        "8. a3": "This is too passive. 0-0 was more to the point.",
+        "8... c5 9. dxc5 Bxc5 10. b4": "The best push was 10. e4! and then maybe 10. ... Qc7 to avoid immediate destruction of the center. This was the right time to punish the Black for his delay in castling.",
+        "10... Bd6 11. Nf3 O-O 12. e4": "Now it's a bit late. 0-0 or Bb2 were more consistent. Best 12. Nxd5! although the king still in the center is somewhat a drawback.",
+        "12... dxe4 13. Nxe4 Be7 14. Bg5 Qxd3": "No side has played brilliantly so far. This is for the Black the chance to turn the game to his advantage: from now on there will be a target.",
+        "15. cxd3 Bxg5 16. Nexg5 Nc6 17. O-O": "With the queens out, this castle is probably not timely any longer.",
+        "17... Rfd8 18. Rfd1 Rd5 19. Rd2 Rad8 20. Rad1": "This situation is typical of isolated pawns on semi-open files. The black rooks attack and can use the larger available space to maneuver horizontally.",
+        "20... Na7": "The beautiful thing about positional games is that you can take your time and search the best placement for your pieces without fear of being checkmated in the attempt.",
+        "21. g4": "This is an unfortunate move. The Black will now achieve his goal quicker.",
+        "21... Nd4 22. Nxd4 Rxg5 23. Nc2 Rxg4+ 24. Kh1 Nb5 25. Rg1 Rxg1+ 26. Kxg1 Kf8 27. Kg2 Ke7 28. f4 Nd4 29. Nxd4 Rxd4 30. Kf3 Kd7": "The black king points to the queenside because his pawn structure is nuclear-proof on the king side. The pawns can defend themselves.",
+        "31. Ke3 Rd6 32. Rg2 g6 33. Ke4 Kc7 34. Rg5": "If 34. Rc2+ Rc6 the White must swap rooks or surrender the square c3 to the the black rook.",
+        "34... Kb6 35. d4 f5+": "Now the black king can continue his walk.",
+        "36. Ke3 Kb5 37. h4 Ka4 38. h5 Kxa3": "Mission accomplished!",
+        "39. hxg6 hxg6 40. Rxg6 Kxb4 41. Rg7 b5 42. Ra7": "42. Rg1 Kb3 43. Rc1 b4 44. Rc5 Ka2 45. Ra5+ Kb1 offered more resistance.",
+        "42... Kb3 43. Rc7 b4 44. Rc5 Kb2 45. Kd3 b3 46. Rc4 Ka3 47. Kc3 a5 48. Rc5": "The White threatens checkmate!!",
+        "48... a4 49. Rb5 Rc6+ 50. Rc5 Rxc5+ 51. dxc5 b2": "First come, first served. The White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=37839",
+    "gameName": "Let's play chess",
+    "players": "antoniusii (1200) vs. ciocionheart (1900)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "My favourite opening\n",
+        "1... e5": "I get relieved when my opponent dosent reply me with the sicilian defence\n",
+        "2. Nf3 d6": "Hmmm it looks like I would be facing the philidor defence today\n",
+        "3. Bc4": "I just prefer this move to the immediate d4.. I hope to mount a quick attack on f7\n",
+        "3... h6 4. Nc3": "While my opponent makes passive defensive moves, I continue to develop... I'm also hoping for a legal-like mate if my opponent plays Bg4 next and goes greedy capturing my queen after I play Nxe5",
+        "4... Nc6 5. d4": "Ok no more messing around, let's open this game up\n",
+        "5... exd4 6. Nxd4 Nxd4 7. Qxd4": "After some exchanges, my queen becomes centralized.. I'm loving my position now\n",
+        "7... Bd7 8. O-O": "I must say, the Bd7 dosent do my opponent any good. He should have played Be7 in preparation for castling....\n",
+        "8... Nf6 9. e5": "A good move which threatens to open up the e-file completely\n",
+        "9... dxe5 10. Qxe5+": "Check! Personally I don't think black should have played dxe5... ",
+        "10... Be7": ".... An error I think. This moves ensures I clamp down his position even more",
+        "11. Re1": "!! Excellent... Now the bind becomes stronger as now my opponent can't castle and his queen is tied to the defence of the bishop on e7 ",
+        "11... a6 12. Bf4": "Probably not the best continuation from me but for the mean time, I threaten to win a pawn\n",
+        "12... c6 13. Rad1": "... And with this move, I pin a 3rd piece (both bishops and the f6 knight)... The f6 knight isn't pinned but it is tied to the defence of g7\n",
+        "13... b5": "My opponent should be thinking about how to break one of the pins in his territory instead of kicking my bishop... He should try something like 13. Kf8 releasing both knight and bishop at once\n",
+        "14. Bb3 Ra7": "I expected a5 from my opponent but instead he played this.. I must say that we had just 60seconds to make a move each and he had about 7seconds left before he played this.. The cool thing is this move helped me form a tactic.....\n",
+        "15. Be3 Rb7": "My opponent wanted to avoid the loss of the rook but in the process, he allowed me to play.........",
+        "16. Bc5": "!!!! This ensures my opponent losses a piece by force... Notice how my rook on d1 ensures the Bd7 dosent move in order for the rook to defend Be7",
+        "16... O-O": "???? And another error from my opponent... This wasn't the best way to accept the loss of a piece",
+        "17. Bxe7": "... Because now, he is forced to also lose the exchange.. At this point, he resigned. Many thanks for reading..."
+    },
+    "url": "https://gameknot.com/annotation.pl/monster-pins?gm=61181",
+    "gameName": "monster pins",
+    "players": "blackrook11  vs. unknown ",
+    "opening": "Philidor (C41), Steinitz variation"
+}

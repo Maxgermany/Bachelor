@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4": "My Endgame pledges me once again after this game.  Something I need to work on.  Though this lead to a very complex endgame that only favored white slightly.  Feels nice competing on a equal level up till move 29. still wish this could have been a win.  Great game well played dilly. Those interested in the analysis of the game here it is http://gameknot.com/analyze-board.pl?bd=15301496&rnd=0.0028041210025548935\n",
+        "1... Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3": "This move isn't that hot though nothing wrong with it as it leads to a Nimzo Indian.  I would have preferred book with Bd2 I think.",
+        "4... c5 5. a3 Bxc3+ 6. bxc3 O-O 7. Bg5 h6 8. Bxf6 Qxf6 9. e4 d6 10. Be2 b6 11. e5": "Bb7 would put uncomfortable pressure on my game.",
+        "11... dxe5 12. Nxe5 Bb7 13. Bf3": "Offering up a forced set of trades.",
+        "13... Bxf3 14. Qxf3 Qxf3 15. Nxf3 Nd7": "Black sees the knight coming to c5. d5 may have been an option here for white.",
+        "16. O-O-O cxd4 17. Rxd4": "Note cxd4? Rc8! and white is in trouble.",
+        "17... Nc5": "Knight takes up its fine square but I get the open d-file.",
+        "18. Kc2 f6 19. Rhd1 Kf7 20. Ne1": "Planing to trade Knight for knight.",
+        "20... Ke7": "Planing to trade rooks.",
+        "21. Nd3 Nxd3 22. Rd1xd3 Rfd8": "To trade now would most likely be a mistake for white I wanted to try to get closer to the Queen side pawns.",
+        "23. Kb3 a6 24. a4 Rab8 25. Kb4 e5 26. Rd4xd8": "Forcing the trade computer analysis gives white a slight edge I knew intuitively that this was good for white during the game.",
+        "26... Rxd8 27. Rxd8 Kxd8 28. c5": "Critical in whites endgame. ",
+        "28... Kc7 29. cxb6+": "here I make my critical mistake the move was Kc4 getting ahead of the c4 pawn.  Though white is still not quite losing. It gives black a slight edge.",
+        "29... Kxb6 30. a5+ Kc6 31. c4 f5 32. Kc3": "? the idea being that black must abandon his kings position to queen.  Though White may already be lost with cxb6+??",
+        "32... Kc5 33. g3": "The final blunder as black gains the sharp upper hand seeing as e4 puts white out of commission now",
+        "33... e4 34. h3 g5 35. h4 gxh4 36. gxh4 h5": "White is pretty helpless as I'm reverting to testing blacks endgame skills.",
+        "37. Kd2 f4 38. Kc3": "Give black what I thought was no good moves.",
+        "38... f3 39. Kd2 Kxc4 40. Ke3": "Fairly forced can you find blacks winning move? ",
+        "40... Kd5": "And now white loses by force.  Kd2 Kd4 and e3 is coming. The f or h pawn will queen and its all over."
+    },
+    "url": "https://gameknot.com/annotation.pl/endgame-disaster?gm=36560",
+    "gameName": "Endgame disaster.",
+    "players": "yoshark (1490) vs. dilly (1950)",
+    "opening": "Bogo-Indian defence (E11)"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "After many years playing the Philidor's Defense, I decided on the Petroff.",
+        "3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. Nc3 d5": "I saw this pawn push in an opening book and thought it was quite interesting",
+        "7. Bg5 Bb4": "Black acts quickly to keep the tension on the board and not falling to passivity",
+        "8. a3 Bxc3+ 9. bxc3": "I sacrificed my Bishop pair hoping to get some attack going at the queenside later in the game",
+        "9... O-O 10. Be2 h6 11. Be3": "If 11.Bxf6 Qxf6, White loses the initiative by having to defend the c3 pawn",
+        "11... b6 12. O-O c5": "Up to this point, most of the moves had been the computer's first choice and the game is close to equal.",
+        "13. Rb1": "13. Rb1? \nAfter moves like Nc6 and Re8, Black would slowly gain some space.",
+        "13... Bb7": "13...Bb7??\nCareless mistake. I missed that the b6 pawn was pinned and proceeded to lose a pawn with no compensation whatsoever.",
+        "14. Bxc5 bxc5 15. Rxb7 Qa5": "15. ...Qa5?!\nI had second thoughts about this move. Maybe Nc6 should've been first followed by Qa5 but things are not so clear.",
+        "16. Qa1 Re8 17. Re1 Nbd7 18. Rbb1": "Now this is close to equality despite a pawn down. White might have maintained some pressure with 18 c4.",
+        "18... Re7 19. Bf1 Rae8": "Maybe the whole sequence with the idea of doubling the rooks down the e-file is wrong, as after a series of exchanges White could penetrate the 7th rank with his rook.",
+        "20. Rxe7 Rxe7 21. g3": "21. Rb7 was also good",
+        "21... Qa4 22. Qb2": "22. Re1 Rxe1 and 23. Nxe1 would've been very solid",
+        "22... Re8 23. Rc1 Rb8 24. Qa2": "Black gets come counterplay and pushes White's heavy pieces in the corner.",
+        "24... Rb6 25. Bg2": "25. Bg2?\nA little too passive, Bh3 or c4 would cause complications",
+        "25... Qa5 26. Nh4": "I looked at 26...Qxc3 and thought that after 27.Bxd5 Ne5 things were unclear",
+        "26... Ne5": "The prophylactic 26...Ne5 threw away the initiative",
+        "27. Bxd5": "27. Nf5 with the idea of Ne7+ should win the d-pawn with a tempo. (Nxh6? is met with Kh7)",
+        "27... Qxc3 28. Bb3": "28. Bb3??\nThe computer finds a nice winning combination with 28...c4! 29. Bxc4 Ng4!\nWith all sorts of ideas, but the evaluation is not so clear",
+        "28... Nfg4 29. Qa1 Qd2 30. Rf1 Nxd3 31. Qd1 Qxd1 32. Rxd1 Ndxf2": "This endgame liquidation is slightly better for White but very close to equality",
+        "33. Rd8+ Kh7 34. Bxf7 g5 35. Nf5 Rf6 36. Nd6 Ne3": "36. ...Ne5 may have gave Black an advantage",
+        "37. Bg8+ Kg6 38. Bf7+ Kh7 39. Bg8+ Kg6 40. Bf7+ Kh7": "Draw"
+    },
+    "url": "https://gameknot.com/annotation.pl/126th-gk-tournament?gm=57800",
+    "gameName": "126th GK tournament",
+    "players": "tennisplyr (1833) vs. tamz29 (1634)",
+    "opening": "Petrov (C42), French attack"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "This game was no easy win for me!  The middlegame got very complicated and I very nearly got Glenda trapped.  Luckily I managed to force a queen trade later on which gradually turned the tide in my favour.  Finally we ended up in a K & P ending where even though I was a pawn up I had to avoid one last trick from Bob - I pull out a hidden talent from my sleeve, the joblock!  This finally forced Bob's resignation on the grounds of ruinous loss of material.",
+        "1... d5 2. c4 c6": "2. ....... c6 - the QGD - Slav Defense - I decide to back up my c pawn rather than exchange on c4.",
+        "3. Nf3 Nf6 4. Bf4 Bf5 5. e3 e6": "5. .......... e6 - looking a little symmetrical.",
+        "6. Nbd2 Be7 7. h3 h6 8. Qb3 Qc8": "8. ......... Qc8 - Glenda's menial task for the day - guard b7 pawn!",
+        "9. Be2 O-O 10. O-O Nbd7 11. Rac1": "11. Rac1 - putting rook on the same file as Glenda - good idea!",
+        "11... Re8 12. Rfe1 Ne4 13. Nxe4 Bxe4 14. Nd2 Bg6": "14. .......... Bg6 - I decide to preserve Fou Leblanc - turns out I made the right choice later on.",
+        "15. cxd5 exd5 16. Bf3 Nf6": "16. ......... Nf6 - trying to decongest my position.  Steed eyes up a possible landing on e4.",
+        "17. Be5 Qd7 18. a3 h5 19. Qd1 Qf5": "19. ........... Qf5 - and Glenda still cannot get away from defending pawns!  This time she is called for the defense of the h5 square.",
+        "20. Nf1 Ne4": "20. ......... Ne4 - mission accomplished, although that steed will exchange itself for the enemy counterpart next turn.",
+        "21. Ng3 Nxg3 22. Bxg3 h4 23. Bg4 Qd3": "23. ......... Qd3 - now Glenda will be lost, but thankfully in exchange for the Wicked Witch of the West!",
+        "24. Bf4 Qxd1 25. Rcxd1 f5 26. Be2": "26. Be2 - driven back.",
+        "26... Bh7 27. b4 g5 28. Be5 Kf7 29. f4 Reg8 30. Kf2 g4": "30. .......... g4 - now I try and put the squeeze on.  Are the Expert lessons starting to take some effect?",
+        "31. hxg4 fxg4 32. Reh1 g3+": "32. ........ g3  - Onward Christian Soldiers!",
+        "33. Kg1 Bf5 34. Bh5+ Bg6 35. Bxg6+ Rxg6 36. Rf1 Rh6 37. Rh3 Rg8": "37. ......... Rg8 - bringing the a8 rook finally into play on Move THIRTY-SEVEN!",
+        "38. Rf3 Rg4 39. f5 Bg5": "39. ........ Bg5 - the kingside in white's arc is becoming a Crowded House!",
+        "40. Bf4 Bxf4 41. exf4 Rf6 42. Kf1 Rxf5 43. Ke2 Rgxf4": "43. ......... Rgxf4 - white drops a second pawn but ......",
+        "44. Rxh4 Rf4xf3 45. gxf3 Kg6": "45. ......... Kg6 - I must get Henry in on the action, here he covers quite a few defensive squares to avoid an enemy rook invasion.  Bob now chooses a move which allows more simplification in my favour.",
+        "46. Rg4+ Rg5 47. Rxg5+ Kxg5": "47. ........ Kxg5 - and now if you are a pawn up in a K & P ending you are virtually on a home run, but there are still a few things to watch out for before the game is sewn up!",
+        "48. Kf1 Kf4 49. Kg2": "49. Kg2 - best move, now comes some pawn play leading to putting Bob in a zugzwang.",
+        "49... b6 50. a4 a6 51. a5 b5": "51.  ........... b5 - and here is that little pawn push, the joblock which does the trick here because Bob realises he is in a zugzwang and waves the white flag!  Job done folks!"
+    },
+    "url": "https://gameknot.com/annotation.pl/joblock?gm=21468",
+    "gameName": "Joblock!",
+    "players": "rjacobs (1565) vs. jstevens1 (1758)",
+    "opening": "QGD Slav (D11), Breyer variation"
+}

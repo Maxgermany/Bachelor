@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "The Philidor Defense",
+        "3. d4": "The most common response",
+        "3... Nf6": "Black can play 3 .... exd4, but, why black has to give the center so fast?",
+        "4. Bg5": "I think this is a strange move, I have never seen it before.  I have seen 4 Nc3. If 4 dxe5, black plays Nxe4 with and aprox equal position",
+        "4... Nbd7": "Defending the e5-pawn",
+        "5. dxe5": "Reducing the tension in the centre, but now we will see that the g5-bishop is not very well placed",
+        "5... dxe5 6. Bc4 Bc5": "Now, I do not like this move, I could have played Be7, letting the c5-square for the knight in the future (after c6, Qc7) ",
+        "7. Nbd2": "Developping the N to d2, with the idea of covering the d4-square with c3 in the future",
+        "7... c6 8. Bh4 b5": "Gaining space in the Q-side. I had to try something in the K-side, but with my B on c5 that is dificult (because I have to do Nc5-e6)",
+        "9. Bd3 O-O 10. O-O Bb7 11. c3 Qc7 12. b4": "During the game, I saw this as a strange plan, but now, I know it gives white an equal position",
+        "12... Be7 13. Qc2": "Qb3!? trying to defend the b4-pawn, for ezample 13 Qb3 a5 14 a3 and white is ready to play c4",
+        "13... a5 14. a3 Rfd8 15. Rab1 axb4": "White was threatening c4",
+        "16. axb4 Nf8 17. Bg3": "c4!?",
+        "17... Ng6 18. c4 Qd7 19. Be2 Nh5 20. Rfd1": "20 Nxe5?! Nxg3! 21 Nxd7 Nxe2+ 22 Kh1 Rxd7 and Black is slightly better with three pieces against a queen\n20 Bxe5 Nxe5 21 Nxe5 Qxd2 22 Qxd2 Rxd2 23 Bxh5 g6 24 Bf3 Bf6 and bxc4 with some winning probabilities",
+        "20... Nxg3 21. hxg3 Qe8 22. c5": "Now, in this position, no one has real winning posibilities. We followed playing only by inertia",
+        "22... Bc8 23. Nb3 Be6 24. Na5 Rxd1+ 25. Rxd1 f6 26. Nh4 Nxh4 27. gxh4 Ra7 28. Qc3 Rd7 29. Kh2 Qc8 30. Bd3 Rd4 31. Bc2 Qd7 32. Rxd4 exd4 33. Qd3 Qc7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/tutoring-game?gm=40163",
+    "gameName": "Tutoring Game",
+    "players": "maxushelios (1658) vs. gsvc (1961)",
+    "opening": "Philidor (C41), Nimzovich (Jaenisch) variation"
+}

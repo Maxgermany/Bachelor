@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "OK, so here I go with some annotation for the first time! ok, so its 1. e4 - book if i'm not mistaken :-P",
+        "1... d5": "ooo - don't see this very often!",
+        "2. exd5": "oh go on then I'll take it then - must still be book! Oh yes it is -its the Scandinavian defence, Lasker variation!",
+        "2... c6 3. dxc6 Nxc6": ".. so a pawn up and no real disadvantage in terms of position.",
+        "4. Nf3 e5 5. Bb5": "according to the database, this opening has been seen before a few times, so I'll plod on until something interesting happens.",
+        "5... Bd7 6. O-O Bd6": "not sure about this, because after d4 and exchange of a few pieces I can get to him with my Q.",
+        "7. Re1 Nge7 8. d4 f6 9. Bxc6 Nxc6 10. dxe5 fxe5": "not really sure what's best here, but the B is now hanging there!",
+        "11. Qxd6": "rude not to!",
+        "11... Qa5": "mmm, fairly obvioulsy the pawn on e5 looks weak and vulnerable to me forking his Q with Rxe5+ after an exchange of Ns",
+        "12. Bd2 Qb5 13. Nxe5": "setting up the fork - will he fall for it? surely not!",
+        "13... Nxe5": "oh, but he does!",
+        "14. Rxe5+": ".... and he resigns as 14 ... Qxe5 15 Qxe5+ leaves me with a huge lead in material.",
+        "14... Qxe5 15. Qxe5+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=45203",
+    "gameName": "Let's play chess",
+    "players": "rolymo (1537) vs. soleil24 (1536)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

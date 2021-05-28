@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4": "Queen's pawn. One of my favorite openings. It usually leads to expansive and open games (which I tend to loose, but still enjoy)",
+        "1... d5": "Nothing strange, he replies in kind.",
+        "2. c4": "Queen's gambit. I love this opening, for if he accepts the gambit by playing dxe4, I'll reply with e5, immediately opting for control of the center squares and attacking his c-file isolated pawn.",
+        "2... Be6": "Then he plays a strange move. Mistake by my calculation. This move is also not in the GK database. This move protects the d-pawn but it impairs development. The e-file pawn cannot advance and the dark square bishop (DSB) is blocked in.\n\ne6 would be better do decline the gambit.",
+        "3. Nc3": "Developing the queen's side pieces, re-enforcing my control of the center while attacking d5.",
+        "3... c6": "Protecting the d-pawn.\n\nAnother mistake, as this reduces developing options for the knight on b8.",
+        "4. Nf3": "Developing."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-fedge?gm=41651",
+    "gameName": "Challenge from fedge",
+    "players": "rooiphil (1317) vs. fedge (1268)",
+    "opening": "Queen's Gambit (D06)"
+}

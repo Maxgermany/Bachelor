@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 d6 2. d3 Nf6 3. Nf3 c5 4. b3 g6 5. h3 Bg7 6. Bb2": "Allows black to exploit the bishop's weakness in the future.",
+        "6... O-O 7. Be2": "Preparing to castle.",
+        "7... Be6 8. O-O Qd7 9. c4": "Taking control of d5.",
+        "9... Bxh3": "Sacrificing a bishop to get an attack on white's king and make up for the material deficit.",
+        "10. Nh4 Be6": "Retreating the bishop to safety.",
+        "11. Nd2 Nxe4": "A mistake because with best play white can equalize in material by Bxg7 followed by 12. ... Nxf2 13. Rxf2 Kxg7. 12. Bxg7 Nxd2 13. Bxf8 Nxf1 14. Bh6. Now black's knight is trapped and white has turned the game around.",
+        "12. Bxg7 Nxd2 13. Qxd2": "A mistake.",
+        "13... Kxg7 14. Bf3 Nc6 15. Qc3+ Nd4 16. Bd1 Kg8": "Unpinning the knight and threatening Nd2+ if white is not careful.",
+        "17. g3 Bg4 18. Re1": "Preventing Nd2+ after the exchange of bishops.",
+        "18... Bxd1 19. Raxd1 Qh3 20. Ng2": "Not good as it allows this combo.",
+        "20... Nf3+ 21. Kf1 Nxe1 22. Qxe1 Qh1+ 23. Ke2 Qxg2 24. Kd2 Rae8 25. Kc3 Qf3": "Trying to get the queen back into play.",
+        "26. Qg1 Qf6+ 27. Kc2 e5": "Taking control of the center and preparing to swing the queen over to the queenside to penetrate on the black squares.",
+        "28. Re1 Qf5": "? Much better is bringing the queen to the queenside by Qd8-Qa5",
+        "29. g4 Qf3": "Still not very good.",
+        "30. Re3 Qf4 31. Re4 Qf6 32. Qg2 Qd8 33. Re3 Qa5 34. Kb2 Qd2+": "Finally penetrating.",
+        "35. Ka3 Qc1+ 36. Ka4 b6": "Saving the b pawn.",
+        "37. Qb7 Qb2 38. Kb5 Qxa2 39. Kc6 Qxf2": "Threatening to win the queen on the next move and threatening the rook.",
+        "40. Rh3 Qg2+ 41. Kc7 Re7+": "Winning the queen. Now white resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=46939",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "angantyr  vs. benl123 ",
+    "opening": "Pirc defence (B07)"
+}

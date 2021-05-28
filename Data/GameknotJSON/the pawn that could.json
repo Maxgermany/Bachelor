@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 e6 2. c4 d6 3. Nc3": "Relatively normal so far. ",
+        "3... a6 4. e4 h6 5. f4 g6 6. Nf3": "Pushing 4 pawns is always aggressive. It is laying a claim on the center. It does not guarantee an advantage, it merely attacks the center. One point of blitz is to pressure your opponent so he must take time to defend and then run into time trouble.",
+        "6... Bg7 7. Be3": "One can already feel the buildup of the center. At this point I'd say neither side has a true advantage except in the preference of your playing style. Black needs to be careful to not be pushed off the board as well as to consolidate his development. White needs to not over-extend. White needs to pressure with his lead in development otherwise black will become solid in defense",
+        "7... b6 8. g3 Bb7 9. Bg2 Ne7 10. O-O Nd7 11. Rc1 f5": "Everything up to this point is played extremely rapidly. We were both in our opening books and even though this is not very common opening, the danger is relatively low. I could be wrong though since I never play against this defense!",
+        "12. e5 d5 13. cxd5 Bxd5 14. Nxd5 Nxd5": "This opens the game up but exposes black to attack. In my opinion it would have been better to castle first.",
+        "15. Nh4": "?? A blunder on my part. 15. ... Nxe3 16. Qe2 Nxg2 17. Nxg6 Rg8 18. Qxg2 leaves black up a piece for a pawn. Had he played that I would be in serious trouble and smacking myself for making such an obvious blunder!",
+        "15... Kf7": "Maybe my paper tiger paid off? It didn't even look that scary. One thing about annotating your games is realizing that you do make mistakes and you have no way of justifying them.",
+        "16. Qb3": "I was very much hoping he'd take my bad bishop...",
+        "16... Nxe3": "Most excellent.",
+        "17. Qxe3 Rb8": "Necessary because of Bxa8",
+        "18. d5 Nc5 19. b4": "And the attack begins",
+        "19... Nd7 20. dxe6+ Kxe6 21. Bd5+ Ke7": "21. ... Kxd5 22. Qb3+ Kd4 23. Rfd1+ Ke4 24. Qd3# or 22. ... Ke4 23. Rfe1+ Ke4 24. Qd1#. Two rather pretty mates if you ask me.",
+        "22. Nxg6+ Ke8 23. Qb3": "Take the material?? What kind of scrub do you think I am? It's really tempting in blitz to seize material and lose the initiative. This move threatens checkmate and the rook is still not going anywhere. 23. ... Rh7 24. Bf7#. At this point there isn't much to be done for black.",
+        "23... Rf8 24. e6": "I think Bf6 would be slightly better at this point. Black is lost anyway though.",
+        "24... Nf6 25. Bc6+ Nd7": "It's either that or Qd7.",
+        "26. e7": "Black's rook and queen are forked. His knight is pinned to his king and his king is in the center of the board awaiting my rooks.",
+        "26... Qxe7": "I toyed with continuing the attack through Rfe1 but decided against it as it just did not look as good as taking with my knight.",
+        "27. Nxe7 Kxe7 28. Rcd1 Nf6 29. Rfe1+ Ne4": "Forced. ",
+        "30. Bxe4 fxe4 31. Rxe4+ Kf6 32. Qe6#": "The attack started with just a knight fork (after my blunder that is) between the king and rook. It basically ended in mate. Not all the moves were forced of course, I mean this is blitz and I'm no chess celebrity, but if I took the rook for the knight my attack would have lost momentum and it may have been a battle to finish the game. This ended the game without any risk of counter-attack. If your opponent has to trade the position to keep himself alive, question yourself before taking any available pieces, there may be something stronger lurking..."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-pawn-that-could?gm=33208",
+    "gameName": "the pawn that could",
+    "players": "coolistdude  vs. gold2436 ",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

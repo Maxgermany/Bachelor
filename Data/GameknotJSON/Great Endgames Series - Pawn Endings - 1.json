@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6 8. dxc3 Be7 9. O-O O-O 10. Be3 c6 11. Bd3 d5 12. Qd2 Bf5 13. Rfe1 Bxd3 14. Qxd3 Rfe8 15. Re2 Qg6 16. Qxg6 hxg6 17. Rae1 Bf8 18. Bf4 Rxe2 19. Rxe2 f6 20. Kf1 Kf7 21. h3 g5 22. Bg3 b5 23. Ke1 Rd8 24. f3 Rd7 25. Kd2 a5 26. a3 a4 27. Kd3 Bc5 28. Re1 Rd8 29. Bc7 Rc8 30. Bg3 Rd8 31. Bc7 Rc8 32. Bg3 Rh8 33. Re2 Ra8 34. Bc7 Ra7 35. Bg3 Rd7 36. Re1 Ba7 37. Re2 Bb6 38. Bf2 c5 39. Kd2 Rd6 40. Bg3 Rc6 41. Bf2 Bc7 42. Kd1 Be5 43. Kc1 Kg6 44. Kb1 Kf5 45. Rd2 Ke6 46. Re2 Kd6 47. Rd2 Rc8 48. Rd1 Kc6 49. Rd2 Re8 50. Re2 Re6 51. h4 Kd6 52. hxg5 fxg5 53. Re1 c4 54. Ba7 Re8 55. Be3 g4 56. fxg4 Re6 57. g5 Bg3 58. Bc5+ Kd7 59. Rxe6 Kxe6 60. Bd4 g6 61. Be3 Kf5 62. Kc1 Bf4 63. Kd2 Kxg5 64. Ke2 Kg4 65. Bxf4 Kxf4 66. Kf2": "An example of the sort of tactical opportunity for a pawn breakthrough, provided by this type of pawn structure, would be the line 66 ... d4 67 cxd4 b4 (with the threat of 68 ... c3, promoting a pawn) and if 68 axb4 then 68 ... c3! knocks out the last barrier in the way of Black's a-pawn. At present, however, this line fails to the move 68 c3!, but it is worth seeing as an illustration of the\npotential dangers facing White in such positions.",
+        "66... Ke4 67. Ke2": "If 68 g3, then Black wins in the same way as in the game, by 68 ... d4 69 cxd4 Kxd4 70 Kd2 Ke4 71 Ke2, and now again the breakthrough idea applies: 71...b4! 72 c3 (the only defence against 72 ... c3) 72 ... b3! and Black wins by virtue of having the opposition.\nThe key effect of Black's last two moves in this variation has been to force White to weaken the d3-square, so now Black's king can enter after 73 Kf2 Kd3, etc.",
+        "67... g5 68. Kf2 d4 69. cxd4 Kxd4 70. Ke2 b4 71. Kd2": "If 71 axb4 there follows 71...c3 72 bxc3+ Kc4!! (this is the refinement -the black king stops White's passed bpawn) 73 Kd2 a3 74 Kcl Kxc3! (threatening 7S. ..a 2, and thus forcing White's reply} 75 Kbl Kxb4 76 Ka2 Kc3 77 Kxa3 Kxc2 and wins.",
+        "71... b3": "As in the note to White's 68th, the key effect of Black's play is to force a fatal weakening of d3.",
+        "72. c3+ Ke4 73. Ke2": "Now White's king has the opposition, but he can be outflanked on the king side.",
+        "73... Kf4": "73 ... g4?? would be a dreadful mistake, because after 74 g3 the kingside is closed and Black has no space for his outflanking manoeuvre. The position would be drawn.",
+        "74. Kf2 Kg4": "This is the point. Now the pawn on g2 prevents the white king maintaining the opposition.",
+        "75. Kf1": "After the alternative 75 g3, Black wins as follows: 75 ... Kh3 76 Kf3 Kh2 77 Kg4 (77 Kf2 g4 wins) 77. ..Kg2 78 Kxg5 Kxg3 79 Kf5 Kf3 80 Ke5 Ke3 81 Kd5 Kd3 82 Kc5 Kc2, etc.",
+        "75... Kg3 76. Kg1 g4": "The vital reserve tempo allows a further outflanking of the white king.",
+        "77. Kf1 Kh2 78. Kf2 Kh1": "Care is always required in the endgame!\nAfter 78 ... g3 +?? 79 'iitf3, Black would only have a draw, e.g. 79 ... Kg1 80 Kxg3 Kf1 81 Kf3 Ke1 82 g4 Kd2 83 g 5 Kc2 84 g6 Kxb2 85 g7 Kxa3 86 g8Q b2 87 Qb8 b1Q (simplest) 88 Qxb1\nstalemate.",
+        "79. Kg3 Kg1 80. Kxg4 Kxg2": "The b2-pawn falls and Black will queen his own b-pawn, after 81 K4 Kf2 82 Ke4 Ke2 83 Kd4 Kd2 84 Kxc4 Kc2 etc."
+    },
+    "url": "https://gameknot.com/annotation.pl/great-endgames-series-pawn-endings?gm=51996",
+    "gameName": "Great Endgames Series - Pawn Endings",
+    "players": "Alfred Brinckmann  vs. Akiba Rubinstein (2450)",
+    "opening": "Four knights (C48), Rubinstein counter-gambit, exchange variation"
+}

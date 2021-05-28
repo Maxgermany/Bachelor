@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "Being A Bully\n\nI like this one, even though its against a lower rated opponent, especially since he got his revenge in the return!",
+        "1... e6 2. d4 d5 3. exd5 exd5 4. Qe2+ Ne7 5. Nc3 a6 6. Bf4": "A bit of an unusual opening, but now getting into my stride.",
+        "6... h6 7. Nf3 f6 8. O-O-O b6": "Little or no development from black, he needed to do more with the centre.",
+        "9. Qd3 Bb7 10. g3 g5 11. Be3 g4 12. Nh4 Rg8 13. Bg2": "I'm already aware of the weakness at g6, just trying to work things around so I can do summat with it.",
+        "13... Nd7": "Now comes black's development but this move does him no favours, blocking off the escape route for the king.",
+        "14. Rde1 Bc6": "Again a fairly negative move.",
+        "15. a4 Bb7 16. Bf4 Rg7": "And thats the move which starts the casacde!",
+        "17. Bxh6 Rf7 18. Bxf8 Rxf8 19. Bxd5 c6 20. Qg6+": "And yes I know its a bit brutal, but he gets his revenge trust me!"
+    },
+    "url": "https://gameknot.com/annotation.pl/norriss-mini-tournament-xi?gm=51123",
+    "gameName": "norris's mini-tournament XI",
+    "players": "grey_panda (1382) vs. glensbunning (1122)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

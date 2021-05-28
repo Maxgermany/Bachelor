@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "My favorite opening with White.",
+        "1... e5": "Starting with King's Pawn Game.",
+        "2. Nf3": "Playing the most popular move by White in this position.",
+        "2... f6": "Bad move for Black. Since the e-pawn can be taken by the Knight. And if Black takes back the Knight, there will be a great counterplay by White.\nThese four moves are known as the Damiano Defence.",
+        "3. Nxe5": "So white takes the e-pawn.",
+        "3... Nh6": "Black knows about the danger and doens't take back the Knight.",
+        "4. d4": "d4 is played to keep the line for both Bisshops open, just in case Black still wants to take the Knight.",
+        "4... d6": "But still, Black chooses not to take the Knight.",
+        "5. Bxh6": "A Knight for a Knight trade, because if Black takes the Bisshop, it leads to a Mate in two.",
+        "5... gxh6": "Black still believed that the Knight was not a good idea to take, so he took the Bisshop. And we now know what will happen.",
+        "6. Qh5+": "Step 1.",
+        "6... Ke7": "No other options.",
+        "7. Qf7#": "And step 2. Checkmate."
+    },
+    "url": "https://gameknot.com/annotation.pl/fatal-damiano-defence?gm=27134",
+    "gameName": "Fatal Damiano Defence",
+    "players": "koekje666 (1591) vs. hszer0 (1216)",
+    "opening": "Damiano's defence (C40)"
+}

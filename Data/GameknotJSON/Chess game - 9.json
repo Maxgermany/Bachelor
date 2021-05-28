@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nc3": "This is so called Veresov opening which I play frequently and a good one for lazy people who don\u00b4t like to study openings. The idea is to play e4 as soon as possible.",
+        "2... c5": "Usual play in the Veresov is 2...d5 3.Bg5 and then many options for black but quite often it transposes to French Defense by 3...e6 4.e4 which I like to play. Before the game I had a feeling that my opponent might answer with this move since he liked to play Benoni and the Benk\u00f6 gambit and found an interesting continuation I had prepared for him.",
+        "3. dxc5 e6 4. e4 Bxc5": "So far everything going according to plan.",
+        "5. e5 Qb6": "And still everything going to plan and my opponent did hardly think for a second before playing this.",
+        "6. exf6": "Look dubious since after Bxf2 my king will become exposed and it also lock my pieces inside but I have a surprise for him.",
+        "6... Bxf2+ 7. Ke2 Bxg1": "Looks like he have gotten the piece back with much better position but my next move was probably a surprise for him.",
+        "8. Rxg1": "Exchange sacrifice but the black queen will be out of play for the rest of the game and I will get an unstoppable mating attack.",
+        "8... Qxg1 9. Qd6": "Threatens mate on e7 and also defends the h2 pawn and therefore preventing the black queen from escaping through there.",
+        "9... gxf6": "So black is up an exchange and two pawns but all his pieces are inactive, his queen will soon be imprisoned inside the white camp and his king is vulnerable. White on the other hand have an excellent queen and the knight and the black squared bishop will soon join in on the attack against the black king.",
+        "10. Be3": "Now the queen is completely out of the game and I bring another piece in on the attack.",
+        "10... Qh1 11. Bc5": "Here I spent maybe 20-30 minutes or so since I felt that forced checkmate should be there and I was also rather excited how well this game was progressing. I also think this is the best move, it threatens checkmate and bring another piece in the attack against the king.",
+        "11... Nc6 12. Ne4": "The third piece join in on the attack against the king.",
+        "12... e5": "The idea with this move is to free the queen by closing the h2-d6 diagonal but there is no time to bring here back in the game.",
+        "13. Nxf6+": "Here I thought for maybe 5-10 minutes since I wanted to find a forced checkmate. Qxf6 wins also but Nxf6 is a forced checkmate in few moves.",
+        "13... Kd8 14. Nd5": "Here black resigned. He will be checkmated after f.e. 14...Qxh2 15.Qc7 Ke8 16.Nf6# or 14...Ke8 15.Qf6 altough checkmate is not so obvious after 15...d6 but it is a lost position for black after 16.Qxh8."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=67959",
+    "gameName": "Chess game",
+    "players": "pappakassi (1900) vs. FM player (2300)",
+    "opening": "Queen's pawn game (A45)"
+}

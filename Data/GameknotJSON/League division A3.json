@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "This is a game played by two very highly rated players, berserker and harpov, who are now (at the time of annotating) ranked 87th and 1st respectively in Gameknot. This game was, in fact, played in Division A3, the 3rd highest division, of Gameknot's chess league - it seems as though this game is bound to be interesting! ",
+        "1... c5 2. Nf3 d6 3. d4": "The main line of the Sicilian Defence.",
+        "3... cxd4 4. Nxd4 Nf6 5. Nc3 a6": "This move leads to the Sicilian Najdorf, a variation of the Sicilian with seemingly endless possibilities.",
+        "6. Be2 e5 7. Nb3 Be6 8. f4 Be7": "Black now has a solid position, with space for development on the queenside and a well-defended kingside to castle into. Note his well-placed bishops. White has a more open position, also well-developed, and is aiming to open up the centre, develop a bishop and prepare a semi-open file for his kingside rook after castling with 8.f4.",
+        "9. O-O Qc7": "Black moves his queen onto the c7-square, controlling the open queenside; White castles kingside to develop his rook onto the soon-to-be-open f-file.",
+        "10. f5": "A good move. White takes advantage of Black's closed position and tries to block it up. This also allows White's bishop to enter the action.",
+        "10... Bc4 11. Bg5": "Both sides swing their bishops into play.",
+        "11... Nbd7 12. a4": "I'm not so sure about this move. I see no point in it. Does anyone else?",
+        "12... h6 13. Be3": "White clearly has his bishops positioned very well, controlling many crucial diagonals. As for Black's dark-squared bishop...",
+        "13... O-O 14. Bxc4 Qxc4 15. Qf3": "White looks as though he is clearly aiming to attack Black's kingside: perhaps he is aiming for Qg3 Bxh6 and Qxg7  . Black's queen is far away, Black's minor pieces will clearly have trouble mobilising to defend and ...g6 with only lead to more trouble after fxg6. I think this would have won White the game!",
+        "15... b6 16. Rfe1": "I can see no reason why white did not attack.",
+        "16... Rfb8 17. Bf2 b5 18. Na5 Qc8 19. axb5 axb5 20. b4": "Both sides are using the open queenside to try to win material and/or push a pawn.",
+        "20... Bd8 21. Qd3 Nc5 22. Qxd6 Nb7": "Black is effectively mobilising his knight to harrass White's queen and try to open up the queenside for his formidable rooks.",
+        "23. Nxb7 Rxa1 24. Rxa1 Qxc3 25. Re1 Rxb7": "Success! Black has cleared away White's control over the queenside and made large acquisitions of space in White's side of the board. ...Ra7 looks like a good option to completely gain control of the a-file and make White's king vulnerable along the 1-rank.",
+        "26. Qxd8+ Kh7 27. Qd6 Qxc2 28. Bg3 Rd7 29. Qc5 Qa4 30. Kh1": "This is not a useful move. White's king should be entering the endgame to fight for his pawns, not hiding in the corner where he will do nothing and be even more vulnerable.",
+        "30... Rd3 31. Bxe5 Nd7 32. Qe7 Nxe5 33. Qxe5 Rd1": "Attempting to exploit White's cornered king.",
+        "34. Rg1 Rxg1+ 35. Kxg1 Qxb4 36. Kf2 Qd2+ 37. Kf3 b4 38. Qd5 Qxd5 39. exd5": "White has managed to create a passed pawn of his own, to counter Black's threat.",
+        "39... Kg8 40. Ke2 Kf8 41. f6 gxf6 42. Kd3 Ke7": "White resigned. It is clearly a lost endgame. But I still think White could have won the game easily by attacking after move 15...what do you think?"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-a3?gm=19176",
+    "gameName": "League division A3",
+    "players": "berserker (2307) vs. harpov (2359)",
+    "opening": "Sicilian (B92), Najdorf, Opovcensky variation"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "im quite proud of the way i handled this match (being the amateur that i am)",
+        "1... d6 2. d4 Nf6 3. Nc3 c6 4. g3 Ng4 5. d5 Qa5 6. a3 Nf6 7. b4 Qd8 8. Be2 h6 9. Bb2 h5 10. Nf3 Qb6 11. e5 Ng4 12. O-O dxe5 13. Ne4 Nf6 14. Bd3 cxd5 15. Nc5 e4": "the next chain of moves was meant to free my horse and bishop from the pawn attack...",
+        "16. Na4 Qd8 17. Bb5+ Bd7 18. Nd4": "-and it worked.....",
+        "18... e5": "-till this happened",
+        "19. Nb3 Bxb5": "and i had to say goodbye to my rook",
+        "20. Nc3 Bxf1": "at this point, i dont think anyone would have believed that i could pull off a win.\n(2 pawns, 1 bishop n 1 rook down with nothing to show for it)\n",
+        "21. Qxf1 a6": " but this is where my last-ditch plan begins....",
+        "22. b5 d4": "i was expecting that....",
+        "23. bxa6 dxc3": "and that",
+        "24. axb7 Ra7": "and that....",
+        "25. Qb5+": ":-)",
+        "25... Qd7 26. Qxe5+ Be7 27. Qxb8+ Bd8 28. Qxa7 Bc7": "-trying to nullify my pawn promotion....",
+        "29. b8=Q+ Bxb8 30. Qxb8+ Qd8 31. Qe5+ Qe7 32. Bxc3 Ng4": "i can see he wants my queen out of the way....",
+        "33. Qxg7": "-as she alone seems to have caused him a lot of trouble",
+        "33... Qf8 34. Qd4 Rh6": "now the queen no longer has to protect her rook, which is now guarded by the horse",
+        "35. Bb4 Qg8 36. Rd1": "preparing the chekmate....",
+        "36... Qg5": "last ditch defence- guarding d8",
+        "37. Qxe4+ Ne5 38. Qa8+ Qd8 39. Rxd8#": ":-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-irokatchs?gm=13597",
+    "gameName": "Challenge from irokatchs",
+    "players": "irokatchs (1200) vs. bog15 (1275)",
+    "opening": "Pirc (B07), Ufimtsev-Pytel variation"
+}

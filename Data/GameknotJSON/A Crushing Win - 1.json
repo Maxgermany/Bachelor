@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. e3": "Not a great fan of this move as it is passive and blocks in the dark-squared bishop.",
+        "2... Nf6 3. Bd3 Bg4 4. f3 Bh5": "White's f3 looks somewhat dubious.",
+        "5. Nc3 e6 6. Bd2 Nbd7 7. Qe2 Be7 8. g4": "An aggressive break that justifies f3.",
+        "8... Bg6 9. O-O-O c5 10. dxc5 Bxd3 11. Qxd3 Nxc5 12. Qb5+ Nfd7 13. Na4": "I thought that white's position was getting dangerous here.",
+        "13... Nxa4 14. Qxa4 Qc7 15. Ne2 O-O": "And black has a comfortable position out of the opening.  It will take white time to prepare g5 or h4, and black can look forward to pressure along the semi-open c-file.",
+        "16. Nd4 a6": "I didn't want the knight coming to b5.",
+        "17. e4 Bc5 18. exd5 exd5": "And black is left with this isolated d-pawn.  It looks like it may be difficult to defend, and I have to decide whether to try to hold on to it, and for how long.",
+        "19. Bc3 Nb6": "A classy move from black.",
+        "20. Qb3 Qf4+ 21. Kb1": "Black is gaining the initiative.  It seems to be a critical position in the development of the game.  Will black be able to find some classy moves?",
+        "21... Bxd4 22. Bxd4 Nc4 23. Qc3 f6 24. Bc5 Rfe8": "And I think black is a bit better, with the active rook and nice knight c4.",
+        "25. Rxd5": "I didn't mind this because the knight was still defended, and there are more important considerations in the position than material.",
+        "25... Rac8 26. Rf5 Nd2+ 27. Ka1 Qc4": "This I would have to call a very classy move, preparing for Re2 after the queens come off.",
+        "28. Qxc4+ Nxc4 29. h4 Re2": "White's position is becoming critical.",
+        "30. Rc1": "Defending c2, but what is white doing about the threat of Rce8?",
+        "30... Rce8 31. b3": "This move comes too late.",
+        "31... Re2e1": "And its going to  be all over for white.",
+        "32. Rb1 Rxb1+ 33. Kxb1 Re1#": "A crushing win."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-crushing-win?gm=33248",
+    "gameName": "A Crushing Win",
+    "players": "adam64 (1710) vs. kitrich_omar (1200)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

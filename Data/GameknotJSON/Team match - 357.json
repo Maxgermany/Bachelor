@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4": "Scotch game! - My favourite opening! :)",
+        "4... Nf6": "Most popular answer. Also Bc5 is playable!",
+        "5. e5 d5 6. Bb5 Nd7": "Normal move in this position is Ne4, but to escape the theory books Nd7 is a good alternative",
+        "7. O-O Bc5": "In my opinion Be7, would lead to a equal game, but with Bc5 the game is different, and I think white has more chances",
+        "8. Bxc6 bxc6 9. Bg5 Be7 10. Nxd4 Nb8": "In this position a move like Bb7 would be the move that I would choose. Here's a possible continuation: 10. Nd4 Bb7 11.Bxe7 Qxe7 12.Nf5 Dg5 13.Dh5 Dxh5. Black has no big issues at all.",
+        "11. Bxe7 Qxe7 12. Nc3": "Now black has lost a tempo with the knight, and white has an opportunity to gain some space advantage",
+        "12... Ba6": "I think this move is an error! Will lead to a forced move: Re1. That is a dangerous move! A move like 12... a5, or 12... 0-0, would be preferable in my opinion.",
+        "13. Re1 Qh4": "Don't know what's the plan of this move, but it increases the king's unsafety!",
+        "14. e6 O-O 15. exf7+": "Black is getting hoppeless. Maybe the best chance now was to play 15... Rh8. Here's a possible continuation: 16.Re8 Nd7 17. Qe1 Rc8 De7 Qxd4 Qxd7.\nNevertheless, White has big advantage!",
+        "15... Kxf7": "Maybe the worst choice!",
+        "16. Nxd5": "Here I thought in the move Ne6, but with some luck I found this move! Never thought it was so powerfull!",
+        "16... cxd5 17. Nf5": "Forcing the black's queen to move, and opening spaces for mine!",
+        "17... Qc4 18. Qh5+ Kf6 19. Ne7 g6": "g6, will lead to a mate in six moves I think! Later on I'll put the puzzle on gk! Here you have the solution too :p",
+        "20. Ng8+ Kg7 21. Re7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=45158",
+    "gameName": "Team match",
+    "players": "alexalekhine (2015) vs. alcak (1940)",
+    "opening": "Scotch gambit (C44), Dubois-Reti defence"
+}

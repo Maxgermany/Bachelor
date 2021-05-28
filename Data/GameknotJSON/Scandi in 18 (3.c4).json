@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 d5": "Scandinavian or Center Counter",
+        "2. exd5 e5": "Boehnke Gambit of the Scandi. Who the hell is Boehnke? Seems like a German last name to me.",
+        "3. c4": "in order to protect the white d pawn on c5.",
+        "3... e4": "played primarily to prevent white from playing Nf3 and secondarily to open up the e file. ",
+        "4. d3 exd3": "so there. e file opened.",
+        "5. Bxd3": "thus developing the f bishop.",
+        "5... Bb4+": "played with the aim of castling and also prevent  the white b from blocking the efile at e3.",
+        "6. Bd2 Bxd2+": "so there 2. no white bishop to block the e file.",
+        "7. Nxd2 Nf6": "preparing to castle.....",
+        "8. Ngf3": "preparing to castle, too......",
+        "8... c6": "in order to get the N in c8 out and put it in a nice square.",
+        "9. Qa4": "his mistake. castling is in order here. maybe he decided to castle on the queenside. ",
+        "9... Bd7 10. Ne5": "decided to attack instead of castling. bet he did not see blacks' 12th move.",
+        "10... O-O": "so there 3. black castles.",
+        "11. dxc6 Bxc6 12. Nxc6 Re8+": "white did not foresee this move. 13.Kf1 Qxd3+ and white is prevented from casling and black gains a tempo, too.",
+        "13. Be2": "the only move for this white b.",
+        "13... Nxc6": "the black q would be so much at home on e7 that removing the pressure on it is in order.",
+        "14. Nf3": "maybe played in order to put the rook on a1 to d1 thus attacking the black q. 14. 0-0 Rxe2, winning the white b.",
+        "14... Qe7": "so there 4. black is threatening mate at e2.",
+        "15. Qc2": "whites move is forced from this point on.",
+        "15... Nb4 16. Qd2": "any move other than in d1 or d2 mates the white k.",
+        "16... Rad8": "preserving the pressure on the white q.",
+        "17. Nd4": "the only move to prevent the mate or the loss of the queen. taking the black N, for instance, will lead to mate on e2.",
+        "17... Rxd4 18. Qe3": "taking the rook will lead to the same mate.",
+        "18... Nc2+": "so there 5. white resigned. The black N is forking the white Q and the K.    The lesson of this game is castle if the position warrants it or, come to think of it, just castle to put the king to safety before making plans to attack."
+    },
+    "url": "https://gameknot.com/annotation.pl/scandi-in-18-3-c4?gm=8687",
+    "gameName": "Scandi in 18 (3.c4)",
+    "players": "fstander ( -0-) vs. mahamis (1632)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5": "sicilian",
+        "2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4": "book",
+        "5. Nxd4 a6 6. Nxc6": "i haven't come across this much.  is Nxc6 a strong move for white here?",
+        "6... bxc6 7. Bd3": "interesting that white's not going for my f7 square",
+        "7... Bb7": "i like my white-squared bishop on this diagonal.",
+        "8. O-O Nf6": "development",
+        "9. Re1 e6": "bringing my dark-squared bishop in play and avoid double-pawns if bg5",
+        "10. Bg5 Be7 11. Bxf6 Bxf6": "everything seems ok thus far",
+        "12. f4 O-O": "i'm not certain who's winning here.  we have all our pieces developed.  white controls 3 central squares, and i only 2, but my light-squared bishop indirectly contributes to 2.  both queens do the same thing.  thoughts on this would be helpful.",
+        "13. e5 dxe5 14. fxe5 Qd4+": "nice little move to save some tempo",
+        "15. Kh1 Bxe5 16. Qh5": "love the mate attempt this early.",
+        "16... g6 17. Qxe5": "whoops.  what a blunder.  looks like the tempo attempt backfired.",
+        "17... Qg4": "i don't want to continue w/o my queen down this much material.  ",
+        "18. Ne4": "suddenly i find myself in a world of hurt.  Nf6 mate.  If i move my rook to make room, my queen gets taken.",
+        "18... f6": "my plan is 19.Nxf6..Rxf6, 20.Qxf6..Rf8, and gain a tad bit of tempo, but down significant material.  hoping to push my c file pawn up, and strike a mate",
+        "19. Nxf6+ Rxf6 20. Qxf6 Rf8 21. Qxe6+": "damn.",
+        "21... Qxe6 22. Rxe6 c5 23. Bc4": "i'm done.",
+        "23... Kf7 24. Rb6+": "resign.\n\nany thoughts would be really appreciated.  thanks."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=37070",
+    "gameName": "Team match",
+    "players": "greek_gift (1239) vs. unohuim (1287)",
+    "opening": "Sicilian (B23), closed, 2...Nc6"
+}

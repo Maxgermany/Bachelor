@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 f5": "While researching this opening I ran into an interesting game.  It uses the old main line obviously but it is still enjoyable.\nThe move 3. .., f5 is considered poor but if not met correctly black can get a big pawn center.",
+        "4. dxe5": "This is the old main line - today 4. Bc4 is considered much stronger.",
+        "4... fxe4 5. Ng5 d5": "Black goes for the pawn center!",
+        "6. e6": "The threat is Nf7 forking the queen and rook. It also blocks black's LSB.",
+        "6... Nh6": "Stops the fork.",
+        "7. Nc3": "So white attacks the queen pawn ",
+        "7... c6": "The only way to defend the center but white has a startling move here.",
+        "8. Ngxe4 dxe4 9. Qh5+": "If black plays 9. ..., Ke7 then 10. Qf7ch, Kd6 11. Nxe4ch, Ke5 ( 11. .., Kd5 12. e7 ch followed by exQd8 ch ) 12. Qf4ch, Nc3ch, and mate to follow after either Kxe6 or Kc5. ",
+        "9... g6": "So the only way to avoid mate is g6.\n",
+        "10. Qe5 Rg8": "White wants to get his a1 Rook out quickly so ...",
+        "11. Bxh6 Bxh6 12. Rd1": "Black has three options  Qb6, Qe7, and Qg5.  I think Qg5 would have been best.  If you can find a way for white to force the win after Qg5 please let me know I couldn't find it.",
+        "12... Qe7": "Seems reasonable it attacks the e6 pawn and should protect the king.",
+        "13. Bc4": "White must protect the e6 pawn it cramps black queen side pieces",
+        "13... Bg7 14. Qxe4 Rf8": "Gets the rook out of the way of the discovery and starts to focus on f2 perhaps. I think Bxc3ch first would have been better since the next move is a shocker!",
+        "15. Nb5": "The threat is Nd6 and Nf5ch and there is no good way to defend d6!",
+        "15... cxb5 16. Bxb5+ Nc6": "Any interposition on d2 isn't much better the bishop captures and then the rook. ",
+        "17. Bxc6+ bxc6 18. Qxc6+ Bd7": "Rxd7 will also win ( and quicker ).",
+        "19. Qxa8+ Qd8 20. exd7+ Ke7 21. Qe4+": "Black resigns. An exchange and 3 pawns down white will castle and mop up.  I hope you enjoyed this game as much as I did."
+    },
+    "url": "https://gameknot.com/annotation.pl/philidor-counter-gambit?gm=68208",
+    "gameName": "Philidor Counter Gambit",
+    "players": "Atwood  vs. Wilson ",
+    "opening": "Philidor (C41), Philidor counter-gambit, del Rio attack"
+}

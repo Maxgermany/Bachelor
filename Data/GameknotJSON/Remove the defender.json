@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nf3": "Not overly familiar with the Sicilian, not keen on this move as it breaks the rule of moving the same piece twice in the opening.",
+        "5... Nf6 6. Bd3": "Protects, but is this where bishops belong?  No!",
+        "6... d5 7. Bb5": "exd5 would be better, this move could lead to Qa5 , Nc3 d4",
+        "7... Qd6 8. Bxc6+ bxc6 9. O-O": "King to safety",
+        "9... Nxe4 10. Re1": "Hoping to get some kind of pin, however I was fealing very undeveloped at this stage, space count, white = 4 black = 12!!",
+        "10... Be7 11. Nxe5": "Ok, I took over a minute on this move, sure that I could win the knight on e4 with a pin (Qxe5, f3).  It turns out I did win it, but Fritz found a way for it to be saved!  So this move got a '?' in analysis, at least it wasn't '??'",
+        "11... Qxe5 12. f3": "Attacking the pinned piece",
+        "12... Bc5+ 13. Be3 Bxe3+ 14. Rxe3 O-O 15. Qc1": "I think that fxe4 could be played immediately here, however at the time I thought that b2 and a1 might fall, however I don't think this is the case, fxe4 Qxb2, Nc3 d4, Rb1 Qe3, Qxd4 might be one way around this",
+        "15... f5 16. fxe4 fxe4 17. c3": "releases the pin on b2",
+        "17... Ba6": "threatening a royal fork, Rf1 ",
+        "18. Nd2 Qf4 19. Qe1 Bd3 20. Qg3 Rab8 21. b3 Rbe8 22. Rae1": "Now here I was expecting a trade of queens (or Fritz's g5 seems even stronger), to which I think black would have won, however I was pleased to see the next move which enabled me to execute my plan and the game swings into white as the favourite",
+        "22... c5": "Poor!  g5 'nails it down' (Fritz)",
+        "23. Qxf4": "Only reply is to capture back, isn't it?  The defender to e8 IS f8!",
+        "23... Rxf4": "Which now means that d3 can be munched by the rook on e3.  the pawn on e4 is then pinned.  My palms were less sweaty by this stage ;)",
+        "24. Rxd3": "!",
+        "24... exd3 25. Rxe8+ Kf7 26. Ra8": "Black resigns as pawns will fall and his passed pawn on d3 poses no real threat.  Hope you enjoyed my annotation."
+    },
+    "url": "https://gameknot.com/annotation.pl/remove-the-defender?gm=1436",
+    "gameName": "Remove the defender",
+    "players": "Sc-uk (1614) vs. Birchi (1710)",
+    "opening": "Sicilian (B32), Labourdonnais-Loewenthal variation"
+}

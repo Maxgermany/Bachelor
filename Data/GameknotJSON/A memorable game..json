@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4": "Bobby plays Lipnitzky attack.",
+        "6... e6": "It's the most common answer to Lipnitzky attack.",
+        "7. Bb3": "...Can everyone help me to understand this move?",
+        "7... Nbd7 8. f4": "I think white wanna crush black in his kingside.",
+        "8... Nc5": "Nc5 is good, but what about Qb6?",
+        "9. f5": "White is for exchanging pawns in this way, but, also, he frees g5 square for his black bishop.",
+        "9... Nfxe4": "I believe white was prepared for something like this.",
+        "10. fxe6": "fxe6!\r\nIn fact if 10...fxe6 11.Nxe6 Bxe6 12.Bxe6 and black can't move Nxe6 cause 13. Nxe4.",
+        "10... Qh4+": "And the game is gonna be very funny!",
+        "11. g3": "White was forced to move g3 to avoid #.",
+        "11... Nxg3 12. Nf3 Qh5 13. exf7+ Kd8": "White has survived for this time!",
+        "14. Rg1": "And now he tries to take away black pieces to avoid every kind of risk.",
+        "14... Nf5 15. Nd5": "In the meanwhile Bobby tries to attack the opponent. Great!",
+        "15... Qxf7": "Qxf7?\r\nI see this move very badly...",
+        "16. Bg5+": "It's white's turn to attack!!",
+        "16... Ke8 17. Qe2+ Be6": "Black's answers seem to be...not so great but effective for the moment...",
+        "18. Nf4": "Or not?!",
+        "18... Kd7": "The only way to defend bishop with another piece.",
+        "19. O-O-O": "Long castle!",
+        "19... Qe8 20. Bxe6+": "White finally comes out!",
+        "20... Nxe6 21. Qe4": "Qe4!\r\nGreat move by Bobby.",
+        "21... g6": ".......",
+        "22. Nxe6": "But black's position is very awful and Jacek resigned.\r\nWhat about this game?"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-memorable-game?gm=21305",
+    "gameName": "A memorable game.",
+    "players": "Bobby Fischer (???) vs. Jacek Bednarski (???)",
+    "opening": "Sicilian (B90), Najdorf, Lipnitzky attack"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nc3": "A game with Master Freddy, another \"Easy\" win. Black loses the way on his 10th move and after White's strong 15th Black is barely holding on, and loses quickly. .",
+        "1... Nf6 2. e4 c5": "This initiates a rarely played line against the Closed Sicilian. I wanted to see what my opponent would play. ",
+        "3. e5": "Consistent. ",
+        "3... Ng8": "As planned. Black retreats but intends to counteratttack.",
+        "4. Nf3 Nc6 5. Bb5 Nd4 6. O-O Nxb5 7. Nxb5 a6 8. Na3": "Here Freddy comes up with a possible improvement over the more routine Nc3. This preserves the possibility of c3 and d4, and Nc4 is also a future threat.",
+        "8... d5": "This is the thematic break.",
+        "9. exd6 e.p.": "Best, white wants to exploit the edge in development.",
+        "9... Qxd6 10. Re1": "Pressure on the e-file. ",
+        "10... Bg4": "This over aggressive move, 10 ...Bg4? is the cause of Black's problems hereafter. Black is reluctant to block in the Bishop with ...e6, hoped to restrain d4, and does not want to lose another tempo playing ...b5, although that was better than the move played. Black has miscalculated, and only sees from 11 Nc4 up to 14...Bg6, not seeing White's 15th move. A better choice was 10 ...Nf6, retaining flexibility. ",
+        "11. Nc4": "This initates a series of forcing moves.",
+        "11... Qc7 12. d3 b5": "Black would like to play f3 and e4 but does not have the time. ",
+        "13. Nce5 Bh5 14. g4 Bg6": "So far as planned. Black had anticipated that after ...f6 next move, he would be have some counterattacking possibilities, but no such luck. ",
+        "15. Ng5": "15 Ng5! is the winning move. Black failed to notice that not only does ...f6 give White a nice square at e6, but the WSB is vulnerable to the pawn storm, and now f7 must be defended. White is simply too far ahead in development now to realistically hold the position. Black is resigned to a quick loss.",
+        "15... Nf6 16. f4 h6": "A choice of evils. Black must create a hole for the Bishop, but...",
+        "17. Ne6": "Ne6! keeps up the pressure. ",
+        "17... Qd6 18. Nxg6 fxg6 19. a4": "To open lines of attack.",
+        "19... Rc8": "Trying to develop.",
+        "20. b3 Nh7": "A desparate plan to free the DSB.",
+        "21. Qf3 g5 22. axb5 axb5 23. fxg5 Nxg5 24. Bxg5": "Eliminates Black's last real hope of dislodging the N on e6.",
+        "24... hxg5 25. Re2": "Prevents mate, and prepares to seal the Black king in the tomb. ",
+        "25... Rh6": "Black resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/easy-win?gm=21543",
+    "gameName": "\"Easy\" Win ",
+    "players": "easy19 (2248) vs. dmaestro (1607)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

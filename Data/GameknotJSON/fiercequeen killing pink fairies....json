@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "as always...",
+        "1... Nc6": "pay no attention: this is a fairy...",
+        "2. f4": "accomodating Nf3...",
+        "2... a6": "why not?",
+        "3. Nf3 b6": "you tell me...",
+        "4. d4 a5": "sure...",
+        "5. d5 Na7 6. Bd3 Bb7 7. O-O Nc8": "baffled...",
+        "8. Be2 Ba6 9. e5 Bxe2 10. Qxe2": "so far, so good...",
+        "10... Na7 11. Be3 e6 12. Rd1": "setting up dxe6...",
+        "12... Qc8": "not the best reply...",
+        "13. d6 c5": "the c-pawn has just left the building...",
+        "14. Nc3 Qb7": "interesting...",
+        "15. a4 f5 16. exf6 e.p.": "a good opportunity, to expose the Black King...",
+        "16... Nxf6 17. Ne5": "more personnel...",
+        "17... Kd8": "a typical fairy move...",
+        "18. Nf7+": "I hate pink: so the fairy resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-killing-pink-fairies?gm=65317",
+    "gameName": "fiercequeen killing pink fairies...",
+    "players": "fiercequeen (2059) vs. pink_fairy (1254)",
+    "opening": "KP (B00), Nimzovich defence"
+}

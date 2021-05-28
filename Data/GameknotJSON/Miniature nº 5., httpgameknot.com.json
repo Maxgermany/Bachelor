@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 e6 3. Nf3 Bd6": "Ok, standard constes of the center. ",
+        "4. Qd2": "Other options are Bg3, Ne5 or BxB. ",
+        "4... Bxf4 5. Qxf4": "My queen is already out, joined with a knight, while black is undeveloped. Almost a death sentence. ",
+        "5... Nf6 6. Qg5": "Among other moves. ",
+        "6... O-O": "The risky defensive castling has to be covered with pieces...",
+        "7. e3": "This \"innocent\" move opens the way for the lsb. ",
+        "7... c6": "This innocent move just accomplish nothing. Black had to try to exchange queens.",
+        "8. Bd3 h6 9. Qh4": "Tempting him to..",
+        "9... g5": "Done. The game is won. This is exactly what you should never do. This same pattern presents itself in a lot of games, normally with a more complicate structure, where things are not so easy like here. But you can take this as a reference for your games, any time you plan the \"double kick sequence\". Both as attacker or defender...",
+        "10. Nxg5 hxg5 11. Qxg5+ Kh8 12. Qh6+ Nh7 13. Qxh7#": "Simple and nice..."
+    },
+    "url": "https://gameknot.com/annotation.pl/miniature-n-5-http-gameknot-com?gm=54082",
+    "gameName": "Miniature n\u00ba 5., http://gameknot.com/",
+    "players": "damalfi  vs. perry ",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

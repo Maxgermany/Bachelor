@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "Kings gambit.",
+        "2... exf4": "accepted.",
+        "3. Nf3 d5 4. exd5 Bd6": "Normally would expect Nf6, black to take the e5 pawn and white attack the f4 pawn.\r\n\r\nAlthough here it appears black has different plans. Black will have to careful of whites center.",
+        "5. Nc3": "Stops development of C pawn, can't really afford to hang around too long.",
+        "5... Ne7 6. d4 O-O 7. Bd3 Nd7 8. O-O h6": "? waste of time and weakens the kings side pawns. Knight to F6 or G6 would have been better.",
+        "9. Ne4": "! clearing the road for the C pawn.",
+        "9... Nxd5": "Defends f4 & grabs some of the center, as well as getting e5 pawn mentioned earlier. ",
+        "10. c4": "Can't help thinking knight would have been better moving to e4 via d2 instead of c3 leaving C file for pawn defence. anyway....",
+        "10... Ne3 11. Bxe3 fxe3 12. c5 Be7 13. Bc2": "! makes room for queen on d3, if was the other way round Qc2 & Bd3 the Nf6 gives black good chances.",
+        "13... Re8": "Leaving f8 for knight. and adds wieght on central file with passed pawn. ",
+        "14. Qd3 e2 15. Nd6": "!? Risky. Rf2 gives white a good play with no risk. ",
+        "15... Nf8": "? black doesn't like pressure on H7. BxNd6 would have been correct.  15...BxNd6 16. Qh7+, Kf7   king can escape via e7 and even though there is a series of exchanges the outcome would have been far from clear.",
+        "16. Nxf7": "! was the reason white played the risky combination.",
+        "16... exf1=Q+ 17. Rxf1 Bf5": "Alternative would have been Qd5 but prob would have been meet with Bb3 which is a strong position.\r\n\r\nGreat exchange to look at if black had taken knight.\r\n\r\n17.... KxNf7 18. Ne5+, Kg8  19. Qh7+!, NxQh7 20. Bb3+, Kh8 21. Ng6 mate.  \r\n\r\nThat would have been nice to see esp with a queen sac in there!!!   \r\n\r\n",
+        "18. Qxf5 Qd7": "offering to exchange as whites attack is relentless.",
+        "19. Qf4": "no way!!",
+        "19... Bf6": "reveals attack on knight and applies pressure on d4.",
+        "20. Nf3e5 Qe7": "drives queen off light squares. If 20...BxNe5 21. NxBe5, Qe7 22. Qe4! is very dangerous",
+        "21. Bb3": "Black has nothing of note on the light coloured square",
+        "21... Bxe5 22. Nxe5+": "revealed check.",
+        "22... Kh7 23. Qe4+": "Black resigns as will lose queen in the next 2 moves and the game would be hopeless"
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gambit-g24?gm=22857",
+    "gameName": "Kings Gambit (G24)",
+    "players": "  vs.  ",
+    "opening": "KGA (C36), Abbazia defence, modern variation"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 g6 2. e4 Bg7": "going for the modern",
+        "3. e5 d6 4. exd6 exd6 5. Nf3 Nf6 6. Qe2+ Be6": "didnt want to exchange the queens",
+        "7. Qb5+ Nbd7": "although giving up a pawn, black position is solid and the white queen is going to be forced back soon",
+        "8. Qxb7 Bd5 9. Qb4 Nb6 10. Qb5+ c6 11. Qe2+ Be6 12. g3 O-O": "Black has complete control of the center, pieces developed and ready to attack the white king",
+        "13. Nc3 Re8 14. Qd2 Bg4+ 15. Ne2": "better was Be2",
+        "15... Bxf3 16. Rg1 Ng4 17. c3 Nxh2 18. Qd3 Nxf1 19. Qxf3 Nh2 20. Qg2 Ng4 21. Qxc6 Rc8 22. Qf3 Nf6 23. Bg5 h6 24. Be3 Nc4 25. Rb1 Nxe3 26. fxe3 Qe7 27. Rh1 Kh7 28. Nf4 Qxe3+": "with 1 piece up, happy to exchange queens",
+        "29. Qxe3 Rxe3+ 30. Kf2 Ng4+ 31. Kg2 Bxd4": "opening the c column",
+        "32. cxd4 Rc2+ 33. Kh3 Nf2+": "winning the rook",
+        "34. Kh4 Nxh1 35. Rxh1 Rxb2 36. Ra1 Ra3 37. Nd5 Raxa2 38. Rxa2 Rxa2": "white should resign. It is only a question of time",
+        "39. Nb4 Ra1 40. Nd5 a5 41. Nf6+ Kg7 42. Ne4 a4 43. Nxd6 a3 44. Nc4 a2 45. d5 Rh1+ 46. Kg4 a1=Q 47. d6 Qd4+ 48. Kf3 Rf1+ 49. Kg2 Qg1+ 50. Kh3 h5 51. d7 Qh1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/riaanniemans-mini-tournament-xxviii?gm=66826",
+    "gameName": "riaannieman's mini-tournament XXVIII",
+    "players": "qprloftus (1211) vs. lovechiefs (1249)",
+    "opening": "Modern defence (A40)"
+}

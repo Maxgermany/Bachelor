@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Bd6 3. Bc4 h5": "h5? I don't understand.",
+        "4. Nc3 c6 5. a4": "...to avoid b5",
+        "5... a6": "......",
+        "6. Bb3": "I have to do this...",
+        "6... Bc5 7. d4": "I wanna break",
+        "7... exd4 8. Nxd4 Qf6 9. Be3 Nh6 10. h3 O-O 11. O-O": "Castles...",
+        "11... Re8": "R often do this!",
+        "12. Ra2": "?? sorry....but i didn't know what to do!!! I know it seems a crazy move, but i really didn't know what to do!",
+        "12... Qg6 13. Re1 d6 14. Nf3": "A little mistake cause...",
+        "14... Bxh3": "...i did not see that.",
+        "15. Nh4 Ng4": "??????????? everyone can make a mistake...",
+        "16. Nxg6 Ne5 17. Nxe5 Be6 18. Qxh5": "From this moment i'll attack on h file",
+        "18... dxe5 19. Qxe5 Nd7 20. Qf4 Bb4 21. Bxe6 Rxe6 22. Qg4": "now i think Bh6",
+        "22... Bf8": "...",
+        "23. Rd1 Rd8 24. Bb6 Nf6 25. Qf3 Rde8 26. Rd8": "I don't think about it twice!",
+        "26... Re8e7 27. Bc5 Rd7 28. Rxf8+ Kh7 29. Qh3+ Kg6 30. Qg3+": "I control the situation trying to find possible #s",
+        "30... Kh7 31. Qh4+ Kg6 32. Rh8 Re5 33. Qg3+ Rg5 34. Qh4": "I still attack on h file...",
+        "34... Rd2": "Rd2??",
+        "35. Be3 Rg4 36. Rh6+": "I don't capture R cause now the only possible move by black is g:h6, followed by...",
+        "36... gxh6 37. Qxh6#": "Q:h6#. Bad mistakes by black. I don't think to have played so good...So let me know what u think 'bout this game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-samnmee?gm=18731",
+    "gameName": "Challenge from samnmee",
+    "players": "andy94 (1366) vs. samnmee (1015)",
+    "opening": "King's knight opening (C40)"
+}

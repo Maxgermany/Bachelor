@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. c4 c6 2. Nc3 d5": "Actually, I'm not sure what to call this. English? Queen pawn game? I call it a Slav because that's the pawn formation Black has chosen.",
+        "3. cxd5 cxd5 4. d4 Nf6 5. Nf3 e6 6. e3 Be7 7. Bd3 O-O 8. O-O b6 9. Bd2 Ba6 10. Qc2 Bxd3 11. Qxd3 Nbd7 12. Ne5": "Now if (a) 12. ...Ne5  13. de5 Nd7  14. f4 with play; or (b) 13. ...Ne4  14. Ne4 de4  15. Qd8 Rfd8  16. Bc3=",
+        "12... Bd6 13. f4 a6 14. Qe2 b5 15. a3 Rc8 16. Rac1 Nb6 17. g4 Nc4 18. Nxc4 dxc4 19. g5 Nd5 20. Nxd5 exd5": "Most of the smoke clears. White has more space and an attack on the K-side; Black has more space and a counter-attack brewing on the Queenside.",
+        "21. Qg2 Be7 22. Bb4": "!? -- This move weakens White's Q-side considerably, but that's not where his King lives. White's speculating that his attack will make good before Black's counterattack, and he's willing not only to weaken his position on the Q-side to make it happen but to part with material too.",
+        "22... Bxb4 23. axb4 Qd6 24. f5 Rcd8 25. Rf4": "!? -- Looks like the start of a pretty good plan: Rf4-h4, followed by Qh3, with Black unable to push his h-pawn. Too bad I didn't do it.",
+        "25... Qxb4 26. h4": "?! -- Stymies the aforementioned attack down the h-file. But White has a pawnstorm rolling now, and Black's King has few places to hide.",
+        "26... f6 27. h5": "! - Every open line helps White.",
+        "27... fxg5 28. Qxg5": "Giving up even more material to keep the attack alive.",
+        "28... Qxb2": "Black has a crushing endgame advantage with those connected Q-side triplets. All he has to do now is live long enough to push them ...",
+        "29. Rcf1 Qe2 30. Rg4 Rd7 31. Rf2": "A split-second pause to create a haven for the King, with tempo.",
+        "31... Qe1+ 32. Kg2": "Now Black has no checks.",
+        "32... h6 33. Qxh6 Rf6 34. Qf4 Re7 35. h6 Qxe3": "! - Gah! Only at this moment do I notice that if 35. Rg7+?? Black's Rook recaptures with check! Suddenly I think I'm losing, and I need to find a saving continuation NOW!",
+        "36. Qb8+ Kh7": "! -- If 36. ...Rf8  37. h7!! is a killer!",
+        "37. Rxg7+": "Despairing. At this moment I'm just wondering how much longer to play without embarrassing myself, before resigning.",
+        "37... Rxg7+ 38. hxg7 Kxg7": "What? What? WHAT? Is he just toying with me now? 38. ...Qg5  39. Kf1 Rf5 mops up easily. This hasty King move lets White climb more than halfway out of the hole he had dug for himself.",
+        "39. Qb7+ Rf7 40. Qxd5 Qg5+": "Played after a long think. Black's still winning but a lot of his advantage evaporated with that d-pawn. Now everybody's got passed pawns, but it's still White who can make best use of the open lines.!",
+        "41. Kf1": "Threatening the very nasty 42. Rg2. Black's King is exposed to more danger than White's. Both of us were getting a little short on time at this point.",
+        "41... Qc1+ 42. Kg2 Qg5+ 43. Kf1": "Hey, I'm a pawn down in what should be a dead-lost endgame for me: me, take a draw by repetition under these circumstances? Not just \"Yes,\" but \"Hell, yes!\"",
+        "43... Qf6 44. Qg2+ Kf8 45. Qa8+ Kg7 46. Rg2+ Kh6": "Black is trying to trap me: on 47. Rg6?? Qg6! wins. I'll have none of that silliness, however.",
+        "47. Rh2+ Kg5": "! -- I just hate players who keep making the correct moves!  >:-( ...Just kidding. Of course now my desired Queen check on g2 is no good because Black can just take the f-pawn with his King, because White's Rook can't go to f2. So ...",
+        "48. Rg2+ Kh6 49. Rh2+ Kg5 50. Rg2+ Kf4 51. Rf2+ Kg5 52. Rg2+": "And here White offered a draw, which Black accepted. It's perpetual check."
+    },
+    "url": "https://gameknot.com/annotation.pl/tough-draw-slav-defense-blitz-game?gm=45634",
+    "gameName": "Tough Draw! -- Slav Defense (Blitz game)",
+    "players": "Avocet (1200) vs. naka (1833)",
+    "opening": "English (A11), Caro-Kann defensive system"
+}

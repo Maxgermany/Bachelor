@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Qc2 e5 8. dxe5 dxe5 9. e4 c6 10. Rd1 Qc7 11. h3 Nc5 12. Nc3 a5": "Siin peaks pisut parem olema kohene 12...Re6 plaaniga Rfd7 ja f7-f5.",
+        "13. Be3 Nfd7 14. Rd2 Ne6 15. Rad1 f5 16. exf5 gxf5 17. Ng5 Ndc5 18. Nxe6 Nxe6 19. Na4 f4 20. Bb6 Qe7 21. Re1 Qg5 22. h4 Qg4 23. Kh2": "Palju tugevam oli kohene 23. Ld1\n",
+        "23... Bh6": "Aga mustad j\u00e4tsid k\u00e4imata 23... Rd4 ning probleemid on \u00fcksnes valgel.\n",
+        "24. Qd1 Qg7": "Viga. Ka siin pidi k\u00e4ima 24... Rd4 umbkaudse variandiga 25. Lxg4+ Oxg4 26. Vd3 fxg3+ 27. fxg3 Og7\n",
+        "25. Rd6 Kh8 26. Qh5": "Etturi parema seisu juures v\u00f5itis: 26. Le2! fxg3+ 27. fxg3 Rf4 28. Lxe5! Rxg2 29. Kxg2\n",
+        "26... Qe7": "Taas eksitus. Parim kaitse olnuks 26... fxg3+ 27. fxg3 Of4! ideega 28. gxf4 Lxg2+ 29. Kxg2 Rxf4+ 30. Kh2 Rxh5 31. Vxe5 Of5, kuigi ka see on valgele selgelt parem.\n",
+        "27. Qxh6": "Arusaamatu. Kuidas saab mitte l\u00fc\u00fca lihtsalt 27. Lxe5+ Og7 28. Vxe6 kohese v\u00f5iduga?\n",
+        "27... Qxd6 28. Bc5": "\n",
+        "28... Qd2 29. Bxf8 Qxe1 30. Nc5": "J\u00e4me viga. Viiki j\u00e4\u00e4ks partii variandis 30. Od6! Kg8! 31. gxf4! exf4 32. Rc5! Lxf2 33. Rxe6 Lg3+ \u00fches Le1+ etc\n",
+        "30... Qxf2": "J\u00e4i see lihtne repliik Volodinil kahe silma vahele?",
+        "31. g4": "0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/est-u20-ch-tallinn?gm=31456",
+    "gameName": "EST U20 ch, Tallinn",
+    "players": "Volodin  vs. Holvason ",
+    "opening": "King's Indian (A49), fianchetto without c4"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Bobby Fischer loves to open up the game instead of just playing d4, he plays e4.",
+        "1... c5": "Obviously the sicilian. Probably the best scoring defenses black can play here.",
+        "2. Nf3": "White continues with Nf3. Simple development move, trying to control the center with his minor pieces. Typically, you want to bring out Knights before bishops and thats exactly what Bobby Fischer did. FYI, this is his highest rating achieved.",
+        "2... Nc6": "Now black's gonna play Nc6. Again, simple development move. This is getting ready for the accelerated Dragon.",
+        "3. d4": "Bobby Fischer plays d4. Both pawns will be exchanged.",
+        "3... cxd4": "Take.",
+        "4. Nxd4": "And take(As expected).",
+        "4... g6": "Black continues with g6, which is continuing with the accelerated dragon. In typical Dragon, pawn comes to d6 and is later pushed up to d5. Later on the dpawn goes to d5 directly.",
+        "5. Nc3": "Simple development move, trying to control the center.",
+        "5... Bg7": "Black controling that long diagonal and will soon develop his other minor pieces.",
+        "6. Be3": "Developing.",
+        "6... Nf6": "Developing too. Getting ready to castle.",
+        "7. Bc4": "Attacking the f-pawn.",
+        "7... O-O": "Safety for the King.",
+        "8. Bb3": "Now Bobby Fischer plays Bb3. The reason for this is that Bobby Fischer loves to sit back and eye down the f-pawn, putting tons of pressure on black. This also sets up the trap. It attempts to lure the Knight to a5. Black is looking to trade off pieces here.",
+        "8... Na5": "Knight is lured.",
+        "9. e5": "Pawn attacks Knight and the Knight really has no place to go. Continuations are 9. e5, Nh4 10. g4 and the Knight is trapped. If Knight goes to g4 it gets taken, same with Nd5, and the best move would be Nxb3. Continuation would be 10. exf6, Nxa 11. fxg7, Nxc2 12. Qxc2, Kxg7 and White is dominating in development. ",
+        "9... Ne8": "Only move.",
+        "10. Bxf7+": "f-pawn needs to be taken for trap to work. You'll see why. Continuations 10. Bxf7 Kxf7 11. Ne6 dxe6 12. Qxd8 or 10. Bxf7 Rxf7 11. Ne6 dxe6 12. Qxd8 so no matter what black loses his Queen.",
+        "10... Rxf7": "Lets say he takes with rook.",
+        "11. Ne6": "As expected. Here he can moove Queen or he can take with pawn. Best move would be Qc7 so he can win the Knight.",
+        "11... Qc7 12. Nxc7": "Black loses Queen.",
+        "12... Nxc7": "And Black takes back. This is a nice little trap that Bobby Fischer has used many times and I will also try to use it as many times as possible too. "
+    },
+    "url": "https://gameknot.com/annotation.pl/bobby-fischer-trap?gm=43840",
+    "gameName": "Bobby Fischer Trap",
+    "players": "Bobby Fischer (2785) vs. Anyone (????)",
+    "opening": "Sicilian (B35), accelerated fianchetto, modern variation with Bc4"
+}

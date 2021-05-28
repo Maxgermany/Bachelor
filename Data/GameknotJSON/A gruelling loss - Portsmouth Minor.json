@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "This was Round 4, the Saturday evening game when many players take a bye, after suffering two rounds already.  I usually do quite well in this round and was buoyed by my first win in the previous round.  As usual, I thrust my e-pawn forward",
+        "1... e5": "and was met head on.",
+        "2. Nf3 Nc6 3. Bb5": "The start of \"The Spanish Torture\"",
+        "3... a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7": "all standard moves so far for the Morphy Defence.  Black retains the option of playing the Marshall Gambit here.",
+        "7. Re1 O-O 8. c3": "Not trying to avoid the Marshall with one of the various \"anti-Marshall\" moves like 8. a4, 8. h3 or 8. d3",
+        "8... Bb7": "but Black plays a quieter option anyway, building up pressure on the long diagonal.",
+        "9. d4 d6 10. Nbd2 h6 11. Nf1 Re8 12. Ng3 Bc8": "unexpected but White's last move has rendered remote the possibility of Black winning White's e-pawn.  While this looks like a loss of tempo, Black has time for it because of White's slow manoeuvring, so typical of the Ruy Lopez.",
+        "13. h3": "This move has been delayed since I didn't consider it necessary after Black's 8th but now I want to deter ...Bg4.",
+        "13... Bf8 14. Bc2": "Over-defending e4 to free up the Ng3 for attacking purposes.",
+        "14... Rb8 15. b4": "to block Black's threatened advance",
+        "15... exd4 16. Nxd4 Nxd4 17. cxd4": "I deemed it too early to put my Q centre-stage, when Black could achieve ...c5 with tempo.",
+        "17... c6 18. a3": "...d5 was threatened, when the undefended b-pawn would have been embarrassing",
+        "18... Be6 19. Bf4 Ra8": "unpinning the d-pawn",
+        "20. Rc1 a5 21. Qd3": "? hoping for a quick kingside attack but, given Black's simple response, a wasted move",
+        "21... Bc4 22. Qf3 axb4 23. axb4 Be6 24. e5": "around here, Black offered a draw but I refused as I felt the game was just getting interesting.  I soon regretted my decision.",
+        "24... Bd5 25. Ne4 Bxe4 26. Bxe4 Nxe4 27. Rxe4 d5 28. Re2 Qd7 29. Qg3 Kh8 30. Rec2 Rec8 31. Qh4": "looks superficially risky but 31 ...g5 32 Bxg5.  This move indirectly protects the b-pawn because it ties Black's B to defensive duties.",
+        "31... Be7 32. Qh5 Kh7 33. Rc2c3 Bxb4": "Not only creating a massive passed pawn which I failed to treat seriously enough while pursuing a feeble kingside attack, but also defending f7.",
+        "34. Rg3 Qe6 35. Rd1 Ra3 36. Rxa3 Bxa3 37. Rd3 Bf8 38. Rg3": "? White doesn't have enough attacking material to force this attack home, so restraining the monster on b5 might have been better.  As I soon move it back to f3, I think this move is a bad mistake.",
+        "38... b4 39. Bg5 Rb8 40. Rf3": "? 40. Rb3 would have been better.",
+        "40... g6 41. Qh4 b3 42. Rf6 b2": "! ignoring the threat to the Q because Black is about to create another one.",
+        "43. Be3": "? Now I realise that taking Black's Q just leaves me a rook down, so I try something else to try to break through.  However, this route leaves me a Queen down!",
+        "43... b1=Q+ 44. Kh2 Qe4 45. Qg3 Qe7 46. f4 Rb3 47. f5 Rxe3 48. fxg6+ fxg6 49. Qf2 Bg7 50. Rxc6 Re2 51. Qg3 Qg5": "Enough!  Mate is inevitable."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-gruelling-loss-portsmouth-minor?gm=22212",
+    "gameName": "A gruelling loss - Portsmouth Minor",
+    "players": "Bob Jacobs (1592) vs. Paul Johnson (1592)",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

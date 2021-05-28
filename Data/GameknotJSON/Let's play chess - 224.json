@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 f6": "Widely known opening blunder.",
+        "3. Nxe5": "Fully exposing the blunder.",
+        "3... fxe5": "Theory says that 3... Qe7 avoids any material loss after 4. Nf3 Qxe4+ 5. Be2, but with a totally bad position. After this move, White already has a winning position.",
+        "4. Qh5+ Ke7": "The lesser evil was 4... g6 5. Qxe5+ followed by Qxh8.",
+        "5. Qxe5+ Kf7 6. Bc4+ Kg6": "6... d5 is much better, controlling the square f5 and making the attack much harder.",
+        "7. Qf5+ Kh6 8. d4+ g5 9. h4": "The key of the attack, now the Rook might join too.",
+        "9... d5 10. Qf7": "Controlling the g7 square, and creating many mating threats.",
+        "10... dxc4 11. hxg5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=56028",
+    "gameName": "Let's play chess",
+    "players": "dnage (1200) vs. gavvywavvy (1114)",
+    "opening": "Damiano's defence (C40)"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "This was a return match in the Walking the Walk & Learning to Run Welcome MT 11 see - http://gameknot.com/annotation.pl/walking-the-walk-learning-to-run-welcome-mt-11?gm=54112. I was hoping that in this match I would last a few more moves.\n\n",
+        "1... e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3": "Starting position",
+        "5... Bxc3+ 6. bxc3 Ne7 7. Nf3 Qa5": "Attacks the weak c3 pawn and pins it to the white king",
+        "8. Bd2 c4": "I was a little surprised by this as it closes the centre though it does reduce the effectiveness of my bishop pair",
+        "9. Be2 Qa4 10. O-O Nbc6 11. Nh4": "Making room to advance the f pawn",
+        "11... O-O 12. f4": "This move takes us out of the gameknot database",
+        "12... Bd7 13. Bg4 Nd8 14. Qb1": "I decided to try exchanging queens in the hope that I could undouble my pawns",
+        "14... b5 15. Qb4 Ndc6": "Clearly black isn't going to let me do what I hoped but he also ignored the pawn I overlooked on c2",
+        "16. Qxa4 bxa4 17. Rae1": "better is Rab1 to contest the open file",
+        "17... Rab8 18. Bc1 Rb1 19. f5 exf5 20. Nxf5 Nxf5 21. Bxf5 Bxf5 22. Rxf5 Ra1": "making room for the other rook to come in to b1",
+        "23. e6 fxe6 24. Rxf8+ Kxf8 25. Rf1+ Ke8 26. Kf2 Ra2 27. Rd1 Rxc2+ 28. Bd2 Ra2 29. Ke1 Rxa3 30. Kf1 Na5 31. Re1 Kd7 32. Re3 Ra1+ 33. Re1 Rxe1+ 34. Kxe1 Nb3 35. Bc1": "blunder, it's just a matter of time now",
+        "35... Nxc1 36. Kd1 Ne2 37. Kc2 a3 38. Kb1 Nxc3+ 39. Kc2 a2 40. Kb2 e5 41. Ka1 exd4 42. Kb2 d3 43. Ka3 a1=Q+ 44. Kb4": "There was no way black was going to allow a stalemate however in the spirit of the tournament I waited to see how black would bring about my demise",
+        "44... Ne4 45. g4 Qb2+ 46. Ka5": "Around this point black declared mate in three, there is however a mate in two after Nc5 which completely traps the white king",
+        "46... Qb6+ 47. Ka4 Nc5+ 48. Ka3 Qb3#": "thanks for reading, please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-learning-to-run-welcome-mt-11?gm=54113",
+    "gameName": "Walking the Walk & Learning to Run Welcome MT 11",
+    "players": "elwoos (1490) vs. alex_ratchkov (2255)",
+    "opening": "French (C19), Winawer, advance, positional main line"
+}

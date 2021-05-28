@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Don't often see this move played, still I carried on the way I normally would after Nc6.",
+        "3. Bc4 h6 4. d4": "If he's going to play a bit defensive I'll attack.",
+        "4... Bg4 5. Be3 Nf6 6. dxe5 Nxe4 7. Bxf7+": "Sac the bishop to get my queen into the game and eliminate the knight posted in a good position.",
+        "7... Kxf7 8. Qd5+ Ke8 9. Qxe4 Bxf3 10. Qxf3": "Happy so far with my position.",
+        "10... Nc6 11. e6": "Threatening mate.",
+        "11... Qe7 12. Qf5": "Protecting the pawn which will be a massive headache.",
+        "12... g5 13. Nc3 Ne5": "Bad move in my opinion, it allows the queen to move and protect against the mate but had to protect d5. Thoughts on this?",
+        "14. Nd5 Qh7 15. Nf6+ Ke7 16. Nxh7 Bg7 17. Bd4 Kd8 18. Bxe5 dxe5": "Should have taken with bishop.",
+        "19. O-O-O+": "No way in avoiding mate from here.",
+        "19... Ke8 20. Qf7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-world-training-tournament?gm=41083",
+    "gameName": "Team World Training tournament",
+    "players": "georgeo1991 (1306) vs. pegyag (1346)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

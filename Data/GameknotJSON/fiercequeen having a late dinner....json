@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. f4": "this player, already stole my heart: not many players, dare to open like this...",
+        "1... d5": "the Dutch reversed: Double Dutch; when will the fun ever stop?",
+        "2. Nf3 c5 3. e3 Nc6 4. Be2 e6 5. O-O Bd6": "not much happening here: White has followed a slow version of this opening...",
+        "6. d3 Qc7 7. Qe1 Bd7": "preparing castling...",
+        "8. Qg3 g6 9. e4 O-O-O 10. e5 Be7": "the start of a dance, around the center...",
+        "11. c3 h5 12. a3 h4": "not mocking around...",
+        "13. Qe1 f5 14. exf6 e.p.": "really?",
+        "14... Nxf6 15. b4 h3 16. g3 Ng4 17. d4 cxd4 18. cxd4 a6 19. b5 Na7 20. bxa6 b6": "taking the pawn hostage: this rules out, any action across the a-file...",
+        "21. Ne5 Nxe5 22. fxe5 Rdf8": "elemantary: take out the free file for the Rook...",
+        "23. Nc3 Rxf1+ 24. Bxf1 Rf8 25. Bxh3 Qc4": "introducing new trouble...",
+        "26. Ne2": "covering d4...",
+        "26... Bb5 27. Bf1 Rxf1+ 28. Kxf1": "forced...",
+        "28... Bxa6 29. Be3 Nc6 30. Kf2 Kb7 31. Rc1 Qb3 32. Nf4 Qb2+": "the beginning, of the end...",
+        "33. Kg1 Nxd4": "after Bxd4, Qxd4+...",
+        "34. Rb1": "stupid reaction...",
+        "34... Nf3+": "after this, Black can always replace the Queen: but it is already over; the White King will be mated...",
+        "35. Kh1": "forced: this is the only place for the King...",
+        "35... Qxh2#": "ending it, in style..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-having-a-late-dinner?gm=65100",
+    "gameName": "fiercequeen having a late dinner...",
+    "players": "naka (1833) vs. fiercequeen (2059)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

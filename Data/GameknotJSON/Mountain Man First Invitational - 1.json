@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. g3": "Benko's opening.",
+        "1... e5": "Reversed Alekhine Defense.\n",
+        "2. Bg2 d5": "Black generally does pretty well responding with d3.  While white's fianchettoed bishop throws some control over the center of the field, the pawn domination is stronger.\n",
+        "3. d3 c5": "Throwing the pawns into the field this way is a bit unusual.  The queen's pawn will be weak and is exchanged in just another two moves.  White's d3, while not bold, discourages e4 which would place a pile of pawns in white's white bishop's path.",
+        "4. c4 dxc4 5. Qa4+ Bd7 6. Qxc4 Nc6 7. Nf3 h6 8. a3 Na5": "Time to see about pushing the queen around.",
+        "9. Qc3": "Pe5 is undefended.",
+        "9... f6": "Moving this pawn is generally pretty weak, but white's bishop cannot attack the black king's open diagonal without first moving three times, nor can the white queen move to h5 or h6 in under three moves.  Plus f6 discourages Nf3 opening an attack on Pb7, defended by Na5.  The drawback is that black's castle pawns are in disarray.  But that won't be an issue if the queens exchange.",
+        "10. O-O": "White's king ducks into the spider hole.\n",
+        "10... Bd6": "Black just needs to deploy king side pieces, and can't move the bishop if the knight moves first.  White might have taken advantage of this with Nd2 (either one) Ne4, to attack d6.  The only other piece white could deploy against d6 is the queen, which is kind of blocked by hooves on a5.\n",
+        "11. Nbd2": "Probably should have done this instead of castling.",
+        "11... Qc7": "Now black is defending the weak Bd6, and adding muscle to Pb7.",
+        "12. Nc4 Nxc4 13. Qxc4 Ne7 14. e4 a6": "It looks like a stupid move, and probably is.  But white's queen and rook share a diagonal, and whether or not Pd4 was ever played black needs support for Bb5 (which ultimately occurs on move 18--four moves away).\n",
+        "15. Be3 Rf8": "Black cannot castle king's side.",
+        "16. b4 cxb4 17. Qxc7 Bxc7 18. axb4 Bb5": "Bb5 no longer provides much attack.  I moved here primarily to block further advance of white's isolated b pawn.",
+        "19. Rfd1 Nc6 20. Rac1 Rf7 21. Rcb1 Rd7": "By attacking these pawns my hope is to drive white's pieces back to the back row.",
+        "22. Ne1 b6 23. Bh3 Rdd8 24. Bf1 Rab8 25. Nc2 Nd4 26. Nxd4 exd4 27. Bd2 Kf7 28. Be1 g5 29. Rbc1 Bd6 30. Bh3 h5": "Here I noticed I could force Rd1 out, but I couldn't get more than swapping black bishops.  Whenever I played this out I'd drop a pawn.  I feel like I should be able to promote one of the right side pawns, but I never got anywhere--too easy for white to foil any advance it seemed.",
+        "31. Bf5 Ba4": "I decide to trade bishops.  I start out grabbing a pawn, but lose one later.  Still, should be able to force the passed pawn to promotion, theoretically.",
+        "32. Rd2 Bxb4 33. Ra2 Bxe1 34. Rxa4 Ba5": "Pulling the bishop back preserves Pa6, and white has nothing to attack the black bishop.",
+        "35. Rc7+ Kg8 36. Rac4": "White blunders.  I think, \"hey, a pawn attacks one rook while the bishop another?\"  White should probably trade rook for bishop with Rc2.",
+        "36... b5 37. Rc7c8": "This makes the blunder worse, trading down the rook for the pawn.",
+        "37... bxc4 38. Rxc4 Bb4 39. Bg6 h4": "If white splits black pawns, white's pawns will be split.",
+        "40. Bf5 a5 41. Rc7 hxg3": "Black can avoid having his own pawns split by this expensive exchange.  Expensive, because that pawn moved three times.",
+        "42. hxg3 a4 43. Be6+ Kh8 44. Bf5 a3 45. e5 fxe5 46. Rh7+ Kg8 47. Rc7 Bc3 48. Ra7 Rba8": "Black will be happy to trade rooks."
+    },
+    "url": "https://gameknot.com/annotation.pl/mountain-man-first-invitational?gm=62689",
+    "gameName": "Mountain Man First Invitational",
+    "players": "sanjinp (1537) vs. lord_shiva (1810)",
+    "opening": "Benko's opening (A00), reversed Alekhine"
+}

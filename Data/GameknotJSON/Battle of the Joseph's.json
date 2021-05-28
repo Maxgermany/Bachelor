@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "Breeze through the setup and watch the action start happening around move 10.",
+        "1... Nf6 2. Nc3 d6 3. d4 g6 4. Be3 Bg7 5. Qd2 Ng4 6. Bg5 O-O 7. O-O-O a6 8. Nd5 Nf6 9. Bc4 b5": "when threatened consider an additional attack.",
+        "10. e5 Nxd5 11. Bxd5 c6": "Here. Ignoring the attack on the bishop and focusing on applying pressure to e7. ",
+        "12. Re1 cxd5 13. exd6": "Now black must dispose of the pawn or a potential fork or promotion can take place...",
+        "13... Qxd6": "...but taking the pawn forks queen and rook.",
+        "14. Bxe7 Qb6 15. Bxf8": "If black responds taking the bishop with the king it'll just seal the deal...",
+        "15... Kxf8 16. Qb4+": "Black resigns knowing that next is \n16. ... Kg8\n17. Re8+ Bf8 for the block\n18. Qxf8#\n\nI think my improvement in this game was 12. Re1. I'm still not sure how I figured that out. Reviewing the game I was surprised when I saw what I had done. It's definitely encouraged me to think more unorthodox."
+    },
+    "url": "https://gameknot.com/annotation.pl/battle-of-the-josephs?gm=29087",
+    "gameName": "Battle of the Joseph's",
+    "players": "josephknight (1496) vs. apbook (1586)",
+    "opening": "Alekhine's defence (B02), Scandinavian variation"
+}

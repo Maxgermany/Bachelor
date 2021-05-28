@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "normal moves",
+        "1... e5": "normal moves",
+        "2. Nf3 f5": "gambit of king",
+        "3. exf5": "accept gambit",
+        "3... d5": "stran moves normalment d6",
+        "4. Nxe5": "(it's error for black",
+        "4... Bxf5": "take pawn",
+        "5. Qh5+": "!!!",
+        "5... g6 6. Nxg6": "!!!!!",
+        "6... Bxg6": "error for black",
+        "7. Qe5+": "it's a big moves",
+        "7... Ne7 8. Qxh8": "take rook",
+        "8... Kf7": "it's a stran moves",
+        "9. Ke2": "bis",
+        "9... Qd6 10. Ke3": "tris",
+        "10... Qe6+": "it's a beauty and vincent moves",
+        "11. Kd4 Bg7+": "black won ( white resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=48544",
+    "gameName": "Chess game",
+    "players": "axel7 (1014) vs. inconnor (1179)",
+    "opening": "Latvian counter-gambit (C40)"
+}

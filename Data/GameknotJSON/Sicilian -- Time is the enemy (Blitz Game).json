@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4": "The hallmark move of the Sozin system.",
+        "6... e6": "Other moves have been tried here, 6. ...e5, for example, with mixed results. The text is the steadiest, forcing White's cleric to \"bite on granite.\"",
+        "7. Bg5": "This is the diagnostic move of the Richter-Rauzer variation which is quite unlike the Sozin in its strategic aims. The Sozin is a positional system that puts steady pressure primarily on Black's center, and White typically castles toward his KR. In the Richter-Rauzer White initiates an often bluntly tactical K-side attack usually featuring a raging pawnstorm, and so he almost always castles long the better to facilitate it. Mixing the systems can be done, but because their goals are dissimilar pursuing both strategies at once can easily lead to a confused game for White.",
+        "7... Be7 8. Qd2 b5": "A fashion that comes and goes. This thrust used to be played commonly, then fell out of favor after White started sacking on b5, often getting lasting positional pressure for the piece, plus all those joined, unopposed Q-side pawns staring Black into the endgame. The move has lately come back into fashion as defensive resources have improved, and the complications no longer favor White as much as they once did. Still, Black walks on brittle ice and must play the defense very precisely if White accepts the challenge to sac a piece, as he does here.",
+        "9. Bxf6 gxf6": "This move holds d6 and with it the center, but compels Black to play the rest of his game with shattered pawns on both wings. White gets good activity for the piece he's about to invest, but not quite the attack he was undoubtedly playing for.",
+        "10. Ndxb5 axb5 11. Nxb5 Ba6": "Black must react energetically but dares not exchange too many pieces - and definitely not his Queen! - or White's Q-side phalanx will spring to life.",
+        "12. Qd3 Bxb5 13. Bxb5+ Nd7": "The check doesn't matter; it was White's Knight that was dangerous. Now White no longer has a quick way to put pressure on d6.",
+        "14. O-O O-O": "Black's position is as ugly as a hillbilly family reunion, but it's hard to crack ...and he's a piece ahead.",
+        "15. a4 Kh8 16. Qh3 Nc5 17. f3": "Better was 17. Rfe1. White had something potentially nasty to explore with the Rook-lift to a3, to transer it across the 3rd rank to assist in a K-side attack. But with the pawn at f3 now, that idea is kiboshed.",
+        "17... Qb6": "Prevents a4-a5, threatens ...Ne4, opens communication between Black's Rooks, and virtually forces White's next move.",
+        "18. Kh1 Na6": "Slows a pawn push to b4 and threatens Nc7 to exchange the Bishop.",
+        "19. c3 Nc7 20. Bd3": "White wanted to go here anyway, and then play e4-e5, threatening mate on h7. But Black has a wicked rejoinder.",
+        "20... Qe3 21. Bb1 Ra5 22. e5 f5 23. exd6 Bxd6 24. b4 Rd5 25. Ba2 Rd2": "Suddenly Black has an attack perking!",
+        "26. Qh4 Qxc3 27. Rfc1 Qg7": "And in this dynamic position, White overstepped."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-time-is-the-enemy-blitz-game?gm=44334",
+    "gameName": "Sicilian -- Time is the enemy  (Blitz Game)",
+    "players": "harrybella  vs. Avocet ",
+    "opening": "Sicilian (B90), Najdorf, Lipnitzky attack"
+}

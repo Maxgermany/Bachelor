@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 c5": "ThenSicillian opening. Does not help black really develop, but challenges White power in the center. ",
+        "2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3": "All normal play up to here. ",
+        "5... e5 6. Ndb5 a6": "The best move, I think, is d6, preventing Knd6+",
+        "7. Nd6+ Bxd6 8. Qxd6": "Blcking black from castling.",
+        "8... Qe7 9. Qxe7+ Kxe7": "Knxe7 is better in my opinion because now the black king cannot castle and could be drawn to the center.",
+        "10. Bg5": "Pins knight and threatens Knd5+",
+        "10... Nd4": "Thinking of Knxc2+",
+        "11. O-O-O": "Gives my rook an open file to use and stops knight threat.",
+        "11... h6 12. Nd5+ Ke6": "His mistake, but all other moves don't end too well for black anyway.",
+        "13. Bxf6 gxf6 14. Nc7+ Ke7 15. Nxa8 d5 16. c3": "Allows my rook a way to the middle of the board and an attack on the black king is imminent."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=46202",
+    "gameName": "Team match",
+    "players": "warp_speed (1822) vs. romast (1724)",
+    "opening": "Sicilian (B33), Pelikan, Bird variation"
+}

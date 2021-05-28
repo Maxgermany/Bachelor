@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 b6": "Opening is st George defense. ",
+        "2. d4 g6": "A Double fianchetto.",
+        "3. Bc4 Bb7 4. Nc3": "notice that black has only developed one piece.white two.",
+        "4... f5": "?! Another pawn move?",
+        "5. exf5": "So Black Wants the Rook.Right?He gets mated in two.............................",
+        "5... Bxg2 6. fxg6": "Black took the rook only ran into a catastrophe.can you see it?",
+        "6... Bxh1 7. Bf7#": "Checkmate.Notice that the king is smothered by the Q and B.Thank you for watching the annotated game.come back soon."
+    },
+    "url": "https://gameknot.com/annotation.pl/rook-sacrifice?gm=29633",
+    "gameName": "Rook sacrifice",
+    "players": " zweedijk (1200) vs. saalheim (1200)",
+    "opening": "Guatemala defence (B00)"
+}

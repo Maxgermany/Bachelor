@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "In things like League or Ladder games, I vary my openings. But in tournament or mini-tournament games I usually stick to more Classical lines, as in this game.",
+        "2... Nc6 3. Bb5": "Yet another Ruy Lopez. :)",
+        "3... Nf6 4. O-O": "Book.",
+        "4... Nxe4 5. d4": "The Open Variation.",
+        "5... Nxd4 6. Nxd4": "A pseudo-sacrifice, as the pin on the K file wins back the Knight at once.",
+        "6... exd4 7. Re1": "The pin in question.",
+        "7... c6 8. Rxe4+": "The capture with check allows time...",
+        "8... Be7 9. Bd3": "...for the B to escape as well.",
+        "9... d5 10. Re1": "The fireworks are over for the moment, and I have a small material advantage. Time to develop that Q-side.",
+        "10... O-O 11. Bf4": "The best spot.",
+        "11... Bd6 12. Bxd6": "Since I'm ahead in material, I don't at all mind exchanges.",
+        "12... Qxd6 13. Nd2": "The last minor piece clears the rank...",
+        "13... b6 14. Qf3": "...and development is finished, as my Rooks are connected.",
+        "14... f5 15. Re2": "Preparing...",
+        "15... Bd7 16. Rae1": "..to double on the open file.",
+        "16... Rae8 17. Re2xe8": "If Black now plays 17... RxR, I happily swap off the last Rooks with 18 RxR ch BxR and with 19 BxP I have a technically easy endgame win with my extra minor piece. ",
+        "17... Bxe8 18. Qh3": "So that I can play...",
+        "18... Qh6 19. Bxf5": "...this move without moving into a self-pin. 19... QxQ 20 BxQ would let me win slowly but surely.",
+        "19... Qxd2 20. Bxh7+": "Now I win quickly. Black's only way to fight on is 20... K-R1 21 B-N6 dis ch Q-R3 22 QxQ ch PxQ 23 BxB, after which I have an easy endgame win but Black can drag out his resistance for a while.",
+        "20... Kf7 21. Qe6#": "Black's actual move enables me to end it right here."
+    },
+    "url": "https://gameknot.com/annotation.pl/tonydogs-11th-mini-tournament?gm=39940",
+    "gameName": "Tonydog's 11th mini-tournament ",
+    "players": "last_archimedean (1317) vs. wallylayton (1104)",
+    "opening": "Ruy Lopez (C67), open Berlin defence, l'Hermet variation"
+}

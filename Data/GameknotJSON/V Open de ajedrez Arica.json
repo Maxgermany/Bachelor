@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. c4 c5": "Con Ignacio ya hab\u00edamos jugado varias partidas, por lo que s\u00e9 en qu\u00e9 lineas entrar\u00eda sin falta, por lo que opt\u00e9 por intentar variar el esquema a ver el tipo de respuesta",
+        "2. Nc3 g6 3. Nf3 Bg7 4. e4 Nc6 5. g3 Nf6 6. Bg2 O-O 7. O-O d6 8. d4 cxd4 9. Nxd4 Bg4": "Tambien era posible y probablemente mejor para el negro entrar en la variante 9.-Cxd4-Cxe4!? - 10.-Cxc6-Cxc3  - 11.-Cxd8-Cxd1  - 12.-Cxb7-Axb7 con ligera ventaja negra",
+        "10. Nde2 Ne5 11. f3 Be6 12. b3 Qb6+ 13. Nd4 Nc6": "Las blancas no quisieron jugar Dd4, ya que el cambio de damas si bien da igualdad para ambos bandos no es del estilo del blanco: entrar en un final tan prematuro. Las negras en este momento pasaron por alto una variante la cual yo calcul\u00e9 sin embargo tenia ciertas lineas que si Ignacio no veia el blanco quedaria mejor 13.-Cd4-Cxe4  - 14.-fxe4-Cd3 - 15.-Dxd3-Dxd4+  - 16.-Dxd4-Axe4+  17.- Tf2- Axc3 (no Axf2 ya que este es el detalle en el cual las blancas quedan superiores) y se entraria en un final donde las negras tienen ligera ventaja sin embargo deben ser exactas en sus jugadas o la ventaja se perder\u00e1 rapidamente, es un final complejo.",
+        "14. Be3 Nd7": "Las negras por inexperiencia e impulsivamente juegan Cd7 en vista de la amenaza que propina el Ag7 en el punto d4.",
+        "15. Nf5 Qa5 16. Nxg7 Kxg7": "La variante 16.-Cxg7-Dxc3 - 17.-Ah6-Tfc8 - 18.-Cxe6 solo da mayor ventaja al bando blanco",
+        "17. Nd5 Kg8": "Mejores resultados para el negro era reaccionar por medio de f5",
+        "18. f4 Nc5 19. b4": "Las blancas aciertan con la mejor jugada, fritz 11 indica que la jugada b4 por parte de las blancas es la jugada que decide el juego en ventaja desiciva para el bando blanco",
+        "19... Nxb4 20. Nxe7+ Kg7 21. Qxd6 Nc2": "unque las blancas siguen estando con ventaja desiciva la jugada mas fuerte en este punto era f5 ingresando rapidamente en el enroque negro",
+        "22. Bxc5 Nxa1 23. Bd4+ Kh6 24. f5": "Nuevamente las blancas dan la movida mas fuerte segun fritz",
+        "24... Rad8 25. Qf4+": "Aqui se dejo de anotar la partida por apuro de tiempo",
+        "25... g5 26. Qe3 Nc2": "En este punto por apuro de tiempo cometi una impresicion fatal al jugar De3 pasando por alto una jugada la cual calcule mentalmente miehntras jugaba  la siguiente ronda la cual era 26.-Ag7+- Rxg7 - 27.-Dxg5+- Rh8  - 28.- Df6++      o  bien 26.-Ag7+- Rh5 - 27.- Af3+- g4 - 28.- Dxg4++   y francamente creo que darme cuenta de esa jugada en el transcurso de las rondas hizo bajar enormemente mi nivel de juego durante el resto del torneo, pocas veces o la verdad nunca me habia ocurrido omitir un mate en 3 movimientos el cual no era dificil ver. Con el Blitz las negras resultaron ganadoras e Ignacio ocupo el tercer lugar del torneo, de todas maneras aprovecho este medio para felicitar a uno de los jovenes que nos representaran en el futuro de 64 casillas."
+    },
+    "url": "https://gameknot.com/annotation.pl/v-open-de-ajedrez-arica?gm=33516",
+    "gameName": "V Open de ajedrez Arica",
+    "players": "Sanhueza, Felipe  vs. Rivera, Ignacio ",
+    "opening": "English (A34), symmetrical variation"
+}

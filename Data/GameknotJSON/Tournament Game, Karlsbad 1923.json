@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 d5": "The game has now transposed into the QGD, Orthodox defense.",
+        "4. Nc3 Be7 5. Bg5 Nbd7": "Alekhine's position is cramped, but sound. ",
+        "6. e3 O-O 7. Rc1 c6": "Electing to not try for ...P-QB4, the standard freeing move.",
+        "8. Qc2 a6 9. a3 h6": "Attacking the B and creating \"luft\" for the King.",
+        "10. Bh4 Re8 11. Bd3 dxc4": "Now that White has moved his KB, this move gains a tempo.",
+        "12. Bxc4 b5 13. Ba2 c5": "Alekhine has eliminated Gruenfeld's spatial advantage and equalized the game.",
+        "14. Rd1 cxd4 15. Nxd4 Qb6": "Activating the Q and getting out of the potential pin.",
+        "16. Bb1 Bb7 17. O-O Rac8": "Alekhine takes command of the open file with a restricting pin.",
+        "18. Qe2 Ne5 19. Bxf6 Bxf6": "Alekhine now plans to plant his Knight on QB5...",
+        "20. Qc2 g6 21. Qe2 Nc4": "...and he does.",
+        "22. Be4 Bg7 23. Bxb7 Qxb7": "With the disappearance of Gruenfeld's last Bishop, Alekhine now has an edge in mobility. His B can zip across the board faster than Gruenfeld's Knights can traipse.",
+        "24. Rdc1 e5 25. Nb3 e4": "Preparing an outpost at Q6 for his Knight, with the additional threat of NxRP winning a Pawn. ",
+        "26. Nd4 Red8 27. Rfd1 Ne5": "Preparing to land.",
+        "28. Na2 Nd3 29. Rxc8 Qxc8": "Gruenfeld hopes to reduce Alekhine's attack by exchange of pieces.",
+        "30. f3 Rxd4": "If Gruenfeld now plays 31 PxR, Alekhine has 31... BxP ch 32 K-B1 N-B5! 33 QxP Q-B5 ch 34 K-K1 NxP ch 35 K-Q2 B-K6 ch and Gruenfeld may as well resign before the King-hunt ends in checkmate.",
+        "31. fxe4 Nf4": "Forcing Gruenfeld's reply.",
+        "32. exf4 Qc4": "Forking Q and N and leaving Gruenfeld with trhe choice of losing quickly or slowly.",
+        "33. Qxc4": "If the Queen instead moves away, Gruenfeld ends up a piece down and loses slowly. He chooses instead to lose quickly.",
+        "33... Rxd1+": "Forces mate, or crippling material loss.",
+        "34. Qf1 Bd4+": "Gruenfeld resigns. The finish would be 35 K-R1 RxQ mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-karlsbad-1923?gm=36755",
+    "gameName": "Tournament Game, Karlsbad 1923",
+    "players": "Ernst Gruenfeld  vs. Aleksandr Alekhine ",
+    "opening": "Queen's pawn game (E10)"
+}

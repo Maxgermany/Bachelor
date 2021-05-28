@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "D4 I;m having a lot of joy from this at the moment",
+        "1... d5 2. Bf4 c5": "This game is going to be interesting",
+        "3. e3": "white continues to develop quietly",
+        "3... Nc6 4. c3 Bf5 5. Nd2 c4": "I think that this is ok but Qb6 would have been better",
+        "6. Ngf3 f6": "Black is going to play e5. I am really happy with this positionas the black king seems to be a little exposed and black is a little behind on development",
+        "7. Be2 e5": "White wins a pawn, I am really not sure why black did this at this moment",
+        "8. dxe5 fxe5 9. Nxe5 Nxe5 10. Bxe5 Qg5": "White drops the bishop back",
+        "11. Bg3 a6 12. O-O": "Blacks king is really exposed and he has two minot pieces which aren't in the game",
+        "12... Nf6 13. Nf3": "The black queen isn't in the best of places",
+        "13... Qg4 14. Ne5": "The knight is in a very strong position",
+        "14... Qe4 15. Rc1": "I use the rook to cut off an escape square for the queen",
+        "15... Be6 16. Qa4+ b5": "I half expected this ",
+        "17. Qa5 Bd6": "This seems very logical it frees the bishop and will aloow black to castle",
+        "18. Qb6 Bxe5": "Black misses QxB",
+        "19. Qxe6+ Kf8 20. Bxe5 Ne8 21. Bh5 g6 22. Bf3": "Balck resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-c1?gm=26269",
+    "gameName": "League division C1",
+    "players": "dwardman (2013) vs. ptrewhela (1843)",
+    "opening": "Queen's pawn, Mason variation, Steinitz counter-gambit (D00)"
+}

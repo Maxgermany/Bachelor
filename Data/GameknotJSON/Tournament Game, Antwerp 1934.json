@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4": "The Nimzo-Indian, an aggressive and tricky line.",
+        "4. Qb3": "White counters equally aggressively. If Black exchanges, White gains a minor exchange at no cost.",
+        "4... c5": "Black defends the Bishop, but cuts off its retreat.",
+        "5. a3": "Trying to force the Bishop away.",
+        "5... Qa5": "Counterthreat! Now PxB would be answered with ...QxR.",
+        "6. Bd2": "Adding a defender to the Knight.",
+        "6... Nc6 7. Qd1": "Black's best line is 7... BxN 8 BxB Q-Q1 9 P-Q5, leaving White with a good game.",
+        "7... Nxd4": "Setting a trap: 8 PxB? QxR! 9 QxQ N-B7 ch winning the Q and ending up ahead an Exchange.",
+        "8. e3": "Now, however, White wins a piece! If the Knight retreats, White plays 9 PxB. If Black tries 8... BxN, 9 BxB forks Q and N and White still wins a piece! Black resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-antwerp-1934?gm=36698",
+    "gameName": "Tournament Game, Antwerp 1934",
+    "players": "Dyner  vs. Walter ",
+    "opening": "Nimzo-Indian (E23), Spielmann, 4...c5, 5.dc Nc6"
+}

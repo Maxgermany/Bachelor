@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4": "2. ......... exf4 - the King's Gambit Accepted.   The idea of the King's Gambit is to temporarily sacrifice a pawn for good development and to decoy the black pawn from the centre.  White will get this here, sure as you are born!  In fact, as you will see, my opponent is a MASTER!! Given the circumstances, (I try to hold on to the pawn at the expense of my development and I will pay, pay pay!!) I bet you will think it is a wonder that I last 27 moves!!",
+        "3. Nf3 d6": "3. ........ d6 - I am thinking about a couple of KGA games I had with dmaestro in which he played this move against me and I got really tied up.  I never regained the pawn and I lost both games - maybe it is worth trying this out on Master Chrisobee.",
+        "4. d4": "4. d4! - Master Chrisobee finds an improvement to my previous efforts against dmaestro which are as follows:-\r\nd3 0-1  jstevens1 (1675) vs. dmaestro (1600) \r\nd4 0-1  jstevens1 (1675) vs. dmaestro (1600) \r\n\r\nThis move strikes at the centre and causes problems for me later on.\r\n",
+        "4... g5 5. Nc3 Bg7 6. g3 fxg3": "6. ........ fxg3? - I received a PM from dmaestro after the game which suggested g4 as a better alternative as it would have tied my opponent up.  Instead, Master Chrisobee now ties me up!!",
+        "7. Bxg5 f6 8. Be3 gxh2 9. Nxh2 Ne7 10. Qh5+ Ng6": "10.  ......... Ng6 - forced to move the same piece twice to block a nasty queen check on h5.",
+        "11. Nf3 Be6 12. O-O-O Nd7": "12. ......... Nd7 - I try to get my pieces out as quickly as possible but the next move from Chrisobee will throw a huge spanner in the works.",
+        "13. Nh4 Bf7 14. Nf5 Bf8": "14. ......... Bf8 - I have no alternative but to undevelop my dsb.  Notice that if I castled instead I would have copped Old Matey!",
+        "15. Qh2": "15. Qh2  - the queen must back off as there is a threatened discovery involving my lsb and the knight on g6.",
+        "15... Nb6 16. Kb1 c6 17. Bh6 Kd7": "17. ........ Kd7 - protecting the d6 pawn and preparing to castle queenside by hand, but Chrisobee does not allow this!",
+        "18. e5 fxe5 19. dxe5 d5": "19. ............ d5 - after the exchange of pawns I try to keep the position around my king as closed up as possible.  I finally manage a central pawn break but at what a cost!",
+        "20. Bh3 Be6 21. Ng7 Bxg7 22. Bxe6+ Kxe6 23. Bxg7 Rg8 24. Qh3+": "24. Qh3  - the black king is badly exposed and even though a lot of wood has disappeared from the board, white still has plenty enough firepower for a devastating mating attack.",
+        "24... Kf7 25. Qxh7 Ne7 26. Bf6+ Kf8 27. e6": "27. e6 - I wave the white flag here as mate is unavoidable.  It can be soooo tempting to hold on to extra material once gained, but one must be prepared to return it if it means improving one's position."
+    },
+    "url": "https://gameknot.com/annotation.pl/another-tangle-in-the-kings-gambit?gm=16160",
+    "gameName": "Another tangle in the King's Gambit",
+    "players": "chrisobee (2300) vs. jstevens1 (1663)",
+    "opening": "KGA (C34), Fischer defence"
+}

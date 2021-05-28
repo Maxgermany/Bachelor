@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4": "This was fischer's usual move and for me it is the best",
+        "6... e6 7. Bb3 Be7 8. f4 O-O 9. Qf3": "White plays this to prepare f5,if black counters with e5 he will have a very weak d5 square .From here whites  idea is to attack on the kingside while black will look for something on the queenside ",
+        "9... Qc7 10. O-O b5 11. f5 b4 12. Na4": "As I said white will attack on kingside while black counters on queenside. White could have also played 12.fxe6 bxc3 13.exf7+ Kh8 14.Qxc3 Qxc3 15.bxc3 Bd7 here white must have enough with that f7 pawn",
+        "12... e5 13. Ne2 Bb7 14. Ng3 Nbd7 15. Be3 Bc6 16. Bf2 Qb7 17. Rfe1 d5": "Since white's knight is out of play black can play this move.Here black is completely better ",
+        "18. exd5 Nxd5 19. Ne4 Nf4 20. c4 g6 21. fxg6 f5 22. g7 Kxg7 23. Qg3+": "Move breaks the indirect pin of black's white bishop",
+        "23... Kh8 24. Nec5 Nxc5 25. Bxc5 Bxc5+ 26. Nxc5 Qc7 27. Qe3 Rae8 28. Re2 Nxe2+ 29. Qxe2 Bxg2 30. Nxa6": "White can't take bishop because of Rg8",
+        "30... Qa7+ 31. Kxg2 Rfg8+ 32. Kh3 Qg7 33. Bd1 Re6": "Mate will follow soon with 34.Qe3 Qg2+ 35.Kh4 Rh6+ 36.Qxh6 Qxh2",
+        "34. Qe3 Qg2+ 35. Kh4 Rh6+ 36. Qxh6 Qxh2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/2-chess-strategy-game-2?gm=52395",
+    "gameName": "#2 Chess Strategy Game 2",
+    "players": "Fischer (2680) vs. Tal (2695)",
+    "opening": "Sicilian (B90), Najdorf, Lipnitzky attack"
+}

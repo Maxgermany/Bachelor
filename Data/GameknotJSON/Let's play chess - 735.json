@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3": "Sicilian Najdorf, English attack",
+        "6... e5 7. Nb3 Be6 8. Qd2 Be7 9. f3 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Ne2 Ne8": "Every move so far following theory. ",
+        "14. Ng3": "This move, according to the gameknot database, isn't the best option. 54.6% score for black.. pretty darn good. The idea is to get the knight to f5, but if one move is played incorrectly, the game is lost for white. The position is too sharp for any errors!",
+        "14... a5 15. Kb1 a4 16. Nc1 Nc7": "Usually black plays 16.. b3, but this move is also good, certainly better against me! - moving in his knight for the attack. ",
+        "17. f4 exf4 18. Bxf4 Nc5 19. Qxb4": "DEFINATELY too risky for me to take this pawn. Looking back at the game, this move is definately where I lost it. Opening the B-file led to a crushing attack for black. ",
+        "19... Rb8 20. Qc3 Rb6 21. Rg1 g6": "Stopping any quick attacks of my own",
+        "22. Ka1": "Trying to keep off the nasty B-file!",
+        "22... Qa8 23. Nd3 Nb3+": "A stunning elegant move that caught me offguard! If I capture with axb3, the opening of the a-file with check leads to my downfall.\r\n\r\nMuch more subtly, after 24. cxb3 axb3 I am in some trouble.. \r\nFor example, 25. a3 loses promptly to 25.. Nb5 26. Qc1 Rc8 where I can't stop the deadly threat of Nxa3.\r\n25. Nb4 d5 is crushing as well. ",
+        "24. Kb1": "Humorously, the best option.",
+        "24... Nb5 25. Qe1 Nb3d4 26. Nb4 Nf3 27. Qe3 Qa5 28. Bxb5 Qxb5 29. a3": "Better was Qxf3, but i was too worried about black's attack",
+        "29... Nxg1 30. Qxg1 Rc8 31. Qe3 Rc4": "Black's attack is too overwhelming. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=27019",
+    "gameName": "Let's play chess",
+    "players": "chessy131 (1995) vs. vladeoh (2103)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

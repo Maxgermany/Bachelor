@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4": "Las blancas utilizan este orden de jugadas para evitar la defensa Gr\u00fcnfeld, de todas maneras en ese instante me daba lo mismo si entramos o no en ella, porque iba resuelto a jugar India de rey.",
+        "4... d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. Be3": "Aqu\u00ed estamos en la linea en cuesti\u00f3n. Las blancas retrasan el avance del pe\u00f3n en d5 o la captura y a la vez retan a las negras a perder algunos tiempos para descolocar el alfil de \"e3\". ",
+        "8... Ng4 9. Bg5 f6 10. Bc1 exd4": "Entonces, estas posiciones ya no son los acostumbrados asaltos de peones en el flanco, son m\u00e1s abiertas.",
+        "11. Nxd4": "Las blancas tienen presencia en \"d5\" y las negras en \"e5\". Querr\u00e1n golpear a \"e4\", pero el desarrollo del flanco de dama es un tema no menor.",
+        "11... Nxd4 12. Qxd4 f5": "No estoy seguro de la correcci\u00f3n de la idea negra, ahora se abre la diagonal se presiona en el centro, pero...",
+        "13. Qd5+ Kh8 14. Bxg4": "los peones doblados son de verdad. \u00a1Y la pareja de alfiles tambi\u00e9n!",
+        "14... fxg4 15. Bg5 Be6": "\u00a1P\u00e9sima jugada! un error de c\u00e1lculo que pudo costar de inmediato la partida. Al parecer mi rival no estaba en su mejor forma... 16 Axd8 luego toma en c7 y d6, tocando a la torre de f8. Lo m\u00e1s probable ser\u00eda tomar en c3 y luego defender con Tf6, pero es clara ventaja blanca.",
+        "16. Qd2 Qd7 17. b3 Rae8": "Torres a las columnas, \u00a1Qu\u00e9 m\u00e1s natural! sin embargo, la posici\u00f3n din\u00e1micamente hablando, es fome para las negras. Salvo la gran diagonal... entonces, se ve interesante 17.., Ae5, con idea de Dg7, tomando en cuenta que los chistes con Ah6 no son tan fuertes ya que el caballo de c3 quedar\u00e1 tocado o bien la torre si va a c1 a defender, permitir\u00e1 un Af4 recuperando la calidad en todas. La partida de a poco se empieza a volcar en favor de las blancas.",
+        "18. Rad1 Be5": "Ah\u00ed vamos por el buen camino!, pero ahora la torre blanca est\u00e1 m\u00e1s activa",
+        "19. Bh6 Rf7 20. Be3 a6": "Momento cr\u00edtico. Hab\u00eda que seguir presionando en las casillas negras con De7. Las blancas aprovechan la oportunidad",
+        "21. Bd4 Qe7 22. Bxe5+ dxe5 23. Ne2": "Ok, perdido no estoy, pero de que es inc\u00f3modo, es inc\u00f3modo: estructura de peones, diferencia de piezas menores, debilidad en el flanco de rey, pocas perspectivas de iniciativa. La posici\u00f3n de las blancas es \"sanita\". Ahora mi ecuanimidad naugrag\u00f3, como dijo Karpov",
+        "23... Qh4 24. Qc3 Bd7 25. Rd5": "\"ataque\" en el flanco, contrajuego en el centro. Las blancas est\u00e1n a la altura.",
+        "25... Qf6 26. f4": "Ahora resulta que el pe\u00f3n que no se mover\u00eda ser\u00e1 uno de los verdugos de la posici\u00f3n.",
+        "26... Bc6 27. Rxe5 Rxe5 28. Qxe5 Qxe5 29. fxe5 Re7 30. Nc3": "Ahora se notar\u00e1 la diferencia de reyes (n\u00f3tese la columna f) y la ventaja del caballo sobre el alfil.",
+        "30... Kg7 31. Kf2 Rxe5 32. Ke3 Rh5": "Algo tengo que buscar",
+        "33. Rh1 b5 34. Nd5 bxc4 35. bxc4 Re5 36. Kd4": "La lucha est\u00e1 perdida.",
+        "36... Rh5 37. g3 Bd7 38. Rb1 Rxh2 39. Rb7 Kf7 40. c5 Ke6 41. Nxc7+ Ke7 42. Nd5+ Ke6 43. Rb6+ Kf7 44. Ke5 Rc2 45. Kd6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/iii-memorial-pereyra-puebla-mendoza-arg?gm=37178",
+    "gameName": "III Memorial Pereyra Puebla, Mendoza ARG",
+    "players": "Salguero, Francisco (2281) vs. Mamani, Hector (2177)",
+    "opening": "Reti opening (A05)"
+}

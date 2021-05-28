@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. c3 a6 5. O-O Bc5 6. d4 exd4 7. cxd4 Bb6 8. d5 Nce7 9. e5 d6": "things are not going well for Black, in this Italian party: the center is already lost, and White is about to push forward with his rogue center pawns...",
+        "10. e6 fxe6 11. dxe6 d5 12. Re1": "White is prepared to sacrifice Bc4: after dxc4, Qxd8+, Kxd8, there will be lots of possibilities for compensation; in the meantime, White is covering the all important e6...",
+        "12... dxc4 13. Qxd8+ Kxd8 14. Nc3 Nf6 15. Be3": "a slick trap, still covering for e6: after Bxe3, Rxe3, restores the balance; after Bxe6?, Bxb6, wins back the sacrificed piece...",
+        "15... Bxe6 16. Bxb6 cxb6 17. Rxe6 Nfd5": "Black is unnecessary volunteering to give the won piece back: but this is getting Black in even more trouble...",
+        "18. Rd1": "of course...",
+        "18... Kd7 19. Rxb6": "positional luck, to say the least: but these are the breaks in blitz; White has restored the material balance in a won position...",
+        "19... Rad8 20. Ne5+": "maybe better straightaway Rxb7+: but I wanted to create a new pin over Ne7, and play Ng6; and once I reached it, I discarded it: too complex...",
+        "20... Ke8 21. Rxb7 Nxc3 22. Rxd8+ Kxd8 23. bxc3": "Rb8+, is followed by Nc8: better this...",
+        "23... Re8 24. g3": "time for preparing to clear the bottom line...",
+        "24... Kc8 25. Ra7 Kb8 26. Rxa6 Nd5 27. Nxc4 Nxc3 28. Kg2 Ne4 29. h4": "Black has no moves left: so he resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-on-the-board?gm=63980",
+    "gameName": "Fierce Queen on the board...",
+    "players": "fiercequeen (2059) vs. juhantuhk (UR)",
+    "opening": "King's pawn game (C50)"
+}

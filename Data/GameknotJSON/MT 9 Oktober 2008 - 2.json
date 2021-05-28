@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5": "I often use Sicilian to 1.e4.",
+        "2. b3 Nc6 3. Bb2": "Fianchetto.....",
+        "3... e5": "Of course I want to develop my pieces quickly (even if Nf6 was better than e5 for that reason). In this way I open a diagonal for the Q.",
+        "4. Bc4 d6": "To open LSB....",
+        "5. Qf3 Nf6 6. Na3": "......I have not a lot of experience with chess, and I want to be helped by someone. Nc3 was so much wrong? That move closes BSB, but that N on a-file doesn't help white so much, so was d3 better than Na3? I can understand white if he wants to castle quickly, even if with the Q on f3 square, it's a mistake cause then: Bg4 and I take the R....I hope you'll help me.",
+        "6... Be7 7. O-O-O Bg4": "Like I've just said.",
+        "8. Qg3 Bxd1 9. Kxd1 g6 10. f3": "f3?!",
+        "10... Nd7 11. f4": "f4?",
+        "11... Bf6 12. fxe5 Ndxe5 13. Ne2 O-O": "I choose castling.",
+        "14. Nb5 a6 15. Nbc3": "Nc3....he could do it before.",
+        "15... Ne7 16. Nd5 Nxd5 17. exd5 Qe7 18. Qe1 Nxc4": "good move.",
+        "19. Bxf6 Qxf6": "And I threaten mate on a8 square if there's no N one2 square.",
+        "20. bxc4 Rfe8": "I still work for a mate on a8 so I'd like to take the N with the R.",
+        "21. Qg3 Rxe2 22. Kxe2 Re8+": "The only way to save the K from a # is to sac the Q.",
+        "23. Qe3 Rxe3+ 24. Kxe3 Qd4+ 25. Ke2": "And now is so much easy!!",
+        "25... Qxc4+ 26. Kd1 Qxd5": "A developed Q against a not-developed R.....I think I'll win...",
+        "27. Re1 Kg7": "Kg7 for avoiding checks....white is closer to the defeat.",
+        "28. g3 c4 29. c3 b5 30. h4 Qf3+": "He loses g3 pawn too, so he decides the best move for him is Resigning. Good 30 moves-game for me. What do you think? Comment, bye!"
+    },
+    "url": "https://gameknot.com/annotation.pl/mt-9-oktober-2008?gm=19438",
+    "gameName": "MT 9 Oktober 2008",
+    "players": "taiman (1321) vs. andy94 (1400)",
+    "opening": "Sicilian defence (B20)"
+}

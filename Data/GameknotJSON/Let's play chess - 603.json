@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nc3 e6 3. Bg5 Be7": "I am normally the kind of player who plays active openings and sacrifices material to improve piece placement and development, but here, I just tried a slightly passive setup. I was rated 1200 at this time.The computer rates this equal.",
+        "4. Nf3 b6 5. Qd2": "the computer rates this very very slightly better for my opponent, but unless I am playing against Petrosian or some other positional master, I don't have to worry.",
+        "5... Bb7": "sure, my play is passive, but I have no weaknesses. Here I am trying to lull my opponent into attacking my weakness free position immediately. The computer, at master level, says I played without any inaccuracies, mistakes, or blunders through the game, but my position is safe and I build small advantages over time.",
+        "6. Nb5": "An inaccuracy. I am now better by half a pawn. This move violates the opening principles, which are\n\n1. Don't make excess pawn moves  2.aim to develop all pieces as actively as possible and connect rooks (castle)\n3.don't move a piece twice before moving most of your other pieces once, UNLESS YOU CAN MAKE A SERIOUS THREAT TO YOUR OPPONENT'S POSITION THAT MUST BE MET.\n4.hamper your opponent's development, but don't go out of your way to do so.",
+        "6... Nc6 7. Qf4": "maybe this was the point of Nb5...but this is not a serious threat, and it can be met easily.",
+        "7... Nd5 8. Qg3 Bxg5 9. Nxg5 a6": "and now I am scored up a pawn.",
+        "10. e4": "counter.",
+        "10... axb5 11. exd5 Nb4": "perfectly fine. Less complex than Nxd5. I am the sort of player who will go for small advantages over slightly bigger advantages for the sake of avoiding complications, and will only attack if I am sure it is winning. Computer says this is fine.",
+        "12. Bd3 Nxd3+ 13. cxd3 Bxd5": "very simple",
+        "14. O-O Qf6 15. Ne4 Qxd4 16. Qxc7 Bxe4 17. dxe4 O-O": "safeguarding my king, with a good advantage.",
+        "18. b3 Rfc8 19. Qg3": "bad move. Although it looks ugly, Qb7 is vital. the queen has no safe moves, but has to make sure the rooks don't get activated. After Q to b7, my ad. is around 1. Now it is higher than 2.",
+        "19... Qxe4 20. Rfe1 Rxa2": "working with basic overloading and deflection tactics to win.",
+        "21. Rac1 Rac2 22. Rxc2": "just giving up entirely.",
+        "22... Qxe1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=32796",
+    "gameName": "Let's play chess",
+    "players": "raghavrastogi (1400s) vs. chessboard12 (1200)",
+    "opening": "Queen's pawn game (A45)"
+}

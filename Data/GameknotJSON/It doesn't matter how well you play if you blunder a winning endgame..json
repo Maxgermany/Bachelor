@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "The Philidor Defence. Passive, but not unsound.",
+        "3. d4 Bg4 4. Be2 Bxf3 5. Bxf3": "? Strange to trade off the bishop pair without any compensation. Particularly black's good bishop!",
+        "5... Nc6": "? The black knight can now be harassed at no cost to white's development.",
+        "6. d5 Nb4 7. Bd2 Na6 8. O-O h6": "?! It's not obvious what benefit black gets from this. Normal developing moves like 8. ... Nf6 or 8. ... Be7 would have been stronger.",
+        "9. Nc3 Ne7 10. Bg4": "?! Loses time, but prepares an f-push to further activate the dark-squared bishop and stretch out the f-rook.",
+        "10... Ng6 11. Ne2 Be7 12. f4 Nc5 13. Bf3 Nh4 14. fxe5": "Relinquishes the bishop pair, but prepares significant activity for white's pieces.",
+        "14... Nxf3+ 15. Rxf3 Nxe4 16. exd6 Qxd6 17. Bf4 Qc5+ 18. Be3 Qd6 19. Qd4 Nf6 20. Bf4 Qd8 21. Re1 Qd7 22. Nc3": "22. ? Better was 22. c4.",
+        "22... c5": "?? A terrible blunder which creates a passed pawn for white. Better would have been 22. ... c6 23. Rd1 cxd5 24. Nxd5 Nxd5 25. Qxd5 Qxd5 26. Rxd5 O-O 27. Rd7, though white still wins a pawn here.",
+        "23. Qe5 Rd8": "\"A passed pawn is a criminal which must be kept under lock and key. Ordinary measures, like police surveillance, will not suffice.\" -- Aron Nimzowitsch",
+        "24. Rd1 Qd6 25. Qxd6 Bxd6 26. Bxd6 Rxd6": "\"The fewer pieces there are on the board, the more the passed pawn gains in strength.\" -- Jose Raul Capablanca",
+        "27. Re3+ Kd7 28. Red3 a6": "?! Looking for complications? Black should be exploiting his kingside pawn majority instead of weakening his queenside defense.",
+        "29. Na4": "To prepare c4.",
+        "29... b6 30. c4 Rb8 31. b3 Re8 32. Nc3 Ne4 33. Re1 Nxc3 34. Rxe8 Kxe8 35. Rxc3 Kf8 36. Kf2 Rf6+ 37. Rf3 Rxf3+ 38. Kxf3": "White has a passed pawn in a long chain and a more active, centralized king. It seems impossible that he would lose from this position.",
+        "38... Ke7 39. Ke4 Kd6 40. a3": "?? Stupid, stupid, stupid. White had no reason to play impatiently on the queenside. Better was to use his king to rip apart black's kingside: 40. Kf5 Ke7 41. g4 g6+ 42. Ke5 f6+ 43. Kf4 f5 44. gxf5 gxf5 45. Kxf5 Kf7 46. Kg4 Kg7 47. Kh5, and white wins easily. White will advanced his passed pawn, and when black's king moves to stop it, white's king will eliminate black's h-pawn and escort his own h-pawn to queening.",
+        "40... g6 41. b4 f5+": "! Rather than go for white's unnecessary queenside tomfoolery, black exploits his kingside majority advantage. White's king is forced to a passive position of his own making.",
+        "42. Kf4": "Necessary, if white wants to keep black's kingside pawn majority under control.",
+        "42... cxb4 43. axb4 a5": "? Still leads to a win, but 43. ... b5 gets there faster because it immediately eliminates the passed pawn after 44. cxb5 axb5, and we see the solidity of 41. ... f5+. White cannot prevent his passed pawn from getting eaten up.",
+        "44. bxa5 bxa5 45. Ke3 Kc5 46. Kd3 a4 47. Kc3 h5": "Black's advance is a little awkward, but it doesn't much matter how he advances. White's concern is the a-pawn, and by the time he gets rid of it, black's kingside pawns will be so far advanced that he won't be able to recover.",
+        "48. Kb2 g5 49. Ka3 f4": "Always advance the pawn free of opposition first.",
+        "50. Kxa4 g4 51. Kb3 f3": "There is nothing left for white. His king is too far from the queenside pawns, one of which will queen no matter what. Note to everyone out there: it does not matter how solid an advantage you gain if you cannot convert the pawn endgame. Studying these simple positions will make more of a difference in your playing skill than anything else."
+    },
+    "url": "https://gameknot.com/annotation.pl/it-doesnt-matter-how-well-you-play-if-you-blunder-a-winning-endgame?gm=50241",
+    "gameName": "It doesn't matter how well you play if you blunder a winning endgame.",
+    "players": "hpanic7342 (1411) vs. gollum123 (1354)",
+    "opening": "Philidor's defence (C41)"
+}

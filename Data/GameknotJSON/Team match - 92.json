@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 Nc6 2. e4 e5 3. d5 Nd4 4. Nf3 Bb4+ 5. c3 Bc5 6. Bg5 f6 7. Be3 Nxf3+ 8. Qxf3": "Exchange of knights",
+        "8... b6 9. Nd2 Nh6 10. Nc4 a5 11. Bd3 O-O 12. Bxh6": "Forcing an opening in front of the king",
+        "12... gxh6 13. Ne3 a4 14. Qg3+ Kf7 15. Nf5": "Bringing my knight in to support the queen on g7.",
+        "15... Rg8": "This kind of surprised me. When I was actually playing this game, I had no idea why Black had made this move, but now that I think about it, probably the Rook had been moved in this manner because Black had predicted Qg7+ and wanted to threaten my queen in addition to protecting that row. ",
+        "16. Nxh6+": "Pinning the rook",
+        "16... Kf8 17. Nxg8 a3 18. b3 Ba6 19. Bxa6 Rxa6": "Exchange of bishops",
+        "20. b4 Bd6 21. Nh6": "Preparing for mate. At this point, the best move for Black would have been Qe8, so that my potential mate would be blocked. (so that when I did Qg8+ followed by Qf7+, he could recapture my queen with his queen, prompting me to take his queen with my knight, which would have then given him my knight and reduced my advantage.",
+        "21... Ke8": "Black doesn't see the key move. Mate is inevitable.",
+        "22. Qg8+ Ke7 23. Qf7#": "Mate. Black's main mistake in this game was not utilizing all the pieces properly (the queen didn't even move in this game when it could easily have prevented this mate) as well as not predicting all possible outcomes. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=59822",
+    "gameName": "Team match",
+    "players": "otakumadness (1041) vs. pasty100 (1040)",
+    "opening": "Queen's pawn (A40), Lundin (Kevitz-Mikenas) defence"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Team match, I'm playing white and go with the Open Game.",
+        "1... c5 2. Nf3": "Sicilian Defense. Book moves.",
+        "2... Nc6 3. Bb5": "I recently made this move by mistake in a different game, but this time it was deliberate, since the other game worked out quite well. The Rossolimo Attack, also called the Hispano-Sicilian for it's similarity to the Ruy Lopez.",
+        "3... g6 4. Bxc6": "Black played main line, and now the book says castle for white, but I try something different. Probably just found it in the DB and liked the win % for white...",
+        "4... dxc6 5. d3": "5. d3 feels weak, but with no LSB to block in, why not? 5. d4 would just let black undouble his pawns then put pressure on white's knight at d4 when he fianchettoes on g7.",
+        "5... Bg7 6. h3": "Preventing the ubiquitous pin.",
+        "6... Nf6 7. Nc3 Nd7 8. Be3 h6 9. O-O": "Developing moves.",
+        "9... e5 10. Qd2 Qe7 11. Nh2": "Making room for 12. f4.",
+        "11... Nf8 12. f4": "Black's play with his knight seems erratic. First it blocks the fianchettoed bishop, then quickly moves to d7 where it blocks the black queen's file to the center. And now to f1 where it hems in black's king. Clearly it is on the way to e6 though with quite a loss of tempo it seems.",
+        "12... exf4 13. Bxf4 Ne6 14. Bg3 Nd4 15. Rae1": "The file is half-open, even if it's the wrong half.",
+        "15... Be6 16. e5 O-O-O 17. Ne4": "Jockeying, but with an eye on d6.",
+        "17... Nf5 18. Nd6+ Kb8 19. Nxf5 gxf5 20. Nf3": "19. ... gxe5 may not quite be a blunder, but it sure plays havoc with black's kingside pawn solidarity. Is the half-open g-file worth it? 20. Nf3 is a quiet little move, getting the knight out of the corner, but with a definite threat.",
+        "20... Rhg8 21. Bh4": "Black seizes his half-open file, but this allows white's reply 21. Bh4. Beware the Skewer!",
+        "21... Qd7 22. Bxd8": "Black was probably a little better off with 21. ... f6 22. exf6 Bxf6 23. Qxh6. At least the pawn he would lose was an isolated pawn, and he would undouble his f-pawns. As played, his material disadvantage is more significant and his kingside pawns are just as ugly as they were before.",
+        "22... Qxd8 23. b3": "Preventing 23. Bxa2, though that was probably just a death sentence for the bishop.",
+        "23... Qd5 24. Re2 f4 25. Qxf4": "24. f4? looks like a bit of a blunder to me, losing a pawn. It was doubled and isolated, so essentially worthless. Black now has a potential attack against h3, and if he moves his bishop off of g7, maybe with Bxe5, the rook on g8 will pin the white pawn on g2, allowing black to play Bxh3. But, working out the combinations, black seems to be one move short of pulling any of that off, so it looks safe to capture on f4.",
+        "25... a6 26. Qc4": "There I was, expecting threat after threat on the kingside, justifying 24. ... f4?! and black plays 25. ... a6 instead. Now I don't even know what to do. I had expected to have to defend, but it looks like I can attack instead. How about trading queens? Black has no move that doesn't lose the pawn on c4, and he's already down a pawn and the exchange, so both options are no good. Lose more material, or exchange the big guns. Sounds win-win to me.",
+        "26... Qxc4 27. bxc4 Bf8 28. Nd2": "En route to d6. NOte that 27. ... Bf8 opened up the rook to pin the white pawn on g2. Black can now play Bxh3 any time he wants, but it will be met immediately by white playing Rxf7 and only one of us will gain a passed pawn.",
+        "28... Be7 29. Ne4 b5 30. Nd6": "The threat is to the f7 pawn. Black must defend it. 30. ... f6 or 30. ... f5 is met with 31. exf6 Bxd6, 32. Rxe6 and white wins a pawn. So black moves his rook off of the half-open g-file",
+        "30... Rg7 31. Nf5": "Forcing another material exchange. ",
+        "31... Bxf5 32. Rxf5": "At this point, black did the math and decided he didn't have enough material to pull this off, especially with Ref2 coming soon, so he resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/beware-the-skewer?gm=22842",
+    "gameName": "Beware the Skewer",
+    "players": "blake84120 (1835) vs. wwgia (1660)",
+    "opening": "Sicilian (B31), Nimzovich-Rossolimo attack (with ...g6, without ...d6)"
+}

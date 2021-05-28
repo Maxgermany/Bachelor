@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O": "Where every game in the mini began. The position leads to interesting play.",
+        "8... Bxe5 9. Re1": "To avoid losing the pinned B, Black must move his King on this move to break the pin.",
+        "9... Nbd7 10. d4": "Since he didn't, the Bishop now falls.",
+        "10... O-O 11. dxe5": "Now that I've equalized the material, I must quickly develop my Q-side.",
+        "11... Nh5 12. Nc3": "The KRP can't be saved, so I focus on development.",
+        "12... Qxh4 13. e6": "Aiming to drive his QN and seal in his QB.",
+        "13... g3 14. Qf3": "Developing another piece and preventing his Pawns from swarming in on my King.",
+        "14... Qh2+ 15. Kf1": "Forced, but helpful. Now I will seek shelter in the open center of the board.",
+        "15... Ne5 16. Rxe5": "I gladly take the free Knight.",
+        "16... Nf6 17. Ke2": "Now once I activate my QB, my King will be secure and I can focus on attacking and simplifying.",
+        "17... Kh8 18. Bxf4": "Black's Queen, stuck in the corner, will be forced off the board in a moment.",
+        "18... a6 19. Qxg3": "The Queens, and Black's attacking chances, vanish.",
+        "19... Qxg3 20. Bxg3": "Now my positional and material advantages should be enough to win.",
+        "20... fxe6 21. dxe6": "The advanced passed Pawn brings with it a new set of threats.",
+        "21... Ng4 22. Rg5": "Forcing the Knight away from the defense of B-K5 ch.",
+        "22... Nf6 23. Be5": "Now B-K5 is a pinning mate threat. The Rook is tethered to the KB file.",
+        "23... b5 24. e7": "Mate, or catastrophic material loss, is now forced. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/rice-gambit-mini-tournament?gm=39503",
+    "gameName": "Rice Gambit mini-tournament",
+    "players": "thehellion (1218) vs. deepupoova (1205)",
+    "opening": "KGA (C39), Kieseritsky, Rice gambit"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 h6": "? This is one of those useless move that wastes a vital tempo. Don't play them unless they are needed to stop a full scale attack.",
+        "4. d4": "Since he neglected to develop, I grab the center.",
+        "4... f6": "?",
+        "5. dxe5": "Hoping for ...fxe5?, Nxe5! Nxe5??, Qh5+!! winning.",
+        "5... d6": "? This does nothing. Better Bc5.",
+        "6. Qd5": "I go on the offensive...",
+        "6... Qe7 7. Bf4 Nxe5 8. Bxe5 dxe5 9. Bb5+": "I switch my attack from f7 to the queen wing.",
+        "9... Bd7": "? Qd7 was much better.",
+        "10. Bxd7+ Qxd7 11. Qxb7": "I breach the wall.",
+        "11... Rd8 12. O-O": "The threat of mate was kind of annoying.",
+        "12... Bd6": "A passive move...",
+        "13. Qxa7 Ne7 14. Nc3 Qc6 15. Nh4": "I threaten to breach another wall...",
+        "15... O-O 16. Rad1 g5 17. Nf5 Bc5": "I started looking for a way to remove the bishop without moving blacks queen. I have a potential fork on e7.",
+        "18. Qa5 Nxf5": "He exchanges...",
+        "19. exf5 Bb6 20. Qa3": "I aim at the weak e7 square...",
+        "20... Bc5 21. Qb3+ Kg7 22. Ne2 Bb6 23. Ng3 Kh7": "? Wrong way to fend off the knight. This allows...",
+        "24. Rxd8": "!! My queen penetrates!",
+        "24... Rxd8 25. Qf7+ Kh8 26. Nh5": "I threaten mate...",
+        "26... Rg8 27. Nxf6": "This wins the black queen!",
+        "27... Rg7 28. Qf8+": "He saw mate was inevitable and resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/breaching-the-wall?gm=64392",
+    "gameName": "Breaching the wall...",
+    "players": "lake-bay (1449) vs. amg74scr (1252)",
+    "opening": "King's pawn game (C50)"
+}

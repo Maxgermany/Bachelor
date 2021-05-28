@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. Nc3": "The Dunst (Sleipner, Heinrichsen) opening (A00). I didn't know any replies to this opening, so I play g6.",
+        "1... g6 2. d4 Bg7": "Attacking the center with a fianchetto.",
+        "3. Nf3": "Pulls out the rest of his cavalry.",
+        "3... Nf6 4. Bf4 O-O": "I have castled in 4 moves, while he is developing. Needless to say, it seems as though I'm doomed to defense.",
+        "5. e4 d5": "I lash out to confront is strong center.",
+        "6. e5 Ne4 7. Nxe4 dxe4 8. Ng1": "? Right back where it came from. Surely, even h4 would have been better.",
+        "8... Nc6 9. d5 Nxe5 10. Bxe5 Bxe5": "Now the tables have turned: not only do I have a superior defensive position, but a strong center, too.",
+        "11. Rb1": "Stopping Bxb2.",
+        "11... e6 12. dxe6 Bxe6": "Developing my last minor piece. Here is one of White's bigger blunders: b3.",
+        "13. b3": "? This allows a long mating assault. QxQ would have been better.",
+        "13... Bc3+": "Now poor Henry must begin the trek to the middle. This follows one of the chess proverbs: target a centered King.",
+        "14. Ke2 Bg4+ 15. f3 exf3+ 16. Nxf3": "I expected gxf5.",
+        "16... Bxf3+ 17. gxf3 Re8+": "Better than Qe8.",
+        "18. Kf2 Qh4+ 19. Kg1 Re5 20. Be2 Bd4+ 21. Qxd4": "Only option.",
+        "21... Qxd4+ 22. Kg2 Rxe2+ 23. Kg3 Qe5+ 24. Kg4 h5+": "Here he resigned, since mate is unavoidable. Thank you, once again, for this great game, unum! And thank you, reader, for reading. Please R&C!"
+    },
+    "url": "https://gameknot.com/annotation.pl/game-1-vs-unumchess-an-arduous-mating-assault?gm=42995",
+    "gameName": "Game 1 vs. unumchess: an arduous mating assault ",
+    "players": "unumchess (1259) vs. theancientbeast (1305)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

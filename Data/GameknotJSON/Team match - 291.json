@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "Queen's Gambit.",
+        "2... h6": "This response is off book",
+        "3. Nc3 e6 4. Nf3 Nc6 5. e3 Bb4 6. Bd3 Nf6 7. O-O Bxc3 8. bxc3 b6 9. cxd5 Nxd5 10. Qc2 g6 11. Ba3 a6 12. c4 Ndb4 13. Bxb4 Nxb4 14. Qb1 Nxd3 15. Qxd3 Bb7 16. e4 Qf6 17. Rad1 O-O 18. d5 exd5 19. cxd5 Rad8 20. Rfe1 Rfe8 21. e5 Qf4 22. Re4 Qf5 23. g4 Rxd5": "First pawn up...",
+        "24. gxf5 Rxd3 25. Rxd3 Bxe4 26. Re3": "Bxpf5 would yield white's second pawn.  But trading down increases the value of the pawn advantage.",
+        "26... Bxf3 27. Rxf3 Rxe5": "Second pawn up.",
+        "28. fxg6 fxg6": "Nicely executed set of exchanges.  The two pawn advantage should prove formidable in the end game.",
+        "29. Rf6 Kg7 30. Rc6 Rc5 31. Rxc5 bxc5 32. Kf1 Kf6 33. Ke2 Ke5 34. Kd3 Kf4": "I would have chosen Kd5 instead, I think.  If white pushes a pawn, Pc4+.  Black has more pawn moves than white, whose right side pawns are split.",
+        "35. a4 Kf3 36. Kc4": "From here, black can clear both white pawns and push g to queen, ignoring white's king.  Trade queen for pawn, then black is free to push the h pawn to a queen for the win.",
+        "36... Kxf2 37. Kxc5 Kg2 38. Kc6 Kxh2 39. Kxc7 g5 40. Kb6 g4 41. Kxa6 g3 42. Kb7 g2 43. a5 g1=Q 44. a6 h5 45. a7 Qxa7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=50308",
+    "gameName": "Team match",
+    "players": "agripinila (1493) vs. sanjinp (1531)",
+    "opening": "Queen's Gambit (D06)"
+}

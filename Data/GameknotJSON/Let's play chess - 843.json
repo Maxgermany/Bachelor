@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Na3": "an original approach.  though white never did anything with the horse during the game it could have gone to c2 after c3 and went places from there.",
+        "2... Nc6 3. Nf3 d6 4. Bc4 Nf6 5. d3 e6 6. Bg5 Be7 7. Qd2 h6 8. Bf4": "Not 8 Bh4 Nxe4! 9 Bxe7 Nxd2 10 Bxd8 Nxf3+ 11 gxf3 Kxd8 or 9 dxe4 Bxh4 10 Nxh4 Qxh4 11 Qxd6 Qxe4+ 12 Kf1 Qd4! with an extra pawn",
+        "8... O-O 9. e5": "9 c3 was probably the best try.  Weaker was 9 0-0-0 a6 10 c3 b5 11 Bb3 b4 12 cxb4 cxb4 13 Nc4 a5 with the threat of ... a4 ",
+        "9... dxe5 10. Bxe5": "this hands black the two bishops but 10 Nxe5 is well met by Na5 gaining the two bishops that way.",
+        "10... Nxe5 11. Nxe5 Nd5": "11 ... Qd4 is defended by 12 Qc3 so black decides to go with the text looking for active play.",
+        "12. Bxd5": "this is very bad judgement on white's part handing black the bishop pair vs. his two knights.",
+        "12... Qxd5 13. Nf3 b6 14. O-O Bb7": "the possible mate on g2 creates some nice tactical possibilities for black.",
+        "15. c4 Qc6 16. Nb5 a6 17. Nc3 Rad8 18. a3 Rd7": "here black can not be too aggressive.  18 ... Rd4 is ably met by 19 Ne4! ",
+        "19. b3 Rfd8 20. Qf4": "a good try at defense.",
+        "20... Bf6": "the trap was 20 ... Rxd3? 21 Nd5! exd5 22 Ne5 or 21 ... Qd6 22 Ne5!",
+        "21. Rab1": "one might wonder if this was a mouse slip since 21 Rac1 was the logical defense to the knight.  ",
+        "21... Bxc3 22. b4 Bf6": "getting the bishop out of there and avoiding complications.",
+        "23. b5 axb5 24. cxb5": "one might have expected 24 Rxb5.  The energetic response for black is 24 ... Rxd3! for if 25 Rfb1 Rd1+ 26 Ne1 Qxg2 mate!",
+        "24... Qd6": "rather than 24 ... Qd5 playing for possible mates on g2 the text is all business",
+        "25. Qe3 Qxd3 26. Rbd1": "allowing an elegant finish but white should lose anyway a piece and a pawn down.",
+        "26... Qxd1": "the conclusion is 27 Rxd1 Rxd1+ 28 Ne1 R8d3! 29 Qe2 Bc3! with an easy win."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23960",
+    "gameName": "Let's play chess",
+    "players": "barsito (1266) vs. francisbaron08 (1200)",
+    "opening": "Sicilian defence (B20)"
+}

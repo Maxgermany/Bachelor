@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6": "Dragon Sicilian an opening that I've been practicing with black and have been quite happy with it.",
+        "6. Be3 Bg7 7. f3": "This move is played to prevent Ng4 when the queen comes to d2.  If Qd2 Ng4 can be problematic.  With the queen on d1 White just simple wins a piece with Bb5+!",
+        "7... O-O 8. Qd2 Nc6 9. O-O-O Bd7 10. Bc4": "Yugoslav attack main line.  This seems to be the ultimate challenge for black against the dragon.",
+        "10... Rc8": "Threatens Nxd4 winning a piece.",
+        "11. Be2": "?! normal is Bb3 maintaining the pin on the f7 square.",
+        "11... Qa5 12. Kb1 Ne5": "? This is the first mistake of the game.  Re8 would have been better here.  Which keeps the dragon bishop on g7.  This allows whites knight to come to d4 with tempo.",
+        "13. Nd5 Qxd2": "Guess Qd8 would be better but honestly I didn't even consider it during the game.",
+        "14. Nxe7+": "!",
+        "14... Kh8 15. Rxd2 Nc4": "!? leads to complex positions and keeps blacks rook active.  The reason for this move is because I don't want f4 to come with tempo.  I had a plan for Bxd2 Rc7 seems better for white as he has the chance to play f4 in the future.",
+        "16. Bxc4 Rxc4 17. c3": "? Seems solid but the knight has no where to go on e7 once Re8 is played.  Best was Nd5 Nxd5 dxe5 Re8 Bf2.",
+        "17... Re8 18. Nxg6+": "Gets a pawn out of the deal and doesn't weaken whites pressure.",
+        "18... hxg6 19. Nc2": "When I saw this I though wow what a good move.  However black can play against it I had d5 in mind so I played it here as well since it is the only move that seems to give black any activity.  I think white would have been better with Re1.",
+        "19... d5": "!?",
+        "20. Bxa7": "? not sure I like this move as we trade a for d pawn.  I had seen exd5 Bf5 and black should be able to win back the d5 pawn.  The position would have been roughly equal.",
+        "20... dxe4 21. Bd4": "Threatens Bxf6.",
+        "21... Bf5": "Threatens e3",
+        "22. g4": "?? Re1 I think was best here.  This allows me a dangerous passed pawn.",
+        "22... e3": "!",
+        "23. Re2 Bxc2+ 24. Kxc2 Nd5": "Here is the position I saw when I played Bf5 if white played g4.  Blacks e3 pawn is a big problem for white.",
+        "25. Bxg7+": "Trade should be good for me but it not like white had much else here.",
+        "25... Kxg7 26. Kd3 Rxc3+": "Think Rc7 is better here but I had already calculated this out to be a win.",
+        "27. Kd4": "I could save the rook Rc7 but it looses the e3 pawn.",
+        "27... Nf4 28. bxc3 Nxe2+ 29. Kd3 Nf4+ 30. Kc2": "I had seen this position some time back.",
+        "30... Rd8 31. Rd1": "? This trade is winning for black not that it makes much difference after Re1 Rd2+ Kc1 Ng2!",
+        "31... Rxd1 32. Kxd1 Kf6": "White resigns.  The passed pawn can easily be held for black and white can't generate queen side play fast enough because my king or knight can defend the queen side while maintaining the e3 pawn.  I slight improvement would have been g5! locking down the king side.  But this is still winning for black."
+    },
+    "url": "https://gameknot.com/annotation.pl/power-of-the-passed-pawn?gm=47099",
+    "gameName": "Power of the passed pawn.",
+    "players": "zigi (1608) vs. zwarwiz (1695)",
+    "opening": "Sicilian (B76), dragon, Yugoslav attack, Rauser variation"
+}

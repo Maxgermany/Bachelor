@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 f5": "The Dutch Defense.",
+        "2. h3": "A Strange move But It Requires attention.",
+        "2... Nf6": "The Modern Move In The Dutch Defense.",
+        "3. g4 fxg4": "Pawn Exchange.",
+        "4. hxg4": "White accepts",
+        "4... Nxg4 5. Qd3 Nf6": "??Black blundered......",
+        "6. Rxh7": "Black Resigned.If The Rook or Knight Captures The Rook Then Qg6#.Thanks For watching The Annotated game.Be Back Soon.Bye."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=29588",
+    "gameName": "Chess game",
+    "players": "Johansson    (1200) vs. Hernback (1200)",
+    "opening": "Dutch, Korchnoi attack (A80)"
+}

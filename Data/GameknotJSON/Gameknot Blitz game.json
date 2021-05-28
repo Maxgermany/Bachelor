@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. Bb5": "Sicilian: Rossolimo Attack.  I often play Bb5 against the Sicilian to avoid standard opening lines.",
+        "3... d6 4. d4": "0-0 is the book move, but d4 pushes the aggressive center attack.",
+        "4... cxd4 5. Nxd4": "Qxd4 is historically more common and successful.",
+        "5... Bd7 6. Nxc6 Bxc6": "Kierzek-Dorst 2000 (1-0)",
+        "7. Bxc6+ bxc6 8. O-O Nf6 9. Nc3 e6 10. Bg5 Be7 11. e5": "e5?!  The pawn push creates an isolated pawn on c6 and doubled pawns on the e-file.",
+        "11... dxe5 12. Re1 Qc7 13. Qe2 Bd6 14. Bxf6 gxf6 15. Ne4 Ke7": "Ke7?  Better was Be7 =",
+        "16. Rad1": "White mounts a coordinated attack on the central squares.",
+        "16... Rad8 17. Rd3 f5": "f5? is a premature attempt to chase the Knight.  Better was Bb4.",
+        "18. Nxd6 Rxd6 19. Qxe5": "Qxe5!  White has a fork against the Black Rook on h8 and the f5 pawn (the e6 pawn is pinned).",
+        "19... Rhd8 20. Qc5": "Qc5? loses the advantage.  Qxf5 and White was ahead. ",
+        "20... Qb6 21. Qxb6 axb6 22. Rxd6 Rxd6": "The position is equal.  White has the better pawn structure, but Black's Rook and King are more active.",
+        "23. g3 Rd2 24. Rc1 Kd6 25. b4 Kd5 26. c4+ Ke4 27. a4 Rb2 28. b5 cxb5": "cxb5? If c5 Black had winning chances to capture the backward pawns on a4 and c4.",
+        "29. axb5 Kf3": "Kd4 was better.",
+        "30. Rc3+": "The position is equal and headed for a draw.",
+        "30... Kg4 31. Kg2 h5 32. h3+ Kg5 33. Rd3 Rc2 34. h4+ Kf6 35. Rd6 Rxc4 36. Rxb6 Rb4 37. Kf3 Ke7 38. Rb7+ Kf6 39. Kg2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-game?gm=42704",
+    "gameName": "Gameknot Blitz game",
+    "players": "rameau (1762) vs. cfnp9066 (1200)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3": "White looks like he's setting up for a Closed Variation. I play the Closed as White myself, sometimes; but I much prefer playing *against* it.",
+        "2... Nc6": "Believe it or not, after 1. e4 c5  2. Nc3, Black will inevitably end up with a very difficult game (assuming good play on both sides) if he *doesn't* play the \"book move\" 2. ...Nc6, at least in my experience.",
+        "3. d3 g6 4. Be3 d6 5. Qc1 Bg7 6. Nge2 Nf6 7. g3 O-O 8. Bg2 Ne8 9. Bh6 Nb4": "Threatening, of course, 10. ...Bh6  11. Qh6 Nc2 winning at least the Exchange.",
+        "10. Bxg7 Kxg7 11. a3 Nc6": "What's changed? Well, the dark Bishops are off the board, and White has created a small weakness in his pawns, at b3. Other than that nothing has changed.",
+        "12. Qf4 Nc7 13. O-O Ne6": "Gaining tempo on White's Lady. Black now gets a Knight on d4 - nice post!",
+        "14. Qe3 Ned4": "Black gains another tempo - either now or a move from now, it matters little. White must guard the weakness at c2 somehow, whether he exchanges a Knight-pair or not on the next move.",
+        "15. Qd2 Rb8": "A circumspect move. White's position is unassailable at this point: his pieces are well-posted - ready to spring into action at the drop of a hat. Black cannot afford to be careless, so he adheres to traditional (i.e. \"stereotypical,\" more or less) theory which says that in the Sicilian White plays to win on the Kingside and Black counterplays for advantage on the Queenside. The Rook-nudge prepares his Q-side pawn expansion.",
+        "16. h3": "White seeks to limit the scope of Black's Q-Bishop, preparatory to his own plans for K-side expansion. Probably better, however, was the immediate space-grabber of 16. f4.",
+        "16... b5 17. Rab1": "Still no push to f4? I'm waiting for it so I can play ...Bd7 in response. ...Since White seems hesitant to do anything on the K-side, I keep expanding on the Q-side.",
+        "17... a5 18. Nd5 Nxe2+ 19. Qxe2 b4 20. axb4 axb4 21. b3": "Exchanging a minor weakness at b3 for gaping holes at c3 and d4. White's Q-side pawn structure is just about fixed at this point - and not to his advantage because the holes Black will occupy are of the opposite color of White's remaining Bishop, meaning the only piece he can use to dislodge a posted piece (without losing material) is his Knight, which Black will exchange in a heartbeat for his Bishop, if he can.",
+        "21... Nd4 22. Qd2 e6 23. Nf4 Bd7 24. Kh1 Qc7 25. Rbc1 Nb5": "Black will have none of this \"pawn-break on c3\" stuff!",
+        "26. Ne2 e5": "Opening e6 for his Bishop.",
+        "27. Kh2 Be6 28. Rca1 f5 29. exf5 gxf5 30. Qg5+ Kh8": "Suddenly Black has play on both sides of the board.",
+        "31. Qh6 Bg8 32. Qg5 Qg7 33. Qxg7+ Kxg7 34. Bc6 Na3 35. Rac1": "White could have played 35. c3 without the prepatory move: Black has no way to stop the c-file from opening.",
+        "35... Rb6 36. Bg2 Be6 37. Ng1 Nb5 38. Nf3 Nc3 39. Ng5 Bd7 40. Rfe1 h6 41. Nf3 Bc6 42. Nd2 Bxg2": "I would have preferred the Knight, but this will do.",
+        "43. Kxg2 Ra6 44. Nc4 Nb5 45. Rca1 Rfa8 46. Rxa6 Rxa6 47. Ne3 Nd4 48. Rd1 Kf6": "Black has now covered all his weaknesses, while White steps all over his own toes. Black's Rook owns the only open file, his Knight dominates the Q-side, and his King holds the center. Now the only thing left to accomplish is the hardest thing in all of chess to do ...win a won game!",
+        "49. Rc1 h5": "Black prepares ...Ke6 followed by ...f4, driving the White Knight back to the first rank.",
+        "50. h4 Ke6 51. Nc4 Ra2": "Slamming the door",
+        "52. Ne3 d5 53. Kf1": "The fatal error. White can still play 53. f4 with counterplay. The text simply drives the final nail in White's coffin.",
+        "53... f4 54. gxf4 exf4 55. Ng2 Kf5 56. Ne1 Kg4 57. Kg2 f3+": "Burying White's Knight.",
+        "58. Kh2 Kxh4 59. Kh1 Kg4 60. Kh2 Ne2": "From about here until the end of this critical part of the endgame, and probably for several moves prior, I was in deep time-trouble, with my clock's countdown diving into the red on almost every move as I only barely stayed ahead elimination thanks to the Fischer increments.",
+        "61. Rb1 d4 62. Rd1 Nc3 63. Rc1 Nb5 64. Rb1 Ra6": "At last Black can move his Rook to the K-side!",
+        "65. Rc1 Re6 66. Kg1 Kf4 67. Ra1 Na3": "Slamming that door for a second time! White is dead lost now.",
+        "68. Rc1 Rg6+ 69. Kh1 Re6 70. Kg1 Re2 71. Kf1 h4 72. Kg1 h3 73. Kh2 Rxf2+ 74. Kxh3 Re2": "White is paralyzed. It was at about this point my opponent noticed - apparently for the first time - that I was gaining time on my moves (because of the application of the Fischer increments): he accused me of cheating, probably in an effort to distract me.",
+        "75. Kh4 Rh2#": "Brings the quietus."
+    },
+    "url": "https://gameknot.com/annotation.pl/closed-sicilian-endgame-like-big-anaconda?gm=43655",
+    "gameName": "Closed Sicilian -- Endgame ...like Big Anaconda!",
+    "players": "bmorris101 (1200) vs. Avocet (1200)",
+    "opening": "Sicilian (B23), closed, 2...Nc6"
+}

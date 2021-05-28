@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. c4 d4": "playing for pawn position instead of taking the pawn. if i take it, it moves my pawn out of the central corridor and allows him the oppurtunity to move his e pawn forward and attack my pawn with his bishop.",
+        "3. d3 Nc6": "more protection",
+        "4. g3 e5 5. Bg2 Qd6 6. O-O": "this move surprised me castling so early",
+        "6... Bf5": "setting up a possible attack on d pawn and knight",
+        "7. Na3 a6": "preventing the horse attacking my queen",
+        "8. Qc2 g6 9. Nh4 Nb4 10. Qa4+ c6 11. Nxf5 gxf5 12. Nc2 Nf6": "i'm prepared to swap my queen and so i start to set up an attack on the king with my pawns clearing the path for my queen and knight",
+        "13. a3 Nxc2 14. Qxc2": "happy to make the swap as this horse was not threatening in this position",
+        "14... Ng4 15. b4 f4 16. h3 h5": "offering my horse in exchange for left side opening to attack king",
+        "17. b5": "perhaps advancing my h pawn would have been an option but then i would have sacrificed a knight without even taking a pawn and making good position.",
+        "17... fxg3": "setting up another attacking angle with the bishop",
+        "18. fxg3 Bh6 19. c5 Be3+": "if he takes the bishop i get a fork on his rook and queen with my knight",
+        "20. Kh1 Qg6 21. bxc6 bxc6": "i only now see the fork develop on king and rook",
+        "22. Qa4": "i dont want to castle in either direction. if i castle to the left it removes my left side attack and will allow my knight to be taken.",
+        "22... e4": "i moved this so i can move my knight to protect the c pawn",
+        "23. Bxe4 Qe6": "but im not a fan of defending so i decide to chance it and set up my own attack",
+        "24. Bxc6+ Ke7 25. Bxa8": "as expected",
+        "25... Nf2+ 26. Rxf2 Qxh3+": "rook for a knight is a good swap but  i think i can further exploit him by keeping his king busy",
+        "27. Kg1 Qxg3+ 28. Bg2 Qxf2+": "i take the rook with my queen to keep his king in the corner",
+        "29. Kh2 Rg8": "if he doesn't move his queen to protect the next move is mate",
+        "30. Qc6 Qf4+": "now i have him on the run with three attacking pieces",
+        "31. Kh1 Qh4+": "and its over, the only thing he can do is move his bishop to h3 then its check mate. i think this is good example of where sacrificing pieces can be used to gain attacking position while distracting your opposition. please leave some comments and let me know what you think. Cheers.\nAlex"
+    },
+    "url": "https://gameknot.com/annotation.pl/00273?gm=12572",
+    "gameName": "00273",
+    "players": "otherj (1619) vs. alexjones85 (1392)",
+    "opening": "Reti (A09), advance variation"
+}

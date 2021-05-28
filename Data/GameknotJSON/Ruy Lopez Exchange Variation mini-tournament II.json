@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7": "An unusual variation of the Ruy Lopez, the Exchange Variation is infrequently used but is quite sound. In the words of Dr. Reuben Fine, \"White heads straight for the end game. Every time a piece is exchanged he is one step nearer his goal... Theoretically there seems to be little wrong with White's plan, which is why the line can be held quiescent but never made to disappear completely.\" All the games in the tournanment begin with this position.",
+        "8. Bf4 O-O-O 9. O-O Bc5 10. Nf5 g6": "Of course, since I'm Black I *don't* want to exchange pieces, at least until the Pawn structure is more favorably disposed towards me in an end game. However, I do wish to drive the Knight from the fine square KB5.",
+        "11. Ng3 Nf6": "Pressuring the White KP.",
+        "12. Nc3 Be6": "Clearing the open file for my Rook.",
+        "13. Bg5 Be7": "I must guard the Knight.",
+        "14. e5 Nd5": "Now I centralize it. i realize at least one minor piece will be exchanged, but I have little choice.",
+        "15. Nxd5 Bxg5": "Now i have 2 B's against 2 Knights, so if the heavy pieces are exchanged and I end up in an end game that should compensate for my disadvantage in Pawn position.",
+        "16. Nc3 Bf4": "Focusing my fire on the advanced KP.",
+        "17. Rfe1 Bd2": "Now I can create a Pawn weakness for White...",
+        "18. Red1 Bxc3": "...which I do with this exchange.",
+        "19. Rxd8+ Rxd8": "White trades down.",
+        "20. bxc3 b6": "I look to exploit White's weakened Q-side Pawns.",
+        "21. h3 Rd2": "The obvious threat, which for some reason...",
+        "22. a4 Rxc2": "...White doesn't respond to. I was expecting 22 R-QB1 to preserve material equality. ",
+        "23. Ra3 Kd7": "Time to activate...",
+        "24. Kf1 Ke7": "...and centralize my King.",
+        "25. f4 f6": "Looking to weaken White's K-side Pawns as well.",
+        "26. exf6+ Kxf6": "White chooses to exchange.",
+        "27. a5 b5": "I bypass the Pawn push.",
+        "28. Ne2 Bc4": "I take immediate adavantage of White's tactical error. White resigns, as the Knight must fall. An abrupt ending to what looked like it was going to be a long, strategic end game."
+    },
+    "url": "https://gameknot.com/annotation.pl/ruy-lopez-exchange-variation-mini-tournament-ii?gm=43155",
+    "gameName": "Ruy Lopez Exchange Variation mini-tournament II",
+    "players": "mariolottering (1286) vs. last_archimedean (1333)",
+    "opening": "Ruy Lopez (C68), exchange, Alekhine variation"
+}

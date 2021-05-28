@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "We all used this move, back then...",
+        "1... e5": "...and almost always replied with this.",
+        "2. f4": "This wasn't at all uncommon among us. We'd usually accept on the Black side.",
+        "2... Bc5": "I decided to vary from the norm, just for the hell of it.",
+        "3. fxe5": "T. M. seizes the unprotected KP.",
+        "3... Qh4+": "Anytime I could safely play Q-R5 ch, I figured good things would follow.",
+        "4. g3": "Blocking off the check...",
+        "4... Qxe4+": "...but now he's in trouble.",
+        "5. Ne2": "It hardly matters at this point...",
+        "5... Qxh1": "This gives me a winning material advantage, if the game gets far enough for it to matter.",
+        "6. b3": "Playing out the string.",
+        "6... Qxh2": "Taking the free Pawn.",
+        "7. Bb2": "Completing his fianchetto and guarding the advanced Pawn.",
+        "7... Bf2#": "Finishing the game elegantly."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-hs-quickie?gm=31703",
+    "gameName": "A HS quickie",
+    "players": "T. M.  vs. Hellion ",
+    "opening": "KGD (C30), classical variation"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "Another game from the Ruy Lopez mini-tournament.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3 d5 9. exd5 e4": " I don't play the Ruy, so now I'm not sure if this is main line or not. ",
+        "10. dxc6 exf3 11. d4": "I'm notating this game after-the-fact for once, and I don't remember what all was happening here. Perhaps I'm trying to get a pawn up on d5.",
+        "11... Re8 12. Bg5 Bg4 13. h3 Bh5 14. Bxf6 Bxf6 15. g4 Rxe1+ 16. Qxe1 Bg6 17. Nd2": "I know I'll get the pawn at some time.",
+        "17... Qd6 18. Qe3": "He may think my queen's after the pawn, but I've got another idea. He's starting to get fewer pieces on his back row, and I plan to take advantage of that.",
+        "18... Qxc6": "I wanted the queen there. He doesn't see the danger his queen & rook are in.",
+        "19. Re1 Kf8 20. g5": "Here comes the trap. The best he can do now is to take the pawn.",
+        "20... Bd8": "Stop here. Do you see White's winning move?",
+        "21. Bd5": "Here's the Remove the Defender tactic in action.   \nIf he captures the bishop, I play Qe8#. If he moves the queen to d7, then I win a rook"
+    },
+    "url": "https://gameknot.com/annotation.pl/do-you-see-the-trap?gm=41292",
+    "gameName": "Do you see the trap?",
+    "players": "chuckbo (1993) vs. gcah2006 (1811)",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

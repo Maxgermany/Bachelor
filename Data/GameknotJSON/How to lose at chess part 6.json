@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. f4": "This was a tournament game which didn't start badly for me but in the middle game I lost my way and made some blunders that I never recovered from. Please comment particularly on the end game.\n\nThe tournament starting position is 1. f4 (Bird's opening)\n\nAnalysis is available at http://gameknot.com/analyze-board.pl?bd=18242626&fb=1&rnd=0.07929751090705395",
+        "1... d5 2. Nf3": "This is the Lasker variation",
+        "2... Nf6 3. d4 Bf5": "I like the bishop here though Bg4 is tempting too",
+        "4. e3 e6 5. Bd3 Ne4 6. O-O Bd6 7. Nc3": "This move takes us out of the Gameknot database which has c2,c3 and Ne5 as possibilities",
+        "7... Nd7": "I chose this in preference to Nc6 as it gave the the opportunity of a pawn storm on the queen side in the future",
+        "8. Nb5 Bb4 9. a3 Ba5 10. b4 Bb6 11. Bb2 O-O 12. Ne5": "I'm not sure about this move as it seems to me to achieve nothing more than weakening the defence of the king, and gives my queen free reign over the d8-h4 diagonal, though the computer analysis doesn't object to it",
+        "12... Nxe5 13. fxe5 Qg5": "threatens Bf3",
+        "14. Bxe4": "The computer describes this as an inaccuracy preferring Qe2",
+        "14... Bxe4": "Another inaccuracy according to the computer which prefers Qxe3",
+        "15. Rf2 Qxe3 16. Qe2 Qxe2 17. Rxe2 a6 18. Nc3 Bxd4+ 19. Kf1 Rad8 20. Na4 Ba7 21. Rd1 Bf5": "I think better was Bg6, threatening Bh5 which gains a rook for a bishop",
+        "22. h3 b5 23. Nc5": "Around this point I started to lose direction I wanted to try to keep the bishop pair if I could and needed to open some lines but I couldn't really see how to",
+        "23... a5 24. Nb7 Rd7 25. Nxa5 d4 26. Nc6 Bb6 27. Nxd4 Rfd8 28. c3 c5 29. bxc5 Bxc5 30. Red2 h5 31. Ke1 g5": "The computer calls this a mistake preferring Be4. This is the point where it thinks I lost any lead I may have had",
+        "32. Nxf5 Rd7xd2 33. Rxd2 Rxd2 34. Kxd2 Kh7": "This is a total blunder, I have no idea what I was thinking of and should have taken the knight",
+        "35. Ne3 Kg6 36. c4 Bxe3+ 37. Kxe3 bxc4 38. Kd4 f5 39. exf6 e.p. Kxf6 40. Ke4+ Ke7": "I chose this as I thought any change I may have had would lie in getting over to the other side of the board but I am clearly lost by this point and should have resigned",
+        "41. Ke5 Kd7 42. g3 g4 43. hxg4 hxg4 44. Kf4 Kd6 45. Kxg4 e5 46. Kf5 Kd5 47. Bxe5 Kc5 48. g4": "Thanks for reading please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-lose-at-chess-part-6?gm=46741",
+    "gameName": "How to lose at chess part 6",
+    "players": "beyers (1535) vs. elwoos (1449)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

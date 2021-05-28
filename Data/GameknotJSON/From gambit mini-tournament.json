@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Ng6 8. Nxg6 hxg6": "The starting position.",
+        "9. Bg2 Rxh2": "If 10 RxR, 10... BxP ch followed by 11... BxR wins back the piece.",
+        "10. Bf4 Rxh1+ 11. Bxh1 Bxf4 12. gxf4 c6": "More wood comes off the board. Material is even and both sides still have to develop the Queen-side pieces.",
+        "13. Nc3 Qh4+ 14. Kd2 Bf5 15. Qe1 Qf6": "I decline the Queen trade. ",
+        "16. e3 Nd7 17. a4 Nb6 18. b3 O-O-O": "Development is complete at last.",
+        "19. Rd1 Qe6 20. Kc1 Qe8 21. Qh4 Qxe3+": "I gain a material edge.",
+        "22. Kb2 Qxf4": "I add to it.",
+        "23. Qf6 Nd5 24. Bxd5 cxd5": "I don't at all mind exchanging minors.",
+        "25. Qxf7 Qf2 26. Rc1 Qxd4": "White overlooks this capture.",
+        "27. Rd1 Qc5": "Taking indirect aim at the base of the White Pawn-chain.",
+        "28. Nxd5 Qxc2+": "As planned, maintaining my edge.",
+        "29. Ka3 Kb8 30. Rd2 Qc6": "Intending... Q-Q2 offering a Queen trade.",
+        "31. Re2 Qxd5": "Now I win a piece outright.",
+        "32. Qe7 Qd7": "Now White really can't afford to trade Queens...",
+        "33. Qe5+ Qd6+": "...but I force them off the board.",
+        "34. Qxd6+ Rxd6": "Now I just have to mop up.",
+        "35. Re8+ Kc7 36. Re7+ Rd7 37. Re1 Kd8": "Looking to work the King to the K side to support my passed Pawns.",
+        "38. a5 b6": "Naturally, I want to lock the position on this side.",
+        "39. a6 Re7": "I now offer a Rook trade.",
+        "40. Rh1 g3": "White graciously resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/from-gambit-mini-tournament?gm=56799",
+    "gameName": "From gambit mini-tournament",
+    "players": "starkkev (1382) vs. last_archimedean (1367)",
+    "opening": "Bird (A02), From gambit, Lasker variation"
+}

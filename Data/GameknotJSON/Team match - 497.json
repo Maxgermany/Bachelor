@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4": "Now he thinks I am playing the Italian Opening.",
+        "3... Bc5 4. b4": "This is the move for the Evans Gambit. You give away this pawn for a chance to develop faster.",
+        "4... Bxb4 5. c3": "With this move he must move his Bishop a third time in 5 moves.",
+        "5... Ba5": "This is not the only place the Bishop can go. Black can put this Bishop on e7 to and that is a different line. And I can't write that much so all I will say is the the Bishop does not do good to go back to c5 because you play 6. d4 and he will have lots of trouble.\r\n",
+        "6. O-O": "I castle. But you can play d4 right away if you like. I just do not like pins and my coach says that castling is still a good move.",
+        "6... Nf6": "Black must race to develop. This move attacks my e4 pawn. But he must not take it. His King is still in the middle and I can attack his King through his Knight if it is on e4, and his pawn on e5. This would be bad for Black.\r\n",
+        "7. d4": "Now I attack the center. There is no pin on the c3 pawn and the Knight on b1 is a good bodyguard for it.",
+        "7... d6": "d6 is not a good move He should take my pawn on d4. Now I can make him work real hard, because every time I take a pawn with my pawn he must decide what he can do about it. And now I can open the center for my pieces.",
+        "8. dxe5 Nxe5": "Now he should take with his pawn. This makes trouble for Black because I can do anything I want with my Queen. I can trade Queens and his King will be stuck in the middle because the King is the only bodyguard for her. But I find a better place for my Queen. ",
+        "9. Nxe5 dxe5 10. Qb3": "You can only put your Queen on b3 if Black can not put a Knight on a5 or d4. This is another reason Nxe5 was not a good plan. My coach Mr. Marble says that the most important square to keep track of is f7 for Black and f2 for White at the beginning of a game and the Evans Gambit always attacks f7.",
+        "10... Qd7": "This is Blacks mistake. Black should castle and then White only has a little advantage. Now you will see why the Evans Gambit is mean.",
+        "11. Rd1": "I give this two exclamation points because I thinked of it for a long time. And I want to take the King away from the Queen when she is on f7. The Rook has a body guard from my Queen on b3 and I do not give Black time to castle any more because I will take the Queen. I no he will put his Queen on f7 because of my plan. ",
+        "11... Qe7 12. Bxf7+": "Black thinks I made a mistake and that I will lose my Bishop for the pawn. But I made a good plan and he did not see it.",
+        "12... Qxf7 13. Rd8+": "This is the reason from my plan! My coach calls this a decoy. If Black takes the Rook then he will leave the Queen and I can take it. If he goes to e7 then that will not work because I can play Ba3+ and he will have to take the Rook anyway.",
+        "13... Kxd8 14. Qxf7": "I win the Queen and now his pieces do not work good together.",
+        "14... Rg8 15. Bg5": "The Knight is the only thing keeping Black from losing the Rook. So set a pin so it can not move so I can take it on my next turn.",
+        "15... Re8 16. Qxg7": "A person said he thinks it is checkmate in 2 moves but Black can play many moves that make it not checkmate. I think Bd7 is probably best. But Black decided that it was to hard to win with this position and he resigned.\r\n\r\nI hope you liked my game. Thank you Cenarius. You are a good player and you will win lots of games."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=33619",
+    "gameName": "Team match",
+    "players": "capablancanot (1757) vs. cenarius (1704)",
+    "opening": "Evans gambit (C52), Richardson attack"
+}

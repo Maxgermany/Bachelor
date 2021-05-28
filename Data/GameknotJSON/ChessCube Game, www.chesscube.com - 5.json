@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. c4 d5": "My least favorite English response except it is weak here because it is played without preparation which guarantees that white gets a stronghold on d5.",
+        "2. cxd5 Qxd5 3. Nc3 Qd8 4. e4 e5 5. Nf3 Bd6 6. d4": "I would rather play white here than black.",
+        "6... c5": "?",
+        "7. dxe5": "Originally in the game I would have scored this move highly, now I notice that the recapture hangs the bishop and that either alternative bishop move protects the queen.  It's still a good move, but I think most players would come to the same decision.",
+        "7... Bc7 8. Qxd8+": "Spares me the trouble of immediately protecting the e5 pawn.",
+        "8... Bxd8 9. Bc4 Ba5 10. O-O Nh6": "10...Bxc3.  I personally would rather have the bisop pair most of the time, but the teeth of his threat was removed when I castled away.  Later the knights prove pivotal.",
+        "11. Bxh6 gxh6": "Castle now?",
+        "12. Nd5 Be6 13. Nf6+": "This whole game, I just keep him from making the moves he would prefer to make.",
+        "13... Ke7 14. Bxe6 Kxe6": "The pawn capture is probably safer.",
+        "15. Rfd1 Nc6 16. Rd6+ Ke7 17. Nh4 Nxe5": "I neglected this when playing, but it turns out to be one of those situations where less is more.",
+        "18. f4": "? Because of 18...Kxd6!  Better is 18.Nf5+!",
+        "18... Nd3 19. Nf5+ Kf8 20. Rd1 Nxb2 21. Rd1d5 b5 22. Rxc5": "22...Bb6 23.Nd7+  Yoshark adds the better move Re5 which creates a forced mate.  You can try your hand at finding it here: http://gameknot.com/chess-puzzle.pl?pz=25450\r\n\r\nIn the heat of battle we often find a powerful line and push it when a better solution exists even if our solution is winning!",
+        "22... a6 23. Rdc6 Bd8 24. Rc6c8": "Preventing Bxf6.",
+        "24... Rg8 25. Rxa8": "And black cannot prevent mate.  Here black sent a request to abort the game.  When denied he played Rxg2+ which simply loses a rook.  After the rook loss he requested the move taken back.  Sure.  The rook is immaterial.  Then he resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/chesscube-game-www-chesscube-com?gm=31652",
+    "gameName": "ChessCube Game, www.chesscube.com",
+    "players": "jdkuyken@chesscube.com (1513) vs. a_prestieri@chesscube.com (1584)",
+    "opening": "English opening (A10)"
+}

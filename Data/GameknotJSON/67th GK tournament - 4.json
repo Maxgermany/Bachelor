@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "KGA - one of my better games.\r\n\r\nI used to have a lot of trouble with this defence - I would get myself in big trouble early by not developing pieces quickly enough.",
+        "1... e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7": "I like this move.... it develops the B, prepares for castling and helps defend the centre. As you can see later, the black bishop plays a key role in tying up white's pieces ",
+        "5. d4 d6 6. O-O h6 7. c3 Nc6": "Reasonably standard so far - the defence is looking reasonably solid",
+        "8. b4 Nf6 9. Nbd2 a6": "Important to prevent the white B from changing the point of attack",
+        "10. Bb2": "I don't know that this is white's best move - he is starting to get himself cramped",
+        "10... O-O 11. Qc2 Ng4": "The key move. White is now in a bit of trouble - he's cramped on the left and will struggle to move his pieces back to defend an attack on the K",
+        "12. Rfe1 Ne3 13. Qb3 g4": "White now has to choose whether to give up a piece, or completely cramp its pieces with d5",
+        "14. d5 Ne5 15. Nxe5 Bxe5": "and here's why I like the earlier B move - white is in trouble with its bishops and Q now blocked by its own pawns",
+        "16. Nf1 Qh4 17. Nxe3 fxe3 18. g3 Bxg3": "When I played this - I still hadn't worked out how the game finishes..... but it seemed like a sensible sacrifice",
+        "19. hxg3 Qxg3+ 20. Kh1 Qf3+ 21. Kg1 Qf2+ 22. Kh1 g3 23. Re2 g2+ 24. Kh2 g1=Q#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/67th-gk-tournament?gm=30017",
+    "gameName": "67th GK tournament",
+    "players": "roykazz (1825) vs. wallaby66 (1692)",
+    "opening": "King's knight's gambit (C38)"
+}

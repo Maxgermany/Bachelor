@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. g3": "Benko's opening.",
+        "1... e5": "Reversed Alekhine.",
+        "2. Bg2 c6 3. Nf3 Qc7 4. O-O Bc5 5. c3 d6 6. d4 exd4 7. cxd4 Bb6 8. e4 Ne7 9. Bg5 f6 10. Bf4 O-O 11. Qb3+ Kh8 12. Nc3 Qd8 13. d5 cxd5 14. Nxd5 Nxd5 15. Qxd5 Bc7 16. Rad1 Nc6 17. Bxd6 Bxd6 18. Qxd6 Qxd6 19. Rxd6 Bg4 20. a3": "With the queens off the board h3 helps free up white's bishop.",
+        "20... Rfe8 21. Nd4": "Nd2 might have been better.  Rd8, RxR, NxR, I guess the white pawn is still protected.  Never mind.",
+        "21... Nxd4 22. Rxd4 Rad8 23. Rb4": "With white up a pawn every trade is to his advantage.",
+        "23... b6 24. f3": "Pe5 might have been kind of clever too.  Although black could respond h5, PxP does a good job of splitting black's castle pawns.",
+        "24... Bc8 25. Rc1 Kg8 26. Rbc4 Be6 27. Rc4c7 Rd7 28. h4 Red8 29. Kh2 Rxc7 30. Rxc7 Rd7 31. Rc8+ Kf7 32. Bh3": "Blunder.  Rd2+ trades white's rook for black's bishop.",
+        "32... Rd2+ 33. Kg1 Bxc8 34. Bxc8 Rxb2 35. Bd7 Rb3 36. a4 Rxf3 37. Kg2 Ra3 38. Kh3 Ke7 39. Bb5 Kd6 40. Kg4 Ke5 41. Bc6 g6 42. h5 gxh5+ 43. Kxh5 Rxg3 44. Kh4 Rg6 45. Bb7 f5 46. exf5 Kxf5 47. Bc8+ Kf4 48. Kh3 a5 49. Bd7 h6 50. Kh4 Ke5 51. Kh5 Rd6 52. Bb5 Kd4 53. Be8 Kc5 54. Bb5 Kb4 55. Be8 Re6 56. Bd7 Rd6 57. Be8 Rd5+ 58. Kxh6 b5 59. axb5 Rxb5 60. Bxb5 Kxb5": "Well fought."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=55238",
+    "gameName": "Team match",
+    "players": "sanjinp (1488) vs. mathdub (1492)",
+    "opening": "Benko's opening (A00), reversed Alekhine"
+}

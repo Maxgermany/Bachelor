@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "This is an interesting game that ends suddenly. See if you can see the winning move...",
+        "1... Nf6 2. Nc3 d6 3. Bg5 Nbd7 4. e3 g6": "T",
+        "5. Bd3 Bg7": "White hopes to gain a strong attack, Black chooses a Kings Indian type formation.",
+        "6. Nge2 O-O 7. Qd2 c6": "Black wants to prepare a Queenside attack in case White plays 0-0-0.",
+        "8. O-O-O": "Which White does, but with some risk.",
+        "8... b5": "Black initates the attack before White gets a head start.",
+        "9. h4 a5 10. e4 b4": "To drive away the N.",
+        "11. Nb1 c5": "Starting a pawn storm.",
+        "12. dxc5 dxc5 13. Nf4": "White wants to prepare h5.",
+        "13... Nb6": "Black proceeds with the attack.",
+        "14. f3 c4 15. Be2": "Black has made progress. ",
+        "15... Qc7": "Black has a good attack going, and does not want to exchange Queens.",
+        "16. h5": "This normal looking move looks good fails for tactical reasons. ",
+        "16... Nxh5 17. Nxh5 gxh5": "Black now has a very strong attack, and a threat, which White overlooks.",
+        "18. Rxh5": "RxP??. Much better was a move like Qe3.",
+        "18... Bxb2+": "BxP + ! Just that simple. White resigns because after KxB (forced) c3  wins the Queen and Black still has an attack going."
+    },
+    "url": "https://gameknot.com/annotation.pl?gm=21730",
+    "gameName": "",
+    "players": "NN  vs. dmaestro ",
+    "opening": "Queen's pawn game (A45)"
+}

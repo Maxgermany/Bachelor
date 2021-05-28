@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nf3": "Hi again everyone!\n\nIt is like two buses.  You wait a long while for one and then two turn up at the same time.  It is a similar tale with my annotations.  I am annotating this one hot on the heels of my last one because the denouement had a similar ring to that of my last one.  Bwaa copped Old Matey as a result of his back row not being adequately covered and the same sort of thing has happened here.  So, how did all this happen?  Well, we start with 1. Nf3 - the Reti Opening.",
+        "1... d5 2. d4 c6 3. c4 dxc4": "3. ...... dxc4 - this is transposing into a QGA - Queen's Gambit Accepted.",
+        "4. e3 Be6 5. Qc2 Nf6": "5. .... Nf6 - after trying to hold on to my c4 pawn I now start getting my pieces out.",
+        "6. Bxc4 Bxc4 7. Qxc4 Qa5+": "7. ...... Qa5+ an early opening sortie by both queens.",
+        "8. Bd2 Qa6 9. Qb3": "9. Qb3 - declines the queen trade but I think Paul will wish he had gone in for it at the end of the game.",
+        "9... Nbd7 10. a4 e6 11. Na3 Be7": "11. ...... Be7 - quick development ensues and on the next turn I will tuck Henry away on the kingside.",
+        "12. Nc4": "12. Nc4 - good outpost.",
+        "12... O-O 13. O-O": "13. 0-0 - now white tucks his own king away.  White is doing very well so far and my position is getting rather cramped.  Just hoping it isn't leading to my midgame nightmares against The Dentist where severe passivitis used to set in.",
+        "13... b6 14. Nce5 Qb7 15. Ng5": "15. Ng5 - Paul is on the attack and is hitting at f7.  I think I will rid myself of that one on e5 and give him a doubleton on the e column.",
+        "15... Nxe5 16. dxe5 Nd7": "16. ..... Nd7 - the attacked becomes the attacker.  Paul meets the threat to his g5 knight and e5 pawn by retreating it to f3.",
+        "17. Nf3 Qb8": "17. ...... Qb8 - Glenda piles up on the pawn on e5.",
+        "18. Rad1": "18, Rad1? - this loses the e5 pawn.  Bc3 would have avoided outright loss of it.",
+        "18... Nxe5 19. e4 Nxf3+ 20. Qxf3": "20. Qxf3 - knight trade.  I must now be careful not to allow Paul to put his heavies on files in front of Henry.",
+        "20... Bd6": "20. .... Bd6 - eyeing up the h2 pawn.",
+        "21. g3 Qc7 22. b4 Be5 23. Qg4 Kh8": "23. .... Kh8 - over the last few moves Paul is starting to amass his heavies on the kingside.  Henry avoids being pinned on the g file and having a move such as Bh6 to contend with.",
+        "24. Rdc1 Rad8 25. f4": "25. f4? - this move results in further loss of material.  He needed to back up his bishop by means of the rooks or move it away.",
+        "25... Rxd2 26. fxe5 Qxe5 27. Rxc6 Qd4+ 28. Kh1 Qxb4": "28. ..... Qxb4 - over the last few moves the bishops and a couple of pawns have been traded and I am now two pawns up.  White now plays a really natural move but it will cost him at least a third pawn as you will see.",
+        "29. Rc7 Qxa4": "29. ..... Qxa4 - after careful consideration I see that this move is playable.  I see that that f7 pawn can be a very tempting and poisonous pawn indeed.  Paul laps it up.",
+        "30. Rcxf7 Rxf7 31. Rg1": "31. Rg1 - if RxR then Qa1+ leads to #2.",
+        "31... Qc2 32. Qh3": "32. Qh3 - this appears to avoid the threat of mate, but Glenda is not to be denied!",
+        "32... Qxe4+": "32. ..... Qxe4+.  Here I announced #3 giving analysis and my opponent resigned.  There are two variations that lead to mate and I will let you readers work out the mates and give me answers on a postcard.  See ya later!  Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/backranker-blues?gm=53904",
+    "gameName": "Backranker Blues!",
+    "players": "pauljr72 (1280) vs. jstevens1 (1843)",
+    "opening": "Reti opening (A06)"
+}

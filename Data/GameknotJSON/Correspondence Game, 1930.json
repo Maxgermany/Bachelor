@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Solid, and usually leading to slow play.",
+        "1... Nf6": "The Indian defense.",
+        "2. c4": "The book reply.",
+        "2... e5": "The Budapest Gambit, a relatively new opening at the time.",
+        "3. dxe5": "The automatic response, then and now.",
+        "3... Ne4": "A rarer variant is 3... N-N5, threatening to win back the Pawn at once.",
+        "4. a3": "To prevent a Black minor piece from occupying QN5.",
+        "4... d6": "Opening a line for the QB and threatening to recapture the gambited Pawn.",
+        "5. exd6": "To preserve his material advantage, White consents to the exchange.",
+        "5... Bxd6": "Now Black has a considerable advantage in development and a centralized Knight in return for the Pawn.",
+        "6. g3": "The game-losing blunder. 6 B-Q2, 6 N-Q2 or 6 N-KR3 would all have prevented Black's winning tactical maneuver. ",
+        "6... Nxf2": "Decisive. If the Q moves away, Black wins the Exchange with 7... NxR. If 7 KxN, 7... BxP ch wins the White Q. Warren of course resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/correspondence-game-1930?gm=37309",
+    "gameName": "Correspondence Game, 1930",
+    "players": "Warren  vs. Selman ",
+    "opening": "Budapest (A51), Fajarowicz variation"
+}

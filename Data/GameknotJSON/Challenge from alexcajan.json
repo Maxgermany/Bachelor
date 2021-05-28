@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e3 e5 2. Qh5 d6 3. Bc4 g6": "de nuevo ataque al peon debil f7.",
+        "4. Qf3 Qe7 5. Nc3 Be6 6. Nd5 Bxd5 7. Bxd5 c6 8. Bb3 Bg7 9. e4 Nf6 10. d3 O-O": "yo en total desarrollo y el oponente aun en pa\u00f1ales, jejeje",
+        "11. Bg5 Nbd7 12. O-O-O a5": "vamos a destruir ese enroque!!!!",
+        "13. a4 Rfb8 14. Ne2 b5 15. Nc3 h6 16. Be3": "necesitaba liberar mi Reyna.",
+        "16... Nc5 17. g4 Nxb3+ 18. cxb3 g5 19. h4 Nh7 20. Qh3 bxa4 21. Nxa4 Rxb3 22. Nb6 Rb8 23. hxg5 Nxg5": "jaque a la reyna..... y el no se dio cuenta al parecer....",
+        "24. Kc2": "aqui si comia a la reyna perdia a la torre y mi ataque acababa y era muy bueno al lado del Rey.",
+        "24... Rb4 25. Nc4": "aun a pesar de todo seguia el compa\u00f1ero sin darse cuenta de que su reyna estaba en peligro, o quizas cosidero mas importante el ataque de mis torres. Aunque al parecer queria atacar a mi peon de la torre a5.",
+        "25... d5 26. Qh4": "ahora el planeaba un ataque sobre mi caballo. pero aun si penetraba con la reyna en h8 mi rey huia a f8 pues mi hermoso alfil del rey estaba alli al lado cubriendo las celdas negras.",
+        "26... dxc4": "me trague su caballo",
+        "27. d4 Rb4xb2+ 28. Kc3 Qb4#": "me regalo el mate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-alexcajan?gm=29149",
+    "gameName": "Challenge from alexcajan",
+    "players": "lillymac (1185) vs. alexcajan (1474)",
+    "opening": "Amsterdam attack (A00)"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "first you move your kings pawn up 2",
+        "1... e5": "than your opponent will do something like this ",
+        "2. Qf3": "next you move your queen 2 f3",
+        "2... a5": "a move from your opponent",
+        "3. Bc4": "next Bishop to c4",
+        "3... Ra6": "opponents move",
+        "4. Qxf7#": "Next queen to f7 for the checkmate"
+    },
+    "url": "https://gameknot.com/annotation.pl/scholars-mate?gm=46582",
+    "gameName": "Scholars Mate",
+    "players": "???  vs. ??? ",
+    "opening": "KP (C20), Napoleon's opening"
+}

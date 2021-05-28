@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2": "Max Euwe reccommendatio  for avoiding the main lines of this opening.",
+        "4... O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Bg5 Nbd7 8. f3": "Building a strong center, but black should soon counter with c7-c5 or e6-e5",
+        "8... h6 9. Bh4 e5 10. d5": "Black next moves surprised me.",
+        "10... g5 11. Bf2 e4": "The point. Black undermines white his center, making the d5 pawn fulllnerable.\r\nIf white takes the pawn he has to exchange his bishop, which I was not prepared to do.\r\nThe Bisshop is still needed because black has a major weakness on the line c3-h8.",
+        "12. O-O-O": "The downside of black tactics is he has exposed his kingside, which white hopes to take advantage of.\r\n",
+        "12... b5": "Another blow against white center formation.\r\nI was uncomfortable in this position, but decided to counter by taking the fight to his kingside.",
+        "13. h4 g4": "And another blow. This one is harmless, because black cannot take the f3 pawn without exposing the dangerous g-file. That would allow white to aim Bishop, Queen and Rook against his Royal Highness on g8.",
+        "14. e3": "Quick development is crucial",
+        "14... bxc4": "Proably not best. Black should have increased his thearts again the center with Nb6, or even better Bb7.",
+        "15. Bxc4 Nb6 16. Ne2": "I would have preferred to save the Bisshop with Bb3, but it costs a pawn after Bb7",
+        "16... Bd7": "Strange move, that bisshop is needed on b7",
+        "17. Bb3": "That bisshop will be needed for my attack on black's king side.\r\nFrom b3 it is already amaing the balck king, but perhpahs from c2 it might pair up with whites Queen to form a powerfull battery",
+        "17... Rc8": "There blacks idea, he want to open the c-file and expose white king.\r\nHis main problem is lack of cooperation between his pieces though.",
+        "18. Be1": "A very strong reply. The move Kb1 would have been the abvious choice, but white has an idea",
+        "18... c6 19. Qd4 cxd5+": "The right move would have been c6-c5, preventing white plan by forcing the Queen to another field.",
+        "20. Bc3": "Even though this bisshop is currenlty pinned, from here it is deadly.\r\nBlack isin serious troubles now, but he does not seem to realize the difficulties he has run into.",
+        "20... Bb5": "Kh7 is neccessary",
+        "21. Nf4 Bc4": "There is no time for this. Kh7 was the only proper move",
+        "22. Nh5": "There we go. The night cannot be taken because of Nxh5, Qh8#",
+        "22... Nbd7": "The only response",
+        "23. Ba4 Ne5": "Loses a piece, Be2 would have been better.\r\n23....,Be2; 24.Bxd7, Rxc3+; 25.bxc3; Nxd7; 26.Re2,Bc4; white has won material.",
+        "24. Nxf6+ Qxf6 25. f4": "Wins a piece",
+        "25... Nd7 26. Bxd7": "But not 26.Qxf6, Nx6; 28.Bxf6 because of Be2+ and white only wins the exchange.\r\nAt this point black surrendered, because he will stay a piece down.\r\n\r\nThe best move in this game, I think was 18.Be1 creating the deadly Bishop-Queen battery"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=30555",
+    "gameName": "Let's play chess",
+    "players": "eduard352 (1846) vs. schaakhamster (1769)",
+    "opening": "Nimzo-Indian (E32), classical, Adorjan gambit"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "I start with standard king pawn opening.",
+        "1... e5": "And he continues normally.",
+        "2. Nf3": "I continue... Giuoco Piano.",
+        "2... Nc6 3. Bb5": "Ruy Lopez, my personal white favourite.",
+        "3... a6 4. Bxc6 dxc6": "Exchange.",
+        "5. O-O": "I castle.",
+        "5... Bg4 6. d3 Qf6 7. Nbd2": "The f3 knight is heavily guarded.",
+        "7... Ne7 8. b3 Ng6 9. h3": "Attack",
+        "9... h5": "!!! Sacrificing a bishop for a huge positional advantage.",
+        "10. Kh2 Nh4": "This is where I mess up.",
+        "11. hxg4": "Better was Rh1, I think.",
+        "11... hxg4 12. Kg1 Qh6": "!!",
+        "13. Nxh4": "Only move.",
+        "13... Qxh4 14. f4": "??",
+        "14... g3": "!!! I resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/ruy-lopez?gm=66078",
+    "gameName": "Ruy Lopez",
+    "players": "eric2jin (1472) vs. sogtulakk (1862)",
+    "opening": "Ruy Lopez (C69), exchange variation, Alapin gambit"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Kings Pawn opening.",
+        "1... e5 2. d4": "Centre Counter",
+        "2... exd4 3. Qxd4 Nc6": "Developing at the queen's expense.",
+        "4. Qe3 Nf6 5. f3": "Maybe it was better to avoid weakening the kingside and to defend the pawn with Nc3 or Bd3. This has the added bonus of developing.",
+        "5... Be7 6. c3": "Falling further behind in development. This square belongs to the knight.",
+        "6... O-O 7. g3": "Still refusing to develop, and this will prove diastrous if black manages to open up the game quickly, which I did.",
+        "7... Re8": "Creating the threat of d5. The queen and king being on the same file allows some tactical ideas.",
+        "8. Bh3": "Finally developing a piece, but it may already be too late.",
+        "8... d5 9. e5": "Falling for the trick. Nd2 trying to holsd the pawn would have been better.",
+        "9... Nxe5": "Due to the potential king and queen pin, the knight shouldnt be taken.",
+        "10. Bxc8 Qxc8 11. Ne2": "After the tactical skirmish, black is only a pawn up, but his supeior development and the activity of the pieces virtually guarantee a win.",
+        "11... Nc4 12. Qd3 Bc5": "Preventing the king from castling as well as eying up some some nice squares in the white camp.",
+        "13. Na3 Ne3": "Penetrating the white camp.",
+        "14. Bxe3 Rxe3 15. Qd2 Qe6": "White cant castle as the knight on e2 will fall.",
+        "16. Nc2": "Trying to force the rook away.",
+        "16... Re5 17. f4 Re4": "But it still has this square where it cant be touched.",
+        "18. h3": "White has been reduced to total passiveness, and black has as much time as he wants to try and finish the game off.",
+        "18... Re8 19. Rh2 Nh5 20. O-O-O Rxe2": "Free knight.",
+        "21. Rxe2 Qxe2 22. Qxd5 Be3+ 23. Nxe3 Qxe3+ 24. Kb1": "Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating.",
+        "24... Nxg3 25. Qd7 Ne2 26. Qd8": "Cheeky trap.",
+        "26... Qc1+": "This tactic swaps queens without allowing a mate.",
+        "27. Rxc1 Rxd8 28. Kc2": "The rest of the game is fairly easy, and there is no need for annotation.",
+        "28... Nxf4 29. h4 f6 30. b4 Kf7 31. a4 g5 32. Rf1 Kg6 33. Rg1 h5 34. Kb3 g4 35. a5 Nh3 36. Rg2 f5 37. b5 f4 38. Re2 Kf6 39. c4 f3 40. Re1 f2 41. Rc1 g3 42. c5 g2 43. Rc3 f1=Q 44. Rxh3 g1=Q": "Two queens up!",
+        "45. Rc3 Qxb5+ 46. Kc2 Qgb1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=774",
+    "gameName": "Let's play chess",
+    "players": "dagerman (1357) vs. smoran90 (1200)",
+    "opening": "Centre game (C22), Berger variation"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "I've been on one of my downward trends recently, which included sinking into D2, but here's a brief sign that things may be looking up.  I had another nice win today in the Benoni Mini-Tournament too... ",
+        "1... c5": "The Sicilian - my favourite opening.",
+        "2. Nf3 Nc6": "I prefer 2. d6 but this is a very respectable and dangerous option too.",
+        "3. d4 cxd4 4. Nxd4 Nxd4": "I'm not sure this is wise.  Black should be paying attention to development rather than swapping off his one developed piece.  On the other hand, it draws White's Queen out into the middle where she can be attacked.",
+        "5. Qxd4 a6": "A typical Sicilian move...",
+        "6. Be2": "I think this is the most logical move in this position.  White wants to castle quickly, so needs to develop the KB.  Bb5 has been prevented.  Bc4 can be easily met by ...e6.  Bd3 puts the B in the pawn chain and cuts off White's Q's retreat, so that leaves Be2, unless White wants to fianchetto, which takes more time.",
+        "6... e6 7. O-O d5": "Perhaps this is over-ambitious? ... It seemed unremarkable at the time but Black doesn't often get to play ...d5 so early in the Sicilian.  In this position, Black is relatively undeveloped, so opening up with this is fraught with danger.  White now looks to open lines before Black can castle.",
+        "8. Nc3": "White develops and applies further pressure on the centre.",
+        "8... b5": "Black prepares to fianchetto his QB and possibly attack the Nc3",
+        "9. exd5": "Now White opens up the position to devastating effect.",
+        "9... exd5 10. Re1 Nf6": "?  10...Be7 was called for. Can you see the mate?",
+        "11. Bxb5#": "Double check when the K is still partially surrounded by his pieces is a killer.  This was one of those wins I only saw at the last minute, but I think my commentary has provided some insight into how the opportunity arose. I hope you readers enjoyed it!"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2-a-nice-brevity?gm=28007",
+    "gameName": "League division D2 - a nice brevity",
+    "players": "rjacobs (1533) vs. bplp (1507)",
+    "opening": "Sicilian (B32), Flohr variation"
+}

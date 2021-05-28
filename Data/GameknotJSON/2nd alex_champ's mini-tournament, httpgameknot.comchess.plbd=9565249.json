@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Nf6 3. d4 Bg4": "Black sacs a pawn hoping to get active play",
+        "4. f3": "The critical response.  White decides to try to hold on to the extra pawn",
+        "4... Bf5 5. Bb5+": "The most critical response.",
+        "5... Nbd7 6. c4 a6": "6... e6 is probably stronger.",
+        "7. Bxd7+": "If 7 Ba4?! then b5! 8 cxb5 Nb6 and Black has compensation for the pawn.",
+        "7... Qxd7 8. Ne2 O-O-O 9. O-O e6 10. dxe6 Bxe6 11. b3 Bc5 12. Be3": "After 12 Bb2 it becomes very hard to develop the b1 knight.",
+        "12... Rhe8 13. Nbc3 Qe7 14. Bf2": "White still has his extra pawn, has completed his development and threatens to take over the initiative.",
+        "14... Bb4 15. Qc2 g6 16. Ng3": "White fights for control of f5.",
+        "16... h5 17. h4": "17 d5 would have been better, if 17...h4 18 Nge4 Nxe4 19 fxe4 and White maintains an edge.",
+        "17... Bd6 18. Rfe1": "Again 18 d5 would have been stronger.",
+        "18... Bxg3 19. Bxg3": "White loses his extra pawn.  In a middlegame with opposite colored Bishops it is important to fight for the initiative.",
+        "19... Rxd4 20. Rac1 Qd8": "20... Rd7 would have been better.",
+        "21. Red1": "White allows Black back into the game.  White doesn't want to trade pieces with opposite color bishops on the board.  Much better would have been 21 Qf2 when White would have a clear advantage.",
+        "21... Bf5": "Black has managed to equalize.",
+        "22. Rxd4 Qxd4+ 23. Bf2 Qd7": "If 23 ... Bxc2? then 24 Bxd4 Bxb3 25 axb3",
+        "24. Qd1 Qxd1+ 25. Rxd1 Nd7": "It looks like Black wants to concentrate his firepower on d3.  Again it is important to fight for the initiative.  White would like to trade into a good knight vs. bad bishop end game.  The pawns are symmetrical so any endgame would be drawish.",
+        "26. Nd5 Re2 27. Re1 Rxe1+ 28. Bxe1 c6": "28...Bd3 would probably draw, but Black apparently is playing for a win.",
+        "29. Ne7+ Kd8 30. Nxf5 gxf5": "There is no longer bishops of opposite color.  White has to have an edge here, but a draw seems most likely.  White hopes to tie Black down to defending the pawn weakness on the kingside and forcing a penetration of the White King into Black's position.",
+        "31. Kf2 Ne5 32. Ke3 Kd7 33. Kd4 Ke6 34. Bg3 Nd7 35. Ke3 b5 36. Kd4 c5+ 37. Kc3 Ne5 38. Bf2": "Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.",
+        "38... Kd6": "I felt that Black was playing for a win.  I also felt that there little danger of White losing the game; but before making active attempts to win, I waited to see what Black would try.",
+        "39. Bg3 f6 40. Bf2 f4 41. Be1 Nc6 42. Bd2 Ke5 43. Kd3 f5 44. Bc3+ Ke6 45. cxb5": "I needed to create more space between the two fronts in order to take advantage of the bishops longer range and increase my chances for a king invasion.",
+        "45... axb5 46. a3 Kd5 47. Bd2 Nd4 48. Kc3 Ke5 49. a4": "Playing for the outside passed pawn.",
+        "49... Ne2+": "The losing move.  I can now force a won pawn endgame.",
+        "50. Kd3 Nd4": "If 50 Nb3 then ... axb wins easily, but now the knight can be pinned to the king.",
+        "51. Bc3 bxa4 52. Bxd4+ cxd4 53. bxa4": "The outside passed pawn wins easily. "
+    },
+    "url": "https://gameknot.com/annotation.pl/2nd-alex_champs-mini-tournament-http-gameknot-com-chess-pl-bd-9565249?gm=20665",
+    "gameName": "2nd alex_champ's mini-tournament, http://gameknot.com/chess.pl?bd=9565249",
+    "players": "blake78613 (1796) vs. kayukembo (1785)",
+    "opening": "Scandinavian defence (B01)"
+}

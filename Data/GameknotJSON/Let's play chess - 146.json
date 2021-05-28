@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nc6": "This is an unorthodox Caro-Kann.",
+        "5. Nf3 Nf6 6. h3 h6 7. Bb5 a6 8. Ba4 b5 9. Bb3 e6 10. O-O Bd6": "Bd6 prevents Bf4, which is the Bishop's best square.",
+        "11. Ne2 O-O 12. c3 Bb7": "Black has caught up in development due to White making a couple of tempo-wasting moves.",
+        "13. Nh2 Bxh2+": "I felt like I needed to prevent Ng4 and preserve my Nf6 for defensive purposes.",
+        "14. Kxh2 Re8 15. Bc2 e5 16. dxe5 Nxe5 17. Nd4": "Nd4 is a good square for this Knight.  It would be good to trade it off.",
+        "17... Ne4 18. f4 Nc4 19. b3 Ncd6 20. f5": "In haste to attack, I think White missed the hanging pawn.  I calculated and estimated that I would have time to capture it.",
+        "20... Nxc3 21. Qg4 Qf6 22. a3 Nde4": "Ne4 cuts off protection for the Nd4.",
+        "23. Nf3 Ne2 24. Bf4": "This is a good square for the Bishop, but it allows the trade.",
+        "24... Nxf4 25. Qxf4 Rac8 26. Ne1": "I think this was an oversight.  White needed to deal with the threat to Bc2, but I think Rac1 was an improvement.  This move cuts off protection to the Ra1.",
+        "26... Qxa1 27. Kg1 Qxa3 28. Bxe4": "I think it might have been better to keep the Bishop on the board when down material.",
+        "28... Rxe4": "I'm not sure this was best.  dxe4 takes valuable squares away from the Ne1.",
+        "29. Qg3 f6 30. Nd3 Qxb3 31. Rf3 Qc3 32. Qg6 Qc7": "g7 is vulnerable.",
+        "33. Nf2": "This loses instantly.  The Qc7 already cuts off the escape squares for White's King.",
+        "33... Re1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=61581",
+    "gameName": "Let's play chess",
+    "players": "papa-zulu (1688) vs. mmoody95 (1830)",
+    "opening": "Caro-Kann (B10), Goldman (Spielmann) variation"
+}

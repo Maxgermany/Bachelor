@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nh6": "Not expecting that at all.  I figured he would play Nf6.  I like this better.  I decide to humiliate that silly knight for even thinking about developing to the side of the board.  When Baby is in the corner, I aim to set her free.  And that's what I ended up doing.",
+        "4. O-O Bc5 5. b4 Nxb4 6. c3 Nc6 7. d4 exd4 8. cxd4 Bb6 9. Nc3": "I like this.",
+        "9... O-O 10. Bg5": "The Queen has a slight problem.  Can't block with the pawn, so either Ne7, or Qe8.",
+        "10... Qe8 11. Nd5 Kh8": "He sees my plan!  Suddenly I like this game a lot more than I did 4 minutes and 20 seconds prior.",
+        "12. e5 d6 13. Nf6": "My diabolical scheme to take over the board can still work.",
+        "13... gxf6 14. Bxh6 Rg8 15. exf6 Rg6": "I don't think I anticipated this.",
+        "16. Re1 Be6": "I certainly didn't anticipate this.  I was expecting Qd7 with a fairly even game.",
+        "17. Bg7+ Kg8 18. d5": "The King and the Bishop are trapped.  Black is in a bad spot.",
+        "18... Ne5 19. dxe6 Qc6": "And not fxe6 Nxe5 dxe5 Rxe5, which threatens Bxe6, winning the Queen.  Or if he moves his Queen then, he loses his King.  Well, in chess you never actually lose the King.  Imagine if life was like that.  You are about to lose your job, but you never actually lose your job.  Anyways, I digest.  If I take his knight, I lose immediately.  So I try something else.",
+        "20. Qd5 Nxf3+ 21. Qxf3 Qxc4": "Of course not Qxf3?? exf7 mate.",
+        "22. exf7+": "And I go in for the kill.",
+        "22... Kxf7 23. Re7+ Kg8 24. f7+": "Black Resigns. If Kxg7 the pawn queens and mates."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=25616",
+    "gameName": "Let's play chess",
+    "players": "chessssss (1571) vs. ubonvilla (1537)",
+    "opening": "King's pawn game (C50)"
+}

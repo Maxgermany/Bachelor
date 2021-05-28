@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 d6 2. c3": "a bit unusual. c4 is better.",
+        "2... b6": "early in the second move black creates himself weakness in the white squares...",
+        "3. Nf3 c5": "its hard to attack with no tools...",
+        "4. e3": "4. dxc5 is much better.",
+        "4... f6": "?? no pieces development. weak white squares. black will not be able to hold that position.",
+        "5. Bc4 e5": "???\r\n5... Nc6 is a must.",
+        "6. Bd5": "bye bye rook.",
+        "6... e4 7. Bxa8 exf3 8. Qxf3": "white's position is now outstanding. attacking, material advantage etc.",
+        "8... Be6 9. Qe4 Qd7 10. d5": "also the bishop. there's nothing to watch here now.",
+        "10... g6 11. dxe6 Qc7 12. Nd2 Ne7 13. O-O f5 14. Qa4+ Kd8 15. Rd1 d5 16. c4": "trying to open the file where the king at. the end is near...",
+        "16... Qe5 17. cxd5 Qd6 18. Nc4 b5 19. Nxd6 bxa4 20. Nf7+": "too much more material. nothing to play for."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13265",
+    "gameName": "Team match",
+    "players": "ohiostaterules (1281) vs. scouseste (1178)",
+    "opening": "Queen's Pawn (A41)"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "I liked this game because it showed just how vulnerable a stong looking king side can be if the opponent has just the right attack available.",
+        "1... e5": "Bring about The Open Game",
+        "2. Nf3 Nc6": "The King's Knight openning - black chosing to defend the pawn rather than make a threat on the White pawn with his King's Knight.",
+        "3. Bc4 Bc5": "The Giucoc piano is revealed!",
+        "4. h3": "An unual choice of move.  White is looking to prevent potential problems involving the Knight being pinned to the Queen.  \r\n\r\nHowever his move achieves little more than blocking a potential threat which Black can easily shift to somewhere else.  It would seem that White has lost a tempo which Black can capitalise on.",
+        "4... Nf6 5. d3 d6 6. a4": "Another unusual move.\r\nWhite is preparing to pawn storm the Black minor pieces on the Queen side.  However the attack will take so long to materialise that Black can prepare escape routes for both of the threatened pieces.\r\nWhite has lost another temp which Black can use to continue developing.",
+        "6... Bd7 7. c3 Bb6": "Bring the bishop a move out of harms way, now the Queen side pawn storm can be negated by ...h7 and ... Kte7.  This allows (helps?) the pieces threaten the King side which is the side White is likely to castle being as there will be no Queen side pawns to hide behind.",
+        "8. b4 a6 9. b5": "A suprising variation on the telegraphed attack.  This allows Bb5 without the threat of a6 forcing the bishop away.  However the knight is well guarded and can move without losing material and the Black King can be quickly whisked away from danger by castling.\r\n\r\nWhite's bishop would also be vulnerable to a sudden pawn surge as a4 will not be available to receive a retreat.",
+        "9... axb5 10. Bxb5 O-O 11. O-O h6": "Matching Whites move to prevent a pin and give the king breathing space.",
+        "12. Re1 Ba5": "Now we can see the difference in positions coming to bear.  Black has both knights and both bishops along with a rook with which pressure can applied.  Only two of White's pieces are off the back rank, although they are well placed.",
+        "13. Re2 Qc8": "Sniper takes aim...",
+        "14. Bb2": "White's dark square bishop is relegated to performing as a pawn.",
+        "14... Bxh3": "Sniper fires - BANG. \r\n\r\nh3 is dangerous when black answer with Qxh3 and then ...Ktg4\r\nBetter is to give up on the lost pawn and block White's more ambitious plan.",
+        "15. g3 Bg4": "A very nasty pin.  It will take white two moves to undo it and then care has to be taked over the defence of the knight.",
+        "16. Re1 Nd4": "The rook moves from frying pan to fire and Black's developed pieces are keen to spring into action and gang up on the knight.  ",
+        "17. Nbd2": "A clever move.  Defends the kight and break the pin, allowing the knight to be taken on the next move.  Black has to either exchange knights or lose a tempo moving his knight away, at this stage a move could be all that White needs to relieve the pressure on his king side.",
+        "17... Nxf3+ 18. Nxf3": "Black's knight has achieved nothing other than allowing itself to be exchanged for a knight that was effectively already out of the game.  \r\n\r\nA very good counter by white.",
+        "18... Bh5": "Clearing the diagonal to receive re-enforments.  Threatening mate with ...Qh3 and Ktg4 so White must block that before it happens",
+        "19. Kg2 Qg4 20. Rh1": "It looks as if White has weathered the storm and survived the ambitious assault only losing a pawn.",
+        "20... d5": "Black tries for e5 Ktxe5 in the hope of bringing his knight to somewhere more useful by white cannot be distracted from clearing his borders.",
+        "21. Rh4": "Now its white's turn to attack and drive back the intruders.",
+        "21... Qxf3+": "The exchange is forced, any other queen move would lose black material.",
+        "22. Qxf3 Bxf3+ 23. Kxf3 c6": "The unlucky bishop is trapped as a4 is unavailable - black gains a minor piece while White's dark square bishop is tied up protecting a pawn.  As soon as Black captures the bishop he will gain a file on which to place his linked rooks.  \r\n\r\nAfter that the fragmented pawn structure on White's Queen side will be targetted and White has little chance of gaining access to Black's heavily fortified royalty."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-sniper-shot?gm=1565",
+    "gameName": "The sniper shot",
+    "players": "TheCat  vs. stevetaylor (1200)",
+    "opening": "Giuoco Piano (C50)"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5": "An experiment I've tried a few times.  After this game, not planning to repeat.  The d5 square is just too weak.\n",
+        "5. Bb5+ Nd7 6. Nf5 a6 7. Ba4": "Exclam.  Keeping the bishop in order to exploit black's weak white squares.  The most common move, 7. Bxd7, trades if off for no good reason.\n",
+        "7... b5 8. Bb3 Nb6": "White's advantage is also clear after 8\u2026 Nc5 9. Bd5\n",
+        "9. O-O g6 10. Ne3 Nf6 11. Nc3 Bb7 12. Qf3 h5": "Both 12\u2026 Be7 and 12\u2026 Bg7 can be answered by 13. Ng4, after which Black has big problems.\n",
+        "13. a4 b4 14. a5": "Exclam.  I had only considered 14. Ncd5 Nbd5 15. Nd5 Nd5 16. ed5 a5, where black has hope of consolidating.\n",
+        "14... bxc3": "If 14\u2026 Nbd7 15. Ncd5 and black will lose the b-pawn for starters.\n",
+        "15. axb6 Be7": "After 15\u2026 Be4 16. Ba4 or 15\u2026 cxb2 16. Ba4, Black's king is trapped in the center.\n",
+        "16. Nc4 O-O 17. bxc3": "Possibly not urgent.  17. Rd1 might have killed me faster.\n",
+        "17... Bxe4": "17\u2026 Nxe4 18. Na5 Qb6 19. Qd3 (threatening 20. Nxb7 and 21. Bd5) Nf6 20. Qg6+.  Ouch.\n",
+        "18. Qe3 Bd5 19. Rd1 a5": "19\u2026 Qc8 20. Nd6 was not very appetizing.  \n",
+        "20. Nxa5 Bxb3 21. cxb3 Ng4 22. Qe1 Qxb6": "Here I thought I had almost achieved a playable position.  I was proven mistaken.\n",
+        "23. b4 Rfc8 24. h3 Nf6 25. Be3 Qb8 26. c4 Bd8 27. b5": "Exclam.  Nothing matters except the b-pawn.\n",
+        "27... Bxa5 28. Rxa5 Rxa5 29. Qxa5 Rxc4 30. Qa6 Ne4 31. b6": "It's over.  The rest is momentum.\n",
+        "31... Rb4 32. Qa5 Rb2 33. Qa3 Rb5 34. Qa7 Qd8 35. Ra1 d5 36. Qc7 Qf6 37. b7 d4 38. b8=Q+ Rxb8 39. Qxb8+ Kh7 40. f3 dxe3 41. fxe4 Qf2+ 42. Kh1 e2 43. Qb1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/99th-gk-tournament?gm=47902",
+    "gameName": "99th GK tournament",
+    "players": "dranka (2422) vs. freedom_fries (1871)",
+    "opening": "Sicilian (B54)"
+}

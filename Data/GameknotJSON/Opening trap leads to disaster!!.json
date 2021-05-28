@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!!  Here is a shorty but goodie.  This game demonstrates an uncommon, yet devastating opening trap.  Black allows White to sac a piece for very rapid development and an early attack.",
+        "1... e5 2. Nf3": "I always aim for the Ruy Lopez.",
+        "2... f6": "Don't EVER play this move!!  It leads to a terrific game for white, if not an early mate.",
+        "3. Nxe5": "This is the sac",
+        "3... fxe5 4. Qh5+ Ke7": "Not 4...g6 5.Qxe5  followed by Qxh8",
+        "5. Qxe5+ Kf7 6. Bc4+": "Rapid development with tempo is always a good thing",
+        "6... d5 7. Bxd5+ Kg6": "getting the King out of his hole",
+        "8. h4": "If I can open the h file, the game is over VERY quick",
+        "8... Nd7": "Here, I think Black should have tried h6 to give the K some room",
+        "9. h5+ Kh6 10. d4+": "again, developing with tempo",
+        "10... g5": "no other choice",
+        "11. hxg6 e.p.+ Kxg6": "forced",
+        "12. Qf5+ Kg7": "forced",
+        "13. Qf7#": "And that's all she wrote.  quick game from an opening trap!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-trap-leads-to-disaster?gm=21021",
+    "gameName": "Opening trap leads to disaster!!",
+    "players": "phishbone6984 (1353) vs. ombre_ri (1322)",
+    "opening": "Damiano's defence (C40)"
+}

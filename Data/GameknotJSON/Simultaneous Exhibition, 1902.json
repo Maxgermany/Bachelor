@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "The usual start.",
+        "1... f5": "The Duras Gambit or Fred Defence.",
+        "2. exf5": "Logical.",
+        "2... Kf7": "This opening move is only good in Kriegspiel.",
+        "3. d4": "Opening more lines of attack.",
+        "3... d5": "Opening a line to win back the gambited Pawn.",
+        "4. Qh5+": "Forcing a further weakening of Black's already shattered position.",
+        "4... g6": "The equally bad alternative was 4... K-B3.",
+        "5. fxg6+": "If now 5... PxP, Pillsbury wins a piece with 6 QxR.",
+        "5... Kg7": "Trying to block off the Pawn and find shelter for his King.",
+        "6. Bd3": "Threatening to win at least a piece with 7 PxP.",
+        "6... Nf6": "Trying to drive off the powerfully posted Queen, as well as guard the threatened KRP.",
+        "7. Bh6+": "Adding another piece to the rapidly mounting attack.",
+        "7... Kg8": "Forced.",
+        "8. gxh7+": "Opening up the space around the King to allow the Q to penetrate.",
+        "8... Nxh7": "8... RxP was the other choice, which would have created a flight square at KR1 for the King and perhaps dragged out the resistance.",
+        "9. Qg6+": "Mate follows next move.",
+        "9... Bg7": "The last gasp.",
+        "10. Qxg7#": "The end."
+    },
+    "url": "https://gameknot.com/annotation.pl/simultaneous-exhibition-1902?gm=36964",
+    "gameName": "Simultaneous Exhibition, 1902",
+    "players": "Harry N. Pillsbury  vs. Amateur ",
+    "opening": "Fred (B00)"
+}

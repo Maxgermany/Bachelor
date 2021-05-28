@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "This is a game were a great attacking potential was possible because of a blunder my opponent made... I hope that you enjoy.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 Nge7": "And it all began with an innocent Ruy Lopez: Cozio defense",
+        "4. c3 d6 5. O-O Bd7 6. d4": "I prefer this kind of games... Wide open games...",
+        "6... a6 7. Bc4 exd4 8. cxd4 b5 9. Bb3 Na5 10. Bc2 Bg4 11. d5 Nc4": "I never saw a real black threat in this position... Any thoughts?",
+        "12. h3 Bh5 13. Nc3 Ne5 14. g4 Nxf3+ 15. Qxf3 Bg6": "And now, how to proceed?",
+        "16. Be3": "A great line...",
+        "16... h6 17. Qg2": "Preparing 18.f4",
+        "17... b4": "?? How would you respond?",
+        "18. Ba4+ c6 19. dxc6 Qc7": "A much more devastating attack is now available... What would you play?",
+        "20. Bb6": "!! Beautiful, isn't it?\nif 20. ... Qxb6 then 21. c7+!! Nc6 22. Nd5! Qb7 23. e5!! and it is done for black... Because, if 23. ... dxe5 24. Bxc6 Qxf6 25. Nf6 and the queen falls or mate; 25. ... Qxf6 26. Qxa8+ Ee7 27. Qd8 Ke6 28. c8=Q# ",
+        "20... Rc8": "But my friend here tried an alternative...",
+        "21. Bxc7 Rxc7": "But it is already a lost cause...",
+        "22. Qg3 Nxc6 23. Nd5 Rc8 24. Rac1 Bxe4": "I thought to double paralyze (Nc6 and Be4) with 25.Re1...",
+        "25. Rxc6": "But this was better",
+        "25... Rxc6 26. Bxc6+ Kd8 27. Re1 Bxd5 28. Bxd5 Be7 29. Qe3": "The rook is not able to protect the bishop because of 29. Bc6 or Qb6+...",
+        "29... Bf6 30. Qb6+": "And mate is inevitable..."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-exercice?gm=54874",
+    "gameName": "Chess Exercice",
+    "players": "Kallas  vs. ??? ",
+    "opening": "Ruy Lopez (C60), Cozio defence"
+}

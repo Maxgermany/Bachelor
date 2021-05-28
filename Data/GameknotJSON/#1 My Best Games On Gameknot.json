@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 d5": "Scandinavian Defence.I must admit this came as a surprise to me as I expected my opponent to play the silicilian or ruy lopez",
+        "2. exd5 Qxd5 3. Nc3": "Best move.This move follows all the opening principles",
+        "3... Qa5": "Qd6 is also ok",
+        "4. Nf3 Bg4": "So far all my moves follow the opening principles while black has broken 2 (never develop queen too and develop knights before bishops)",
+        "5. h3": "Trying 2 get black to trade his current best develop piece",
+        "5... Bh5": "If 5...Bxf3 6.Qxf3 white would be ahead in development",
+        "6. b4": "The idea is to get black to make a mistake",
+        "6... Bxf3": "If 6...Qxb4 then 7.Rb1 Queen moves then I take on b7 ",
+        "7. Qxf3 Qe5+ 8. Be2 c6 9. O-O Nf6": "From here it can be seen that white has got the best out the opening in other words his got the winning game ,all I have to do now is place my pieces on better squares ",
+        "10. Rb1 e6 11. d4": "Offering another pawn for a strong attack with Rd1.",
+        "11... Qxd4": "11...Qc7 is better and safer",
+        "12. Rd1 Qh4": "All my pieces are ready.It almost looks like white is in the middle game while black still in the opening",
+        "13. Be3 Be7": "Better was 13..Nfd7 as this move doesn't lose a piece like Be7",
+        "14. b5": "Much stronger was 14.Rd4 and after 14..Qh5 15.Qxh5 Nxh5 16.Bxh5 g6 17.Bf3 Bf6 white is clearly better as he is a piece ",
+        "14... O-O 15. Rd4 Qh5 16. Qg3": "I think this was the best move to try an win the game as quick as possible because after my Queen gets to c7 I win start winning material",
+        "16... Qg6 17. Qc7 Bc5 18. Rg4 Nxg4 19. Bxc5 Qxc2": "Very weak.In these type of positions black must not go for pawns",
+        "20. Bxf8 Qxc3 21. Bb4 Na6": "Trying to move the queen out the way lose to Qc8#",
+        "22. bxa6 Qc2 23. Rd1": "Preparing to mate with Rd8+ ",
+        "23... h5 24. axb7 Rf8 25. Bxf8": "Game over. As soon as I promote my b-pawn ,even if promote it to a knight I will still win easy",
+        "25... Qxe2 26. Rf1": "Black resigns as after I promote my b-pawn the game is over"
+    },
+    "url": "https://gameknot.com/annotation.pl/1-my-best-games-on-gameknot?gm=52439",
+    "gameName": "#1 My Best Games On Gameknot",
+    "players": "richi007 (1653) vs. borisd (1705)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

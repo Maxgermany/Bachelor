@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nc6": "Haven't tried this opening so I thought I'd give it a go.",
+        "2. e3 b6 3. Bb5 Bb7": "Finishing off the fianchetto. ",
+        "4. Qg4 Nf6 5. Qf4 Nd5 6. Qf3 e5": "Don't know what I was doing for these few moves coming up starting with this one.",
+        "7. Qxd5 Nxd4 8. Qxe5+ Ne6 9. f3 Bd6 10. Qc3 O-O 11. h4 a5": "Saw the pin on the queen to his king and was setting up for it in the next move.",
+        "12. Ne2 Bb4 13. a3 Bxc3+ 14. Nexc3 Re8 15. e4 Nf4 16. O-O Qxh4": "Free pawn!",
+        "17. Bxf4 Qxf4": "Happy to trade off pieces now.",
+        "18. Nd5 Bxd5 19. exd5 Re5 20. Rd1 Qe3+ 21. Kf1 c6": "Trying to scare the bishop away from the a6-e2 diagonal ",
+        "22. Bc4 cxd5 23. Bxd5": "The game was over from this point on.",
+        "23... Qe2+ 24. Kg1 Qxd1+ 25. Kh2": "Was thinking about taking the bishop until I analysed checkmate, with him being helpless to it.",
+        "25... Rh5+ 26. Kg3 Qe1+ 27. Kg4 Qh4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e1?gm=39930",
+    "gameName": "League division E1",
+    "players": "elhichko (1255) vs. georgeo1991 (1301)",
+    "opening": "Queen's pawn (A40), Lundin (Kevitz-Mikenas) defence"
+}

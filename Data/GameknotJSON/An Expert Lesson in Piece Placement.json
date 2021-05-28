@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Qh5": "2. Qh5 (the so-called Patzer's Opening).  If 2....... g6?? then black loses a rook to 3. Qxe5  so black must either defend the e pawn by 2. ........ Nc6 or 2..... d6.  The former is preferable as it develops a piece.",
+        "2... Nc6 3. Bc4": "3. Bc4 - transposes into the Bishop's Opening and threatens Old Scollie's Mate - a pet name of mine for Scholar's Mate.  Black can play either Qe7 or Qf6 or g6.  I choose g6 because I feel this is the smoothest way of developing my pieces.",
+        "3... g6 4. Qd1 Bg7": "4. ....... Bg7 - white decides to retreat his queen to d1 so I decide to fianchetto my KB to strengthen my kingside position after castling.",
+        "5. Nc3 Nf6 6. d3 d6": "6. ......... d6 (over the last few moves we have been getting on with developing our pieces)",
+        "7. a4": "7. a4 - this move is the sign of things to come later in the endgame - this pawn becomes a passer.",
+        "7... Nd4 8. Nge2 Nxe2 9. Qxe2 c6 10. O-O O-O": "10. ........ 0-0 - one pair of knights has been exchanged and both sides have castled.",
+        "11. a5 a6 12. f4 exf4 13. Bxf4 Be6 14. Bg5 Bxc4 15. Qf3 Bb5": "15. ...... Bb5?? In hindsight it would have been better to have put my bishop back on e6 and then perhaps d7 to prepare a Re8-e6 manoeuvre to drive out enemy rook that was about to camp on f6 and then try to exchange off the backward pawn on d6 - but, silly, silly me has to do it all in the wrong order, doesn't she?  When you do things in the wrong order, you may find you never get the chance to execute your plan effectively!!",
+        "16. Bxf6 Bxf6 17. Qxf6 Qxf6 18. Rxf6 Rad8 19. g4 d5": "19. ........ d5???  After a plethora of exchanges the rook has camped out onto f6.  I should have played Re8 - d6 (although perhaps my opponent may well have doubled on the e file - if so then it would have been a good idea to move the d8 rook to d7 to back up the f pawn), then try to exchange off the backward pawn.  Now folks, here comes a lost endgame!!",
+        "20. exd5 cxd5 21. Nxb5 axb5 22. Rb6": "22. Rb6 (vicious fork!!)",
+        "22... Rd7 23. Rxb5 Re8 24. Kf2 Re6": "24. ........ Re6 (too little, too late)",
+        "25. Re1 Kf8 26. Rxe6 fxe6 27. Ke3 Ke7 28. Kf4 h6 29. Ke5 Rc7 30. Rb6": "30. Rb6 (murderous double attack on backward e pawn)",
+        "30... Rxc2": "30. ......... Rxc2 (might as well grab pawn - lost anyway)",
+        "31. Rxb7+ Kd8 32. a6 Kc8 33. Rb3 Rc7 34. Rc3": "34. Rc3 (forces exchange of rooks and Freddy's ravenous king will have a right royal feast - a black prawn pancake! - sorry typo - pawn!).  So I can only deny Freddy (who loves pancakes btw) this meal by throwing in the sponge."
+    },
+    "url": "https://gameknot.com/annotation.pl/an-expert-lesson-in-piece-placement?gm=14064",
+    "gameName": "An Expert Lesson in Piece Placement",
+    "players": "easy19 (2106) vs. jstevens1 (1575)",
+    "opening": "KP (C20), Patzer opening"
+}

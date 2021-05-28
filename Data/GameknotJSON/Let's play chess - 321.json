@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "I am playing the black pieces here.  As with the last game I annotated, I am trying to learn from the collective wisdom of players who read through these games, so please feel free to comment and critique!",
+        "1... c5": "This has been my go-to response, although lately I've reverted somewhat to 1. ...e5.  I feel the Sicilian has more complex lines and variations, and my lack of serious study can hurt me when playing it.",
+        "2. d4 cxd4": "If anyone has a strong argument for another move here, I would love to hear it.  I have always played 2. ...cxd4 here and had great success with it.",
+        "3. Qxd4": "This is weaker, in my opinion, than c3, which gives white more offensive lines for the pawn, and avoids the loss of time.",
+        "3... Nc6 4. Qd1 Nf6 5. Nc3 e5": "This is not the most common move here, but I think it's stronger than 5. ...e6 or d6.  This is an aggressive reach for an even share of the center, and the eventual ...d5 should deal with the backward queen's pawn.",
+        "6. Nf3 Bb4 7. Bd3 d5": "Black has a superior center, better development, and more mobility.",
+        "8. exd5 Qxd5": "I debated this for a while.  8. ...Nxd5 is clearly very strong, but I wanted to keep a hold on e5 with that knight, so I went with the queen.  Also, I figured I had at least an even game after 9. Bd2, and a winning game after 9. O-O, so why not.",
+        "9. O-O": "This gives black a simple combination for some material.",
+        "9... Bxc3 10. bxc3 e4": "Forking the bishop and knight.  Material gain is guaranteed here/",
+        "11. Qe2": "This was probably the best response.  It forces my next move as I have to break the pin and deal with the possibility of 12. Bc4, and white escapes.",
+        "11... Be6": "As I said, forced.",
+        "12. Bxe4": "It seems like a mistake to give up the bishop in such an open game, but there was really no other option.  The bishop's only safe square is 12. Bb4, which loses to 12. ...exf3 and if 13. Qxf3 Qxb4.  Therefore 13. gxf3 would be forced and white's king is dangerously open.",
+        "12... Nxe4 13. Ba3 Nxc3": "This was premature, as I quickly found out.  I think that maybe 13. ...b4 was better.  This would be followed by b5, ousting the bishop and allowing the kingside castle.",
+        "14. Qe3 Qc4": "I wanted to get my queen off the open d file, also set up 15. ...Ne2+",
+        "15. Bb2 Ne2+": "This is the only way out of all threats.",
+        "16. Kh1 O-O 17. Qg5": "I suppose talyaba was trying to loosen my kingside, but I don't think this was very effective.  Without a white bishop, the white diagonal leading to my king isn't too much of a weakness.  Maybe 17. Rfe1 or Rad1 to get the rooks involved.",
+        "17... f6 18. Qe3 Bf7": "I was worried about the queen becoming over committed defending the knight and the bishop on a fairly vulnerable square (specifically 19. Nd2 looked imposing).",
+        "19. Rfe1 Rfe8": "This seemed like the most logically way to defend the knight.",
+        "20. Qd3": "The queen does not have an abundance of options, but I will certainly take the queen trade when up by 3 pawns.",
+        "20... Qxd3 21. cxd3 Rad8 22. d4": "And here comes the final trades...",
+        "22... Nexd4 23. Rxe8+ Bxe8 24. Nxd4 Nxd4 25. Rd1 Ne6": "I imagine this move was not anticipated, or maybe 23. ...Bxe8 was not anticipated, but either way this should be an easy game from here.",
+        "26. Re1 Ba4": "Looking at 27. ...Rd1, and after the rook trade the endgame is extremely easy.",
+        "27. Rxe6": "This is simply a blunder.  It's too bad that a fairly nice game had to end this way, but the result was clear anyway.",
+        "27... Rd1+": "I hope everyone enjoyed this, and please feel free to leave me your thoughts!  I learn so much from them, and I hope you learn from my triumphs and mistakes as well!  Thanks for reading."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=49900",
+    "gameName": "Let's play chess",
+    "players": "talyaba (1477) vs. worvis8 (1469)",
+    "opening": "Sicilian (B21), Andreaschek gambit"
+}

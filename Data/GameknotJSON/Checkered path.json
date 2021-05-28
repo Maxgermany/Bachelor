@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nc3 Nxc3 7. bxc3 Bd6 8. O-O O-O 9. Re1 Bxe5 10. dxe5 Nc5 11. Rb1 Nxd3 12. cxd3 b6 13. Rb4": "!",
+        "13... Bf5 14. Qf3 c5 15. Rf4": "He continues here with \"Black's light-squared bishop couldn't defend that square so it blocked the g-file with ...Bg6.\"",
+        "15... Bg6 16. h4 h5 17. g4": "!",
+        "17... Qxh4 18. Qg2 Qe7": "? Black might have held after 18...Qg5",
+        "19. gxh5": "but was losing once he allowed gxh5.",
+        "19... Bxh5 20. Re3 Rfe8 21. Qh2 g6 22. Rf5 Bg4 23. Rf4 Bh5 24. e6 fxe6": "After 25.Rg3 Black's king-side dark squares were shredded.",
+        "25. Rg3 Kh7": "? Computers claim the only defense was 25...Qh7 26.Rh4 Kf8! 27.Rg5 Rad8.",
+        "26. Rh4": "!",
+        "26... Qf7 27. Rg5": "! White's 26th and 27th moves set up a crushing sacrifice on h5.  For instance, 27...Rh8 28.Rgxh5! gxh5 29.Rxh5+ Kg7 30.Rg5+ Kf6 31.Qe5+ Ke7 32.Rg7.",
+        "27... Reg8 28. Kf1": "!",
+        "28... Qf3 29. Rhxh5+ gxh5 30. Qc7+ Kh8 31. Qe5+ Kh7 32. Rxh5+ Kg6 33. Qg5+ Kf7 34. Rh7+": "Last week: 1.Rg5! and 2.Rh5+! Kxh5 3.Qg5 mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/checkered-path?gm=68129",
+    "gameName": "\"Checkered path\"",
+    "players": "Mariya Muzychuk  vs. Humpy Koneru ",
+    "opening": "Petrov (C43), modern attack, Trifunovic variation"
+}

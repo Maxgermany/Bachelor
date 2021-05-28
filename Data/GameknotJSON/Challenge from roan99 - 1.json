@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Bc4": "Fine says that most opening traps etc are based on attacking the KBP.  I see so many players doing this.  e6 seems the best defense.  I tried Nh6 which then gets hit by the B and ruins the king's haven.  it really cost me with gregulatot.",
+        "3... e6 4. Nc3 Be7 5. d4 cxd4 6. Qxd4 Nf6 7. Bg5 Nc6": "scaring the Q.  should be a song",
+        "8. Qd2 O-O 9. O-O-O": "white is ahead with devel., territory",
+        "9... Nb4 10. a3 Qc7 11. Bxe6 Bxe6": "black tries to get some edge.  white smugly goes for the trade and then B develops while trading",
+        "12. axb4": "damn of course",
+        "12... a5 13. Nb5 Qb6 14. Na3 axb4 15. Be3 Nxe4 16. Bxb6 Nxd2": "that was an interesting switch.  this little point up I manage to keep but end up losing the endgame",
+        "17. Kxd2 bxa3 18. bxa3 Rxa3": "activating rooks",
+        "19. Rda1 Rfa8": "yeah, yeah, you don't really scare me",
+        "20. Bd4 Bf6 21. Rxa3 Rxa3 22. Bxf6 gxf6": "that's a nasty little hole where my hopes used to be",
+        "23. Rb1 Bd5 24. Rb6 Bxf3 25. gxf3 Rxf3 26. Ke2 Rh3 27. Rxd6": "now here I though I was OK.  comments about a smart plan for black are welcome",
+        "27... f5 28. Rb6 Rxh2 29. Rxb7 h5 30. Rb5 f4 31. c4 h4 32. Rh5 Kg7 33. c5 Kg6 34. Rh8 Kg5 35. Rg8+ Kf5 36. Re8 Kg4 37. c6 f3+ 38. Ke3 h3 39. c7 Rg2": "this is a mess now.  his K is really thwarting my hopes and his lovely little princess is about to become a queen.  that's essentially it.",
+        "40. c8=Q+ f5 41. Rg8+ Kh4 42. Rh8+ Kg5 43. Rxh3 f4+ 44. Ke4 Kf6 45. Rxf3 Rg4 46. Qxg4 Ke7 47. Rxf4 Kd6 48. Rf5 Kc6 49. Qg6+ Kd7 50. Rf7+ Ke8 51. Qg8#": "Nice job, Imun.  look out next time."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-roan99?gm=27787",
+    "gameName": "Challenge from roan99",
+    "players": "imun (1319) vs. roan99 (1324)",
+    "opening": "Sicilian (B50)"
+}

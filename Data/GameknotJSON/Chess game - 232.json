@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6": "Not one of the main lines. The most played moves are 2.. Pc6, 2.. d6 and 2.. e6. If white plays 3. d4 now it will become an accelerated dragon.",
+        "3. Bc4": "This move is quite good, but it isn't the main line. ",
+        "3... Nc6 4. Ng5": "A weak move. too easy to defend. I think he missed my next move. Better is a move like 4. Nc3 or 4.0-0",
+        "4... Ne5": "Easy defend",
+        "5. d3": "A small blunder. Better is of course 5. Bb3. White holds his bishop and a better pawn structure than in the game",
+        "5... Nxc4 6. dxc4": "Now you can see what I mean with the holes. Pawn on c4 is weak because after b3 is the diagonal for the bishop on g7 open to the rook.",
+        "6... h6": "First away with the knight",
+        "7. Nf3": "Maybe was 7. Nh3 better, because it can go to f4 followed by Nd5. The knight doesn't do anything here. g5 will be met by f4!",
+        "7... Bg7 8. O-O d6": "On 8.. Nf6?! follows the strong 9. e5!",
+        "9. h3": "holds the bishop away form field g4",
+        "9... Nf6 10. Re1": "Defends e4. Maybe was 10. Nc3 better",
+        "10... O-O": "Logical move. Another idea was 10.. Be6",
+        "11. Nc3 a6": "A very strong move. On 12. Nd5 follows the strong 12.. Nxd5 13. cxd5 b5! with control and bishop pair for black",
+        "12. b3": "This is a very big blunder. Better was 12. Nh2 followed by moves like f4 and g4",
+        "12... Nxe4": "Very strong combination. The knight on c3 was indirectly pinned by the bishop on g7 and now the knight on f6, which was blockading the bishop, has gone away with a pawn. Now white has to play 13. Rxe4 which is met by 13.. Bxc3. Black has a pawn more and an enormous advantage because the standings of the pieces. The bishop on c1, queen on d1, rook on a1 and the knight on f3 aren't standing good. Black has the same, but can bring them active much faster with moves like b5, Bb7, Dd7 and if white has taken on b5, which is quite logical Rfc8. Black has still to defend h6. White first has to play Rb1. Then isn't there a good field for the bishop. Black hasn't weak points. There can't come knights on d5, the queen hasn't a good place. I should already say, but maybe it's too fast, black is won",
+        "13. Rxe4 Bxc3 14. Rb1": "White must play here Bxh6, but black still has an advantage."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=27566",
+    "gameName": "Chess game",
+    "players": "warcloud (1280) vs. sneekschaak (1200)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

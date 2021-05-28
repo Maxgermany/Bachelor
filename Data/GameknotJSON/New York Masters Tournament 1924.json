@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. Nf3": "Here is game from my repetoire that I have memorized.  This game shows Reti's hypermodern play against a semi-slav type setup by Black.  The latent power of the White position is shown when Reti opens the position to unleash the power of the double fianchettoed bishops.  Bogoljubov tries to extricate himself tactically, however, his position is demolished by a beautiful combination.",
+        "1... Nf6 2. c4": "White stakes out control of the d5 square.",
+        "2... e6": "Black counters.",
+        "3. g3 d5": "Some players choose to develop the light-squared bishop to f5 (the New York system), or g4 (the Capablanca system).",
+        "4. Bg2 Bd6": "The first indication that Black is aiming for a semi-slav setup where he will play ...c6, ...0-0, ...Re8, ...Nbd7 and play for e5.  Black can opt for independent play with 4...Be7 or 4...dc.",
+        "5. O-O O-O 6. b3": "Since Black has placed his central pawns on e6 and d5, the dark-squared bishop on b2 will be well placed to exploit this slight center weakness.",
+        "6... Re8": "Aiming for the ...e5 advance.",
+        "7. Bb2 Nbd7": "To see another example of the latent power in White's setup, the continuation 7...e5 8. cd e4 9. Ne1 Nxd5 10. d3 ed 11. Nxe3 c6 12. e4 when White takes over the center and the initiative.",
+        "8. d4": "Reti had played 8. d3 in an earlier round, however, Black was eventually able to extricate his buried c8 bishop.  The advantage of 8. d4 is that is makes it difficult for Black to force through the ...e5 thrust.",
+        "8... c6": "Stronger is 8...dc 9. bc c5, when, at the very least, Black is challenging White's central control.",
+        "9. Nbd2 Ne4": "Here Black gives up his ...e5 aspirations, however, stronger would have been, 9...b6, developing the light-squared bishop to b7.",
+        "10. Nxe4 dxe4 11. Ne5 f5": "The only move to avoid the loss of the e-pawn.",
+        "12. f3": "An important moment in the game.  White is better due to the fact that both of his bishops are actively placed, where the c8 bishop is still on its home square.  An important lesson is to remember that an advantage in development is a dynamic advantage and Black will eventually solve his problems by playing ...b6, ...Bb7, and ...c5.  Reti cannot afford to waste time, so he opts to open the position before Black can coordinate his forces.",
+        "12... exf3 13. Bxf3": "Better than 13. exf3, as Reti wants to play e4 to further open the position.",
+        "13... Qc7": "This move earns a \"?\", as Black has a better chance to improve his position with 13...Nxe5 14. de Bc5  15. Kg2 Bd7, when ...Qe7, ...Rad8 will give him a chance to develop his Queenside, even though his light-squared bishop is poorly placed.",
+        "14. Nxd7 Bxd7 15. e4": "White's central pawn advance is more even more effective as it is supported by his pieces.",
+        "15... e5": "The alternatives:\n\n1) 15...c5 16. e5 Bf8 17. d5 and Reti has a huge space advantage.\n2) 15...fe 16. Bxe4 g6 17. Qd3 and Reti has a ready made Kingside attack.",
+        "16. c5 Bf8 17. Qc2": "There is a pawn winning tactic with 17. ef Bxf5 18. Bxc6 Qxc6 19. Rxf5, however, Black's forces now have open lines and with that, sufficent piece play for the pawn.",
+        "17... exd4": "17...fe? 18. Bxe4 and Black is facing ruin from the Queen and Bishop battery.",
+        "18. exf5 Rad8 19. Bh5": "Now the advantage is converted into a direct assault on the Black King.",
+        "19... Re5 20. Bxd4 Rxf5": "Bogoljubov decides to win back his pawn, but this allows a crushing tactic.",
+        "21. Rxf5 Bxf5 22. Qxf5 Rxd4 23. Rf1": "The threats along the f-file are too much to defend against.",
+        "23... Rd8 24. Bf7+ Kh8 25. Be8": "And Bogoljubov resigns as there is no defense against the Queen occupying f8.\n\n1)  25...Be7  26. Qf8  Bxf8 27. Rxf8#\n2)  25...Rxe8 26. Qxf8  Rxf8 27. Rxf8#\n3)  25...Bxc5  26. Qxc5 h6 27. Qf8  Kh7 28. Bg6  Kxg6 29. Qf5#"
+    },
+    "url": "https://gameknot.com/annotation.pl/new-york-masters-tournament-1924?gm=789",
+    "gameName": "New York Masters Tournament 1924",
+    "players": "Richard Reti  vs. Efim Bogoljubov ",
+    "opening": "Reti opening (A05)"
+}

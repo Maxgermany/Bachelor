@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "I like this game.",
+        "1... c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. c3": "Nothing special.",
+        "5... Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6 8. Bf3 Bf5": "After only 8 moves the position seem = to me. I don't think he can either coordinate a decent queenside attack or break the center with that formation, if black plays correctly. The white-squared bishop goes to a good diagonal and opens his line preparing for the forthcoming e6.",
+        "9. Ne2 e6 10. Ng3 Bg6 11. O-O Bd6": "Had my opponent known that I've played this sort of formation with black from 15 to 18 years old, he wouldn't have played it. Sometimes we know kind of authomatically where pieces go. ;-)\n\nBlack shall play a consistent game 'til the end, ready to take advantage of any of white's positional slips. The position seems quite calm, but I think it's quite dangerous and poisonous for white, had he known he was playing against a specialist in this sort of position. Practical experience proves.",
+        "12. Bg5 Qa5 13. Bxf6": "Why should I care for that doubled pawn that does me no harm? On the contrary, it opens me a column. I'm starting to like this game... :-)",
+        "13... gxf6 14. Ne4 Bxe4 15. Bxe4": "So far so good. Now I'm in a position that completely fits to my style (and I guess my opponent had no idea of it) and play quite confortably and confidently.\n\n\"What a nice king you have...\"\n\nSometimes experience in some lines altogether with checking some of the opponents' games allows us to \"predict\" some of their moves.",
+        "15... Qg5": "...Qg5! Important move.\n\n16. f4! seems to be the only decent move for me.\n",
+        "16. Qf3": "Qf3? That bishop sac at c6 goes nowhere.",
+        "16... f5": "Now his queen helps me as he should let his g and h pawns untouched, unless if forced to do so.",
+        "17. Bc2 O-O-O 18. Kh1": "My c6 pawn should be his target. Just playing defensive moves won't do any better. I will set a strong attack and he will have no counterplay.\n\n18. b4 seems to be the appropriate move",
+        "18... h5 19. b4 Rdg8": "Now what the position tell us? What about the disposition of the pieces? Had he played that f4 or not moved his king I guess he would be a little less late.",
+        "20. a4 Qh4": "Weakening his pawn chain. Now what to do? Just cry. Now I think I won't lose this game anymore (and by losing I also mean drawing).",
+        "21. g3 Qg5 22. Bd1": "The sky is darker, the clouds are coming. The storm is approaching.\n\nHe should have avoided the next move at all costs. 22. h4 was necessary. I would need more preparation but I'd keep confident in that position, though. Too many holes, f4 is a go, half-open column. And I would be able to creat diverse, unexpected threats, at will.",
+        "22... h4": " - ",
+        "23. g4": "Whatever...",
+        "23... fxg4 24. Qxf7 Rg6": "Threatening to trap the queen.",
+        "25. Bb3 g3": "But of course, the main threat is checkmate.",
+        "26. Bxe6+ Kb8": "27. Bh3 g2\n\n27. Rfe1 Rf6! 28. Qd7 g2 29. Kg1 Qf4\n\nAny other move that do not give up material lead to a quick mate.\n\nHope you enjoyed. ;-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=15330",
+    "gameName": "Team match",
+    "players": "ferdix (1934) vs. desafiante (1800)",
+    "opening": "Caro-Kann (B17), Steinitz variation"
+}

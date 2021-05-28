@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 b6": "I haven't seen this for a while, I just stick to the London idea",
+        "3. Bf4 e6": "I really thought about c4 here but kept within the system",
+        "4. e3 Bb7 5. Nbd2 d5 6. Bd3 Bd6 7. Bg5 Nbd7 8. O-O h6": "So now the bishop is going to be chased",
+        "9. Bh4 Qe7 10. c4": "c4 comes now",
+        "10... g5": "I guess black will castle long, which is ok by me as the c file will be half open soon",
+        "11. Bg3 g4": "I am not too worried about this at the moment",
+        "12. Ne5 h5": "Time to simplify",
+        "13. Nxd7 Nxd7 14. cxd5 exd5": "The semi open file is to be claimed",
+        "15. Rc1 O-O-O 16. a4": "Time to storm myself the game is afoot",
+        "16... Bxg3 17. hxg3 Kb8 18. a5 bxa5": "This queens side is beginning to look exposed",
+        "19. Nb3 h4 20. Qxg4": "Pawns make prizes",
+        "20... hxg3 21. Qxg3 Nf6 22. Nxa5 Rdg8 23. Qf4 Rh5 24. Rc3": "I am going to bring more pressure on the bishop",
+        "24... Qd7 25. g3": "Black cannot play the tempting q h3 because of qxp check then q x b mate",
+        "25... Ne8": "So blak retreats the knight",
+        "26. Qf3 Rgh8": "this makes sense",
+        "27. Rb3": "however the bishop is a gonner now",
+        "27... Rh5h2": "Again looking to bring the queen to h3",
+        "28. Nxb7 Ka8 29. Nc5": "Q h3 is now met by qxp mate if black had  moved to c8 I would have B f5 check  and it is game over",
+        "29... Rh2h1+ 30. Qxh1 Rxh1+ 31. Kxh1 Qh3+ 32. Kg1": "I amplanning on moving my knight to a6 trapping the king",
+        "32... Qg2+": "???? black resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/zigis-mini-tournament-i?gm=30368",
+    "gameName": "zigi's mini-tournament I",
+    "players": "dwardman (1804) vs. oxxentbixim (1774)",
+    "opening": "Queen's Indian defence (A47)"
+}

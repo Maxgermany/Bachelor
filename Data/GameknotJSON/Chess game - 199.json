@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4": "So I'm playing black here. I recently adopted the Slav defense to play against the popular queens gambit. ",
+        "1... d5 2. c4 c6": "The Slav defense goes like this. There are a lot of variations but its usually pretty fun to play, and you don't need piles of theory for things like the Kings Indian defense. ",
+        "3. h3": "This wastes time basically. It stops Bg4, which black could play after white plays Nf3, but its not a big issue to waste a turn on here. ",
+        "3... Nf6 4. Nf3 dxc4": "I've won a pawn but he has decent compensation (since I have to waste time and overextend my pawns to hold on to it). If he hadn't played h3 he'd be doing fine. ",
+        "5. Nc3 b5 6. e4": "Grabbing a hold of the centre. This was unavoidable, however, I can undermine it through moves like ...c5 and ...Bb7 and ...b4 later. ",
+        "6... Nbd7 7. d5": "Not a good move. ",
+        "7... Bb7 8. Bg5 cxd5 9. exd5 b4": "The advanced pawns come in handy!",
+        "10. Nb5": "This was actually a very dangerous position. If I play ...Nxd5, he can play Nd6!!, which wins my queen (it would be checkmate except for me playing exd6, but that allows Bxd8). Luckily I spot that. ",
+        "10... a6 11. Bxf6 gxf6": "Takes away a castling spot, but I'm winning material, and my rook on the open file combined with the bishop on b7 will make life very difficult for his king once he castles. This also allows my bishop on f8 to come out to h6",
+        "12. Bxc4 axb5 13. Bxb5 Qb6": "I'm up a piece for a pawn (he could have saved a piece but doing so would give me a lot of compensation back). ",
+        "14. Qd3 Ra5 15. Bxd7+": "He could have temporarily saved his pawn on d5 by playing Bc4, but he tries to expose my king. However, he doesn't have any real capability to attack. ",
+        "15... Kxd7 16. Qf5+ Ke8": "And the kings tucked away safely again. This is a strong place for the king because of my pieces on the queenside defending the open file. ",
+        "17. O-O Rxd5": "Threatens the queen, wins a pawn, but more importantly, my bishop now attacks his castled position directly. ",
+        "18. Qg4 f5": "Nothing like chasing a queen:)",
+        "19. Qc4": "He correctly targets the open c file, however his king is far too vulnerable. ",
+        "19... Rg8": "Now his knight on f3 is en prise, and if it moves, my pieces will target g2 instead. ",
+        "20. Rac1 Rd6": "Opening up the bishop again and allowing this rook to move over to the g file to help out. ",
+        "21. Nh4": "Saving the knight and protecting g2. But...",
+        "21... Rxg2+": "!! ",
+        "22. Nxg2 Rg6": "There's no protection for the knight or the king, since my queen pins the f pawn to the besieged monarch. ",
+        "23. Qc7 Rxg2+ 24. Kh1": "And this allows a really nice tactic called a \"windmill\". The premise is, when my rook here takes f2, his king will have to go to g1 because of the check from the bishop. Next my rook checks the king on g1, forcing it to go back to h1, and then I can capture the next piece in the line. \r\nThis has the potential to wipe the entire board clear of enemy pieces, however here there is a much quicker checkmate. ",
+        "24... Rxf2+ 25. Kg1 Rg2+ 26. Kh1": "Demonstrating the windmill. ",
+        "26... Rc2+": "The queen now takes away the king's last move, forcing white to capture the piece giving check. ",
+        "27. Qxb7 Qxb7+ 28. Kg1": "And its all over. This is a pretty common sort of attack which arises from similar openings, including the Queen's Indian, Slav variations, and the Sicilian Kan to name a few (look those up!)",
+        "28... Qg2#": "Hope you enjoyed this:)"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=34133",
+    "gameName": "Chess game",
+    "players": "??? (~1600) vs. Me (~2000)",
+    "opening": "QGD Slav defence (D10)"
+}

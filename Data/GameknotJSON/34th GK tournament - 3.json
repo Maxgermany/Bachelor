@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. c4": "After a good opening - followed by a silly mistake which cost me a pawn - I continued to push my opponents  pieces back until he had no room for maneuver. The end game is very interesting - because our forces are nearly equal and I barely managed to find a way to promote a pawn while preventing black from doing the same.    \n\nThis is still a flawed game - but is conducted in an interestingly aggressive way by white.",
+        "1... e5 2. g3 Bc5 3. Bg2 Nf6 4. Nc3 c6 5. Nf3 d6 6. h3 Be6 7. d3 e4": "Here's where I make my mistake. D x E pawn is standard as part of this variation. For some reason, I forgot this.",
+        "8. Ng5": "I'm advancing a piece before I'm ready and black takes complete advantage of it.",
+        "8... exd3 9. Qxd3 Qd7 10. a3 Bf5 11. e4 Bg6 12. O-O O-O 13. Be3 Bxe3 14. Qxe3 Re8 15. Rad1 h6 16. Nf3 Nxe4": "The only bad thing about black's attack is that the aim doesn't seem to have been any more ambitious than the stealing of a pawn. It was at this point that I realised I still had the advantage of mobility (black's queen knight and queen castle are out of play).",
+        "17. Rfe1 Nf6": "Literally - my strategy here was PUSH! Get some space.",
+        "18. Qd4 Rxe1+ 19. Nxe1 Ne8 20. b4 Na6 21. f4 Nac7 22. Nf3 Ne6 23. Qd2 Rd8 24. g4 Nf8 25. f5 Bh7": "Black is using his knights to defend - they are completely useless as attacking pieces for the time being.",
+        "26. Qd4 a6 27. Ne4 Qc7 28. h4 Kh8 29. Ng3 Nf6 30. g5 hxg5 31. hxg5 Ne8 32. Kf2 f6 33. g6 Bxg6 34. fxg6 Nxg6": "So now we have an even score - although I have the advantage of a well positioned bishop. At this point, I tried to manipulate black into checkmate, but I failed to do so. Eventually I decided that I still had a very good chance if I could forced black to trade pieces; most importantly - I wanted to get rid of his knights.",
+        "35. Nh4 Qf7 36. Rh1 Kg8 37. Ngf5 Rd7 38. Qg4 Ne5 39. Nh6+ Kf8 40. Nxf7 Nxg4+ 41. Kf3 Ne5+ 42. Nxe5 dxe5 43. Ke3 g5 44. Nf5 Ng7 45. Rh8+ Kf7 46. Bh3 Nxf5+ 47. Bxf5 Re7": "I is a bad move because now the white bishop can take the vital B pawn. The plan is to stall the advance of the E, F and G pawn with the king while using the bishop to help get the white pawns past the black blockade. It turned out to be a very narrow thing. The bishop was essential.",
+        "48. Rh7+ Ke8 49. Rxe7+ Kxe7 50. Bc8 b6 51. Bxa6 Kd7 52. Ke4 Kc7 53. Kf5 Kb8": "Obviously - if I'm not careful - I'll allow a black pawn to get too far ahead of my king - so I need to arrange it so that my bishop can escape to cover the D-H diagonal.",
+        "54. a4 c5 55. bxc5 bxc5 56. Bb5 Kc7 57. a5": "This is to force the king not to go to the aid of his black pawns and to allow my bishop out. I also need to keep at least one white pawn or else the game will end in a draw.",
+        "57... Kb7 58. Bd7 Ka6 59. Kxf6 e4 60. Kxg5 e3 61. Bg4 Kxa5 62. Be2": "Just about managed to save my pawn while blacking black's advance. There were many variations where the black king could have protected the E pawn, causing me a lot more problems.",
+        "62... Kb6 63. Kf4 Kc6 64. Kxe3 Kd6 65. Ke4 Ke6 66. Bg4+ Kd6 67. Kf5 Kc6": "It sometimes bothers me when players of a similar ranking refuse to give you the benefit of the doubt. I'm hardly going to allow stalemate at this point.",
+        "68. Ke6 Kc7 69. Kd5 Kb6 70. Kd6 Kb7 71. Kxc5 Kc7 72. Kd5 Kb8 73. Kd6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/34th-gk-tournament?gm=23763",
+    "gameName": "34th GK tournament",
+    "players": "e4_lunatic (1675) vs. teddy89 (1839)",
+    "opening": "English opening (A20)"
+}

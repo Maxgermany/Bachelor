@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4 Nf6": "A rematch from deanfromblue. I won our first game as white so he offered me the black pieces this time. I'm something of a fan of the Indian System, so I thought I would go for it this time.",
+        "2. e3 d5 3. Bd3 c5": "This is sort of a Gruenfeld Defense, though white's 3rd move wasn't really the main line.",
+        "4. b3 g6 5. Bb2 Bg7": "Opposed fianchettoed bishops can only end in tragedy for someone.",
+        "6. dxc5 Qa5+ 7. Nd2 Qxc5": "Reclaimed the pawn. Everything looks pretty well even so far.",
+        "8. Ngf3 Nc6 9. O-O Bg4": "To pin the knight. I'm looking to get my pawn to e5 and win the knight, with or without the fork.",
+        "10. Re1 e5": "Plan is in motion.",
+        "11. Be2 e4": "And white doesn't let me do it. And now I'm thinking that after castling, I may find a good discovered attack for my knight at f6 that might allow me to win white's bishop on b2. Not really \"hope chess\" though I do hope white will allow it - more like creating a veiled threat.",
+        "12. Nd4 Bxe2": "I pretty much had to take the bishop on e2. If black tried 12. ... Nxd4, 13. Pxd4 threatens the black queen, and after black saves her, 14. Bxg4 leaves white up a pawn.",
+        "13. Nxe2 O-O": "I would like to play Nb4 and, if needed, Rc8 to beat up on that backward pawn on c2. But white can shrug that off easily enough so I put it on a back burner for now and think defensively. My bishop on g7 needs support if I am ever going to open the long diagonal by moving my knight.",
+        "14. c4 dxc4 15. Nxc4 b5": "I was expecting the knight to retreat, and then I would take over the open d-file with my rooks.",
+        "16. Qd6 Qxd6": "Crisis! White surprised me with the queen move. I pretty much had to trade queens, as the white queen threatens both of my knights, and I have no move that saves them both. Obviously, after white recaptures, that knight will be forking two undefended pawns. I squirmed quite a bit here before committing to trading queens (if I had to lose a pawn, I would want my queen around - no need exchanging queens when I'm behind in matrial, or about to fall behind). Then I found the way out.",
+        "17. Nxd6 a6": "Now if 18. Nxe4? Nxe4. So white could try 18. Bxf6 Bxf6, 19. Nxe4? Bxa1 and white gains the pawn but loses the exchange.",
+        "18. Rac1 Nb4": "White found a clever trick, threatening my undefended knight with his rook, which also gets his rook off of a1 so he can freely win the pawn on e4 now. But I had anticipated this move. Now I am forking the pawn on a2 and the empty d3 square - which is a fork of the two rooks.",
+        "19. Bxf6 Bxf6 20. Nxe4 Bg7": "I am still threatening a2 and d3, but my bishop is hanging. I move it to safety. White now must chose whether to lose the a2 pawn or lose the exchange.",
+        "21. Red1 Nxa2": "White chose the pawn, which I gladly accept. Crisis averted.",
+        "22. Rc7 Rac8 23. Ra7 Nb4": "Defends the a6 pawn.",
+        "24. Rdd7 Rfd8": "Yep, my pawn of f7 is hanging all alone, but if white plays 25 Rxf7??? Rd1   solves all my problems. Right now I would love to trade off all the pieces. I'm fairly sure 2 vs. 1 on the queenside will promote faster and easier than 4 vs. 3 on the kingside.",
+        "25. Rxd8+ Rxd8": "Still threatening the mate.",
+        "26. f4 Re8": "White sees the mate, but chooses a very wrong way to prevent it. It leaves a backward pawn on e3 and a defenseless knight on e4, and I know just the way to attack them both.",
+        "27. Nd6 Rxe3 28. Ra8+ Bf8": "And now I am a pawn ahead. Liquidation time - which is easier to say than to do, in this position. However, the pawn at b3 is hanging and cannot be saved. If 29. Nc8? Re8  wins the knight. Oh, and I'm very conscious of the threat of Nd7 which, fortunately, white cannot reach for several moves.",
+        "29. Kf2 Rxb3": "White didn't even try to save the pawn (I had thought he might try 29. Nd4) so I eat it.",
+        "30. Nd4 Rd3": "And now white played the move I had expected him to make earlier. I skewer the two knights.",
+        "31. Nd6xb5 axb5 32. Nxb5 Rb3": "Hmmm, I might have outsmarted myself. I'm not really sure trading two pawns for that night was the best way to liquidate. Now the position looks fairly drawish. I'm up by a full piece, but K B vs. K is a draw, so I have to use my material advantage to win a pawn, and there's precious few of them left, and they're well positioned. ",
+        "33. Nc7 Rb2+ 34. Kg3 Ra2": "I'm thinking liquidate the rooks, if white will oblige, then liquidate the knights if at all possible, then eventually find a way to sacrifice my extra piece to eliminate a white pawn in such a way that my 3 vs. 2 pawn ending will be favorable. I expect white to avoid this eventuality.",
+        "35. h4 Rxa8": "White proved me wrong, and it proved to be his undoing. Here I was expecting a long difficult endgame threatening to draw if I'm not careful, and maybe even draw if I am careful. Then white commits a game-ending blunder with 35. h4??. Now after 36. Nxa8, black plays 36. ... Nd5! leaving white's knight trapped in the corner with no moves. White can try to dislodge black's knight with his king, starting with 37. Kf3, but 37. ... f5! blocks white's king's route and gives the black king time to support the knight. Then maneuver the black bishop to d8 and hunt the white knight with the black king, and black will be up by two pieces instead of one. Apparently black foresaw this too (one move too late) and resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/crisis?gm=20993",
+    "gameName": "Crisis!",
+    "players": "deanfromblue (1275) vs. blake84120 (1453)",
+    "opening": "Queen's pawn game (A45)"
+}

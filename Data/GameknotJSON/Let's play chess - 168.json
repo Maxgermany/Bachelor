@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. d4 exd4 6. Qxd4 Be6 7. Nc3 c5": "As black, I did not like my pawn structure. But it is not too bad...",
+        "8. Qd3 g6 9. O-O Bg7": "Since white seizes center, black tries to develop his bishop by 9. ... Bg7",
+        "10. a4 Ne7 11. Bg5 O-O 12. Bxe7": "White plays aggressive. He almost always trade pieces when available. But it can cause him to loose positional advantage.",
+        "12... Qxe7 13. Rae1 Rab8 14. b3 f5 15. Nd2": "Black want to get rid of white's pawn on e4.",
+        "15... fxe4 16. Ndxe4 Rbe8": "Two major pieces, queen and rook, tries to dominate e rank. White and black both can make tactical moves such as discovered attack.",
+        "17. Nb5 Bf5 18. Nexd6": "I did make benefits by 18. ... Qxe1. Is there any way for white to prevent it?",
+        "18... Qxe1 19. Rxe1": "This was painful move for white. I think 19. Nxe8 or 19. Qd5+ would be much better.",
+        "19... Rxe1+ 20. Qf1 Rxf1+ 21. Kxf1 cxd6 22. Nxd6": "The game is almost decided.",
+        "22... Be5 23. Nc4 Bxh2 24. Ne3 Bf4 25. Nd5 Bxc2": "White resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=59803",
+    "gameName": "Let's play chess",
+    "players": "tardp (1094) vs. meatholic (1200)",
+    "opening": "Ruy Lopez (C62), old Steinitz defence"
+}

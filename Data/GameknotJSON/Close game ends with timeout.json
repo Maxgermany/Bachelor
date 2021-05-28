@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. Nc3 e5": "1. Nc3 is a very odd opening, considered by the world of chess experts to be too passive and therefore a weak choice, virtually never played at serious levels. I had no idea what to do with it, so I winged it, and turns out, I picked just about the worst possible \"good\" response, giving white a decent opening and a strong attack.",
+        "2. e4 Nf6 3. d3 Bb4 4. Bd2 Nc6": "Actually, until now, everything seems to be OK. Both sides are developing more or less equally.",
+        "5. Nf3 d5 6. exd5 Nxd5 7. Nxd5 Qxd5 8. Bxb4 Nxb4 9. Qd2 Qc5": "Taking the pawn at a2 would have probably lost black's knight.",
+        "10. c3 Nc6 11. Qe3 Qb5": "Probably not a wise move. Threaten's a pawn, but also exposes the black queen to a discovery by by white's bishop. Probably should have found something more solid, like castling or bringing out my bishop. What can I say, I like attacking.",
+        "12. b4 f6": "Not a good move either. Castling would have been better. This just ends up stranding an isolated pawn on e5.",
+        "13. d4 Qd5 14. dxe5 fxe5 15. Rd1 Qe6": "Black's queen is now a patsy, tied to defense of a doomed pawn, an easy target for white as he brings pieces into play against her.",
+        "16. Bb5 O-O": "This doesn't save the pawn. All I wanted was to get my king out of danger and consider that lonely rook pawn on a2 as a fair exchange for losing the doomed pawn on e5.",
+        "17. O-O Bd7 18. Bc4 Qxc4": "A sneaky trick by white, but it doesn't change much, althought white's rook on the 7th rank is scary for black.",
+        "19. Rxd7 Rf7 20. Rd2": "Chased away the \"ox\" (rook on the 7th) and white chose to put it to defense, which is a good thing for black. It's time to get some rooks behind the doomed pawn and look to exchange my way out of danger.\r\n\r\nUnfortunately, at this point I had a week-long sabbatacle to finish wiritng a novel, and put this game out of my mind - figuring to resume when I came back. I failed to take the timer into consideration, and black resultantly lost on timeout."
+    },
+    "url": "https://gameknot.com/annotation.pl/close-game-ends-with-timeout?gm=20679",
+    "gameName": "Close game ends with timeout",
+    "players": "remohgramps (1200) vs. blake84120 (1200)",
+    "opening": "Dunst (Sleipner,Heinrichsen) opening (A00)"
+}

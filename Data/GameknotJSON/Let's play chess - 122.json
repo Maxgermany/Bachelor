@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. d4 d5 3. e3 c5 4. b3": "I've been experimenting with this Zukertort setup.",
+        "4... cxd4 5. exd4 Bg4 6. Be2 e6 7. Bb2 Nc6 8. a3 Bd6 9. Nbd2 O-O 10. O-O": "Both sides have completed development.  White controls e5, while Black counters with control of e4.",
+        "10... Qc7 11. h3 Bh5 12. Rc1 Ne7 13. Ne5 Bxe2 14. Qxe2": "White has planted a N on e5; Black will try to remove it.",
+        "14... Ng6 15. Ndf3 Nh5 16. Nxg6 fxg6": "I was expecting hxg6.  The text drops a pawn.",
+        "17. Qxe6+ Kh8 18. Qe2 Rae8 19. Ne5 Bxe5 20. dxe5 Rf5": "This sets up a pawn fork, at the cost of exposing White's K.",
+        "21. g4 Rg5 22. Qe3 Rf8": "I was expecting h6 to protect the R.  This has to be classified as a blunder as it drops an entire R.",
+        "23. Qxg5 Nf4": "There are two good threats here: 1) Nxh6, forking K and Q, 2) Ne2+, forking K and R.",
+        "24. Qh4 Qc6": "White dealt with the Nxh3+ threat, but Black decides to play for a g2 checkmate.  Ne2+ wins the exchange and recovers some of the material deficit.",
+        "25. Rfe1": "Preventing Ne2.",
+        "25... d4": "Threatening Qg2#.",
+        "26. Qg3": "The checkmate threat is easily countered.",
+        "26... h5 27. Bxd4 Ne6 28. Be3": "The Be3 dominates the Ne6.",
+        "28... Rf3 29. Qg2": "Black resigned here.  Black has a significant material deficit and White can now exchange down into a comfortably won endgame."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=63414",
+    "gameName": "Let's play chess",
+    "players": "mmoody95 (1854) vs. themissinglink (1500)",
+    "opening": "Reti opening (A05)"
+}

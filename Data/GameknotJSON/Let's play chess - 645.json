@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Best by test-Fischer",
+        "1... d5": "center counter game",
+        "2. exd5 Qxd5 3. Nc3 Qe6+": "Better is Qa5 or Qd6. This hinders his development by placing his Q in front of his center pawn.",
+        "4. Be2 a6": "pointless",
+        "5. Nf3 Nc6 6. d4 Qg6 7. O-O e5": "Simply drops a pawn",
+        "8. dxe5 Nb4 9. Bg5": "Threatening mate.",
+        "9... Bf5": "Defending D8 with the rook",
+        "10. a3": "Daring him to take the pawn.",
+        "10... Nxc2 11. Nd5": "Threatening mate.",
+        "11... Rc8": "??",
+        "12. Nxc7+": "He resigns as his only continuation is Rxc7 Qd8++"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=31204",
+    "gameName": "Let's play chess",
+    "players": "minital (1499) vs. ferdi_bn (1228)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

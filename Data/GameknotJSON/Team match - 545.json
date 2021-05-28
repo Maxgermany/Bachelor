@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. c4": "This began nicely with the English Opening during which, I made a couple of errors. I was forced to desperately sacrifice most of my pieces in order to remain in the game.",
+        "1... Nf6 2. g3 e5 3. Bg2 Bc5 4. e3 d6 5. a3 a6 6. b4 Ba7 7. Nc3 O-O 8. Nge2 c6 9. h3 Be6 10. d3 Nbd7 11. O-O Qc8 12. a4 b6 13. Kh2 Rb8 14. b5 cxb5 15. axb5 a5": "At this point I should have raised my D pawn, since the black bishop is locked out of the game, I'm essentially a piece up. But no, instead I became too confident.",
+        "16. f4 Nc5 17. fxe5 dxe5 18. Ba3 Rd8": "For some reason I didn't notice the implications of black's castle on D8.",
+        "19. Bxc5 Qxc5 20. Qd2 Bxc4 21. d4 Bxe2": "This is the point where I realise that the game was lost unless I took drastic measures to gain tempo and directly attack the king. For this reason I took the bishop with my queen and not my knight as you will see.",
+        "22. Qxe2 Qxc3 23. Rac1": "This is a move to gain tempo - forcing the queen into a passive position, and gaining a strong placement for my castle.",
+        "23... Qb4 24. Rxf6 gxf6": "I've now removed just about all the defense for the black king and I have the advantage of tempo.",
+        "25. Rc7 Qf8": "Black realises that by placing a castle on C8, I'll be able to double the attack on it by moving my queen to G4+.",
+        "26. Be4 Rde8 27. d5": "I made this move to 1: Not reveal my tactic too early and 2: protect my bishop and 3: to make the black think that my next move is going to be D6.\n\nThis move ends up being the most important in the game.",
+        "27... Re7 28. Qh5 h6": "The queen could have moved to G7. I would have swapped queens and then taken the castle with a pretty even chance of winning.",
+        "29. Rxe7 Qxe7 30. Qxh6 Qc7": "The queen is moving to allow the king some breathing space on F8 while preaparing to attack my king.",
+        "31. Bh7+": "First I gain more tempo by arranging things to allow my bishop to be positioned on G7 with black having to move two more times to get out of check.",
+        "31... Kh8 32. Bg6+ Kg8 33. Qh7+ Kf8 34. d6 Qd7": "It is very satisfying when you achieve a surprise checkmate.",
+        "35. Qh8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=30229",
+    "gameName": "Team match",
+    "players": "e4_lunatic (1670) vs. jonkie (1669)",
+    "opening": "English, 1...Nf6 (Anglo-Indian defense) (A15)"
+}

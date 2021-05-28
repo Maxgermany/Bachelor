@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5": "I chose to play black, to acquire a deeper understanding of my favorite opening as Black, The Sicilian from one who has an intimate knowledge of it... \n\nsee... \"Ipsissimus's Sicilian Wing Gambit\"  <http://gameknot.com/mt.pl?id=66642> \n\nand \"Ipsissimus's Sicilian Defence I\"  <http://gameknot.com/mt.pl?id=66385>",
+        "2. Nf3 d6": "Staying with the traditional and familiar",
+        "3. d4 cxd4": "Continuing along the Sicilian line with thoughts of getting a chance to Fianchetto my Bishop at g7, have to look out for any traps...\nSuch as the Magnus Smith trap that can arise from the Fischer variation\nIf what follows is  \n4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4\nI may not be able to carry out my plan...",
+        "4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5": "FYI : This move signifies the \"Richter-Rauzer\", named after German Master Kurt Richter (Kurt Richter was born in Berlin. FIDE awarded him the IM title in 1950 on its first designation of titleholders.)and Sicilian Defense theoretician Vsevolod Rauzer... Rauzer did pioneering work in methods of attacking the Sicilian Dragon by castling queenside. His efforts in this area predate the famed Yugoslav Attack in the Dragon by at least fifteen years.",
+        "6... e6 7. Qd2 Be7 8. O-O-O": "The Queenside Castle...",
+        "8... O-O 9. Ndb5 Qa5 10. f4 a6": "GK's engine thinks this move was made one move to early and I should have moved my Rook to d8 first... in retrospect and in light of the sequence of the following moves I would concur with GK's engine.",
+        "11. Nxd6 Rd8 12. e5 Nd7 13. Bxe7 Nxe7 14. Bd3 f5 15. exf6 e.p. Nxf6 16. Nc4 Qc7": "Needed to stay close... ",
+        "17. Bxh7+": "To help out on what followed",
+        "17... Kxh7 18. Qxd8 Qxd8 19. Rxd8 Nc6 20. Rhd1 Ne7": "I have no idea what I was thinking to totally ignore the gift of the Rook... so regrettable \nWhat might have followed would have still led to the forgone conclusion that I was headed for anyway... but I'm sure I would have felt better about it\nafter 2o. ...Nxd8\n\n21.\tRxd8\t Nd7\n22.\tf5\texf5\n23.\tNd5\tNc5\n24.\tNcb6 Rb8\n25.\tNxc8\t b5\n26.\tRe8\tNe4\n27.\tg4\tfxg4\n28.\tRxe4\t Rxc8\n29.\tRxg4\t Re8\n\n",
+        "21. Rd1d3 Rb8 22. Ne5 g6 23. Rf8 Nh5": "A blunder, with the inevitable occurring in 6 moves...",
+        "24. Rf7+ Ng7 25. Rxe7 Kh6 26. Rh3+ Nh5 27. Ng4#": "Thank you sir...\nStill trying to learn from my mistakes and apparently I made many in this game... "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-ipsissimus-teaching-game?gm=57988",
+    "gameName": "Challenge from Ipsissimus : Teaching Game",
+    "players": "ipsissimus (2416) vs. vocihc (1556)",
+    "opening": "Sicilian (B64), Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"
+}

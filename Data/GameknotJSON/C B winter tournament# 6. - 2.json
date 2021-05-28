@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 Nc6 3. Nf3 Nf6 4. e5 Nd5 5. c4 Bb4+ 6. Bd2 Nb6 7. c5 Nc4": "ooops. ...Nd5 is normal in this line of the Alekhin counter attack. this drops the N. ",
+        "8. Bxb4 Nxb4 9. Bxc4 O-O 10. a3 Nc6 11. b4 d5 12. Bd3 f5 13. exf6 e.p. Qxf6 14. Bb5 Nxd4 15. Qxd4 Qg6 16. Nh4 Qg5 17. Nd2 c6 18. Ndf3 Qh6 19. Be2": "Bd3 better.",
+        "19... Re8": "...Rf4 better.",
+        "20. Ne5 b6 21. cxb6 axb6 22. Nxc6 e5": "...Ra3 is better, then Rxa3 Qc1+ and Qxa3",
+        "23. Qxd5+ Be6 24. Qe4 Bd7": "...Rxa3 better.",
+        "25. Nxe5 Rad8 26. Nf5 Qf6 27. Nxd7": "misses the appropriate followup: 27...Qc3+!! with mate to follow in just a few moves: 27....Qc3+ 28.Kd1 Rxd7+ 29.Qd4 Rxd4+ 30.Nxd4 Qd4+ 31.Ke1 Qb2! (...Qxa1+ 32.Kd2 Rxe2+ 33.Kxe2 Qxh1 wins also but 31...Qb2 is prettier) 32.Kd1 Qxe2+ 33.Kc1 Rc8+ 34.Kb1 Qc2Mate. ",
+        "27... Rxe4": "Black missed it too. ",
+        "28. Nxf6+ gxf6 29. f3 Rde8": "...Re5 better.",
+        "30. fxe4 Rxe4 31. Rf1 Kf7 32. Nd6+": "A narrow escape. "
+    },
+    "url": "https://gameknot.com/annotation.pl/c-b-winter-tournament-6?gm=64857",
+    "gameName": "C B winter tournament# 6.",
+    "players": "gur-dial (1452) vs. aftermidnight (1105)",
+    "opening": "French defence (C00)"
+}

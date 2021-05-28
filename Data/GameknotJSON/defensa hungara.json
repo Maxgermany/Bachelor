@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Peon cuatro rey o peon a e4 . es una apertura clasica ",
+        "1... e5": "Contesta con peon e5, se igualan las fuerzas y opone el peon al dominio del centro ",
+        "2. Nf3": "amenazo comer el peon ",
+        "2... Nc6": "defiende el peon ",
+        "3. Bc4": "Le amenazo con el alfil el punto en f7 ",
+        "3... Be7": "esto creo que se llama defensa hungara, pero por lo que se ve no dio mucho resultado ",
+        "4. d4": "esto es para abrirle la columna a mi dama ",
+        "4... Nf6": "esta jugada me parece un error muy grave porque deja el caballo expuesto a la toma del peon negro por parte de las blancas. esta movida del caballo fue el gran error porque el blanco puede abrir la columna de la dama mientras que gana un tiempo amenazando al caballo contrario y obligando a mover el caballo contrario ",
+        "5. dxe5 Nxe4": "este fue un error grave porque deja expuesto su caballo y deja expuestos dos puntos debiles al mismo tiempo que son el caballo colgado en e4 y el punto de f7. ",
+        "6. Qd5": "con esta jugada la dama ocupa un punto en que amenaza la toma del caballo y el mate en f7",
+        "6... Nb4": "Esta jugada es mala porque deja sin proteccion el punto en f7 ",
+        "7. Qxf7#": "termino el partico "
+    },
+    "url": "https://gameknot.com/annotation.pl/defensa-hungara?gm=62246",
+    "gameName": "defensa hungara ",
+    "players": "???  vs. ??? ",
+    "opening": "Hungarian defence (C50), Tartakower variation"
+}

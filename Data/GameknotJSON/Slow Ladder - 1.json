@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5": "gotcha... actually went pretty well.",
+        "4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8": "the board- after a string of conditional moves from the opponent.",
+        "6... Qg7": "A queen trade! I think I outsmarted him",
+        "7. Qxg7 Bxg7 8. c3 Bh6": "a queen capture... it could be anybodies game.",
+        "9. Bc4 Nf6 10. O-O Nxe4": "going to need to trick them into moving their pieces",
+        "11. Re1 a6 12. Rxe4+ Kd8 13. Rh4 b6 14. Rxh6 c6 15. d4 d6 16. Bg5+ Kc7 17. Rxh7+ Bd7 18. Bd3 a5 19. Na3 Na6 20. Nc4 b5 21. Rxd7+ Kxd7 22. Nb6+ Kc7 23. Nxa8+ Kb7 24. a4 Kxa8 25. axb5 Nb8 26. Rxa5+ Kb7 27. Bxg6 Kb6 28. Bd8+ Kb7 29. Bf5 Na6 30. Rxa6 cxb5 31. Rb6+ Ka7 32. Bc8 d5": "analyzed it, they win the quickest with pawns"
+    },
+    "url": "https://gameknot.com/annotation.pl/slow-ladder?gm=64053",
+    "gameName": "Slow Ladder",
+    "players": "knightglider (2460) vs. kai64656 (958)",
+    "opening": "Damiano's defence (C40)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. Bd3 Nbd7 4. f4 e5 5. c3 Be7 6. fxe5 dxe5 7. Nf3 exd4 8. cxd4 O-O 9. O-O c6 10. Nc3 Qc7": "Qc7 seems normal but white has a Lot  hidden in this possition",
+        "11. e5": "from this point the endless attack ",
+        "11... Nd5": "this seems fine move if the queen not in C7",
+        "12. Bxh7+": "the well known sacrfice",
+        "12... Kxh7 13. Qc2+": "but  it is not  a sacrifice here because the Qc7 move",
+        "13... Kg8 14. Nxd5": "queen has to lose tempo and must move to d8",
+        "14... Qd8 15. Nxe7+": "this move is needed so the  other  knight get to g5 and continue the attack",
+        "15... Qxe7 16. Ng5 g6 17. e6": "normal move  black cant take the  pawn",
+        "17... Nf6 18. exf7+ Kg7 19. Bf4": "getting another piece out and make room for the other  rook to attack",
+        "19... Bf5": "that move seems  normal but it gives the  white queen another  better place to go to",
+        "20. Qb3": " by  protecting pawn in f7 also can  to go to g3  based on the coming moves",
+        "20... c5": "trying to open the  black  diagonal",
+        "21. Rae1": "getting  the last piece out to the  center",
+        "21... Qd7": "g",
+        "22. Be5": "protecting the  pawn and pin the knight",
+        "22... cxd4 23. g4": "g4 force the  bishop to move and lose the pinned knight",
+        "23... Bxg4 24. Bxf6+ Kh6 25. Re7": "attack the queen",
+        "25... Qd6 26. Re4": "if the  bishop moves any where except  h4  Rh4#",
+        "26... Bh5 27. Ne6": "black can't take the pawn R x P Bg5+ Kh7 R x R+ and  mate soon",
+        "27... d3": "moving the pawn forward for pressure  and balance the attack",
+        "28. Qc3 g5 29. Bxg5+ Kg6 30. Qg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=52939",
+    "gameName": "Chess game",
+    "players": "tal4000 (1853) vs. justsomescot (1900)",
+    "opening": "Pirc defence (B07)"
+}

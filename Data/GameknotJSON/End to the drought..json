@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "This game finally ends my drought between my father and I. Online games vs my father are rather poor but, I sit down at the board in real life and win game after game. I feel somewhat detached to my online games; thereby I end up not focusing on them enough and I lose.  Anyway enough with the commentary no one really cares all that much about and on to the details of this game. Starts off with the typical d4 push.",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2": "KID has become common place since we both started studying it over 1 year ago. Though the lines have degraded to less than theoretic means.",
+        "6... e5 7. Be3": "Opening book is O-O but this move is playable.",
+        "7... Ng4": "Attacking the e3 bishop.",
+        "8. Bg5": "Keeping the tempi even.",
+        "8... f6 9. Bh4 g5 10. Bg3": "Hopefully I can used the weakened king-side. ",
+        "10... Nh6": "Stopping possible knight sacrifices with the bishops discovery on the knight. ",
+        "11. dxe5": "I don't want the center to close up with black having a positional weakness. My dxe5 plan was Qd5+ grabbing control of the d-file.",
+        "11... fxe5 12. Qb3": "Threatening c5+ busting open the center.",
+        "12... Be6": "Free pawn!",
+        "13. Qxb7 Nd7 14. b3": "lowering the threat to the b-file with Rb8.",
+        "14... Nc5 15. Qb4": "This square is the best spot for the queen. Qd6 but Rb8 and the queen is in trouble. And Qb5 a5 The queen is trapped yet again.",
+        "15... a5 16. Qa3 Bd7": "I was expecting a4 but was pleased to see this move. Time to get out of the center.",
+        "17. O-O Bc6": "Black threatens the e4 square. So what now defend it with Nd2. No I say I refuse to be passive.",
+        "18. Bxe5": "! closing this diagonal down or trading bishops.",
+        "18... dxe5 19. Qxc5": "My pieces continue to get more active as the game goes. ",
+        "19... Qe8": "?! Better was Ra6.",
+        "20. Nxg5 Bf6 21. h4": "Keeping the knight at its active post.",
+        "21... Ra6 22. Nd5": "My beautiful knights :).",
+        "22... Bxd5 23. Qxd5+ Kh8 24. c5": "This novelty takes control of the e6 square so my knight can now come there.",
+        "24... Ng8": "?? misses the obvious Bxa6 ",
+        "25. Bxa6 Ne7": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/end-to-the-drought?gm=31947",
+    "gameName": "End to the drought.",
+    "players": "yoshark (1438) vs. mizesa (1668)",
+    "opening": "King's Indian (E92), Gligoric-Taimanov system"
+}

@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nYou have been used to seeing Glenda in a defensive role but occasionally she can be a menace.  In this game it looked at one stage as though black had an advantage, but one erroneous knight move caused Glenda to unleash her wrath on my unfortunate opponent.  How does this come about?  Well, here goes.  Firstly we have a double king pawn opening and we pick up the action again on black's second move.",
+        "1... e5 2. Nf3 d6": "2. ...... d6 - this move is called the Philidor's defense.  This defense does have some bite to it - in fact I played this defense in an unrated game against a Class A Player with a rating of 1863 and beat him.  I must be very wary.",
+        "3. d4 Bg4": "3. ...... Bg4 - this move has been condemned as inferior after a game between Paul Morphy (playing white) and Count Isouard and the Duke of Brunswick - these two allies could not match the might of Paul Morphy and copped Old Matey on Move 17.",
+        "4. dxe5 Bxf3 5. Qxf3 dxe5": "5. ........ dxe5 - over the last few moves we have had an exchange of pawns and a trade of B for N.  I now decided to put Fou Leblanc on c4.",
+        "6. Bc4 Qf6 7. Qb3": "7. Qb3 - more aggressive than exchanging queens methinks, Glenda has her beady eye on the squares b7 and f7.",
+        "7... b6 8. O-O Ne7 9. Nc3": "9. Nc3 - development.",
+        "9... a6 10. a4": "10. a4 - this move is played to try and stop black from diverting Fou Leblanc from his pew on c4.",
+        "10... Nbc6 11. Be3": "11. Be3 - got my rooks connected and I am prepared to exchange Fou Lenoir for the black knight if he hops on d4.",
+        "11... Na5": "11. ...... Na5 - but he hops onto a4 instead.  I must now hide Glenda on a2 and bid farewell to Fou Leblanc, tears.  At least I get rid of that pesky knight in return though!",
+        "12. Qa2 Nxc4 13. Qxc4 Nc6": "13. ....... Nc6? - this move will lose at least a pawn - you will soon see how.",
+        "14. Nd5": "14. Nd5! - this move attacks the Wicked Witch of the West and threatens a nasty fork on c7.  The best square for the Witch is d6 but then he will be faced with a move such as Rad1 threatening a discovered attack on the Witch by Nf6+ which could be very nasty for black.",
+        "14... Qd8": "15. ...... Qd8?? - this move does not just drop the knight, he is also about to drop his QR ......",
+        "15. Qxc6+": "15. Qxc6+ - now, black has only one legal move, that is Qd7.  Glenda will then whip off the rook with Qxa1+.  He can only block the check.  Glenda can give her life for the Wicked Witch and that will then leave black a rook and a knight in arrears with counterplay virtually snuffed out.  My opponent acknowledged this and waved the white flag.  Hope you enjoyed this little brevity."
+    },
+    "url": "https://gameknot.com/annotation.pl/glenda-the-menace?gm=29519",
+    "gameName": "Glenda the Menace!",
+    "players": "jstevens1 (1772) vs. pskman (1333)",
+    "opening": "Philidor's defence (C41)"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. c3 Bf5 4. Bg5 e6 5. Nbd2 c5 6. e3 Nc6": "Presses d4, but...",
+        "7. Bxf6": "White sees that may attack black on queen's side and makes the exchange.",
+        "7... Qxf6": "Capturing with the pawn seems safer.",
+        "8. Bb5": "White attempts to put black under pressure.",
+        "8... Be7": "Rc8 seems better.",
+        "9. Qa4": "White presses the diagonal a4-e8.",
+        "9... Kd7": "Black seems very stingy here.\nCastling keeps black in play.",
+        "10. Bxc6+": "White punishes black's poor defending.",
+        "10... Kc7": "Obviously the pawn can not capture the bishop because of 11.Ne5 and the Queen captures the pawn in c6\n",
+        "11. Ne5": "Bishop is safe. White centralized knight.",
+        "11... a6": "Last defensive chance or last mistake?",
+        "12. Bxb7": "Black resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/62nd-gk-tournament?gm=29194",
+    "gameName": "62nd GK tournament",
+    "players": "atatabi (1766) vs. j0hnnyp (1802)",
+    "opening": "Queen's pawn game (D02)"
+}

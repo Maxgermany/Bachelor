@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Nc3 Nbd7 6. cxd5 cxd5 7. Qb3 Nb6 8. Bb5+ Bd7 9. Ne5 e6 10. Bd3 Be7": "We are following up to this point a variation of the Queen's Gambit Declined Semi-Slav that was played in Aramyo-Quispe, at the San Salvador de Jujuy op 1st played March 2, 1999.  It is tracking much of the recommended play in ECO D11 leading to an equal game, but with a slight edge to White in some variants.  Here, in 10...Be7, Black chooses the slightly more passive alternative to 10...Bd6.",
+        "11. Nxd7 Nfxd7 12. e4": "Of course!  The only way to get any significant edge here is to start action in the center.",
+        "12... dxe4 13. Bxe4 O-O 14. O-O Nf6": "Daring White to take the b-pawn. I chose to take it despite the strong pressure that Black gets on the Queen-side as a result.",
+        "15. Bxb7": "Is this pawn actually safe to take?  I'll submit this game as evidence that White can indeed take it, but to be prepared for some serious pressure by Black.  ",
+        "15... Rb8 16. Bf3 Nbd5 17. Qd1 Bb4 18. Nxd5 Nxd5 19. Bd2": "With the Black bishop temporarily blocking the Rook's open b-file, this seemed to be the best way to free White's Queen-side pieces and to get my pieces positioned to protect and then advance the queen-side majority pawns.  This idea seems to back-fire later.",
+        "19... Qa5 20. Bxb4 Rxb4 21. Qe1 Qb6 22. Bxd5": "I hated to give up my bishop, but the centralized Black knight was just too well-positioned.  And more importantly, this exchange gives Black a resulting isolani in the center after he takes my own queen's pawn.  That was my plan, to exploit that weakness so that I emerged a pawn ahead going into the endgame. ",
+        "22... exd5 23. b3 Qxd4 24. Rd1 Qe4 25. Qd2": "This creates a strange position now in which his queen's pawn is both doomed and also unable to move forward, since moving it now cuts off the Black queen's protection of the Rook on b4.  This is one of those odd moments where you see subtle re-deployments of the major pieces that convert weaknesses into strengths and vice versa. ",
+        "25... Qe7": "Not 25...Rd8? 26. Rfe1! followed by 27. Qxd5! threatening mate on e8 if Black takes the White queen on d5.  25....Rb4 is possible, but again 26. Rfe1 chases the Black queen with a tempo to use in occupying the seventh rank, regaining the pawn, etc. ",
+        "26. Qxd5 Re4 27. Qd7 Re8 28. g3 h5 29. Qxe7 Re8xe7 30. Rd5": "This seems a good choice, to deploy one rook in both the attack mode against the a-pawn isolani and to harass the counterbalancing King-side pawn phalanx. ",
+        "30... g6 31. Ra5 h4 32. Kg2": "This is critical, so that 32....h3 does not seal in the White king into an early grave on g1 or h1.",
+        "32... f5 33. Rd1 Kg7 34. Rd6": "Setting a small trap into which the Black king obligingly falls.  Remember my earlier comment about the Rook on a5 serving both an offensive and defensive purpose?  Watch now. ",
+        "34... Kh6 35. Rxf5": "Why, thank you very much, Mr. King.  Really, you shouldn't have. ",
+        "35... Re4e2 36. Rff6 h3+": "The computer analysis really damns this move , but there seem to be no great alternatives, only passive ones for Black.  ",
+        "37. Kxh3 Rxa2 38. Rfxg6+ Kh7 39. Rgf6 Rb7 40. Rda6 Rb2 41. Rf3": "41. f4 was probably a good alternative, but I first wanted to start the King-side pawn roller using that f-pawn to anchor the base, and then later advance the f-pawn.  These pawns are all needed to give the White king shelter from the avalanche of checks that his Rooks will be delivering.  And he also knows that as soon as he captures the b-pawn, the Rook exchanges will force him to give up his a-pawn with check.",
+        "41... Kg7 42. Kh4 Kh7 43. g4": "The pawn roller finally starts!  It will result in either a couple of White queens on the board or checkmate.",
+        "43... Kg7 44. Kh5 Rb1 45. g5 Kg8 46. h4 Rh1 47. Rff6": "Finally the f-pawn is starting up!  I am vitally interested in protecting that pawn, as it is the one guarantee of a winning endgame (even with Rooks all exchanged) as long as I aim for the Lucena position. Check your endgame books, as it is a critical endgame position that every chess-player must know. ",
+        "47... Rh3 48. f4 Rhxb3 49. f5 Rb3b4 50. Rfg6+ Kh7 51. Rgh6+ Kg7 52. f6+ Kg8 53. Kg6": "The computer analysis roundly boos me for this move, since it delays an 11-move forced mate from this position.  OK, OK, I did not see it.  So sue me.",
+        "53... Rf4": "After this obliging move, the game is over very quickly.  But frankly, all his choices are now terrible ones.",
+        "54. Rc6 Rb8 55. Rc7": "Mate to follow in two moves. ",
+        "55... a5 56. Rg7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=40012",
+    "gameName": "Team match",
+    "players": "huckjim (1869) vs. linxkulit (1696)",
+    "opening": "QGD Slav (D11), 4.e3"
+}

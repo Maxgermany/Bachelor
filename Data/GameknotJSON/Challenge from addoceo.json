@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Righto...this is really for my opponent (a dear friend) and myself...but if there are others who want to comment thats fine. This game isn't particularly spectacular, but it was a game i didn't expect to lose so i'd been stewing over it. Anyway, here are my thoughts.",
+        "1... d5": "this is the Scandinavian...an opening from Black that i typically hold in contempt because the obvious Qxd5 loses tempo to Nc3. This put me in the wrong kind of mood to face an opponent who had improved dramatically since the last time we had met.\n\nI have later learned that the Scandinavian is respected in a lot of circles and can be played quite effectively by black. Another thing to learn.",
+        "2. exd5 Nf6 3. Nc3 c6": "I think my opponent makes a mistake here. He's giving up a pawn in hopes of a quick development to Nc6...but i think he weakens his Queenside a lot in the process. But it was a point i never got to prove....",
+        "4. dxc6 Nxc6 5. Bb5": "I certainly considered Nf3 but I wanted to avoid positional, drawish four knights play. I'm drawn to Bb5 here because it has similarities to the Spanish, which i know pretty well...plus i always like the idea of pinning down a knight.\n\nIn retrospect...Nf3 is a better move because it exerts some influence over d4...which ended up being a strong point for my opponent later.",
+        "5... a6": "a morphy like response. nothing unexpected here.",
+        "6. Ba4 Qd4 7. Nf3 Qg4": "this is his best move, i think. I have to answer the queen's threat on g2 so castling makes sense...but i realized at this point that if my bishop was driven off of the king diagonal I was going to have a helluva time driving the queen out of there.\n\nBottom-line, it was a great early queen placement by my opponent, exploiting the fact that his d-file was open and mine was not. An earlier Nf3 would have restriced that movement a bit.",
+        "8. O-O b5 9. Bb3 Be6": "A nice move. trades his so-so bishop for my active piece attacking the weak square at f7.",
+        "10. Bxe6 fxe6": "I liked Qxe6 better, since it avoids double pawns...but fxe6 does keep the pressure up with the queen.",
+        "11. d4": "got greedy and wanted to build a pawn center too quickly",
+        "11... O-O-O": "I think...had I survived to the endgame, this decision would have come back to haunt my opponent. his queenside pawns are rather far flung and don't offer much in the way of protection. However, it did mobilize his rook and get it to the semi-open d-file and pin the pawn to the queen.",
+        "12. Bg5": "Brandon (addoceo) teased me about this move. my goal was to chase the queen's defender away and then look for a discovered attack tactic. I simply overlooked the rook's new position which made the following trade possible.",
+        "12... Nxd4 13. Nxd4 Rxd4 14. Qxg4": "getting his pesky queen out of there",
+        "14... Rxg4": "i was awfully tempted to ignore the threat on my bishop and play a rook to that juicy d-file. I also considered pawn to f4 to trap the rook. I ended up abandoning the first idea realizing that the gain in development wouldn't be worth the material lost and i abandoned the first because I (mistakenly) thought that the rook would have a safe escape on g3.\n\nNot meaning to degrade Brandon's play...but at this point...my fatigue (it was hours past my normal bed time, was starting to show)",
+        "15. Be3 Nd5": "another good move. I wasn't willing to close off the d-file and un-double his pawns with a knight trade, so I knew i'd have to chase his knight away before i could do much.",
+        "16. f4": "?? a stupid move. The idea was to frustrate his rook. i didn't see the obvious...",
+        "16... Nxe3 17. Rfe1 Nxg2": "a better move here for black would have been Nxc2 forking the two rooks...but I gave him plenty of chances to win material...",
+        "18. Kf2 Nxf4 19. Ke3 Ng2+": "this one he didn't miss. at least i could act in a way to salvage some damage.",
+        "20. Kf3 Nxe1+ 21. Kxg4 h5+ 22. Kg5 Nxc2 23. Rc1 Nd4 24. Nxb5+ Nc6 25. Rxc6+": "a disaster. much better would have been Na7+...avoiding the double attack on my two remaining pieces.",
+        "25... Kb7 26. Nd4 e5 27. Rc4 exd4 28. Rxd4 e5 29. Rb4+": "thinking i could drive my opponent into perpetual check i was getting desparate...",
+        "29... Bxb4": "lessons learned here: Brandon is getting better, i should not play rated games after midnight, and not all early queen moves are bad."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-addoceo?gm=34395",
+    "gameName": "Challenge from addoceo",
+    "players": "mattmorris (1407) vs. addoceo (1200)",
+    "opening": "Scandinavian defence (B01)"
+}

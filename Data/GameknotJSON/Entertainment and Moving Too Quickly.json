@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "The usual King's Pawn Play.",
+        "1... e5": "He transposes the King's Pawn Play into the King's Pawn opening, but I am used to that.",
+        "2. Nf3": "I made this move and transposed the King's Pawn Opening into the King's Knight opening because I want to start developing my minor pieces, and I want to threaten his e pawn with Nxe5. ",
+        "2... Nc6": "He chose this candidate to protect his pawn and develop his minor pieces.  However, his knight is dangerous, in this position.",
+        "3. Bb5": "Therefore, I made this move to develop my other minor and transpose the King's Knight Opening into the Ruy Lopez by threatening him with Bxc6.",
+        "3... Bc5": "I do not know why he chose this candidate because he could have Nd4 and forced an exchange with Nxd5, followed by exd5.  Therefore, I will force an exchange and win his free e pawn, when 4.Bxc6,bxc6 5.Nxe5 are played.",
+        "4. Bxc6 bxc6 5. Nxe5 Qf6": "He responds by threatening my knight with Qxe5.",
+        "6. Nf3": "Therefore, I could not castle because I had to retreat the knight.",
+        "6... d6": "This was actually !.  If he had not made this move, I would have played e5 to threaten him with exf5. This would have forced him to retreat his queen.",
+        "7. O-O": "Because I could not play e5, I decided to castle because this is usually my favorite move.",
+        "7... g5": "I do not why he chose this candidate.  He probably figured that I would capture his g pawn with Nxg5.  That way, he could capture my knight with Qxg5, in exchange, but I am not falling for that trick.",
+        "8. Nc3": "I do not know why I made this move because I do not form a, \"Fianchetto\" with my DSB, during this game.",
+        "8... g4": "In this position, he is threatening to capture my knight with gxf5.  That is normally ok, but this is not one of those times.  If I allow the capture, my knight will be exchanged for his pawn, so I must prevent this.",
+        "9. h3": "This is where entertainment becomes an issue because I know that he is online, so I want to make as many moves as I can, before he is offline.  Therefore, I moved too quickly and overlooked this move.  In addition, this move was ?.  Ne1 would have been better.  I do not want to move the knight back, on most occasions, because Jack Stockel has told me that it is generally not a good idea to do this.  However, there are no options, in this position, because Ne1 would have been the only safe way to retreat the knight.  That is because the king will be exposed, after an exchange, when gxh3 followed by gxh3 are played.   ",
+        "9... gxh3 10. gxh3 d5": "In this position, he wants to exchange my knight with his pawn, but I am not about to let that happen.",
+        "11. exd5": "Now entertainment has become a bigger issue because he is offline for about two minutes before he comes back.  Therefore, I rush as much as I can before he or I sign off for the rest of the day.  In addition, this move was ?? because he could have reconnected his doubled pawns and gained control.  Instead, e5 would have been better, as it would forced him to retreat his queen.     ",
+        "11... Qf4": "I do not know why he made this move.",
+        "12. dxc6": "I decided to recapture his doubled pawns, before he spots my blunder and reacts to it.  However, this capture was also a mistake because I now have two c pawns, but my rooks are not connected.  This puts me at a structural disadvantage.",
+        "12... Ne7": "He decided to bring out his knight in his attempt to recapture my c pawn.",
+        "13. Qe2": "Now, this is where I rush the most and overlook the most important move because I do not want to get board.  In addition, this move was ??, and, \"this looses immediately\", as Jack Stockel would say.  Kh1 was the only move that would have saved me, in this position.  That is because he has just spotted a mating sequence against me.  If I had taken my time, I would have seen this threat.",
+        "13... Bxh3": "He chose this candidate to capture my free h pawn, and mate me in two moves due to his mating pattern.",
+        "14. Re1": "I do not why I made this move, but it does not matter where I move, at this point.  As I had mentioned earlier, he has an inevitable mating pattern against me and will mate me with Qg2# (forced mate), after he plays Qg4+.  Therefore, I resign after he checks me with Qg4.",
+        "14... Qg4+": "I did not learn but will remember an important lesson from this game combined with other games in December and mentoring games.  First, chess is not an entertaining game.  Instead, it is much more serious then that, so it is a good idea to study the board and take time to analyze the positions before you make a move.  It will also help to alleviate boredom if you annotate games, use analyze the board, flip, and/or game notes, in the process.  There are also some occasions where one must tolerate boredom to play well, and Jack Stockel agrees with this assessment.  After these rushed games, I take chess as serious as my hardest college courses (Precalculus and Inorganic Chemistry 1).  Second, when you move too quickly, your mind cannot absorb the information, so you do not learn from your mistakes.  After all, when you rush, you are not being careful.  When you are not careful, you get into trouble. \r\n  "
+    },
+    "url": "https://gameknot.com/annotation.pl/entertainment-and-moving-too-quickly?gm=43077",
+    "gameName": "Entertainment and Moving Too Quickly",
+    "players": "jkarp (953) vs. minora013 (1020)",
+    "opening": "Ruy Lopez (C64), classical (Cordel) defence"
+}

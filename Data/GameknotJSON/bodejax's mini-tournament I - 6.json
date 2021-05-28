@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. dxe5": "An error, better is Nxe5. It\u00b4s a weak move",
+        "5... g6": "Yes... my opponent attack e5 by fianchetto.",
+        "6. c4 Nb6 7. b3": "I wished Qxd1, and, later Rc2 with Bd3.",
+        "7... Bg7 8. Qxd8+ Kxd8 9. Bb2 Bf5 10. Nbd2 Nc6": "I think what c5 is better, and Rc7. However, black is better and winning the pawn e5.",
+        "11. Be2 Ke8": "Nd7.",
+        "12. O-O Rd8 13. Bc3": "protecting Nd2, but I am lost.",
+        "13... h5": "???... Nd7",
+        "14. Rac1 a5 15. Rfd1 e6 16. Nf1 Ke7 17. Ne3 Be4 18. Ng5 Bf5 19. Nxf5+ exf5 20. f4": "yes... I now have tha pair of bishops, White are better.",
+        "20... Rxd1+ 21. Rxd1 f6 22. exf6+ Bxf6 23. Bxf6+ Kxf6 24. Bf3 Re8": "My rival concedded me double pawn in c column",
+        "25. Bxc6 bxc6 26. Nf3 Re2 27. Rd2 Rxd2 28. Nxd2 a4 29. Kf2 axb3 30. axb3 Nd7 31. Ke3 Nc5 32. b4 Ne6 33. Nb3 Ke7 34. Nd4 Nd8 35. c5": "I think what this is a good move, gain space and restring he black knigth.",
+        "35... Kd7 36. h3 Nf7 37. Kd3 Nd8 38. Kc4 Ne6 39. Nxe6 Kxe6 40. b5": "Winning move, the white king will pass to the black forthress\r\n",
+        "40... cxb5+ 41. Kxb5 Kd7 42. h4": "Restriction",
+        "42... Kd8 43. Ka6 Kc8 44. c6": "Poor move, I do not see Kb8!!!!!! 44 Ka7 Win... I am desilusionated for this move",
+        "44... Kb8 45. g3 Ka8 46. Ka5 Ka7 47. Kb5 Kb8 48. Ka6 Ka8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/bodejaxs-mini-tournament-i?gm=36831",
+    "gameName": "bodejax's mini-tournament I",
+    "players": "chizzo83 (1723) vs. paladin316 (1507)",
+    "opening": "Alekhine's defence (B04), modern, Larsen variation"
+}

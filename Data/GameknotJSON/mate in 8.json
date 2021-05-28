@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 e5": "the english gambit",
+        "2. dxe5": "accepts",
+        "2... Nc6 3. Nf3": "desperate to save the pawn",
+        "3... Qe7 4. Bf4": "he is doing everything he can",
+        "4... Qb4+": "this was a good move because i am forking the bishop and pawn whilst check",
+        "5. Bd2": "he should have gone Nc3 Qxf4 Nd5 and then its impossible to save the rook",
+        "5... Qxb2": "thats obvious",
+        "6. Bc3": "trys to save the rook",
+        "6... Bb4": "pin bishop",
+        "7. Qd2": "awful move he thinks he breaks the pin and win a bishop",
+        "7... Bxc3": "if he does Nxc3 he loses the rook if he leaves it Bxd2+",
+        "8. Qxc3": "but he goes Qxc3 and black goes...",
+        "8... Qc1#": "...Qc1++"
+    },
+    "url": "https://gameknot.com/annotation.pl/mate-in-8?gm=47674",
+    "gameName": "mate in 8",
+    "players": "???  vs. ??? ",
+    "opening": "Queen's pawn (A40), Englund gambit"
+}

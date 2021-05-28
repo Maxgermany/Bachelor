@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5": "Caro-Kann, which I am trying to learn.",
+        "3. e5 Bf5 4. Nc3 e6 5. a3 c5 6. Be3 cxd4 7. Bxd4 Nc6 8. Bb5 Qc7 9. Bxc6+": "I was surprised that White traded off a good Bishop so readily.",
+        "9... Qxc6": "Probably should have recaptured with bxc6.",
+        "10. h3 Bc5 11. Bxc5 Qxc5 12. Nf3 Ne7 13. Rc1 O-O 14. O-O": "White, I think, is still slightly better her.",
+        "14... Rfd8 15. Na4 Qc7 16. Re1 Rac8 17. Nd4 a6 18. b4 Bg6 19. Nc5 Nc6 20. c3 Nxe5": "A simple counting error allows Black to sneak a pawn.",
+        "21. Qe2 Nc4 22. Rca1 Rde8 23. Qf3 Nb6 24. Qg4 Nd7 25. Nxd7 Qxd7": "Trades generally work to the advantage of the player with the material plus.",
+        "26. Qg3 Rc4 27. Re3 Rec8 28. Rae1 Qc7 29. Qxc7 Rc8xc7 30. Ne2 Re4 31. Nd4": "Here there is a tactic that wins a pawn.  ",
+        "31... Rxc3 32. Rxc3 Rxe1+": "Because of the check, Black gets the tempo needed to avoid a back rank mate.",
+        "33. Kh2 h6 34. b5 Re4 35. bxa6 bxa6 36. Nc6 Rc4 37. Ne7+ Kf8 38. Nxg6+ fxg6": "Black's pawn structure is a little fractured, but there is a two-pawn edge.",
+        "39. Rb3 Kf7 40. Rf3+ Ke7 41. Rb3 Ra4 42. Kg3 g5": "Black's R keeps White's R tied down.",
+        "43. f3 Kf6 44. Kf2 g6 45. g4 h5 46. Kg3 Rc4 47. Rb6 a5 48. Rb5 a4 49. Ra5 Ke5 50. Ra6 h4+ 51. Kf2 Rf4 52. Ra5 Rc4 53. Ke3 Rc3+ 54. Kd2 Rxa3": "Another pawn drops.",
+        "55. Ke2 Kf4 56. Rc5": "Ra6 might have been good also.",
+        "56... Rxf3": "Yet another pawn.",
+        "57. Rb5 Re3+ 58. Kf2 Re4 59. Rb2 d4 60. Rd2 Ke5 61. Rd3 Re3": "If White's R backs off, a3 is coming.  ",
+        "62. Rxe3+ dxe3+ 63. Kxe3 a3": "Now White's K is outside the square so the pawn cannot be stopped.",
+        "64. Kd2 a2 65. Ke2 a1=Q 66. Kd3 Qf1+": "White resigned or let time expire here."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=60927",
+    "gameName": "Let's play chess",
+    "players": "ksadefender (1556) vs. mmoody95 (1806)",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

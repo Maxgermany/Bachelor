@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I am black",
+        "1... e6": "French defence ",
+        "2. d4 d5 3. Bd3": "Huh",
+        "3... c5": "Still regular",
+        "4. c3 dxe4 5. Bxe4 Nf6": "Attack",
+        "6. Qf3": "Smart",
+        "6... cxd4 7. Bxb7": "!!",
+        "7... Bxb7 8. Qxb7 Qd5": "Forced loss of material... 8... Nd7 9. cxd4",
+        "9. Qxd5 exd5 10. cxd4 Bb4+": "Check",
+        "11. Nc3 Nc6 12. Be3": "Why does white like moving bishops to the 3rd rank?",
+        "12... O-O 13. Nge2 Ne4": "Should have done this earlier",
+        "14. O-O Nxc3 15. bxc3 Ba3 16. Nf4 Bb2": "!",
+        "17. Rab1 Bxc3": "Gaining back material",
+        "18. Nxd5 Bxd4 19. Bxd4 Nxd4": "Equal endgame",
+        "20. Rb2 Rad8 21. Ne3 Rdb8 22. Rxb8 Ne2+ 23. Kh1 Rxb8": "Rook + knight endgame",
+        "24. a4 h6 25. h3 Rb4 26. Ra1": "Guarding",
+        "26... Rf4 27. f3": "Well",
+        "27... Ng3+": "I sent a draw offer here",
+        "28. Kh2": "Oof",
+        "28... Nf5": "Agreed to draw."
+    },
+    "url": "https://gameknot.com/annotation.pl/back-to-blitz?gm=65740",
+    "gameName": "Back to blitz",
+    "players": "xiangdongfei (white) vs. eric2jin (black)",
+    "opening": "French (C00), Schlechter variation"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5": "Thematic moves to this point.  It's fun having to only click on the most popular move in the database at every move.\n\nHere a major crossroads arises.  Though I'm not too familiar with the millions of Najdorf variations, the two options include 7. Nf3 and 7 Nb3 with the former seemingly leading to quieter, more positional play, and the latter leading to what is essentially an all-out blitz on the opponent's king.",
+        "7. Nf3": "I choose the former approach for a few reasons, mainly on the basis I'm randomly choosing which option to play for experimentation purposes.\n\nFrom here, it's easy to assess how the game will eventually progress.  As soon as both sides castle and develop all their pieces, black will pile up on the c-file while white does so on the d-file.  Because of this slight imbalance, black generally makes progress on the queen side, but white is able to retain flexibility and play on either side.\n",
+        "7... Be7 8. Bc4 O-O 9. O-O Be6 10. Qe2": "10.Bb3 may have been better since black sends it there with the text anyways.",
+        "10... b5 11. Bb3": "A capture on b3 is generally not recommended since it further weakens the d5 square in black's position.  He is forced to defend that square with pieces rather than pawns.",
+        "11... h6": "Preventing the Ng5 swat.",
+        "12. Rfd1 Nbd7 13. a3 Re8": "?\n\nI'm not exactly sure what this rook is doing on e8.  With all the pieces lined up on it, I'm not convinced it is a file that is going to open up in the near future.\n\nIn some lines, however, white plays Bxe6, followed by Nh4-g6.  It could be prophylactic to this maneuver; I still assert that Black would have been better to play 13... Qc7 followed by Rfc8.",
+        "14. Nh4 Qc7 15. Nf5": "?\n\nAgain I reached a crossroads.  My two options was either this move or the maneuver I mentioned earlier.  Both options yield black a strong center, but open up the black king side to some attacking lines.  I eventually decided on 15. Nf5 since black's central pawns seem easy enough to delay in this line for a while as I get my king-side play going.",
+        "15... Bxf5 16. exf5 Rad8": "The reason my fifteenth move now seems a bit dubious.  Black realizes his play can comes through his center pawns, and his rooks support their advances.  My fifteenth move justifies black's thirteenth nicely, turning a bad move into a good one.",
+        "17. Nd5": "My only choice is to blockade d5 so black's pawns don't get rolling, even at the cost of exchanging some of my more active pieces for his passive ones.",
+        "17... Nxd5 18. Bxd5 Nf6 19. c3 Nxd5 20. Rxd5": "That d-pawn is going nowhere.",
+        "20... Qc4 21. Qf3 Rdc8": "Black shifts his attention to a different file, realizing his pawn center is going nowhere.",
+        "22. Rad1 Qb3 23. Rd1d2": "Better than R5d2, which would release the blockade.  White also has some vague threats of an f6 pawn push.",
+        "23... Rc6 24. g3": "The start of my king-side play.  The few pieces on the board don't look like they'll amount to anything too threatening at the moment, but it's still the middle game and attacks are still live.",
+        "24... Rec8 25. Qg4": "Not so much the direct Bxh6 threat as making way for my f2 pawn.",
+        "25... Rc6c4": "Probably done to make my queen look embarrassing, but really this attack has just gotten started.",
+        "26. f4 Qa2": "?\n\nBlack tries something with vague threats against my somewhat open king with the first rank has been made available to his queen, but all it does it take the queen even further out of the game.",
+        "27. Qf3 Qb1+ 28. Kg2 f6": "Forced.  White cannot be allowed his own f6 push.",
+        "29. fxe5 fxe5 30. f6": "Here's where white's seventeenth move makes it's purpose.  Having two f-pawns allows white to crack open black's king side. ",
+        "30... gxf6 31. Rd5d3": "!\n\nStifling black's defenses by cutting of lines for the black queen.  Black has very little piece coordination on the king side and is soon going to find this king to be uncomfortable. ",
+        "31... Kg7 32. Qf5 Re8 33. Qd7 Rcc8 34. Qg4+ Kf7": "Slow maneuvering, but black is slowly crumbling.\n\nThe alternative, 34. Kh7, is met by [35. Qh5 Bf8 36. Bxh6 Bxh6 37. Rxd6]",
+        "35. Bxh6 Rcd8 36. Qg7+ Ke6 37. Qg6 d5 38. Re2": "White's rooks finally come into play after black is forced into the center.",
+        "38... Qa2": "But black's queen is still far from the action.",
+        "39. Bg5": "Black has something rather stubborn defenses, but sees that a breakthrough is eventual through f6 (or perhaps even e5), and white can easily win with his king-side pawns.\n\nBlack admitted after the game that he saw my entire attack coming, but couldn't do anything about it.  By taking advantage of my opponent's piece discoordination, I was able to pull out a win from this otherwise equal situation."
+    },
+    "url": "https://gameknot.com/annotation.pl/quiet-sicilian-play?gm=22236",
+    "gameName": "\"Quiet\" Sicilian Play",
+    "players": "cliang (2060) vs. poepjeruiken (2080)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

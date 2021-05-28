@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "This is a game played in the 49th Tournament on Gameknot. A game that was both interesting and short!",
+        "1... e5 2. Nf3 Nf6": "The Petroff Defence. If beginner(s) are playing this can lead to discovered checks, queen losses and broken hearts...",
+        "3. Nxe5 Qe7": "Aiming at 4.Nf3 Nxe4 and then ...Nc3disc.  winning the queen!",
+        "4. d4": "An irritating setback",
+        "4... Nxe4 5. Be2": "My opponent sees my cunning plan :-(",
+        "5... d6 6. Nf3 Bg4 7. O-O Nc6 8. c3 Qf6": "I can see a kingside attack coming on...",
+        "9. Bd3 Qg6 10. h3": "Handing me the pawn on a silver platter. An added bonus!",
+        "10... Bxh3": "I see no true escape for Black without losing his rook...",
+        "11. Bxe4 Qxg2#": "And he doesn't even go for that. An interesting study of attacking the castled king - this particular variety of queen-bishop attack is particularly common."
+    },
+    "url": "https://gameknot.com/annotation.pl/49th-gk-tournament?gm=19214",
+    "gameName": "49th GK tournament",
+    "players": "zhaba1 (1303) vs. fatcat2 (1417)",
+    "opening": "Petrov (C42), French attack"
+}

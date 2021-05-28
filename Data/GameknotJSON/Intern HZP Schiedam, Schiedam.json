@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. b3 Nc6 2. Bb2": "laatste zet uit boek\n",
+        "2... b6 3. g3 Bb7 4. Bg2 d6 5. b4 Rb8 6. c4 e5 7. e3": "Alternative variation: 7. b5 $5 [Komt in aanmerking.] Na5 8. Bxb7 Rxb7 9. d3 $14\n",
+        "7... Qd7": "Alternative variation: 7... Nxb4 [Is een slag in de lucht.] 8. Bxb7 Rxb7 9. Qa4+ b5 10. Qxb4 $18\n",
+        "8. a3": "Alternative variation: 8. b5 Nb4 9. Bxb7 Nd3+ 10. Ke2 Nxb2 11. Qb3 Rxb7 12. Qxb2 Qg4+ 13. Kf1 $15\n",
+        "8... Nf6": "Mist de winst...\nAlternative variation: 8... Nxb4 9. Bxb7 Nd3+ 10. Ke2 Nxb2 11. Qc2 Nxc4 12. Bg2 $19\n",
+        "9. Nc3": "Geeft de tegenstander nieuwe kansen.\nAlternative variation: 9. d3 g6 $11\n",
+        "9... g6": "Er waren betere middelen om de druk vast te houden.\nAlternative variation: 9... Nxb4 10. Bxb7 Nd3+ 11. Ke2 Nxb2 $19\n",
+        "10. Qc2": "Een regelrechte blunder...\nAlternative variation: 10. Nf3 $11 [ Alleen zo kun je nog hopen op een wonder.]\n",
+        "10... Nxb4": "Ontdekte aanval: c6, b7-g2\n",
+        "11. axb4": "Alternative variation: 11. axb4 Bxg2 [Ontdekte aanval]\nAlternative variation: 11. -- Nxc2+ [Wins material]\n",
+        "11... Bxg2 12. Rxa7 Bxh1 13. f3 Bg2": "Alternative variation: 13... Be7 [Is nog sterker. ] 14. Qd3 O-O 15. e4 $19\n",
+        "14. Nb5 Rc8 15. Kf2": "Alternative variation: 15. d4 [Kan het voorafgegane niet meer ongedaan maken.] Bh1 16. dxe5 dxe5 17. Bxe5 Bxb4+ 18. Ke2 Be7 19. Nxc7+ Kf8 $19\n",
+        "15... Bh3": "Alternative variation: 15... Bh1 [Levert nog groter voordeel op.] 16. Qa4 Kd8 17. Qd1 $19\n",
+        "16. g4": "Alternative variation: 16. Nxh3 [Dit helpt ook niet meer.] Qxh3 17. Kg1 h5 $19\n",
+        "16... Bxg4": "De beslissing.\n",
+        "17. fxg4 Qxg4 18. Nxc7+": "Alternative variation: 18. Kf1 [Een vruchteloze poging om het lot te ontlopen.] Qd7 $19\n",
+        "18... Kd8 19. Bxe5": "Alternative variation: 19. Nb5 [Een laatste poging om het onvermijdelijke te ontlopen.] Ne4+ 20. Kf1 Qf5+ 21. Kg2 Rxc4 22. Ra8+ Ke7 23. Ra7+ Kf6 24. Rxf7+ Kxf7 25. Qxc4+ Ke7 26. Qe2 \n",
+        "19... Ne4+": "Alternative variation: 19... Rxc7 [Lijkt aantrekkelijk, maar heeft enkele grote nadelen.] 20. Bxf6+ Be7 21. Ra8+ Kd7 22. Bxh8 Rxc4 23. Bc3 $18\n",
+        "20. Kf1 Qf5+ 21. Bf4": "Alternative variation: 21. Kg2 [Wat anders.] Qxe5 22. Nb5 Qg5+ 23. Kf1 Qf5+ 24. Kg2 $19\n",
+        "21... Ng3+": "Ontdekte aanval: e4, f5-c2\n",
+        "22. hxg3 Qxc2": "Alternative variation: 22... Rxc7 [Komt niet in aanmerking.] 23. Qa4 $11\n",
+        "23. Bg5+ Be7 24. Ne6+ fxe6 25. Bxe7+ Ke8": "Alternative variation: 25... Ke8 26. Nf3 h6 $19\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/intern-hzp-schiedam-schiedam?gm=63792",
+    "gameName": "Intern HZP Schiedam, Schiedam",
+    "players": "Piet Hofstee (1627) vs. Arnold van der Kammen (1472)",
+    "opening": "Nimzovich-Larsen attack (A01)"
+}

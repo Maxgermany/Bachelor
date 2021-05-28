@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qa4 Nf6 5. Nc3 e6": "This gives you a backward pawn on an open file. It's not a problem at the moment, but it could be later. An alternative was 5...d6, followed by ...g6.",
+        "6. Nf3": "Threatening 7.e5.",
+        "6... Bb4": "An excellent move. As well as developing a piece, it threatens 7...Nxe4. If White plays 7.e5, then 7...Nd5 looks good for Black.",
+        "7. Bd3 d6 8. O-O Bd7": "Now was the time to play 8...Bxc3. White is forced to recapture with the pawn, ruining his pawn structure and giving you something to attack.",
+        "9. Be3 a6 10. a3 b5 11. Qb3 Bxc3": "11...Bc5 looks better.",
+        "12. Qxc3 O-O 13. b4 a5": "A faulty plan, since White ends up with a much more active rook. 13...Rc8 aiming at the queen and the backward pawn on c2 was best.",
+        "14. Bxb5 axb4 15. axb4 Rxa1 16. Rxa1 Nxe4 17. Qd3 Nf6": "This is your first bad move. 17...d5 was the obvious move, but 17...Nxb4 may also be playable.",
+        "18. Qxd6": "White now has a winning advantage.",
+        "18... Ne4 19. Qd3 f5 20. Qc4 Ne7 21. Bxd7 Qxd7 22. Ne5 Qd6 23. Bf4": "23.Nd3 would have closed off Black's access to d1 and enabled the White rook to get into the game.",
+        "23... Rd8 24. g3": "Nd3 was again the best move.",
+        "24... g5 25. Nf7 Qd7 26. Nxd8 gxf4 27. Nxe6": "27.Qxe6  would have given White an easy win.",
+        "27... Kh8 28. Nxf4": "I think 99% of the chess-playing population would have played 28.Ra8  first.",
+        "28... Nd2 29. Qe2 Qd4 30. Qxe7 Qxa1+ 31. Kg2 Qf1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=14194",
+    "gameName": "Let's play chess",
+    "players": "luyckx (1328) vs. doomclaw (1244)",
+    "opening": "Sicilian (B21), Andreaschek gambit"
+}

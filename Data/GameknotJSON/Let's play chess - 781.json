@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. e3 b6 3. d4 Bb7 4. Bb5+": "I'm not a fan of this move, as it allows Black to gain a tempo.",
+        "4... c6 5. Ba4 Nf6 6. Bd2 e6 7. a3 Bd6 8. Nc3 O-O 9. O-O Nbd7": "Even with the fianchetto, Black is as well developed as White.",
+        "10. b4 a6 11. Re1 c5 12. Bxd7 Qxd7 13. e4 dxe4 14. Ng5": "A nice maneuver to regain the e4 pawn.",
+        "14... cxb4": "But this makes a bigger threat.",
+        "15. axb4 Bxb4": "Black snatches another pawn.",
+        "16. Ncxe4 Qxd4": "White regained the e4 pawn, but lost the pawn on d4.",
+        "17. Nxf6+ gxf6": "Qxf6 drops the B on b4.",
+        "18. Bxb4 Qxb4": "Black is now two pawns up and has the tempo, since White's N is attacked.",
+        "19. Rb1 Qc5 20. Nxh7": "This is a gamble that White can use the open files near the K to win or draw.",
+        "20... Kxh7 21. Rxb6 Rab8": "Qxb6 leads at best to a draw, due to Qh5+.",
+        "22. Qd3+ Kg7 23. Qg3+ Qg5": "Interposing here is not possible if the Q is on b6.  Now, White's Q is pinned due to the threat of Qxg2#.",
+        "24. Rb3 Bd5 25. Rbe3 Rfh8 26. f3": "f3 disconnects the Q and R.",
+        "26... Qxg3 27. hxg3 Rhc8 28. c3": "Now Black is up a clear piece.",
+        "28... a5 29. f4 Rb2": "Threatens Rxg2+.",
+        "30. Re3e2 Rxe2 31. Rxe2 Rxc3": "Black wins another pawn.",
+        "32. g4 Rg3 33. Rf2 Rxg2+": "Time to take advantage of the passed pawn on a5.",
+        "34. Rxg2 Bxg2 35. Kxg2 a4": "White's K is out of the square and cannot stop the pawn."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=25513",
+    "gameName": "Let's play chess",
+    "players": "minka (1443) vs. mmoody95 (1796)",
+    "opening": "Reti opening (A06)"
+}

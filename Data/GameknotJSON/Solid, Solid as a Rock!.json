@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\n\nI recently managed to add another Expert Draw to my growing collection.  This time it was against Battlefleet (Stephen), Brigadecommander's (Janet's) brother.  This match started as a Queen's Gambit Accepted.  Although Stephen managed to win his pawn back, somehow, I managed to exchange the right pieces at the right time and create a solid position that convinced Stephen to make me an offer that I was loathe to refuse.  So, how did this happen?  Well, read on.",
+        "1... d5 2. c4 dxc4": "3. ..... dxc4 - Although it is thought prudent to decline the gambit by either e6 or c6, the latter leading to the Slav Defense, I decided to accept the gambit for more open play.",
+        "3. e3 Nf6 4. Bxc4 e6": "4. ..... e6 - prevents d5 and opens up Fou Lenoir's diagonal.",
+        "5. Nf3 c5 6. Qe2 a6": "6. ..... a6 - preparing b5.",
+        "7. O-O b5 8. Bd3 cxd4 9. exd4": "9. exd4 - pawn trade.  This now leaves white with an IQP.  This could be a target later on but white manages to split up my queenside pawns.",
+        "9... Be7 10. a4 bxa4 11. Be3": "11. Be3 - after white temporarily sacs his a pawn, he follows up with a sensible developing move doubly protecting his IQP.",
+        "11... Bb7 12. Rxa4 O-O": "12. ...... 0-0 - after white recovers his pawn, I tuck Henry away safely on the kingside.",
+        "13. Nc3 Nd5 14. Rd1 Nxe3 15. fxe3": "15. fxe3 - I did think carefully before this exchange because it does unite white's two centre pawns.  However, white no longer has the bishop pair and I do!",
+        "15... a5 16. Be4 Bxe4 17. Nxe4": "17. Nxe4 - this bishop trade robs me of my bishop pair, but at least Fou Lenoir is a good bishop, having plenty of scope.",
+        "17... Nd7": "17. ...... Nd7 - I now complete my development and it will be interesting to see how this middlegame pans out.",
+        "18. Rc1 Bb4": "18. ...... Bb4 - before deciding to contest the c column, I decided to back up my a4 pawn. I thought this move was good because there are no pawns on the a or c column to drive Fou Lenoir off that square.  The draw offer comes next move and I accept it.  Gameknot analysis proved white to have a slight advantage.  I am pretty chuffed by this much needed result which put my rating back into the 1930s - just.  I hope you all have a good read.  Bye for now - Joanne",
+        "19. Raa1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/solid-solid-as-a-rock?gm=49324",
+    "gameName": "Solid, Solid as a Rock!",
+    "players": "battlefleet (2111) vs. jstevens1 (1933)",
+    "opening": "Queen's gambit accepted (D20)"
+}

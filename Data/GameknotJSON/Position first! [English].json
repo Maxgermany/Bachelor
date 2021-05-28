@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. c4": "English opening.",
+        "1... c5": "Symmetrical. What uncomfortable players play. So do I...",
+        "2. Nf3": "Referred to as hedgehog system.",
+        "2... d6 3. d4 b6": "This is off the main line.\nWe classically see 3. d4 cxd4.\nMy opponent maybe tries to open ways for the c Bishop aiming at my c pawn.\nBut watch out! The diagonal is open to the a Rook as well. Keep this in mind.",
+        "4. Nc3": "Simply developing without any weird idea, I promise.",
+        "4... e6": "Opening ways for the Queen now?",
+        "5. e3": "Putting pressure on d4 while preparing for castling.",
+        "5... Nf6": "Preparing for castling too, but no pressure of any kind.",
+        "6. Bd3": "A gentle move? Not exactly. The Bishop is already in position to aim at the King side.",
+        "6... Be7": "Still trying to castle King-side.",
+        "7. O-O": "This was in the air.",
+        "7... O-O": "So was this.",
+        "8. e4": "Pushing pawn because it's time for the battle.",
+        "8... Nbd7": "This was a bit puzzling, I confess.\nProbably 8. ... Nc6 would have been a better move, putting pressure on the center.",
+        "9. e5": "Still pushing pawn and going to exchange.",
+        "9... dxe5 10. dxe5": "Now I have advantage in the center.\nPlease note there's no advantage in pieces.",
+        "10... Ng4": "Trying to escape to the front line.\nA classical response would be ... h3. But this was not in my mind.",
+        "11. Qe2": "I move my Queen because I want to take control of the e column.\nOf course Qe4 is now so tempting for the next move...",
+        "11... f6": "A poor move.\nI figure out my opponent was avoiding a move of my f Knight.",
+        "12. Qe4": "Turning on the fast forward now.\nRemember the freed diagonal after 3. \u2026 b6? Payback time!\nAt this point, what do you see at first? I'd say, there's the evidence: a fork on Rook and Knight.\nWhat can he do? Moving the Rook - the Knight is dead. Moving the Knight - the Rook is dead. As you will see, he will choose to make some mess in my defence with his Knight while losing his Rook, and win a tempo to move his Knight back.\nBut... there's something else. My Queen and d Knight are now aligned. This means that I will no longer consider taking pieces and preferably will rely on my position advantage.",
+        "12... Nxh2": "Making some mess and waiting for his Rook to die.",
+        "13. Qxh7+": "Fatal attack in 2 moves.",
+        "13... Kf7 14. Bg6#": "The purpose of this annotation was to set forward the most important role of a good position, letting pieces for what they are: consolation."
+    },
+    "url": "https://gameknot.com/annotation.pl/position-first-english?gm=46950",
+    "gameName": "Position first! [English]",
+    "players": "albamola (1463) vs. rick51 (1379)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

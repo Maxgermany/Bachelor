@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qc5 4. d4": "Chasing your queen around the board to develop my pieces.",
+        "4... Qf5 5. Bd3 Qd7 6. Nf3 g6": "Way behind in development now.",
+        "7. O-O Nc6": "Black is trying hard to catch up with development now.",
+        "8. Bf4 Nf6 9. Nb5": "Setting up for a possible Queen trap that I learned from Kasparov vs Letterman.",
+        "9... Nd5": "You didn't go for it.",
+        "10. Ne5 Nxe5 11. Bxe5 Rg8": "I hope you plan to castle Queenside, because moving your rook means you can't castle Kingside now. I know that too now, which makes it easier to plan attacks on the Queenside.",
+        "12. Bc4": "Keepin' up the heat.",
+        "12... b6": "You missed the incoming combo. In fact this move makes it worse.",
+        "13. Bxd5": "Any way you chalk it up, you're about to lose a lot of material.",
+        "13... Qxb5 14. Bxa8 c5 15. dxc5 Qxc5 16. Qf3": "Why didn't I defend my Bishop? I don't remember. Was I sacrificing it for a mate solution in my head? I can't find that now, for all I know I've left him to die.",
+        "16... Bh6": "No matter, he doesn't even notice the hanging Bishop.",
+        "17. Rfe1": "His pieces are still very far away. Time to set up my attack. Here not only do I defend the Bishop but I move my Rook in line with the King.",
+        "17... Ba6": "I'm sure he's trying to set up some kind of attack.",
+        "18. Bf6 Bd2": "Too little, too late.",
+        "19. Bc6+": "This combo will end with a captured Queen.",
+        "19... Kf8 20. Bxe7+ Kg7 21. Qf6+ Kh6 22. Bxc5": "Sexcellent. I hope it captures the rook, it leads to a forced mate.",
+        "22... Bxe1 23. Qh4+ Kg7 24. Bd4+ f6 25. Qxf6+ Kh6 26. Be3+ Kh5 27. Bf3#": "The choice between the queen and the bishop was a tough one. Bishops don't get enough action."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-bryitis?gm=25214",
+    "gameName": "Challenge from bryitis",
+    "players": "bsvino2 (1200) vs. bryitis (1200)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

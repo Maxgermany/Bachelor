@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 O-O 6. Be2 c6 7. O-O Nbd7 8. Qd2 b5": "I've been experimenting with this setup for Black, but here White did a good job controlling the center and I felt like Black's position was a little cramped.",
+        "9. a3 Bb7 10. Ng5 a6 11. f4 c5 12. dxc5": "I felt that White had the space advantage and that exchanging helps Black open up the board.",
+        "12... h6 13. e5 dxe5 14. fxe5 Nxe5 15. Nf3 Nxf3+ 16. Bxf3 Qxd2 17. Bxd2 Bxf3 18. Rxf3": "Both players have passed pawns.  It's a matter of how effectively they can be blockaded.",
+        "18... Rac8 19. b4 Rfd8 20. Rd3 Ne4 21. Nd5 Rxd5 22. Rxd5 Bxa1 23. Be3": "Black is now up  a piece.  If everything else gets traded off, this should be winning.",
+        "23... Nf6 24. Rd3 Kg7 25. h3 Be5 26. c3 Ne4 27. Bd4 Bxd4+ 28. cxd4 Nf6 29. Kf2 Nd5": "d5 is a good square for the N, especially since it is difficult to dislodge.",
+        "30. Kf3 e6 31. Ke4 f6": "Now White's K cannot penetrate to e5.",
+        "32. g4 g5": "Freezing the h pawn.",
+        "33. Rf3 Kf7 34. Kd3 Ke7 35. Ke4 Kf7 36. Rd3 Kg6 37. Rf3 h5 38. Rd3 hxg4 39. hxg4 Rh8": "Now the R will penetrate and cause all sorts of problems for White."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=59595",
+    "gameName": "Let's play chess",
+    "players": "yak007 (1593) vs. mmoody95 (1773)",
+    "opening": "Pirc defence (B07)"
+}

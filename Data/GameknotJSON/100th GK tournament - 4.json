@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 9. g3 g6 10. Bg2 Bg7 11. O-O O-O 12. Re1 Rae8 13. Na3 f6 14. Qc2 Nb6 15. e6 c5 16. Nb5": "Up to now it is theory, 2 games between really strong GMs reached this position.",
+        "16... d6": "? Here the 2 games Van der Wiel - Nikolic and Pavasovic - Bozanic continued with dxe6, which I believe is good.",
+        "17. a4": "! As soon as I saw this position, I thought if his Queen wasn't going to be trapped after 17. Nxa7 Bxc4 18. Nc6, but when I got the position on my chessboard I realized Black can play 18... Qd7!!, because the pawn on e6 is pinned, and White would lose too much material for his Queen.\nFinally I decided to move his Knight on a worse position.",
+        "17... f5 18. a5 Nc8 19. Bc6": "A little subtlety, but I believe the immediate Bd5 is equally good.",
+        "19... Red8 20. Bd5": "Hoping to play Nxc7! Qxc7 e7+.",
+        "20... Bxb5 21. cxb5 a6": "Giving up a pawn, but Black is completely blocked, and cannot do much more than this.",
+        "22. bxa6 Na7 23. Bb7 h6 24. Ra4 Rf6 25. b4 Rxe6": "A blunder, but not so much better.",
+        "26. Bd5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/100th-gk-tournament?gm=48267",
+    "gameName": "100th GK tournament",
+    "players": "cavillus (1877) vs. p4keal (1762)",
+    "opening": "Scotch (C45), Mieses variation"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Nc6 3. f4": "Zuckertort chooses a different gambit -- the Vienna Gambit. In any case it will make for an exciting game: gambits usually do, unless they are declined.",
+        "3... Bc5": "Instead of taking the Pawn, Rice gambits his own KP in return for...",
+        "4. fxe5 Bxg1 5. Rxg1": "...doubling White's KP and destroying his ability to castle K-side.",
+        "5... Qh4+ 6. g3 Qxh2 7. Rg2 Qh3": "Rice has equalized the material, but his Q is dangerously exposed.",
+        "8. d4 d6 9. exd6 cxd6": "Clarifying the center position some.",
+        "10. Bf4 Bg4": "Rice is unafraid of the grandmaster: he intends to attack.",
+        "11. Qd2 Bf3 12. Rf2 Qh5 13. Bxd6": "Zuckertort clears the obstruction to his center Pawns.",
+        "13... Rd8 14. e5 Nge7 15. Qf4": "Doubling on the KB file, aiming at the weak spot on KB7.",
+        "15... Bd5 16. Be2 Qg6 17. O-O-O": "Activating his other Rook.",
+        "17... h6 18. Rdf1 Rd7 19. Bg4 Be6": "Allowing Zuckertort to remove a guard on KB7. ",
+        "20. Bxe6 Qxe6 21. Qxf7+ Qxf7 22. Rf2xf7": "Zuckertort takes advantage, swapping down. His passed KP will be a bigger advantage with every pair of pieces exchanged.",
+        "22... Nxd4 23. Nd5 Ndf5": "Zuckertort pounces on this mistake, augmenting his material advantage by obtaining two pieces for a Rook.",
+        "24. Rf1xf5 Nxf5 25. Rxf5 Kd8 26. c4": "In addition to his central passed Pawn, Zuckertort now threatens to convert his flank majority on the Q-side into a second passer.",
+        "26... b6 27. Bf8 Ke8 28. e6": "With this forcing move, Zuckertort induces the exchange of all the remaining pieces, setting up a winning K and P end game.",
+        "28... Rxd5 29. cxd5 Rxf8 30. Rxf8+ Kxf8": "Zuckertort's advanced central Pawns now prove decisive.",
+        "31. d6 g5 32. g4": "Rice resigns. One of Zuckertort's Pawns will inevitably become a Queen."
+    },
+    "url": "https://gameknot.com/annotation.pl/blindfold-game-1884?gm=36358",
+    "gameName": "Blindfold Game, 1884",
+    "players": "Johannes Zuckertort  vs. Isaac Rice ",
+    "opening": "Vienna gambit (C25)"
+}

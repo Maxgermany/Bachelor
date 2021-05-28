@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Bc4 Bg7 6. Nxc6 bxc6 7. O-O e6 8. Re1 Qc7 9. Qf3 d6 10. Nc3 Ne7 11. Bg5 O-O": "last book move\n",
+        "12. Bf6": "Black has a cramped position\n",
+        "12... Bb7 13. Bxg7 Kxg7": "Black king safety dropped\n",
+        "14. Qf4 Rad8 15. Re3": "Alternative variation: 15. Rad1 e5 16. Qe3 Bc8 $14\n",
+        "15... Ng8": "Alternative variation: 15... e5 $5 [must be considered] 16. Qh4 d5 $15\n",
+        "16. Rh3 Qe7 17. Qe3": "letting the wind out of his own sails\nAlternative variation: 17. e5 h5 18. Bd3 $16\n",
+        "17... d5 18. exd5 cxd5": "Black has a cramped position\n",
+        "19. Ne2": "Alternative variation: 19. Bd3 [would be a reprieve] d4 20. Qe5+ Nf6 21. Nb5 $15\n",
+        "19... dxc4 20. Nf4": "Alternative variation: 20. Nc3 [doesn't change the outcome of the game] e5 \n",
+        "20... Rd7": "Alternative variation: 20... e5 [makes it even easier for Black] 21. Ne2 $19\n",
+        "21. Qe5+ Qf6": "Alternative variation: 21... Nf6 $19 [ends the debate]\n",
+        "22. Nh5+ gxh5 23. Rg3+ Kh8 24. Rxg8+ Rxg8 25. Qxf6+ Rg7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/roger-goldsmith-cambridge?gm=64047",
+    "gameName": "Roger Goldsmith, Cambridge",
+    "players": "Kian, Dharmasena (117) vs. Nick, Sampays (107)",
+    "opening": "Sicilian (B34), accelerated fianchetto, exchange variation"
+}

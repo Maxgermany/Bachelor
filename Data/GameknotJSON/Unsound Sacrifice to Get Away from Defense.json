@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "I wanted to show this game as it demonstrates an unjustified sacrifice. ",
+        "1... Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5": "My favorite variation. It immediately attacks the center and I have a fetish for c-pawn moves in the opening. ",
+        "6. Nf3 O-O 7. e3 d6": "d5 is another option, but at this time, I did not want to exchange my d-pawn for the c-pawn. ",
+        "8. Bd3 Nc6 9. O-O e5": "Inviting to close off the center with d5 with a permanent doubled pawn, or for the center to be broken up. ",
+        "10. Nd2": "White's black-squared bishop does not have much chance for mobility. Maybe the idea of a4, Ba3 would be good. Instead, white sacrifices a pawn for activity. ",
+        "10... cxd4 11. cxd4 exd4 12. Bb2 dxe3 13. fxe3 Ne5": "The issue is that I get good activity as well. Now, the c-pawn is going to be my main focus.  ",
+        "14. Bc2 Be6 15. Rf4 Rc8 16. Qe2 b5 17. Ne4": "Instead of further protecting the pawn, white goes on an attack that seems quite promising. ",
+        "17... Nxe4 18. Bxe4 Bxc4 19. Bxh7+": "I had calculated variations after Nxe4 and couldn't see any death notes by white, so I continued with exchange. ",
+        "19... Kxh7 20. Qh5+": "Looks menacing, but it does not come to any conclusion. This is a case where one player does not want to defend, and instead acts on the offense. White acted in desperation when there was no need. If the game had continued with a defensive strategy, white would have an uncomfortable game, but he would have drawing chances.   ",
+        "20... Kg8 21. Rh4 f6": "The key move in my calculations. After f6, the king can run away to safety. All white's sacrifices have amounted to nothing because of one defensive move. The last game I played with this opponent, he had similar game against me. Maybe he overestimated his chances. "
+    },
+    "url": "https://gameknot.com/annotation.pl/unsound-sacrifice-to-get-away-from-defense?gm=45630",
+    "gameName": "Unsound Sacrifice to Get Away from Defense",
+    "players": "lamb_burger (1722) vs. klacsanzky (1706)",
+    "opening": "Nimzo-Indian (E24), Saemisch, Botvinnik variation"
+}

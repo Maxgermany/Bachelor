@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4": "I miscalculated the situation. I broke my own plan, because I had not seen all its consecuences.",
+        "1... d5 2. Nf3 Nc6 3. Bf4 Bf5 4. e3 e6 5. c3 Bd6 6. Ne5 Nge7 7. g4 Bxe5 8. dxe5 Bg6 9. h4 Qd7 10. Nd2 h5 11. f3 O-O-O 12. Qa4": "Now is the time to see if he likes tactics. I am doing this move by purpose, and he picked (but I still don't know who is good for, and the game seems to say that I have some bizarre chance. ",
+        "12... Nxe5": "So he's playing tactically...",
+        "13. Qxa7": "and me too. I must, now. ",
+        "13... Ne5c6 14. Qa8+": "I have to justify my queen's \"decoy\". I didn't see the weakness of my e3, after e5 (before or after f6). ",
+        "14... Nb8": "The only way to justify such thing is a stunning pawn attack over the queenside. But it takes too long to perform.",
+        "15. Nb3": "I took the wrong way, here. a4, and pry to come in time to a6. ",
+        "15... Qc6 16. Nd4 Qb6": "Now I blundered, and moved the knight to b5, thinking that it is nice the a7 check, as if it was all can matter... and I lost. \n\nBut I have a chance. A very slight chance. \n17. b3, f6. \n18. a4, and if e5, \n19. a5, Qd6 (the only square)\n20. a6! threatening Qxb7+ and Bb5, then a7 aimng to a8 (not to the knight). For example: \n20. ..., e5xB\n21. Qxb7+, Kd7 (forced)\n22. a7, Nc6, \n23. Nb5, and I think am winning. \nor\n22. ..., f4xe3!, \n23. Rh3, Qc4, \n24. a8=Q, Qg3\n25. Kd1, Qf2, \n26. Ra2, and I think black runs out of steam.\n\nBut I didn't see all this, so I lost...",
+        "17. Nb5 e5 18. Bxe5 Qxe3+ 19. Kd1 Qxe5 20. Qa4 Nec6 21. f4 Qe3 22. Be2 Rde8 23. Re1 Bd3 24. Nd4 Nxd4 25. Qxd4 Bxe2+ 26. Kc2 Qxd4 27. cxd4 Bxg4 28. Re5 c6 29. Rg1 Nd7 30. Kd2 Nxe5 31. fxe5 Re6 32. Rg3 f6 33. Ra3 Kc7 34. Re3 fxe5 35. b4 Kd6 36. a4 Rf8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/london-lost?gm=23117",
+    "gameName": "London, lost",
+    "players": "damalfi (1724) vs. aramberber (1735)",
+    "opening": "Queen's pawn game, Chigorin variation (D02)"
+}

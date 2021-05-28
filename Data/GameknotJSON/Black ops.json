@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. c4 e5 2. Nc3 Nf6 3. e3 Nc6 4. d4 Bb4 5. d5 Nb8 6. Bd2 d6": "A blunder!  I am not too familiar with Queen-side openings and didn't take the effort to carefully analyze the position before making what seemed to me like a plausible move.",
+        "7. Qa4+ c6 8. Qxb4": "Resigning at this point was very tempting.  After all, I was down a bishop after only 7 moves, had nothing to compensate for it and that too against a player whose rating was around 100 points higher than mine. ",
+        "8... Qc7": "I hung on though.  Simply because I figured it'd be interesting to put up a tough fight.  ",
+        "9. Bd3 Na6 10. Qa3 Nc5": "Moving the knight to a strong square.",
+        "11. Bc2 a5": "I knew his next move would be b4 to push my knight away.  Hence I played a5.",
+        "12. b4 Na6 13. bxa5 Nc5": "And that was the idea. ",
+        "14. Nce2 cxd5 15. cxd5 Nxd5 16. Rc1 Bd7 17. Bd3 Bc6 18. e4 Nf6": "At this point, I was just trying my best to hold on. ",
+        "19. f3 O-O 20. Bc4 b6 21. a6 b5 22. Bb3": "Here I saw that suddenly I had the game!  Not because I won the pawn on a6 but because my opponent's Queen was in a tight spot.",
+        "22... Rxa6": "The queen has only two spots available - b2 and b4.  Either one leads to Nd3+ and the queen is gone.  \n\nMy opponent decided to resign at this point rather than play without his Queen.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/black-ops?gm=36003",
+    "gameName": "Black ops",
+    "players": "graf76 (1563) vs. noorani_786 (1540)",
+    "opening": "English opening (A22)"
+}

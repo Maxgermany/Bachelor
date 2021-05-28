@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. c4 Nf6 2. g3": "I to play unusual style but it effective to get me to current rating.",
+        "2... e5 3. Nc3": "My goal is protect e4 and attack center with piece instead no with pawn. It not usual teach method but I not average player.",
+        "3... Nc6 4. Bg2 Bb4": "Counter my plan to defend e4. This typical respond I see from this rated group.",
+        "5. Nf3": "I to take risk here but I think to push e4 not so good right now.",
+        "5... O-O 6. O-O": "Both side equal develop but my queen have more mobile. This important detail as game go on.",
+        "6... Bxc3": "Black prepare to advance the pawn. So he to remove the knight threat first. ",
+        "7. bxc3 Re8": "With no knight I have to find way to defend center or to suffer big lose.",
+        "8. d3 e4": "This move is early I think but I expect it early in game.",
+        "9. Nd4 exd3": "I no understand need for this. 2 defender on the pawn and I no plan to take and weaken pawn structure. ",
+        "10. exd3 h6 11. Bf4": "My piece now all mobile thank to my opponent. I think I have a bit of edge here even though my pawn is double on queens side.",
+        "11... Nxd4 12. cxd4 d5": "Black to open space and try to get other piece involved before I begin to plan attack. ",
+        "13. Re1 Rxe1+ 14. Qxe1 dxc4": "This move I not understand. It win pawns in center but it set up trap that I thought he see. I ask him after the game and he say he not see far enough to calculate trap. But this move begin the end of game.",
+        "15. dxc4 Qxd4 16. Rd1 Qxc4": "I sacrifice the center pawns",
+        "17. Rd8+ Kh7 18. Qb1+ g6 19. Qa1": "To set a strong attack on the black king.",
+        "19... Ng8": "This move set up a long mate net.",
+        "20. Rxg8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/uscf-master-victory?gm=57676",
+    "gameName": "USCF Master Victory",
+    "players": "Me (1989 USCF) vs. B. Liu (2259 USCF)",
+    "opening": "English, 1...Nf6 (Anglo-Indian defense) (A15)"
+}

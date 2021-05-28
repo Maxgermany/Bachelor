@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Qxd5": "This is likely way too early to bring out the queen.  The queen is the strongest attacking piece, but ironically can't withstand attack.  She's so powerful that she's instantly a target.",
+        "3. Nc3 Qc6": "...and now things go from bad to worse with\n3. ... Qc6??  better is\n3. ... Qa5",
+        "4. Bb5": "I typically try to annotate where the strategic scales have reached the tipping point since the tactical picture at that point usually does not show things as bad as they really are.  The lesson there being that once the tactics show that you're in trouble, you've already long lost the strategic battle.",
+        "4... Bd7 5. Bxc6 Bxc6": "However, in this game White's material advantage is so extreme that the battle is over before it's really begun.  With such a huge surplus of material, White's obvious winning strategy is to trade down to an endgame--which is exactly what he does.",
+        "6. Nf3 Nd7 7. d4 e6 8. O-O Ngf6 9. Bf4 Bd6 10. Qd2 O-O 11. Bxd6 Rfc8 12. Qf4 cxd6 13. Rad1 e5 14. dxe5 dxe5 15. Nxe5 Nxe5 16. Qxe5 Rce8 17. Qc7 Bd7 18. Rfe1 Rxe1+ 19. Rxe1 Re8 20. Rxe8+ Bxe8 21. Qd8 Kf8 22. Nd5 Nxd5 23. Qxd5": "To further illustrate the correctness of White's trading down strategy, note the drastic disparity between White's capabilities and Black's.  Yet, White is only up by 1 more pawn than he was after his fifth move.  This is because material advantages become amplified as the population of the board dwindles.  A 1 pawn lead is more meaningful when that's all you have left than at the beginning of the game when you have plenty.",
+        "23... Ke7 24. Qxb7+ Bd7 25. Qxa7 f5 26. f4 h6 27. h4 h5 28. c4 Kd6 29. Qd4+ Kc6 30. Qxg7 Kc5 31. Qxd7 Kxc4 32. Qxf5 Kd4 33. Qe5+ Kd3 34. Kf2 Kc4 35. Ke3 Kb4 36. Kd4 Ka4 37. Qd5 Kb4 38. Qb7+ Ka4 39. Kc4 Ka5 40. Qb5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-alng?gm=17806",
+    "gameName": "Challenge from alng",
+    "players": "alng (1383) vs. zerouser (1200)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

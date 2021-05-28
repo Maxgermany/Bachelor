@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. b3 e6 3. Bb2 d5 4. a3": "a3 is important to keep the B from landing on b4.",
+        "4... Nc6 5. Nf3 Be7 6. e3 O-O 7. Bd3 h6 8. Nbd2 Nh7": "Black is apparently planning a pawn assault.",
+        "9. O-O f5 10. Ne5 Rf6 11. f4 Nxe5": "Black exchanges off my best piece.",
+        "12. fxe5 Rg6 13. Qe2 Ng5 14. Kh1 c5 15. c4 Ne4 16. Rac1 cxd4": "I think Black might have done better to maintain the tension in the center.  This allows me to undouble my pawns.",
+        "17. exd4 Bg5 18. Bxe4": "I exchange Black's best piece.",
+        "18... Bxd2 19. Bxf5 exf5": "Now my e5 pawn is a passer.",
+        "20. Qxd2 b6 21. c5": "Trying to open the file for my R.  I have an edge in development that I will try to exploit.",
+        "21... Qg5 22. Qxg5": "Exchanging Qs makes my job easier, in my opinion, because it reduces Black's attacking chances.",
+        "22... Rxg5 23. c6": "Now the c pawn is passed also.",
+        "23... Ba6 24. Rf2 Rc8 25. a4": "Either I can block his B with b4, b5 or he will have to block his own B in with b4.",
+        "25... Rc7 26. Ba3 Rg6 27. Bd6": "Now I can push his R off the c7 square.",
+        "27... Rf7 28. Rf4 Bc8 29. c7": "Black's pieces are now quite tied down and have limited mobility.",
+        "29... Rd7": "This R move allows the f pawn to hang.",
+        "30. Rc6 Kf7 31. Rxf5+ Ke6 32. Rf4 Bb7": "Allowing the pawn to promote, which will give me a decisive material advantage.",
+        "33. c8=Q Bxc8 34. Rxc8 Rb7 35. Rff8": "My Rs dominate the open files.",
+        "35... Rg4 36. Rce8+": "Starting a mating net.",
+        "36... Kd7 37. Re7+ Kc6 38. Rc8+": "After ...Rc7, Rxc7#."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=29121",
+    "gameName": "Let's play chess",
+    "players": "mmoody95 (1840) vs. zirena (1552)",
+    "opening": "Queen's pawn game (A45)"
+}

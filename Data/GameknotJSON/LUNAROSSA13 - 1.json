@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. c4": "Hi this is the lost game I promised. English",
+        "1... e6 2. d4 d5 3. Nc3 h6 4. a3 Nf6 5. Nf3 c5 6. dxc5 Bxc5 7. b4 Be7 8. cxd5 exd5": "Until now, I thought I was a little bit better; though I am late for the development, I isolated a pawn on the center. Black will have pain in the .ss to protect it.",
+        "9. e3": "forbidding the pqawn to go further.",
+        "9... O-O 10. Bb5": "preparing something that will come too late...",
+        "10... Bg4": "trying to resolve the d-pawn problem",
+        "11. Bb2 Nc6 12. Bxc6 bxc6": "I thought this was a good idea: instead of 1 weak pawn, I have a bad 2-pawn structures to concentrate on.",
+        "13. h3 Bxf3 14. Qxf3 a5 15. b5 cxb5 16. Nxb5": "back to the one pawn... But black has some good ideas in reserve.",
+        "16... Rb8 17. Bxf6 Bxf6 18. Rb1 Qd7 19. a4": "Until now, everything is cool... except that i still haven't castled...",
+        "19... d4 20. Rd1": "Weak idea, but still not a mistake. I should have taken it and then castled.",
+        "20... d3": "Strong!",
+        "21. Rd2": "Mistake - you see why?",
+        "21... Rxb5": "I saw it now!",
+        "22. axb5 Bc3": "I still though i could resolved it.",
+        "23. Qc6": "my queen would have arrived to late, so i decided to dismiss both",
+        "23... Qxc6 24. bxc6 Rb8": "this was a bad surprise for me.",
+        "25. f3": "to avoid mate.",
+        "25... Rb2 26. O-O": "so late... and mistaking...",
+        "26... Bxd2 27. Rd1 Bxe3+": "and I resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/lunarossa13?gm=35697",
+    "gameName": "LUNAROSSA13",
+    "players": "thitho (1754) vs. damiano80 (1799)",
+    "opening": "English opening (A13)"
+}

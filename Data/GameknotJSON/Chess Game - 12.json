@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "So, Charles starts off with this opening.  It's hard to predict how he'll start since he most often plays 1.d4, but he plays this move almost as much.  Of course, being an expert, as he revealed, Charles is familiar with more then one opening and one defense.  So, he gets creative.",
+        "1... c5": "As with me, this has to be blacks favorite defense.  I don't know much about him except that he's a walker, whereas, Charles is a runner.  One day, I'll post the previous game and this one in the WTWLTR club under WTW annotations.  There's a lot to be learned from Charles games which is why his annotations, alone, are worth serious analysis which he gets from ION.",
+        "2. Nf3": "The most standard follow up.  The real question is how black will respond.  Personally, I'd continue with 2...d6 since I'm most used to it.",
+        "2... e6": "But, he answers with the Pirc Defense.  I didn't know anything about it until one of Charles most recent annotations where his opponent also continued with the Pirc Defense.",
+        "3. d4": "Even before Charles verified in that annotation, I thought that this was the best response since the pawn only moved one square, just like with the Owen's Defense or Philidor's Defense.  Of course, exchanging is still the main way to go as he also pointed out in the same annotation.",
+        "3... cxd4 4. Nxd4 Nf6": "Still standard as is Charles next move to protect e4.",
+        "5. Nc3 Bb4": "Still in familiar territory because in Charles annotation, this was played on the same move, as a continuation of the Pirc.",
+        "6. Bd3": "As this move.",
+        "6... Qc7": "The same is to be said here.  But, as Charles also pointed in that game, the Q is now prone to harassment which he'll do, on his next move.",
+        "7. Ndb5 Qc6 8. a3": "Continuing his attack which I also there.  In fact, I forgot this, but the next few moves, including the exchange on d5 is also what I studied.",
+        "8... Bc5 9. e5 Nd5 10. Nxd5 exd5 11. Bf4": "This is where things start to change, but I like this and is also what I would've done.  As Charles continues developing.",
+        "11... a6": "Trying to go after the N, but this favors Charles since he'll exchange his less active N for black's more active B.",
+        "12. Nd6+ Bxd6 13. exd6 O-O": "Of course, it's usually not too late to castle as the case here.  But, as white is better developed and has a space advantage, Charles is about to create some nasty threats, starting with his next move.  And, what makes them threats is the fact that he's using his army to surround black's K, as bhidragon did with me.",
+        "14. Qh5 Re8+": "Trying to stop the threats with the intermediate threats.  But, as far as, I'm concerned it's of no use since white has an easy answer to this and will renew the threat soon.",
+        "15. Kd2 g6": "Still preventing the mate, but Charles has other ideas.",
+        "16. Qh6": "Like here, as similar to the game I mentioned there, black's Q is, completely, out of play.  This definitely surrounds the K side again, and threatens something else.  ",
+        "16... Qa4": "Trying to get the Q back into play.  But, Charles has ideas of his own as he'll threaten to exchange R's on his next move which is critical since black isn't at all developed on the Q side, whereas, Charles has been completed for a while.  ",
+        "17. Rae1 Qa5+": "Trying to prevent the exchange, black throws in the check.",
+        "18. b4": "But, it's of no use because of this move.",
+        "18... Qd8 19. Be5": "And, black is now in serious trouble because of this threat.  As now, he must lose the exchange to prevent mate.",
+        "19... Rxe5 20. Rxe5 Nc6": "Trying to prevent anymore nonsense, black develops on the Q side.  But, after Charles next move, black needs to be careful and not get greedy to stay in.  ",
+        "21. Rh5 gxh5": "?? And, this was the losing move for black.  With all of Charles enemy pieces around the monarch, 21...Qf6 to get the Q back in action and protect the monarch.  By getting greedy here, black allowed Charles to come in and checkmate him starting with his next move.  And, this is where the chess puzzle began.",
+        "22. Bxh7+ Kh8 23. Bg6+ Kg8 24. Qh7+ Kf8 25. Qxf7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=66844",
+    "gameName": "Chess Game",
+    "players": "charleshiggie  vs. ??? ",
+    "opening": "Sicilian (B40), Pin, Jaffe variation"
+}

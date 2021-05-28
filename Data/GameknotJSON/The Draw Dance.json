@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. Nf3 g6": "My 5th game against joanne.  As has been typical for me of late, I go with the Modern defense.  I have limited time to study and I'm trying to spend primarily on tactics.  I can't say why, but I like this defense.",
+        "2. d4 Bg7 3. c4 d6": "From my reading, joanne is playing 'The Lesser Averbakh.'  I'm guessing there are other names as well.  ",
+        "4. Nc3 Bg4 5. e3": "reinforcing d4.",
+        "5... c5": "Attacking the middle.",
+        "6. Be2 cxd4 7. exd4 Nh6": "The plan is to go Nf5, attacking d4.  White is going to ruin that plan.",
+        "8. h3": "The question is asked...",
+        "8... Bxf3": "and answered.",
+        "9. Bxf3 Nc6 10. Bxh6": "I was expecting 10. d5 followed by 10...Ne5.  However, it didn't work out that way.",
+        "10... Bxh6 11. Qa4": "Joanne pins my Knight.  I can't castle out of the pin as I'll end up going down a pawn.  I can't ignore the pin because 12. d5 loses the Knight. ",
+        "11... Qd7 12. Bxc6": "Joanne gives me another choice--retake with the pawn or the Queen.  I felt that taking with the pawn would make my position passive, but I could certainly be wrong.  I just looked at the pawns at d4 and c4, the N at c3 and the Q at a4 and decided the white's attack could be too strong.  Additionally, by retaking with my Q, I attack both c4 and g2.",
+        "12... Qxc6 13. Qxc6+ bxc6 14. b3 Bg7 15. O-O-O a5 16. a4": "Black's plan is too attack Q side, particularly with White's King so exposed.",
+        "16... Rb8 17. Kc2 O-O 18. d5": "I really feel 18. d5! was a strong move.  It opens the way for White's N to infiltrate the Black position via b5 and really cause Black a great deal of problems.  I tried many lines and I could find no answer.",
+        "18... Bxc3": "So I took the Knight, knowing full well I could be taking the game to a draw.",
+        "19. Kxc3 c5 20. Rhe1 Rfe8 21. f3 Rb7 22. g3 Kg7": "I'm planning on pushing my King side pawns.  I'm thinking that since White's King is tied up protecting b3, maybe my King could march down with the pawns.",
+        "23. Rd2": "It's apparent that White is going to double her rooks on the e-file, attacking e7.  I'm was thinking that this would be bad for Black.",
+        "23... Reb8": "So I figure I'll call one of White's rooks over to the b-file--making a draw almost a certainty.",
+        "24. Rb2 h5 25. Ree2 f5 26. Re6": "Black's King begins its \"Draw Dance\" as Black has nothing better.",
+        "26... Kf7 27. f4 Kg7 28. h4 Kf7 29. Kc2 Kg7 30. Kc3": "And Joanne offers the draw and Black accepts.  It's not clear to me how Black could have avoided the draw, but I'm sure some of you may have some ideas.  Any and all input is appreciated.  As always, my thanks to Joanne for these games."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-draw-dance?gm=25596",
+    "gameName": "The Draw Dance",
+    "players": "jstevens1 (1805) vs. untateve (1641)",
+    "opening": "Reti opening (A04)"
+}

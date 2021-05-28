@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. Qe2": "Alternatively, you could have pushed the pawn which would force the knight to move again.  A great follow up would then be to defend the e5 pawn with Pd4, but black's pawn at c5 might result in a trade.  But your queen move here is probably better in the long run.",
+        "4... d5 5. d4": "Oh, here would have gone with Pe5 instead, because Pxe4 forces you to move your knight, and black wreaks more havoc with Pc5.",
+        "5... Nc6 6. exd5 Nxd5 7. Na3 Qf6 8. Nb5": ":)  Going for the king/rook fork.  Nice.",
+        "8... Bd6": "Parried.",
+        "9. Nxd6+": "...or so black thought.  I don't know how I overlooked that obvious move--good job.  Hope you snag the bishop too.",
+        "9... Ke7 10. Nxc8+": "Right on!",
+        "10... Raxc8": "Oh!  Oh!  You've got his queen!  Bg5 pins the old biddy against the black king.  Sweet!",
+        "11. Bg5": "Righteous!",
+        "11... Qxg5": "Yep.  Black is better off trading.",
+        "12. Nxg5 f6 13. Qxe6+": "Nice move!  Press your advantage.",
+        "13... Kd8": "Oh, now fork the king and rook on the right side.",
+        "14. O-O-O": "WTH?  Weren't you listening?  Kf7+ gives you black's rook.  As a bonus you could even force the king out to b6, or pick off the undefended knight at d5 at your leisure.  Yeah, black was right to resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=41322",
+    "gameName": "Let's play chess",
+    "players": "corpagent (1200) vs. hyderabadkadon (1249)",
+    "opening": "Sicilian defence (B40)"
+}

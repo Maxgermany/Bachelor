@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bf4 e6 3. Nd2 c5 4. e3 Qb6": "Starting the known game of the poisoned pawn (b2).",
+        "5. c3": "He allows it. I decided to take, even knowing I'm risking my Q to become trapped.",
+        "5... Qxb2 6. Ne2 d5": "I did this in order to prevent Nc4, but it is hard for me to decide for another move. Nd5 could have been more precise.",
+        "7. Bxb8": "Strange decision, but ok.",
+        "7... Rxb8 8. Nb3": "Not the way to trap my Q, if even possible.",
+        "8... c4 9. Nd2 Bd7 10. a4": "...this looks much more straight into the point.",
+        "10... Qb6 11. g3 Bd6 12. Bh3 g5": "White's hyppopotamus setup is passive, so why not grabbing some space on the Kside?",
+        "13. f3 h5 14. Bg2": "Another weak move. Now, which pawn to advance?",
+        "14... e5 15. O-O": "Even better! Castling under he fire!",
+        "15... exd4 16. cxd4 g4": "The engine gives h4 as better and this as a mistake. I don't understand it very well. ",
+        "17. f4 h4 18. Nc3": "...pressing my central pawn.",
+        "18... hxg3": "As long as I can leave the Wlsb on the d square, but go on with the attack it's all ok. ",
+        "19. hxg3 Bc6": "I won't break that fortress in two moves, so I better defend my side.",
+        "20. Qc2": "Threatens Qf5, but it's not dangerous.",
+        "20... Nh5": "I played this provocative move. If Qf5, Nxg3 forks Q and R. If Nxd4 now...",
+        "21. Kf2 Qd8": "This was my pure intuition: I saw a nice mate if white takes the N in g3, and I went for it.",
+        "22. Qf5": "Fortunately, my opponent didn't see it and didn't play Rh1. This allows me to finish in stlyle.",
+        "22... Nxg3": "The situation is far from clear after white gives up the exchange with Qxg4, NxRf1, followed by Qg7. But we'll never know it for sure. ",
+        "23. Kxg3 Qh4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-short-and-uncommon-mate-pattern?gm=66800",
+    "gameName": "A short and uncommon mate pattern",
+    "players": "VladimirH1940 (1451) vs. damafi (1484)",
+    "opening": "Queen's pawn game (A45)"
+}

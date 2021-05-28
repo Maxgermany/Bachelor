@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4": "Here is a game i played against parker1, which ends in a nice tactical idea from white.",
+        "1... d6 2. c4 Nf6 3. Nc3 Nbd7": "Odd move. locks in his bishop.",
+        "4. Nf3 e6 5. e4": "White has a very kings indian style of center here.",
+        "5... h6": "wants to avoid the pin on g5, but wastes time.",
+        "6. Be2": "perhaps bd3 was better",
+        "6... b6": "another pawn move. white has a nice center and a lead in development",
+        "7. Be3 Bb7 8. Qc2": "supports the e4 pawn",
+        "8... c5 9. d5": "This gains some space and locks blacks lsb in",
+        "9... a6": "nother pawn move?? black is seriously behind in development, while white is about the finish development",
+        "10. O-O": "White castles and connects his rooks finishing development.",
+        "10... Qc7 11. a3 Ng4 12. Bd2 Nde5 13. Nxe5": "here i just though that taking was easier than kicking the other knight",
+        "13... Nxe5 14. b4": "Perhaps this was a mistake",
+        "14... cxb4 15. Qa4+": "Cant play 15.axb4 because it would lose the pawn on c4",
+        "15... Kd8": "Black commits to not castling which will prove later as a bad choice",
+        "16. Qxb4 a5 17. Qa4 Ba6 18. Nb5": "only way to defend the c-pawn",
+        "18... Qb7 19. f4 Nd7 20. Nd4": "heading for c6",
+        "20... Nc5 21. Qc2 Qd7": "i dont see the purpose of this move",
+        "22. Bg4": "pinning the pawn to the queen",
+        "22... g6 23. f5 Bg7 24. Nc6+ Kc7 25. fxe6": "Here i had a nice idea. IF 25... fxe6 25.cxe6 Qxc6 26.Rxf7+ and after king moves 27.Rxg7. This appears to leave the pawn on e4 for grabs, but if 27... Nxe4 it would be answered by Bf4 winning a piece.",
+        "25... Qc8": "Blunder. This allows Rxf7+",
+        "26. Rxf7+": "And my opponent resigns. At minimun hes going to lose his queen or get mated. Hope you enjoyed:)"
+    },
+    "url": "https://gameknot.com/annotation.pl/short-and-sweet-victory?gm=53147",
+    "gameName": "Short and sweet victory",
+    "players": "vavavi (1466) vs. parker1 (1407)",
+    "opening": "Old Indian defence (A41)"
+}

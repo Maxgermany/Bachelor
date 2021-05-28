@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 b6": "J'y vais avec une ouverture moins classique.",
+        "2. Bc4 e6 3. d3 d5": "Attaque imm\u00e9diate dans le but d'ouvrir le centre.",
+        "4. Bb3": "Le recul du fou n'\u00e9tait peut-\u00eatre pas la meilleur option.  Je crois que exd3 aurait \u00e9t\u00e9 mieux, exd3 suivi de exd3 cela laisse la ligne du roi bien ouverte.",
+        "4... Bb7": "Le fou vient soutenir le pion en d5",
+        "5. Be3 Nf6 6. e5": "Cela est un coup risqu\u00e9, \u00e0 cause de la diagonale possible du fou en b7.",
+        "6... d4": "Maintenant le fou en e3 est attaqu\u00e9 et la menace Bxg2 est pr\u00e9sente.",
+        "7. Bg5": "Ce coup \u00e9tait bon, dans les circonstances.",
+        "7... h6": "Ici j'essayais de poursuivre la pression sur le fou, mais, apr\u00e8s r\u00e9flexion, je crois que j'aurais d\u00fb y aller avec Bxg2.",
+        "8. Bd2 Nd5": "Ce coup \u00e9tait tr\u00e9s mauvais, car je donne la chance \u00e0 mon adversaire de parer la menace de Bxg2.",
+        "9. c4": "Ce coup \u00e9galement n'\u00e9tait pas efficace.  Nf3 ou f3 aurait \u00e9t\u00e9 mieux cela aurait mis fin d\u00e9finitivement \u00e0 la possibilit\u00e9 de Bxg2.",
+        "9... Nb4": "Ici j'enl\u00e8ve le cavalier pour lib\u00e9rer la diagonale Bxg2.",
+        "10. Qe2": "Encore une fois Nf3 ou f3 aurait \u00e9t\u00e9 mieux.",
+        "10... Bxg2": "L\u00e0 arrive l'attaque.",
+        "11. Ba4+ Nb4c6 12. Nf3 Bxh1 13. Na3": "Il aurait \u00e9t\u00e9 pr\u00e9f\u00e9rable de d\u00e9placer le fou Bf4 pour essayer de sortir le cavalier en d2 par la suite.  Maintenant Bxa3 suivi de bxa3, vienne de tuer toute possibilit\u00e9 de roque.",
+        "13... Bxa3 14. bxa3 O-O 15. Qf1": "Le roque, m\u00eame si ouvert, aurait peut \u00eatre \u00e9t\u00e9 mieux.  La tour aurait attaqu\u00e9 le fou et reine assurait la protection du cavalier qui est maintenant sans d\u00e9fense.",
+        "15... Bxf3 16. Qg1 Nxe5 17. Bxh6 Bg4": "Ici, j'ai par\u00e9 l'attaque avec le fou, mais j'aurais d\u00fb y aller avec le cavalier (Ng4) car du m\u00eame coup j'aurais attaqu\u00e9 le fou en h6.",
+        "18. Qg3 Qf6 19. Bf4 Nxd3+ 20. Kd2 Nxf4 21. Qxg4 g6 22. h4 d3 23. Rh1 Qb2+ 24. Ke3 Qe5+ 25. Kd2 f5 26. Qf3 c6 27. Re1 Qb2+ 28. Ke3 e5 29. Bb3 Kg7 30. Rg1 d2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/une-partie?gm=28437",
+    "gameName": "Une partie.",
+    "players": "rays2701 (1196) vs. dragoneye (1476)",
+    "opening": "Owen defence (B00)"
+}

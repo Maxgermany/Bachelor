@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "He started with d4 though i don't like that much....Write comments or rate the game if you want...",
+        "1... d5 2. c4": "Then c4...",
+        "2... dxc4 3. Nc3 e5": "e5 is a good reply for me as black i think...",
+        "4. dxe5 Qxd1+ 5. Kxd1": "We had our queens eaten...I think the white does not take any advantage with that..",
+        "5... Be6 6. e3 Nc6 7. f4": "He built though a tough center with his pawns...",
+        "7... f6": "Really important movement...to open my knight and to take some place in the centre.",
+        "8. exf6 Nxf6 9. Nf3 Bc5": "Now i think i took better places with my bishops than white...c1 bishop has nowhere to go and f1 bishop is blocked by c4 pawn...also i'm ready to protect my king...",
+        "10. Ke2 O-O 11. Nd2 Rfe8 12. Kf2": "he's moving his king trying to get some better places...",
+        "12... Ng4+": "Now i'm attacking as all his pawns is quite blocked and his king exposed....",
+        "13. Kf3 Nxe3": "i took a nice place with my knight and the attack continious....",
+        "14. Nce4": "he want my bishop but it's check again..",
+        "14... Bg4+ 15. Kg3 h5 16. Nxc5": "he took my bishop my then it's check again..",
+        "16... Nf5+ 17. Kf2": "nowhere else to go....",
+        "17... Ncd4": "my second knight is coming also for help..",
+        "18. Bxc4+": "a check with no meaning..",
+        "18... Kh8 19. h3 Be2": "the bishop is going to be sacrifisied for the castle to come...",
+        "20. Bxe2 Rxe2+ 21. Kg1": "i'm pushing his king back.....",
+        "21... Ne3": "now is knight took a perfect place...",
+        "22. Nf3": "nothing else to do at all.....",
+        "22... Rxg2#": "and checkmated with just a castle and a knight....hope you like it...i'm waiting for your comments.."
+    },
+    "url": "https://gameknot.com/annotation.pl/guarituba-master-challenge-m-t?gm=25818",
+    "gameName": "Guarituba Master Challenge  M.T.",
+    "players": "jenson (1301) vs. mariodag (1342)",
+    "opening": "Queen's gambit accepted (D20)"
+}

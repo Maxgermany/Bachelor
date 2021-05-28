@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bb5": "Typical opening",
+        "2... c6": "Queenside is very weak",
+        "3. Qg4 cxb5": "cant see why white did this",
+        "4. Nf3 d6 5. O-O": "uh ohhh, queen is attacked and he castled white need to be defensive, queen knight and bishop are sleeping!",
+        "5... Bxg4 6. Ng5": "bad move, queen attcking",
+        "6... Qxg5 7. Nc3 Nf6 8. Nxb5": "free pawn for black!! look at that!!",
+        "8... Bc8 9. Nxd6+": "Bishop attacking your night!!!!! think before you move 2 pawns for a knight? Bad for white",
+        "9... Bxd6 10. Re1 O-O 11. b4": "activating bishop should be what white thinks, a3?? is plain bad, b2 is bad too.",
+        "11... Bxb4": "and that too",
+        "12. Bb2": "not a powerful move",
+        "12... Nc6 13. Re3 Bxd2": "geez, black is gonna win most likely",
+        "14. a4": "a4?? is plain BAD. rook to a3=not good, e3 rook is attacked!!",
+        "14... Bxe3 15. Bxe5": "uhh hello? queen and knight protecting another bad move thats like, his 10th bad move?",
+        "15... Qxe5 16. h4": "h4?? is also bad, rook attacked, you see it??",
+        "16... Qxa1+ 17. Kh2 Bxf2 18. g4": "free pawn for sale on h4!! But that is not important, white is saving his pawns, not his king 18. ...Qg1+19. Kh3 Qh1#",
+        "18... Qg1+ 19. Kh3 Qg3#": "well he did Qg3, which is also checkmate. what is wrong with white????????????????"
+    },
+    "url": "https://gameknot.com/annotation.pl/88th-gk-tournament?gm=55054",
+    "gameName": "88th GK tournament",
+    "players": "joannayen (576) vs. lojtra (1219)",
+    "opening": "King's pawn game (C20)"
+}

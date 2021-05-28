@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Good thing I watched this guy's other games before we played. It helped me prepare for his unorthodox style of play.\n",
+        "1... e6": "One would expect French opening here...",
+        "2. d4 c6": "An unusual position here.. I actually expected this since he did it in one of his previous games in the Mini-tournament.",
+        "3. f4": "He didn't make his move to take the center, so I went on with it.",
+        "3... h6 4. Nf3": "Preparing to castle king-side...",
+        "4... Nf6 5. Nc3 Na6": "Bad move by black... He gave me the perfect opportunity to take out his knight without losing tempo, and weaken his pawn structure...",
+        "6. Bxa6 bxa6 7. O-O Nh7": "Black here aims to take out my F pawn, and leave the G file semi-open so that he can place his rook @ G8 (which could give me a headache)",
+        "8. a3": "This move was a preparation for b4. I wanted to have my black squared bishop take the long diagonal, and move my knight on c3 all the way to g3 in preparation for a king side attack...",
+        "8... g5": "dangerous move by black... now his king will have to stay in the middle of the board...",
+        "9. Ne5": "Now I'm aiming for his f pawn. Things would grim for him if I am able to move my queen to h5...",
+        "9... Bg7": "Here, I actually thought about sacrificing my knight with Nxf7 then Qh5+, followed by fxg5 which could look promising. But I decided it was too risky since he can easily defend his king with Qe7, and placing his king @ g8. I know I would have had a much stronger position at that point, but I thought it wasn't worth the risk. So I decided to break his center instead so that I can have my a rook help with the attack later on. ",
+        "10. d5 Bxe5 11. fxe5": "black's f pawn (and thus his king) is in big trouble at this point. he certainly can't move it forward because Qh5+ would give him a big problem. ",
+        "11... cxd5 12. exd5 Nf8 13. Qf3": "Black's best defense here would be Rh7, IMO...",
+        "13... f5": "game over.. :)",
+        "14. Qh5+ Ke7 15. d6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/nikolaoss-mini-tournament?gm=41020",
+    "gameName": "nikolaos's mini-tournament ",
+    "players": "irvinlee85 (1655) vs. aditya_s017 (1646)",
+    "opening": "French defence (C00)"
+}

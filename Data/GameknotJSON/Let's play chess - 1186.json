@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4": "I play terribly in this game, I was ashamed of myself until the last move, then I felt fine.",
+        "1... e5 2. Nf3 Qf6 3. Nc3 a6 4. d4 Bd6 5. dxe5 Bxe5 6. Nxe5 Qxe5 7. Qd5 d6 8. f4 Qxd5 9. exd5 Bf5 10. Bd3 Bg4 11. h3 Bh5 12. g4 Bg6 13. Bxg6 hxg6 14. Be3 Nd7 15. O-O-O": "If I had castled on the king's side I might have given him a better fight.",
+        "15... Ngf6 16. Rhe1 O-O-O 17. g5 Nh5 18. Bd4 Nxf4 19. Bxg7 Rxh3 20. Ne2 Ng2 21. Reh1 Re3 22. Kd2 Nc5 23. Nf4 Ne4+ 24. Kc1 Nxf4 25. Rh8 c6 26. Rxd8+ Kxd8 27. dxc6 bxc6 28. Bf6+ Nxf6 29. gxf6 Re4 30. Rxd6+ Kc7 31. Rd1 Ra4 32. a3 Ne2+ 33. Kb1 Rf4 34. Ka2 Rxf6 35. c3 Ng3 36. Rg1 Ne4 37. Re1 Nc5 38. Re7+ Kd8 39. Re3 Rf2 40. Rh3 Na4 41. Kb3 Nc5+ 42. Ka2 Kc7 43. Rh7 g5 44. Rh3 g4 45. Rg3 f5 46. Re3 f4 47. Re5 Nd7 48. Ra5 g3 49. Rxa6 g2 50. Ra8 g1=Q 51. Re8 Qc1 52. Kb3 Qxb2+ 53. Kc4 Nb6+ 54. Kd3 Qd2+ 55. Ke4 Qe2+ 56. Kf5 Qxe8 57. c4 Qf7+ 58. Ke4 Qxc4+ 59. Kf5 Nd7 60. a4 Ra2 61. Kg5 f3 62. a5 Rxa5+": "Now that I am 19 points down, it is time to resign. With a rook and a queen in play he should force mate within a few moves. But watch carefully and learn what NOT to do when you have a big advantage.",
+        "63. Kg6 Qg4+ 64. Kf7 Rf5+ 65. Ke6 Nc5+ 66. Ke7 Qg5+ 67. Ke8 Re5+ 68. Kf7 Re7+ 69. Kf8": "Nd7  , Ne6  , Qg7   All those moves will mate me. Which one will he pick?",
+        "69... f2": "He goes for another queen when he doesn't need it. A classic draw. The funny factor in this game is that from move 62 to 68 he kept checking me, yet here when he had the kill shot available he did not take it. Learn from this."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=419",
+    "gameName": "Let's play chess",
+    "players": "rustyrusty (1223) vs. timea (1196)",
+    "opening": "Greco defence (C40)"
+}

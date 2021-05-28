@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 Nf6 3. Nf3 Nbd7 4. Nbd2 e6 5. e3 c6": "Black is creating a solid scheme I use to play with white pieces... but with the bishop closed in c8, it is just too passive. ",
+        "6. Bd3": "Since he has no intention to play c5, I can play this b on his optimal square for attack. ",
+        "6... Be7 7. Ne5 O-O 8. g4": "Here we go. ",
+        "8... Nxe5 9. dxe5 Nd7": "Nf3 is ok, but I am looking for blood. ",
+        "10. g5": "...my blood? You'll see...",
+        "10... Bxg5 11. Qh5": "With a mate threat. Only move...",
+        "11... h6 12. Rg1": "Maybe Nf3 was more accurate. ",
+        "12... Bxf4 13. exf4 Kh8 14. Nf3": "Threatening Ng5 and Nxf7 for the least. ",
+        "14... Nc5 15. O-O-O Nxd3+ 16. Rxd3": "My good b is gone, but now I can bring my other R to h3 or g3.",
+        "16... Bd7 17. Ng5": "Maybe Nh4, with a sight on Ng6+ was good, too, or even better. ",
+        "17... Be8 18. Rh3": "Tactic, tactic...",
+        "18... f6 19. Nf7+": "...the only move for black is RxN, after which I'll play Qg6, with the terrible threat Rxh6+ and mate on the next. If he plays...",
+        "19... Bxf7": "...this is mate in two.",
+        "20. Qxh6+": "Et voil\u00e1. It won't be so easy in the future... but a nice goodby before sleeping. Thanks for watching. "
+    },
+    "url": "https://gameknot.com/annotation.pl/not-so-easy?gm=64259",
+    "gameName": "Not so easy...",
+    "players": "damafi (1573) vs. Dynamic996 (1538)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

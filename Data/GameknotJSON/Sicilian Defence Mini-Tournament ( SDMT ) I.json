@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Standard Sicilian opening",
+        "1... c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 g6": "My opponent moved his g pawn to make space for his Bishop",
+        "6. O-O Bg7 7. Nc3 Bxc3": "He used his Bishop for attack, freeing the g7 square. Later that square will prove very useful",
+        "8. bxc3 Nf6": "At this point I still havent been noticed what opportunity my opponent has left me.",
+        "9. c4": "For a better pawn structure",
+        "9... b5 10. Ne5": "The knight searches the best place - in this case it threatens the c6 pawn and protects c4",
+        "10... Bb7 11. cxb5 cxb5 12. Bh6": "I finally noticed what error my opponent has made. The square which he freed for his dark bishop now proves very useful for my one.",
+        "12... c4 13. Bg7": "Preventing my opponent from castling...",
+        "13... Rg8 14. Bxf6": "...and removing that knight which would make checkmating harder if left",
+        "14... exf6 15. Nf3 Kf8": "At that moment I was a bit dissapointed that my opponent will be able to castle his king anyway",
+        "16. Nh4": "The method is now clear - an attack with a queen and a knight",
+        "16... cxd3 17. Qxd3": "Big mistake - it would be much better if I moved cxd3 instead. Now I have two isolated pawns and my opponent could have easily prevented the attack if he had exchanged the Qs",
+        "17... Qb6 18. Qa3+": "acting randomly to defend the two isolated pawns",
+        "18... Kg7 19. Rfe1 Rae8 20. e5 fxe5 21. Qc3 f6": "at glance an innocent move, but which has greatly influeced the end of the game",
+        "22. Rad1": "at that moment I wasnt planning anything, I simply took the empty d file",
+        "22... Rec8 23. Rd7+": "and BOOM - the checkmate is now (almost) inevitable",
+        "23... Kh8": "the easiest (in my opinion) move to deal with",
+        "24. Qh3 Rc7": "he still wasnt noticed the obvious threat",
+        "25. Nxg6+ Rxg6 26. Qxh7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-defence-mini-tournament-sdmt-i?gm=41229",
+    "gameName": "Sicilian Defence Mini-Tournament ( SDMT ) I",
+    "players": "suentun (1435) vs. dorin66 (1493)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I opened up with e4, my favorite when I started this game, though I like the English more now.",
+        "1... e5": "Typically.",
+        "2. Nf3": "Maybe getting into some dull game :).",
+        "2... Nc6 3. Bc4": "I opted for an Italian game or even a 2 knights defense.",
+        "3... h6": "Preventing the 4.ng4 and the c bishop in the near future. ",
+        "4. d4": "Striking at the center.",
+        "4... d6": "This was a big mistake, it wins at least 1 pawn, I will show you. ",
+        "5. dxe5 Nxe5 6. Nxe5 dxe5 7. Bxf7+": "This was the move that won that pawn, but...",
+        "7... Kxf7": "OMG, I was thinking, giving up the queen.",
+        "8. Qxd8": "He should have resigned then.",
+        "8... Be7": "I was anticipating bd6 with thought of maybe trapping the queen. ",
+        "9. Qxc7 Nf6 10. Nc3": "I don't even sweat. ",
+        "10... b6": "Another pawn? Thx! ",
+        "11. Qxe5 Re8": "Of course that bishop will move :D.",
+        "12. Qg3": "Let's retreat and regroup.",
+        "12... Bb4": "Nice, attacking the e pawn twice and preparing to kill it's only defender, too bad it won't work. ",
+        "13. f3 Nh5": "What does it exactly? ",
+        "14. Qc7+": "Block with the b4 bishop or you are totally screwed.",
+        "14... Re7": "Too bad for you dude.",
+        "15. Qc4+ Ke8 16. Qxb4": "I think he had not got enough, what is he expecting :S."
+    },
+    "url": "https://gameknot.com/annotation.pl/nice-game?gm=35842",
+    "gameName": "Nice game :)",
+    "players": "str3am (1084) vs. ppp9 (1122)",
+    "opening": "King's pawn game (C50)"
+}

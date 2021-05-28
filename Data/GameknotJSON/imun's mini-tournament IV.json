@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Best by test.",
+        "1... e5": "Standard.",
+        "2. Nf3": "Book.",
+        "2... Nc6": "The most flexible response.",
+        "3. d4": "Old-fashioned but playable.",
+        "3... exd4": "A must.",
+        "4. Nxd4": "Forced.",
+        "4... Bc5": "Rather than exchange Knights immediately, which would centralize White's Queen, I play to develop and pressure the Knight.",
+        "5. c3": "Securely guards the Knight but impedes the development of the Q-side.",
+        "5... Qf6": "Continuing to pressure the Knight.",
+        "6. Be3": "Developing and guarding.",
+        "6... Nge7": "Preparing to castle.",
+        "7. Nxc6": "Forcing my hand.",
+        "7... Bxe3": "To avoid losing material. If 8 PxB NxN (or QxN) keeps the balance.",
+        "8. Nxe7": "A game that had been fairly tranquil, with relatively normal development and exchanges until now...",
+        "8... Qxf2#": "...ends with this lightning-bolt!"
+    },
+    "url": "https://gameknot.com/annotation.pl/imuns-mini-tournament-iv?gm=39445",
+    "gameName": "imun's mini-tournament IV",
+    "players": "briancioffi (1159) vs. thehellion (1222)",
+    "opening": "Scotch game (C45)"
+}

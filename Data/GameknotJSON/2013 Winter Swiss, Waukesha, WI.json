@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Nf6": "This move has been played against me a few times however I don't believe that it is the strongest response in this line.  Much better is to defend the d pawn by either c6 or e6.\n",
+        "3. cxd5 Qxd5": "By play this move Black gives White two extra tempo allowing White to develop two pieces while Black has to pull his queen back.  Retaking with the knight is better.\n",
+        "4. Nc3 Qd8 5. Bf4 g6": "Black's plan of following this move up with Bg7 then 0-0 is a bit weak.  White is going to build on the d4 pawn which is going to leave the Blacks dark squared bishop without any reall work for sometime.\n",
+        "6. Nf3 Bg7 7. e3 O-O 8. Bc4 Ne8": "Black is way behind on development here so the plan of undeveloping one of two pieces (with one piece being the badly placed bishop) is not very sound.  He needs to develop some additional pieces.\n",
+        "9. h4 Nd6 10. Bd3 Bg4 11. Qb3 Bxf3": "This is the final mistake of the game for Black.  This bishop is guarding the critical h5 square, not to mention, is one of the few developed pieces that he can play with.  By trading this piece out he removes the critical defender that can be used against White as he launches his critical attack.\n",
+        "12. gxf3 a6 13. h5 Kh8 14. hxg6 h6 15. Bxh6 Bxh6 16. Rxh6+ Kg7 17. Rh7+ Kf6 18. Nd5+ Kg5 19. f4+ Kg4 20. Qd1#": "In the end, the key element to this game was tempo.  From the start Black gave up tempo to White with the Qxd5 followed by Qd8.  Next he moved his knight three times early in the game, Nf6 followed by Ne8 and then Nd6.  The move a6 is another example of all the free moves that were given to White which allowed him to create a crushing attack.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/2013-winter-swiss-waukesha-wi?gm=48239",
+    "gameName": "2013 Winter Swiss, Waukesha, WI",
+    "players": "Carerros, Charles (1662) vs. Gerus, Scott (1128)",
+    "opening": "QGD (D06), Marshall defence"
+}

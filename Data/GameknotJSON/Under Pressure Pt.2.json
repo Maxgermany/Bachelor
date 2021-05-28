@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. c4": "Hi everybody, just to continue my theme of making blunders under pressure this time it is my buddy dmaestro who is on the receiving end.  A lot of the time dmaestro has caused me many problems and I have suffered from serious passivitis against him so I am glad to give something back here!  I kick off with c4 which is the English Opening.",
+        "1... Nf6 2. Nc3 e5 3. Nf3": "3. Nf3 - development.",
+        "3... d6 4. d4 Nbd7 5. e4": "5. e4 - becoming a bit like a Philidor Hanham Variation.",
+        "5... c6 6. Be2 Be7 7. O-O O-O": "7......... 0-0 - more development.",
+        "8. Re1 Re8 9. Bf1 Bf8": "9. ........ Bf8 - both sides undevelop their kingside bishops.",
+        "10. Rb1 a5 11. b3 g6 12. a3 Qc7 13. Bb2": "13. Bb2 - protecting my c3 knight should there be an exchange of pawns on d5.",
+        "13... Nh5 14. d5 f5 15. Nd2": "15. Nd2 - the knight retreats to add protection to  the e4 pawn.  Dmaestro, however chooses to advance his f pawn - he is trying for the standard kingside pawn attack where he is trying to keep my pieces confined to the queenside.",
+        "15... f4 16. Be2 Ng7 17. Bg4 Nf6 18. Bxc8 Raxc8 19. Rc1": "19. Rc1 - after an exchange of bishops I decide to put my rook on the same file as the Wicked Witch of the West.  Never a bad plan to do this unless the Witch is threatening mate on the move!",
+        "19... c5 20. f3 g5 21. Nb5": "21. Nb5 - my knight makes use of an outpost on b5.",
+        "21... Qf7 22. Nf1 h5 23. Bc3": "23. Bc3 - the start of a plan to open up the queenside.",
+        "23... b6 24. Bd2 Qg6 25. b4 axb4 26. axb4": "26. axb4 - the a file is open.",
+        "26... g4 27. bxc5": "27. bxc5 - as the f3 pawn is adequately defended I continue to give my pieces some air on the queenside with the possibility of winning either the d pawn or the b pawn depending which pawn takes on c5.",
+        "27... bxc5 28. Ra1": "28. Ra1 - first my rook takes command of the open a file.",
+        "28... gxf3 29. Qxf3": "29. Qxf3 - Glenda must recapture as the g pawn is pinned - she also comes closer to Henry.",
+        "29... h4 30. Ra6": "30. Ra6 - puts pressure on the d6 pawn.",
+        "30... Nfh5 31. Ba5": "31. Ba5 - reinforcements on the queenside - I have Bc7 in mind, piling up on the d6 pawn.   I also plan to put my other rook on a1 to add fuel to the fire.   Dmaestro succumbs under this pressure by waving the white flag!"
+    },
+    "url": "https://gameknot.com/annotation.pl/under-pressure-pt-2?gm=22742",
+    "gameName": "Under Pressure Pt.2",
+    "players": "jstevens1 (1772) vs. dmaestro (1411)",
+    "opening": "English opening (A16)"
+}

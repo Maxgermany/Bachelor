@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 d5": "The Marshal.  I don't like this for Black because his knight gets chased. \n",
+        "3. cxd5 Nxd5": "\n",
+        "4. e4": "My favorite move here, but the computer prefers Nf3. \n",
+        "4... Nf6 5. Bd3 e6 6. Nf3": "More prudent would have been 6. Nc3 in case of c5 then 7. d5\n",
+        "6... Be7 7. O-O O-O 8. Nc3 Nc6 9. e5": "I like gaining space. \n",
+        "9... Nd5": "Now the computer move is ... 10. a3.  I hardly see why it is necessary.",
+        "10. Qe2": "\n",
+        "10... h6": "Putting the pawn here invites white to play Bxh6, which it turns out is the strongest line.\n\nThe computer likes 11. Bxh6 gxh6 12. Qe4 f5 13. exf6 Rxf6 14. Qh7+\nKf8 15. Ne5 (Threatening Qh8#) Nxe5 16. dxe5 Rf4 17. Bg6 (forcing mate) Bb4 18. Qh8+ Ke7 19. Qg7+ \n",
+        "11. Re1 Bb4": "Now the computer prefers 12. Bc2 f5 13. exf6 Rxf6 14. Qd3 Rf5",
+        "12. Qe4": "Black can defend best with 12... f5 13. exf6 Nxf6 14. Qh4 Nd5 15. Qg4 or Qg3.",
+        "12... g6": "A mistake. \n\n",
+        "13. Bxh6": "Here 13... Be7 would hang on a bit longer.",
+        "13... Nxc3": "\n",
+        "14. bxc3 Bxc3": "I care not what the bishop threatens. \n",
+        "15. Bg5": "Best resistance is 15... f5 16.  exf6 Qe8 17. Rab1 Bxe1 18. Rxe1 Bd7 19. Nh4 ...\n\nThreatening Nxg6 and Ne7+.  Also possible is a rook lift.  Black will have to give up material to slow the attack.  White is winning.\n",
+        "15... Ne7": "Fails to do anything. \n",
+        "16. Qh4": "If 16... f6 17. Bxf6 Bd2 [Prevents Ng5] (17... c6 18.  Ng5 Rxf6 19. exf6 Kf8 20. Qh8+ Ng8 21. Qg7+ Ke8 22. Bxg6#) (17... Kf7 18. Bxe7 Qxe7 19. Bxg6+) (17... Rxf6 18. exf6 Nf5 19. Bxf5 exf5 (19... gxf5 20. Qg5+ Kf8 21. Qg7+ Ke8 22. Qg8+) 20. Qh6 Qf8 (20... Qxf6 21. Re8+) 21. Re8) 18. Qh8+ Kf7 19. Bxg6+ Nxg6 20. Qg7+ Ke8 21. Qxg6+ Kd7 22. Qg7+ Ke8 23. Bxd8 Rf7 24. Qg6 Kxd8 (24... Bb4 25. Ng5) 25. Qxf7 Bxe1 26. d5 exd5 27. Qf8+ Kd7 28. e6+ Kxe6 29. Rxe1+ Kd7 30. Qc5 [Or Nd4.] Kd8 31. Qe7#\n",
+        "16... Re8": "Allows a quick mate. \n",
+        "17. Bf6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/playing-on-chess-time-chesstime?gm=61373",
+    "gameName": "Playing on Chess Time, ChessTime",
+    "players": "john2001plus  vs. peter75 ",
+    "opening": "Queen's pawn game (A50)"
+}

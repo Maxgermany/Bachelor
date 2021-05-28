@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!  Here is another game from Beefyness's tourney which I lost.  I am calling this game an Expert Lesson because although my opponent's current rating is 1899, he had an optimum rating of 2076, therefore once an Expert, always an Expert!  This time I fell to a basic tactic, the skewer.  An inappropritate pawn push from me set it all up!",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4": "4. Ba4 - white prefers to decline exchanging on c6 like in the Beafyness game - it still puts pressure on my c6 knight though!",
+        "4... Nf6": "4.  ......... Nf6 - black puts pressure on e4 by playing the Morphy Defense.",
+        "5. O-O Be7 6. Re1 b5 7. Bb3": "7. Bb3 - black tries to get play on the queenside by driving back white's lsb.  These queenside pawns can become weak, however, as will be seen in this game.",
+        "7... d6 8. c3 O-O 9. h3 Na5": "9. ........ Na5 - tries to get rid of the bishop pin on f7 by either forcing an exchange or driving the lsb back to c2.",
+        "10. Bc2 c5": "10. ......... c5 - black has a lead in development here and an impressive looking pawn centre.  Ah!  Dave now shows me just how I should have played in my game with Coach Ion which started out as a Bishop's Opening, an Expert Lesson in Pawn Centres.  PLAY D4!!  This move CONTESTS black's impressive pawn wall BIG TIME!!",
+        "11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6": "13. ......... Nc6 - see how that pawn centre has fragmented.  If I take on d4 my d pawn will be left as an isolani.",
+        "14. Nb3 a5 15. Be3": "15. Be3 - and now, here is how to catch up with slow development as white in this opening!",
+        "15... a4 16. Nbd2": "16. Nbd2 - the queen knight is driven back but not for long!",
+        "16... Bd7 17. Rc1 Qb7 18. Qe2 Rfe8 19. Bd3 exd4 20. Nxd4 Nxd4 21. Bxd4": "21. Bxd4 - oops, I exchanged on d4 after all.  But this was a very popular exchange in the World Database, only slightly favourable to white.  There were still other options though so maybe I should have chosen another.",
+        "21... Rac8 22. b3 axb3 23. axb3": "23. axb3 - now the b5 pawn is left as an isolani.  It is also doubly attacked by white's lsb and the Wicked Witch of the West.",
+        "23... b4": "23.  ........ b4?? - the object of this move was to move my b pawn out of the way before exchanging both pairs of rooks and dominating the a file with Glenda as one of the defenders of that pawn would be displaced and that pawn would be lost.  This was Dave's suggestion in the chat in our next game which may well appear in the public gallery too!  Dave said \"I think my plan B would either be ...d5 to open up your black sq B.  The pawn on b5 doesn't need to move as it has enough protection for now.  You could also play ...Ra8 and attack down the a file either before or after the exchange of rooks.\"  This move now allows a nasty exchange winning skewer with 24. Ba6.",
+        "24. Ba6 Qb8 25. Bxc8 Rxc8 26. Rxc8+ Qxc8": "26. .......... Qxc8 - After the loss of the exchange I play on for a few more moves hoping to get a perpetual that did not materialise so I waved the white flag on move 32 after white blocked Glenda's spite check on c1.  What is the lesson here?  Do check and double check the effect a line opening move can have and if it does allow a tactic do make sure you can wriggle out of it, otherwise PRESS THE RESET BUTTON!\r\n\r\nCheers - Joanne",
+        "27. Ra1 Be6 28. Qb5 d5 29. Ra7 Bf8 30. Bxf6 gxf6 31. exd5 Qc1+ 32. Nf1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/an-expert-lesson-in-tactics?gm=20171",
+    "gameName": "An Expert Lesson in Tactics!",
+    "players": "dynamic_dv (1899) vs. jstevens1 (1744)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

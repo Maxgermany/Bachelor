@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nAs black I decided to try my hand with the Petrov, I last played it many years ago at Cambridge City Chess Club when I was about 19 years old and I vaguely remember that I managed a draw with it!  The Petrov comes from a double king pawn opening and then instead of the usual 2. ..... Nc6 I play Nf6 counter-attacking white's e4 pawn.",
+        "1... e5 2. Nf3 Nf6 3. Nxe5": "3. Nxe5 - the main line.",
+        "3... d6": "3. ...... d6 - I delay winning back the pawn with Nxe4 because of Qe2 setting up a discovery.  3. ...... d6 first drives back the knight.",
+        "4. Nf3 Nxe4": "4. ......... Nxe4 - now I recapture.",
+        "5. d3 Nf6 6. Bg5": "6. Bg5 - pin.",
+        "6... Be7 7. Be2 O-O": "7. ....... 0-0 after breaking the pin I now decide to tuck Henry away on the kingside.",
+        "8. O-O Nc6 9. Nc3 Re8": "9. ....... Re8 - my rook now moves to the e file and white's follows suite.",
+        "10. Re1 d5 11. d4 h6 12. Bh4 Ne4": "12. ...... Ne4 - this move triggers off an exchange of dsbs.",
+        "13. Bxe7 Rxe7 14. Bd3 Nxc3 15. bxc3": "15. bxc3 - this knight trade has disrupted white's queenside pawn structure but can I take advantage of it?",
+        "15... Bg4 16. h3": "16. h3?! - this move was identified as an innacuracy by gameknot:- Innacuracy:- +1.11 \u00bb 16. h3 Rxe1+ 17. Qxe1 Bxf3 18. gxf3 Qd7 19. Kg2 Re8 20. Qd2 Na5 21. Re1 Rxe1 22. Qxe1 Nc4 23. Qb1 Qc6 24. Bxc4 dxc4\r\nBest: +0.19 \u00bb 16. Rxe7 Qxe7 17. h3 Bh5 18. Rb1 Rb8 19. g4 Bg6 20. Bxg6 fxg6 21. Qd3 Qa3 22. Qxg6 Qxa2 23. Re1 Rf8",
+        "16... Rxe1+ 17. Qxe1 Bxf3 18. gxf3": "18. gxf3 - now the B for N trade has disrupted white's kingside pawn structure.",
+        "18... Qd7 19. Qf1 Re8": "19. ....... Re8 - now I centralise my last undeveloped piece. ",
+        "20. Qg2 Qd6 21. Kh1": "21. Kh1 - to make room for a rook to come to g1 and I will then have to pay attention as Old Matey will be eyeing up g7.",
+        "21... Qf6": "21. ...... Qf6 - Glenda is also keeping an eye on g7 and now she defends it.",
+        "22. Rg1 Nd8 23. f4 Ne6 24. Qg4": "24. Qg4? - this move loses the f4 pawn and indeed Gameknot identifies this move as a mistake. Mistake: +2.31 \u00bb 24. Qg4 Nxf4 25. Qf3 Re6 26. Qg3 b6 27. a4 g6 28. Rf1 Re8 29. Bb5 c6 30. Bxc6 Qxc6 31. Qxf4 Qxa4 32. Qxh6 Qxc2\r\nBest: +0.95 \u00bb 24. Qxd5 Nxf4 25. Qf3 c6 26. a4 Qd6 27. Bc4 b6 28. Qg4 g6 29. Qf5 Nd5 30. Qf3 a5 31. Qf5\r\n",
+        "24... Nxf4 25. Qd7 Qe6": "25. .....Qe6 - this move now forces a queen trade because if the Wicked Witch of the West moves off the c1-h3 diagonal and takes on c7 for example, Glenda will deal death on h3!",
+        "26. Qxe6 Rxe6 27. Rb1": "27. Rb1 - counter-attacking on the queenside by making use of the half-open b column.  Before dealing with this threat I decided to trade minor pieces in order to simplify further as I have a 1 pawn advantage and possibly more by gameknot's analysis!",
+        "27... Nxd3 28. cxd3 b6 29. a4": "29. a4 - an attempt to undermine and disrupt the queenside pawn formation.",
+        "29... Re2": "29. ....... Re2 - here is the Bone in the Throat or the Cat among the Pigeons, the pigeons being the white pawns on the queenside third rank - they will soon drop off.",
+        "30. Kg2 Rd2 31. a5 Rxd3 32. axb6 axb6": "32. ....... axb6 - after this my material advantage has now increased to that of two pawns.",
+        "33. Rb5 Rxc3 34. Rxd5 Kf8": "34. ....... Kf8 - Henry decided to come out and join the fray, my opponent decided to wave the white flag.  Gameknot gave the score as: +3.25 in my favour here.  So a good victory over Class B opposition.\r\n\r\n \r\n \r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/winning-with-the-petrov?gm=31165",
+    "gameName": "Winning with the Petrov",
+    "players": "dtdominates (1770) vs. jstevens1 (1802)",
+    "opening": "Petrov (C42), French attack"
+}

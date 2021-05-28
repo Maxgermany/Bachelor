@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "This game happened at round one of the 57th GK tournament, expert section. I entered the game with a sense of inferiority knowing the 400 points that separated our ratings.\nWhite made a superior play that was soon concretized with the win of a pawn. By the move 25, black was ready to resign : it seemed like a time-stop is going to happen when white only needs one time-unit to push his pawn and clearly set the outcome of the game. In order not to lose the initiative Black sacrificed a rook against an active bishop. Fortunately, the consequence was out of expectation : Black only hoped to survive, when he found himself winning the game !\n\n",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4": "f4 ?! I was really puzzled by this move. I judged it as too early. In consequence I delayed the castle and permitted myself to gain development, through b5, as White did.",
+        "8... b5 9. Bf3": "Threatening e5, in which case Nf6 will be obliged to move to d5, so to avoid the pawn and to cover the a8 -Rook. \nNd5 will be replied by Nd5 unless it is defended by Bb7.\nBut instead of Bb7, I accepted to close the center and let White push his pawn to e5.",
+        "9... d5 10. e5 Nfd7": "At this move one might try assess the position. Is White's advantage clear ? No, not true because as you will see, Blacks' queen-side activity will make things difficult for White to arrange a king-side attack using the available predominant pieces there.\nNote here that f5 is not good because of Nxe which also open diagonal for bishop. ",
+        "11. Be3 Nb6 12. Bf2": "Obviously, White favored Bf2 over b3 after the expected Nc4. Pushing b3 increases Black's queen side play (Be7=>b4 attacks Nc3) : it could be forced by Blacks if Nc4 was chosen, but instead of that, I chose to develop pieces.",
+        "12... Bd7": "Will be followed by Nc6 so to accomplish Black's development.",
+        "13. Re1 b4 14. Nce2": "Ne2 is reducing White's play.",
+        "14... Nc6 15. Nxc6 Bxc6 16. Nd4": "White has got rid of Ne2 problem. And here will come Black's error move. Instead of Bd7, bishop retreats to b7 allowing f5 which is now protected by Nd5.",
+        "16... Bb7": "(Bd7=).",
+        "17. f5": "f5! We do not forget that Black's queen is protecting Nb6 from Bf2. I had many choices here, all of theme were bad, but some were less worse than the others.",
+        "17... Bc5": "And that was Bc5 as I saw the possibility to relocate the king from its position. Note that 17..0-0 misses that. As for exf5, it greatly affects black's position : threat on e7 followed by BxNb6, threat on Nxg7, threat even on d5 since the Nb6 is threatened by Bf2 and hence both Bf3 and Qd1 will find it easy to win d5.\nSo, instead, Bc5 annihilates the Bf2 attack, relocates Kg1, gains time that can be use for a castle, and forces white to open the f file if he wants to gain the pawn which then will be used for the Black's rook.",
+        "18. fxe6 fxe6 19. Nxe6 Bxf2+": "Now the king loses his position and is obliged to move to the f-file.",
+        "20. Kxf2 Qe7": "Trying to force the Knight to leave the tactical e6-position.Fortunately d5 is protected for Bf3 and Qd1 by the Bb7 and Nb6.",
+        "21. Nd4": "if white tried to play Bg4, then I was preparing to play Bc8.",
+        "21... Qh4+": "Now, black is enjoying initiative. but how long will it take ? Obviously White should be able to rebuff all attacks and in few moves regain the initiative, after which advancing the e-pawn will set the game to a clear win.",
+        "22. Kg1 O-O 23. g3": "Now White is commencing to take the initiative.",
+        "23... Qh6 24. Qe2": "Here I believe White is preparing Qe3. Black is in a losing position.",
+        "24... a5": "In hope to make use of that in any possible attack.",
+        "25. Qg2": "Eventhough I was expecting Qe3 which limitates the queen, this move was strong as well : it will be followed by Nb6 now that the knight is freeto leave d5 and that black can't aadvance d because his biship is under attack. It seemed to me that the clock has stopped and is preparing to move in the opposite direction. To survive i needed to regain initiative : give the time clock a new push even at the expense of material balance. Thus came the idea of assassinating the bishop f3 with the rook.",
+        "25... Rxf3 26. Qxf3 Nc4": "Better than the obvious Rf8. One should coordinate pieces.",
+        "27. Nf5": "I was expecting Qf4.",
+        "27... Qb6+ 28. Ne3 Rf8": "Now comes the rook.",
+        "29. Qe2 Nxe5": "And White resigned. The position is very very difficult for White : threats from all sides.  However I was waiting for White to try continue with Rf1. \n30. Rf1 Rxf1 31.Rxf1 (31.Kxf1 Ba6 -+)  d4 32.Ng2 (just a natural choice here) d3 33.Qf2 Nf3+ 34.Kh1 Then I will be forced to exchange the queens and hence bring the rook to leave the 1-rank thus allowing the d3 pawn to threaten when it advances. Also the white's knight can be pinned and won since the Nf3 can move to e1. But it is not clear to me : in my opinion and by means of this line that was based on the natural choices White could have drawn. I sent a message to my opponent but he didn't reply. May be White could have seen other lines that I would have been ready to choose instead of this ? Like for example choose to play Ba6 in the 31st move. But I do'nt care ! I should give salute to my Rf8 martyr :)"
+    },
+    "url": "https://gameknot.com/annotation.pl/pulling-a-miracle-out-of-a-lost-game-sacrifice-of-a-rook-against-an-active-bishop?gm=23784",
+    "gameName": "Pulling a miracle out of a lost game : Sacrifice of a Rook against an active Bishop",
+    "players": "heaterhog (1793) vs. potatosoftware (1624)",
+    "opening": "Sicilian (B92), Najdorf, Opovcensky variation"
+}

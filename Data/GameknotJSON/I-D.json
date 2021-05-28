@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "This game is more than 40 years old. It shows me (at the black side) in a international cc match Germany-Italy  juniors (under 25years). enjoy",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5": "the Traxler Variation in the Two Night Defense.\nHighly complicated and sharp",
+        "5. Bxf7+": "White avoid 5.Nxf7 Bxf2+ 6.Kf1 Qe7 7.Nxf8, which is deep analyzed and ended very offen in perpetual check",
+        "5... Ke7 6. Bd5 d6": "new idea, allow the white knight again to jump to f7",
+        "7. h3": "good or bad ??!  Better is c3 or d4 for developing.",
+        "7... Qf8": "!! an idea of the slav grandmaster Krc",
+        "8. O-O Bd7 9. c3 Re8 10. d4": "a better way for white is 10.Bxc6 Bxc6 11.d3 h6 12.Nf3 g5 13.Be3 =",
+        "10... exd4 11. Bxc6 Bxc6 12. cxd4 Bb6 13. Nc3 h6 14. e5": "not good - 14.d5 Bd7 Kf3 Kd8 and black has enough compensation for the pawn.",
+        "14... hxg5 15. Bxg5 Kd8 16. Re1 dxe5": "double edge move , but the Bb6 needs a free diagonal.",
+        "17. dxe5+ Kc8 18. exf6 gxf6": "!! black looses a second pawn, but white kingside is wide open.",
+        "19. Rxe8+ Qxe8 20. Bxf6 Rg8 21. Nd5": "blunder but what else can white play - g4 !?",
+        "21... Qe4": "follewed by a black blunder, too - Kb8 wins simple\n",
+        "22. Ne7+ Kb8 23. Nxc6+ Qxc6 24. Qd8+": "??? white blackout .  Bg5!! followed by h4 is the plan, f.e.  Qb5 25.Bc1 a5!",
+        "24... Rxd8 25. Bxd8 Qc2 26. Bh4 Qxb2 27. Re1 c5": "game over - at the end a lucky punch."
+    },
+    "url": "https://gameknot.com/annotation.pl/i-d?gm=51108",
+    "gameName": "I-D",
+    "players": "Mauro  vs. Beton51 ",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 h5 5. Be2 g6 6. Nf3 e6 7. Bg5": "por raro que parezca esta es la \u00faltima posici\u00f3n en mi base de datos ... esta vez fue Tommy el que sali\u00f3 de la teor\u00eda",
+        "7... Qb6 8. Na4 Qa5+ 9. c3 Bg4 10. b4 Qc7 11. Nh4": "por la estructura de peones el alfil blanco de las negras es un pe\u00f3n gordo en este momento, mi caballo en cambio si es valioso ...",
+        "11... Bxe2 12. Qxe2 Nd7 13. Qd3": "torre, caballo y alfil del flanco rey todav\u00eda guardados ... eso tiene que pagarse en alg\u00fan lado, como en g6 ...",
+        "13... Nb6 14. Nc5 Ne7": "si 14... Axc5, 15.bxc5 Cc4, 16.0-0 y la columna b queda para las blancas ... es notable el retraso en desarrollo de las negras",
+        "15. a4 Rg8": "no la entend\u00ed ... tal vez, 15... Ah6",
+        "16. a5 Nc4 17. a6 b6 18. Nb7": "esto ya debe ser ventaja decisiva para las blancas ...",
+        "18... Nf5 19. Nf3 c5 20. bxc5 bxc5 21. O-O": "es como si las blancas jugaran con dos piezas de m\u00e1s ... la columna b es una autopista para las torres",
+        "21... Nb6 22. h3 c4 23. Qb1 Be7 24. g4 hxg4 25. hxg4 Bxg5 26. Nxg5 Nh6": "momento de decidir hacia donde arrinconar al rey, obvio eleg\u00ed la columna b abierta para mis torres",
+        "27. Nh7": "si ya s\u00e9 .. no es muy fino que digamos",
+        "27... Rh8 28. Qb5+ Ke7 29. Qb4+ Kd7 30. Nf6+ Kc8 31. Nd6+ Kd8 32. Kg2": "buscando la columna h para mi torre",
+        "32... Nd7 33. Nb7+ Kc8 34. Qe7 Nb6": "no encontr\u00e9 mate alguno ...",
+        "35. Qb4 Nd7 36. g5 Nxf6 37. gxh6 Ne4 38. Ra2": "para evitar que el caballo negro llegue a b3",
+        "38... Rb8 39. f3 Ng5 40. Rb2 Kd7 41. Rfb1 Rbc8 42. Qa4+ Qc6 43. Nc5+ Kd8 44. Qxc6 Rxc6 45. Rb2b8+ Rc8 46. Rb1b7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/mayor-2013?gm=52136",
+    "gameName": "Mayor 2013",
+    "players": "Robles, Carlos  vs. Olmedo, Tom\u00e1s ",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

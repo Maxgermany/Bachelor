@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "I saved this game because it was an experimental game that worked, 5.b4 was the first time I ever implemented a successful gambit on the spur of the moment and linked it together to win this blitz game in under 60 seconds.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 h6": "this move seemed a bit peculiar to me as it was preempting my dark-squared bishop from sitting at g5 w/o even knowing if I had planned to fianchetto it to b2. Plus it neglected development of the pieces.",
+        "4. Nc3 Nge7": "Poor move, IMO, as it blocks in the bishop & queen prolonging development & castling.\r\n\r\n[editor's note: Black's 3rd & 4th move order may have been switched, but I'm certain the rest is accurate as it's pretty much forced.]",
+        "5. b4": "Noticing a familiar setup and lack of developed pieces, I offer the pawn to draw the knight away from protecting e5, with a certain surprise awaiting.",
+        "5... Nxb4": "He takes!",
+        "6. Bxf7+": "Combined with a sacrafice I learned from the Jerome Gambit,(1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7  Kxf7 5.Nxe5 ), except now there's no pesky knight covering the e5 pawn!",
+        "6... Kxf7 7. Nxe5+ Ke8": "7...Ke8?  7...kg8 would have held out longer",
+        "8. Qh5+ g6 9. Nxg6 Nxc2+ 10. Kf1": "I moved away from the knight in hopes of sacraficing the inactive rook for another critical tempo.",
+        "10... Nxg6": "mate in 2...",
+        "11. Qxg6+ Ke7": "stalemated king",
+        "12. Nd5#": "##Mate"
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-brain-on-gk?gm=614",
+    "gameName": "Blitz brain on GK",
+    "players": "csxrook (1409) vs. bru39 (1392)",
+    "opening": "King's pawn game (C50)"
+}

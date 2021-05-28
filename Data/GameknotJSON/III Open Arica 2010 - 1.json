@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Nxd4": "Personalmente considero m\u00e1s activa para el negro la continuaci\u00f3n 5.-Ae3-Df6/6.- c3-Ce7/7.-Cc2-Axe3\u2026 etc",
+        "6. Bxd4 Bxd4 7. Qxd4 Qf6 8. e5": "e5 es quiz\u00e1 la mejor respuesta que tiene el blanco ya que de otro modo se cambien las damas o no, el blanco ayuda en el desarrollo del bando  enemigo. Por otro lado para las negras tambi\u00e9n era interesante la continuaci\u00f3n Db6 a lo cual las blancas hubiesen contestado Dxb6 para luego jugar en contra de la estructura negra en el flanco de dama",
+        "8... Qc6 9. Nc3 Ne7 10. O-O-O O-O 11. f4 a6": "Este es otro motivo por el cual era mejor que las negras intentasen cambiar las damas en b6 ya que el ataque negro es bastante lento comparado con el de las blancas, las cuales llegaran por el flanco de rey muy r\u00e1pidamente",
+        "12. Rg1 d6": "interesante continuaci\u00f3n que le permite un r\u00e1pido desarrollo a las negras, sin embargo las blancas deben persistir con su ataque en el flanco de rey",
+        "13. exd6 Nf5 14. Qf2 Nxd6 15. Bd3 Bf5": "Con Af5 las negras perder\u00e1n un tiempo valioso, quiz\u00e1 era mejor intentar reaccionar con b5, si las blancas respondiesen con g4 a mi parecer es interesante para las negras jugar f5 que a primera vista es arriesgado sin embargo opino que es bastante sostenible la posici\u00f3n para las negras",
+        "16. Bxf5 Nxf5 17. g4 Nd6 18. f5 Rfe8": "Dada las circunstancias las negras debieron disminuir la presi\u00f3n simplificando con Ce4, con el cambio las blancas pueden intentar jugar posteriormente f6, a lo cual las negras responder\u00edan probablemente g6 y llegar a una posici\u00f3n m\u00e1s estable de la que se llegar\u00e1 posteriormente",
+        "19. f6 g6": "Aun era tiempo de jugar Ce4 ya que con la actual respuesta de las negras dan comienzo a un fuerte ataque por parte de las blancas, la continuaci\u00f3n que yo esperaba era 19.-f6-Ce4/20.-Cxe4-Txe4/21.-fxg7-Tae8  y las negras amenazan ingresar en la segunda fila con fuerte ataque, y las blancas ya no tienen tan f\u00e1cil el acceso al flanco rey negro ya que se defiende con por ejemplo con T8e7 o Dg6 dependiendo de la ocaci\u00f3n",
+        "20. Nd5 Ne4": "ya es tarde,  debido a que las blancas tiene una inminente amenaza con Ce7+",
+        "21. Qh4 Kh8": "Considero m\u00e1s precisa Dc5, por ejemplo  21.-Dh4-Dc5/22.-Ce7+-Rh8   y las blancas deben tener cuidado ya que las negras est\u00e1n cambiando Damas con Dg5+, adem\u00e1s en ese caso las blancas no disponen de Td5 ya que perder\u00edan la partida con Dxg1. Por lo tanto en esa posici\u00f3n una mejor continuaci\u00f3n podr\u00eda haber sido, 21.-Dh4-Dc5/22.-Ce7+-Rh8/23.-g4-Txe7/24.-fxe7-Cd6",
+        "22. Rd3": "y aqu\u00ed mi oponente perdi\u00f3 por tiempo"
+    },
+    "url": "https://gameknot.com/annotation.pl/iii-open-arica-2010?gm=29383",
+    "gameName": "III Open Arica 2010",
+    "players": "Sanhueza, Felipe  vs. Samuel, Baltazar ",
+    "opening": "Scotch (C45), Blackburne attack"
+}

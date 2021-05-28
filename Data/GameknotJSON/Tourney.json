@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Here is one of my best games playing as black. I feel I executed very well this game. Feel free to comment. ",
+        "1... c6": "Not how I normally counter against e4. But I have been doing a little research on chess openings, and want to try some different things. ",
+        "2. d4 d5": "Text book Caro-Kann defence. ",
+        "3. e5 e6": "This was not a strong move for me. Bf5 would have been better. ",
+        "4. Nc3 Ne7 5. Nf3 Nf5 6. g3 h6 7. Bg2 Qc7 8. Qd3 Be7 9. Bd2 c5 10. O-O-O c4": "Beginning to push my pawns against the O-O-O. ",
+        "11. Qe2 a5 12. Rhe1 Nc6 13. Nb5 Qb6 14. a4 Bd7 15. Bc3 Nb4 16. Na3": "I feel very confident at this point. Na3 was not a good move. Bb4 capturing my Knight would have been the best move. ",
+        "16... Na2+ 17. Kd2": "That pesky Bishop on c3 is going to be my biggest problem right now. ",
+        "17... Bb4": "Hoping he takes my bishop trade . If he does the game is over. ",
+        "18. Bxb4": "And I smile when I see this I knew that I had the win. ",
+        "18... Qxb4+ 19. c3 Qxb2+ 20. Nc2 Qxc3#": "Probably one of my best games to date. "
+    },
+    "url": "https://gameknot.com/annotation.pl/tourney?gm=18919",
+    "gameName": "Tourney",
+    "players": "Private (1348) vs. rtaylor7796 (1313)",
+    "opening": "Caro-Kann (B12), advance variation"
+}

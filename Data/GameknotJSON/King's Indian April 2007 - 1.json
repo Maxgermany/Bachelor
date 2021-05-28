@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4": "This is an interesting game from the big mini-tournament \"King's Indian Defense, Four-pawn-variant\". White starts a strong attack on the black king, gets somewhat stuck in the process and eventually wins the endgame.",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4": "This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.",
+        "5... O-O 6. Nf3 Na6": "Alternatives: 6...c5 (makes the position somewhat \"Benoni-ish\"), 6...Bg4, 6...Nbd7, 6...c6",
+        "7. Be2 e5 8. fxe5": "Allows the center advance of the d-pawn.",
+        "8... dxe5 9. d5 Nc5": "Aims at the e4-pawn.",
+        "10. Bg5 Qd6 11. Nd2": "Covers the pawn e4 and opens the f-file.",
+        "11... c6": "Attacks the white center.",
+        "12. O-O a6": "This is a mistake. Although white's position is already quite offensive, the next move gives the start to an avalanche. 12...a5 would have prevented this and claimed more territory on the queen side.",
+        "13. b4 Ncxe4": "Maybe the best of the possible moves in this difficult situation. Black gives a piece for two pawns. But the white attack is still about to start. \r\nAlternative is 13...Ncd7 which blocks the c8-bishop and gives way to the pawn attack c5-d6 which would constrict black's position considerably.",
+        "14. Ncxe4 Nxe4 15. Nxe4 Qxb4 16. Nf6+": "What to happen next? 16...Bxf6 17.Bxf6 looks bad and 16...Kh8 is the only move!",
+        "16... Kh8": "What is the best way to rip open the king's castle??",
+        "17. d6": "This establishes another threat to the black camp: the advancing pawn aims at the square d8 which is controlled by the queen on d1 and the bishop on g5.",
+        "17... Qc5+ 18. Kh1 Be6": "The bishop has to get out before being suffocated by the pawn on d7.",
+        "19. Ne4 Qd4 20. Qxd4": "?! Takes an attacking piece away. Maybe 20.Qd2 was more precise.",
+        "20... exd4 21. Bf6": "This eliminates the black bishop on g7 but also relieves black from the pressure on d8.",
+        "21... Bxf6 22. Nxf6 Rfd8": "At once, the rook goes to the square that was covered by the bishop before.",
+        "23. c5": "Strengthens the pawn on d6 but can be attacked from the side by pawn b6.",
+        "23... Kg7": "! The king fixes the f1-rook to the knight.",
+        "24. Bg4 Bc4 25. Rf2 Rab8 26. a4 b6": "Attacks the white \"support-pawn\" but white's next move is strong.",
+        "27. Nd7": "! The only move.",
+        "27... bxc5": "?! Giving up the rook might be the beginning of the end.",
+        "28. Nxb8 Rxb8 29. Rc2": "The aim of white is now to convert this postion into a won endgame.",
+        "29... Be6 30. Bxe6 fxe6 31. Rxc5 Rd8 32. Rxc6 e5": "The two free black pawns have to be observed.",
+        "33. Re1 Kf6 34. d7+ Kf5 35. Rc5 Rxd7 36. Rexe5+ Kf4 37. Rcd5 Rxd5 38. Rxd5 Ke3 39. Kg1 d3 40. Kf1 d2 41. g4 g5 42. h3 a5 43. Rd7": "And now the white rook moves back and forth on the d-file and creates the winning tempo for white.",
+        "43... h6": "...and black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-indian-april-2007?gm=9005",
+    "gameName": "King's Indian April 2007",
+    "players": "brulla (1617) vs. remete (1492)",
+    "opening": "King's Indian (E76), Four pawns attack, dynamic line"
+}

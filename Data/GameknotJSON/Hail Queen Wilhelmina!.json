@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "My bog-standard first move. I don't consider myself experienced enough to start messing about with any other variations yet!",
+        "1... c5 2. Nf3": "Developing knight and attacking e5.",
+        "2... d6": "Defending c5 and stopping knight advancing to e5.",
+        "3. d4": "Defended by knight and attacking c5.",
+        "3... cxd4": "Who's to argue with these opening moves, refined over hundreds of years.",
+        "4. Nxd4 Nf6": "Attacking as yet undefended e4 pawn.",
+        "5. Nc3": "Defending e4 pawn.",
+        "5... e6 6. Be3 a6 7. f3 b5 8. Qd2 Bb7 9. g4 h6 10. O-O-O Qa5": "No more helpful hints from the Game DB. Now I have to start thinking. a2 is protected by knight. Black is probably looking to advance b pawn to try and open up the king's defence. Black is massively aggressive as I have found to my previous detriment, and is demonstrated by the early attack of queen before all minor pieces are developed. B4 is a key square defensively for white. Bishop to take b5 could have some merit, but opens up the a file for black. Black is yet to castle. Force queen to retreat with knight to b3. Still room for play in the centre and king side.",
+        "11. Nb3 Qc7": "Queen retreats as she must. b pawn advance is still quite attractive to black. Knight on c3 not very effective. Knight to e1 then to f4 appears to leave queen side relatively well defended. Black will be looking to castle and then to open up the centre with d pawn advance possibly.",
+        "12. Ne2": "Knight had no play queen side. Now looking for a forward home - f5 perhaps?",
+        "12... Nc6": "Black knight has free reign to move king side to e5 threatening an advance position on c4. Knight can also move on queen side, and has also protected the advance of black's b pawn. d4 is well protected by white. Knight moving here will free up bishop and allow rooks to become connected. c2 is also a possibility, stopping any direct use of the knight.",
+        "13. Ng3 d5": "This advance opens the way for black's bishop on f8 to attack b4 along with black's knight on c6. b4 isonly defended by white's queen, so must defend with a2-a3.",
+        "14. a3": "Pawn advance to stop attack from queen by bishop, and probably more importantly, stopping further pawn and knight advance to b4. White is clearly reacting without a great game plan yet!",
+        "14... dxe4": "Black opens up the d file looking to attack queen with rook. White's pawn on f3 is undefended, and is the only defence for g4 which black is attacking with knight on f6. Priority for white here is a solid defence.",
+        "15. fxe4": "White sacrifices g4 pawn after being unable to support g4 adequately earlier in the game [with bishop to e2 or pawn to h3 for example].",
+        "15... Rd8": "Black attacks queen. What's the plan here for black?",
+        "16. Qe1": "White queen retreats in a majestic show of defiance........not.",
+        "16... Nxg4": "Black knight is undefended, and is looking to capture bishop on e3 as it is only protected by queen [thus 17...d8xd1 18. e1xd1 g4xe3]. White needs to increase that defence or to get bishop out of there.",
+        "17. Bg1 Rxd1+ 18. Qxd1 Nce5 19. h3 Nf6 20. Qd4 Bd6 21. Be2": "Ouch! Blunder from white. White's watching the advance of the knight on e5. What white isn't watching is ensuring the defence of individual pieces like the knight on g3. This knight is protecting the rook from the bishop, but it itself has no protection. Black is looking to remove this knight leaving the rook exposed. White should have provided more defence for the knight on g3.",
+        "21... Ned7": "Zap! Instead of advancing the knight as suspected by white, black skillfully clears the way for its double attack on the knight on g3.",
+        "22. Nh5": "Another blunder! White has fallen apart! White duly implements black's plan, and removes the key knight which was protecting both rook AND (more crucially) the e4 pawn.",
+        "22... Bxe4": "Pow! It's effectively all over. Black has more attackers on the e4 square than white has defenders. White's rook is dead. Any movement here leads to mate with the black bishop and the queen bearing down on white's king."
+    },
+    "url": "https://gameknot.com/annotation.pl/hail-queen-wilhelmina?gm=145",
+    "gameName": "Hail Queen Wilhelmina!",
+    "players": "ladytron (1649) vs. aerial (1885)",
+    "opening": "Sicilian (B80), Scheveningen, English variation"
+}

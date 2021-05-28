@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5": "The Rickter-Razer Attack, I have been playing it for 40 years.  Maybe it's time to try something different.  I have been considering playing Be2 against most Sicilian variations and castling kingside.",
+        "6... e6 7. Qd2 a6 8. O-O-O h6 9. Be3 Nxd4 10. Bxd4 b5 11. f4": "I have been playing this line for a long time.  I checked the data base at chesslab.com and noticed that there were no grandmaster games with 11 f4 since the year 2000.  11 f3 is generally played.  The modern trend seems to be the English Attack against everything.  Still MCO 15 devotes 2 columns to 11 f4 so it should be viable.",
+        "11... Be7 12. Be2 Bb7 13. Bf3 b4 14. Bxf6 Bxf6 15. Ne2 Be7": "This caught me by surprise since it leaves the b4-pawn en prise.  I expected ...Qa5.",
+        "16. Qxb4": "I decided to take the pawn.  I did see that ...d5 would give Black a discovered attack on the Queen but I have Qa4 .   Naturally Fritz approves of this capture and gives White an edge.",
+        "16... Qd7": "Now I no longer have Qa4 .  I became concerned about ...d5.",
+        "17. Qd4": "?! With this overly cautious move White loses his advantage.  Either g4 or h4 would have maintained White's edge.",
+        "17... O-O 18. Nc3": "Fritz likes 18 Rd2 here followed by Rhd1.",
+        "18... Bc6 19. Rd3 Rab8 20. Re1": "I can't remember my reasoning on this move.  Rhd1 seems better.   Possibly, I was trying to make a zig-zag path for the king to the kingside when Black's attack came.",
+        "20... a5 21. Nd1 Rb4": "Good move by Black.   The attack on the Queen gives Black the tempo he needs for his attack.",
+        "22. Qf2 Qc7 23. Rb3": "Somehow, I thought this move would get me out of trouble.  This is not the way to play with opposite side castling I should have played 23 g4 instead.  ",
+        "23... Rxb3 24. axb3 a4": "Black seems to have a clear advantage now.",
+        "25. bxa4 Bxa4 26. Nc3 Bd7 27. Kd2": "My plan was to run the king over to the safety of the kingside.  the plan has a flaw.",
+        "27... Rb8 28. Rb1 d5": "Opens things up for Black's dark-squared bishop.  Now that the bishop has c5, there is no safety on the kingside since if the king goes to b1 he will be on the same diagonal as the queen.  Black's bishops can take the g1-a7 and f1-a6 diagonals and rake White's kingside.",
+        "29. e5 Bc5 30. Qf1": "The king now has no way to make it to the kingside.  I had not moved my g and h pawns because I had hoped to get my king to the kingside.   Black now seems to have a won game.  ",
+        "30... Qb6 31. Nd1": "Not a good move, but even after the relatively better 21 Ke2 White is in trouble.",
+        "31... Qb4+ 32. Kc1": "c3 offered more resistance.",
+        "32... Qxf4+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/winter-slam-http-gameknot-com?gm=21994",
+    "gameName": "Winter Slam, http://gameknot.com/",
+    "players": "blake78613 (1830) vs. dilly (2019)",
+    "opening": "Sicilian (B67), Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"
+}

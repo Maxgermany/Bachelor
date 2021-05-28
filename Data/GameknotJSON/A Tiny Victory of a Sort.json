@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5": "Team match game, I'm playing black, and instead of going for the true blue Sicilian, I decide to go for the open game and see what transpires.",
+        "2. Nf3 Nc6 3. Bb5 a6": "Ruy Lopez, I play the Morphy Defense.",
+        "4. Ba4 Nf6 5. O-O Be7": "The Closed Defense. Truthfully, I don't even know why I played this move, other than my opening library likes it, and so does the GK DB. Me, I like to be more aggressive. I maybe should consider moving farther into the center, say with 5. ... Bc5 or maybe going with 5. ... b5.",
+        "6. Re1 b5 7. Bb3 d6": "All by the book, but now I'm regretting, at least a little, the limited mobility of my bishop on e7.",
+        "8. c3 O-O 9. h3 Na5 10. Bc2 c5": "Still by the book, and my bishop on e7 has zero  moves, but at least the same is true for the white bishop on c1. My pawns are advanced, which seems like it should impart mobility to my pieces, and I'm ostensibly ahead in development, though I don't know if I should count my paralyzed bishop on e7, and my knight on the edge at a5 is fairly limited too. What I don't like is my backward pawn at d6, or the hole in my formation at d5.",
+        "11. d4 Qc7 12. Nbd2 Bd7": "I'm not sure why I played 12. ... Bd7. Unlike my 5th move 5. ... Be7 which was in my Ruy Lopez reference, even though the reasoning behind it eludes me somewhat, this 12th move deviates from my opening repertoire, I have no reference that suggests this move (Nc6, Rd8, and cxd4 were all suggested), and it doesn't seem to be accomplishing much. I played the move nearly a month ago and don't, now, recall why. Maybe all I wanted to do was break out of prepared, memorized opening moves.",
+        "13. Nf1 cxd4": "Following with what I should have played on 12.",
+        "14. cxd4 Rac8": "Hunting the bishop on c2.",
+        "15. Re2 Rfe8 16. Ng3 Nc6": "Still hunting the bishop on c2. Exchanges on d4 can weaken that bishop's defense, though the attack is weak because it leads with the queen (not the piece you want going first into an exchange sequence).",
+        "17. Be3 Nb4": "I seem to really want that bishop!",
+        "18. Bb3 h6": "Ah, sigh, it fled to safety, so time to plug a potential hole in my defense. I see two white knights and two bishops aiming at my kingside. Might as well keep those knights at a distance.",
+        "19. a3 Nc6 20. Rc1 Qb7": "The threat was 21. d5 winning the pinned knight at c6.",
+        "21. Rec2 Na5 22. Rc2xc8 Rxc8": "Bye bye rooks.",
+        "23. Rxc8+ Bxc8 24. dxe5 dxe5": "More exchanges.",
+        "25. Nxe5 Nxb3 26. Qxb3 Bd6": "I could not have played 26. ... Nxe4 to equalize material, for then white would play 27. Qxf7  and I would be undone: 27. ... Kh8, 28. Ng6  Kh7, 29. Nxe7 and now I'm down a bishop and pawn, and facing 30. Qg8#.",
+        "27. Bd4 Bxe5": "Neutralizing threats.",
+        "28. Bxe5 Nxe4": "And now the material is equalized.",
+        "29. Qc2 Nxg3": "Starting to feel the stirrings of a draw coming on here. I'm thinking that if white wants to keep his centrally located bishop, he might recapture with 30. fxg3, damaging his pawn structure a little. If he does, I may fight on a bit to see if I can exploit it.",
+        "30. Bxg3 Be6": "But he didn't.",
+        "31. Qc3 Qd7": "At this point, I offered my opponent a draw. Identical pawn structure, no passed or half-passed pawns, and opposite-colored bishops. Neither side has any exploitable weakness, and our queens are going to have too much defensive scope for our opponent to snatch up a pawn. My opponent accepted. I guess this was good for me, as he was rated 62 points higher than I am, so it's a tiny victory, of a sort."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-tiny-victory-of-a-sort?gm=21833",
+    "gameName": "A Tiny Victory of a Sort",
+    "players": "white_knight_03 (1499) vs. blake84120 (1504)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

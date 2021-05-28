@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Qf6": "2. .......... Qf6 - the Greco Defence - slammed as a dodgy defence because it prevents the king knight from coming to f3 and the queen could be a target.  However, this opening has more to it than meets the eye!",
+        "3. Nc3 c6 4. d4 exd4 5. Bg5 Qd6": "5. ........... Qd6 - the last few moves have been the standard way for white to meet this type of opening, to develop normally with 3. Nc3 and to challenge the centre with 4. d4 which temporarily gives up a pawn.  White will soon get it back as you will see.",
+        "6. Qxd4 Qxd4 7. Nxd4 h6 8. Be3": "8. Be3 - the queens have been exchanged and although the white dsb has been driven back to e3 white has a lead in development.",
+        "8... Bb4 9. Bd2": "9. Bd2 - breaks pin avoiding doubletons and isolanis on the queenside.",
+        "9... Bxc3 10. Bxc3 f6 11. O-O-O": "11. 0-0-0 - after another piece exchange white castles queenside.  The queen rook is developed, controls the half-open d file and this increases white's lead in development.",
+        "11... Ne7 12. Bc4": "12. Bc4 - the lsb comes out and connects the rooks.",
+        "12... d5 13. exd5 Nxd5 14. Bxd5 cxd5 15. Nb5": "15. Nb5 - the black d pawn is isolated and hanging and is about to drop off.",
+        "15... Na6": "15. ........ Na6 - guards against threatened knight fork on c7 but black now loses a pawn.",
+        "16. Rxd5 O-O 17. Re1": "17. Re1 - black castles but I bag the open e file with my rook first.",
+        "17... b6 18. Rdd1": "18. Rdd1 moves rook out of a Bb7 skewie.",
+        "18... Bb7 19. g3 Bc6 20. Nd4 Bd5": "20. Bd5 - attacking my a pawn.  The a pawn cannot be taken at the moment because the bishop could become snared by b3.",
+        "21. Ne6 Bxe6 22. Rxe6 Rfe8 23. Rxe8+ Rxe8 24. Re1": "24. Re1 - my aggressive 21. Ne6 triggered off a plethora of exchanges and I now challenge the e file as the rook is backed up on e1 by my dsb.",
+        "24... Kf7 25. Rxe8 Kxe8": "25. .............. Kxe8 - black, deciding to bring his king closer to the centre, chooses to move it to f7.  This allows me to simplify further by exchanging the last pair of rooks.  But, the resulting B v Kt ending is not as simple as it looks.",
+        "26. Kd2 Kd7 27. Ke3 Ke6": "27. ............. Ke6 - the kings come in closer towards the centre.",
+        "28. f3 Nc5 29. Bd4 Nd7": "29. ........ Nd7 - avoids exchanging into a K & P ending.",
+        "30. Kd3 Kd6 31. c4 g6 32. b4 a6 33. a4": "33. a4 - planning on creating a passer with my queenside pawn majority.",
+        "33... f5 34. h3 h5 35. Ke3 g5 36. Kd3 a5 37. bxa5 bxa5": "37. .......... b x a5 - I have a passer but black has succeeded in breaking up my queenside pawns.  I do not like the kingside much either.  I am thinking about black having a possible pawn break sac which might lead to a passer on the kingside.  Fortunately this does not materialise.",
+        "38. Ke3 Ke6 39. Kd3 Kd6 40. Ke3 Nc5 41. Bxc5+ Kxc5": "41. ............ Kxc5 - black nearly pulls off a surprise win, but I did some serious analyse the board and carefully calculated the next few moves to ensure that this did not happen.",
+        "42. Kd3 Kb4 43. Kd4 Kxa4 44. c5": "44. c5 - material is even but the c pawn will crown first.",
+        "44... Kb5 45. Kd5": "45. Kd5 - the next few moves are quite instructive into how to shepherd your passer to the queening square.",
+        "45... Ka6 46. c6 Kb6 47. Kd6 a4 48. c7 a3": "48. .......... a3 - the c pawn crowns next move.  Black threw in the sponge before he allowed this to happen.  This was my first Team Match victory for the Sneaky Knight's Team and against my opponent after a draw and two losses against him."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match-jos-endgame-success-part-1?gm=15289",
+    "gameName": "Team match - Jo's Endgame Success - Part 1",
+    "players": "jstevens1 (1511) vs. chesscommander (1518)",
+    "opening": "Greco defence (C40)"
+}

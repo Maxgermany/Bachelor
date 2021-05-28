@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4": "The caro-kann is not so popular these days. Most modern player prefer to have a sharper defence like the Sicilan. ",
+        "2... d5 3. Nc3 dxe4 4. Nxe4 Nd7": "This is the Karpov varation, or smlyov varation. Black plays nd7 in order to play Nf6 without having to mess up the kingside pawns. It also prepares the eventually counterattacking ...d5 or ...e5. \r\n\r\nAlso this avoids the classical mainline which has traditionally give white a superior edge. The main line continues 4. ...Bf5 8. Ng3...Bg6 6. H4 h6 7. Nf3 Nf6\r\n\r\nThe positional basis of 7. ...Nf6 is that black tempts white into playing Ne5 and then after the retreat 8. ...Bh7 black tries to prove that the well placed Knight on e5 is a target. Traditional plans for black to undermine the e5 knight are c6-c5 or attacking it directly with moves like bd6, Nb-d7, and Qc7. \r\n\r\nThis follows the general chess principle that a peice does not control the square it is sitting on. So by going to e5 the knight has given up control of e5 and d4. ",
+        "5. Nf3": "A classical continuation by which white retains the option of exchanging on f6 or retreating to g3. One of whites strategical goals is to place a knight preminitely on e5. \r\n\r\n5. Ne2 Ngf6 6. Ng3 e6 is an interesting idea for white ( Romanishin vs. Petrosian USSR, 1979)",
+        "5... Ngf6 6. Nxf6+ exf6": "This is a bold move on my part but I recognized that white was not in the mood to fight. So I transposed into the Korchonoi system with fxe6, which in my experience is a very resourceful line. The main advantage of the Korchonoi system is that black achieves free and rapid development. As well, black has great chances of controlling the e file. Finally, Black has an extra pawn on the king-side. I like blacks pawn structure on the king-side because it can be very defensive. In order for white to break thrown Black's king-side pawns he must sacrifice a piece. ",
+        "7. Bd3 Bd6 8. Qe2+ Qe7": "Here Black gains more control of the e file with Qe7 as white dare not exchange the queens. Because after Bxe7 black will have greater control of the file and make the task of playing f5 easier. ",
+        "9. Be3 Nf8": "The idea of this knight move is to eventually create counter play on f5. It is risky but such manoeuvres can throw your opponent off a bit. More solid is g6 with the idea of playing f5. After black aims to play Nf6 to attack d4.",
+        "10. Nh4 Ng6 11. Nf5": "this is a good exchange for white as black need his peices. One of the main strategic motifs for white in the Korchonoi system is to symplify and go into the endgame as quickly as possible. ",
+        "11... Bxf5 12. Bxf5 Bf4": "This is a very acitve defence. Gaining more control of the e file. Sometimes the best defence is to counterattack.  \r\n\r\nif 13. Bxg3 then black has 13. ...Bxe3 14. Bxf7 kxf7 All of blacks problems have been solved. ",
+        "13. O-O O-O 14. Rae1 Rfe8 15. Qh5": "15. Qh5 pins the Knight on g6 because of the x-ray of the Bishop on f5.",
+        "15... Qc7": "Black can improve here with 15. ...Qd6 this is small waste of time. ",
+        "16. c3 Rad8": "White is clearly better positionally. His peice are more active than mine. As you can see I have a small problem of inactivity. ",
+        "17. Bd3": "This move avoids the pin on e4 by the rook.",
+        "17... Qd6 18. a3 a6": "restricts whites light colored bishop. ",
+        "19. b4 Bxe3 20. fxe3 a5": "this is an attempt to break into the queenside. ",
+        "21. Rf3 Qd5": "gains a greater control of the centre and space.",
+        "22. Bf5 axb4 23. axb4 Qb3 24. e4 Qc2": "Black has found life on the queenside. ",
+        "25. Rg3": "it is a draw. Black can try for a win by playing Ra8"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-elyhim?gm=8549",
+    "gameName": "Challenge from elyhim",
+    "players": "antinephilehi (2027) vs. elyhim (1791)",
+    "opening": "Caro-Kann (B17), Steinitz variation"
+}

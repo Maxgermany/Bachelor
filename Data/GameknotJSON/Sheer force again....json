@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 a6": "the right one this time...",
+        "6. Be3 e6": "Hungarian style Sicilian: we prepare Ne7, d5, and break up the center...",
+        "7. Qd2": "Bh6 is coming up...",
+        "7... Ne7 8. Be2 O-O 9. Bh6 d5": "a very convenient time, to introduce d5...",
+        "10. Bxg7 Kxg7": "this trade has lost its' force...",
+        "11. e5 b5": "Black has won the opening...",
+        "12. a3 Nbc6 13. f4": "too late, to close this Sicilian: Black is unleashed...",
+        "13... Nxd4 14. Qxd4 Nf5": "a convenient tempo...",
+        "15. Qd2 Qb6": "preventing castling short...",
+        "16. Nd1": "Nf2?",
+        "16... Bb7": "preparing d4...",
+        "17. Bf3": "White got the message...",
+        "17... Rfd8": "preparing d4...",
+        "18. Rf1 Rac8": "preparing Nd4, followed by taking c2...",
+        "19. g4": "only helping Black, to make the winning move...",
+        "19... Nd4 20. c3": "practically the only defense...",
+        "20... Nb3": "White was convinced, and resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/sheer-force-again?gm=64916",
+    "gameName": "Sheer force again...",
+    "players": "schiler (UR) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

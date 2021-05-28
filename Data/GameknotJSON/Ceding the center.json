@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nd7 3. Nc3 Ngf6 4. Be3 e5 5. d5 c6 6. Qd2 Be7 7. Be2 O-O 8. dxc6": "?! Not sure why White thought this was good, it opens up lines of attack on the Q side.",
+        "8... bxc6 9. O-O-O Qc7 10. f3 Nb6 11. h4 Be6 12. g4 d5": "Black wastes no time in beginning the attack.",
+        "13. Bf2 d4 14. Nb1 c5 15. h5 c4 16. g5 Ne8 17. Bg3 Rc8": "Intending to provoke c3",
+        "18. c3 d3 19. Bf1 Qd8": "To force f4 to take the pressure off of e5, so that Black can concentrate on attacking the W king.",
+        "20. f4 exf4 21. Bxf4 Qd7 22. Bh3 Qa4": "To provoke more weaknesses. ",
+        "23. a3 Bxh3 24. Rxh3 Nd7": "Black wants the N to go to c5.",
+        "25. h6": "hoping for a pawn exchange to open lines.",
+        "25... g6": "Locks in the K side.",
+        "26. Nf3 Nc5 27. Nd4 Rd8": "! Fairly obvious but White has good moves now.",
+        "28. Qe3 Rxd4 29. Nd2": "? Overlooks checkmate. There are not any good moves but White could fight on with Rd2.",
+        "29... Rd7": "? Quick move, forgot about the immediate checkmate, although Black has an easy win anyway after say Kb1. ",
+        "30. Rf3 Qc2#": "Its over"
+    },
+    "url": "https://gameknot.com/annotation.pl/ceding-the-center?gm=30950",
+    "gameName": "Ceding the center",
+    "players": "NN (1650) vs. dmaestro (1514)",
+    "opening": "Pirc defence (B07)"
+}

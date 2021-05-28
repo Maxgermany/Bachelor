@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. c4 f5": "Oh ho! Really?? Let's see what happens when I play ...",
+        "2. g4": "... the Krejcik Gambit! ...I don't know: technically this may not be the Krejcik because that's a gambit against the Dutch. By opening 1. c4 White keeps the option of playing his d-pawn to the 3rd rank, and with his Bishop on g2 (buck-nekkid fianchetto though it may be), the opening becomes more like the English. If the t-crossers and i-dotters insist on the purity of 1. d4 f5  2. g4!? as the Krejcik, then let's by all means call 1. c4 f5  2. g4!? the Avocet Gambit.  ;-)",
+        "2... fxg4 3. h3 gxh3 4. Nxh3 Nf6 5. Bg2 Nc6 6. Nc3 e6 7. d4 Bb4 8. e4 Bxc3+ 9. bxc3": "I might venture something clich\u00e9 here, like  \"so far, so book,\" but to tell the truth I'm not sure if there even *is* a \"book\" for this particular variation of this opening! Every time I play the \"Krejcik/Avocet Gambit,\" I'm doing it mostly \"by ear.\"",
+        "9... d5 10. cxd5 exd5 11. e5 Qe7": "At this point I'm already sketching plans to exploit the check on h5 and win Black's weakling on d5.",
+        "12. Bg5 h6": "Oh yes, there's my diagonal.",
+        "13. Bxf6": "?! - This is actually not the best move, the result of my id\u00e9e fixe about getting the Queen check on h5. Mo' nastier was 13. Nf4! threatening both the scary fork on g6 and Black's little soldier on d5. If 13. ...Qf7 to stop the fork then 14. Nd5 snags the button outright and Black still can't capture on g5 because of Rxh8. ...Sigh. Missing things like this OTB is why I'm not a Master.",
+        "13... gxf6 14. Qh5+ Qf7 15. Qxf7+ Kxf7 16. Bxd5+ Ke7 17. Nf4 Bf5 18. O-O-O fxe5 19. Bxc6 exf4": "I certainly would have considered 19. ...bc6, opening lines.",
+        "20. Rde1+ Kd6 21. Be4 Bg4 22. f3 Be6": "Somewhat of a critical point in the game. Black has weathered White's misplayed storm, and is a passed pawn to the good. White has better development and more active pieces but no clear attacking chances. ...What to do?",
+        "23. Rh4": "Well, first I want to truss up Black's undeveloped Rooks, binding them to a passive defense of his K-side pawns; then I want to quickly push my a-pawn in a minority attack maneuver to limit Black's desire to push his own pawns on the Q-side, and finally I want to start pushing my c- and d-pawns to make his life in the center miserable.",
+        "23... c6 24. a3 Raf8 25. Kc2 Rf6 26. Re2": "To stop silliness like ...Rg8-g2.",
+        "26... Bd5 27. Bxd5 Kxd5 28. Kd3 Kd6 29. Re4 Rhf8": "Black's King is cut off and both his Rooks are now bolted to the floor until I feel like letting them go. Time for phase 2.",
+        "30. a4 b6 31. Re2 Rf8f7 32. Rh5": "A little finesse: White now not only covers the Black h-pawn, he also looks to the Q-side from a distance.",
+        "32... Re7 33. Rxe7 Kxe7 34. c4 Ke6 35. a5": "! - Suddenly White has a little sump'n-sump'n going on that draws the sting out of any plans Black may have had for his Q-side pawns.",
+        "35... Rg6": "? - Not even pesky.",
+        "36. axb6 axb6 37. Re5+ Kf6 38. Ke4 Rg5": "! - tempting White to exchange.",
+        "39. Re8": "! - After 39. Rg5?? Black wins, having a passer on the h-file and being able to force one on the b-file. But now it's White who's looking good with all his pawns covered, while Black's Q-side pawns are weaker than kittens.",
+        "39... c5 40. d5": "What else?",
+        "40... h5 41. Rb8 h4 42. Rxb6+ Kf7": "More accurate but not much more help was 42. ...Kg7, to keep Black's Rook from going to the h-file.",
+        "43. Kxf4 Rg8 44. Rh6 Ra8 45. Rxh4 Ra4 46. Ke5": "\"Conan! What is best in life??\"\n\n\"To crush your enemies, see them driven before you, and to hear the lamentation of their women!\"\n\n\n\n...Okay, maybe that's a little too over the top; but suffice it to say Black's finished at this point.",
+        "46... Ra3 47. Rf4+ Ke7 48. d6+ Ke8 49. Kd5": "Some chess giant once said, \"The best move is not always the right move.\" This is one of those cases. The \"best move\" here is 49. Ke6, but I wanted to provoke Black into completely misposting his Rook first.",
+        "49... Ra5 50. Ke6": "Now Black has lost his chance to check me - the point of my 49th move.",
+        "50... Ra3": "Too late.",
+        "51. d7+": "White forces a new Queen after 51. ...Kd8  52. Rf8 Kc7  53. d8=Q+, so Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/krejcik-gambit-from-1-c4-blitz-game?gm=45462",
+    "gameName": "Krejcik Gambit (from 1. c4) - Blitz game",
+    "players": "Avocet (1200) vs. simi2010 (1747)",
+    "opening": "English (A10), Anglo-Dutch defense"
+}

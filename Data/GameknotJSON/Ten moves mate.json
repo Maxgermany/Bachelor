@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "Here playing white on a king gambit game. It's a very quick blitz game. The opening look unsound but still very reliable.",
+        "2... Nc6": "Declined. I found d6 better if you want to decline it. ",
+        "3. Nf3": "Developping and prevent Qh4. 3.fxe5 Nxe5 4.d4 look winner, but black could answer with Qh4 followed by Qxe4.",
+        "3... f6": "? d6 or exf4 is better. Black is breaking his protection and lose tempo.",
+        "4. Bc4": "To castle the most quickly as possible + threatening his knight and Bf7.",
+        "4... d6": "Well he should have done it sooner. He's late on development now.",
+        "5. O-O": "Moved quickly, but I think Bxg8 would have been better, messing up his castling on king side.",
+        "5... Nge7": "Well he should have developped his pieces on queen side instead to castle quickly. Or maybe do Na5, the bishop is too much strong right now.",
+        "6. fxe5 fxe5": "? he should have done dxe5 here or Na5. Now with this open line I can do Bf7+.",
+        "7. d4": "Ng5 could have been fine but there was no hurry. Not enought pieces developped to have a very strong combination.",
+        "7... Bg4": "! well it was logic, but I don't think it change really something because 8.Bf7+ Kxf7 9.Ng5+ Ke8 10.Qxg4. and white keep the advantage.",
+        "8. dxe5": "?! Probably not the best move here, but I thought there was still no hurry.",
+        "8... Nxe5": "It look a fine move, threatening both my bishop and my knight.",
+        "9. Nxe5": "!!",
+        "9... dxe5": "There was no escape at this point!",
+        "10. Bf7#": "Mate. Really enjoyed this 2-3 mins blitz game."
+    },
+    "url": "https://gameknot.com/annotation.pl/ten-moves-mate?gm=43638",
+    "gameName": "Ten moves mate",
+    "players": "drchopper  vs. goddle ",
+    "opening": "King's gambit (C30)"
+}

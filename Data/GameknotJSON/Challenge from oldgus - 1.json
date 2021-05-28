@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 b6 2. d4 Bb7 3. Bd3": "I have very little experience against Indian Defenses so I'm flying fairly blind.",
+        "3... Nc6 4. Nf3 Nb4 5. Nc3": "5. Bc4 Bxe4 is no good for white so I must accept the loss of my light squared Bishop for a Knight",
+        "5... Nxd3+ 6. Qxd3 g6 7. O-O Bg7 8. Bg5": "I like my position at this point but perhaps that is related my inexperience with Indian Defenses",
+        "8... f6 9. Be3": "This is a wasted move as we will see in the Game Continuation. I should have taken the Bishop directly to d2",
+        "9... Nh6 10. Bd2": "Another option is 10. h3 preventing Ng4. But, I was concerned that black would start pushing pawns in a Kingside attack eventually bringing the King to safety on the queenside.",
+        "10... Nf7": "This was probably Black's plan all along and I wasted moves with my dark squared Bishop",
+        "11. Rfe1 O-O 12. Qc4": "Pinning the Knight and setting up attacks along the c file. ",
+        "12... Kh8 13. Nd5 e5": "Here I pick up the pawn for a Queen trade",
+        "14. Qxc7 Qxc7 15. Nxc7 Rac8 16. Nb5 a6": "16. ... Rxc2 17. Nxa7 leaving Black an extremely weak b pawn",
+        "17. Nc3": "Racing back to block the attack on the c pawn. I'm very happy with my position at this point.",
+        "17... exd4 18. Nxd4 f5": "This is the continuation that I did not see. My forward knight is attacked without protection and my e pawn is double attacked.",
+        "19. Be3": "19. Nce2 Bxe4 20. c3 is much better for White but I'm still under the illusion that I can save everything at this stage",
+        "19... f4": "Too much tactics here. I'm attacked at all corners and there is no saving the piece now.",
+        "20. Nf3 fxe3 21. Rxe3 Bxc3 22. bxc3 Nd6": "Black's pieces are moving with great coordination now attacking almost everything on the board.",
+        "23. Ne5": "I'm trying to get some counterplay here",
+        "23... Nc4": "Forcing trades when up a piece is always good",
+        "24. Nxc4 Rxc4 25. f3 Rfc8 26. Rd1 Rc4xc3 27. Rxc3 Rxc3 28. Rxd7": "I lose my doubled pawns for black's isolated d pawn but this does create a passed pawn for me and gained me a tempo with the attack on the Bishop.",
+        "28... Bc6 29. Rc7 Rc5": "OldGus commented to me later that this was a poor move letting my King out into the open. He though 29. ... Rxc2 was better and I have to agree although we never got to test if white could manage something from this position.",
+        "30. Kf2 Rxc2+ 31. Kg3 Ba4": "Now I started counting how many moves it takes to queen my e pawn. In my mind it went like this: 32. e5 Rxa2 33. e6 Re2 34. e7 b5 35. Rc8+ and winning. Naturally that is if White plays horribly. White always has 34. ... Be8 but even then it ties up his Bishop and Rook guarding my dangerous e pawn. Naturally black has a far superior continuation as we see in the game.",
+        "32. e5": "D'oh.",
+        "32... Rxc7": "Here I resigned as there is no hope for white although it can be stretched out for a bit. Eventually a pawn on the queenside will reach the back rank. I was happy with my play for the most part gaining a pawn but eventually losing a piece and then fighting hard until a huge blunder ended things."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-oldgus?gm=28911",
+    "gameName": "Challenge from oldgus",
+    "players": "tomlib (1485) vs. oldgus (1608)",
+    "opening": "Guatemala defence (B00)"
+}

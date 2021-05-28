@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Nc6 8. a3 b6 9. Qc2 Ba6": "E' sempre antipatica questa inchiodatura",
+        "10. b3 Na5 11. Na4 Rc8 12. cxd5": "Per me \u00e8 stato questo l'errore chiave del bianco, stavo cercando di fare un po' di pressione, ma non avevo ancora trovato qualcosa di convincente. ",
+        "12... Bxf1": "Arrocco perso!",
+        "13. Kxf1": "Da qui in poi ho cercato di attaccare con mosse che prevedessero una difesa quasi obbligata, in modo da evitare il riorgarnizzarsi del nero e nello specifico il mio intento era quello di non far entrare in gioco la torre H1",
+        "13... Qxd5 14. b4 Nb7 15. Rc1 a5 16. Bxf6": "L'alfiere bianco mi bloccava un po', quindi il cambio tutto sommato non mi \u00e8 dispiaciuto",
+        "16... Bxf6 17. bxa5 Nxa5": "Era gi\u00e0 un paio di turni che cercavo di trovare il modo di rendere efficace: Cb3 per coprire la difesa della donna sul cavallo bianco  e per poi dare scacco con la donna in b5 con minaccia al cavallo bianco in a4, ma non ho trovato un modo per diferdermi dalla contropresa del mio cavallo in b3. Vi viene in mente qualcosa?",
+        "18. Ke2 Be7 19. Rhd1": "Forse era meglio provare a difendere il pedone...",
+        "19... Bxa3 20. Rca1 Qb5+ 21. Rd3 Bd6 22. Kf1 Nc6 23. Rb1 Nb4": "Mossa decisiva",
+        "24. Qb3 Qxd3+ 25. Qxd3 Nxd3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/hlchesss-mini-tournament?gm=16714",
+    "gameName": "hlchess's mini-tournament",
+    "players": "burtyboy55 (1764) vs. capitanoano (1663)",
+    "opening": "QGD (D55), Neo-orthodox variation, 7.Bh4"
+}

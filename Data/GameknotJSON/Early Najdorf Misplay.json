@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 c5": "A sicilian najdorf in which black missteps early and resigns after move 13. Not much annotation here as the moves are pretty self-evident. ",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "Najdorf. ",
+        "6. Be3": "I had been playing 6. Be2 recently against the najdorf and wanted to try something new, but didn't want to go in for the sharp play following 6. Bg5 yet. ",
+        "6... e5 7. Nb3 Nc6 8. f3 Be6 9. Nd5 a5": "?? Blunder ",
+        "10. Bb6": "! Correctly exploiting Black's mistake. ",
+        "10... Qd7": "? This move deserves a question mark, though perhaps not two, for after this White cannot even win the exchange back, but rather gives the rook up for nothing. ",
+        "11. Nc7+ Ke7 12. Nxa8 Ne8 13. Be3": "Now the knight can escape to b6. If black had earlier tried 12... Qc8 13. Nc7 and white can chose where to put his knight again. Black resigns here. "
+    },
+    "url": "https://gameknot.com/annotation.pl/early-najdorf-misplay?gm=23094",
+    "gameName": "Early Najdorf Misplay ",
+    "players": "concordborn (1759) vs. metsfanmax (1384)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

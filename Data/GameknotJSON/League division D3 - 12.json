@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. a3": "En skum \u00f6ppning, som heller inte har n\u00e5gon bra statistik f\u00f6r vit.",
+        "1... e5 2. g3 d5 3. Bg2 Nf6 4. Nc3": "Vit l\u00e4mnar den seri\u00f6sa teorin, d\u00e4r 4.d3 \u00e4r vanligast med 50 % utdelning f\u00f6r vit; om svart spelar 4...c6?. ",
+        "4... Bc5": "-0,50 och jag ligger f\u00f6re i utvecklingen.",
+        "5. e4": "-1,27 med b\u00e4sta draget 5...dxe4.",
+        "5... d4": "-0,84 och jag f\u00f6redrar att avancera bondekedjan.",
+        "6. Na4": "-0,99 med b\u00e4sta drag 6...Be7 !",
+        "6... Be7": "-0,95 Min position \u00e4r klart b\u00e4ttre \u00e4n vits och jag har diagonalerna \u00f6ppna f\u00f6r mina L.",
+        "7. Ne2": "-2,72 och svart borde ha \u00f6ppnat upp damsidan ist\u00e4llet.",
+        "7... Nc6": "-1,09 H\u00e4r hade jag vunnit mer tempo genom att spela b5, och vits S har ingenstans att ta v\u00e4gen.",
+        "8. d3": "-2,63 och det h\u00e4r partit \u00e4r i mina h\u00e4nder.",
+        "8... b5": "+2,39 jagar p\u00e5 vits S och \u00f6ppnar samtidigt en diagonal till f\u00f6r min L.",
+        "9. Nxd4": "-3,43 och vit greppar efter halmstr\u00e5n.",
+        "9... exd4": "Jag satsar p\u00e5 r\u00e4tt h\u00e4st och frig\u00f6r centern.",
+        "10. e5": "-3,59 och jag hade vunnit mer om jag slagit Nxe5, men mitt \u00f6vertag till\u00e5ter det mesta i det h\u00e4r l\u00e4get.",
+        "10... Nd5": "-2,70 och jag kan inte l\u00e4ngre pinna vits dam med min L p\u00e5 g4.",
+        "11. Bxd5": "-8,25 och det h\u00e4r \u00e4r rena motorv\u00e4gen fram snart.",
+        "11... Qxd5": "-8,51 och vit ger upp."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3?gm=42857",
+    "gameName": "League division D3",
+    "players": "abotandabotdtcom (1200) vs. highlandt (1200)",
+    "opening": "Anderssen's opening (A00)"
+}

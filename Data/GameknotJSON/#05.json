@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bf5 5. d3 c5 6. Nbd2 Nc6 7. Re1 e5 8. e4 dxe4 9. dxe4 Bg6 10. Nc4 Qxd1 11. Rxd1 Bxe4 12. Ncxe5 Bxc2": "Primeiro erro importante: o valor da posi\u00e7\u00e3o vai a + 2,04, pois o cavalo permite um xeque a descoberto.",
+        "13. Re1 Rd8": "Erro muito grave: esse movimento faz a posi\u00e7\u00e3o chegar a +7,24 (14 Nxc6+ Be4, 15 Nxd8 Kxd8 16 Ng5 Bxg2 17 Nxf7+ seguido de Nxh8).",
+        "14. Ng6+": "Mas eu n\u00e3o vi tudo aquilo: apenas percebi que o xeque a descoberto me daria uma torre. Ok, \u00e9 suficiente! (valor: +4,09)",
+        "14... Be4 15. Nxh8 h6": "Ap\u00f3s h6: +7,45",
+        "16. Nd2 Rxd2": "Ap\u00f3s Rxd2: +10,10",
+        "17. Bxd2 Bd6 18. Bxe4 Nxe4": "Valor ap\u00f3s Rxe4: +11,21. As pretas abandonam."
+    },
+    "url": "https://gameknot.com/annotation.pl/05?gm=59465",
+    "gameName": "#05",
+    "players": "Eu (1300) vs. Shredder (1300)",
+    "opening": "Reti (A05), King's Indian attack, Spassky's variation"
+}

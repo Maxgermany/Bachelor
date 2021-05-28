@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4": "All book play...",
+        "4. e3 O-O 5. a3": "Forcing the issue.",
+        "5... Bxc3+": "Keres goes in for the exchange.",
+        "6. bxc3 Re8 7. Ne2 e5": "Finally challenging Botvinnik's central Pawn mass.",
+        "8. Ng3 d6 9. Be2 Nbd7": "Slowing his own development by blocking the QB, but ...N-QB3 could provoke a response of P-Q5 from Botvinnik.",
+        "10. O-O c5 11. f3": "Both players still need to develop their respective QB's and connect their Rooks.",
+        "11... cxd4": "A questionable exchange -- why undouble Botvinnik's QBP's?",
+        "12. cxd4 Nb6": "Freeing the QB.",
+        "13. Bb2 exd4 14. e4 Be6 15. Rc1": "Defending the isolated QBP.",
+        "15... Re7 16. Qxd4 Qc7": "Focusing his fire on the QBP.",
+        "17. c5": "Solving the problem by offering to exchange the Pawn.",
+        "17... dxc5 18. Rxc5": "Gaining time by attacking Keres' Queen.",
+        "18... Qf4 19. Bc1": "Again attacking the Queen.",
+        "19... Qb8 20. Rg5": "Switching to attacking the King.",
+        "20... Nbd7": "Rushing another piece to the defense of the Monarch.",
+        "21. Rxg7+": "A brilliant sacrifice that blows apart Keres' defenses.",
+        "21... Kxg7": "What alternative is there?",
+        "22. Nh5+": "Pressing the attack relentlessly.",
+        "22... Kg6": "As good or bad as anything else.",
+        "23. Qe3": "Threatens Q-R6 mate. Keres resigns. Well played by Botvinnik."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=31065",
+    "gameName": "Tournament Game",
+    "players": "Mikhail Botvinnik (GM) vs. Paul Keres (GM)",
+    "opening": "Nimzo-Indian (E46), 4.e3 O-O"
+}

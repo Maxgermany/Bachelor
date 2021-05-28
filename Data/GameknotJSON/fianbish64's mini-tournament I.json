@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 Qa5": "An unusual move, that caught me unprepared.",
+        "7. Qd2 Nge7 8. Nge2 O-O 9. O-O Rd8": "When I analyzed this position, I had the sensation that Black was close to equalizing, because he is already going to push his pawn to d5. So, I decided to remove my dark-squared B in order not to fall victim of a d4 fork.",
+        "10. Bh6 d5 11. exd5 exd5 12. Bxg7 Kxg7 13. Rfe1 d4 14. Ne4 Qxd2 15. Nxd2": "The endgame which arises after this exchanges is equalish, but I believe I can claim a slight advantage, because my pieces can reach slightly better squares, so I tried to improve their position.",
+        "15... Bg4 16. h3 Bxe2": "Not a mistake, but the exchange unbalances a little bit the position, and it favours me, because I'm the much higher rated player, and the one who wants to win the endgame.\nIf I had been Black, I would have put my bishop on e6 rather than g4, forcing White to move one of his queenside pawns, and closing the dangerous \"e\" column.",
+        "17. Rxe2 Nd5 18. Rae1 Ndb4": "A loss of a tempo, but still nothing too harmful. Probably my opponent didn't see that after 19. a3 his N is trapped after 19... Nxc2 Rc1.",
+        "19. a3 Nd5 20. Nc4 Rd7": "? The big mistake of the game, now I can gain a pawn and activate my pieces .",
+        "21. Ne5": "! Forcing the exchange of Knights and entering on the 7th rank with my Rook.",
+        "21... Nxe5 22. Re2xe5 Rad8 23. Rxd5 Rd7xd5 24. Bxd5 Rxd5 25. Re7 b6 26. Rxa7": "After this forced sequence, I have gained a pawn and my Rook is more active, so I believe this is a won endgame, but unluckily I won't play precisely in the following moves.",
+        "26... Rd6 27. Re7": "Maybe this isn't the right plan, after some moves I realized that my R could have been more dangerous on the 7th rank than on the \"e\" column. Probably, more coherent was 27. Rb7, binding the Black Rook to the defense of the b6 pawn.",
+        "27... Kf8 28. Re2 f5 29. f4": "When I saw what kind of endgame was arising, I stopped giving no-brain moves and I decided to create a plan in order to win this game. First of all, I noticed that Black cannot create big counterplays, so I could have improved my position. His only big source of play could have arisen from g5 pushes, so I played g4 in order to stop that. My plan, then was to block the Kingside (White pawns in f4-g3-h4, Black ones in f5-g6-h5) and enter in the Queenside with my King via e1-d1-c1-b1-a2-b3-c4-b5. My Rook would have occupied the e5 square, making really hard for Black to push on b5. If Black, finally, goes for a Rook exchange when I'm in the corner, I would accept, because Black King has no entrances in my position, and I would have had a won pawn endgame.\nIt is clear that this plan has to be prepared, and I have to be ready to abandon it if I can get an advantage in another way, but f4 is mandatory to improve the position, so I played it immediately.",
+        "29... Kf7 30. Kf2 Rd7 31. Kf3": "Threatening the g4 push, that would open up the position a little bit and improve my King. If Black wants to avoid it, he has to play h5, so after h4 my plan would have taken place.",
+        "31... Kf6 32. Re8": "This move hit me immediately, because I can activate my Rook and try to make his one really passive.",
+        "32... Rb7 33. g4 fxg4+ 34. hxg4 Kg7 35. Re5": "This move has to be played in order to stop ideas like h5, that can happen after 35. Ke4?! h5!. More or less equivalent was g5, in my opinion.",
+        "35... Kf7 36. Ke4 Re7": "Black cracks, and allows the pawn endgame to appear on the board. It has to be said, however, that his position was passive and incredibly sad to play.",
+        "37. Rxe7+ Kxe7 38. b4": "This endgame is easily won, 38. g5, 38. f5 were equally good.",
+        "38... Kd6 39. g5 b5 40. bxc5+ Kxc5 41. Ke5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fianbish64s-mini-tournament-i?gm=48616",
+    "gameName": "fianbish64's mini-tournament I",
+    "players": "cavillus (1885) vs. fianbish64 (1595)",
+    "opening": "Sicilian (B24), closed, Smyslov variation"
+}

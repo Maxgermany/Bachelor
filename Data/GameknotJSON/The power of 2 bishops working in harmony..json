@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6": "The Four Knights Opening (C47, I think), which a lot of players consider boring. Indeed it's not an opening I'd ever play with White, even in Blitz. ",
+        "4. d3": "The textbook moves are Bb5, d4 and the interesting g3!? \r\nThis 4.d3? move was first played by Blackburne back in 1896 and he actually went on to win the game - a rare feat for white in this opening. \r\n4.d3? was popular in a tournament in Dubai in 1986, with black winning nearly every game. \r\nAs far as I can find it has NEVER been played by a GM.\r\nMark Hebden played as black against 4.d3? in 1987 and went on to win.",
+        "4... d5": "Bc5 is also possible.",
+        "5. Be2": "Now we are completely out of the Database (Bg5 and exd5 are the Database moves), which was perhaps my opponent's orginal intention in playing 4.d3?\r\n\r\n",
+        "5... dxe4 6. Nxe4 Nxe4 7. dxe4 Qxd1+ 8. Bxd1 f5": "8. ... f5! I'll allow myself a little exclamation mark for this move. It's more aggressive (the key in blitz games) than other options such as Bd6 or Bc5. ",
+        "9. exf5": "9.exf5?\r\nA poor move, allowing development of my Queen's bishop 'for free'. \r\nMuch better for white was 9.c3! fxe4 10.Ng5",
+        "9... Bxf5 10. O-O O-O-O": "0-0-0 always leads to an attacking game with both forces aiming to sack the king's position. ",
+        "11. c3 Bc5": "White is a bit cramped for space.",
+        "12. Bb3": "12.b4 looks better as it gains much needed space for white.\r\nAnother good possibility is 12.Bg5.",
+        "12... Rhf8": "You can't play perfect chess and here h6 (preventing Ng5) or the aggressive e4 might have been better. ",
+        "13. Bg5": "Ng5 is better.",
+        "13... Rd6 14. Ba4": "A pointless move.\r\n14.Rad1 Be4 15.Rxd6 cxd6 was better for white.",
+        "14... h6 15. Bxc6": "?\r\nIt is a well-known fact in chess: bad moves always come in pairs.\r\n15.Bh4 e4 16.Bxc6 Rxc6 is much better for white.\r\n16. ... bxc6? would be a poor reply for black as 17.Be7 Re8 18.Bxd6 cxd6 19.Nd4 gives white the advantage.",
+        "15... hxg5": "Not so good is 15. ... Rxc6?! 16.Be3 Bd6 17.Rfe1.\r\nAnd certainly not 15. ... bxc6? 16.Be7 Rf7 17.Bxd6 cxd6 18.b4 with advantage to white.",
+        "16. Ba4": "Better for white is 16.b4 Bb6.\r\nTwo bad replies from black would be: \r\na) 16. ... bxc6 17.bxc5 Rd5 18.Rfe1; and \r\nb) 16. ... Rxc6 17.bxc5 Rxc5 18.Rfe1 -\r\nboth allow white to equalise. ",
+        "16... Bd3 17. Rfd1": "Better for white is:\r\n17.Rfe1 e4 18.b4 Bb6 (not 18. ... exf3 which allows white to equalise after 19.bxc5 Rdd8 20.Re5).\r\n",
+        "17... g4": "g4! :) Oh yes, you have to like this intuitive move!\r\nIt sacrifices the e-pawn and the potentially powerful push 17. ... e4.\r\nIf 17. ... e4 18.Nxg5? Bxf2  19.Kh1 e3 and it's game over.\r\nHowever after 17. ... e4 18.Nd4! Bxd4 19.cxd4 Rxd4 20.Bc2 Rfd8 21.Bxd3 exd3 Black goes into the rook & pawn endgame clearly better but hardly a clear win. These endgames are notoriously 'drawish'.",
+        "18. Nxe5": "If 18.b4 Bxf2 ! 19.Kxf2 gxf3 20.g3 e4\r\nand Black has 2 connected passed pawns and a won position.",
+        "18... Be2": "Be2! is much better than the over-anxious Bxf2 .",
+        "19. Rxd6 cxd6": "This allows Black to keep his bishop on the dangerous line pinning White's f2 pawn to his king.",
+        "20. Nd7": "?? This move loses.\r\nEssential was 20.Bd7  Kc7 21.Nxg4  Kxd7 22.Ne3 \r\n- White is in trouble but still alive.",
+        "20... Bxf2+ 21. Kh1 Rh8": "! I'll allow myself another exclamation mark for this move. It clearly stunned my opponent who instantly fell apart.",
+        "22. Rc1": "This move guarantees Black will checkmate in 4 moves or less (I think).\r\nEssential was 22.Bd1 Bxd1 23.Rxd1 Kxd7 24.h3.",
+        "22... g3 23. h3 Rxh3+": "Rxh3!!....and the best is yet to come.....",
+        "24. gxh3 Bf3#": "A lovely double-bishop mate (with the help of the pawn, naturally).\r\nA most satisfying finish and one which highlights the artistic nature of chess."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-power-of-2-bishops-working-in-harmony?gm=11538",
+    "gameName": "The power of 2 bishops working in harmony.",
+    "players": "Miremad2000 (2115) vs. Lecce_Wulf (2275)",
+    "opening": "Four knights game (C46)"
+}

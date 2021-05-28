@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "Here is my last game, and only loss, in my own mini-tournament - especially painful as I was 5 points up at the time of the clever checkmate!",
+        "1... e6": "I play my characteristic French Defence. I have described it in detail in many of my annotated games: I'm too lazy to do this now.",
+        "2. d4 d5 3. Nc3 Nf6": "I play the Steinitz Defence - or something like that. Nowadays I much prefer the lively Winawer Variation, 3...Bb4.",
+        "4. Bg5 Be7 5. e5": "Claiming space, as usual in the French Defence, by advancing the e-pawn, but this time it is with tempo as my knight move.",
+        "5... Nfd7 6. Bb5": "? A blunder. I win White's dark-squared bishop.",
+        "6... Bxg5 7. Nf3 Bh6 8. O-O O-O": "Now that I am up by a piece, I am happy to keep the game quiet, hence my castling on the same side as White.",
+        "9. Re1 c6": "Breaking the pin, forcing White's bishop to move. Perhaps 9...c5 would have been stronger.",
+        "10. Ba4 Na6 11. a3 Nb6 12. Bb3 Bd7": "At first glance, my knights are very powerful: look at them, exercising their power across the (closed) queenside! However, it is soon clear that these knights are forever locked out of the game. So I am actually 3 points behind! I think this is the long-term and most important cause of my eventual destruction.",
+        "13. Ne2 c5": "NOW I finally went ahead with ...c5. I was trying to open up the position and hoping to free at least one knight.",
+        "14. c3 c4": "Oh dear. Like a complete plonker, I close the box around my knights again.",
+        "15. Bc2 Rc8": "Not a particularly good place for my rook, but then, it's better than a8 or b8.",
+        "16. Ng3 f6 17. Nh5": "My opponent's knights - which are in the middle of the action, unlike mine - are leaping into the attack. Perhaps, contrary to normal rules, my king would actually have been SAFER on the queenside!",
+        "17... fxe5 18. Nxe5": "Another knight hovering around my kingside.",
+        "18... Qg5 19. Re3 g6 20. Rg3 Qd2 21. Qxd2 Bxd2": "The queens are exchanged off, and I, unbelievavly, already regarded the game as won. Like a beginner, I made the mistake of only counting the material on the whole board, not in certain areas of the board.",
+        "22. Rf1 Kh8": "Freeing my g-pawn to kill the knight.",
+        "23. Rh3 gxh5 24. Rxh5": "It was only then, at an overall 5 POINTS AHEAD, that I realised how much trouble I really was in. I couldn't flee with the king: 25.Bxh7+ stopped me in my tracks. Staying where I was, I had 25.Ng6+ to deal with. Advancing the pawn? Also 25.Ng6+, or maybe 25.Rxh6+. But the move I played was doubtless the worst of my options...",
+        "24... Rfg8 25. Rxh7#": "Owch. Thanks for looking at this annotating, everyone."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-knight-box?gm=22643",
+    "gameName": "The Knight Box",
+    "players": "bainbridge (1358) vs. fatcat2 (1419)",
+    "opening": "French (C13), Albin-Alekhine-Chatard attack"
+}

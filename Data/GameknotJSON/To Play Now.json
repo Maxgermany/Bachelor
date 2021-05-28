@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Starting out with my bread and butter.  Old Reliable.",
+        "1... e5": "He matches it.  ",
+        "2. Bc4 Nf6 3. d3": "It takes me a few moves to get my dudes in line for the first offensive, mainly because of the attack on my e4 pawn.",
+        "3... Bc5 4. Nf3 O-O 5. O-O d6 6. h3 Bd7 7. Bg5": "I decided to ice the king's knight to open up the right channel for what would eventually become my main offensive.",
+        "7... h6 8. Bxf6 Qxf6 9. c3 b5": "My opponent's aggressiveness early on pushes me back into awkward positions.",
+        "10. Bb3 c6 11. d4": "I try to counter.",
+        "11... exd4 12. cxd4 Bb6 13. Re1 Qg6": "Gets hairy here.",
+        "14. e5 Bxh3": "For some reason, I can never see this little number coming.  Never.",
+        "15. Nh4 Qg5 16. g3 Bg4": "But, I actually do a pretty good job getting out of it.",
+        "17. Qd3 d5 18. Bd1": "Starting to clean house.",
+        "18... Be6 19. Nc3 Ba5 20. a3": "Shit gets all retarded over here.",
+        "20... b4 21. axb4 Bxb4 22. Bc2 g6 23. Ra4 a5": "Even though I win this game, the sweetness of victory is soured by this jamburger on the a, b, and c files.",
+        "24. f4": "Starting to take advantage.  He begins to run at this point.",
+        "24... Qe7 25. f5 gxf5 26. Nxf5 Bxf5 27. Qxf5 f6 28. Kg2 Qg7": "Workin' it.  Awww yeah. ",
+        "29. Rh1 fxe5 30. Qe6+": "Shhhh....Shhhhh. It's okay.  Go to sleep.",
+        "30... Kh8 31. Rxh6+ Qxh6 32. Qxh6+ Kg8 33. Qh7#": "Toast."
+    },
+    "url": "https://gameknot.com/annotation.pl/to-play-now?gm=17587",
+    "gameName": "To Play Now",
+    "players": "fletch22 (1361) vs. one_pfc (1402)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

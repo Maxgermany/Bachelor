@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. c4": "This game started out very weakly, with both sides making serious mistakes in the opening. Middlegame was marked by white's initiative, and the game ended after a very interesting combination/sac by white on move 20.",
+        "1... d5 2. cxd5 Nf6 3. g3 Nxd5 4. Bg2 e5 5. Nc3": "By transposition, game arrives at a common position in English opening. Usual line is 5... Nb6 6. Nf3 Nc6 7. 0-0 Be7\r\nBlack might also choose 5... Be6 6. Nf3 Nc6",
+        "5... Nxc3": "I believe this move deserves some criticism. It's not a blunder, but it\r\n- gives up a good knight in the center\r\n- lets white get the pawn center (e4, d4) later by using c3 support\r\nThis plan escapes problems in the center rather than actively fighting for it.",
+        "6. bxc3 Bc5 7. d3": "White wants to play Nf6, but e4 is a problem. \r\nThis move tries to deal with it, but is not a good solution. (see move 8)\r\nWhite should have played 7. Nf3 anyway because immediate e4 runs into Qa4  and Nc6 8. 0-0 0-0 9. d4 doesn't lose a tempo.",
+        "7... O-O": "On the good side of such solution of the d5 Knight, black does castle faster, while white gets ready for d4.\r\n",
+        "8. Nf3": "?\r\nQc2",
+        "8... Nc6": "?!\r\nThis is a worse move than e4! when\r\n8. dxe4 Qxd1 9.Kxd1 Bxf2 is horrible for white\r\n8. Nh4 g5 traps the knight\r\n8. Nd2 loses d3 pawn\r\n8. Ng5 exd3 9. Qxd3 is best for white",
+        "9. O-O Rb8": "black wants to develop c8 bishop but is afraid of complications:\r\n9. ... Be6 10. Nxe5 Nxe5 11. d4 Bd6 12. dxe5 Bxe5 doesn't seem bad for black;\r\n9. ... Be6 10. Ng5 Qd7 (Bd5? 11. e4) 11. Nxe6 - and white has two good bishops\r\nAlso, black wants to advance f pawn without losing pawn to check on b3. In that case  Kh8 is better",
+        "10. Bb2 f6 11. d4": "White is ready to start his initiative for the center.",
+        "11... exd4 12. cxd4 Bb6 13. Qb3+ Kh8 14. Rad1 Na5": "Re8 14. d5 Ne5 15. e4 \r\nmay have been better for black, keeping more pressure in the center",
+        "15. Qd3 Be6 16. d5 Bf7 17. e4 c6": "challenging white's strong center",
+        "18. Nh4": "white wants to play Kh1 and f4,\r\nf5 is a great square for the knight, preventing it with g6 is bad for black since it weakens his king's position \r\n",
+        "18... Qd7 19. Nf5 Bc7 20. d6": "a calculated risk:\r\nRbd8 21. dxc7 Qxd3 22. cxd8Q Qxd8 23. Rxd8 Rxd8 -- wins a bishop;\r\nBc4 -- the \"risk\" line, see the game\r\nBb6 -- nice positional advantage for white",
+        "20... Bc4 21. Qc3": "attacking Knight on a5\r\nit is not too late for black to choose Bb6 22. Re1 Be6 (Bxa2 23. Ra1 Be6), where white is still better off with his d6 passed pawn",
+        "21... Bxf1 22. dxc7 Qxd1": "22. ... Qxc7 23. Bxf1 leaves white better on account of two bishops for a rook, good f5 knight versus a5 knight which is trapped and has to be defended. \r\n",
+        "23. Bxf1": "Otherwise black mates on f1",
+        "23... Rbc8 24. Qxa5": "Here white has only three pieces for two black rooks. however, white has a winning fork after Qd7 24. Ba3 Re8(or Rf7) 25. Nd6 (or Rg8 25. Ne7)\r\nI made the move 20. d6 only after seeing this fork in my analysis",
+        "24... Rf7": "This was unexpected for me, but still not enough to prove the combination wrong.\r\n25. e5 lets me protect the c7 pawn because:\r\nRfxc7 loses a rook to Nd6\r\nRcxc7 loses the same rook to e6!",
+        "25. e5 fxe5 26. Bxe5": "now Rxf5 loses to 27. Bxg7  Kxg7 28. Qxf5 Rxc7 29. Qe5  fork",
+        "26... Qf3 27. Bxg7+ Rxg7": "Kg8 loses to 28. Nh6 ! Kxg7 29. Qg5  Kh7 (or Kf8) 30. Qd8  Rxd8 31. cxd8Q  K moves and 32. Nxf7, white is a piece up",
+        "28. Nxg7 Rf8": "black is trying a last tactical shot.\r\nif instead Kxg7 29. Qg5  Kf8(or Kh8) 30. Qd8  and white is finally a piece up!",
+        "29. Nf5": "! Black resigned.\r\nBlack rook can not leave the last row or the pawn Queens!\r\nIt also appears black is powerless to stop mate after Qe5 (or Qc3 ) without losing material\r\nPlease write me if there is any flaw in analysis (there probably are some) or if you've got a comment\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=3323",
+    "gameName": "Let's play chess",
+    "players": "safin (1769) vs. sergev (1708)",
+    "opening": "English opening (A10)"
+}

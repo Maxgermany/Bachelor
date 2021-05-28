@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nI guess you would think that the ending was a little lucky for one person in particular.  However, sometimes we make our own luck by putting certain pieces into certain positions and a little bit of a slip up from one's opponent can result in a victory.  So, who was the lucky player in this game.  I will leave you to either read the GA spoiler or read on to the very end.  White starts with 1. e4.",
+        "1... e5 2. Nf3 Nc6 3. Bc4": "3. Bc4 - this can lead to the Guicco Piano or The Two Knights Defense.  My response Bc5 is the Guicco.",
+        "3... Bc5 4. O-O Nf6 5. d3 d6": "5. ..... d6 - Henry is ready to castle but I also open up the c1-h3 diagonal open for Fou Leblanc.",
+        "6. Be3 Bb6 7. Nbd2 Ne7 8. Bxb6 axb6": "8. ..... axb6 - bishop trade.",
+        "9. a3 O-O": "9. .... 0-0 - Henry now seeks refuge on the kingside.",
+        "10. Qe2 Bd7 11. b4 b5 12. Bb3": "12. Bb3 - bishop pushed back by pawn thrust.",
+        "12... b6 13. Nb1 c5": "13. ...... c5 - contests the queenside.  If white takes on c5 then I can undouble my pawns.",
+        "14. Nbd2 h6 15. h3 Ng6 16. c3 Re8": "16. ..... Re8 - the seed of a plan is starting to germinate from this move.  The plan is, would you believe it, a kingside mating attack.  I want a rook lift to the g column but first I will trade bishops.",
+        "17. Nh2 Be6 18. Bxe6 Rxe6": "18. ..... Rxe6 - first part of mission accomplished.",
+        "19. g4": "19. g4 ?! Possibility of a pawn storm but this move weakens white's castled position and my knight immediately exploits this.",
+        "19... Nf4 20. Qf3": "20. Qf3 - WQ dodges knight attack and protects the h pawn.  But I now hatch a plan to drive the WQ off that square.",
+        "20... Nh7 21. Qe3 Rg6": "21. ..... Rg6 - but I now firstly put my rook on that g file.  Glenda is eyeing up the square h4 to put more pressure on the pawn on h3.",
+        "22. Nhf3": "22. Nhf3? - this now enables me to steal the h3 pawn with check.",
+        "22... Nxh3+ 23. Kh2 Nf4": "23. ..... Nf4 - back to f4.  Now the g4 pawn is weak.  White's next move allows me to snap it off.",
+        "24. Rfh1 Rxg4": "24. ..... Rxg4 - nacht.  Suddenly there is a huge drop in temperature and a dark, dark, shadow around the WK.  Is that The Beast from The East?  Maybe it is that Siberian wind chiller killer that descended on the British Isles late on in February/early March but maybe it is the Chessic Grim Reaper Old Matey who is avidly eyeing up g2.",
+        "25. d4": "25. d4?? - White is oblivious to this and tries to hit out at the support on my f4 knight.  But now Old Matey descends and for the WK it is now .......",
+        "25... Rg2#": "25 ..... Rg2 MATE!!  Amazingly, Glenda has played no part in this mate and hasn't even moved from her home square.  It has been barely a month since GB were hit by the Beast from the East and today has been the hottest day of the year so far.  27 degrees Celsius in Cambridge and I have been typing this annotation with the air conditioning on, pheew and double pheew!  Yup, things were certainly hotting up for Yours Truly on her way back to her 1800 rating.  I may be back soon with another Henry and Glenda adventure.  For now enjoy - Kind regards - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/making-things-happen?gm=64550",
+    "gameName": "Making things happen!",
+    "players": "chorba (1778) vs. jstevens1 (1727)",
+    "opening": "Giuoco Piano (C50)"
+}

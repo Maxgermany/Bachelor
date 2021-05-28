@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 f5 2. e3 Nf6 3. Bd3 e6 4. Nf3 d5 5. O-O c6 6. Nc3 Bd6 7. b3 O-O 8. Ne5 Nbd7 9. Nxd7 Bxd7 10. a4 Ne4 11. Nxe4 fxe4 12. Be2 Bxh2+": "a good plan... sacrificing a bishop so he can try to mate... \na little bit too soon... maybe first h6 ",
+        "13. Kxh2 Qh4+": "classic...",
+        "14. Kg1 Rf6": "trying to move a rook to h6 so he could try a mate",
+        "15. Bg4": "i think this was a very good move\nmy f pawn is protected for now, and he cant do e5",
+        "15... Raf8": "trying to take my f pawn...",
+        "16. f3": "here is a way for my king to run... after a exchange...",
+        "16... exf3 17. Bxf3 e5": "trying to include his bishop in the assault",
+        "18. dxe5 Rh6": "a good plan... but mine was better",
+        "19. Bxd5+": "if he moves his king Rxf8++\nhis queen is out of my way and he didn't put a pawn on h6 so he could excape",
+        "19... Rf7": "if i took his rook with my rook... i would have lost my queen... (Qh1+, Kg2, Qxd1)",
+        "20. Bxf7+ Kh8": "if he moved his king to f8\n21. Be6+ Ke8\n22. Qxd7++",
+        "21. Qxd7": "mate is inevitable, after i move my king to safety",
+        "21... Qh2+ 22. Kf2 Qh4+ 23. Ke2": "he cant move his queen anywhere to check me :)",
+        "23... g6": "he couldn't do anything anymore... mate in 2 ",
+        "24. Qe8+ Kg7 25. Qg8#": "very nice game..."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=25823",
+    "gameName": "Let's play chess",
+    "players": "davidstefic (1237) vs. brownrecluse (1272)",
+    "opening": "Dutch (A80)"
+}

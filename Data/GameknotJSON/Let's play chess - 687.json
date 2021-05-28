@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. d4 cxd4 6. Nxd4": "The game starts with a series of sacrifices, and white with a slight development advantage.",
+        "6... g6 7. b3 Bg7 8. Bb2": "Both players want to capture the opposing rook with their bishops.",
+        "8... e6 9. Nxe6": "White threatens the queen while revealing the bishop, looking to attack while the queen retreats...",
+        "9... Qa5+": "...but the queen forces white to make a defensive move instead.",
+        "10. Qd2 Qxd2+ 11. Nxd2 Bxb2": "Black gains a tempo, and material.",
+        "12. Rb1 Bc3 13. Nc7+": "However, the threat to the bishop results in a knight fork, and black loses a rook.",
+        "13... Kd8 14. Nxa8 Ngf6 15. f3 d5 16. exd5 Re8+ 17. Kd1 Nxd5 18. Re1 Ne5 19. h3 Kd7 20. Re4": "White is very cramped. He decides to move the rook into play.",
+        "20... f6 21. Ra4 Rxa8 22. Ne4 Ne3+ 23. Ke2 Nxg2 24. Nxc3 Re8": "A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.",
+        "25. Rd1+ Kc6 26. Kf2 Nf4 27. Rxf4 Re6 28. Ra4 a6 29. Rb4 b5 30. f4 Nd7 31. Re4 Rxe4": "White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts.",
+        "32. Nxe4 f5 33. Ng5 Nf6 34. Rd8 Nd7 35. Rh8 Nf6 36. Nxh7 Ne4+ 37. Kf3 Kc5 38. Ra8 Kb6 39. Ng5 Nd2+": "A pointless check; it achieves nothing.",
+        "40. Ke2 Nb1 41. Rg8 Nc3+": "A much better knight fork.",
+        "42. Kd3 Nxa2 43. Rxg6+ Ka5 44. Rf6 Nb4+ 45. Kc3": "Possibly the worst move available. It opens the door for the knight fork, Nd5!+",
+        "45... Nd5+ 46. Kd4 Nxf6 47. Ke5 Nh5 48. Kxf5 Ng3+ 49. Kg4 Ne2 50. h4 Kb4 51. h5 Nd4 52. h6 Nxc2 53. h7 Kxb3 54. h8=Q Ka4 55. Qe5 a5 56. Qe4+ Nb4 57. f5 Ka3 58. f6": "The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=29009",
+    "gameName": "Let's play chess",
+    "players": "rainbow6 (1200) vs. thechill (1194)",
+    "opening": "Sicilian (B52), Canal-Sokolsky attack, Bronstein gambit"
+}

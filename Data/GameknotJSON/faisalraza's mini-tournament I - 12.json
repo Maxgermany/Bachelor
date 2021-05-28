@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "I was under some pressure right after the opening, black emerged from it better and started an attack on the king side, but then after some exchanges he lost the initiative and also lost a pawn to a nice overcharging theme tactics, black eagerly decided to get the pawn back almost immediately and fall in to a trap that would inflict heavy material losses, so he resigned",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. dxe5 dxe5 8. O-O Nbd7 9. Qc2 c6": "we've entered a Rauzer pawn formation, were I can explore several strategical themes, a queen side awn storm, the a3-f8 diagonal and the d6 push, yet black has some excellent counter-play in the thematic d4 weakness, f4 square, king side attack, and the a1-h8 diagonal, playing Re8-Bf8 to control the d6 and c5 squares; so generally black is considered better here, as it has an easier game",
+        "10. Rb1": "I've played this move as prophylaxis against the thematic black's strategy on the a1-h8 diagonal, so I can move my c1 bishop freely or advance my b pawn, and also preparing c5-a3-b4 to avoid exchanging rooks after axb4 axb4",
+        "10... a5": "Until now we were following Jhunjhnuwala Ramesh (HKG) - Sammut Briffa Peter (MLT), Salonika (Greece), 1988, 1-0, but I'm the first to diverge, as 11.a3 played in that game is too passive, I've considered two main options here 11.Rd1 to pin the d7 knight and 11.Na4 to block the a pawn and prepare c5",
+        "11. Na4": "N improvement on the game Jhunjhnuwala, Ramesh - Sammut Briffa, Peter, Salonika (Greece), 1988, 1-0, intended to prevent the a pawn advance while avoiding Nc5 or Nb6 and even b5, as it will win a pawn cxb5 cxb5 Bxb5, a future Rd1 is also in prevision as will pin the Nd7",
+        "11... b6": "prevents c5",
+        "12. a3": "with my rook on b1 I can still prepare b4-c5, here I'm already experiencing some difficulties,  as I don't have a clear plan either than to push my pawns in the queen's wing",
+        "12... Qc7 13. Be3": "connecting rooks and also aimed at c5",
+        "13... Ng4 14. Bg5": "I didn't like the prospect of exchanging my bishop for the knight so I've decided to play it to g5 aimed at d8 with the idea of maybe latter play Rfd1",
+        "14... f5": "my Bg5 move was a bit passive so black started immediately an attack on the king side",
+        "15. Nh4": "aimed at g4 to disturb black's attack",
+        "15... Bf6 16. Qc1": "protecting the bishop",
+        "16... f4": "blocks my queen",
+        "17. Bxg4": "so I have no other chance than to allow the exchange of bishop for knight",
+        "17... Bxg5 18. Nf3": "but now black's structure doesn't favour his dark square bishop, so in the future I'll benefit if I can exchange light squared bishops or even a knight by black's light squared bishop",
+        "18... Bf6": "if h5 then I have Be6+, so black has to remove his bishop from under attack so his attack is for now tamed ",
+        "19. Rd1": "as intended before, I now occupy the open column with my rook",
+        "19... Re8": "preventing Be6+, so if black plays h5 I have to capture the knight on d7, but them I saw a tactical blow that allowed me to win a pawn, if I play Bxd7!, black has two choices:\na) Qxd7 removing the guard from b6 and losing a pawn and a quality to Nxb6 with a double attack on queen and rook a8\nb) Bxd7 an the queen is overcharged with the defence of b6 and d7",
+        "20. Bxd7": "so Bxd7! was played, and I expected the sequence Bxd7 Nxb6 Qxb6 Rxd7",
+        "20... Bxd7 21. Nxb6 Qxb6 22. Rxd7": "and now the events turned, I have the upper hand, my rook is on the 7th rank and black has one pawn less, also his bishops is a bad bishop considering the e5 and f4 pawns that block it",
+        "22... Rad8": "to challenge my rook's occupation of the 7th rank",
+        "23. c5": "zwischenzug with tempo to set a trap on black",
+        "23... Qb5 24. Qd1": "here is the trap, I left the pawn hanging to infiltrate black's 7th rank with my queen if Qxc5 then Qb3+ with tempo and then I have the sequence Qh8 (forced as Qf8 is mate after Qf7++) Qf7 (threatens mate in one) Rxd7 (not forced but a possible sequence) Qxe8+ Kg7 (forced) Qxd7+",
+        "24... Qxc5 25. Qb3+": "and black resigned in face with the severe material loses he will have"
+    },
+    "url": "https://gameknot.com/annotation.pl/faisalrazas-mini-tournament-i?gm=41549",
+    "gameName": "faisalraza's mini-tournament I",
+    "players": "kaspanatola (1873) vs. haapala (1972)",
+    "opening": "King's Indian (E73), Semi-Averbakh system"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Definitely one of my more interesting games. Ikezhere makes various question mark moves giving free material repeatedly, yet some aspects of the game still make it worth annotating: to mate him I made a net around his king in the center of the board, and had to wiggle one more piece in for the win.",
+        "1... d6": "Pirc Defense.\n",
+        "2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. e5 dxe5 6. Nxe5 O-O 7. a4 c6 8. a5 Nbd7 9. Bf4": "(?) I put a question mark on this move, due to the fact that the Knight does not have sufficient support on e5. The Bishop can be removed by my King Knight. If he takes my knight, that knight has moved from g1, to f3, to e5, only to be traded on d7, wasting valuable development.",
+        "9... Nh5": "To get rid of the bishop defending the knight, while adding more attack on the knight by my bishop. See note on previous move.",
+        "10. Be3": "Seeing the error in his ways, he retreats the bishop, losing development. He would have been better off playing KnxKn, which also loses development, but saves the pawn.",
+        "10... Nxe5 11. f4": "(???) He just gave me a free piece with no compensation! These knights on his king side will destroy him!",
+        "11... Ng4 12. Bg1": "(?) He is preventing his king from castling king side. True he can move his queen and castle queen side, but I won't give him the chance.",
+        "12... e5": "A pawn sac intending 13. ... Qh4+ 14. g3 Knxg3 and so on. It's a queen move I never made. He prevented it, but in the process opened up other opportunities for me.",
+        "13. Ne4": "Now if 13. ... Qh4+ 14. g3 Knxg3 then 15. KnxKn, and I have nothing.",
+        "13... exf4": "So I take the f-pawn to reinforce g3, threatening to queen check.",
+        "14. Ra3": "He further defends g3.",
+        "14... Re8": "He has no way to remove the pin!\n",
+        "15. Qd3 f5 16. h3 Rxe4+": "I could have played PxP and the pawns would be very strong, but what I was hoping for was to set up a net around the king.",
+        "17. Be2 Ne3": "Building the net. If he doesn't play BxKn, that kn will be a thorn in his side! If he takes, then PxB and the pawn attacks d2 and f2. The goal is to attack all squares surround his king, then the net is built. He'll be like a fish out of water!",
+        "18. Qb3+ Be6": "I am sacking my kn pawn as my development is getting overwhelming. If QxP I can later play Rb7 and take his Kn-Pawn, getting more access to his king.",
+        "19. Qxb7": "He takes! ",
+        "19... Ng3": "Further building the net.  The Knight covers his e2 square. Also the knight attacks the rook but I don't plan to take it. The rook is completely trapped. Even if he were to advance the h pawn the only square available is h3, then no where to go from there, unless he sacks the exchange.",
+        "20. Bxe3 fxe3": "The net is built! The squares in front of his king are attacked, so my goal is to get a queen or rook to his back rank.",
+        "21. Qxc6": "They say you should not go shopping if you're hungry. If you do, you'll buy what you don't need. I say, \"You should not play chess if your hungry. If you do, you try to gobble up every little pawn, to your own detriment.\" He is just opening up lines for my attack!",
+        "21... Rc8 22. Qa4 Rxd4": "I played this move to get his queen away from the c-pawn, so I can take and then play RxP followed by Rc1#. I did not see yet 23. Rd1+ 24. BxR Qd2#.",
+        "23. b4 f4": "Because I did not see the mate, I added protection for the pawn!",
+        "24. Rf1 Rd1+": "Now I see it! I see the Light!",
+        "25. Bxd1 Qd2#": "Interesting to say the least."
+    },
+    "url": "https://gameknot.com/annotation.pl/faithfulltrav-challenge-goes-out?gm=32429",
+    "gameName": "Faithfulltrav challenge goes out",
+    "players": "ikezhere (1195) vs. faithfulltrav (1200)",
+    "opening": "Pirc (B08), classical (two knights) system"
+}

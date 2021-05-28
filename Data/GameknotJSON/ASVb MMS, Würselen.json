@@ -1,0 +1,11 @@
+{
+    "moves": {
+        "1. b4": "I didn not know that opening. After that move I hat to play intuitive \n",
+        "1... e5 2. a3 d5 3. Bb2 d4 4. Nf3 Bd6 5. h3 a6 6. c4 b6 7. d3 Nf6 8. Nbd2 O-O 9. e3 Re8 10. Be2 c5 11. b5 Bf5 12. e4 Bg6 13. Nh4 Nbd7 14. Nxg6 fxg6 15. O-O Qe7 16. a4 axb5 17. cxb5 Bc7 18. Nc4 Ra7 19. Qb3 Kh8 20. Bc1 Rea8 21. f4 Rf8 22. fxe5 Nxe5 23. Nxe5 Qxe5 24. Bf4 Qe7 25. Bxc7 Qxc7 26. Rf3 Raa8 27. Qc2 Qd7 28. e5 Nd5 29. Rxf8+ Rxf8 30. Bg4 Ne3": "That move I played was very bad. If he took the Queen it was a forces endgame for white ",
+        "31. Qe2 Qe7 32. e6 Re8 33. Re1 h5 34. Bf3 Qxe6 35. Be4 Re7": "At this moment we made draw. I hat had one pawn more, but at that different ELO rate the draw was ok for me."
+    },
+    "url": "https://gameknot.com/annotation.pl/asvb-mms-w-rselen?gm=19106",
+    "gameName": "ASVb MMS, W\u00fcrselen",
+    "players": "Berner, Horst (1364) vs. Hackmann, Ralf (857)",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

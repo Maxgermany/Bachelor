@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. c4 e5 2. g3 Nf6 3. Bg2 Nc6": "This player was quite challenging and tough for me, in this first round of my first GK tournament.",
+        "4. a3 Be7 5. Nc3 O-O 6. Nf3 d6": "My strange unplanned opening. ",
+        "7. d4 exd4 8. Nxd4 Ne5 9. b3 c6 10. f4 Ned7 11. e4": "3 pawns up front.",
+        "11... Nb6 12. O-O Bg4": "Black likes to attack, and did so even more playing white.",
+        "13. Qd3 Qc7 14. f5": "This was the beginning of my plan to trap black's lsB.",
+        "14... d5 15. cxd5 cxd5 16. Nxd5 Nbxd5 17. exd5 Rad8": "The action begins.",
+        "18. Be3 a6": "I saw that h2 was protecting g3, but was focused on the lsB and forgot.",
+        "19. h3 Qxg3": "Whoops!  Where did that queen come from???  I took considerable time here to work out the various lines and decide on my plan.  After all that, I took the lsB anyway.  ",
+        "20. hxg4 Nxg4": "Black's knight is well placed on g4.",
+        "21. Nf3 Nxe3": "Thank goodness for my knight.  Thereby, black abandons his knight attack, apparently planning to put his dsB and rooks on the d file.  Perhaps he also didn't like my queen on d3.  ",
+        "22. Qxe3 Bf6": "Bd6 or Rfe8 were expected, though this is much the same, also preventing my plan of Qg5.  Black is planning Rxd5 and Bd4, which would pin the white queen and king, and is attacking the rook on a1.  Black can only move Bd4 by first taking with Rxd5, so might double his rooks on the d file or move Qd3.  However, my rook is a good defense for his queen.  My queen is still unprotected, but the rook on a1 must be moved.  I want to get free and go after his pawns.  Rad1 and Qd3 should put me in a better position.",
+        "23. Rad1 Bg5": "Black made a blunder, probably thinking the knight couldn't move as it was protecting the queen. ",
+        "24. Qxg5": "The queen can move though, and black resigned.  This was a tough game with plenty of challenges. "
+    },
+    "url": "https://gameknot.com/annotation.pl/attack-vs-defense-my-first-95th-gk-tournament?gm=45698",
+    "gameName": "attack vs defense - my first 95th GK tournament",
+    "players": "3253 (1597) vs. garyisk (1648)",
+    "opening": "English opening (A20)"
+}

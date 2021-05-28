@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 b6": "queens Indian a strong play against nf3",
+        "4. g3": "i like this",
+        "4... Bb7 5. Bg2 Ne4": "?! i think he was going f5 next move",
+        "6. O-O Be7 7. Nfd2": "!? forces a trade",
+        "7... Nxd2 8. Bxb7 Nxf1 9. Qxf1": "no need to take the rook, it is trapped right now!",
+        "9... Nc6": "now i have to take",
+        "10. Bxa8 Qxa8": "d4 pawn is attacked",
+        "11. e3 O-O 12. Nc3 f5": "trying gain control of e4",
+        "13. Qg2 Bf6 14. Bd2 e5 15. Nd5": "threatening nxc7",
+        "15... Qd8 16. Nxf6+ Qxf6 17. dxe5 Qxe5 18. Bc3 Qe4": "dont take! if so, f2 is weak",
+        "19. b3 Re8 20. Rd1": "attacking d7",
+        "20... d6 21. h3 Ne5 22. Qxe4 fxe4 23. Bxe5": "! this is the best move! ",
+        "23... Rxe5": "if with the pawn? e4,e5 is weak!",
+        "24. Kg2 Kf7 25. f4 exf3 e.p.+ 26. Kxf3 g5 27. Rd5 Kf6 28. Rxe5 Kxe5 29. Kg4": "my king gets a head start",
+        "29... c6 30. Kxg5 d5 31. cxd5 cxd5 32. Kh6 Ke4 33. g4 Kxe3": "now, it is going to be a queen and pawn endgame!",
+        "34. Kxh7 d4 35. g5": "forced to push",
+        "35... d3 36. g6 d2 37. g7 d1=Q 38. g8=Q Qc2+": "? qh5+! wins a pawn and with a most likely draw!",
+        "39. Qg6 Qxa2 40. h4": "if qxb3?????? qg3+ winning is queen!",
+        "40... Kf4 41. Qf7+ Ke5 42. h5 Qc2+ 43. Kh8 Qc8+": "im going for a win!",
+        "44. Kg7 Qd8": "? i think qg4+!? is best!",
+        "45. h6 Qg5+ 46. Kh7": "no more checks!!",
+        "46... Qd8 47. Kg6 Qd3+ 48. Kg7 Qd8 49. h7 Qg5+ 50. Kf8": "!!! now i queen! if qh6+ then qg7+ winning or qd8+ then qe8+ winning!!",
+        "50... Qh4 51. Qe7+": "resigns!! hope you enjoyed the game!! please comment and rank it on the star system thank you!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/queen-and-pawn-endgame?gm=44414",
+    "gameName": "queen and pawn endgame",
+    "players": "water123 (1853) vs. kouroshasgari (1797)",
+    "opening": "Queen's Indian (E15), Rubinstein variation"
+}

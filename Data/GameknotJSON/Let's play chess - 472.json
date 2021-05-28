@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Random game challenge taken up by a higher ranked player.",
+        "1... d5": "I decided to go for the Scandinavian as I have had some success with this especially against higher ranked players",
+        "2. e5 Bf5 3. d4 c5": "Trying to break up his centre pawns",
+        "4. Be3": "he is having none of it",
+        "4... c4": "So I decide to block in his lsb for now",
+        "5. Nc3 g6 6. Bg5 Bg7 7. h3": "I don't understand this move, perhaps its a waiting move",
+        "7... Qb6": "Threatening the b2 pawn and eyeing up the d4 pawn",
+        "8. b3 f6 9. exf6 Nxf6 10. Bxf6 Bxf6": "More pressure on d4.\n\nAlthough my kingside is looking a little draughty I am thinking about castling there",
+        "11. Nxd5": "Loses material",
+        "11... Qa5+ 12. c3": "Whites queenside is looking even more exposed than my kingside and he can't castle on his kingside for a good few moves yet",
+        "12... Qxd5 13. bxc4 Qe4+": "Staying on the h1 a8 diagonal so that white can't get his lsb out yet",
+        "14. Qe2 Nd7": "I'm under no pressure to exchange so I proceed with my development, to me black looks sligtly better but not really in a position to take advantage",
+        "15. Nf3 Nc5": "The knight is immune to the d4 pawn due to dxc5, Bxc3+ winning a rook",
+        "16. Qxe4 Nxe4 17. Rc1 Rc8 18. Be2 Ng5 19. O-O Be4 20. Ne5 Nf7 21. Nxf7 Kxf7 22. c5 a6 23. Rfe1 Bd5": "limiting whites options for his lsb",
+        "24. a3 Rhd8 25. Bg4 Rc7 26. Rc2 Bc4 27. Be2 Bb3 28. Rb2 Ba4 29. Rb4 Bc6 30. Bc4+ Bd5 31. Bxd5+ Rxd5 32. Rb6 Rcd7 33. Reb1": "At this point I was thinking of some sort of bishop sacrifice to gain a couple of pawns e.g. Bxd4,cxd4 then I realised that if I could get my bishop onto the h2b8 diagonal there was the  threat of a back row mate",
+        "33... e5 34. Rb6xb7 exd4 35. cxd4 Rd5xd4 36. c6 Rxb7 37. Rxb7+": "I had calculated that white would find it tough to promote his newly passed pawn",
+        "37... Ke8 38. Rb8+ Ke7 39. f4": "preventing Be5 and also opening another escape route for his king\n\nAt this point I was starting to think I had seriously miscalculated",
+        "39... Bh4 40. c7 Bg3": "Prevents white from promoting due to the threat of mate",
+        "41. Kf1": "Pretty much the only option",
+        "41... Rxf4+ 42. Ke2": "I think this is a mistake, I was worried about Kg1 for which I could see no effective answer.",
+        "42... Rf2+ 43. Ke3 Bxc7 44. Re8+": "I am more than happy to exchange due to my material advantage",
+        "44... Kxe8 45. Kxf2 h5 46. Ke3 Kd7": "White resigned. Though I am not entirely sure that he couldn't have got a draw.\n\nFor me this was an enjoyable game with a few mistakes on both sides. Please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=40736",
+    "gameName": "Let's play chess",
+    "players": "helgiharr (1591) vs. elwoos (1566)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

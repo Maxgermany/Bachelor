@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. Nf3": "the Reti, maybe.\r\nan opening with ot much anbition, in my opinion.",
+        "1... d5 2. d4": "well, white has changed the opening to some kind of queen's pawn.",
+        "2... Nf6 3. Ne5": "strange...\r\nin that way white plays with the same piece twice (instead of developing other pieces) with no specific plan to jestify his move.\r\nit's better to play solid like 3. c4 or 3. g3 or something like that.",
+        "3... c5": "attack!!",
+        "4. Nxf7": "not clear.\r\nwhy to sacrifice the piece. there are no one who's attacking with it...",
+        "4... Kxf7": "when they give you, take.\r\nwhen they beat you, run.",
+        "5. dxc5 e5": "white, with his last move, gave black also the center.",
+        "6. b4": "not developing...",
+        "6... a5": "breaking white's form.",
+        "7. Bd2": "7. c3 was a bit better (in those cases it's better than Bd2).",
+        "7... axb4": "of course. leaving white with double pawns on c file.",
+        "8. Bxb4 Nc6 9. c3 b6": "the weak link now is b4.",
+        "10. cxb6 Nxb4 11. e3": "nothing to do, white is lost...",
+        "11... Qxb6 12. Nd2 Nxa2 13. Nb1 Qb2 14. Nd2 Nxc3 15. Rxa8 Nxd1 16. Rxc8 Bb4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/ifc-coaching-game-7-with-dylam?gm=10783",
+    "gameName": "IFC Coaching Game # 7 with Dylam",
+    "players": "thejim (1362) vs. dylam (2209)",
+    "opening": "Reti opening (A06)"
+}

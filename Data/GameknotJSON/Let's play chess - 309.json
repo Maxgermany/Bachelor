@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nh6": "D\u00e9fense du Pion f7 Laborieuse et pas tr\u00e8s belle. 3 ... Fc5 est plus classique et plus dynamique ... Oui elle permet d'\u00e9viter le Cg5 qui fait si peur tout en continuant de d\u00e9velopper ses pi\u00e8ces de mani\u00e8re harmonieuse !\n\n------------------------------------------------------------------------\n\nF7 pawn defense laborious and not very nice. 3 ... Bc5 is more conventional and dynamic ... Yes it avoids Ng5 so afraid that while continuing to develop his pieces harmoniously !",
+        "4. Na3": "Deuxi\u00e8me cavalier sur le bord ! Deuxi\u00e8me cavalier mort ?\n\n--------------------------------------------------------\n\nSecond knight on the edge ! Second death knight ?",
+        "4... a6 5. d4 d6 6. Ng5 Be7 7. h4 O-O 8. dxe5 Nxe5 9. f4 Bg4 10. Bxf7+": "On \u00e9change un pion contre un fou pour affaiblir le roi adverse ? Alors c'est ce qu'on nomme un sacrifice sp\u00e9culatif, le plus souvent \u00e0 \u00e9viter.\n\n----------------------------------------------------------------------------\n\nWe exchange a pawn against a Queen to weaken the opponent's king ? So this is what is called a speculative sacrifice, usually to avoid.",
+        "10... Nexf7 11. Qd3 Qd7 12. e5": "Menace de mat en h7 ! Beaucoup de d\u00e9fense possibles !\n\n-----------------------------------------------------------\n\nThreat checkmate in h7 ! Many possible defense!",
+        "12... dxe5": "Les noirs ne voient pas la menace de mat !\n\n-------------------------------------\n\nBlacks do not see the threat to chechmate !",
+        "13. Qxh7#": "Le baiser de la mort en treize coups ! Pourtant avec un cavalier si proche de leur roi il devrait \u00e0 chaque coup se demander si il y a menace de mat ... Moral de la partie : \u00e9vitons de laisser l'adversaire poster un cavalier si proche du roi !\n\n-------------------------------------------------------------------\n\nThe kiss of death in thirteen shots ! Yet with a knight so close to their king should every time whether there is a threat mat ... Moral of the game: let's not let the opponent post a rider so close to the king !"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=50299",
+    "gameName": "Let's play chess",
+    "players": "mfcf (1200) vs. utopia65 (1137)",
+    "opening": "King's pawn game (C50)"
+}

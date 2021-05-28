@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2": "I probably should not have played this move and 7. h3 since they are both designed to stop the pin occurring after ... Bg4 from being effective. No need to play both! ",
+        "5... O-O": "Castling, something I probably should do too. His monarch is completely safe, especially since his dark-squared comfortably controls the long diagonal. Well, we'll see who ends up being master of the long diagonal!",
+        "6. Be3 e5 7. h3": "?",
+        "7... exd4 8. Bxd4 c5 9. Be3 Qa5 10. Bf3": "I preferred this move over 10. f3 because that would create dangerous holes in my kingside, even with my dark-squared bishop still there.",
+        "10... Re8": "All out on e4, it seems.",
+        "11. Qc2": "While this allows a combination of sorts, I figured black would refrain from playing it since it weakens the back rank and the long diagonal considerably.",
+        "11... Nxe4": "No, he does play it.",
+        "12. Bxe4 Rxe4 13. Qxe4 Bxc3+ 14. bxc3": "He probably did not expect me to play this, since I seem to be giving my rook away. But I can at least grab his bishop after 16. Qe8+ and 17. Qxc8 or try to mate him with 16. Bh6 even though no direct mate is available since his queen controls the long diagonal. ",
+        "14... Qxc3+ 15. Ke2 Qb2+ 16. Kf3": "Retreating to the back rank is no option and I preferred this over 16. Bd2.",
+        "16... Qf6+": "Not such a good check. My king was worse placed on f3, at least depriving my knight of its most natural square. ",
+        "17. Kg3 Nc6 18. Nf3": "Time to connect the rooks.",
+        "18... Bf5 19. Qh4": "While this looks like I'm offering a trade of queens, that was not my intention and not in my best interest either. I figured he wouldn't trade queens since he's behind in material. I did this to take control of some important squares. ",
+        "19... Qc3": "? Not such a useful place for the queen. Nothing is threatened and he removes his queen from the defense of his king, which is already feeling a cold draught since his bishop left.  ",
+        "20. Bg5": "Threatening to take over the long diagonal, with real mating options on g7.",
+        "20... Qg7": "More or less forced. This move makes sure that my queen cannot venture to h6. ",
+        "21. Bf6": "Yeah, I control the long diagonal!",
+        "21... Qf8 22. Bc3": "I would like my queen to take place on f6. His completely useless light-squared bishop blocks 22 ...f5. His knight and queen are also far away from the defense of their king.",
+        "22... h6": "Making an escape square on h7.",
+        "23. Qf6 Kh7": "Forced. ",
+        "24. h4": "Setting up a devastating check... There is nothing black can do to stop this.",
+        "24... Re8": "Probably trying to drive away my queen with 24... Re6.",
+        "25. Ng5+": "Here black resigned. Mate follows after 25... hxg5 26. hxg5+ Kg8 27. Rh8# (or 27. Qh8#). Thanks for the enjoyable game microsurgeon! "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=35836",
+    "gameName": "Let's play chess",
+    "players": "ragozin (1705) vs. microsurgeon (1699)",
+    "opening": "King's Indian (E73), Semi-Averbakh system"
+}

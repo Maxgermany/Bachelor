@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5": "at least, a decent opening...",
+        "2. d3 g6 3. Nc3 Bg7 4. Be3 b6 5. Nf3 a6": "against Nb5...",
+        "6. a4 e6 7. Rb1": "you tell me...",
+        "7... Ne7 8. Be2 O-O 9. O-O d5": "this is Sicilian day: so d5, is in order...",
+        "10. exd5 exd5 11. Bg5 f6": "White is not getting anywhere, soon...",
+        "12. Bh4 d4": "always a sign, of a winning Sicilian: playing d4, before White does...",
+        "13. Na2 Nf5 14. Bg3 Nxg3 15. fxg3 Nc6": "now, for some serious chess...",
+        "16. c3 Be6 17. b3 dxc3 18. Nxc3 Nb4 19. Ne4 h6": "against Ng5...",
+        "20. h3 f5": "here is why...",
+        "21. Nf2 Qc7 22. Nh2": "g3 is a target: we let it be, for a while...",
+        "22... Rad8 23. Qd2 b5 24. axb5 axb5 25. g4 Bd4": "Black has better targets...",
+        "26. gxf5 Bxf5 27. Qxh6 Qh7 28. Qxh7+ Kxh7": "taken care of...",
+        "29. g4 Be6 30. Nf3 Nc2": "horse, on a mission...",
+        "31. Ng5+ Kh6 32. Nxe6 Ne3 33. g5+ Kh7 34. Nxd8": "probably, the wrong Rook...",
+        "34... Nxf1 35. Rxf1 Rxd8 36. Kg2 Be3 37. Ne4 c4 38. bxc4 bxc4": "and White timed out..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-on-top-again-part-2?gm=65246",
+    "gameName": "fiercequeen on top again (part 2)...",
+    "players": "chanchi (1677) vs. fiercequeen (2059)",
+    "opening": "Sicilian defence (B20)"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Attack the centre and opens lines for queen and LSB ",
+        "1... c6": "Attacks centre while opening lines for queen",
+        "2. d4": "Again I attack centre while gaining space and opens c1-h6 diagonal for DSB",
+        "2... d5": "Black counters my strong centre",
+        "3. exd5": "The idea behind this move is to latter used the e-file to attack and gain better control over e5-square.",
+        "3... cxd5": "Best move. Not 3..Qxd5 because of 4.Nc3(gaining tempo and attacking centre)",
+        "4. c4": "Attacking centre and preparing Nc3 while opening d1-a4 diagonal for queen for activity.",
+        "4... Nf6": "Best move as it develops kindside and defend's d5 pawn. This move also helps black control centre square e4",
+        "5. Nc3": "Applying more pressure on d5 and e4 square",
+        "5... Nc6 6. Nf3 Bg4": "Not the best. Stronger was Bf5 controling the b1-h7 diagonal, with the idea to trade off Light Square Bishops",
+        "7. Be3": "Defending d4 pawn as black is applying lots of pressure on it(Nc6,Qd8 and Bg4 are all applying pressure on d4, Directly and Ndirectly).",
+        "7... e6": "Better than 7...dxc4 8.Bxc4 Bxf3 9.Qxf3 Nxd4 10.Bxd4 Qxd4 11.Bb5 Nf6 12.Qxb7 Rd8 13.Rd1 with a clear advantage",
+        "8. cxd5 Nxd5 9. Nxd5": "Bad move by me,As it helps blacks development. Better was 8.Bd3",
+        "9... Qxd5": "Advantage is now in blacks hands as he is ahead in development",
+        "10. a3": "Only good move. If 10.Be2 then black just play 10..Bb4+ then I lose my castling move.",
+        "10... Bxf3": "Blacks lose now any advantage he had as he is preparing to trade off queens and give me the bishop pair in a very open endgame. I think better was 10.. Bd6",
+        "11. Qxf3 Qxf3 12. gxf3 g6": "Bad move. All it does it not develop and weakens his black squares. Bd6 was better",
+        "13. Bc4 Bg7 14. O-O-O Rc8 15. Kb1 O-O": "In this position it can be seen that I have the better endgame simply because I have a bishop pair And I am not prepared to trade bsihops any time.",
+        "16. d5": "Trying to get rid of my weak isolated pawn.",
+        "16... Ne5 17. Be2 exd5 18. Rxd5 a6 19. Rhd1": "Controling d-file and preparing to attack his Queenside pawns soon",
+        "19... Nc4": "Blunder,better was 19..Rfd8",
+        "20. Bxc4 Rxc4 21. Bc5": "Winning move. If 21..Re8 then 22.R5d8 Rxd8 23.Rxd8 winning the bishop soon",
+        "21... Rxc5 22. Rxc5 Re8 23. Rc7": "Black Resgins as I clearly got a very easy endgame to win. Plz leave your comments and ask any questions."
+    },
+    "url": "https://gameknot.com/annotation.pl/caro-kann-b13-explained-in-detail?gm=52509",
+    "gameName": "Caro-Kann (B13 Explained in Detail)",
+    "players": "richi007 (1804) vs. jbl_iii (1822)",
+    "opening": "Caro-Kann (B13), Panov-Botvinnik, Herzog defence"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Bxc6 dxc6 6. d3 O-O": "The computer says this was a mistake for black, suggesting that Qd6 was the better move, with a long string behind it showing that black ends up controlling the center largely due to stacked pawns on the e file. That seems presumptuous to me and I don't know who died and put the computer in charge of things.",
+        "7. Nxe5 Bd4 8. Nf3 c5": "So far, Reuben is doing fine. The computer marks this down on a mistake on black's part. Bc5 is the computer's preference. Anyone care to take a guess why? I'm guessing it's got something to do with cutting off the diagonal for the bishop, but this is a gap in my knowledge.",
+        "9. Nxd4": "c3 is the preferred move because black's bishop is cut off from retreat by the previous move to c5, forcing a bad trade in the form of Bxf2. Trading the knight was unnecessary and only helps black instead of strengthening white's position.",
+        "9... Qxd4": "I guess a central and unthreatened Queen is a pretty good thing.",
+        "10. c3 Qe5 11. Nd2 b5 12. Nf3 Qd6 13. Qe2": "Here is a blunder. e5 to threaten the Queen and knight both was the much stronger move, and who doesn't feel strong pushing your opponent's Queen around with a little pawn? But yeah, Reuben missed a great opportunity to capture both material and position here and this is probably the move that cost him the most.",
+        "13... Ng4 14. e5": "A move too late here and it has no teeth.",
+        "14... Qg6 15. d4 Bb7 16. dxc5": "Nh4 was the better move, pushing the Queen back and preventing an alignment of forces which proves to be really powerful later.",
+        "16... Bxf3 17. Qxf3 Nxe5 18. Qf4 Nd3 19. Qxc7 Rac8 20. Qxa7": "Even though this move picks up material, it puts white's Queen out of the action.",
+        "20... Rfe8": "Black takes advantage of the empty file and also solidifies his claim on e1. The end is near.",
+        "21. Qa5": "Further removing the Queen from the action. Where's the benefit here? Even the threat of Qxb5 is immediately defeated if black responds with Rxc5. Black is able to effectively ignore the Queen for the rest of the game now and takes ownership of e1 as previously staked out.",
+        "21... Ne1 22. g3": "Mate in 10? Refer to Bipolarcorner's comments about calculating this far out.",
+        "22... Nf3+ 23. Kh1": "...but by now you have to be feeling uncomforted. ",
+        "23... Qg4 24. Rd1": "Mate in 2 here. This game is over.",
+        "24... Qh3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=58874",
+    "gameName": "Team match",
+    "players": "reubencpiplupyay (1271) vs. madamm (1254)",
+    "opening": "Ruy Lopez (C64), classical defence, Zaitsev variation"
+}

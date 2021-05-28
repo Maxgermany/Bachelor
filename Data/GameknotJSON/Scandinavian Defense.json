@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 d5": "Scandinavian Defense, which I consider to be a less than optimal opening choice. Accurate play from White results in trouble early for Black. of the ~17,000 games in the GK database(World) White wins 41%, Black 29%, Draw 30%.",
+        "2. exd5 Qxd5 3. Nc3 Qa5 4. d4 a6": "This move was a shocker for me and takes us out of the world database, although it has been played ~60 time on GK, but with a 58%-36% edge to White. Had my opponent played something like Nf6 then my usual response would be Bd2, but now this move seems to score about even for Black. I decide to develop first with Bc4 and see what comes out of this new (for me) move. ",
+        "5. Bc4 Bf5 6. Nf3 Nc6 7. Bd2": "So far we're still in GK's database, with a 53%-40% edge to White. Nothing out of the ordinary yet, seemingly standard developing moves. ",
+        "7... e6": "7... O-O-O may look tempting for black but it is rife with trouble after 8. Nd5. Yet due to the discovered attack on the queen, 7... e6 doesn't prevent 8. Nd5",
+        "8. Nd5 Bb4": "Black doesn't want to move the queen due to the fork on c7, but blocking with the knight is better than blocking with the bishop. ",
+        "9. Nxb4 Nxb4 10. a3": "Now we see why, the pin on blacks knight would not be a problem if it was the bishop recapturing, as it could simply take on d2. ",
+        "10... Nxc2+ 11. Qxc2 Qb6": "Better is 11...Qxa3, although black is in a hole now no matter what. ",
+        "12. Qc3": "Better is 12. Qa4  ",
+        "12... O-O-O 13. Ne5": "Now even though White is low on defenders of d4, he is threatening Nxf7, winning more material. ",
+        "13... Bg6 14. Be3 Qd6 15. Bd3": "Aiming to remover the defender of f7. ",
+        "15... f6": "Black drops a pawn right....",
+        "16. Bxg6": "....",
+        "16... fxe5": "....",
+        "17. dxe5": "there. ",
+        "17... Qd5 18. Bf7": "Not worried about the invasion of the Queen via Qxg2, looking to threaten the Black King and bring the game to a close. ",
+        "18... Qxg2 19. Bxe6+ Kb8 20. Ke2": "Seemingly open, but well defended. ",
+        "20... Qg6 21. Qc5": "The bishop may seem to be hanging, but in fact all subsequent lines to Qxe6 involve mate or an enormous material loss. 21...b6 is necessary to prevent the *immediate* intrusion of the White Queen. ",
+        "21... Qxe6 22. Qa7+ Kc8 23. Qa8+ Kd7 24. Rhd1+": "Now Black's choice, mate or loss of material. ",
+        "24... Ke7": "Mate it is. 24...Kc6 stalls the moment after 25. Rc1  Kb5 26. Qxb7  Qb6 27. Bxb6 cxb6  mate is coming, but still a few moves down the line. ",
+        "25. Qxd8+ Kf7 26. Rd7+": "Qxd7 results in a walking of the king towards the h file after Qxd7  Ne7 e6  Kf6 Bg5  Kxg5 Qxe7 ... while Qe7 results in a huge loss of material after Rxe7  Nxe7 Qxh8... ",
+        "26... Kg6": "But this results in checkmate. ",
+        "27. Qg5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/scandinavian-defense?gm=18999",
+    "gameName": "Scandinavian Defense ",
+    "players": "concordborn (1589) vs. arich (1542)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

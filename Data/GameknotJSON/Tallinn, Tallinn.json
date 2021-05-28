@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Qc2 Re8": "Alternative variation: 7... c5\n",
+        "8. Rd1": "Valge vanker paikneb siin h\u00e4sti, kui must tahaks l\u00e4bi viia edasil\u00fcket c7-c5. Aga kui mitte... Vooremaa \u00fcritabki oma plaaniga t\u00f5estada, et vankri toomine d1-le pole sugugi ideaalne lahendus.",
+        "8... c6 9. a3": "\n",
+        "9... a5": "!?\n",
+        "10. h3": "\n",
+        "10... h6 11. Bf4 dxc4 12. Bxc4 b5 13. Bd3 Qb6 14. O-O Ba6": "Paistab, et must on suutnud arenguprobleemid lahendada.",
+        "15. e4 b4 16. axb4": "V\u00f5i 16. Na4 Bxd3 (16... b3 17. Qe2 Qa7 18. Rc1) 17. Rxd3 (17. Qxd3 Qb5) 17... Qb5 18. Re1.\n",
+        "16... axb4 17. Nb1": "Ratsu paikneb j\u00e4rgnevalt b1-l halvasti. V\u00f5rdsuse annaks 17. Re2 Oxd3 18. Lxd3 c5.\n",
+        "17... c5 18. Bxa6 Qxa6 19. d5": "\n",
+        "19... exd5 20. e5": "20. exd5 Bd6 21. Bxd6 Qxd6 22. Nbd2 Nxd5 23. Nc4 (23. Ne4 Qc6 on mustale parem) 23... Qc6 soodsama seisuga mustale.\n",
+        "20... Nh7 21. Rxd5 Nhf8 22. b3 Nb6 23. Rd3 Ne6 24. Be3 c4 25. bxc4 Nxc4 26. Nbd2 Nxe3 27. Rxe3 Rac8 28. Qb2 Red8": "Mustad vigurid paiknevad ideaalselt, lisaks on neil tugev vabaettur b4.",
+        "29. Ra1 Qc6 30. Nb3 Bg5 31. Nxg5": "31. Vee1 Rf4\n",
+        "31... hxg5 32. g3": "Viga, mis v\u00f5imaldab mustal efektselt partii l\u00f5petada.\n",
+        "32... Nf4": "!!",
+        "33. f3": "Ratsu l\u00f6\u00f6misele j\u00e4rgneks 33. gxf4 gxf4 34. Vee1 (34. Ve2 f3 35. Ve3 Lg6+ ) 34... Qg6+ 35. Kh1 (35. Kh2 Vc2) (35. Kf1 f3) 35... Vc2 36. Lb1 Vd3 matir\u00fcnnakuga.\n",
+        "33... Qb6 34. Rae1 Nd3": "0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/tallinn-tallinn?gm=32713",
+    "gameName": "Tallinn, Tallinn",
+    "players": "Bagirov, Vladimir (2505) vs. Vooremaa, Andres (2415)",
+    "opening": "QGD Slav (D30)"
+}

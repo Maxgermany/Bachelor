@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 e6 3. c4 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3 O-O 9. dxc5 Bxc5 10. Bg5 d4 11. Bxf6 Qxf6 12. Nd5 Qd8 13. Nd2 Re8 14. Rc1 Bf8 15. Nb3 Bg4 16. Re1 Qd7": "I couldn't recall Re5, Rac8, or analyze fast enough so I am already much worse after Qd7?\nAlternative variation: 16... Re5 17. Nf4 Bb4 18. Rf1 d3 19. Nxd3 Bxe2\nAlternative variation: 16... Rc8 17. Nxd4 Nxd4 18. Qxd4 Bxe2\n",
+        "17. Nxd4 Nxd4 18. Qxd4 Bd6": "Alternative variation: 18... Bxe2 [I thought that I was getting a pawn back with this move when I played Qd7 but the Queen can't be left alone] 19. Nf6+\n",
+        "19. e4": "Alternative variation: 19. Nc7 Bxc7 20. Qxd7 Bxd7 21. Rxc7 [Ends black's suffering.]\n",
+        "19... Be5 20. Qd2 Rad8 21. f4 Bb8 22. Re3 a6 23. Rd3 Kh8 24. Kh1 Bh3 25. Nb4 Bxg2+ 26. Qxg2 Qa4": "I thought that I was getting a pawn back so it was difficult to not take the bait.\n",
+        "27. Nd5": "I intended Qxa2 but then noticed that Ra3 bags the Queen. I did not properly evaluate the consequences of my next move. This was not a situation that process of elimination could be used.\n",
+        "27... Qxe4": "Alternative variation: 27... Ba7 [Black can attempt to survive]\n",
+        "28. Qxe4 Rxe4 29. Nf6 Ree8 30. Nxe8 Rxd3 31. Rc8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/charleston-sc-simul?gm=32154",
+    "gameName": "Charleston, SC Simul",
+    "players": "Lubomir Ftacnik, GM. (GM) vs. Amback ",
+    "opening": "Queen's pawn game (D02)"
+}

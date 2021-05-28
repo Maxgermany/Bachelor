@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "First game back after a small break from the siteunder a new user name",
+        "1... e5": "Normal opening",
+        "2. Bc4": "Bishop",
+        "2... d6": " I am black",
+        "3. Qf3": "Queen",
+        "3... f6": "Pawn",
+        "4. Nc3": "Kight ",
+        "4... Nh6": "Kight must be rusty",
+        "5. d3": "Pawn",
+        "5... Be7": "Bishop",
+        "6. h4": "Pawn",
+        "6... Kf8": "King",
+        "7. a4": "Pawn",
+        "7... a5": "Blocks pawn.",
+        "8. Ra3": "Rook",
+        "8... Ke8": "King",
+        "9. Bxh6": "Bishop",
+        "9... gxh6": "Takes bishop.",
+        "10. Qh5+": "Resigned "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=66753",
+    "gameName": "Let's play chess",
+    "players": "zoola (1105) vs. gamegold10 (1200)",
+    "opening": "Bishop's opening (C23)"
+}

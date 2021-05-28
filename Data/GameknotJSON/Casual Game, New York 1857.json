@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5": "In 1857, did you expect anything else?",
+        "2. Nf3 Nc6": "Standard stuff.",
+        "3. Bc4 Bc5": "Book.",
+        "4. b4 Bxb4": "Morphy loved to use the Evans as White, but he's unafraid of it as Black.",
+        "5. c3 Ba5": "Book play.",
+        "6. d4 exd4": "The usual line.",
+        "7. e5 d5": "The usual 7th move for White is to castle. Morphy counters Marache's pawn advance with an aggressive counter of his own.",
+        "8. exd6 e.p. Qxd6": "The exchange of central Pawns accentuates Morphy's development.",
+        "9. O-O Nge7": "Morphy prepares to castle his King into safety. Marache's best line is probably 10 B-R3, driving Morphy's centralized Queen.",
+        "10. Ng5 O-O": "Morphy's King is now secure, and he can launch his attack.",
+        "11. Bd3 Bf5": "Clearing the last minor piece off the back rank.",
+        "12. Bxf5 Nxf5": "The exchange of minor pieces does nothing to slow Morphy's developing attack.",
+        "13. Ba3 Qg6": "Marache wastes two moves going after an unthreatening Rook while letting Morphy's Queen assume a menacing post.",
+        "14. Bxf8 Qxg5": "Morphy willingly gives up the exchange, as he has four active pieces in return while Marache's Q-side pieces are uselessly sitting on their original squares, unable to help the threatened King.",
+        "15. Ba3 dxc3": "Fully clearing both center files for use as lanes of attack.",
+        "16. Bc1 Qg6": "Keeping his Q pointed balefully at the King.",
+        "17. Bf4 Rd8": "Seizing the freshly opened Q file.",
+        "18. Qc2 Ncd4": "Threatening the Queen and closing in on the King.",
+        "19. Qe4 Ng3": "Threatens NxQ and if the Q moves away, N/5-K7 mate. According to some sources, Marache resigned here.",
+        "20. Qxg6 Nde2#": "According to other sources, this elegant finish was how it ended. I don't know who's right, so I'll go with the beautiful checkmate."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-new-york-1857?gm=38413",
+    "gameName": "Casual Game, New York 1857",
+    "players": "Napoleon Marache  vs. Paul Morphy ",
+    "opening": "Evans gambit (C52), compromised defence"
+}

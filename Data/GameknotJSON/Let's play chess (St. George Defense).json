@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 a6": "An unusual opening designed, I assume, to confuse White.  As far as I can tell this is an absolute waste of a move except in so far as it prevents a Ruy Lopez opening and generally limits White's King's bishop.",
+        "2. b3": "White opts to direct play towards the King-side, looking for Bb2 to control the diagonal.",
+        "2... Nc6 3. Nf3 e5 4. Bb2 Qf6": "? Early queen play while Black is undeveloped seems unwise.",
+        "5. d4": "The thought here was to force Black off the diagonal by pressure.",
+        "5... Bd6": "Saves the pawn, but at the cost of blockading the QP.",
+        "6. Be2": "White prepares to castle.",
+        "6... Nxd4": "An unexpected opening to the exchange from my (White's) point of view, and forces the issue uncomfortably.",
+        "7. Nxd4 exd4 8. Qxd4": "If 8. Bxd4, then the continuation ...Be5 9. c3 to protect the Rook is awkward at best.",
+        "8... Qxd4 9. Bxd4 f6": "White comes out with a far superior position and the attack, but very little to attack.  Pawn pressure may be in order.",
+        "10. Nd2 Be5 11. Bxe5": "A mistake, as it removes the bishop pressure too easily.  Better is 11. Nf3.",
+        "11... fxe5 12. O-O d6 13. Nc4": "The Knight has nowhere to play; again, Nf3 is better.",
+        "13... Be6 14. h3 O-O-O 15. Bg4 Bxg4 16. hxg4 Nf6 17. f3 Nd7 18. Ne3 g6 19. Nd5 Rde8 20. a3 c6 21. Nc3 Rhf8 22. Rad1 Kc7 23. g3 Nb6 24. Kg2 Red8 25. f4 Nd7 26. Kh3 Nf6 27. Kh4 Rfh8 28. g5 Nh5 29. Rd3 Rhf8 30. Rdf3 exf4 31. gxf4 Ng7 32. Kg4 Ne6 33. Ne2 h5+ 34. Kg3 c5 35. b4 Kc6 36. c4 Rde8 37. f5": "The fatal mistake.  I outright missed the 37. ... Nxg5 move in my eagerness to press the pawn attack.",
+        "37... Nxg5 38. Rf3f4": "There is no good move.",
+        "38... Nxe4+ 39. Kh4 g5+ 40. Kh3": "40. Kxh5 is a possibility, but ... Rh8 would cause all sorts of other problems.",
+        "40... gxf4 41. Nxf4": "Worse and worse.",
+        "41... Rxf5": "Resignation is highly in order; White does so.  A hugely misplayed game for me.  This game made me realize I need to work on pawn positions much more than I had thought."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-st-george-defense?gm=27718",
+    "gameName": "Let's play chess (St. George Defense)",
+    "players": "jmfpeaceable (1436) vs. sun123 (1490)",
+    "opening": "St. George (Baker) defence (B00)"
+}

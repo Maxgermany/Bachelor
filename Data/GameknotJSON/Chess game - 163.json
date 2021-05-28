@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 d6": "I am black for this game. just wanted to post my solid opening on black. props if you can name it.",
+        "2. Nf3 Nf6 3. Nc3": "white seems to be devoloping minors over pawn structure, which is common and there isn't a problem with it, but... well, you'll see. ",
+        "3... Bg4 4. Be2": "the possible responses to this are this and h3. h3 leads to a fun noah's ark variation of the opening the end result of which is bh7, or I can take the night after h3, either way works. with the bishop its more of a build up situation. ",
+        "4... e6": "now that I have my bishop out I don't want it coming back. ",
+        "5. O-O c6": "a lot of opening is done at this point, especially because the c- bishop hasn't been able to move yet. ",
+        "6. d4 h6": "I want the c-bishop to move, but I don't want to lose the knight, or get an unwanted pin. ",
+        "7. b4": "trying to take down my c-pawn, are we?",
+        "7... g5 8. d5": "one of us finally takes the offensive. pins are all well and good, but iwas high time we started clearing part of the board. ",
+        "8... Bxf3 9. Bxf3 g4": "though this pawn is relatively weak, it gets the job done.",
+        "10. Be2 Bg7": "potential nxe4 nxe4 bxa1!",
+        "11. f3": "well, I'm glad I don't have my white bishop anymore. ",
+        "11... g3 12. h3": "?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?",
+        "12... Qb6+": "check!",
+        "13. Kh1 Qxb4 14. Bb2": "ok, this is white's biggest mistake. ",
+        "14... Qxb2 15. Qd2 cxd5 16. exd5 Nxd5 17. Nxd5": "my mistake. (Nc7 threat)",
+        "17... Nc6": "I missed it, I was rushing to play this game of blitz. ",
+        "18. Nc7+ Kd8 19. Nxa8 Nd4 20. Rfb1 Qa3 21. Rxb7 Nxe2 22. Qxe2 Bxa1": "ok, I have now avenged the death of my rook. ",
+        "23. Rxf7": "?????? thanks for giving me the game. ",
+        "23... Qc1+ 24. Qf1 Qxf1#": "the end of the game, his h3 ended up killing him. "
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=41610",
+    "gameName": "Chess game",
+    "players": "???  vs. ??? ",
+    "opening": "Pirc defence (B07)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I am annotated this game to ask others about the position and get feedback. The computer calls a set of moves near end of game a blunder. However, I purposely sacrificed a knight to gain a rook. Please comment on this and let me know your thoughts. Black resigned, so I really don't know how it would have turned out, but it didn't look good for black.",
+        "1... e6": "I like playing against this defense.",
+        "2. d4": "Looking for a strong center game.",
+        "2... d5": "Anticipated this move and appreciate the tension.",
+        "3. Nc3": "Discouraging the pawn capture.",
+        "3... Nf6": "Touch\u00e9 ",
+        "4. Bg5": "Pinned the knight, pretty standard so far",
+        "4... h6": "I prefer playing Be2 here as black. Otherwise, my king pawns get skewed and reduces the effectivity of a king side castle",
+        "5. Bxf6": "First blood! I don't mind the exchange and his only option is to double the pawns kingside. Notice black still has no minor pieces developed.",
+        "5... gxf6 6. exd5": "Was hoping to draw his queen out, but either wanted to open up the center.",
+        "6... exd5": "Capture back",
+        "7. Qf3": "I did think it was premature to bring the queen out, but I was eyeing the b7 pawn.",
+        "7... c5": "Mistake on blacks part. I think maybe he thought I would take and give him the center, but that would never happen.",
+        "8. Nxd5": "Things are setting nicely. I just need to coax his bishop out of position.",
+        "8... f5": "He moves to take his pawn out of harms way, but the cell he exited is still my knights target.",
+        "9. Bb5+": "Hoping he brings his bishop out.",
+        "9... Bd7": "Abracadabra!",
+        "10. Nf6+": "Ok, so I have his rook now and thinking this was pretty good. However, commuter analysis calls this move a blunder. Why?",
+        "10... Qxf6": "Really should have moved the king, but I don't think he sees the rook threat.",
+        "11. Qxb7": "Black resigns here."
+    },
+    "url": "https://gameknot.com/annotation.pl/chump1978s-mini-tournament-xii?gm=56121",
+    "gameName": "chump1978's mini-tournament XII",
+    "players": "russ20124 (1385) vs. cvernon1988 (1273)",
+    "opening": "French (C11), Burn variation"
+}

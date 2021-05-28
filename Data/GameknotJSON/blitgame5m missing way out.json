@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4": "I am not used to play queen pawn opening, and much less this apporach, but I saw it in one of the games damalfi played and commented, so I thought about trying it out (and against a 2044 rated!). Lesson: If you have no ideas of chess opening, you may want to learn first and then try things out. On the other hand, you learn by playing.",
+        "2... Nf6": "I wish I could comment on the defence, but, as mentioned, I have no idea. So let\u00b4s skip moves till middlegame.",
+        "3. e3 Nbd7 4. Bd3 c6 5. Nf3 e6": "Now this starts looking like an slav defence, though I am not used to find WB on f4 when I play it with black.",
+        "6. Nbd2": "I think it covers both sides in case you need to use the knight in on or the other flank. I am thinking about either supporting advance on c4 or play Nb3 after 6...Bb4; 7.c3.",
+        "6... Be7 7. c4": "Here we go. Maybe I should have waited, since I was considering taking the long castling in case black aimed for a short one. I still keep the idea to advance on the black king\u00b4s flank in case of castling, and even moving my own king to f1 in case of check (a long future one)",
+        "7... Nh5 8. Bg3 Nxg3": "This is a move I did not expect, since it seems to open a dangerous column on h. I am not sure about the quality of it, but definitively sets my mind on a shear attack on that flank.",
+        "9. hxg3 dxc4 10. Nxc4": "Better than Bxc4. Now N in c4 has a strong jump point into e5, while Bb3 is still controlling the b1-h7 diagonal.",
+        "10... Nf6 11. Nce5": "Now even more clear to me. It seems to be a duel on knights controlling the centre, since I thought black can (in the future) jump onto d5. But now, BB in c8 is passive while its counterpart on the white side is still a pain... in BK neck\u00b4s.",
+        "11... h6": "With the idea to prevent Ng5.",
+        "12. Ng5": "Which is still valid.",
+        "12... O-O": "Now I started to spend time thinking on how to attack here. it seems a really sweet situation for white. But you really have to be a good player to come out with something profitable in a short period of time. Otherwise, you lose your time, and thus, most likely the game. I just thought how great would be to expel that N in f6. Any suggestions here are more than welcome!",
+        "13. Ne4": "And this is all I got. Maybe Qc2 threatening to double team rooks on h after a long castling would have been more effective.",
+        "13... Nxe4": "So I remove that nasty defender, but black has now the possibility to counterattack, releasing pawns in \"f\" and then \"e\" columns, and opening a path for his Bc8",
+        "14. Bxe4 Bf6": "Or bringing his bishop here, which is also good. Now, it seems we have reached a theme position here, but I cannot find the goldmine.",
+        "15. Qg4": "It doesn\u00b4t seem good enough, but , as said, I cannot find anything better. Now I can think again about a long castling and bring the second rook to cooperate in the attack (although during the game, I did not think about that castling at all...). Maybe f5 would have been a nice alternative.",
+        "15... Bxe5 16. dxe5": "Nothing clear came after 16.Rxh6",
+        "16... Qa5+": "I did not foresee this simple time gained, bringing the big guns to support the defence.",
+        "17. Kf1 Qxe5": "Now white really needs to do something strong in order to win the game. Playing defensively thinking about f5 does not seem like an alternative.",
+        "18. Rxh6": "Now the threat is Rh8+, Kxh8 and then mate with the queen.",
+        "18... f5": "Here we go. I spent most of my remaining time here (and with the previous move) and came with...",
+        "19. Qh5": "...sucha  wasted move. A classic example of \"I have seen that if I move my queen to h5, my rook will be lost\" and after a few more seconds, you cannot find anything and you seem to think Qh5 is a good one.\nBut it is not.",
+        "19... gxh6": "End of story.\nIf you guys find an alternative to 19.Qh5, please, let me know! I just couldn\u00b4t get even a draw position here."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitgame5m-missing-way-out?gm=59052",
+    "gameName": "blitgame5m missing way out",
+    "players": "kenderfender (1860) vs. rama38 (2044)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

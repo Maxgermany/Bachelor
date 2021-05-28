@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 Nc6 4. a3 d5 5. e3 g6 6. cxd5": "better perhaps Nc3/Qc2 as behind in development",
+        "6... Nxd5 7. e4": "again, development is v.poor",
+        "7... Nf6": "forced, pretty much",
+        "8. Bg5": "fair enough - to pressure N & protect e4 pawn... however",
+        "8... Be7 9. e5": "... I then move e4 pawn? - still behind in development\nShould have strengthened centre & castled",
+        "9... Nd5 10. Bb5": "Bb5?? B on g5 att2, def1 !!!\nBetter BxBe7,QxB;BxNc6,bxc6;0-0...",
+        "10... Bxg5 11. Bxc6+": "... no choice really -p doomed",
+        "11... bxc6 12. Nxg5 Qxg5 13. O-O Nf4 14. Qf3 Nd5 15. Nc3 Nxc3 16. Qxc3 Bb7 17. Qa5 c5 18. Qxc7 Qxg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2-poor-development?gm=3068",
+    "gameName": "League division D2 (Poor Development)",
+    "players": "deejie (1306) vs. koi-1 (810)",
+    "opening": "Queen's pawn game (E10)"
+}

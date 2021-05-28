@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Steinitz began with his favored King's Pawn Opening.",
+        "1... e6": "Bird responded with e6, a move that gains momentum in preparation for a d5 advance in the next move.",
+        "2. d4": "Steinitz quickly grabs space (the c5 and e5 squares) before defend e4 after Bird's likely 2...d5 advance.",
+        "2... d5": "Bird completes the formation of the French Defence, striking at whites pawn center.  The French Defence (as seen here) is the third most popular response to the King's Pawn Opening.",
+        "3. Nc3": "Steinitz responded with the popular Rubinstein Variation.  This move begins rapid queen-side development, pressures the center, and defends e4.",
+        "3... dxe4": "Bird decides to exchange pawns.  This is a weak but common move among beginners since it allows whites knight to make a nice home on e4.",
+        "4. Nxe4": "Steinitz of course reclaims his pawn.",
+        "4... Nf6": "Bird immediately challenges White's knight.  Although it looks like a fine move at first glance, Stienitz will treat it as a mistake.",
+        "5. Nxf6+": "By capturing the knight, Bird is forced to either double his pawns or expose his queen.  Now Bird is realizing the subtle consequences of 4...Nf6, a move that he, not surprisingly, never played again in his career.",
+        "5... Qxf6": "Bird recaptures with his queen, apparently deciding against doubled pawns.",
+        "6. Nf3": "Steinitz calmly reinforces d4 and e5, but also plans to play 7. Bg5, forcing Bird's queen into the center of the board.",
+        "6... Nc6": "?! - This was probably Bird's first notable mistake.  Much better was 6...h6 or even 6...Qd8, safeguarding his queen from 7. Bg5.",
+        "7. Bg5": "Steinitz played the obvious move.  Bird's queen is forced to waste another non-developing move, while Steinitz activates yet another piece.",
+        "7... Qf5": "Bird decides to place his queen on f5.  7...Qg6 is also decent (answering 8. Bd3 with 8...Qh5).",
+        "8. Bd3": "Steinitz develops yet another piece towards Bird's queen, temporarily preventing him from developing.",
+        "8... Qg4": "?? - Of the three safe areas to place the queen, Bird succeeded in choosing the worst - and Steinitz is about to show him why.  Much better would have been 8...Qa5  or even 8...Qd5 when the queen has escape routes.",
+        "9. h3": "!! - Steinitz forces the queen to move again - but this time sacrificing a pawn.",
+        "9... Qxg2": "Bird accepts the pawn sacrifice.  Much worse is 9...Qh5 no compensation for a trapped queen after 10. g4.",
+        "10. Rh2": "! - Another great move by Steinitz, now Bird's queen is finally trapped!",
+        "10... Qxh2": "The best move in his position: make the best of a poor exchange.",
+        "11. Nxh2": "Steinitz happily gobbles the queen and firmly stands three points ahead.",
+        "11... Nxd4": "?? - In his frustration, Bird blunders once again!",
+        "12. Bb5+": "! - Steinitz makes a beautiful discovered attack on Bird's knight.  Now 12...Bd7 13. Bxd7  Kxd7 14. Qxd4  wins another piece for white!  Even worse is 12...Nxb5?? 13. Qd8# and 12...Nc6?? 13. Bxc6 , where white can't avoid mate.  At this point, Bird furiously resigns.  Although this game is a poor representation of Bird's true skill, it demonstrates Steinitz's calm and collected approach that won him the title of World Chess Champion.  In Henry Bird's defence, he received immortalization when 1. f4 was named the Bird's Opening, in his memory."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-trapped-bird?gm=14322",
+    "gameName": "A Trapped Bird",
+    "players": "Wilhelm Steinitz (?) vs. Henry Edward Bird (?)",
+    "opening": "French (C10), Fort Knox variation"
+}

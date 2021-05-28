@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4": "Nos ultimos anos, a moda e jogar Kb1. Infelicidade para os que possuem materiais da decada de 90, quando este lance era quase ignorado...\n",
+        "12... h5 13. Rdg1": "Este lance nao combina muito com o ataque, ja que g4 sempre sera jogado como um sacrificio e entao nao precisa de apoio. Vale mais a pena manter a torre em d1 por enquanto e jogar Kb1, Bg5 ou Bh6.\n",
+        "13... Qa5 14. Kb1 Rfe8": "O lance padrao para evitar incomodos com Nd5.\n",
+        "15. g4": "Coerente com Rdg1, mas convida as pretas a abrir uma cratera ao redor do rei branco.\n",
+        "15... Rxc3 16. bxc3": "Se Qc3, as pretas podem trocar as damas e tomar em g4, tendo excelente compensacao pela qualidade.\n",
+        "16... Nxf3": "Um tema bem conhecido para os fas da Dragao. Agora as pretas jogam com uma torre a menos, mas o rei branco nao se sentira a vontade em meio ao fogo cruzado da dama e das pecas menores.\n",
+        "17. Nxf3 Nxe4 18. Qd3 Nxc3+ 19. Kc1": "Alternative variation: [O Rybka sugere o aparentemente insano] 19. Kb2 [com a possivel continuacao] 19... Bb5 20. Qxg6 $1 Nd5+ 21. Qxg7+ Kxg7 22. gxh5+ Kh8 23. Ng5 Rf8 24. Bxd5 Bc6 25. Bxc6 bxc6 $13 [E teriamos uma grande bagunca devido ao material desequilibrado e ambos os reis expostos. Durante a partida, nem me passou pela cabeca uma variante tao estranha!]\n",
+        "19... d5": "Um lance importante que precisava ser encontrado desde o inicio dos sacrificio: com tantos xeques para dar, e melhor esquece-los e tomar posse de algumas casas centrais. Alem disso, o bispo de b3 nao pode ter liberdade, ou um contra-sacrificio em f7 me faria lembrar que tambem tenho um rei.\n",
+        "20. Bd4": "As brancas precisam lutar pela grande diagonal, ou 20...Bb5 deixaria a dama e o rei brancos em grandes apuros.\n",
+        "20... Qa3+ 21. Kd2 Ne4+ 22. Ke2 Bxd4 23. Qxd4 e5": "Muito tentador, ja que parece suicida tomar um peao e ativar a ultima peca preta. Mas o Rybka nao se intimida com estas coisas.\nAlternative variation: 23... Bxg4 [ E as brancas, com sua torre a mais, estao quase paralisadas. As pretas podem se dar ao luxo de consolidar em seguida com ...e6 e ocupar a coluna c.]\n",
+        "24. Qe3": "Felizmente, o ...e5 assusta!\nAlternative variation: 24. Nxe5 Qd6 25. Nxg6 Nf6+ 26. Kd1 Re4 [E embora as pretas ainda tenham compensacao apos tomar o cavalo de g6, a posicao nao e clara.]\n",
+        "24... hxg4": "Nao! Novamente, deixo de me consagrar... mas a variante ganhadora e bastante complexa.\nAlternative variation: [ O desmanche poderia ser feito com] 24... Bb5+ 25. c4 (25. Kd1 Qb2 26. gxh5 Qa1+ 27. Qc1 Qc3 [E a ameacas em f3 e f2 vao custar caro.] 28. Rf1 Ng3 29. Qd2 Qa1+ [Hora de recuperar o material, finalmente!] 30. Qc1 Qxc1+ 31. Kxc1 Bxf1 32. Rh2 Nxh5 $19) (25. Ke1 Rc8 [E a torre entra calmamente para finalizar o servico. A variante mais interessante e] 26. gxh5 Rxc2 $3 27. Rxg6+ Kf8 28. Qh6+ Ke7 [ E o rei preto mostra ser um bom atleta.]) 25... Qb2+ 26. Ke1 dxc4 27. Rh2 Qa1+ 28. Bd1 Rd8 29. Qxe4 Rxd1+ 30. Kf2 Qxa2+ 31. Kg3 Rxg1+ 32. Nxg1 Qb3+ [ E as pretas tem muitos peoes pela torre! Mas para achar todos estes lances numa partida de torneio...]\n",
+        "25. Ng5 Bb5+ 26. Kd1 Qb2": "Rd8 era mais flexivel para escolher mais tarde entre Qb4 ou Qb2, mas agora a partida nao e mais clara.\n",
+        "27. Nxe4 dxe4 28. Ke1 g3": "Confesso que durante a partida, fiquei comovido com a beleza do meu proprio lance! So esqueci de um \"pequeno\" detalhe que transformaria o meu ataque glorioso num final em que eu precisaria pensar em nao perder...\n",
+        "29. Qg5": "Ufa! O peao de g3 era imune devido a ameaca de 29...Qb1 seguido de 30...Qh1 (se 29.Rg3) ou 29...Qc1 e 30...Qd2# (se 29.Qg3). Mas ainda havia uma salvacao para as brancas.\nAlternative variation: 29. Bxf7+ Kxf7 30. Qb3+ Qxb3 31. axb3 [E a vida nao e mais um mar de rosas. O material esta equilibrado mas os meus dois peoes centrais sao meio fracos.]\n",
+        "29... Qa1+ 30. Kd2 e3+": "Agora sim! A interferencia na casa e3 vai dar fim a dama ou ao rei.\n",
+        "31. Qxe3": "Alternative variation: 31. Kxe3 Qc3+ 32. Ke4 Bc6+ 33. Bd5 Bxd5+ 34. Kxd5 Qd4#\n",
+        "31... Rd8+ 32. Qd3": "E agora a dama ativa decide a partida contra o rei exposto e as torrespassivas. \n",
+        "32... Rxd3+ 33. cxd3 Qd4 34. h5 Qxd3+ 35. Kc1 Qc3+ 36. Kd1 Bc6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/wch-u18-chalkidiki?gm=33347",
+    "gameName": "Wch U18, Chalkidiki",
+    "players": "Henry, Liam  vs. Franca, Ricardo Bedin (2181)",
+    "opening": "Sicilian (B78), dragon, Yugoslav attack, 10.O-O-O"
+}

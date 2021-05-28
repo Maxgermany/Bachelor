@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "\"Some stagger and fall, after all it's not easy...\nBanging your heart against some mad bugger's wall.\"\n\nOutside the Wall, Pink Floyd",
+        "1... e5 2. d3": "C20  KP: Indian opening",
+        "2... Nf6 3. Be2 Bc5 4. Nc3 Nc6 5. a3 h6 6. Be3": " ",
+        "6... Bxe3 7. fxe3 d6 8. Nf3 Be6": "8...Be6\n\nNotice how the e-file seems to have a wall dividing the board in two (e2, e3, e4, e5 and  e6 squares) .  Pieces on both sides will have difficulty joining the play on the opposite side.   ",
+        "9. O-O O-O": "9...0-0\r\n\r\nWhite and Black have castled to the same side of the e-file wall.  It's now a race to coordinate an attack to take advantage of the isolated Kings.",
+        "10. d4 Ng4": "10...Ng4!?\n\nLooking to make something happen.  The Knight is taking a risk but White will now have to defend the pawn on e3.  e3 is also a forking square (Nxe3) for the g4 Knight.   ",
+        "11. Qc1": "11. Qc1\r\n\r\nDefending the e3 pawn but moving the queen away from the 'action'.",
+        "11... f5": "11...f5!?\n\nThis move ignores the potential pawn fork on d5.  In fact, Black is inviting the fork  in order to gain play on the kingside.  The other possible responses by White are quite playable for Black as well.  If 12. exf5 then ...Bxf5.  If 12. dxe5 then...\n... either exd5, Ncxe5 or Ngxe5 and Black is still good.\n",
+        "12. d5": "\n",
+        "12... fxe4": "12...fxe4!\r\n\r\nNotice how the f-pawn capture accomplishes three important things.  It opens the f-file (for the rook on f8), it brings the e5 Bishop back into play against the kingside and the pawn itself gives attack to White's Knight on f3.   ",
+        "13. Ne1": "13. Ne1??\nAnother brick in the wall!!!  This Knight move is a serious blunder.   Note how White's Queen isn't able to continue its support to the rook on f1.  Also note that the Knight retreat surrenders a key defensive post.  Without a Knight on f3 White is unable to defend against a Black Queen invasion.  A better option was 13. Nxe4! \n ",
+        "13... Qh4": "13...Qh4! \r\n\r\nWhite is now at risk of being mated by Qxh2.  Another Black piece has tunneled under the wall and is attacking the isolated King.   \r\n",
+        "14. Rxf8+": "14 Rxf8  ?\n\nWith this move White gives away any control he had over the important f-file.  He also trades away his last piece on his king's side of the wall.  ",
+        "14... Rxf8": "14...Rxf8!\n\nRegaining control of the f-file and keeping the king in the corner.",
+        "15. h3": "15. h3?\r\n\r\nWhite doesn't have a lot of options really.  The Qxh2 mate was still looming.  Bxg4 may have solved that problem but then Qf2  still remained!  Nf3 surrenders the Knight but it would have allowed the Queen to aid in defense.  It isn't an attractive option but it may be the best defense here.      ",
+        "15... Qf2+": "15. Qf2 !\n\nIt is all forced from here on in.  The Queen drives the king to the corner (the Knight prevents flight on h2) and then sacrifices herself to enable mate.  ",
+        "16. Kh1": "16. Kh1\n\nOnly move.\n",
+        "16... Qf1+": "16...Qh1 !!\n\nThis sacrifice draws White's Bishop off the e2 square and thereby removes White's ability to prevent the f8 rook from giving mate on the f1.   ",
+        "17. Bxf1": "17. Bxf1\n\nOnly move.",
+        "17... Rxf1#": "Rxf1#\n\nAnd there was much rejoicing.\n\n\"If you don't eat your meat, you can't have any pudding.  How can you have any pudding if you don't eat your meat?!\""
+    },
+    "url": "https://gameknot.com/annotation.pl/another-brick-in-the-wall?gm=2929",
+    "gameName": "Another Brick in the Wall",
+    "players": "NN (?) vs. diemjay (1590)",
+    "opening": "KP (C20), Indian opening"
+}

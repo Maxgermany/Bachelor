@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. Nd2": "This is the modern way of handling the Caro-kann. White retains flexibility in how to proceed. For example, He can immediately transpose into the Botvinnik-panov attack with C4, or maine line classical with Nxe4 if black plays dxe4.",
+        "3... dxe4 4. Nxe4 Nd7": "4. ...Nd7 is arguably Black's strongest defense. Although, it does not offer much in the way of counter chances, until the later stages of the middle game. Black plays this move so that he can develop his other Knight to F6 without fear of seriously weakening is king side pawn structure. This move also prepares for blacks major pawn breaks on e5 and c5. ",
+        "5. Ng5": "The idea of this move is to regroup the forces with the aim of occupying e5 with a knight, the bishop being developed at d3, and without lose of tempo. The point is that black can not tolerate the knight on g5 for long and is force to assist the manoeuvre Ng5-f3-e5. where it will be supported by the other Knight. ",
+        "5... Ngf6": "Black can not play the immediate 5. ...h6 because of the possible sacrifice 6. Ne6! Qa5  7. Bd2 Qb6 8. Bd3 and now 8. ...fxe6 fails to 9. Qh5  Kd8 10. Ba5 winning the queen. ",
+        "6. Bd3 e6": "without completely his development it is practically impossible for black to drive the knight away",
+        "7. Ng1f3 h6": "Hind-sight being 20\\20 I will not play this move again. Ne6 is still to dangerous. ",
+        "8. Nxe6": "The correct response that gives white a clear edge in the game. ",
+        "8... Qe7": "This is blacks most opportunistic defense. 8. ...fxe6 leads black into a seriously cramped game. Although 8. ...fxe6 is defensible as well. ",
+        "9. O-O fxe6 10. Bg6+ Kd8 11. Ne5": "Although this move look dangerous it actually give black the advantage. By playing Ne5 white gives up control of e5 and allows black to free his position. Better is 11. C4, or 11. Bf4 to keep up the attack and keep black cramped. If it is clear that you have a permanent space advantage then avoiding trades is what you need to do. Eventually your opponent will be forced to create a weakness to exploit. ",
+        "11... Nxe5 12. dxe5+ Nd7 13. Be3 Qb4 14. Bf7": "Bd4 is more accurate.",
+        "14... Ke7 15. Bg6 Nxe5": "The point of the inaccuracy of Bf7 is that it allows black to grab the initiative via 15. ...Nxe5  ",
+        "16. Bh5 Qxb2 17. Bd4": "Qxb7?? Oops black got too greedy. White missed a golden opportunity to grab the win. 17. Bc5  wins by force. \n\n17. ...Kf6 18. Qd8  Kf5 19. g4  Nxg4 20. Qd3  Kf6 21. Qf3  Ke5 22. Rae1  Ne3 23. Rxe3  ",
+        "17... Qb5": "phew I avoided mate. If Calojay reads this he will be kicking himself for sure!",
+        "18. Be2 Qd5 19. a4 Kf7": "I do not know why I made this move. It is a waste of time I should have played c5 or Nd7. ",
+        "20. c4": "Calojay drops a pawn.",
+        "20... Nxc4 21. Bxc4": "when you are behind in material it is not wise to give more. you should avoid exchanges if possible. This just increases Black's advantage. ",
+        "21... Qxc4 22. Rc1 Qd5 23. Rc3 c5 24. Qf3+": "What is a guy to do! you are already so far behind in material you might as well give it all way!",
+        "24... Qxf3 25. Rxf3+ Kg8 26. Be5 Bd7 27. Rb1 Bc6 28. Rg3 b6": "I had a bit of time so I played it safe. Now white has nothing in the way of counterattacks. ",
+        "29. a5": "a further concession by white. This allows black to create two connected past pawns. ",
+        "29... b5 30. Rc1 b4 31. Rd1 Ba4 32. Rdd3 c4 33. Rd4 c3 34. Bxg7 Bxg7 35. Rxb4 Rc8": "White Resigned, there is no stopping the past pawn. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=9183",
+    "gameName": "Team match",
+    "players": "calojay (1626) vs. elyhim (1613)",
+    "opening": "Caro-Kann (B12), 3.Nd2"
+}

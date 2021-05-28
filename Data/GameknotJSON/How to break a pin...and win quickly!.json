@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "In this game, Black's Knight was pinned to his Queen.  I hope you will enjoy how I removed the pin and went on to win the game a few moves later!",
+        "1... e5 2. d4 exd4 3. Qxd4 Nc6": "Developing a piece, and repelling White's Queen!",
+        "4. Qa4": "White is planning to double attack the Knight, by moving Bb5 later...",
+        "4... Nf6": "Focus on controlling the four center squares in the opening (e4, d4, e5, and d5).",
+        "5. Bg5": "Ahh... there's that nasty pin we spoke of!  Black can't move his Knight, or he loses his Queen!",
+        "5... Bc5": "Developing another piece, continuing to control the center, and preparing to castle...",
+        "6. c3 O-O": "Black's King is tucked away safely now...",
+        "7. Nf3": "This protects White's Bishop at g5, and also concentrates on the center...",
+        "7... h6": "First move for breaking the pin...  If White plays Bxf6, Black will reply with Qxf6, leaving his pawn chain intact.",
+        "8. Bh4": "So, White retreats his Bishop, while still MAINTAINING THE PIN!",
+        "8... d6": "This move not only protects the Bishop at c5, but also opens up the white diagonal for Black's Bishop at c8.",
+        "9. Nbd2": "Developing a piece, possibly preparing to castle Queenside...",
+        "9... g5": "My plan is to push White's Bishop back to g3, breaking the pinned Knight at f6 so that I can increase my pressure on the center...",
+        "10. Nxg5": "WHAT?  Perhaps White is thinking the sacrifice will leave Black's King vulnerable to attack,  his Queen unable to come to the rescue...",
+        "10... hxg5": "I gladly trade the two pawns for a Knight, but...",
+        "11. Bxg5": ",,,UH-OH, there's that nasty pin again!  But this time, there's no pawns to repel the invading Bishop.  The only way I can move my Knight now is if I move my Queen first, right?  While pins can be broken by 1) forcing your opponent to move the piece giving the pin or 2) moving the pinned piece, they can also be broken by attacking a move valuable piece that the one your opponent has pinned your piece to.  Unfortunately, with the Queen being the most powerful piece on the board, there's nothing greater to counterattack... or IS there?",
+        "11... Bxf2+": "White now has two options:  To move the King out of check, or to take the Bishop with his King.  Either way, he's lost his opportunity to castle, because I've forced him to move his King.  Because White is already down in material, he chooses to... ",
+        "12. Kxf2": "take the Bishop with his King.  Now, all White has to do is bring in some reinforcements for his Bishop and get back to his attack on Black's Knight.  Here's the move we've been waiting for, how to BREAK THE PIN: ",
+        "12... Ng4+": "Note that even though Black has moved the pinned Knight, exposing his precious Queen, White is POWERLESS TO TAKE IT, because he MUST answer to the Check on his King!",
+        "13. Kg1": "White decides to hide his King safely on his first rank, surrounded by four of his pieces for protection.  Now the pinned Queen becomes the attacker, ",
+        "13... Qxg5": "... taking White's unprotected Bishop, regaining a  2 advantage and attacking White's Knight at d2 at the same time.  What White does next invariably costs him the game:",
+        "14. Nc4": "?  Why didn't he move Nf3?  I don't know, but I have the answer:",
+        "14... Qc5+": "Although White's King is surrounded on four sides by his pieces, there is still an open diagonal for Black's Queen to give check.  Tragically for White, it can only be protected by his Knight if he moves it to e3.  After Qxe3#, the game is over, so White resigns here.\r\n\r\nWhile I was fortunate to checkmate my opponent (there were several King moves that may have given his King more mobility), the lesson to be learned here is to answer a powerful move from your opponent with an even MORE powerful reply.  In this case, two successive checks not only broke the pin on Black's Knight, but it also unleashed the power of Black's Queen to join in the attack on White's exposed King.\r\n\r\nAlways try to castle early to avoid this type of predicament.  An exposed King has cost me many a game, so learn from your mistakes and try not to make the same ones again!\r\n\r\nI hope you enjoyed this annotation, and I welcome your comments.  Sincerely,\r\nLloyd Graham\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-break-a-pin-and-win-quickly?gm=15624",
+    "gameName": "How to break a pin...and win quickly!",
+    "players": "sherifff (1588) vs. lrgraham (1611)",
+    "opening": "Centre game (C22)"
+}

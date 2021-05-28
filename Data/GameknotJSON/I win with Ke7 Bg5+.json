@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. a4 a5": "symmetrical",
+        "2. b4 b5": "symmetrical",
+        "3. c4 c5": "symmetrical",
+        "4. d4 d5": "symmetrical",
+        "5. e4 e5": "symmetrical",
+        "6. f4 f5": "symmetrical",
+        "7. g4 g5": "symmetrical",
+        "8. h4 h5": "symmetrical",
+        "9. cxd5": "preparing Bxb5+",
+        "9... cxd4": "symmetrical",
+        "10. Bxb5+": "It is against the law to answer with Bxb4+ (recalling a scholastic tourney I directed, in which I asked a player why he didn't put his opponent in checkmate, and he responded, \"I was thinking about it, but then he's just gonna put me in checkmate.\"",
+        "10... Kf7": "getting out of the way ",
+        "11. fxe5": "bringing another flank pawn to the center so now I have 3 vs 1 in central files",
+        "11... Bxb4+": "now the check comes but it is too late, I already have too many tempo gains",
+        "12. Kf1": "instead of f2 I think I am safer here",
+        "12... fxe4": "now it's 2 vs 2 in the center but I am to move",
+        "13. Qxd4": "now it is 2 vs 1 and I threaten to win with e6",
+        "13... gxh4": "he does insignificant flank operation",
+        "14. e6+": "I win",
+        "14... Kf8": "he retreats",
+        "15. Qxh8": "I take the rook for free",
+        "15... Bb7": "he tries ",
+        "16. Bh6+": "but I win with Ke7 Bg5+"
+    },
+    "url": "https://gameknot.com/annotation.pl/i-win-with-ke7-bg5?gm=64716",
+    "gameName": "I win with Ke7 Bg5+",
+    "players": "hexchess (1799) vs. insanegamer (1420)",
+    "opening": "Ware (Meadow Hay) opening (A00)"
+}

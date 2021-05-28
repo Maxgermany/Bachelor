@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 g6 5. Bxc4 Bg7 6. Nf3 h5 7. Be3 Be6 8. O-O": "Bad move of my part????Didnt see at all his bishop....",
+        "8... Bxc4 9. Re1 Nf6 10. Ne5": "attacking the bishop",
+        "10... Nbd7": "he should have moved his bishop back",
+        "11. Nxc4 Qc7 12. e5 Ng4 13. h3 b5 14. Nd6+": "with the goal of exchanging knights and opening the e file.",
+        "14... exd6 15. exd6 Qxd6 16. Bf4+": "his knight is under attack, his queen is under attack and his king in check...",
+        "16... Nde5 17. dxe5 Qe6 18. Qd6": "offering the queen exchange",
+        "18... Qc4": "he refuses...",
+        "19. Rad1 Qxf4 20. Qxc6+": "instead of taking the g4 knight, I continue the attack on his exposed king",
+        "20... Kf8 21. Qxa8+ Ke7 22. Qb7+ Ke6 23. Qd7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/125th-gk-tournament?gm=59266",
+    "gameName": "125th GK tournament",
+    "players": "lovechiefs (1243) vs. deslekke (1263)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

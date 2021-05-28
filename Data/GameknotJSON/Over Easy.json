@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Another loss to easy. Here I have a decent game up to my 17th move.  At that point, I overestimate what the open lines will do for White and Black respectively. Followed by some other blunders, after which White resigns on move 29. ",
+        "1... e6 2. d4 d5 3. Nd2 Be7 4. g3": "Designed to pressure the center.",
+        "4... dxe4 5. Nxe4 Bf6 6. Ne2": "It is not clear that taking the bishop offers white anything in this type of position. I hoped to transpose to some favorable Queens Gambit type position.",
+        "6... Nd7 7. Bg2 Be7 8. O-O Ngf6 9. c4 Nxe4 10. Bxe4 c5": "Black strikes back at the center. ",
+        "11. Bg2": "Be3 developing was probably better. I wanted to avoid tactical shots at the bishop. ",
+        "11... O-O 12. Be3 e5": "Surprising, but forcing white to make a choice about the center.",
+        "13. d5": "This (d5!?) was risky but I thought offered more winning chances. Normally, I would have played dxc5, trying to exploit a 3-2 queenside pawn majority. I think that would have been better.",
+        "13... Qb6 14. b3 f5": "As anticipated after d5. ",
+        "15. f4": "After f4!?, White's plan was to fix the Black's kingside pawns before Black is fully developed, hoping to gain an advantage.",
+        "15... e4 16. g4": "The idea behind f4, g4! is not bad if properly executed.  White would retain kingside possibilities and the passed 4-3 pawn majority in an ending .",
+        "16... Nf6": "...Nf6! I did not expect this move, I anticipated the more passive ...g6. ",
+        "17. gxf5": "Here is the real blunder, 17 gxf5? I did not give this move enough thought, because I had expected ...g6 and thought White's pressure on the KP after Ng3 gave White a good game. Instead, g5 offered kingside chances. ",
+        "17... Ng4": "Ng4! Of course. Black does not need to worry about the f pawn.",
+        "18. Bc1": "Bc1? Another blunder. Bd2 is necessary to contest the diagonal and free the QR after Bf6.",
+        "18... Bf6 19. Rb1 Bxf5": "At this point, White's blunders give Black a real advantage. An intended Ng3 fails to Bd4 ! ",
+        "20. h3": "White tries to get something for the exchange. ",
+        "20... e3 21. hxg4 Bxb1 22. Bxe3 Rae8": "Not that far behind materially. But now another unexpected move, Re8! White would like to take the b1 Bishop, but losing the dark square bishop is too high a price. There isn't much choice anyway.",
+        "23. Qxb1 Rxe3 24. Bf3 Qd6 25. Qc2 Be5": "25...Be5?!! An unexpected, even shocking move. White should stay calm and even against a chessmaster make Black prove the sac is sound, if for no other reason than otherwise White simply loses. But White is too frustrated with the rapid turn of events to remember this basic rule. After 26 PxB,  QxP 27 Kg2 White may be able to draw. ",
+        "26. Be4": "Tantamout to resigning .",
+        "26... Bxf4 27. Bxh7+ Kh8 28. Nxf4 Rxf4 29. Bf5": "Far too late. ",
+        "29... Rg3+": "White resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/over-easy?gm=21613",
+    "gameName": "Over Easy",
+    "players": "dmaestro (1624) vs. easy19 (2232)",
+    "opening": "French (C03), Tarrasch"
+}

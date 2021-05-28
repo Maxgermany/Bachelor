@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Ouverture classique.",
+        "1... e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. h3 d6 6. Ng5": "Attaque sur f7.  Il s'avere que cette attaque est inutile, l'adversaire n'a qu'\u00e0 roquer (ce qu'il doit faire de toute fa\u00e7on)",
+        "6... O-O 7. O-O Na5 8. Bd3": "Ce coup n'\u00e9tait pas le meilleur, car je bloque mon pion en d.  Bb3 \u00e9tait mieux, si KxBb3, axKb3 cela laisse la ligne a ouverte pour la tour.",
+        "8... h6 9. Nf3": "h6 me force \u00e0 rebrousser chemin.",
+        "9... Be6 10. a3": "Je pousse a3 pour faire bouger  le fou ou le cavalier qui sont une menace potentielle.",
+        "10... Nc6 11. b4 Bb6 12. Bb2 a6 13. Ne2 Nh5 14. Ng3": "Ce coup fut d\u00e9sastreux.  Je n'ai pas vu que le fou en B6 enlevait la protection sur le cavalier en g3.  Donc un cadeau pour mon adversaire.",
+        "14... Nxg3": "La tour est maintenant menac\u00e9 et les places sont limit\u00e9s.",
+        "15. Re1 Qf6": "L'arriv\u00e9 de la reine en renfort me fait craindre le pire, mais mes pi\u00e8ces sont toutes bloqu\u00e9es et je ne peux ammener de renfort \u00e0 ma d\u00e9fensive qui s'av\u00e8re de plus en plus fragile.",
+        "16. c4": "Le but de cette pouss\u00e9e est de contrer la diagonale du fou noir.",
+        "16... Nh5 17. Rc1": "La tour \u00e9tait n\u00e9cessaire pour garder un pion en c5, \u00e0 la suite de c5, dxc5 et bxc5.  Ainsi la diagonale du fou demeure bloqu\u00e9e.  Je crois que mon adversaire jouera Nf4, mais je ne peux rien faire pour l'en emp\u00eacher (g3, Nxg3, et le fou noir emp\u00eache fxNg3).",
+        "17... Nf4 18. Qc2 Qg6 19. Nh4 Qg3 20. c5 Nxh3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-dragoneye?gm=25714",
+    "gameName": "Challenge from dragoneye",
+    "players": "dragoneye (1576) vs. nimzopening (2035)",
+    "opening": "Four knights (C46), Italian variation"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "Mini Tournament, I'm playing white and begin with the Open Game. Joanne is annotating a series of \"Blunderfest\" games and I'm contributing this game and my next annotation to that series as a guest annotator. This game isn't exactly a \"fest\" of blunders, but it does end quite abruptly with one.",
+        "1... c5 2. Nf3 g6 3. d4": "Black's 2nd move to fianchetto the DSB signifies the Hungarian, or Accelerated Fianchetto, Variation.",
+        "3... cxd4 4. Nxd4 Nc6 5. c4": "Now black is tansposing to an Accelerated Dragon Variation. 5. c4 is the Maroczy Bind.",
+        "5... Nf6 6. Nc3 d6 7. Nc2": "I don't know where I got this. It must have been in the DB. 7. Nf3 seems OK, as does 7. Nxc6  or just leaving it there and moving it after black plays e4. From c2, it doesn't do much that it could do from f3, but it does cover b4 if white wants to advance the pawn, and it is safe from being pinned. It also allows Ne3 which can put more pressure on d5, the whole point of the Maroczy Bind.",
+        "7... Bg7 8. Be2 O-O 9. O-O Nd7 10. Bd2": "More development on both sides.",
+        "10... a5 11. Qc1 Nc5 12. Bh6": "I'm not usually a fan of this move against a fianchettoed bishop, but it was in the DB so I followed along to see how it would develop.",
+        "12... f5 13. exf5 Bxf5 14. Bxg7 Kxg7 15. Ne3": "Hunting that black bishop.",
+        "15... Nd4 16. Nxf5+ Nxf5 17. Nb5": "Intending to protect d4 from a more advanced post.",
+        "17... Nd4 18. Nxd4": "17. ... Nd4? was a blunder and it loses a piece outright. After white's capture, black resigned rather than play on with his material deficit. In looking at the final position, I'm not impressed with the turnout for white through 17 moves, most of which came from the DB. Next time I find myself playing the Maroczy, I will look for a different line than this one."
+    },
+    "url": "https://gameknot.com/annotation.pl/guest-blunderfest-01?gm=22737",
+    "gameName": "Guest Blunderfest 01",
+    "players": "blake84120 (1783) vs. alabamaboy (1499)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

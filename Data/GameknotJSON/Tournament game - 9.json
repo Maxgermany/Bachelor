@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "The QP opening, which has a reputation for slow, positional play.",
+        "1... d5": "Kaufman goes with a Classical response.",
+        "2. Nf3": "Alekhine loved to develop Knights early.",
+        "2... c5": "Kaufman chooses to play a Queen's Gambit with colors reversed, in response.",
+        "3. Bf4": "Alekhine develops a second piece.",
+        "3... cxd4": "Kaufman removes Alekhine's center Pawn. ",
+        "4. Bxb8": "The immediate QxP would give Alekhine 3 developed pieces to Kaufman's 0, but he chooses to postpone it.",
+        "4... Rxb8": "Forced.",
+        "5. Qxd4": "Now Alekhine recaptures the QP.",
+        "5... b6": "The alternatives were ...P-QR3 or ...R-R1, neither of which appears significantly better than the text move.",
+        "6. e4": "Alekhine, with his advantage in development, wishes to open the board up further.",
+        "6... dxe4": "Kaufman captures the Pawn. 6...P-K3 may have been the safer alternative.",
+        "7. Qxd8+": "Alekhine goes in for the exchange of Queens.",
+        "7... Kxd8": "Forced.",
+        "8. Ne5": "Kaufman resigns. Alekhine threatens 9 N-B6 ch forking K and QR, and 9 NxP ch forking K and KR. 8...K-K1 is countered by 9 B-N5 ch forcing the King back to Q1 and allowing the \"shakrukh\". [Interposing with 9...B-Q2 doesn't help, as 10 BxB ch still forces the K back to Q1.] Well played by Alekhine."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=33279",
+    "gameName": "Tournament game",
+    "players": "Alekhine  vs. Kaufman ",
+    "opening": "Queen's pawn game, Krause variation (D02)"
+}

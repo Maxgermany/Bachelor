@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "Normally the KP opening leads to faster wins. But opening traps can occur anywhere...",
+        "1... d5": "The Classical response.",
+        "2. c4": "Theory dictates this is by far the best 2nd move in this position.",
+        "2... Nc6": "An unusual defense.",
+        "3. Nc3": "The logical reply.",
+        "3... dxc4": "A delayed QGA, where both men developed their QN's before the Pawn capture.",
+        "4. d5": "Marshall presses the attack.",
+        "4... Na5": "Tchigorin protects his advanced Pawn.",
+        "5. Bf4": "Marshall continues his development, and since it's a QP opening, he focuses on the invasion point at QB7 instead of KB7.",
+        "5... Bd7": "Tchigorin cautiously continues his own development. He aims to move his KP and clear lines for developing the K-side.",
+        "6. e4": "Anticipating this plan, Marshall sets a clever trap.",
+        "6... e6": "Tchigorin proceeds as planned.",
+        "7. dxe6": "Giving Tchigorin one safe and one disastrous way to recapture.",
+        "7... fxe6": "Tchigorin picks the wrong move. 7... BxP leaves him in a perfectly safe position.",
+        "8. Qh5+": "Picks up the unprotected Knight at Black's QR4. Tchigorin resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-trap-monte-carlo-tournament-1902?gm=37258",
+    "gameName": "Opening trap, Monte Carlo tournament (1902)",
+    "players": "Frank Marshall  vs. Mikhail Tchigorin ",
+    "opening": "QGD (D07), Chigorin defence, Janowski variation"
+}

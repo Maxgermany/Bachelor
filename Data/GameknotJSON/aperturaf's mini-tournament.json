@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Be3 Nf6 6. Nc3 g6 7. Qd2 Bg7 8. f3 O-O 9. O-O-O a6": "An unusual 9th move choice. In the sicilian dragon yugoslav attack, black needs to play very quickly to avoid being smothered by an attack. 9. a6 is pretty slow, more common is 9..d5 or 9..Nxd4 10. Bxd4 Be6. ",
+        "10. g4": "The GK database shows crushing results for white after 10. g4",
+        "10... Bd7": "More slow play.. again I think 10.. Nxd4 11. Bxd4 Be6 is better.",
+        "11. h4": "The pawns are coming fast",
+        "11... h5 12. gxh5 Nxh5 13. Rg1": "While white's attack is beginning to unravel, black has barely any play anywhere on the board. ",
+        "13... Rc8 14. Kb1 b5 15. Nxc6 Bxc6 16. Ne2": "Looking to play Ng3 or Nf4, kicking the black knight from h5; or Nd4.",
+        "16... b4 17. Nd4": "Eyeing f5.",
+        "17... a5 18. Bh6": "Removing the last main defender of the black king",
+        "18... Bd7": "Finally covering f5.",
+        "19. Bxg7 Kxg7 20. Nf5+ Bxf5 21. exf5": "The white pawns are bearing down hard now.",
+        "21... Rg8": "Necessary was moving the e-pawn here. Now the end comes quickly.",
+        "22. fxg6 fxg6 23. Bd3 Kf8 24. Qh6+ Ng7 25. Bxg6 e5 26. Bh7 Qc7 27. Rxd6 Rh8 28. Rf6+ Ke8 29. Qg6+ Kd8 30. Rd1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/aperturafs-mini-tournament?gm=27706",
+    "gameName": "aperturaf's mini-tournament",
+    "players": "chessy131 (2110) vs. agosoxo (1779)",
+    "opening": "Sicilian (B32), Flohr variation"
+}

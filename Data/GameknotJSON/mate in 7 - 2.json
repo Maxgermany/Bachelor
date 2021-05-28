@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d3": "?! i forgot what this opening was called?",
+        "1... d5": "good move.",
+        "2. g3": "!? this is not a blunder! if white plays the right moves starting now, he will be fine.",
+        "2... e5": "good move.",
+        "3. h4": "? now this is a blunder! he should get developed.",
+        "3... Nc6": "again, good move by black.",
+        "4. Bd2 Bb4": "? this is a waste of time! all white has to do is c3!",
+        "5. a3 Bc5 6. Bh3": "? i think Bg2 is best.",
+        "6... Qf6": "? this is a obvious threat, whites best move now is e3.",
+        "7. b4": "????? a terrible move! this allows mate in one!",
+        "7... Qxf2#": "mate! well that's the all! hope that you liked the game! please leave a comment or two and rate it on the star system. thanks!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/mate-in-7?gm=45133",
+    "gameName": "mate in 7",
+    "players": "itsme (781) vs. chicoboy (1211)",
+    "opening": "Mieses opening (A00)"
+}

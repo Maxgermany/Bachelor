@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. Nh3": "So we are off again in this weird opening",
+        "1... b5": "well that is daring, think I'll develop in the centre",
+        "2. e4 a6": "I have no idea what black is playing at here",
+        "3. d4 Bb7": "Despite my horrible knight I am happy with my position, and am going to develop slowly",
+        "4. Bd3 e6 5. O-O Nf6 6. e5": "Black has the diagonal, but the black squared bishop is poor at the moment",
+        "6... Nd5 7. c3 c5 8. Qh5": "This was an error",
+        "8... h6": "However it provoked a response",
+        "9. a3 cxd4 10. cxd4 Nc6 11. Be3": "Encouraging black to take the bishop as it opens up the f file and creates pressure on f7",
+        "11... Qb6 12. Qh4": "Caution ",
+        "12... Be7 13. Qg4 g5 14. Nc3 Nxe3 15. fxe3": "Although it doesn't look pretty white has options and if black castles long a rook on c1 will cause problems, although white still has to be wary of the b7 bishop",
+        "15... d6 16. exd6 Bxd6 17. Qh5 Qc7 18. Nxg5": "Placing more pressure on black",
+        "18... O-O-O 19. Nxf7 Rhg8 20. Nxd8 Nxd8": "Black threatens the g2 square but white has an answer",
+        "21. Be4 Kb8 22. Rac1": "White consolidates the position",
+        "22... Qg7 23. Bxb7": "White wants to simplify as mush as possible",
+        "23... Nxb7": "R-c2 may have been better here",
+        "24. Qf3 Qg5 25. Ne4": "black resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/paris-opening?gm=38330",
+    "gameName": "Paris Opening",
+    "players": "dwardman (1685) vs. hippoinamarsh (1667)",
+    "opening": "Amar (Paris) opening (A00)"
+}

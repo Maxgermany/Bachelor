@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bb4+": "4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already.",
+        "6. c3 Bd6": "blocks the d-pawn. Ba5 or Be7 were better.",
+        "7. Nxc6 dxc6 8. Bd3": "Not the strongest move the bishop blocks the queen and is blocked by e4, e2 or c4 were better fields for the bishop.",
+        "8... Nf6 9. O-O O-O 10. Bd4 Ng4 11. h3 Qh4 12. Qf3 Nh2": "nice",
+        "13. Qe3 Nxf1 14. Kxf1 Be6 15. Nd2 c5": "b6 might have tricked him... with the idea of c5...",
+        "16. Bxc5 Bxc5 17. Qxc5 c6 18. Nf3 Rfd8": "?? Blunders a queen",
+        "19. Nxh4 Rxd3 20. Qe7 Bc4": "creative mate :-)",
+        "21. Kg1": "good move",
+        "21... Rad8 22. f3": "? Nf3 would have been better, defending the 2nd row against invasion",
+        "22... h6 23. Nf5": "good move... activating the knight, eyeing d4 to disrupt the rooks",
+        "23... Rd8d7 24. Qe8+": ":-)",
+        "24... Kh7 25. Nd4 Rd6 26. Qe7 Rf6 27. Qxb7 Rg6 28. Qxa7 Rd2 29. Qc5": "Blunders; forced mate. g4, defending the king was an easy win for white.",
+        "29... Rgxg2+ 30. Kh1 Rgh2+ 31. Kg1 Rdg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=15225",
+    "gameName": "Team match",
+    "players": "insanevillian (1414) vs. mario1965 (1420)",
+    "opening": "Scotch (C45), Blackburne attack"
+}

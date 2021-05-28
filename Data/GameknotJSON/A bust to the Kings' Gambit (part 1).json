@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "King's Gambit...",
+        "2... exf4 3. Nf3 d6": "the history behind all this, was spurred by his loss against Spassky at Mar del Plata 1959, where he missed a near win at 23. ... Qg4; had he played Qg3, things would have turned differently... now Fischer was a very sore loser, so he came up - and he recruited a lot of Grandmasters of that time with him (Spassky (!), Keres, Euwe, to name a few) - with 3. ... d6 and the folllow-up 4. ... h6, deferred from the Berlin Defense... (see http://www.academicchess.org/images/pdf/chessgames/fischerbust.pdf)",
+        "4. Bc4 h6 5. d4 g5": "up until now, Fischers' analysis leaves somewhat to be desired: in 'modern times' that is; but his observations turn out to be very accurate: above variation closes all the gaps for White to win or draw; so it seems with more than extensive research via even for modern times ridiculously brute force... (see http://en.chessbase.com/post/rajlich-busting-the-king-s-gambit-this-time-for-sure)",
+        "6. O-O Bg7 7. c3 Nc6": "Fischer disagrees on this move, and points out that he considers 7. ... Ne7 the better move, to possibly strive for castling K-side... he gives a fairly accurate variation to prove his point; given the time - in 2015, 54 years ago, without any means of computation - in which this was conceived... turns out, Fischer was right: after Ne7, Qb3, 0-0, Black is slightly better...",
+        "8. Qb3": "without pretending too much: Fritz prefers, Qa4 (threatening d5), forcing Bd7 (Qd7, Bb5, is not nice), Qb3, contesting f7; after Na5, Bxf7+, Kf8, Qa3, Kxf7, Qxa5, White has few things to worry about...",
+        "8... Qe7": "Qd7, is somewhat more equalizing, but hinders Bc8...",
+        "9. h4": "according to the assembled Grandmasters of that time, this is the move for White; however, Fritz does not even come near to this solution, for White that is... Fritz would go for this variation anytime: 9. Nbd2 Nf6, 10. Bb5 (or even d5), and take it from there...",
+        "9... Nf6": "also according to Fritz, Black is better now; although a6 or Bd7 would have been much better moves; nonetheless does Fischer point out, there is some dispute here again... \"Again theoretical disagreement. Perfectly good is 9...P-N5! 10 BxP (forced, not 10 KN-Q2 NxQP! 11 PxN BxP+ etc.) 10...PxN 11 RxP - given by analysts again as \"unclear\"; but after N-B3 followed by 0-0, White has nothing for the piece.\"...",
+        "10. hxg5 hxg5 11. Nxg5 Nxe4": "\"A wild position, but Black is still master...\", Fischer smirks... and the assembled Grandmasters of that time also seem to have agreed on the next set of terrible moves...",
+        "12. Bxf7+": "Fritz concludes, that Nxe4, Qxe4, Bxf7+, Kd8, is already equalizing: in short, Bxf7+ is a losing blunder...",
+        "12... Kd8 13. Nxe4 Qxe4": "but Black is returning the favor: winning is Nxd4, Qd1, Qxe4; after this move, all is equal...",
+        "14. Bxf4 Nxd4": "\"And Black wins...Of course White can always play differently, in which case he merely loses differently.\"... (end of document)..... this vanishing act, reminds me mostly of my old math teacher who used to sling all kinds of dark spells and formulas on the blackboard, with always the same ending: \"See?\", and always that same smirk... because we didn't see it..."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-bust-to-the-kings-gambit-part-1?gm=63586",
+    "gameName": "A bust to the Kings' Gambit? (part 1)",
+    "players": "Kings' Gambit  vs. Robert James Fischer ",
+    "opening": "KGA (C34), Fischer defence"
+}

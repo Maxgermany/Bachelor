@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. a3 d5 4. c4 dxc4 5. Nc3 Nd5 6. Qa4+ Qd7 7. Qxc4 Qc6 8. Qb3 Nd7 9. e3 a6 10. Be2 Be7 11. O-O O-O 12. Bd2 b5 13. Rac1": "so far I have played this game at blitz tempo not thinking at all. I now begin to struggle a bit....",
+        "13... Nxc3 14. Bxc3 Qb6 15. Qc2 c5 16. dxc5 Bxc5 17. Ne5 Bd6 18. Bd4 Qb8 19. Bf3": "my opponent is in too much of a hurry and loses the exchange",
+        "19... Nxe5 20. Bxa8 Qxa8 21. Bxe5 Bxe5 22. f3 Bb7 23. b4 Bd5 24. Kh1 Qb8 25. g3 Qb6 26. e4 Bc4 27. Rfd1 Qe3 28. Kg2 Qxa3": "this works out ok in the end but may be wrong, the queen is trapped.",
+        "29. Qd2 Bf6 30. f4 g6": "stopping back rank threats.",
+        "31. e5 Rd8 32. Qf2": "Eyeing up a7 and my weak pawns around my king",
+        "32... Rxd1 33. Rxd1 Be7": "an interesting position, I now expected Rd7- Qxb4 so if Qa7 then Qe1 is good.",
+        "34. Qb6 Bd5+": "the game is now over but this bishop really has to be taken immediately.",
+        "35. Kh3": "oh dear",
+        "35... Qf3": "Nothing more to be done",
+        "36. Rxd5 Qf1+": "not often you get to checkmate with a pawn"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-neophyte911?gm=59502",
+    "gameName": "Challenge from neophyte911",
+    "players": "neophyte911 (1615) vs. stanefield (1237)",
+    "opening": "Queen's pawn (A46), Torre attack"
+}

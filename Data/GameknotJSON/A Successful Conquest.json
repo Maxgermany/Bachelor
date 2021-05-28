@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 Nc6": "Hi everyone!\n\nAt least I have had some success in the Love Conquers All MT.  This game was against a Class C player called Paul.  When I first played him after joining The Coaching Club (now alas extinct) my rating was similar to his - we were both rated in the 1520s.  A lot has happened since then.  So how did I win this?  Well, after kicking off with 1. e4 and my opponent responding with the Nimzowich Defense (named after GM Aeron Nimzowich) here is the Gameknot Analysis:- http://gameknot.com/analyze-board.pl?bd=17043614&rnd=0.8169159996991752",
+        "2. d4 d5 3. Nc3": "3. Nc3 - I decided to open up lines for both my ecclesiastical twins and follow up with developing a knight.",
+        "3... Nf6 4. e5": "4. e5 - transposing into an Alekhine's Defense - this is where black responds with 1..... Nf6 after e4.",
+        "4... Ng8 5. f4 Nh6 6. Nf3": "6. Nf3 - after this pawn wedge I get on with developing my pieces.",
+        "6... Bg4 7. Be3 Bxf3 8. Qxf3": "8. Qxf3 - I am glad that Paul decided to swap off his lsb.  That piece can be a nuisance.  Glenda is on a good square, she is putting pressure on d5 and indirect pressure on f7 until black castles.",
+        "8... e6 9. Bb5 a6 10. Bxc6+ bxc6": "10. ..... bxc6 - I return the compliment by trading off my own lsb for a knight.  Although it does give a clear line for black's QR it does make the a pawn a weakie.",
+        "11. O-O Nf5 12. Bf2 Bb4 13. a3 Ba5 14. Ne2": "14. Ne2 - I am thinking about re-deploying my knight to g3 where I can perhaps tempt the Wicked Witch of the West to go to h4 and give her a very nasty discovery.",
+        "14... O-O 15. c3 Bb6 16. Rad1": "16. Rad1 - lining my rook onto the same file as the Witch.",
+        "16... Qe7 17. Ng3 Nxg3": "17. Nxg3 - black wisely trades knights.  That knight was looking good on f5 and I wanted to either exchange it or drive it to a more passive square.  Glenda decides to recapture as she gets a decent view of g7.",
+        "18. Qxg3 c5 19. Qh3": "19. Qh3 - the start of a subtle shuffle takes place.",
+        "19... c4 20. Bh4": "20. Bh4 - Step 1 - I gain a tempo by attacking the Wicked Witch of the West.",
+        "20... Qd7 21. Qg3": "21. Qg3 - Step 2- Glenda ends up doing the Timewarp in reverse with a jump to the left as she has already done her step to the right.  Next up is Bf6 taking advantage of the pin on g7.",
+        "21... g6": "21. ..... g6?? - Step 3 - my opponent obliges by moving up his g pawn.  Kh8 would have at least got out of the pin without weakening his position.",
+        "22. Bf6 c5": "22. ..... c5 - black tries to cause trouble on the queenside by menacing my d4 pawn.  With Step 4, Glenda jumps to g5 and now threatens Qh6 then Qg7#.  Yup, the BK will cop Old Matey with the kiss of death.  Paul was aware of this and resigned on the grounds of Unavoidable Mate.  After being on the receiving end of two successful mating attacks by my master buddies myself, I am glad to be the giver this time round!",
+        "23. Qg5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-successful-conquest?gm=42898",
+    "gameName": "A Successful Conquest",
+    "players": "jstevens1 (1796) vs. epimedes (1439)",
+    "opening": "KP (B00), Nimzovich defence, Bogolyubov variation"
+}

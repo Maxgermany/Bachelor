@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 b6 4. Bc4 Bb7 5. Nc3 Bb4 6. d3 Bxc3+ 7. bxc3 Nf6 8. Bxf4 d5 9. exd5 Nxd5 10. Bxd5 Bxd5 11. O-O O-O 12. c4 Bb7 13. d4 Nd7 14. c3 h6 15. Qd2 Nf6 16. Rae1 Ba6 17. Ne5 Bb7 18. d5 Nd7": "I cannot resist the temptation, want to attack his h6 pawn. will it work? I am not a grandmaster, don't think that far ahead. Get the adrenaline rush and decide to go ....",
+        "19. Bxh6": "...wham",
+        "19... Nxe5": "should i withdraw my bishop or ...",
+        "20. Rxe5 Qh4": "should I withdraw my bishop or gobble his g pawn",
+        "21. Bxg7": "weakens his defence further- bishop sacrifice",
+        "21... Kxg7 22. Rg5+ Kh8 23. Qf4 Qh6 24. Rf3 Rfg8 25. Rxg8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/43rd-gk-tournament?gm=18910",
+    "gameName": "43rd GK tournament",
+    "players": "dmisra (1559) vs. homyak (1618)",
+    "opening": "King's knight's gambit (C34)"
+}

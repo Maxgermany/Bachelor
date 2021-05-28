@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6": "Hoping to transpose to a Nimzo.",
+        "3. Bg5 c5 4. c3 h6 5. Bf4 Nc6 6. e3 Nh5 7. Bg3 Nxg3 8. hxg3 d5 9. Nbd2 Bd6": "Also good are Be7 and a6.\n",
+        "10. Be2 O-O 11. Qc2 Re8 12. O-O-O": "Although not terrible, I think White is less safe on the queenside.\n",
+        "12... Bd7 13. Kb1 cxd4 14. exd4 b5": "Or Rc8.\n\nNow 15. Bxb5 Nb4 16. cxb4 Bxb5 17. a3 a5 18. a4 Rc8 19. Qb3 Bc4 20. Nxc4 dxc4 21. Qc2 axb4 and black has plenty of compensation for the pawn.",
+        "15. Nh2": "Accomplishes next to nothing.\n\n\n",
+        "15... b4": "Black is better here.\n",
+        "16. Nb3 bxc3 17. bxc3 Rb8": "Black keeps the pressure on.  Na5 is also interesting.\n",
+        "18. Ka1 Na5 19. Nxa5 Qxa5 20. Rdb1 e5": "The key move.  Threatens Bf5.\n\nIf 21. Bd3 exd4 22. cxd4 Ba4 causes problems for white's queen.  23. Qc1 Rxb1+  24. Qxb1 Ba3 and white will have to throw away material to delay mate.\n\nIf  21. Rhc1 Rxb1+ 22. Rxb1 exd4 23. cxd4 Bb4 24. Rc1 Bd2 25. Qc5 Rxe2",
+        "21. Bf3": "\n",
+        "21... Bf5 22. Qd2 exd4": "Now  23. Qxd4 Rxb1+ 24. Rxb1 Be5 25. Qe3 Qxc3+ 26. Qxc3 Bxc3+\n",
+        "23. Rxb8 Rxb8 24. g4 dxc3 25. Qe3 Qa3 26. Qe2 Rb2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=60661",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "rooked again  vs. John Coffey ",
+    "opening": "Queen's pawn (A46), Torre attack, Wagner gambit"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5": "This is the start of the Halloween Gambit. Overall, not the most sound attack for white however it can have some advantages as this put many players in an OTB situation.  There are some good combinations for black which allows him to keep the extra material advantage through the opening.",
+        "4... Nxe5 5. d4 Bb4 6. dxe5": "Here White takes the Ne4 which allows him to begin chasing the f6 knight around the board after Bxc3.  We will see that this knight will get a work out over the next few moves.",
+        "6... Nxe4 7. Qd4 Bxc3+ 8. bxc3 Ng5": "Knight moves again.",
+        "9. Ba3": "With the lost of material, White aims to keep black from castling so he can manage the openness of his pieces against the centralized king. ",
+        "9... Ne6": "Knight moves again.",
+        "10. Qg4 Qg5 11. Qxg5": "Black offers the queen trade which White accepts immediately.  White is stronger in this position for two things.  The e5 pawn which Black can't seem to deal with and the mobility of White's pieces.  Black has only one developed knight while White will have access to bring all his pieces to bear (a castle will be required for the h rook.",
+        "11... Nxg5": "Again, the knight moves to recapture.",
+        "12. Bd3": "Develops the bishop and prepares for the castle.",
+        "12... b6 13. h4": "White does not want to give up the long white diagonal so he needs to force the knight away to move Be4.",
+        "13... Ne6 14. Be4 Rb8 15. g3": "White begins to build the pawn stricture that is supportable through the end-game.",
+        "15... Nc5 16. Bg2 Ba6 17. Rb1": "White is preparing for the bishop - knight trade which will also create a stacked pawn on c for black.",
+        "17... O-O 18. Bxc5 bxc5 19. Rxb8 Rxb8 20. Kd2": "White now is able to defend both the a and c pawns with this King move.  (Rb2 is responded to with Bd5).",
+        "20... Re8 21. Re1 d6": "This pawn push is the blunder that Black makes.  ",
+        "22. exd6 Rxe1 23. d7": "The pawn push is the key.  Black cannot prevent white for promoting.",
+        "23... Re2+ 24. Kd1": "Black resigns as he is unable to prevent White from promoting his d pawn.  In addition to the promotion Black will also lose his rook in an attempt to prevent the checkmate that will occur with that promotion."
+    },
+    "url": "https://gameknot.com/annotation.pl/reverse-angle-9-round-1?gm=17997",
+    "gameName": "Reverse Angle 9  - Round 1",
+    "players": "Carerros, Charles (1168) vs. Ellis, Charles (UNR)",
+    "opening": "Four knights (C46), Schultze-Mueller gambit"
+}

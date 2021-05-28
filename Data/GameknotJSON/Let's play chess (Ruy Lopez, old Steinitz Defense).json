@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. c3": "I've learned that at times it's better to keep the bishop rather than be forced to capture.",
+        "4... Bg4": "Counter-pin.",
+        "5. O-O Bxf3 6. Qxf3 Nf6 7. d3": "Since c3 is closed to the Knight at the moment.  Perhaps premature as the Queen presence is going to deny the capture for a little while.",
+        "7... d5 8. exd5 Qxd5 9. Qxd5 Nxd5 10. Re1 Bd6 11. a3 O-O 12. Bxc6 bxc6": "The pawn is doubled with the Queen's pawn off the board, which was the point.  It would have been far better, however, to take the Knight before Black castled, forcing a King move.  On the down side, White's development is sadly behind due to over-forcing the exchange.",
+        "13. c4 Nf4 14. Bxf4 exf4 15. Nd2": "Nc3 is probably superior, but this protects f3.",
+        "15... h6 16. Ne4": "Why?  to force the bishop to move.",
+        "16... Rfe8 17. f3": "Nxd6 is probably better, even if it does let Black undouble his pawns.",
+        "17... f5 18. Nc3": "Once again, better to take the bishop.  The result of my addiction to doubled pawns is just ugly.",
+        "18... Be5 19. Rab1 Bxc3 20. bxc3": "Correct is Rxe8+ Rxe8+ 21. bxc3 and White has the open file.  Even the awkwardness produced by 21. ... Re3 22. Rd1 is better than the result here.",
+        "20... Rxe1+ 21. Rxe1 Rb8 22. h3 Kh7 23. Rc1 Rb3 24. a4 Ra3 25. Rb1 Rxc3 26. Rb7 Rxd3 27. Rxc7 Ra3 28. Rxa7 Rc3 29. Ra5 Rxc4 30. Rxf5 Rxa4 31. Rc5 Ra6 32. Rc4 g5 33. Kh2 Kg6 34. Rd4 c5 35. Rc4 Rc6 36. g3 fxg3+ 37. Kxg3 Kf5 38. Rc3 Ke5 39. Re3+ Kd4 40. Re4+ Kd3 41. h4 gxh4+ 42. Rxh4 c4 43. Rh1 c3": "All you need to win is a pawn... and Black has the pawn.  Poor endgame decision-making by White."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-ruy-lopez-old-steinitz-defense?gm=27720",
+    "gameName": "Let's play chess (Ruy Lopez, old Steinitz Defense)",
+    "players": "jmfpeaceable (1436) vs. nieslevi (1284)",
+    "opening": "Ruy Lopez (C62), old Steinitz defence"
+}

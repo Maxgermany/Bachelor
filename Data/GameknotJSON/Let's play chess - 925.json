@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Nf6 3. Nh3 d5": "I am not sure if this is the best thing to do.",
+        "4. exd5 Nxd5 5. f3": "A bad mistake by my opponent. Loses the bishop.",
+        "5... Qh4+ 6. Nf2 Qxc4 7. d3 Qc5": "unwise of me. I should have moved it to the safer and more useful c6 square.",
+        "8. Ne4 Ne3": "A major blunder on my part that my opponent failed to capitalize on. An exchange of queens now guarantees the loss of my knight, while her knight is perfectly safe after the exchange.",
+        "9. Bxe3 Qxe3+ 10. Qe2 Qxe2+": "Again, I was not certain. I had a strong desire to take advantage of being a bishop up by trading off queens and preventing her king from castling.",
+        "11. Kxe2 Nc6 12. c3 b6": "Several ideas here. Giving the bishop the freedom to move to the center or the sides (a6 in particular, can threaten her weak d3 pawn coupled with O-O-O). Or I could choose to fianchetto.",
+        "13. Nbd2 Bd7": "not quite sure why I did this. If my intention was to avoid alerting my opponent to an attack on d3, I should have put the bishop on b7 and then moving to a6 after O-O-O.",
+        "14. Rad1": "looks like she's preparing to push her d pawn.",
+        "14... O-O-O 15. Rhe1 h6": "This is my prep move for a f5 pawn attack on her e4 knight. The plan: 16. ..., f5 17. Ng3, g6 more or less keeping her knight cornered. 18. ..., f4 might be pushing my luck, since 19. Ne4 leaves my pawns severely overstretched with her knight back in the old position.",
+        "16. Kf1 f5": "Going to force the knight to f2 or g3 and keep it (hopefully stuck) there with 17. ..., g6 followed by the activation (and doubling of the rooks with 18. ...,Bg7. It looks clear from her king move that she plans to activate her rooks for an attack on my e-pawn.",
+        "17. Nf2 g6 18. Nc4 Bg7 19. d4 exd4 20. cxd4 Nxd4 21. Re7 Bb5 22. b3 Bf6 23. Re3 Bxc4+": "Decided at this point, I needed to start trading off pieces to simplify the board for a win.",
+        "24. bxc4 Nc2 25. Rxd8+ Rxd8 26. Re6 Rd6": "Am a little worried at this point (her knight will soon go into play). I'm banking on my ability to hold her king back after the rook exchange while capturing her c-pawn with an eventual push for an a or b file queen. Should she choose not to perform the rook exchange, I have reasonable confidence I can ensure the loss of her very important c-pawn.",
+        "27. Rxd6 cxd6 28. Nd3 Na3 29. Nf4 Nxc4": "Hindsight: This was a very bad move on my part. It left me struggling the rest of the game.\n29. Nf4,g5 30. Nh5,Be5 would have left her knight nowhere to go after. Meanwhile, her c4 pawn would still be vulnerable for capture.",
+        "30. Nxg6 a5 31. Ke2 Kc7": "32. Kd3 would be a mistake for her, I believe. 32. Kd3,Ne5  would practically force her to trade knights, after which it will be plain sailing for me\n",
+        "32. Nf4 Kc6 33. g3 b5 34. h3 Be5 35. Kd3 Kc5 36. Ne6+ Kb4 37. f4 Bf6 38. Nc7 Nb6 39. g4 fxg4 40. hxg4 Bg5": "To me, this seemed a very necessary sacrifice. It allows me to put my knight back in action and hopefully ensure me at least a draw (yes, I was actually worried about losing at this point, the lady's devastating with her knight).",
+        "41. fxg5 hxg5 42. Ke4 d5+": "My main worry at this point is 43. Kd4. My plan was 43. Kd4,Ka4 allowing for an eventual ??. ,b4. The main danger of this line comes from 44. Ne6,Nd7 45. Kxd5,Nf6  46. Kd4,Nxg4 47. Nxg5,Nf2 for a very complex, probably drawn game.\n\n43. Nxd5,Nxd5 44. Kxd5,Ka3 was my preferred sequence which my opponent ultimately took, allowing me to dispose of her very dangerous knight and guaranteeing my pass-pawn its promotion.",
+        "43. Nxd5+ Nxd5 44. Kxd5 Ka3 45. Ke5 b4 46. Kf5 Kxa2 47. Kxg5 b3 48. Kh6 b2 49. g5 b1=Q 50. g6 a4 51. g7 Qb8 52. Kh7 a3 53. g8=Q+ Qxg8+ 54. Kxg8 Kb3": "Kudos to my opponent for a very tenacious game. Luckily, just before I queened the first pawn, I took a long hard look at my options and realized she would be able to force the loss of that queen. As a result, I prepared for its eventual loss by focusing on the promotion of the 2nd pass pawn."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=19526",
+    "gameName": "Let's play chess",
+    "players": "madeleine (1217) vs. cheewai (1200)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

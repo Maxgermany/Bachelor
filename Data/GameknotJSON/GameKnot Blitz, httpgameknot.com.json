@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. c3 Nc6 3. d4 d6 4. Bb5 Bd7 5. Nf3 a6 6. Ba4 Nf6 7. d5 Na5 8. Bc2 Nc4 9. b3 Nb6 10. O-O Bg4 11. Bg5 Be7 12. h3 Bh5 13. g4 Bg6 14. Nbd2 Qd7 15. Nh2 O-O-O 16. Be3 Na8 17. f3 h5 18. g5 Nh7 19. h4 f6 20. f4 Qh3": "I just made a mistake by not moving my queen to to e1 to protect both pawn and bishop !!! , I lost a lot ",
+        "21. f5 Qxe3+ 22. Rf2 Bf7 23. g6": "anyway, I got my bishop back",
+        "23... Bxg6 24. fxg6 Nf8 25. Nc4 Qxc3 26. Rg2 Qd4+": "trading queens is better for me.",
+        "27. Qxd4 exd4 28. Rd1": "Now i have to be more careful about my pawns, I have to get some pawns from him",
+        "28... Rh6 29. Rxd4 Rxg6 30. Rdd2 Rxg2+ 31. Rxg2 g5 32. hxg5 fxg5 33. e5": "this move just to get a better position for my knight",
+        "33... dxe5 34. Nxe5 Bc5+ 35. Kf1 Rxd5 36. Rxg5 Bd6 37. Nhf3 Nb6 38. Rxh5 Bxe5 39. Nxe5 Rd8 40. Nf7 Re8 41. Rh8": "Now, His rock is responsible to protect his knight, It will be frozen",
+        "41... Nbd7": "I will freeze his knight too...",
+        "42. Bf5 c6": "finally, a mistake like my mistake at the beginning of this game!!",
+        "43. Nd6+ Kd8 44. Nxe8 Kxe8": "a chance to get a free knight :)",
+        "45. Bxd7+": "He has to take it by his king, and i will take his knight instead ....",
+        "45... Kxd7 46. Rxf8 Kd6 47. Rf5": "Black resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=69228",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "mbnaj  vs. stev1 ",
+    "opening": "KP (C20), Lopez opening"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Como no se debe jugar una Escosesa !!",
+        "1... e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 Bb4+ 7. Nc3 Qf6": "gran error sacando la dama ahora que mis dos alfiles controlan las diagonales. Para eso es el gambito goering ( escosesa )",
+        "8. Rc1": "mi maestro  dice que Mejor Dc2",
+        "8... Nge7 9. O-O": "Las negras parecen estas ahogadas y la dama est\u00e0 en peligro porque esa diagonal es controlada por mi alfil negro",
+        "9... d6": "Trata de respirar abriendo paso al alfil pero es la dama la que tiene que proteger.\r\nEl Rey tambien est\u00e0 en el centro del tablero en la jugada 15",
+        "10. Nb5": "Ya no hay tiempo ni para enrocarse y casi todos sus movimientos son obligados ",
+        "10... Qxb2 11. Nxc7+ Kd8 12. Nxa8 Be6": "El negro subestima la posici\u00f2n y tiene que empezar a defenderse sin enrocarse",
+        "13. Bxe6 fxe6 14. Rb1 Qxa2 15. Rxb4": "Bang !! A partir de esta jugada viene una lista de 8 patadas hasta terminar en mate. eso es si no se rinde antes",
+        "15... Nxb4 16. Qxd6+": "bang !",
+        "16... Ke8 17. Nc7+ Kf7 18. Ng5+ Kf6 19. Ncxe6 h6 20. Qd4+ Kg6 21. Qxg7+": "Sigue Rh5 Cf4 y peon !!"
+    },
+    "url": "https://gameknot.com/annotation.pl/scotch-opening-1?gm=30271",
+    "gameName": "Scotch Opening 1",
+    "players": "rromeroh (1553) vs. hippostar (1629)",
+    "opening": "Scotch (C44), Sea-cadet mate"
+}

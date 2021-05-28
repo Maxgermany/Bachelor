@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4": "Morozevich plantea la defensa Ragozin que se ha convertido en una  de sus armas favoritas contra pe\u00f3n dama en los \u00faltimos a\u00f1os. Carlsey Aronian son otros ilustres partidarios de este sistema.\n",
+        "5. cxd5 exd5 6. Bg5 Nbd7 7. Rc1 c6": "Alternative variation: [La alternativa principal es] 7... c5 [pero suele conducir finales con el pe\u00f3n dama aislado que aseguran una leve ventaja al blanco.] 8. dxc5 Qa5 9. a3 Bxc3+ 10. Rxc3 Ne4 11. Bd2 Ndxc5 12. Rc1 Nxd2 13. Qxd2 Qxd2+ 14. Nxd2 [como en la partida Navara,D -Carlsen,M Wijk aan Zee 2006 que finalmente acab\u00f3 en tablas en 39 jugadas]\n",
+        "8. a3 Bd6 9. e3 O-O 10. Bd3 Re8 11. O-O Nf8 12. Re1 h6 13. Bh4 Bg4 14. Qc2 Bh5": "Alternative variation: [despu\u00e9s del cambio] 14... Bxf3 15. gxf3 [las blancas tienen una posici\u00f3n dominante gracias a la pareja de alfiles,y el fuerte control del centro especialmente la casilla e4 las blancas podr\u00edan organizar un ataque aprovechando la columna g abierta]\n",
+        "15. Bg3 Bxg3 16. hxg3 Bg6 17. Bxg6 Nxg6": "Morozevich ha conseguido aliviar la presi\u00f3n blanca gracias al cambio de dos piezas menores. No parece que las blancas hayan conseguido nada tangible en la apertura.\n",
+        "18. Ne2 Ne4 19. Nf4 Qf6 20. b4": "Ivanchuk inicia el conocido ataque de las minorias\n",
+        "20... Nxf4 21. gxf4 Nd6": "Morozevich coloca el caballo en la casilla ideal desde donde  controla y domina c4\nAlternative variation: [una alternativa muy interesante pero probablemente superficial es ] 21... g5 [pero tras] 22. fxg5 hxg5 23. Ne5 Kg7 24. b5 cxb5 25. f3 Ng3 26. Qb3 [ser\u00eda el blanco quien se har\u00eda la iniciativa]\n",
+        "22. Qc3 a5": "una vez evitado el golpe b5 es el negro el que empieza a luchar por la iniciativa en el flanco de dama.\n",
+        "23. bxa5 Qd8 24. Qb4 Rxa5": "y son las negras, gracias a su compacta estructura y la magnifica ubicaci\u00f3n de su caballo quienes tienen ahora algo de ventaja.\n",
+        "25. a4 Qc7 26. Rc5": "antes de que Morozevich doble torres en la columna a\nAlternative variation: [una l\u00ednea iluistrativa de las intenciones del negro puede ser la siguiente] 26. Ne5 Rea8 27. Ra1 f6 28. Nd3 b5\n",
+        "26... Ra6 27. Rec1 Qb6": "Alternative variation: 27... Rea8 [permitir\u00eda] 28. Rxd5\n",
+        "28. Qxb6 Rxb6 29. Ra5 f6 30. Ra7 Rb2 31. a5": "Ivanchuk se ha defendido muy bien y ha neutralizado la actividad de las negras, ahora amenaza a6 rompiendo la estructura negra\n",
+        "31... Ra2 32. a6": "!a pesar de todo!\n",
+        "32... Rb8": "una posici\u00f3n curiosa: las blancas no pueden tomar en b7 pero tampoco es f\u00e1cil mejorar la posici\u00f3n de las piezas negras.  Lo que si est\u00e1 desiquilibrado es el reloj; mientra que Ivanchuk dispone de 7 minutos a su rival le quedan poco m\u00f1as de 2\n",
+        "33. Ne1": "un busca de la casilla c5\n",
+        "33... Ra3": "impidiendo el paso por la casilla d3\n",
+        "34. Rb1 b6": "un grave error fruto del apuro de tiempo. Una jugada de espera como por ejemplo 34...h5 manten\u00eda el equilibrio.\n",
+        "35. Nc2": "ahora las blancas consiguen una amplia ventaja debido a la debilidad de c6 combinado con la posibilidad de jugar Td7 -atacando el caballo- seguido de a7\n",
+        "35... Ra5 36. Kf1": "Alternative variation: [directamente] 36. Ra1 [es muy fuerte]\n",
+        "36... Kh7 37. Ra1 Nc4": "con segundos en el reloj Morozevich no encuentra soluci\u00f3n a sus problemas que por otra parte eran ya irresolubles\n",
+        "38. Rxa5 bxa5": "Alternative variation: 38... Nxa5 39. Nb4 [es desesperado]\n",
+        "39. Rc7 Rb6 40. a7 Ra6 41. Ke2 Kg6": "Alternative variation: [el problema es que nunca se puede jugar] 41... a4 [por] 42. Nb4\nAhora Ivanchuk remata con gran eficacia\n",
+        "42. g4 h5 43. f5+ Kh6 44. f4 hxg4 45. Rc8": "y la amenaza de mate le cuesta la torre a Morozevich.  Un s\u00f3lo error de Morozevich ha bastado para que el actual campe\u00f3n de Le\u00f3n consiga su primera victoria.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/primera-semifinal-torneo-magistral-ciudad-de-le-n-2009?gm=24204",
+    "gameName": "Primera semifinal,Torneo Magistral Ciudad de Le\u00f3n 2009",
+    "players": "Ivanchuk, Vassily (2746) vs. Morozevich, Alexander (2751)",
+    "opening": "Reti opening (A06)"
+}

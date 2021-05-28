@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nI finally decided to join the Traxler Mini-tournament and managed to finish my first game in it with a win today.  It was amazing just how it seemed to all come out of nowhere!",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6": "3. ...... Nf6 - this move characterises the Two Knights Defense.  My next move which is Ng5 hits out at the weak f7 square and threatens a nasty Q + R fork on it.  The move d5 is normally played but here a counter-attack is spawned by the developing move Bc5 hitting out at f2.",
+        "4. Ng5 Bc5": "4. ..... Bc5 - this is the move that gives the opening it's name.  It was called the Wilkes-Barre Variation but is now known as the Traxler.",
+        "5. Bxf7+": "5. Bxf7+ - played by Kasparov, if it's good enough for him then it should be good enough for me!",
+        "5... Ke7 6. Bd5": "7. Bd5 - this move is recommended by Wikipedia and is the most popular move in the World DB.",
+        "6... Rf8 7. O-O": "7. 0-0 with a semi-open f file it makes sense to oppose rooks on it.  The WR adds a defender to the f2 pawn which is under the hammer of Alex's dsb.",
+        "7... Ng4": "7. ...... Ng4 - what's this?  His knight is en prise.  Can I safely nab it?  On analysis I decided it was safe to do so.  In fact my opponent anticipated this capture because he put in the sneaky move d6 as a conditional!  No doubt he was hoping I would not notice Glenda was en prise!",
+        "8. Qxg4 d6 9. Qg3": "9. Qg3 - but unfortunately for my opponent Glenda is alert and moves to g3.  Because my g5 knight is in the way, Glenda is a little camouflaged in her intentions, she is eyeing up that g7 square.",
+        "9... h6 10. Nh7": "10. Nh7 - now Alex must drop the exchange (already a piece down) to avoid copping Old Matey.",
+        "10... Rh8": "10. ...... Rh8.   He saves his rook but ......",
+        "11. Qxg7+ Ke8 12. Qf7#": "12. Qf7 MATE!! - ...... loses his king.  I am now playing Alex with the black pieces.  I need to be wary.  After finding myself in the Dentist's Chair a few times (The Dentist is a buddy of mine whose rating fluctuates between 1250 and 1350) I cannot afford to be complacent."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-traxler-variation-brevity?gm=27097",
+    "gameName": "- - The Traxler Variation -  Brevity!",
+    "players": "jstevens1 (1825) vs. x-machine (1181)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

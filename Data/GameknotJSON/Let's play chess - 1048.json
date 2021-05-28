@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "This is an interesting game that transposes to a Sicilian game. In this game I use a textbook way of neutralizing black;s queen side and then convert my enduring space advantage to a win. ",
+        "1... c5 2. Nf3 cxd4 3. Nxd4 Nf6 4. Nc3 e5 5. Ndb5 d6 6. e4 a6": "It is necessary to drive away the advanced knight before proceeding with the rest of my development.",
+        "7. Na3": "This is a bad square for a Knight. This highlights the drawbacks of the early Nb5. In my opinion I think white has better options than Nb5. ",
+        "7... b5": "heems in the knight on A3. ",
+        "8. Nd5": "This is a dangerous move that allows black too much. Better is Be3 or Bg5",
+        "8... Nxe4 9. g3": "With the removal of the pawn on e4 the h1-a8 diagonal is open for business. I aim to make use of the open diagonal",
+        "9... Bb7 10. Bg2 Nc5 11. b4": "This is a good move. It kick the knight out the good c5 post and neutralizes blacks counter chances on the queen side. ",
+        "11... Ncd7 12. O-O": "wisking the king to safety.",
+        "12... Nc6 13. Be3": "This strenghtens my influence over the weak b3 square.",
+        "13... Rc8 14. Qd3": "This threatens c4 and Qf4. ",
+        "14... g6 15. c4": "a decisive blow that leaves black crippled on the queen side. ",
+        "15... a5 16. bxa5 bxc4 17. Nxc4": "White has a powerful passed pawn. ",
+        "17... Nxa5 18. Ncb6": "Who let the dogs out...",
+        "18... Bxd5 19. Nxd5 Nc4 20. Rab1 Nxe3 21. fxe3": "opens the f file for the rook now f7 is weakness",
+        "21... Rb8 22. Rbc1 Nc5 23. Rxc5": "a scarifce that leads to a mating attack. ",
+        "23... dxc5 24. Nf6+ Ke7 25. Qc4 Qd6 26. Ne4": "threatening Qxf7",
+        "26... Qe6 27. Qxc5+ Ke8 28. Nf6+ Qxf6 29. Bc6+ Kd8 30. Qa5+ Kc8 31. Rxf6 Bc5 32. Rxf7 Bxe3+ 33. Kg2 Rb2+ 34. Kh3 Rb6 35. Qa8+ Rb8 36. Bb7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=11289",
+    "gameName": "Let's play chess",
+    "players": "elyhim (1690) vs. matricks-bc (1729)",
+    "opening": "Old Benoni defence (A43)"
+}

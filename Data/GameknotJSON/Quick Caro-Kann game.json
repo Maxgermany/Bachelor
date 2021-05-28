@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c6": "Here playing white on a Caro-Kann game. It's a blitz game timed on 5min+15.",
+        "2. d4 d5 3. Nd2": "Following the book but Nc3 is nice too.",
+        "3... dxe4 4. Nxe4 Bf5 5. Ng3": "Following the book again.",
+        "5... Bg6 6. h4 h6 7. h5 Bh7 8. Nf3": "It's now reach the position where most of the Caro-Kann games go.",
+        "8... e6 9. Bd3 Bxd3": "Exchange of the bishop.",
+        "10. Qxd3 Nd7 11. Bf4": "I could have castled right now but I wanted to castle on the queen side.",
+        "11... Bb4+": "A logical continuation.",
+        "12. c3 Ba5": "Nice positionned to attack my queen side later.",
+        "13. O-O-O": "Now I'm really well developped and ready to attack.",
+        "13... Ngf6": "Ne7 would have been better here. Black don't know what is coming.",
+        "14. Bd6": "Blocking his castling so I can attack quickly later. My bishop is very nice stationned.",
+        "14... Bc7": "If black do Nb6. His bishop would have probably problems later with b4.",
+        "15. Nf5": "!! If black take the bishop then Nxd6 giving me a nice positionning advantage. If black take my knight, then Re1+ and black must lose his queen or getting mated(exf5 17.Re1 Ne5 18.Rxe5 Kd7 19.Qxf5#).",
+        "15... g6": "Black picks another way.",
+        "16. Ng7#": "Mate! It's very rare I got the chance to play the Caro-Kann on blitz. I didn't believe it was possible to mate so early in the game with this opening. Well with the bishop hunt in the beginning, it give to white a lot of tempo and development."
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-caro-kann-game?gm=40412",
+    "gameName": "Quick Caro-Kann game",
+    "players": "drchopper  vs. kaido ",
+    "opening": "Caro-Kann (B12), 3.Nd2"
+}

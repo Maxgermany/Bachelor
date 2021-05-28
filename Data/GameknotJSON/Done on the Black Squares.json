@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nThis is Round 4 against The Great One, GM Cyrano.  At the moment he is 4th seeded on Gameknot with his rating north of 2600!  Well, guys, I lose this one but at least I make Afro do a little work for it, albeit, I did tend to have a recurrence of passivitis which I cannot afford when playing the elite.  So, how did this game unravel.  Here is gameknot analysis as follows:- http://gameknot.com/analyze-board.pl?bd=17807983&fb=1&rnd=0.181263129796375",
+        "1... e6": "1. ...... e6 - oh, la, la!  I decided to kick off with the French Defense.  I played that against lighttotheright (Ken) many moons ago but got my butt whipped.  However, I decided it was time to resurrect my favourite riposte as black.",
+        "2. d4 d5 3. Nc3 Bb4": "3. ..... Bb4 - the Winawar.  This can lead to some sharp play.",
+        "4. e5 c5 5. a3 Bxc3+ 6. bxc3": "6. bxc3 - Afro's pawn structure is busted, but can he get compo here?",
+        "6... Ne7 7. Qg4 O-O": "7. ..... 0-0. This is a book move but I must be very careful here indeed, with the Wicked Witch of the West bearing down on Henry.  At least a knight can go to g6 should Afro play Bh6.",
+        "8. Bd3 Nbc6 9. Qh5 Ng6": "9. ...... Ng6 - this move blocks the line of Afro's lsb which is attacking h7 and so is the Witch.  This knight move therefore prevents Henry from copping Old Matey.",
+        "10. Nf3 Qc7 11. Ng5": "11. Ng5 - Old Matey keeps his eye on Henry.  The only way to prevent this is to move my pawn to h6.",
+        "11... h6 12. Nxf7 Qxf7 13. Qxg6 Qxg6 14. Bxg6 cxd4 15. cxd4 Nxd4": "15. ..... Nxd4 - there has been a whirlwind of exchanges here, including the queens.  It looks as though I might get a decent game against Afro, dare I say it?",
+        "16. Be3 Nf5 17. Bc5 Rd8 18. Bxf5 exf5": "18. ...... exf5 - this piece exchange has weakened my d5 pawn.  It is true that Afro's queenside pawns are weak and isolated but that will not bother him.",
+        "19. Bd4 Be6 20. Kd2 a6": "20. ....... a6 - this move was my first innacuracy according to Gameknot Analysis but I wanted to play Rac8 at some point in order to put pressure on c2.",
+        "21. Rhb1 b5 22. a4 Bd7 23. axb5 axb5": "23. ...... axb5 - Afro gets rid of his weakie a pawn and I now have two weakie pawns, on the d column and the b column, giving Fou Leblanc a lot of work to do.  Fou Leblanc therefore becomes a \"bad\" bishop, tied to defending pawns on his own squares.",
+        "24. g3 g6 25. h4 Kf7 26. Ba7 Rde8": "26. ..... Re8 - attacking the white e5 passer.",
+        "27. Be3 h5": "27. ...... h5 - not Rxe5??, Rxa8!",
+        "28. Bd4 Ke6 29. Ke3": "29. Ke3 - the WK is heading for g5!",
+        "29... Rec8 30. c3 Be8 31. Kf4 Kf7 32. Kg5": "32. Kg5 - nacht.",
+        "32... Bd7 33. e6+": "33. e6+! - Afro trades off his passer for my b5 pawn.  Henry cannot take the e pawn because of 34. Kxg6.",
+        "33... Bxe6 34. Rxa8 Rxa8": "34. ....... Rxa8 - rook trade.",
+        "35. Rxb5 Rd8 36. f4": "36. f4!! - this move prevents f4, sacrificing my f pawn so that I can get Fou Leblanc onto f5 protecting my vital g pawn.",
+        "36... Rg8": "36. .... Rg8?? This move was flagged as a blunder.  Gameknot Analysis suggested Rd7 shielding Henry from being checked on the second rank by the WR.  However, I noted that after Rb8, his rook could come round to h2 and inflict some damage.  However, after reading Gameknot Analysis search engine, I would have had drawing chances even though I would have been two pawns down.  Fou Leblanc would have protected the h and f pawns, and Henry may well have been able to stop the c passer and I would have had a rook that could move freely.  Ah well, you live and learn.",
+        "37. Rb7+ Ke8 38. Kf6 Bc8": "38. ...... Bc8 - this move does not cut the mustard as, although it prevents a Rb8+ skewer it does not prevent a Re7+ followed by either mate or loss of Fou Leblanc for starters by the Windmill.  I chose the more painless option .......",
+        "39. Re7+ Kd8 40. Bb6#": "40. Bb6 MATE!! - ........ by allowing sudden death.  I was well and truly done on the black squares."
+    },
+    "url": "https://gameknot.com/annotation.pl/done-on-the-black-squares?gm=46972",
+    "gameName": "Done on the Black Squares",
+    "players": "cyrano (2617) vs. jstevens1 (1954)",
+    "opening": "French (C19), Winawer, advance, poisoned pawn variation"
+}

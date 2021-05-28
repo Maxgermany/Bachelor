@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 a6 6. Bc4 e5 7. Nxc6": "Not the most popular in the book but I preferred this as it upsets my opponent's pawn structure.",
+        "7... bxc6 8. Qh5 Qd7 9. Bg5 g6": "Up to this point, it's been pretty much basic moves, imo, and somewhat previously used opening moves. 9. g6 was the first complete deviation from the Gameknot opening DB.",
+        "10. Qf3": "I moved here to put pressure on f7. I actually somewhat expected the reply to be 10. Qg4",
+        "10... Bg7 11. Na4": "At this point I'm trying to figure out a way to dislodge my opponent's queen so I can Qxf7#. 12. Nb6 would have been devastating if left unchecked and I fully anticipated the reply of Rb8.",
+        "11... Rb8 12. O-O-O": "This protects b2 but also puts a rook in line with my opponent's Queen. Remember, I'm trying to figure out a way to dislodge the queen from the 7th line so I can mate.",
+        "12... Qc7": "I didn't really understand this move...I anticipated Ne7, or possibly an aggressive Rb4. Maybe someone can clarify what my opponent was planning?",
+        "13. Rxd6": "Now comes the attack. If my opponent had bit on this little gambit, I would have simply Qxf7#. At the same time, I removed the d6 pawn which impeded my a4 knight from going to c5. Starting to smell a quick mate here although I knew my opponent saw this and would defend. I still think Ne7 may have been the best reply by my opponent. They really need to castle asap!",
+        "13... f6": "I think f5 would have been better?",
+        "14. Rhd1": "At this point I was pretty sure it was going to be a quick mate or at least a queen for 2 rooks. Normally I'd be a little hesitant for that trade but with the positions on the board, my eliminating the opponent's queen was a high priority.",
+        "14... fxg5": "Definitely not a good gambit to take...",
+        "15. Rd6d8+": "Mate in 2 no matter how my opponent responded.",
+        "15... Qxd8 16. Qf7#": "gg! I still think my opponent played very well, minus the crucial 14. fxg5 mistake. His/her decision on 9. g6 was interesting and 11. Rb8 was very good defense by my opponent. Thanks for the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d1?gm=34911",
+    "gameName": "League division D1",
+    "players": "gryffy (1710) vs. jbnugas (1700)",
+    "opening": "Sicilian (B32), Flohr variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1": "A wake-up call!",
+        "5... Nd5 6. Nc3 Nxc3+ 7. bxc3": "Good play there, he took the bait.",
+        "7... e6 8. Nf3 Bc5 9. Be3 Bxe3 10. fxe3": "And again.",
+        "10... O-O 11. Bb5 Bd7 12. Bxd7 Nxd7": "Some space developing",
+        "13. Ke2 c5 14. Rad1 Rfd8 15. Rd6 Nb6 16. Rxd8+": "It's worth removing a rook in exchange for one of your own, is it not?",
+        "16... Rxd8 17. Rd1 Rxd1 18. Kxd1": "It's neck-and-neck; seven pawns and a knight. Who will crack first?",
+        "18... Nd5 19. Kd2 h6 20. g3 b6 21. e4 Ne7 22. Kd3 f6 23. exf6 gxf6": "Now it's six pawns apiece",
+        "24. e5 f5 25. Kc4 Kf7 26. Kb5 Kg6 27. Ka6": "Coming at you!",
+        "27... Kh5 28. Kxa7": "Thank you for the pawn...",
+        "28... Kg4 29. Nh4 Nc6+ 30. Kxb6": "...and again...",
+        "30... Nxe5 31. Kxc5": "...and again, even if one was taken in exchange.",
+        "31... Nf3": "Was this the right thing to do, being two pawns down, with one having a clear run?",
+        "32. Nxf3": "This wasn't risky of me, was it?",
+        "32... Kxf3 33. Kd6 h5 34. Kxe6 f4 35. gxf4 Kxf4 36. a4 h4 37. a5 Kg4 38. a6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=23400",
+    "gameName": "Team match",
+    "players": "aspiemikey (1351) vs. thedatastream (1329)",
+    "opening": "Pirc defence (B07)"
+}

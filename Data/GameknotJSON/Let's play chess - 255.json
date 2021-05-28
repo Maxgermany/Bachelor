@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. b3 d5": "For some reason I wanted to fianchetto my bishop.",
+        "3. exd5 Qxd5 4. Bb5+": "I wanted to exchange queens early, because I could.  So I exchanged my King side bishop to open up the board.",
+        "4... Nc6 5. Bxc6+ Qxc6 6. Qf3 Qf6 7. Nc3 a6 8. Bb2 Qxf3 9. Nxf3 e6 10. O-O Nf6": "This is the position I wanted.  It's not often everything goes to plan on a chessboard.  At this point my play was put at ease.",
+        "11. d4 cxd4 12. Nxd4 Bc5 13. Rad1": "Reminding myself to make strong moves instead of passive moves.",
+        "13... O-O 14. Rfe1 b5 15. Ne4 Nxe4 16. Rxe4 Bb7 17. Re5": "Instead of retreating.  I'm in the mood for a fight, and so is my opponent, it seems.",
+        "17... Rac8 18. Nf3 Rcd8 19. Rde1 Bd6 20. Rg5 f6 21. Rg4 Kf7 22. c4": "This is the winning move.  It opened up the left side of the board for me to have fun.  However, I had to be wary of my opponent's dual rooks and bishops.",
+        "22... Bc7 23. cxb5 axb5 24. Nd4 Be5": "He thinks he's slick.  I'll show him.",
+        "25. Nxe6": "Bam.  If Bxb2 then Rxg7+ Ke8 Nc7#.  And if Rg8 then Nxd8+ and I'm up lots of material.",
+        "25... Kxe6 26. f4 g6 27. fxe5 f5 28. Rf4 Rd2 29. Rf2": "And I'm prepared.",
+        "29... Rfd8 30. Bc3 Rd2d1 31. Rfe2 Be4 32. Kf2": "This is a funny looking position.  If my bishop wasn't there, he could play Rd8d2 and it would look HELL-AIR-REE-YUS.",
+        "32... Rd1d3 33. Rc1 Ra8 34. Bb4 Kxe5 35. Rc5+ Rd5": "All this political maneuvering, and he still won't budge.  Well, I'll show him.\n\nAnd another funny position.  Or its funny to me, anyway.",
+        "36. Rc7": "HOW RUDE!!",
+        "36... h5 37. Rc6 g5": "BWAHAHAHAHAHA!!!!  You have fallen right into my trap.  Now face the wrath of Khan! (Khan is Star Trek, right?)  Sultan Mir Khan is a much better player than I am.  Even though he's dead.",
+        "38. Bc3+ Kf4 39. h3": "The Black King has nowhere to go.  His rook is mine.",
+        "39... Rd3 40. Rc5 g4 41. Bd2+ Rxd2 42. g3+ Kg5 43. h4+ Kf6 44. Rxd2 Rb8 45. Rd6+ Ke7 46. Rh6": "Black Resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=54244",
+    "gameName": "Let's play chess",
+    "players": "chessssss (1526) vs. gromo (1496)",
+    "opening": "Sicilian defence (B20)"
+}

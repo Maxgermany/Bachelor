@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Bc5 3. Ne2": "in order to mowe f4 after castle\r\n",
+        "3... Bxf2+": "surprise ! \r\ni didnt expect this risky sacrifice, i'll try to move the king in g1 after eat this agresive bishop",
+        "4. Kxf2 Nf6 5. Rf1": "preparing Kg1",
+        "5... Nxe4+ 6. Kg1": "no matter loosing this pawn, castle was more important, now i can develop",
+        "6... O-O 7. d3 d5 8. Bb3": "i have to keep this treat on f7",
+        "8... Nc5": "anoiding knight, i'll try to go on treatening f7 whith the queen after Kc5 x Bb3",
+        "9. c3 Bg4": "surprise, it' becoming hard for white\r\nbut it give me a oportunity to keep my white bishop whith Bc3 c2",
+        "10. Bc2 d4 11. Nd2": "i dont take the d4 paw because i prefer he do it \r\n... - d4 x c3\r\nb2 x c3 - ...\r\nBc3 !",
+        "11... dxc3 12. bxc3 Nxd3": "i have to eat it, to dangerous ",
+        "13. Bxd3 Qxd3": "that was sure ! but i found a response whith Bf3, if he take it then i take it back whith the rook a treat the black queen\r\n",
+        "14. Nf3 Qg6 15. Nxe5 Qb6+": "this is not very interesting move ...",
+        "16. Kh1": "so what now ?\r\n",
+        "16... Bxe2 17. Qxe2": "this exchange was not very interesting also for black, it shows that they have no more plans\r\nso a good oportunity to regain the initiative",
+        "17... Re8": "it seems to be a good move for blacks ...\r\nbut did they saw Qc4 ! treatening mate in f7 ?",
+        "18. Qc4": "now they are in trouble",
+        "18... Re6": "it whould be preferable to move the rook back to f8\r\nbut most of the time, people dont like to move back, a bad question of ego",
+        "19. Nxf7 Nd7 20. Ba3": "preparing Rf1 f8 maybe after ...",
+        "20... Rae8": "NO ! the danger for blacks is Kf7 g5 !",
+        "21. Ng5 Ne5": "good, but not enought : \r\n23. Qd5 - surely c6 ignoring the treate of the f1 rook whith the a3 bishop ...",
+        "22. Qd5 c6": "that was sure, this is the danger in blitz games",
+        "23. Rf8+": "now it's over for blacks",
+        "23... Rxf8 24. Qxe6+ Nf7 25. Bxf8 Qd8 26. Qxf7+ Kh8 27. Bxg7#": "It was nive, but if somebody know about the opening, thanks in advance !"
+    },
+    "url": "https://gameknot.com/annotation.pl/does-anybody-nows-this-openng?gm=44853",
+    "gameName": "does anybody nows this openng ?",
+    "players": "31415 (1181) vs. tchol (1441)",
+    "opening": "Bishop's opening (C23), Classical variation"
+}

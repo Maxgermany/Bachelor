@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+ Nfd7 9. Be2 O-O": "Alternative variation: 9... Qh4+ 10. g3 Qd8 11. Nf3 O-O 12. O-O Re8 [=]\nAlternative variation: 9... a6 10. Nf3 b5 [\u21c4]\n",
+        "10. Nf3 a6": "?!\nAlternative variation: 10... Na6 [!?] 11. O-O Re8 12. Kh1 Nc7 [=]\n",
+        "11. a4 Qc7": "??\nAlternative variation: 11... Nf6 12. O-O Bg4 13. h3 Bxf3 14. Bxf3 Re8 15. a5 Nbd7 16. Be3 b5 [=]\n",
+        "12. O-O Re8 13. e5": "! \u2192\n",
+        "13... dxe5 14. d6": "!!\n",
+        "14... Qd8 15. Ng5": "attacking f7\n",
+        "15... exf4": "Alternative variation: 15... Nf8 16. fxe5 Be6 17. Nxf7 Bxf7 18. Rxf7 Kxf7 19. Qd5+ Ne6 [+\u2060\u2212]\n",
+        "16. Nxf7 Qa5 17. Nd5 Bd4+ 18. Kh1 Kxf7 19. Nc7": "forking the rooks",
+        "19... Nf6 20. Bxf4 Kg7 21. Bg5 Bd7 22. Rxf6": "wins the two rooks for the exchange.\n",
+        "22... Bxf6": "Alternative variation: 22... Nc6 23. Qf1 Rxe2 24. Rf7+ Kg8 25. Nxa8 Rf2 26. Rxf2 Bxf2 27. Qxf2 Bf5 [+\u2060\u2212]\n",
+        "23. Bxf6+ Kxf6 24. b4": "wins the queen\n",
+        "24... Qxc7 25. dxc7": "black resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/wtw-modern-benoni-mini-tournament-viii-http-gameknot-com?gm=51465",
+    "gameName": "WtW Modern Benoni mini-tournament VIII, http://gameknot.com/",
+    "players": "elyhim (2352) vs. another player (2101)",
+    "opening": "Nimzo-Indian defence (E20)"
+}

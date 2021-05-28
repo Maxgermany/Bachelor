@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "Standard.",
+        "1... e6": "I enjoy a good French, and he plays e5, which, if followed by d5 and then d4 is the closed variation.",
+        "2. e5 d5": "But sadly, he captures en passant, and is left with a terrible center.",
+        "3. exd6 e.p. Bxd6 4. d4": "Trying to stake claim to the center.",
+        "4... Nf6": "Preparing to castle.",
+        "5. Nf3 b6": "Getting ready to fianchetto, and eyeball the Kingside.",
+        "6. Bd3": "He gets ready to Castle, as well; also to the Kingside. Huzzah!",
+        "6... O-O 7. O-O": "And now that the Kings are safely tucked away, the battle begins.",
+        "7... Na6": "I played this instead of Bb7 or Nc6 in hopes that he would take, trading his strong Bishop for my useless, rim-bound Knight.",
+        "8. Bxa6": "And he obliges! Now I will have a deadly, unopposed light-squared Bishop in the corner!",
+        "8... Bxa6": "I hoped he would overlook the Rook. He doesn't. Mark this move, because the Bishop's control over the f1 square is very important.",
+        "9. Re1 Ng4": "Bringing heat on the King.",
+        "10. Bg5 Bxh2+ 11. Nxh2 Qxg5": "Here, I miscalculated. I did not see the Queen protecting the g4 square, therefore I overlooked NxN.",
+        "12. Nxg4 f5": "I am down by two, so I try to chase the Knight and bring out my Rook.",
+        "13. Ne5 Rf6 14. Nd2": "Trying to defend.",
+        "14... Rh6 15. Ndf3": "Too little, too late. Qh5 seals the deal, leaving the White King nowhere to run. (f1 is blocked by my Bishop.) ",
+        "15... Qh5": "The only move that could save him is f3/f4, but the Knight blocks the way. And here my opponent resigns, since mate is unavoidable. Thank you, once again, for reading. Please rate and comment! \nTAB"
+    },
+    "url": "https://gameknot.com/annotation.pl/battery-on-aisle-h?gm=43468",
+    "gameName": "Battery on Aisle H!",
+    "players": "pawn222  vs. theancientbeast ",
+    "opening": "French (C00), Steinitz attack"
+}

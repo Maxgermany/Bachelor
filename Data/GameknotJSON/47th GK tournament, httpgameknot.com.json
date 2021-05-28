@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "Maybe the best move in the opening.I am not sure.\r\nHowever the most played one.And the Philidor Defence that i couldnt understand its purpose start.",
+        "1... e5": "A symetrical answer to share center fairly.",
+        "2. Nf3": "Develops the knight and attacks the pawn.",
+        "2... d6": "Saves the pawn but no development. I think Nc6 is better.(Nf6 is good,too)",
+        "3. Bc4": "Develops the bishop and controls the diogonal.",
+        "3... f5": "f5?! He thinks i will capture the pawn and have a free space for bishop but i won't.",
+        "4. d3": "Saves e5 pawn and lets queen's bishop a free diogonal.",
+        "4... fxe4": "Captures my center pawn.",
+        "5. dxe4": "Exchange pawns.",
+        "5... Bg4": "Pins my knight so i cannot play it.And the bishop comes to a good square.",
+        "6. Nc3": "Now, a small trap -that remember how piece development is important at the opening- starts.",
+        "6... h6": "Not a good move.He tries not to let me attack his queen by Bg5 but he loses tempo and forgets development.",
+        "7. Nxe5": "Capture Queen or knight? Which one seems logical?",
+        "7... Bxd1": "Yeah.He couldnt see the danger and captured my queen.",
+        "8. Bf7+": "King has only one square to go.",
+        "8... Ke7": "He plays his last move.",
+        "9. Nd5#": "A nice mate with coordination of knights and bishop."
+    },
+    "url": "https://gameknot.com/annotation.pl/47th-gk-tournament-http-gameknot-com?gm=17864",
+    "gameName": "47th GK tournament, http://gameknot.com/",
+    "players": "lapsekili (1057) vs. buffalochip (1289)",
+    "opening": "Philidor (C41), Lopez counter-gambit"
+}

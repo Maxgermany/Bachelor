@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5": "Knights on the rim are dim? Not here, the main line of the Two Knights Defence. The alternative 5. ... Nxd5 is hairier. Here I am giving up a pawn temporarily in order to gain time attacking White's two minor pieces.",
+        "6. d3": "Not as fashionable as 6. Bb5 , but if Morphy was happy with it then who are we lesser mortals to hold it in contempt?",
+        "6... h6 7. Ne4": "The usual here is 7. Nf3. The text is a blunder, as two units are guarded only by the same pawn, and as long as I make the right capture first I must come out a piece ahead.",
+        "7... Nxe4 8. Qf3 Nxc4 9. dxc4 Nf6 10. O-O Bd6 11. Nc3 Bg4": "Castling first would have been safer and better, I think, but I thought kicking the White Queen around would be fun.",
+        "12. Qg3 Qd7 13. f3": "Gives the Queen a square, but weakens the King's position.",
+        "13... e4 14. Qf2 exf3 15. gxf3 Bf5": "The position's not without its risks for me, of course, as I have delayed castling. I thought I might as well put the Bishop here with a threat against c2; 15. ...Bh3 is only sending the Rook where it wants to go anyway.",
+        "16. Re1+ Be7 17. Bf4": "I was looking forward to an uncomfortable time if the Queen came to the e-file to reinforce the pin, as it's then difficult for me to castle and keep my extra piece. In some lines White seemed to be getting a dangerous attack. However, this doesn't put any pressure on the pinned Bishop and so I can castle straight away - only on the King's side; much as I would like to castle Queen's side and storm the White King's position, I would have a hanging pawn on a7 and would deeply regret it.",
+        "17... O-O 18. Qg3 Nh5": "Knights on the rim are dim? Not this time, as the fork wins me more material. White is losing a whole piece as the Queen has no square from which to guard the Bishop, so he lashes out in an attempt to muddy the waters.",
+        "19. Rxe7 Qxe7": "Obviously not 19. ...Nxg3; 20. Rxd7 and White has plenty to be happy about.",
+        "20. Re1 Qc5+": "But this forces the Queens off and I stay a Rook for a Pawn ahead.",
+        "21. Be3": "21. Qf2 is worse.",
+        "21... Qxe3+ 22. Rxe3 Nxg3 23. hxg3 Rfe8": "Usefully for me, White has no option but to exchange Rooks.",
+        "24. Rxe8+ Rxe8 25. Nb5 Bd7 26. Nxc7 Re2 27. c5 Rxc2 28. b4 Rxa2 29. b5 Rc2": "Now White has no alternative but to give his last three Q-side pawns for the Black Bishop and b-pawn, leaving an elementary win for Black.",
+        "30. c6 bxc6 31. bxc6 Bxc6 32. dxc6 Rxc6 33. Nd5": "For now Black has a pawn majority on both wings, and promises to emerge with both passed Rook's pawns - a hopeless situation for the Knight. First, however, White threatens a fork, so Black has to deal with the situation.",
+        "33... Rd6": "Played in order to cut the White King off from the a-pawn. But now White sees a pawn and makes haste to grab it.",
+        "34. Ne7+ Kf8 35. Nc8 Rd7": "...With disastrous consequences. Knights on the rim *are* dim, this time; not only can White not safely take the pawn, but his Knight has no safe squares at all.",
+        "36. f4 Ke8": "The Knight cannot be saved; after 37. f5, f6 prevents a rescue, and the King simply marches up to the hamstrung horse. Black then needn't even Queen a pawn or take either of White's, but it is easy to do either or both, so White resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/knights-on-the-rim-are-dim?gm=19295",
+    "gameName": "Knights on the rim are dim",
+    "players": "crisec68 (1281) vs. gil-gandel (1200)",
+    "opening": "two knights defence (C58), Yankovich variation"
+}

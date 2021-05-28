@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Hi Everyone! This is sanjay2000 and I'm going to be showing a game in that Walking the Walk and learning to run MT Part 4. myevilluck was my opponent and I learned a lot of things even though I played a losing blunder.",
+        "1... g6": "Modern(Robotsch) Defence",
+        "2. d4 Bg7 3. Bd3 Bxd4": "I guess this is pawn pinching but it was free.",
+        "4. Nf3 Bg7 5. O-O Nc6": "Developing and exerting more control over e5. White is leading in development here and I am feeling the heat,",
+        "6. c3 d5 7. Qb3": "Excellent move. Attacks d5 and b7",
+        "7... Be6 8. Qxb7 Ne5 9. Nxe5 Bxe5 10. f4": "Tempo loss for me",
+        "10... Bg7 11. Bb5+": "And myevilluck unleashes the powerful 11.Bb5+!!! This is where I start losing the plot.",
+        "11... Kf8 12. f5": "Bb5+ followed by 12.f5!! Winning the Bishop. I felt defeated already.",
+        "12... Bd7 13. Bxd7 Rb8": "Thr",
+        "14. fxg6": "Threatening Mate which I didn't see.",
+        "14... Rxb7": "I greedily grabbed the queen, thinking it was free. Until he played.....",
+        "15. Rxf7#": "Rxf7# This just goes to show that material does not matter. Feel free to comment!"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-and-learning-to-run-mt-part-4?gm=48151",
+    "gameName": "Walking the Walk and Learning to Run MT Part 4",
+    "players": "myevilluck (2035) vs. sanjay2000 (1519)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

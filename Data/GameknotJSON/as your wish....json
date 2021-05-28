@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bg5 Nf6 3. Nd2 Nbd7 4. e4": "I think moving the pawn on e4 are an error, he sacrifice a pawn for nothing",
+        "4... Nxe4 5. Nxe4 dxe4 6. Bc4 h6 7. Bh4 Nb6 8. Bb3 c6 9. Qd2 Nd5 10. O-O-O": "castling on the Queens side, put the Queen under a bad diagonal",
+        "10... g5": "will try to work a way to pin his Queen",
+        "11. Bg3 e6 12. Be5": "Loosing a move and permit to advanced my f-pawn",
+        "12... f6 13. Bg3": "go back home...",
+        "13... h5 14. h4 gxh4 15. Rxh4 Bh6": "Now, he have to sacrifice his to exchange his tower for a weaker piece",
+        "16. Bf4 Nxf4": "He have no other choice of taking my knight, if he move his Queen, next move, i'll put his King under check moving my Knight in a way to attacking his Queen",
+        "17. Rxf4 e5 18. g3 b6": "very weak move on my part, better exf4",
+        "19. Qe2": "he reply with a error, better dxe5",
+        "19... exf4 20. Qxh5+ Kd7 21. Kb1 Kc7 22. d5 cxd5 23. Bxd5 f3 24. Qf7+ Kb8 25. Re1 e3": "trick him, i lost a pawn if Kxf3",
+        "26. fxe3": "and he felt on the trap...",
+        "26... f2": "nice fork",
+        "27. Rd1 fxg1=Q 28. Rxg1 Bxe3 29. Rd1 Qd7": "best move for him are to exchange Queen, he will gain my tower for a bishop",
+        "30. a3 Qxf7 31. Bxf7 Bb7": "the rest of the game are history....",
+        "32. Rd6 f5 33. Rf6 Be4 34. Bg6 Rh6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/as-your-wish?gm=7296",
+    "gameName": "as your wish...",
+    "players": "ddestroyer (1467) vs. varsity (1752)",
+    "opening": "Levitsky attack (Queen's bishop attack) (D00)"
+}

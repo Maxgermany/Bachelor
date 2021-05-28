@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e3 d5 2. b3 Nf6 3. Bb2": "This opening only works for black. My late realization cost me 2 games.",
+        "3... e6 4. Nf3 Bd6 5. Bb5+ Bd7 6. Bxd7+": "I like to exchange, because it earns me an extra move.",
+        "6... Nbxd7 7. O-O c6 8. c4 Qc7 9. g3": "protecting the h2 pawn which might have saved my game or not.",
+        "9... O-O 10. cxd5 cxd5": "My advance led him to open up the queen's side.",
+        "11. Qc1 Rac8": "I challenged his queen, surprisingly, he made that move.",
+        "12. Qxc7 Rxc7 13. Na3 a6": "Notice that only move that will allow my knight to be saved is knight to b1, which wouldn't be very good for my rooks.",
+        "14. d3 b5 15. e4 b4 16. Nc2": "Stupidest move, ever, period.",
+        "16... Rxc2 17. Rab1 dxe4 18. dxe4 Nxe4 19. Rfd1 Rxf2": "He thought both his bishop and rook was protected and so did I.",
+        "20. Nh4 h6 21. Rxd6 Rxb2": "seeing that his rook was a goner, he decided to go for my bishop.",
+        "22. Rxb2 Nxd6 23. Rd2": "another one of the amazing moves. He took 15 minutes just to respond.",
+        "23... g5 24. Nf3": "I didn't want to lose my knight, because I was low on pawns, and I needed all the help I can get.",
+        "24... Ne4 25. Rxd7 Rc8 26. Rd4 Rc1+ 27. Kg2 Rc2+ 28. Kf1 g4": "Seeing that checks wouldn't get anywhere, he pushed the pawn to make for my knight.",
+        "29. Ne1 Nd2+ 30. Ke2": "TADA! this is what earned me a draw instead of  defeat. His best moves would be knight to b3, and take the rook, but that costed him both knight and rook.",
+        "30... Nxb3+ 31. Nxc2 Nxd4+ 32. Nxd4 Kg7 33. Ke3 Kf6 34. Nc6": "Locked the king in with that move.",
+        "34... h5 35. Nxb4 a5 36. Nc6 a4 37. Nd4 Kg5 38. Nb5 e5 39. Ke4": "Why did I do that? comment please",
+        "39... Kf6 40. a3 Ke6 41. Nc3 f5+ 42. Ke3 Kd6 43. Nxa4 Kd5 44. Nc3+ Kc4 45. a4": "If he takes knight, I get a queen.",
+        "45... Kb4 46. Kd3 f4 47. gxf4 exf4 48. Ke2 g3 49. hxg3 fxg3 50. Kf3 h4 51. Kg2": "You can see this won't go anywhere, so we agreed for a draw."
+    },
+    "url": "https://gameknot.com/annotation.pl/varsity-states-2?gm=29921",
+    "gameName": "Varsity States 2",
+    "players": "Me  vs. Jimmy ",
+    "opening": "Van't Kruijs opening (A00)"
+}

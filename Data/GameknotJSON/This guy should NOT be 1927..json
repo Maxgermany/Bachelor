@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "White begins with 1. e4, the only viable first move for White.",
+        "1... e5": "Black responds symmetrically.",
+        "2. Nf3": "White is playing well so far, too bad his noobness soon begins to shine.",
+        "2... Nc6": "Standard response by Black.",
+        "3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6": "The first move that's a little strange for White. Why spend two moves developing the knight, only to give it away? As bad as this move was, this guy plays far worse later on.",
+        "6... bxc6 7. Bd3 d5 8. e5": "Weak move, exposing White's kingside - with disastrous results.",
+        "8... Bxc3+ 9. bxc3 Ng4 10. O-O O-O 11. f4 Qe7": "Threatening Qc5.",
+        "12. h3": "White doesn't see the threat. Very surprising for a supposed 1927 player.",
+        "12... Qc5+ 13. Kh1 Nf2+": "Bye bye, rook!",
+        "14. Rxf2 Qxf2 15. Qh5": "Does this guy really think he's gonna get a mate on someone who's outplayed him so far?",
+        "15... g6 16. Qd1": "Aww, poor queen! Anyway, White resigned at this point. Why carry on the massacre, right? Hopefully this kid went to go improve his game. Or maybe he just needed to get his chess program out to help him - after all, we know he didn't get 1927 through his own skill."
+    },
+    "url": "https://gameknot.com/annotation.pl/this-guy-should-not-be-1927?gm=44298",
+    "gameName": "This guy should NOT be 1927.",
+    "players": "leolen11  vs. oops_you_lose ",
+    "opening": "Scotch (C45), Schmidt variation"
+}

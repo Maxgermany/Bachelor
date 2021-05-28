@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 b6": "An interesting reply to the Bishop's Opening. Elzie apparently intends to fianchetto the QB and pressure Colvin's KP.",
+        "3. Nc3 Bb7 4. f4": "Almost a delayed King's Gambit. Clearly it catches Elzie off guard, because he plays an incredibly poor move in response.",
+        "4... f6": "Chess is 2/3 psychology. If you can spring a variant on your opponent that he's unprepared for, you can often induce a mistake... like this blunder, for instance.",
+        "5. fxe5": "Colvin exchanges the Pawns before striking.",
+        "5... fxe5": "Lulled into a false sense of security, Elzie completes the exchange.",
+        "6. Qh5+": "Ouch. Now it's a matter of how Elzie wants to lose.",
+        "6... Ke7": "The answer is quickly. 6...P-N3 7 QxKP ch folloed by 8 QxR would be how to lose slowly.",
+        "7. Qf7+ Kd6 8. Nb5+": "The King-hunt is on in earnest.",
+        "8... Kc5 9. b4+ Kxb4 10. Rb1+": "Adding a 4th piece to the hunt.",
+        "10... Ka4 11. Bb3+": "Closing in.",
+        "11... Kxb5 12. Qc4+": "One move left.",
+        "12... Ka5 13. Qa4#": "An effective, if not elegant, finish."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game?gm=34114",
+    "gameName": "Casual Game",
+    "players": "Colvin  vs. Elzie ",
+    "opening": "Bishop's opening (C23)"
+}

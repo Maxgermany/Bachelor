@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. c3 Nf6 3. e5": "Je n'avais pas suspect\u00e9 ce coup, pourtant simple, qui me met d\u00e9j\u00e0 sur la d\u00e9fensive.  Nc6 aurait peut-\u00eatre \u00e9t\u00e9 mieux pour emp\u00eacher cette pouss\u00e9e de pion.",
+        "3... Nd5 4. d4": "Voil\u00e0 la grande diagonale, ce qui sera dure \u00e0 contrer.",
+        "4... e6 5. Nf3 h6": "Je ne veux pas laisser g5 de disponible pour son cavalier ou son fou.",
+        "6. Bd3 a6 7. Be4 Nb6 8. O-O Be7 9. b3 d6": "Ici, je voulais essayer de provoquer un \u00e9change de pion afin de diminuer l'effet de cette diagonale de pions.",
+        "10. Be3": "Malheureusement pour moi, l'\u00e9change n'a pas eu lieu et le fou en e3 apporte un bon soutient \u00e0 son attaque \u00e9ventuelle.  \u00c7a commence \u00e0 chauffer pour moi.",
+        "10... O-O 11. exd6": "Ce coup me fait r\u00e9aliser que je suis perdant au change.  Si Bxd6, dxc5 et je perd une grosse pi\u00e8ce.  M\u00eame chose pour Qxd6.  \u00c0 ce stade ci, je d\u00e9cide de conc\u00e9der 2 pions plut\u00f4t qu'une grosse pi\u00e8ce, en retirant mon fou.  Peut-\u00eatre y avait-il un meilleur coup?",
+        "11... Bf6 12. dxc5": "Voil\u00e0, l'adversaire a pris ces 2 pions et me force \u00e0 retirer mon cavalier.",
+        "12... Nb6d7 13. Qc2 Nc6 14. a3 a5 15. Nbd2 Nce5 16. h3 Rb8 17. b4 Re8 18. b5 Nxc5": "Un autre sacrifice, les pions sont maintenant trop nombreux et pr\u00e8s du but.",
+        "19. Bxc5 b6 20. Nxe5 Bxe5 21. Be3 Qxd6 22. Nc4 Qc7 23. Bc6": "Excellent coup de mon adversaire.  En plus d'attaquer ma tour, le fou bloque la ligne de ma reine.",
+        "23... Re7 24. Rad1 f5": "Je dois ouvrir une porte.",
+        "25. Nxe5 Qxe5 26. Rd8+ Kh7 27. Bxb6 Rxb6 28. Rxc8 Ra7 29. c4 Qc5 30. Bd7 Qe5 31. c5": "Apr\u00e8s ce coup, je consid\u00e8re la partie termin\u00e9e.  Je continue quelques coups pour la forme.",
+        "31... Rxd7 32. cxb6 Rb7 33. Qc6 Rb8 34. Rxb8 Qxb8 35. Qc7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/pierre-vs-steve?gm=28469",
+    "gameName": "Pierre vs Steve",
+    "players": "pliko (1837) vs. dragoneye (1465)",
+    "opening": "Sicilian (B22), 2.c3, Heidenfeld variation"
+}

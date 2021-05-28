@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2": "clean Giuoco Piano so far...",
+        "8... d6": "faulty: theory continues with d5...",
+        "9. O-O Bg4 10. d5 Ne5 11. Bb3": "not buckling...",
+        "11... Bxf3 12. Nxf3 Nxe4": "too greedy...",
+        "13. Nxe5 dxe5 14. Re1": "here is why...",
+        "14... Nd6 15. f4": "I felt unsure about a direct Rxe5+: unjustified, but I had a plan...",
+        "15... O-O 16. fxe5": "something like this...",
+        "16... Nf5 17. Qf3 Qg5 18. Bc2 Nh4 19. Qg3": "White is taking no prisoners...",
+        "19... Qxg3 20. hxg3 Ng6": "now, White has to make a plan: Bxg6 only equalizes...",
+        "21. e6 fxe6 22. dxe6 Ne7": "forced...",
+        "23. Bb3": "create a hidden check over e6...",
+        "23... Rad8 24. Rac1 c6 25. a4": "White needs to compromise Blacks' Queens' wing...",
+        "25... Rd2 26. Rc2 Rff2": "this attack, can - of course - never work...",
+        "27. Rxd2": "we keep it safe...",
+        "27... Rxd2 28. Rf1": "new territory for a White attack...",
+        "28... Rxb2 29. Rf7": "a diabolical dilemma: after moving the Knight, just Rxb7...",
+        "29... Rxb3": "better safe, than sorry...",
+        "30. Rxe7 Re3 31. Kf2": "also after Rxg3, Kf2...",
+        "31... Kf8 32. Rxb7 Rxe6 33. Rxa7": "Blacks' problem is clear: his King is confined to the bottom row...",
+        "33... Re7 34. Ra6 Rc7 35. Ke3": "but Whites' King is not...",
+        "35... Kf7": "better Ke7...",
+        "36. Kd4 Ke6": "after 35. ... Ke7, Black would have Kd7: this lost tempo will lose the game...",
+        "37. Kc5 h6": "Black seems to be oblivious...",
+        "38. Rxc6+ Rxc6+ 39. Kxc6": "Black has woken up: he resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-playing-a-random-chess-game?gm=64286",
+    "gameName": "Fierce Queen playing a random chess game...",
+    "players": "fiercequeen (2059) vs. opponent (UR)",
+    "opening": "Giuoco Piano (C54), Krause variation"
+}

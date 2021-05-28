@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "The King's Gambit. There are many ways to continue, but one enduring theme is the threat to bring a Rook to f1 to participate quickly in the attack on the Black King. Black can accept the pawn, but must defend well.",
+        "2... exf4 3. Nf3 Nf6": "Playable.",
+        "4. e5 Nd5": "Strangely, in this line the \"Knight on the Rim\" move 4. ... Nh5 is better. As played, the Knight can be harassed.",
+        "5. Bc4 c6 6. O-O b5 7. Bxd5": "Showing that Black's last was a waste of a move - an unaffordable luxury in the King's Gambit. Now when Black recaptures White can follow up with 8. Nc3 forking two unprotected pawns, and meanwhile is well ahead on development.",
+        "7... Bc5+": "Oops.",
+        "8. d4": "Now Black is unable both to recapture the White Bishop and save her own. She chooses to save her own, but...",
+        "8... Bb6 9. Bxf7+ Kxf7 10. Bxf4": "White now has the kind of attacking setup that he normally has to sacrifice a piece for in the King's Gambit. Instead he is a pawn ahead! There are many threats of discovered attacks on the f-file, the Black Knight is gone and the Bishop is stranded on the other side of the board.",
+        "10... g6 11. Bg5": "Since Black's last did nothing, only weakening f6, White has plenty of time for this.",
+        "11... Qe8 12. Nc3 b4": "This drives the Knight to a better square...",
+        "13. Ne4 d5": "And so does this!",
+        "14. Nd6+": "The dreaded fork.",
+        "14... Kf8 15. Nh4+ Bf5 16. Nhxf5": "There is no hurry to take the Black Queen - Black's King is in dreadful danger.",
+        "16... Kg8 17. Ne7+ Qxe7 18. Bxe7": "Not only is White a whole Queen ahead, but he has three pieces already directed against the King, and the remaining White forces can join in very soon.",
+        "18... h5 19. Qf3": "It's taken the White Queen until move 19 to get off her throne, and she is just in time to hand out the coup de grace.",
+        "19... Nd7": "Black had nothing much better. Even 19. ... Bxd4  only delays the inevitable - it does nothing to let the King out of the mating net.",
+        "20. Qf7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/not-the-way-to-defend-the-kga?gm=20982",
+    "gameName": "Not the way to defend the KGA",
+    "players": "gil-gandel (1598) vs. veronika_v (1101)",
+    "opening": "KGA (C34), Schallop defence"
+}

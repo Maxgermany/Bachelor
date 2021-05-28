@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Starting with e4...i really like that kind of game...",
+        "1... e5": "e5..typical reply..i prefer it from the c5..",
+        "2. Nf3": "I'm playing typically in the beginning..",
+        "2... Nc6": "And he plays the same...Typical reply again...",
+        "3. Bc4": "Opening the bishop helps me rockie later...",
+        "3... Nf6": "He's playing typical so far....",
+        "4. d3": "I prefer d3 at first and then Nc3 but it's almost the same thing...",
+        "4... d6": "d6 for black in the beginning is like playing Filidor's defence. So this is an old and pathetic move...i would have played 4...Bc5 and then d6 as with that move he's blocking his black bishop...",
+        "5. Nc3": "Typical reply again...",
+        "5... a6": "a6 at this time is quite worthless i think as he didn't finish his development so far, something that will pay later....",
+        "6. O-O": "I've already finished my development and i'm ready for the fight...He seems quite unorganized so far..",
+        "6... b5": "He's attacking but his defense is not ready yet..",
+        "7. Bb3": "I prefer it from the Bd5..",
+        "7... Ne7": "A movement that costed the game and ckeckmated...He's blocking his bishop, he's making his king disable...So bad...Now i'm planning the ckeckmate...  ",
+        "8. Bg5": "He didn't realize my plan...",
+        "8... b4": "b4 is worthless...He should have protected his defence first...",
+        "9. Nd5": "A great movement that made him lost...",
+        "9... a5": "He's still ignoring the ckeckmate...He pays his ignorance..",
+        "10. Bxf6": "Now he's trapped and he has nothing to do...",
+        "10... gxf6": "He's lost...He paid the ignorance that showed in the game..",
+        "11. Nxf6#": "Great....Ckeckmate with just a knight...I'm thrilled...Only 10 moves...He was too late with the king's side development..."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=26909",
+    "gameName": "Let's play chess",
+    "players": "mariodag (1431) vs. maestroyoda (1250)",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

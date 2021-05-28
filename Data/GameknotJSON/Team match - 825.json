@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 f5": "I can not understand this move. Looks aggressive but there is not enough pieces. I want the classic 3...a6 or 3...Nf6 to open your game. Anyway it\u00b4s style\u00b4s matter",
+        "4. Nc3 Nf6": "I dont know, but with 4...fxe4 you are in line with your plan",
+        "5. exf5 e4 6. Ng5 d5 7. d3 h6": "Well I think there is no reason to fear. 7...Bxf5 and you have another piece to play",
+        "8. Bxc6+": "Well, he did not see 8.Ne6 at first",
+        "8... bxc6 9. Nh3": "Hey kain-, there is a God for you, obviously with 9.Ne6 he is making a great investment, because he would gave back the gambit and after the attack to your pawn structure it would seems like a greek ruins",
+        "9... Bxf5": "Oh the beatifull of chess, after this bad move (9.Nh3?) you are with a little advantage. He has one bad knight, and you have two bishops in an open game.  At this time its difficult to exploit your pawn\u00b4s structure. Anyway he has to play against your pawns and move 10.dxe4",
+        "10. Nf4 Bd6": "kain- you have to accept that 10...exd3 is a better move because you are free of this weakness in e4, what is the head on this structure",
+        "11. O-O O-O 12. g3 Bxf4": "Nooo! Oh my god. That was the bad horse and you are eating bad quality meat. Your better bishop were this one because your other bishop seems like a big pawn containing your pawns, and besides the white bishop is without space and you make it free. I like the more aggressive 12...Bg4",
+        "13. Bxf4 exd3 14. cxd3 Bh3": "I like 14...d4, retaining the d3 pawn and making space for Nd4",
+        "15. Re1 Ng4 16. f3 Nf6": "Sometimes believe in your attack, even better 16...g5 and if 17.Bxc7 Qxc7 18.fxg4 Qb6  19.d4 Qb2 20.Ne2 Bxg4 and you are confortable",
+        "17. Be5 Re8 18. d4 Nh7": "Why not 18...Nd7.  The white bishop seems like a big radar",
+        "19. Kf2 Rf8": "Dont like 19...Rb8 ?",
+        "20. Re3": "20.Re3! I dont know but I think he wants to take the e column with heavy metal",
+        "20... Ng5 21. Qa4 Qd7 22. Bf4 Ne6 23. Ne2 Rf7 24. Rc1 Rb8 25. b3 Rb6": "Better 25...g5 to go against the f column",
+        "26. Qxa7 Nxf4 27. Nxf4": "That was a definitive move because you have a bad bishop, your rooks are not playing in concert and he wants to get the e column",
+        "27... g5 28. Ng6 Qd8 29. Ne5 Rf6 30. g4 h5 31. gxh5 Bc8 32. a4 Ra6 33. Qc5": "Well its not only the e column, but the c one",
+        "33... Bf5 34. Rg1": "And the g column",
+        "34... Kh7 35. Rxg5 Kh6": "You dont forget, you still have a queen, better 35...Qd6",
+        "36. f4": "Better 36.Qc1, and if you play 36...Kg5 37.Nf7  Rf7 38.Re8  and lost the queen"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=8585",
+    "gameName": "Team match",
+    "players": "sorowin (1646) vs. kain- (1656)",
+    "opening": "Ruy Lopez (C63), Schliemann defence, Berger variation"
+}

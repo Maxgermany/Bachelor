@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6": "This mini - tournament is thematical Latvian counter gambit  Nimzovich variation tournament and all games are starting from this position. This opening is considered to be agressive and interesting one and this game was really exciting.",
+        "4. d4 fxe4 5. Bc4 Ne7": "Probably better : 5 ... Qxe5.",
+        "6. Nf7 d5 7. Nxh8 dxc4 8. Nc3": "Another knight gets involved. ",
+        "8... g6 9. Nb5": "I decided ti use knight on h8 as bait.  ",
+        "9... Na6": "Successfully prevents 10. Nxc7 + and  11. Nxa8. ",
+        "10. d5 Qxh8 11. c3 Bd7 12. a4 c6": "Probaly better 12 ... Nf5. Now knight easily takes a Queen. ",
+        "13. Nd6+ Kd8 14. Nf7+ Kc8 15. Nxh8 Bg7 16. Nf7": "Preventing 16 ... Bxh8. ",
+        "16... cxd5 17. Nd6+ Kc7 18. Bf4 Kb6 19. a5+ Kc6 20. Qa4+ Kc7 21. Nxb7+ Kxb7 22. Qxd7+ Nc7 23. Qxc7+ Ka6 24. Qxe7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/janislulles-mini-tournament-iii?gm=46449",
+    "gameName": "janislulle's mini-tournament III",
+    "players": "janislulle (1290) vs. mickchinn (1316)",
+    "opening": "Latvian (C40), Nimzovich variation"
+}

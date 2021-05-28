@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "The Queen's Pawn opening, which has a reputation for leading to slow, positional battles. Not this time!",
+        "1... c5": "By avoiding 1...P-Q4 in response, Tate opens the game up to be tactical at once.",
+        "2. d5": "The only logical move.",
+        "2... e6": "2...P-K4 can also be played.",
+        "3. Nc3": "Yermolinsky develops and guards his advanced Pawn.",
+        "3... exd5": "Tate initiates the exchange...",
+        "4. Nxd5": "...and Yermolinsky completes it.",
+        "4... Ne7": "Tate develops a piece and prepares to exchange off Yermolinsky's advanced Knight.",
+        "5. Bg5": "Yermolinsky prevents the exchange by means of a pin.",
+        "5... h6": "Putting the question...",
+        "6. Bh4": "...and dodging the answer.",
+        "6... Qa5+": "Unpinning with a check.",
+        "7. c3": "Rather than retreat his Knight, Yermolinsky interposes with a Pawn.",
+        "7... Nf5": "Tate frees his KB to develop and threatens Yermolinsky's Bishop.",
+        "8. Qa4": "Very clever move by Yermolinsky. If Tate retreats his Q along the diagonal, he loses it. If Tate takes Yermolinsky's Queen instead...",
+        "8... Qxa4": "...which he does...",
+        "9. Nc7#": "...he gets checkmated. Nicely played by Yermolinsky!"
+    },
+    "url": "https://gameknot.com/annotation.pl/2001-western-open?gm=33144",
+    "gameName": "2001 Western Open",
+    "players": "Alex Yermolinsky  vs. Emory Tate ",
+    "opening": "Old Benoni (A43), Franco-Benoni defence"
+}

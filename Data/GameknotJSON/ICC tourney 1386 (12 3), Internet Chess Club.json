@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. d4 d5 3. c4 c6 4. e3 a6": "White to play.",
+        "5. Bd3 b5 6. b3 Bg4 7. h3 Bh5 8. cxd5 cxd5 9. a4 b4 10. Bb2 e6 11. O-O Be7 12. Nbd2 O-O 13. Rc1 Nbd7 14. Qc2": "Slightly better is 14. Rc6 a5 15. Qe2 Rc8 16. Rfc1.\n",
+        "14... a5 15. Qc7": "Missing 15. Ne5 Bg6 (15... Nxe5 [0] 16. dxe5 Nd7 17. Bxh7+) (15... Rc8 16. Nc6 Qe8 17. Nxe7+ Qxe7 18. Qxc8 Rxc8 19. Rxc8+ Nf8 20. Rfc1) 16. Nxg6 (16. Bxg6 hxg6 17. Nc6 Qe8 18. Qd3) 16... hxg6 17. Nf3 (17. Qc7) 17... Rc8 18. Qe2 ( 18. Qb1).\n",
+        "15... Rc8 16. Qxc8": "Nothing but equal.\n\nWhite is slightly better after 16. Qxd8 Rfxd8 17. Ba6 Ra8 18. Bb5.\n",
+        "16... Qxc8 17. Rxc8 Rxc8 18. Rc1 Rxc1+ 19. Bxc1 Bg6 20. Ne1": "Better is 20. Bxg6 hxg6 21. Kf1.\n",
+        "20... Bd6 21. Bxg6 hxg6 22. Nd3 Kf8 23. f3 Ke7 24. Kf2 Bb8 25. Ke2 Ba7 26. Bb2 Ne8 27. e4 Nd6 28. Ne5 Nxe5 29. dxe5 Nc8": "Inaccurate.\n\nBlack is still almost equal after 29... Nb7.\n",
+        "30. exd5": "I began to feel like I had an advantage.\n",
+        "30... exd5 31. f4 Kd7 32. Nf3 Ne7 33. Bd4 Bb8 34. Kd3 Nc6 35. Bb6 f6 36. exf6 gxf6 37. Nd4": "Computer analysis gives 37. Nh4 Bxf4 (37... g5 38. fxg5 fxg5 39. Nf3 Bf4 40. Nd4 and white is winning.) 38. Nxg6 Bc1 39. g4 Ke6 40. Nh4 Bb2 41. Ng2 Be5 42. h4 f5 43. gxf5+ Kxf5 44. h5 Bc3 45. Ne3+ Ke6 46. h6 Ne5+ 47. Ke2 Nc6 48. h7 Nd4+ 49. Bxd4 Bxd4 50. Ng2 Bb2 51. Nf4+ Kf7 52. Kd3 with a winning game.\n",
+        "37... Bxf4 38. Nxc6 Kxc6 39. Bxa5 Kc5": "Loses.\n\nAfter 39... Bd6 40. Bd8 Be5 (Or 40... f5) 41. Be7 Bc3 the position is not as clear.\n",
+        "40. Bd8 Be5": "\n",
+        "41. Be7+ Bd6": "Just loses, but 41... Kc6 42. Bxb4 is also bad.\n",
+        "42. Bxd6+ Kxd6 43. Kd4 f5 44. a5 g5 45. a6 Kc6 46. a7 Kb7 47. Kxd5 Kxa7 48. Kc5 f4 49. Kxb4 Kb6 50. Kc4 Ka5 51. Kc5 Ka6 52. b4": "If 52... Kb7 53. Kb5.",
+        "52... Ka7": "\n",
+        "53. Kc6 Ka6 54. b5+ Ka7 55. Kc7 Ka8 56. b6 g4 57. b7+ Ka7 58. b8=Q+ Ka6 59. Qb6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/icc-tourney-1386-12-3-internet-chess-club?gm=64129",
+    "gameName": "ICC tourney 1386 (12 3), Internet Chess Club",
+    "players": "john2001plus (1688) vs. Sloggi (2025)",
+    "opening": "Reti opening (A05)"
+}

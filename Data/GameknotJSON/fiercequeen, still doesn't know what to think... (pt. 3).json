@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7": "a bit slow: but solid...",
+        "4. O-O Nf6 5. Re1 O-O 6. c3": "keep Nc6 at bay...",
+        "6... a6 7. d4 exd4 8. cxd4 d5 9. exd5 Nxd5 10. Nc3 Nxc3 11. bxc3 b5 12. Bd3": "all in control...",
+        "12... Bg4 13. h3 Bh5 14. g4 Bg6 15. h4 Bxd3 16. Qxd3": "a bit of a gamble...",
+        "16... h6 17. g5": "Black is losing a decisive tempo...",
+        "17... h5 18. Kg2": "we need Rooks...",
+        "18... Qd5 19. Bf4 f6 20. Rac1": "room, for more complications...",
+        "20... fxg5 21. c4 bxc4 22. Qxc4 Qxc4 23. Rxc4": "all kinds of pieces en prise...",
+        "23... Rxf4": "a very bad move...",
+        "24. Rxc6 Bd6 25. Nxg5 Rxd4 26. Re4 Rd2 27. Kf3": "no fear...",
+        "27... Rxa2": "I would have tried Rf8...",
+        "28. Ke3 Rf8 29. Ne6 Rfxf2 30. Nxc7 Rfe2+ 31. Kf3 Bxc7": "not paying attention?",
+        "32. Rxe2": "boink..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-still-doesnt-know-what-to-think-pt-3?gm=65283",
+    "gameName": "fiercequeen, still doesn't know what to think... (pt. 3)",
+    "players": "fiercequeen (2059) vs. chemasta (2127)",
+    "opening": "Hungarian defence (C50)"
+}

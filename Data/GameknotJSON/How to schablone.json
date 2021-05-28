@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. d4 d5 3. Bf4 Bf5 4. e3 e6": "A true member of the schablone family... If we can play this happily ever after, this game will surely draw... So white has to break the symmetry... But how? 5. Bb5+ will surely do the trick, but after c6, Bd3, Bxd3, Qxd3, Bd6, the position is fairly equal... And in blitz, you only get five minutes, to prove any point...\n\n>>>>>Special note to water123: nobody cares what you think. I call my opponents not by name, to protect their privacy, whether they win or lose... We call this respect, something you've never heard of. You do not only insult me, but also my opponent(s).<<<<<",
+        "5. c4": "White had better prolonged the symmetry for a while longer, with 5. Bd3 Ne4 6. 0-0 Bd6 7. Ne5 0-0! and full symmetrics... Now, break the position up with 8. f3 Bxe5 (f6?, fxe4, dxe4, Bc4!, fxe5, dxe5) 9. dxe5 Nc5, and all is well on the white front... After this move, things go terribly wrong...",
+        "5... Bxb1": "Of course, black can't copy-cat 5. ... c5? 6. cxd5 exd5 (cxd4?, Qa4+) 7. Qb3! Qb6, which leads to a dead position, for black... But this is the right moment to strike, since black has Bb4+ left, without Nc3; plus: white ruled out Bb5+...",
+        "6. Rxb1": "Wrong choice; after 6. Qxb1 Bb4+ 7. Kd1! (Ke2, dxc4) Nbd7 8. Qc2 c5! (develops Bf8) 9. a3! Ba5 10. dxc5, white can hold his ground...",
+        "6... Bb4+": "Thus: we gain tempo...",
+        "7. Ke2": "Forced: after 7. Nd2? Ne4, it is over...",
+        "7... Bd6": "Strong retalliation... After 7. ... 0-0 8. c5, Bb4 gets cramped...",
+        "8. Ne5": "Best is 8. Bxd6, and get it over with...",
+        "8... dxc4": "Free pawn...",
+        "9. Kf3": "Preventing Ne4, plus f6, right away... Slightly better is trying 9. Qa4+ c6 (or Nbd7) 10. Qxc4 Nh5 11. Qb3 b6... After 9. Nxc4? Bxf4 10. exf4 Qd5! things are starting to look ugly for white...",
+        "9... b5": "What else? Forced, but best...",
+        "10. b3 Nd5": "Things are taking shape... Black threatens f6, plus Nc2...",
+        "11. bxc4": "First things have to be first... This is forced, otherwise this pawn will get to c3, plus coverage via b4... There is no use in preventing Nc3, because of f6... Plus, black has always Nxf4, and his strong bishop on d6...",
+        "11... Nc3": "Not evitable... Think of 6. Rxb1...",
+        "12. Qd2": "These tragic things, can only happen in blitz... After 12. Qc2 Nxb1 13. Qxb1 bxc4, white only loses his pride and some quality... Now, he loses a piece...",
+        "12... Nxb1": "Oops, queen under attack...",
+        "13. Qd3": "Loses a full rook, but there were other matters at hand... The white queen has to defend c4...",
+        "13... Na3": "What white had overseen... The knight is covered...",
+        "14. Qe4": "To discourage f6, via Ng4!... Plus, attacking Ra8, and b5, all at the same time...",
+        "14... Nd7": "Discouraging... White has no threats whatsoever...",
+        "15. Bg5": "Setting one last trap... After 15. ... Qxg5?? 16. Qxa8+ Ke7 17. Nc6+ Kf6 18. Qxh8, white might run out of trouble...",
+        "15... Nf6": "Relentless... And much stronger then 15. ... f6...",
+        "16. Qc6+": "This was his last trump...\n",
+        "16... Kf8 17. Nd7+ Ke7 18. Ne5 bxc4 19. Bxc4 Nxc4 20. Qxc4 Kf8 21. Nc6 Ne4": "Very nice move... Altough this implies a queen sac, we introduce Nd2+, and win it back... After Kxe4, Qxg5...",
+        "22. Qb5 Nxg5+": "There were a lot of solutions... But this is surely not the one... White resigns; after Qf6, it is done... We had still plenty of time, both some four minutes..."
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-schablone?gm=45415",
+    "gameName": "How to schablone?",
+    "players": "John Doe (1850) vs. vonbonkagain (1200)",
+    "opening": "Reti opening (A05)"
+}

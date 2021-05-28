@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. f4": "White adopts an aggressive approach against the Najdorf.  These initial moves were all knocked out very quickly.",
+        "8... Qc7 9. Qf3 b5 10. a3 Nc6 11. Be3": "White's first long think of the game produced a fairly standard move.",
+        "11... Nxd4": "I don't think I thought long enough about this.  White's dark squared bishop becomes very powerful on its new outpost.",
+        "12. Bxd4 Bb7 13. O-O-O O-O-O": "This was a difficult decision.  I eventually decided that the potential attack against a king-side castled position would just be too powerful and that I could give as good as I got from the queenside position: perhaps somewhat naive!",
+        "14. Rhe1": "White completes his development with this excellent centralising move, overdefending e4 and thus giving him flexibility of movement.",
+        "14... Kb8": "To facilitate lining up major pieces on the c file and get them off the same diagonal.",
+        "15. Qf2": "White immediately responds with the threat of the skewer and the possible check on a7.",
+        "15... Rdc8": "As planned ...",
+        "16. Kb1": "White takes time to respond to the battery...",
+        "16... Rhe8": "? Completely overlooking White's next move, which sets up threats on the e5-b8 diagonal.  I think an immediate 16. ...Nd7 would have been better.",
+        "17. e5": "!",
+        "17... Nd7 18. exd6 Bxd6 19. Bxg7": "At the time I thought this was just a pawn-grabbing waste of time but it also increases White's control of the black diagonals.",
+        "19... Nc5": "?  Completely missing White's response.",
+        "20. Rxd6": "!  If I recapture on d6, 21. Be5 wins immediately.",
+        "20... Nd7": "I'd intended to swap on b3 but now I felt that it was imperative to contest control of e5 again.",
+        "21. Red1": "White increases the pressure again.",
+        "21... Red8 22. Be5 Nxe5": "Glad to get rid of that bishop!",
+        "23. fxe5 Rdg8": "An attempt to counter-attack but I'm already doomed.",
+        "24. Rd6d7 Qc6 25. Qxf7": "Now the threats are of the mating kind.",
+        "25... Qxg2 26. Bxe6": "and of the forking kind ...",
+        "26... Rcf8 27. Qxh7": "and White is picking up material so even if I survive the mating attack he'll win with his extra pawns and knight.",
+        "27... Bc8 28. Ra7 Bxe6": "?? One blunder too many.  I was covering b7 from g2 but not c7.",
+        "29. Qc7#": "I need to improve my risk awareness in the middle game!  Well played by my opponent."
+    },
+    "url": "https://gameknot.com/annotation.pl/o-dl-cowley-4-v-didcot-2-bd-4?gm=62602",
+    "gameName": "O&DL Cowley 4 v Didcot 2 Bd 4",
+    "players": "Bob Samuels (121) vs. Bob Jacobs (132)",
+    "opening": "Sicilian (B90), Najdorf, Lipnitzky attack"
+}

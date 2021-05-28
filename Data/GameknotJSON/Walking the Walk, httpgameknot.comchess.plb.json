@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. c4 c5": "English symmetrical opening. Blacks intention is to play white at his own game and retain some sort of control in that he has the option of when to end the symmetry.\n",
+        "2. Nf3 g6 3. Nc3 Bg7 4. g3 Nc6 5. Bg2": "The Bremen variation. The fianchetto has both strengths and weaknesses.\n",
+        "5... d6 6. O-O e5 7. d3 Nge7 8. Qc2": "The 1st non-book move. designed to prevent BxN exchange disrupting the pawn structure\n",
+        "8... O-O 9. Qb3": "If you are going to play Qb3 then do it in one move and dont waste a tempo. In fact better was Bd2 connecting the Rs.\n",
+        "9... a6 10. h3 Rb8 11. a4 Be6 12. Ng5 Nd4 13. Qd1": "And the Q retreats home. An example of bringing the Q out too early\n",
+        "13... Bd7 14. Bd2 h6 15. e3 hxg5": "Swapping a N that wasnt doing much for an active central N. Better was Ndc6.\n",
+        "16. exd4 cxd4": "And black has given himself 2 lots of doubled pawns.\n",
+        "17. Ne4 g4 18. hxg4 d5 19. cxd5 Nxd5 20. Rc1 Bc6 21. Re1 Qe7 22. g5 Rfc8 23. Qb3 Qd8 24. Rc2 Qd7 25. Rec1 Rcd8 26. Qa2 Rbc8 27. b4 Rca8 28. Nc5 Qg4 29. a5": "mistake giving away all the advantage carefully built up. better was either Qc4 or Re1\n",
+        "29... Rd6": "And black very generously hands it straight back. better was Nf4 threatening the integrity ofthefianchetto\n",
+        "30. Be4 Ne3 31. Nxb7 Bxe4 32. dxe4 Rd7 33. Bxe3 dxe3 34. Nc5 exf2+": "mistake, doubling whites advantage. better was Rd4\n",
+        "35. Kg2 Rd4": "One of the cruelties of this game. What was best last move is bad this move. better was Rd6\n",
+        "36. Rxf2 Ra7": "Understandable going for the open file but much better was Rh1 looking to drive the Q away with Rh4.\n",
+        "37. Rcf1 Qxg5 38. Qb3 Rd2 39. Qc3": "Much better was Nxa6 clearing the black pawns from that side. Black cannot recapture as this allows Qxf7+\n",
+        "39... Rd8 40. Qf3 Qe7 41. Qe2 Qd6 42. Qa2 Rf8 43. Rf2f3 Qc6 44. Qc4 Qc7 45. Rd3 Rc8 46. Rfd1 Bf8 47. Rd3d7 Qxd7 48. Rxd7 Rxd7 49. Qxa6 Rdc7 50. Nd3 Rd8 51. Nxe5": "Better was Qb5 protecting b4\n",
+        "51... Bxb4 52. Qb6": "Alternative was Nc6 forking B & R.\n",
+        "52... Bd6 53. Nc4 Rcd7 54. e5 Bb8 55. a6 Ba7 56. Qb5 Re7 57. Qa5 Rdd7 58. Nd6": "Planing Ne4 then Nf6+\n",
+        "58... Rdc7 59. Qd5 Kh7 60. Qe4": "and promptly forgetting the plan\n",
+        "60... Re6 61. Qh4+ Kg7 62. Qg5 Rd7": "Much better was attacking with Rc2+\n",
+        "63. Nf5+ Kg8": "Not Kf8 or Kh8 as these both lead to mate in 2\n",
+        "64. Qc1": "start of the end\n",
+        "64... Re8 65. Nd6": "Missing the attack with Nh6+\n",
+        "65... Ree7 66. Qc4": "Too eager to get an attack moving. Better was Kh3 making sure there were no checks to interrupt progress.\n",
+        "66... Rdc7 67. Qh4 Be3 68. Ne4 Kg7 69. Qf6+ Kg8 70. Qd6 Kg7 71. Nf6 Rc2+": "just forces me to do something i should have played earlier\n",
+        "72. Kh3 Bc5 73. Qb8 Rc4 74. Qg8+ Kh6 75. Ng4+ Kg5 76. a7": "and with net closing in black resigns.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-http-gameknot-com-chess-pl-b?gm=44937",
+    "gameName": "Walking the Walk, http://gameknot.com/chess.pl?b",
+    "players": "bigpeta (1921) vs. ionadowman (2052)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Since I really only know the Stonewall opening, I thought I'd try a king's pawn opening instead.  However, it really just turned into a backwards stonewall setup.",
+        "1... e5 2. d3 Nc6 3. Be3 Nf6 4. c4 Bb4+ 5. Nc3": "I was planning to develop the knight here anyway, and then to take the knight outpost at d5 after castling.",
+        "5... h6 6. Nf3 O-O 7. Qd2": "Setting up the stonewall-style bishop sacrifice",
+        "7... d6 8. Bxh6 gxh6 9. Qxh6 Nh7 10. Be2 f5 11. O-O Rf6 12. Qh5 Be6 13. Nd5": "Finally taking the outpost as I had planned.",
+        "13... Bxd5 14. cxd5": "The c file looked prettier for my rooks, so I took with the c pawn.  I also liked being able to un-double my pawns if the e pawn was taken.",
+        "14... Qe8 15. Ng5": "A tactical \"underdefence\" error.",
+        "15... Qxh5 16. Bxh5 Nxg5": "So now I've lost my knight and sacrificed a bishop (for two pawns), and while black's kingside is demolished, the only troops I've got over there are a bishop.",
+        "17. dxc6": "I thought black would enjoy doubled pawns more than I did.",
+        "17... bxc6 18. Rac1 c5 19. a3 Ba5 20. f4": "These are sort of desperation moves.",
+        "20... exf4 21. Rxf4 Bd2": "Like the \"n00b\" I am, I walked straight into the bishop fork.  Bad news.",
+        "22. Rff1 Bxc1 23. Rxc1 fxe4 24. h4 Rh6 25. hxg5 Rxh5": "Agreeing to trade off pieces was probably not what I should have down, being a rook down.",
+        "26. dxe4 Rxg5 27. Rf1 Rg4 28. Re1 Re8": "That's pretty much a lost position.  In conclusion, my two bad-but-not-fatal mistakes on moves 16 and 21 were both preventable tactical in errors, and while the strategic play wasn't atrocious, one cannot expect to tactically blunder twice and still win."
+    },
+    "url": "https://gameknot.com/annotation.pl/terribyte1s-mini-tournament?gm=13966",
+    "gameName": "terribyte1's mini-tournament",
+    "players": "pretz (1292) vs. dronin (1222)",
+    "opening": "KP (C20), Indian opening"
+}

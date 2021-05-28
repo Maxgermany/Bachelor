@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "I've played lpcmagician quite a few times and our games are always close.  For a bit of variety this time, I played d4.  I usually prefer e4 but just fancied something different here.",
+        "1... Nf6 2. c4 e6 3. Nc3 Bb4 4. e3": "The Nimzo-Indian defence.  I know very little theory about this opening, but recalled that 4.e3 is the Rubinstein system main-line.  ",
+        "4... d5 5. a3": "4...d5 was a bit of surprise, as 4...c5 or b6 is more common.  In black playing ...d5 here, I can take advantage of 5.a3 and then force a trade or retreat of the black bishop.  If the former, I can un-double my c-pawns at some stage with cd5 and then transpose into a favourable Samisch variation.",
+        "5... Bxc3+ 6. bxc3 Ne4 7. Qc2": "Ne4 was a further surprise, as it is not clear what this achieves.  The black Knight does take up a fine outpost, but at this stage I was happy to ignore it and just develop with Qc2.  The idea being that I wanted to concentrate my efforts on e4, with a view to at some stage playing f3, and then e4.  Qc2 also has the advantage that it prevents black taking on c4 as the Knight is en prise.  ",
+        "7... Qg5": "7...Qg5.  Again, this seemed a little premature.  I do have to be a little careful here as if I play 8.f3 straight away then I get the rather nasty 9...Qh4  in response.  If I try and play 10.g3, then black simply responds with 10...Nxg3 and I'm in all sorts of trouble.  ",
+        "8. Nh3": "So instead I opt for 8.Nh3.  This gains a tempo whilst also leaving the option of f3 available at a later stage.  The more natural 8.Nf3 blocks the pawn advance.  ",
+        "8... Qh4": "I would have thought a better option would be to simply retreat the Queen to d8 or e7.  Leaving it mid-board causes black quite a few problems, as seen later on.",
+        "9. Bd3 Nf6": "9.Nf6 is not so good here as it blocks the black queen from an easy retreat.  ",
+        "10. O-O Nbd7 11. cxd5": "Un-doubling my c-pawns and preparing a central thrust.  ",
+        "11... Nxd5": "11...Nxd5.  Capturing with the Knight means that I don't even now have to play f3 - I can play e4 straight away and then force the black Knight to move yet again.  A feature of this game is the number of times black pieces are repeatedly moved to the neglect of black's overall development.  ",
+        "12. e4 Nd5f6 13. Bg5": "This is the start of a black's problems.  The black queen is short of safe squares and it is time to exploit this!",
+        "13... Qg4 14. f4": "14.f4 looks like a quiet move, but there is a serious threat of 15.Be2 winning the black queen.  My opponent realises this and now tries to do something to free up his position.  ",
+        "14... e5": "One of a number of options.  Probably better was 14...Qh5, when 15.Be2 is met by 15...Ng4, 16. Qd1, 16....f5.  White stands well due to the pinned g4 Knight and has much the better placed pieces.  Here, 14...e5 effectively conceded the centre and forces black to move his f6 Knight yet again!",
+        "15. fxe5 Nxe5": "A bit desperate, but black had clearly had enough of being squeezed.",
+        "16. dxe5 Nd7 17. Rf5": "This again looks like a quiet and pretty unnatural move.  The white rook is opening itself up to a discovered attack via the black bishop, and it didn't really seem that worthwhile trying to hang on to the e5 pawn.  I was still hoping that I could spring my 18...Be2 trap which would win black's queen.  ",
+        "17... Nc5": "Probably the best move.  Black looks to be getting back into the game, as the awkwardly placed rook on f5 is under attack black can then trade off one of white's ishops with his knight. ",
+        "18. e6": "A useful resource.  This move creates a discovered attack on the black knight and threatens 19.exf7 , ruining black's attempt to castle.  ",
+        "18... Nxd3 19. Nf2": "19. Nf2.  Here I had a number of options, the most obvious being 19.Qxd3.  However, having played 18.e6, I now saw a way of surprising the black King (see move 20).  By playing 19.Nf2, I wanted to attack black's Queen and at the same time set a trap should black play 19...Nxf2.  If black plays 19...Qh5 (the only square), then white has a very dangerous discovered attack when he moves his bishop from g5.  One possible line is 19...Qh5, 20. exf7 , and if the black King moves to d8 or f8, the white can win the black Queen with the discovered attack referred to above.  The alternative move 20...Kd7, allows white to play 21.Qxd3 with check and a crushing attack.  Perhaps seeing this, black chose 19.Nxf2 instead.  ",
+        "19... Nxf2 20. Qa4+": "The point of the trap.  Black can't play 20...Be7, and 20...Kf8 is met by 21. Rxf7 mating.  ",
+        "20... c6": "The only move.  ",
+        "21. exf7+": "Now the black King is out in the open and white's Queen is coming to join the attack.  Black's Queen on the other hand has been on g4 since move 13!",
+        "21... Kf8": "The nail in the coffin.  This now leads to a quick mate.  The alternative 21...Kd7 continues: 22.Qd4 , 22...Ke6, 23. Qe5 , 23...Kd7, 24.Qe7  . ",
+        "22. Qb4+ c5 23. Qxc5#": "1-0.  An interesting game that finished earlier than expected, largely due to the difference between white and black's piece development and the poor placement of the black Queen early on.  I'd be grateful for any of your comments on this game.  Cheers!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-lpcmagician?gm=13841",
+    "gameName": "Challenge from lpcmagician",
+    "players": "prcpower (1777) vs. lpcmagician (1618)",
+    "opening": "Nimzo-Indian (E40), 4.e3"
+}

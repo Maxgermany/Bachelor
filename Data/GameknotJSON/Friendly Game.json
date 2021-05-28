@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 Nf6": "Alekhine's Defense",
+        "2. Nc3 d5 3. d4 dxe4 4. Qe2": "Mistake: 4. Qe2 Qxd4",
+        "4... Bf5": "Better: 4... Qxd4",
+        "5. Be3 Bg4 6. f3 exf3 7. Nxf3 Nc6 8. O-O-O e6 9. h3 Bh5 10. g4 Bg6 11. Qb5 Bd6": "Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.\nBetter: 11... Rb8",
+        "12. Qxb7 O-O": "Mistake: 12... O-O 13. Qxc6",
+        "13. Qxc6 Ne4": "Mistake: 13... Ne4 14. Nxe4",
+        "14. Nxe4": "Now I'm up two Knights, and controlling the center.",
+        "14... Be7": "Did not understand the point of this move.",
+        "15. Bd3 f5": "Mistake: 15... f5 16. Qxe6",
+        "16. Qxe6+ Kh8 17. Neg5": "Plan: threaten a fork with Nf7+, thus exerting pressure and attacking Black's kingside. Might require exchange of light-squared bishops.",
+        "17... f4": "Blunder: 17... f4 18. Bxg6 Qb8 19. Nf7+ Kg8 20. Bxf4",
+        "18. Bxg6 fxe3": "Blunder: 18... fxe3 19. Nf7+ Rxf7 20. Qxf7",
+        "19. Nf7+ Kg8": "Blunder: 19... Kg8 20. Nxd8+ and the rest of the game follows. Black should have exchanged the Rook for the Knight and saved the Queen.",
+        "20. Nxd8+ Kh8 21. Nf7+ Kg8 22. Bxh7+": "Risky move, I was not sure whether it had played out correctly in my head.",
+        "22... Kxh7 23. Nf3g5+ Kg8": "Only move. The alternative 25... Bxg5 leads to 26. Nxg5+ Kh8 27. Qg6 followed by 28. Qh7#",
+        "24. Qg6 Rae8": "Blunder: 24... Rae8 25. Qh7#.\nMoving the Rook from f8: also a bad move: 25. Qh7+ Kf8 26. Qh8#.\nBest (only) move: 24... Bxg5 25. Nxg5, then 25... Re8 or 25... Rd8 (all other moves either lose the game with 26. Qh7#, or lose a Rook with 26. Qh7+ Kg8 27. Qh8+)",
+        "25. Qh7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/friendly-game?gm=46213",
+    "gameName": "Friendly Game",
+    "players": "Jad  vs. Luiza ",
+    "opening": "Alekhine's defence (B02), Scandinavian variation"
+}

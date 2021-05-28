@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "A Fast Ladder game. I'm the challenger so my opponent begins with the Open Game and I take it to the flank with the Sicilian.",
+        "2. Bc4 e6": "Again with the Philidor Variation? I'm going to give 2. Bc4? a question mark. The world DB hates it. The GK DB hates it. Both DBs give it a huge favor to black. I've personally faced it 6 times now on GameKnot (a disproportionate number for such an unsuccessful move) and I'm 6-0 against it. My reference on the Sicilian lists it as \"significantly inferior to all other standard replies and recommends the main line, Closed line, Morra Gambit, and Wing Gambit as far better options for white.\" Yet, somehow, this move is popular here on GameKnot. It probably doesn't deserve a ?, but I'm giving it one anyway for the sheer folly of picking a move that barely rates better than 2. Ke2. Black immediately makes the white bishop look silly with 2. ... e6, a move black probably would have played at some point in the Sicilian anyway.",
+        "3. Nf3 Nc6 4. Nc3 a6": "Keeping the white pieces off of b5, always a good idea in the Sicilian, and in many other defenses as well.",
+        "5. d3 d6 6. Bf4 Nge7": "White has developed all his minor pieces while black has only just developed his second knight, but black's pawns are well situated to deny white any real advantage from his speedy development.",
+        "7. a3 Ng6": "Preparing for Be7 soon, allowing black to castle, and simultaneously driving away the white bishop. ",
+        "8. Ng5 Nxf4": "Or so I thought. Well, if I can't drive it away, I can drive it all the way to the discarded piece pile. Now black's knight on g5 is en prise and must be saved.",
+        "9. Qf3 Qxg5": "Or so I thought. White has left two pieces hanging in a row, and black is obligated to demonstrate the error of his ways.",
+        "10. g3 Nd4": "White would like to drive away the black knight, but black has a different plan, and now white's queen must retreat; surely white doesn't want any material exchanges, espcially the queens, when he is down by two pieces.",
+        "11. Qxf4 Qxf4": "Or so I thought.",
+        "12. gxf4 Nxc2+ 13. Kd2 Nxa1 14. Rxa1 b5": "All those exchanges left material even, mathematically, but instead of being ahead by two pieces, black is now ahead by a rook+pawn. In my opinion that is a much easier endgame to win, and more likely to produce additional advantages before we reach that endgame. Further, the white pawns are much more disrupted, with the isolated h pawn and the doubled f-pawns and the backward d and b pawns, all of which amount to structural/positional flaws that black should be able to exploit, given his material advantage.",
+        "15. Bb3 g6 16. e5 Bh6": "This wins a pawn. The white pawn on f4 can be defended, but it will remain pinned and unable to defend its fellow pawn on e5.",
+        "17. Ke3 dxe5": "Now the pinned pawn can be saved by 18. Ne2 whereupon 18. ... Bxf4+ 19. Nxf4 exf4 20. Kxf4 trades off a bunch more material and brings black closer to that Rook+2pawn endgame.",
+        "18. Kf3 Bb7+": "The pawn on f4 was en prise, but this little zwischenzug develops the bishop with check, gaining a tempo. The pawn can be captured next move.",
+        "19. Ne4 f5": "Or so I thought. 19. Ne4? blunders a piece as that knight is pinned and there is a black pawn in reach. As a general rule, it's important to understand that any time one blocks a check, the blocking piece is pinned automatically. Sure, that's obvious when it's said aloud (or typed in an annotation), but it needs to be instinctively obvious to the player when he is considering alternatives to get out of check, too.",
+        "20. Kg3 exf4+": "20. Kg3? allows black to win the pawn, gaining another tempo from the check. I considered 20. ... Bxf4+ instead, but then after 21. ... fxe4 black ends up with tripled isolated pawns on the e-file. This way, black's e and f pawns trade places and remain adjacent to each other.",
+        "21. Kh3 fxe4 22. dxe4 c4": "Defending the pawn on e6.",
+        "23. Bc2 Bg7 24. Rb1 O-O-O": "Castling seems almost pointless at this stage, but getting that rook off of a8 and into the game makes it all worth it. I considered just playing 24. ... Rd8 which accomplishes the same thing and leaves the black king closer to the action in case he wants to join in the hunt of white's king, but then after I advance that rook up the d-file, I would want the other rook to occupy d8 as quickly as possible. By castling now, I get the black king out of the way. Besides, it's the same number of moves from c8 to h3 as it is from e8 to h3, so the greater distance between the kings is really only illusory.",
+        "25. b4 Rd2": "White gives black his first passed pawn. Capturing en passant would be a mistake, exchanging that passed pawn for no real benefit, especially when black has a fork to be played with 25. ... Rd2.",
+        "26. Bd1 Bxe4": "Two pawns were en prise, f2 and e4. Black could take either, but capturing on e4 brings the bishop into the immediate vicinity of white's king and (partially) traps him where he is. Further, the pawn on f2 is impossible for white to defend anyway, especially since he must see to saving his rook.",
+        "27. Bg4 Bxb1": "Or so I thought. White attacks a pawn and leaves his rook to die a horrible death.",
+        "28. Bxe6+ Kc7 29. f3 Bf5+": "The fork removes white's last piece. Sure, it double's the black pawns, normally something I would avoid, but in this case, those pawns form a beautiful wall from which white's king has no escape.",
+        "30. Bxf5 gxf5": "White has two legals moves. One of them sacrifices a pawn needlessly, but it is white's best move anyway.",
+        "31. Kh4 Bf6+": "Now the continuation will be 32. Kh3 Rg8 33. a4 Rg2 34. axb5 (note that a reflexive 34. ... axb5??? by black stalemates white) Rxh2#.",
+        "32. Kh5 Rxh2#": "Or so I thought. White cornered himself and checkmate is delivered two moves early. Black advances half a page on the Fast Ladder."
+    },
+    "url": "https://gameknot.com/annotation.pl/or-so-i-thought?gm=25498",
+    "gameName": "Or So I Thought. ",
+    "players": "choknowsall (1235) vs. blake84120 (2037)",
+    "opening": "Sicilian defence (B20)"
+}

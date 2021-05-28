@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4": "Se trata de la segunda ronda. Mi rival es un competidor de ajedrez avanzado, rico en teor\u00eda, experto en partidas de larga duraci\u00f3n. Planteo un gambito de dama",
+        "1... Nf6": "Desarrollando pieza, preparando enroque corto, y quiz\u00e1s seguir con g6, y luego Ag7. Defensa India.",
+        "2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bf4 c6": "Me parece mejor, 6....Cxc3, seguido de una presi\u00f3n por Da5, y c5, y el alfil en g7 y por supuesto, dxc",
+        "7. e3 O-O 8. Bd3 Nf6": "Un error o por lo menos es la p\u00e9rdida de un tiempo, me parece mejor 6...Cxc3 o Cd6",
+        "9. Qc2 Na6": "Una jugada bastante extra\u00f1a que especula con Cb4, me parece mejor Cd7 o Ag4",
+        "10. a3 Bg4 11. Ne5 Be6": "Una jugada muy dif\u00edcil de ver que sin embargo me parece la mejor, FRITZ tambi\u00e9n la recomienda\n",
+        "12. h4": "Para esconder el Alfil en g2, especular con g4 y la p\u00e9rdida eventual del caballo. Una popular maniobra de Aronian hace un a\u00f1o.",
+        "12... Nh5 13. Bh2 f6": "El error, deja debilitado el enroque, sin protecci\u00f3n al alfil en e6, aislado al caballo de a6 y atrapa al caballo de h5, era mejor seguir desarrollando, por ejemplo a Db6",
+        "14. Nxg6": "Sacrificio para destruir el d\u00e9bil enroque del negro",
+        "14... hxg6 15. Bxg6 Bf7 16. g4": "La premeditada g4. Prolongando lo m\u00e1s posible la presi\u00f3n del caballo en h5, de todas maneras est\u00e1 condenado y mantener la presi\u00f3n busca dos objetivos, una, quebrar al rival provocando su segundo craso error y dos que pierda tiempos valiosos intentando salvar a un caballo que est\u00e1 condenado",
+        "16... Qa5": "Otra jugada muy dif\u00edcil de ver, la mejor por parte de las negras por obvias razones, se le da continuidad a la jugada Ca6, para presionar con c5 y se amenaza abrir la columna a, en caso de enroque largo",
+        "17. O-O-O": "Un error t\u00e1ctico si bien no garrafal, pero s\u00ed notorio que le da contrajuego a las negras y posibilidad de tablas por jaque perpetuo, me percat\u00e9 de eso ya que lo hab\u00eda hecho. Era mejor enroque corto.",
+        "17... b5": "Buena jugada, esta vez el negro contraataca. Aunque me parece m\u00e1s efectiva y m\u00e1s letal dxc, con b5 el negro aspira a tablas por jaque perpetuo",
+        "18. gxh5": "Era mejor jugar Tg1\n",
+        "18... dxc4": "Un error, es mejor pasar directamente a b4 con fuertes posibilidades de tablas",
+        "19. Bxf7+ Rxf7 20. Qg6 b4 21. axb4 Nxb4 22. h6": "La mejor es Rb1, h6 es un error",
+        "22... Qa1+ 23. Nb1 Nd3+": "Afortunadamente para m\u00ed, el negro opta por Cd3+ en lugar de Ca2+, la cual es mucho mejor y en caso de que la hubiese hecho, hubiese posibilidad de tablas",
+        "24. Rxd3 cxd3 25. Rg1 Qa6 26. h7+": "Y las negras rinden ante las amenazas de mate inevitables"
+    },
+    "url": "https://gameknot.com/annotation.pl/1st-acapulco-chess-tournament?gm=52362",
+    "gameName": "1st Acapulco Chess Tournament",
+    "players": "Arturo Pastor (1637) vs. Luis Hern\u00e1ndez (1212)",
+    "opening": "Gruenfeld (D91), 5.Bg5"
+}

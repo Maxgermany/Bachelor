@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. f4": "Bird's Opening.",
+        "1... Nh6": "Off the beaten path just a little with Ng6. Let's try taking White into the unfamiliar :-)",
+        "2. Nf3 d5": "I like my chances with d5",
+        "3. e3": "e3? Seems little unbird like",
+        "3... Nc6 4. Bb5": "Well we're no longer in Bird land. Actually think this move for White is giving Black a small advantage.",
+        "4... a6 5. Bxc6+ bxc6 6. O-O g6 7. h3 Bg7 8. c3 Nf5 9. Qe1 O-O": "White's in a bit of trouble already."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=61069",
+    "gameName": "Let's play chess",
+    "players": "chesplay01 (1613) vs. jryer1 (1579)",
+    "opening": "Bird's opening (A02)"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "Initiates a game that is more positional in nature. ",
+        "1... d5": "I always played the Gruenfeld against d4 but because of recent setbacks on the opening I returned to the more classical approach d5.",
+        "2. c4": "Initiates the Queens Gambit, offering a non-center pawn for blacks center pawn.",
+        "2... e6": "Accepting the gambit offers lively game and requires more energetic play. I decline thinking of keeping my position close trying to understand what my opponent is planning.",
+        "3. Nc3": "the most common and the most logical move in this type of position.",
+        "3... Nf6": "Here instead of 3...Nf6 I wanted to play the super refinement move 3...Be7 waiting for white to move his bishop out or shut it in with 4.e3",
+        "4. Nf3 Be7": "now I'm done developing my kingside and ready to castle",
+        "5. e3": " ",
+        "5... O-O 6. Be2 b6": "the queens bishop is always a problem piece to develop in the QGD.",
+        "7. O-O Bb7 8. a3": "preparing for b4, expanding his queenside space.",
+        "8... Nbd7 9. b4 Ne4": "in preparation for king side attack",
+        "10. Nxe4": "taking a full queenside majority. hoping to win it in the end game.",
+        "10... dxe4 11. Nd2 c5 12. dxc5 bxc5 13. b5 f5 14. Bb2 Bf6": "its best to challenge the strong bishop immediately. ",
+        "15. Bxf6 Qxf6": "now my queen participate in the coming attack and free my qeenside rook for the d8 square",
+        "16. Nb3": "white continous exerting pressure in the queenside",
+        "16... Rad8 17. Qc2 f4": "while black is pressing in the kingside looking for counterplay",
+        "18. exf4 Qxf4 19. Rad1 Qg5 20. Rd6 Ne5 21. Rxd8 Rxd8 22. Kh1 Nd3": "now my knight occupies a very advantageous position and is going to attack the g2 square via f4",
+        "23. Nd2": "Nd2?? the losing move",
+        "23... Nxf2+": "Nxf2!! opens an attack to the vital square d2 for my heavy piece the rook!",
+        "24. Rxf2 Rxd2 25. Bg4": "a last trick to win the game by a back rank mate if I'll take his queen first. So why win the queen when I can win the game via endgame by simplification!",
+        "25... Rxf2 26. Bxe6+ Rf7 27. Bxf7+ Kxf7 28. Qf2+ Qf6 29. Qxc5 Qa1+ 30. Qg1 Qxg1+ 31. Kxg1": "atleast here its over ",
+        "31... Ke6 32. Kf2 Kd6 33. Ke3 Kc5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=48901",
+    "gameName": "Let's play chess",
+    "players": "kingcobra1 (1649) vs. atev (1683)",
+    "opening": "QGD (D37), classical variation (5.Bf4)"
+}

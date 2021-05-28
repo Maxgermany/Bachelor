@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Bc4 e6 4. Nc3 Nc6 5. d4": "attack in the middle + quick development",
+        "5... cxd4 6. Nxd4 Nxd4 7. Qxd4 Nf6 8. Be3 h6 9. Rd1": "d6 pawn seems to be there for the taking",
+        "9... Qe7 10. Nb5 a6 11. Nxd6+ Qxd6 12. Qxd6 Bxd6 13. Rxd6 Nxe4": "this scenario was easy to envision. According to my calculations I clearly won this exhange",
+        "14. Rd3 b5 15. Bb3 O-O 16. f3 Ng5 17. Bxg5": "this was inaccuracy according to computer analysis. I decided to simplify the position quickly though\n",
+        "17... hxg5 18. Kf2 a5 19. c4": "simplify simplify \n",
+        "19... Ba6 20. cxb5 Bxb5 21. Rc3": "better would have been rd4",
+        "21... a4 22. Bc4 Rab8 23. Bxb5 Rxb5 24. b3 Rd8 25. Ke3": "This was mistake because after re5+ ke2 rd2+ I lose a pawn. I should have looked at all the possible checks available for my opponent but did not. Enemy did not capitalize on this though...",
+        "25... axb3 26. Rxb3 Rf5 27. Rd3": "idea was to exchange and again simplify position",
+        "27... Re5+ 28. Kd2 Rb8 29. Rc1 Kh7 30. Rcc3 Kg6 31. Rcb3 Rc8 32. Rbc3 Rh8 33. Rde3 Rxe3 34. Rxe3 Ra8": "after rxh2 the game would have still been wery drawish since I was the only one having some play on the queenside with passed pawn",
+        "35. a3 Kf5 36. g3 Kf6 37. Ke2 Rh8 38. Kd3 Ra8 39. Kc4 Ke7 40. Kd4 Rb8 41. f4 Rd8+ 42. Ke4 f5+ 43. Kf3 Rd2 44. fxg5 Rxh2 45. Re2": "simplify",
+        "45... Rh8 46. Ra2": "now i have supported passed pawn",
+        "46... Ra8 47. a4 Ra5 48. g4 Kd7 49. Kf4 g6 50. Rd2+ Ke8 51. gxf5 exf5 52. Rd4 Ke7 53. Rb4 Ra6 54. Ke5": "at this point I just focused on king advancement",
+        "54... Ke8 55. Kd5 Kd7 56. Rb7+": "harass the enemy king with checks",
+        "56... Ke8 57. Rb4 Kf8 58. Kc5 Ra5+ 59. Kd6": "mistake better would have been kb6 but I just wanted to quickly end this game",
+        "59... Kf7 60. Rb7+": "draw by perpetual check",
+        "60... Kf8 61. Rb8+ Kg7 62. Rb7+ Kg8 63. Rb8+ Kg7 64. Rb7+ Kf8 65. Rb8+ Kf7 66. Rb7+ Ke8 67. Rb8+ Kf7 68. Rb7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/vs-computer?gm=64313",
+    "gameName": "Vs. Computer",
+    "players": "tpiirain90  vs. Computer Level 7 ",
+    "opening": "Sicilian (B50)"
+}

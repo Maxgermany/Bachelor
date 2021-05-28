@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. f4 e5": "I have limited experience of playing against Bird's opening; on previous occasions I have played positionally with 1...d5 , Nf6 e6 , but I read recently that this gambit can (sometimes) pose problems for white! ",
+        "2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5": "Trying the line I read about. However, I was discouraged to discover that my opponent had programmed in conditional moves up to and including move 8! ",
+        "5. c3 g4 6. Qa4+ Nc6 7. Qe4+ Nge7 8. Nd4 Nxd4 9. Qxd4": "The queen is being a nuisance. The rook on h8 is now under attack. Would you castle here? ",
+        "9... Ng6 10. Qe4+": "An awkward check to face. The queen is nicely centralised and exerts strong pressure against b7, hence why I cannot block this check comfortably.",
+        "10... Kf8": "Seemed the only move.",
+        "11. g3": "White is trying to dominate the h1-a8 diagonal, which would potentially freeze my Queenside development. He is a pawn up, although none of his minor pieces are developed, and the queen has already moved 4 times. For these reasons I embarked upon a strategy of reckless aggression!",
+        "11... f5 12. Qc2 f4": "The attacking potential of my queen and bishop is the justification for this quick pawn advance. ",
+        "13. Bg2 c6": "Could have taken on g3 but first I preferred to limit the bishop and to keep the tension near his king.",
+        "14. O-O Kg7 15. Qb3 Rf8 16. c4 Be5": "An important move. Defends my king and prevents d4. The white queen does a good job of preventing my Queenside development, however the bishop on c8 is actually fairly active, and it defends b7.",
+        "17. d3": "This move undefends g3.",
+        "17... fxg3 18. Rxf8": "With my king on g7 I can afford a zwischenzug here to suddenly emerge a pawn up with a dangerous attack.",
+        "18... gxh2+ 19. Kh1 Qxf8": "Qf2 followed by Nh4 is a strong idea. White prevents this.",
+        "20. Be3 Nh4": "The g2 bishop is currently the only piece defending the king. It cannot move due to Qf1#, so it will be exchanged. With the white king trapped in the corner I had the idea of taking on g2 and getting a deadly fianchettod on b7. My opponent responded combatively to this idea.",
+        "21. Nd2": "I thought Nc3 was better, as this allows me to execute my plan.",
+        "21... Nxg2 22. Kxg2 c5": "Another important move, I thought. It prevented white from any c5 ideas himself, and it prepares b6 next. With a knight on c3 instead, my move would have weakened d5 perhaps a bit too much. ",
+        "23. Ne4 b6 24. Qb5": "Good move. White has counterplay with Qc6 and my open king. For example Bb7 now would spoil my attack after Qd7+. ",
+        "24... Qf7": "Still trying to play Bb7! ",
+        "25. Rf1": "This is a losing blunder, but I did not see it. 25...Qxf1 wins immediately, but I went blindly into something messy and murky!",
+        "25... Qh5 26. Kh1 Qh3": "Hitting the rook. Now my opponent played a shocking move.",
+        "27. Rf7+": "!! I dealt with this beautiful move poorly, but on further analysis it appears that Rf7 loses for white.",
+        "27... Kxf7": "Declining the rook leads to ruin. Kg8/h8 Qe8#, and Kg6 Qc6+ Kh5 Rxh7. ",
+        "28. Ng5+ Ke7": "Another blunder. Kg7 wins the game as it avoids the line white missed to get an advantage.",
+        "29. Nxh3": "Instead, Bxc5+! For example bxc5 , Nxh3 , and now the check Bb7 is blocked with e4! The game would have continued with gxh3, but White would have had the initiative with an extra queen. ",
+        "29... Bb7+": "The king gets mated. "
+    },
+    "url": "https://gameknot.com/annotation.pl/prince26s-mini-tournament-i?gm=62575",
+    "gameName": "prince26's mini-tournament I",
+    "players": "cultjones (1608) vs. feedthegoat (1709)",
+    "opening": "Bird (A02), From gambit, Lasker variation"
+}

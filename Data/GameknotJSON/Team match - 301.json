@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "The game begins as a Bishop's Opening: Vienna Hybrid (C28). A rare opening which allows you to avoid the hackneyed Ruy Lopez. This opening is ok as long as you are not in love with your king's bishop. You allow the exchange of it for the queen's knight to gain time and a white square lock on the center",
+        "1... e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Na5 5. Nge2 Nxc4 6. dxc4 d6 7. O-O Be7 8. Qd3 O-O 9. Kh1": "I begin to prepare for wing activity with the next few moves.",
+        "9... c6": "The move 9.... c6  is given a ?! in the game Carl Schlechter vs Wilhelm Steinitz, 1898. I personally do not see why. Black has to develop play in some way although it is clear he will probably never do the d6-d5 break. ",
+        "10. h3 Be6 11. f4 Nd7 12. Be3 f5 13. Ng3 g6 14. Rad1 Qa5 15. b3 Rad8 16. exf5": "Now that all of my pieces are ready for action, I open the position.",
+        "16... gxf5 17. fxe5 dxe5 18. Bd2": "With the move 18. Bd2 I began to see the possibility of a combination. I sensed that black would not move his queen but would prepare his own combination to guard the f5 pawn.",
+        "18... e4": "And here it is. I looked at all the possible continuations for a day or so and finally was surprised to find an eight (8) move combination that involved the sacrifice of the knight and even a rook with check. \nIt is because of these types of positions, I love chess. The energy of the white position completely overcomes the material considerations.\nThe combination begins with 19. Ngxe4.\n\nAfter the game the Gameknot analyzer said that this was an inaccuracy. Here is the Gameknot analyzer analysis at this point:\n\n19. Ngxe4 Inaccuracy: -1.13 \u00bb 19. Ngxe4 fxe4 20. Qg3+ Kh8 21. Nxe4 Bb4 22. Bxb4 Qxb4 23. Ng5 Bf5 24. Rxd7 Rxd7 25. Qe5+ Kg8 26. Rxf5 Rxf5 27. Qxf5 Rd1+ 28. Kh2 \n\nBest: -0.29 \u00bb 19. Ncxe4 fxe4 20. Qxd7 Rxd7 21. Bxa5 Rxd1 22. Rxd1 e3 23. Rd3 Bg5 24. h4 Bf4 25. Ne2 Bh6 26. Bc3 Rf1+ 27. Kh2\n\nFunny, huh? The gameknot analyzer thought that my continuation 19. Ngxe4 was a mistake and completely missed the subsequent 22.Nd5!",
+        "19. Ngxe4 fxe4 20. Qg3+ Kh8 21. Rxf8+": "At this point black could bail out with a queen for three minor pieces with the following continuation.\n\n21.... Bxf8  22. Nd5 Qxd2  23. Rxd2 cxd5  24.cxd5 Bf7  25. Qc7 Be7  26. d6 Bg5  27. Re2 Bg6  28. Qxb7 Nf6  29 Qe7 Re8  30. Qxa7\n\nand there is very little doubt that white will overcome black with all of those pawns.",
+        "21... Rxf8 22. Nd5 Qd8 23. Nxe7 Nf6 24. Bh6": "24. Bh6 was the really hard move to see earlier at the 19th move. White drops a rook with check but wins by force!",
+        "24... Qxd1+ 25. Kh2 Bg4 26. Bxf8 Qd8 27. Nf5 Qxf8 28. hxg4 Qf7 29. Kg1 Qf8 30. Qf4 Qd8 31. Kf2 Qe8 32. g5 Nh5 33. Qd6 Kg8 34. Ke3 Ng7 35. Nh6+ Kh8 36. Qf6": "And now black is in sort of zugzwang. He cannot move his queen from the back rank the knight and king and the h-pawn can't move at all.  So the winning process is fairly simple, create a passed pawn on the queen side and trade all of the material. ",
+        "36... Qc8 37. c5 b6 38. cxb6 axb6 39. a4 c5 40. Qxb6 c4 41. b4 Qe8 42. Qf6 Qc8 43. a5 c3 44. Qd8+ Qxd8 45. Nf7+ Kg8 46. Nxd8 Ne8 47. a6": "Black resigns. This was a lot of fun.\n\ngandalfnefod"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=49414",
+    "gameName": "Team match",
+    "players": "gandalfnefod (2071) vs. sirarthur (1993)",
+    "opening": "Vienna game, Max Lange defence (C25)"
+}

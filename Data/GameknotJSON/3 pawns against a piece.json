@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nGM Cyrano kindly invited me to a MT of his called Italian Coffee.  I am one of 4 players rated south of 2000 in this 11 player MT and two of those were Class A 1900+ players.  This is one of them.  I find myself in a KGA and I end up losing a piece for two pawns very early on in the game.  I managed to get a third pawn for a piece but alas, that proved to be insufficent in the endgame and Yours Truly had to take a 7 point rating hit, preventing me from getting my rating north of 1860.  How did this happen?  Well, here is the GA version of the game which you can follow.  http://gameknot.com/analyze-board.pl?bd=16652944&fb=1&rnd=0.6964235451517038",
+        "1... e5 2. f4 exf4": "2. .... exf4 - this is the King's Gambit Accepted.  I usually accept the offering because a pawn is a pawn.",
+        "3. Nf3 g5 4. Bc4 Bg7 5. O-O Nc6": "5. .... Nc6 - development.",
+        "6. c3 h6 7. d4 Nge7 8. g3 Na5 9. Bd3 fxg3 10. hxg3": "10. hxg3 - pawn trade.",
+        "10... d6": "10. ..... d6?? - after just 10 moves my position is lost.  I am about to drop my knight for two pawns thanks to a check which I overlooked from the Wicked Witch of the West.  The best I can do is block the check but the knight then falls to a pin on d5, ouch and double ouch!!",
+        "11. Qa4+ Nac6 12. d5 Qd7 13. dxc6 Nxc6 14. Bb5 O-O": "14. .... 0-0 - after the dust has settled, instead of toppling Henry I decided to tuck him away on the kingside out of the a4-e8 pin line.  Even though the end result proved to be a jstevens1 loss I think I made the right decision here in playing on.  At least it led to an interesting material imbalance of the three pawns for the piece, and opens up a debate on which is better - a piece or three pawns, but that happened later.",
+        "15. Qc2 Qg4": "15. ..... Qg4 - counter-attack.  Now Glenda homes in on the exposed WK and puts pressure on the isolanis on g3 and e4.",
+        "16. Qf2 Qxe4": "16. ..... Qxe4 - now that the e4 pawn is hanging I do get my third pawn for the piece but is it enough?",
+        "17. Re1 Qf5 18. Bf1 Be6": "19. ..... Be6 - clearing the decks.",
+        "19. Be3 Ne5 20. Nxe5 Qxf2+ 21. Bxf2 Bxe5": "21. ..... Bxe5 - after a plethora of exchanges I manage to hold onto my ecclesiastical twins and keep my pawn structure together but there is plenty of work for me to do.",
+        "22. Nd2 a6 23. Nf3 Bf6 24. Nd4 Bd7": "24. ..... Bd7 - defense does not wash here, but what else is there?",
+        "25. Bd3 Rfe8 26. Bf5 Bxd4 27. Bxd7 Bxf2+ 28. Kxf2 Re5": "28. ..... Re5 - after another plethora of exchanges I am still endeavouring to keep my pawns intact.  In retrospect I should have got in h4 asap (I would have avoided this pawn becoming backward later on) and tried to force an exchange of one of my kingside pawns for the g3 pawn.  If I had succeeded in doing that then my drawing chances would have increased tenfold.",
+        "29. Rxe5 dxe5": "29. ..... dxe5 - one pair of rooks is exchanged off.",
+        "30. Bf5 Rd8 31. Ke2 Kg7": "31. ..... Kg7?? - I think this is where I sould have played h4.  White stops this with g4 next move and ensures that both my h and f pawns become backward.",
+        "32. g4 b6 33. Ke3 f6": "33. ..... f6 - moving all my pawns onto squares of the opposite colour to the WB but this will not do.",
+        "34. a4 a5 35. b4 axb4 36. cxb4": "36. cxb4 - this pawn trade will ensure that white has a decisive outside passer.",
+        "36... Ra8 37. a5 bxa5 38. bxa5": "38. bxa5 - voila!",
+        "38... Ra7 39. a6 Kf8": "39. ....... Kf8 - Henry tries to go over to the queenside.  Sadly, even with his healthy seafood diet he is still an old man and can only move one square at a time, so he will be very hard push to be in two places at once.",
+        "40. Bd3": "40. Bd3 - the pawn on a6 is now protected.  I must now watch out for Rb1 - b7 and the WK coming in via e4-f5 etc.  Henry cannot deal with both matters and two moves later I waved the white flag.  A chastening experience.",
+        "40... Ke7 41. Ke4 Kf7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/3-pawns-against-a-piece?gm=44171",
+    "gameName": "3 pawns against a piece",
+    "players": "vatrop (1969) vs. jstevens1 (1859)",
+    "opening": "KGA (C38), Hanstein gambit"
+}

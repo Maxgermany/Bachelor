@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d3 e5 2. e3 d5 3. Ne2 Be6 4. Ng3 Bd6 5. f3 Nf6 6. Be2 Nc6 7. O-O": "Now i have a good positions",
+        "7... O-O 8. Nd2 a6 9. b3 b6 10. c4 d4 11. e4 Bb4 12. Nb1": "No use to my night here so i will move it to ne7",
+        "12... Ne7 13. a3 Bd6 14. b4 Ng6 15. Nh1": "I will move my bishop to D7 so i can get rid of his Pawns",
+        "15... Bd7 16. Nf2 a5 17. b5 c6 18. a4 Bc5 19. Ba3 Qe7 20. Ng4 cxb5 21. cxb5 Nh5 22. g3 f5 23. Nf2 f4 24. g4 Nf6 25. Bxc5 Qxc5 26. Nd2 Kh8 27. Nc4 Be6 28. Rc1 Bxc4 29. Rxc4 Qe7 30. Nh3 h6 31. Rf2 Nd7 32. Rc6 Rf6 33. g5 hxg5 34. Rg2 Rxc6 35. bxc6 Ndf8 36. Nxg5 Nh4 37. Rg4 Nfg6 38. Qe1 Kg8 39. Rxh4": "Nice move from white, loosing rock to get checkmate",
+        "39... Qxg5+": "Just make this move as switching Nights !! i think this is the best choise",
+        "40. Rg4 Qf6 41. Qf1 Qxc6 42. Qg2": "I will loose my night,",
+        "42... Kf7 43. h4 Rh8 44. Bd1 Rh6 45. Bb3+ Kf8 46. Bc4 Qf6 47. Rg5": "He will get my queen !! rf5",
+        "47... Nxh4": "get his Pawns and protect from rf5",
+        "48. Qg4": "Now here is the best step Nf3",
+        "48... Nxf3+": "Check, You will lose your rock",
+        "49. Kf2 Nxg5": "Ok",
+        "50. Qc8+": "Now , hopless moves from white",
+        "50... Ke7 51. Qc7+ Ke8 52. Qc8+ Qd8 53. Bb5+ Ke7 54. Qb7+ Kf8 55. Bc4 Rd6 56. Kg2 Rd7 57. Qc6 Rd6 58. Qb7 Qd7 59. Qb8+ Qd8 60. Qb7 Rd7 61. Qc6 Re7 62. Qg6 f3+ 63. Kf1 Nf7 64. Qf5 Qd7": "as you see i am trying to switch queens, because i have more and best pecies",
+        "65. Qxf3": "But he do not !!",
+        "65... Qxa4 66. Qg4 Qd7": "as you see, i am trying for change, but he did not accept,So i did it by force ;) \r\nYou will see next",
+        "67. Qf3 a4 68. Kg1 b5 69. Ba2": "Now i will get new QUEEN ;)",
+        "69... b4 70. Bc4 b3 71. Qf2 Qg4+": "CHECK, So i can get a good positions to my Pawns",
+        "72. Kf1 Qd1+ 73. Kg2 Qc1": "Now, good position",
+        "74. Qf5 Qg5+": "By force, i will change Queens",
+        "75. Kf1 Qxf5+ 76. exf5 b2": "and get a new queen",
+        "77. Ba2 Rb7 78. Bb1 a3 79. Ke2 Nd6": "I will not loose two Pawns for one bishop, !!",
+        "80. Kd2 Nb5 81. Kc2 Nc3": "Now this is good . i will get bishop for free, King must move away ",
+        "82. f6 gxf6": "If King moves or bishop, He will losse the bishop",
+        "83. Ba2 Nxa2 84. Kd2 b1=Q 85. Ke2 Rb2+ 86. Kf3 Qxd3+ 87. Kg4": "to the end",
+        "87... Rg2+ 88. Kh4 Qh7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=36627",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "kersty  vs. mbnaj ",
+    "opening": "Mieses opening (A00)"
+}

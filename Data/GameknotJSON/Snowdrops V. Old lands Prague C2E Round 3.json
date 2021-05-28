@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. Qc2 Nbd7 7. O-O-O": "A rare, but tricky move. I wasn't familiar with this line, and responded not that well",
+        "7... c6": "?! The most promising continuation is 7...c5 ",
+        "8. e4 Nxe4": "(The move 8... h6 shouldn't be included, as White will use it as a target for the future attack 9. Bh4 Nxe4 10.Bxe7 Qxe7 11.Nxe4 dxe4 12.Qxe4 Nf6 13.Qh4c5 14.g4)\n",
+        "9. Bxe7 Qxe7 10. Nxe4 dxe4 11. Qxe4": "An important moment. Black has less space and certain problems with the c8-bishop. White is threatening to launch an attack right away, so I should have chosen a good way of defending",
+        "11... Nf6": "? (The best option is 11...Rd8 12.Bd3 Nf8 Black is somewhat passive, but the king is well-protected, and no weakness is created. 13.Kb1\n(13.Rhe1 b6 14.Ne5\n(14.Qxc6 Bb7 15.Qb5 Bxf3 16.gxf3 Rac8)\n14...Bb7 15.Nxc6 Qe8 16.d5 Bxc6 17.dxc6 Rac8 18.Be2 Rxd1+ 19.Rxd1 Rxc6 and Rc7-Rd7 )\n(13.Ne5 c5 14.dxc5 f6 15.Nf3 Qxc5)\n13...b6 14.Ne5\n(14.Qxc6 Bb7 15.Qb5 Rac8 16.h4 Bxf3 17.gxf3 Qf6 with compensation for the pawn, as White's pawns are weak )\n14...Bb7 15.Nxc6 Qc7\n(Worse is 15...Qe8 16.d5 Bxc6 17.dxc6 Rac8 18.Qf3 f5 19.g4 and here after 19... Qxc6 20.Qxc6 Rxc6 21.gxf5 exf5 Black should hold )\n16.d5 Bxc6 17.dxc6 Rac8 18.g4\n(18. c5 f5\n(Worse is 18...bxc5 due to 19. Bb5)\n19.Qe2 Qxc6 20.cxb6 Qxb6)\n18... Rd6)",
+        "12. Qh4 c5": "(No good was 12...b5 13.Bd3\n(13.c5 Nd5 and here Black can hold on )\n13...h6 14.c5 Nd5 15.Qe4 Nf6 16.Qe2)",
+        "13. Bd3": "Threatening Bh7",
+        "13... Qc7 14. Rhe1": "?! (Possible was 14.dxc5 Bd7 and here there are a few nice-looking continuations 15.Kb1\n(15.Ng5 h6 16.Ne4 Nxe4 17.Qxe4 f5 18.Qe3 Rac8 19.b3)\n(Similar position occur after 15.Rhe1 h6 16.Kb1\n(16.Ne5 Qxc5 17.g4 Ba4 18.b3 Qa3+ 19.Kb1 Bxb3 20.axb3 Qxb3+ 21.Kc1 Qc3+ 22.Kb1\n(22.Bc2? Rad8 And the White king is in trouble. The knight will enter the game via e4. )\n22...Qb3+)\n16...Qxc5 17.g4 with attack )\n15... h6\n(15...Rfd8 16.Ng5 h6 17.Ne4 Nxe4 18.Qxe4 g6 19.Qe3)\n(15... Bc6 16.Rhe1 Rad8 17.Ne5 h6 18.Re2 with the idea of Qf4 and Red2 )\n16.Rhe1 Qxc5\n(16...Rfd8 17.g4 Qf4\n(17...Bc6? 18. g5! Bxf3 19.gxf6 Bxd1 20.Rg1)\n18.Ne5)\n17.g4 with an attack )\n(I think that a better try was 14. Kb1 and here if 14...cxd4 then \n(14...Bd7 15.Ne5 h6 16.g4 with a strong attack )\n(14...Rd8 15.dxc5 Bd7 16.Ng5 h6 17.Ne4 Nxe4 18.Qxe4 g6 19.Qe3)\n15.Rhe1 and b5 is not that attractive anymore )",
+        "14... cxd4": "? (I should have played 14...b5 15.dxc5\n(15.Ne5 bxc4 16.Bxc4 Bb7 and Black is fine )\n(15.Ng5 h6 16.Ne4\n(16.Nh7 Nxh7 17.Bxh7+Kxh7 18.Qe4+g6 19.Qxa8 cxd4 20.Rxd4 e5 with good compensation for the exchange, as c4 will fall. )\n16...Nd7)\n15...bxc4 16.Qxc4 Bb7 Black's pieces are becoming active )",
+        "15. Ne5": "? (The strongest move 15.Kb1 would have left Black with no counter-play, as after basically any move White can continue with Ne5 and a strong attack. E.g. 15...h6 16.Ne5 Bd7\n(16...b5 17.cxb5 a6 18.Rc1)\n17. g4)",
+        "15... b5": "now black has good counter-play",
+        "16. Kb1": "(Better was 16.Bc2 Rd8\n(16...Bb7? 17.Rxd4 Rfd8 18.Rf4 Kf8 19.Rxf6 gxf6 20.Qxf6)\n(16...bxc4 17.Rxd4 h6 18.Rf4 Nd5 19.Rxc4 Qa5 20.Qe4 f5 21.Ra4 White is keeping pressure on Black )\n17.Rd3 Kf8 18.Rg3 Bb7\n(18...d3 19.Bxd3 bxc4 20.Bxh7 Rd5 21.Rge3)\n19.Rxg7 Kxg7 20.Qg5+ Kf8 21.Qxf6 d3\n(21...Rac8 22.Bg6! Rd7 23.Bxh7)\n22.Bxd3\n(22.Nxd3 Qxc4 23.Ne5 Qc7 24.Re3 b4)\n22...Rxd3 23.Nxd3 Qxc4+ 24.Kd2 Be4\n(24...Qxa2 25.Rc1)\n25.Ne5 Qd5+ 26.Ke2 Bg6 27.Rd1 Qe4+ 28.Kf1 Kg8 Black is a tad worse due to the exposed king, but the position is solid. )",
+        "16... bxc4 17. Ng4": "(17.Rc1 c3 18.Ng4\n(No good is 18.Qxd4 Nd5 19.Be4 Bb7 20.Bxd5 Bxd5 21.Rxc3 Qa5 and Black seizes the initiative )\n18...Rd8 19.Nxf6+gxf6 20.Qh6 f5 21.Bxf5 exf5 22.Qg5+ Kh8 23.Qf6+Kg8 24.Qg5+)",
+        "17... Rd8": "(or 17...cxd3 18.Nxf6+ gxf6 19.Rxd3 Rd8 20.Qh6\n(White should settle for a draw 20.Qxf6 Rd5\n(20...Kf8?? 21.Rh3)\n21.Rf3\n(The following idea doesn't work out: 21.Rg3+ Kf8 22.Rh3 Qd8)\n21...Qd8 22.Qxf7+ Kh8 23.Rg3 Rg5 24.Rxg5 Qxg5 25.Qf8+ Qg8 26.Qf6+with a perpetual check )\n20...Ba6 21.Rg3+ Qxg3 22.fxg3\n(Worse is 22.hxg3 Bd3+ 23.Ka1 Bg6 and it's hard to knock the bishop off its perch )\n22...Bd3+ 23.Ka1 Rac8 Only White can lose this, because the passer is very dangerous 24. h4\n(24.Qxf6 Bg6 25.Rd1 d3 26.b3 d2 27.Qf4 Rc2 28.h4 Rd5 29.g4 e5 30.Qh6 f6 31.h5 Be4 32.Qe3 Rd4 and White is passive )\n24...Bf5 25.Qxf6 d3 26.Rd1 Rd5 followed by d2 )",
+        "18. Nxf6+ gxf6 19. Qh6 f5": "?? Confusion \n(I still had a chance to play 19...cxd3 with the variations provided for move 17 )",
+        "20. g4": "the decisive move",
+        "20... f4": "loses on the spot \n(More resistful was 20...Qe7 21.gxf5 f6 22.Bxc4 Kh8 23.fxe6 although Black is still lost )",
+        "21. Bxh7+ Kh8 22. Bf5+": "(A forced mate happens after 22. Re5 although 22.Bf5 is also fine )",
+        "22... Kg8 23. Qh7+ Kf8 24. Bxe6": "I resigned, as the f-pawn cannot recapture without hanging the queen on c7, and opening the e-file will allow white to play a devastating Qh8. "
+    },
+    "url": "https://gameknot.com/annotation.pl/snowdrops-v-old-lands-prague-c2e-round-3?gm=58870",
+    "gameName": "Snowdrops V. Old lands Prague C2E Round 3",
+    "players": "Vaganian (2577) vs. Natalia Pogonina (2451)",
+    "opening": "Queen's pawn game (A46)"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4": "4-pawn attack.",
+        "5... Nbd7": "? The knight on f6 just lost a flight square. Leaving d7 empty is stronger. For instance, Black will have the chance to castle much sooner. Black's position is beginning to look very cramped.",
+        "6. e5": "! Displacing Black's most active piece",
+        "6... Ng8 7. Nf3 e6 8. Be3 Ne7 9. Bd3 O-O 10. O-O Re8": "? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try...",
+        "11. g4": "! White plans to keep Black's position cramped, and at the same time initiate an attack on Black's king.  This soon becomes sharp, and White is obliged to retain the initiative at great cost. [By the endgame, White should beware his exposed king.]",
+        "11... f6 12. f5 fxe5": "? exf5 seems much sounder -- White now has a file for one of his rooks.",
+        "13. Ng5": "! White continues to exploit Black's lack of space, pressuring e6 and threatening Black's queen",
+        "13... Nf8 14. f6 Bxf6 15. Rxf6 Nf5 16. Rxf5": "!",
+        "16... exf5 17. gxf5 exd4 18. fxg6": "With the board opening up rapidly, White must remain energetic.",
+        "18... Nxg6 19. Qh5 Re7 20. Bxd4 Qe8 21. Rf1 Ne5 22. Bxh7+ Kg7 23. Rf7+": "To play 24. Qg6 .",
+        "23... Rxf7 24. Qg6+ Kf8 25. Qg8+ Ke7 26. Nd5+ Kd8": "?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot.",
+        "27. Nxf7+ Nxf7 28. Bf6+ Kd7 29. Bf5+": "Black resigns here, to follow .. Kc6, QxQ"
+    },
+    "url": "https://gameknot.com/annotation.pl/min-1600-please-1?gm=6650",
+    "gameName": "***Min 1600 please***(1)",
+    "players": "another_ken (1531) vs. grietje (1653)",
+    "opening": "King's Indian (E76), Four pawns attack"
+}

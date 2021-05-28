@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6": "The Old Steinitz Defense, which *usually* leads to a cramped position in which Black must fight for a draw. Key word: usually. NOT always.",
+        "4. d4 exd4 5. Nxd4 Bd7": "Unpinning.",
+        "6. Nc3 Nf6 7. O-O Be7": "With Alekhine having secured his King, Capablanca prepares to do the same.",
+        "8. Nf5 Bxf5 9. exf5 O-O": "Hastily getting his King to safety, away from the now fully open K file.",
+        "10. Re1 Nd7 11. Nd5 Bf6": "Alekhine has a large spatial advantage. Capablanca, however, has no exploitable weaknesses.",
+        "12. c3 Nb6 13. Nxf6+ Qxf6": "Alekhine has two B's vs. two Knights, but the exchanges have helped Capablaca free his position. ",
+        "14. Bxc6 bxc6 15. Qf3 Rfe8": "Contesting the open file now that his Rooks are connected.",
+        "16. Be3 c5 17. Re2 Re5": "Threatening to take over the file with ...R/1-K1, doubling Rooks.",
+        "18. Rae1 Rae8 19. Qb7 Qxf5": "Capa's Q is now in a dominating central position. He can now triple major pieces on the K-file, forming a powerful battery.",
+        "20. Qxc7 Qe6 21. Qxa7 Nd5": "Bringing the Knight into the game. White's Q has been diverted by Pawns into a position where it is out of play.",
+        "22. Kf1 Nf4 23. Rd2 Nxg2": "A wonderful sacrifce to break open the King's defenses.",
+        "24. Kxg2 Qg4+ 25. Kf1 Qh3+": "Trying to corral the White King.",
+        "26. Ke2 Re5xe3+": "Another sacrifice, to remove yet another defender.",
+        "27. fxe3 Qxe3+": "Now Capa will win back a Rook.",
+        "28. Kd1 Qxe1+": "Continuing the pressure.",
+        "29. Kc2 Qe4+": "Leaving Capablanca with both a material and positional advantage.",
+        "30. Kb3 Qc6 31. a4 d5": "Preventing the K from escaping into the center of the board.",
+        "32. a5 Qb5+ 33. Ka3 Rb8": "Threatening ...Q-N6 mate.",
+        "34. Ka2 h6": "To avoid any last-minute back-rank mate possiblities for Alekhine.",
+        "35. a6 Qb3+": "Alekhine resigns. The finish would be 36 K-R1 (or K-N1) R-K1, and mate follows on the back rank, unless Alekhine gives up his Rook with 37 R-Q1 QxR ch 38 K-R2, which would of course leave him hopelessly behind in material."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-st-petersburg-1914?gm=37375",
+    "gameName": "Tournament Game, St. Petersburg 1914",
+    "players": "Aleksandr Alekhine  vs. Jose R. Capablanca ",
+    "opening": "Ruy Lopez (C62), old Steinitz defence, Nimzovich attack"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bg5 Be7 6. e3 O-O 7. Bd3 dxc4 8. Bxc4 Nbd7 9. O-O c5": "Now the Houdini chess engine thinks white should play dxc5 Nxc5, Qc2 with a slightly bigger edge, but this is hard to understand why white has any advantage at all.\n",
+        "10. Rc1 b6": "a6 preparing b5 is slightly better.\n",
+        "11. Qe2 Bb7 12. Rfd1": "This is a pretty ordinary game up to this point.\n",
+        "12... Bxf3": "This move makes black's queenside weak therefore giving white the uppper hand.\n",
+        "13. Qxf3 cxd4 14. exd4 Rc8": "Where is black's weakness?\n",
+        "15. Ba6": "The rook is going to run out of places to hide.\n",
+        "15... Rb8 16. Bf4 e5": "A desperate attempt to save the rook, but everything falls appart for black now.\n",
+        "17. dxe5 Ne8 18. Bb5": "Black loses at least a piece here and appears to be positionally crushed.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/louisville-g-30-meijer?gm=54157",
+    "gameName": "Louisville G/30, Meijer",
+    "players": "John Coffey (2001) vs. Jonah Donze 1900 (1900)",
+    "opening": "QGD Slav (D30)"
+}

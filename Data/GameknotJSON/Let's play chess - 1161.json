@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "The King's Gambit",
+        "2... exf4 3. Bc4 h6 4. d4 g5": "Holding onto the pawn",
+        "5. h4": "Threatening hxg5 as Black cant recapture with the pawn as Rxh8 loses a rook",
+        "5... Bg7": "protecting the rook",
+        "6. hxg5 hxg5 7. Rxh8 Bxh8 8. Qh5": "Threatening mate and the bishop",
+        "8... Qf6": "Forced",
+        "9. Nf3 c6 10. Nxg5 d5 11. e5 Qg7 12. Bd3 Bd7 13. Nxf7": "A great move as Black cant play Qxf7...",
+        "13... Qxf7": "Qxg2 was the only chance but after Nxh8  white is a piece up and can defend",
+        "14. Bg6": "winning the queen 1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=1763",
+    "gameName": "Let's play chess",
+    "players": "goldaxe2006 (1643) vs. russian_chess (1522)",
+    "opening": "KGA (C33), bishop's gambit"
+}

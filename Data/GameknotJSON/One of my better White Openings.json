@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Fairly standard, no?",
+        "1... d6": "The Pirc Defense.",
+        "2. Nc3 b6 3. d4": "Mainline, until now. ",
+        "3... g6": "Looks like he is gonna fianchetto his Bishops.",
+        "4. Bc4": "I got my sights on the f7 square.\n",
+        "4... Bd7 5. Nge2": "Hooking up my Knights.",
+        "5... Nf6 6. e5 Nh5 7. O-O": "Tucking my King into safety.",
+        "7... Bg7": "Fianchettoes his Bishop and prepares to Castle.",
+        "8. Bf4": "Backing up the e-pawn.",
+        "8... Bc6 9. Bd5 Bxd5 10. Nxd5 dxe5 11. dxe5": "Now I can surprise attack the Queen.",
+        "11... Nxf4 12. Nexf4 Bxe5 13. g3 Bxb2 14. Rb1 Be5 15. Qe2 g5": "I don't know if this move was a blunder or what.",
+        "16. Qxe5 gxf4": "Now follows a series of forced moves.",
+        "17. Qxh8+ Kd7 18. Qe5 Kc6": "Correction: not really forced.",
+        "19. Nxe7+": "My crowning moment!",
+        "19... Qxe7 20. Qxe7": "From here, it would be too easy for White to win, so Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/one-of-my-better-white-openings?gm=37256",
+    "gameName": "One of my better White Openings",
+    "players": "theancientbeast  vs. deleon ",
+    "opening": "Pirc defence (B07)"
+}

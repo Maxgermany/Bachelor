@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 Nd4 5. g3 Ne7 6. Nxd4 cxd4 7. Ne2 Nc6 8. Bg2 Rb8 9. O-O b5 10. d3 bxc4 11. dxc4 e5 12. b3 a5 13. f4 Bc5 14. Kh1 d6 15. Bd2 Bg4 16. Bf3 Bxf3+ 17. Rxf3 f5": "Tsentrisse tekib pingeline olukord... selgub, et kummalgi pole kasulik esimesena l\u00fc\u00fca ja nii seisavad etturid e4 ja f5 teineteist \u00e4hvardades 15 k\u00e4iku!",
+        "18. Qc2 Qe7 19. Re1 O-O 20. Nc1 Nb4 21. Bxb4 Bxb4 22. Re2 Qb7 23. Kg1 Ba3 24. Rf1 Rbe8 25. Rfe1 Bb4 26. Rf1 Ba3 27. Rfe1 d5": "Suurep\u00e4rane k\u00e4ik!",
+        "28. cxd5": "Alternative variation: 28. exd5 e4\n",
+        "28... Rec8 29. Qb1 Rxc1": "Siin oli algul tugevam l\u00fc\u00fca f4-le. 29... exf4 30. Rd3 (30.gxf4 Vxc1 31.Vxc1 d3!) 30...fxg3 31. hxg3 fxe4 32. Rxe4 Qxd5 v\u00f5iduseisuga. Mamedjarov v\u00f5idab nii k\u00fcll viguri, kuid Inarkijev saab vastu 3 etturit.\n",
+        "30. Rxc1 d3 31. Qxd3 Bxc1 32. fxe5 f4 33. gxf4": "N\u00fc\u00fcd saab must oda valitsevalt positsioonile tsentrisse. Palju parem oli k\u00fclmavereline 33. Kh1! fxg3 34. hxg3 Lf7 35. Vh2 ja valgel pole halvem.\n",
+        "33... Bxf4 34. e6 Be5 35. Qe3 Qb4": "Mamedjarov m\u00e4ngib taas v\u00e4ga h\u00e4sti.",
+        "36. Kg2 h6": "Fritz n\u00e4eb, et pisut ootamatu 36... Od4! j\u00e4rel pole valgel lipul head kohta -  37. Lh3 (37. Ld3 Le7!, 37.Lg3 Lb5 38.Ve1 Vf6) 37... Lb5! 38. Ve1 Vf2+ 39. Kh1 Oe5 ning mustad vigurid domineerivad nii h\u00e4sti, et nad ei hakka isegi lippu vankri ja oda eest v\u00f5tma...\nAga k\u00f5ike seda pole vaja - Mamedjarovi plaan on lihtne ja selge ning v\u00f5idab veenvalt.\n",
+        "37. Qd2 Qc5 38. Qe3 Qb4 39. Qd2 Qe7 40. h3 Qh4 41. Qe3 Rf6 42. Rf2 Rg6+ 43. Kf1 Rg3 44. Qa7 Qxh3+ 45. Ke2 Kh7 46. Qf7 Re3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fide-gp-astrahan?gm=31590",
+    "gameName": "FIDE GP, Astrahan",
+    "players": "Inarkijev, E. (2669) vs. Mamedjarov, \u0160. (2763)",
+    "opening": "Sicilian defence (B40)"
+}

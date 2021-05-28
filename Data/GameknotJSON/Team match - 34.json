@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5": "New opening ",
+        "3. exd5 cxd5 4. Bb5+": "Check",
+        "4... Bd7 5. Bxd7+ Nxd7 6. Nc3 e6 7. Nf3 Ngf6 8. Bg5 Be7 9. Ne5 O-O 10. Nxd7 Qxd7 11. O-O": "Castling short",
+        "11... h6 12. Bxf6 Bxf6 13. f4 Be7 14. Rf3": "Rook development ",
+        "14... Rac8 15. Rg3 a6 16. Qd2 b5 17. f5 Bg5": "Darn...",
+        "18. fxe6 fxe6 19. Qe2 Bf4 20. Rf3 g5 21. g3": "Die!",
+        "21... b4": "Trade ",
+        "22. gxf4 bxc3 23. bxc3 Qg7 24. Qxe6+": "Check!",
+        "24... Rf7": "????????",
+        "25. Qxc8+": "Bye bye!",
+        "25... Rf8 26. Qe6+": "Back",
+        "26... Kh8 27. Qe5": "Pinned!",
+        "27... gxf4+": "Discovered check... does it matter!",
+        "28. Qxg7+ Kxg7 29. Raf1 Rg8": "Winning by a lot!",
+        "30. Rf3xf4": "Free pawn",
+        "30... Kg6 31. Rf4f6+ Kg7 32. Rf6f7+ Kg6 33. Rf1f6+": "Check",
+        "33... Kh5+": "Check",
+        "34. Kf1": "Easy get-out ",
+        "34... Rg5": "!??!?!!",
+        "35. Rf6f5": "Black resigns "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=65260",
+    "gameName": "Team match",
+    "players": "eric2jin (1296) vs. thubery (1218)",
+    "opening": "Caro-Kann (B13), exchange, Rubinstein variation"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "Notes by Dr. Emanuel Lasker.\n",
+        "1... d5 2. Nf3 c5 3. c4 Nf6 4. cxd5 cxd4 5. Nxd4 Nxd5 6. e4 Nf6": "Here interesting is  6...Nc7!? The continuation 7.Bf4 Nd7 8.Bc4 e5 9.Qb3 Qf6 10.Bg3  leads to a complicated game.\n",
+        "7. Nc3 e5": "?! If 7...a6 8.e5 Nd5  9.e6 and Black stands worse. The right move here is 7...e6.\n",
+        "8. Bb5+": "!\n",
+        "8... Bd7 9. Nf5 Nc6": "?!\n",
+        "10. Nd6+ Bxd6 11. Qxd6 Qe7 12. Qxe7+ Nxe7 13. Be3 a6 14. Bxd7+ Nxd7 15. Ke2 Rc8 16. Rhd1 Nc5 17. Bxc5": "Better was to keep the bishop; e.g., 17.Rac1 Ne6  18.Nd5, etc.\n",
+        "17... Rxc5 18. Rac1 Nc6": "A mistake. Black should play  18...Rc7 followed by ...O-O.\n",
+        "19. Rd5": "!\n",
+        "19... Rxd5": "If 19...Rc4  20.b3 Rd4 21.Ke3 f6 22.Na4 Ke7 23.Nc5 Rxd5 (23...Rb8 24.Nxb7)  24.exd5 Nb4 25.d6%2B with advantage for White.\n",
+        "20. exd5 Nd4+ 21. Kd3 Ke7 22. f4": "!\n",
+        "22... f6 23. fxe5 fxe5 24. Ke4 Kd6 25. Rf1 Rc8 26. Rf7 Rc4 27. Kd3 Rb4 28. Rxg7": "Also strong was 28.b3 and White  will win at least a pawn; for example, 28...Nb5 29.Nxb5! Rxb5  30.Rxg7 h5 31.Rh7 Rxd5%2B 32.Ke3.\n",
+        "28... Rxb2 29. Rxh7 Rxg2 30. Rh6+ Kd7 31. Rh7+ Kd6 32. Rh6+ Kd7 33. Ne4": "!\n",
+        "33... Rxa2 34. Rh7+ Kd8 35. d6 Nb5": "The threat was Nf6 and Rh8%2B mate.\n",
+        "36. Kc4 Ra5 37. Rxb7 Na3+ 38. Kb4": "!\n",
+        "38... Rb5+ 39. Rxb5 Nxb5 40. Kc5 Kd7 41. Kd5 a5 42. Nc5+ Ke8 43. Kxe5 Kf7 44. Nb7": "Rubinstein conducted the endgame of this  game with monumental mastery.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/st-petersburg-st-petersburg-rus?gm=47940",
+    "gameName": "St Petersburg, St Petersburg  RUS",
+    "players": "Akiba Rubinstein (?) vs. Jacques Mieses (?)",
+    "opening": "Queen's pawn game, Krause variation (D02)"
+}

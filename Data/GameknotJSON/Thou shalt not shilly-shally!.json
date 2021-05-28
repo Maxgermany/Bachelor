@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Philidor's Defence. Not bad, but restrictive and needs careful handling. More routine is 2. ...Nc6; also playable are 2. ... Nf6 and even the scary-looking 2. ...f5 (the Latvian Gambit)",
+        "3. d4 f6": "Bad. Obviously something had to be done about the e-pawn, and 3. ...Nc6 is not good enough in view of 4. dxe5, dxe5; 5. Qxd8 , Kxd8; when Black can't castle and White gets a lead in development. But this move shuts off a square that either the King's Knight or the Queen badly needed - and now they plus the Bishop are all fighting over e7, and three into one won't go.\r\n\r\nTo make matters worse, the move weakens both diagonals running through f7, meaning that after White's next Black will be unable to castle for some time to come, and will be at risk of a check from h5 (see move 10).\r\n\r\nBetter is either 3. ...Nd7, 3. ...Nf6 or even the ambitious 3. ...f5.",
+        "4. Bc4 Ne7 5. Nc3 Nec6": "Moving the other Knight to c6 would have been wiser - Black has one piece out to White's three at the moment.",
+        "6. Be3 Nb4": "And this is worse still, as there is no weakness for the Knight to attack and no real point to moving it yet a third time.",
+        "7. O-O Nb8c6 8. Qe2 exd4": "As this gains nothing in particular, it has to be counted a pure waste of Black's third move.",
+        "9. Nxd4 Na5 10. Qh5+": "Taking advantage of Black's blunder. There is only one move that doesn't allow an immediate mate, and none that saves the dangling Knight.",
+        "10... g6 11. Qxa5 c5": "Veronika called this a mistake, as it allows (forces, even) the exchange of Queens - yet at least it nets her a litte material and some play.",
+        "12. Qxd8+ Kxd8 13. Ne6+ Bxe6 14. Bxe6 Nxc2 15. Rac1 Nb4": "I was expecting 15. ...Nxe3, which at least would have left me with a doubled e-pawn to worry about - although Black would have immediately have had to spend more time defending her f-pawn. But now I get to kick the Knight around a little more while completing my development.\r\n",
+        "16. a3 Nd3 17. Rc2 a5": "Still Black refuses to activate her remaining pieces...",
+        "18. Rd1 Ne5 19. f4 Nc6": "19. ...Nd7 was no better; after 20. Bxd7, Kxd7; 21. Bxc5 wins a sound extra pawn.",
+        "20. Nb5": "There is no good way for Black to defend the d-pawn.",
+        "20... b6": "Guarding the c-pawn, which is about to lose a defender, but removing a guard from the Knight.",
+        "21. Nxd6 Bxd6 22. Rxd6+ Kc7 23. Rd7+ Kb8 24. Bd5 Rc8 25. Rd6 Ra6": "Another blunder, but after 25. ...Kb7 the Knight is permanently pinned, and I can play 26. Bxc5, bxc5; 27. Rxc5, Ra6; 28. Rxf6, when the Knight and King cannot move, and the Rooks can only shuttle back and forth between a6-b6 and c8-c7 - or I can just trade off all the pieces and win the King and Pawn ending comfortably with a surplus on both wings.",
+        "26. Rxc6 a4 27. Rxc8+ Kxc8 28. e5 fxe5": "28. ...f5 might have been marginally better, since now I have an open f-file to help myself to. But there's not much to be done against the two extra pieces.",
+        "29. fxe5 Ra7 30. e6 Re7 31. Bg5 Rg7": "The pawn can't be blockaded, since the Bishops can easily drive away the Rook or the King, and the only question is whether Black gets to sacrifice the Rook for the pawn. But then Rook and two Bishops are quite enough to mate the Black King anyway.",
+        "32. Rf2 Kc7 33. Rf7+": "And this deprives Black of even the chance to keep the pawn from Queening, with a quick mate to follow. Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/thou-shalt-not-shilly-shally?gm=18866",
+    "gameName": "Thou shalt not shilly-shally!",
+    "players": "gil-gandel (1200) vs. veronika_v (1147)",
+    "opening": "Philidor's defence (C41)"
+}

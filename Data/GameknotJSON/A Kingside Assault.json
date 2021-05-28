@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. f4 e6 2. Nf3 Nc6 3. e4": "From a fairly unorthodox sequence of moves, next I take the center.",
+        "3... a6 4. d4 d6 5. c4 g6 6. Nc3 Bg7 7. e5": "This move blocks off the black bishop's activity completely, and leaves me with a very strong central pawn.",
+        "7... d5": "Not giving up the e4 square.",
+        "8. cxd5 exd5 9. Bd3": "With black's pawn on e6 missing, a future P-f5 seems like the best and most obvious plan for white.",
+        "9... Nge7": "Preparing Bf5.",
+        "10. O-O O-O": "This was probably a mistake, since black's king will fall under heavy attack on the kingside.",
+        "11. Be3 Bf5 12. a3": "Preventing Nb4.",
+        "12... Bxd3 13. Qxd3 Nf5 14. Rac1 Re8 15. Na4": "Advancing on the queenside. Notice that black has virtually no counterplay because of my strong,supported e5 pawn.",
+        "15... Bf8": "Preventing Nc5. But the knight will come into play later...",
+        "16. Bf2": "I want to play P-g4, but it is first necessary to prevent the knight from moving to h4. ",
+        "16... Kg7 17. g4": "Now, a direct, effective assault ensures.",
+        "17... Nfe7 18. f5": "Forward!",
+        "18... gxf5 19. gxf5 Kh8 20. Ng5": "A natural continuation: while the pawn on f7 is undefended, the knight is activated without the loss of initiative.",
+        "20... Kg8": "The king is forced to return. Now, the g-file seems promising, but it will take some time to fully exploit. Another idea is P-f6, but the problem is that black's knight returns to g6 and my attack is ruined. So I choose...",
+        "21. Nxf7": "...this powerful sacrifice! It turns out that my central pawns will keep rolling forward, while black's pieces are too unwieldy to help.",
+        "21... Kxf7 22. e6+ Kg7 23. f6+": "Sacrificing the pawn, to keep the momentum and open the f-file for the rook. Retreating with the king will lead to P-f7, which should eventually win for white. So black takes the pawn, but the end is even quicker.",
+        "23... Kxf6 24. Bh4+": "Now, both the bishop and rook are in play!",
+        "24... Kg7": "24. ... Kxe6 leads to 25. Nc5+  (here is where the knight comes in!) Kd6 26. Rf6#. But this move also loses. Notice how the black pieces are passively watching on, while the black king is struggling beneath the white pieces. ",
+        "25. Rf7+": "Now, white will checkmate the black king with Qxh7# next move. So, black resigned. 1-0\nAn effective game that shows the progression from a positional advantage to a mating sacrifice."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-kingside-assault?gm=54824",
+    "gameName": "A Kingside Assault",
+    "players": "bvr04 (1653) vs. cichociemny (1573)",
+    "opening": "Bird's opening (A02)"
+}

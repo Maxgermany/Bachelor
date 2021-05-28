@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5": "So, I am continuing with my adventures with the sicilian",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "All is standard so far, what will white play here ?",
+        "6. a4": "I'm surprised, normally it's a bishop or the f pawn, but I guess he wants to prevent b5",
+        "6... Nbd7": "I play as normal",
+        "7. Be2": "Now the bishop",
+        "7... e5 8. Nf3 Nc5 9. Nd2": "I like this it has blocked the black squared bishop, I continue",
+        "9... Be7 10. O-O Be6 11. a5 O-O": "I suspect he will play b4 to chase the knight away, which is kind of ok because I want to put my rooks on the c file",
+        "12. b4 Ncd7 13. Bf3": "I am really unsure of the purpose of this move, time to stop this q side onslaught",
+        "13... b5 14. Re1 Rc8": "I think I can cause white some problems along here",
+        "15. Bb2 Qc7 16. Rc1 Qb7 17. Nf1 Rc4 18. Na2": "White is being slowly pinned back, and now I can exert a little more pressure on this c file",
+        "18... Rfc8 19. Ne3 Rc4c7 20. Nd5": "20 moves before first blood",
+        "20... Nxd5 21. exd5 Bf5 22. Re2 Bg5 23. Ra1 Bxc2 24. Rxc2 Rc7xc2 25. Bc1 Bxc1 26. Nxc1 Nf6": "White is still not out of the woods",
+        "27. Nb3 Qa7": "Black turns attention to the f pawn",
+        "28. Qe1 e4 29. Bd1 Rb2 30. Rc1 Rxc1 31. Nxc1 Qd4": "Nice central square for the queen, I think it is just a matter of time now, white has no counter play ",
+        "32. Ne2 Qd2 33. Kf1 Qd3": "White is running out of moves, black is threatening Rb1, white's position is totally passive",
+        "34. Kg1 Rb1 35. Nc3": "Think I will have that knight ",
+        "35... Qxc3": "White resigns the poistion is hopeless"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-c2?gm=30606",
+    "gameName": "League division C2",
+    "players": "knightonsite (1820) vs. dwardman (1826)",
+    "opening": "Sicilian (B90), Najdorf"
+}

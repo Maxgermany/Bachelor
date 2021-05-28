@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 g6": "Modern Defense\n",
+        "3. Nc3 Bg7 4. f4": "alternative move can be playable 4. Nf3\n",
+        "4... a6 5. Nf3 Nd7": "5...b5 followed by Bb7\n",
+        "6. Bc4 e6 7. O-O b5 8. Bd3 Bb7 9. e5 d5 10. b3": "a little idea to play a2-a4\n",
+        "10... c5": "...Ne7 followed by O-O\n",
+        "11. a4 b4 12. Ne2 Ne7 13. Qe1 c4": "a Blunder plan pushing the c' pawn to c4, have to get threaten by both Bishop& b3' pawn. he have to played 13...Qa5 here.\n",
+        "14. bxc4 dxc4 15. Bxc4 Nb6 16. Qxb4 Nc6 17. Qb2 Nxc4 18. Qxb7 Nc4a5 19. Qb2 Bf8": "don't know what he thinking on the game but making O-O was good or may try Rb8 here\n",
+        "20. Bd2 Rb8 21. Qa2 Be7 22. Rab1 O-O 23. c4 Bb4 24. Bxb4 Nxb4 25. Qd2": "Black Resigned\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/watch-chess-open-challenge?gm=54200",
+    "gameName": "Watch.!! Chess open challenge",
+    "players": "Rakshic (2093) vs. FM of Lithuania, \"Tautvydas vedrickas\" (2005)",
+    "opening": "Pirc defence (B07)"
+}

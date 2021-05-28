@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "My opponent opens with a standard e4\n",
+        "1... c6": "Caro-Kann, my favorite defense.\n",
+        "2. Bc4": "not my choice move but i guess there are worse moves out there.\n",
+        "2... d5": "Standard\n",
+        "3. exd5": "Personally i think this variation only benefits Black.\n",
+        "3... cxd5 4. Bb5+": "enticing the further exchange of pieces...\n",
+        "4... Bd7 5. Bxd7+ Nxd7": "So now both light squared bishops are off the board.\n",
+        "6. d4 Ngf6": "Standard development\n",
+        "7. Nf3 e6 8. O-O Bd6": "Aiming down at the h2 square. I'm also getting ready to get my Rook over to the c file.\n",
+        "9. b3 Qc7": "Piling up on the h2 square.\n",
+        "10. Bb2": "The fianchetto doesn't really help white out in this situation, in my opinion. The bishop is blocked by his own pawn.\n",
+        "10... Rc8": "Now i have a couple threats at c2 and h2.\n",
+        "11. Nc3": "Blocks the c2 threat and develops.\n",
+        "11... Ng4": "Further pressure is added to h2. I think my position is looking rather nice right about now.\n",
+        "12. h3": "Tries to remove an attacker.\n",
+        "12... h5": "The Knight is poisoned, taking will result in a worse position for white.\n",
+        "13. hxg4": "Unfortunately for him, he doesn't see the danger in taking.\n",
+        "13... hxg4": "Threatening the capture of the Knight. More importantly, it opens the h file for my Rook. White is in some serious trouble...\n",
+        "14. Ne5": "An attempt to block off the diagonal; however, white's fate is sealed.\n",
+        "14... Bxe5 15. dxe5 Qxe5": "White can't prevent the mate.\n",
+        "16. g3": "Stalls for a turn.\n",
+        "16... Qh5": "And this fish is fried...\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/goin-fishin?gm=48152",
+    "gameName": "Goin' Fishin'",
+    "players": "nova12  vs. yrahcaz1990 ",
+    "opening": "Caro-Kann (B10), Hillbilly attack"
+}

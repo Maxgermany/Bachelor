@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. c4": "I'm publishing this blitz game and annotation both to show an interesting opening and middle game, as well as hoping to learn from the mistakes that I made.\nThere was an early transposition in my opening, and a really unorthodox and risky opening for black. I took the center and almost came off with a pretty big advantage due to black's opening of both his kingside and queenside and lack of development, however I messed it up and soon onward the rest of the game favored black with some blunders on my part.\nConstructive comments are welcome on this game.",
+        "1... h5": "Unorthodox opening. My instinct is to claim the center.",
+        "2. d4 d5 3. cxd5 Qxd5 4. Nc3 Qd8 5. e4": "I've decided now for simple classical development.",
+        "5... e6 6. Nf3 f6 7. Bf4 g5 8. Be3 a6 9. Bd3 b5 10. O-O": "At this point, none of black's pieces are developed. I have full control of the center, and while he is cutting off immediate options for my minor pieces, all it takes is to open a hole and I'm able to wreak havoc for a while.",
+        "10... h4": "A compensation for his lack of minor-piece activity: he has a pretty threatening pawn presence on my kingside, with his rook and minor pieces right behind them. At the time, I wasn't convinced that this mattered, though black was able to pull it through in the end.",
+        "11. e5 Be7": "His first developmental move.",
+        "12. Bg6+": "The hole I needed.",
+        "12... Kd7 13. d5 f5": "Cutting off my bishop, but ignoring the danger to black's king.",
+        "14. dxe6+ Kxe6 15. Qd5+": "I got overconfident here looking at a checkmate, but actually just forced a queen trade that would leave me behind in material. The other line I'm seeing is 15. Qb3+ Kd7 (forced because the only other move is ...Qd5, winning the black queen and checkmate as well) 16. Qd5+ Bd6 (again forced) 17. Qxa8, leaving me a full rook ahead. I don't think my queen would be trapped at that point.",
+        "15... Qxd5 16. Nxd5 Kxd5 17. Rfd1+ Kc6 18. Rac1+ Kb7 19. Bf7 h3 20. Bd5+": "Here again I thought I could pull off a checkmate, but I'm successfully defended against. And now, there's a pawn messing with my king's defense. It's at this point that the game starts to turn against me.",
+        "20... c6 21. Bf7": "Perhaps it would have been better to move my bishop out of danger.",
+        "21... Nh6 22. Bxg5 Bxg5 23. Nxg5 Nxf7 24. Nxf7 Rf8 25. Nd6+ Kb6 26. Rc3": "g3 instead? The loss of the g pawn is what caused all of my problems for the rest of the game.",
+        "26... hxg2 27. Kxg2 Rg8+ 28. Kf3 Be6 29. Kf4": "Useless move.",
+        "29... Rg4+ 30. Kf3 Ra4 31. a3 Rh4 32. Kg3 Rg4+ 33. Kh3 Rg8 34. Rf3 Nd7": "Attacking my pawn and linking black's rooks.",
+        "35. Re1": "Unfortunately, I was only looking at the attack on my pawn, because I was also trying hard to remove black's on f5 and maintain my central presence.",
+        "35... Rgh8+ 36. Kg2 Rag8+ 37. Kh1 Bd5": "I resigned.\nIn retrospect, at several points in the game it looked (superficially, anyway) like I might have been able to pull off checkmate. In the short analysis I did, it doesn't actually look like a checkmate would have happened as a result of the positions (around move 15 and again at move 20), because black was able to adequately defend. However, if I hadn't blundered in the queen exchange and in underestimating black's h-pawn, the game could have been in my favor as a result of black's questionable (in my opinion) opening."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-learning-experience?gm=49168",
+    "gameName": "A Learning Experience",
+    "players": "cazador2  vs. warmandfuzzy ",
+    "opening": "English opening (A10)"
+}

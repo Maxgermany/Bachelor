@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4": "Normally leads to long, slow games.",
+        "1... d5": "Sticking to Classical lines.",
+        "2. c4": "Traditional.",
+        "2... dxc4": "I accept the gambit.",
+        "3. Nf3": "Developing.",
+        "3... c5": "Trying to KO the White center, since my QP has been diverted.",
+        "4. e3": "White supports the strong point at Q4.",
+        "4... cxd4": "I proceed as planned.",
+        "5. Bxc4": "Clears the way to castle. Right at this moment the Tigers hit a home run and I made my next move without looking carefully at the board.",
+        "5... dxe3": "I figured on being a Pawn up after 6 QxQ ch KxQ in return for losing the right to castle. But...",
+        "6. Bxf7+": "Ooopsie. Missed that he could do this first. That's what I get for trying to do 2 things at once.",
+        "6... Kxf7": "Forced, and...",
+        "7. Qxd8": "...I resign. At least the Tigers won their game, even if I lost mine."
+    },
+    "url": "https://gameknot.com/annotation.pl/one-lapse-and?gm=41251",
+    "gameName": "One lapse and...",
+    "players": "A friend  vs. Me ",
+    "opening": "QGA (D21), 3.Nf3"
+}

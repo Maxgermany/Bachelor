@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. Nf3 Qc7 6. O-O Bf5 7. d4 e6 8. a3": "Pretty standard till here. The white move is a waste of tempo. ",
+        "8... Nd7": "I don't have to think too much: my developement is almost fixed in any line. ",
+        "9. Bd3 Bg6 10. b4": "White chooses to attack earky. Ok. ",
+        "10... a6 11. Bb2 Ngf6 12. Bc4 Bd6": "One from castling. Black has to be careful about sacs in e6. ",
+        "13. h3": "Preventing Ng4, hitting h2.",
+        "13... O-O": "I normally castle queenside, but this time the mobilization of the king's pawns seems very far. ",
+        "14. Re1 Rfe8": "Just in case. ",
+        "15. Ne2": "Interesting. ",
+        "15... Nb6": "Maybe Nd5 at once would have been wise, blocking the pawn. ",
+        "16. Ba2 Na4": "White's dsb is powerful.",
+        "17. Rb1 Nxb2 18. Rxb2 Nd5 19. Ng3": "Of c4, Nc6.",
+        "19... Bxg3": "Bye Bye, beloved dsb, but g3 for the queen is too tempting. ",
+        "20. fxg3 Qxg3 21. Rb3": "Preventing Nc3, and x-raying the queen with the rook. ",
+        "21... Nf4 22. Qd2": "Defending from mate in g2.",
+        "22... Nxh3+ 23. Kf1 Nf4": "I couldn't find anything better...",
+        "24. Ne5 Qh4": "Now a funny game begins, since black queen is due to the protection of the knight...",
+        "25. Kg1 Bf5 26. Nf3 Qg4 27. Nh2 Qg5 28. Nf3": "I am fearing a stalled game, due to the knight, so I tried to break the drawish position. ",
+        "28... Nh3+": "Interesting. ",
+        "29. Kh1 Qxd2": "Double sigh, where's my attack?",
+        "30. Nxd2 Nf2+ 31. Kg1 Ng4": "I have two healthy pawns, though...",
+        "32. Rg3 Nf6 33. c3 a5 34. Bb1 axb4": "It is a nice endgame to win., but my opponent blundered.",
+        "35. Bxf5 exf5 36. axb4": "...here. A pity. But the game was won, anyway.",
+        "36... Rxe1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/queens-and-knights-dance?gm=44632",
+    "gameName": "Queens and knights dance...",
+    "players": "rexnelson  vs. damalfi ",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

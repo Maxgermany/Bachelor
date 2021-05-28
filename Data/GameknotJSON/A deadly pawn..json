@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. Nf3": "I seldom play against this, but it will match another line sooner or later. One in which the fact white didn't play f4, it is a \"plus\" for me. ",
+        "1... d5 2. d4 Bf5 3. e3 e6": "That looks pretty normal. I'm expecting my lsb to be exchanged, but I can survive that. ",
+        "4. c3 a6": "A mistake, since it allows white's next move. ",
+        "5. Qb3": "With a strong attack on b2, I cannot defend. Not with the queen, so the best one was b3. I tried to tempt him into tactics (and see if I could survive).",
+        "5... b5 6. a4": "Of course. Now I have to improvise. ",
+        "6... c6": "Nothing better, even if it doesn't avoid...",
+        "7. axb5 cxb5": "I expected Bxb5+, Nd7, Rxa3... a very dark sight, indeed...",
+        "8. Na3 Bxa3": "Gone f4, this bishop controls the dark squares, but nothing more. The Kxb5 sac means too many pieces attacking over there. I have to exchange it. ",
+        "9. Rxa3 Nd7": "No use to try to save b5, for sure. I better put some patchs on my position: now, Ra1 is defended. ",
+        "10. Qb4": "Delaying again Bxb5. Now he pretend to take advantage from the undefended dark squares. ",
+        "10... Ne7": "I have to castle very soon, period. ",
+        "11. Qd6": "Attacking a6. I already decided not to try to defend the pawns, since it would have made me lose too much time for my developement. ",
+        "11... O-O 12. Rxa6 Rxa6 13. Qxa6 Nb6": "I still cannot avoid Bxb5, but now it is not that much harmful... and I am developed, so I can use my pieces (the idea of this move is to have the rook in a1 soon).",
+        "14. Bxb5 Qc7": "White cannot caslte, since Ra1 and his queen is trapped. ",
+        "15. Qa3 Ra8": "I don't want him to castle, if I can. This move opens a possible threat on a8. ",
+        "16. Qb3": "If I want to make something of my few chances, I have to clean the heavy pieces and try to outplay my opponent in the endgame... and be lucky to get a draw.",
+        "16... Nc4 17. Bxc4 Qxc4 18. Qxc4 dxc4": "This costs me for this isolani, apparently defenceless...",
+        "19. Ne5 Ra1": "I know he can caslte now, but I like this move all the same. I cannot see any more play for me.",
+        "20. O-O": "I just can't afford the loss of another pawn. And on d3, my isolani is apparently very, very weak, but let's see... I smell something... I can't go Rb8 right now, Nxc4 covers it all.",
+        "20... Bd3 21. Nxd3": "White concedes me to see if I were right.",
+        "21... cxd3 22. Rd1": "Futile move, dear white. You have to try to exchange rooks, with Bd2. If I refuse with Ra2, Rb1. This move loses quickly to d2!",
+        "22... Nf5": "But I didn't see it (I have to be fair!). ",
+        "23. b4": "Nor did he...",
+        "23... d2": "...but I finally did. It's curtains for white..."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-deadly-pawn?gm=44863",
+    "gameName": "A deadly pawn.",
+    "players": "gonzxx  vs. damalfi ",
+    "opening": "Reti opening (A06)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. c4": "Kosten's recipe.  I often want to play something else, but when you start know a system, it has a way of dominating ideas and play.",
+        "1... e5 2. g3 d5 3. cxd5 Qxd5 4. Nf3": "Not my favorite English opening continuation.  In many ways I think the English as a surefire method for advantage is discredited because of this.  Black can, and often does, challenge white's grip on d5 immediately.",
+        "4... e4 5. Nc3 Qc6 6. Ne5": "This was somewhat experimental.  The unsupported knight could have gone, more conservatively, to d4 and then if pushed to b3.",
+        "6... Qe6 7. Qa4+ Nd7 8. Nxd7 Bxd7 9. Qxe4 Qxe4 10. Nxe4": "I really cannot say which side is more purely desirable.",
+        "10... Bc6 11. f3": "11.Bg7? f5!",
+        "11... Bxe4 12. fxe4 Bd6 13. Bg2 Ne7 14. d4 Bb4+ 15. Bd2 Bxd2+ 16. Kxd2": "White is better.  See the excellent comment.",
+        "16... Nc6 17. Kd3 Ke7 18. Rhf1 Rad8 19. e3 a5 20. Rf2 b5 21. a3 a4 22. Rc1 Rd6 23. e5": "A mistake as illustrated by black's next move.",
+        "23... Nxe5+": "Not only is the pawn pinned, but my king is in check.  It's insult added to injury.",
+        "24. Ke2 Nc4 25. Rcf1 f6 26. Kd3": "He misses an opportunity.",
+        "26... Nxb2+": "And sees one where there is none.  Finally, a mistake I can capitalize on.",
+        "27. Rxb2 Rb8 28. Rc1": "With f6 guarded well, I would have, at some point or another in the game, wanted to reposition my rooks.",
+        "28... Kd7 29. d5 Rbb6 30. Rc5 c6 31. Ke2 cxd5 32. Rbxb5 d4 33. Rxb6 d3+ 34. Kd2 Rxb6 35. Kxd3 Rb3+ 36. Rc3 Rb6 37. Bf3 g5 38. Bd1 Ra6 39. Rc4 Kd6 40. Rxa4 Rb6 41. Rb4 Ra6 42. a4 Kc5 43. Rb5+ Kc6 44. Bf3+ Kd6 45. a5 Kc7": "Going fairly routinely.",
+        "46. Rb7+ Kc8 47. Rxh7": "Knowing the ultimate game result, I think this may be a mistake.",
+        "47... Rxa5 48. h4 gxh4 49. Rxh4 Kd7": "And here I thought that I had the win in the bag.",
+        "50. Rd4+ Ke6": "I think the bishop move first was better.",
+        "51. Bg2 f5 52. Ke2 Ke5 53. g4 Ra2+ 54. Kf3 fxg4+ 55. Rxg4 Ra3 56. Rg5+ Kf6 57. Kf4": "Failed to consider that I could not defend both!",
+        "57... Rxe3": "Clearly a win is possible, but it is not the easy win that I was envisioning.",
+        "58. Be4": "In a way I'm daring him to go for the win, but if he balks at the effort, I draw.",
+        "58... Rxe4+ 59. Kxe4": "draw.",
+        "59... Kxg5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/one-slip-and-an-advantage-melts-away?gm=24721",
+    "gameName": "One slip and an advantage melts away.",
+    "players": "Jay Kuykendall (1381) vs. Bashkim Rexhepi (1516)",
+    "opening": "English opening (A20)"
+}

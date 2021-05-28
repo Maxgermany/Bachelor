@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 h6": "A secondary move, probably to avoid the main theory.\n",
+        "4. O-O Nf6 5. d4": "The white open immediately the centre due that the black king has still to castle and the black bishop is still on f8.\n",
+        "5... exd4 6. e5": "A tipycal move in this kind of position.\n",
+        "6... Ng4": "A mistake not seen by both players. After h3 the black lose a piece.\n",
+        "7. Re1 Bb4 8. Bd2 a5 9. Bxb4": "Alternative variation: 9. h3 [ and the white is a piece up] \n",
+        "9... axb4 10. Nxd4": "A mistake. After Qh4 there is a double attack on h2 and f2, and the white cannot defend both.\n",
+        "10... O-O": "Alternative variation: 10... Qh4 11. h3 Qxf2+ 12. Kh1 Ne3 13. Rxe3 Qxe3 \n",
+        "11. Qxg4 d6": "The White is a piece up, but it is possible to get back the piece by d5!, due that there is a double attack to the queen and the bishop.\nAlternative variation: 11... d5 12. Qf4 Nxd4 13. Qxd4 dxc4 \n",
+        "12. Qd1 Nxe5 13. Bf1": "A safe place for the bishop leaving the e file free for the rook.\n",
+        "13... Qf6 14. c3 c5 15. Nf3 Bg4 16. Be2 Rad8 17. Nxe5": "Any exchange helps White, due that is a piece up, and there is not any risk of counterplay.\n",
+        "17... dxe5 18. Qc2 Bf5 19. Qb3 Qc6 20. cxb4 Rfe8 21. b5 Qg6 22. a4": "With the idea to get counterplay pushing the pawns, and to find a better place for the bishop (c4) and the knight (c3).\n",
+        "22... b6 23. Bc4 Re7 24. Nc3": "The planned set-up is reached, now the White has to find a way to exploit the piece up.\n",
+        "24... Bc2 25. Qa2 Red7 26. a5 Ra7 27. a6": "Now the black rooks need  to take care of the possible advance of the a6 pawn.\n",
+        "27... Qf5 28. Rad1": "Probably not the best move, but the bishop on c2 is a strong piece limiting white's activity. \n",
+        "28... Bxd1 29. Rxd1 Rxd1+": "Probably it was better to not exchange the rook. Black lose the rook pair, the control of the d file and now the knight and bishop are stronger than the rook that has to be care of the a6 pawn.\n",
+        "30. Nxd1 Qc2 31. Ne3 Qc1+ 32. Nf1 Qf4 33. b3 Kf8 34. g3 Qd4 35. Qd2 Qxd2 36. Nxd2": "White is totally winning. The black rook cannot move, and the a6 pawn is strong. There is not any possible defence.\n",
+        "36... Re7 37. Ne4 Rd7 38. Nc3 Ke7 39. Nd5+ Kf8 40. Nxb6 Rc7 41. Nd5 Rd7 42. b6 Ke8 43. a7 Rd8 44. b7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-http-gameknot-com?gm=65118",
+    "gameName": "Let's play chess, http://gameknot.com/",
+    "players": "kabira (1357) vs. kareo84 (1486)",
+    "opening": "King's pawn game (C50)"
+}

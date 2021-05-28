@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6": "I wanted to share this game because it made and impression on me and I can't get it out of my head :D. I recommend that you watch the game in Interactive move.I will only annotate a few moves with alternative routes since this game is played at GM level and its the manifestation of the word logic :D.",
+        "3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4": "White doesn\u2019t get much from 7. Nxe5 Nxe5 8. d4 Bxd4 9. Qxd4 Nc6.",
+        "7... Rb8 8. c3 d6 9. d4 Bb6 10. axb5 axb5 11. Na3 O-O 12. Nxb5 Bg4 13. Bc2 h6 14. dxe5 Nxe5 15. Nbd4 d5 16. exd5 Qxd5 17. h3 Bh5": "White\u2019s extra pawn in the ending outweighs his doubled pawns after 17...Nxf3+ 18.Nxf3 Bxf3 19. Qxf3 Qxf3 20. gxf3.",
+        "18. g4 Nfxg4 19. Nxe5 Nxe5 20. Qxh5 Bxd4 21. Qf5 Nf3+ 22. Kh1 Qxf5 23. Bxf5 Bf6 24. Ra7 c5 25. Be4 Ne5 26. Rd1 Nc4 27. Bb7 Bg5": "A likely draw would result from 27...Rfd8! 28 Bd5 Nxb2 29 Bxf7+ Kh7 30 Rxd8 Bxd8 31 Be3 Nd1 32 Bxc5 Nxc3.",
+        "28. Bxg5 hxg5 29. b3 Ne5 30. Rd5 Rfe8 31. Rxc5 Re7": "Black is a pawn down without compensation but this only hastens his defeat.",
+        "32. Rb5 Nd3 33. Be4": "(!) and Black resigns. Every White and every Black piece is hanging! If 33...Rxb5 34. Ra8 mates. Also futile is 33...Rxe4 34. Rxb8+ Kh7 35. Rxf7, losing the exchange and a pawn. Finally, if 33...Nxf2+ 34.Kg2 Ree8 (not 34...Nxe4? 35.Rxb8+ Kh7 36.Rxe7) 35.Rxb8 Rxb8 36.Kxf2, losing the knight for a pawn."
+    },
+    "url": "https://gameknot.com/annotation.pl/topalov-vs-morozevich-2002-nao-round1-france?gm=46416",
+    "gameName": "Topalov vs Morozevich 2002,NAO,Round1,France",
+    "players": "Veselin Topalov  vs. Alexander Morozevich ",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

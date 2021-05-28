@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "something tells me this isn't correct for black i'm sure there's a way round it but i certainly didn't find it in this game.",
+        "3. d4 exd4 4. Qxd4": "personally i dont like having a queen in the middle of the board so early on, however it is a dangerous threat and in this game i ignored it. also look already how black is behind in development! due to not playing kings pawn openings enough myself as white i am a bit of a stranger to the tricks and traps.",
+        "4... Nc6": "(better probably was Bd7)",
+        "5. Bb5 Bd7": "i tink this was a waste of time, though i was unwilling to double pawns on the b file, which with heindsight might have been better.",
+        "6. Bxc6": "a bad move by white surely? it looses a tempo and establishes a strong outpost for my white squared buishop, however it does remove any attacks (for now) on the central queen.",
+        "6... Bxc6 7. Nc3": "what is the correct move for black here? please someone tell me! i played Nf6 (thinking that it was good for development) is h6 better? followed by the ability to create a queenside castled king in a fianchetto? i think it might be.",
+        "7... Nf6 8. Bg5 Be7 9. O-O-O": "look at the positional difference! white has all the space,  black has barely developed at all!",
+        "9... Qd7": "in hope of queenside castleing perhaps? though this is imposible whilst the queen remains threatening the a pawn.",
+        "10. Rhe1": "whites strong central attack is sure to claim some victims here but what moves does black have? perhpas quenside castling would be strong, except for the a pawn, a timely h6 may also have done the trick here followed either by g5 or by establishing a bishop on f6 - though blacks attack here is unfocused, there are no two pieces working in conjunction on a single target.",
+        "10... O-O": "definately the wrong move.  e5 is now devestating as the queen cannot hold out on d7 without more protection.",
+        "11. e5": "!",
+        "11... Bxf3": "(in hope of distraction)",
+        "12. gxf3": "perhaps playing c4 would have been more interesting here? or playing the knight onto e8 may have saved something of blacks position, both of which are better than putting the knight on the wing.",
+        "12... Nh5 13. Bxe7 Qxe7 14. exd6 Qg5+": "finally some counterplay!",
+        "15. Kb1 Rfd8": "(this threat is actually fairly minimal, Nb5 would have been an excellent move.",
+        "16. Ne4 Qf4": "blacks best move of the game probably",
+        "17. Qe3 Qe5": "(blacks worst move of the game probably)",
+        "18. dxc7 Qxc7 19. Qg5 Rxd1+ 20. Rxd1 Rc8 21. c3 g6 22. h4 Kg7 23. Nd6 Rf8 24. Nf5+ Kh8 25. Nh6 Kg7 26. Ng4 Qf4 27. Qxf4 Nxf4 28. Rd7 Rb8 29. Ne5": "blacks position is now backwards, though he hopes to explot the held up doubled pawns on the f file long enough to pass a pawn on h, though in order to do this- play must be drawn to the other side of the board, and similarly black must not loose too much material in the process",
+        "29... Kf6 30. Ng4+": "Nxf7? Ke6!",
+        "30... Ke6 31. Rc7 h5 32. Ne3 a6 33. Rc4 Nd3 34. Re4+": "now black must run back home! he cannot move to the D file because of the knight and anything else leads to a loss of material\n",
+        "34... Kf6 35. Nd5+ Kg7 36. Re2 Rd8 37. c4 b5 38. b3 Rc8 39. Kc2 bxc4 40. bxc4 Nc5 41. Re7 Ne6 42. Kd3 Kf8 43. Ra7 Nc5+ 44. Kc3 Kg7": "a good idea from black, if he can trade pawns on g5 then he may be able to sneak one past on the h file which can easily be backed up by the rook...",
+        "45. Nf4": "puts a stop to this early",
+        "45... Rc6 46. Nh3 Rf6 47. Ng5 Rf4": "black's final blunder. stronger may have been Ne6 with good chances for black to win back a pawn  - however those two passed kings pawns seem unstopable from here",
+        "48. Rc7 Na4+ 49. Kb4": "and the finish is on e6.",
+        "49... Nb2 50. Ne6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fancy-a-game?gm=26231",
+    "gameName": "fancy a game?",
+    "players": "tianlim (1699) vs. crazyeye180 (1621)",
+    "opening": "Philidor (C41), Boden variation"
+}

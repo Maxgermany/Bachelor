@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": " WATCH ME PLAY STUPIDLY!  I play this about half the time",
+        "1... d5 2. c4 h6": "bg5 is not something I usually play anyway",
+        "3. Nf3": "more center control",
+        "3... Nf6 4. cxd5": "I figure i can push his knight around while developing",
+        "4... Nxd5 5. e4 Nf6 6. e5 Nd5 7. Bc4": "and it works fairly well. I have my piece established and he is busy moving his knight",
+        "7... Nb6 8. Qb3": "possibly a mistake but also threatens bf7+ which leads to kd7 and hten maybe e6+ putting the pawn in a powerful well-protected position",
+        "8... e6": "defended against that",
+        "9. Be3": "wanted more backup on d4 pawn, better than bf4 i think because d4 pawn make move while e5 pawn wont. Maybe bd2 would have been better or nc3",
+        "9... a6 10. O-O Nc6 11. a3": "I though he was going to b4 but I missed the trap that followed",
+        "11... Na5": "threatens queen which stops me from bringing an additional defender to bishop",
+        "12. Bb5+": "Knowing that the bishop is doomed I figure that I can atleast get a pawn out of it",
+        "12... c6": "Chooses not to take. A mistake I think because instead of losing the a pawn black loses the b pawn",
+        "13. Bxc6+ bxc6 14. Qc2 Nd5 15. b4": "pushing the knight away from protecting c6",
+        "15... Nb7 16. Qxc6+ Bd7 17. Qc2 Be7 18. Nbd2 Rc8 19. Qd3": "an error",
+        "19... Bb5 20. Qb3 Bxf1 21. Kxf1 O-O 22. Ne4 Rc3 23. Qa4": "WHY NOT nxc3!?",
+        "23... Nxe3+ 24. fxe3 Rxe3 25. Ng3 f6 26. Qxa6 Qc7 27. Qxe6+ Rf7 28. Nf5 Rd3 29. d5 Qc4 30. Nxe7+ Kh7 31. Qxf7": "White has mate if black gives me a turn...",
+        "31... Rxf3+ 32. Kg1 Qd4+ 33. Kh1 Qxa1#": "but alas no"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23120",
+    "gameName": "Let's play chess",
+    "players": "elipsky (1336) vs. skipbifferty (1271)",
+    "opening": "Queen's Gambit (D06)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "usual first move e4-e5 (king's pawn game). I would of done b2-b3 (nimzo-larsen attack).",
+        "1... e5": "A great defense. I'm surprised she didn't played d7-d5 (Scandinavian defense).",
+        "2. Nf3": "Ng1-f3 (king's knight game) the usual choice of most people. (I just joined on 5-10-10)",
+        "2... Nc6": "Knight's defense. what a great move for black.",
+        "3. Bc4": "Bf1-c4 (giuoco piano) that is an Italian game.",
+        "3... d6": "A double philidor's defense ",
+        "4. O-O": "Castling is a great move (for all the beginners in chess)",
+        "4... Bg4": "The knight on f3 is pinned. It can't move or else the bishop on g4 would capture the queen on d1.",
+        "5. Nc3": "I brought my queen's knight out to start attacking on d5",
+        "5... Nf6": "Unfortunately, he defended...",
+        "6. Nxe5": "I made a risk (and a plan!)",
+        "6... Bxd1": "She fell for it...",
+        "7. Bxf7+": "This is nearly checkmate",
+        "7... Ke7": "What else could she do?",
+        "8. g4": "I am overworking the knight.",
+        "8... Nxg4": "She just greedily grabbed it.",
+        "9. Nd5#": "Checkmate! (this is called a longer version of Legal's pseudo-sacrifice) \n\nMoral: \"Look both ways before you cross the street\" Said by a chess grandmaster (Not me!)\n\nI am sorry for my horrible English."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=31428",
+    "gameName": "Let's play chess",
+    "players": "good836dog (1200) vs. good736cat (1200)",
+    "opening": "King's pawn game (C50)"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. d4 e6 3. c4 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Nbd2 O-O 10. Nxc4": "Albul are un mic avantaj, datorita problemelor negrului de a ]ncheia dezvoltarea. In acest context, prima grija a negrului ar trebui sa fie sa gaseasca o solutie pentru neutralizarea jocului pe coloana d, si a nebunului catalan. Pe scurt: unde imi pun nebunul de campuri albe si cum schimb turnurile?",
+        "10... Ng4": "Nu asa. calul ala era bun tinea campul d7 si uneori, putea sari in d5. ",
+        "11. e3 Rd8 12. Bd2": "Mutare veninoasa. b4-b5 ameninta sa destabilizeze serios pozitia negrului.",
+        "12... a5": "Pare riscant, dar se pare ca nu merge nici 13. Ca5, nici 13. Na5. ",
+        "13. a3": "Cu reinnoirea amenintarii",
+        "13... b5": "Deschizand drumul nebunului catalan, negrul se expune unei pierderi imediate si fortate de material. SIngura problema a albului este sa aleaga intre 14. Cce5, Cfe5, Ca5 sau Na5.",
+        "14. Nfe5 bxc4 15. Nxc6": "Albul sta la castig, urmand sa culeaga, in cel mai rau caz, cei doi pioni negri de pe flancul damei.",
+        "15... Ra6": "Negrul uita in priza turnul din d8, si va pierde rapid.",
+        "16. Nxd8 Rd6 17. Bxa5 Rxd1+ 18. Rxd1 g6 19. Bc3 Bb6 20. Nc6 f6 21. Ne7+ Kf7 22. Nxc8 Bc5 23. Nd6+ Ke7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/mainile-sus?gm=55352",
+    "gameName": "Mainile sus",
+    "players": "kolmogorov (1905) vs. paulpatras (1617)",
+    "opening": "Reti opening (A05)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 h6": "weak. permits 7.Ne5 Qd6, 8.Nxg6 Qxg6, 9.Bd3 Qd6, giving White a development advantage. and initiative. ",
+        "7. Be3": "a good developing move. White is ahead on development and should be very confident in his/her position. ",
+        "7... Nf6": "again weak. White misses, again, Ne5 gaining development and center control. 8.Nd7 is necessary to capture the N. 8Nd7 also supports the Ngf6 which is coming, and is thematic in this position. ",
+        "8. h3": "White is not playing aggressively, as is required in the caro kann if one wants to win. ",
+        "8... Nbd7 9. Bd3 Bxd3 10. Qxd3 e6 11. O-O": "11.0-0-0 would be expected. and is thematic in this opening. at this point neither is \"better.\" but getting the Queen rook into the coming fray on the King side is always helpful when one is much better developed... now White's king is in his own way. ",
+        "11... Be7": "we have reached a main line position. GMs have been working this from both sides for YEARS...",
+        "12. c4 O-O 13. a3 Qc7 14. b4 b5": "14...Rfd8 to develop pressure in center or ...a5 to weaken/attack white's pawn mass are to be considered. ...b6 is ok too... but this gives away a pawn:  15.cxb cxb 16.Qxb5 with material advantage.",
+        "15. c5": "some of my long ago mentors would call this a lemon. this gives Black the d5 square for his knights, leaves a backward pawn on an open file for Black to double rooks on for attack. Black can get his Bishop to enter the attack on the weak pawn. White no longer has the bishop to attack Black's c button... Black also has two levers to open the position: ...a4 and ...e5. a really bad choice in the light of the open position with extra pawn and better development which would have resulted from 15.cxb. ",
+        "15... Nd5": "sometimes waiting before possessing the gifted squares is a good thing, I would seriously consider ...a5.",
+        "16. Rac1": "both sides miss 16....a5! then: 17. bxa Rxa5, black has initiative, a pawn to attack with heavy pieces (and after ...Ra4, additional pressure on d4. ",
+        "16... Nd7f6 17. Ne5 a5": "17....a5 is best move on the board. 18.ba5 Ra5 leads to previous position with Black having initiative and slightly better position. ",
+        "18. Rca1": "ouch. ",
+        "18... axb4 19. Ng6": "19.Ng6 must be given two ?? as it is just a loss of a piece. I am not sure I see any compensation at all. ",
+        "19... fxg6 20. Qxg6 Nxe3": "good move. prevents Bxh6. ",
+        "21. fxe3 bxa3 22. e4 Nd7": "22....Qd7 better. threatens ...Qxd4+ and protects e6. ",
+        "23. Nh5": "23.Qxe6+ followed by 24.Nf5 is better. White is still losing but might find a draw with perpetual check on the Black King. ",
+        "23... Rxf1+": "the simple 23...Bf6 is best. the N & Q guard against e5. the g7 button is defended in all reasonable lines. and Black still has two distance passed pawns. ",
+        "24. Rxf1": "not bad in and of itself, but Black must be wary of the tactics by taking away a defender of his own kingside. ",
+        "24... Bf6 25. e5 Nxe5": "oops. those same mentors from long ago would call this a \"speed chess howler\"... 25...Nf8 attacking the White Queen, letting Black's Queen defend g7. was absolutely necessary. ",
+        "26. Nxf6+": "wins. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=68615",
+    "gameName": "Team match",
+    "players": "mtmulder (1615) vs. sampotarmo (1650)",
+    "opening": "Caro-Kann (B18), classical, Flohr variation"
+}

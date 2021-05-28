@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "Here is the return match, in the 51st GK tournament Intermediate, of my previous annotation \"Rooks on the 7th\". In this annotation, my opponent's poor development invites me to attack, attack and attack again, and barely out of the opening! My opponent opens with queen pawn.",
+        "1... Nf6": "I choose the line that leads to \"Indian\" defences.",
+        "2. Bf4": "To my selection of the Indian line, my opponent responds 2.Bf4!?, seeming likely to transpose into a Mason Variation 1.d4 d5 2.Bf4. Black can gain a superior position if he knows what he is doing. I sincerely hope that I do.",
+        "2... d5 3. e3 c5": "Sniping immediately at White's central pawn chain.",
+        "4. Be5": "? BAD MOVE! After 4...Nbd7, White must either exchange - ending up one move behind on development - or move the bishop back - ending up two moves behind on development.",
+        "4... Nbd7 5. Bxf6 Nxf6": "Black has gained a lead in development. I think this counts as a \"superior position\".",
+        "6. dxc5 e5 7. c3": "? Weak move - White should be trying to catch up on development!",
+        "7... Bxc5": "Extending my lead in development to 2-0.",
+        "8. c4": "Counterattacking my classical pawn centre.",
+        "8... Bf5": "Bring it on! Another piece is developed. 3-0 to Black - make that 4-0 if you include the fact that White had the move to start with.",
+        "9. Na3": "? Odd place for the knight. What's wrong with 9.Nc3, developing logically to the knight's best square? Nothing.",
+        "9... Qa5+": "In his book \"Winning Chess Strategies\" GM Yasser Seirawan cites a lead in development as a good reason to go on the attack. I decided that I definitely have what can be classed as a \"lead in development\" :-). What's more, this wins a pawn after 10...Bxa3 11.bxa3 Qxa3. I was, however, hoping for the ludicrous win 10.Qd2?? Bb4! winning queen for bishop. But, even if this doesn't happen, White's king is forced to move.",
+        "10. Ke2 Bxa3 11. bxa3 Qxa3": "Not only do I have an extra pawn, I will soon have a strong attack. Things are looking good.",
+        "12. cxd5": "What!? Does my opponent understand the value of development? This is just asking to be attacked!",
+        "12... Qb2+ 13. Ke1": "Back into the bolt-hole, minus the ability to castle. Never mind, a pretty simple combination forces the king out into the open on the kingside.",
+        "13... Qc3+ 14. Ke2 Bd3+ 15. Kf3": "Forcing the king out of his little hidey-hole on e1. Out into the open. Time to bring on the attackers.",
+        "15... e4+ 16. Kf4 Nxd5+": "Moving attackers further forward with tempo. Forcing White's king towards the side.",
+        "17. Kg3 Qe5+": "Here, I begin to realise that my attack may not result in checkmate. Never mind. I'll just have to improvise. That's what I usually do with attacks. It usually works.",
+        "18. f4 exf3 e.p.+ 19. Kh3": "?? This is pure folly! The king had a chance to retreat back to the centre of the board with 20.Kf2...and instead chooses to trap himself against the side!",
+        "19... Bf5+ 20. g4": "!Yay! A lovely sacrificial tactic materialises.",
+        "20... Bxg4+": "If White declines the sacrifice, I'm really not bothered: I end up with 3 extra pawns in total. If he accepts...",
+        "21. Kxg4 Nxe3+": "...a royal fork wins the queen for the knight!",
+        "22. Kxf3 Nxd1": "White resigned, as 23.Rxd1 Qh5+!, so White cannot even recapture the knight."
+    },
+    "url": "https://gameknot.com/annotation.pl/develop-or-be-attacked?gm=23749",
+    "gameName": "Develop or be Attacked!",
+    "players": "vancekalani (1363) vs. fatcat2 (1463)",
+    "opening": "Queen's pawn game (A45)"
+}

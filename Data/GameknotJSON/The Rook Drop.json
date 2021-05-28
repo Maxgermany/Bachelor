@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Nick (moistcomrade) had previously played two games against sabyyavin, for which he lost both because he cracked under the pressure of being behind in material. Nick already drops a rook early, and whilst most players would have given up, Nick gallantly fought on and against the material deficit, generated a strong attack. Black still maintains a material advantage after the exchange of queens, but makes a costly blunder and White queens his pawn. Even with accurate defence, Black could have drawn the game, but he ends up dropping a rook at the end, and concedes. ",
+        "1... d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bf5 6. Be2 Nc6 7. O-O O-O-O 8. Re1 e5 9. c4": "Probably a weakening move; 9. d3 is stronger.",
+        "9... Qc5 10. d3 Qb6 11. Be3 Qxb2 12. Bc1": "It unfortunately took Nick about a second to realise his mistake. 12. Ng5 keeps Black's advantage to a minimum. ",
+        "12... Qxa1 13. Qb3 Nd4 14. Nxd4 Qxd4 15. Bb2 Qf4": "15....Qb6 would be a better dark square, and would eventually force the exchange of queens, Black would push home his advantage. ",
+        "16. Bf3 e4 17. Bxe4 Bxe4 18. Rxe4 Qd2 19. g3": "White is trying to free the back rank for his king, but Black has no immediate mate threats. 19. Re3 is better, guarding the d3 pawn. ",
+        "19... Bc5": "Even so, taking immediately would have been better. ",
+        "20. Rf4 Rxd3 21. Qb5 Qd1+ 22. Kg2 Bb6 23. Bxg7 Rhd8 24. Qf5+ Rd8d7 25. Re4 c6 26. Re8+ Bd8 27. Bf6": "White has two pins against Black's king, and looks dangerous.",
+        "27... Kb8 28. Qe5+ Ka8 29. Qf5 Qb1": "Black is threatening Rxg3+, because of the pin, but he failed to realise 30. Bxd8! Rxg3+ 31. Kxg3 Qxf5?? 32. Bc7+ mates. ",
+        "30. g4": "Unfortunately, White missed the capture. ",
+        "30... Qxa2 31. Be7": "White should have captured. He is hoping for 31...Rxe7?? 32. Qc8# but Black sees through right his trap. ",
+        "31... Qxc4": "31...Qe2 is better. Black would have maintained his rook advantage. Still, Black remains material up.",
+        "32. Bxd8 b5 33. Bf6+ Kb7 34. f3 Rd3d2+ 35. Kg3 Qd5 36. Qxd5 Rd2xd5": "Nick is down the exchange and a few pawns, but puts his faith in the passed pawns. ",
+        "37. Rh8 b4 38. Rxh7 b3 39. h4 Rd5d2": "a slight error; maybe 39...a5, pushing the pawns, was better. ",
+        "40. g5 Kc7": "again, 40...a5 was better. White's passed pawn on the h-file is very difficult to stop.",
+        "41. h5 b2 42. Be5+ Kc8 43. Bxb2 Rxb2 44. Rh8+ Kb7 45. h6 Rbd2": "Black's advantage is now minimal, and White will queen his pawn. Significantly better was 45...Rb1! where Black will be able to get behind the pawn. After a long variation, Black will take the passed pawn and push home his material advantage. ",
+        "46. h7 f6": "Again, 46...Rd1 would have been better. For the first time in the game, White has the advantage, courtesy of Computer Analysis @ Gameknot.",
+        "47. Rb8+": "Maybe 47. g6 first, creating another passed pawn? Then 47...R2d5 48. Rb8+ Kxb8 49. h8=Q+ Kb7 50. Kh3 Ka6 51. Qxf6 keeps material close to level, with good drawing chances for Black.",
+        "47... Kxb8 48. h8=Q+ Kc7 49. Qxf6 Rd2d6": "49....a5 gives better chances.",
+        "50. Qe5 Kb7 51. Qb2+ Ka8 52. Kg4 Rd7d8 53. f4 Rd6d1 54. Qf2 Kb7 55. g6 Rd1d7": "55...R8d2 would have been better, maintaining the pressure on the queen. ",
+        "56. Qc2": "White's idea is 57. g7 Rxg7?? 58. Qb2+. ",
+        "56... Rg8": "And Black falls for the trap on a similar variation; 56...Rd2 gives White a small advantage, but nothing immediate. ",
+        "57. Qb3+": "And so Black gave up. Incredible that White fought on after dropping a rook, and worked his way back into the match, and when Black drops a rook, he resigns. Incredible game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-rook-drop?gm=54084",
+    "gameName": "The Rook Drop",
+    "players": "moistcomrade (1521) vs. sabyyavin (1648)",
+    "opening": "Scandinavian defence (B01)"
+}

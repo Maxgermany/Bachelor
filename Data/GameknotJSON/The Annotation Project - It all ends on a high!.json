@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nThis was my last match in the Annotations Project Part 1 and it ended in a high.  Commiserations to Nick on copping Old Matey - this tournament has been a very hit and miss affair.  I am so relieved to come out of it with 17 points out of 20 games, losing only to the Master Mater and conceding two Low Draws to Zebulun and Steve.  Anyhow, on with the match.  We pick up the action on Move 10 where Nick tried Nxe6 - this proved to be an error and I will demonstrate why ..... ",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6 9. Bxg4 e6 10. Nxe6 Qh4+": "10. ...... Qh4+ - .......... because Glenda is at it yet again with another move to h4.  If only she can make it safely to this square more often!  This demonstrates why this move is inferior.  White's lsb is now toast.  I work out that after Glenda whips off the bishop, Nick's e6 horsie will not be able to stage a Royal Fork because Glenda will be facing that knight on the diagonal with one square in between.  Yup, this is a little tip for you to try and avoid walking into a knight fork.  Your king may be checked next move if he is facing the knight on a rank or a file with one square in between or on a diagonally ajdacent square - provided the knight can give the check safely.  Be even more wary if the knight is on a diagonally adjacent square to the king and can move away and attack your queen if there is a Q or B lined up behind it.",
+        "11. g3 Qxg4 12. Ng5 Qf5": "12. ....... Qf5 - preventing Nf7 and defending (now isn't that her usual role?) the e4 pawn.",
+        "13. Nc3 Na6 14. Ncxe4": "14. Ncxe4 - the e pawn drops but never you fear, that e4 knight is particularly vulnerable to a pin by my QR.",
+        "14... h6": "14. ....... h6 - first I poke one of those knights.",
+        "15. d3 hxg5 16. fxg5": "16. fxg5 - pawn trade.",
+        "16... Re8 17. Bf4 Rxe4+": "17. ...... Rxe4+ - now, here comes an exchange for pawn sac which will handily open up some attacking lines for me.",
+        "18. dxe4 Qxe4+ 19. Kd2": "19. Kd2 - saves his rook but Glenda is at the WK like a bitch with a bone.  She will not let go!",
+        "19... Qg2+ 20. Kc3 Rxh2 21. Rxh2": "21. Rxh2 - here it is good to trade.  White is being stripped of any counterplay.  The white QR is destined to stay on his home square.",
+        "21... Qxh2 22. b3": "22. b3  - attempting to create a flight square for his king but now my horsie joins in!",
+        "22... Nb4": "22. ....... Nb4 - threatening Qc2#.",
+        "23. Bd2": "23. Bd2 - defends against the mate, but .....",
+        "23... Qf2": "23. ....... Qf2 - now Nick will have to drop his bishop or allow Qd4 mate.",
+        "24. a3": "24. a3 - he allows the mate - a great start to a Saturday morning!",
+        "24... Qd4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-it-all-ends-on-a-high?gm=26844",
+    "gameName": "The Annotation Project - It all ends on a high!",
+    "players": "scalawag (1360) vs. jstevens1 (1857)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

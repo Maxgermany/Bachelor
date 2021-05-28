@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "Dangers and surprises lurks in the background for any chess game. The unaware who falls into the trap is bound to suffer eternal damnation. Right so in the opening. Once in a while, we are bound to fall right into the opponent's hands.",
+        "1... d5 2. c4 dxc4": "My opponents usually accepts the gambit in the games I played in this opening. But this one, I was unmindful of the dangers that lies ahead.",
+        "3. Nc3 c6 4. a4 e5": "This is the first time I encountered this move. It seems harmless but it is full of poison.",
+        "5. dxe5": "Playing an opening I am unfamiliar of, I, without hesitation, accepted the counter gambit staying true to the principle of the best way to refute a gambit is to accept it.",
+        "5... Qxd1+ 6. Nxd1 Bb4+ 7. Bd2 Bxd2+ 8. Kxd2": "Although the White King has been deprived the right to castle, it seems he is not in danger with Queens traded off.",
+        "8... Nd7 9. f4": "I don't know if this move was made out of greediness or stubbornness to hang on to the pawn at all costs.",
+        "9... Nc5 10. Kc2 Bf5+": "Right now, Black is developing freely with gain of tempo.",
+        "11. Kc3 Ne7 12. Nf3 Nb3 13. Ra3 Nd5+": "Suddenly, the Black King is under attack and is somewhat caught in a corner.",
+        "14. Kxc4 Na5+": "After I made the last move, I knew that my King was caught.",
+        "15. Kd4 Rd8 16. Nc3 c5+ 17. Kxc5 b6+ 18. Kb5 a6+ 19. Kxa6 Ra8+ 20. Kb5 Bd7#": "This game reminds me of the ones played by the immortal greats like Adolf Andersen and Paul Morphy wherein they sacrificed pieces in wild abandon just to mate the opponent's King."
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-disaster?gm=43467",
+    "gameName": "Opening Disaster",
+    "players": "matefork (1692) vs. liandrix (1960)",
+    "opening": "Queen's gambit accepted (D20)"
+}

@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4": "I'm just posting this one, because the neat mate. Also I lost rating points even though I won. So yeah. I'm mad.",
+        "1... Nf6 2. e5 Nd5 3. c4 e6 4. cxd5": "Don't leave a piece openly hanging.",
+        "4... exd5 5. d4 f5 6. Nc3 c6 7. Nf3 a5": "He is just moving pawns.",
+        "8. Bd3 g6 9. Ng5 h6 10. Bxf5": "This combo works no matter what.",
+        "10... gxf5": "If he played 10...hxg5 11. Bxg6+ Ke7 12. Bxg5 Ke6 13. Qg4#\r\nHis best shot is either Qe7 or d6 which I still win material in. ",
+        "11. Qh5+ Ke7 12. Qf7#": "A neat finish in leaving the two pieces hanging."
+    },
+    "url": "https://gameknot.com/annotation.pl/two-pieces-hanging?gm=31334",
+    "gameName": "Two pieces hanging",
+    "players": "minital (1607) vs. logchain (1200)",
+    "opening": "Alekhine's defence (B02)"
+}

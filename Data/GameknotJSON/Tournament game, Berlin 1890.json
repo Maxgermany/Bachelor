@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. d4 Bf5 3. c4 c6 4. Qb3 Qc8": "A horrible blunder. 4... Q-N3 was necessary.",
+        "5. cxd5": "Caro immediately begins opening attacking lines.",
+        "5... cxd5": "Forced, if material equality is to be maintained.",
+        "6. Nc3": "Developing and attacking the weakened QP.",
+        "6... e6": "Defending, but falling even farther behind in development.",
+        "7. Bf4": "Clearing the square for the Rook to seize the open file.",
+        "7... a6": "Desperation.",
+        "8. Na4": "Threatening R-B1.",
+        "8... Ra7": "Black may as well resign.",
+        "9. Nb6": "A rusty nail in Lasker's knee or a bone in his throat. Pick your metaphor.",
+        "9... Qd8": "Losing yet another tempo.",
+        "10. Bxb8": "Removing a defender.",
+        "10... Qxb8": "Completing the exchange.",
+        "11. Qa4+": "The monarch must bestir himself.",
+        "11... Ke7": "Forced [11... K-Q1 12 Q-Q7 mate.]",
+        "12. Rc1": "Leaving Black defenceless.",
+        "12... g5": "As good or bad as anything else.",
+        "13. Ne5": "13 N-B8 ch would win the Exchange, but White is after bigger game. The threat is 14 Q-Q7 ch K-B3 15 QxBP mate.",
+        "13... Nh6": "If 13... N-B3, White has 14 N-B8 ch K-Q1 15 NxP mate.",
+        "14. Nc8+": "Lasker resigns. He has the grisly choice between losing his Q [14... QxN 15 RxQ, 14... K-B3 15 N-Q7 ch forking K and Q] or his K [14... K-Q1 15 Q-Q7 mate.]"
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-berlin-1890?gm=43549",
+    "gameName": "Tournament game, Berlin 1890",
+    "players": "Horatio Caro  vs. Emanuel Lasker ",
+    "opening": "Reti opening (A06)"
+}

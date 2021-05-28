@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. c4": "Here I squeezed a win in 18 moves. My opponent played excellently up to move 15 where he missed my opportunity to trap his queen.",
+        "1... e5 2. e4": "2. e4 is heavily discouraged by opening books, I prepared quite deeply in this path though.",
+        "2... Nf6 3. Nc3 Bc5": "3. ...Bb4 was also common. From now until well after the 10th move is all book moves and shouldn't offer much knowledge.",
+        "4. Nf3 d6 5. h3 O-O 6. Be2 Nc6 7. O-O Re8 8. a3 Bd7 9. b4": "9. b4?\nThis loses the e4 pawn to Bd4, 10. Bb2 Bxc3 11. Bxc3 and Nxe4",
+        "9... Bd4 10. Bb2 Bxc3 11. Bxc3 Nxe4 12. Bb2 h6 13. d4": "Things aren't looking to well for White and 13. d4 is a desperate attempt to open up his cramped up base. ",
+        "13... exd4 14. Nxd4 Nxd4": "14... Nxd4?\nBlack should've played more aggressively instead of the passive knight-trade. I would be in trouble with Qg5 (If 15. Bc1 then Qg6)",
+        "15. Qxd4 Qg5": "The queen came a bit too late.",
+        "16. f4 Qg6 17. Bh5": "17. Bh5!",
+        "17... Qg3": "17. ...Qg3??\nBest move was Qh7",
+        "18. Rf3": "18. Rf3! and the queen is trapped.\nBlack resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=51106",
+    "gameName": "Team match",
+    "players": "tamz29 (1571) vs. jutterback (1537)",
+    "opening": "English opening (A20)"
+}

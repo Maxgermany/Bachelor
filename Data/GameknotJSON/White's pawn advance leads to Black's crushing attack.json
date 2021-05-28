@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. e3": "a weak third move by White",
+        "3... Bg7 4. Nf3 O-O 5. Bd3 d6 6. h3": "to prevent Bg4, but wastes time",
+        "6... Nbd7 7. b4": "an unnecessary pawn move that wastes time and also creates tactical opportunites for Black's dark-square bishop",
+        "7... Re8 8. Bb2 e5 9. dxe5 dxe5 10. e4": "prevents the pawn fork, but now the light-square bishop is \"bad\"",
+        "10... a5 11. a3 axb4 12. axb4 Rxa1": "The rook exchange benefits black, who is ahead in development.",
+        "13. Bxa1 b6 14. Qc2 Bb7 15. O-O Qa8": "forks the bishop and e4-pawn",
+        "16. Nbd2": "discovered defense saves White's ass",
+        "16... Nh5 17. g3": "now h3 is weak",
+        "17... Qc8 18. Kg2 Bh6": "The bishop moves to a better diagonal.",
+        "19. Bc3 f6": "supports the e5 pawn, but opens up the a2-g8 diagonal for White's bishop",
+        "20. Ra1": "The a-file is of no use to anyone. All the action is on the kingside, where both kings are located.",
+        "20... Nf8 21. Nb3 Bc6 22. c5 Bd7 23. Ng1 Kh8": "saves a tempo, in case of Bc4+",
+        "24. f4": "White blunders",
+        "24... exf4 25. g4": "this allows the bishop sacrifice (not 25. ... Ng7? 26. Bxf6 +-)",
+        "25... Bxg4 26. hxg4 Qxg4+": "Now white's busted.",
+        "27. Kf1 Ng3+ 28. Kf2 Bg5 29. Nf3 Bh4 30. Nxh4 Qxh4 31. Kf3 Ne6 32. Qb2": "Qg2 is White's only hope.",
+        "32... Ng5+ 33. Kf2 Ng3xe4+ 34. Kf1 Qh3+ 35. Ke1 Nxc3+": "The discovered check wins more material.",
+        "36. Kd2 Nge4+ 37. Bxe4 Nxe4+ 38. Kc1 Qf1+": "White's king is getting cornered on the opposite side of the board.",
+        "39. Kc2 Qc4+ 40. Kb1 Rd8 41. cxb6": "White has 5 out of 6 pieces on the b-file and is in zugzwang.",
+        "41... Nc3+ 42. Qxc3 Qxc3 43. bxc7 Qxb3+ 44. Kc1 Rd1#": "putting White in his grave"
+    },
+    "url": "https://gameknot.com/annotation.pl/whites-pawn-advance-leads-to-blacks-crushing-attack?gm=47451",
+    "gameName": "White's pawn advance leads to Black's crushing attack",
+    "players": "buffalo  vs. dsfei ",
+    "opening": "King's Indian defence (E60)"
+}

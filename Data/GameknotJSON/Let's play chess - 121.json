@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 c5": "I've been experimenting with this Franco-Benoni setup.  Against 3.Nf3, it often turns into a Taimanov Sicilian.  Against 3.d5 it takes on more of a Benoni character.",
+        "3. d5 exd5 4. exd5 d6 5. Nc3 Nf6 6. Bg5 Be7 7. Nf3 O-O 8. Bd3": "White's development is easy.  Black's Queenside usually takes some time to untangle.",
+        "8... a6 9. O-O b5 10. Ne2 c4 11. Bxf6": "White has to remove the guard of the e4 square to avoid losing a piece.",
+        "11... Bxf6 12. Be4 Bxb2 13. Rb1 Ba3": "I thought about Bf6 also.  Ba3 seems like it puts the B out of play, but it also prevents a4 and protects d6.",
+        "14. Ng3": "I was expecting Nfd5 here.  It would have centralized the f-N and given the Be5 an escape square.",
+        "14... f5": "This wins material at the cost of compromising King safety a little bit.",
+        "15. Bxf5 Bxf5 16. Nxf5 Rxf5 17. Qd4 Nd7": "Black finally gets the last piece developed to a useful square--on move 17.  However, Black also has a significant material advantage.",
+        "18. Qc3 Bc5 19. Nd4": "I was expecting something like a4 here.  While Nd4 is on a good square, it is a loose piece.  (It is attacked one time and only protected one time.)  Black can pin it and apply more pressure.",
+        "19... Qf6 20. Rbd1": "Ne2 here would drop the d5 pawn, but would protect the Queen.  This move allows the pressure to build.",
+        "20... Rxd5": "Now the Nd4 has three attackers and only two defenders.",
+        "21. Qe3 Rxd4 22. Rxd4 Bxd4": "White has dropped a second piece.",
+        "23. Qe4": "Quietly threatening the Ra8.",
+        "23... Rf8 24. Qe2 Bc5": "The B finally comes back to a better square.  Black can now take time to consolidate and prepare a winning finish.  The material deficit of two minor pieces and a pawn should be too large to overcome unless White has some kind of direct attack on the King.  Once Black secures his King, the win should be easy.  White must have agreed and resigned here."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=63458",
+    "gameName": "Let's play chess",
+    "players": "cdevine (1672) vs. mmoody95 (1860)",
+    "opening": "French defence (C00)"
+}

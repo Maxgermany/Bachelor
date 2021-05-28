@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+": "The Traxler Counter-Attack - one of the sharpest openings in chess. The variations are still 'unclear' in many lines - despite all the software available nowadays for analysis. It is a particularly dangerous weapon in over-the-board tournament games; provided Black is prepared to specialize in its use. I've included the game here so that I can link to it in my blog.",
+        "6. Kxf2": "A bit risky: However, this was an unrated game and was more like a discussion. Safer is 6.Kf1.",
+        "6... Nxe4+ 7. Kg1": "Other moves have been tried and each brings White unique problems but which all share the a common theme - the exposed nature of the king.",
+        "7... Qh4 8. g3 Nxg3 9. Nxh8": "In the Traxler - it's not about material - its all about tempo and space - or the lack of it.",
+        "9... d5": "Again - tempo: Black wants to 'clear the decks' of any driftwood. He need the c8 bishop and the remaining rook to join the attack without further delay - absolutely nothing else matters. If he dithers for even a single move - then White will consolidate - perhaps giving back a little of the material - but will definitely win. ",
+        "10. Qf3": "But White also is well aware of the real agenda and so he also doesn't miss a chance to develop a piece.",
+        "10... Qd4+ 11. Qe3 Nxh1": "The queens are destined to disappear and Black is forced to recoup some of the material.",
+        "12. Qxd4 Nxd4 13. Bb3": "13.Bxd5 would lead to still further complications because after 13...Nxc2 14.Nf7 Black is not obliged to immediately capture the a1 rook",
+        "13... Bh3 14. Na3": "A critical decision. On the positive side, Na3 develops a piece in a position where this is clearly a major priority. On the other hand, it appears to be insufficient: The game continuation suggests that Black is beyond equality and may even already hold a telling advantage.",
+        "14... Nxb3 15. axb3 Kd7": "[!] Castling queen-side achieves a similar result [bringing the a8 rook into the game] but is not just as strong because the king on c8 would be further removed from the action. Black needs every single piece involved in the game and so the text is strongest. The e7 square is avoided because of a potential tempo-gaining check by a later Bg5.",
+        "16. d3 Rf8": "[!] On another internet site an analyst only considers 16...Rxh8. but again - the Traxler is all about tempo. Getting the rook to the f-file at once is, I think, stronger than pausing to pick up the piece.",
+        "17. Be3 d4": "And from this point onwards, White's problems increase: Black's compensation includes extra pawns and since he already has a bishop controlling the light squares, the pawns do a very good complimentary job with the central dark squares.",
+        "18. Nc4": "[!] This is the best chance - but it is, I think, already too late.",
+        "18... dxe3 19. Nxe5+ Ke6": "And so the king insists on getting involved as well.",
+        "20. Nhf7 Nf2": "As luck would have it - the knight which seemed all but doomed - now escapes.",
+        "21. Re1 Ng4 22. Nxg4 Bxg4 23. Ng5+ Ke5 24. h3 Bf5": "White's bad luck continues: Taking the e3 pawn runs into Kf4 attacking both rook and knight.",
+        "25. Kg2 Rf6": "Increasing the scope of the rook still further.",
+        "26. Nf3+ Kf4 27. Ng1": "At this point White offered to resign but sportingly allowed a nice finish. You see, these two pieces - White's g1 knight and Black's queen's rook - have been mortal enemies in the Traxler for a very long time: The knight began its journey from g1 and captured the rook's colleague some time ago and has now returned home again. But guess who is waiting to meet him. ",
+        "27... Rg6+ 28. Kh2 Rxg1": "Not forced and not even the best move - but I think the best ending to this particular 'story'.Black resigned. \nIf White recaptures with the rook then after 29...e2 30.Kg2 it is even possible to give up Black's last remaining piece with 30...Bxh3+ 31.Kxh3 Kf3 and, after the rook is given up for the pawn, Black will win any resulting king and pawn ending."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-jackdaw1?gm=34280",
+    "gameName": "Challenge from jackdaw1",
+    "players": "zvardon (2034) vs. jackdaw1 (1954)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

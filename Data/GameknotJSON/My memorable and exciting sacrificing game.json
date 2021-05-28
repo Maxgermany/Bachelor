@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O": "A standard Dragon position of the d6 Open Sicilian. This opening is well known for being one of the most aggressive and crazy openings in chess theory.",
+        "8. Bc4": "!? A different move order. Normal is 8. Qd2.",
+        "8... Nc6 9. Qd2 Bd7 10. O-O-O Ne5": "Another variation is 10...Qa5 11.Bb3 Rfc8 12.h4, adopted by Dragon exponent Christopher Ward.",
+        "11. Bb3 Rc8 12. h4 Nc4": "More common is 12...h5 13.Bg5 Rc5.",
+        "13. Bxc4 Rxc4 14. Nce2": "!?!? Totally unknown variation in the Dragon. White usually sacs a pawn after 14.h5 Nxh5 15.g4 Nf6 and White has the solid options 16.Kb1, 16.Nb3 and 16.Nde2, or the aggresive options 16.Bh6 and 16.e5, however my coach has a materialistic mindset and did not want to sac the pawn.",
+        "14... Re8": "To prevent the exchange of dark-squared bishops.",
+        "15. Bh6 Bh8 16. h5 Nxh5 17. g4": "?! The sac of the pawn was good, but this move is not that accurate. Perhaps 17.Rxh5 Bxd4 18.Nxd4 e5 was better.",
+        "17... Nf6 18. Bg5 Nxg4": "!?!? The first sacrifice. 18...e5 19.Nb3 Qc7 was much safer, but I wanted to spice things up and realised this idea was still a plausible way to complicate matters.",
+        "19. fxg4 Bxg4 20. Rdg1 Bh5": "?? But now the blunder. 20...Bxe2 21.Nxe2 Qb6 22.c3 Rxe4 leads to a much better and balanced position.",
+        "21. Nf5": "?!? 21.Rxh5 would have won on the spot, but this sacrifice is also very interesting. After this White definitely has the advantage.",
+        "21... Rxe4": "Also possible is 21...Qb6. Taking on f5 is suicide.",
+        "22. Rxh5": "!!? Another sacrifice! 22.Nh6+ was much safer, but after 22...Kf8 23.Qd5 Re6 24.Nf4 Qb6, Black has increased his hopes of defending the position.",
+        "22... Bxb2+": "!!!? A counter-sacrifice! If 23.Kxb2 then 23...Qb6 24.Ka1 Rxe2 and the board is on fire.",
+        "23. Kd1": "?! Accepting the sacrifice is probably better, but my coach decided to be cautious.",
+        "23... Qb6": "?! 23...Qc8 was neccessary to remove the pin of the e7-pawn, which then 24.Qd5 Qxf5 25.Qxf5 gxf5 26. Bf6+ is still better for White, but Black can still hope to hang on.",
+        "24. Be3 Qa6 25. Nc3 Re5": "? A mistake. 25...Re6 provides more resistance.",
+        "26. Bd4": "! The move that seals the advantage.",
+        "26... Bxc3 27. Bxc3": "1-0(?) I could have hoped to defend further with 27...Rxf5 28.Rxf5 Rc8, but the endgame should be winning for White. An exciting game of sacrifices and one of my most memorable games."
+    },
+    "url": "https://gameknot.com/annotation.pl/my-memorable-and-exciting-sacrificing-game?gm=45926",
+    "gameName": "My memorable and exciting sacrificing game",
+    "players": "Lee Chong Peng  vs. feathers8x8world ",
+    "opening": "Sicilian (B76), dragon, Yugoslav attack, 7...O-O"
+}

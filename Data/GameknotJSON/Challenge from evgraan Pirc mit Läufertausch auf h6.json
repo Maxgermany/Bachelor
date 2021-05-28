@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4": "This game is a training game out of the \"Chess Coaching Club\". evgraan started with 1.d4 but after \"discovering\" that we both are interested in the Pirc, we \"switched\" over to this opening. :-)",
+        "1... g6 2. e4 d6 3. Nc3 Nf6": "...and there we are!",
+        "4. Be3 Bg7 5. Qd2 c6": "brulla: I like this move. It opens the diagonal for the queen and covers the points d5 and b5 with the option of queen wing action. (13.07.06)",
+        "6. Bh6": "evgraan: Okay, playing aggressively for white, this opens some interesting options for black. This is in my opinion white's most direct (not necessarily best!) attempt at a quick advantage, but you can expect to have some opponents play this against you... \r\nwhat are the major idead behind white's move? What strength / weaknesses do you see in your own and white's game so far? (25.07.06)\r\n\r\nbrulla: Major idea: spoil black\u2019s short castling, start an attack on the king\u2019s wing. I think, black should go for the quenn\u2019s side attack.\r\nBlack weaknesses: queen\u2019s wing not developed\r\nWhite weaknesses: king\u2019s wing not developed, pawn b2 is not protected (could be in the next move, e.g. 0-0-0. (26.07.06)",
+        "6... Bxh6": "brulla:\r\nIn our game, I want to try the variant with taking the white bishop: 5\u2026.Bxh6 \r\nThis variant seems to be quite popular and I found an interesting game (Adams vs. Van Wely, European men\u2019s singles championship 1992), which Van Wely eventually lost but to my impression due to a calculation mistake, not because of the opening. I send you the notation via e-mail.\r\n(03.08.06)\r\n",
+        "7. Qxh6": "brulla: It's a bit weird to see the \"proud\" bishop g7 disappear. This game will be definitely a \"special Pirc\". ",
+        "7... Qa5": "brulla: As alternatives I see now 7...Qb6 and 7...Qa5. \r\nQb6 puts pressure on the points d4 and b2, white's 0-0-0 is the only move to relieve both. Here, when white makes no blunder, white seems to get quite a good play. Many players in chessbase played Qa5 in the next move after Qb6, which seems to me like a time lost.\r\nQa5 pins the knight to the king which can be relieved at once by 0-0-0 or Qd2. I opted for Qa5 because it seemed me to give more active chances, looking at the played master games, especially by Loek van Wely.",
+        "8. O-O-O": "evgraan: Interesting game... \r\nbrulla: Yeah, it is really very interesting. I have never played with Bxh6 before. Now, Be6 seems to lead to quite a tactical game... \r\n",
+        "8... Be6 9. Kb1": "Is this a sac? 9...Nxe4 10.Nxe4 Qxa2  11.Kc1 Qa1  12.Kd2 Qxb2 \r\nA) 13.Nf3 \r\nB) 13.Qg7\r\nThe big point of this game is for black to prove his attack will be successful. In the moment, white can only look on.",
+        "9... Nxe4 10. Nxe4 Qxa2+ 11. Kc1 Qa1+ 12. Kd2 Qxb2": "So far, so good. Black has material compensation (three pawns for a piece). Will this be enough?",
+        "13. Nf3 Nd7 14. Bd3 Qb4+ 15. Ke3 Nb6 16. Rda1": "Threatens to catch the black queen, but 16...Nd5  follows.",
+        "16... Nd5+ 17. Ke2": "Possible line: \r\n17...Bg4\r\nA) 18.h3\r\nb) 18.Qg7",
+        "17... Bg4 18. Qg7": "?! I am not sure if this is correct. Maybe the chase after the queen with 18.Rb1 Nc3  19.Nxc3 Qxc3 would have been better...\r\nevgraan: This one is shaping up to be a very interesting game!!! : )",
+        "18... Nf4+": "Now where will the white king go?\r\nbrulla: It is absolutely interesting!! Although I would say, it is no typical Pirc, is it? The Bg7 missing... nevertheless an interesting study of a sideline!",
+        "19. Kf1 Rf8 20. Nfg5 Ne6 21. Nxe6 fxe6": "The f-line is open.",
+        "22. f3 Qb2 23. Ke2": "Now white threatens to catch the queen with Rhb1. Also the bishop on g4 is attacked.\r\nBlack takes care of the bishop and must try to deviate the white queen from the diagonal a1-h8 in order to get the pawn on d4. Alternatives: exchange the queens or draw by move repetition.",
+        "23... Bf5 24. Rhb1 Rf7": "Unfortunately, the thought of exchanging the queens this way is wrong, because....",
+        "25. Qxf7+": "...the white queen takes a whole rook with her.",
+        "25... Kxf7 26. Rxb2 d5 27. Ng5+ Kg7 28. g4": "Black resigned: 1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-evgraan-pirc-mit-l-ufertausch-auf-h6?gm=897",
+    "gameName": "Challenge from evgraan: Pirc mit L\u00e4ufertausch auf h6",
+    "players": "evgraan (1818) vs. brulla (1649)",
+    "opening": "Modern defence (A40)"
+}

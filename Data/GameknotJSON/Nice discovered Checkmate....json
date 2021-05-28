@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "1.e4 as usual for me. I have never practiced Queen-pawn openings...",
+        "1... e5 2. f4": "Fischer said that the King's Gambit had been defeated. I might agree, since GM's rarely play it at high-level tournaments. But canuto and I are not GM's, so I always take a shot at it, when possible.",
+        "2... exf4": "Gambit accepted...",
+        "3. Nf3": "Many lover's of the King's Gambit often play 3.Bc4 (remember Anderssen's Immortal Game), but I've always despised being checked so early in the game, besides, Nf3 is played more often than Bc4 for a reason.",
+        "3... h6": "This move doesn't look very good, as it neglects development of black's pieces this early in the game.",
+        "4. Bc4": "Preparing to castle king-side, also to place a rook on f1 to exploit the soon to be opened f file.",
+        "4... Nf6 5. Nc3 d6 6. d4 Nh5": "Trying to defend the extra pawn at the expense of falling behind on piece development is never a good idea. Even worse moving a piece twice; black would've been better off with something like 6...g5",
+        "7. O-O": "Taking the king out of danger and reinforcing a future attack on the f file.",
+        "7... Be6": "Getting rid of one of the hostile attackers...",
+        "8. Bxe6 fxe6 9. Ne5": "! This might seem like a simple knight exchange, but accepting it wouldn't be a recommendable idea for black's position.",
+        "9... Nf6": "Black has really no good alternatives...",
+        "10. Ng6": "Eliminating the possibility of castling king-side (which wouldn't be a very good idea, anyway).",
+        "10... Rg8 11. Bxf4": "White pieces' movements flow naturally (LOL! Sorry, I couldn't resist).",
+        "11... Qd7 12. e5": "Getting rid of that protector knight on f6 will be the beginning of the end for black.",
+        "12... Nd5 13. Nxd5": "Finally... White's queen will be very dangerous on h5, on the very next move.",
+        "13... exd5 14. Qh5": "Black is now in real trouble.",
+        "14... Nc6": "If only that knight would've been moved there before (probably instead of 3...h6?).",
+        "15. exd6": "15.Nxf8 would've been better!! Black can now castle and be away from danger. White would still have advantage, though.",
+        "15... cxd6": "?? Sure black was losing, but this move seals the deal for a pretty combination...",
+        "16. Nxf8+": "!!",
+        "16... Kxf8": "Black could have resigned its queen in order to avoid the pretty mate that follows (black would still be losing badly, though)...",
+        "17. Bxd6#": "Sure, it's not something out of this world, but these kind of checkmates are always enjoyable to play!"
+    },
+    "url": "https://gameknot.com/annotation.pl/nice-discovered-checkmate?gm=18293",
+    "gameName": "Nice discovered Checkmate...",
+    "players": "sergeidave (1841) vs. canuto (1713)",
+    "opening": "KGA (C34), Becker defence"
+}

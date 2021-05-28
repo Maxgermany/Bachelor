@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Ruy Lopez",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Be7 5. O-O b5 6. Bb3 Nf6 7. Re1 Bb7 8. d3 d6 9. a4 Na5 10. c3": "Instead of c3 I probably should have done Ba2 to keep the bishop for a longer time.",
+        "10... Nxb3 11. Qxb3 Qc8": "Qc8?  I dont see a real significant reason why the opponent would do this move.\nEngine suggests Bc6.",
+        "12. Be3": "Here I play Be3 to develop the piece and reinforce the centre of the board.\nNonetheless I think 12. axb5 would be better.",
+        "12... O-O 13. Nbd2 c5 14. axb5 axb5 15. Rxa8 Qxa8 16. Qxb5 Ba6 17. Qb3 Bxd3 18. Bg5 h6": "The move makes some sense trying to a)get rid of the bishop or b)drive it back.\nThe engine claims this to be a mistake on blacks part:\n(\u2026 h6 19. Bxf6 Rb8 20. Bxe7 Rxb3 21. Nxb3 Bxe4 22. Nbd2 Bxf3 23. Nxf3).\n\n18. ... Rb8 is the best move here.  Chasing the white queen away.\n19. Qd1 would follow with Rxb2 and\n19. Qa3 being the best place if such a position had arised.",
+        "19. Bxf6 Bxf6": "Again Rb8 is more aggressive.",
+        "20. h3": "This move is a waste of time as has very little purpose at this moment.\n20. c4! traps the opponents bishop at d3 and gains a few points.",
+        "20... Rb8 21. Qa3 Qxa3 22. bxa3 Rb2 23. Ra1 Bg5": "Black should have avoided this and kept the bishop as it would be useful in the endgame (Nxg5 is a fair trade for white).\n\nA move like 23. ... Bd8 would allow it to find a place on the other side of the board where it would be a bigger threat against white.",
+        "24. Nxg5 hxg5 25. Nf3 f6 26. a4 Bxe4 27. a5 Bxf3": "Again here black should have kept the bishop.\nInstead do 27. ... Kf7 and bring the king closer to action.",
+        "28. gxf3 Rb7 29. Kf1 Kf7 30. Ke2 c4 31. Ra4 d5 32. Rb4 Ra7 33. Rb5 Ke6 34. Ke3": "White is already losing here and this move certainly doesn't help.\nRb6 would be a more clear and aggressive move.",
+        "34... Kd6 35. Kd2 Kc6 36. Rb6+ Kc5 37. Re6 Rxa5 38. Re7 Ra2+ 39. Ke3": "Black has a rather large advantage at this point.  Even the slightly better Ke1 wouldn't help.",
+        "39... d4+ 40. cxd4+": "40. ... exd4+ 41. Ke4 and white loses the Rook and the game.",
+        "40... exd4+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=36574",
+    "gameName": "Let's play chess",
+    "players": "chess_avenger (1458) vs. rinaldi (1511)",
+    "opening": "Ruy Lopez (C70)"
+}

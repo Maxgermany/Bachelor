@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "These are the first moves of the opening Philidor's Defence. It is a solid opening for Black, but it has the disadvantage of restricting the development of Black's dark-squared bishop.",
+        "3. Bc4 Bg4": "3. ... Nf6 would be a poor move here by Black as he then has to contend with 4. Ng5. Black's best defense is 4. ... d5, which wastes a move as he has already played 2. ... d6. Black should probably focus on getting his dark-squared bishop and knight on g8 out and moving before attacking White's pieces.",
+        "4. Nc3 g6": "Legall now played a combination of moves so amazing that it has been known by his name ever since.",
+        "5. Nxe5": "White's knight was seemingly pinned against his queen by Black's bishop, but Legall had calculated ahead. It is reputed that Legall accidentally touched his knight on f3 and immediately took his hand away from it. When reminded by Saint Brie that he now had to move the piece, Legall analysed the position before playing this move. To those unfamiliar with this game, it looks like the best move, under the circumstances, as White gets a pawn back for the loss of his queen. But that's not the reason at all.",
+        "5... Bxd1": "Black did not have to accept the sacrifice, as he could have played 5. ... Be6 and only have been a pawn down. Now, Legall displayed his brilliant strategy.",
+        "6. Bxf7+": "Black's king only has one place to go.",
+        "6... Ke7 7. Nd5#": "Black's king has been surrounded and checkmated by three of White's minor pieces. Legall's legacy is one that still lives on today. And after seeing this game, it's not hard to see why. If you wish to leave me a suggestion for an annotated game, or want to leave me feedback, please drop me a message. Your help is appreciated."
+    },
+    "url": "https://gameknot.com/annotation.pl/legall-saint-brie-paris-1750?gm=34203",
+    "gameName": "Legall-Saint Brie, Paris 1750",
+    "players": "Legall de Kermeur (no rating) vs. Saint Brie (no rating)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

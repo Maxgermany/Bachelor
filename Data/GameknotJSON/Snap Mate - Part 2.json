@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "Hi again everyone, it is time for Round 2 and I am black against that same opponent.  NN's rating took a tumble during our last game but at least I was judged on his 1603 rating!  Here we have a d4 opening.  This usually leads to some cramped positions in my camp.",
+        "1... Nf6 2. Bg5": "2. Bg5 - a Trompowsky attack - wow!",
+        "2... d5 3. Bxf6 exf6": "3. .......... exf6 - and now my kingside pawn structure is busted.",
+        "4. e3 Bd6 5. Bd3 c6 6. Nd2 f5": "6. ........... f5 - cuts off the enemy lsb's diagonal - I will be later backing up this pawn with g5 but first I continue to develop my pieces.",
+        "7. f4": "7. f4 - a stonewall - difficult to crack.",
+        "7... Be6 8. Ngf3 Nd7 9. O-O Nf6 10. Ne5 Bxe5 11. fxe5 Ne4": "11. ...... Ne4 - after developing my minor pieces an exchange of bishop for knight occurs and I find an outpost for my knight on e4.  White's pawns are also doubled, so quite an interesting central pattern here!",
+        "12. Rf4 Qe7 13. c4 Nxd2 14. Qxd2 g6": "14. ......... g6 - after an exchange of knights on d2 I cleared the way for castling and have now supported my foremost f pawn.  I am still keeping my options though on where would be the most appropriate location for Henry.",
+        "15. cxd5 Bxd5 16. b3 O-O": "16. ...... 0-0 - I finally decide that the kingside is the safer of the two locations - at least white does not have his dark squared bishop!",
+        "17. e4 fxe4 18. Bxe4 Bxe4 19. Rxe4 Rfe8": "19. .......... Rfe8 - after an exchange of minor pieces both sides have tidied up their pawn structures.  White has an impressive looking central pawn structure.  I decide to put both my rooks on the half-open d and e files to bear down on those pawns!",
+        "20. Rae1 Rad8 21. Qe3 Qf8 22. Qd3 Re6 23. a4": "23. a4 - after a series of seemingly aimless shunting of major pieces we have a white pawn move, trying to undermine my queenside pawn structure perhaps?",
+        "23... a6 24. h4 Rde8 25. d5 cxd5 26. Qxd5 Qe7": "26. .......... Qe7 - after an exchange of pawns, Glenda moves to e7 to defend my b7 pawn - Hail Glenda the Defender!",
+        "27. b4 Rd8 28. Qa5 Qd7 29. b5 axb5 30. axb5": "30. axb5 - another exchange of pawns takes place and I now start to control important files.",
+        "30... Qc8 31. b6 Qc6 32. Rb4 Rd5": "32. ........ Rd5 - suddenly my pieces become active.  The Wicked Witch of the West lands a check on a8 but I block it with my e rook.",
+        "33. Qa8+ Re8 34. Qa4 Qxa4 35. Rxa4 Rdxe5 36. Rxe5 Rxe5 37. Ra8+ Kg7": "37. ........... Kg7 - over the last few moves a plethora of exchanges have left me in a R   P ending a pawn up.  Henry sidestepps a rook check and I drop my rook back next move to defend my b pawn.  Can I convert this advantage?  Read on ....",
+        "38. Ra7 Re7 39. Kf2 f5 40. Kf3 Kf6": "40. ...... Kf6 - both kings centralise themselves now we are in an endgame.",
+        "41. g4 fxg4+ 42. Kxg4 h6 43. Kg3": "43. Kg3 - white king is forced backwards.",
+        "43... Ke5 44. Kg4 Kd5 45. Kf4 Kc6 46. Ra8 Kxb6": "46. .......... Kxb6 - over the last few moves, Henry has wended his way over to the white pawn on b6 and has a nice tasty meal.  I then have an awkward decision to make about my kingside pawns.  Although I have a 2-1 majority on the kingside, can I hold these pawns?  I decide to play safe and get rid of them for the remaining white pawn and try and shepherd the b7 pawn down to b1 to morph into Glenda.  White may, however decide to give up his rook for the pawn and I may have an exercise in forcing mate with K & R v bare king.  Do I accomplish this?  Read on .....",
+        "47. Rg8 g5+ 48. hxg5 hxg5+ 49. Rxg5 Re6 50. Rg1 Kc7 51. Rb1 Rc6": "51. ........ Rc6  - I try and shield Henry from annoying checks and succeed in moving my b pawn up one square on move 52.",
+        "52. Ke5 b6 53. Kd5 Rc5+ 54. Kd4 Kc6 55. Rb3 Rd5+ 56. Kc4 b5+": "56. .......... the black pawn moves one square closer to his goal by giving check.",
+        "57. Kb4 Rd4+": "57. ......... Rd4  - white has room to go wrong here.  He could be highly tempted to play Ka5?? here and suddenly find himself in a Mating Net.  Remember, a rook is mating material, although like Glenda, he will need assistance!",
+        "58. Ka5": "58. Ka5??? - Kc3 would have left me with a lot of work to do to convert the victory, even Ka3 would have been better, but now my opponent ...........",
+        "58... Ra4#": "58. .......... Ra4#  ............... finds himself down a king!!!\r\n\r\nHope you have had a good read.  Cheers - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/snap-mate-part-2?gm=19586",
+    "gameName": "Snap Mate - Part 2",
+    "players": "NN (1529) vs. jstevens1 (1712)",
+    "opening": "Trompovsky attack (Ruth, Opovcensky opening) (A45)"
+}

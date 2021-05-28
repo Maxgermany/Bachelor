@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. a4 O-O 7. Bg5 h6 8. Bh4": "Game DB shows g5, but I have done well against people by taking that pawn with the knight. So I might save that for later. d6 to develop",
+        "8... d6 9. Bd5": "Okay, this is still somewhat of a book play. Similar to another game I am playing. A GK game shows Ne7, with the bishop retreating but I don't like because of BxN which forces the trade. Although I could get good play with the open file, he still has not committed to castling. So it could wind up destroying the king side with no compensating attack.\r\n\r\nBe3, Bg4 Think I prefer Be3",
+        "9... Be6 10. c4": "Bb5, Bd5, BxB\r\n\r\nI like BxB, allows knight to move without having to protect b pawn. \r\n\r\nAfter trade move Knight to d4",
+        "10... Bxd5 11. exd5": "Like the previous annotation said, Nd4, nice little post for the knight. If he trades, the bishop in that spot is nice as well.",
+        "11... Nd4 12. O-O": "NxN followed by g5\r\n\r\nNf5, c6, Think I like Nf5 best, get rid of that pesky bishop.",
+        "12... Nf5 13. Nbd2": "Get rid of the Bishop",
+        "13... Nxh4 14. Nxh4": "Nxd5 like that, did not anticipate it but we take what we can get.\r\n\r\nFollowed by a nice place for my knight at f4 attacking his backwards pawn (Knight can escape to b4 if attacked.)\r\n\r\n14. Nxh4 Nxd5 \r\n15. cxd5 Qxh4 \r\n16. g3 Qd4 \r\n\r\n14. Nxh4 Nxd5 \r\n15. g3 Nb4 (this might be the better spot for the knight even if he just retreats the knight)\r\n\r\nOr this line\r\n14. Nxh4 Nxd5 \r\n15. Ndf3 Nf4 \r\n16. g3 Nh3+ \r\n17. Kg2 Nxf2 \r\n18. Rxf2 Bxf2 \r\n19. Kxf2 Qf6 \r\n\r\n",
+        "14... Nxd5 15. cxd5": "According to plan, QxN",
+        "15... Qxh4 16. Nf3": "Queen under attack, expected but thought it would be with a different piece.\r\n\r\nQb4 No takes Queen out of play\r\nQf6 Can push pawn and have an attack on knight and b pawn, but that would make his pawns better.\r\nQg4 Ok thought he could take pawn with Knight for a double attack on my queen but can just trade queens then take the knight\r\n\r\nLike Qf6 best.",
+        "16... Qf6 17. a5": "Kind of wierd. Maybe looking to get the rook out\r\n\r\nQf4 looking to park on b file, maybe",
+        "17... Qf4 18. Ra4": "Knew he was moving rook out so why did i put the queen there.\r\n\r\nQf5 if Nh4 Then Qd7",
+        "18... Qf5 19. Re1": "fR-e8 looks good because if d4 then exd4 and RxR is check and then pick of other pawn.",
+        "19... Rfe8 20. d4": "exd4 According to plan",
+        "20... exd4 21. b4": "21. b4 Ba7 \r\n22. Nxd4 Rxe1+ \r\n23. Qxe1 Bxd4 \r\n",
+        "21... Ba7 22. Ra3": "22. Ra3 Rxe1+ \r\n23. Qxe1 Qxd5 \r\n\r\ntakes the extra piece off the d pawn, then c5 works.",
+        "22... Rxe1+ 23. Qxe1": "Qxd5 according to plan.",
+        "23... Qxd5 24. Rd3 c5 25. bxc5": "Don't see anything wrong with retaking.",
+        "25... dxc5 26. Nd2": "c4 looks good, if Ra3 then d3 because will be easier to then advance c pawn, and it opens up the bishop.",
+        "26... c4 27. Rg3": "Still going to do d3, looks good\r\n\r\nor qxa5, maybe next",
+        "27... d3 28. Qe4": "Trade queens and then put rook on e file",
+        "28... Qxe4 29. Nxe4": "Rook on efile does not work right now.\r\n\r\nNf6+ and I lose my rook.\r\n\r\nBd4 then Re8. Bd4 also helps support the pawn push",
+        "29... Bd4 30. Rf3": "Re8 Threatens mate if he moves Knight. Puts Knight on a great open file. Will help support the pawn push",
+        "30... Re8 31. Ng3": "Okay he moved the knight but it looks like pushng the pawn will work the best.",
+        "31... d2 32. h3": "Okay, nothing wrong with getting a queen.",
+        "32... d1=Q+ 33. Kh2 Qxf3 34. gxf3 c3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-guerillapawn?gm=35741",
+    "gameName": "Challenge from guerillapawn",
+    "players": "guerillapawn (1493) vs. 4boys (1539)",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. c4 e5 2. g3 Nc6 3. Nc3 Nf6 4. Bg2 Bc5 5. Nf3 O-O 6. O-O a6 7. d3 Re8 8. a3 Bf8 9. Nd5 Nxd5 10. cxd5 Nb8 11. b4 d6 12. Bb2 Nd7 13. Rc1 Nb6": "I thought black's best plan was g6, f5, Bg7, Nf6.  It looks to be as though c7 and the c-file are a permanent problem, and activity in the centre & k-side is the natural way to distract white from exploiting it.  And then there is the Bf8, which never emerges again, so putting it on g7 also looks necessary and natural.",
+        "14. Nd2 Bd7 15. Nc4 Na4 16. Ba1 b5": "I thought that was horrible - the c-file is further weakened.",
+        "17. Na5 Qb8 18. Nc6 Qb7 19. e4": "I am beginning to think that black is getting tied down on the q-side, so an advance in the centre and k-side will put him under a lot of pressure.",
+        "19... f6": "I can't see why f5 isn't better.  Where else does counter-play come from?",
+        "20. d4 Nb6 21. Na5 Qb8 22. f4": "Typical English Opening space advantage.  White can attack on both wings and black has to find room to manoeuvre his pieces in order to defend.",
+        "22... Nc4 23. Nxc4 bxc4 24. Rf2": "Partly to take on c4 without allowing Bb5, partly with an eye on opening the g-file. partly wondering if RR&Q on the f-file will be the way to break through.",
+        "24... Qb6": "Absolutely: the g1-a7 diagonal proves to be important.",
+        "25. Rxc4 exf4 26. gxf4 c5 27. dxc6 e.p. Bxc6 28. d5 Bb5 29. Rc3": "With Qg4 and Rg3 in mind.",
+        "29... Rac8 30. Rg3": "I had a long look at this position to see what the attacking and defending ideas were.  It seemed to me that black has two main tries.  When the Q goes to g4 he should be thinking about Rc4 to pressure e4 and Rc2 to exploit the pin on the rook.  But he also needs to be able to play Qd8 which defends f6 and also enables Bd7 (after Bh3).  The rook can also operate from c7 to help defend the king.  Happily for me black cannot employ all these ideas at once, so it is a question of the most accurate move order to advance my attack.",
+        "30... Be7": "That can't be right, as it closes the 7th rank and keeps the Q away from f6.  But I cannot suggest a move that keeps white out.",
+        "31. Bd4": "Now the Q cannot defend f6 I can close the annoying g1-a7 diagonal, taking away the idea of Rc2.  I didn't want to play this earlier as I didn't want to drive the Q to its best square, d8.",
+        "31... Qb8": "But not it is out of the game.  At least it should have gone to the 7th rank.",
+        "32. Bh3": "All my pieces can now join in the attack while most of black's are spectators.  It position is strategically overwhelming.",
+        "32... Rcd8 33. Be6+ Kh8 34. Qg4 Bf8": "There is no salvation.",
+        "35. Qg6": "Crushing.  But almost everything wins here.",
+        "35... Rxe6 36. Rh3 h6 37. Rxh6+ gxh6 38. Rg2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=37105",
+    "gameName": "Team match",
+    "players": "olliek (1822) vs. mezcal (1760)",
+    "opening": "English opening (A20)"
+}

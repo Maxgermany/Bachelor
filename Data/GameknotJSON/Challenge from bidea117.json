@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 Bb4+ 4. c3 exd4": "Probably should have moved the bishop out of danger.",
+        "5. cxb4 Nxb4": "Moving the knight left the pawn unprotected.",
+        "6. Nxd4 Ne7": "By moving the knight (Ne7), black's queen is blocked.",
+        "7. Bc4": "Moving the bishop opened the way to castle for white.",
+        "7... Ned5": "d5 is protected by a pawn and a bishop. White will gladly trade a pawn for a knight.",
+        "8. exd5 d6 9. O-O Qf6 10. Qe1+": "Qe1 forks the king and the knight, gobbling the knight.",
+        "10... Kd7 11. Qxb4 Qxd4": "It was a trade, but since white is ahead, trades are to his advantage.",
+        "12. Nc3 Qg4 13. Bd2 Qh3": "Ooops. Forgot about the pawn. Gave the queen away.",
+        "14. gxh3 Re8": "The rest of the game is pretty sure for white.",
+        "15. Rfe1 a6 16. Re3 Ra7 17. Rae1 f6 18. Qa4+ Kd8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-bidea117?gm=8472",
+    "gameName": "Challenge from bidea117",
+    "players": "mibsam (1488) vs. bidea117 (1012)",
+    "opening": "Scotch opening (C44)"
+}

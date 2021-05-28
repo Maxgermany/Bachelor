@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4": "the exchange.",
+        "3. Nc3 c6 4. a4 a5": "not strong better is nf6.",
+        "5. e3 e6 6. Bxc4 Bb4 7. Bd2 Nf6 8. Nf3 O-O 9. O-O Nbd7 10. Qc2 h6": "dont know why?",
+        "11. Ne4 Bxd2 12. Nxf6+ Qxf6 13. Nxd2 b6 14. Ne4 Qg6 15. Bd3 f5 16. Qxc6 fxe4 17. Bxe4": "good move!!",
+        "17... Qf6 18. Qxa8 e5 19. Qd5+ Kh8 20. Rac1 exd4 21. exd4 Ba6": "this losses.",
+        "22. Qxd7 Bxf1 23. Rxf1 Rd8 24. Qf5 Qxf5 25. Bxf5 Rxd4 26. Rc1 Rd8 27. Rc8": "resigns because he is down."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=43624",
+    "gameName": "Chess game",
+    "players": "water123 (1582) vs. prampe (1640)",
+    "opening": "Queen's gambit accepted (D20)"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3": "White intends to play P-Q4, getting a powerful Pawn center and driving away Black's pieces from that sector.",
+        "4... Qe7": "This early Queen move is permissible because it does not expose Black's Queen to attack and because it is part of a plan to maintain Black's hold on the center.",
+        "5. O-O d6 6. d4 Bb6 7. a4": "This move threatens 8 P-R5 winning material. If 8... BxRP? 9 P-Q5 N-N1 10 RxB, or if 8 ,,,NxRP 9 RxN BxR 10 Q-R4 ch and 11 QxB.",
+        "7... a6 8. a5 Ba7": "Now 8... NxRP could not be countered by 9 RxN: 9... BxR 10 Q-R4 ch P-QN4 11 QxB PxB.",
+        "9. h3": "To prevent ... B-N5 pinning the Knight.",
+        "9... Nf6": "White should now play 10 R-K1 and then develop his Q side.",
+        "10. dxe5": "A very bad move. It opens the diagonal of the Black KB, now trained directly on the White King, and lets the Black Knight reach a splendid post at K4.",
+        "10... Nxe5 11. Nxe5": "Rather than retreat his B, White exchanges. But the recapture beautifully centralizes the Black Queen.",
+        "11... Qxe5 12. Nd2 Bxh3": "To break up the Pawns protecting White's King.",
+        "13. gxh3 Qg3+": "Made possible by White's 10th move.",
+        "14. Kh1 Qxh3+ 15. Kg1 Ng4": "Threatening ...Q-R7 mate. A lesson in what happens when the Pawn wall in front of the King is destroyed.",
+        "16. Nf3 Qg3+ 17. Kh1 Bxf2": "White resigns. The threat is 18... Q-R6 ch 19 N-R2 QxN mate. If 18 RxB NxR mate. If 18 B-B4 QxB White is three Pawns down and has no good way to stop 19... Q-N6."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-berlin-1907?gm=52042",
+    "gameName": "Tournament game, Berlin 1907",
+    "players": "Theodor von Scheve  vs. Richard Teichmann ",
+    "opening": "Giuoco Piano (C53), close variation"
+}

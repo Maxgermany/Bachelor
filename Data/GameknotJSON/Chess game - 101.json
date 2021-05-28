@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Bc5 3. Qg4": "This move took 10 mins as he was looking to pick up that free pawn",
+        "3... Nf6": "So I let him have it for \"free\"",
+        "4. Qf3": "He didn't like the free pawn due to the bishop sac on F2 (4. Qxg7 Bxf2 5. Kxf2 Rg8 6. Qh6 Ng4!)",
+        "4... d6 5. h3 Be6 6. Na4 Nbd7 7. c4 c6 8. Nc3": "I was happy here as I was ahead on development and wanted to chase his only two active pieces",
+        "8... Bd4 9. Bd3": "At this stage I should have doubled his pawns and brought the knight to c5 maybe?",
+        "9... O-O 10. Nge2 Bxc3 11. Nxc3 a6": "Preparing to push queenside ",
+        "12. b3 b5 13. O-O Nc5 14. Re1 b4 15. Ne2 Qc7": "Maybe d5 would have opened up things better.....",
+        "16. Ng3 Rad8 17. Bc2 h6": "In anticipation of d3",
+        "18. d3 Nh7": "Almost 20 moves in and still no captures, so I needed space",
+        "19. Be3 Nd7 20. Bd2": "This looked like alot of messing",
+        "20... a5 21. Nf5": "Now I was worried about a sac on h6",
+        "21... Bxf5 22. Qxf5 Nc5 23. Qf3 Ne6 24. Qg3 Kh8 25. Be3 Qe7 26. Rad1 Rfg8 27. Ref1 c5 28. f4": "I didn't want to clear the path for the white bishop to h7 so I threatened the K,Q fork  ",
+        "28... Nd4 29. Bxd4 cxd4 30. fxe5 dxe5 31. Rd2 f6 32. Rdf2 Ng5 33. Qg4 Qd7": "I saw that Niall had won so I thought offered a draw here in this now very stagnant game....",
+        "34. Bd1": "Which my opponent refused as he probably fancied having his bishop on d5 at some stage",
+        "34... Qe7 35. Qh5": "We're both close to 10 mins each here...",
+        "35... Kh7 36. Qh4 Rd6 37. Qg4 Rf8 38. Qe2": "Now it's time wasting moves..",
+        "38... Ne6 39. g3 Ng5 40. Kh2 Qe6 41. Qg4 Qe7": "We both had 4 minutes left and he took the open draw offer knowing that it meant the team lost but he wasn't confident of getting anything out of it."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=55951",
+    "gameName": "Chess game",
+    "players": "PF Rathmines  vs. BD Curragh ",
+    "opening": "Vienna game (C25)"
+}

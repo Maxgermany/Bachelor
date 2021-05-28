@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. c4": "This was an odd game in many ways... Nothing much happened from the opening, then came the move of the \"wrong\" Rook, and suddenly we ended up with a classical mate that I guess all chess-players dreams about.",
+        "1... Nf6 2. Nc3 e6 3. e3 d5 4. d4 c6": "From the English Opening we have reached the Semi-Slav. It normally calls for slow maneouvering, and has been very popular in top-level chess for a while.",
+        "5. Nf3 a6 6. Bd2": "Maybe this development of the \"bad\" Bishop is too early. I would rather prepare for the castling with Bd3.",
+        "6... c5": "Looks a bit strange, since Black has lost a tempo with c7-c6 and now c5. But White hasn\u00b4t gained anything from the opening, and there are no immediate threats. Maybe we could call it a \"centre-counter\" !",
+        "7. a3 Nc6 8. dxc5 Bxc5 9. cxd5 Nxd5 10. b4 Be7 11. Bc4": "For some moves Black could have chosen the isolated pawn on d5 instead. It can be strong - or just a looser. Mostly it depends on wether it gets blockaded efficiently or not. In this case I think the two White Knights will do what it takes, so I decide to retreat my own Knight and keep the game in balance.",
+        "11... Nf6 12. O-O b5 13. Ba2 Bb7 14. Qb3 O-O 15. Rfd1": "The wrong Rook! I have read so many commentaries by Danish GM Bent Larsen on this theme... In this case it is not the Rook but the plan which is the problem. White wants to answer 15. Qc7 with 16. Rac1, so the Black Queen only has the active goal at b6 for the moment. The plan then is to chase the Black Queen with e4 and Be3, but the lack of support of the Pawn on f2 becomes critical.",
+        "15... Qb6 16. e4 Ng4": "This is the point. After 17. Be1 Bf6 Black has a very good middle-game. Whites next two moves doesn\u00b4t make much sense, but leads to what could have been a beautiful finish.",
+        "17. Bf4 Nxf2 18. Rde1 Nh3+": "Of course I hoped for 19. Kh1 Qg1 !! 20. Rxg1 (or Nxg1) Nf2#... But my opponent decided to resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/wanttajas-buddy-list-games-no-7?gm=1188",
+    "gameName": "\twanttaja's buddy list games no 7",
+    "players": "luisbravo (1768) vs. ybrevo (1953)",
+    "opening": "English opening (A17)"
+}

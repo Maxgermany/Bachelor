@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. b4": "!? Fischer si prendeva ogni tanto qualche libert\u00e0 in simultanea, come questo uso dell'apertura Sokolsky...\n",
+        "1... e5 2. Bb2 f6": "!? Continuazione tra le pi\u00f9 rispettabili dal punto di vista pratico, se non si vuole un confronto teorico sulla variante principale 2...Axb4 3.Axe5\n",
+        "3. e4": "!? Conosciuto come il Gambetto Sokolsy, sacrifica un pedone per un'iniziativa non banale, ma che il Nero pu\u00f2 contenere a gioco corretto\nAlternative variation: 3.b5 [\u00e8 giocabilissima, ma porta in tutt'altre direzioni] \n",
+        "3... Bxb4 4. Bc4": "! la mossa principale del gambetto, con l'idea di proseguire con f4 ed eventualmente f5\n",
+        "4... Ne7 5. Qh5+ Ng6": "Alternative variation: 5...g6 [\u00e8 preferita dalla teoria, anche se non sempre va tutto per il verso giusto...] 6.Qh4 Nec6 7.f4 Bf8 [?!] 8.Nf3 Na5 [?!] 9.fxe5 Nxc4 10.exf6 Bg7 [??] ( 10...Nd6 [! unica, con solo leggero vantaggio del Bianco] ) 11.O-O [!! 1-0, Kolesnikov Rudolf (UKR) 2025  - Zinovatnij, corr. 1970 Ch URS (corr.)] \n",
+        "6. f4 exf4 7. Nf3": "Alternative variation: 7.a3 [!?] d5 8.Bxd5 c6 9.Bb3 Qa5 [?] 10.e5 [!] Be7 [?] 11.Bf7+ [!! 1-0, Katalymov Boris N (KAZ) 2367  - Ilivitzki Georgi A (RUS) 2380 , Frunze 1959 Tournament (Cand.to Masters)] \n",
+        "7... Nc6 8. Nc3": "forse non \u00e8 la migliore, ma poco importa...\n",
+        "8... Bxc3 9. Bxc3 d6 10. Nh4 Nce7": "?!\nAlternative variation: 10...Qe7 [!?] \n",
+        "11. Nf5": "?!\nAlternative variation: 11.O-O [! \u00e8 la preferita dal silicio] \n",
+        "11... Kf8": "?!\nAlternative variation: 11...d5 [! era una difesa migliore, con il possibile seguito] 12.Nxe7 Qxe7 13.Qxd5 c6 14.Qd4 b5 15.Bd3 Ne5 16.Bb4 [con sicuro compenso per il materiale sacrificato, ma niente di pi\u00f9] \n",
+        "12. O-O": "credo che in una partita normale il grande Fischer avrebbe sicuramente visto la pi\u00f9 forte\nAlternative variation: 12.Bxf6 [!] Bxf5 ( 12...gxf6 [?] 13.Qh6+ [+-] ) 13.exf5 d5 14.Bd3 gxf6 15.fxg6 [con forte attacco] \n",
+        "12... Qe8": "? l'errore fatale, , che toglie una casa di fuga al Re Nero\nAlternative variation: 12...Qd7 [!? era necessaria, con un possibile seguito] 13.Nh4 Qg4 14.Nxg6+ Qxg6 15.Qf3 Qg5 [e ci sono buone possibilit\u00e0 di difesa] \n",
+        "13. Bxf6": "!\n",
+        "13... Bxf5": "Alternative variation: 13...gxf6 [??] 14.Qh6# \nAlternative variation: 13...Nxf5 14.exf5 Qc6 15.fxg6 Qxc4 16.Qh6 [!! con attacco imparabile] gxh6 [?] ( 16...Qg8 17.Bxg7+ Qxg7 18.Qxf4+ [+-] ) 17.g7+ [+-] \n",
+        "14. exf5 d5": "Alternative variation: 14...Ng8 [era forse pi\u00f9 resistente, ma non avrebbe cambiato il risultato] 15.Rae1 Ne5 16.Bxg7+ Kxg7 17.Qg5+ Kf8 18.f6 [+- con forte attacco] \n",
+        "15. fxg6 gxf6 16. Qh6+ Kg8 17. g7": "+- il Nero perde materiale e la sua posizione \u00e8 senza speranza\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/simultan-cleveland-usa?gm=67539",
+    "gameName": "Simultan, Cleveland (USA)",
+    "players": "Fischer Robert J (USA)  vs. Gloger J ",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

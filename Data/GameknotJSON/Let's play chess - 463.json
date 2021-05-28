@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "si inizia",
+        "1... e5 2. Bc4 Bc5": "la posizione..",
+        "3. Nf3 d6 4. O-O": "subito si arrocca?",
+        "4... Nf6 5. d3 O-O": "2\u00b0 arrocco",
+        "6. c3": "c3?",
+        "6... Nc6": "i cavalli neri sono in gioco!",
+        "7. d4 exd4 8. cxd4": "1\u00b0 scambio",
+        "8... Bb6 9. d5": "attacco!...",
+        "9... Ne7": "...contro difesa!",
+        "10. Qd3 Bd7 11. Bg5 Ng6 12. Nc3 Bg4 13. Rae1 a6 14. Qd2 Bxf3 15. g3 Bh5": "non mangi?",
+        "16. Be2 Qe7 17. Bxh5": "che errore!",
+        "17... h6 18. Bxg6 hxg5": "scambi!",
+        "19. Qxg5 fxg6 20. e5 dxe5 21. Rxe5 Qf7 22. Rfe1 Ne4 23. Nxe4 Bxf2+ 24. Nxf2 Qxf2+ 25. Kh1 b5": "offer draw!",
+        "26. Qxg6 Rad8 27. Rg1 Qf3+ 28. Rg2 Qf1+ 29. Rg1 Qf3+": "patta!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=41053",
+    "gameName": "Let's play chess",
+    "players": "robert2010 (1250) vs. niccopig (1186)",
+    "opening": "Bishop's opening (C23), Classical variation"
+}

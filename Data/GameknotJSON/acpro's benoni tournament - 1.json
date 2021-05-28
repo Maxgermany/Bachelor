@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+ Nfd7": "Nbd7 leads a practically forced draw. If black is going to fight for a win then this is the only move he can play.",
+        "9. a4": "Taking time out to prevent b7-b5 before the bishop is booted",
+        "9... O-O": "more popular is a6 booting the bishop off of b5. ",
+        "10. Nf3 Na6": "A good move that deprives white the ideal square for his queen",
+        "11. O-O Nb4": "This is nicely placed here but is not worth exchanging my bishop for so I allowed it happen. ",
+        "12. Be3 a6 13. Bc4 Re8": "preventing the e4-e5 break and adding pressure on e4. ",
+        "14. Qd2": "With e4-e5 out of the picture for now I shift my focus on to a less well known break for white. Namely the f4-f5 break. ",
+        "14... Qa5": "Black continues to pile up his forces on the queen side. ",
+        "15. Rad1": "This is a waiting move that sets up a trap for black. At first glance it looks as though a4 is a sitting duck. However, the benoni is about punches and counter punches. ",
+        "15... Nb6": "black is falling for it. I am sure he see that taking a4 will give him a pawn to the good. ",
+        "16. Be2 Bd7 17. f5 Nxa4 18. Bh6 Bf6 19. fxg6 hxg6 20. Qf4": "Black has focused much of his forces on the queen side and has almost abandoned the kingside",
+        "20... Qd8 21. Ng5 Nxb2 22. Qxf6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/acpros-benoni-tournament?gm=18901",
+    "gameName": "acpro's benoni tournament",
+    "players": "elyhim (2011) vs. biggie (2091)",
+    "opening": "Benoni (A67), Taimanov variation"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nc6 3. Nc3 f6 4. e3 a6 5. Bd2 Qd6 6. Bd3 Nb4 7. a3 Nxd3+ 8. cxd3 Bf5 9. e4 dxe4 10. dxe4 Bd7 11. e5 Qc6 12. Bf4 g6 13. Qe2": "I made this move so that Black couldn't recapture my pawn after I had made exf6.",
+        "13... Nh6 14. exf6 e6 15. Qe5": "On my next move, I'm planning to do pawn to f7+ so that Black will be forced to break the check and I can take the Rook with the queen.",
+        "15... Nf7": "Black predicts my move.",
+        "16. Ng5": "Trying to lure away the knight to be able to move my pawn. ",
+        "16... Rc8 17. Nxf7 Kxf7 18. d5 Qc5 19. Ne4 Qa5+ 20. b4 Qb6 21. Ng5+": "Trying to force the King away to be able to move my pawn.",
+        "21... Ke8 22. f7+": "Now I get the Rook.",
+        "22... Ke7 23. Qxh8 h5 24. O-O exd5 25. Rae1+": "It gets a bit long, but this move starts my forced checkmate. Also, with this move, I'll either win myself a Bishop and then mate (Black does Kd8, I move Qxf8+, Black interposes with Be8, then I mate by doing Qxe8#) or I win myself a Queen, as in the following move.",
+        "25... Be6": "Black interposes with the Bishop.",
+        "26. Rxe6+": "I take the Bishop. Rook is protected by the knight and the Queen is dead.",
+        "26... Qxe6": "Black takes the rook.",
+        "27. Nxe6": "I take the Queen.",
+        "27... Kxe6": "Black recaptures the knight.",
+        "28. Qe5+ Kd7": "Black decides not to take the pawn.",
+        "29. Qxd5+ Bd6 30. Bxd6 cxd6": "Exchange of bishops.",
+        "31. Qxb7+": "Taking another pawn.",
+        "31... Rc7 32. f8=N+": "I thought it would be better to get an extra knight for an immediate check. Perhaps not the best move. It might have been better to first move my Queen out of the way of the Rook, perhaps by doing Qxa6, and then on the next move, converting the pawn into another Queen.",
+        "32... Kd8 33. Qb8+ Rc8 34. Qxd6+": "Taking the pawn.",
+        "34... Ke8 35. Re1+": "Moving out my rook for extra support.",
+        "35... Kf7 36. Qe7+ Kg8 37. Qh7+ Kxf8": "King takes the knight.",
+        "38. Qh8+ Kf7 39. Qxc8": "I get the Rook.",
+        "39... Kf6 40. Qe6+ Kg5 41. Qe5+ Kh6 42. Qh8+ Kg5 43. Re5+ Kf4 44. Qf6+ Kg4 45. Qg5#": "Mate. Looking back at this game, I think both of us have room for improvement. Black seemed to be rather aggressive with the Queen from the opening, which meant that every time I threatened it, Black was forced to move it away and I got a free move to increase my advantage, whether it be taking an extra piece or getting an advantageous position on the board. But I also made some critical mistakes in this game, mainly converting my pawn to a knight rather than a Queen, which is one reason why it took so much longer to get a mate. I've played through this game again, but on move 32, instead of immediately moving my pawn forward, I instead did Qxa8, the move I didn't notice at first, and I got mate about four moves faster, depending on what Black would have done in response to my moves. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-siciliandrsgon?gm=60113",
+    "gameName": "Challenge from siciliandrsgon",
+    "players": "otakumadness (1066) vs. siciliandrsgon (909)",
+    "opening": "Queen's pawn game, Chigorin variation (D02)"
+}

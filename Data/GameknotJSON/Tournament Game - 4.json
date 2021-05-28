@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. b4": "A modern chess master, with encyclopedic knowledge of every opening [even the unusual ones], would have no problem with this move. But Gerlach is caught off guard.",
+        "1... d5": "Gerlach responds by placing a Pawn in the center.",
+        "2. Bb2": "The logical follow-up.",
+        "2... e6": "Guarding his advanced Pawn and opening a line for his KB.",
+        "3. e3": "Hoping to sucker Gerlach into his pitfall.",
+        "3... Bxb4": "Winning a Pawn is a good move....",
+        "4. Bxg7": "...but winning a Rook is a better one! Gerlach of course resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=33850",
+    "gameName": "Tournament Game",
+    "players": "Brinkmann  vs. Gerlach ",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "Stonewall attack",
+        "1... d5 2. e3 Bf5": "Queens gambit declined",
+        "3. c4": "Trying to gain control of the centre",
+        "3... e6 4. cxd5 exd5 5. Qb3": "Threatening the knight pawn",
+        "5... b6 6. Nc3 Nf6 7. Nf3 Bd6 8. Be2": "Preparing to castle",
+        "8... O-O 9. O-O c6 10. Nh4": "Retrying the stonewall pattern",
+        "10... Bd7 11. Qc2 Qc7": "Attacking the weak king-rook pawn",
+        "12. f4": "Stonewall achieved",
+        "12... a5 13. Bd3 b5 14. Rf3": "Preparing to attack the weak king side.. only the knight is in defence",
+        "14... Be7 15. Qf2 Ng4 16. Qg3 b4 17. Ne2 Be6": "Waiting for white to commit to a line of action",
+        "18. Nf5 Bxf5 19. Bxf5 Nf6 20. Qh4 g6": "Forced pawn advance gives access to h6 for the white queen..black pieces are helpless on his queen-side",
+        "21. Bd3 Nh5 22. Qh3 Nd7 23. g4 Nhf6 24. Ng3 Qc8 25. Nf5": "pxN followed by Bxp would pin the knight at d7 and open the g file. White knight threatens Nxe7, winning the queen",
+        "25... Re8 26. Nxe7+": "Removes a strong defensive piece..Bf8 would have removed control of h6 for white",
+        "26... Rxe7 27. f5": "Trying to open up the pawn-structure",
+        "27... Nf8 28. fxg6 Nxg4": "Should have played Qxg4 (followed by 29.Qxg4 Nxg4 30.pxh7ch Nxh7 31.Rg3 Nh7-f6 32.Bf5) forcing exchange of queens and removing a mate threat but losing a minor piece",
+        "29. gxh7+ Nxh7": "A very bad move..only possible move to avoid mate was 29. .. Kh8 30.Bf5 losing the knight",
+        "30. Qxh7+": "Mate will follow with 30. .. Kf8 31.Qh8   1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/50th-gk-tournament?gm=19802",
+    "gameName": "50th GK tournament",
+    "players": "skg348 (1427) vs. frriedel (1317)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

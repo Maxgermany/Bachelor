@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4": "In this short game, White gets into early trouble on the long diagonal.",
+        "2... Nf6 3. Bd3 e5 4. d5": "Relaxes central tension, in many lines, White tries to maintain central ltension.",
+        "4... c6 5. c4 cxd5 6. exd5": "Usual is cxd5. The assymetry created by this move offers both sides tactical opportunities.",
+        "6... g6": "Provides more scope for the bishop and prepares for king side pawn pushes.",
+        "7. Bg5 Bg7 8. Nc3 h6": "Puts the question to the bishop.",
+        "9. Bh4 Qb6": "A bold plan to try and provoke dark square weaknesses.",
+        "10. Qc2 O-O 11. h3 Nbd7 12. b3": "b3? is a miscalculation. White's weakness on the long diagonal opens up tactical possibilities.",
+        "12... Nc5 13. Nf3": "13 Nf3?? loses, Rc1 is probably best.",
+        "13... e4": "13 ...e4!opens up the long diagonal with deadly effect. ",
+        "14. Bxf6": "Desparation.",
+        "14... Nxd3+": "The strongest move. Forces White to move the king.",
+        "15. Kd1 Bxf6": "White resigns. Nxp loses the rook to Bxa1, and ...Nxf7  is threatened as well."
+    },
+    "url": "https://gameknot.com/annotation.pl/long-diagonal-comes-to-life?gm=20071",
+    "gameName": "Long Diagonal Comes to Life",
+    "players": "NN  vs. dmaestro (1605)",
+    "opening": "Pirc defence (B07)"
+}

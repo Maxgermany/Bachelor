@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "King's Pawn open.",
+        "1... e5": "King's Pawn game.",
+        "2. Nf3": "Apparently called the King's Knight opening, but it's still fairly standard.",
+        "2... d6": "My standard defense in this situation.",
+        "3. Bb5+": "I've never really been a fan of this move.  It seems like putting black just for the sake of saying \"check.\"  While it may weaken the queen side defenses, I like Bc4 instead.",
+        "3... Bd7": "Protect the King and threaten the bishop.",
+        "4. Bc4": "Now he's where he should be.",
+        "4... Nf6": "In hindsight, Be6 was probably a better move.  If he accepts, it's a simple BxB trade, and if he plays 4...Bd5+, I can follow it with 5.c6 and force his bishop back to d3 or farther.  But I guess this was a fine move.",
+        "5. Ng5": "When I saw this move, I was kind of confused.  I've seen (and tried) the queen side fork many times, but this was the first time I've seen it tried king side.",
+        "5... h6": "Going to attack the knight.  I don't like it hanging out in such a forward position.",
+        "6. Nxf7": "Crap.  I thought that my king had protected f7, but I didn't notice that the bishop was also threatening.  This could've been absolutely disastrous for me.",
+        "6... Qe7": "I felt like I had to save my queen if I wanted any chance to stay in this game.",
+        "7. Nxh8": "There goes the rook.  Now he has a great material advantage, and this game could be over fairly quickly.",
+        "7... Nxe4": "I decide to get whatever material that I could get at this point.  It also puts my knight into a pretty good position to attack.",
+        "8. Ng6": "Crap, another fork.  Really should've seen this coming...",
+        "8... Qf6": "Saving my queen a second time.  This time, I noticed that his king side was pretty unprotected, so I made a play for a quick mate.  If nothing else, I would at least get the knight.",
+        "9. Nxf8": "I guess that he didn't notice the mate looming.  Now he's got a great material advantage, but material isn't everything.",
+        "9... Qxf2#": "Mate.  This game is good to show the dangers of focusing too much on one or two pieces.  He was able to rack up a great advantage in material, but his defense was non-existent throughout.  I got lucky to win this one, and hopefully I won't get myself into this situation again any time soon."
+    },
+    "url": "https://gameknot.com/annotation.pl/surprise?gm=47938",
+    "gameName": "Surprise!",
+    "players": "manutius (1160) vs. deaconsfan21 (1138)",
+    "opening": "Philidor's defence (C41)"
+}

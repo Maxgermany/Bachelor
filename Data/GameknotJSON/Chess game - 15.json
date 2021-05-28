@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Standard E - pawn opening",
+        "1... e5 2. f4": "King's gambit",
+        "2... f6": "Big blunder",
+        "3. fxe5": "Opening the kingside for attack",
+        "3... fxe5": "Fun times begin",
+        "4. Qh5+": "g6 would be followed by Qxe5+ and then (White) Qxh8.",
+        "4... Ke7": "This is the worse move to do in this position. Let the checking begin!",
+        "5. Qxe5+ Kf7 6. Bc4+ Kg6 7. Qf5+ Kh6 8. d4+": "Now the king is stuck:",
+        "8... g5 9. h4": "Threatening 10. xg5+ Kg8 11. Qf7#",
+        "9... Nf6": "Trying to defend",
+        "10. Bxg5+": "Threatening 10. ... Kh5 11. Bf7#",
+        "10... Kg7 11. h5": "Threatening 11. ... 12. h6#\nBlack cannot defend by 11. ... h6 because of 12. Qh6#.",
+        "11... Bb4+": "Black's only way to prolong the game",
+        "12. c3": "White's defence does not really matter at this point as long as any attacking pieces are not used.",
+        "12... h6": "Blunder by black.",
+        "13. Qg6+ Kf8 14. Qf7#": "This shows how dangerous King's Gambit can be to a player who does not know the opening."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=66519",
+    "gameName": "Chess game",
+    "players": "???  vs. ??? ",
+    "opening": "King's gambit (C30)"
+}

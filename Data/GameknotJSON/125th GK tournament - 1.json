@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "le pion du roi",
+        "1... c5": "sicilienne",
+        "2. Nf3 d6 3. Bc4 Nf6 4. d3 e6 5. O-O Be7 6. e5 dxe5 7. Nxe5": "\u00e0 l'attaque plut\u00f4t qu'au d\u00e9veloppement... \u00e7a va payer.",
+        "7... O-O 8. Nc3 Qc7": "pas tr\u00e8s malin",
+        "9. Bf4 Bd6 10. Re1 Nc6": "d\u00e9cid\u00e9ment pas brillant",
+        "11. Nxf7": "et pan! sur e6",
+        "11... Rxf7 12. Nb5": "et pan! double attaque! superbe combinaison",
+        "12... Bxf4": "d\u00e9cide que la reine vaut bien trois pi\u00e8ces",
+        "13. Nxc7 Bxc7 14. Rxe6 Bxe6 15. Bxe6 Re8 16. Bxf7+": "finalement ce sera plus cher, mon cher",
+        "16... Kxf7 17. c3 Ne5 18. Qb3+": "j'aurais d\u00fb raisonnablement abandonner ici...",
+        "18... Kf8 19. d4 cxd4 20. cxd4 Neg4": "mais j'ai eu envie de \"tester\" mon adversaire...",
+        "21. h3 Nh6 22. Qxb7 Bb6 23. Rd1 Re2 24. Qc8+ Kf7 25. Qc4+": "oho!",
+        "25... Re6 26. b4": "il all\u00e8ge la pression: il y avait sans doute bien mieux, comme Te1",
+        "26... Ke7 27. a4 Nf5 28. Kf1": "ahlala! pourquoi ne pas avancer les pions?",
+        "28... Nd6 29. Qb3 Nde4 30. g4": "ici, il a bien fait de ne pas faire Te1... sinon Cd2+ prend la reine.",
+        "30... Rd6 31. b5 Nd5": "je vais essayer de combiner les chevaux...",
+        "32. Qf3 Ndc3 33. Rd3": "ceci est vraiment une erreur, qui me donne la nulle.",
+        "33... Rf6 34. Qe3 Rxf2+ 35. Kg1 Ne2+ 36. Kh1 Ne2g3+ 37. Kg1 Ne2+ 38. Kh1 Ne2g3+ 39. Kg1 Ne2+": "et voil\u00e0... Coup de chance."
+    },
+    "url": "https://gameknot.com/annotation.pl/125th-gk-tournament?gm=57655",
+    "gameName": "125th GK tournament",
+    "players": "waikiki35 (1628) vs. thitho (1647)",
+    "opening": "Sicilian (B50)"
+}

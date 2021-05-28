@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4": "we have to pick a bone with this: the Grand Prix Attack...",
+        "2... Nc6": "taking a different approach, than straight Hungarian...",
+        "3. Nf3 d6": "not consistent with this opening: only d6, after Nc3...",
+        "4. c3 Nf6 5. d3 e6": "preparing d5, and releasing Bf8...",
+        "6. h3": "against Ng4...",
+        "6... Be7 7. Be3": "so we can play this important move...",
+        "7... O-O 8. g3 b6 9. Bg2 Bb7 10. Nbd2 Qc7": "Black has completed development...",
+        "11. O-O Rac8": "a bit of a standard move: White could not be bothered...",
+        "12. g4 b5 13. g5 Nh5 14. Nh2 g6": "a sudden change of scenery...",
+        "15. Bf3 Ng7 16. Ng4": "this is, why we call this the Grand Prix Attack: White gained a lot of space and play...",
+        "16... f5": "forcing the issue: never wait out a full threat...",
+        "17. Nh6+ Kh8 18. exf5 exf5 19. Bd5 Bd8": "forced: square f7 is suddenly an issue...",
+        "20. Nf7+": "better serve this threat out, right away...",
+        "20... Rxf7 21. Bxf7 Qxf7 22. Nf3 h6 23. h4 hxg5": "not good: Black is trying to force his way into Whites' position...",
+        "24. hxg5 Nh5 25. Kg2 Kg8 26. Rh1 Kf8 27. Kf2": "replacing the King: Bb7 is a dangerous piece...",
+        "27... Bb6 28. Nh4 Na5 29. Rh2 Re8 30. b4 Nc6": "probably better than cxb4, cxb4, Nc6...",
+        "31. a4": "opening up another line...",
+        "31... a6 32. a5 Ba7 33. c4 bxc4 34. dxc4 Bb8": "an oops moment: Qxd6+ was not foreseen...",
+        "35. bxc5": "but this works also...",
+        "35... Re6": "trying to put out a fire with gasoline...",
+        "36. cxd6 Bxd6": "after Rxd6, Bc5...",
+        "37. c5 Bxf4": "escaping into trouble...",
+        "38. Bxf4 Nxf4 39. Kf3 Re4": "Qd6+ will just not work: we need a big persuasion...",
+        "40. Nxf5 gxf5 41. Rh8+ Ke7 42. Qd6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-training-game-final?gm=64786",
+    "gameName": "OTB training game (final)",
+    "players": "fiercequeen (2059) vs. opponent (1900+)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

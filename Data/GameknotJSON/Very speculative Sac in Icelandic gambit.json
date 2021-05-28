@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This game was abandoned by my opponent in an inferior - but still interesting - position. I annotate it because it shows an uncommon outcome of the Icelandic gambit, with a somewhat speculative sac that I wanted to remember for future reference. ",
+        "1... d5 2. exd5 Nf6 3. c4": "Considered the \"worst\" following. The Icelandic gambit was probably invented thinking in countering this move from white. It is considered much better for white to abandon the pawn and develop soon. ",
+        "3... e6": "The Icelandic gambit. Weak for strong player, but still under my own personal analysis. ",
+        "4. Qe2": "Interesting and new. ",
+        "4... Bc5": "I'd no idea if this was sound. I prepare to castle, and white needs two moves to harass it. ",
+        "5. Nf3": "Preparing d4, right. ",
+        "5... O-O": "I don't use to castle so soon, but this time it is a very attacking move. The QK alignement is too juicy not to be taken advantage of. ",
+        "6. d4": "Easy would be Bb4+, with an even game. ",
+        "6... exd5": "This is more interesting. ",
+        "7. dxc5": "Now, the move order doesn't really matters...",
+        "7... d4": "...but this looks more impressive. Now, this pawn blocks white's defence against Re8, and the entire white developement. Note how difficult seems for white to defend from the threats AND develop armoniously. ",
+        "8. Qd3": "Threatening Nxd4. I can't defend it, but I have a more attacking position. ",
+        "8... Qe7+": "The queen will threat mate in one at some point, supported by the rook. It is interesting to observe the different consecuences of taking advantage of the column with the rook or the queen, and in what square. I preferred this one by pure \"kamikaze\" instinct, because I apparently gave the d4 pawn to white. ",
+        "9. Be2": "Forced (or maybe better to accept to return the piece at some point). ",
+        "9... Nc6": "White can take Nxd4. Black can't answer with Rd8 because NxNc6 threatens the black queen and check. I have to figure out what would happen then... will black lose his \"steam\"?",
+        "10. Bg5": "Nxd4 would have been better, by instinct (maybe white will have to return the piece sooner or later, but this would have been fine.). After the knight's exchange, white has to cope with Re8, threatening the pinned bishop, but then he would have Nc3, and that's the end of the story for black. ",
+        "10... Re8": "White cannot castle, and Nxd4 is not possible anymore. ",
+        "11. Na3": "Difficult to assess...",
+        "11... Bf5": "White cannot take the bishop, either! Nice, isn't it?",
+        "12. Bxf6 gxf6": "...of course. Now white is really cramped. The queen can retire to d2, and black still has Ra-d8 to prepare d3. White has only Nb5 (threatening Nxd4), but it won't be enough. I think white is toasted... a nice tactic little battle. \nMy opponent abandoned the game (a pity). "
+    },
+    "url": "https://gameknot.com/annotation.pl/very-speculative-sac-in-icelandic-gambit?gm=51662",
+    "gameName": "Very speculative Sac in Icelandic gambit",
+    "players": "icmimar  vs. damalfi ",
+    "opening": "Scandinavian (B01), Icelandic gambit"
+}

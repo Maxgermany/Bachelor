@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "Warning: this gme times out right when it's getting good. It's a team match and I am playing white. I open with the Open Game.",
+        "1... c5 2. Nc3": "Black makes it a Sicilian, and I try transposing a move or two to throw him off. 2. Nf3 is by far the more common move here.",
+        "2... Nc6 3. Nf3": "Transposing toward the Open Sicilian.",
+        "3... e6 4. d4 cxd4 5. Nxd4": "Fully transposed, now we're pretty much in a Taimanov Variation. one option for black would be to play 5. d6 next and cement his small center firmly in the Scheveningen line too.",
+        "5... Qc7 6. Be3 a6 7. Be2 Nf6 8. O-O": "The Paulsen Line of the Taimanov. All pretty standard so far, but here's where my reference ends.",
+        "8... Bb4 9. Na4 Bd6 10. Nxc6 bxc6 11. f4": "This seems to lose the e4 pawn. I found this continuation in GameKnot DB and it looked intriguiging, so I played 11. f4 to see where it will lead: 11. f4 Nxe4 12. Bb6 Qb8 13. Qd4 Nf6 14. Rad1 Be7 15. Bc5 Bxc5 16. Nxc5 O-O 17. Rd3 Nd5 18. Rg3 f6 19. c4 e5 20. fxe5 fxe5 21. Rxg7  Kh8 22. Rxh7  1-0",
+        "11... Nxe4 12. Bb6 Qb8 13. Qd4": "Following the lines found in the DB, threatening the knight and the pawn on g7.",
+        "13... Nf6 14. Rad1 Bc7 15. Bc5": "Black deviated from my prepared line (didn't he know there was a script for him to follow?) but I follow along a little longer. However, this is when black timed out, as I said earlier, right when it was getting interesting. 39 days for 14 1/2 moves - this game could have gone on for months..."
+    },
+    "url": "https://gameknot.com/annotation.pl/short-game-1?gm=22278",
+    "gameName": "Short Game #1",
+    "players": "blake84120 (1507) vs. chesskarel (1512)",
+    "opening": "Sicilian (B23), closed, 2...Nc6"
+}

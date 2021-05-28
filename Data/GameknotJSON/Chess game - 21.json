@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e3 d5 2. Qf3": "What is this???????????????????????",
+        "2... Nf6 3. Bb5+": "Okaaay...",
+        "3... c6 4. Ba4 Bg4 5. Qf4": "Probably the weirdest game I have ever played.",
+        "5... g6 6. h3 Bf5 7. Nc3 Bg7 8. Nf3 Nbd7 9. Ne5 Nxe5 10. Qxe5": "Exchange.",
+        "10... O-O 11. O-O Qd6": "This is a mistake.",
+        "12. d4 b5": "Attacking the Bishop.",
+        "13. Bb3 a5 14. f3": "Lost a Bishop!!!!",
+        "14... a4 15. Bd2 axb3 16. cxb3": "Oof.",
+        "16... Nd7 17. Qxd6 exd6": "Queen trade.",
+        "18. g4 Bd3": "My Bishop invasion starts!",
+        "19. Rfe1 b4 20. Na4 c5 21. Rec1 Rfc8 22. dxc5 dxc5 23. Rce1 Rab8 24. e4 Nb6": "No idea why I did this.",
+        "25. Re3 Nxa4 26. bxa4 Bxb2": "Yum!",
+        "27. Rae1 Bd4": "Pin!!!!!!!!!!!!!!",
+        "28. h4 Bxe3+ 29. Rxe3": "Yum! (again)",
+        "29... Bc4 30. exd5 Bxd5 31. f4 Bxa2": "More pieces!",
+        "32. a5 Rcd8 33. Bc1 Rd1+": "Oof!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "34. Kg2 Rxc1": "Yum! (third time)",
+        "35. Re2 Bd5+ 36. Kg3 Rc3+ 37. Kf2 Rf3+ 38. Ke1 b3 39. h5 f6 40. hxg6 hxg6 41. f5 gxf5 42. gxf5 c4 43. a6 c3 44. a7 Rd8 45. Rh2 b2 46. Rg2+ Kf7": "Almost won...",
+        "47. a8=Q Rxa8": "My opponent resigned here because I clearly had a winning position."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=66188",
+    "gameName": "Chess game",
+    "players": "ryoma (white) vs. windandrain72 (black)",
+    "opening": "Van't Kruijs opening (A00)"
+}

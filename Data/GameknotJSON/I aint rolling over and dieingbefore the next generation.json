@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "This famous ecounter pitted the world champion Emauel Lasker against the sensational young Capablanca. Lasker proved that he wasn't yet ready to roll over and die before the next generation. Besides the historical significance of this game, this match is noteworthy for Laskers simple winning startegy, seemingly flowing right from the flowing. Simple for a master not for players like me! What this game lacks in brilliant combinations is more than made up Lasker's sheer elegance. At the end of the first half of this double-round tournament, Capablanca stood a point and a half ahead of his nearest rivals Lasker and Tarrasch. When he met Lasker again in the seventh of the ten final rounds, even a draw would virtually assure the Cuban of first place. But Lasker, the great chess psychologist, adopted an opening in which Black might indeed try for the advantage, but could not readily obtain a draw. The result was a great victory over a great opponent.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4": "A surprising choice in a \"must-win\" situation, for the Exchange Variation is generally considered to allow Black equality. But the equality is of a dynamic nature, as Black must use his two Bishops to counterbalance White's Kingside pawn majority, and the sort play in which Capablanca excelled -- gradual simplification to a technical endgame -- will not do, for each exchange of pieces brings White closer to a won King-and-pawn ending.",
+        "7... Bd6 8. Nc3 Ne7 9. O-O O-O": "Both sides have developed pieces and castled. Lasker has the edge in the centre: comsequently an advantage in space. He exploits this advantage by grabbing even more space on the kingside. He isn't opening himself up though. The players have already exchanged so much that the chances of a decisive attack seem almost impossible.",
+        "10. f4 Re8 11. Nb3 f6": "This gaurds the threat of 12.e5.",
+        "12. f5": "A move that could be made only by an inexperienced player -- or a very strong one. White accepts a permanently backward e-pawn and weakens the e5 square, but he cramps the Black position and will obtain the e6 square for a Knight and the h2-b8 diagonal for his Bishop.",
+        "12... b6 13. Bf4 Bb7 14. Bxd6": "Again a surprise decision, undoubling Black's pawns. White has calculated that the Knight he will post at e6 will prevent Black from coordinating his pieces, and the White Rooks will threaten to penetrate on both sides of the board.",
+        "14... cxd6": "This is a move that many people like me think of as a blunder, that is why I am rated so low.  Lasker doesn't miond repairing Capa's damaged pawn structure becuase he has his sights set on the e6 square for his bus.",
+        "15. Nd4 Rad8 16. Ne6 Rd7": "Lasker has control over the centre and has slowed Capablanca's advance on the queenside: he now has improves his position of his king and seizes more space on the kinside.",
+        "17. Rad1 Nc8": "Notice how how Capablanca's pieces are struggling to defend the d6 pawn without getting in each others way. This dilemna is often the consequence of having a spatial disadvantage.",
+        "18. Rf2 b5 19. Rfd2 Rde7 20. b4 Kf7 21. a3 Ba8": "In hindsight, Black should play here 21...Rxe6 22.fxe6  Kxe6, with a pawn for the Exchange and a solid position. But it is not easy to make such a decision in a seemingly tenable position.",
+        "22. Kf2 Ra7 23. g4 h6 24. Rd2d3 a5 25. h4": "Preparing to open a line for his Rooks with g4-g5.",
+        "25... axb4 26. axb4 Rae7 27. Kf3 Rg8 28. Kf4 g6 29. Rg3 g5+ 30. Kf3 Nb6": "On 30...gxh4 31.Rh3 White recovers the pawn with advantage, but now he must avoid 31.Rxd6 Nc4 32.Rd1 Ne5  33.Ke2 gxh4, and Black stands well with his centrally posted Knight.",
+        "31. hxg5 hxg5": "Lasker has now opened the h-file and takes control of it with one of his rooks.",
+        "32. Rh3 Rd7 33. Kg3 Ke8 34. Rdh1 Bb7": "Capablacnca hopes that his position is position is defendable and merely marks time, but Lasker now takes the opportunity to bring his queenside knight into the game, even at the cost of a pawn.",
+        "35. e5": "! A fine move, capping White's strategic play with a tactical blow. Now the e5 square will be occupied by a Black pawn, and White will use e4 as a pivot point for his Knight.",
+        "35... dxe5 36. Ne4 Nd5 37. Ne6c5 Bc8": "Capablanca can't defend everything and decides to give up a rook for one of Laskers annoying knights. However Lasker retains his trump cards- the h-file and the spatial advantage-and now adds a slight material edge to the equation. ",
+        "38. Nxd7 Bxd7 39. Rh3h7 Rf8 40. Ra1 Kd8 41. Ra8+ Bc8 42. Nc5": "Capablanca resigns, because 43.Ne6  is absolutely devastating."
+    },
+    "url": "https://gameknot.com/annotation.pl/i-aint-rolling-over-and-dieingbefore-the-next-generation?gm=5795",
+    "gameName": "\"I aint rolling over and dieingbefore the next generation\"",
+    "players": "Emanuel Lasker (?) vs. Jose Raul Capablanca (?)",
+    "opening": "Ruy Lopez (C68), exchange, Alekhine variation"
+}

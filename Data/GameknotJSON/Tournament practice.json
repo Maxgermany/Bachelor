@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4": "This is the 4th move in my options. It is good and bad to not stick with one opening, I just wanted to change it up.",
+        "1... Nf6": "Im trying still to play something different. I have to know what to do in all sorts of openings.",
+        "2. c4 e6": "I was going to follow up with 3. ...d5, witch I do, but the issue with playing yourself is that you always know everything coming, and all the plans. ",
+        "3. Nf3": "I almost have control of every center square, and especially E5 ",
+        "3... d5": "See, I do know what I'm thinking. The best options in this situation are 4. b3, and 4. e3, and, If your not me, you might include Ne5. ",
+        "4. e3": "Because we both have our E- pawns 1 square forward, and our knights next, the focus is actually on the queenside",
+        "4... dxc4 5. Bxc4": "Now white is totally ahead",
+        "5... Bd6 6. Nc3 O-O 7. Nb5": "We are now out of the opening.",
+        "7... Ne4": "Ne4 didn't really have a point to it. It changes the board alot in 2 moves, but it's not really because of the knight",
+        "8. Qc2 f5": "That is how the position changed",
+        "9. a3": "To protect Bb4+",
+        "9... c6 10. Nxd6 Nxd6": "At this point, who do you think is winning?",
+        "11. Bd2": "I would say white is ahead, ",
+        "11... Nd7": "This game is one very good one of mine. The Knight Is obviously going to F6",
+        "12. Bb4": "Do you see the power in this move? The bishop can Capture D6, and... wait, Why didn't I play Bxe6+? Well, I suppose it's a blunder, but, my point earlier was that if the rook wasn't there (f8), 12. ...Qc7, 13. Bxd6 would win a pawn on f5",
+        "12... c5": "I REALLY think missing that rook was a big issue. I gave up a pawn because of it. ",
+        "13. Bxc5 Nxc5 14. dxc5 Nf7": "Now the middle has changed up a bit",
+        "15. Nd4 Qa5+ 16. b4": "That was the best, and I think only way to stop Qxc5",
+        "16... Qc7": "There won't be much more notation for a while, because this is a 75 move game",
+        "17. O-O-O Bd7 18. Bb5 Rfe8 19. Bxd7 Qxd7 20. Ne2 Qb5 21. Nc3 Qa6 22. Kb2 Rad8 23. Rd2 Re7 24. Rxd8+ Nxd8 25. Rd1 Nf7 26. b5 Qa5 27. c6 bxc6 28. bxc6 Rc7 29. Na2 Qb5+ 30. Nb4 Qe5+ 31. Qc3 Qxc3+ 32. Kxc3 Ne5 33. Rd8+ Kf7 34. Kb3 Nxc6 35. Nxc6 Rxc6 36. Rd7+ Kf6 37. Rxa7 Rb6+ 38. Ka4 Rc6 39. Kb5 Rc8 40. a4 Rb8+ 41. Kc6 Rb2 42. a5 Rxf2 43. a6 Rxg2 44. Rb7": "Yeah, He's goona promote",
+        "44... Rc2+ 45. Kb6 Rb2+ 46. Ka7 Rd2 47. Kb8 Rd8+ 48. Kc7 Ra8 49. a7 Ke5 50. Kb6 Kd6": "As I said, this game goes on for about 75 moves, but most people here would resign.\n\n1-0\nW: 7:14 B:7:39\n     It was a pretty nice game I played."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-practice?gm=30661",
+    "gameName": "Tournament practice",
+    "players": "Joshua. P (665) vs. Joshua. P (665)",
+    "opening": "Queen's pawn game (E10)"
+}

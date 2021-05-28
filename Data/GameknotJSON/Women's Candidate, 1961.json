@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. f4 c5 2. Nf3 g6 3. e3 Bg7": "Slow opening... but the agame heats up l;ater!",
+        "4. d3 e6 5. Be2 Ne7 6. O-O Nbc6": "Black postpones castling for the moment. In a closed game, getting your King to safety immediately is of less import.",
+        "7. e4 d6 8. c3 O-O 9. Be3 Rb8": "White has King-side ambitions, while Black plays for a Queen-side push.",
+        "10. d4": "The battle really begins here.",
+        "10... f5": "Black counters with an aggressive strike.",
+        "11. e5 cxd4 12. cxd4 Nd5": "Stalling White's central advance and centralizing the Knight.",
+        "13. Bc1 Bh6 14. g3 dxe5": "Setting a trap: 15 BPxP? B-K6ch!",
+        "15. dxe5": "White does not fall into the trap.",
+        "15... b5 16. Nc3 Qb6+": "Black attempts to seize the initiative.",
+        "17. Kg2 Rd8 18. Nxd5 Rxd5": "Black presses forward. White must defend carefully.",
+        "19. Qb3 Bf8 20. Be3 Bc5 21. Bxc5 Qxc5": "Black's attack is gathering steam.",
+        "22. Rfd1": "White tries to break the force of the attack via exchanging pieces.",
+        "22... Ne7 23. Rac1 Qb6 24. Rxd5 Nxd5": "The attack has been blunted. Both sides maintain winning chances.",
+        "25. Qxb5": "If Black is foolish enough to play 25...QxQ?? White has 26 BxQ RxB 27 RxBch, with a Pawn up ant the attack.",
+        "25... Qe3": "This move offers White a chance to draw with 26 Q-K8ch K-N2 27 R-B7ch. If White takes the Rook, however...",
+        "26. Qxb8": "White does take the Rook! A risky decision, but White is confident she can keep her defenses intact.",
+        "26... Qxe2+ 27. Kh3": "White attempts to induce Black into 27...NxPch???. If Black falls for this, 28 K-R4!!! wins [28...N-N7ch 29 K-N5 Q-K6ch 30 K-B6, with 31 QxP following as a deadly threat.] If Black plays 27...QxN, equalizing the material, White has 28 RxBch!!! K-N-2 29 R-N8ch K-R3 30 RxPch!!! forcing mate.",
+        "27... Kg7": "Black avoids both the fatal lines in the previous note. A fine response.",
+        "28. Qxa7+": "White must press the attack. If she moves the Knight instead of this move, 28...NxPch is fatal.",
+        "28... Kh6 29. Qa3": "Guarding the Knight and threatening 30 K-R4!!!, followed by 31 Q-B8 mate.",
+        "29... Kh5": "A spectacular riposte. Now Black threatens 30...B-R3 and 31...Q-B8ch.",
+        "30. Re1": "One player finally falters. White should have played 30 R-KN1!! instead. A well-deserved draw would result from 30 R-KN1!! P-N4!! 31 PxP B-R3 32 P-N4ch PxPch 33 RxP Q-KB7! 34 R-R4ch K-N3 35 R-R6ch K-N2 36 QxB QxNch.",
+        "30... Qf2": "Black finishes with a flourish.",
+        "31. Qd3 Ba6": "On 32 QxB, 32...NxPch ends things quickly.",
+        "32. Qd1 Ne3 33. Rxe3 Bf1+": "White resigns, as mate is forced."
+    },
+    "url": "https://gameknot.com/annotation.pl/womens-candidate-1961?gm=29273",
+    "gameName": "Women's Candidate, 1961",
+    "players": "Milunka Lazarevich (GM) vs. Nona Gaprindashvilli (GM)",
+    "opening": "Bird's opening (A02)"
+}

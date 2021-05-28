@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. Nf3 e5": "? loses 1 pawn",
+        "2. Nxe5 Qg5 3. Nf3 Qf6 4. Nc3 Bc5": "starts developing",
+        "5. Nd5 Qd6 6. c4 Nf6 7. Nxf6+ gxf6 8. d3 Bb4+ 9. Bd2 f5 10. e4 fxe4 11. dxe4 Qc5 12. h4 h5 13. Ng5 f6 14. Nf3 Nc6 15. Qc2 Nd4": "?? loses a minor piece ",
+        "16. Nxd4 Bxd2+ 17. Qxd2 Rh7 18. O-O-O": "doubling rook and queen",
+        "18... d6 19. Nb3 Qb6 20. c5": "boxing the queen 3",
+        "20... Qc6 21. f3": "2",
+        "21... Rd7 22. Qb4": "1",
+        "22... Kd8": "??? loses queen ",
+        "23. Bb5": "K.O. no queen ran out of time, but I think he wanted to to resign only three main mistakes lost a normal game\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/three-main-mistakes-can-lose-a-normal-game?gm=24664",
+    "gameName": "three main mistakes can lose a normal game",
+    "players": "kamshaft (1222) vs. sullix (1057)",
+    "opening": "Reti opening (A04)"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "I don't really like to annotate the games I lost, but, as humans learn from their mistakes, I'll try to annotate each game that I lose.",
+        "1... d5 2. Bf4": "Sarratt attack",
+        "2... Nc6": "instead of c5, black preferred Nc6, not the best move",
+        "3. e3 Nf6 4. f3 Bf5 5. Bb5 e6 6. Nc3 Bd6 7. Bxc6+ bxc6 8. Bg5 O-O 9. e4": "white tend to control the center",
+        "9... dxe4 10. fxe4 Bg4 11. e5": "bad move. Qxg4, trading queens and bishops is better, as after 11.Qxg4 Nxg4 and 12.Bxd8 Rxd8 white has a positional advantage, controlling the center ",
+        "11... Bxd1 12. Rxd1": "Again, a bad move, exf6 would have been better, as it destroys the castle structure.",
+        "12... Be7": "Taking advantage of white's last mistake",
+        "13. exf6 Bxf6 14. Bxf6 Qxf6 15. Nf3 Qf4": "useless move, the queen can't attack alone. I think that Rd8 would be better, as it pins the d pawn to the rook and an eventual c5 would be possible",
+        "16. O-O": "Excellent. Defending the king is the best what you can do when youre down material and not attacking",
+        "16... Qe3+ 17. Kh1 Rfd8 18. Rd3": "The player with the black pieces finally observed the pin, but it's too late, as",
+        "18... Qf4": "Qf4 is the only move that takes advantage of the pin, but here white have a very strong move, Ne5, that both, defends the pawn, and attacks the queen with the rook, but firstly, white need to defend the rook",
+        "19. Kg1 c5": "Black didn't figure out white's plan",
+        "20. Ne5 Rxd4": "and, moreover, a mechanical mistake that loses the queen",
+        "21. Rxf4 Rxf4 22. Rd7 Rd4 23. Rxc7 Rb8 24. Rxc5 Rxb2": "The biggest mistake of the game, mate in 2. I should have played h6",
+        "25. Rc8+ Rd8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=32438",
+    "gameName": "Let's play chess",
+    "players": "11moon11 (1366) vs. crinel (1455)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

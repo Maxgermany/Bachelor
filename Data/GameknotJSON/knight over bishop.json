@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "my favorite!",
+        "1... f5": "the dutch, a dubious move",
+        "2. g3": "going to protect my king as much as i can!",
+        "2... Nf6 3. Bg2 e6 4. Bg5": "! i think this is the best move! now, i can go f4 and extra guard my king! (bg5 so i can go f4 without trapping my dark colored bishop)",
+        "4... d5 5. f4 Bd6 6. Nf3 O-O 7. O-O c6 8. c3": "i think qb6!? is best (attacking b2 and frees his knight from the pin)",
+        "8... Nbd7 9. Bxf6 Nxf6 10. Nbd2": "i got my two favorite pieces on the board (the knights!)",
+        "10... Ng4": "threatening ne3 forking the queen and the rook",
+        "11. Qc1 Ne3 12. Re1 Nxg2 13. Kxg2 c5 14. e3 b6 15. Qc2": "i want to get my d2 knight to d3 so i can go to e5 and have a better game",
+        "15... Bb7 16. Nb3 a5 17. Nc1 c4": "he stopped me!",
+        "18. Ne2 b5 19. Kg1": "repositioning my pieces",
+        "19... b4 20. Ne5 a4 21. Reb1 Qc7 22. h3": "go g4 with an attack on the king side",
+        "22... b3 23. Qd1 Bxe5 24. dxe5": "!! now, i can go nd4! and control the board with it!",
+        "24... Qb6 25. Nd4 Rfb8 26. a3": "closing the queenside",
+        "26... Bc8 27. Qf3 Rb7 28. Kf2": "getting my king out of  the way, so my rooks can work freely!",
+        "28... Qd8 29. Rbh1 Qe8 30. Rag1 Rf7 31. Ke2": "moving it way out of the way!",
+        "31... Raa7 32. Kd2 Rae7 33. Rg2 Bd7 34. g4 g6 35. gxf5 exf5 36. h4": "! DONT take on d5 with the queen? why: opens the a8-h1 diagonal",
+        "36... Bc6 37. h5 Rfg7 38. Qh3": "attacking f5 once more and getting the h-file ready!",
+        "38... gxh5 39. Nxf5": "winning the exchange!",
+        "39... d4": "??!! i think he was trying to get his bishop working!",
+        "40. Nxe7+ Qxe7 41. Rxg7+ Kxg7 42. Rg1+ Kf8 43. Qf5+ Qf7 44. Qc8+": "! the best move i think, if qxq then kxq and pushes his h pawns forth",
+        "44... Qe8 45. Qc7": "threatening mate (qg7 mate)",
+        "45... dxc3+ 46. Kxc3 Bd7 47. Qd6+ Qe7": "forced! if king f7 then qf6 mate!!",
+        "48. Rg8+ Kf7 49. Rg7+": "resigns why: i win his queen no matter what he does!! please comment and rank on the star system thank you!!!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/knight-over-bishop?gm=44428",
+    "gameName": "knight over bishop",
+    "players": "water123 (1852) vs. iggibb (1710)",
+    "opening": "Dutch defence, Blackburne variation (A81)"
+}

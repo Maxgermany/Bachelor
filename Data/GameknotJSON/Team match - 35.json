@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nc6 3. e3 Nb4 4. Bb5+ c6 5. Be2 Bf5 6. e4": "Bd3 doesn't waste the pawn, though black likely trades knight for bishop.\n",
+        "6... dxe4 7. a3": "This is a good move.  The threat is black plays e3 and white has no new defense against Nxc2+.  The fork must be defended against, and pushing the knight does that.\n",
+        "7... Na6": "Black is probably better off with Nd5.  If I were white I would play BxNa6 and double black's pawns.",
+        "8. f3 e3": "This pawn is lost, and black moved it three times.  Better to have taken something for it, like exf3, or bolster its defense with Nf6.\n",
+        "9. Bxe3 Nf6 10. Bc4 b5 11. Be2": "White has moved the bishop to e2 twice.  Each time black moves a pawn, developing position.  Free moves for black.\n",
+        "11... e6 12. Bf4 Nh5 13. g3": "White is better off playing Bb3, even though it moves the bishop again, because black's best move appear to be trading knight for bishop and doubling white's pawns.",
+        "13... g5 14. Be5 f6": "With a bishop move white once again (third time) encourages black to move a pawn.  White's black bishop now has nowhere to run."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=65250",
+    "gameName": "Team match",
+    "players": "shosanna (1111) vs. charles576 (1077)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

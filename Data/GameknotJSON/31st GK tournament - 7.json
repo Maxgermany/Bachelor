@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "\"Best by test\"\nBobby Fisher",
+        "1... e5 2. Nf3 Nc6 3. Bb5 Nf6": "\u00bfThe berlin?",
+        "4. O-O Bc5": "4.-...Nxe4\n5.-d4 Nd6\n6.-Bxc6 dxc6\n7.-dxe5 Nf5\n8.-Qxd8 Kxd8 Its the so called Berlin Defense; a variation long time favorite of Kramink.",
+        "5. c3 O-O": "When playing Bc5 in the spanish its preferible to delay castle in order of playing d6, so may the usual Bg5 move may have no effect due to h6 and g5, and black's king has not yet castle and may go to the queenside.",
+        "6. d4 exd4 7. cxd4 Bd6": "Black its lost, altough Bb6, 8.-e5 Ne8 9.-d5 Nb8 would be lost too, but less lost.",
+        "8. e5 Bxe5 9. dxe5 Ne8": "Ng4 its more of the same medicine.",
+        "10. Bg5 f6 11. exf6 Nxf6 12. Nc3 h6 13. Bh4 Qe8 14. Re1 Qh5 15. Bxf6 Rxf6 16. Qd5+": "A piece up white simplifies to an easy ending",
+        "16... Qxd5 17. Nxd5 Rf8 18. Bxc6": "Exchanges pieces",
+        "18... bxc6 19. Ne7+ Kh7 20. Nxc8": "Keeps exchanging and obtains the seventh rank",
+        "20... Raxc8 21. Re7 d5 22. Rae1 a5 23. Rd7 a4": "23.-...Rfe8 was required.",
+        "24. Ree7 Rca8": "Allows white a forced mate in 3. The only move was Rg8",
+        "25. Rexg7+ Kh8 26. Rgh7+ Kg8 27. Rdg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/31st-gk-tournament?gm=543",
+    "gameName": "31st GK tournament",
+    "players": "poder_yaqui (1280) vs. ciprus (1560)",
+    "opening": "Ruy Lopez (C65), Berlin defence, Beverwijk variation"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. c3 d6": "i really don't know what i was doing, i might have messed up my notation a little...",
+        "2. b3 Nf6 3. Na3 b6 4. Bb2 e5 5. Qc2 g6 6. O-O-O Bh6 7. g3 Bb7 8. f3 O-O 9. Bh3 Nbd7 10. c4 e4": "Right here... i don't know if i should have done that.. i was thinking i have it double covered",
+        "11. Rf1 e3": "i should have left it",
+        "12. Bc3 exd2+": "again should have just left it",
+        "13. Bxd2 Bxd2+ 14. Qxd2 Nc5 15. Qd4 a5 16. Rd1 Nfe4": "mistake probably but i had a good reason at the moment just didn't think about his bishop moving to g2",
+        "17. fxe4 Nxe4 18. Bg2 Re8 19. Nb5 Nc5 20. Bxb7 Nxb7 21. Nf3 Rxe2": "i don't really know why i did that i guess it was just to mess him up. But when i did it i realized i should have done c5 or c6 instead",
+        "22. h4": "No reason for that as i couldn't kill it anyways",
+        "22... c6": "i had to pick c6 or c5, if i would have went to c5 i would have completely lost my chance at the knight, and the queen would still just run away.",
+        "23. Nxd6 Nxd6 24. Qxd6 Qxd6 25. Rxd6": "now if i didn't drop my knight earlier i would be up a pawn right now... or if i would have left c7 there. or even moved my rook to e6",
+        "25... Rf2 26. Ng5 Rxa2 27. h5": "now right here i should have taken it with my pawn, but i guess i saw the rook down there....",
+        "27... a4 28. bxa4 Ra2xa4 29. h6": "I really don't know what my next move was... i know it should have been Rxc4 or ra1 but i guess it wasn't either",
+        "29... Ra4a6": "(so i just put a random move that i know i didn't do just so i can figure out the rest of the game) i really have no idea what that move was... but it could have won me the game i guess",
+        "30. Rhd1 Rf8 31. Rd6d8 Ra8 32. Rxf8+ Rxf8 33. Rd6 f6 34. Ne6 Re8 35. Rxc6 Kf7 36. Ng7 Re1+ 37. Kd2 Rg1 38. Rxb6 Rxg3 39. c5 Ke7 40. c6 Kd8": "should have went to d6 i guess",
+        "41. Ne6+ Kc8 42. Nf8 Kc7 43. Ra6 Rh3 44. Ne6+ Kb8 45. c7+ Kb7 46. Ra7+ Kb6 47. c8=Q Kxa7 48. Nc7 Rb3": "mistake i guess",
+        "49. Qa8+ Kb6 50. Qb8+ Kc6 51. Qxb3 Kxc7 52. Qd5 g5 53. Qe6 g4 54. Qxf6 g3 55. Qg5 g2 56. Qxg2 Kd6 57. Qg5 Ke6 58. Ke3 Kf7 59. Qg7+ Ke6": "and right here i stopped notation... but it ends up a draw and i remember the spot so i'll try to get there",
+        "60. Qxh7 Kf6 61. Ke4 Ke6 62. Qf5+ Ke7 63. Qc5+ Kf7 64. Qd6 Kg8 65. Qb8+ Kh7 66. Qf4 Kg8 67. Qc7 Kh8 68. Qf7": "and there we go, he just didn't move his queen far enough, he was trying to keep pushing his pawn"
+    },
+    "url": "https://gameknot.com/annotation.pl/junior-open-2009-round-2-11-07-09?gm=27363",
+    "gameName": "Junior Open 2009 Round 2 11/07/09",
+    "players": "Eric Payne (NNNN) vs. Jared Gruenwald (NNNN)",
+    "opening": "Saragossa opening (A00)"
+}

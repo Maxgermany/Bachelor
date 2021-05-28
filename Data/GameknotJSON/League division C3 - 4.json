@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. a4 e5 2. h4 Bc5": "d5 is more natural. First knights, then bishops.",
+        "3. b3": "e3 would have been better to construct a wall against the bishop.",
+        "3... d5 4. Bb2 Nc6 5. e3 Nf6 6. Nf3 Bg4": "SF5 slightly prefers Bd6.",
+        "7. Be2 O-O": "Black tries to sacrifice a pawn in the hope of intensifying his attack, but this is not really justified since white is ready to castle and the e3 pawn is very strong. 7. ... Qe7 would have mantained an advantage after 8. Nxe5 Nxe5 9. d4 Bxe2 10. Qxe2 Bd6 11. dxe5 Bxe5.",
+        "8. Nxe5 Nxe5 9. Bxe5 Bxe2 10. Qxe2 d4": "A tactical mistake: Qc4 attacks the bishop and eliminates the threat on the e-file. Re8 would have been better.",
+        "11. Qc4 dxe3 12. dxe3 Bd6 13. Bb2 Re8 14. Nc3": "An imprecision, since now black can activate again his bishop with Be5. 14. Nd2 would have been safer.",
+        "14... Be5 15. Rd1": "The position is now very complex. Black has a minus pawn but there are tactical threats due to the pin on the Nc3 and on the exposed position of the king. ",
+        "15... Qe7 16. Rd3 Rad8 17. O-O c6 18. Rfd1 Nd5": "This move's goal is to fix the weakeness of the d-file and to reinstate the threat on Nc3. However, now the knight would attack the queen when taking on d5, so in some variations it can be of disadvantage. Moreover, it does not do anything to stop the queenside attack of the white (which black did not see). SF suggestion is to play 18. ... Rb8 and if white tries to start the same attack as before 19. a5 h6 20. a6 b5 21. Qxc6 Sg4 can exploits the weakness of the h4 pawn. According to SF5, the game could continue with 22. g3 b4 23. Rd7 Qf6 24. Qxf6 Nxf6 25. Na4 Nxd7 26. Rxd7",
+        "19. a5": "Now the queenside attack of white gets started.",
+        "19... Nxc3": "This is the final mistake. After Rc8 black can reply to a6 with b5, avoiding the a-pawn to penetrate his defense. After the text's move black is a pawn down in a passive position.",
+        "20. Bxc3 Bxc3 21. Qxc3 Rxd3": "At least Qxh4 would have reduced the damage!",
+        "22. Qxd3 g6 23. a6 b6": "Now black is panicking. bxa6 would have opposed more resistance by eliminating white's advanced pawn.",
+        "24. Qd7 Kf8 25. Qxc6 Rd8 26. Rxd8+ Qxd8 27. Qb7 Qd1+ 28. Kh2 Qd6+ 29. g3": "Interestingly, on f4, after Qd8 it is much more difficult for white to make progresses.",
+        "29... Qd2 30. Kg2 Qxc2 31. Qxa7 Qc6+ 32. Kh2 Qf3 33. Qb7 Qxf2+ 34. Qg2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-c3?gm=56166",
+    "gameName": "League division C3",
+    "players": "uberlebende (2183) vs. stefano80 (1841)",
+    "opening": "Crab opening (A00)"
+}

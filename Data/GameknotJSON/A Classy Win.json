@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Parsian had just beaten me on the white side of a Queen's Gambit Declined.  What followed was our second game, where the initiative in critical positions passed back and forth, and black was finally able to prosecute a classy win.",
+        "1... c6": "I often enjoy playing the Caro-Kann with the early bishop development, and which sometimes transposes to pawn structures reminiscent of the French defense. ",
+        "2. Bc4": "I know this isn't the book line, and it seems to develop a piece that is later going to lose tempo.",
+        "2... d5 3. exd5 cxd5 4. Bb5+ Nc6 5. d4 e6 6. Nf3 Bd7 7. a4": "Looking a bit controversial.  The move has ideas of opening the a file if black moves the knight and takes on b5.  But b4 and potentially b3 are looking weak for white.",
+        "7... a6 8. Bd3 Nf6 9. c3": "Perhaps a second inaccuracy?  The move is shoring up the d5 pawn, but black is not threatening e5 at the moment.",
+        "9... Be7 10. Be3": "I'm not sure how good the bishop is here.  Maybe white should have tried to exchange off his bad bishop instead.",
+        "10... O-O 11. Qc2 Qc7": "And black has a very comfortable position out of the opening.",
+        "12. Ng5": "So h7 is under a lot of pressure.  I considered this line, but it seemed black could defend.",
+        "12... g6 13. Nd2 Ng4": "The black side is under a lot of pressure here, and I wanted to get some pieces off the board to reduce pressure on my king position.",
+        "14. h4 Nxe3 15. fxe3 Bxg5 16. hxg5 Qg3+": "And here it seems black has regained the initiative.  This was a fast game, and there was not very much time to calculate lines, so I think the white player may not have seen the end of the previous tactical sequence.",
+        "17. Kd1 Qxg2 18. Re1 e5": "I played this move after some consideration, and I think it is a very classy move from black.  Black finally playes e5, with threats of e4 or exd, or the menacing bg4+.",
+        "19. Bf1 Qxg5 20. Nf3 Qe7 21. Qh2 Bg4": "Black is two pawns up and appears to be maintaining the pressure.",
+        "22. Be2 Bxf3 23. Bxf3 Qc7": "A controversial moves that introduces a lot of tactics into the position, with black's pinned e5 pawn.",
+        "24. Rh1 Rfe8": "I thought that the black king was not going to get trapped here.",
+        "25. Qxh7+ Kf8 26. Rh6 exd4": "Another classy move.  Just opening the center in an attempt to expose the white king, and opening the diagonal for the queen.",
+        "27. Qh8+ Ke7 28. Qh7 dxc3": "White is in an uncomfortable position, since his attack seems to be slowing down.",
+        "29. bxc3": "Trying to stop black's counterplay.",
+        "29... Kd8 30. Bxd5": "And this move allowed black into the game.",
+        "30... Qg3": "White has no useful checks here, and black has threats of Rxe3 or Rc8.",
+        "31. Kc2 Nb4+": "A nice move from black.  This piece sac opening the c-file is black accepts.",
+        "32. cxb4 Rc8+ 33. Kb2 Qf2+ 34. Kb3": "Allowing the crushing Rxe3#.",
+        "34... Rxe3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-classy-win?gm=33150",
+    "gameName": "A Classy Win",
+    "players": "parsian111 (UNR) vs. kitrich_omar (UNR)",
+    "opening": "Caro-Kann (B10), Hillbilly attack"
+}

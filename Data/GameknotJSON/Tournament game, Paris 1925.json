@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "\"Best by test\", according to Fischer.",
+        "1... e5": "The Classical response.",
+        "2. f4": "The King's Gambit, a move that is risky but always leads to excitement!",
+        "2... Bc5": "Maillard declines the gambit and develops his B aggressively.",
+        "3. fxe5": "Premature. 3 N-KB3 should precede this move, so as to prevent...",
+        "3... Qh4+": "...this move.",
+        "4. Ke2": "The King's only flight square.",
+        "4... Qxe4#": "Maillard wastes no time. The players have barely sat down, and it's game over!"
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-paris-1925?gm=33548",
+    "gameName": "Tournament game, Paris 1925",
+    "players": "Tchinenoff  vs. Maillard ",
+    "opening": "KGD (C30), classical variation"
+}

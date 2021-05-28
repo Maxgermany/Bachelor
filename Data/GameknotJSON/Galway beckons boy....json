@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. Nf3 d6": "....i tend to use this opening against all flank openings. Depending on Whites next few moves, you can set up a strong kingside attack.",
+        "2. d3": "...normal here would be c4 or d4, maybe even g3 and transpose to an English",
+        "2... Bg4": "...this is an annoying move for white and he has to deal with it, otherwise black automatically takes on f3 to upset the pawns and give some early targets..",
+        "3. Nbd2 e5 4. e4 Be7": "continuing to develop...with e4, f5 will come in and look to castle 0-0-0 after Nc6 and continue with a kingside attack",
+        "5. g3 Nc6 6. c3": "...i think white needs to disrupt blacks activity.....maybe c4, Rb1 and then b4...? Black wants Bg2 to put the Queen on the same diagonal as Bg4 ...",
+        "6... Qd7 7. h3 Bh5 8. Bg2 O-O-O": "...have to watch h4 and Bh3...I am prepared to sac material on the kingside here are white is not developing quick enough and the English is a solid but slow positional build....",
+        "9. h4 Kb8": "..out of danger...",
+        "10. Bh3 Bg4": "...want the swap but not this time...but it prepares f5 if it is not taken....",
+        "11. Bg2 f5 12. exf5 Qxf5": "...white needs to release the pin and create grief on the queen side....i thought a4/5 and b4 followed by Qb3 creates and major headache for black owing to the very strong long white bishop....given time..",
+        "13. O-O": "....white has a static queen side and black has 5 pieces that can come quickly to the kingside quickly....decided to tak advantage of the pin next...Qxd3 is on, and overlooked it for (what i thought) was a more aggressive plot...myself and the buddy are playing these games relatively quickly so no major analysis done...",
+        "13... g5": "..sure why not....? I can overcome Qb3 and prevent the possibility of white winning a piece (Ne1...and black mustbe careful of Bxc6)\r\nBlacks idea is simple, crack open the k side...was prepared to sac 2 pawns here....hxg5 and then h6 looking for Rxh6, Nf6 and Rfh8...",
+        "14. Qc2 gxh4 15. Nxh4 Bxh4 16. gxh4 Nf6": "..white king is looking a bit exposed....",
+        "17. Ne4 Nxe4": "...maybe d5 was more solid....and blocks the bishop...",
+        "18. Bxe4 Qe6 19. Bxc6 bxc6 20. Qb3+": "...white gets a chance to take a sting out of the attack....",
+        "20... Ka8 21. Qxe6 Bxe6": "...decided to open up the king more...",
+        "22. f3 Rdf8 23. Kf2": "..an opportunity to win a pawn here....",
+        "23... Bg4 24. Ke2": "..pin here allows the winning of the pawn....",
+        "24... Rxf3 25. Rxf3 Rf8 26. Be3 Rxf3 27. Kd2 Rh3 28. Bg5 Rh2+": "....white resigns in view of either losing a rook or Ke3 and Re2#..."
+    },
+    "url": "https://gameknot.com/annotation.pl/galway-beckons-boy?gm=10218",
+    "gameName": "Galway beckons boy...",
+    "players": "neimaq (1418) vs. shambobala (1647)",
+    "opening": "Reti opening (A04)"
+}

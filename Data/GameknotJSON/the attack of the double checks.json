@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6": "the thematic mini tournament begins here",
+        "5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nxe4 8. O-O": "Giuoco Piano, Greco variation",
+        "8... Nxc3 9. bxc3 Bxc3 10. Qb3": "this move is inaccurate ",
+        "10... Bxa1": "taking the rook that is up for grabs, but I will win the queen soon",
+        "11. Bxf7+ Kf8 12. Bg5 Ne7": "a poor response. better was 12... Nxd4",
+        "13. Re1 Bxd4": "lists this move as a blunder",
+        "14. Bxe7+": "this move too as I was too occupied to notice Nxd4",
+        "14... Qxe7 15. Rxe7 Kxe7 16. Nxd4": "the analysis says I am up 5.68 right now",
+        "16... Rf8 17. Nf5+": "at first i thought this was a mistake, but it's not.",
+        "17... Kf6 18. Qf3": "this is a blunder, better is Qc3 winning the g7 pawn",
+        "18... Kxf7 19. Nd6+": "another mistake, evening the score out to a draw",
+        "19... Kg8": "mistake, Ke7 is a lot better",
+        "20. Qd5+ Kh8": "only possible move, winning by a little",
+        "21. Nf7+ Kg8": "Blunder!!! Mate in 3",
+        "22. Nh6+ Kh8 23. Qg8+ Rxg8 24. Nf7#": "Checkmate. This game was just a lucky win for me..."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-attack-of-the-double-checks?gm=48499",
+    "gameName": "the attack of the double checks",
+    "players": "mowhawk (1448) vs. mwetsel (1309)",
+    "opening": "Giuoco Piano (C54), Bernstein variation"
+}

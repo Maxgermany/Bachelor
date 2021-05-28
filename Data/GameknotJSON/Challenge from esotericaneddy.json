@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e3 d5 2. f3": "In general most players try to get their pieces out as fast as they can and then castle their king into safety. Your last move looks a bit too \"slow\". It doesn't \"develop\" any piece but instead makes the squares around your King more vulnerable.",
+        "2... e5 3. c3": "Another pawn move. ",
+        "3... Nf6 4. d4 Nbd7 5. f4": "Pawn move nr 5.  It is considered to be a \"chess sin\" to move the same piece twice in the opening. (but of course the game of chess is far too complicated to be summerized in such generalities. There are lots of exceptions to this rule. )",
+        "5... exf4": "Black just wants to develop as fast as he can. Taking the pawn forces white to play yet another pawn move.",
+        "6. exf4 Bd6 7. Be2 O-O": "Black has fulfilled his first tasks. Bring the pieces out, castle the king into safety and put a p\u00e2wn on a central square.",
+        "8. Nf3 Ne4": "What is this ? Black plays the same piece twice ! Yes, right.. but black can afford to do so because he already has his king into safety.",
+        "9. Ne5": "This is a mistake. Because the f pawn has moved and the white king is still in the middle of the board, black can attack quickly",
+        "9... Bxe5 10. dxe5 Qh4+ 11. g3 Nxg3": "A standard type of combination. The white pawn can't take back because it is \"pinned\". The queen would take the rook.",
+        "12. Qxd5": "It was not so easy to find a good move here for white, this move at least takes a pawn but ....",
+        "12... Nxh1+": "The rook is lost.",
+        "13. Kd2 Qxf4+ 14. Kc2 Qxh2": "Black can afford to be greedy because he attacks the white bisshop.",
+        "15. Qd2 Nxe5 16. Bd3 Qh3": "Threatens to take the bisshop.",
+        "17. Qe2": "Again it was not easy to come up with a good move for white.",
+        "17... Nxd3": "Now the knight is invulnerable because of the bisshop moving to f5.",
+        "18. b3 Bf5 19. Ba3 Nf4+": "Another mean check.",
+        "20. Kd2 Rad8+ 21. Ke1 Qg3+ 22. Kf1 Rd1+": "This allows black to give a forced mate.",
+        "23. Qxd1 Qf2#": "Mate. Lessons to be learned. Don't play too slow in the opening, try to get your pieces out and your king into safety.\r\nAlso : careful about moving the f pawn. This weakens your King's defence."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-esotericaneddy?gm=13076",
+    "gameName": "Challenge from esotericaneddy",
+    "players": "esotericaneddy (1037) vs. arnaki (1200)",
+    "opening": "Van't Kruijs opening (A00)"
+}

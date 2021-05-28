@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 Bc5 5. Nf3 d6 6. d3 O-O 7. O-O Bg4 8. h3": "A slight weakening on the kingside.",
+        "8... Bd7 9. a3 a5 10. e3 Re8 11. b3 Ba7 12. Bb2 Qc8 13. Kh2 h6 14. d4 Bf5": "A nice, open diagonal for the Bishop.  Lots of air...",
+        "15. Nb5 Bb6 16. Rc1": "It's pretty clear where White is headed.  ",
+        "16... Ne4 17. Nd2 Nf6 18. c5 dxc5 19. dxc5 Bd3": "The open-air diagonal pays off.",
+        "20. cxb6 Bxb5": "The piece is worth more than the exchange.",
+        "21. Nc4 Bxc4": "Forced.  ",
+        "22. Rxc4 cxb6 23. Qc2 Qe6 24. Bxc6 bxc6 25. Rxc6 Qd5": "There's a lot of air on the h1-a8 diagonal.  The Queen will use this later.",
+        "26. f4 Rad8": "Preventing the rook from coming to d1.",
+        "27. Bxe5 Ne4 28. Bd4 Nd2 29. Qxd2": "Again, forced.",
+        "29... Qxc6 30. Rc1 Qb5 31. Qb2": "Maybe Rc3 was a better try here.  ",
+        "31... Rxd4": "0-1  White didn't see this tactic.  Black slips in behind the enemy lines and will force the win.",
+        "32. Qxd4 Qe2+ 33. Kg1 Rxe3": "White resigned.  He has only Rc8+ and then when Black moves his Queen to safety, White has nothing left and the noose has tightened around his King's neck.  He would be forced to exchange his Queen for the Rook on e3 and then Black would mop-up."
+    },
+    "url": "https://gameknot.com/annotation.pl/english-opening?gm=49849",
+    "gameName": "English Opening",
+    "players": "jbl_iii (1790) vs. annabekoach (1920)",
+    "opening": "English opening (A20)"
+}

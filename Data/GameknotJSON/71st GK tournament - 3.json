@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Bd3": "probably the most dangerous line to combat this tabiya.",
+        "10... b5 11. Rhe1 b4": "accepting the challenge",
+        "12. Nd5": "there are some games in gameknot database with the knight sac",
+        "12... exd5 13. exd5 Kf8 14. Nf5": "during the course of the struggle I thought that 14 Nc6 was a good try but this is probably more dangerous.",
+        "14... Bd8 15. Qg3 Nh5": "the threat of Nxg7 has to be attended to.",
+        "16. Re8+": "I thought that this was a wild but unsound sac but there is a tricky point to it!",
+        "16... Kxe8 17. Qe3+ Kf8": "too routinely played!!  it was necessary to give back some loot with 17... Ne5.",
+        "18. Be7+": "the fly in the ointment which gives white a winning game.",
+        "18... Kg8 19. Bxd6 Nhf6 20. Bxc7 Bxc7 21. Ne7+ Kf8 22. Nxc8 Rxc8 23. Bxa6 Rb8 24. d6": "very strong.",
+        "24... Bb6": "24 ... Bd8 was better here which gives black chances to hold.",
+        "25. Qe7+ Kg8 26. Bc4 Rf8 27. g4 Bd8 28. Bxf7+ Rxf7 29. Qxd8+ Rf8 30. Qe7": "30 Qa5 and it will be hard for black to stop the queenside pawns since the king's rook has a hard time getting into play.",
+        "30... Re8 31. g5": "white's best after the previous slip.  ",
+        "31... Rxe7 32. dxe7 Kf7 33. gxf6 Nxf6 34. Rd4 Rb8 35. Kd2 Kxe7": "a tough endgame now ensues.  Black has his work cut out for him to win this one.",
+        "36. Ke2 Ke6 37. Kf3 h5 38. h3 Rb5 39. Rd3 Kf5 40. Rb3 Ne4 41. a4 Rb8 42. Rd3": "an unexpected and very good move.",
+        "42... Nf6 43. Rb3 Ke6 44. c3 Nd5 45. a5 Rf8 46. a6": "this required some deep analysis.  black decided in favor of 46 ... bxc3 first.",
+        "46... bxc3 47. bxc3 Rxf4+ 48. Kg3 Ra4 49. Rb7 Rxa6": "this results in a position in which black will win the \"c\" pawn but only have his \"h\" pawn left and will have to win the \"h\" pawn and advance it down carefully to win.",
+        "50. Rxg7 Rc6": "an important subtlety.",
+        "51. Rg6+ Nf6 52. Kh4 Rc5": "in many lines white has drawing chances for example stalemate possibilities and allowing the rooks to be traded in which white has a positional draw thanks to black's giving up the knight white can draw by stalemate.  The text hopes to bypass those possibilities and also contains a trap which white unexpectedly falls into.",
+        "53. Rg3": "an awful blunder which loses immediately.  almost any other move allowed protracted resistance.",
+        "53... Rc4+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/71st-gk-tournament?gm=33511",
+    "gameName": "71st GK tournament",
+    "players": "hesam7 (1705) vs. francisbaron08 (1808)",
+    "opening": "Sicilian (B99), Najdorf, 7...Be7 main line"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "spain game",
+        "3... a6": "to attack not is a great moves",
+        "4. Bxc6 dxc6": "I'm not take e4 or Qd4:attack khnight and pawn",
+        "5. c3": "my obiective is take e4 and queen not moves44",
+        "5... Bg4 6. h3 Bh5": "m",
+        "7. g4 Bg6 8. Nxe5": "take pawn",
+        "8... Bxe4 9. Qe2": "this is a great moves:to moves bishop,Nxc6+!",
+        "9... Qe7 10. Qxe4": "take bishop!!",
+        "10... Nf6 11. Qe2 O-O-O 12. d4 c5": "!!!!!!!!!",
+        "13. Be3 cxd4 14. cxd4": "the knight is save",
+        "14... Qb4+": "!!!",
+        "15. Nc3 Ne4": "the moves Ne4 as obiective the rook",
+        "16. Qd3 Qxb2 17. O-O": "I'm as the error",
+        "17... Nxc3 18. Nxf7": "double attack rook!!",
+        "18... Ne2+ 19. Kh1 Nf4 20. Bxf4 Rxd4": "I'm previsted this moves and moves Qf5+",
+        "21. Qf5+": "for this moves black as resigned!,good game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=49484",
+    "gameName": "Let's play chess",
+    "players": "fantasycat (1310) vs. jllima (1356)",
+    "opening": "Ruy Lopez (C68), exchange, Alekhine variation"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "I sacrificed a pawn to set some structural defects on black's pawns, but he managed to remain dynamic enough and I was forced to regains the pawn... latter on the game I was able to get a small advantage by trapping black's remaining bishop but was ultimately unable to proceed to promotion without losing that advantage. Overall it was a nice dynamic draw against an higher rated opponent, that was never able to exert any pressure... I choose not to publish this analysis yet, because in this tournament my direct opponent has the chance of playing for 19.5 points maximum, and I'm able to get only 19 points maximum for that I need a win against him playing black... my most direct opponent withdraw from this tournament, so now he is playing for 17,5 points and I'm playing for 19 points (although I'm almost sure to lose one point so more realistically I'm playing for 18 points)",
+        "1... e5 2. Nf3": "Nc6 and d4 or Bb5...",
+        "2... Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6": "this gives black three pawn islands which might be losing in the endgame... let's see, still too much to be played until then...",
+        "5... bxc6 6. Bd3": "avoiding Qh4 with the idea Qxe4, and prepares the castle",
+        "6... d6 7. Nc3 Ne7": "preparing Ng6 maybe, but I don't see the point of this, played already by Elijanov against Morozevich, (in Morozevich-Elijanov, Saratov, 7th round, 2011), but I have a prepared reply suggested by some comments on that game...",
+        "8. e5": "N sacrificing a pawn to get a better development and to difficult black's positional play, even if black doesn't take it I'll be better on the endgame",
+        "8... dxe5 9. Qh5 Bd4 10. Ne2 Ng6 11. Nxd4 Qxd4": "now 0-0 0-0 and Qf3 attacking c6",
+        "12. O-O": "at some point I will need h3 to avoid back rank weakness, providing my king with an escape square ",
+        "12... O-O": "black has one extra pawn but his queen side pawns are week and I have the bishop pair... so equal material exchanges should in theory favor me",
+        "13. Qf3 Be6 14. Qxc6": "recovers the sacrificed pawn and heads to a drawish position with some small prospects in a B+R vs. B+R endgame",
+        "14... Bd5 15. Qc3 Qxc3 16. bxc3 Nf4 17. Re1": "it was this or Bxf4, but I preferred to undouble my pawns",
+        "17... Nxd3": "?",
+        "18. cxd3 f6": "?! allows me to give black another disconnected pawn",
+        "19. f4 Rfe8 20. fxe5 Rxe5 21. Bf4 Rxe1+ 22. Rxe1 c5": "this looks drawish... but still I'll try to enforce my connected central pawns, I see two different approaches to this endgame, first to block the c5 pawn and capture it with both my rook and bishop coordinated, or to let black push the pawn to c4 obstructing his own bishop and the maneuver to capture any of the remaining pawns with my pieces",
+        "23. Kf2": "setting a trap as Bxa2 does get a pawn but allows the domination of the bishop and I get another semi-open column for my rook",
+        "23... Bxa2 24. c4": "and the bishop is almost trapped in the corner",
+        "24... Bb3 25. Ra1": "add to the domination of the bishop and forces a5 as it threatens Ra3, the idea is now to attack the blocked c5 pawn and then push the connected passed pawns, if needed even maybe exchange the quality to assure the promotion of one pawn",
+        "25... a5 26. Be3 Rd8 27. Ke2": "controlling my weak d pawn",
+        "27... Bc2 28. Ra3": "again black can't capture the d pawn",
+        "28... a4": "loses the c pawn",
+        "29. Bxc5 Bb3 30. Ra1": "to gain more freedom for my rook",
+        "30... Kf7 31. Rc1 Ke8 32. g4": "gains space and blocks the light squares on the king's wing",
+        "32... Kf7 33. Kd2 Rc8 34. Ba3 Rd8 35. h3": "defending the g pawn",
+        "35... h6 36. Bc5 Rc8 37. Bd4 Rd8 38. Be3": "and there is no way to push the pawns without exposing my king and setting free black's bishop... this will for sure end in a draw",
+        "38... Ra8 39. Kc3 Re8 40. Re1 Re7 41. Kd2 Rd7": "draw was agreed"
+    },
+    "url": "https://gameknot.com/annotation.pl/faisalrazas-mini-tournament-i?gm=43385",
+    "gameName": "faisalraza's mini-tournament I",
+    "players": "kaspanatola (2049) vs. faisalraza (2098)",
+    "opening": "Scotch game (C45)"
+}

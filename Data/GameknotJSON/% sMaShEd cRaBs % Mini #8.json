@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4": "the idea here was to borrow an approach used by Zuckerman in a game vs. Nikolic which appeared in the Jan. '71 chess life & review magazine.",
+        "4... Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 Nc6 8. O-O-O a6 9. h3 Nxd4 10. Qxd4 Be6 11. Be2": "the way this game develops this may be the lemon here.  Perhaps the direct 11 g4 here instead.",
+        "11... Nd7 12. Kb1": "played to prevent an exchange of bishops but black now comes up with a pair of good moves back to back.",
+        "12... Bf6 13. Qd2 Nc5": "suddenly it becomes plain that black is threatening a ferocious attack with ... b5! if white goes in for passive defense with 14 f3.  ",
+        "14. Be3": "offering a pawn by 14 ... Bxc3 15 Qxc3 Nxe4 16 Qd4 with some counterchances.",
+        "14... b5 15. Bxc5 dxc5 16. Nd5 c4 17. Qe3 Bxd5 18. Rxd5 Qe7": "some careful thought was necessary here as there are some possible pins which reduce the viability of an e5 by white.",
+        "19. f4 Qb4 20. c3 Qa5": "it is difficult to read if this was an oversight by black.  an alternative was 20 ... Qe7 but 21 g4 has to reckoned with by black.",
+        "21. e5 Be7 22. f5": "white had to lay off of the \"c\" pawn because of ... c6!",
+        "22... Rad8 23. Bxc4 Rxd5": "instead 23 ... Qb6 was a real possibility playing for a draw with the opposite colored bishops.",
+        "24. Bxd5 Rd8 25. f6 Bf8 26. Bb3 Qb6 27. Qe4": "still playing for a win",
+        "27... g6 28. e6 fxe6 29. Bxe6+ Kh8 30. f7": "the pawn on f7 creates some tactical possilities and prevents black from playing ... Re8.",
+        "30... b4 31. Rf1 Bg7 32. Bb3": "this gives black a problem to solve.  32 ... c6 loses to 33 Qe8+ Bf8 34 Qe5+! Bg7 35 f8Q+!\r\n32 ... Qb8 looks to be black's only move.  white has some pressure on black, but the win needs to be figured out.  33 cxb4 would give white a second pawn but the issue would remain undecided.",
+        "32... Qb5 33. f8=Q+": "forcing mate or loss of the queen.",
+        "33... Rxf8 34. Rxf8+ Bxf8 35. Qd4+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/smashed-crabs-mini-8?gm=31504",
+    "gameName": "% sMaShEd cRaBs % Mini #8",
+    "players": "francisbaron08 (1749) vs. cenarius (1723)",
+    "opening": "Philidor (C41), Berger variation"
+}

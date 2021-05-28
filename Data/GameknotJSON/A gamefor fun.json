@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. f4 d5 3. e3": "The Stonewall Attack- I've only studied this and the Sicilian Dragon openings thoroughly, and that's simply because they were both featured in Reinfeld and Horowitz's \"How to Think Ahead in Chess\".  I like the Stonewall because you can follow your script pretty much disregarding what black is doing, and also because I've got a decent grasp on what I'm supposed to do during the midgame.  However, this game shows how cramped white's queenside pieces can be with the Stonewall.",
+        "3... c5 4. c3 Qc7": "4...Bg4 would have been better.",
+        "5. Nf3 g6 6. Ne5": "One of the characteristic moves of the Stonewall, and a good one at that.  I'm in good position, particularly in the center, but I don't know what to do with black's soon-to-be fianchetto'ed position.  My usual plans call for a subsequent Bd3 and then sacrificing the bishop at h7, but since that's out of the question I should have worked to further control the center and to develop my queen's knight.",
+        "6... Bg7 7. Bb5+": "This seemed a bit unnecessary, especially since black could either walk into a very temporary pin with his knight or attempt to trade off my good bishop.  In this setup, my good bishop is good, but my bad bishop is very bad.",
+        "7... Nc6 8. Na3": "I said to myself, \"I need to develop my queen's knight and protect my bishop\".  However, as everyone knows, knights don't like being on the edge of the board, and my bishop can be easily run off with pawns.  Developing the knight to d2 and then f3 would have been better.",
+        "8... O-O 9. O-O Bf5": "Although the chess engine likes 9...Rd8, I thought this was a good developing move by black, who now has two strong bishops.",
+        "10. dxc5": "And this is where things went very wrong.  I desperately wanted to develop my \"bad\" black-squared bishop... but when your pawns end up in a \"postal stamp\" configuration, you know it's bad news.  10. c4 would have been a much better move.",
+        "10... Nxe5 11. fxe5 Ne4": "Black wisely declined to take the e5 pawn with his queen (it wasn't going anywhere) and got his knight in a strong position while freeing his bishop to take the e5 pawn and link up with the queen on the long diagonal.",
+        "12. Qxd5 Bxe5 13. Bc4": "I'm in big trouble, and probably should have resigned at this point. 13. h3 gets me 13...Bxh3 14. gxh3...Bh2  or 13....Bh2 .  Moving to g2 puts the g pawn under attack by the knight, the bishop, and the queen.  I figured I would just put some pressure on black's f7 on the outside chance of 13....R(f8)d8?.",
+        "13... Bxh2+ 14. Kh1 Qg3 15. Rf3 Qh4 16. Rxf5 Ng3#": "I lost this game with positional errors more than tactical ones, and with fine play by my opponent.  I should have kept the center locked up and secured for myself instead of trying to develop everyone to go on the attack at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-gamefor-fun?gm=14024",
+    "gameName": "A gamefor fun",
+    "players": "pretz (1306) vs. ifuinsist (1403)",
+    "opening": "Canard opening (A45)"
+}

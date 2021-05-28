@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "Najdorf variant",
+        "6. Bg5 e6 7. f4 Qb6": "A sharp continuation",
+        "8. Qd2": "Also Qd3 or Nb3.",
+        "8... Qxb2 9. Nb3": "Also Rb1, but my idea is attack for the d-column and not for b",
+        "9... Qa3 10. Bxf6 gxf6 11. Be2 Nc6 12. O-O Bd7 13. Kh1 Rc8 14. Bh5": "A book move, white will attack for the semi-open g column with Rf3-g3.",
+        "14... Bg7 15. Rf3 O-O 16. Raf1": "With threat f5-Rg3-Qh6",
+        "16... Na5": "Book move, too",
+        "17. Rg3": "A novelty, if f5, Kh8. Now, I am playing out of database",
+        "17... Kh8 18. Rff3": "Defend the 3-rank and attack ths kingside",
+        "18... Nc4": "Nxb3 is better. This move gives me a tempo. Black need counterattack the center in a flank-attack. With Nxb3, black can move Qc5.",
+        "19. Qf2 b5": "Overlooked the sacrifice",
+        "20. Rxg7 Kxg7 21. Qh4 Rfg8 22. Rg3+ Kf8 23. Qxf6 Be8 24. Qh6+ Ke7 25. Rxg8": "Now White it\u00b4s a piece up.",
+        "25... Nd2": "Threat c-knitgh and attack the c1-defender",
+        "26. Qg5+": "Best, in fritz program, it\u00b4s Bxf7... but... I only think in defend the c1-square",
+        "26... Kd7 27. f5 Nxb3 28. fxe6+ Kxe6": "the last blunder, now I have a mate continuation",
+        "29. Bg4+ f5 30. Qxf5+ Ke7 31. Qe6+ Kd8 32. Qd7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/bodejaxs-mini-tournament-i?gm=37168",
+    "gameName": "bodejax's mini-tournament I",
+    "players": "chizzo83 (1750) vs. aladin42 (1669)",
+    "opening": "Sicilian (B97), Najdorf, Poisoned pawn variation"
+}

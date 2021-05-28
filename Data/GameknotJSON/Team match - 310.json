@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6": "King's pawn opening.",
+        "3. Bc4 Nf6": "Two knoights defense.",
+        "4. Nc3 Nxe4": "N for pawn?  Does not seem like a wise trade.",
+        "5. Nxe4 d5": ";). Oh yes, pawn fork.",
+        "6. Nxe5 Nxe5 7. Bb5+ c6 8. d4 Ng6": "I kind of liked PxN.  PxN, QxQ!",
+        "9. Bg5 f6": "I liked Qa5!, followed by QxB.  But here pawns get their pick of three pieces.",
+        "10. O-O fxg5 11. Re1 cxb5": "Oh, discovered check (knight moves) will force the king to move.",
+        "12. Nd6+ Kd7 13. Nf7 Qc7 14. Qg4+": "Black must move the king, meaning the white queen is vulnerable and the black rook could escape.",
+        "14... Kc6 15. Re6+": "?  Rook sacrifice?",
+        "15... Bxe6 16. Qxe6+ Bd6 17. Nxh8 Rxh8 18. b3 Qe7 19. Qxe7": "With white down six points each trade favors black.",
+        "19... Nxe7 20. h3 Bb4 21. a3 Bc3 22. Rd1 Re8 23. Rd3 Bb2 24. a4 Nf5 25. axb5+ Kxb5 26. c4+": "?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns.",
+        "26... dxc4 27. bxc4+ Kxc4 28. Rd2 Bxd4 29. Rc2+ Bc3 30. g4 Re1+ 31. Kg2 Nh4+ 32. Kh2 Kd3 33. Ra2 Be5+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=48914",
+    "gameName": "Team match",
+    "players": "lasteagle (1311) vs. jrgcoulson (1336)",
+    "opening": "Two knights defence (C55)"
+}

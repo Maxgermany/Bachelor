@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c6": "Larsen opts for a Caro-Kann.",
+        "2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4": "Beliavsky goes for the Classical Line.",
+        "6... h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6": "More common in this position is 10...Qc7.",
+        "11. Bf4 e6": "An alternate line for Black is 11...Qa5+ And after the forced 12.Bd2... Comes 12...Qc7",
+        "12. O-O-O Be7 13. Ne5 a5": "(?!) According to thorough GM & IM analysis, the wrong path. Black should have played 13...Nxe5 and limited the aggressive nature of White's position on the kingside.",
+        "14. Rhe1 a4": "(?) Too far. White is fully mobilised and is now able to - and must! - attack.",
+        "15. Ng6": "(!) The aim of this move is to disrupt the kingside. 15...fxg6 leads to 16.Qxg6+ Kf8 17.Rxe6 With the threat of 18.Nf5... Black cannot rely on a swap of queens either after 17...Qe8 since 18.Nf5! Qxg6 19.hxg6 Nd5 (19...Bb4 20.c3 Ba5 21.Bd6+ Kg8 22.Re7 OR 19...Bd8 20.Bd6+ Kg8 21.Rde1...) with the following 20.Rxe7+! Nxe7 21.Bd6 Re8 22.Re1... with decisive threats to follow.",
+        "15... Nd5": "(!?) A very wise counter. After 16.Nxh8? Nxf4 would trap the White knight (17.Qh7 Kf8) with Black gaining compensation for his lost material. Unfortunately for Larsen.....",
+        "16. Nf5": "(!!) A fantastic tactical punchline to the position! This was the only way to continue attacking in this position.",
+        "16... Bf8": "Black has no other (rational) defence. If 16...Nxf4?? Then 17.Nxg7#. 16...fxg6 leads to 17.Nxg7+ Kf7 18.Qxg6+... pending 19.Nxe6+... Lastly, 16...exf5 and 17.Nxe7 Nxe7 (17...Nxf4 18.Nxc6+ Kf8 19.Qa3+... pending 20.Nxd8...) and 18.Bd6... 1-0",
+        "17. Bd6": "(!)",
+        "17... Rg8 18. c4 Nb4": "Alternate variation : 18...fxg6 19.Rxe6+ Kf7 20.cxd5 Qg5+ (20...cxd5 is fruitless since 21.hxg6+ Kxe6 22.Re1+ Ne5 [else 22...Kf6 23.Nh4!... With the checkmate threat of Qf5#] 23.Rxe5+ Kd7 24.Qb5+ Kc8 25.Re8...) Continuing : 21.f4 Qxh5 22.Ne3 Nf6 (threatening 23.g4...) 23.Re5 Qh4 24.Bxf8 Rgxf8 25.dxc6... With a non-defendable attack from White.",
+        "19. Qh3": "Threats of 20.Nxf8... And 20.Bxb4... Are looming large.",
+        "19... fxg6 20. Rxe6+ Kf7 21. hxg6+ Kxe6 22. Re1+ Ne5 23. Bxe5": "(!) 1-0 Beliavsky's candidate for an immortal game against one of the best chess players never to make World Champion. Larsen didn't castle, and as a result had to spend several tempi in passive defence to deflect attacks - hence ruining his development and any chance of winning."
+    },
+    "url": "https://gameknot.com/annotation.pl/tilburg-1981?gm=55996",
+    "gameName": "Tilburg 1981",
+    "players": "Alexander Beliavsky  vs. Bent Larsen ",
+    "opening": "Caro-Kann (B19), classical, Spassky variation"
+}

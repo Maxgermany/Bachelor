@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Bd6": "Fairly standard opening so far",
+        "3. Nc3 Nf6 4. d4 exd4 5. Nxd4 O-O": "Still nothing to write home about.",
+        "6. Bc4 Nc6 7. Nxc6": "I have a pathaloical fear of knight's and will almost always take one.",
+        "7... bxc6": "especially if it doubles pawns or otherwise weakens opponents structure.",
+        "8. O-O Be5 9. Bg5": "a feeble pin.",
+        "9... a5": "eh ?",
+        "10. Bxf6": "I said I hated knight's didn't I ?",
+        "10... Qxf6 11. Qd3 Rd8": "d7 pawn was well protected by bishop anyway.",
+        "12. a4 d5 13. exd5 cxd5 14. Nxd5": "So it's not really threatening the black queen, and the bxd5 would have at least threatened the a rook",
+        "14... Qh6": "uh oh..Qh2 dead :o(",
+        "15. Ne7+": "but wait!",
+        "15... Kh8 16. Qxd8#": "hehehe... of course that was the plan all along :0))  (I wish!!)"
+    },
+    "url": "https://gameknot.com/annotation.pl/26th-gk-tournament?gm=305",
+    "gameName": "26th GK tournament",
+    "players": "jecnz (1343) vs. kazzador (1547)",
+    "opening": "King's knight opening (C40)"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "I open with a brilliant Pawn to e5... strategically ingenius.",
+        "1... e5": "Opponent responds with the same.",
+        "2. Bc4": "I fire out the bishop to f4, threatening nothing.",
+        "2... Nf6": "A critical mistake as opponent responds with Knight to f6.",
+        "3. f3": "I deal a crushing blow by placing pawn to f3.",
+        "3... d5": "Noticing trouble, opponent moves pawn to d5.",
+        "4. exd5": "I capture pawn, threatening mate... Opponent times out game."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=26874",
+    "gameName": "Team match",
+    "players": "mrmarmalade (1513) vs. midway (1367)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

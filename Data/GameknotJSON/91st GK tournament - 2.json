@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5": "An original response by black.",
+        "4. O-O Nf6": "Attacks the undefended e pawn and develops the black knight at the same time.",
+        "5. d3 d6 6. h3": "Prevents Bg4 which would be pretty annoying to deal with.",
+        "6... O-O 7. Bg5 Na5 8. Nbd2": "He wins my LSB. I decided by play this to give my knight a good position.",
+        "8... c6 9. a3": "Creates an escape square for my LSB and prepare for a b4 advance(FORK)",
+        "9... Nxc4 10. Nxc4 Re8 11. Qd2 b5 12. Ne3 h6 13. Bh4 d5 14. exd5 Bxe3 15. Qxe3 Nxd5 16. Bxd8 Nxe3": "I win at least a pawn here.",
+        "17. fxe3 Rxd8 18. Nxe5 c5 19. Nxf7 Re8 20. e4 Re6 21. Nd8 Rd6 22. Nf7 Re6 23. Nd8 Rd6": "RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.",
+        "24. Nf7 Re6 25. Nd8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/91st-gk-tournament?gm=43729",
+    "gameName": "91st GK tournament",
+    "players": "richard1234567 (1531) vs. petery (1581)",
+    "opening": "Giuoco Piano (C50)"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. c4": "This is another ladder game against a significantly higher ranked player. In this one I had serious hopes of a draw. It all starts with the English opening.",
+        "1... Nc6 2. e4 e5 3. Nc3 Bc5 4. Nf3 d6 5. Na4 b6 6. Nxc5": "The computer gives white a very slight edge here, presumably due to blacks soon to be doubled pawns.",
+        "6... bxc5 7. a3 Bg4 8. Be2": "I don't want the knight pinned due to blacks threat of Nd4",
+        "8... Bxf3 9. Bxf3 Nd4 10. Bg4 c6 11. b4 Nf6 12. d3 h5": "I'm guessing from this that black isn't intending to castle in the forseeable future. ",
+        "13. Bh3 Ng4 14. Bxg4": "Although the computer doesn't complain about this move I'm not sure it was the wisest as it opens a line for the black rook to my soon to be castled king",
+        "14... hxg4 15. Bb2 g3": "This was a bit of a suprise, the computer calls it an inaccuracy preferring \u2026 Qg5 16. Bxd4 cxd4 17. Qa4 Rc8. I rarely get a material advantage against such a high ranked player without a lot of pain following soon after but I couldn't see here what that might be",
+        "16. fxg3 Qg5 17. Bxd4 cxd4 18. Qf3 f6 19. h4 Qh6 20. Qg4": "The computer calls this a mistake preferring 20. O-O O-O-O 21. Qg4+ Rd7 22. Rad1 Kc7 but my plan was to gain a little more material in the hope that I would stand a chance of getting a draw",
+        "20... a5": "This is something I never usually see, a move that the computer calls a blunder from a high ranked player due to \u2026 a5 21. Qe6+ Kf8 22. Qxd6+ Kg8 23. O-O Qe3+ 24. Kh2 Qxd3 25. Qxc6 Kh7 26. c5 Rhb8 27. bxa5 Rxa5 28. Qc7 Rab5 29. Rxf6 Rxc5",
+        "21. Qe6+ Kf8 22. Qxd6+ Kg8 23. Qxc6": "This was pure greed and the computer calls it a mistake. I figured with being 3 pawns ahead my chances of a draw were fair to good.",
+        "23... Kh7 24. b5 Rhc8 25. Qe6 Qe3+ 26. Kf1 Qxd3+ 27. Kg1 Qxe4 28. Kh2 d3 29. Rhe1 Qg6 30. g4 Kh8": "I was expecting Re8 though I guess that black wanted to avoid the forced queen exchange resulting from Qf5, This does however lose a pawn.",
+        "31. Rxe5 Rce8 32. Qf5 Qh6 33. Rxe8+ Rxe8 34. Qh5 Qxh5 35. gxh5": "I Can't say I am totally thrilled with having doubled pawns here though I still had hopes of a draw, the computer gives white a fair advantage at this point",
+        "35... Rc8 36. Rd1 Rxc4 37. Rxd3": "I'm more than happy to exchange pawns.",
+        "37... Rxh4+ 38. Rh3 Rc4 39. b6 Rc8 40. Rb3 Rb8 41. Kg3 Kg8 42. Kf4 Kf7 43. Ke4 Ke7 44. Kd5 a4 45. Rb4 Kd7 46. Kc5 Rh8 47. g4 Rc8+ 48. Kd5 Rd8 49. Kc5 Rc8+ 50. Kb5": "looking to grab blacks a pawn so that I can support my b pawn.",
+        "50... Re8 51. b7": "This is a mistake due to 51. b7 Kc7 52. Ka6 Kb8 53. Rb6 Rd8 54. Re6 Rh8 55. h6 gxh6 56. Rxf6 Rd8 57. Rxh6 Re8 58. g5 Rg8 59. g6 Re8 60. Rh7 Re6+ 61. Kb5\n\nBest was 51. Rc4 Rb8 52. Rc7+ Kd6 53. Rxg7 f5",
+        "51... Kc7 52. Ka6 Kb8 53. Rxa4": "Blunder: +1.91 \u00bb 53. Rxa4 Re6+ 54. Kb5 Kxb7 55. Rf4 Rb6+ 56. Ka5 Re6 57. a4 Re7 58. Kb4 Re5 59. Rc4 Ka6 60. Rc6+ Kb7 61. Rc5 Re4+ 62. Rc4 Re2 63. a5\n\nBest: +6.13 \u00bb 53. Rb6 Rf8 54. Re6 Rd8 55. h6 gxh6 56. Rxf6 Re8 57. Rxh6 Rd8 58. g5 Rf8 59. Rc6 Rd8 60. Rf6 Re8 61. g6 Kc7 62. g7 Kb8 63. Rf8\n\nDespite this the computer still thinks white has the edge",
+        "53... Re6+ 54. Kb5 Kxb7 55. Rd4 Re5+ 56. Kc4 Kc6 57. Rf4 Kb6 58. h6 gxh6 59. Rxf6+ Kc7 60. Rg6": "I thought by doing this I might get to promote a pawn. Nxh6 would be better",
+        "60... h5 61. g5 h4 62. Rg7+ Kd6 63. a4 h3 64. Rg6+": "This is the first of two mistakes which lost me the game: - \n\nMistake: -0.02 \u00bb 64. Rg6+ Re6 65. Rg8 Re4+ 66. Kb3 Rh4 67. Rd8+ Ke5 68. Rd1 h2 69. Rh1 Kf5 70. a5 Kxg5 71. a6 Rh3+ 72. Kc4 Rh7 73. a7 Rxa7 74. Rxh2\nBest: +1.72 \u00bb 64. Rh7 Rxg5 65. Rxh3 Kc6 66. Rh4 Rd5 67. Re4 Rd1 68. Re6+ Rd6 69. Re2 Kb6 70. a5+ Ka6 71. Ra2 Rc6+ 72. Kd5 Rf6 73. Kd4 Rf4+ 74. Kc5",
+        "64... Re6 65. Rg7": "And all of a sudden black is ahead despite my material advantage\n\nMistake: -2.86 \u00bb 65. Rg7 Re4+ 66. Kb5 Rh4 67. Rg6+ Kd5 68. Rc6 h2 69. Rc5+ Ke6 70. Rc6+ Kd7 71. Rc1 h1=Q 72. Rxh1 Rxh1 73. a5 Rg1 74. Kb6 Kd6 75. a6\nBest: -0.02 \u00bb 65. Rg8 Re4+ 66. Kb3 Rh4 67. Rd8+ Ke5 68. Rd1 h2 69. Rh1 Kf5 70. a5 Kxg5 71. a6 Rh3+ 72. Kc4 Rh7 73. a7 Rxa7 74. Rxh2 Ra4+ 75. Kd5",
+        "65... Re4+ 66. Kb5 Rh4 67. Rg6+ Ke5 68. Rf6 h2": "Very well played by black. Once again I have thrown away a material advantage against a significantly higher ranked player. My consolation in this game was that I survived over 60 moves. Maybe one day there will be a different result.\n\nThanks for reading, please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-lose-at-chess-pt-10-so-near-yet-so-far?gm=55319",
+    "gameName": "How to lose at chess pt 10 - So near yet so far",
+    "players": "elwoos (1487) vs. varcany (2182)",
+    "opening": "English opening (A10)"
+}

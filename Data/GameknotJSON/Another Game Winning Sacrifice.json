@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "I begin with my favourite opening, the queen's gambit.",
+        "2... c5": "Not a common response. Contesting for centre control.",
+        "3. e3 cxd4 4. exd4": "I didn't mind the exchange. It allows for my dark squared bishop to get into the action.",
+        "4... Nf6 5. Nc3 e6 6. Bd3 dxc4 7. Bxc4 Bb4 8. a3 Ba5 9. b4": "I was planning on castling on the king side so I did not hesitate to advance my pawns with tempo.",
+        "9... Bb6 10. Bf4": "It would have been a better idea to develop my knight protecting my d4 pawn and allowing me to castle.",
+        "10... Bxd4 11. Nge2 e5 12. Bg5 Bg4 13. Qa4+ Bd7 14. Qb3": "Controlling the diagonal with my queen a bishop became the theme for the rest of the game. It made it dangerous for my opponent to castle on the king side but Bf7 would prevent him from castling at all.",
+        "14... Qb6 15. Bxf6": "He tried to counter with a similar idea but he would rather leave the diagonal than to expose his king.",
+        "15... Qxf6 16. Nxd4 exd4 17. Nd5": "Forking the queen and the c7 fork.",
+        "17... Qd8 18. O-O Bc6 19. Nf4 O-O 20. Rfe1 Qg5 21. g3 Nd7": "Here I should've played b5, winning the bishop. Instead I played h4 attacking the queen and giving my king space.",
+        "22. h4 Qf5 23. b5 Be4 24. f3": "Since I was late playing b5, the bishop had a flight square.. But I was determined to win material.",
+        "24... g5": "Black tries to counter thinking that I would retreat my knight, but..",
+        "25. Ne6": "Ne6! The pawn cannot capture the knight because Bxe6 would fork the king and the queen.",
+        "25... Bxf3 26. Nxf8 Nxf8 27. Ref1": "The bishop tries to escape but the rook pins him to the queen.",
+        "27... gxh4 28. Rxf3 Qc5 29. Rxf7": "Putting a lot of pressure on the black king, plus threatening a discovered check to win the queen.",
+        "29... Kh8 30. Rxb7": "Here I was hoping that he would move d3+ because then it would open up the long diagonal so that my queen could checkmate.",
+        "30... d3+": ".. Wish granted.",
+        "31. Kh1 Qd4 32. Rf1 Qe4+ 33. Kh2 Qe2+ 34. Kg1 Qe3+ 35. Rf2 Qd4": "He checks me a bunch until he eventually gets my rook pinned to my king then continues to defend the diagonal.",
+        "36. Qxd3": "Forcing to trade queens by threatening checkmate (Rxf8 Rxf8 Qxh7).",
+        "36... Qxd3 37. Bxd3 hxg3 38. Rff7": "Not what you want to see as the black king.",
+        "38... Rd8 39. Rbxa7": "Take my bishop.. I dare you..",
+        "39... Ng6": "I see that he can fork my bishop and rook but it is too late to save the game by trying to win my bishop.",
+        "40. b6 Ne5 41. Rfxh7+ Kg8 42. b7 Nxd3": "He takes the bishop, hoping to take my rook with the king next turn. His efforts prove to be futile. Another, potentially better, move would've been Kc6 followed by Kb8 preventing my pawn from reaching the 8th rank.",
+        "43. Ra8": "Sacrificing my rook gets me a queen and ultimately wins me the game.",
+        "43... Rxa8 44. bxa8=Q+ Kxh7 45. Qe4+": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/another-game-winning-sacrifice?gm=43498",
+    "gameName": "Another Game Winning Sacrifice",
+    "players": "mrdaddychops (1483) vs. -- (1250)",
+    "opening": "QGD (D06), symmetrical (Austrian) defence"
+}

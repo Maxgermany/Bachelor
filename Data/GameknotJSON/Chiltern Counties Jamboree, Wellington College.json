@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6": "I aim for my favourite King's Indian, though I did contemplate essaying a Grunfeld.",
+        "3. Nc3 Bg7 4. e3": "Not the best response, which is 4. e4.  White adopts a standard QGD formation, which doesn't quite meet the demands of the KID.",
+        "4... O-O 5. Nf3 d6 6. Bd3 Nc6": "If the pawn had been on e4, I'd probably have adopted John Nunn's recommended approach with ...a5 (to discourage the Bayonet Attack) and ...Na6.  With White's B on d3, I planned to meet 7. d5 with ...Nb4.",
+        "7. a3": "White puts paid to that idea but my next move allows a more conventional response with my N.",
+        "7... e5 8. d5 Ne7 9. O-O Ne8": "Announcing my plan to make the classic KID ...f5 thrust, followed by a pawn storm.",
+        "10. e4": "Necessary, but White has wasted a tempo he could ill afford.",
+        "10... f5 11. Nd2": "White over-defends e4, avoids potential pawn forks of d3 and f3 and prepares to meet the attack with f3.",
+        "11... Nf6": "Without delay, I bring the N back into the action to exert pressure on e4.",
+        "12. Qc2": "White continues to over-defend e4, while exerting pressure on f5 and potentially preparing counter-attack on the queenside.  However, he underestimates the need to defend the kingside.",
+        "12... f4": "I take the opportunity to shut White's pieces out of the game to enable my g and h pawns to join in the attack.",
+        "13. Nf3": "White rushes his N back to f3 to prevent ...g5.",
+        "13... Bg4": "So I prepare to swap it off.  this B usually impales itself on White's defences anyway.  Now it will get full value for its efforts.",
+        "14. Be2": "After this, at least White will not incur doubled pawns.",
+        "14... Bxf3 15. Bxf3 g5 16. Qe2": "White does his best to inhibit the next advance.",
+        "16... a6": "Now I wanted to use my Q to support the pawns' advance with ...Qe8 but I didn't want to allow White to fork Q and R with Nc3-b5-c7, so I slotted this move in before prosecuting my attack.",
+        "17. Bd2": "White takes the opportunity to develop his B.  With two or three more moves, he could generate some counterplay on the Queenside: eg Rc1, Na4, c5",
+        "17... Qe8 18. h3": "Another attempt to discourage ...g4",
+        "18... h5 19. Kh2": "Getting the King off the g-file but not avoiding danger ..",
+        "19... Qg6": "Threatening to trap the B on f3.",
+        "20. Rfg1": "? In a difficult position, White makes things worse, cutting off his King's escape.",
+        "20... g4 21. hxg4 hxg4 22. g3 Qh5+": "!  A more attractive opportunity has presented itself. I'd originally planned to take the Bf3 but this forces mate: 23. Kg2 Qh3#.  Rarely has Black's pawnstorm been so effective!  A very satisfying end to my OTB season :-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/chiltern-counties-jamboree-wellington-college?gm=58454",
+    "gameName": "Chiltern Counties Jamboree, Wellington College",
+    "players": "John Watts (1615) vs. Bob Jacobs (1645)",
+    "opening": "King's Indian (E61), Smyslov system"
+}

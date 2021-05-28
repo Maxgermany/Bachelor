@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6": "The starting position of the tournament.",
+        "6. e4 g6 7. Bd3 Bg7 8. Nf3 O-O 9. h3 b5 10. Nxb5 Re8 11. O-O Nxe4 12. Re1 a6": "Prior to the tournament I was unfamiliar with the opening, so I consulted the games database. Following the most common variation, I arrived here.",
+        "13. Rxe4 Rxe4 14. Nxd6": "After my opponent takes on e4, I decide to exchange rooks, not paying enough attention to the hanging knight on b5. Elyhim uses the opportunity to smash my weakest pawn. I suppose, 13. ... axb5 would have been a safer move.",
+        "14... Rb4": "Confident that I will be able to take the knight on d6 (or the pawn on d5) later, I decide to hold onto the material advantage and find a retreat square for my rook. I was aiming at b2, hoping to secure some advantage on the queenside after my center had been destroyed.",
+        "15. a3 Rxb2": "I was not afraid to trade my rook for a bishop and a pawn, because that way I would have created a passed pawn on c5 to compensate (hopefully) the passed pawn on d5 my opponent already had.",
+        "16. Nxf7": "I admit, that came completely unexpected. Now I see that four other opponent's pieces (two bishops, the knight on f3 and the Queen) are aimed towards my king, and after I had lead my rook astray, I don't have any means to counter that. My first thought was to play Qxd5, but I suspected N3g5 would make my life miserable. I knew it was not going to end well...",
+        "16... Kxf7": "But I took anyway. Partly because I see no other move, partly because I was interested in how the opponent's combination would unfold. The Gameknot computer that analysed the game after it was finished was okay with this move, but, frankly, I don't believe it. I think the game was lost at this point.",
+        "17. d6": "I expected elyhim to start an attack (most probably at Ng5) right away, but his move was a lot better than I could have thought of. All his pieces are now ready to attack my exposed king.\nNote how the sacrificed knight contributed to this move, taking away my d6 pawn on 14-th move. In my opinion, the knight's route b5-d6-f7 is one of the most devious and cunning sequences performed by one piece.",
+        "17... Rb6": "The computer says I should have played Rb7. I agree. It would have brought my rook into play faster and secured at least some protection of the f7 square. Perhaps I was already in panic, but I did not see that.",
+        "18. Ng5+ Kf8 19. Qf3+": "The game was as good as over by this point. All the moves I made were forced.",
+        "19... Bf6 20. Nxh7+ Kg7 21. Qg3": "After the second knight took the pawn on h7, my g6 pawn became the weakest point.",
+        "21... Qe8 22. Nxf6 Kxf6 23. Bh6": "Threatening Qg5 - Kf7 - Qxg6.",
+        "23... Bf5 24. Bc4": "At this point I surrendered because I have nothing to counter Qg5 followed by bringing the rook in e1. Note that in the end a rook and a knight remain undeveloped. I see my first and foremost mistake in forsaking the normal development of pieces. For example, 13. ... axb5 would have opened some opportunities for my second rook, and 14. ... Qxd6 followed by Bb7, and Nd7-Nb6 would have possibly allowed me to take back the d5 pawn with some chances of equalizing the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/thematic-benoni-a-brave-knights-escapade?gm=50714",
+    "gameName": "[Thematic Benoni] A Brave Knight's escapade",
+    "players": "elyhim (2358) vs. rednif_tap (1875)",
+    "opening": "Nimzo-Indian defence (E20)"
+}

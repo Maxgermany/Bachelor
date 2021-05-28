@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4": "The King's Gambit Accepted",
+        "3. Nf3 Nc6": "Nc6 - although not a popular move is nevertheless a sound enough move",
+        "4. Bc4 d6": "A more forthright option was 4. ...g5",
+        "5. d4 Bg4 6. O-O Nf6 7. Bxf4": "Recapturing the pawn",
+        "7... Be7 8. e5": "This pawn advance is perhaps premature",
+        "8... dxe5 9. Bxe5 Nxe5 10. dxe5 Qxd1 11. Rxd1 Bxf3 12. gxf3": "After several exchanges this position may be slightly better for Black: Black has only two pawn islands compared with White's three; White's King is looking a little exposed",
+        "12... Bc5+ 13. Kg2 Nh5 14. e6": "Losing the pushed pawn by a simple fork",
+        "14... Nf4+ 15. Kh1 Nxe6 16. Bxe6 fxe6 17. Nc3 Rf8": "Attacking White's isolated f-pawn",
+        "18. Ne4 Bb6 19. Ng5 Ke7": "Defending the e-pawn whilst accepting the loss of the h-pawn",
+        "20. Rde1 Rf6 21. Nxh7 Rxf3 22. Ng5 Rf6 23. Re4 Rd8 24. Rae1 Rd6": "White has gathered all his pieces on the e-pawn and Black is tied to its defense",
+        "25. Nh7 Rf2": "An active looking move but if the Knight returns to g5 then the Rook must retreat to defend the pawn.",
+        "26. Re1e2": "Instead White allows an exchange of Rooks",
+        "26... Rxe2 27. Rxe2 Rd5": "A seemingly quiet move that actually threatens to trap the Knight with Rh5 (which my opponent missed)",
+        "28. Kg2 Rh5": "The knight is trapped although after White plays the knight to e8 he is able to capture the e-pawn.  However, the position is such now that this is not enough for White",
+        "29. Nf8 Kxf8 30. Rxe6 Kf7 31. Re2 Rh6 32. h3 Rg6+ 33. Kf3 Rf6+ 34. Kg4 Rf2": "To keep the Rook, White must forfeit the c-pawn and it's difficult to see any counter-play for White. As it is, White decides to exchange Rooks which leaves Black with a decisive advantage",
+        "35. Rxf2+ Bxf2 36. h4 Bd4 37. b3 Bb2 38. h5 a5 39. a4 c6 40. Kf5 b5 41. Kg4 bxa4 42. bxa4 Kf6 43. Kf4 c5 44. Kg4 Bc3 45. Kh4 Kf5 46. h6 gxh6 47. Kh5 Bd2 48. c4 Be3": "The wrong idea - the correct plan is to immedtiately march the King over to the queenside and capture White's pawn and promote his own.  Although this plan was played out eventually, the text shows that Black was too slow",
+        "49. Kh4 Kg6 50. Kg4 h5+ 51. Kf3 Bd2 52. Ke2 Bb4 53. Kf3 Kg5 54. Kg3 h4+ 55. Kh3 Bc3 56. Kh2 Kg4 57. Kh1 Kg3 58. Kg1 h3 59. Kh1 Kf3": "Only now is the winning plan clearly implemented",
+        "60. Kh2 Ke3 61. Kxh3 Kd4 62. Kg3 Kxc4 63. Kf3 Kd3 64. Kf4 Bb4 65. Kf3 c4 66. Kf2 Kd2": "White resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gambit-accepted?gm=52763",
+    "gameName": "King's Gambit Accepted",
+    "players": "mancele  vs. iohannes7 ",
+    "opening": "King's knight's gambit (C34)"
+}

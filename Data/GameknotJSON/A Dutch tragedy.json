@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 f5 2. c4 d6 3. Nf3 Nf6 4. Nc3 g6 5. g3 Bg7 6. Bg2 O-O 7. Qc2": "White deviates from standard play here. I think there is nothing wrong with placing the queen on c2 but it is quiet and leaves the initiative to black.",
+        "7... Qe8": "Improving the queen, she can now support queenside expansion, or she can slip to f7 to pressure the f-file. It also prevents potential pins with the rook by a knight on e6 or with the knight on f6 if the e-pawn is pushed.",
+        "8. O-O": "Probably had to get that move in anyhow",
+        "8... c6": "copying white's positional play style, blocking the long diagonal from the white bishop and protects the important d5 square",
+        "9. Nh4": "White wants to initiate action, probably planning an advance to e4 with ...fxe4, Nxe4 Nxe4, Bxe4 with now the bishop and the queen in line on the b1-h7 diagonal with the knight ready to be sacrified on g6",
+        "9... Qf7": "Delays black's intentions because he has to cover the c4 pawn before advancing to e4",
+        "10. b3 Na6": "Here, if White doesn't prevent Nb4, his queen has to leave the second rank, and this is bad because his exchanges on e4 will let the black light squared bishop go to h3 attacking the rook, and if the rook moves the queen takes on f2 (note that the e2 and the f5 pawns are out)",
+        "11. a3 Nc7": "Now black has full control on d5 and needs only a d6-d5 to cross out white's plan of e2-e4",
+        "12. Bb2": "White makes good judgement as his dark long diagonal was very weak but now black has the full initiative",
+        "12... d5": "cutting short any hope of getting e4 in",
+        "13. c5": "what else?",
+        "13... Ng4": "Black's counter attack; preparing e5. ...Nd7 here would have reduced options and let black defend d4. 14. h3 is not really a threat as we will see because the knight has an excellent sacrifying option",
+        "14. h3 Nxf2": "as promised",
+        "15. Kxf2": "Taking with the rook would have been better; white would be left with slight material disadvantage but in a safe position and a spot for the second rook on f1, now the king is out open",
+        "15... Bxd4+ 16. e3 Bxc5": "already full compensation for the knight plus an excellent position for the bishop",
+        "17. Nf3": "Maybe b4 would have complicated matters a little for black",
+        "17... f4": "opening the f-file for a massive attack",
+        "18. gxf4 Qxf4 19. Qe2 Bxh3": "working about pieces pinned all around the king, so that the black rook can capture the white knight without being captured by the white bishop",
+        "20. Bxh3 Qh2+ 21. Bg2": "Retains the bishop, but allows black a deadly continuation white shouldn't be able to recover from..",
+        "21... Rxf3+ 22. Kxf3 Rf8+ 23. Kg4 h5+ 24. Kg5 Qg3+ 25. Kh6 Bxe3+": "... eventually winning the queen.",
+        "26. Qxe3 Qxe3+": "Now white has little reason to keep on playing except to wait for an error from black",
+        "27. Kxg6 Qg3+ 28. Kxh5 Qxg2": "??? with just a little more effort, 28. ... Qh2  29. Kg4 Qxg2  and the rest was history. Now the queen is lost with 29. Rg1",
+        "29. Rfg1 Rf5+ 30. Kh6": "Here black drew. However the continuation that follows offered him an excellent position against white ",
+        "30... Rg5 31. Rxg2 Rxg2": "All white's moves to protect the bishop are ugly: Nd1 shuts the rook, so does Bc1, Na4 gets removed by ...b5, Ra2 and Rb1 are not much better. Plus, black has two passed pawns."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-dutch-tragedy?gm=9298",
+    "gameName": "A Dutch tragedy",
+    "players": "Evan  vs. Sam ",
+    "opening": "Dutch defence (A84)"
+}

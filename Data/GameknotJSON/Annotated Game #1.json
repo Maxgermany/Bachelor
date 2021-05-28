@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6 3. Bc4": "This is my favorite opening to play. 3. Bc4 puts pressure on f7 pawn, which only the king defends. I also play this when black does 2... Nc6 just to be different and not do the Ruy Lopez that everyone expects when I reach for the bishop.",
+        "3... Nxe4 4. d3 Nc5 5. Nxe5 Be7": "??? At this point, he had lost the game. I had won his queen, and I offered to let him resign the game now, although he felt he could continue and at least try to get something done with the rest of the game.",
+        "6. Nxf7 O-O": "?? Castling is a good idea... as long as it doesn't result in a discovered check when I take 7. Nxd8. Four minutes on the clock.",
+        "7. Nxd8+ Kh8 8. Nf7+ Kg8 9. Ne5+ Kh8 10. Qh5": "It's usually not a good idea to start moving your queen out on move 10, especially before castling, but I wanted to see if I could finish the game in the next ten moves and this was the easiest way I could see to do it. Three minutes on the clock.",
+        "10... g6": "?? Not only does this move does nothing useful, as I could just as easily respond 11. Qh6, but I could force a relatively fast mate after this. 2 Minutes on the clock.",
+        "11. Nf7+": "I did this move to taunt him with the possibility of winning my queen, but knowing he couldn't. I'm mean that way. I later found out that at this point in the game I have a forced mate in 6 if he plays perfectly, which he didn't. ",
+        "11... Kg7": "11...Rxf7 would have prolonged his imminent death at this point, but not for long - as I would respond Bxf7 winning two points.",
+        "12. Qh6+ Kf6 13. Qh4+ Kf5 14. Qf4#": "Checkmate with two minutes on the clock. Black had one minute. "
+    },
+    "url": "https://gameknot.com/annotation.pl/annotated-game-1?gm=12988",
+    "gameName": "Annotated Game #1",
+    "players": "Xaviar  vs. Martin ",
+    "opening": "Petrov (C42), Italian variation"
+}

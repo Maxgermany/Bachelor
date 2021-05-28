@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "Black surrendered, and I still dont see why",
+        "1... d5 2. c4 e6 3. g3 c5": "I dont like playing aganst this move.\r\nThe result is usually balck accepting a weak pawn on d5, in return for taking the initiative.",
+        "4. Nf3 Nf6 5. Bg2 Nc6 6. O-O Be7 7. cxd5 Nxd5": "I would have expected 7...,exd5; 8.dxc5;\r\nBlack has an isolated center pawn, but he also takes the initiave.",
+        "8. Nc3 Nf6": "Another move with the same piece, this should give me the lead in development",
+        "9. Bf4": "Fighting over control of e5, hoping to play Ne5",
+        "9... a6 10. Qa4": "This move took me a lot of thought.\r\nAfter carefull consideration I concluded blacks next move was harmless.\r\n",
+        "10... Bd7 11. dxc5": "Whites idea is playing Rd1 and Ne5,  combining forces against d7 and c6;\r\nIf he can white would also like to keep the c5 pawn, after say 11....,Ne5?!, Qc4;",
+        "11... Bxc5 12. Qc4": "Moving the Queen ou of harms way",
+        "12... Ba7 13. Bd6": "Hoping to pin the black king in the center",
+        "13... Rc8 14. Qh4 Ne7 15. Ba3": "Better is an immediate Ng5, with some tactical play against blacks kingside.\r\nTHis is one reason the white Queen went to h4",
+        "15... Bc5": "Annihilating the pin, white completely missed this move",
+        "16. Bxc5": "The only way to continue, but much of whites initiative is gone now",
+        "16... Rxc5 17. Ng5 Nf5 18. Qb4": "Hoping to pin blacks king yet again",
+        "18... b6 19. Nge4": "With some ideas of Nd6+",
+        "19... Nxe4 20. Nxe4 Rb5 21. Qa3": "If black noiw play Qe7, he will be in trouble after g3-g4!",
+        "21... Ra5": "White still has a dangerous initiative, but to many pieces have been exchanged.\r\nBlack has good odds of equalizing",
+        "22. Qd3 O-O 23. Rfd1": "Now back surrendered, saying \"I must be blind\"\r\nThe strange thing is he still can play Rd5.\r\n\r\nThen we could have 24.Qxa6, Bb5; 25,Rxd5; Qxd5; 26.Qxb6 whcih threatens Nf6+;\r\n\r\nProbably black has to accept losing a pawn, but that should be the worst of it\r\n\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/jay-jay-sri-ivanchuk?gm=30572",
+    "gameName": "jay jay Sri Ivanchuk",
+    "players": "eduard352 (1846) vs. weelamb (1765)",
+    "opening": "Queen's gambit declined (D30)"
+}

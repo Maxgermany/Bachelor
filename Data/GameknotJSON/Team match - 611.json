@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4 Nc6 3. c3 Nf6 4. f3 e6 5. d3 d5": "this is premature, allowing white to steer the game into a French Defense unfavorable for black.  much better was 5 ... a6",
+        "6. Bb5 a6": "a difficult choice.  black decides to force white to exchange the bishop for the knight and then trade off his two resulting \"c\" pawns by ... c5 and cxd4.",
+        "7. Bxc6+ bxc6 8. e5 Nd7 9. f4 Be7 10. Nf3 O-O 11. O-O f6": "this typical french move doesn't turn out well for black, but what does he have here?  passive is play is not to my liking.",
+        "12. d4 Qb6 13. b3 cxd4 14. cxd4 c5 15. Be3 Bb7 16. Nc3 fxe5 17. fxe5 c4": "a bold try to get something going.  White responds well, gaining a very strong position.",
+        "18. Na4 Qd8 19. Qe1 cxb3 20. axb3 Bc6 21. Qg3 Bb5": "the only thing this move has going for it is that white will not be able to place a rook at f1.  white soon eliminates the possibility of a cheapo mate by playing h4.",
+        "22. Bh6 Rf7 23. Rf2 Rc8 24. h4 Nf8 25. Ng5": "this required some real calculation by white which he failed to do.",
+        "25... Rxf2 26. Kxf2 Ng6": "the only chance of resistance.  ",
+        "27. h5": "probably 27 Nf3 needed to by played here.   the complications which result from 27 h5 allow black to escape and gain at least a draw.  ",
+        "27... gxh6 28. Nxe6 Qd7 29. Nb6": "a horrible blunder.  black had reckoned on 29 either(!) knight to c5 and ... Rxc5!  i.e.\r\n\r\n29 Nec5 Rxc5 30 Nxc5 Qf5+! 31 Kg1 Qf4! allowing the knight on g6 to escape capture and producing a position which black shouldn't lose.\r\n\r\n29 Nac5 Rxc5 30 dxc5 Qxe6 31 hxg6 and now black needs to find the best move in a good position.",
+        "29... Qxe6 30. Nxc8": "white's best was going in for an ending where he is two pieces down and should lose",
+        "30... Bh4 31. Qxh4 Nxh4 32. Rc1 Qg4": "forcing the win rapidly",
+        "33. Ne7+ Kf8 34. Rc7 Qxg2+ 35. Ke3 Qe2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=24929",
+    "gameName": "Team match",
+    "players": "lamourjv (1571) vs. francisbaron08 (1605)",
+    "opening": "Sicilian defence (B20)"
+}

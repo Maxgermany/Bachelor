@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7": "Sicilian Najdorf variation - old main line. I usually play Qb6 here, accepting the \"poisoned\" b2 pawn after 8. Qd2. Black's position may seem unstable after 8.. Qxb2 9. Rb1 Qa3 10. f5 (or 10. e5!? dxe5 11. fxe5 Nfd7 where black will castle and be fine. Also 10. Be2!? or 10. Bxf6!? lead to at least equality for black, as white is losing initiative) ..Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6 gxf6 15. Ne4\r\n\r\nAfter all the fireworks clear - black seems to lack anything around his king, while white enjoys a dominating knight and open d-file. However, with accurate play, black's position is quite good, probably better than white's. After 15.. Qxa2, black is up three pawns as well. \r\n\r\nAnyway, after that divergence, I chose to play the solid Be7 here for god knows why.\r\n\r\n",
+        "8. Qf3 Qc7 9. O-O-O O-O": "More accurate is the immediate Nbd7 here.",
+        "10. Qg3 Nc6 11. e5 dxe5 12. Nxc6 bxc6 13. fxe5 Nh5 14. Qh4": "better is Qg4, ready to meet f6 with Bd2.",
+        "14... f6 15. Be3": "? A poor move",
+        "15... Qxe5 16. Re1 Rb8 17. Bd3": "Better here would have been Bd2! Where I will have trouble holding onto the h5 knight. However, I do certainly get compensation in the form of an attack. After 17.. Rb4  18. g4 Qb8 19. Qxh5 g6 20. Qa5 Rxb2. However, Bd3 here is passive.",
+        "17... Qa5": "Be very quiet, I'm hunting a white king ",
+        "18. g4 Rxb2": "Boom! Obviously Kxb2 Ba3+ leads to mate.",
+        "19. Qxh5 f5": "I mustn't ignore Bxh7+ with mate for white. ",
+        "20. Bd4": "Now Kxb2 does not lead to mate.",
+        "20... Rb4 21. Be5 Rxg4 22. Qh3 Bb4": "Pressuring the knight.",
+        "23. Kd2 Rd8": "Open file on the white king + pin on the bishop. I've given up a knight for three pawns; however you can clearly see I have a much better position. White's king is engulfed in a sea of black pieces.",
+        "24. a3 Bxa3": "Up to 4 pawns for the knight .. my attack isn't gone yet either.",
+        "25. Qf3": "Probably more accurate is Re3, but I'm coming either way!",
+        "25... Rd5 26. h3 Rg5": "This was lazy of me, Rg6 is better.",
+        "27. Bf4 Rg6 28. Rea1 Rc5 29. Rxa3": "This is the only way white can avoid losing a full piece.",
+        "29... Qxa3": "So now I've got a rook and 4 pawns for two pieces. pretty good!",
+        "30. Nb1 Qb2 31. Qf2 Qb4+ 32. Kc1 Rd5 33. Rf1 e5": "Storming my connected passed pawns.",
+        "34. Bd2 Qb8 35. Bc4": "Losing this exchange is not important. It's the passed pawns that are!",
+        "35... Be6 36. Bxd5 cxd5 37. Qc5 f4 38. h4 Bf7 39. Re1 f3 40. Rf1 Rb6 41. Na3 Rf6 42. Bg5 Rf5 43. Rf2 h6 44. Be7": "Bringing the bishop to a poor location to defend against my connected passed pawns.",
+        "44... e4 45. Bd6 Qe8 46. Nc4 Rh5": "dxc4 Qxf5..",
+        "47. Ne3 Qa4 48. Qc8+ Kh7 49. Qb7 Rxh4": "Now mate threats are growing, as well as my passed pawns. ",
+        "50. Kb2 Qd4+ 51. Ka2 Be6 52. Qe7 Rh1": "Threatening mate after Ra1+",
+        "53. Rf1 Rxf1 54. Nxf1 Qc4+ 55. Kb2 d4 56. Qb7 e3": "It's just not possible to stop the pawns. The ending isn't much to analyze and comes quickly",
+        "57. Nxe3 Qa2+ 58. Kc1 Qa1+ 59. Kd2 Qc3+ 60. Kc1 Qxe3+ 61. Kb2 f2 62. Qg2 Bd5 63. Qf1 Qc3+ 64. Kb1 Qe1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=26244",
+    "gameName": "Fast Ladder",
+    "players": "emmanouil_man (1957) vs. chessy131 (1927)",
+    "opening": "Sicilian (B99), Najdorf, 7...Be7 main line"
+}

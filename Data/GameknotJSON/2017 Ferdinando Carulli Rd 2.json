@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "My last game against Flyn was a completely one sided -- he has won very comfortably. I hoped this will turn out different !",
+        "1... d6": "hmm what is this ? I already have no patterns for this  ( googled up later this is Pirc)",
+        "2. d4 Nf6 3. Nc3 Nbd7 4. Bc4 e5 5. d5 Be7 6. b4": "? I wanted to stop  Nc5 .",
+        "6... a5": "I did not even see this coming ",
+        "7. bxa5 Rxa5": "the silver line is  Black  might spend time in repositioning the rook",
+        "8. Bd2 Ra8 9. Nge2": "I wanted to keep f4 option open",
+        "9... Nc5 10. Ng3": "Guarding the e pawn",
+        "10... O-O 11. O-O Bd7 12. Be3 Ra5": "looked for ways to trap the rook ....",
+        "13. f3 c6 14. Qe1": "I did not note that the Rook has the Queens support now. This move will also allow me swing to the queen side",
+        "14... h6": "stopping Bg5 ?",
+        "15. Rb1 Qc7 16. Nge2": "The plan was to exchange of the c5 Knight by playing Nc1,Nb3. Now I realised that black can play b5 and I can lose my bishop pair",
+        "16... Bc8 17. Ng3": "? changed plans -- now I planned Nf6 and after Bxf6 exf6 I can play Ne4 -- or that was the plan",
+        "17... Kh7 18. dxc6": "Should have stuck to Nf5 ?",
+        "18... bxc6 19. Nf5 Bxf5 20. exf5": "oops -- now black owns the center and I saw the pawn storm and I am losing a piece :-(",
+        "20... d5": "definitely losing a piece :-( was very very unhappy ",
+        "21. f4": "Keeping some chances with a King side attack ??",
+        "21... dxc4 22. Rf3 Ng4 23. Bd2 Qa7 24. Kh1 Ra3 25. h3 e4": "I can take the pawn and black will take the a pawn -- and I dont see anything good ",
+        "26. Rg3 Bh4": "? Is Black getting over aggressive ? was this a blunder ? I can get the piece ? and be exchange down ?",
+        "27. hxg4 Na4": "? I could have released the pin with Qe3 ? ",
+        "28. Nxe4 Rxa2": "?  I got hope now :-) I think Black  made a few very passive moves",
+        "29. g5": "again I didnot see Qe3 to release pin ...This move forces black to decide on the pin ",
+        "29... Qd4 30. Qe3": "Pin released -- and suddenly  white is looking good ",
+        "30... Qxe3 31. Rxe3": "The Black bishop has no place",
+        "31... hxg5 32. Rh3 Re8": "? the Bishop is trapped ",
+        "33. Nxg5+ Kg8 34. Rxh4 Re2 35. Rb8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/2017-ferdinando-carulli-rd-2?gm=62781",
+    "gameName": "2017 Ferdinando Carulli Rd 2",
+    "players": "Kumar,Mihir (1752) vs. Penoyer,Flyn (1800)",
+    "opening": "Pirc defence (B07)"
+}

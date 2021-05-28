@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+": "Slightly better is  5.Nxf7 Bxf2+ 6.Kf1 Qe7 7.Nxh8 Bb6 8.Bf7+ Kd8 9.Nc3 Qc5 10.Qe1 Qf8\n\n on 6. Kxf2 Nxe4+ 7.Kg1 Qh4 8.g3 Nxg3 9.hxg3 Qxg3+ 10 Kf1 d5 with an equal but unclear position, Blacks attack can become dangerous.",
+        "5... Ke7 6. Bc4 d5 7. exd5 Bxf2+": "A blunder by black leading to  8.Kxf2 Nxd5 9.Rf1 h6 10.Nf3 Be6 11.d3 Qd6 12.Kg1 Raf8 13.Qe1 Kd8 14.Nc3 Nxc3 15.Bxe6 Qxe6 16.Qxc3 Kc8 Where white is winning outright. ",
+        "8. Kxf2 Nxd5 9. Qf3": "I understand why you made this move. Your double attack threatening 10. Qxd5 and Qf7+  Here is where you got comfortable because you were clearly winning. We all have done that. One good idea is to use the analyze board function and move the pieces around making replies from both sides. This is encouraged in correspondence chess, which is the format for this game. \n\nOf course 10. Rf1 and castling by hand (as they call it) is much better. You contest control of the f file and get your king to safety. ",
+        "9... Rf8": "Pinning and winning the Queen. Since he has to loose the rook for the queen, it is better to develop with 10 Nc3 than to take the rook and develop his forces with tempo. By taking his rook you gave Black two free moves.",
+        "10. Qxf8+": "Because of the previous comment .... Better was...  10.Nc3 Rxf3+ 11.Nxf3 Be6 12.d3 Qd6 13.Ne4 Qb4 14.Re1 Nf6 15.c3 Qb6+ 16.Kf1 Bxc4 \n\nWhere you do your best to develop your entire army. Hindsight is always 20/20 and that is how we learn. Do you see why 10Qxf8 cost you two tempi? To put things in perspective 2 tempi can be worth more than one and a half pawns and in many cases more. ",
+        "10... Qxf8+ 11. Nf3 Ndb4 12. Na3": "Better was 12. Bb3 your knight (a knight on the rim is dim 90% of the time and here your Knight is also overworked having to guard both c4 and c2. \n\nBy moving your Bishop to b3 you would have protected your loose Bishop and gave your knight it's best square to move to. (coordination) ",
+        "12... Nd4 13. c3": "Here the fork does not work. It would have been better to focus on development with 13. d3 or 13.Rf1\n\nFor instance...  ( 13.d3 Nbxc2 14.Nxc2 Nxc2 15.Bd2 Nxa1 16.Bb4+  and white is winning again.",
+        "13... Nxf3": "Trading down is usually good when up material but not always! Here it is ...",
+        "14. gxf3 Nc6": "Black overlook the much stronger move 14 ...  e4!  Back was focused on preserving material and overlooked the position as a whole! ",
+        "15. d3 Bg4 16. Bd5 e4 17. Bxe4 Ne5 18. f4 g5": "19.Rg1 (development) gxf4 20.Nc4 Nxc4 21.Rxg4 Ne3 22.Bxe3 fxe3+ 23.Kxe3 Qh6+",
+        "19. Kg3 gxf4+ 20. Bxf4 Qg8 21. Bxe5": "21. better was Kf2 getting out of the way of the discovered attack",
+        "21... Rf8 22. Bf4 Bf5+ 23. Kf3 Qg4+ 24. Ke3 Bxe4 25. dxe4": "Here 25 Rhf1 was needed. ",
+        "25... Qxf4+ 26. Kd3 Qd6+ 27. Kc2 Rf2+ 28. Kb3 Qe6+ 29. Nc4 b5": "Resigning was the correct option, there are no longer any tricks in the position and Black has a forced mate. Take note how neither of your rooks ever moved in this game, in essence you were playing two rooks down at this point. Your opponent moved every piece and somehow despite his many inaccuracies managed to play the ending perfectly. Things like this happen it is all part of playing! You did very well, you just lost sight of your opponents possibilities when you were winning. Take care any feedback from you would be appreciated. \n\nChess can be frustrating as 40 good moves are often enough not good enough to win a game, where one bad move is more often enough to loose one.\nWell played sir... "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=62562",
+    "gameName": "Team match",
+    "players": "nikirandom (1389) vs. ttginny (1355)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. Nf3": "Reti Opening, maintaining White's options. ",
+        "1... d6": "Wade defense (or Philidor's defense by transposition), quite a passive and conservative choice of a defense by Black.",
+        "2. e4 e5": "Black must have went for equal opportunity with 2.Bg4 (preferable line).",
+        "3. d4": "Expected by white (after reaching Philidor's defense, by transposition)",
+        "3... Nc6": "3...Nd7 was a better choice",
+        "4. dxe5": "Threatening queen trade if Black recaptures 4...dxe5",
+        "4... Qe7": "4...Qe7, avoiding the queen trade, closes the path of the black bishop at f8.",
+        "5. Nc3 dxe5 6. Bb5 Bd7": "Opens the way for queen-side castling.",
+        "7. Bg5": "White is soliciting positional clarity on Black's side.",
+        "7... f6 8. Be3 a6 9. Bc4 O-O-O": "This is almost the latest that Black could have delayed his castling.",
+        "10. Qe2": "Activating the queen, and opening way for castling in both directions.",
+        "10... Bg4 11. O-O": "White could easily go for a draw 11.Bxa6 (draw forced in about 10 moves unless Black chooses to lose material). Black's queen-side is exposed.",
+        "11... g5": "Serves no purpose (neither tactical nor for positional play). Black should rethink this move. Playing it means that Black did not have a total appreciation of the position on the table.",
+        "12. h3 Bh5 13. Rfd1 Nd4": "Black still has not done anything to relieve the immediate danger on the queen-side!!!\nnote: Black seems to be playing moves TOO FAST!",
+        "14. Bxd4 exd4": "A miscalculation. Black should have recaptured by the rook not the pawn (in which case the pawn is lost).",
+        "15. Nd5 Qc5 16. g4 Be8": "16...Bg5 or 16...Bf7 were the better moves!",
+        "17. Nxd4 Rd6": "Not Black's best move in this position.",
+        "18. b4 Qa7 19. e5": "Shedding more light that Black should have played 17...Bd7.",
+        "19... Rxd5": "Big blunder. NO explanation for this move!!!",
+        "20. Bxd5": "Creating immense pressure on Black's king. Black does not seem to have much hope at this point.",
+        "20... h5": "Again, not very meaningful positionally. Black should have activated the queen (with 20...Qb6) instead of keeping it without purpose on the queen-side. It is obvious that White has now an overwhelming attack on the king-side.",
+        "21. exf6 Nxf6": "Another big blunder. It was time Black plays ...Bd7. Now Black will lose his knight with 22.Qe6  and 23.Qxf6",
+        "22. Qe6+ Bd7": "TOO LATE!!!",
+        "23. Qxf6": "Black resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/st-christopher-traning-game-asf04-vs-ihalimi?gm=15151",
+    "gameName": "St. Christopher traning game asf04 vs. ihalimi",
+    "players": "asf04  vs. ihalimi ",
+    "opening": "Reti (A04), Wade defence"
+}

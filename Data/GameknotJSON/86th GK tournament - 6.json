@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. c4": "an english opening ",
+        "1... e5 2. Nc3 Nc6": "this is known variation for the English opening which lead to closed game (closed English)",
+        "3. Nf3": "three nights game",
+        "3... Nf6": "four nights opening",
+        "4. e4": "this variation is one of the English opening variation which called (Nimzowitsch variation) ",
+        "4... Bc5": "continuing with the line and black prepares for castling",
+        "5. Be2": " prepareing for castling too",
+        "5... O-O": "castled",
+        "6. O-O": " too",
+        "6... d6": "devloping the d7 pawn and open the line for the c8 bishop",
+        "7. d3": "same thing",
+        "7... Nd4": "now black trying to centralize the knight and by taking the very active d4 squire",
+        "8. Nxd4 Bxd4 9. Bg5": "normal move",
+        "9... h6 10. Bh4": "retreating ",
+        "10... Bd7 11. Qc2 c6 12. b4 a5 13. a3 b5 14. cxb5": "bad move because its open the c line for the black Rock",
+        "14... cxb5": "see it",
+        "15. Rab1 Rc8": "whit lost apiece due to last wrong move",
+        "16. Rfc1 Rxc3": "i think the best move for White now is to take the black rock",
+        "17. Qa2 Be6 18. Qd2 Rxa3": "watch the e4 pawn",
+        "19. bxa5 Nxe4 20. dxe4": "this is Avery terrible move because it allows the black Queen to attack King side.\r\ni was looking for this position when i moved my night to e4 square",
+        "20... Qxh4": "problem starts for the wight ",
+        "21. Bxb5": "wrong also if  i was wight i will move bishop to the (d3) square to protect the Queen by defending the most dangerous square in the game now c2 .",
+        "21... Ra2 22. Rc2 Qxf2+": "the thing is proceeding as my plan to.",
+        "23. Qxf2 Rxc2 24. Rf1": "i think Qf2xd4  is give White some time more",
+        "24... Rxf2 25. Rxf2 Rb8 26. Kf1 Rxb5 27. Ra2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/86th-gk-tournament?gm=41109",
+    "gameName": "86th GK tournament",
+    "players": "banora (1636) vs. hamzeh2005q (1247)",
+    "opening": "English (A28), four knights, Nimzovich variation"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. f4": "Freddy's at it once again with a slight variation of the previous opening from the annotation Project I.  Up to move 7 for white is forced.  With Nxg4 the only logical continuance. Followed up by Be6+ to regain the knight so I'll focus passed that point. ",
+        "1... d5 2. Nf3 g6 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Ke8": "Black ops to move back to a safer looking position than the c6 square.  I wanted to repeat that last move in order to attempt to push black's king out to c6.",
+        "9. Bf7+ Kd7 10. Be6+ Ke8": "Bf7+ would have been a draw which maybe objectively sound for white, but what can possibly be learned from a quick draw.  Not to mention it less fun.",
+        "11. Bxg4": "Take back material because it's important not to get to far behind.",
+        "11... e5": "e5 is a opening trap per-say, Black hopes for fxe5 which loses a knight.  Nxe4 might be sound because of 12. Nxe4 Qh4+ 13. g3 Qxg4 14. Nf6+ winning the queen cleaver little trap by white.  Though I was looking at a strange move order that could give white some control of the game.  Things don't look bad for black because the games is opening up quite quickly.",
+        "12. O-O": "Strange to castle in this scenario looks weak and slow.  It may very well be.  I expected to see the very strong 12... Bc5+! 13. d4! Qxd4+ 14. Kh1 exf4 15. Bxf4 which would lead to a very complicated game.  Which may favor black slightly...",
+        "12... exf4": "But, my opponent gave me a move that I felt wasn't so good and would in fact give exf4?! because of Bc5+.  I want to gain time in order to keep up with blacks strong material.",
+        "13. Ne6": "This move just jars the queen and looks to protect the pawn advance d4 and attack f4.  It's weakness however is h5.",
+        "13... Qd6 14. d4": "This move looks suicidal; h5 Bh3 and the bishop has no where to go but that's not the whole story white has the in between move of Bxf4!  Giving white some more cards to play with.",
+        "14... Bh6": "I was surprised once again by this little move.  Bh6 stops Bxf4 but also lets my knight hold up a solid position on e6.  My first reaction to this move is how can I take on f4. When my real reaction should have been how should I continue developing, and strengthening my position.  Which I did turn to after a moment, and found that the Bh6 stops my plans on f4, but it also doesn't do that much for blacks development.  The f4 pawn is pinned because the h6 bishop is hanging.  So, Nc3 seems to be the best response.",
+        "15. Nc3 Nc6": "Blacks other option may have been e3 in which I would have immediately played the move I did play.  Though e3 would make things slightly more interesting.",
+        "16. Nb5": "Forcing the queens retreat and the c7 square can no longer be guarded.",
+        "16... Qe7 17. Nexc7+": "Now this move need some explaining.  Looks rather dubious why not take with the b5 knight and leave the knight on e6 as a bone in blacks throat?  Well what is whites biggest asset once the c7 pawn falls?  If you answered the question with his d4 pawn than you would have been correct.  Take a look at the obvious Kd8 which is a blunder.  After d5! and then d6 black is looking very pinned in.  Blacks best in my opinion would be to retreat his king to f7. Where I might continue with Be6+ followed by d5, or even have the option of Bxf4.  Kd8 however makes blacks king a target.",
+        "17... Kd8 18. d5": "Forcing the knight to move the most logical square and the one played is e5.",
+        "18... Ne5 19. d6 Qf7": "Qf7, and here is the nail in the coffin.  Wasn't easy to find this next move do you see it.  Hint it's not Nxa8.",
+        "20. Ne6+": "Ne6+ wins the queen.  Now I know that quite a lofty statement, so lets check it out.  If king c8 or d7 Ng5+ wins the queen but what about Ke8?  If you saw Ne6+ to begin with you saw Nc7+ after Ke8 which forces the King to d7.  Allowing white to play Ng5+ winning the queen.",
+        "20... Ke8 21. Nbc7+ Kd7 22. Ng5+": "Black has several options which are now all not so great.  One, he can take the bishop on g4 then the knight takes on f7 defending d6.   The only other option is Kxd6 which in fact was played, and would be followed by Nxf7+.  Then black takes on f7 or c7 depending on how much he wants to lose.",
+        "22... Kxd6 23. Nxf7+": "Nxf7 Nxa8 or Kxc7 Nxe5 either way black is roasting over hot coals."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-ii?gm=26628",
+    "gameName": "The Annotation Project II",
+    "players": "yoshark (1587) vs. dmaestro (1540)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

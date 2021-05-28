@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 e6 3. Nf3 Nf6 4. Bf4 Nc6 5. Ne5 Bd7 6. Nxd7 Qxd7": "Trading knights/bishops. Been pretty average up to this point. ",
+        "7. h4 Bb4 8. a3 Ba5 9. e4": "White loses a pawn. I capture the pawn with mine on d. Even if white recaptures using the knight, my knight can revenge kill. ",
+        "9... dxe4 10. b4 Bb6 11. Bc4 Nxd4": "Helping myself to an extra pawn",
+        "12. O-O O-O-O 13. b5 Qe7 14. a4 e5 15. Bg5 Ba5 16. Nd5 Qd6 17. f4 h6 18. Bxf6 gxf6": "Trading pieces",
+        "19. Qh5 Nxc2": "Helping myself to another pawn ",
+        "20. Rad1 Bb6+": "Trying to lure the knight away so my knight can trap the rooks",
+        "21. Kh1 Qc5 22. Kh2 Qxc4": "White leaves the bishop open",
+        "23. Rf2 Bxf2": "For some reason, White moves the knight directly into the path of my bishop? Maybe he forgot my bishop was there. ",
+        "24. Nxf6 Rxd1": "Taking the unprotected rook ",
+        "25. Kh3 Qd3+": "Moving in for the kill ",
+        "26. Kg4 Qg3+": "And the next move sees a checkmate. King moves to f5, queen captures the f pawn. I think white's mistake in this game was letting me just have free reign of the board; I took all the pieces and surreptitiously trapped the king. However, it's more of a case of White just making careless mistakes rather than being able to imagine all the possibilities of a move. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=65013",
+    "gameName": "Let's play chess",
+    "players": "mistrzyni (972) vs. otakumadness (961)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

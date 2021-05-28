@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nMaster Freddy is contemplating another mini-tournament based on the Halloween Gambit.  I decided to test this particular water with him, taking the black side.  I did not use the database but my choices proved to be a disaster, anyhow, on with the show which begins with 1. e4.",
+        "1... e5 2. Nf3 Nc6 3. Nc3 Nf6": "3. ...... Nf6 - a perfectly quiet, normal Four Knights Opening, but next move that is gonna change!",
+        "4. Nxe5": "4. Nxe5 - here it is, the Halloween Gambit, Freddy gambits a horsie for a pawn and speedy development.  Naturally I accept the gambit by taking on e5.",
+        "4... Nxe5 5. d4 Ng6": "4. ....... Ng6 - I do not wish my horsie to go back to c6 only to be forced back to b8 but would that have been a better alternative?",
+        "6. e5 Ng8": "6. ...... Ng8 (forced)",
+        "7. Bc4 Bb4": "7. ...... Bb4 - I try to catch up with my development with Bb4, now I wonder whether d6 was a better alternative here.",
+        "8. Qf3 Bxc3+ 9. bxc3": "9. Bxc3 - a B for N trade after white plays a very strong move.",
+        "9... f6": "9. ....... f6 - Qxf7# had to be defended against but was Qe7 better?",
+        "10. O-O d6 11. Qd5": "11. Qd5 - renewing the mate threat.",
+        "11... Qe7": "11. ..... Qe7 - would Ne7 been better here?",
+        "12. exd6 cxd6": "12. ....... cxd6 - pawn trade.",
+        "13. Ba3 Nf4": "13. ...... Nf4 - trying to hassle the queen but Freddy merely retreats the Evil Witch to f3 making multiple threats.",
+        "14. Qf3 Ne2+ 15. Bxe2 Qc7": "15. ....... Qc7 - making room for Ne7.",
+        "16. Rae1 Ne7 17. Qg3": "17. Qg3 - again creating multiple threats.  I will lose more material whatever I do.",
+        "17... Be6 18. Bg4 Bxg4 19. Bxd6": "19. Bxd6 - horrible - I mean for me.",
+        "19... Qa5 20. Rxe7+ Kd8 21. Qxg4 Qa4": "21. ....... Qa4 - preventing mate on d7.",
+        "22. Rxb7": "22. Rxb7 - I have a look at the position and decide to wave the white flag here as I am way down on material with no compo.   Do you the jury think I have adequate grounds for resignation for ruinous loss of material here?"
+    },
+    "url": "https://gameknot.com/annotation.pl/jos-halloween-horror-show?gm=25294",
+    "gameName": "Jo's Halloween Horror Show ",
+    "players": "easy19 (2276) vs. jstevens1 (1798)",
+    "opening": "Four knights (C46), Schultze-Mueller gambit"
+}

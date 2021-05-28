@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. g3": "g3...pfffttt.  Come on.",
+        "1... f5": "Didn't expect that one, did ya?? ",
+        "2. Bg2 c6 3. b3 Nf6 4. Bb2": "OK, attack the Knight...one of his few moves I liked.",
+        "4... d5": "Took a chance here with a bad move.  If he takes my knight I'm in bad shape! ",
+        "5. Bd4": "He wimps out, sealing his own fate.",
+        "5... Qc7 6. f3": "What was that!!??? ",
+        "6... e5": "And the game begins",
+        "7. Bb2 Bd6 8. a3": "Uhhhhhh, what???  ",
+        "8... O-O": "Now, my king is safe and i OWN the center.  He has absolutely no chance! ",
+        "9. e3 Nbd7 10. b4 Re8 11. Nh3 f4": "ATTACK!!!! ",
+        "12. O-O fxg3": "Ripping down the defense a pawn at a time",
+        "13. hxg3 e4": "Notice how all of my pieces are in postion to attack a very suspect defense.  Also, He has not developed his Queens knight and his King's Knight is hanging out in an alley! ",
+        "14. Ng5 Nh5 15. g4 Ng3": "Safe and logical",
+        "16. Rf2 exf3 17. Nxf3 Ne4": "I decided to move to open up the queen and bishop's diagonal.....I mean, who am i to say they cant join in on the action?? ",
+        "18. Re2 Ndf6": "Now, all my pieces are ready.  queen and both bishops have open diagonals, rook is well placed (Although i really want him on the f- file) and both knights are waiting for a FORK",
+        "19. Nc3": "Finally, he attacks! ",
+        "19... Bxg4 20. d3": "Not sure what that move was supposed to accomplish",
+        "20... Ng3 21. Re1 Qd7": "Getting ready to attack his bishop! ",
+        "22. Qd2 Bh3": "OK, lets just look at the board here.  He has not ONE piece past 4 rank.  His pieces look like a bunch of hobo's trying to stay warm on a winter night (that's not me, that's Robert Frost).  \n\nAgain, Im in attack mode trying to get rid of pieces now. ",
+        "23. Ng5 Bxg2 24. Kxg2": "Why did he position his queen there and then take with his King.  Bad move you will see after 24...Qg4!!",
+        "24... Qg4 25. Nf3 Nge4+ 26. Kh1 Nxd2": "Game over.  He never had a chance.",
+        "27. Nxd2": "Re-take.  Understood.",
+        "27... Qg3 28. Re2 Rxe3 29. Rg1 Qh3+": "My plan here is obvious! ",
+        "30. Rh2": "Only move",
+        "30... Qxh2#": "Blammo!  Have a nice day"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=46806",
+    "gameName": "Team match",
+    "players": "flyd123 (1420) vs. lyin_eyes (1444)",
+    "opening": "Benko's opening (A00)"
+}

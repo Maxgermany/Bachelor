@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. d4 d5 3. c4 c6 4. g3 g6 5. Bg2 Bg7 6. Nc3 O-O 7. O-O Bf5 8. Nh4 Bg4 9. h3 Be6 10. cxd5 Nxd5 11. e4 Nxc3": "Hasta ahora, todo \"parejito\"\n(Felipe Sanhueza)",
+        "12. bxc3 Bc4 13. Re1 e5 14. Be3 Nd7 15. Nf3 Qa5 16. Qc1 Rad8 17. Nd2 Be6": "Era mejor para las negras jugar 17, Cb6 (FS)",
+        "18. Nb3 Qc7 19. d5 cxd5 20. exd5 Bf5 21. Rd1 Nf6 22. c4 b6 23. a4 Rdc8": "Las negras deben ser precisas o se viene un inminente aplaste (FS)",
+        "24. a5": "Mucho mejor era para las blancas seguir intentando ganar terreno con g4(FS)",
+        "24... Qxc4 25. Qxc4 Rxc4 26. axb6 axb6 27. Nd2 Rb4": "Seg\u00fan Fritz hay igualdad absoluta(FS)",
+        "28. g4 Bd7 29. Ra7 Rd8": "Ahora de hecho hay ligera ventaja negra viendolo desde el punto de vista material(FS)",
+        "30. Bg5 h6 31. Bxf6 Bxf6": "Simplificando piezas Juan lo unico que logra es que la ventaja negra sea mayor (FS)",
+        "32. Ne4 Bg7 33. Rc1 Be8": "Continuan la ventaja negra, pero era mas exacto que las negras hubiesen jugado Rf8 (FS)",
+        "34. Rcc7 Ra4 35. Rab7 b5 36. d6 Rd4": "Teniendo un tiempo prudente  este final deben ganarlo las negras (FS)",
+        "37. f3 Bf8": "Esta jugada a diferencia de como dijo Juan, no es mala, simplemente las negras sueltan la ventaja para volver a la igualdad segun fritz, era necesario que las negras jugaran Ah8. Aqui se dejo de anotar la partida pero para que se tenga una idea algunas jugadas posteriores fueron 38.-d7!?- Axd7  39.- Cxd7-Ad6!?   40.-Tc2-Td5  41.- f4-Td1+ 42.-Af1-exf4.... las blancas debieron sacrificar una pieza por el peon de b, y estando en un final en el cual las blancas perdian se acordaron tablas debido al apuro de tiempo negro.\n\n1/2 - 1/2(FS)"
+    },
+    "url": "https://gameknot.com/annotation.pl/v-open-arica-y-parinacota?gm=33252",
+    "gameName": "V Open Arica y parinacota",
+    "players": "Meruvia, Francisco  vs. Sanhueza, Felipe ",
+    "opening": "Reti opening (A05)"
+}

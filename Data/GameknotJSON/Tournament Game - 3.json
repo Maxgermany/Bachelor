@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. b4": "This opening holds no terrors today. But at the time this game was played, it threw De Smet on his own resources immediately. However, De Smet's resources proved to be sufficient.",
+        "1... e5": "Opening a diagonal to attack the QN pawn.",
+        "2. Bb2": "Bedhud counters with a threat to De Smet's KP.",
+        "2... Bxb4": "De Smet develops with a capture.",
+        "3. f4": "Bedhud applies more pressure to the Pawn.",
+        "3... d6": "De Smet avoids 3... PxP?? 4 BxP winning the KR.",
+        "4. fxe5": "Bedhud begins a central exchange.",
+        "4... dxe5": "De Smet decides to exchange off his QP, rather than let Bedhud's advanced Pawn stand.",
+        "5. Bxe5": "Bedhud equalizes the material.",
+        "5... Nf6": "The alternative was P-KB3, but De Smet elects to develop his Knight.",
+        "6. Nf3": "Guarding his centralized Bishop.",
+        "6... Nc6": "In turn guarding *his* advanced Bishop.",
+        "7. Bb2": "Bedhud retreats rather than concede a minor exchange.",
+        "7... Qe7": "De Smet pins Bedhud's other central Pawn.",
+        "8. e3": "Bedhud hopes to develop his KB and castle.",
+        "8... Qxe3+": "De Smet pounces on the loose Pawn, as Bedhud's QP is pinned and cannot recapture.",
+        "9. Be2": "After interposing, Bedhud resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=33878",
+    "gameName": "Tournament Game",
+    "players": "Bedhud  vs. De Smet ",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

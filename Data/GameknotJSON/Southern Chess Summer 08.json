@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 g6 4. Nf3 Bg7 5. e3 Nh6": "Nf6 is a better home.  The short and sweet reason is that it protects/attacks more central squares.  Your lack of force in the center is going to hurt later on.",
+        "6. Be2 O-O 7. O-O Bd7": "I think a better position here would have been to b5 and prepare to fianchetto this bishop.   That would have put you on the long white diagonal pointing straight for my castled king.",
+        "8. b4 Nc6": "b6, b5, or c5 would have probably been better at the moment.  The pawn swarm in front of this knight is going to cause him some trouble.",
+        "9. b5 Nb4": "Ne7 was what you were looking for here....",
+        "10. a3": "...because your knight is now lost...",
+        "10... c5 11. axb4 cxb4": "....with your only compensation being a pawn.",
+        "12. Na2 a5 13. c5 Qe8 14. b6 Bb5 15. Bxb5 Qxb5 16. Bd2 Qc4": "I think it was too early to advance your queen at this point.  I think  e5 would have worked better to break the pawn chain and get your other bishop and knight into the mix.",
+        "17. Nc1 a4": "It's difficult to remember sometimes, but the # of pieces I have pointing at a4 out numbers yours so the pawn will just get lost in the exchange, and then your b pawn will closely follow.  with those two passed pawns, I think Ra6 was in order before pushing this pawn, that way you could get your king's rook over to a8 and you would have had some real power on the queens side of my board.",
+        "18. Rxa4 Rxa4 19. Qxa4 Nf5 20. Bxb4 h6": "again, I think the e pawn was the one to push.  h6 didn't serve you much purpose.",
+        "21. c6 bxc6": "always be wary of revealed attacks.  it would have been better to save your rook and try to fight off the pawn promotion.",
+        "22. Na2 Rb8 23. Qa7 Rxb6": "sorry about this one.  I know you were running out of squares and I'm not entirely sure much at all could be done, but trading a rook and a pawn for a pawn and a knight when you are that far behind in material is never a good idea.  I will stop here.  I am going to go back and look at the opening again.  I think there was a move in there that would have helped you in the center more.  Certainly Nf6 was one of them.  I annotated this game to help my friend adui out, or try anyway, not to impress any chess geniuses.  I hope this will help some, adui.  ",
+        "24. Qxb6 Qxa2 25. Qxc6 Ne7 26. Bxe7 Qa7 27. Bc5 h5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/southern-chess-summer-08?gm=16249",
+    "gameName": "Southern Chess Summer 08",
+    "players": "dieselengine9 (1445) vs. adui (1188)",
+    "opening": "QGD (D31), 3.Nc3"
+}

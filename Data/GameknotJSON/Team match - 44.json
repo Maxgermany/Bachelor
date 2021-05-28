@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4": "We play the Nimzo-Indian Defense.",
+        "4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8. cxd5 exd5 9. a3 Bxc3 10. bxc3 c4 11. Bc2 Bb7": "I like to fianchetto my bishops if possible. Here it is somewhat delayed.",
+        "12. a4 Nc6 13. Ba3 Re8 14. Rb1 Qc7 15. h3 Rad8 16. Re1": "It\u00b4s still kind of even. White are soon ready to the pawn push e4. This move will also make my c4 pawn weak. ",
+        "16... Ne4 17. Bxe4 Rxe4": "Because I take back with my e-rook instead of the pawn, I\u00b4m avoiding to isolate and weaken my c-pawn. I also have some vague ideas about starting an attack against Whites castled King in the future. ",
+        "18. Qc2 Rde8 19. Ng5": "Now begins the trickiest part of the game, with much threats and counterthreats, and maneuvers back and forth!",
+        "19... Rh4 20. Nf3 Rh5 21. Qe2 Rh6 22. Qc2 Bc8": "Aiming at the h3-pawn.",
+        "23. e4": "Now the long anticipated pawn push gets a reality. Tricky position.",
+        "23... Be6": "After a long pondering I find this the best move.",
+        "24. e5": "This move is not so pleasant for me. White gains space here. Probably better for White was exd5. I can\u00b4t take back with my Bishop, if I do that I loose my e-Rook! White probably missed that!",
+        "24... Qc8 25. Bc1 Rh5 26. Qe2 Bf5 27. Rb5": "Threatening my d5-pawn.",
+        "27... Qe6": "Combining attack and defense.",
+        "28. Ng5 Qg6 29. Rxd5": "Now my d5-pawn falls!",
+        "29... h6": "But I can live with that. For now I begin to impose a serious threat against Whites King. ",
+        "30. g4": "A good defensive move.",
+        "30... Rxg5 31. Bxg5 Qxg5 32. Qf3 Ne7": "Again combining attack and defense.",
+        "33. Rd6 h5 34. Kh2 hxg4 35. hxg4 Bxg4 36. Qg2 Qh4+ 37. Kg1 Nf5 38. Rd5 Re6": " a handy Rook lift.",
+        "39. Re4 Rg6": "Threatening disaster along the g-file.",
+        "40. Rd8+": "I was here pondering pretty long time, accept or reject the sacrifice? But decides to take it.",
+        "40... Qxd8 41. Rxg4": "White wins a Bishop back, but still I\u00b4m up in material.",
+        "41... Rxg4 42. Qxg4 Nh6": "To be a Knight up is always nice. Especially when the endgame is near.",
+        "43. Qe4 Qg5+ 44. Kf1 Qc1+ 45. Qe1 Qxe1+": "To trade Queens are the easiest way to win.",
+        "46. Kxe1 Kf8 47. Kd2 Ke7 48. Ke3 a6 49. f3 Nf5+ 50. Kf4 g6 51. Ke4 Ke6 52. d5+": "White tries!",
+        "52... Kd7 53. f4 b5 54. a5 Kc7 55. e6 fxe6 56. dxe6 Kd6 57. e7 Nxe7": "White gives up. And that is right. He is completely lost now."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=64098",
+    "gameName": "Team match",
+    "players": "wierdaj (1649) vs. haratta (1717)",
+    "opening": "Nimzo-Indian (E48), 4.e3 O-O, 5.Bd3 d5"
+}

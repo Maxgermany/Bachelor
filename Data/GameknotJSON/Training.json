@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Bc5": "Out of book. I had never seen this move before. Black attacks White's weak point (f2) just as he would attack Black's weak point (f7). The real choice is whether to ignore the move and develop, or to attack the bishop with the next played move.",
+        "5. Nb3 Bb6 6. Nc3 Ne7": "An odd looking move but perfectly logical. It prepares his advance of the d pawn. ",
+        "7. Bf4": "The bishop seems to be more active in this position then at d2.",
+        "7... d5 8. exd5 Nxd5 9. Nxd5 exd5 10. Bb5+": "Spite check with development. My whole plan at this point was to castle as soon as possible and attack the king. Much too generic.",
+        "10... Nc6 11. O-O O-O 12. Re1": "Establishing control of the file. I miss the obvious tactic that Black produces.",
+        "12... Qf6": "I was in such a hurry to take control of the open file that I missed this move. I believe that I moved too fast which allowed for this to happen. ",
+        "13. Be3": "This was an error. Bg3 was in order with control of that diagonal. This move just begs for the advancement of the pawn. I was hoping that Black would take my bishop and I would take with the pawn establishing a blockading, isolated pawn on the e file. Notice how Black has established control over the center of the board with an advanced isolated pawn. This error was the critical turning point in the game.",
+        "13... d4 14. Bd2": "I would lose a piece if I tried to do the exchange.",
+        "14... Bf5 15. Bd3": "At last a logical move by White. It blocks the advancement of the pawn and exchanges off the recently developed bishop. Too bad I could not exchange off Black's dark squared bishop.",
+        "15... Bg6 16. a3": "I was not about to exchange the bishops allowing for Black to open up the file against my f pawn. I began thinking of the ideas of Steinitz who suggested taking away the advanced posts for the enemy knights. Unfortunately Black had no intention of taking his knight off of the excellent post at c6.",
+        "16... Rac8": "Attacking c2. Notice how the bishop at d2 is a hindrance more then a help.",
+        "17. Qe2": "I wanted for the exchange on the file of the rooks. I would end up with a mate. Of course my opponent was able to see this for what it was, cheap shots.",
+        "17... Bc7 18. Qf3": "I wanted to get rid of the queens but at this point I had no real plan. I knew that it would destroy my pawn formation in front of my king but ...",
+        "18... Qxf3 19. gxf3 Bxd3 20. cxd3 Ne5": "Attacking both isolated pawns that White conveniently created for Black. The game was lost by this point.",
+        "21. Kg2 Nxd3 22. Re4 Nxb2 23. Rxd4": "Here I am down a pawn so it would be logical for Black to exchange off pieces. This would make the extra pawn on the queenside passable.",
+        "23... b5 24. Rc1 Bb6 25. Rxc8 Rxc8 26. Re4 Nc4 27. Be1": "I knew that the bishop being on b4 would be a target for the pawn advance on the A file. Perhaps I should have just advanced my bishop on that diagonal to protect the pawn instead.",
+        "27... Nxa3 28. Ba5 Bxa5 29. Nxa5 Kf8 30. Nb3 Nc4": "My king is out of position to get the A pawn when Black advances it so it was time to gracefully bow out."
+    },
+    "url": "https://gameknot.com/annotation.pl/training?gm=13698",
+    "gameName": "Training",
+    "players": "carnap (1565) vs. rayman (2099)",
+    "opening": "Sicilian (B40), Anderssen variation"
+}

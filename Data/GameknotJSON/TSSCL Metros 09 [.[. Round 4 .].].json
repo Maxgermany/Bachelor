@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3": "After this move - white win (43%) black win 42%)",
+        "2... e6": "Best Response - Nc6, e6 = 45% white win 40% black win",
+        "3. f4": "Sicilian Korchnoi Variation; both white and black have same winning percentage after this move",
+        "3... d5": "Best move here is Nc6..but this move is not bad...gives black 43% win against 38% white",
+        "4. exd5": "After this move...white is 61% ",
+        "4... exd5": "Only book move",
+        "5. Bb5+": "63% white win",
+        "5... Nc6": "Best move",
+        "6. Bxc6+": "Out of the book...but pretty good",
+        "6... bxc6": "Doubled pawns",
+        "7. Nf3 h6": "??...Nf6",
+        "8. Ne5 Be7": "Bb7 best here",
+        "9. O-O f5 10. Nxc6": "Pawn",
+        "10... Qc7 11. Ne5 Bd6 12. Nc4": " recording mistake..",
+        "12... Bb7": "[.[. Cannot be recorded further due to recording errors.].]"
+    },
+    "url": "https://gameknot.com/annotation.pl/tsscl-metros-09-round-4?gm=22921",
+    "gameName": "TSSCL Metros 09 [.[. Round 4 .].]",
+    "players": "Brendan Fan  vs. Fred Yu ",
+    "opening": "Sicilian (B23), closed, Korchnoi variation"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "A very common opening by white. The fight for the center begins.",
+        "1... a5": "Black uses a5 to let his rook out.",
+        "2. Bc4": "White brings out his bishop to c4.",
+        "2... Ra6": "Black moves out his rook.",
+        "3. Qh5": "White brings his queen to h5.",
+        "3... Rh6": "Black attacks whites queen by bringing his rook to h6.",
+        "4. Qxf7#": "Whites queen goes to f7 and since whites bishop on c4 protects whites queen it is a checkmate and the game is over."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=44611",
+    "gameName": "Chess game",
+    "players": "Myself (White) vs. Computer (Black)",
+    "opening": "Corn stalk defence (B00)"
+}

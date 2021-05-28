@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\n\nAnother loss in my Masters MT.  I have two games that I need to either win or draw to avoid the dreaded Nul Point.  This was my longest and best game (so far) against Dave Rundle.  I got absolutely trounced in my first two games against him so I am glad to have taken him some distance.  I set out here the Gameknot Analysis version of the game so that you can follow the action:- http://gameknot.com/analyze-board.pl?bd=15904877&fb=1&rnd=0.005913757023437383.  Anyhow, he starts off with 1.d4 and I decided to reply with the Dutch Defense.",
+        "1... f5 2. g3 Nf6 3. Bg2": "3. Bg2 - this fianchetto occurs a lot in the Reti Opening, the English Opening and the Dutch Defense in response to the QP opening.",
+        "3... g6 4. Nf3 Bg7": "4. .... Bg7 - of which I fianchetto my own bishop, Fou Lenoir.",
+        "5. O-O O-O": "5. .... 0-0 and Henry is tucked away on the kingside.  Thanks to Fou Lenoir and his steed he does not feel the cold ...... yet.",
+        "6. c4 d6 7. Nc3": "7. Nc3 - Dave continues to get his pieces out.",
+        "7... Qe8 8. Qb3 Na6 9. Be3 c6": "9. ..... c6 - exploring the possibility of d5 later on.",
+        "10. Rad1 Nc7 11. Bc1 Kh8 12. Bf4 Nh5 13. Bd2 e5": "13. ..... e5 - but it is the e pawn and not the d pawn that gets pushed to black's fourth rank.",
+        "14. dxe5 dxe5 15. e4 f4": "15. ...... f4 - keeping the centre closed but trying to cobble together a pawn storm which does not come off.",
+        "16. Ne2 b6 17. gxf4 Nxf4 18. Nxf4 exf4": "18. ..... exf4 - these trades have exposed the WK a little but allowed white a passer on the e column.  Can Glenda exploit this exposure?  Sadly no.  She is just soooo used to defending, sigh and double sigh!",
+        "19. Bc3 Bg4": "19. ..... Bg4 - pin.",
+        "20. Bxg7+ Kxg7 21. Qc3+ Kg8": "21. ..... Kg8 - now Henry really does need a supply of those good old medieval stockings.  The Wicked Witch of the West and Dave's lsb will have some really good diagonals to put Henry under fire, namely the a1-h8 diagonal and the a2-g8 diagonal, aaargh!",
+        "22. c5 b5 23. Rfe1": "23. Rfe1 - supporting the passer on the e column.",
+        "23... Rd8 24. Rd6 Bxf3 25. Bxf3 Rxd6 26. cxd6 Ne6": "26. .... Ne6 - over the past few moves there have been a couple of trades of one pair of rooks and one pair of minor pieces.  These have proved advantageous to white, sigh and double sigh!",
+        "27. e5 c5 28. Bd5 Kg7": "28. ..... Kg7 - Henry sidesteps the pin but moves onto a discovery diagonal in line with the Wicked Witch of the West.",
+        "29. f3": "29. f3! - this move rules out the possibility of Glenda giving a handy check on g4.",
+        "29... c4 30. Qa5 Rf7": "30. ..... Rf7 - the only move to guard the a7 pawn.",
+        "31. a4 bxa4 32. Qc3 Rf5": "32. .... Rf5 - I can see nothing better.",
+        "33. Qxc4 Nf8 34. e6": "34. e6 - this is very reminiscent of how my game with GM Cyrano ended, only I had the white pieces!",
+        "34... Rg5+": "34. .... Rg5+ - a spite check.",
+        "35. Kf2 Qb8": "35. ...... Qb8 - Glenda is threatening Qxb2+ but the Wicked Witch of the West can deal quite easily with that with a check of her own forcing Glenda to capture her and then the Witch will reappear on c8.  As I will be a whole queen down I decided to resign on the grounds of ruinous loss of material.  Here were Dave's comments to this move \"...... Qb8 cost you the game! For a long period I was thinking draw but when I played c5 and you played b5 that gave me a chance I would have a look at bxc, I also think Rxd6 caused you problems but I could see why you did it so maybe look at alternatives to Rd8 because that move allowed me to put my rook on d6.\"    Well played Dave!",
+        "36. Qc7+ Qxc7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/jo-against-the-titans-squeezed-in-the-centre?gm=39721",
+    "gameName": "Jo against The Titans - Squeezed in the Centre",
+    "players": "daverundle (2325) vs. jstevens1 (1795)",
+    "opening": "Dutch defence (A81)"
+}

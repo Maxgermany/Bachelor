@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. d3": "why playing that passive as white?",
+        "2... Nc6 3. f4": "apperantly it was not that passive after all. it is an improved version of King's gambit...",
+        "3... Nf6": "that move will give white a strong center.",
+        "4. fxe5 Nxe5 5. h3": "5. d4 Neg4 6. h3 is better for white.",
+        "5... Bc5": "??? giving up a piece.",
+        "6. d4 Bxd4 7. Qxd4 Qe7 8. Bf4 b6": "??? giving a second piece. black is already lost...",
+        "9. Bxe5 c5 10. Bxf6 gxf6 11. Qd5 Rb8 12. Nc3 Bb7 13. Qf5 a5": "black is two pieces down. I think that nothing can save him now...",
+        "14. Bb5 Rg8 15. O-O-O": "the pressure on d7 is a must.",
+        "15... Rxg2 16. Rxd7 Qe6": "giving the third piece...",
+        "17. Rxb7+ Kd8 18. Rxb8+": "and a rook...",
+        "18... Kc7 19. Qxe6 fxe6 20. Re8 e5 21. Nd5+ Kb7 22. Re7+ Kc8 23. Nxb6+ Kd8 24. Nd5 h5 25. Re8#": "the end."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13402",
+    "gameName": "Team match",
+    "players": "scouseste (1178) vs. dutchmans (1139)",
+    "opening": "KP (C20), Indian opening"
+}

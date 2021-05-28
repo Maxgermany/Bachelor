@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. c4 Nh6 2. d3 g6": "Defending the Knight.",
+        "3. Bxh6": "Not a very wise trade in the long run, as White will be in sore need of his black-squared Bishop, as he will soon find out.",
+        "3... Bxh6": "Though I didn't know it at the time, this Bishop placing is helpful.",
+        "4. Nc3": "Protecting the b2 square and developing a minor.",
+        "4... d6": "Freeing up the Bishop.",
+        "5. e4 Bd7 6. a4 c5": "The Queen is now free to pin the Knight.",
+        "7. g4 Qa5": "With this pin, the attack begins.",
+        "8. Rc1": "a3 would have been a better square for this Rook.",
+        "8... Bxc1 9. Qxc1 Bxa4": "I was conflicted as whether to play this before taking the Rook, but doing so may have led to a Queen trade, and I was NOT looking forward to playing without my Queen in this attack. ",
+        "10. Nge2": "Double protectors on the c3 square.",
+        "10... Nc6": "Getting my Knight up there to hound at his Queen.",
+        "11. Qd2": "I didn't like this move very much.",
+        "11... Nd4 12. Nc1": "Not sure why this was played, exactly, so please comment if you can figure out why.",
+        "12... Nf3+": "The crippling royal fork. I didn't see this at first, and almost moved to the b3 square.",
+        "13. Ke2 Nxd2": "Game over, White resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/assault-royal-fork?gm=37227",
+    "gameName": "Assault = Royal Fork",
+    "players": "jondoes  vs. theancientbeast ",
+    "opening": "English opening (A10)"
+}

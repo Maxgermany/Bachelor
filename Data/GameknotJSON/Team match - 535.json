@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "e4 so I come out with my standard reply d6",
+        "1... d6 2. d4 Nf6 3. Nc3 g6": "By now Im am firmly set up in the Pirc defense",
+        "4. f4": "The deadly Austrian Attack!  White goes for complete control in the center and looks to squash Black before Black can come up with adequate counter-play.",
+        "4... c6": "c6?",
+        "5. Nf3": "White continues their buildup in the center",
+        "5... Qb6": "Qb6!?  A curious move without a great deal of theory available-I like that against the Austrian Attack.  So I elect to take us into the less explored territory Qb6.  ",
+        "6. Be2": "getting ready to castle",
+        "6... Bg7": "well so will I!",
+        "7. O-O e5": "But I dont!   Its time to counter-attack in the center! Now that the King has castled to g1, I am hoping to exploit the fact that my Queen on b6 sits on a potentially threatening diagonal.....",
+        "8. Kh1": "White blinks.  He moves his King to h1 before starting offensive operations (The Queen on b6 did her job)and has now lost some tempo....good!",
+        "8... exd4 9. Nxd4 Nxe4": "Whites Huge center is falling and the Austrian Attack is losing steam. And now blacks fianchetto's bishop and Queen are laying claim to important diagonals",
+        "10. Be3": "White is now reacting and has comepltely lost tempo. Unfourtunaltly Blacks lack of castling yet threatens to hand tempo right back to White.....",
+        "10... Nxc3": "Black continues to be agressive",
+        "11. bxc3 c5": "Save to do because black does not have to worry about whates queen going to A4 this game. White has taken on a structural weakness in the form of the doubled up pawns on the C-file.  The pawn on c3 is especially weak",
+        "12. Nb5 O-O": "I figured I would have to give up the backward d pawn.  But I was ok with that, we would be even in material, but I like my pawn structure and postion better. I had faced the dreaded Austrian Attack formation and chip away at it till it was no more. That all you can ask from a opening really, the rest is up to the player.  The Pirc gave me pariaty going into the middlegame, which means the Pirc defense did its job.  I like Qb6 I think Pirc players who run into the Austrian Attack should give it a look.",
+        "13. Bd2 d5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=30540",
+    "gameName": "Team match",
+    "players": "havastar (1622) vs. unseenlurker (1635)",
+    "opening": "Pirc (B09), Austrian attack"
+}

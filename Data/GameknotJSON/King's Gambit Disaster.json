@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "King's Gambit. I have never taken the time to study this opening. I very rarely encounter it. When I am forced to defend against it, White is USUALLY unprepared to follow through anyway. ",
+        "2... Nc6": "I am uncertain if I'm following \"theory\" here. This just seemed like a fair move.\n",
+        "3. Nf3 exf4 4. Bc4": "White's motive is clear. Assault on f7. ",
+        "4... g5": "Troops must be mobilized immediately! White's Kingside is just as vulnerable as my own.",
+        "5. h4 g4": "Calling White's bluff and inviting the attack on f7.",
+        "6. Ng5": "Invitation accepted.",
+        "6... Ne5": "A critical move to my plan. The en prise pawns are defended while the offensive Bishop is threatened. A Bishop retreat or Qe2 is met with 7... h6 putting the squeeze on the White Knight.",
+        "7. Nxf7": "An oversimplified approach to a complex problem.",
+        "7... Nxf7": "I go up a Knight in material.",
+        "8. Qxg4": "It is in White's better interest to develop rather than poach stray pawns.",
+        "8... Nf6 9. Qxf4 Bd6": "The trap is set. Now I can try to develop the Queenside. White is woefully behind in his own development and is not compensated for in his gambit.",
+        "10. Bxf7+": "An attempt to draw my King into the line of fire (probably some plan involving Q & R on f-file followed by the remaining pawns).",
+        "10... Kxf7": "It was the only practical option left open to me.",
+        "11. e5": "Blunder!",
+        "11... Bxe5": "White chooses to no longer endure the torture. The Bishop cannot be taken. 12.Qxe5?? Re8 wins. The Queen gets exiled (either to h6, b4 or a4) and my plan was something along the lines of Bg3+ followed by Re8 & d5 (or d5 & Re8) with an active Bishop pair.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gambit-disaster?gm=34585",
+    "gameName": "King's Gambit Disaster",
+    "players": "vilevin (???) vs. tonnerre ",
+    "opening": "King's gambit (C30)"
+}

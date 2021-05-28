@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. c4": "English Opening.",
+        "1... c5": "Trying to go into a symetrical english.",
+        "2. Nc3 Nf6 3. Nf3 d5 4. h3": "The last few moves were main line. However cxd5 Nxd5 g3 is more common than h3. Play would continue: 4:cxd5 Nxd5 5:g3 Nc7 with black building up a big centre with f6 and e5 and white trying to exert pressure with his bishop on g2 and knights.",
+        "4... d4": "Taking on c4 looks ok but white can regain the pawn with Qa4  or even d3 and Bxc4.",
+        "5. Nb5 Nc6 6. d3 e5": "Black can look forward to a good game because of his central control.",
+        "7. Bg5 Be7 8. g3 O-O 9. Bg2 Be6": "Finishing development.",
+        "10. Nh2 Qd7 11. g4 Rab8": "Threatening a quennside pawn push with a6 and b5.",
+        "12. O-O a6 13. Na3 b5 14. b3 b4": "I closed the queenside as I thought I had better prospects of a kingside attack.",
+        "15. Nb1 h6 16. Bxf6 Bxf6 17. Nd2 Be7 18. Ne4 h5": "Maybe f5 was better as it was a little less loosening.",
+        "19. f4": "White attempts to seize the initiative with this move.",
+        "19... hxg4 20. hxg4 Bxg4 21. Nxg4 Qxg4 22. f5": "This threatens f6 opening up the kingside.",
+        "22... Bg5": "I think f6 was better as it dosnt allow f6 which proves awkward for black.",
+        "23. Rf3 Bf4": "Stopping Rg3.",
+        "24. f6": "This pawn becomes a thorn in blacks side.",
+        "24... g6 25. Nxc5": "Material is now level, and I would say that white has an edge.",
+        "25... e4": "I felt if I didnt take some positive action that I would be pushed back and suffocated.This opens e5 for my knight.",
+        "26. Nxe4 Ne5 27. Rh3 Be3+": "This may have been a mistake and I think I should have left this square for the knight. Maybe Qf5 to be followed by Ng4-e3. The knight is a short range piece and needs to be closer to the action than the bishop.",
+        "28. Kh1": "After this white looks fine and a clear pawn up",
+        "28... Rb6": "I was running out of ideas here and I was surprised when my draw offer was accepted. White has a strong knight on e4 that I cant move, a few open files towards my king with attacking prospects and an extra pawn which shouldn't be too hard to win."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=1298",
+    "gameName": "Let's play chess",
+    "players": "as2762 (1623) vs. smoran90 (1584)",
+    "opening": "English (A34), symmetrical, three knights system"
+}

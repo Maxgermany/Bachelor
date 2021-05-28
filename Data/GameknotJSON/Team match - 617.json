@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 f6": "a very dubious move",
+        "4. d4 g5 5. Nxg5": "now on 5 ... fxg5 6 Qh5+ Ke7 7 Qxg5+ Kd8 8 Qe5+ Kf7 9 Bc4+ d5 10 Bxd5+ Kg6 11 0-0 or 11 Bxf4 with excellent chances",
+        "5... h5 6. Nf3": "perhaps better was 6 Nh3 since 6 ... Bh6 allows 7 Qxh5+",
+        "6... Bh6 7. Bc4 Ne7 8. Ne5": "a dazzling shot which puts the hurt on black",
+        "8... Rh7 9. Qxh5+ Kf8 10. Bxf4": "this followup puts black down for the count",
+        "10... Kg7 11. Bxh6+": "at first I thought that white mates with 11 Qf7+ Kh8 12 Ng6 but black has 12 ... Nxg6.  after the text the best possible scenario for black is to wind up an exchange an a pawn down with a lost game.",
+        "11... Rxh6 12. Qxh6+ Kxh6 13. Nf7+ Kg7 14. Nxd8 a6 15. O-O c6 16. e5 f5 17. Nf7 b5 18. Bb3 a5 19. a3 a4 20. Ba2 Na6 21. Nd6 Rb8 22. c3": "white now gets the rest of pieces to into play and rapidly puts black away.",
+        "22... c5 23. Nd2 c4 24. Rae1 Bb7 25. Bb1 Bd5 26. Nxf5+ Nxf5 27. Bxf5 Rd8 28. e6 dxe6 29. Bxe6 Bxe6 30. Rxe6 Nb8 31. Re7+ Kg8 32. Rff7 Rd5 33. Ne4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=24608",
+    "gameName": "Team match",
+    "players": "francisbaron08 (1551) vs. lamourjv (1571)",
+    "opening": "King's knight's gambit (C34)"
+}

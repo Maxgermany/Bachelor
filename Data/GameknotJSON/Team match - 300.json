@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd3 O-O 8. O-O": "Standard stuff, so far. Now that both players have castled, we can embark on complications.",
+        "8... Bxc3 9. bxc3": "A simple exchange is the opening salvo.",
+        "9... b6 10. Re1": "I hope to be able to exploit my central Pawns.",
+        "10... Bb7 11. Ne5": "Pressing onwards...",
+        "11... Nbd7 12. Nxd7": "Rather than retreat, I swap down.",
+        "12... Nxd7 13. Ba3": "Developing my last minor piece.",
+        "13... Re8 14. Qf3": "No specific threats, but on principle it's always good to aim your pieces at the other player's King.",
+        "14... Nf8 15. Qh3": "Repositioning, with the thought of a possible future mate at KR7 in mind, although no specific plan to accomplish that.",
+        "15... g6 16. f4": "May as well try to open up Black's defenses...",
+        "16... Qf6 17. Ref1": "Nothing specific in mind, but there's always the possibility of a discovered attack on the KB file...",
+        "17... Red8 18. f5": "Time to pry open the Black defenses some.",
+        "18... exf5 19. exf5": "Exchanging one set of Pawns...",
+        "19... Qc6 20. fxg6": "...and another.",
+        "20... fxg6 21. Rf2": "Looking to double...",
+        "21... Qxc3 22. Bxf8": "Ooops. Gave up a free Pawn.",
+        "22... Qxa1+ 23. Rf1": "Another blunder. Overlooked the fall of my Rook. Oh well, life goes on.",
+        "23... Qxd4+ 24. Kh1": "Practically forced... but now my Bishop will fall as well. I should probably resign...",
+        "24... Qxd3 25. Qe6+": "H'mm, what's this? Black's King is exposed...",
+        "25... Kh8 26. Qf6+": "Well, look at that! I've got...",
+        "26... Kg8 27. Qg7#": "...a forced mate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=49449",
+    "gameName": "Team match",
+    "players": "last_archimedean (1328) vs. ivorthurston (1392)",
+    "opening": "QGD (D06), Marshall defence"
+}

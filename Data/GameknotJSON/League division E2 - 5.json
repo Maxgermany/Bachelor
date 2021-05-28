@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "~ Always 1. e4 ... 2. f4 ... 3. Nf3 ... (gambits by nature are not fundamentally sound, but when I saw someone using it against me in Afghanistan I fell for the novelty of it! Lively play and it can be beaten.)",
+        "1... e5": " 1. ... e5 (the most popular response)",
+        "2. f4": "~ Will he accept? It's too tempting! Also available is the gambit declined and the gambit accepted.",
+        "2... d6": "~ Be advised: Bishops before Knights is a no-no! The c8-g3 diagonal open but easily dismissed.",
+        "3. fxe5": "~  I've decided not concede his Bishop pin on my Knight. This could have been a disastrous decision if he would have caught it (3. ... Qh4+ 4. g2 Qxe4 5. Be2 Qxh1 followed by more self-inlflicted wounds)",
+        "3... dxe5": "~ Advantage declined by Black!",
+        "4. Nf3": "~ Breathing easier now. An experienced player would not have lost to me.",
+        "4... Bd6": "~ It would be much better to guard the King's pawn with 4. ... Nc6 (Bishops should be attacking!)",
+        "5. Bc4": "~ I'm cooking up some fried liver. The f7 pawn is on the grill!",
+        "5... Nf6": "~ \"Stop kidding yourself. It's too late to Castle Kingside!\"",
+        "6. Bxf7+": "~ Should the King capture? Or just get out of the way!",
+        "6... Kxf7": "~ Again, the bait is taken!",
+        "7. Ng5+": "~ Black is not in bad shape. Not until a fatal decision in the next move.",
+        "7... Kg6": "~ Heaps of trouble in front of your own pawns. Don't play in the traffic if you're the King!",
+        "8. h4": "~ Hunting my Knight would be much easier for the pawns.",
+        "8... Bg4": "~ Threatening my Queen won't work. There is no safe place to hide for Black.",
+        "9. h5+": "~ who would have thought the most important pawns on the Board were at d2, e4, and h5? 8. ... h5 would have prevented this Check!",
+        "9... Kxg5": "~ Does it look hopeless for the Queen? No!",
+        "10. d4#": "~ With Black's Queen and Knight sitting on the Back Rank, the King learns a painful lesson in development. Match Over, 1-0 !"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e2?gm=38837",
+    "gameName": "League division E2",
+    "players": "thearrtofnoise (1376) vs. makj (1327)",
+    "opening": "King's gambit (C30)"
+}

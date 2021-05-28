@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nf6 3. f3": "3. f3 - a d pawn opening with fairly standard moves - f3 is playable here.  White will play the Blackmar-Diemer Gambit here.  Unfortunately for my opponent I manage to hold onto the gambit pawn and it leads to my successful endgame - but before this happens I have much work to do!!",
+        "3... Nc6 4. e4 dxe4 5. Bb5 exf3 6. Nxf3 Bd7 7. Bg5 e6 8. Qe2": "8. Qe2 - over the last few moves black has tried to catch up in development by breaking white's pin on b5 by playing the lsb to d7.  I prepared Be7 by playing e6.  The king knight is temporarily pinned but this does not last.  White clears the way for castling on both sides with 8. Qe2.",
+        "8... Be7 9. Bxf6 Bxf6 10. Bxc6 Bxc6 11. Qe3": "11. Qe3 - backs up his d pawn and stops me from isolating his kingside pawns.  I exchange pieces anyway.",
+        "11... Bxf3 12. Qxf3 c6 13. O-O-O Qc7": "13. ............... Qc7 - after white castles queenside I now clear wood off the back rank and this queen move bolsters b7 and c6.",
+        "14. Ne4 Be7": "14......... Be7 - bishop must retreat as he is doubly attacked by the Wkt and WQ.",
+        "15. g3 O-O": "15.......... 0-0 completes development.  White starts a pawn storm on the kingside but this is soon nipped in the bud.",
+        "16. h4 f5 17. Ng5 Bxg5+ 18. hxg5 g6": "18. ........ g6 - I remove white's dangerous knight and the resulting exchanges leave white with doubleton isolanis on the kingside to go with his pawn minus.",
+        "19. Qf4 Qxf4+ 20. gxf4": "20. gxf4 - white straightens out the kingside pawns but the queens have been exchanged and I maintain my pawn advantage into the double rook ending.",
+        "20... Rad8 21. a4 Kg7": "21. Kg7 - with my last two moves I accomplish 2 things - contest the half-open d file and clear a flexible defensive line for my rooks where the h pawn is concerned.  This strategy will lead to a pair of rooks being exchanged.",
+        "22. c4 Rfh8 23. Rde1 Rde8 24. b4": "24.  Over the last few moves The Carpenter has erected an impressive wall of pawns on the queenside.  Will he get himself a passer?  He tries to!!",
+        "24... h6 25. b5 hxg5 26. Rxh8 Kxh8 27. fxg5 Kg7": "27. ........ Kg7.  A pair of rooks and a pair of kingside pawns have just been exchanged leaving one white isolani on the kingside.",
+        "28. Re5 Kf7 29. Kd2 Rh8": "29. .......... Rh8 - white begins to centralise his king - his remaining rook is in a very strong position.  In a pure K & P ending black would be winning hands down.  But the rooks are on the board.  I decide to occupy the open h file with my rook.",
+        "30. d5 exd5 31. cxd5 cxd5 32. Rxd5 Ke6": "32 ........ Ke6 - a couple of queenside pawns from both sides have disappeared from the board.  I retain my pawn advantage.",
+        "33. Rc5 Kd6": "33. ........ Kd6 - the black king tries to prevent a rook incursion into the heart of my position.",
+        "34. Rc3 Kd7 35. a5 Rh5 36. Rg3 Kd6 37. a6 bxa6 38. bxa6": "38. bxa6 - one more pair of pawns from both sides disappears from the board.  Can I convert this one pawn advantage?  Things now start hotting up a bit.",
+        "38... Rh2+ 39. Kc3 Ra2 40. Rd3+ Kc6 41. Re3 Ra3+": "41. Ra3  - hip hip hooray!  A king and pawn ending!  White cannot avoid this.  I think that my 39th move with the rook to a2 attacking the a pawn set this up.  I can pick off the white a pawn with my king if I wish but after analysing the board I find I can safely shepherd my passer on the f file home to queen and this is exactly what happens now.",
+        "42. Kd4 Rxe3 43. Kxe3": "43. Kxe3 - the takeback forces the white king backwards so Kd5 cannot be prevented.",
+        "43... Kd5 44. Kf4 Ke6 45. Kf3": "45. Kf3 - white can only move his king - therefore he must give way!  White is now in Zuggieland!!",
+        "45... Ke5 46. Ke3 f4+ 47. Kf3 Kf5 48. Kf2": "48. Kf2 - again the white king is being forced backwards.",
+        "48... Kxg5 49. Kf3 Kf5 50. Ke2 Kg4": "50.......... Kg4 - the white king is prevented from going to f3.  Now the white king is to be forced back to the first rank.  I must watch out for the stalemate trap.",
+        "51. Kf2 f3 52. Kg1 Kg3 53. Kf1 f2": "53.......... f2 - the killer - the white king has only 1 legal move - e2.",
+        "54. Ke2 Kg2": "54. ............... Kg2 - there is no way white can prevent f1/Q.  He now throws in the sponge.  Although this was an unrated game it was only my third victory against 1600  opposition.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/jos-endgame-success-part-3?gm=15292",
+    "gameName": "Jo's Endgame Success - Part 3",
+    "players": "The Carpenter (1659) vs. jstevens1 (1547)",
+    "opening": "Blackmar-Diemer gambit (D00)"
+}

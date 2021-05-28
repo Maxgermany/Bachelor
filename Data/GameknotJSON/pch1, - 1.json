@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 g6": "presque une premi\u00e8re pour moi, la derni\u00e8re fois que j'ai jou\u00e9 g6 en match officiel j'ai lamentablement perdu...\n",
+        "2. d4 Bg7 3. Nf3": "peu etre devrais-je jouer c5 ? j'avais un plan different\n",
+        "3... d6 4. Be2 Nf6 5. Qd3 O-O 6. Be3 e5 7. d5": "flute il ne prend pas\n",
+        "7... Ne8 8. Nbd2 f5 9. Bg5 Bf6 10. h4": "voila exactement le genre de plan blanc qui m'enquiquine fortement !\n",
+        "10... Ng7 11. g3 Na6 12. Nb3 fxe4 13. Qxe4 Bf5 14. Qc4 Be7": "pourquoi ? bonne question... je crois que voulais donner du jeu a ma tour f\n",
+        "15. O-O-O Kh8 16. Kb1 c6": "le but est encore de jouer, je veux ouvrire taper sur c2\n",
+        "17. Qa4 c5": "pourquoi je prend pas en d5 ?\n",
+        "18. Bxa6 bxa6 19. Qxa6 Bg4": "il s'est fait avoir !\n",
+        "20. Bxe7 Qxe7 21. Ng5 Bxd1 22. Rxd1 Rxf2 23. Ne4": "je me suis fais avoir ! d6 est perdu et tout tombe, e5 et c5 se retrouverons seul et je suis chagrin\u00e9 de ne pas avoir plus reflechit avant de prendre f2, c'est mechant les cavaliers il ne faut pas l'oublier !\n",
+        "23... Rf3 24. Rg1": "jesus... Dxd6 et j'etais foutu... coool !\n",
+        "24... Ne8 25. Ng5 Rf6 26. Nd2 Rb8 27. b3 Rb6 28. Qd3 Ng7 29. Nc4 Rb4 30. Na5": "malagres mon avantage materiel, je le sens pas bien et j'ai peur a tout moment de me prendre une vilaine fourchette, alors je propose nul deux coups plus tard et il accepte. Mais je pense que Td4 etait pas mal ! mais il faut bien tout calculer... Fritz ma dit que Td4 etait bon.\n",
+        "30... Rb6 31. Nc4 Rb4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/pch1?gm=48977",
+    "gameName": "pch1, ?",
+    "players": "belot jp (1560) vs. boucher b (1677)",
+    "opening": "Robatsch defence (A41), Rossolimo variation"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 d5": "I was positively surprised to see the Scandinavian defence, because it is a line that I play as well and few others seem to use it, certainly not the 2.... Nf6 line which is played in this game.",
+        "2. exd5 Nf6 3. d4": "3.d4 we enter the modern variation, I don't know much of the Scandinavian lines as white, I only know what I dislike to play against. And most commonly, it's the main line of the theory.",
+        "3... Qxd5": "And I think we switched to the Qxd5 variation here, with Qxd5 and Nf6 swapped. Still ok, but I like to push a queen around while developing.",
+        "4. c4": "And so I start pushing. I prefer c4 over Nc3 as it gives me more space and even prepares a move like d5 dominating the center. I don't really mind a move like Qe4+ as I can put my DSB in between (I'd rather not move my knight to e2 as it belongs on f3 and Be2 gets struck down by Qxg2 and the loss of a rook)",
+        "4... Qe4+ 5. Be3 e5": "An attack on my center, well it had to come sooner or later. e5 also allows Bb4+ which could get annoying since my DSB is pinned. Most people say that after Bb4+ you can play Nc3 since Bxc3 bxc3 is ok for white, with a solid center and the bisschop pair, but I still ain't convinced.",
+        "6. Nc3": "Lets just continue kicking the queen. However this bumps into the pin of Bb4 and thus isn't much better than blocking of Bb4+ with Nc3.",
+        "6... Bb4 7. Bd3": "?? A blunder on my part. It allows Qxg2 and wins material. But I saw some interesting attacking possibilities in this position, black's king is still centralised, and yes indeed only one move away from castling, but if I can prevent that the open center might prove to give black troubles.",
+        "7... Qxg2 8. Qa4+": "Qa4 to be able to castle queenside. Almost completing development and keeping the option of possibly trapping the queen.",
+        "8... Nc6": "IMO the best defence, since after 8.... Bd7 9.Qxb4 Qxh1 10.O-O-O exd4 (since any other move bumps into dxe5 and problems with Be4 forking queen and b7",
+        "9. O-O-O Bxc3": "again I think this was the only correct move since after Qxh1 dxe5 the knight goes to g4? and then I've got Be4 trapping the queen, so Nh5, Nd7 (and Ng8) are the only options, Nd2 blocks his LSB and Nh5 just puts the knight out of the game. But Be4 is not an option anymore after Bxc3. It however grants me the option to lose a minor piece rather than a rook with Ne2.",
+        "10. Ne2 Bxd4": "Winning the d-pawn, and thus preventing dxe5. Now was the time for some serious planning. I took with the knight on d4 because after castling my bischop would prove far stronger than the knight on d4 eying on the long diagonal and attacking the knight which would become undefended after Rg1 pinning the g7-pawn with tempo on the queen. and if he didn't castle then I would've got two rooks that would jump to the open d- and e-files harassing his king. I also wanted that half open g-file which would put me in a great attacking position.",
+        "11. Rhg1 Qf3": "Qh3 doesn't do that much.",
+        "12. Nxd4 exd4 13. Bxd4 Ng4": "allowing Bxg7! giving up any hopes of kingside castling and as long as my rook stays on the d-file, castling queenside will be hard too. The threat of Nxf2 has to be taken into account of course, but I found Nxf2 Rg3! and after Nxd3 Rdxd3 I have two connected rooks on the 3rd rank and I'm still threatening to win that h8 rook. I think that O-O would have saved the day. since after O-O, what attack does white have? Rg3 Qf4+ and forced Be3, leaving the important a1-h8 diagonal or the more passive Bc3, which can be followed by a simple Kh8 or Bd7 threatening Nd4 with a discovered attack on the queen and after that Ne2+ forcing the exchange of bischops",
+        "14. Bxg7 Nxf2 15. Rg3 Nxd3+ 16. Rxd3 Qf4+": "Getting out of the threat with tempo, so he can save his rook, only...",
+        "17. Rge3+": "This is also check, and I win the h8 rook and in the end get a material advantage.",
+        "17... Be6": "Black has finally moved all of his minor pieces but can't hope to castle just yet. I don't think that taking the rook was a mistake, but you have to keep in mind that you might get a hard time defending after such a voyage of the queen in the opening.",
+        "18. Bxh8 Ke7": "trying to get the a1 rook involved and unpinning the knight, well, he wasn't going to castle anyways. ",
+        "19. Bg7": "I didn't want to lose that bischop as it would demolish my fragile material lead. I do however wonder why I didn't play Bc3 immediately as this just allows my opponent to play Rg8 and take another tempo on my bischop.",
+        "19... Rg8 20. Bc3 Rg1+": "My king gets some checks now, but he will be perfectly safe on c3",
+        "21. Kc2 Qxh2+": "Gobbling up a pawn, points say, material is level, what say you? Blacks kingside lonely pawns are not connected, but still, white doesn't have any passed pawns. The queen moving out of the f-file allowed a new plan to enter my head, the queen doesn't cover f6 anymore, and that would be an amazing home for my bischop!",
+        "22. Kb3": "going to a safe haven.",
+        "22... a6": "a6 probably with the idea of b5, but all help gets too late after Qa3+ Ke8 Bf6 only the queen sac on d6 can provide king safety as the knight on c6 can't block and e7 and d8",
+        "23. Qa3+ Ke8 24. Bf6": "Here my opponent resigned for the reasons mentioned above. It was a very interesting game, and I am still not convinced that either side had a clear win. I still wonder if the position after Qxg2 was level. anyways, thanks for reading, comments are appreciated."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-bert1bell?gm=59137",
+    "gameName": "Challenge from bert1bell",
+    "players": "bert1bell (1583) vs. damalfi (1769)",
+    "opening": "Scandinavian defence (B01)"
+}

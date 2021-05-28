@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "The Najdorf variation of the Sicilian a favorite of many World champions including Bobby Fischer, Garry Kasparov & Vishwanathan Anand.",
+        "6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Be2 O-O": "Petrosian brings his King to safety and almost completes development.",
+        "11. Qg3 Re8 12. Bf3 Nb6": "Petrosian was very skillful in using knights. Here he protects the d5 square which is under pressure from White's e-pawn and bishop. The knight can also go to c4 which is a strategic aim in the Sicilian. There is a subtle reason which we shall see in a few moves. The knight uncovers the bishop at c8 which is ready to develop, a typical Petrosian's method of simple development.",
+        "13. Rhe1 e5": "This was the way Sicilian was played in those days, also called Boleslavesky's idea. The pawn at e5 occupies the centre supported by the d6 pawn thus stopping any central breakthrough and also attacks the White knight on d4. This move creates a hole on d5 which shall be exploited by White but Boleslavesky showed that this weakness can be managed. ",
+        "14. fxe5 dxe5 15. Nf5 Bxf5": "Petrosian exchanges his bishop for knight. Black's knight move to b6 allowed these central exchanges and the hole at d6 is no longer existing.",
+        "16. exf5 Nbd7": "Why does the knight go back? It permits the b7 to b5 pawn push. Simple strategy.",
+        "17. Bd5": "Tal places his bishop on the attacking diagonal. We may see some fireworks soon.",
+        "17... Rac8 18. Bb3 Nh5 19. Qh4 Bxg5+": "Do we see Petrosian's plan? The best way to stop an attack is to exchange pieces. Simple principle.",
+        "20. Qxg5 Nhf6 21. Re3": "Tal wants to switch the rook to the g-file or h-file and continue the attack.",
+        "21... h6": "A simple anti-dote to the impending attack. The White queen has to retreat and there are only a couple of squares for retreat.",
+        "22. Qg3 Nc5": "The knight moves again and Petrosian now intends to exchange the attacking bishop on b3.",
+        "23. Rde1 b5": "Petrosian starts his attack after making sure that White's attack on the king side is no longer dangerous.",
+        "24. Kb1 Nxb3 25. axb3 b4 26. Ne4 Nxe4": "Petrosian is steadily exchanging pieces and Tal is just watching.",
+        "27. Re3xe4 Qxc2+": "The first aggressive move by Petrosian and by now White has no attacking chances.",
+        "28. Ka1 Rc5": "The Black Rook threatens to move to a5.",
+        "29. Rxb4": "Tal has also skillfully thwarted Petrosian's attack. What next?",
+        "29... Qxf5": "Petrosian is happy to gobble up the f5 pawn and establish a central pawn majority with a passed pawn on the e-file. His strategy of exchanging attacking pieces and accumulating small advantages has paid off. Tal has had enough of this prophylactic treatment and does not want to play the endgame. So Tal resigns. We may remember this lesson from Petrosian when we are faced with an attack."
+    },
+    "url": "https://gameknot.com/annotation.pl/clash-of-titans?gm=33916",
+    "gameName": "Clash of  titans",
+    "players": "Mikhail Tal  vs. Tigran Petrosian ",
+    "opening": "Sicilian (B99), Najdorf, 7...Be7 main line"
+}

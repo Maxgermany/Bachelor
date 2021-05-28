@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "This is the third match between us",
+        "1... d5": "The first two ended in draws",
+        "2. b4": "georgiamtnman playing white",
+        "2... e6": "Me, 3tequila playing black ",
+        "3. a3 a5": "This one started out a little different",
+        "4. bxa5 Rxa5 5. e3 c5 6. Bd2 Ra7 7. dxc5 Bxc5 8. c3 Bd7 9. Bd3 Nf6 10. Nf3 Qe7 11. a4 Nc6 12. h3 e5 13. Bb5 e4 14. Nh2 Ne5 15. Be2 O-O 16. Ng4 Rfa8 17. Nxf6+ Qxf6 18. a5 b5 19. Qb3 Qc6 20. O-O Ra7xa5 21. Rxa5 Rxa5": "21 moves and finally a 1 point lead ",
+        "22. c4": "Not sure about this move",
+        "22... dxc4 23. Qb2": "giving me a 2 point lead ",
+        "23... Nf3+": "instead of saving the rook I try for getting the white king out in the open",
+        "24. Bxf3 exf3 25. Bxa5 fxg2": "2 points down now but I have the king in a bad spot",
+        "26. Re1 Bxh3 27. f4 Qd6": "threatening the f4 pawn if the queen takes it the pawn on e3 is pinned  ",
+        "28. Qf2 b4 29. Qg3": " ",
+        "29... Bf5 30. Qxg2 h6": "starting to think a pawn storm is my best chance now ",
+        "31. Nd2 Qxf4 32. Qf3": "I don't want to trade queens ",
+        "32... Qg5+ 33. Kf2 Qh4+ 34. Qg3": "But I have no better choice",
+        "34... Qxg3+ 35. Kxg3 c3": "Back to the pawn storm",
+        "36. Nb3 Bd6+ 37. Kf2 h5 38. Nd4 Be4 39. Rc1 h4 40. Nf3 h3 41. Ng5 Bf5 42. Rd1 Be7 43. Bxb4 c2 44. Rd4 c1=Q 45. Bxe7 Qb2+ 46. Kf3 Qg2+ 47. Kf4 Qf2+ 48. Nf3 g5+ 49. Bxg5": "I didn't see the bishop ",
+        "49... h2 50. Rd2": "Don't want to give up the pawn",
+        "50... Qxf3+": "So this looked like the best move",
+        "51. Kxf3 h1=Q+": "and puts him in check",
+        "52. Kf4 Qe4+ 53. Kg3 Qg4+": "now I have the bishop",
+        "54. Kf2 Qxg5 55. Rd1": "I wanted to move the bishop here but had to avoid 56. Rg1... pinning my queen ",
+        "55... Qh4+ 56. Kg1 Qg4+": "But now I have the rook too.\nWhite resigned at this point. \nThe pawns won the day in this game. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-georgiamtnman?gm=26204",
+    "gameName": "Challenge from georgiamtnman",
+    "players": "georgiamtnman (1622) vs. 3tequila (1609)",
+    "opening": "Queen's pawn game (D00)"
+}

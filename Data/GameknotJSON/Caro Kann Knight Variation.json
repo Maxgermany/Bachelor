@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c6": "I've gone through a long period of trying out the Scandinavian (1...d5) but against a much stronger opponent I decided to go with the more solid Caro-Kann, which has similar themes.",
+        "2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6": "When I play the CKD, this is usually the variation I play, although on account of this game and others, 4...Nd7 is looking more enticing.",
+        "5. Nxf6+ exf6": "5...gxf6 is also playable, but I prefer the more structurally sound version, which also allows for quick, natural development.",
+        "6. Bc4": "This move deviated from my other experience with this variation against a 2000 opponent, which I lost after an unexpected tactical shot on the 28th move: 6. Nf3 Bd6 7. Bd3 O-O 8. O-O Bg4 9. h3 Bh5 10. Re1 Nd7 11. Be2 Nb6 12. c3 Nd5 13. Qc2 Bg6 14. Bd3 Bxd3 15. Qxd3 Qd7 16. c4 Ne7 17. b3 Ng6 18. Be3 Bf4 19. Rad1 Qc7 20. Bxf4 Nxf4 21. Qe4 Ng6 22. d5 cxd5 23. cxd5 Qd6 24. Nd4 Ne5 25. Nf5 Qb6 26. Ne7+ Kh8 27. Rd4 Rad8 28. Qxh7+   1-0",
+        "6... Bd6": "The best square for the bishop and preparing to castle, but White has a different idea.",
+        "7. Qe2+ Qe7": "Despite my doubled pawns, there's still enough material on the board to exchange queens, but not enough that my king is unsafe in the center of the board.",
+        "8. Qxe7+ Kxe7": "Plus, if needed, the king can go to f8 and g8 after the Rh8 moves, and White is not in a state of development to take advantage of the king's current position.",
+        "9. Ne2 Be6 10. Bd3": "Naturally, White does not want to un-double the black pawns after 10. Bxe6 fxe6",
+        "10... Nd7 11. O-O g5": "I wanted to deny White the f4 square, but this is the my first of two errors. And yet, I expected White's reply. 11... Rhe8 is natural and better (if 12. Bxh7 g6)",
+        "12. f4": "Unfortunately, it was only now that I realized I couldn't play 12... h6 on account of 13. f5 Bd5 14. c4",
+        "12... gxf4": "So, now my king is less safe and my pawn structure is even more dilapidated.",
+        "13. Bxf4 Rag8": "Looking for counter-play down the g-file.",
+        "14. c4 Bh3": "I don't know why I hoped to catch my opponent napping with this.",
+        "15. Bxd6+ Kxd6 16. Nf4": "Obvious, even to me, as I saw it coming after 14... Bh3",
+        "16... Be6": "I considered a retreat to g4, perhaps hoping to entice a structural weakening for White with 17. h3, but decided to head to the more central e6 immediately.",
+        "17. Rae1 Rg7": "Looking to double up the rooks. This move isn't bad per se, but it does lead indirectly to my demise.",
+        "18. c5+ Kc7": "Hoping to dash the king away on the queen side, but this is the losing blunder. And while 18... Ke7 is necessary, walking into the bishop pin looked ugly. Now I expected 19. Nxe6 fxe6 20. Rxe6, but was in for a rude shock. ",
+        "19. Rxe6": "Obviously now if 19... fxe6 20. Nxe6+ is a killer. So I resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/caro-kann-knight-variation?gm=48126",
+    "gameName": "Caro Kann Knight Variation",
+    "players": "e4addict (2050) vs. hscer (1628)",
+    "opening": "Caro-Kann (B15), Forgacs variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. Nf3": "It seems to be an opening that gives Black the chance to decide the way of development but also it gives white many possibilities",
+        "1... Nf6 2. c4": "This is the possibility to continue with English opening or Queen Gambit",
+        "2... c6 3. Nc3 d5 4. d4 dxc4 5. e4 Bg4 6. Bxc4": "White is by now the owner of center and in the other hand it has the vantage in development",
+        "6... b5 7. Bxf7+": "Tipical sacrifice, in order to retard the Black's development and it stress the King",
+        "7... Kxf7 8. Ne5+": "! The most of times Ng5  is better but I hope to recuperate the bishop",
+        "8... Kg8": "?, bad choise, may be better 8. ... , Ke8, White Queen can fight the Black King for the rest of the game",
+        "9. Qb3+ Nd5 10. Nxg4 e6 11. exd5 exd5": "? Althougth 11. ..., cxd5 loses a pawn, but Black needs to think about the King",
+        "12. Ne3": "! the sacrifice of the horses will win, the magic consists on don't stop the attack",
+        "12... a5": "?? I think Black can't see the big threat in progress",
+        "13. Ncxd5 cxd5 14. Nxd5": "Thank you my dear horses!",
+        "14... g6": "Finally Black makes something for its King but it's too late",
+        "15. Nf4+": "! What a wonderful horse!, now the Queen is mine",
+        "15... Kg7 16. Ne6+ Kf7 17. Nxd8+ Ke8 18. Qf7+": "Sorry horse but it was the easier way to win",
+        "18... Kxd8 19. Bg5+ Kc8 20. Rc1+ Nc6 21. Rxc6+ Kb8 22. Qc7#": "Thanks to kgbsknik to let me reach the checkmate! I appreciate that"
+    },
+    "url": "https://gameknot.com/annotation.pl/le-rassemblement-the-gathering-3?gm=21007",
+    "gameName": "Le Rassemblement / The Gathering #3",
+    "players": "chrisolve (1576) vs. kgbshnik (1373)",
+    "opening": "Reti opening (A05)"
+}

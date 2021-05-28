@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Qh5": "a beginners opening mostly that leads to many developing attacks for black",
+        "2... Nc6": "saves the pawn, note for inexperienced players, g6 loses the rook to Qxe5 ",
+        "3. Bc4": "threatening checkmate on f7",
+        "3... g6": "now the pawn push works because the e5 pawn is protected",
+        "4. Qf3 Nf6": "developing, pressuring e4",
+        "5. g4": "an attempt to press g5, winning the knight because it is pinned to checkmate",
+        "5... Nd4": "threatens the queen and Nxc2 , winning the rook",
+        "6. Qc3": "defensive",
+        "6... Bb4": "if he takes the bishop, Nxc2  wins the queen",
+        "7. Qd3 d5 8. exd5 Nxd5 9. Qe4 Be6 10. Qxe5": "takes the pawn forgetting about the knight fork on c2",
+        "10... Nxc2+ 11. Kd1 Nxa1 12. b3 O-O 13. d3 Bxg4+ 14. f3 Be6 15. Qxa1 Nb6": "opens up the center for the bishop and queen",
+        "16. Bb2": "trying to get checkmate on the diagonal",
+        "16... Bxc4": "threatens Qxd4 ",
+        "17. Bh8": "threatens Qg7  ",
+        "17... Qxd3+ 18. Kc1 Qf1+": "drives the king in front of the queen winning the bishop",
+        "19. Kb2 Kxh8 20. Kc2+ f6 21. bxc4 Nxc4 22. Kb3 Qd3+": "sacrifices the bishop to bring the white king over to my pawns",
+        "23. Kxb4 a5+": "and the pawn attack begins!",
+        "24. Kc5 b6+ 25. Kb5 Na3+": "forces checkmate, if white plays Kc6 black plays Qd6 , forcing Kb7 followed by Rf8-b8  ",
+        "26. Ka4 b5#": "pawn mate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=6216",
+    "gameName": "Let's play chess",
+    "players": "jerryroney (1161) vs. belacqua17 (1199)",
+    "opening": "KP (C20), Patzer opening"
+}

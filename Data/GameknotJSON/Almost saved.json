@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 f5 2. h4 b6 3. Nh3 Bb7 4. Nf4 e6 5. e4 g6 6. exf5 exf5": "7.\tf1-c4\tf8-g7\n8.\td1-e2+\tg8-e7\n9.\td4-d5\te8-g8\n10.\td5-d6+\te7-d5\n11.\tf4-d5\tf8-e8\n12.\td5-f6+\tg8-h8\n13.\tf6-e8\tc7-d6\n14.\te8-g7\th8-g7\n15.\te2-e3\td6-d5\n16.\te3-h6+\tg7-h8\n17.\tc1-g5\td8-e8+\n18.\tc4-e2\td5-d4\n19.\tg5-f6+\th8-g8\n20.\th6-g7#\t",
+        "7. Bc4 Nf6 8. Nc3 Bb4": "9.\td1-e2+\td8-e7\n10.\te2-e7+\te8-e7\n11.\te1-g1\tb8-c6\n12.\tf1-e1+\te7-f8\n13.\tf4-d5\tf6-d5\n14.\tc1-h6+\tf8-g8\n15.\tc4-d5#\t",
+        "9. Qe2+ Qe7 10. Qxe7+ Bxe7 11. Ncd5 Nxd5 12. Nxd5 Bxd5 13. Bxd5 c6 14. Bb3 d5 15. Bh6 Nd7 16. Kd2 O-O-O 17. c4 Bb4+ 18. Kd3 dxc4+ 19. Bxc4 Nc5+ 20. Ke2 Na4 21. Ba6+ Kd7": "Incredibile, siamo arrivati ad una posizione delicatissima, complicata, con trappole e trucchi da entrambe le parti... forse b3 era meglio, o rassegnarsi e ritirare l'alfiere...",
+        "22. d5 Rhe8+ 23. Kf3 b5 24. Bb7 cxd5": "E qui ho fatto un altro errore. Con Axd5, non andavo male. ",
+        "25. Rab1 Kc7 26. a3 Kxb7": "Incredibile... c'e cascato. ",
+        "27. axb4 Nb6 28. b3 d4 29. Rhe1 Rxe1 30. Rxe1 Rd7 31. Rd1 Nc8": "E qui ci casca un'altra volta. ",
+        "32. Be3 Kc6 33. Rxd4 Rxd4 34. Bxd4 Kd5 35. Bc3 Nd6 36. Ke3 Ne4 37. Bb2 Nd6 38. f3 Nf7 39. Kf4 a6 40. g4 fxg4 41. fxg4 Nd8 42. h5 Ne6+ 43. Kg3": "Non dovevo lasciare che il suo re penetrasse via e4. ",
+        "43... Ke4 44. hxg6 hxg6 45. Bf6 Nd4 46. Bxd4 Kxd4 47. Kf4 Kc3 48. Kg5 Kxb3 49. Kxg6 Kxb4 50. Kf7 a5 51. g5 a4 52. g6 a3 53. g7 a2 54. g8=Q a1=Q 55. Qf8+": "E qui \u00e8 patta. ",
+        "55... Kc4 56. Qc8+ Kb4 57. Qg4+ Ka5 58. Qg5 Qe1 59. Qd8+ Ka4 60. Qa8+ Kb3 61. Qf3+ Qc3 62. Qd1+ Ka3 63. Qd6+ b4 64. Qa6+ Kb2 65. Qe2+ Qc2 66. Qe5+ Qc3 67. Qe2+ Kb3 68. Qd1+ Qc2 69. Qf3+ Ka2 70. Qa8+ Kb2 71. Qh8+ Qc3 72. Qh2+ Kb3 73. Qh1 Qc4+ 74. Kf6 Qf4+ 75. Ke6 Qc4+ 76. Ke5 Qb5+ 77. Kd4 Qc4+ 78. Ke3 Kb2 79. Kd2 Qc2+ 80. Ke3 Qc1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/almost-saved?gm=23399",
+    "gameName": "Almost saved",
+    "players": "damalfi (1715) vs. tag1153 (1502)",
+    "opening": "Dutch (A80)"
+}

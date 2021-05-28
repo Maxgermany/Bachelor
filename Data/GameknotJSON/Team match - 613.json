@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. O-O Nge7": "this is a mistake which white could have taken advantage of.  5 ... Nf6 was the right move.",
+        "6. a3": "instead 6 Ng5! is very tough to answer.  6 ... 0-0 loses to 7 Nxf7 Rxf7 8 Qf3 and 6 ... d5 7 Nxd5 Qxg5 8 Nxc7+ Kd8 9 Nxa8 is rather unappealing.",
+        "6... O-O 7. d3": "here again 7 Ng5 was a difficult move to answer.  ",
+        "7... h6 8. Be3 Kh7 9. Nd2 f5": "trying to get something going",
+        "10. f3 d6 11. Ba2 Nd4": "charge!",
+        "12. Ne2 d5 13. exd5 Nxd5 14. Bf2 Nxe2+": "with this move black gets an attack going",
+        "15. Qxe2 Nf4 16. Qe3 Qg5 17. Bg3": "17 g3 was the only move.  after that 17 ... Nh3+ gives black some attacking chances",
+        "17... Nh3+ 18. gxh3 Qxe3+ 19. Kg2": "after 19 Rf2 black snags another piece with 19 ... f4 and ... g5",
+        "19... Qxd2+ 20. Rf2 Qa5 21. Re2 Bd7 22. Rae1 Rae8 23. f4 exf4 24. Bxf4 Rxe2+ 25. Rxe2 Re8 26. Rxe8 Bxe8 27. c3 Bc6+ 28. Kf2": "after 28 Kf1 Qb6 29 b4 Bxc3 allows black to win pawns at will.",
+        "28... Qb6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=24816",
+    "gameName": "Team match",
+    "players": "stuj21 (1516) vs. francisbaron08 (1625)",
+    "opening": "Three knights (C46), Steinitz variation"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Standard. I am black ",
+        "1... f5": "New opening ",
+        "2. exf5": "Yummy",
+        "2... d5": "Standard ",
+        "3. d4": "Same",
+        "3... Bxf5": "Yum. Mi pawne",
+        "4. Be2": "? Ok",
+        "4... e6": "Opening bishop path",
+        "5. Bd2": "? What is happening white!",
+        "5... c5": "Pawn out",
+        "6. dxc5": "!?",
+        "6... Bxc5": "Pawn trade. Black in control of center",
+        "7. c4": "Hi",
+        "7... Qb6": "Hello",
+        "8. cxd5": "Yom",
+        "8... Qxb2": "Yom",
+        "9. Bc3": "Oh no",
+        "9... Qb6": "Run",
+        "10. Bxg7": "!!!",
+        "10... Qb4+": "Check",
+        "11. Kf1": "!?",
+        "11... Qf4": "Threatening mate",
+        "12. Bxh8": "Yum. But wait....",
+        "12... Qxf2#": "Sorry!! Checkmate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/random-thing?gm=65315",
+    "gameName": "Random thing",
+    "players": "linusinsulins (white) vs. eric2jin (black)",
+    "opening": "Fred (B00)"
+}

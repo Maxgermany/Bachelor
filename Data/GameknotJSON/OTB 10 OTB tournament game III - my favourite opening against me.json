@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Bg5 h6 6. Bxf6 Qxf6 7. cxd5 c5 8. dxc6 e.p. bxc6": "Nxc6 better, developing a knight. But, too late now...",
+        "9. Nf3 Bg4 10. Be2 Bxf3 11. Bxf3 c5": "? This loses a rook due to the pin along the h1-a8 diagonal.",
+        "12. Bxa8 cxd4 13. O-O": "! Now black has to think smart.",
+        "13... Qe5": "??? Caught in the centre. Now he is doomed!",
+        "14. Re1": "A sweet tactic here. I excitedly move my rook to e1 and exclaim to Kai: \u201cThanks for the queen. Greatly appreciated.\u201d",
+        "14... f6 15. Rxe5+ fxe5 16. Qh5+ Kd8 17. Qxe5 Nd7 18. Qa5+ Nb6 19. Nd2 Kc7 20. Nc4 Kb8 21. Nxb6 Kc7": "?? Could have regained the piece!",
+        "22. Rc1+ Kd6": "Mate around the corner.",
+        "23. Qd5+ Ke7 24. Rc7+ Kf6 25. Rf7+ Kg6 26. Qf5#": "Checkmate! Hope you enjoyed! Tied for first in the tournament, I played Linus in the final game and won the trophy! These opponents were not hard to beat, but not easy, either. Stick around for some more OTB and regular game annotations."
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-10-otb-tournament-game-iii-my-favourite-opening-against-me?gm=66161",
+    "gameName": "OTB 10: OTB tournament game III - my favourite opening against me",
+    "players": "Eric (white) vs. Kai (black)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

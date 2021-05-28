@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. c4": "Here is another annotation from me, and the reason I annotated it, is because of another mate (thanks to maestro and his pamphlets) on how to improve my game, I sat down and planned out this mate from move 19 (yes thats only 6 moves ahead) but to me thats a significant improvement, and I'd like you guys to see it",
+        "1... c5 2. Nf3 f6 3. d4": "Here we see White in a slightly better position, Black opening a white diagnoal on his King, but White also doing the same for the Black Queen",
+        "3... b6 4. e4": "Taking control of the centre, Nb3, d5, or Bf4 may have been better",
+        "4... Bb7 5. d5": "Heavily restricting Blacks LSB here..",
+        "5... d6": "Possibly opening up more squares for his LSB? I didnt see it as a real smart move, stopping d6 maybe, to stop opening up a line on his King? But d6, then causes Bxe4, which loses my momentum, so that wasnt happening",
+        "6. Nc3 Ba6 7. g3": "Bringing the White Bishop into play after I blocked its usual path..",
+        "7... h6 8. Qa4+": "It was here, I couldnt tell how, but I could see a vague stronghold I could gain, with both the Bishop and Queen coming together around d7",
+        "8... Kf7 9. Bh3 e5": "Maybe e6 would have ben smarter? That gives Black no more pawn with which to defend, and gives White an outpost for white Bishop with Be6+",
+        "10. Be6+": "Check!",
+        "10... Ke7": "With the Queen threatening, would g6 have been a better move for the King? I know g6, Nf4 leads to some serious problems, leaving him with h7, but Bf5, g6 Bxg6, is the continuation I found, then the King has g7 to move to, and it looks a lot less bleak, in my opinion...",
+        "11. Nh4": "Noticed another free spot for my Knight to occupy, at least temporarily",
+        "11... Qe8 12. Nf5+ Kd8": "Black has got to be running scared, here....just a few moves away from mate, no tempo, no development, I was extrememly happy with what I was sure was going to be the outcome..",
+        "13. Nb5 g6 14. Ne3 Bxb5 15. Qxb5": "A point I thought worth noticing, was 11....Qe8 Black moves his Queen IN LINE with White's Queen, as to threaten it, although covered by the Knight on c3 at the time, but as you will see, when White threatens it, Black shys away...it just made me think a little more",
+        "15... Qe7": "Hmm...whethere it was d8, or e8 in move 11, or e7/e8 here, it was still protecting the d7 square as was the Knight, and that square was my goal",
+        "16. a4 a6 17. Qxb6+": "I started to see a new oppertunity once Black allowed White to gain control of b6 and essentially, dig deeper into his now almost depleted defenses",
+        "17... Ke8 18. Bc8 Kf7": "Was expecting g5 sooner or later, maybe even h5, to try create an escape route for the Black King",
+        "19. Bb7": "I thought Black may play, Nd7? The White Bishop cannot take for losing his Queen, and although the Knight isnt doing much on d7, the Queen has to move (probably to c7) and the Rook has the Back line to play along, and probably assist the Black Queen",
+        "19... Qe8 20. Bxa8 Ne7": "A good move I thought, bringing the Knight in, and of course, the Queen is doing nothing wrong, defending it",
+        "21. Qxd6": "However, leaving the pawn undefended, and by the move/s previous to this, when I deliberating the Rook exchange, I had seen a mate which was very likely",
+        "21... Ng8": "I had planned in this (one thing my analysis usually lacks is the \"best move\" for the oppenent) I plan a line, but usually I miss a move, that the opponent could make that is better for him/her...so pleased with this so far",
+        "22. Qc7+ Nd7": "Had considered into my plans Nd7, or e7 at this stage, surely Black understands that to make White play this game out further, a Queen exchange was most likely the only thing to temporarily stop the mate..",
+        "23. Bc6": "Now I knew mate was guaranteed, and delighted as such",
+        "23... Ke7 24. d6+": "King has nowhere to go",
+        "24... Ke6 25. Bd5#": "And there is it. Mate. Happy that I found it, and more importantly, that I was able to seize control of the game, and not let it go. Compared to those that saw my previous annotation where there was a chance for White to take the Black bishop on h5 with my Queen, but didnt, and although I won, it prolonged mate, which was maybe 3 or 4 moves away...whereas this time, I didnt let up, or let it slip, I was in control, and played accordingly.\n\nComments appreciated!"
+    },
+    "url": "https://gameknot.com/annotation.pl/78th-gk-tournament?gm=36915",
+    "gameName": "78th GK tournament",
+    "players": "sacul219 (1221) vs. eclectical (1088)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4 b6 2. c4 g6 3. Nc3 Bb7": "an iregular opening. in my opinion it cant be good for black...",
+        "4. Nf3 Bg7 5. g3 Nf6 6. Bg2 d6": "black is developing his tools very slowly. white has a great space to play in the center as well as in the king and queen side.",
+        "7. O-O O-O 8. Bg5 Nbd7 9. Qc2": "the D row will be very powerful for white.",
+        "9... Re8 10. Rad1 e6 11. e4": "it seems that black is waiting for white to make his move. white, on the other hand, is gaining advantage in the center.",
+        "11... h6 12. Be3 c6 13. Qc1 Kh7": "not one peace was taken from the board and it is obvious that black is defending and white is attacking.",
+        "14. e5": "time to break the ice!",
+        "14... dxe5 15. dxe5": "now the knight on d7 cant move and the other one has to move back to g8.",
+        "15... Ng8 16. Ne4": "the black king is wick. there many options to sacrifice a tool on g5 and afterwards f7 will fall too.",
+        "16... Qc7 17. Nd6": "also, d6 is a great place for the knight.",
+        "17... Ref8": "a must. sadly.",
+        "18. Bf4": "building a future threat on the queen...",
+        "18... Rad8 19. Rfe1": "a quick sum: white has a great space to act with a knught on d6 and e,d,c rows open and semi-open. black lmost cant move, with a bad bishop on b7 and a poor king...",
+        "19... Ba8": "i think that black thought that i'm gonna change the knight for the bishop. even if i gained a pawn for it (on c6) it is not good. the knight is much stronger where it is.",
+        "20. h4": "want to play h5...",
+        "20... f6 21. exf6 Ndxf6": "i think that Rxf6 is better...",
+        "22. Rxe6": "what else?",
+        "22... Nh5 23. Rxg6": "what a great move!!!\r\nit took me some time to see it all the way through. black is simply lost.",
+        "23... Nxf4 24. gxf4 Kxg6 25. Qc2+ Kh5": "if Kf6 then...\r\n26. Qf5  Ke7 27. Re1 ! Kxd6 28. Qd3  Kc5 29. Qa3  Kxc4 30. Bf1  Kd5 31. Qd3  Kc5 32. Rc1  Kb4 33. Qa3#",
+        "26. Ne5 Bxe5": "a must!",
+        "27. Bf3+": "it looks like the end...",
+        "27... Kxh4 28. Nf5+": "another great move!!!\r\nwithout a rook and a knight, white is won and black is lost.",
+        "28... Rxf5 29. Qxf5 Qg7+": "maybe:\r\n29... Rxd1  30. Bxd1 Nf6 31. fxe5 was better, but it would only make black suffer longer.",
+        "30. Kh2 Rxd1 31. Qh5#": "a nice end for a great game.\r\nany comments will be in place. enjoy."
+    },
+    "url": "https://gameknot.com/annotation.pl/34th-gk-tournament?gm=6352",
+    "gameName": "34th GK tournament",
+    "players": "dylam (2090) vs. broncoken (1711)",
+    "opening": "Queen's pawn (A40), English defence"
+}

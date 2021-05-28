@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. Nf3 c5 2. d4 e6 3. e4 Nc6 4. Be3 Nf6 5. dxc5": "Mauvais jeux, puisque Kxe4 et mon pion en c5 est attaqu\u00e9 par 2 pi\u00e8ces et seul le fou le prot\u00e8ge.",
+        "5... Nxe4 6. Bd3 Nxc5 7. Bb5 Ne4 8. O-O Qa5 9. c4": "a4 n'\u00e9tait pas mauvais, mais j'ai opt\u00e9 pour c4 pour laisser plus de place \u00e0 ma reine.",
+        "9... a6 10. Bxc6": "J'ai opt\u00e9 pour l'\u00e9change plut\u00f4t que Ba4.  Je craignais les \u00e9changes si le pion avancait en b5, l'\u00e9change de pion aurait lib\u00e9r\u00e9 la ligne a reine-tour pour les noirs.",
+        "10... bxc6 11. Qd4": "Simple coup pour faire bouger le cavalier noir.  Ce dernier m'emp\u00eache de sortir mon cavalier en c3 ou d2.",
+        "11... d5 12. Ne5": "Ce coup me permet d'attaquer le pion en c6.  De plus si dxc4, la ligne d est ouverte pour ma reine, ce qui n'est pas mauvais.",
+        "12... Bc5": "Ce coup des noirs n'\u00e9tait pas pr\u00e9vu et me force \u00e0 ramener la reine.",
+        "13. Qd1 Bxe3": "L'\u00e9change de fou expose le roi blanc.  J'aurais du jouer Qd3 plut\u00f4t que Qd1.",
+        "14. fxe3 Qc5 15. Nxf7": "Ici j'ai pris une chance, j'esp\u00e9rais que les noirs bouge simplement la tour.  Le coup Rxf7 aurait probablement \u00e9t\u00e9 meilleur puisque le roque n'aurait pas \u00e9t\u00e9 possible.",
+        "15... O-O 16. Qf3": "Je dois absolument prot\u00e9ger mon cavalier",
+        "16... Ng5 17. Qh5 Qxe3+ 18. Kh1 Rxf7 19. Nc3": "J'aimais mieux sortir mon cavalier.  Si l'\u00e9change de tour se fait, je garde le controle sur la ligne f et esp\u00e8re surprendre les noirs avec Qe8 pour le mat.",
+        "19... Rxf1+": "L'\u00e9change se fait comme pr\u00e9vu.",
+        "20. Rxf1 Bd7": "Malheureusement les noirs ont vu le jeu.",
+        "21. h4": "J'essaie de faire fuir le cavalier pour descendre Qf7.",
+        "21... Ne4": "Je d\u00e9cide de ne pas descendre la reine, je crains Kg3 qui me couterait ma tour.  Je proc\u00e8de donc \u00e0 l'\u00e9change de cavalier.",
+        "22. Nxe4 Be8 23. Qg4 Qxe4": "\u00c0 partir de l\u00e0, il est clair que les noirs veulent provoquer l'\u00e9change de reine.  Cette partie est termin\u00e9 pour les blancs.",
+        "24. Qg3 dxc4 25. Qd6 Bg6 26. Qe7 Re8 27. Qg5 Bf5 28. h5 Qg4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-dragoneye?gm=11911",
+    "gameName": "Challenge from dragoneye",
+    "players": "dragoneye (1397) vs. enculeurdemouche (1701)",
+    "opening": "Reti opening (A04)"
+}

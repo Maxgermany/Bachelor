@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "the game was lively with several exchanges, at some point I got to keep the bishop pair against black's N+B, but still black had more space and some chances in the centre... unfortunately black resigned",
+        "1... Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6": "Queens Indian Defence - Modern main line",
+        "5. Nbd2 Bb7 6. Bg2 Be7 7. O-O O-O 8. b3": "slightly weakening the black squares, but my king is already on the other wing, and my bishop on b2 should be enough compensation",
+        "8... d5 9. Bb2 Nbd7 10. Ne5 c5 11. cxd5 exd5 12. Rc1 Re8 13. Nxd7 Nxd7": "N already played twice here was Qxd7, with two loses for black 13...Qxd7 14.dxc5 bxc5 15. Bxf6 gxf6 accepting a worst pawn structure in Thejkumar M S (IND) - Arun Karthik R (IND), Mumbai (India); 2008; or 13...Qxd7 14.dxc5 bxc5 15. Bxf6 Bxf6 losing a pawn after 16.Ne4 (the d5 pawn is pinned) 16...Be7 17.Nxc5 Bxc5 Rxc5 in  Araque Rafael (COL) - Morales Javier (PER), Cali (Colombia), 1999.\n",
+        "14. dxc5": "with my reply to Nxd7 black has to chose between an isolated d pawn or connected central pawns but allowing white some initiative against black's pawns, namely the d5 pawn which is pinned by my g2 bishop",
+        "14... bxc5": "black opts by the connected central, probably the best choice, as the isolated pawn would be an easy target for my pieces",
+        "15. Nc4": "profiting from the pin on the d5 pawn, if dxc3 Bxb7",
+        "15... Nb6": "? black needed Nf6 to control d5, if Nf6 then d5 would have three defenders the queen that would not had been blocked by the knight the bishop and the knight on f6, after Nb6? black blocks his queen from defending the a5 square and now I can force the exchange of a knight by a bishop, the d5 pawn is defended by Nb6 but new opportunities arise for white",
+        "16. Na5": "if Ba6 or Bc8 then Nc6 will gain a tempo with the attack on the queen and exchanges knight by bishop latter on",
+        "16... Ba6": "Bc8 has the same reply",
+        "17. Nc6": "with tempo, forking queen and bishop",
+        "17... Qd6 18. Nxe7+": "and from now on white will have the bishop pair, plus the open character of the position and black having three pawn islands allows me to believe I can convert in to a won endgame",
+        "18... Rxe7": "! black wants to double his rooks on the e column but my e pawn can be easily defended, plus with Ba3 I will have counter-play against blacks c pawn",
+        "19. Re1": "defending the e pawn, now black has both Rc8 with the idea of doubling rooks behind his pawns or Re8 to keep with the plan started by 18.Rxe7, anyway I still have e3 or Ba3",
+        "19... Rae8 20. Ba3": "aimed at Qd6 and Re7... black resigned here (?)"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=41947",
+    "gameName": "Let's play chess",
+    "players": "kaspanatola (1936) vs. sr_ajedrez (1828)",
+    "opening": "Queen's Indian (E15), Nimzovich variation (exaggerated fianchetto)"
+}

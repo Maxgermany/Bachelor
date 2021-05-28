@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "When you see d4, you should probably expect c4 as the second move.  One of these days, I might learn to recognize all these openings.",
+        "1... Nf6": "Fisher for black.",
+        "2. c4 d6": "The early d6 makes this the Old Indian defense, but it all goes to the same place.",
+        "3. Nc3 g6 4. e3 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. O-O e5": "What I like about this opening is that it gives you a lot of options.  You can attack with the e pawn, or the c pawn, or you can stay closed and develop the b pawn.  Against a weak opponent, this opening seems to work well.  In this case, this was not a weak opponent.",
+        "8. Re1 c5 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Na4 e4 12. Be2 Qxd1": "Sometimes, against a stronger player, it seems logical to take the queen.  But, then again, it simplifies the game for the stronger player, too, and this isn't necessarily good.  I reminded myself to watch the c6 pawn with this note:\n13. Bxd1 b6\n",
+        "13. Rxd1 b6 14. Rb1 Bd7 15. Nc3 Rab8": "I don't think I had a coherent plan in this game.  This move seems like a waste, but I suppose, now looking back, that I wanted to attack the c4 pawn.",
+        "16. Nd5 Nxd5 17. cxd5 f5 18. b3 b5 19. Bb2 Bxb2 20. Rxb2 Rbd8 21. Rc2": "No clear plan, and I waste moves.",
+        "21... Rdc8": "22. Rd-c1 f4\n23. Rc2xc5 fxe3\n24. Rc5xc8 Rxc8\n25. Rxc8  Bxc8\n26. fxe3 a6 (-1)\n",
+        "22. f3 exf3 23. gxf3 Rfe8 24. Kf2 b4 25. d6 Re6": "This would be at least the first mistake that causes me to lose.  I allow a diagonally stacked rook and king in white squares with the white bishop on the board.  Foolish.",
+        "26. Bc4": "He's a good player; he sees it.",
+        "26... Kf8 27. Bxe6 Bxe6 28. e4 fxe4": "I expected him to stack his rooks in the d file.\n\n29. fxe4 Ke8\n30. Rc-d2 Kd7\n",
+        "29. fxe4 Ke8 30. e5": "Instead, he strengthened his d pawn.",
+        "30... Kd7 31. Rdc1": "... and stacks his rooks in the c file.",
+        "31... Rf8+ 32. Ke3 Bd5": "33. Rc2xc5 Ke6\n34. Rd1 Rf3 \n35. Kd4 Rf4 \n36. Ke3 Re4 \n",
+        "33. Rc2xc5 Ke6 34. Rd1 Rf3+ 35. Ke2 Be4 36. d7 Rd3": "Desperation:\n37. d8=Q Rxd8\n38. Rxd8 Kf5\n",
+        "37. d8=Q Rxd8 38. Rxd8 Kf5 39. Rd6 Kf4 40. e6 g5 41. e7 Bb1 42. e8=Q Bxa2 43. Rd4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/old-indian-defence-critical-mistake-at-25?gm=3967",
+    "gameName": "Old Indian defence, critical mistake at 25",
+    "players": "ssth (1542) vs. rpilaud (1449)",
+    "opening": "Old Indian (A53), Janowski variation"
+}

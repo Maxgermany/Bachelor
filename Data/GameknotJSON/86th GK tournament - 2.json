@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "I haven't played chess at all in almost a year, so I already know this is going to be a tough match-up, but it's a tournament, and I don't control who I play against.",
+        "1... g6 2. f4 b6 3. d4": "It looks like we both have different kinds of pawn defenses in mind.",
+        "3... Bb7 4. Nc3 Bg7": "sometimes symmetry helps me with the board",
+        "5. Be3 e6 6. Qd3 Ba6": "Time to put myself into the offensive position.",
+        "7. Qd2 d5 8. e5 c5 9. dxc5 Ne7": "move my knight to e7 so that I have an advantage over his knight and queen if they were to take my pawn at d5.",
+        "10. cxb6 axb6 11. Qf2 Nd7 12. Bb5": "I saw his bishop the whole time, but was willing to trade bishops if it came down to it.",
+        "12... Bxb5 13. Nxb5 O-O": "Time to get my rook ready.",
+        "14. Nf3 f6 15. exf6 Bxf6 16. h4 Bxb2": "Time to take out as many pieces as I can and put myself in another offensive position.",
+        "17. Rb1 Rxa2": "defending the bishop",
+        "18. O-O Nf5": "Forcing the bishop to move...\n",
+        "19. Bc1 Bxc1": "So that we can trade bishops...\n",
+        "20. Rfxc1": "and make his second rook useless while waiting behind a pawn.",
+        "20... Qb8": "My plan for checkmate is starting to come in to focus.",
+        "21. Ne5": "He attempts to defend it",
+        "21... Nxe5": "but I don't need that knight so I don't mind trading...\n",
+        "22. fxe5 Qxe5": "along with taking his pawn and keeping checkmate in sight.",
+        "23. Qxb6": "That was a mistake taking my pawn.  They just took their queen away from the defense I was worrying about.",
+        "23... Rb8": "Time to make a bold move",
+        "24. Qc6": "Trapping their queen behind one of my pawns, so they don't ruin my plan.",
+        "24... Nxh4 25. Nc3": "At this point, I'm planning on them taking my rook by his \"knight.\"  I have checkmate in sights",
+        "25... Qg3 26. Rxb8+": "I never saw that coming, but I knew that I was going to have mate in one move anyway.",
+        "26... Kg7 27. Qxe6": "It puzzled me that they didn't try to put me in to check again because...",
+        "27... Qxg2#": "Checkmate."
+    },
+    "url": "https://gameknot.com/annotation.pl/86th-gk-tournament?gm=41479",
+    "gameName": "86th GK tournament",
+    "players": "tomcuchta (1192) vs. number1thespian (965)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

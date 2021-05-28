@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5": "Guico Piano (or Italian Game).",
+        "4. b4": "Evans gambit. Anderssen was a big fan of this approach, and played it excessively as white. In it, white gives up material for an advantage in development.",
+        "4... Bxb4 5. c3": "With the idea of owning the center with a solid pawn structure.",
+        "5... Ba5 6. d4 exd4 7. O-O": "This move accomplishes a few things. It removes the king from the danger posed by black's dark squared bishop, secures his safety, and prepares Re1. The advantage gained by the gambit pawn is starting to take shape.",
+        "7... d3": "?! Dubious, to say the least. 7...d6 or even 7...dxc was probably better. I would love to know what Dufresne was thinking by playing this move.....",
+        "8. Qb3": "Hello f7.",
+        "8... Qf6": "Defending the weak f pawn.",
+        "9. e5 Qg6": "Not 9...Nxe4 because of 10. Re1 d6 11.Qa4   OR 10. NxN QxN 11. Re1! and the f pawn is STILL weak.",
+        "10. Re1": "! Of course.........",
+        "10... Nge7 11. Ba3 b5": "?! Instead of defending more thoroughly, black offers up a counter sac in an attempt to get active on white's queen.",
+        "12. Qxb5 Rb8 13. Qa4 Bb6": "Black wants to castle here, but is prevented because of 14. Bxe7 (winning a piece as the c6 knight cannot defend both the Ne7 and the Ba5).",
+        "14. Nbd2 Bb7 15. Ne4 Qf5": "? Black should have castled.",
+        "16. Bxd3 Qh5 17. Nf6+": "!! A beautiful sacrifice. Analyze for a few minutes before moving on.................",
+        "17... gxf6 18. exf6 Rg8": "Setting up QxN.",
+        "19. Rad1": "! Looks innocent enough, right? Watch.............",
+        "19... Qxf3 20. Rxe7+": "Sacrifice #2...................",
+        "20... Nxe7": "What else could black do?",
+        "21. Qxd7+": "Sacrifice #3! Black is forced to re-take with his king because 21...Kf8 loses to 22. QxN  ",
+        "21... Kxd7 22. Bf5+": "! Double check!",
+        "22... Ke8 23. Bd7+ Kf8": "23...Kd8 loses just as fast to 24. BxN",
+        "24. Bxe7#": "Checkmate! A great long combination that culminates in a very pretty mate. Anderssen was a master of such tactics. More famous games to come:)\r\n\r\nCheers,\r\n  Thomas"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-evergreen-game?gm=561",
+    "gameName": "\"The Evergreen Game\"",
+    "players": "Adolph Anderssen  vs. Jean Dufresne ",
+    "opening": "Evans gambit (C52), compromised defence"
+}

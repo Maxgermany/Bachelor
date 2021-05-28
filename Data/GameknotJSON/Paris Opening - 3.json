@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. Nh3": "So off we go again in this themed opening",
+        "1... d5 2. g3 e5 3. Bg2 c6 4. O-O": "White has the king tucked away safely black has tried to take control of the centre",
+        "4... Nf6 5. d3 Be7 6. f4": "White weakens his kingside, black develops",
+        "6... Nbd7 7. fxe5 Nxe5 8. Nc3 O-O 9. Bg5 Nfg4": "The knights are well placed to cause problems for white",
+        "10. Qd2 Bxg5 11. Nxg5 h6 12. Nf3 Qb6+": "D4 is forced and this allows Nc4",
+        "13. d4 Nc4 14. Qf4 Nge3 15. Rfb1": "This is a strange move",
+        "15... Nxc2 16. b3 Nc4a3 17. Na4 Qd8 18. Rbf1 Nxa1 19. Rxa1": "Black stands better, and now must exploit the material advantage",
+        "19... Qe7 20. Kf2 Re8": "Black aims to control the e file",
+        "21. e3 Nc2": "White resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/paris-opening?gm=38326",
+    "gameName": "Paris Opening",
+    "players": "j_tavares (1632) vs. dwardman (1676)",
+    "opening": "Amar gambit (A00)"
+}

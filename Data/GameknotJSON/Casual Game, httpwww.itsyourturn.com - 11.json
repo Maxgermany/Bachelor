@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6": "The computer prefers Be7 but I hardly think that it makes a difference.  \n",
+        "5. c3 d4": "Here Nh6 would be a slightly better choice.  \n",
+        "6. Bb5": "For the  next couple of moves, Black could play Bd7 or ...  \n",
+        "6... Nge7 7. O-O a6 8. Be2 Ng6": "Blunder.  \nOverlooking ... 8... d3\n",
+        "9. d3 Nce7": "Minuscule better is ... 9... b5 10. g3 Bb7 11. a4 b4 12. cxb4 Nxb4 13. Bd2 h5\n",
+        "10. g4 Nd5 11. c4": "Blunder.  White needed to play Ne1.  \n",
+        "11... Ndxf4 12. Kf2": "A bizarre king move.  \n12.  Nbd2 Is better.  \n",
+        "12... Be7 13. Nbd2 b5 14. Ne4 Bb7 15. cxb5": "Misses the combo that is coming.  \n15. Bxf4 Nxf4 16. Qd2 was necessary.  \n",
+        "15... Bxe4 16. dxe4 d3 17. Bxf4 Nxf4": "Now white needs to play Ke3 or Bxd3.  \n",
+        "18. Qa4": "Things just got a little worse.  \n",
+        "18... Bh4+": "Now the only reasonable response is Kg1...  \n",
+        "19. Ke3 Ng2+": "White resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=59540",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "RETIRED  vs. John Coffey, Chess Player at Lar ",
+    "opening": "French (C00), Labourdonnais variation"
+}

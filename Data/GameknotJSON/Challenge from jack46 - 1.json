@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8. Bg5 Be7 9. O-O-O h6": "I expected 9...O-O, to which I intended 10. h4?!, trying to duplicate a famous Alekhine game that is really not that sound, though it worked for him.",
+        "10. Bh4 O-O 11. Kb1": "This should have lost me a pawn after 11...Nxe4!, 12. Bxe7, Nxc3+, 13. Qxc3, Qxe7, 14. Rhe1, Qd8, 15. Ne5?!, Be8! Better for white was 11. Rhe1.",
+        "11... Nd7 12. Bxe7 Qxe7 13. Rhe1 f6": "Black seems to have no plan. His white squares are very weak now, and they will be weaker after the following exchange.",
+        "14. Nd5 Bxd5 15. exd5 Qf7 16. Qg4": "Keeping an eye on the weak e6 square -- and on the King!",
+        "16... Nb6": "Black probably should have challenged the e-file with Rae8.",
+        "17. Nd4": "Black will fall right into the trap. He sees that the knight is aimed at e6, so he eliminates one of the supports.",
+        "17... Nxd5": "Maybe 17...f5 was necessary.",
+        "18. Nf5": "Ta-da! This knight will have quite an adventure in this game. The deadly threat, of course, is 19. Nxh6+, winning the queen.",
+        "18... Kh7 19. Rxd5": "But, black overlooked this threat! He can't recapture because of mate at g7.",
+        "19... Rae8": "Finally!",
+        "20. Rxe8 Rxe8 21. Rd1 g6 22. Ne3 f5 23. Qc4": "White now just wants to simplify and reach a favorable endgame.",
+        "23... Qd7 24. Nd5": "Ouch! Now white threatens 25. Nf6+, netting the queen. Black should have played 23....Qg7.",
+        "24... Qf7 25. Qxc7 Qxc7 26. Nxc7 Re7 27. Nb5 a6 28. Nxd6 Rd7 29. Kc1 Re7 30. Nc4 b5 31. Ne3 f4 32. Nd5 Rf7 33. Re1 g5 34. Re7 Rxe7 35. Nxe7 a5 36. Nc6 a4 37. Kd2 Kg6 38. Kd3 Kf6": "He should play 38...Kf5, challenging white's King, which now marches to the center.",
+        "39. Ke4 h5 40. Nd4 b4 41. h4": "As good a way as any to break up his only advantage, the K-side pawn majority.",
+        "41... gxh4 42. Kxf4 h3": "It's hard to see the use of this move, unless it's to break up white's connected pawns.",
+        "43. gxh3 Kg6 44. c4": "Now the Q-side majority springs into action. I expected 44...bxc4e.p., 45. bxc3, Kf6, which would gain black a tempo.",
+        "44... Kf6 45. c5 Ke7": "A curious position. White's c-pawn is unreachable! Black would first have to trade off a Q-side pawn and march the King around to d7-c7-b7-a6-a5-b4, getting behind the white c-pawn, at which point it could safely outrun the black King anyway.",
+        "46. Ke5 h4": "Black appears to be trying to lock the position and going for stalemate, his only hope.",
+        "47. c6 Kd8 48. Kd6 Kc8 49. c7 a3 50. bxa3 bxa3 51. f4": "Of course not 51. Kc6?, stalemate.",
+        "51... Kb7 52. Kd7 Ka8 53. c8=Q+ Ka7 54. Qc7+ Ka6": "Or, 54...Ka8, 55. Qa5+, Kb7, 56. Nb5, Kb8, 57. Qa7#.",
+        "55. Qb8 Ka5 56. Qb5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-jack46?gm=44137",
+    "gameName": "Challenge from jack46",
+    "players": "jack46 (1661) vs. maalot (1383)",
+    "opening": "Philidor (C41), Boden variation"
+}

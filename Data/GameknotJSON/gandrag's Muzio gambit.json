@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3": "Difficult opening, hard to play for white",
+        "6... Bc5+ 7. Kh1 Qf6 8. c3 Nc6 9. d4 Nxd4": "I am not sure about giving back the knight.\nIt seems to me that white has to large an advantage in development.\n\nFor me personally, I like games where I have a lead in development.",
+        "10. cxd4 Bxd4 11. Nc3": "Blocking he diagonal to b2, and threateing Nd5 in the process.\nMaybe black should just exchange some pieces here with Bxc3, to reduce white's development advantage.",
+        "11... c6": "This seems to slow.",
+        "12. Bxf4 h5": "Preventing the threatening Qh5, but black falls even further behind in development.",
+        "13. e5": "This one cannot be taken, black cannot afford to open the e1-e8 line.",
+        "13... Qf5 14. Ne4": "Punishment for not trading the Bisshop for the Knight.\nOf course Nd6 is threatening.",
+        "14... Qg4": "I exepcted 14...,Bxe5; 15.Nd6+ !, Bxd6; 16.Bxd6, Qxf3, Rxf3;\n\nBlacks King is then caught in a net, even with no Queens on the board.\nIn fact if wite plays correctly, the checkmate is forced.\n\nInstead of 15.ND6+, the more simple Ra1-e1 is also good, but not as strong.",
+        "15. Bg5": "Still attemting to trap blacks King.\nThis was probably black last chance to play d5 and escape the net.",
+        "15... Qxf3 16. Nd6+": "Ha! \nBlacks bisshop and rook are trapped beind the wall of his own pawns.\nWhite has to act with a little haste, but in a sense he has a rook and a bisshop extra on the board.\nBlacks King remains in the net, even without the Queens.",
+        "16... Kf8 17. Rxf3": "Preparing an attack over the f-file, by doubling the rooks.\n",
+        "17... f6": "Probably the only way out.",
+        "18. Re1": "Not bad, but exf6 would have been stronger, blocking e7 for black King.\n\n",
+        "18... b5 19. exf6": "There is no time now for moving the bisshop.\nAfter Bb3, Ba6, black get another piece into play.\n\nNow white as the immeadiate threat Re8#;",
+        "19... Ba6 20. f7": "Once again white has to play aggressively.\r\n\r\nThe only way to prevent White promoting a Queen is Nh6 or Nf6.\r\nBoth moves lose a lot of material however.\r\n\r\nFinally Black realized there is no more escape, and he resigned.\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/gandrags-muzio-gambit?gm=41803",
+    "gameName": "gandrag's Muzio gambit",
+    "players": "eduard352 (1731) vs. zolkifly (1811)",
+    "opening": "KGA (C37), Muzio gambit, Paulsen variation"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 g6 2. d4 Bg7 3. Nc3 Nc6": "Un seguito assai bizzarro e provocatorio che Popchev ha giocato abbastanza spesso",
+        "4. Be3": "Il bianco non si dimostra interessato al dibattito teorico e sceglie una linea prudente. Volendo cercare di confutare la variante del nero il seguito pi\u00f9 energico \u00e8 4. d5 dove il nero pu\u00f2 scegliere tra 4...Cd4 e la bizzarra 4... Cb8\n",
+        "4... d5": "Sicuramente la continuazione pi\u00f9 energica. Era comunque giocabile 4...d6 ",
+        "5. Nf3": "Il bianco continua a scegliere soluzioni tranquille. Dopo 5. exd5 Cb4 oppure 5. Cxd5 e6 (con l'idea di rifarsi sul pedone d4) il nero ha forse maggiori difficolt\u00e0 per dimostrare la correttezza del suo impianto\n",
+        "5... dxe4 6. Nxe4 Nh6": "Una novit\u00e0 rispetto a 6...Ag4 che era stata giocata in precedenza ",
+        "7. d5 Nb4 8. Qd2": "Attaccando entrambi i cavalli neri",
+        "8... a5 9. a3": "Il bianco non si fida ad entrare nelle complicazioni conseguenti a 9. Axh6 Axh6 10. Dxh6 Cxc2+ 11. Rd1 Dxd5+ 12. Rxc2 Af5 con posizione poco chiara (ma non necessariamente cattiva per il bianco)\n",
+        "9... Qxd5": "L'unica mossa logica!",
+        "10. axb4 Qxe4 11. Bd3 Qe6 12. O-O-O": "Dopo aver giocato fin qui  in modo prudente (e anche troppo) il bianco pecca gravemente di ottimismo. Si  imponeva la semplice 12. O-O anche se dopo 12...Cf5 non sembra che il nero abbia grossi problemi. Con l'arrocco lungo il re bianco \u00e8 un bersaglio ideale",
+        "12... O-O": "Il nero con questo sacrificio passa decisamente in vantaggio",
+        "13. Bxh6": "Dopo 13. bxa5 Cf5  o 13...Cg4 il vantaggio del nero sarebbe evidente, visto che le sue prospettive d'attacco sul re avversario sarebbero concrete mentre quelle del bianco sarebbero inesistenti\n",
+        "13... axb4 14. Qe3": "Liberando la casa di fuga d2 per il re",
+        "14... Bc3": "Il modo pi\u00f9 energico per evitare la fuga!",
+        "15. bxc3 bxc3 16. Ba6": "Non ci sono altri modi per evitare il matto",
+        "16... Qxe3+": "Il cambio delle donne \u00e8 forzato. Dopo 16...Dxa6?? 17.Dxc3 l'attacco del nero si affloscia come un suffl\u00e9 mal riuscito. Il pedone c3 \u00e8 di importanza fondamentale",
+        "17. Bxe3": "Evidentemente il nero non ha previsto la mazzata che gli arriver\u00e0 alla 18a mossa. Era migliore 17.fxe3 alla quale Popchev sull'Informatore dedica la seguente variante 17.fxe3 Ta6 18.Rb1 Te8 19.Td3 Af5 20.Txc3 Tea8 21.Te1 Ta1+ 22.Rb2 T8a2+ 23.Rb3 Ae6+ 24.Rb4 Ta4+ 25.Rc5 Ta5+ 26.Rd4 Td5+ 27.Re4 Ta4+ 28.Cd4 c5 e il nero ottiene una posizione vincente. ",
+        "17... Rxa6 18. Kb1 Bh3": "L'alfiere si immola (solo apparentemente) per sgombrare la strada alla torre in f8.",
+        "19. Nd4": "Ovviamente non c'\u00e8 tempo di catturare l'alfiere: occorre cercare di approntare una difesa per l minacce sul re.",
+        "19... Rb6+ 20. Nb3": "Non c'\u00e8 speranza dopo 20. Rc1 Ta8\n",
+        "20... Rxb3+": "La botta finale. il re non ha difesa malgrado l'esiguit\u00e0 del materiale rimasto",
+        "21. cxb3 Bf5+ 22. Kc1 Ra8": "Il bianco abbandona, visto che il matto si riesce ad evitare solo a prezzi esorbitanti. Morale: attenzione a dove si arrocca ..."
+    },
+    "url": "https://gameknot.com/annotation.pl/stara-pazova?gm=65969",
+    "gameName": "Stara Pazova",
+    "players": "Nestorovic  vs. Popchev ",
+    "opening": "Robatsch defence (B06)"
+}

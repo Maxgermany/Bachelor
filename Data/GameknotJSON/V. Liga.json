@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 h6 9. Bh4 g5 10. Bg3 b5 11. Nd5 Nd4 12. Nxf6+ Qxf6 13. c3 Ne6 14. Nc2 Bb7 15. f3 d5 16. exd5 Rd8 17. Ne3 h5 18. Bf2 Nf4 19. a4 Bc5 20. axb5 Bxd5 21. Qa4 O-O 22. bxa6 Bc6 23. Qc4 Ba7 24. Rd1": "? because the following combination is forced for White",
+        "24... Bxe3 25. Bxe3 Rxd1+ 26. Kxd1 Qd6+ 27. Kc2 Rd8 28. Be2": "Still forced since all other roads lead to checkmate or losing White Queen.",
+        "28... Bd5 29. Qb5 Rb8 30. Qc5": "Qa5 leads to the same continuation",
+        "30... Bb3+ 31. Kb1 Qg6+ 32. Ka1 Nxe2": "Black finally cashes in Whites mistaken 24th move",
+        "33. a7 Ra8 34. Qb6 Qxb6 35. Bxb6 Nf4 36. Re1 f6 37. g3 Nd5 38. Bf2 Bc2 39. Ka2 Ne7 40. b4 Nc6 41. Kb2 Bf5 42. Ra1 Bd3 43. Kb3 Be2 44. f4 exf4 45. gxf4 g4 46. c4 Kf7 47. b5 Ne7 48. Kb4 Bf3 49. Ra6 Nc8 50. Ra3 Ke6 51. Ra6+ Kf5 52. Kc3 Bb7 53. Ra4 Kxf4 54. c5+": "? White falls into his own trap. To snare the Black bishop, he would have to relinquish his own along with two pawns. More importantly, the pesky a7 pawn has finally lost one of his guardians.",
+        "54... Kf3 55. Bd4 Nxa7 56. Kb4": "If 56. b3 Nb5+ 57. Kb3 Rxa4 58. Kxa4 Nxd4 -+",
+        "56... Nc6+": "The winning move simplifies into a won endgame for Black (despite what he managed to do with it).",
+        "57. bxc6 Rxa4+ 58. Kxa4 Bxc6+ 59. Ka5 f5 60. Kb6 Be4 61. c6 Bxc6 62. Kxc6 g3": "???????????????????????\nI honestly don't know what possessed me to do make this horrible, horrible move. f4 or h4 win easily. \nMust be the lack of sleep. :)",
+        "63. hxg3 Kxg3 64. Kd5 f4 65. Be5 Kf3 66. Bf6 Kg4 67. Ke4 f3 68. Bd4": "??\nThe final mistake. White can secure a draw with 68. Ke3 because  then 68. ... Kg6 is met with 69. Bh4+! Kxh4 70. Kxf3= ",
+        "68... Kg3 69. Kf5 h4 70. Be5+ Kg2 71. Bd4 h3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/v-liga?gm=37802",
+    "gameName": "V. Liga",
+    "players": "Milic  vs. Bakota ",
+    "opening": "Sicilian (B33), Pelikan, Bird variation"
+}

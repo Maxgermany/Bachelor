@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e3 e5 2. Nf3 Bd6 3. Nc3 Nf6 4. Bc4 a6 5. Ng5 b5 6. Nxf7 Qe7": "attack!!!",
+        "7. Nxh8": "attack!!",
+        "7... bxc4 8. e4 Qf8 9. Nd5 Kd8 10. Qf3 Qxh8 11. Nxf6 gxf6": "and now we even",
+        "12. b3 cxb3 13. axb3 Nc6 14. c3 Ne7 15. Ba3 Bxa3 16. Rxa3 c6 17. O-O d5 18. Re1 dxe4 19. Rxe4 Bf5 20. Rh4 e4 21. Qf4 Kd7 22. f3 Nd5 23. Qxf5+": "ops ;]",
+        "23... Kd6 24. fxe4 Qc8 25. Qxc8": "excange is good for me now",
+        "25... Rxc8 26. exd5 cxd5 27. Rxa6+ Rc6 28. Rxc6+ Kxc6 29. Rxh7": "and 0-1 "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=11745",
+    "gameName": "Let's play chess",
+    "players": "we3d (1160) vs. yiggy (1225)",
+    "opening": "Amsterdam attack (A00)"
+}

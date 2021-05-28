@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e3 d5 2. Nc3 e5": "I like claiming the center.",
+        "3. g3 Nf6 4. Bg2 d4": "I feel like I'm overextending but c5 will allow me to hang onto the d pawn even if I have to exchange the d pawn.",
+        "5. exd4 exd4 6. Ne4 c5 7. d3 Nc6 8. Bg5 Be7": "This opening seems kind of even. Black has more space but is slightly overextended. ",
+        "9. Bxf6 Bxf6 10. Qe2": "I did not get this move at first. Really, he was planning for an interesting game by castling queenside. It quickly became a race for the kill. I don't mind trading away my black squared bishop as he may be bad if my pawns stay on the board. Otherwise he may be useful for an attack on the queenside.",
+        "10... O-O 11. O-O-O Qa5": "Abandoning my bishop, I go for the queenside. Not much theory but just going with intuition.",
+        "12. Kb1 Nb4 13. a3 Be6": "Banking on the threat of Qa2+, Qa1+, Qxb2.",
+        "14. Nxf6+ gxf6 15. Qd2 Qa4": "I still am not quite sure how to attack, 16. ... Nxc2 17. Qxc2 Bb3 18. Qd2 Bxd1 leaves me up the exchange. If he does not take the knight Nxa3+ is an option.",
+        "16. Bxb7": "?? This is not appropriate. It opens the b line. White should be focusing on attacking my kingside as opposite side castling is usually a race to kill the king. ",
+        "16... Rab8": "Not just a reflex, this takes advantage of the b column and gains a tempo. Considering my g pawn is gone, my king is relatively safe.",
+        "17. Be4": "I played with the idea of f5 as Bxh7+ is an interesting line. ",
+        "17... Nd5": "I have a couple of options here Nxc2 is still an option. Qxa3 is an option with the discovered knight check, it just did not look promising. c4 is just a plain bad idea. I chose this move as if 18. Bxd5 Bxd5 19. f3 Qxa3 and my attack is looking good.",
+        "18. Ka1": "breaking the pin. I thought my attack may be over at this point. However, I found a nice sacrifice.",
+        "18... Rxb2": "!! I win. The threat of Qxa3# is too strong to refuse the rook. c1 was a better square for his king, although I can still drive a good attack.",
+        "19. Kxb2": "Game over.",
+        "19... Rb8+ 20. Ka2 Nc3+": "Ka1 is forced due to the double check. GG mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=41801",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "20563 (1918) vs. coolistdude (1704)",
+    "opening": "Van't Kruijs opening (A00)"
+}

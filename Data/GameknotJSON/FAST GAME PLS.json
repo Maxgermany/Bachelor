@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "king's opening",
+        "1... e5 2. Nf3": "attacking the opponent's open pawn to take control of the centre",
+        "2... Nc6 3. a3 Nf6 4. Nc3 Bc5 5. h3": "all major pieces out now......ready for a BIG battle",
+        "5... O-O 6. Bc4 d6 7. d3": "i tried to attack the opponent queen with my bishop",
+        "7... Be6": "exchange of bishop",
+        "8. Bxe6 fxe6 9. Bg5 h6 10. Bxf6 Rxf6 11. b4 Bb6 12. b5 Nd4": "i am in a very dangerous situation..tried to escape from this..i castled my king",
+        "13. O-O Qf8": "this is a very important move from me...Nf3 to Nh2 thereby giving more defence",
+        "14. Nh2 Qf7 15. Ne2 Rf8": "again i am in a very dangerous situation",
+        "16. Ng4": "one of my best moves again..tried to attack the opponents rook",
+        "16... Nxe2+ 17. Qxe2 Rg6 18. Rae1 h5 19. Ne3 Rf6 20. f3 d5 21. exd5 exd5 22. Kh1 d4 23. Nc4 Re8 24. Nxe5": "attacking the opponent's queen ....",
+        "24... Qd5 25. f4 Qxb5 26. Qxh5": "here actually i wanted to play Ne5 to Nd7...but i did not have support to my horse..again changed my mind and went to attack opponents queen",
+        "26... Ref8 27. c4 Rf6f5": "this is the final attack in which i succeeded..",
+        "28. Qxf5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-game-pls?gm=21000",
+    "gameName": "FAST GAME PLS",
+    "players": "f1shashi (1242) vs. hans (1234)",
+    "opening": "King's pawn game (C44)"
+}

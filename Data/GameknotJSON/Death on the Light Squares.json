@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. b3": "Larsen's Opening. Solid but relatively unpopular.",
+        "1... e5": "The modern response. The next several moves are very much by-the-book: White attacks e5, and Black defends it.",
+        "2. Bb2 Nc6 3. Nf3 d6": "3...Bd6 would be seriously awkward.",
+        "4. e3": "Preparing to develop the Bishop to e2, c4, or b5.",
+        "4... Bg4": "This pin threatens 5...e4, winning the Knight.",
+        "5. Be2": "The best response. White is now ready to castle; Black is nearly ready to go queenside himself, and we're shaping up for a very positional midgame.",
+        "5... f6": "??! This probably deserves a simple question mark, but I have to give it a little credit for sheer chutzpah. This move indicates a couple of things: Black is almost certainly going to have to castle queenside now; he's going to have a hard time finishing his development, and he'll plan for a major kingside assault in order to free his pieces.",
+        "6. Nc3": "Calm, simple development. 6.c4 was also possible, but White may want to leave that open for his Bishop, to exploit the freshly-opened c4-g8 diagonal.",
+        "6... a6": "Preventing White from placing a Bishop or Knight on b5, which would badly hinder the kingside attack. Probably it was better to just continue development, though, with 6...Ne7, which would also serve to shore up the weak d5 and f5 squares.",
+        "7. O-O": "If Black's got a storm coming, it can't come right away. He's too underdeveloped compared to White.",
+        "7... h5": "?! Or perhaps, the attack will come right away! Black needs to be careful of weakening himself any further though; c5, f5, and g6 are all enticing targets for White pieces now.",
+        "8. h3": "The h5 pawn is now a weakness, so White wants to drive the Bishop away from the d1-h5 diagonal to allow him to put pressure there.",
+        "8... Bxf3": "Better was 8...Be3, where a Knight move from White (threatening h5) could be met by ...Bf7.",
+        "9. Bxf3": "Now Black will have to contort himself in order to defend the h-pawn, either by advancing it to h4 (and running into the ugliness of 10.Bh5+), or by further weakening himself with 9...g6.",
+        "9... g5": "?? But this move loses in spectacular fashion thanks to all the weak light squares.",
+        "10. Bxh5+": "Simple and terrifically powerful. Black must now lose the exchange just to stay alive, and even then the situation is dire after 10...Rxh5 11.Qxh5+ Kd7 12.Qh7+ Be7.",
+        "10... Ke7": "?? As I said above, anything but 10...Rxh5 loses by force; e.g. 10...Kd7?? 11.Qg4+ f5 12.Qxf5+ Ke7 13.Nd5#",
+        "11. Nd5+ Kd7 12. Qg4+ f5 13. Qxf5#": "That's all she wrote, folks! Black's weak light squares conveniently provided White's pieces with beautiful staging grounds for a vicious assault. Many thanks to yellowbud for the game (I'll be annotating our rematch soon). Comments are much appreciated and as always, thanks for reading!"
+    },
+    "url": "https://gameknot.com/annotation.pl/death-on-the-light-squares?gm=47647",
+    "gameName": "Death on the Light Squares",
+    "players": "bwaa  vs. yellowbud ",
+    "opening": "Nimzovich-Larsen attack (A01), modern variation"
+}

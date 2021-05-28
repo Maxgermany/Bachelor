@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "My name is Tony, I'm black in this game.  I am no grand master, just a student.  This game was fun, and really helped me learn to look for opportunities to pin my opponents pieces.   I'll start my annotation at move 17.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. Nxd4 exd4 6. Ne2 Bc5 7. Bd3 O-O 8. O-O b6 9. e5 Nd5 10. a3 Bb7 11. b4 Qg5 12. f3 Be7 13. Nxd4 Nf4 14. g3 Nxd3 15. cxd3 a5 16. f4 Qg6 17. Qb3": "I examined this position for ten minuets before I moved.  My white bishop has a strong position, and I was salivating for the chance to put my queen down on the h1 or g2 squares.  But at this point my queen seem trapped behind the menacing white pawn line.  Every white square beyond the pawn line is protected, and I cant get around the pawn line on the 6th row because of the knight on d4.  But then I noticed that knight shared a diagonal with the king, and I saw my chance to pin it there and get my queen out.",
+        "17... c5 18. bxc5 Bxc5": "Pinned",
+        "19. Bb2 Qc6 20. Kf2": "forced, but the knight is still pinned and I don't feel rushed to move my queen.",
+        "20... d6": "Instead I try to open up the e file.  ",
+        "21. Ke1": "Now I have to move my queen ",
+        "21... Qg2 22. exd6 Bxd6": "efile open, I take the pawn back",
+        "23. Qc3": "and white moves his queen on the strong diagonal threatening the g7 pawn and checkmate after the knight on d4 moves; but I'm feeling pretty strong, and i don't think he has time because of his kings weak position.  ",
+        "23... Rac8 24. Nc6": "but suddenly I'm down to one move-  I have lots of options, and I took a long time before deciding. The line I choose results in a queen swap, and a very favorable position for me.  ",
+        "24... Rfe8+ 25. Kd1 Qxf1+ 26. Kc2 Rxc6": "pinning the queen down",
+        "27. Rxf1 Rxc3+ 28. Kxc3 h5 29. d4 b5 30. Kd3 Be4+ 31. Kc3 Rb8 32. d3 Bd5 33. Re1": "Rook and king on same diagonal",
+        "33... b4+ 34. axb4 Bxb4+ 35. Kc2 Bxe1 36. Bc3": "maybe white wants to trade bishops?\n",
+        "36... Rc8": "another pin",
+        "37. f5 f6 38. Kb2 Bxc3+ 39. Kc2 a4 40. Kb1 a3 41. g4 a2+ 42. Kc2 a1=Q 43. gxh5 Bb4#": "and a discovered checkmate- fun game"
+    },
+    "url": "https://gameknot.com/annotation.pl/online-chess-chess-com?gm=36422",
+    "gameName": "Online Chess, Chess.com",
+    "players": "Jude Paxmrosy (1574) vs. Anthony Lopercio (1417)",
+    "opening": "Ruy Lopez (C65), Berlin defence"
+}

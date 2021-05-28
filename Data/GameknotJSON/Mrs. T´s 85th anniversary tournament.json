@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "...this is a quick game....where black has to be a little more careful of nasty tactics...",
+        "1... e6 2. f4 d5 3. e5 Ne7 4. Nf3 Nf5 5. d4 c5 6. c3 Nc6": "...black is developing well..White is looking to set up a clamp position on the dark squares and push kingside...",
+        "7. Na3": "..should have played this move earlier...but i didn't..",
+        "7... cxd4 8. Bd3 Bxa3": "..black gets in a good move to disrupt the queenside pawns...and will gain material as a result...",
+        "9. bxa3 dxc3 10. Qc2": "..i've focussed on development rather than worrying about the pawn, blacks white square bishop is stuck, Ra8 is doing nothing and his only viable option is 0-0....",
+        "10... d4 11. O-O O-O": "...Bxf5 will only help black in the position as he has 2 strong passed pawns if he gets active....",
+        "12. g4": "..logical solution..move the knight and attack h7 gaining a pawn back..",
+        "12... Nh4 13. Bxh7+ Kh8": "..Nxh4 is only good for black so the very nasty move is played instead...",
+        "14. Ng5": "..the knight is in a great position and cannot be moved. f6 is countered by exf6 and Qf2 is coming home to take the gold...",
+        "14... Ng6 15. Bxg6": "..with the knight in such a great position its just how the queen gets to the h file to deliver mate...",
+        "15... f5": "..interesting and reasonable move. exf ep or gxf5 allow Ne7 and possible defenses but ultimately Qxg5 will have to be played to save the game..\nRf3-h3 is also nasty..",
+        "16. Qf2": "..the easy way..Qxg5 is forced but after fxg5, Qh4+ brings more pain..."
+    },
+    "url": "https://gameknot.com/annotation.pl/mrs-t-s-85th-anniversary-tournament?gm=37380",
+    "gameName": "Mrs. T\u00b4s 85th anniversary tournament",
+    "players": "shambobala (1720) vs. 13john06 (1475)",
+    "opening": "French (C00), Labourdonnais variation"
+}

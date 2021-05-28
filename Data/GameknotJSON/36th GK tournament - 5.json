@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "This is the first game I've ever tried to annotate.  Please feel free to make lots of comments and give suggestions on better moves I could have made.",
+        "1... e6 2. d4 d5 3. e5 c5 4. c3 c4": "More common is Nc6 to put pressure on d4.",
+        "5. Nf3 b5 6. Be2 Be7 7. O-O h6 8. Bf4 f6": "Weakens black's kingside castle.  Probably dangerous since white is well developed on the kingside.",
+        "9. exf6 Nxf6 10. b3 O-O 11. Nbd2 a5 12. bxc4 bxc4 13. Nh4 g5": "Nice pawn fork here, but I'll get out of it since the knight on b8 was never developed.",
+        "14. Bxb8": "White loses an attacking piece because of the pawn fork, but the knight is pretty strong here as we'll see.",
+        "14... Rxb8 15. Ng6 Rf7": "This was an unfortunate mistake.",
+        "16. Ne5": "White has somewhat of a knight fork here.  Black can move his rook to safety, but white can follow with Nc6 forking the queen and the other rook.",
+        "16... Qc7": "Black opts to save his rook on the open file and put his queen on a diagonal that attacks white's castle, but after 17.Nxf7 Kxf7 the black king is on a dangerous square.",
+        "17. Nxf7 Kxf7 18. Nf3 Nd7": "Keeping white's knight off e5.",
+        "19. Re1 Nf6": "???",
+        "20. Ne5+ Kg7 21. Qc2": "There is no way for black to protect g6.",
+        "21... Bd6 22. Qg6+ Kh8 23. Nf7+": "Wins the black queen!"
+    },
+    "url": "https://gameknot.com/annotation.pl/36th-gk-tournament?gm=7991",
+    "gameName": "36th GK tournament",
+    "players": "joe_hartson (1418) vs. bidettm (1481)",
+    "opening": "French (C02), advance variation"
+}

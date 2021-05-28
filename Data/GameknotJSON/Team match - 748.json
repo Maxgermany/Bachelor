@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Nf6 3. d3": "I think that f4 is also playable...",
+        "3... Bc5 4. Nf3 O-O": "? giving away a centeral pawn.",
+        "5. Nxe5 d6 6. Nxf7": "?? two pieces are almost always better than a rook. 6. Nf3 was needed.",
+        "6... Rxf7 7. Bxf7+ Kxf7 8. Bg5 h6 9. Bxf6 Qxf6": "Black is looking ok in this position. white has gained nothing from the opening.",
+        "10. O-O Nc6 11. Nc3 Qg6": "trying to attack. maybe Be6 with Rf8 was a bit better.",
+        "12. Nd5 Bh3": "??? misses white's next move.",
+        "13. Qf3+ Bf5 14. exf5 Qg5": "black lost a piece but the game is not lost yet.",
+        "15. Nxc7 Rc8 16. Qd5+ Kf6": "??? a mate was missed here...\r\n16... Kf8 was losing the queen.\r\n16... Ke7 17. Rae1  Kd7 (17... Kd8 18. Ne6 ) 18. Nb5 is still lost but can play on...",
+        "17. Qe6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13404",
+    "gameName": "Team match",
+    "players": "grace07 (1245) vs. andyf (1211)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

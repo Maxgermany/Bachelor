@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. c3": "The Alapin",
+        "2... Nc6 3. d4 cxd4 4. cxd4 g6": "I am unsure if black played 4..;g6 then ;...d6 or 4...;d6  ...;g6",
+        "5. Nf3 d6 6. Bc4": "preparing to castle short",
+        "6... Bg7": "And here I was unafraid of my opponent's dark squared bishop, so I continued developing",
+        "7. O-O": "giving my king shelter. This pays off!",
+        "7... Qb6": "!! Now I am afraid! I am going to lose my d pawn. I can not move my dark squared bishop to e3 because of his queen able to capture my b pawn. What was I to do?",
+        "8. Nc3": "Well there was nothing I could do but count my lost and continue playing.",
+        "8... Nxd4 9. Nxd4 Qxd4": "?! Best move? Was my opponent trying to go into a endgame? Yes he won a free pawn but his attack came at a price! I surely was not going to trade queens and I thought his queen was misplaced there on d4.",
+        "10. Qb3 e6": "I sure some of you folks can FEEL the attack coming! If not, notice I have two develop pieces and castled. While black has one and has not yet castled. Also, his queen is misplaced.",
+        "11. Nb5 Qc5 12. Be3 Qc6": "Do you FEEL the attack? The sacrifice? The open file? attack on a uncastled king?",
+        "13. Nxd6+": "!! My winning move. I FELT this move!",
+        "13... Qxd6 14. Rfd1 Qe5 15. Bb5+ Ke7 16. Qb4+ Kf6 17. Bd4": "Black resign"
+    },
+    "url": "https://gameknot.com/annotation.pl/winning-with-the-alapin-2-c3-aginst-the-sicilian?gm=17325",
+    "gameName": "Winning with the Alapin(2.c3) aginst the Sicilian",
+    "players": "freeman8201  vs. NN ",
+    "opening": "Sicilian (B22), Alapin's variation (2.c3)"
+}

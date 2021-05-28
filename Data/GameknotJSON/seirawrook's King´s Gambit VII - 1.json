@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "I've decided to annotate this game for a number of reasons. Firstly it's between it's against an opponent 100 points north of my rating. It's from a Kings Gambit tournament and after the game ended, he was top of the ranking  with 11 points and I was joint next to bottom with 2. This is a fairly short game (22 moves) and the analysis suggests a total of only one inaccuracy, two mistakes and a single blunder which suggests to me that the game was fairly close overall\n\nI wanted to try this tournament as even though most opponents are higher ranked than me I though it would be interesting and that has certainly proved to be the case. ",
+        "1... e5 2. f4": "starting position",
+        "2... exf4 3. d4": "The gameknot database suggests this favours black, though at this stage I'm not clear why. the computer calls this a mistake.",
+        "3... Qh4+": "I'd already decided that I wanted to play aggressively and this seemed a reasonable start",
+        "4. Ke2 d5": "frees the diagonal for the lsb to threaten to skewer the white queen with Bg4 though it can easily be parried",
+        "5. exd5": "This seems a high risk approach to me as if I can castle quickly I can get a rook on the e file to threaten the white king",
+        "5... Nf6 6. Nf3 Bg4 7. Qd3 Bd6": "I can't yet see a better place for the bishop so I put it here so that I can castle and get my rook to the e file as planned. White looks a little cramped now.",
+        "8. Qb5+": "I think white here is trying to get some activity going and threatening the b7 pawn but I think I would be more worried about the open lines to my king. I had my eye on something like Ne4 followed by Qf2 which looks dangerous to me though I couldn't quite figure out how dangerous.\n\nThe computer calls this an inaccuracy preferring  8. Kd2 Qf2+ 9. Qe2+ Qxe2+ ",
+        "8... Nbd7 9. Nc3 O-O 10. Kd1 Rfe8": "At this point I thought I might have been able to go for the kill but I couldn't see a way to achieve it, one possibility was Ne4 threatening the fork on f2.",
+        "11. Bd2 Ne4": "The computer calls this a mistake preferring  \u2026 Qf2 12. Qd3 Bb4 13. h3 Bxf3+ 14. Qxf3 Qxd4 15. Bd3 Nc5",
+        "12. Be1": "The computer calls this a blunder and I agree, fortunately for me I saw the reason why.",
+        "12... Qxe1+": "This sort of exchange is always nerve wracking but I had looked at every other possibility I could think of and this seemed best, fortunately for me I hadn't miscalculated",
+        "13. Kxe1 Nxc3+ 14. Kf2 Nxb5 15. Bxb5 Re7": "now I am a whole piece ahead on material I just need to ensure I don't make any mistakes",
+        "16. Bxd7 Rxd7": "I was surprised and pleased with this exchange.",
+        "17. c4 Bxf3 18. Kxf3 Re8 19. Rae1 Rxe1": "i'm happy to exchange and white is letting me.",
+        "20. Rxe1 g5 21. c5 Bf8 22. Re5 h6": "and white resigned, thanks for reading please comment and rate. I was very pleased with this win as it's one of the highest ranked players I have beaten without a timeout."
+    },
+    "url": "https://gameknot.com/annotation.pl/seirawrooks-king-s-gambit-vii?gm=50927",
+    "gameName": "seirawrook's King\u00b4s Gambit VII",
+    "players": "chessofficer (1652) vs. elwoos (1552)",
+    "opening": "KGA (C33), Villemson (Steinitz) gambit"
+}

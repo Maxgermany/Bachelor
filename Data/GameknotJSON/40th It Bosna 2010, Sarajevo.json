@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 f5": "A Dutch defence, may be a brave choice to play against Nisipeanu.",
+        "2. g3 g6 3. Bg2 Bg7 4. Nf3 Nh6": "Usually the Dutch will play ..Nf6 but here Black may be like to maximalized his Bishop attacking range and also manuevering the Knight to Nf7 later.",
+        "5. h4": "Regular setup is White doing castling (O-O), but Nisipeanu choose to immediately start the Kingside attack.Perhaps due to White get more easy to develop his extra Bishop while Black's queenside are harder.",
+        "5... Nf7 6. h5 e6 7. Nc3 d5 8. g4": "A risky move but maintain White's forcing initiative.",
+        "8... fxg4 9. hxg6 hxg6 10. Rxh8+": "Now one rank is open.",
+        "10... Bxh8 11. Nh2": "White can take back the -1 pawn easily.",
+        "11... c5 12. dxc5 g3 13. fxg3 Qc7 14. Qd3 Ne5 15. Qd2 Qxc5": "Black get back the pawn and targeting the lose space in White's Kingside. ",
+        "16. Qh6": "White decide to sacrifice a Bishop here? \r\nCan White sole Queen give trouble to Black's King?",
+        "16... Nf7 17. Qxg6 Qg1+": "17...Bxc3+ 18.bxc3 Qxc3+ 19.Kf1 Qxa1 20.Qg8+, Black did not choose this line perhaps due to fear of White's active piece. ",
+        "18. Nf1 Qxg2": "And now Black get his extra bishop. But again his inactive piece may be compensate to this.",
+        "19. Bg5": "Which is now quite a mistake move,  19.Qg8+ Ke7 20.Qxc8 And yet White gains back a \"plus\" score, but Nisipeanu choose more intimidate line. \r\n",
+        "19... Kf8 20. O-O-O Nc6": "Black begin to activate his \"sleeping\" pieces. If  20...Bxc3 21.bxc3 Qe4 22.Bh6+ Ke7 still many balance play by Black. \r\n",
+        "21. Ne3": "And this give White the very TEMPO he need it.\r\n",
+        "21... Qh3 22. Rf1 Nce5": "Very much force.",
+        "23. Bh6+ Ke7 24. Ncxd5+": "The swindle move!",
+        "24... exd5": "And a mistake, Kd6 will hold the game, but now White can execute a force line.  24...Kd6 (..Kd7 fall into the same mate pattern.) 25.Qe4 exd5 26.Qxd5+ Ke7 \r\n",
+        "25. Rxf7+ Nxf7 26. Nxd5+ Kd7 27. Qxf7+ Kc6 28. Nb4+ Kb5 29. Qd5+ Ka4 30. b3+": "Thrilling attacking by Nisipeanu!\r\n\r\nhttp://red-white-chess.blogspot.com "
+    },
+    "url": "https://gameknot.com/annotation.pl/40th-it-bosna-2010-sarajevo?gm=31423",
+    "gameName": "40th It Bosna 2010, Sarajevo",
+    "players": "Nisipeanu, Liviu-Dieter (2672) vs. Bosiocic, Marin (2562)",
+    "opening": "Dutch (A81), Leningrad, Basman system"
+}

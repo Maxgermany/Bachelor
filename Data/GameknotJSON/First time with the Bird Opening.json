@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. f4": "Here playing white with the Bird Opening. It's an opening rarely used, but still very fine who can surprise the oponent. Moving the f pawn right in the beginning look to break the defense but give later another piece ready to pierce the defense of the oponent. It looklike a wild opening but with a correct defense, it's just create a very balanced game as the bishop opening.",
+        "1... e6": "Threating right in the beginning Qh4.",
+        "2. Nf3": "Protecting h4 and developing the king side for a quick castling.",
+        "2... Nf6 3. e3": "Protecting the f pawn and giving space for my bishop. g3 is possible like the leningrad variation of the dutch opening, but it would have been too much reckless I think.",
+        "3... Be7": "Thinking about to still pierce h4. I find this move pretty much passive.",
+        "4. b3 O-O 5. Bb2": "Nicely positionned to reach the king. White follow the book.",
+        "5... Nd5": "? A lose of tempo. Black should try to control the middle or developping his queen side. The guardian of the king leaves his position too early.",
+        "6. a3": "I was thinking about to do Bd3, so I prevent Nb4. It look as a lost of tempo, but my position gonna be better after. There is no hurry, my position is safe right now.",
+        "6... Bf6": "?! My tower look weak but it is not. Black is losing too much tempo.",
+        "7. Nc3": "Protecting the Bishop and continue to develop.",
+        "7... Nxc3 8. dxc3": "I'm gonna do c4 at the right time, there is no hurry. It's better to keep the bishop right now.",
+        "8... Bh4+": "? Black waste his time. He is too much low developped to make this kind of attack.",
+        "9. g3": "I'm thinking about to castle at the queen side and to attack on the king side.",
+        "9... Bf6 10. Bd3": "Now I have a very strong position. Two of my bishop are in the direction of the king while Black have not an accurate defense and is very low developped.",
+        "10... d6": "Well I don't see how black can strenghten his position at this time. ",
+        "11. h4": "Taking the initiative, anyway black doesn't have the weapons right now to stop my attack.",
+        "11... h6 12. Qd2": "A normal continuation, but this move gonna be the key of my attack.",
+        "12... Nc6 13. O-O-O": "Now my position is just too much great!",
+        "13... a6 14. g4 e5 15. g5": "Piercing black defense.",
+        "15... hxg5 16. hxg5": "Black is lost at this point. I don't see anything to secure his position.",
+        "16... Be7 17. Bh7+": "Played quickly, it was a blitz game after all. A faster mating combination would have been: 17.Rh8+! Kxh8 18.Qh2+ Kg8 19.Qh7#.",
+        "17... Kh8 18. Qh2": "Black resigned here."
+    },
+    "url": "https://gameknot.com/annotation.pl/first-time-with-the-bird-opening?gm=43975",
+    "gameName": "First time with the Bird Opening",
+    "players": "drchopper  vs. thefarmer ",
+    "opening": "Bird's opening (A02)"
+}

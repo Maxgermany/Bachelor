@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "Here playing white in a blitz game. I was thinking about to play the ruy lopez like most of the time in this position.",
+        "2... Bc5": "? Bad move right at the start. There's no point to lose that pawn, black have no good way to create an attack.",
+        "3. Nxe5": "Taking the pawn, wondering what is his plan. Qh4 would be probably countered by Qf3.",
+        "3... Bxf2+": "? This sac is completely unsound, white can defend against it so easily.",
+        "4. Kxf2 Qh4+ 5. g3": "There was not any good place to move the king. In the long term, my pawn structure would give nice possibilities for black to attack me, but with this move, I was so much ahead in development and black position was so bad that I didn't care a bit. Black must not lose any tempo to gain some advantage of this position, thing that is almost impossible now that the queen is on the middle of the field.",
+        "5... Qxe4 6. Nf3": "Protecting the knight, the rook and the king.",
+        "6... Nf6 7. Nc3": "The beginning of the king hunt.",
+        "7... Ng4+": "His knight is on a good place, but black have only 2 active pieces.",
+        "8. Kg2 Qc6": "?!",
+        "9. Bb5": "Another gain of tempo!",
+        "9... Qb6 10. Re1+": "His king gonna be in a bad position too.",
+        "10... Kf8 11. d4": "Blocking Qf2 and giving an exit for my bishop.",
+        "11... a6 12. Nd5": "! Black must now move very accurately.",
+        "12... Qa5": "? Qd6 was probably the only right move.",
+        "13. Re8+": "!!",
+        "13... Kxe8 14. Qe2+": "Mate is coming!",
+        "14... Kf8 15. Qe7+": "Kg8 then Qe8#"
+    },
+    "url": "https://gameknot.com/annotation.pl/too-much-tempo?gm=47599",
+    "gameName": "Too much tempo",
+    "players": "drchopper  vs. jerrydebbie1 ",
+    "opening": "King's knight opening (C40)"
+}

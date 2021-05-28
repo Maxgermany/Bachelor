@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. g4": "grob opening : \r\nbest defense is d5....e5....kc6\r\nalways fighting for the center.\r\nIt this one, oponent choose some thing else, and wee will see that it will be soon a bad choice.\r\nNever think grob is easy, because it has a lot of traps",
+        "1... e5 2. h3 h6": "why h6 ???\r\nthis should be a bunder, oponent should anticipate bg2",
+        "3. c4": "so now i will control d5",
+        "3... b6": "no way, he has a tempo delay, i will be the first and he will have to defend",
+        "4. Bg2": "for the moment i'm just developing my grob oppening, this is just the norml way\r\nand black tacticals error just help me to achieve my grob",
+        "4... c6 5. d4": "going on to control center",
+        "5... Ba6": "this is not strong anyway, i stil have the control of the center\r\nmay be better whoulb bishop b7....d5...",
+        "6. b3 Qf6": "tactical error again : he should develop his game, queen is to soon, there is nothing to do whith this, and by the way, it is becoming dangerous for this queen...",
+        "7. Bb2": "see what i mean ?",
+        "7... d6": "i whould prefer kd7 develop, defend  and give freedom for the a rook whith was in danger, no ?",
+        "8. dxe5 dxe5": "so now the queen is still in danger",
+        "9. Nf3": "and much more know !",
+        "9... Qd6": "i accept this because after that i will have a lot of oportunities\r\nkf3xe5 ...ke5xc6...\r\nand bishop b x g7 ...",
+        "10. Qxd6 Bxd6 11. Bxe5": "expecting bxe5...",
+        "11... Bb4+": "surprise ! finaly he attack",
+        "12. Nfd2 Ne7": "bad, bishop x g7",
+        "13. Bxg7 Rh7 14. Bf6": "this exchang is in my favor, give me a tempo",
+        "14... Bb7 15. Bxe7 Kxe7 16. O-O Nd7 17. Ne4": "i just whant to conserve my knight before a3",
+        "17... c5": "ho ho, he did not anticipate a3",
+        "18. a3 Ba5 19. b4 cxb4 20. axb4 Bxb4 21. Nbc3": "expcting  black bishop x e4 then bishop in g2 take e4, black moves tower and bishop in c3 go to d5 wining the black bishop in b4...",
+        "21... Rb8 22. Nd5+ Bxd5 23. cxd5 Rg7": "why this ? there was no dangerfor his rook ",
+        "24. Rxa7": "win a pawn and nailing the knight\r\n",
+        "24... Kd8": "and black resign ! \r\nit was not finish, but they became disgusted of the king of game\r\nsure grob opening is surprising and you should have good nerves, patince and caution to play against, ..and also to play whith !\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/dont-be-impatient-whith-grob?gm=44352",
+    "gameName": "dont be impatient whith grob ...",
+    "players": "31415 (720) vs. anp_4u (1434)",
+    "opening": "Grob's attack (A00)"
+}

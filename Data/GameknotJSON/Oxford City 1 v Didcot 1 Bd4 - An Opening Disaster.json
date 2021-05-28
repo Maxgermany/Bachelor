@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. c3": "One of my least favourite responses to the Sicilian.  It's a long time since I read Murray Chandler's book on it and, as you can tell from this game, I need to do some revision!",
+        "2... d5": "The \"principled\" response.  Perhaps I should have opted for a quieter reply.",
+        "3. exd5 Qxd5 4. d4 Nf6 5. Nf3 g6": "I'm not sure about this but I didn't want to deprive my Q of the e6 square and I did want to develop my B quickly.",
+        "6. Na3": "This threatens N-b5-c7+ with a royal family fork, so....",
+        "6... a6 7. Bc4 Qe4+": "?!  The Q looks safe enough here but this adventure leads to my downfall.",
+        "8. Be3 Bg7": "? A natural move but it overlooks a devastating tactic. 8...e6 or 8...Qg4 look better.",
+        "9. Bxf7+": "!!  If the King takes, Ng5+ wins the Q.  I could have resigned here but no one ever scored any points by resigning....",
+        "9... Kf8 10. dxc5": "White wins a second pawn and Black's game is in ruins.",
+        "10... Nc6 11. h3 h6": "threatening to take the Bf7",
+        "12. Bb3 Bf5 13. Bc2 Qe6 14. Bxf5": "White is happy to swap down",
+        "14... gxf5 15. Qb3 Qe4 16. Qc4 Rd8": "I didn't want to swap Qs here but had little choice, so I decided to force White to use an extra tempo to do so and developed this Rook in the meantime.",
+        "17. Qxe4": "! Continuing with the swapping strategy.",
+        "17... Nxe4 18. Nh4": "This threatens a nasty fork on g6.",
+        "18... Ne5": "I felt quite good about my position now, even with the f5 pawn hanging.  My Knights control an impressive amount of space.",
+        "19. O-O": "and this encouraged fantasies of an attack, utilising the half-open g-file.",
+        "19... Rg8 20. Nxf5 Nf3+": "? I'd worked out that this didn't quite work but played it anyway, hoping that something would turn up.  Better to go down all guns blazing than meekly turn up your toes!  The motivation behind launching the attack now was to avoid either 21. Nxh6 or 21. Bxh6, both of which looked horrible.",
+        "21. gxf3 Bd4+ 22. Kh1 Bxe3 23. fxe3 Ng5": "This was the position I'd been aiming for with my sacrifice but White's next move, obvious as it seems now, upset my calculations.",
+        "24. Rad1 Rxd1 25. Rxd1 Nxf3 26. Rd8+ Kf7 27. Nxh6+": "The coup de grace.  I didn't avoid it and now it's even worse!"
+    },
+    "url": "https://gameknot.com/annotation.pl/oxford-city-1-v-didcot-1-bd4-an-opening-disaster?gm=27323",
+    "gameName": "Oxford City 1 v Didcot 1 Bd4 - An Opening Disaster",
+    "players": "Matthew Brown (1960) vs. Bob Jacobs (1776)",
+    "opening": "Sicilian (B22), Alapin's variation (2.c3)"
+}

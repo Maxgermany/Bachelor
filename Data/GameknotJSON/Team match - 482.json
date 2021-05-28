@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2": "Three pawns in a row.  I bet BxP is next...",
+        "5. Bxb2 Qg5": "The g2 pawn is momentarily available.  Pushing it opens the rook diagonal, which I can exploit well if ever QxPe4 becomes available.",
+        "6. Nf3": "White's threat to the queen is a better response--it helps him develop a piece.",
+        "6... Qf4 7. a3 Qxe4+": "Well, it's a free pawn now.",
+        "8. Be2 d6 9. O-O": "Leaving the queen in front of the king is a recipe for disaster.",
+        "9... Qg6 10. Bd3 Qh5 11. Re1+ Be6 12. Nbd2": "Black's left side is still undeveloped.",
+        "12... Nf6 13. Bxf6 gxf6 14. Rb1 b6 15. Qc1 Qc5 16. Qb2 Bg7 17. Ng5": "I can't read white's mind, but I bet he was hoping PxN would expose the black bishop.  Instead, the white knight is easy pickings for the black queen.  Giddyap!",
+        "17... Qxg5 18. Ne4 Qe5": "Up six points, no quick mate in sight--propose a power trade.",
+        "19. Qc2": "White wisely declines.",
+        "19... d5": "White can't check or threaten any piece with the knight in such a way as to expose the black queen.",
+        "20. Nc5 Qd6 21. Nb7": "I'm 6 points ahead.  If QxPa3, QxPc7, and things start looking ugly for black.  Black knows Qd7 is bad because it permits white's bishop to pin with Bb5, but there is still the pawn at c7 guarded by Nb8 to intervene.  Black is also eying the white knight with Qd6.",
+        "21... Qd7 22. f4 c5": "Say hello to my little friend.",
+        "23. Bb5 Nc6 24. f5": "Black is beginning to feel pressure to move the king off the e file.  PxBe6 permits white to discover check or other naughty opportunities.",
+        "24... O-O 25. fxe6 Qxb7": "The knight is more valuable than the pawn.",
+        "26. Qa4": "If black protects the knight with Ra8c8, white will respond by pinning black's queen with Ba6.  Rf8c8 is similarly bad for the same reason.  Black was screaming and crying in pain and dismay at this particular juncture, even though he was still 6 points up.",
+        "26... fxe6 27. Bxc6": "Black kisses the a rook goodbye.",
+        "27... Qe7 28. Bxd5": "Black felt the pressure ease a tiny bit--what was wrong with BxRa8 instead?  Still, it looked like easy pawn pickings for white.",
+        "28... Rad8 29. Rxe6": "Black cannot move his queen anywhere it won't get traded for a rook with a discovered check.  White's bishop isn't protected, however.  So black's next move is only slightly foolish looking.",
+        "29... Qf7 30. Bc4": "White must have wanted to improve his position by protecting the bishop.  Black can ease up on the pressure by moving the king off the white square.",
+        "30... Kh8": "Now black's queen is free.",
+        "31. Rexb6": "White takes the free pawn (black's queen is threatened).",
+        "31... Qe7": "Black's six point advantage has been severely eroded.",
+        "32. Rb6b7": "Here the game takes a turn for the better for black.",
+        "32... Qe3+ 33. Kf1 Rd2": "Force mate in one.  There is now nothing white can do to prevent Qf2#.",
+        "34. Rb1b2 Qf2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=35437",
+    "gameName": "Team match",
+    "players": "midlands (1550) vs. pasha582 (1555)",
+    "opening": "Danish gambit (C21), Collijn defence"
+}

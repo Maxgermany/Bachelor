@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "I answer the sicilian defence",
+        "2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7": "all of this is very well known. White forgoes the maroczy bind. Here black has 4 main assets in his postion\n1.The \"dragon\" on g7 breathes fire down to a1  2.THe pawn center will favor black in any endgame\n3.the d5 advance will save black a whole tempo in the accelerated variation\n4.An exchange sacrifice\n",
+        "6. Be3": "Nb3 is possible too.",
+        "6... Nf6": "a main idea:  delaying d6 to stay in accelerated territory.",
+        "7. Qd2": "(?) This is the theoretical trap. White wants to play a yugoslav attack, but fails to use the correct move order to play it. The traditional yugoslav may be fine this way, but here it is a mistake. Another mistake is 7.f3?! 0-0  8.Qd2 d5!  and 7.f3?! 0-0  8.Bc4?! Qb6! in these lines black immediately steals the advantage. They both score an impressive 70% for black. The 2 best moves here are: \n1.Classical variation with Be2  2.Correct yugoslav attack with Bc4! followed by Bb3!. Only then will f3, Qd2 and 0-0-0 be played, with an attack.",
+        "7... O-O": "now black threatens Ng4, and 8.f3 is met by 8...d5! X machine: h3 is also met by d5!",
+        "8. O-O-O": "white ends up with an inferior position",
+        "8... Ng4": "this move threatens to take the dark bishop, making the \"dragon on g7 even stronger.",
+        "9. Nxc6": "this intermediate move trades off the attacked knight.",
+        "9... bxc6": "now I get a pawn center and half open b file",
+        "10. Bf4": "Here 10.Bd4 is met by 10...Bh6! where white must play 11.Be3 as 11.f4? e5!",
+        "10... Qa5": "i now take the initiative by threatening to win a pawn.",
+        "11. Kb1": "I think it is better to play e5 and give a pawn.",
+        "11... d6": "this move blocks the f4 bishop from covering b8. White's yugoslav attack is not coming because of the mistake on move 7.",
+        "12. h3": "(?) I consider this to be a mistake, although the correct defense seems hard to calculate. In my opinion, 12.Bc4(!) is best, followed by Bb3(!) to kill play on the b file. Now I can win with a forced sequence of moves. However, no matter what white plays, his attack will never come and he will be forced down onto the defensive. @x machine: Yeah, it's kind of hard to analyze a defence. It took me some time to come up with this, but the evaluation(activity, material, king safety) suggests that white cannot too much worse, so there has to be some resource to hold on...",
+        "12... Bxc3": "this move wins material at least.",
+        "13. bxc3": "13.Qxc3 loses the exchange after 13...Qxc3 14.bxc3 Nxf2",
+        "13... Rb8+ 14. Ka1": "only move for now.",
+        "14... Be6": "This move comes with tempo, and prepares Qa3. The immediate Qa3 is working as well, I think, but less forcing than this.",
+        "15. c4": "forced.",
+        "15... Qa3": "threatening mate. ",
+        "16. Rb1": "getting mated immediately. The only option 16.Qd4 c5 17.Bc1 loses material after 17...cxd4 18.Bxa3 Nxf2 with a won endgame. @x machine: 16. c3 is met by 16...Nxf2!  winning material.",
+        "16... Rxb1+ 17. Kxb1": "forced\n",
+        "17... Rb8+": "it's a mate in 2"
+    },
+    "url": "https://gameknot.com/annotation.pl/theory-in-the-dragon?gm=33617",
+    "gameName": "theory in the dragon",
+    "players": "x-machine  vs. crtexxx12345 (1200)",
+    "opening": "Sicilian (B35), accelerated fianchetto, modern variation with Bc4"
+}

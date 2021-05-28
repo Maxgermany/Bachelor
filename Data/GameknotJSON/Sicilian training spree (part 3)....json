@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4": "the Morra Gambit lines: just, what I prefer to play with White; so my answer is ready...",
+        "2... g6 3. Nf3 Bg7 4. Bc4": "the best way, to castle fast: but not the best move...",
+        "4... e6 5. O-O Ne7 6. c3": "taking it too slow: preparing d4, is loss of tempo...",
+        "6... a6 7. d4 d5 8. exd5 exd5 9. Bb3 c4 10. Bc2": "after Ba4+, b5...",
+        "10... O-O 11. b4 b5": "both of Whites' Bishops are virually dead meat: White has to try something...",
+        "12. a4 Bb7 13. axb5 axb5 14. Na3 Bc6": "of course, Nxb5, Rxa1, poses no real threat for Black: this gives time, to complicate matters...",
+        "15. Ne5 Bxe5 16. fxe5 Nf5 17. Bxf5 gxf5 18. Rxf5 Qh4 19. Rg5+": "something, Black did not forget...",
+        "19... Kh8 20. g3 Qe4 21. Bf4 Nd7 22. Kf2 Rfg8 23. Qf3": "forcing trading Queens...",
+        "23... Qxf3+ 24. Kxf3 Rxg5 25. Bxg5 Rf8 26. h4 f6 27. exf6 Nxf6 28. Rf1 Ne4+ 29. Kg2 Rxf1 30. Kxf1 Nxc3": "an important pawn...",
+        "31. Bd2 Ne4 32. Bf4 c3": "an unexpected twist...",
+        "33. Nc2 Bd7 34. Ne3 Be6": "this is going to be a tough one: but far from a draw for both...",
+        "35. Ke2 h5 36. Be5+ Kh7 37. Kf3": "preparing g4...",
+        "37... Kg6 38. g4 hxg4+ 39. Kf4": "a strange decision: but after Nxg4, things become unclear; there is still the matter of an escaping c-pawn...",
+        "39... Kh5": "White gets no second chance...",
+        "40. Bf6": "this was what Black was planning: tying up the Black pieces; but Black still has one move left...",
+        "40... g3 41. Ke5": "too greedy...",
+        "41... g2 42. Nxg2 c2 43. Bg5 Nxg5": "realizing, what he has done, White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-training-spree-part-3?gm=65067",
+    "gameName": "Sicilian training spree (part 3)...",
+    "players": "oppontent3 (1900+) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

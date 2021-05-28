@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Ke8": "8. ...... Ke8 - a deviation from Kc6 or Kc7.  I could get a perpetual here if I wanted but as the game had only just begun and it was the annotation project and it would have been a Low Draw for me, I decided to take the knight on g4 instead.",
+        "9. Bxg4 g6": "9. ...... g6 - preparing to develop his dsb.",
+        "10. Nc3": "10. Nc3 - quick development is essential.",
+        "10... Qb6 11. O-O": "11. 0-0 - so is castling.",
+        "11... Bh6 12. Ncxe4": "12. Ncxe4 - closes the material deficit by 1 point and paves the way for d3 or d4 opening up the c1-h6 diagonal for Fou Lenoir.",
+        "12... Nd7 13. b3 Nf6 14. Bb2": "14. Bb2 - pins the knight.  However, if dmaestro took the knight I would have no time to play Bxh8?? because I would then allow the Philidor's Legacy.  If anybody needs to get familiar with that sequence please see my note at the end of my annotation Six Feet Under.",
+        "14... Nxg4": "14. ...... Nxg4?? - he takes the bishop!  Now I will get onto equal material points.  Off comes that rook next move.",
+        "15. Bxh8 Kd7 16. Bc3": "16. Bc3 - knitting together my queenside pawns and keeping Fou Lenoir on the long diagonal.",
+        "16... Nf6 17. Nxf6+ exf6": "17. ...... exf6 - knight trade.",
+        "18. Ne4 Bg7 19. Ng3": "19. Ng3 - evading a possible discovery (f5) and buffering up f1.",
+        "19... Rg8 20. f5 Bh8 21. Rae1": "21. Rae1 - threatening Re6.",
+        "21... c4+ 22. Kh1": "22. Kh1 - Henry evades the discovered check from the Wicked Witch of the West.",
+        "22... cxb3 23. axb3": "23. axb3 - pawn trade.",
+        "23... Rf8": "23. ...... Rf8 - bolstering up his f6 pawn.",
+        "24. Re3": "24. Re3 - a rook lift screening out the Witch, he is planning a possible Rd3+ next move.  But I do not have to worry because dmaestro waved the white flag.  Again, a pleasant surprise.  Cheers - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-a-pleasant-surprise?gm=25627",
+    "gameName": "The Annotation Project - A Pleasant Surprise",
+    "players": "jstevens1 (1808) vs. dmaestro (1488)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

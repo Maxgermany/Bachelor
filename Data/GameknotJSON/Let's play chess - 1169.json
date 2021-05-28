@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Be6": "The game started in a sharp Dragon Sicilian, which is very rich in tactical opportunities for both sides. With this move, black evades the main lines (starting with 12...e5), leaving him with the strongest centre, but broken pawns.",
+        "13. Bxg7 Kxg7 14. Bc4 Qc7 15. h4": "White is operating on the flanks, while black on the other hand is playing for central control.",
+        "15... Rad8 16. Bxd5 cxd5 17. h5 Rfh8": "Black defends against the exchange and Qh6  threat. Now white should've played h6 , making the black king block the rook from play.",
+        "18. Qd4+ f6 19. f4 Bf5": "threatening e5, black has the advantege",
+        "20. Rde1 Rhe8 21. hxg6 Bxg6": "a strange move. After the natural hxg6, e5 will come next with pressure for black",
+        "22. Re6 Bf5": "On Bf7, the sacrifice f5!? seems to yield white at least a draw",
+        "23. Re3 e5 24. fxe5 fxe5 25. Qh4 Qe7 26. Rg3+ Kh8 27. Rg5": "Black played e5 when the white rook was on e3, so now white got nice pressure. 27...Rf8? 28.Rxf5!, 27...Bg6 28.Rxg6 and 27...Bc8 28.Rxe5! illustrates black's problems",
+        "27... d4 28. Rxf5 Qxh4 29. Rxh4 dxc3 30. bxc3": "An interesting rook endgame arises. White is a pawn up, so he'll most probably not lose, but can he win?",
+        "30... Rd7": "a bad move, allowing white to blockade the passed pawn. 30...e4 31. Rf2 e3 32. Re2 Rd6 33. Rh3 Rde6 34. c4 Kg7 35. c5 should still be better for white, but there's still a lot of drawing chances. Note that Kf6 will always be answered by Rf3 , so white might manage to exchange the c-pawn for the e-pawn with a good pawn up.",
+        "31. Re4 Rd5 32. Rf7": "The rook on the 7th rank is a dangerous attacking weapon. White is winning.",
+        "32... Rg8 33. Rb4": "Preparing Rbb7",
+        "33... Rxg2 34. Rb8+ Rg8 35. Rbb7 Rg1+ 36. Kb2 Rd6 37. Rfxh7+ Kg8 38. Rhe7 Kf8 39. Rxe5 Rd2 40. Rc5 Rd8 41. Ra5 Rc8 42. Raxa7": "White has managed to pick up all the black pawns, but black keep on fighting",
+        "42... Rg3 43. Rbc7 Rb8+ 44. Rab7 Ra8 45. c4 Rga3 46. Rc8+ Rxc8 47. Kxa3 Rxc4": "For the cost of a pawn, white has managed to exchange the rooks, but still the task isn't a piece of cake.",
+        "48. Kb3 Rc6 49. a4 Ke8": "The king joins the battle, giving black drawing chances.",
+        "50. a5 Kd8 51. Rb6": "51. c4 with the idea of 51...Kc8 52. Rb6 Rc5 53. Kb4 was probably stronger",
+        "51... Rc5 52. a6 Kc7 53. Rh6 Rb5+ 54. Kc4 Rb2 55. Rh7+ Kb8": "The decive mistake. After Kc6, I am not sure white can win! Kc8 loses to a7 Ra2 a8:Q  Rxa8 Rh8  with a rook exchange.",
+        "56. Rb7+ Rxb7 57. axb7 Kxb7 58. Kb5": "With the king in front of the pawn with the opposition, the win is elementary",
+        "58... Kc7 59. Kc5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=1283",
+    "gameName": "Let's play chess",
+    "players": "sicilian_monster (1802) vs. vargbroder (1675)",
+    "opening": "Sicilian (B76), dragon, Yugoslav attack, Rauser variation"
+}

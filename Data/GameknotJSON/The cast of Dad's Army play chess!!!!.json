@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6": "Mainwaring: It has played the Sicilian Dragon. Hasn't it been refuted? Did Fischer just show you how you could castle queen side, sac, sac, mate?\r\nWilson: I would be careful if I were you sir.\r\nMainwaring: I know what I am doing.",
+        "6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. Bc4": "Walker: Can't we just bribe it to lose?\r\nMainwaring: Shut up Walker, you can't bribe a computer.",
+        "9... Bd7 10. h4 Rc8 11. Bb3 Ne5 12. O-O-O Nc4 13. Bxc4 Rxc4": "Jones: Permission to speak sir?\r\nMainwaring: Permission granted.\r\nJones: I would push your king side pawns up. They don't like them up them you know.\r\nMainwaring: For once I think you may be right, let's push on again.",
+        "14. h5 Nxh5 15. g4 Nf6": "Mainwaring: This position is hopeless for black. I have so many attacking moves, Bh6, e5, hard to know which one to chose.\r\nWilson: Er in a lot of lines black can get the initiative by a sacrifice for rook for knight on c3. Nd-e2 is probably best.\r\nMainwaring: Quite right Wilson, I was wondering who would be the first to spot that one.",
+        "16. Nde2 Qa5 17. Bh6 Bxh6 18. Qxh6 Rfc8": "Godfrey: Do you think I could be excused please? I find chess such an exciting game, after an hour or two I always feel that I need....\r\nMainwaring: Yes Godfrey, go and be quick, we need all the brains we can get here.",
+        "19. Rd3 Rc4c5 20. g5 Rxg5 21. Rd5 Rxd5 22. Nxd5 Re8 23. Nef4 Bc6 24. e5 Bxd5 25. exf6 exf6": "Pike: We are winning now. You just play this (Plays Nh5??)\r\nMainwaring: Stupid boy! It has replied with Re1 and it is mating us! You stupid boy, all that hard work has been lost. Why couldn't you just keep your hands to yourself.\r\nPike: It's not my fault. You tell him uncle Arthur, it is not my fault!\r\nWilson: Right let's all just calm down. There is a take-back button here see (Takes back Nh5??). Right I am sure we can find the right way to win.",
+        "26. Qxh7+ Kf8 27. Qh8+ Ke7 28. Nxd5+ Qxd5 29. Re1+": "and now white has a winning position, a rook for 2 pawns up. Now - who can tell me who really played this famous game and when? Also - please tell me what you think of this as a way of presenting games?"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-cast-of-dads-army-play-chess?gm=20720",
+    "gameName": "The cast of Dad's Army play chess!!!!",
+    "players": "Cast of Dad's Army  vs. Chess Computer ",
+    "opening": "Sicilian (B75), dragon, Yugoslav attack"
+}

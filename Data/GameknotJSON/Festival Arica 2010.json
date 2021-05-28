@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 d5": "La defensa Escandinava. ",
+        "2. exd5 Qxd5 3. Nc3 Qd6": "Esta parte fue jugada con rapidez, yo ten\u00eda unos 20 minutos de retraso y se entiende que Lucero quiera aprovecharlo. Por otro lado, son movimientos conocidos.",
+        "4. g3 Nf6 5. Bg2 c6 6. Nge2": "Ahora la clavada en g4 es posible, pero en ese momento consider\u00e9 que no era tan grave. ",
+        "6... e5": "Esto no me parece correcto. Las negras retrasan su desarrollo y permiten abrir columnas centrales luego de un \"d4\". Todav\u00eda era posible Af5 con idea de e6, Ae7, etc.",
+        "7. O-O Be7": "Atento, Lucero busca apartar a su rey del centro",
+        "8. d4 exd4 9. Nxd4 O-O": "Las negras logran huir... por ahora. Las negras conseguir\u00e1n la igualdad si desarrollan su flanco de dama. Las columnas abiertas y la dama expuesta son un tema para las blancas",
+        "10. Bf4": "Si Db4; 11 a3, Da5 (Db2; 12 Ca4 acaba con los paseos de la soberana) y me tienta la posibilidad de expansi\u00f3n sobre el flanco de dama. La continuaci\u00f3n de la partida sigue manteniendo la peque\u00f1a ventaja de desarrollo",
+        "10... Qd8 11. h3": "Limitando la actividad del alfil dama. Al mantener mi caballo en d4, si bien mi dama no puede moverse, existe el desagradable Cf5. Por otro lado, comienzan a verse espectros sobre el flanco de dama. Observen las diagonales tomadas por los alfiles... si tan solo el caballo no estuviera..",
+        "11... Na6": "11.., Cbd7? 12 Ac6 (si 12.., bc6; 13 Cc6, De8; 14 Te8) La variante da cuenta de los peque\u00f1as oportunidades que brinda el desarrollo de las blancas. Ahora en cambio, la dama podr\u00eda tomar al caballo en c6. Otra opci\u00f3n es 12 Cc6, bc6; 13 Ac6, Tb8 y no me convence el cambio de \"dos por una\" (14 Ab8, torre y dos peones contra caballo y alfil) Tal vez si mis peones del flanco de dama estuvieran m\u00e1s avanzados, ser\u00eda posible.",
+        "12. a3": "Te1 era m\u00e1s consecuente, pero era poner en sobre aviso a mi rival de mis intenciones. Adem\u00e1s, Ab4 era perfectamente jugable. ",
+        "12... Nc7": "\u00bfy ahora? el caballo de \"c7\" est\u00e1 tocado por el alfil, pero no funciona 13 Ac6, bc6; 14 Cc6 ya que despu\u00e9s de 14.., De8; 15 Ac7, Dc6 y tenemos pieza por dos peones. Ahora, 13 Te8 se responde con 13.., Ccd5 y las negras est\u00e1n vivas. Algo debo hacer para aprovechar la centralizaci\u00f3n de mis piezas, sin cambiar \"todo\" porque el final se ve igualado, la estructura de peones negros es bien sana. Si pudiese tomar la columna \"d\", la casilla d6 ser\u00eda un buen aposento para los caballos. Dos opciones entonces, 13 Cb3 (para cambiar las damas y tomar la columna \"d\") o lo que hago en la partida",
+        "13. Ne4 Ncd5": "Ahora vislumbro la posibilidad de un \"sacrificio estructural\" por as\u00ed llamarlo, permitir la captura en f4 a costa de la columna \"g\" y revolver las cosas en el flanco de rey. \u00a1La posici\u00f3n ser\u00e1 muy sana si no lo hago! fue lo que pens\u00e9. Exist\u00eda otra alternativa...",
+        "14. Be5": "La jugada c4 est\u00e1 en camino, sacando al fortach\u00f3n caballo de las negras. ",
+        "14... Nxe4 15. Bxe4": "Ah\u00ed est\u00e1, ahora los alfiles tienen algo que decir. Si Cf6, el sacrificio visto unas jugadas antes, para cambiar dos piezas por la torre, parece m\u00e1s prometedor, los peones avanzan r\u00e1pidamente.",
+        "15... f6": "Propuesta de tablas: 16 Dh5, g6; 17 Ag6, hg6; 18 Dg6 con jaque perpetuo (ahora me pena no haber tenido la torre en e1, con la posibilidad de un torre \"e4\" para llevarla a g4 o h4, si se pudiera, claro) Vuelvo entonces a mi idea original, esta vez con algo m\u00e1s de debilidades en la estructura negra",
+        "16. Bf4 Nxf4 17. gxf4": "F\u00edjense que las blancas mantienen las piezas para el sacrificio de \"c6\"...",
+        "17... g6": "Con la columna \"g\" semi abierta, es cosa de mover el rey blanco para apoyar el sacrificio en el flanco de rey, Lucero se atrinchera.",
+        "18. f5": "Mantengo el encierro y busco nuevas aberturas",
+        "18... Kg7 19. Qd3": "Por fin, mi dama se apresta a mirar \"al lado\"",
+        "19... c5": "\"\u00a1Oh no! \u00a1se viene el cambio de damas...\" Fue lo primero que pens\u00e9, pero... mirando con un poco m\u00e1s de detenimiento encontr\u00e9..",
+        "20. Bxb7": "\u00bfQui\u00e9n lo dir\u00eda? la jugada 18, Rg7 provoca la posibilidad de doblete en e6 por el caballo que no quise retroceder unas jugadas atr\u00e1s. \u00a1Siempre hay que estar atento! y no porque en una oportunidad no se pudo una combinaci\u00f3n, olvidarla, tarde o temprano podr\u00eda servir.",
+        "20... cxd4 21. Bxa8 Bxf5 22. Be4 Bc8 23. Rad1 Qd7 24. Qxd4 Qxh3 25. Bg2 Qf5 26. Qe4": "Clara ventaja blanca",
+        "26... Qc5 27. b4 Qc7 28. c4 Bf5 29. Qb7": "Lucero rinde"
+    },
+    "url": "https://gameknot.com/annotation.pl/festival-arica-2010?gm=29431",
+    "gameName": "Festival Arica 2010",
+    "players": "Mamani, H\u00e9ctor  vs. Lucero, \u00c1lvaro ",
+    "opening": "Scandinavian (B01), Pytel-Wade variation"
+}

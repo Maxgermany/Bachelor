@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e5": "Going into the budepest gambit. ",
+        "3. dxe5 Ne4": "I believe this is known as the Fajarowicz Variation. ",
+        "4. a3": "! although this move would normally be a waste of time so early, here it takes away alot of blacks play since in these systems blacks DSB will want to come to b4. ",
+        "4... b6": "Probably blacks best try. Though I suppose black could try 4...Qh4?! 5.g3 Qh5 6. Bg2 Qxe5 7. Nf3 and white has given back the pawn but has a good lead in development. 4...Nc6 is I think mainline, but 5.Nf3 d6 Qc2 and whites looking perfectly fine.",
+        "5. Nf3 Bb7 6. Nbd2 Qe7": "It seems black is making his first move toward getting the pawn back.",
+        "7. Nxe4": "Well first things first, black has already used time centralising the knight, So now I just exchange it and get hime to spend time moving the bishop again.",
+        "7... Bxe4 8. Bf4": "Blacks going to have alot of trouble trying to get back the pawn, he also lacks sufficent compensation for the pawn. I keep the pawn and develop a piece since it seems there is no reason that white shouldn't keep hold of the pawn for a little while longer.",
+        "8... Nc6 9. e3": "Note black still cant win back the pawn with 9...Bxf3 because after 10.Qxf3 the knight cannot move on account of blacks rook which would be hanging. ",
+        "9... O-O-O": "At first when I saw this I thought of Bg5 but then I thought is that the best I have? after 10.Bg5 f6 11.exf gxf white is clearly better and has ensured the pawn cannot be regained by black however whites position is fine as it is, why create imbalences.",
+        "10. b4": "so I decided to play this. it is probably not the best possible move, however it means black has very little counterplay. ",
+        "10... Nxb4": "?! A knight sac! I had not considered this but I thought and still think it is unsound. what does black get out of this? ",
+        "11. axb4": "Well no reason not to take.",
+        "11... Qxb4+ 12. Nd2": "at first I had been going to play Qd2 to offer a liquification but after ...Bxf3 would my bad pawns be better than keeping on queens? probably the pawns being centeral would mean being doubled would not be the end of the world, however I still think this was best.",
+        "12... Be7": "? offering another pawn sacrafice, but for what? The bishop isn't even very well developed here. and the connected rooks isn't a huge help right now. instead preserving the pawn was probably more accurate. If black want to sac a pawn then the pawn that should be saced should be the e pawn. \n\n\n",
+        "13. Rxa7": "again better to accpet the sac. and now whites king is probably more safe than the black king and I have the material. \n\nActually come to think of it Ra4 was also worth considering, Ra4 Qc3 c5 ",
+        "13... Bc5": "?? Well this just makes blacks last move look silly. not only that but now the Black queen is in srious danger of being trapped. ",
+        "14. Qa1": "!! this move threatns alot of things firstly I am threatning to play Ra4! and where does the black queen go? as well as that I have possible lines where I play Ra8 however it doesn't mate just now because black need not take the rook. Another winning move was 14.e6! with tactics on c7 but I liked this move even more. ",
+        "14... d6": "Giving up the queen but this was about blacks best option here. ",
+        "15. Ra4 dxe5 16. Rxb4 Bxb4 17. Qxe5": "now I will retain a very large material advantage because I am threatning mate on c7.",
+        "17... Bxd2+ 18. Ke2": "Of course Kxd2?? is met with Bc3+",
+        "18... Bd3+ 19. Kxd2": "but now it is safe to take as the discovered check has no bite to it. no matter what I will remain 7 points up.",
+        "19... Bxf1+ 20. Ke1": "Of course Kc1 also won since white is threatning mate and it must be dealt with, then white will take the bishop probably with the rook."
+    },
+    "url": "https://gameknot.com/annotation.pl/fajarowicz-variation?gm=42920",
+    "gameName": "Fajarowicz Variation",
+    "players": "thereaper1 (1672) vs. ronaldus49 (1700)",
+    "opening": "Budapest (A51), Fajarowicz variation"
+}

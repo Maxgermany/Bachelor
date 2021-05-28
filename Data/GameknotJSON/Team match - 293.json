@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. Bc4 g6 5. d3 Nge7 6. Bg5 Bg7 7. O-O O-O 8. Rb1 h6": "Some of you may like 8...f6 better, but I just chose to play this.",
+        "9. Bh4 Nd4 10. Nxd4 cxd4 11. Ne2 g5": "I still want more room for my pieces. However, this is the beginning of my doom...",
+        "12. Bg3 d5": "More space! Again!",
+        "13. exd5 Nxd5 14. Bxd5 Qxd5 15. c4 dxc3 e.p.": "This seems to be the only way to equalize.",
+        "16. Nxc3 Qa5 17. d4": "Yes, now white stands on top but I wasn't going to accept that!",
+        "17... e5": "?! This weakens my king's position. Maybe a quieter move like 17...b6 or 17...Bd7 would have been better.",
+        "18. dxe5": "!",
+        "18... Bxe5": "May not even be best, as suddenly I am losing after 4 more moves.",
+        "19. Bxe5 Qxe5 20. Re1": "!",
+        "20... Qc7": "? This allows white to get some initiative with 21.Nd5!.",
+        "21. Nd5": "!",
+        "21... Qa5": "This avoids 21...Qd6 22.Ne7+, but I am still not in too pretty of a position.",
+        "22. Ne7+": "!",
+        "22... Kg7 23. Qd4+ Kh7": "? Well now I should have took the gusto with 23...f6.",
+        "24. Re5": "! This pawn sac is sound. White really wins now.",
+        "24... Qxa2 25. Rc1 Be6 26. h3": "? Now white's attack is beginning to stall. White had a better try, namely 26.h4!, for when black is sooner or later going to be mated.",
+        "26... Rfe8 27. Rc7 Rad8": "Now, things are beginning to come back to me. However black's position is still ugly.",
+        "28. Qe4+ Kg7 29. Nf5+": "?! And white stalls even further.",
+        "29... Bxf5": "! The only way to survive.",
+        "30. Qxf5 Rxe5": "May not be best, but I couldn't see anything better. The queen must stay on the a2-f7 diagonal.",
+        "31. Qxe5+ Kg8 32. Qf6": "I was expecting 32.Qe7, but my response did not change.",
+        "32... Rd1+ 33. Kh2 Qe6": "This is the only way to not go into an endgame a pawn down. However, I am actually getting a draw!",
+        "34. Qxe6 fxe6 35. Rxb7 Rd2 36. f3": "I don't understand this move, but who cares?",
+        "36... a5 37. Ra7 Rxb2 38. Rxa5 Kf7 39. Kg3 Kf6 40. Ra1": "Why white played this move, I don't know either. But I had an adequate response.",
+        "40... Rb6": "This defends the 6-th rank, the rank where most of my pawns are. The endgame is drawn. \n\n(Result:1/2-1/2)"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=50039",
+    "gameName": "Team match",
+    "players": "jbplatt13 (1388) vs. thelaststraw (1367)",
+    "opening": "Sicilian defence (B40)"
+}

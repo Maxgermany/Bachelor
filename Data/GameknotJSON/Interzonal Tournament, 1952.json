@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Be7": "Better is 5... P-QB4!",
+        "6. e4 Nxc3 7. bxc3 c5 8. Bc4 O-O 9. O-O Nd7 10. Qe2 Qc7": "More promising is 10... PxP 11 PxP N-B3, to be followed with ...P-QN3 and ...B-N2.",
+        "11. Rd1 a6 12. a4 b6 13. d5 e5": "Or 13... PxP 13 BxQP B-N2 15 P-B4.",
+        "14. Ne1": "A very important move, which prevents the Black Knight from blockading the passed pawn.",
+        "14... Bd6 15. Nc2 Re8 16. Bd3 Nf8 17. Ne3 Ng6 18. g3": "This move not only keeps Black's Knight from KB5, it also prepares the strategically important move P-KB4.",
+        "18... Bb7 19. Nc4": "A strategical maneuver where White prepares to exchange the blockading piece.",
+        "19... Reb8 20. Be3": "An inaccuracy. Correct was the immediate exchange of the blockading Bishop.",
+        "20... Bc8 21. Nxd6": "White doesn't miss his chance this time.",
+        "21... Qxd6 22. f3 h5 23. Qf2": "This move prepares P-KB4 and forces the blocking of the Q side.",
+        "23... a5 24. f4": "The threat is 25 P-B5 N-B1 26 B-K2 P-N3 27 PxP PxP 28 R-KB1 R-R2 29 Q-B6.",
+        "24... exf4 25. gxf4 Bg4 26. Rd2 Qd7 27. Bf1": "27 P-K5 is also strong, but White is unwilling to allow Black any counterplay.",
+        "27... Bh3 28. Bxh3 Qxh3 29. Qg3 Qh4": "30 QxQ NxQ 31 K-B2 R-K1 32 P-K5 would now give White the superior endgame.",
+        "30. Bf2 Qf6": "30... QxBP? 31 QxQ NxQ 32 B-N3 P-Kn4 33 BxN PxB 34 P-B4 is a won game for White.",
+        "31. f5": "White intends to exchange Black's Knight and make use of his protected passed pawn in the ensuing end game.",
+        "31... Ne5 32. Kh1 Rbe8 33. Re2 Ng4 34. Bg1 Qe5 35. Qf3 Qf6 36. Rf1 Rad8 37. h3 Qh4 38. Bh2 Nxh2": "If 38... N-B3, 39 R/1-K1 threatens B-B7 and Q-N3.",
+        "39. Kxh2 Re5 40. Rg1 Rd7": "Better is 40... K-B1 41 P-B4, where the win is more difficult for White.",
+        "41. Reg2 f6 42. Re2": "By this Rook maneuver, White has shut off the Black Q, which can now be exchanged.",
+        "42... Kh8 43. c4 Kg8 44. Rge1 Kf8 45. Qg3 Qxg3+ 46. Kxg3 Ke8 47. Rb1 Rb7 48. Kf4 Kd8": "White now sacrifices the protected passed pawn in return for winning the pawn on QN6, enabling his Rooks to invade Black's position.",
+        "49. d6 Kd7 50. Reb2 Kc6 51. d7 Kxd7 52. Rb2xb6 Rc7 53. Rd1+ Ke8 54. Rd5": "Black resigns, as after 54... R/4-K2 55 R-N8 ch K-B2 56 R/5-Q8, Black cannot avoid decisive material loss."
+    },
+    "url": "https://gameknot.com/annotation.pl/interzonal-tournament-1952?gm=54651",
+    "gameName": "Interzonal Tournament, 1952",
+    "players": "Svetozar Gligorich  vs. Luis Augusto Sanchez ",
+    "opening": "Nimzo-Indian defence (E20)"
+}

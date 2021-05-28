@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bg5 e6 3. c4 c5 4. d5 h6": "Alternative variation: 4... d6\n",
+        "5. Bxf6 Qxf6 6. Nc3 d6 7. e4 Be7 8. Nf3 Bd7": "Alternative variation: 8... O-O\n",
+        "9. Be2": "Alternative variation: 9. Qb3\n",
+        "9... O-O 10. O-O a6": "blocks the knight\nAlternative variation: 10... e5\n",
+        "11. Re1 b5": "Alternative variation: 11... e5 [preventing e4-e5]\n",
+        "12. cxb5 axb5 13. Bxb5 Bxb5 14. Nxb5 Qxb2 15. a4 Na6": "Alternative variation: 15... e5 [was still playable]\n",
+        "16. e5 exd5": "white is in complete control until:\n",
+        "17. Qxd5": "Alternative variation: 17. Rb1 Qa2 18. Nc3 Qc4 19. Nxd5\nAlternative variation: [or simply] 17. exd6\n",
+        "17... dxe5 18. Nxe5 Bf6": "Alternative variation: 18... Nb4\n",
+        "19. Nd6": "Alternative variation: 19. Nxf7 Nb4 (19... Rxf7 20. Qxa8+)\n",
+        "19... Bxe5 20. Qxe5 Qxe5 21. Rxe5 Ra7": "Alternative variation: 21... Rfd8\n",
+        "22. Nc4 Rd8 23. a5 Rad7 24. Ree1 Rd7d4 25. Ne5 Nb4 26. a6": "Alternative variation: 26. Rec1\n",
+        "26... Nc2": "Alternative variation: 26... Ra8\n",
+        "27. Nc6 Nxe1 28. Nxd4 cxd4 29. Rxe1 d3 30. f3 d2 31. Rd1 Ra8 32. Rxd2 Rxa6 33. Kf2 f5 34. h4 Kf7 35. f4 Ra3 36. g3 g6 37. Re2 h5 38. Re3 Rxe3 39. Kxe3 Ke7 40. Kd4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a45-trompovsky-attack-ruth-opovcensky-opening?gm=32483",
+    "gameName": "A45: Trompovsky attack (Ruth, Opovcensky opening)",
+    "players": "wineyard (1200) vs. bajc2 (1200)",
+    "opening": "Trompovsky attack (Ruth, Opovcensky opening) (A45)"
+}

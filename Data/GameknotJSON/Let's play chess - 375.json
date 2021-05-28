@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. b4": "Polish opening (Sokolsky opening) (Sokolsky's Opening)",
+        "1... e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. a3 Be7 5. e3 O-O 6. Nf3 d5 7. Bb5 a6 8. Be2 c5 9. O-O Nc6": "Blk has good hold on the center",
+        "10. Bb2 b5 11. a4 b4 12. d4 c4": "Blk has gain lot of space.",
+        "13. Ne5 Bb7 14. Bg4 c3": "Problematic move for W",
+        "15. Bc1 Qc7 16. Nxc6 Bxc6 17. Bf5 a5 18. Qe2 g6": "Due to the 3 W pieces on the Q wing, I thought about mating attack but was unable to find good variations",
+        "19. Bd3 Qd7": "Plan is to win the game by play on the Q side",
+        "20. Bb5 Bxb5 21. axb5 Rfb8 22. Ra4 Qxb5 23. Qxb5 Rxb5": "Black happily ex forces",
+        "24. f3 Nd7 25. e4 Nb6 26. Ra2 a4 27. Bf4 Rc8 28. Rf2 b3 29. Ra1 b2 30. Ra2 a3 31. Rf1 Nd7 32. Re1 Nf6 33. Be5 Nd7 34. Bg3 Bb4 35. Kf2 f5 36. exf5 gxf5 37. Ke3 Nb6 38. Kd3 Nc4 39. Bf4 Kf7 40. g3 Re8 41. Rxe8 Kxe8 42. Ke2 Kd7 43. h3 Rb6 44. g4 Re6+ 45. Kf2 Nd2 46. Rxa3 Bxa3 47. Bxd2 cxd2 48. Nxd2 f4 49. Nb1 Bb4 50. c3 Ba5 51. g5 Re3": "Resignation.\nAfter 13...c3 I thought i will win quickly and easily. Probably I played bad mid game.\nOn the other hand W resisted very well and prolonged the game, waiting for a blunder from blk."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=45892",
+    "gameName": "Let's play chess",
+    "players": "memco286 (1791) vs. fauzan (2018)",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

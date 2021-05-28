@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 d5": "I wanted to experiment with the Scandinavian to see what kind of positions I got.",
+        "2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. h3 Bf5 6. d3 Nc6 7. c3 e6": "I'm thinking now that 0-0-0 might have been stronger than e6.",
+        "8. Qf3 Rd8 9. Qxd5 Rxd5": "Black is better developed, but my pieces aren't really very well coordinated.",
+        "10. d4 a6 11. Bc4 Rd7 12. Be3 Be7 13. Be2 Be4": "This was perhaps unnecessary.  It is not difficult to counter.",
+        "14. Bf3 Bxf3 15. Nxf3 O-O 16. O-O Rfd8 17. Rad1 Bf6": "e5 might have been stronger here.",
+        "18. Rdc1 h6 19. Rfe1 e5 20. dxe5 Nxe5 21. Nxe5 Bxe5 22. Kf1 b6": "This was a dumb, dumb move.  I knew that the Be5 was loose.  Terrible thought process.",
+        "23. Bxb6 Bf6 24. Be3 Rd7d5": "Now I am a pawn down for nothing and have to figure out a way to stay in the game.",
+        "25. a3 Rb5 26. Rcb1 c6 27. Kg1 Rdb8 28. Ba7 Rb8b7 29. Bd4 Bxd4 30. cxd4 Kf8": "Not sure if this was best, but I wanted to take away the tempo for White.",
+        "31. Re2 Rb5b3 32. Rd2 Rxa3": "I have managed to regain my lost pawn.  The b2 pawn is pinned.",
+        "33. Rc1 Rab3 34. Rxc6 Rb3xb2 35. Rcc2 Rxc2 36. Rxc2 Rb1+ 37. Kh2 Rd1 38. Ra2 Rxd4 39. Rxa6": "We've reached an equal endgame here.  I was so relieved to get level that I offered my opponent a draw.  My draw offer was rejected.",
+        "39... Rd2 40. Ra8+ Ke7 41. Ra7+ Ke6 42. f3 Rd7 43. Rxd7 Kxd7 44. Kg3 Ke6 45. Kg4 g6 46. h4 f5+ 47. Kf4 Kf6 48. g4": "This pawn endgame should be drawn also, but this position gave me the ability to gain a tempo with a check.",
+        "48... g5+ 49. Kg3 f4+ 50. Kh3 Ke5": "Now Black is better.  White's K will eventually get forced away from the base pawn.",
+        "51. hxg5 hxg5 52. Kg2 Kd4": "White resigned here."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=65039",
+    "gameName": "Let's play chess",
+    "players": "silverhawk100 (1460) vs. mmoody95 (1893)",
+    "opening": "Scandinavian defence (B01)"
+}

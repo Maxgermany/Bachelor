@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Bc5": "Bc5? Weird move for the opening part of the game. \nMaybe \u2026 d6 5.  c4 makes more sense.",
+        "6. Nb1c3 a6 7. Be3 Bxe3 8. Nd6+ Ke7 9. Nf5+ Kf8 10. Qd6+ Nge7 11. fxe3 g6": "Fairly big mistake.  This gives white at least 1.5 points in material advantage.\nCorrect moves would be \u2026 Kg8 11.  Nxe7+  Qxe7  12. Qxe7 Nxe7",
+        "12. Qf6 Rg8 13. Nh6": "With this move I (White) want to put as much pressure on the king as possible.\nHowever a more suitable move would be 13. Bc4 followed by ...d5 14.  Nh6  Rg7  15. exd5 Nf5  16. Qxd8+ Nxd8  17. Nxf5 gxf5  18. g3 Rg4  19. Bb3 Bd7  20. O-O ",
+        "13... Rg7 14. Bc4 Ng8 15. Nxg8 Kxg8 16. Qd6 b5 17. Bd5 Bb7 18. O-O-O Rc8 19. Rdf1 Na5": "Small inaccuracy on blacks part \u2026 Na5 19.  Bxb7  Nxb7  20. Qxa6 Nc5  21. Qxb5 d6 and white gains a full point lead in material advantage.\nBest would be \u2026 Qc7 19.  Rf6  Qxd6",
+        "20. Bxf7+": "Blunder.  I was too hasty and started to attack the king side because inaccurate calculation of a gambit line I was thinking.\nCorrect moves 20. Bxb7  Nxb7  21. Qxa6 Nc5  22. Qxb5 Kh8  23. Rd1 Qg5  24. Qe2 Rb8  25. Rhf1 h6  26. b3 f6  27. Rd6 Rf7 much better.\n",
+        "20... Rxf7 21. Rxf7 Kxf7 22. Rf1+ Kg8 23. Nd5 Bxd5": "Mistake this allows white to get back into the game with a draw like position (\u2026 Bxd5 23.  Qxd5+  Kh8  24. Qxe5+ Kg8  25. Qd5+ Kh8  26. Qe5+)\n\n\u2026 Nc6 23.  Nf6+  Kg7  24. Nxd7 Kh6  25. Qe6 Nb4  26. Nxe5 Nd3+  27. Kb1 Nxe5  28. Qxe5 Qh4  29. Qf4+ Qxf4  30. Rxf4 Kg5 would give black a clear advantage.\n\n\n\n ",
+        "24. Qxd5+ Kg7": "Kg7? This move gives White a 3 point material advantage lead.\n\nAgain instead of Kg7 black makes the game even with \u2026 Kh8 24.  Qxe5+  Kg8  25. Qd5+ Kh8  26. Qe5+.",
+        "25. Qxe5+": "Mistake.  Draw game when White could do best moves 25. Rf7+  Kh6  26. Qxe5 Qh4  27. g3 Rxc2+  28. Kxc2 Qxh2+  29. Kd3 Qd2+  30. Kxd2 Nc4+  31. Kc3 Nxe5\nand get a Rook+Pawns vs Knight+Pawns advantage.",
+        "25... Kh6": "Big blunder!  Gives white a 4 point advantage which basically screams death for black.\nThe only hope black had was \u2026 Kg8 25.  Qd5+  Kh8  26. Qe5+ Kg8 making the game a draw.",
+        "26. Rf3 g5": "Blunder and Mate in 4 which white actually does in this game...\n\u2026 g5 26.  Rh3+  Kg6  27. Qf5+ Kg7  28. Rxh7+ Kg8  29. Qf7#\n\nSmall hope for black would be \u2026 Qh4 however the game is over anyway.",
+        "27. Rh3+ Kg6 28. Qf5+ Kg7 29. Rxh7+": "Black resigns because Mate in 2."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=31226",
+    "gameName": "Let's play chess",
+    "players": "chess_avenger (1545) vs. kleberkabg (1591)",
+    "opening": "Sicilian (B32), Labourdonnais-Loewenthal (Kalashnikov) variation"
+}

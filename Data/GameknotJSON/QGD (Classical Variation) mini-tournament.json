@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 O-O 6. e3 Nbd7": "The starting position, and a very famous one at that.",
+        "7. Rc1": "This move has been thought of as best since the days of Reuben Fine. Although 7 PxP, the Exchange Variation, can also lead to a strong bind for White. ",
+        "7... a6 8. cxd5 Nxd5 9. Nxd5 exd5 10. Bxe7 Qxe7 11. Rxc7": "The game's first skirmish leaves me one Pawn ahead. ",
+        "11... f6 12. Bd3 Qd6 13. Qc2 Nb6 14. Bxh7+": "I gain a second Pawn. ",
+        "14... Kh8 15. Bd3 Bd7 16. O-O": "Securing my King, but overlooking Black's tactical threat. ",
+        "16... Bc6 17. Rxc6 bxc6": "Material is now even, though unbalanced. ",
+        "18. Qb3 Qc7 19. Rc1 Rfc8 20. Bf5 Rce8 21. Ne1 Re7 22. Nd3 g5 23. Nc5": "After some slow maneuvering, my Knight finds a nice outpost. ",
+        "23... Nc4 24. Qc3 Qb6 25. Qb3 Qxb3 26. Nxb3": "The end-game stage begins, with the Queens now off the board. ",
+        "26... Nxb2 27. Rxc6 Kg7 28. Nc5 a5 29. g3 Nc4 30. Re6 Rxe6 31. Bxe6": "Material is still even, but the game has been simplified. ",
+        "31... Rd8 32. Nb7 Ra8 33. Bxd5": "Once again, I gain a Pawn. ",
+        "33... Rb8 34. Kg2 Rc8 35. Kf3 Rc7 36. Ke4 Nd2+ 37. Kf5 a4 38. Nc5 Ra7": "Black has been thrown on the defensive.",
+        "39. Bc6 a3 40. Bd5 Nf1 41. Bb3 Nxh2": "Snapping up a loose Pawn.",
+        "42. Ne4 Ra6 43. d5": "This Pawn will be my key.",
+        "43... Nf3 44. d6 Ne1 45. Be6 Ra8 46. d7": "Now I just need to guard Q8...",
+        "46... Nd3 47. Nd6 Nb4 48. Nc8": "Or shield it...",
+        "48... Nc6": "Black hastens back...",
+        "49. Bd5": "...but this pin is decisive. ",
+        "49... Nd8 50. Bxa8": "Now it's all over but the shouting. ",
+        "50... Nf7 51. Bd5 Kf8 52. Bxf7": "Removing the guard.",
+        "52... Kxf7 53. d8=Q": "Black resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/qgd-classical-variation-mini-tournament?gm=63630",
+    "gameName": "QGD (Classical Variation) mini-tournament",
+    "players": "last_archimedean (1381) vs. bartje59 (1211)",
+    "opening": "QGD (D37), classical variation (5.Bf4)"
+}

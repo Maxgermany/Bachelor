@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4": "up until now, a fairly regular French defense; this locks up, most probabilities...",
+        "7. Nbd2": "contesting b3: we need Bd3, somewhere soon; so c4 needs to buckle...",
+        "7... Na5": "better something like f6, or Bd7...",
+        "8. Rb1 Bd7 9. Be2 Ne7 10. O-O h6": "not sure, what this is about: I expected Nf5, equalizing most threats; that is why we need Bd3, so we force it...",
+        "11. b4": "no second thoughts: first, we force the Black Queen, in a very awkward position...",
+        "11... cxb3 e.p. 12. c4": "this temporary pawn sac, will make a lot of difference: b3 is all but dead; of course, dxc4, Nxc4, Nxc4, Bxc4, and b3 is for the taking...",
+        "12... Ba4": "in the light of Whites' next move, Qc7, c5, Ba4, would already have been better...",
+        "13. c5 Qc7": "forced: Black must leave the b-file...",
+        "14. Bd3": "truthfull, to the objectives of French; Nf5, is the bitch here...",
+        "14... Nec6 15. Qe2": "somehow, it was too early, for Bb2; now, we enter a very unclear part of the game...",
+        "15... a6 16. Bb2 Be7 17. Rfc1 b5 18. cxb6 e.p. Qxb6 19. Rc3 O-O 20. h3 f6 21. exf6 Rxf6": "forced, due to Qxe6+...",
+        "22. Rbc1 Raf8 23. Kh1 Bd6 24. Bxa6 Nxd4 25. Nxd4 Qxd4 26. Nf3": "truth be said: White is having a fairly hard time, defending this: after Qf4!, Qe1, Qf5!, he would just have reached equality, in a strong position for Black...",
+        "26... Qb6": "or Qa7, with roughly the same result: now, it is Whites' turn...",
+        "27. Rc3c8": "not much left, to try: we play for the forced e5 (Rf6 is under attack, while also preventing the lethal Bd4), Nxe5, Qxf2, Ng4!, Qxe2, Nxf6+, gxf6, Bxe2, and take it from there...",
+        "27... Bd7 28. Bd4": "this is, what Black forgot: the Queen has nowhere to go; best now, is Rxc8, Rxc8+, Bxc8, Bxb6, Bxa6, Qxa6, b2, and try to make the most of it: but after Qb5, most aspirations are over... Gameknot computer analysis, gives 27. ... Bf4, as the best option, opening up d6 for the Queen: but after Bxf6, gxf6, Rb1/Rxf8+, White has a winning advantage... so Black resigned, maybe a bit too soon..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-capturing-a-french-queen?gm=63557",
+    "gameName": "Fierce Queen capturing a French Queen...",
+    "players": "fiercequeen (2007) vs. pi1942 (1963)",
+    "opening": "French (C02), advance, Milner-Barry gambit"
+}

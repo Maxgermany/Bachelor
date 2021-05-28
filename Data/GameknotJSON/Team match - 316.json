@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "Nf6 preferred response",
+        "1... d5 2. c3": "c4 better",
+        "2... e6": "Good!",
+        "3. Be3": "Bf4! is better, doesn't block e pawn.",
+        "3... c5 4. a4": "Lots of multiple pawn moves.  How about dxc5?",
+        "4... Bd6": "I'm thinking cxd4.  Or Nd7 or Ne7.",
+        "5. b3": "How about dxc5?",
+        "5... Ne7 6. dxc5": "Finally!",
+        "6... Be5": "Better Bc7",
+        "7. Nf3 Qa5": "Blunder. Bc7 or Bf6 was needed. The Analysis board and Flip were needed to avoid a blunder like this.\n",
+        "8. Nxe5 O-O 9. Bd4": "Expecting Nd4 or Nf3",
+        "9... b5": "How about f6?",
+        "10. e3": "How about f6? Or bxa4?",
+        "10... Nbc6 11. Nxc6 Nxc6 12. b4": "Good move",
+        "12... Qc7 13. a5": "Better axb5",
+        "13... e5 14. Bxb5 Ne7": "exd4!",
+        "15. g3 exd4 16. cxd4": "Qxd4! brings in the Queen\n",
+        "16... a6": "Yes!",
+        "17. Bd3 Rb8 18. Qd2 Bh3": "How about Nc6?",
+        "19. Bxa6": "OOps.  Again, Analysis Board and Flip.",
+        "19... Nc6 20. b5 Ne7": "Or Qa7",
+        "21. b6 Qd7 22. Nc3": "Finally",
+        "22... Rba8": "Good",
+        "23. Bb5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=48500",
+    "gameName": "Team match",
+    "players": "iamjustapawn2 (1359) vs. fedge (1224)",
+    "opening": "Queen's pawn game (D00)"
+}

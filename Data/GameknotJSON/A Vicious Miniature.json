@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "A fairly short game that quickly became a violent series of sacs.",
+        "1... c5 2. Nc3 Nc6 3. f4": "Sicilian Grandprix.  ",
+        "3... g6 4. Nf3 Bg7 5. Bb5": "I prefer this to 5.Bc4, because ...e6 severely limits my bishop's effectiveness.  Trading the bishop for his knight is usually not detrimental to white's position.",
+        "5... Nd4": "Black's main try.",
+        "6. O-O Nxb5": "Simplifying the position.  In most opening positions I prefer my bishops to my knights and so try to avoid exchanging them, but in this particular opening it's not only acceptable, it's preferable to exchange it.  ",
+        "7. Nxb5 d6 8. d3 Nf6 9. Qe1": "Preparing to aggressively attack the kingside.  White's potential, whether his kingside attack succeeds or not, is more than enough to make up for the exchanged bishop.",
+        "9... O-O 10. Qh4 Bd7 11. Nc3 b5": "His counterattack looks dangerous, and will come faster than mine, but while his will net a long term advantage, he needs to survive to use it!",
+        "12. f5": "The beginning of a series of sacs (mostly little pawn ones).  It also opens the bishop's c1-h6 diagonal, which is essential to the attack.",
+        "12... b4 13. Ne2 gxf5": "Perhaps not best.  His position is tenuous, and how much can he gain from this?  A few pawns?",
+        "14. Bh6 fxe4 15. Ng5": "Intensifying the pressure.",
+        "15... exd3": "A mistake, perhaps even a blunder!  Here I should ignore the threat to knight and simply play Bxg7 and continue my planned attack.  I was feeling a bit more cautious, though, so...",
+        "16. Ng3 dxc2": "A truly fatal blunder.  His best chance is to play Bh8, when I still come out with a limited advantage.  Here, though, when allowed to exchange the bishops, my attack becomes lethal.",
+        "17. Bxg7 Kxg7 18. Rxf6": "The point of the entire combination.  My opponent resigned here, in light of his three  options: A) 18...exf6 19.Qxh7#,  B) 18...Kxf6 19.Rf1+ Ke5 20.Qe4#, and C) 18...Kxf6 19.Rf1+ Kg6 20.Qxh7+ Kxg5 21.Qh5#."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-vicious-miniature?gm=48549",
+    "gameName": "A Vicious Miniature",
+    "players": "matticus93 (1684) vs. runfaster (1842)",
+    "opening": "Sicilian (B23), Grand Prix attack, Schofman variation"
+}

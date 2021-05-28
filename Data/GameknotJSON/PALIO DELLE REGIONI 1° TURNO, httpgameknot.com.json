@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 h6": "?! mossa non teorica, non sbagliata per\u00f2...\n",
+        "4. O-O": "Alternative variation: 4.d4 [!? mi sembra pi\u00f9 incisiva] \n",
+        "4... Nf6 5. d3": "Alternative variation: 5.d4 [!? di nuovo mi sembra pi\u00f9 forte] \n",
+        "5... Bc5": "rientrando in una variante minore della Partita Italiana\n",
+        "6. h3": "Alternative variation: 6.c3 [\u00e8 pi\u00f9 normale] \n",
+        "6... O-O 7. a3": "mancanza di idee?\nAlternative variation: 7.c3 [!?] \n",
+        "7... a6": "questa invece l'idea ce l'ha!\n",
+        "8. b4 Ba7 9. Bb2 d6 10. Nc3 Re8": "qui per me il Nero ha gi\u00e0 pareggiato la posizione\n",
+        "11. b5": "?! prima vera imprecisione del Bianco\n",
+        "11... axb5 12. Bxb5 Bd7 13. a4 Nb4 14. Ba3 Bc5 15. Nd5": "? a me pare un errore\nAlternative variation: 15.Bc4 [!?] \n",
+        "15... Bxb5": "?! che il Nero non punisce del tutto!\nAlternative variation: 15...Nfxd5 [!] 16.Bxd7 Qxd7 17.exd5 Nxd5 18.Bxc5 dxc5 [Pedone in pi\u00f9, sia pure doppiato, e ottimo vantaggio di spazio del Nero] \n",
+        "16. axb5": "Alternative variation: 16.Nxf6+ [!] Qxf6 17.axb5 [rendeva la vita moltro pi\u00f9 difficile al Nero!] \n",
+        "16... Nfxd5 17. exd5 Nxc2": "! guadagnando un importante pedone\n",
+        "18. Qxc2 Rxa3 19. Rxa3 Bxa3": "/\nIl Nero incomincia ad avere un vantaggio sensibile, di materiale e di posizione\n",
+        "20. Qb3 Bc5 21. Kh1 Kh8 22. g3 f5": "!\n",
+        "23. Qd1": "?!\n",
+        "23... Qd7 24. Qb3": "ah beh allora...\n",
+        "24... e4": "!\n",
+        "25. Ng1 Qf7": "Alternative variation: 25...e3 [!] \n",
+        "26. dxe4 fxe4 27. Re1": "? ultimo errore in posizione comunque gi\u00e0 compromessa per il Bianco\n",
+        "27... Bxf2": "Alternative variation: 27...Qxf2 [! era molto forte] \n",
+        "28. Rf1 e3 29. Ne2": "??\n",
+        "29... Qf3+ 30. Kh2 Qxe2 31. Qd1 Qxd1 32. Rxd1 e2": "e il Bianco giustamente abbandona. Partita nel complesso molto ben giocata dal Nero, che ha quasi sempre sfruttato al meglio gli errori dell'avversario.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/palio-delle-regioni-1-turno-http-gameknot-com?gm=67876",
+    "gameName": "PALIO DELLE REGIONI 1\u00b0 TURNO, http://gameknot.com/",
+    "players": "renzorenzo365 (1400) vs. sirvulture (1690)",
+    "opening": "King's pawn game (C50)"
+}

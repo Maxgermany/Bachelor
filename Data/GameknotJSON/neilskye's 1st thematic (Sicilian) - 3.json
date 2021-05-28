@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "The following game in the Dragon Sicilian (with 10..Rb8!?) is full of flavor, but at the expense of objective and practical inaccuracies on both sides. Nevertheless, it is an enjoyable game and certainly instructive in how the creation of tactical maelstroms often favors the attacking player (e.g. the one with the most options).",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6": "'!' - Well, not exactly! In any event, Black is quite pleased to enter into his pet Dragon variation.",
+        "6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4": "The 9.Bc4 variation of the Yugoslav Attack, which is generally White's most aggressive option, planning a kingside pawn storm (or simply h4-h5) with ideas like Bh6 and Nd5, etc. This is a fun variation to explore for both sides, though it has regrettably been usurped in popularity by the more positionally-minded 9.0-0-0 (when the Bf1 stays home).",
+        "9... Bd7 10. O-O-O Rb8": "!? - Black opts for the 'Chinese Dragon' instead of the more mainline ...Rac8 or ...Qa5 plans. Here, Black plans to play ...b5 and answer the eventual ...Bxc4 with bxc4, when his rook is ideally placed along the b-file.",
+        "11. g4": "'?' - A strangely popular mistake. Maybe some text has recommended this move? In any case, White now weakens his f3 pawn. when ideas like ..b5 and ..Ne5 are more dangerous for the first player. Much better is simply 11.h4 or 11.Bb3.",
+        "11... b5": "'!' - Not bothering with the typical ...Ne5. Black hopes to rip open queenside lines with gain of time.",
+        "12. Bb3": "Also typical is 12. Ndxb5, but not 12.Bxb5? when Black's ..Nxd4 reply is simply winning.",
+        "12... a5": "or ..b4!?",
+        "13. Ncxb5 Ne5": "'?' - This standard move, now threatening the knight on b5, is dubious without the White bishop on c4, owing to the clever White reply 14.a4!, creating an outpost on b5 that absolutely frustrates Black's attack. Black overlooked this move somehow. Instead, Black needed to play 13..a4 himself.",
+        "14. Qe2": "'?' - Missing the a4 resource. Now Black's attack is re-railed.",
+        "14... a4 15. Bxa4 Qa5 16. b3 Rfc8 17. g5": "'?' - White tries to revive threats to Black's king, but underestimates Black's resources. After the simple ..Nh5, Black's kingside is safe forever.",
+        "17... Nxe4": "'!??' - Black should have satisfied himself with ..Nh5 and all the play, but here he goes for broke, planning the spectacularly dubious ..Nc4 with complications. Objectively the text move is fine (and certainly more in the spirit of things), but Black really should have locked up the point via ..Nh5 and queenside play.",
+        "18. h3": "'??' - Black's bravado apparently intimidates White into backing away from the sacrifice. Now, Black is completely winning via ..Nc5 or ..Bxb5 and ..Ng3.  After fxe4 Black intended ..Nc4!? with a wild and unclear game. According to post game analysis, White needs to defend a minefield of threats (and Black must play accurately in attack) to reach a drawn position. Over the board, Black was simply looking to \"spice things up,\" and indeed in that line Black has many mating chances.",
+        "18... Ng3": "One path to victory. More decisive was the intermezzo 18..Bxb5 Nxb5, when the White Queen's retreat to e1 after ..Ng3 allows ..Rxb5 and Black is up an entire piece with attack. The text move also wins, but not as easily.",
+        "19. Qe1": "White enters this move and promptly resigns, allegedly in view of ..Nd3  threats (which do not exist with accurate defense). In fact, Black overwhelms instead after  the thematic 19...Rxb5! 20.Nxb5 Qa6!, as the Ba4 cannot move in any scenario because of ..Qxa2 and dire threats to the White king, e.g. 21. Qxg3 Nxb5 and Bxb5? is impossible and Black is a piece up with a winning attack to boot.\n---\nNonetheless, White should have forced Black to find this continuation in real play. If Black slips up, White has real chances to save the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/neilskyes-1st-thematic-sicilian?gm=6029",
+    "gameName": "neilskye's 1st thematic (Sicilian)",
+    "players": "neilskye (1681) vs. scottyad (1507)",
+    "opening": "Sicilian (B78), dragon, Yugoslav attack, 10.O-O-O"
+}

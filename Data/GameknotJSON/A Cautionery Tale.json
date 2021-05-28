@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nMy opponent, Master Chrisobee kindly invited me to take part in his MT called Amor Vincit Omnia ( Love conquers all).  Sadly here, the only thing that got conquered was Henry!  I expect you are wondering what the title of this annotation means.  Well, it means accept your opponent's undefended material with caution, especially when you are playing against an Expert or a Master.  It is true that even GMs blunder (remember, Messrs Nigel Short and Victor Korchnoi both blundered into mate in one - this was covered into Amatzia Avni's Danger in Chess) but it is RARE!  Nine times out of 10, if you take the offering, your opponent will either regain the sacrificed material with interest or, like me, you could cop Old Matey!  How did this happen?  Well, here is the Gameknot Analysis version: http://gameknot.com/analyze-board.pl?bd=16902121&rnd=0.25633523027782023.",
+        "1... e5 2. Bc4": "2. Bc4 - after a double king pawn opening we get this move.  It is called The Bishop's Opening because the bishop comes out before the knight.  It can transpose into several openings, The Vienna, Guicco Piano and even, as in our game, the Ruy Lopez.",
+        "2... Nf6 3. d3 Nc6": "3. ..... Nc6 - out come two black steeds.",
+        "4. Nf3 Be7 5. O-O O-O": "5. .... 0-0 both sides tuck their kings away.",
+        "6. Re1 d6 7. c3": "7...... c3 - Chris decided to advance his pawn to c3 rather than his knight.  Later on he will put the Wicked Witch of the West on that square (via d3) to disastrous effect for Yours Truly.",
+        "7... Na5 8. Bb5 a6 9. Ba4 b5": "9. .... b5 - driving back Chris's lsb.",
+        "10. Bc2 c5 11. Nbd2 Re8 12. Nf1": "12. Nf1 - this position is gradually becoming like a middle game Lopez position.  Chris gave me the Lopez a few years ago and thumped me a few moves out of the DB.  I just hope I can improve on this.",
+        "12... Nc6 13. h3 h6": "13. ..... h6 - this move is fairly OK but this pawn will become fodder for Chris' dsb later on.",
+        "14. d4": "14. d4 - A pawn push.  Again, this is a standard middlegame move in the Ruy Lopez.  This will result in a pawn trade which will open up the c column.",
+        "14... Bf8 15. Ng3 cxd4 16. cxd4 exd4 17. Nxd4 Bb7": "17. ..... Bb7 - rather than trade knights I decided to develop a piece, Fou Leblanc to defend my c6 knight.  Chris initiates the trade because he sees that my d6 isolani is a bit of a weakie.",
+        "18. Nxc6 Bxc6 19. Bf4": "19. Bf4 - of which he piles up on.",
+        "19... Ra7 20. Qd3 Rd7": "20. ..... Rd7 - here I decided to add to the defense of my weak d pawn and to also line up my rook on the same file as the Wicked Witch.",
+        "21. Rac1 g6": "21. ..... g6 - alas, I find myself without a plan here and so I end up playing a move which is not a disaster at this stage, but it will be a step towards perdition.",
+        "22. Bb3": "22. Bb3 - pin and Fou Leblanc is en prise to a discovered attack so I move him back to b7.",
+        "22... Bb7 23. Rcd1 Kg7 24. a4 Bc6": "24. .... Bc6 - if PxP?? then BxP skewering the rooks on d7 and e8.",
+        "25. Rdc1 Qa8": "25. .... Qa8? - The move looked OK but here Chris suggested PXP as an improvement which will lead to a trade off of our lsbs.",
+        "26. Qc3 bxa4 27. Bxh6+ Kxh6 28. Qxf6 axb3": "28. ..... axb3??? - here, after a series of exchanges, I decided to grab the bishop on b3.  This turned out to be fatal for Henry, although if I did not take the bishop then Gameknot Analysis' suggested alternative would have left Chris with a clear pawn up in a rook ending and an overall advantage in excess of +2 which, against an opponent of that calibre is, I believe, sufficient grounds for resignation due to ruinous loss of material.  But, as Master Freddy would say, even with a material deficit there is hope whereas if you resign or cop Old Matey there is none.",
+        "29. Qh8+": "29. Qh8+ - this does lead to a spectacular king hunt however.",
+        "29... Kg5 30. f4+ Kxf4": "30. ..... Kxf4 - Henry is pushed further up the board.",
+        "31. Qf6+ Kxg3": "31. .... Kxg3 - and further up still where he will meet his ......",
+        "32. Re3#": "32. Re3 MATE!! ..... death!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-cautionery-tale?gm=42865",
+    "gameName": "A Cautionery Tale",
+    "players": "chrisobee (2317) vs. jstevens1 (1796)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

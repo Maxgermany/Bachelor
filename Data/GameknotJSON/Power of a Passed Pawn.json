@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c6": "The caro-kann, my favourite defense to the king-pawn opening",
+        "2. d4 d5 3. exd5 cxd5 4. c4": "This is my least favourite variation, the Panov Attack",
+        "4... Nf6 5. Nc3 Bf5 6. Qb3": "My last move was dubious, as this move demonstrates. If I play b6 here, c6 will be weak.",
+        "6... dxc4": "If White plays Qxb7 here, I'd respond with Nbd7, the only move.",
+        "7. Bxc4": "This forces e6.",
+        "7... e6 8. Qxb7 Nbd7 9. Nf3 Be7 10. O-O O-O": "So I'm down a pawn, but White has an isolated d-pawn.",
+        "11. Qa6 Nb6 12. Bb3 Ne4 13. Re1 Nxc3 14. bxc3": "Now White has hanging pawns, with the c-pawn being backward.",
+        "14... Qc7": "If the white Queen weren't on a6, I'd play Rc8.",
+        "15. Bd2 Nd5": "Thank god the bishop on e7 will still be defended by the queen after the e-file opens.",
+        "16. Bxd5 exd5 17. Ne5 f6 18. Qc6": "Here, I should have played Qd8! and the knight will have to return to f3.",
+        "18... Bd6 19. Qxc7 Bxc7 20. Nc6 Bd6 21. Ne7+ Bxe7 22. Rxe7": "Now White has a rook on the 7th rank, which means trouble for Black. However, Black has defensive resources.",
+        "22... Rf7 23. Rae1 Be4": "breaking communication",
+        "24. Rxf7 Kxf7 25. f3 Bd3 26. Re3 Bc4 27. a3": "White's a-pawn is easy prey.",
+        "27... Rb8 28. Be1": "If Bc1, the Rb1, followed by Rb3.",
+        "28... Rb3 29. a4 Ra3": "If ",
+        "30. Bg3 Rxa4": "Black's a-pawn is now passed and hence dangerous.",
+        "31. Bd6 Ra2 32. Re7+ Kg6 33. h4 h5 34. Rc7 a5 35. Bf8 Kf5": "Saves a tempo",
+        "36. Bxg7 a4 37. Bf8 a3 38. Ra7 Ra1+": "Lucky for me, the White king is still on the first rank.",
+        "39. Kh2 a2 40. Bb4 Rb1 41. Rg7 a1=Q": "It's about time to resign, my friend.",
+        "42. g4+": "No, there is no checkmate for you, my friend.",
+        "42... hxg4 43. fxg4+ Kf4 44. Bd6+ Kf3": "Now Black has mate in one - either Rh1#, Qb2#, or Qa2#. White can't prevent all three, so ... he resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/power-of-a-passed-pawn?gm=47475",
+    "gameName": "Power of a Passed Pawn",
+    "players": "kleist  vs. dsfei ",
+    "opening": "Caro-Kann (B13), Panov-Botvinnik attack"
+}

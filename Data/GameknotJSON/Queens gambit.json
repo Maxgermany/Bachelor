@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "THE QUEENS GAMBIT. Start with KP4.",
+        "1... e5": "if they respond with this then i recommend using the queens gambit on them. read on to find out how.",
+        "2. Qh5": "this is the beginning of the queens gambit it is a risky but good move. if they move pawn G7 to G6 thin take pawn E5 with the queen and you have affectively forked their rook.",
+        "2... Nc6": "this is one of the correct counters for the queens gambit. you can also move the bishop or pawn to D6. Or move the queen to E7. The porpoise of these moves are to defend the pawn on E5. ",
+        "3. Bc4": "If they do this then they leave the threat of checkmate. You need to back up the pawn on F7.",
+        "3... b6": "if you fail to do this as demonstrated...",
+        "4. Qxf7#": "CHECKMATE!"
+    },
+    "url": "https://gameknot.com/annotation.pl/queens-gambit?gm=25045",
+    "gameName": "Queens gambit",
+    "players": "Chazwazeld (999999999) vs. I am bad at chess (1)",
+    "opening": "KP (C20), Patzer opening"
+}

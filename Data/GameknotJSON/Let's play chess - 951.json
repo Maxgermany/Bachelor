@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3": "Sicilian, closed. \nThis is my way of avoiding theory lines I don't know good enough.",
+        "2... Nc6 3. g3 d6 4. Bg2 e5": "?!\nThe main line is: 4.Bg2 g6 5.d3 Bg7 and now 6.Le3!? or f4.\ne5 tries to control the center, especially the f-pawn, but it also creates weaknesses on the white squares like d5.",
+        "5. Nge2": "Supporting the f4-push",
+        "5... Nf6": "After 5... g6 6.d3 Bg7 we would have reached the 'Botvinnik Variation'.",
+        "6. O-O Be7 7. d3 h6": "?!\nThere is no threat provoking h6. \n7... 0-0 8.f4 Rb8 with an equal game.  ",
+        "8. f4 Bg4 9. h3 Bxe2 10. Qxe2 Nd4": "?! \nI think finishing the development by 10... 0-0 would have been more precise.",
+        "11. Qf2 exf4 12. Bxf4 a6": "Again 0-0 would have been better.",
+        "13. b4": "13.e5!? would have been good, too.",
+        "13... b6": "Better than 13... cxb4 14.Qxd4 bxc3 Rab1, but O-O was also ok.",
+        "14. e5 dxe5": "Only move",
+        "15. Bxe5 Ra7 16. Nd5 Nxc2": "?\nFirst mistake.\n16... Nxd5? is also bad: 17.Qxf7  Kd7 18.Bxd5  -\nAgain 0-0!? would have been the best move.",
+        "17. Nxe7 Qxe7 18. Qxc2": "Now it's just a matter of technique",
+        "18... O-O": "Taking the Bishop loses the Queen, but it wouldn't be much worse.",
+        "19. Bxf6": "Now I start to break black's pawn structure to attack the king",
+        "19... gxf6 20. bxc5": "Without Queens the white advantage rises.",
+        "20... bxc5": "Right decision",
+        "21. Rae1": "One attacker more at the king's side.",
+        "21... Qc7 22. Rf4 Qd6 23. d4 cxd4 24. Qf5 d3 25. Rg4+ Kh8 26. Be4": "It's over",
+        "26... h5 27. Qxh5#": "Although there was a Elo-difference of about 100 points, black didn't make many mistakes. You can see that it's very difficult to stop the white figures when the king side attack is already started.\nThe aim of Black should be to stop White's attempts to attack or to build up a counterattack at the queen side.\n\nI hope you enjoyed the game. Questions or comments are welcome."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=17371",
+    "gameName": "Let's play chess",
+    "players": "theskandinavien (1721) vs. sonmanc (1594)",
+    "opening": "Sicilian (B24), closed"
+}

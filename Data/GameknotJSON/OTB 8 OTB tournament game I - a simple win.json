@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nf6 5. e5 Nd5 6. Bc4 Nb4 7. Qa4+": "This seems to win the knight. However, Qa4+!? doesn\u2019t due to N8c6!! and d5 fails to Nxd5.",
+        "7... b5": "? This just loses a pawn!",
+        "8. Qxb5+": "Now this wins a knight because the white queen is guarding d5!",
+        "8... Nb8c6 9. d5": "!",
+        "9... Bd7": "Better was Rb8",
+        "10. dxc6 Bxc6 11. Qxb4 Rb8 12. Qd2 e6 13. Nf3 Bc5 14. O-O O-O 15. Qf4 h6 16. Qg3 f6 17. Bxh6": "Threatening mate easily. This is usually spotted, however Arjun didn\u2019t!",
+        "17... fxe5": "???????????",
+        "18. Qxg7#": "Mate! I won an easy tournament game. I played 3 more games. Being the highest rated player in the tournament, I was favoured to win and played 3 more games. Let\u2019s see if I won..."
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-8-otb-tournament-game-i-a-simple-win?gm=66158",
+    "gameName": "OTB 8: OTB tournament game I - a simple win",
+    "players": "Eric (white) vs. Arjun (black)",
+    "opening": "QGD (D06), Marshall defence"
+}

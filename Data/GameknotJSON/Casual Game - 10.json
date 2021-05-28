@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Never a bad choice.",
+        "1... c6": "Matveeva decides against the Classical response.",
+        "2. d3": "Very conservative. The usual reply is to advance this Pawn TWO squares and form an ideal center.",
+        "2... d5": "Matveeva proceeds as planned.",
+        "3. Nd2": "Because of the timid second move, 3 N-QB3 is no longer possible, as 3... P-Q5 would drive the Knight from its post.",
+        "3... Nf6": "Matveeva develops the Knight to its natural square.",
+        "4. Ngf3": "The natural post.",
+        "4... Bg4": "Matveeva develops aggressively, in contrast to Shafranska's overly timid approach.",
+        "5. g3": "I'm guessing this was intended as a prelude to fianchettoing the KB. However, it weakens the pinned Knight by depriving it of Pawn protection.",
+        "5... dxe4": "Matveeva exploits the error by adding pressure to the helpless Knight.",
+        "6. h3": "Counterattacking the Bishop. But....",
+        "6... Bxf3": "...this move now wins a piece. Shafranska resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game?gm=33599",
+    "gameName": "Casual Game",
+    "players": "Shafranska  vs. Matveeva ",
+    "opening": "Caro-Kann (B10), closed (Breyer) variation"
+}

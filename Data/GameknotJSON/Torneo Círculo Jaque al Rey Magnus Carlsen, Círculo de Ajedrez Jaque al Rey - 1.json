@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e6 2. f4 c5 3. Nf3 Nc6 4. c3 Nf6 5. d3 d5 6. e5 Nd7 7. d4 Be7": "Estamos en una posici\u00f3n t\u00edpica de una Defensa Francesa.\n",
+        "8. Be3 Qb6 9. b3": "Alternative variation: [Parece mejor] 9. Qd2 [desarrollando una pieza sin debilitar la estructura de peones.]\n",
+        "9... cxd4 10. cxd4 f6": "Alternative variation: [Es interesante] 10... Bb4+\n",
+        "11. Nbd2": "[%csl Re3] [%cal Rb6e3] Las blancas no ven el golpe t\u00e1ctico sobre el alfil de e3.\nAlternative variation: [Es mejor] 11. Qd2 [evitando el siguiente conflicto.]\n",
+        "11... fxe5 12. fxe5 Ndxe5 13. Nxe5 Nxe5 14. Qh5+ Ng6": "Desperdiciando lo cosechado hasta entonces. Rodriguez omiti\u00f3 la jugada 14...Cf7, que le da clara ventaja. Ahora el primer bando recupera el pe\u00f3n.\n",
+        "15. Bd3 O-O": "Alternative variation: [La otra opci\u00f3n es entregar el pe\u00f3n de e5, pero en el momento el negro se inclin\u00f3 por jugar con las damas en el tablero y evalu\u00f3 como d\u00e9bil la variante con] 15... e5 16. Bxg6+ Qxg6 17. Qxg6+ hxg6 18. dxe5 Rh5\n",
+        "16. Bxg6 hxg6 17. Qxg6": "Las blancas recuperan el pe\u00f3n pero la posici\u00f3n es complicada. El problema radica en el rey, que tiene imposibilitado el enroque corto. A su vez, intentar enrocarse en el ala dama de poco sirve para mejorar la seguridad del mismo.\n",
+        "17... Bd7": "Conecta las torres.\n",
+        "18. Rf1": "Alternative variation: [No funciona] 18. Nf3 [por] Bb4+\n",
+        "18... Bh4+": "Seg\u00fan Fritz, es la mejor jugada.\n",
+        "19. g3": "Alternative variation: [Si] 19. Kd1 Rxf1+ 20. Nxf1 Bf6 21. Qg4 Qb5 22. Nd2 e5 [ con clara ventaja.]\n",
+        "19... Bf6 20. Nf3": "Alternative variation: [Si] 20. Qg4 Qc6 [con idea de Dc3.]\n",
+        "20... Qb4+": "Alternative variation: [?Buscando tablas? Lo mejor era] 20... e5\n",
+        "21. Bd2 Qb6 22. Bc3": "Era mejor buscar el empate. Igualmente, en caso de 22. Ae3, seguramente el negro estaba pensando en evitar la repetici\u00f3n con otra jugada.\n",
+        "22... Rac8 23. Kd2": "Alternative variation: [ Si] 23. Rc1 [est\u00e1 el sacrificio de todos modos:] Rxc3 24. Rxc3 Qb4 25. Qd3 (25. Kd2 Bxd4) 25... Rc8 26. Kd2 Bb5 [ganando.]\n",
+        "23... Rxc3 24. Kxc3 Rc8+": "Alternative variation: 24... Bb5 [(-1,59), seg\u00fan Fritz, 24...Tc8+ s\u00f3lo lleva al empate.]\n",
+        "25. Kd2": "Alternative variation: 25. Kb2 [Momento dif\u00edcil, 25. Rb2 es tablas, pero es complicado apreciar las diferencias.] Bxd4+ 26. Nxd4 Qxd4+ 27. Ka3 [y no hay ninguna jugada productiva porque las blancas est\u00e1n a un movimiento de dar perpetuo con Df7-Dh5.]\n",
+        "25... Bxd4 26. Nxd4 Qxd4+": "Blancas abandonan. Si 27. Dd3 Db2+ y hay perdida de material inevitable. Y si 27. Re2 Ab5+ 28. Rf3 Tf8+ 29. Rg2 Axf1+ 30. Txf1 Dd2+ 31. Rg1 De3+ 32. Rg2 De2+ ganando.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/torneo-c-rculo-jaque-al-rey-magnus-carlsen-c-rculo-de-ajedrez-jaque-al-rey?gm=54872",
+    "gameName": "Torneo C\u00edrculo Jaque al Rey Magnus Carlsen, C\u00edrculo de Ajedrez Jaque al Rey",
+    "players": "Rodriguez, Hugo  vs. Galv\u00e1n, Christian ",
+    "opening": "French (C00), Labourdonnais variation"
+}

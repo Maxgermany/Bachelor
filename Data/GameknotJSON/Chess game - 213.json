@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. g3 e5 2. Bg2": "?!",
+        "2... d5 3. b3": "I don't know what's goin' on ... so I started to control the center",
+        "3... c5 4. Bb2 Nc6 5. d3 Bd6 6. e4 dxe4 7. Bxe4 Nf6 8. Nf3 Bg4 9. Nbd2 Qa5": "Good move I think",
+        "10. O-O O-O-O 11. Nc4 Qb4 12. Ncxe5": "It was a blitz game and I did not know the opponents rating and I afraid of a strong move ,",
+        "12... Bxe5 13. Bxe5 Nxe5": "exchanges . a good sacrifice possibility !",
+        "14. Kg2": "and",
+        "14... Qxe4": "I could make Nxe4 . but I decided to make some more exchanges .",
+        "15. dxe4 Rxd1 16. Raxd1 Bxf3+ 17. Kg1 Bxd1 18. Rxd1 Nxe4": "and white resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=31869",
+    "gameName": "Chess game",
+    "players": "ratty789 (?) vs. Ridation (1500)",
+    "opening": "Benko's opening (A00), reversed Alekhine"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 e6 3. Bf4": "My favorite.",
+        "3... f5": "Interesting enough, I have to play carefully. ",
+        "4. Nbd2 Nf6 5. h3": "A loss of time, but I want to provide a square for my bishop on h2. ",
+        "5... c6": "c5 would have been better, but not crushing... yet. ",
+        "6. e3 Be7 7. c4": "I assumed he won't play Bb4 now, but without his Be7 I wouldn't have played c4, leaving him Bb4. I'm not sure it would have been good for him even now. ",
+        "7... Nbd7 8. c5": "I expected here b6, etc, but...",
+        "8... O-O": "Now, I have a very good move. I had it the move before, but now it is better, because black is closed on the queenside, except for... let's see...",
+        "9. Ng5": "Attacking e6. Now, it is funny to see that the only way for black to defend is Nb8. Nobody wants to play it, so he tries a costly adventure.",
+        "9... Ne4 10. Nxe6": "I will suffer from the exchange, but he has to save his queen first. ",
+        "10... Qa5": "Qe8 and it is a plain exchange down. Better to attack. He's right. ",
+        "11. Bc7": "I started a queen chase. NxN is not possible. ",
+        "11... Qb4": "The queen is already unconfortable here. Note that retreat was not possible. But, under normal conditions, the queen is not trapped: it threats b2, and the knight is pinned. NxN, if I leave him, will exchange it, and he will save the rook. But...",
+        "12. a3 Qxb2": "A poisoned pawn. Qc3 maybe was better, since it doesn't unpin the knight (the key). If Rc1, Qxa3, and otherwise, I must offer a queen's exchange, giving him tempo to save the rook. ",
+        "13. Nxe4 fxe4 14. Nxf8": "Ok, the rook is mine. ",
+        "14... Qc3+": "Very good, he takes my castling and cramps me. ",
+        "15. Ke2": "I still cannot play Rc1, but now I am not worried: a queen's exchange is in my favour, so Qc1 will work. If Qd3+, Ke1 and... what? Black has no other pieces to support his attack. ",
+        "15... Qc4+": "A deadly overlook. ",
+        "16. Kd2": "Really, really unusual. The king helps trapping a queen! No way to save it. QxB, RxQ, KxN leaves white with overwhelming material advantage. I cannot blame him for not seeing this. All started with Nd7, that left e6 unprotected. ",
+        "16... Qb3 17. Qxb3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/an-unusual-queen-trap?gm=39830",
+    "gameName": "An unusual queen trap",
+    "players": "damalfi  vs. kaspapicachov ",
+    "opening": "Queen's pawn game (D02)"
+}

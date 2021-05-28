@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Great, QP openings.  I decided to try a Kings Indian, just to see how it went.",
+        "1... Nf6 2. Nf3 g6": "Looking it up later, I should have tried a Queen's Indian instead (it becomes apparent during the game too, the black bishop is practically useless)",
+        "3. Bf4 Bg7 4. Nbd2 O-O 5. h3 e6 6. c4 d5": "Fighting for the center just a bit",
+        "7. e3 Nbd7 8. Bd3 c5": "I'm not sure if that was a good idea, but it looked ok at the time.",
+        "9. O-O b6": "This cuts off mobility for my knight.  Probably a bad idea.",
+        "10. Rc1 Qe7 11. e4 Ba6 12. Re1 dxe4 13. Nxe4 cxd4": "I stared at the board for a whole 2 minutes before making this move.   I missed his response completely.  I was extremely disappointed in myself.  I should have simply traded knights with him.  It would have slightly  decreased his presence in the center.",
+        "14. Bd6": "Crap.",
+        "14... Qd8 15. Bxf8 Kxf8 16. Nxd4 Ne5 17. Bf1 Nh5 18. c5 Bxf1 19. Kxf1 Rc8 20. g4": "Attacking, but weakening his kingside.  My queens diagonal is now open.  I attempt to move quickly to exploit.",
+        "20... Nf4 21. Re3 Qh4 22. Qb3 Nxg4": "I was fairly proud of this move at the time.  If he had done 23. hxg4 then 23...Qh1#.  Again, GameKnot spoils me and I didn't look very far down the line at his counter moves.  ",
+        "23. Nxe6+ fxe6 24. Rg3 Nxh3": "I was starting to get low on time.  I did this simply because I thought it could lead to something.  I was wrong.",
+        "25. Rxh3 Qe7": "Retreating, not good.",
+        "26. Rxh7 Kg8 27. Rh3 Rf8 28. cxb6 axb6 29. Qxb6": "And my clock ran out.  For being an opening that I wasn't familiar with, I felt ok about it, if not just a little disappointed."
+    },
+    "url": "https://gameknot.com/annotation.pl/first-game-vs-els_dogger-on-yahoo?gm=13666",
+    "gameName": "First game vs els_dogger on yahoo",
+    "players": "els_dogger (1450) vs. rajsahae (1350)",
+    "opening": "King's Indian (A48), London system"
+}

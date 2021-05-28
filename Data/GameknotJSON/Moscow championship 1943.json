@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4": "the capturing of an e4 pawn leads to the open Rui Lopez variation . Botvinik adtence to try this vriation as probebly  he prerared at home for this contest .",
+        "6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3": "a good alternative is 9.Qe2 with the idea of Re1 with More  pressure on the center .",
+        "9... Bc5": "developing the black DSB on c5 instead of e7 shows aggressive game for the black  .",
+        "10. Nbd2 O-O 11. Bc2 Nxf2": "interesting move , Botvinik shows some courage with this exchange , however this move going to lead a very complicated game in the following of the game .",
+        "12. Rxf2 f6": "good move , the idea of 12.f6! is to open F file for the black Rook and bring more Pisces on the future thrugh this file .",
+        "13. exf6 Qxf6 14. Qf1": "good move , Smyslov feels that something wrong going to happand on the king side , so the idea of 14.Qd1!is to help with the defense ,and the white knight on d2 stays on his position to help the other knight on f3.",
+        "14... Bg4 15. Kh1": "i think 15. Qd3 was better move because of a fork on d5 and h7 pawns which black will have to move 15...Qf5 and after the queens exchange , the endgame will be better for white .",
+        "15... Bxf2 16. Qxf2 Rae8 17. Qg3 Ne5 18. Bd1": "the black Pisces placed well vs the white . and Smyslov  now have to work very hard to block the black attack  , and solve the problem of his development .",
+        "18... Nd3": "18...h5 was much better move , if white plays 19.h4 this will make the blacks LSB more aggressive on g4.",
+        "19. h3": "by this move , white wishes to open an escape sqaure for the white king .",
+        "19... Bh5 20. Bc2 Nf4 21. Ng1": "good move . 21.Ng1!avoids the penetration of the black Rook to e2 and opens for white options of developments for his other Pisces by Ndf3 and Bd2 for example .",
+        "21... c5 22. Ndf3 Ne2 23. Nxe2 Rxe2 24. Bd1": "a natural move like 24.Bd3?! allowed black to continue very strong attack by : 24...Bxf3.25.gxf3-Re1+.26.Qxe1-Qxf3+.27.Kh2-Qxd3. now if 24.Bd1-Bxf3.25.gxf3-Re6.26.Bd2 with the idea of f4 and brig the white  rook to the king side.",
+        "24... Re6 25. Bd2 h6 26. Kh2 Re4": "it was better for black to retreat with the Bishop to g6 and avoid the exchange on h5 26.Ng5!-hxg5.27.Bxh5 and white now in better position .",
+        "27. Ng5 hxg5 28. Bxh5 Re5 29. Bf3 Qe7 30. a4": "good move. after stableing the situation on the king side , white wishes to activete his rook on the queen side, its not a good idea for black play 30...b4 because of 31.cxb4-cxb4.32.Bxb4!",
+        "30... Kh7 31. axb5 axb5 32. Ra7": "good move if 32...Qxa7.33.Qxe5 and the black pawns will fall one by one.",
+        "32... Qd6 33. Bg4": "good move , now white threats to capture the g5 pawn , not 33.Bxg5?-Rxf3.34.gxf3-Re2+!",
+        "33... Rd8 34. Kh1 d4 35. cxd4 cxd4 36. Bf4 Re1+": "if 36...gxf4??-Bf5+and black doesnt have a chance to survive this game .",
+        "37. Qxe1 Qxf4 38. Rd7 Rxd7 39. Bxd7 d3 40. Bg4": "41.Bxb5 was all so bring to victory . the material advantage of white insures the win .",
+        "40... d2 41. Qe2 b4 42. Qd3+ g6 43. Kg1 Kh6 44. b3 Kg7 45. Bf3 Qf7 46. Kf2 Qe6 47. Qe3 Qd6 48. Bd1 Qd5 49. g4 Kh7 50. Ke2": "black resigns . hope you enjoyed the game , thank you ."
+    },
+    "url": "https://gameknot.com/annotation.pl/moscow-championship-1943?gm=45719",
+    "gameName": "Moscow championship 1943",
+    "players": "V.Smyslov  vs. M.Botvinik  ",
+    "opening": "Ruy Lopez (C82), open, Dilworth variation"
+}

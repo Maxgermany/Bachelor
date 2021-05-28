@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. e3": "White heads for the Stonewall.",
+        "2... d5 3. h3": "This is a waste of time.  My Bishop isn't going for f3, it's headed for f5 to trade-off White's only good bishop.",
+        "3... Bf5 4. Nc3": "4...c3 or c4 might have been a better choice.",
+        "4... Nc6 5. Bd3 e6 6. Bxf5 exf5": "I'm already ahead in development and White's dark-squared bishop is out of the game.",
+        "7. f3 g6 8. a3": "White seems to be afraid of pins.  Doesn't he see all the dark-squared holes surrounding his king?  ",
+        "8... Bh6 9. Nge2 Qe7 10. Nf4": "0-1\n\nWhite forgets the pawn on e3 can't re-capture because of the pin on the king.",
+        "10... Bxf4 11. O-O Bxe3+ 12. Bxe3 Qxe3+ 13. Kh1 O-O-O 14. Re1 Qxd4": "When ahead in material, trade-off.",
+        "15. Qc1": "White knows trading is bad but the queen has nowhere good to go.",
+        "15... Rhe8": "Again, when ahead in material, trade-off."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=49985",
+    "gameName": "Let's play chess",
+    "players": "creativen (1400) vs. ravyehoshua (1200)",
+    "opening": "Queen's pawn game (A45)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "...this is one of those games that shows a willingness to give up material for development..part of the learning process and on this occasion it worked out ...but its not always the case...\nI took an offbeat approach to the Sicilian and I am getting a lot of interesting positions with it...",
+        "1... c5 2. Na3": "What the ..? Yes...Na3 is a slightly differing way to stick it to the book worm early..",
+        "2... Nf6 3. e5 Nd5 4. d4": "..pure development in mind...both bishops are loose ...",
+        "4... e6 5. Nf3 Nc6 6. c4": "..white is ahead on development but grabbing space..",
+        "6... Ndb4 7. d5": "..aiming for d6 clamp on the dark bishop..or open up the centre owing to development advantage",
+        "7... Nd4 8. Nxd4 cxd4 9. d6 f6 10. f4": "..trying to support d6..here black gets the run of things with the queen but...",
+        "10... a6 11. Nc2 Nxc2+ 12. Qxc2 fxe5 13. fxe5 Qa5+ 14. Bd2 Qxe5+ 15. Be2 Bxd6 16. Rf1": "..blacks king is stuck in the centre..he is 2 pieces down in development...",
+        "16... Qxh2": "..3 pawns up..? Should white panic...?\n\n",
+        "17. c5 Qh4+ 18. Kd1 Be7": "..not yet..Ra8 and Bc8 are asleep and need 2-3 moves to have any influence..Rh8 can only challenge Rf1",
+        "19. Qc4": "centralise her majesty...",
+        "19... Rf8 20. Kc2": "...RxR favours white",
+        "20... Rxf1 21. Rxf1 Qe4+ 22. Bd3": "..I think black should look at maybe 21..b5 22 cb Rb8 to get some counter play",
+        "22... Qxg2": "..4 pawns up..?!",
+        "23. Qxd4": "..ok 3...",
+        "23... Bf6": "..so whites king is in the middle..I have a strong pawn on c5...and 2 dangerous bishops...ok..what to do..",
+        "24. Rxf6 gxf6 25. Qxf6": "..an exchange and pawns down...gone mad? \nNope..Blacks only active piece is the queen..",
+        "25... d6 26. Qh8+": "..her majesty goes in for some fun",
+        "26... Kd7 27. Qxh7+": "..3 pawns now..",
+        "27... Kd8 28. Be4": "..wait a minute ...oh look black is in trouble if I get to play cxd6...where does the queen go...?",
+        "28... Qf2 29. cxd6 Qc5+ 30. Kb1": "...wait a second..black is lost..he cant take the pawn..the bishops will pick up the queen by force or mate..eg 30..Qxd6 31. Bg5+ 32.Bg6+ 33. Bh6#",
+        "30... Qg1+ 31. Bc1": "..black has to give up the queen to stay in the game !\nMy opponent send a message mocking his queenside development...\n\nSo on this occassion is shows that giving up material for development worked..but I think you need to ensure the tempii you gain is sufficient to seriously wound the opponents position...."
+    },
+    "url": "https://gameknot.com/annotation.pl/66th-gk-tournament?gm=29611",
+    "gameName": "66th GK tournament",
+    "players": "shambobala (1744) vs. fradec (1725)",
+    "opening": "Sicilian defence (B20)"
+}

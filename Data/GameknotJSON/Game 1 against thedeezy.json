@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5": "Both compete for center control.",
+        "2. Nf3": "I was torn between Nf6, Nc6, d6, and d5. d5 seemed good; I would equalize if he took either pawn. Nc6 seemed to defensive -- not my playing style, though I have played it many times. d6 is perhaps the most passive at all, and blocks my Bishop. Nf6, however, seemed like it would be fun (it was a blitz game anyway :P) and aggressive...nice!",
+        "2... Nf6 3. Bc4": "Targeting f7.",
+        "3... d5": "Offense, offense, offense!",
+        "4. exd5 Nxd5": "At the cost of a pawn.",
+        "5. Nxe5 Be6": "But instead of forcing his Knight away, I play Be6, because I did not like the possibility of a fork on the f7 square.",
+        "6. O-O": "I think that white should be pushing pawns.",
+        "6... Bd6": "Now I will force out his Knight!",
+        "7. Nf3": "Defending h2.",
+        "7... Nc6": "Last minor piece.",
+        "8. d3": "Too slow.",
+        "8... Qf6 9. Re1": "Pinning the Bishop.",
+        "9... O-O-O": "Look at the development: white is castled, has a Knight out, and is up a pawn. Black has all of his minor pieces out, his King is castled, but he is down a pawn. As we all know, especially in blitz games, a superior lead in development often bests a slight material advantage. Now, white will scramble to catch up.",
+        "10. c3": "Develop, white!",
+        "10... Na5": "Going for undisputed center control.",
+        "11. Bg5": "Did not see this! Now I will lose a Rook.",
+        "11... Qg6": "But I pin the g2 pawn in hopes of mating eventually.",
+        "12. Bxd8 Kxd8 13. Bxd5": "Trade when you're up.",
+        "13... Bxd5 14. Nh4 Qh6": "Pinning the Knight.",
+        "15. Qg4": "This is one of the two losing moves.",
+        "15... Re8": "Take it, please!",
+        "16. Rxe8+": "Yes! the final losing move.",
+        "16... Kxe8 17. c4": "?? I guess he didn't see the mate in two.",
+        "17... Qc1+": "And he resigns. Good game and thanks, deezy!"
+    },
+    "url": "https://gameknot.com/annotation.pl/game-1-against-thedeezy?gm=40545",
+    "gameName": "Game 1 against thedeezy",
+    "players": "thedeezy  vs. theancientbeast ",
+    "opening": "Petrov (C42), Italian variation"
+}

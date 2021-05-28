@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "3. Bb5 - standard moves of The Ruy Lopez.",
+        "3... Nf6": "3. ......... Nf6 - ignores the threat of the exchange on c6 and attacks the e pawn.",
+        "4. O-O Nxe4 5. d4 exd4 6. Re1": "6. Re1 - two pawns have been sacrificed - this move tries to win a piece.  I succeed in doing this but at quite a cost and I end up falling behind in development in trying to win this piece.",
+        "6... f5 7. Nxd4 Nxd4 8. Qxd4 Qe7 9. f3": "9. f3 - attacks the pinned knight but black has a pin of his own.",
+        "9... Qc5 10. Qxc5 Bxc5+ 11. Kh1": "11. Kh1 - in hindsight this may have been a bad move as Henry is stuck in the corner for virtually the rest of the game and will get in the way of his army.  Perhaps Kf1 was preferable.",
+        "11... c6 12. Bd2 d5 13. fxe4 fxe4 14. Bf1": "14. Bf1 - I try to get my pieces out but with that black pawn chain I think I am going to get badly cramped.",
+        "14... Rf8 15. Nc3 Bf5": "15. .......... Bf5 - black is fully developed and those bishops not to mention his rooks are going to be very dangerous indeed.",
+        "16. h3 Bg6 17. Re2 O-O-O 18. g4": "18. g4? - I think this may be the loser here, perhaps g3 was better, at least that would have allowed me to play Bg2 in short order and get out of this bind.",
+        "18... h5 19. Kg2 Rf3 20. Na4 Bd6 21. Be1": "21. Be1 - I am getting more and more bottled up.",
+        "21... Rdf8 22. Bf2 e3 23. Bxe3 Rg3+ 24. Kh1 Rxf1+": "24. .......... Rxf1 !!! - this brilliancy kills all resistance and will lead to ruinous loss of material due to the checks that black has up his sleeve.  This was a dreadful experience.  How I got into this mess I will never know!  Maybe you the jury can help.  Cheers.  Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/memorialis-squeezed-out?gm=17282",
+    "gameName": "Memorialis - Squeezed Out!",
+    "players": "jstevens1 (1629) vs. cbarracuda (1390)",
+    "opening": "Ruy Lopez (C67), open Berlin defence, l'Hermet variation"
+}

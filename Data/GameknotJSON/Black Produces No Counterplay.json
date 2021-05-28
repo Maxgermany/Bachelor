@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. Nf3 b6": "I have rarely played against this response. I was interested to see what kind of opening would follow. ",
+        "2. Nc3": "White Knight Tango. Rare but practical.",
+        "2... Bb7 3. e4 d6 4. d4 g6 5. Bd3": "Bc4 might have been better, but I wanted my knight on c3 to be free of guarding the pawn on e4.",
+        "5... Bg7 6. Be3": "A classical and basic formation that has issues. But in the case of black's set up, it is not bad.",
+        "6... Nh6": "I guess black was scared of e5. Maybe e6 then Ne7 was better.",
+        "7. Qd2": "Immediately attacking and freeing my rook on a1.",
+        "7... O-O": "Absolute blunder.",
+        "8. Bxh6 Bxh6 9. Qxh6 Na6": "This is getting sad.",
+        "10. Ng5": "Mate in one threat.",
+        "10... f6": "Nevermind.",
+        "11. Qxh7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/black-produces-no-counterplay?gm=43060",
+    "gameName": "Black Produces No Counterplay",
+    "players": "klacsanzky (1632) vs. tobita (1309)",
+    "opening": "Reti opening (A04)"
+}

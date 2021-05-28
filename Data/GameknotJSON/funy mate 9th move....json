@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. e4": "i dont know what kind of gambit is this, i was borried after a few loosing games and just whanted to have some fun ...",
+        "2... dxe4 3. f3": "Qxf3 then Bc4 treat f7",
+        "3... exf3 4. Qxf3 Bd7": "this was wrong black move, ignoring the treat coming on f7",
+        "5. Bc4 e6": "yes but i will castle soon and treat again f7",
+        "6. Ne2 Bc6": "was not expected, good move !",
+        "7. d5": "but not enought",
+        "7... exd5": "i just need to castle, doesnt matter the bishop\r\n",
+        "8. O-O dxc4": "This is a BBB : bloody black blunder",
+        "9. Qxf7#": "he he he"
+    },
+    "url": "https://gameknot.com/annotation.pl/funy-mate-9th-move?gm=47201",
+    "gameName": "funy mate 9th move...",
+    "players": "31415 (1219) vs. manokel (1200)",
+    "opening": "Blackmar gambit (D00)"
+}

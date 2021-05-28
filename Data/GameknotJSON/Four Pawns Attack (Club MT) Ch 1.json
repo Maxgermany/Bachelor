@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "\"A weapon you don't know how to use belongs to your enemy.\"  So it is in this game.  White builds up an imposing centre that Black brings at once under pressure.  Unable to find time to develop his bishops, White is forced to watch the wholesale destruction of his centre and the hunting down of his King.",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7": "Also playable here is 3...d5: the Grunfeld Defence.",
+        "4. e4 d6 5. f4": "More usual is 5.Nf3, and 5.f3 (Samisch) used to be popular and aggressive also.  Also playable is the peculiar-looking 5.Ne2, the Kramer Attack.",
+        "5... O-O": "This was the starting position accepted by the tournament players.",
+        "6. Nf3": "The most normal line, as you might expect.  But 6.Be2 is also playable.",
+        "6... c5": "With this move Black makes an early strike against the centre.  In my view the situation calls for it so strongly it is hard to contemplate playing anything else.  Later, id=easy19 was to try the little-known 6...b5 against me.",
+        "7. h3": "To keep a Black minor piece out of g4 - understandably as g4 is a favorite spot for a bishop or knight in this opening.  But really 7.d5 is usual and best here.",
+        "7... Nh5": "(!) Discovering a heap of pressure against the d4-square.  The weakness of the e1-h4 diagonal hasn't escaped Black's eye, either, especially the g3-square.",
+        "8. Ne2": "Guarding the g3-square.  But instead 8.dxc5 was possible: 8...Ng3 9.Rg1 Bxc3+! 10.bxc3 Nxe4 11.cxd6 exd6 12.Be3 Re8 13.Qe2 Bf5 with an evenish game.  Both sides would have been left with weaknesses to be exploited.  Also 8.Be3!? exd4 9.Bxd4 e5  10.fxe5 Ng3  11.Rg1 Nc6  12.Bf2 Nxf1  13.exd6 Be6  14.Nd5 f5.  ",
+        "8... cxd4 9. Nfxd4": "White runs the risk of neglecting his development.  Almost at once White finds himself too busy to bring his bishops into action.",
+        "9... e5": "(!) This move and its sequel show the downside of the Four Pawns attack.  Once Black grabs the initiative he can bring a crossfire to bear upon White's central salient strong enough to obliterate it completely.",
+        "10. Nb3": "(?!) More solid was 10.Nf3, but Black would still have had a tangible advantage: 10.Nf3 exf4  [a] 11.Bd2 Re8  12.Qc2 f5;\r\n[b] 11.Nxf4 Ng3  12.Rg1 Re8;  [c] 11.Bxf4 Nxf4 12.Nxf4 Bxb2 13.Rb1 Qa5ch 14.Kf2 Bg7",
+        "10... exf4 11. Rb1": "To free the c1-Bishop.  Instead 11.Qc2 Qh4+  12.Kd1 Nc6 threatens 13...Nb4",
+        "11... Qh4+": "(!) ",
+        "12. Kd2": "Forced.",
+        "12... Nc6": "Having gained much with the pieces already in play, Black feels it is time to bring in the reinforcements.  Observe that White can mobilise neither bishop right now, which leaves his rooks as much in limbo.",
+        "13. Qe1": "Sensibly enough seeking relief in exchanges, not that there would have been much respite.  13...Qxe1+  14.Kxe1 Re8  15.Kf2 Rxe4 etc.  But Black prefers to keep the Queens on.",
+        "13... Qe7": "(!?)",
+        "14. Kc2": "(??)  Desperate to escape, the White King lands up in the Tower.  Instead. 14.Nc3, defending the e-pawn had to be tried, for what it was worth.",
+        "14... Qxe4+ 15. Kd1 Bf5": "Letting the b1-rook live.  This bishop move is as good as capturing at once on b1, and retains that capture as a threat.  But it also threatens mate at c2.",
+        "16. Qc3": "(?) Loses the Queen.  I surmise that White wanted to protect the c-pawn as well, and simply overlooked the dark-square Bishop lurking away there at g7.  But after 16.Qd2 Black would probably have quietly taken the rook at b1.",
+        "16... Bxc3 17. Nxc3 Qc2+ 18. Ke1 Rae8+": "(0-1) Black's attack continues unabated and he is very nearly a whole queen ahead.  White gives it up.  This miniature shows what can happen if White neglects development in this line.  His centre was destroyed and became Black's exclusive property..."
+    },
+    "url": "https://gameknot.com/annotation.pl/four-pawns-attack-club-mt-ch-1?gm=33286",
+    "gameName": "Four Pawns Attack (Club MT) Ch 1",
+    "players": "thegoodbishop (1305) vs. ionadowman (2099)",
+    "opening": "King's Indian (E76), Four pawns attack, dynamic line"
+}

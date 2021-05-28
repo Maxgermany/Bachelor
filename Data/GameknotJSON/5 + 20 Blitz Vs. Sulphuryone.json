@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Bb4": "MY favorite variation of the french defense.",
+        "4. exd5 exd5 5. Qf3": "This move is probably indicative of me being underestimated. (Probably because my name is misspelled =).",
+        "5... Nf6 6. Bb5+": "Same with this one.  This move provokes c6 and wastes a valuble tempo.",
+        "6... c6 7. Bd3": "This should have been played outright.",
+        "7... O-O 8. Bg5 Bg4": "Pins on g4 and g5 are common in the french game.  Though my Bg4 isn't pinning the queen it does force the queen to move.  If white initiates an exchange then black gains a rook for the bishop.",
+        "9. Qg3": "Another tempo down, and poorly placed here due to Nf6's lust for the e4 square.",
+        "9... Re8+": "Claims the e file and continues to prepare Ne4.",
+        "10. Nge2 Bxe2 11. Bxe2": "I didn't want to reposition my Bg4 so I traded it off for one of the king's defenders.",
+        "11... Qe7": "Gives me the small threat of Qxe2.",
+        "12. O-O-O": "Castles queenside.",
+        "12... Bxc3": "Removes the king's knight defender.  Again, I didn't want to waste time repositioning the bishop.",
+        "13. bxc3": "This should have been done with the queen.  This pawn capture weakens the king's protection severely.  This was probably played because my opponent thought I would take Be2 (bad idea because he would have played Bxf6 and I would have had to honor his threat of checkmate thus losing the initiative back to him.",
+        "13... Nbd7": "Obvious move and a strong one at that.  It simultaneously frees up my queen, relieves the pressure on Nf6, and also activates the dormant Qxe2 threat.",
+        "14. Rhe1": "Stops the Qxe2 threat but does nothing to stop the real threat.",
+        "14... Qa3+": "Gains a tempo and is a wonderful move in conjunction with my next one.",
+        "15. Kb1": "Unfortunately forced.",
+        "15... Ne4": "The decisive blow.  Nf6's finally acts on it's lust for the center of the board's power and glory.  Aron Nimzowitsch would be so proud of my outposted knight.  =).  White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/5-20-blitz-vs-sulphuryone?gm=39466",
+    "gameName": "5 + 20 Blitz Vs. Sulphuryone",
+    "players": "Sulphuryone (2007) vs. Me (1412)",
+    "opening": "French (C15), Winawer (Nimzovich) variation"
+}

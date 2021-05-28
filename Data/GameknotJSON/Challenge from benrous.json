@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4": "My proudest game to date.  After eleven moves I was able to offer a sacrifice that was strong enough to be refused.\n\nA privilege to play against sycilmathai once again.  ",
+        "1... f5 2. c4 e6": "Dutch defence.  I am already out of my element.",
+        "3. Nf3 Nf6 4. Nc3 Be7 5. e3": "I remember being without the foggiest idea how control of the center would shape up.  I just wanted to give my LSB a lane.",
+        "5... b6 6. Bd3 Bb7 7. Bd2": "With this move we leave the database.  I have been told by players much better than me to castle early, but in an effort to maintain the flexibility to castle long, I usually find myself castling as late as possible.",
+        "7... c5 8. O-O O-O 9. Re1": "In this situation, the character of the Dutch seems to be quiet--nine moves without any direct threats.  Perhaps this position was a battle for territory.  In fact I was simply trying not to make a mistake.",
+        "9... d5": "This move might have lost the game.  I immediately started thinking about uniting my queen and LSB on the a2-g8 diagonal.  (10....dxc would give me a dynamite LSB with 11. Bxc4, and 12. Qb3 would allow this pair to go marauding.)\n\nThe backward e pawn will invite my sacrifice offer three moves later.",
+        "10. Ng5": "Going after the backward pawn.\nI remember that at this point sycilmathai wrote \"You're messing up my plan!\"  The plan in question must have involved opening up the center for his LSB (perhaps exchanging both pawns under threat) and revealing an attack on my d pawn.  But here I was able to take initiative.",
+        "10... Qd7": "Obliged to defend the pawn.  The only other option, the counter-developmental Bc8, may actually have been better in this position, however.",
+        "11. Qb3": "Step one in the plot to own the diagonal.  I was still thinking about somehow getting my bishop to c4.",
+        "11... Nc6": "Doesn't solve the problem of the backward pawn.",
+        "12. Nxe6": "With threat of cxd, with nasty forking and discovered-check threats.  Hooray for my first sound sac.",
+        "12... Rf7": "I took this move as a great compliment.  (Sycilmathai actually paid me a compliment in words, as well, when he made this move.)  Now it looks like I might be able to play for a rook-king skewer.\n\nWas taking better?  Many scenarios exist, but one is 12...Qxe6 13.cxd5 Nxd5 14. Bc4 Na5  15. Bxd5 Bxd5 16. Qxd5 Qxd5 17. Nxd5 leaving white up only the one pawn with position roughly equal.",
+        "13. cxd5": "I never dreamed I'd get the chance to offer that Knight pawn protection, but it was a nice (but short-lived) treat.",
+        "13... Na5": "Considered offering a queen trade with Q a4 or B5, but I wanted to keep my attack going,",
+        "14. Qc2": "so I gave up on the idea of revealed attacks and settled for the B1-h7 diagonal.",
+        "14... cxd4": "This exchange isolated a white pawn on the d file, but also gave range to my rook and DSB.  Perhaps Nxd5 was better here, or even g6?  I considered g6 a possibility, and thought of offering a second sacrifice:  15. Bxf5 gxf5 16. Qxf5, getting two pawns for the bishop, exposing the king, and protecting the passer, but the position gets a little over-extended for white.",
+        "15. exd4 Nxd5": "And another pawn trade, but white's attack lines keep opening up.",
+        "16. Bxf5 h6": "16....Rxf5 Qxf5 shuts down the attack but leaves black down two pawns and a rook for a bishop; 16...Nf6 17. Ng5 Qc6 offers a countering mate-threat, and I have not found a continuous forced mate from here, but white should be able to play the position to further advantage.\n",
+        "17. Nxg7": "Sycilmathai paid me the ultimate compliment on my chess game thus far.\n\nIn the end it looks like 9....d5 was a losing proposition.  Thanks for the game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-benrous?gm=19479",
+    "gameName": "Challenge from benrous",
+    "players": "benrous (1200) vs. sycilmathai (1548)",
+    "opening": "Dutch defence (A84)"
+}

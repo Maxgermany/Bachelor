@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d6 2. e4 Nf6 3. Bd3 g6 4. f4 Bg7 5. Nf3 O-O": "Pirc Defense: White is playing a kind of Austrian Attack; Bd3 is usually delayed in favor of Nf3.",
+        "6. h4": "6. 0-0= or Nc3 is more common.  6. h4 is a departure from book and not in the Gameknot database.",
+        "6... c5 7. c3 cxd4 8. cxd4 Nh5 9. Nc3 Bg4 10. Be3 Qa5": "10...Nc6 11.d5 Nb4 12.0-0 slight advantage to Black because he is about to have the Bishop pair",
+        "11. Qd2 Nc6 12. Bc2 Bxf3": "12...Nb4 13.0-0 Nxc2 14. Qxc2 and Black keeps the Bishop pair",
+        "13. gxf3": "White has the Bishop pair.",
+        "13... Nb4 14. Kf2": "14. Bb3 keeps it equal",
+        "14... Nxc2 15. Qxc2 Rac8 16. Qd2 Rfd8 17. Rhg1 e6 18. Rg5 Qb4": "18...d5! 19.f5 exf5 20.exf5 Bf6 21. fxg6 fxg6 and Black has the advantage",
+        "19. Rb5": "White threatens Rxb7 but position is equal.  ",
+        "19... Qc4 20. Rxb7 d5 21. e5 Qa6 22. Rb4 Bf8 23. Ra4 Qb6 24. Rg1 Rd7": "Black mobilizes the Rooks and has the advantage for the first time",
+        "25. Qe2": "White is planning Qa6 to blunt Black's attack.",
+        "25... Rdc7": "Rb7 is stronger.",
+        "26. Qd3": "Qd3??  26. f5=",
+        "26... Bb4": "26...Qxb2+ and Black is winning 27. Ne2 Rc2 28. Rxa7 R8c3",
+        "27. Ne2 Rc7c2": "27...Be7 is better, threatening Bxh4+",
+        "28. b3": "b3?? 28. f5 is better",
+        "28... Rc8c3": "Black has a strong attack.",
+        "29. Qa6 Qxa6": "29...Qd8 and White has to defend with Rg5",
+        "30. Rxa6 Rc3c7 31. Ra4": "31. f5 exf5 32. f4 Be7=",
+        "31... a5 32. a3": "32...Be7 33. Rxa5 and Black is still stronger despite losing the pawn but ran out of time."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz?gm=59594",
+    "gameName": "Gameknot Blitz",
+    "players": "manewman  vs. rameau ",
+    "opening": "Queen's Pawn (A41)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5 2. d4 g6 3. Nf3 Bg7": "the Hungarian variation of the Sicilian: I will stick to this, until I die...",
+        "4. dxc5": "testing Blacks' bluff: probably best...",
+        "4... Qa5+": "forced, by now...",
+        "5. c3": "this is surely not the best for White: still haven't figured out what is; I rarely get to play this variation with White...",
+        "5... Qxc5": "also forced...",
+        "6. Bd3 e6": "following the Hungarian...",
+        "7. O-O Ne7 8. Be3": "it has to come at some point...",
+        "8... Qc7 9. Qd2": "preparing Bh6: always a dead end...",
+        "9... O-O 10. Bh6 Nbc6": "keep on developing...",
+        "11. Bxg7 Kxg7 12. c4": "not very impressing: but also White knows, that d7-d5 is the issue here...",
+        "12... d5": "so there it is...",
+        "13. Nc3": "more to the rescue...",
+        "13... Rd8": "same, but more impressive...",
+        "14. exd5": "the exchange is forced: otherwise dxc4, or even d5-d4...",
+        "14... exd5 15. cxd5 Nxd5": "Nb5, is met with Qa5...",
+        "16. Nxd5 Rxd5": "creating a nasty pin...",
+        "17. Qc3+ f6": "no sweat..",
+        "18. Bc4": "very careless...",
+        "18... Rc5": "this time, the pin is costly...",
+        "19. Qd3": "and after this, the pin becomes lethal...",
+        "19... Nb4": "and Black resigns: the clock remained at 4:31 for Black, and 2:34 for White; in minutes, that is..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-having-a-party?gm=64377",
+    "gameName": "Fierce Queen having a party...",
+    "players": "polol99 (UR) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B21), Smith-Morra gambit"
+}

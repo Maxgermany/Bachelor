@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "King's Gambit",
+        "2... exf4": "Accepted",
+        "3. Nf3 d5 4. Nc3 dxe4 5. Nxe4": "Knights in the centre",
+        "5... Bg4": "Bishop Out",
+        "6. h3": "Attack",
+        "6... Bh5": "Retreat",
+        "7. Bc4": "Lining up",
+        "7... Nc6 8. Qe2": "Watch out!",
+        "8... Nf6": "What a bad move!",
+        "9. Nxf6#": "Double Checkmate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/oogiegorks-mini-tournament?gm=7201",
+    "gameName": "oogiegork's mini-tournament",
+    "players": "oogiegork (1435) vs. goose0202 (1363)",
+    "opening": "KGA (C36), Abbazia defence (classical defence, modern defence[!])"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. Nf3": "This game (unrated) was decided as a training game and was supposed to be anotated for learning purpose. Thank you for the comments.",
+        "1... d6 2. d4 Nf6 3. c4": "The game has turned into a queen gambit",
+        "3... g6 4. Nc3 Bg7 5. e4": "Strongly aiming at the center ",
+        "5... O-O 6. Be2 Bg4 7. Be3 Nbd7 8. O-O Bxf3": "losing the bishop pair for an unecessary trade",
+        "9. Bxf3 e5 10. d5": "settling at the center",
+        "10... a6 11. b4": "Slowing black advance on the queenside",
+        "11... b6 12. a4": "taking control of field",
+        "12... h5": "doubtfull move : it weakens the black king",
+        "13. Qd2": "White's developpement is completed (rooks are joined) - bayonnet attack (queen and bishop against fianchetoed bishop)\n\n Lasker's 7 points analysis :\n1. immediate threats : none\n2. material : equality\n3. Center : white is stronger\n4. Open files : none\n5. Pawn structures : both are ok\n6. Safety of the king : the black king is weakened\n7. General organisation : the black rooks are not joined\n7",
+        "13... Kh7": "uncommon move - doubtfull.",
+        "14. Be2": "Preparing the attack. White plans to attack the kingside straight away, now that the center is closed",
+        "14... Ng8": "to free the DSB ",
+        "15. f4": "Launching a kingside attack. The risk is an attack of the white king by the DSB but white estimates that it's ok ",
+        "15... f5": "increasing the weakness of the king",
+        "16. exf5 Rxf5 17. Ne4": "The knight has to be part of the attack - black is in trouble",
+        "17... Ndf6 18. Ng5+": "Strong menace - black will lose material",
+        "18... Rxg5": "Probably the best move (fork attack between queen and king if 18... Kh8 or discovery chess if 18.... Kh6)",
+        "19. fxg5": "7 points analysis :\n1. Immediate threats : the black knight on f6 (Black's DSB is menacing the a1 rook but not immediately).\n2. Material : advantage white\n3. Center : contested.\n4. Open file : the f one - under white's control.\n5. Pawn structures : The white one isn't very good (unsupported pawn on g5)\n6. safety of the kings : the white one is weakened by the attack but the black one is worse\n7. general organisation : all the pieces are protected - white has plenty of material aiming at the black king.\n",
+        "19... Ng4": "Doubtfull move : the next trade will be disastrous for black, for it'll destroy black's pawn structure and the black king will be terribly weak.",
+        "20. Bxg4 hxg4": "Now black is in very serious trouble if white manages to send the queen or a rook on h4",
+        "21. Qf2": "Launching the final assault",
+        "21... e4": "Black's counterattack will be to slow, moving the queen would have been better.",
+        "22. Qh4+": "There is probably a mate whithin the next 10 moves, whatever black does now.",
+        "22... Bh6 23. Rf7+ Kh8 24. Bd4+": "mate in 4\n\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-ptitroque?gm=67322",
+    "gameName": "Challenge from ptitroque",
+    "players": "ptitroque (1889) vs. bluenoser (1462)",
+    "opening": "Reti opening (A04)"
+}

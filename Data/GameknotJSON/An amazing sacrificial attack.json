@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. c4": "The English Opening, fairly well-known. This can lead to a \"Reversed Sicilian\" and a lot more besides.",
+        "1... c5 2. Nc3 e5": "This reply can't be common.",
+        "3. Nf3 d6 4. Ne4 Nf6 5. Ng3": "I am preparing my kingside to castle into. This kind of castled position, with the knights in front, fulfils my ideals of a safe kingside and also comes in handy when attacking the opponent's kingside.",
+        "5... Be7 6. e4 O-O 7. Be2 Bg4 8. O-O": "Now my king looks very safe...and that's not all! I am already planning an attack!",
+        "8... Nc6 9. d3 a6": "I'm not sure about this move...it looks pretty pointless...",
+        "10. Nf5": "In my notation I gave this move an !-mark, but it is so long ago that I have forgotten why. Can anyone help me?",
+        "10... Rb8 11. Bg5 h6 12. b3": "This move sacrifices my bishop, obviously. I gave it a !? in my notation. I did not need to play that particular move; I just needed to \"pass\" a move so that my opponent could take my bishop and allow my attack to start.",
+        "12... hxg5": "He takes the bait.",
+        "13. Nxg5 Bxe2 14. Qxe2": "I now have my knights in an excellent attacking position. All that remains now is to bring up my queen...",
+        "14... Nh5": "This has to be a blunder. Perhaps my opponent was after 15.Qxh5 Bxg5, neutralising my attack. But he must have overlooked this continuation:",
+        "15. Nxe7+ Qxe7 16. Qxh5": "1-0. Black resigned. His only way of preventing checkmate was to sacrifice his queen for my knight. In retrospect I now believe that if he had not played 14...Nh5?? my opponent could have prevented my queen from entering the action and neutralised my attack."
+    },
+    "url": "https://gameknot.com/annotation.pl/an-amazing-sacrificial-attack?gm=19566",
+    "gameName": "An amazing sacrificial attack",
+    "players": "fatcat2 (1365) vs. N.N. ",
+    "opening": "English (A34), symmetrical variation"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e6": "The French Defense, which can lead to very cramped positions for Black if it is mishandled. ",
+        "2. d4 d5 3. Nc3 Nf6 4. exd5": "Spielmann immediately opens up the game. He loves to launch quick attacks. ",
+        "4... exd5 5. Bg5": "Spielmann knows that the pin is mightier than the sword. ",
+        "5... Be7": "Immediately countering. Black should now look to castle and move his Queen off of Q 1. ",
+        "6. Bd3 Nc6 7. Nge2 Nb4": "A good move, threatening to remove White's crucial light-squared Bishop. ",
+        "8. Ng3 Nxd3+ 9. Qxd3": "Black should now seek to clear his back rank and castle. ",
+        "9... g6": "This catastrophic blunder irreparably wrecks Black's King-side. ",
+        "10. O-O c6 11. Rae1": "Spielmann immediately exploits the mistake. ",
+        "11... O-O 12. Rxe7": "This sacrifice settles the issue. ",
+        "12... Qxe7": "Forced, but now the Knight on K B 3 is pinned -- and because of 9... P - K Kt 3???, it must be protected by pieces. There is also a dangerous hole at K R 3. ",
+        "13. Qf3": "Spielmann adds pressure to the pinned Knight. ",
+        "13... Kg7": "Forced, to avoid losing the piece. ",
+        "14. Nce4": "This second sacrifice is crushing. ",
+        "14... dxe4 15. Nxe4": "The pinned piece is now doomed, and the Black King-side in a state of collapse. ",
+        "15... Qe6": "If Black tries 15... Q x Kt, Spielmann has 16 Q x Kt ch K - Kt 1 17 B - R 6 forcing mate. ",
+        "16. Bxf6+": "The logical conclusion to the pinning attack. ",
+        "16... Kg8": "16... K - R 3 isn't any better. ",
+        "17. Qf4": "Black resigns, as there is no defense against the coming 18 Q - R 6. The pin was the weapon that smashed the Black King-side. "
+    },
+    "url": "https://gameknot.com/annotation.pl/ein-starker-spieler?gm=68857",
+    "gameName": "Ein starker Spieler",
+    "players": "Rudolf Spielmann  vs. Robert Wahle ",
+    "opening": "French defence (C11)"
+}

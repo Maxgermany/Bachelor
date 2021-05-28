@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "I opened this game with a fairly standard King's Gambit, which my opponent accepted.  I was unable to win back the pawn at any point in the game, which is unusual in my games, but I took as a mark of superior play on my opponent's part.  The game itself was somewhat unusual, but I do not intend to analyze the greater portion of it.  On move 33 I missed a possibility and was forced either to exchange Rooks - which I had been avoiding - or lose a tempo, which could have been crucial.",
+        "1... e5 2. f4 exf4 3. Nf3 d5 4. e5 Bg4 5. d4 g5 6. Nbd2 Nh6 7. c4 Bb4 8. cxd5 Qxd5 9. a3 Bxf3 10. Qxf3 Qxf3 11. gxf3 Bxd2+ 12. Bxd2 Nf5 13. Bc3 Ne3 14. Bd3 Nc6 15. Bd2 Nd5 16. Bb5 f6 17. Bxc6+ bxc6 18. O-O-O O-O-O 19. exf6 Nxf6 20. Bc3 Nd5 21. Rhg1 Nxc3 22. bxc3 h6 23. h4 Rhg8 24. h5 Rde8 25. Kb2 Re3 26. Rdf1 Re2+ 27. Kb3 Rh2 28. Rgh1 Rxh1 29. Rxh1 Rd8 30. Kc4 Rd6 31. Re1 Kb7 32. Rd1": "I was here considering advancing the Queen's pawn, establishing myself on Black's half of the board, which seemed critical as I was playing a pawn down.  In this position, it is crucial to remove mobility in Black's Queen-side, as his King-side pawns will win the game if the White King wanders too far.",
+        "32... Rd5": "Black blocks the advance of the pawn.",
+        "33. Rb1+": "I am looking to drive Black's king to the side of the board, and then advance the d-pawn.  It was not a particularly well-thought-out idea, as the Rook block is in plain view.",
+        "33... Rb5": "Black, as I thought, looks to force the exchange.  With the Rooks off the board, the extra King-side pawn brings the game to a quick finish.  Although there are weaknesses to this move, I missed them.",
+        "34. Rxb5+": "Better, on reflection, is Rb4, pinning the Rook.  White's king is free to move, and Black has to spend moves extricating his Queen's side.",
+        "34... cxb5+": "What should be the clinching move.  The King cannot capture, as on 34. Kxb5, g4 gains Black a Queen!",
+        "35. Kd3": "Better is Kd5, briefly containing the Black King.  But in the meantime, White's isolated a-pawn is weak, and in combination with Black's King-side majority will probably lose the game.  White cannot keep at least one from Queening, and is forced to play for his own Queen.  Play might proceed: 35. ... Kb6 36. e4 Ka5 37. f5 Ka4 38. Kg6 g4! 39. Kxh6 gxf3 40. Kg7 f2 41. h6 f1=Q 42. h7 Qg2 .  Even if White can Queen the h-pawn, he will be forced to interpose and exchange, and Black can Queen his a-pawn with relative ease.  If instead 39. fxg4 f3, White is another move behind in Queening his pawn and there is no doubt whatsoever.",
+        "35... a5": "Threatens 36. b4, at which point either the a-pawn or the g- or f- pawns will Queen.",
+        "36. c4": "I essentially concede the game here.  I am hoping to be able to swindle-push one of my pawns down to Queen on d8 fast enough to stall the game.",
+        "36... Kb6": "Coming to the rescue.  Probably an attempt to protect the c-pawn, although 36. ... c6 would do that more effectively.  Still, insufficient to make a difference, if played properly.",
+        "37. c5+": "Although this should result in the disastrous 37. ... Kc6, at which point the Black King prevents a further push, White is running out of time - and I'm not thinking clearly.  On the other hand, 37. d5 invites 37. ...Kc5, which is even worse, as White has no decent moves left.  (38. Kc3? and the Black King and new b-pawn walk down the board.  38. Ke4? and Black's position to push on the a-file is even stronger than it was.  38. d6??? loses another pawn.)",
+        "37... Kc6": "Black makes his move, and then analyzing the position decides that White has won.  As explained in the notes, I see no chance for White (my own) position.  What am I missing?"
+    },
+    "url": "https://gameknot.com/annotation.pl/analysis-of-an-endgame-decision-opening-kga-abbazia-defence?gm=12524",
+    "gameName": "Analysis of an Endgame Decision (Opening: KGA, Abbazia Defence)",
+    "players": "jmfpeaceable (1284) vs. eforsyth (1302)",
+    "opening": "KGA (C36), Abbazia defence (classical defence, modern defence[!])"
+}

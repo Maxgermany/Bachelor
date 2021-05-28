@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "I start off with my usual but am not sure what Loyd will do next because he plays different moves.",
+        "1... e5": "But, he plays this.  And, after I continue with my normal, I speculate on what he'll do next since he does different things.",
+        "2. Nf3 Nc6": "But, after this move, I convert to the Spanish opening, and I stick with mainlines for a while to avoid complications.  Worth noting that my win against Bernard also involved the Ruy Lopez, and likewise, we stuck to mainlines.",
+        "3. Bb5 Nf6 4. O-O Nxe4 5. Re1 d5": "This is where it goes start going off course.  That's because the N generally retreats, after which, 6.Nxe5.  Because Loyd deviated...",
+        "6. d3": "I played this as I'm interested in how he responds.  However, I forgot something which was that the N was pinned.  Had I taken note of this, I would've played 6.Nxe5 which was better as that would've gotten a pawn back.  However, he overlooked my pawn.  So, thinking that the Knight would be protected, he played 6...Bf5??, after which, I almost overlooked what to do.  But, I remembered that one reason I played this was for a moment like this.  Therefore, when brought the other Bishop out, I immediately, took on e4.",
+        "6... Bf5 7. dxe4 dxe4": "Loyd thought that he compensated and kept the pawn.  But, what he overlooked is something I missed a move earlier, with his Nx6.  With that, I immediately take advantage and launch a double attack with 8.Nxe5.",
+        "8. Nxe5 Qxd1": "Preventing the loss of more material, he takes my Queen.  I was almost unprepared for that but was happy to see that exchange because I'm ahead.  Therefore, this liquidation is to my benefit.",
+        "9. Rxd1": "This is where the annotation stops.  That's because Loyd castles long on the next move.  I don't know why the board isn't allowing me to castle, as that's a legal move.  Castling does not put black in check.  So, the game continued with 9...0-0-0 10.Nxc6+, bxc6 11.Bxc6, Bc5 12.Bf4, Rhd8 13.Rxd8, Rxd8 14.Nc3, Bd6 15.Bxd6, cxd6 16.Re1, Rc8 17.Bxe4, g6 18.Bxf5, gxf5 19.Re7, Rc4 20.Rxf7, Rd4 21.g3, Rd2 22.Rxh7, Rxc2 23.Rd7, Rxb2 24.Rxd6, Rc2 25.Rd5, Rxc3 26.Rxf5, Ra3 27.h4, Rxa2 28.Kg2, Re2 29.h5, Re8 30.h6, Kc7 31.Rh5, Kd7 32.h7, Rh8 33.g4, Ke7 34.g5, Kf7 35.f4, Kg6 36.Rh6+, Kg7 37.f5, a5 38.f6+, Kf8 39.g6, a4 40.g7+, and Loyd resigned here because of the fork.  Consequently, I'd Queen and win his Rook without compensation.  Not long afterwards, it would be made, so black knew that there was no hope left, at this point."
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-chess-game?gm=61798",
+    "gameName": "OTB Chess Game",
+    "players": "Joe (1324) vs. Loyd ",
+    "opening": "Ruy Lopez (C67), Berlin defence, open variation"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. d4": "Reasonably common series of moves.",
+        "2... Nc6": "We are now out of the openings book, but my opponent's move seems fine to me, because it pressures a centre pawn.",
+        "3. Nf3": "I support d5 with my knight.",
+        "3... Nxd4 4. Nxd4 cxd4 5. Qxd4": "Should I have brought out my queen this early?",
+        "5... Qa5+": "Check.",
+        "6. Nc3": "Is this OK, or is c3 better?",
+        "6... b6 7. Qd5": "I offer a queen exchange so I can get unopposed control of the centre.",
+        "7... b5": "? This gives away a pawn and allows me to re-offer the exchange at the same time.",
+        "8. Qxb5 Qc7 9. Nd5": "I'm trying to get the queen away from the area of c7 so I can do Nc7+.",
+        "9... Qd6 10. Bf4": "Black can no longer defend c7 without losing his queen.",
+        "10... Qg6 11. Nc7+": "Check.",
+        "11... Kd8 12. Nxa8 e6": "I suppose Black is trying to get some control of the centre and develop his DSB.",
+        "13. Qa5+": "At this point, I decide to try for a mate.",
+        "13... Ke7 14. Qc5+": "Check.",
+        "14... d6 15. Qxd6+ Kf6": "Ke8 would mean a mate in one by Nc7#.",
+        "16. Qd8+": "Check. Mate in 2.",
+        "16... Be7": "Blocks the flight square of e7.",
+        "17. Qd4+": "Check.",
+        "17... e5": "Only move.",
+        "18. Qxe5#": "Checkmate! Feel free to comment and give constructive criticism."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=57411",
+    "gameName": "Team match",
+    "players": "reubencpiplupyay (1141) vs. harzer (811)",
+    "opening": "Sicilian (B21), Smith-Morra gambit"
+}

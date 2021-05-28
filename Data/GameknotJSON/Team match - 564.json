@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Be2 O-O 5. O-O d6 6. c3 Nbd7 7. h3 e5": "a system which I usually employ ",
+        "8. Nbd2 e4 9. Nh2 d5 10. f3 c6 11. c4 Qe7 12. fxe4 dxe4 13. Ng4 Nh5 14. c5 f5": "grabbing the initiative",
+        "15. Nh2 Ng3 16. Rf2 Bxd4": "this is actually a miscalculation on my part.  with black's advantage in space he should have done much better than what he got.  16 ... Kh8 is one possibility taking away the bishop check by white.  16 ... Nf6 is yet another.  or even 16 ... g5.",
+        "17. exd4 e3 18. Bc4+ Kh8 19. Rf3 exd2 20. Bxd2 Ne4 21. Bf4 g5 22. Bd6": "one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.",
+        "22... Nxd6 23. cxd6 Qxd6 24. Qd3 Nf6 25. Raf1 Bd7 26. Re3 Rae8 27. Rfe1 Rxe3 28. Rxe3 h6": "hereabouts a lot of maneuvering takes place as black tries to improve his position.",
+        "29. Nf3 Nh5 30. Ne5 Nf4 31. Qc3 Kh7 32. Kh2": "this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.",
+        "32... b5 33. Bb3 Be8": "this move took a lot of consideration.  black doesn't have anything and in fact has to be very careful.",
+        "34. Bc2": "an oversight on white's part.",
+        "34... Nd5 35. Qd2 Nxe3 36. Qxe3 Bd7": "there are technical problems to be solved.",
+        "37. Kg1 Be6 38. a3 Kg7 39. Qc3 Bd5 40. Qe3 Re8": "offering the pawn.  after 41 Bxf5? c5! wins",
+        "41. b4": "an alert move.",
+        "41... a5 42. Qc3 axb4 43. axb4 Kf6": "intending to sacrifice the exchange and try to win the game in a queen and bishops ending two pawns up.",
+        "44. Qd2 Rxe5": "this was queried by my opponent saying \"was this necessary?\"  perhaps yes.  the only other route was to play 44 ... Ra8 and try to make something happen in that sector.",
+        "45. dxe5+ Qxe5 46. Qf2 Be4 47. Bxe4 Qxe4": "queen endings are a tricky affair and not a done deal.",
+        "48. Qb2+ Kg6 49. Qb3 f4": "a key move in this ending as will be seen",
+        "50. Qg8+ Kh5 51. Qf7+ Kh4 52. Kh2 Qxb4 53. Qd7 h5": "a resource which had to be foreseen.",
+        "54. Qxc6 Qb3 55. Qe4": "another possibility was 55 Qd6 with the drawing trap 55 ... Qg3+ 56 Kh1 f3?? 57 Qd4+ Qf4 58 Qf2+ Qg3 59 Qd4+ since 59 ... g4 allows 60 Qf6 mate!",
+        "55... Qc3 56. Qe2 b4": "this pawn advance does the trick",
+        "57. Kh1 Kg3": "decisive!",
+        "58. Qf1 b3": "after 59 Kg1 Qe3+ 60 Kh1 b2 wins  and 59 Qg1 b2 60 Qh2+ Kh5 white has no moves"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=28897",
+    "gameName": "Team match",
+    "players": "strikerx (1751) vs. francisbaron08 (1788)",
+    "opening": "King's Indian (A48), East Indian defence"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "I never played Sicilian before, but I wanna know (in this way) if black can stop black Knights attacks.",
+        "2. Bc4 Nc6 3. Nf3 e6 4. d3 Nf6 5. Bg5": "I saw this is a simple development of Sicilian on Games database.",
+        "5... Be7 6. O-O d5": "d5...",
+        "7. Bb3 d4 8. Na3 a6": "And now i try to stop his knight",
+        "9. Nc4 h6 10. Bh4 g5 11. Bg3 b5": "again...",
+        "12. Na3 Nh7": "12...Nh7?! Luckily there's a reason for this. Like I said before I never played Sicilian before and at this moment i didn't know what to do. Maybe I had to move 12...g4. Anyway this is not a good move.",
+        "13. Ne5 Bb7 14. Qh5 Nxe5 15. Bxe5 Bf6": "I defend my rook.",
+        "16. Bxe6": "16 B:e6? Isn't this a bad move?",
+        "16... O-O 17. Bxf7+ Rxf7 18. Bxf6 Qxf6": "That's why!",
+        "19. Rae1 Re8 20. c4": "In this why white wants to develop his knight, but I don't accept of course!",
+        "20... Bc6 21. cxb5 axb5 22. Nc2": "I don't understand. He can't move Ne3. He can move Na8 that is useless",
+        "22... Nf8 23. b4": "Again...",
+        "23... Nd7 24. bxc5 Nxc5 25. Red1 Rb8 26. Nb4 Rc8 27. Qg4 Bd7 28. Qg3 Na4": "Now i think Nb2 or Nc3",
+        "29. Nd5 Qd8 30. f4": "He always wants to exchange pawns!",
+        "30... Rg7 31. f5 Nc3 32. f6": "32.f6?? Thank u rogerr!!!!!",
+        "32... Ne2+": "and the Q is out!",
+        "33. Kh1 Nxg3+ 34. hxg3 Rf7 35. Rdb1 Rb8": "Now I must control the situation. ",
+        "36. a3 Be6 37. Nb4 Qd6 38. Nc2 Kh7 39. Rb4 Qxg3 40. Kg1": "He prefers move the K than capture d4.",
+        "40... Kg6 41. Nxd4": "Like i thought.",
+        "41... Rxf6 42. Rxf6+ Kxf6 43. Rb2 Bd7": "defend b pawn is very important.",
+        "44. Rf2+ Kg6 45. Rf3 Qd6 46. Nb3 Qxa3": "victory is close...",
+        "47. Nd4": "Nd4?? in this moment i can move 47...Qa1  and take the Knight but i don't do it.",
+        "47... b4 48. e5 Qa1+": "he's finished.",
+        "49. Kh2 Qxd4": "And he resign. My first sicilian...I have to improve this defence and  i need experience. see 12... Nh7. What do u think of my moves? and his moves?. Comment, comment and comment like u always do. Bye!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=18525",
+    "gameName": "Team match",
+    "players": "rogerr (1331) vs. andy94 (1340)",
+    "opening": "Sicilian defence (B20)"
+}

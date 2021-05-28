@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 e6 2. e3 Nf6 3. Nf3 b6 4. Nbd2 Bb7 5. Be2 c5 6. dxc5": "Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)\n",
+        "6... Bxc5 7. a3 a5 8. b3 Nc6 9. Bb2 d5 10. c3": "\u039a\u03b1\u03b9 \u03c3\u03c4\u03bf 10.c4 \u03c0\u03ac\u03bb\u03b9 0-0 \u03b8\u03b1 \u03ad\u03c0\u03b1\u03b9\u03b6\u03b1.",
+        "10... O-O 11. O-O e5 12. b4 Bd6 13. c4 e4": "13..., e5=\n\nAlternative variation: 13... axb4 14. axb4 e4 \n15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+\n18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) \n18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) \n19... Nxe4 20. Nxe4 Nxe3!-+\n",
+        "14. Nd4": "14.Nd4?!\n\nAlternative variation: 14. Ng5 Be5 15. Bxe5 Nxe5 16. bxa5 Rxa5 \n17. Nb3 Ra8 18. cxd5 Bxd5 19. Nd4 unc.\n",
+        "14... axb4": "14...,axb4=/+",
+        "15. Nxc6": "15.Nxc6\n\nAlternative variation: 15. axb4 Bxb4 16. Rxa8 Bxa8 17. cxd5 Qxd5=/+\n",
+        "15... Bxc6 16. axb4 Rxa1": "\n16..., Rxa1?! \n\nBetter is: 16... Bxb4 17. cxd5 Bxd5 18. Nc4 Bc5=/+, -/+\n",
+        "17. Qxa1": "17.Qxa1! unc.\n\nAlternative variation: 17. Bxa1?! Bxb4 18. cxd5 Qxd5 \n19. Nc4 Nd7 20. Qxd5 Bxd5 21. Rd1 Be6=/+, -/+\n",
+        "17... Bxb4 18. Nb3": "18.Nb3 =/+\n\u03a0\u03b5\u03c1\u03af\u03bc\u03b5\u03bd\u03b1 \u03c4\u03b7\u03bd \u03b2\u03b1\u03c1\u03b9\u03b1\u03bd\u03c4\u03b1: 18. cxd5 Qxd5 19. Bxf6?! Qxd2! \n20. Bxg7 Qxe2 21. Bh8? (21. Bxf8 Bxf8-/+; 21.Bh6! unc.) 21... Qg4-+\n\u039a\u03b1\u03bb\u03c5\u03c4\u03b5\u03c1\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u039b \u03b7 \u03c3\u03c5\u03bd\u03b5\u03c7\u03b5\u03b9\u03b1: 18. Rd1!\n\u03c0.\u03c7 18..., Be7 19. Bd4 Bc5 20. Bxf6 Qxf6 21. Qxf6 gxf6 \n\u03bc\u03b5 \u03ac\u03c1\u03c9\u03bc\u03b1 \u03b9\u03c3\u03bf\u03c0\u03b1\u03bb\u03af\u03b1\u03c2\n",
+        "18... dxc4 19. Bxc4": "19.Bxc4\n\nInferior was: 19. Nd4 Qc7 -/+\n",
+        "19... Bd6": "19..., Bd6=/+\n\nAlso sound: 19..., Be7 (as the 19..., Ne8)",
+        "20. Nd4": "21.Nd4!? \n\u0391\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03ae \u03b7 \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1: 20. Bxf6! gxf6 \n21. Nd4 Qc7 22. h3 \u03bc\u03c5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b9\u03c3\u03cc\u03c0\u03b1\u03bb\u03bf \u03c6\u03b9\u03bd\u03ac\u03bb\u03b5.\n\n",
+        "20... Bxh2+": "20...,Bxh2?!\n\nBetter the alternative variation: 20... Bd7 21. h3 Ne8=/+, -/+\n",
+        "21. Kxh2": "21.Kxh2 accepting the challenge!\n\nBut even the alternative variation: 21. Kh1 Bd5 \ne.g. 22. Bxd5 Qxd5 23. Kxh2 Qh5+ 24. Kg1 Ng4 \n25. Rc1 Qh2+ 26. Kf1 Qh1+ 27. Ke2 Qxg2 28. Rf1 = / unc.\nworths.",
+        "21... Ng4+ 22. Kg3": "22.Kg3 The better choice!\n\nGood for Black the variation: 22. Kg1? Qh4 23. Re1 Qxf2+!-+\ne.g. 24. Kh1 Qh4+ 25. Kg1 Qh2+ 26. Kf1 Qh1+ \n27. Ke2 Qxg2+ 28. Kd1 Ra8 29. Qb1 Ba4+\nAlternative variation: 22. Kh3?! Bd7!-/+\n",
+        "22... Qg5": "22..., Qg5?! \n\nBetter was the : 22... Bd7! =/+, unc.\n",
+        "23. Ne6": "23.Ne6!! \nConfuting the white line, spectacularly! \n",
+        "23... fxe6 24. Bxe6+ Kh8 25. Bxg4": "25.Bxg4 +/-",
+        "25... h5": "25...,h5\n\nDesperate but not enough for ecqualize.",
+        "26. Rh1": "26.Rh1??\nThe definition of \"blunder\".\n\nThe good strike was: 26. Bxg7+ Qxg7 27. Qxg7+ Kxg7 28. Bxh5+/-\nand now it is black turns to struggle for equalize.",
+        "26... Qxg4+": "+-",
+        "27. Kh2 Rxf2": "White pieces resign.\nNo way to avoid a mate.\nPity...\n(And lucky me!!)"
+    },
+    "url": "https://gameknot.com/annotation.pl/80th-gk-tournament-http-gameknot-com-chess-pl-b?gm=40331",
+    "gameName": "80th GK tournament, http://gameknot.com/chess.pl?b",
+    "players": "jdgarv (1617) vs. sides688 (1880)",
+    "opening": "Queen's pawn (A40)"
+}

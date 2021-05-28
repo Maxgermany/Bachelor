@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. c4": "In my opinion the best first move for white. White takes control of the central square d5 and opens the diagonal a4-d1. As we will see in this game 1. c4 ... not necessarily turns into an English Opening.",
+        "1... Nf6 2. Nc3": "White strengthens the control of the centre.",
+        "2... e6": "Probably black wants to play 3. ... d5 -  Queens Gambit style. If white wants to avoid this he can play 3. e4 ... . That would be the sharp Mikenas-Carls-attack.",
+        "3. Nf3 d5": "Queens Gambit style as I supposed. Now 4. d4 ... would have turned the game into a real Queens Gambit. But as an English Opening fan I wanted to remain in my prefered structures.",
+        "4. cxd5 Nxd5": "I think 4. ... exd5 would have been better because this allows white to develop while attacking the black knight.",
+        "5. e4 Nxc3 6. bxc3 Be7": "As an English Opening fan I prefer the white bishops fianchetto. But now the diagonal a8-h1 is blocked by my own pawn e4. So I decided to take more control of the centre by 7. d4 ... and then to develop the white bishop on the diagonal a6-f1.",
+        "7. d4 O-O 8. Bd3": "The best square for the bishop in this case because now the bishop directly aims at the black kings fortress. Very important in this game as we will see.",
+        "8... b6": "Now I could have developed slowly by 9. 0-0 ... and so on. But in positions like this there is a tactical trick basing on h2-h4. So I decided to chance my luck...",
+        "9. e5": "In general not really a good move because the pawn moves for the second time in the opening and white loses control of the white squares d5 and f5. But in this special case this move is a preparation of h2-h4 because it opens the diagonal b1-h7.",
+        "9... Bb7 10. h4": "The thematic move! Aronian style.:-) The positon is absolutely malicious because now only 10. ... h6 would have been enough to prevent black from a tactical disaster.",
+        "10... Nd7": "My opponent was not aware of the danger. In Biriukov vs. Gusev, St. Petersburg 2010, 10. ... c5 didn't help black either. So fasten seat belts folks and enjoy the following tactical storm.",
+        "11. Bxh7+": "I wonder if my opponent was only surprised or shocked.",
+        "11... Kxh7": "11. ... Kh8 12. Bc2 ... with the idea 13. h5 ...",
+        "12. Ng5+": "This reminds me of the Colle System.",
+        "12... Kg8 13. Qh5": "Threatens the murder on h7. Now 13. ... Be4 14. Nxe4 f6 giving back the bishop would have held black in the game but this is hard to find.",
+        "13... Bxg5": "From now on black can't escape the mate.",
+        "14. hxg5 f6": "Or 14. ... f5 15. g6 ... ",
+        "15. g6": "And white would have mated in the 16th move."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-small-work-of-art?gm=47953",
+    "gameName": "A small work of art",
+    "players": "klausjunge  vs. N.N. ",
+    "opening": "English (A17), Queens Indian formation"
+}

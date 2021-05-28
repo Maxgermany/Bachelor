@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Be3 Bg7 7. Nc3 O-O 8. Qd2 c6": "Alternative variation: 8... Be6 9. d5 Bc8 10. Bh6 Bxh6 11. Qxh6 e6 12. O-O-O Qf6 13. h4 exd5 14. exd5 N8d7 15. Nh3 Qg7 16. Qd2 Ne5 17. Ng5 h6 18. Nge4 Bf5 19. Ng3 Bd7 20. Qf4 Rad8 21. Nge4 Bf5 22. Nc5 Nbd7 23. Nb3 [Mamedyarov,S (2657)-Eljanov,P (2592) Dubai 2004 1-0 (78)] \n",
+        "9. O-O-O e5": "Alternative variation: 9... Na6 10. Bh6 Be6 11. h4 f6 12. h5 g5 13. Bxg7 Kxg7 14. f4 h6 15. Nf3 gxf4 16. Qxf4 Qc7 17. e5 fxe5 18. Qg3+ Kh8 19. Nxe5 Rg8 20. Ng6+ Kg7 21. Ne5+ Kh8 22. Qe3 Kg7 23. Bd3 Nd5 24. Qe4 [Sochacki,Z (2032)-Wojciechowski, A (2199) Poland 2007 1-0 (44)]\n",
+        "10. Bh6": "Alternative variation: 10. dxe5 Qxd2+ 11. Rxd2 Bxe5 12. f4 Bg7 13. Nf3 Re8 14. Bd4 N8d7 15. Bxg7 Kxg7 16. b3 Nc5 17. Bd3 Bg4 18. Nd4 Nxd3+ 19. Rxd3 Rad8 20. Rd2 Rd7 21. h3 Red8 22. hxg4 Rxd4 23. Rhd1 Rxd2 24. Rxd2 Rxd2 [Baerthel,J (2215)-Berndt,S (2290) Germany 1993 1/2-1/2]\nAlternative variation: 10. d5 cxd5 11. exd5 Bf5 12. g4 Bd7 13. Kb1 f5 14. Be2 Na6 15. Bh6 Rc8 16. Bxg7 Kxg7 17. h4 Nc4 18. Bxc4 Rxc4 19. Qe2 b5 20. Qxe5+ Qf6 21. Qxf6+ Rxf6 22. g5 Rd6 23. a3 Nc7 24. Nge2 a5 [Kovacs,G (2300)-Kiss,V (2090) Hungary 2000 1-0 (60)]\nAlternative variation: 10. dxe5 $5 [should be considered] Qxd2+ 11. Kxd2 Bxe5 12. Kc2 $11\n",
+        "10... Qxd4": "Alternative variation: 10... Bxh6 11. Qxh6 exd4 12. e5 $17\n",
+        "11. Qg5 Qc5 12. Bxg7 Kxg7 13. h4 f6 14. Qd2 h6 15. g4 Be6 16. g5": "Alternative variation: 16. h5 g5 $17\n",
+        "16... fxg5 17. h5": "Alternative variation: 17. hxg5 $5 h5 18. Kb1 $17\n",
+        "17... gxh5 18. Rxh5": "instead of fighting back\nAlternative variation: 18. Kb1 Na6 19. Bxa6 bxa6 20. Rxh5 Nc4 $19\n",
+        "18... Qe7": "Alternative variation: 18... Qxg1 [and Black has prevailed] 19. Bh3 Nc4 20. Rxg1 Nxd2 21. Bxe6 Nxf3\n",
+        "19. Qh2 Nb8d7": "Alternative variation: 19... Qf6 $5 $19\n",
+        "20. Rxh6 Rfh8 21. Rxh8 Rxh8 22. Qg3 Qf6 23. Bh3 Nf8 24. Bxe6 Nxe6": "Alternative variation: 24... Qxe6 25. Qxg5+ Ng6 26. Kb1 $11\n",
+        "25. Nh3 Kg6 26. Rg1 Rh5 27. Ne2 Nd7": "Alternative variation: 27... Kf7 $17\n",
+        "28. f4 Rxh3": "weakening the position\nAlternative variation: 28... Kh6 [would bring relief] 29. fxg5+ Nxg5 $11\n",
+        "29. f5+ Kf7 30. Qxh3 Ng7": "the pressure is too much, Black crumbles\nAlternative variation: 30... Nf4 31. Qh7+ Ke8 32. Nxf4 exf4 33. Qg8+ Qf8 34. Rxg5 Qxg8 35. Rxg8+ Kf7 $18\n",
+        "31. Qb3+ Ke7": "Alternative variation: 31... Kf8 [cannot change what is in store for White] 32. Qxb7 Nc5 33. Qa8+ Ne8 34. Nc3 $18\n",
+        "32. Qxb7 Ne8": "Alternative variation: 32... Ke8 [is the last straw]\n",
+        "33. Rd1 Nd6": "Alternative variation: 33... Kf8 [doesn't do any good] 34. Rxd7 a5 35. Qa7 $18\n",
+        "34. Qxc6 g4": "Alternative variation: 34... Qh6 35. Nc3 Nc5 36. Qxc5 Kd7 37. Qxa7+ Kd8 38. Qb6+ Kd7 39. Qb5+ Kd8 40. Qxe5 g4+ 41. Kb1 Kc7 42. Nb5+ Kb6 43. Nxd6 Qh7 44. Nc4+ Kb7 45. Qd5+ Kb8 46. Qd8+ Kb7 47. Qb6+ Ka8 48. Rd8#\n",
+        "35. Nc3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/ulster-championship?gm=63481",
+    "gameName": "ULSTER CHAMPIONSHIP , ?",
+    "players": "Donaldson, Thomas  vs. Joshi, Nikhil ",
+    "opening": "Neo-Gruenfeld defence (D70)"
+}

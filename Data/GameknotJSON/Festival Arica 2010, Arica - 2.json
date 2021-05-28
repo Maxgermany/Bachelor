@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. e3 Nxg5 7. Nxg5 e5": "Me sent\u00ed happy en esta posici\u00f3n. Ultra conocido es, en vez de 6 e3, 6cd5. Las negras aprovechan la oportunidad para asaltar el centro\n",
+        "8. Nf3 exd4 9. Nxd4": "Para mantener una \"sana\" estructura de peones. El desarrollo del flanco de rey sigue siendo ventajoso para las negras. Mi idea, abrir la posici\u00f3n para garantizar juego a los alfiles.\n",
+        "9... dxc4 10. Bxc4 O-O 11. O-O": "\n",
+        "11... Nd7": "S\u00faper optimista, mi caballo quiere molestar al \u00fanico representante de la raza \"alfil\" de las blancas, lo que le dejar\u00e1 solo una opci\u00f3n, o vigilar el flanco de dama (soltando las casillas e4 y d3) o el flanco de rey, (dejando la diagonal g8-a2)",
+        "12. Bb3": "Tambi\u00e9n se hab\u00eda jugado: 11.O-O Nd7 12.a4 Ne5 13.Be2 a5 14.f4 Nd7 15.Ndb5 c6 16.Nd6 Nc5 17.Bc4 Be6 18.Bxe6 Nxe6 19.Kh1 Nc5 20.e4 Qe7 21.e5 f6 22.Nd5 cxd5 23.Qxd5+ Ne6 24.f5 gxf5 25.Nxf5 Qf7 26.Nd6 Rad8 27.Rad1 Qd7 28.Qb3 fxe5 29.Rfe1 Qe7 [0-1, Granda Zuniga Julio E (PER) 2475 - Staniszewski Piotr (POL) 2420, Gausdal (Norway) 1986] ",
+        "12... Nc5 13. Bc2 c6": " Para controlar los saltos de caballo. De7 y Ce6 eliminar\u00e1 al \u00faltmo basti\u00f3n, en el centro, para luego centralizar las torres. Las negras deben estar mejor, pero a\u00fan queda mucho por delante.\n",
+        "14. Nb3 Qe7 15. Qf3 Be6": "Apuntando al flanco de dama, la casilla c4 es un tema, as\u00ed como doblar los peones en b3 para luego atarcarlos. \n",
+        "16. Na5 Qc7 17. Nb3 Nxb3": "\nAl fin. El juego desinteresado de Juan, me permite lograr temas en el flanco de dama. \n",
+        "18. axb3 Qb6 19. Ra3": "\n\u00a1Ah\u00ed est\u00e1! ahora la torre est\u00e1 atada a la defensa de un pe\u00f3n y las operaciones en el centro rendir\u00e1n fruto, al doblarme en la columna D. Aqu\u00ed comenc\u00e9 a vislumbrar la posibildad de jugar Af8, para ganar el pe\u00f3n de b3, pero antes de todo, es necesario librar a la dama negra de la defensa del pe\u00f3n a7.\n%02^013^010 \n",
+        "19... Rad8 20. Qe2 a6 21. f4 Rfe8 22. Kh1": "Misi\u00f3n cumplida. Ahora las torres est\u00e1n dispuestas en el centro, naci\u00f3 una nueva debilidad en el dispositivo blanco (el pe\u00f3n e3) y \u00a1me toca! Pensaba en f5, para fijar la debilidad, suponiendo que es lo que esperaba Juan Humire, para llevar algo de esperanza en un ataque sobre el flanco de rey... sin embargo, ya se pod\u00eda el af8 que hab\u00eda pensado antes. \u00bfQu\u00e9 ser\u00e1 mejor? en ese instante, evalu\u00e9 que, un pe\u00f3n es un pe\u00f3n.",
+        "22... Bf8 23. Raa1 Bxb3 24. Bxb3 Qxb3 25. e4": "Clara ventaja negra y nueva oportunidad para fijar los peones blancos en casillas negras, doblarme en la columna d y avanzar los peones del flanco de dama. \u00bfQui\u00e9n pensar\u00eda que un orden alterado ser\u00eda tan grave? primero hice lo segundo...\n",
+        "25... Rd4 26. f5": "\nFiel a su idea, Juan Humire sigue intentando llegar... Aqu\u00ed me daba cuenta que para progresar, necesitaba cambiar mi alfil por el caballo blanco... pero era la \u00fanica pieza que defend\u00eda a mi rey. Simplemente, menospreci\u00e9n el contrajuego, deber\u00eda estar incluido en los pecados capitales. \u00a1Usted nunca lo haga!\n",
+        "26... Qc4 27. Qf2 Rd3 28. Rae1 Bb4 29. e5 Bxc3 30. bxc3 Rxc3": "Tres peones libres en el flanco de dama y apunto de llegar a la s\u00e9ptima...",
+        "31. e6": "Aqu\u00ed me puse a pensar... y me d\u00ed cuenta que las cosas no eran tan f\u00e1ciles. El pe\u00f3n otrora debilidad en \"e3\" ahora se transforma en una ariete que amenaza abrir lineas en el flanco de rey. Se amenaza con rayos x a la casilla f7, actuando como cortina el pe\u00f3n e6. Entrando en el apuro de tiempo, no consegu\u00ed encontrar la respuesta.\n",
+        "31... Re7 32. fxg6 hxg6 33. Qf6": "Sin nada m\u00e1s que hacer, felicit\u00e9 a Juan por su incansable lucha en la b\u00fasqueda de contrajuego. Merecido triunfo a mis ansias  de victoria desmedidas.\n\u00a1Siempre hay que estar atento!\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/festival-arica-2010-arica?gm=29147",
+    "gameName": "Festival Arica 2010, Arica",
+    "players": "Humire, Juan  vs. Mamani, H\u00e9ctor ",
+    "opening": "King's Indian, 3.Nf3 (E60)"
+}

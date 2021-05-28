@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "Sa\u00edda Cl\u00e1ssica Sampeta !",
+        "1... e5": "Resposta Cl\u00e1ssica do Advers\u00e1rio !",
+        "2. Qh5": "Dama exposta premeditadamente para tentar capturar pe\u00e3o do meio (e torre) e prepara\u00e7\u00e3o para trazer bispo para o jogo !",
+        "2... Nc6": "Defesa cl\u00e1ssica do advers\u00e1rio.",
+        "3. Bc4": "Bispo apontando para possibilitar o xeque pastor !",
+        "3... g6": "Defesa cl\u00e1ssica do xeque pastor amea\u00e7ando a dama",
+        "4. Qf3": "Recuo da dama ainda amea\u00e7ando o xeque pastor.",
+        "4... Nge7": "N\u00e3o entendi o que o advers\u00e1rio fez mas....",
+        "5. Bxf7#": "Aproveitei...!!! hehehee"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=6143",
+    "gameName": "Let's play chess",
+    "players": "esampaio (1366) vs. augustas (1372)",
+    "opening": "KP (C20), Patzer opening"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. f4 d5": "i don't feel good playing the stonewall pattern, since it was the chosen line by white if not his favorite i have to move on.",
+        "2. d3": "giving me the space advantage temporarily.",
+        "2... f5 3. Nf3 Nf6 4. Nc3 e6 5. a3": "giving me the opportunity to to occupy d4 so many times but i do not feel it! i'd to develop my pieces rapidly.",
+        "5... Be7 6. Ne5 O-O 7. b4": "the opportunity for d4 is indirectly forfeited since it does not have the strong support from the another pawn.the test is not bad at all since it is an ordinaru course of development.",
+        "7... c6 8. Bb2 Nbd7 9. Rb1 d4": "at last! the move that was moved 3 or 4 moves earlier!",
+        "10. Nxd7 Bxd7 11. Na4 b5 12. Nc5 Bxc5 13. bxc5": "here, i am wondering over between Be8 and Nd5.Be8 protecting d4 via h5 is annoying for a short period of time. Nd5 is chosen mainly because  of possible opening of the f-file and the giving the black queen control of the d8-h4 diagonal.",
+        "13... Nd5 14. Bxd4 Nxf4 15. e3 Nd5 16. Be2": "How does the black proceed here? possible moves in my mind are: f4, Qh4, a5 and ",
+        "16... e5": "It opens the line for thew lsb, opening a e-file at the opponents monarch. and the pawn storms at the center.",
+        "17. c4": "Honestly, i did not expect that move! i was contemplating for the 17. Be5 Ne3 attacking Her majesty followed by f4 and Qh4 something like that! With this wing attack, I was a totally caught out balance but still feel good anyway!.",
+        "17... exd4 18. cxd5 cxd5 19. O-O dxe3 20. d4 Bc6 21. Qd3 f4 22. Rfc1 a6 23. Bf3": "Qh4 is very premature since it can be easily stopped by a rook move! I did like it because this Q-move will allow the tactical chances on that poorly protected area.But my temperament refused.",
+        "23... Qh4 24. Rc2 Rf6": "I think a passive move if not totally bad.The objective is to help the Queen in its plan to attack.Rh6 is easily parried by h3, aside from leaving the back rank poorly defended.",
+        "25. Qb3 Rd8": "This move removed the tactical blow on d5 but I felt the room temperature risen and I was beginning to feel uneasy. ",
+        "26. a4 Rh6 27. h3 bxa4 28. Qb6 Bb5 29. c6": "The move I worried about in addition to the poor coordination of my rooks!I have to withdraw more quickly as I am. As i have said earlier, Rh6 is just a waste of time.",
+        "29... Qf6 30. Rc5": "Here, I cannot see any good move to defend against the future promotion on c8, the possible c7 and Qb8, check on d5, pawns smashing up at the center.For the meantime I have to block the forthcoming promotion.",
+        "30... Rc8": "I have just moved the text when I noticed that Re8 is decisive.If 29...Re8 30.any e2! is annoying.If 31 Be2 Qd4 .",
+        "31. Bxd5+ Kh8": "Another inaccuracy.31...Kf8 gives more resistance.",
+        "32. Qb7 Qd8 33. c7 Qd7 34. Qb8": "The reason why King was moved to h8, the possibility of capturing the pawn at f4 and at the same time gave check! But as seen here the text has given more harm than a solution to the attack. ",
+        "34... Rh5": "The only move left that give more resistance.",
+        "35. Bb7 Rxc5 36. dxc5 Qxc7": "until here. thank you for reading. should there be any additional comment, I will assure you that it will be highly appreciated."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=19969",
+    "gameName": "Let's play chess",
+    "players": "small_change (1484) vs. deobonggon (1401)",
+    "opening": "Bird's opening (A03)"
+}

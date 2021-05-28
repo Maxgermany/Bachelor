@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "Here nicely attacking each other !",
+        "3. Nxe5 Nxe4": "Like to have less pieces.",
+        "4. Qf3 Nf6 5. b3 d6": "Black side is slightly taking control of the board !",
+        "6. Nxf7": "Brave white Knight ! It  looks like a sack ! Better be watching !",
+        "6... Kxf7 7. Bc4+ Be6": "Black King in front, asking trouble, but fortunately, Bishop covered the King. ",
+        "8. Qxb7": "Further white Queen is trying to do some damage.",
+        "8... Nbd7 9. Bd3 Nc5": "Unfortunately, a fork ! Get back 1 Otherwise...",
+        "10. Qf3 Nxd3+": "Another attack. This time white king was the target.",
+        "11. cxd3": "Pawn got rid of the Knight. I guess...   11. Qxd3 is better.",
+        "11... Bg4": "See ! Further trouble.",
+        "12. Qf4 Qe8+": "One after another ... because of that silly move.",
+        "13. Kf1 Qe2+": "White King is in great danger ! what to do? Watch out...",
+        "14. Kg1 Qe1#": "Done !\nWhite side is too aggressive. First, need some covering for the King then one can attack the other."
+    },
+    "url": "https://gameknot.com/annotation.pl/to-be-aggressive-in-a-chess-game-may-be-bad?gm=37534",
+    "gameName": "To be aggressive in a Chess game may be bad.",
+    "players": "blindstein  vs. kapila ",
+    "opening": "Petrov (C42), Damiano variation"
+}

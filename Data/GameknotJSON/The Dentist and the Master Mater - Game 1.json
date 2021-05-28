@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. f3": "2. f3 - unusual line.  Not the best move because it takes away the best square for white's king knight and more importantly opens up the Fool's Mate Diagonal (e1-h4).  The Dentist must now watch out for a queen check on h4.  Better was 2. e5 (main line) or 2. Nc3 or even 2. d3.",
+        "2... e5 3. a3 Nxe4": "3. ..... Nxe4 - hmm, this is gonna be like Damiano's Defense in reverse.  The main line of Damiano's Defense goes like this. 1. e4 e5, 2. Nf3  f6?! 3. Nxe5 - it is best to decline the sacrifice by playing the Macgregor-Chigorin line with 3. ..... Qe7 - otherwise if the sac is accepted then this leads to black either losing the exchange, losing 5 pawns or Copping Old Matey - do you still wanna accept this sacrifice?  Well, with colours reversed the Dentist did just that!",
+        "4. fxe4": "4. fxe4?? - see my previous note - I think Qe2 would have been better here.",
+        "4... Qh4+ 5. Ke2": "5. Ke2 - if 5. g3 then The Dentist will drop the exchange by Qxe4+ (nasty, nasty queen fork!)",
+        "5... Qxe4+ 6. Kf2 Bc5+ 7. Kg3": "7. Kg3? - this is a mistake according to the gameknot analysis.  GK suggested d4 here, although it gives up a pawn at least that move does open up a diagonal for the white dsb which will crucially defend the square f4 from a very nasty queen check there.",
+        "7... Qf4+": "7. ..... Qf4+ - and indeed the BQ does land on that square!",
+        "8. Kh3 h5": "8. ..... h5 - a mating net closes in on the WK.",
+        "9. Be2": "9. Be2 - at last the Dentist develops a piece but it is gonna be a little too late here.",
+        "9... d6+": "9. ..... d6+ - discovered check.",
+        "10. g4 hxg4+": "10. ..... hxg4+ - deadly double check.",
+        "11. Kg2": "11. Kg2 - The dentist played this move and then realised horror of horrors that he was about to be Freddied by the move Qf2#!  He then resigned the game on the grounds of unavoidable mate - I think he is yet unaware that Freddy expressly forbids resignation on the grounds of unavoidable mate and frowns upon any resignation whatsoever.  After this, The Dentist bravely challenges Master Freddy to another game, I will soon be annotating about how he fares in Game 2 - well, he loses but he does put up stronger resistance next time round - watch this space."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-dentist-and-the-master-mater-game-1?gm=32513",
+    "gameName": "The Dentist and the Master Mater - Game 1",
+    "players": "The Dentist (1366) vs. easy19 (2205)",
+    "opening": "Alekhine's defence (B02)"
+}

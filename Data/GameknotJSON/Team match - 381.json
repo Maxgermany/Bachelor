@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "In this particular, I did not play well at all because of the Game DB.  In fact, it was my second worst game, ever, and the worst game, on this site.",
+        "1... c5": "I moved here so that I could play the Sicilian defense, but I forgot about this defense on my next move.",
+        "2. Bc4": "He wants to beat in four moves with the, \"Four Move Trick\", and that is why he brought the bishop out.",
+        "2... e5": "Now, I made a big mistake because of his next move.  Therefore, the Sicilian defense also would not have work, this time.  This mistake was caused by me reliance on the Game DB.  That is because the Game DB said that I should play e5, in this case.  It showed the highest rating with the highest percentages of wins and finished games.  The only move that would have worked, in this case, is Nf6 because of his next move.    ",
+        "3. Qh5": "Nf6 was the only move that would have prevented his queen from coming out.",
+        "3... g6": "Now, I must play g6.  Otherwise, he will get a, \"Scholars Mate\" with Qxf7.",
+        "4. Qxe5+": "At this point, I resign because I was already a -1, and he played a fork against me including the check.  The fork is between my king on e1 and my rook on h1, so he not only captured a free pawn, but he also would have been able to get a free rook with Qxh8.  I was wondering how I am going to be successful with the Game DB in the future.  I stopped using the Game DB because of this game."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=42096",
+    "gameName": "Team match",
+    "players": "delta5ply10 (902) vs. jkarp (902)",
+    "opening": "Sicilian defence (B20)"
+}

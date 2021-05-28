@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5": "A mini-tournament game, I'm playing black and I'm tired of the Sicilian so I meet white in the center, daring him to play my favorite opening. This is the 4th game I've annotated this evening, and I played black in all of them. Sometimes it seems like I play black 80% of the time, though my statistics don't corroborate that.",
+        "2. Nf3 Nc6 3. Bb5 g6": "And he did. The Ruy Lopez. But what is this? As much as I have played the Spanish game, I don't recall anyone playing 3. ... g6 against me. However, the GK DB gives it good marks, so I thought I'd give it a whirl. Take your pick, it's either called the Smyslov Defense, Fianchetto Defense, or Barnes Defense. Evidently it can give white the advantage and doesn't get played much at the highest level. Oh well, I'm far from the highest level, so like Robert Frost, I choose the defense less traveled.",
+        "4. O-O Bg7 5. c3 d6 6. d4 Bd7": "6. d4 was inevitable, but white threatens 7. d5 winning the pinned knight, so black unpins the knight.",
+        "7. dxe5 dxe5": "Hey, lookie there. The fianchettoed bishop on g7 protects the pawn on e4. That's handy.",
+        "8. Bg5 Nge7 9. Qc1 O-O": "An odd move by white, 9. Qc1. I'm not really sure what he's doing. Maybe just clearing d1 for a rook.",
+        "10. Bh6 a6 11. Bxc6 Nxc6 12. Rd1 Qe7": "Ah, yep, there's white's predicted rook.",
+        "13. Na3 Bxh6 14. Qxh6 Bg4": "Black has lured the white queen to the far edge of the board where she has no useful moves. I wonder if she can be trapped.",
+        "15. Ng5 f6": "White is trapping his own queen. Too bad black has nothing with which to attack her.",
+        "16. f3 fxg5 17. fxg4 Rad8": "Well, that opened up a useful file for a rook. Now let's challenge white's ownership of the d-file.",
+        "18. Qh3 Rxd1+ 19. Rxd1 Qc5+": "Don't know where this is going, but it can't be such a bad thing. It should win at least a pawn.",
+        "20. Kh1 Qf2": "Threatening a simple back rank checkmate with 21. ... Qf1+ 22. Rxf1 Rxf1#, but also threatening the pawn on b2.",
+        "21. g3 Qf3+": "Oops. 21. g3??? was a blunder that will cost white the game. I initially saw the fork that wins the rook, but then when I entered the conditional moves, I kept going and very quickly found that black has a 6-move forced checkmate beginning with 21. Qf3+, so I entered the conditional moves and announced the mate in 6 in the game. I am a bit embarrassed to admit I did not actually see the mate until I was entering the simple conditional move to fork the white rook.",
+        "22. Kg1 Qxd1+": "White's in deep now. 23. Qf1 allows 23. ... Qxf1#. But after 23. Kg2, black plays 23. ... Qf3+ 24. Kg1 Qf2+ 25. Kh1 Qe1+ 26. Kg2 Rf2#. So it's mate either way. White chose to resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-defense-less-traveled?gm=23560",
+    "gameName": "The Defense Less Traveled",
+    "players": "madik (1535) vs. blake84120 (1965)",
+    "opening": "Ruy Lopez (C60), fianchetto (Smyslov/Barnes) defence"
+}

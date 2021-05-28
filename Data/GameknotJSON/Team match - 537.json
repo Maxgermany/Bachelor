@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. Bg5 O-O 6. e3 h6 7. Bxf6": "I think it's better to keep the tension by playing Bh4 especially when you cant take d5 yet...",
+        "7... Qxf6 8. cxd5 exd5": "Black gains open space and the C8 Bishop is alive again...",
+        "9. Be2 Bf5 10. O-O Bxc3": "now! so there will be no threat on d5. meanwhile, black managed his peaces in the king side...",
+        "11. bxc3 Nd7 12. Rc1": "wants to play c4 and gain the center back. But, when there is no Knight on c3 an no Bishop on d3 who will move the white Bishop from e4?",
+        "12... Be4 13. c4": "I think it was better to play Nd2 to keep the Bishop away and to preper c4.",
+        "13... dxc4 14. Rxc4 c6 15. Nd2": "too late, now there is a place to be on the long diagonal.",
+        "15... Bd5 16. Rc2 Qg6": "to prevent e4 and to threat mate.",
+        "17. Nb3": "?????????????? white missed the point.",
+        "17... Qxg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=30462",
+    "gameName": "Team match",
+    "players": "doomclaw (1587) vs. sudhir880 (1563)",
+    "opening": "Queen's pawn (A46), Torre attack"
+}

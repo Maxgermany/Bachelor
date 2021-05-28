@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "I am White in this game I played at my chess club. It shows how only a couple of free developing moves can be worth more than just a measly pawn.",
+        "1... c5": "The Sicilian Defense. Just about the only opening played at my club.",
+        "2. Nf3 g6": "Black commits to a plan too early in the game. I haven't shown exactly what my plans are, so Black shouldn't either.",
+        "3. d4": "Gaining more central space and opening lines to develop my queenside.",
+        "3... cxd4 4. Bc4": "Instead of immediately recapturing like in the main line, I decide to develop another force, and may play c3 sometime later in the game to sacrifice the pawn for development, which would transpose into a variation of the Morra Gambit where Black has played g6, and playing g6 isn't good in the Morra Gambit, which is why Black shouldn't have committed to fianchettoing his bishop this early in the game, because he has no idea what my opening plans are.",
+        "4... e5": "Black should've been developing, but instead he wastes a couple tempi holding onto his pawn. And I can't play Nxe5 because of Qa5 .",
+        "5. c3": "Initiating the pawn sacrifice.",
+        "5... dxc3 6. Nxc3": "Now I am three pieces ahead in development, and I have strong control of the d-file with my queen. Also Black has holes on d6 and d5, and if he fianchettoes his bishop, it will be inactive. I should have enough compensation for the pawn.",
+        "6... Bg7": "Nc6 is another move, but Black probably wanted to develop his kingside as fast as possible, because he is seriously lacking in development.",
+        "7. Qd5": "Only the 7th move and I'm already attacking Black's underdeveloped position.",
+        "7... Qe7": "This guards both attacked pawns. Qf6 does the same, but Qf6 can be refuted by Bg5.",
+        "8. Nb5": "Now I am maximizing the strength of my developed pieces. Black doesn't stand a chance.",
+        "8... Na6": "Seems like the only move.",
+        "9. Nd6+": "Once my knight reaches f7, I'll win at least an exchange.",
+        "9... Kf8 10. Qxf7+": "I simplify the game before taking the material.",
+        "10... Qxf7 11. Nxf7 Ne7": "There isn't much Black can do in this position. His pieces aren't on good squares, he's about to lose the exchange, and I'm just going to keep improving my position until Black suffocates.",
+        "12. Nxh8 Bxh8 13. Bh6+": "Tempo.",
+        "13... Ke8": "Bg7 loses the e-pawn.",
+        "14. O-O": "Now I have finished developing. All I need to do is keep improving my position, because I have a winning material advantage, and Black's position can't do anything.",
+        "14... b6": "All Black can do is try simple developing moves.",
+        "15. Ng5 Bb7": "This move loses at least a piece. It's common for the side with the underdeveloped passive position to make tactical blunders like this.",
+        "16. Nf7": "Black may as well resign now. I'm threatening Nxh8 and Nd6 .",
+        "16... Bf6": "Black could've easily avoided losing a second piece by letting me take his unimportant h8-bishop, but now he will lose not one, but TWO pieces.",
+        "17. Nd6+ Kd8 18. Nxb7+ Ke8 19. Bxa6": "Black resigned. I am winning by a whopping rook   bishop, and there shouldn't be much hope for Black recovering. Sacrificing one simple pawn in the opening proved to have a great effect on my game."
+    },
+    "url": "https://gameknot.com/annotation.pl/club-game?gm=2672",
+    "gameName": "Club game",
+    "players": "bakerbaker (1781) vs. D. Springs (1678)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

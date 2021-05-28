@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "A staple first move, elegant in its execution but devastating in its repercussions. ",
+        "1... d5": "My opponent begins with a mistake! Early on! Frankly, I expected he/she/it would be better than this - their poorly-dealt move has clearly given me an early advantage. ",
+        "2. e4": "Good move here. Splendid, in fact. ",
+        "2... dxe4": "Another mistake! My Chekhovs Left Flank Sacrifice opening is paying off...",
+        "3. Bb5+ c6": "Just as planned. ",
+        "4. Qg4": "He didn't expect THAT, did he? Now who's laughing?",
+        "4... Bxg4": "Me, of course! My plan is all coming together...",
+        "5. Kd2": "Skillful move here. ",
+        "5... cxb5": "Silly silly silly. ",
+        "6. Kc3": "My king, moving into the offense. ",
+        "6... Nc6": "A hopeless endeavor with no real meaning. Sad. What a waste. ",
+        "7. Bg5 Qxd4+": "Very bad. ",
+        "8. Kb3": "Beautifully timed sliding tackle... I mean move. ",
+        "8... Qc4+": "Very silly. He doesn't checkmate me on h56. ",
+        "9. Ka3": "Safe from his onslaught. Skilled and deadly. ",
+        "9... Qa4#": "A fluke that ultimately tipped a close match that I dominated. "
+    },
+    "url": "https://gameknot.com/annotation.pl/mad-tacticz?gm=42869",
+    "gameName": "Mad tacticz",
+    "players": "tehpwn3r (1200) vs. aidanbh (1762)",
+    "opening": "Blackmar gambit (D00)"
+}

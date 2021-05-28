@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O Be7 9. Re1 d6 10. Nxc6 bxc6 11. e5": "P\u00f5nev avanguvariant, kus valged hiljem tihtipeale positsioonilise kvaliteedikahinguga musta m\u00e4ngu blokeerivad.",
+        "11... dxe5 12. Rxe5 Nd5": "Seda k\u00e4iku ei peeta just parimaks. Kuna mul variandi m\u00e4ngimise praktika eriti suur polnud, siis pani see siiski m\u00f5tlema.",
+        "13. Nxd5 cxd5 14. Bf4 Bd6 15. Bxd5": "H\u00e4mmastaval kombel ma ei m\u00e4rganud \u00fcldse tugevat v\u00f5imalust  15. Qxd5! ning p\u00e4rast 15...Bxe5 16. Qxe5 Qxe5 17. Bxe5 Ra7 18. Bxg7 Rg8 19. Bf6 on valgel l\u00f5ppm\u00e4ngus suur paremus.\n",
+        "15... Bxe5 16. Bxe5 Qxe5 17. Bxa8 Qxb2 18. Rb1 Qe5": "Etturi l\u00f6\u00f6mine viib kuristikku: 18... Qxa2 19. Rb8! O-O 20. Bb7! Qc4 (20... Bxb7 21. Rxf8+ Kxf8 22. Qd8#) 21. Qd6 g6 (v\u00f5i 21... Re8 22. Bxc8 Rxc8 23. Qd8+) 22. Qxf8+ Kxf8 23. Rxc8+ Qxc8 24. Bxc8 enamviguriga.\n",
+        "19. Bc6+ Ke7 20. Qd3 Qd6 21. Qc4": "Valgel on v\u00e4ike, aga selge \u00fclekaal. Mustal on raskusi Oc8 m\u00e4ngutoomisega, kui valge c-ettur  hakkab edasi liikuma, siis valmistab seegi mustale muresid. Lisaks tiirutavad valged vigurid ka musta kuninga \u00fcmber...",
+        "21... Rd8 22. Qh4+": "Parem oli kohe k\u00e4ia 22. Bf3, s\u00e4ilitades muuhulgas ka \u00e4hvarduse Lh4+ N\u00e4itlik variant: 22...h6 23. Rd1 Qb6 24. Rxd8 Qxd8 25. Qb4+ Qd6 26. Qc3 Bd7 27. Qxg7 etturiv\u00f5iduga.\n",
+        "22... f6": "Ei sobinud 22... Kf8 23. Bf3. N\u00fc\u00fcd n\u00f5rgeneb musta 7. rida.\n",
+        "23. Bf3 Qa3": "Julge k\u00e4ik. Pidasin seda algul veaks, arvestades variante a la 23... h6 24. Qg4 Kf7 25. Rd1 Qb6 26. Rxd8 Qxd8 27. Qh5+ Kg8 28. c4 selge \u00fclekaaluga.\n",
+        "24. Rb3 Qc1+ 25. Kg2 Qxc2 26. Qb4+ Kf7": "?? Kaotab kohe. \u00dcllatusena m\u00e4rkasin anal\u00fc\u00fcsides, et nii 26... Ke8, kui ka 26... Rd6 27. Rc3 Qd2 28. Rc7+ Bd7 29. Qb8 ei annagi valgele midagi erilist. V\u00e4hemetturi kompenseerivad valge aktiivsed vigurid, kuid c-ettur olnuks valgele hilisemas m\u00e4ngus tugevaks trumbiks... n\u00fc\u00fcd on see laualt lihtsalt lahkunud.\n",
+        "27. Rc3 Qf5 28. Rxc8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/hof-2010-jyv-skyl-finland?gm=32605",
+    "gameName": "HoF 2010, Jyv\u00e4skyl\u00e4, Finland",
+    "players": "Lauk \u00dclar  vs. Riihim\u00e4ki Pekka ",
+    "opening": "Sicilian (B47), Taimanov (Bastrikov) variation"
+}

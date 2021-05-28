@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, here I get into a reasonable position in the endgame and with a draw in sight guess what - I go and blow it again.  It has to be said that a skillful bit of camouflage on Freddy's part was a contributory factor in my blundering in this game.  I kick off with e4.",
+        "1... e5 2. Nf3 d6": "2. ........ d6 - the Philidor's Defence, Freddy decides to back up his e pawn with a pawn.  Freddy plays into a line where an early queen trade ensues.",
+        "3. d4 Nc6 4. dxe5": "4. dxe5 - the start of the trade.",
+        "4... Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8": "6........ Kxd8 - the queens have been traded - Looking at this position it seems hard to believe that I end up getting Freddied yet again!",
+        "7. Bc4 f6 8. Be3": "8. Be3 - development.",
+        "8... Bd6 9. Nc3 c6 10. O-O-O": "10. 0-0-0 - as it looks as though we are nearing an endgame I feel queenside castling instead of kingside castling is better.",
+        "10... Kc7 11. a3 f5 12. exf5": "12. exf5 - I decide to take on f5 in order to give Freddy an isolani.",
+        "12... Bxf5 13. f3 Nf6 14. Bd3": "14. Bd3 - challenging the b1-h7 diagonal.  This precipitates an exchange of light square bishops.",
+        "14... Bxd3 15. Rxd3 Rhd8 16. Bg5": "16. Bg5 - I decide to pin Freddy's knight to his rook.",
+        "16... Bc5 17. Rxd8 Rxd8": "17. ......  Rxd8 - now 1 pair of rooks is exchanged.",
+        "18. Ne4 Be7": "18. ..... Be7 - Freddy breaks the pin.",
+        "19. Rd1 Rxd1+ 20. Kxd1": "20. Kxd1 - the remaining rooks are exchanged and now it is an endgame - after just 20 moves.",
+        "20... a5 21. Nxf6 gxf6 22. Bh4": "22. Bh4 - keeping the f6 pawn pinned to Freddy's dsb.  I bring Henry out to e2 next move.",
+        "22... a4 23. Ke2 Kd6 24. g4": "24. g4 - to hold back f5.",
+        "24... b5 25. c3 Kd5 26. Kd3 c5 27. Be1": "27. Be1 - to stop the possibility of a bishop sac on b4.",
+        "27... c4+ 28. Ke3": "28. Ke3?? - here is the error.  Do you see the camouflage?  Freddy reveals all in the next two moves and my position unravels big time.  Freddy had this to say about what I should have played here:-  \"I tell you what I would have moved if I were on your side of the board.. 28. Ke2 instead of Ke3 > this to avoid a possible check from the bishop 29. h4 instead of gxf5 > avoid double pawns and keep your pawn line connected\"\r\n\r\n\r\n",
+        "28... f5 29. gxf5 Bg5+ 30. Ke2 Bc1 31. Kd1": "31. Kd1 - Freddy had this to say about my king move:- \"What about 31. Bd2 and try to exchange or lock in my bishop...\" ",
+        "31... Bxb2 32. Kc2 Bxa3 33. Kb1": "33. Kb1? - and Freddy had this to say about my move to b1. \"I would have moved 33. f6 or Bh4\"\r\n",
+        "33... Be7 34. Bd2 e4 35. fxe4+": "35. fxe4+? - would f5 have been an improvement?",
+        "35... Kxe4 36. Be1 Kxf5 37. Bg3 Bf6 38. Kc2": "38. Kc2 - the only way to hold on to the c pawn.  Freddy surprises me with b4.",
+        "38... b4 39. cxb4 a3 40. Kb1 c3 41. b5 a2+": "41. ..... a2+ and # in 4.  Notice that this is a decoy.  Henry must capture but the c pawn now crowns.",
+        "42. Kxa2 c2": "42. ....... c2 - #3",
+        "43. b6 c1=Q": "43. ...... c1/Q - #2",
+        "44. b7 Qb2#": "44. ...... Qb2 CHECKMATE.  A sad end."
+    },
+    "url": "https://gameknot.com/annotation.pl/camouflage?gm=22789",
+    "gameName": "Camouflage",
+    "players": "jstevens1 (1771) vs. easy19 (2205)",
+    "opening": "Philidor's defence (C41)"
+}

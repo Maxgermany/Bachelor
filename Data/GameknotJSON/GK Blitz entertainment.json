@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Nf6": "Normally Black plays e6 or c6 protecting the d pawn with another pawn.",
+        "3. cxd5 Nxd5 4. Nf3 g6 5. e4": "White gets an ideal centre.",
+        "5... Nf6 6. Nc3 Nc6": "? This symmetrical defence favors White who exploits his central pawn structure.",
+        "7. d5 Nb4": "? Black did not like retreating his knight to b8 and gives an opportunity for us to enjoy this entertaining miniature.",
+        "8. Qa4+ Qd7 9. Qxb4 e6 10. Qd4 Bg7 11. Bb5": "Looks dangerous but it takes a few more moves to realize the danger.",
+        "11... c6 12. Bg5": "! This is an unusual pin of the knight on f6. If knight moves then bishop on g7 is lost. If Black castles then the knight on f6 is lost. If Black plays 12...Nh5 13. dxc6 Bxd4 14. cxd7+ Bxd7 Nxd4 loses a piece.",
+        "12... Qe7": "Queen enters into another pin to protect the knight.",
+        "13. e5": "The knight is lost.",
+        "13... h6 14. dxc6 Qd8": "?? Castling was essential.",
+        "15. c7+": "This is deadly. Queen is lost now. Maybe even the King is lost.",
+        "15... Ke7": "Can you see the next move? Pretty obvious I guess.",
+        "16. Qb4+": "Black resigned as the next move is mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/gk-blitz-entertainment?gm=32216",
+    "gameName": "GK Blitz entertainment",
+    "players": "DG  vs. Mar (1200)",
+    "opening": "QGD (D06), Marshall defence"
+}

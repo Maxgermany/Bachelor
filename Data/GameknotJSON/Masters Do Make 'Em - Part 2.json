@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nMaster X is a very strong player, and I have copped Old Matey from her in quite a few of her games.  However, Master X was to slip up in this game and allow a powerful mating attack and material winning sacrifice and give hope to all players under 2000 that beating them is not an impossible task.  You just have to capitalise on any error that they make when you are aware of it.  Ineedaname was aware of it and had done the necessary checks for king safety before making the sacrifice that prompted resignation on the grounds of Ruinous Loss of Material after white went for the jugular.  So how did this happen?  Well, here is the game: http://gameknot.com/analyze-board.pl?bd=18603742&fb=1&rnd=0.3053444196581168",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "3. ..... Bb5 - the Ruy Lopez.",
+        "3... a6 4. Ba4 Nf6 5. O-O": "5. 0-0 - this is typical of a Lopez.  White's kingside develops very fast but the queenside is a lot slower to get started.",
+        "5... Be7 6. Re1 b5": "6. ..... b5 - force-back.",
+        "7. Bb3 d6 8. c3 O-O": "8. ..... 0-0 - now black castles.",
+        "9. h3 Bb7 10. d4": "10. d4 - white contests the centre with this move.  Indeed a possible d5 is threatened, keeping black firmly tied up.",
+        "10... Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4": "14. cxd4 - after a lot of subtle manouevering comes a pawn trade.  White has an impressive looking pawn centre but can white capitalise on this?",
+        "14... Nb4 15. Bb1": "15. Bb1 - white does not want his bishop traded off for black's knight.",
+        "15... c5 16. d5": "16. d5 - pawn wedge, but can it last?",
+        "16... Nd7 17. Ra3 c4 18. axb5 axb5": "18. .... axb5 - opening up the a file.",
+        "19. Nd4 Qb6 20. Nf5 Ne5 21. Rg3": "21. Rg3 - putting g7 under the hammer and tying Master X's dsb down to defending it.",
+        "21... g6 22. Nf3": "22. Nf3 - bringing up reinforcements on the weakened castled position.",
+        "22... Ned3 23. Be3 Qc7 24. Bxh6": "24. Bxh6 - hallo, hallo, hallo, we are about to have an exchange sacrifice to open up a vital line.",
+        "24... Nxe1 25. Nf3h4": "25. N3h4 - nasty, nasty, nasty.  On analysis black will get nearly enough material for his queen but his king will be dangerously exposed.  Gameknot analysis gives white's advantage as +2.79 but Master X thought the deficit big enough to resign on the grounds of ruinous loss of material.  White played very well in this game and showed great ingenuity in his mating attack.  It just shows, it can be done!\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/masters-do-make-em-part-2?gm=47511",
+    "gameName": "Masters Do Make 'Em - Part 2",
+    "players": "ineedaname (1663) vs. Master X (2225)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

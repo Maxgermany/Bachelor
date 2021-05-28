@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bf4 e6 3. e3 c5 4. c3 Nc6 5. Nf3 Qb6": "Instead of d6 or d5, or b6... now he has to defend b2.",
+        "6. Qc1 Ne4": "Crazy move, without a real purpose. ",
+        "7. Nbd2 d5": "I thought on quick central exchanges, for a quiet game, looking for drawn, mostly. ",
+        "8. dxc5 Bxc5": "Now, 9.b4 seems strong. ",
+        "9. Nb3 Bd6": "Exchanging his strong B. ",
+        "10. Bg3": "Well, for a N is better than for my dsb!",
+        "10... Nxg3 11. hxg3": "Now I'll have a weak kingside, but I am aware of it. ",
+        "11... e5 12. Qd2 Be6 13. Ng5": "I can't keep my B pair. True is that defending the d pawn with Ne7 was probably better, since my N is doing nothing on c6.",
+        "13... O-O": "I bet you won't be able to mate me. Let's see.",
+        "14. Bd3": "I should have played e4 now, and accept the exchange: Bxe4, and if dxB, QxBd6. ",
+        "14... h6": "I swore he'd gone for NxBe6.",
+        "15. Qc2 e4": "Well, I'll force a sacrifice, and let's see how it comes!",
+        "16. Bxe4 dxe4 17. Qxe4 Rfe8": "I think this is the only move which prevents mate and all danger...",
+        "18. Qh7+ Kf8 19. Ne4 Ne5": "Bringing pieces to my Kside. Ng6 will cause problems to his Q. ",
+        "20. Rd1 Rad8 21. Qh8+ Ke7 22. Qxg7": "Now the threat is Q or N f6. Moreover, the h6 pawn is \"hanging\".",
+        "22... Ng4": "...et voil\u00e1!",
+        "23. Rh4": "...sure... but I think that Qd4 was the only sensible move. ",
+        "23... Be5": "I love to trap queens...",
+        "24. Qh7 Reh8 25. Rxd8": "The truth is that I can play someting like QxR, and his Q is still trapped, but...",
+        "25... Rxh7": "...but this is neat! Now, he has Ng5, but all that comes from this move are more minor pieces exchanges, and I also have the threat on Rd8, and moreover: Nxe3, with incursions from my Q...",
+        "26. Rg8 f5": "... but this one was too nice not to play it. White has Ne4, but after Qxb2... So this is all... thanks for reading!"
+    },
+    "url": "https://gameknot.com/annotation.pl/almost-fried-by-a-1700?gm=64935",
+    "gameName": "Almost fried by a 1700",
+    "players": "Benesh450 (1692) vs. damafi (1641)",
+    "opening": "Queen's pawn game (A45)"
+}

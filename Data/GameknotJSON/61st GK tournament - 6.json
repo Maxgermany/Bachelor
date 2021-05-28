@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "The move I get the most as black.",
+        "1... e5": "My standard reply.",
+        "2. Nf3 Nc6 3. d4": "Scotch game,Me and my friend ruebenfine(his GK handle) played a game that reached the opening we're about to see.Even though I lost the game.I got the feeling as this position as Black.",
+        "3... exd4 4. Bc4": "Scotch Gambit.",
+        "4... Nf6 5. O-O Nxe4 6. Re1 d5": "Still main line.",
+        "7. Bb3": "?!White deviates from the main line,which is 7.Bxd5.",
+        "7... Be6": "Protecting the pawn from 8.Bxd5.",
+        "8. Nxd4 Nxd4 9. Qxd4 Bc5 10. Qxg7": "??This loses!This is A crucial juncture for Black.",
+        "10... Qh4": "! The GK database goes for 10...Bxf2+ but I think this move better.Black offers the sacrifice of both his rooks.The point is after 11.Qxh8+? Kd7 12.Qxa8?? 12...Qxf2+ 13.Kh1 Qg1+! 14.Rxg1 Nf2#!Amazing!Black,down a queen and both of his rooks,mates with just his knight.Too bad this never happened...",
+        "11. g3": "Blocking the threat,but weakening the light squares on the kingside...",
+        "11... Bxf2+ 12. Kg2 Qh3+": "Forced.",
+        "13. Kh1 Bxe1": "Threatening Qf1#",
+        "14. Qxh8+ Kd7 15. Qd4": "White thinks he has covered the threat,but...",
+        "15... Nxg3+ 16. Kg1 Ne2+": "!White is as good as done.",
+        "17. Kh1 Nxd4": "White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/61st-gk-tournament?gm=26254",
+    "gameName": "61st GK tournament",
+    "players": "chess_reto (1513) vs. rookie879 (1485)",
+    "opening": "Scotch gambit (C44), Dubois-Reti defence"
+}

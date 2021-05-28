@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "Scandinava classica, interessante. Posizione per un sacrificio ma... non l'ho saputo portare avanti!!!\nMy usual scandinavian - Lasker line, with a goog glance of danger for white. ",
+        "1... d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. Nf3 Qc7 6. O-O Bf5 7. d4 e6 8. Ne5 Nd7 9. Bf4 Bd6 10. Bg4": "Till here everything's as in the \"book\" (well, \"my\" book). Now, the interesting idea I want to submit is o-o-o, exposing black to Nxf7, winning a rook for a knight but, in the last term, for two minor pieces, since the knight cannot escape and black will take the bishop in f4, threatening to go on with Bxh2 . \nThe question is: is this move playable for black? Taking into account that white can answer, for instance, BxBf5 and then leaving a lot of possibilities for black, but all leading to a weak e column. \nThis is the reason for I didn't play it, but still I wonder...",
+        "10... Ne7": "Best answer for white, probably, is 11. BxB, and after NxB... maybe 12. Ne4, or 12. g4!?",
+        "11. Re1 O-O-O": "I couldn't resist, but probably it would have been better before.",
+        "12. Nxf7": "It loses two minor pieces for a rook, so it is good for black. But I wanted to go further.",
+        "12... Bxf4 13. g3 Nf6": "The sacrifice. Is Bd6 better? This is an important question, seeing the rest of the game. ",
+        "14. Bxf5 Nxf5 15. Nxd8 Rxd8": "Now, the rook will press on the d column, and after white takes the bishop, I saw a lot of danger for white. ",
+        "16. gxf4": "He accepted the sacrifice, probably he analyzed it very well. I always trust on my aggressive play, but not always it works...",
+        "16... Qxf4": "A quality under, but... what an attack!",
+        "17. Ne2 Qg4+": "If Kf1, Qh3  with more or less the same result, but one move quicker! ",
+        "18. Ng3 Qh3": "First threat of a mate threat: Ng5. \nIf 19. f3, Nxg3, 20. h2xg3, Qxg3 , 21. Kf1, Ng4! (22. fxN, Rf8  and mate, and if 22. Qe2 or Qd2, Nh2  forcing white to lose the queen, and if 22. Re2, Qh1 , 23. Kd2 and Rxd4  wins the queen)!\nSo he played...",
+        "19. Nxf5": "It doesn't matter, my friend... :-)",
+        "19... Ng4": "Mate threat, as promised :-) ",
+        "20. Qd2": "If 20. Re2, it's mate in 2.",
+        "20... Qxh2+ 21. Kf1": "Now, my blindness. I didnt' considered 21. ..., Rf8. \nNow, he can save the knight, winning a second piece. Say 22. Ng3. But then I can take Rxf2, and mate. And if he protects f2 with 23. Re2, Qh1#. \n\nAnd if 22. Ne7 , I simply play Kd7, while 22. f3 loses the queen.\n\nIt appears as if, even if white has a move, he can't use it to save the game. \n\nThe only choice seems to be 22. Ke2, since after Qxf2 , 23. Kd1, QxQ, 24.QxQ, e6xf5, and despite the quality, black pawns should win but the game is still playable. \n\nBut meybe black has an even better choice: after 22. Ke2, Nxf7... what? The threat is to win the white queen with the knight after the discovered check. \nSo let's take a look at the possible moves for white.\n\nA) 23. Rh1 doesn't help after Nxh1 , and now white have to choose between \n1) 24. Kd1, Qg1 , 25. Qe1, QxQ, 26. KxQ, and after RxN black wins, or 25. Ke2, and QxRa1 or even 25. ..., Qg4 , 26. Ke6, RxN and white cannot take the Nh1 because of Rf5 , Ke2 and Qg2 , winning the rook, or \n2) 24. Kd6, Qh3 , and now white again have to choose between 25. Ne3, Nf2 , 26. Ke2, Qf3 , 27. Ke1, QxRa1, winning, or 25. Qe3, QxN , 26. Kd2, Qf2 , 27. QxQ, and black wins because can save the h1 knight both with RxQ or NxQ (28. Rf1, Rf6!). \n\nLast chance for white: B) 23. Qb4, threatening the rook... but, while the simple RxN balances the material, Ne4  or Ng4  require more work (23. ..., Ng4 , 24. Kd3, RxN, 25. Rxe6, Rf3 , 26. Kc4, Ne3 , 27. RxN (Kc5, Rf5  and mate...).\n\nI didn't see it. Did I lose the occasion to be a Morphy? :-))))))",
+        "21... Qh1+ 22. Ke2 Qe4+ 23. Ne3 Rxd4 24. Qc3 Nh2": "Second mate threat. But white is above 3 points...",
+        "25. Reg1 Qf3+ 26. Ke1 Qe4 27. Rxg7": "Probably white doesn't see the perpetual trap... or he welcomed it!",
+        "27... Qh1+ 28. Ke2 Qf3+ 29. Ke1 Qh1+ 30. Ke2 Qf3+ 31. Ke1 Qh1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/scand-my-nice-sac-almost-won?gm=20777",
+    "gameName": "Scand, \"my\", nice sac almost won",
+    "players": "writeranathema (1666) vs. damalfi (1652)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2": "theory so far: Giuoco Piano...",
+        "8... d6": "Black should continue with d5...",
+        "9. d5": "so White plays it...",
+        "9... Ne5 10. Bb3 O-O 11. Nxe5 dxe5 12. O-O Qd6": "not the best continuation: White is ahead in development...",
+        "13. Nc4 Qe7 14. d6 cxd6 15. Qxd6 Qxd6 16. Nxd6": "White has won the opening...",
+        "16... b6 17. f3 Ba6 18. Rfc1": "only helping White in development...",
+        "18... Rad8 19. Nxf7 Rxf7 20. Bxf7+ Kxf7 21. Rc7+ Rd7": "the only way, to prevent further damage...",
+        "22. Rxd7+ Nxd7 23. Rc1 Nc5": "forced...",
+        "24. b4": "no prisoners taken...",
+        "24... Ne6 25. a4 Bd3 26. g3 a6 27. Rc3 Be2 28. Kf2 Nd4": "both replacing the pieces...",
+        "29. f4 Ke6 30. f5+ Kf6 31. Rc7 Bd1 32. a5 bxa5 33. bxa5 Be2 34. h3": "closing up the Kings' wing...",
+        "34... Bb5 35. h4 h6 36. g4 Be2 37. Kg3 Bf3 38. Rb7 Bxe4 39. Rb6+ Ke7 40. Rxa6": "settling the score once more...",
+        "40... Bc6 41. Ra7+ Kf6 42. a6 g6 43. fxg6 Kxg6 44. Rc7 h5": "White is draining off, Blacks' last tempi...",
+        "45. a7": "the winning move...",
+        "45... Bh1 46. gxh5+ Kxh5": "forcing the King to a bad place...",
+        "47. Rc8 e4": "the final mistake: after a7-a8, Black resigned on the spot..."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game-in-3-10-blitz?gm=64645",
+    "gameName": "Chess game in 3+10 blitz...",
+    "players": "fiercequeen (2059) vs. iamedgar (UR)",
+    "opening": "Giuoco Piano (C54), Krause variation"
+}

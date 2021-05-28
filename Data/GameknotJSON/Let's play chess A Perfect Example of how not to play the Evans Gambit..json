@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5": "Giucco Piano or Italian Game.",
+        "4. b4": "Evans Gambit.",
+        "4... Bxb4 5. c3": "Standard moves. Some moves include Bd5- the classical variation, Ba5- Compromised defence, Be7 and the dubious 5.Bf8?",
+        "5... Bc5": "The classical variation of the Evans gambit. Main line is O-O here but instead I strike the centre first.",
+        "6. d4 exd4 7. cxd4 Bb6 8. O-O": "This transposes into the Classical Variation.",
+        "8... h6": "Time wasting move although there wasn't really any good moves. Nf6 would get crushed by e5. Na5 or d6was probably best here although i could play Ng5 if he played d6.",
+        "9. Bb2": "My bishop is now on the long a1-h8 diagonal and exerts a tonne of pressure.",
+        "9... Nf6 10. Re1": "10.e5 was far better. I gave him time to castle.",
+        "10... O-O 11. e5 Nh7 12. a4": "Passive square for the knight. Now I am probably overextending my pawns. He/she has a queenside pawn majority of 3-1. ALthough i have a nice space advantage he is still up a pawn and could hold the position together. Hiss extra pawn may win for him in the endgame.",
+        "12... a6": "Providing an escape square for the bishop if a5 is played. a5 can not be played immediately as I would lose another pawn and he'd be up 2 solid pawns.",
+        "13. Nc3 d6": "Trying to break up my pawn structure.",
+        "14. exd6 cxd6 15. d5": "Attacks the knight",
+        "15... Na5": "Probably played too late. My bishop wanted to come to d3 and attack squares on the g and h file.",
+        "16. Bd3 Nf6 17. Qc2 Bg4 18. Kh1": "I waste no time to prevent doubled pawns. I move my king because of the potential pressure on the g file.",
+        "18... Bxf3 19. gxf3 Re8": "Offers the exchange of rooks. If accepted it would be an easy win for black.",
+        "20. Reg1": "Seizes the g file immediately.",
+        "20... Rc8": "Trying to get some form of counterplay. Exerts pressure on my queen.",
+        "21. Qd2": "getting ready for some king side attack. Best here was kf8, getting ready to run to the queenside.",
+        "21... Nb3": "This is a fork but i don't really care. I'll let him have the rook as long as I have a better position.",
+        "22. Qxh6 Kf8 23. Qxg7+": "I smash through his protection",
+        "23... Ke7 24. Ne4 Nxe4": "The ",
+        "25. Bxe4 Qc7": "Sees the threat on f6. This is now a forced win for me....\n",
+        "26. Bf6+": "26. Bf6+ Kd7 27. Bf5+ wins the game. If 27. ... Re6 QxF7 or Bxe6. Although I ended up victorious I clearly failed to gain an considerable advantage durinng the first 10 moves and only inaccuracy's and blunders from the opposition guided me to victory. \n\n\nI assume that most of you would know the continuations. I just put the continuations for the people who didn't know."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-a-perfect-example-of-how-not-to-play-the-evans-gambit?gm=40808",
+    "gameName": "Let's play chess: A Perfect Example of how not to play the Evans Gambit.",
+    "players": "richard1234567 (1490) vs. royal291 (1517)",
+    "opening": "Evans gambit (C51), normal variation"
+}

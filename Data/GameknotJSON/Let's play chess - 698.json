@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d5 3. exd5 e4": "Ici je pr\u00e9f\u00e8re avancer E5 pour menacer le cavalier, plut\u00f4t que de prendre tout de suite D5 avec la dame (que je pourrai de toute fa\u00e7on prendre plus tard). L'id\u00e9e \u00e9tant de me mettre en position d'attaquant pour rattraper le coup de retard noir.",
+        "4. Nd4 Bc5": "Je continue la chasse",
+        "5. c3": "Ici je vois deux choix qui s'offrent \u00e0 moi :\n * Changer de cible (notamment, prendre D5 avec la dame)\n * Faire l'\u00e9change C5-D4",
+        "5... Bxd4": "Je choisis de faire l'\u00e9change, pensant que le deuxi\u00e8me pion pourra \u00eatre pris facilement",
+        "6. cxd4 Qxd5 7. Nc3": "Je passe en position de chass\u00e9, ce qui ne me plait gu\u00e8re, mais j'ai l'avantage de pouvoir m'en sortir en prenant le pion, comme pr\u00e9vu ;)",
+        "7... Qxd4 8. Bb5+ Nc6": "Ici je pr\u00e9f\u00e8re sortir le cavalier que le pion, afin d'amener un renfort \u00e9ventuel par la suite",
+        "9. O-O": "Voyant son rock je suis confort\u00e9 dans ma position d'attaquant et non plus d\u00e9fenseur. Je d\u00e9cide de tenter le mat avec dame en G2.",
+        "9... a6": "Premi\u00e8re \u00e9tape : lib\u00e9rer le terrain. Il me faudra amener ma dame en D5 (couvert par le cavalier) et mon fou en B7 apr\u00e8s avoir d\u00e9plac\u00e9 mon cavalier pour lib\u00e9rer la vue (impossible tant que le fou blanc B5 est l\u00e0). Je commence donc par chasser le fou.",
+        "10. Ne2": "Pensant jouer un bon coup en mena\u00e7ant ma dame au lieu de fuir avec le fou, il m'aide en r\u00e9alit\u00e9 puisque le cavalier ne couvre maintenant plus la position que je ch\u00e9rissais. Je peux sauver ma dame en mena\u00e7ant son fou : les deux pi\u00e8ces qui me d\u00e9rangeaient seront parties.",
+        "10... Qc5 11. Ba4 b5 12. Bb3 Na5": "Le deux tours pr\u00e9c\u00e9dents me permettent surtout de lib\u00e9rer la place pour le fou C8 vers C7. Ils me permettent aussi \u00e0 chaque tour de menacer son fou \u00e0 cause de son mauvais placement, d\u00e9tournant l'attention de mon adversaire !",
+        "13. d4": "Tr\u00e8s mal jou\u00e9 ! Il ignorait la prise en passant, or il m'offre avec ce coup de d\u00e9placer gratuitement le pion E4 qui g\u00eanait ma vue vers le mat, tout en mena\u00e7ant son cavalier (et lui faisant perdre encore un tour). Cela fait maintenant 4 tours que je me pr\u00e9pare sans qu'il ne puisse jouer ses propres coups.",
+        "13... exd3 e.p. 14. Qxd3 Bb7": "Phase 1 : OK\nIl aurait du le voir \u00e0 ce moment l\u00e0 et avancer son pion en F3.\nIl a sans doute cru que je pr\u00e9parais un rock.",
+        "15. Be3": "Aveugle, il pr\u00e9f\u00e8re menacer \u00e0 nouveau ma dame. Je recule pour prot\u00e9ger mon roi de l'\u00e9chec par la dame en E4. Accessoirement cela me mettra d\u00e9finitivement dans la position du mat.",
+        "15... Qc6": "Je croise tr\u00e8s fort les doigts pour qu'il ne casse pas mes plans. Il a maintenant trois moyens de le faire :\n * Avancer son fou en D5 (couvert par la dame)\n * Avancer son pion en F3 (couvert par le pion G2)\n * Ou encore couvrir G2 avec par exemple son cavalier en F4\nDans ce cas j'ai pr\u00e9vu de rocker avant de r\u00e9organiser un autre assaut.",
+        "16. Rac1": "Difficile de croire qu'il n'a pas fait expr\u00e8s de me l'offrir ;)",
+        "16... Qxg2#": "Un classique"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=28460",
+    "gameName": "Let's play chess",
+    "players": "viharnik (1140) vs. naholyr (1197)",
+    "opening": "QP counter-gambit (C40), Maroczy gambit"
+}

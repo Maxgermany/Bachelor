@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "I hope to be able to translate these words into english soon. Sorry\r\n\r\nUna buena partida para aprender de los errores, no tan traumaticamente.",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5": "Este ataque es algo apresurado como se demuestra posteriormente.",
+        "5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. Nf5 Nf6 8. Nc3 Nxe4": "Para eliminar el molesto caballo de f5, pero...",
+        "9. Nxe4 Qxf5 10. Nxd6+": "Esta no la vi, el caballo se instala en el comedor de la casa.",
+        "10... Bxd6 11. Qxd6": "Aqui ya me vi en problemas, aunque el blanco todavia no tiene un ataque definitivo, la siguientes dos jugadas son pensando en el enroque que venia del blanco, a apoyar a su dama...",
+        "11... Nc6 12. O-O": "Claro",
+        "12... Qxc2": "Para minimizar el da\u00f1o de Td1.",
+        "13. Re1": "Quiza era mejor b3 para darle vuelo a su alfil por a3 apoyando la accion de la dama. Creo que esta movida fue un error pues resto potencia al ataque blanco y perdio un tiempo.\r\n\r\nDe todas formas yo ya estaba aprendiendo las lecciones de un apresurado e5...",
+        "13... Rd8": "Defensa obvia al ataque. Aqui se ve que tambien pudo ser mejor Af5 para el blanco",
+        "14. Rxe5+": "Error que entrega material. Es claro que apresurarse es malo :-)",
+        "14... Nxe5": "Y el ataque se desvanece con perdida de material.",
+        "15. Qxe5+ Kf8 16. h3": "Dandole aire a su rey, pero ya no queda mucho.",
+        "16... f6": "Para sacar la molestosa dama.",
+        "17. Qf4 Rd1+": "Y se consolida la ventaja material del negro. Ya paso el temporal.",
+        "18. Kh2 Kf7": "Para evitar Db8 ganando la torre. Ya no hay defensa para Tc8 y la cosecha continua.\r\nFin de la batalla\r\nLecciones aprendidas: Nunca apresurarse y siempre analizar antes de mover, aun cuando la posicion parezca sencilla.\r\n\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/55th-gk-tournament?gm=22538",
+    "gameName": "55th GK tournament",
+    "players": "henrythefifth (1590) vs. astrom (1768)",
+    "opening": "Sicilian (B54)"
+}

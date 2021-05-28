@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. Nf3": "A flexible opening move that can transpose to a c4 or d4 opening.  I started playing this move more frequently recently simply to avoid e5 in response to c4--the so-called Reverse Sicilian by black.",
+        "1... Nc6": "The \"Mustang Defense\".  Certainly a playable move, but Nc6 here seems to me to not be the most flexible move order, depending on what white does.  By blocking his c-pawn, black has limited many of his options and might be forced to waste time moving the knight again in order to get in c5, which can be a key break for black in many c4 or d4 openings.  Also, after 2. e4, black is more or less committed to playing 2...e5, again limiting his options.",
+        "2. d4 d5 3. c4 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 Be7 7. e3 O-O 8. Rc1 Bd7": "This seemed a bit awkward to me.  Black seems to be getting a little tied up, and I looked hard for a way to perhaps take advantage of it.  It turns out that I could initiate a series of exchanges which highlighted the weaknesses of both Nc6 (meaning the immobilization of the c-pawn) and the bishop sitting on d7.",
+        "9. cxd5 Nxd5 10. Nxd5 Bxh4 11. Nxh4 exd5 12. Qh5": "The point.  Other black recaptures in the previous sequence of exchanges would have likely led to the loss of the c-pawn, so black was just tied up and uncoordinated in any event.",
+        "12... Qe7 13. Qxd5 Qxh4 14. Qxd7 Qg5 15. Qxc7 Nxd4": "I'm not sure if this was a blunder due to an oversight (i.e., failing to see that when the knight moves my queen is now protecting the rook from an attack by his queen) or if my opponent indeed saw that this lost a knight but improperly evaluated the position after 16...Rac8, which does mean I have to give up my queen, but clearly leaves me with significant compensation, in fact, a winning material advantage.  The rest of the game was essentially just converting the material advantage and being sure to not blunder with a back rank mate, a perpetual or a stalemate somehow.",
+        "16. exd4 Rac8 17. Qxc8 Rxc8 18. Rxc8+ Kh7 19. Bd3+ g6 20. O-O Qd2 21. Bc4 Qf4 22. d5 f5 23. Rd1 Qd6 24. Re1 h5 25. h4": "Providing \"luft\" for my king as well as perhaps limiting an escape square for his king.",
+        "25... Kg7 26. Re6 Qf4 27. Re1": "Drops a pawn but I need to prevent perpetual check.  Plus, black's capture of the h-pawn, if he really wants it, buys me time to push my d-pawn.  \"Passed pawns should be pushed!\"",
+        "27... Qxh4 28. d6 Qd4 29. Rc7+ Kf6 30. d7 h4 31. Bb3": "A little \"finesse\" move.  Allows me to place my rook behind my passed pawn without fear of capture.",
+        "31... h3 32. Rd1 h2+ 33. Kh1": "The last \"finesse\".  Taking the pawn would either drop my rook (after 33...Qf4+) or possibly have led to a perpetual check situation.",
+        "33... Qxf2": "Everything is forced from here on. 1-0",
+        "34. d8=Q+ Ke5 35. Qd6+ Ke4 36. Re7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=61527",
+    "gameName": "Let's play chess",
+    "players": "kia-kid (1695) vs. cieloazul (1719)",
+    "opening": "Reti opening (A04)"
+}

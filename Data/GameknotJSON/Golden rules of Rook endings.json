@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3": "Believe it or not most top level GM's have ditched f4 for Nf3. This is because of black's recent successes against the f4 lines. Still the f4 lines remain common in amateur play because most black players have not kept up with modern theory. \n",
+        "6... g6 7. e4": "At this juncture white does not have to play e4 but instead can play 7.g3 with very interesting play for both sides. The advantage of 7. g3 is that white steers the game into more positional style of play. However, the meekness of 7. g3 should not be underestimated! AS it is notorious for it's complex middle game\n",
+        "7... Bg7 8. Bf4": "More common are 8.h3; 8.Bd3 and 8.Be2. The idea is to test Stalhandske's knowledge of the Modern Benoni. If he is abreast this move should be no problem, Matter of fact black can get some very good chances out of it. \n",
+        "8... O-O": "Alternative variation: 8... a6 9. Qa4+ Bd7 10. Qb3 b5 11. Bxd6 b4 [!?] 12. Na4 Nxe4 13. Qe3 Bxa4\n",
+        "9. Nd2": "a normal manouever for white in the modern benoni Bf4 lines. White wants to place a knight on c4 where it can attack d6 and defend e4 from a more active outpost. \n",
+        "9... Ng4": "This move and ...Ne8 are black's latest attempt to refute white's Bf4 ideas. \n",
+        "10. Be2 Qf6": "?!\nThe whole point of 9...Ng4 is to try and prevent white from playing Nc4 easily. 10...Qf6 actually hinders black's development and makes the Queen and knight targets. \nAlternative variation: 10... Ne5 [=] 11. O-O f5 12. h3 fxe4 13. Bg3 (13. Be3 Re8 14. Ndxe4 Nf7)13... Bf5\n",
+        "11. Bg3 h5": "!?\n",
+        "12. O-O h4": "Forces that exchange but it does little to clear the air. After the exchange the position is quite complex. \n",
+        "13. Bxd6 Nxf2 14. Bxf8 Nxd1 15. Rxf6 Nxc3 16. bxc3 Bxf6": "After a series of forced exchanges the dust has settled somewhat. Leaving white with a potentially dangerous majority in the center. But black has better piece mobility and a slightly superior pawn structure but his position is quite passive. The result is semi-equality with better attacking chances for white. \n",
+        "17. Bxc5 Bxc3 18. Rd1 Nd7 19. Bf2 Nf6": "!?\nA risky gamble. Black gives up a pawn in order for the opportunity to destroy white's pawn structure. \nAlternative variation: [possibly better is ] 19... h3 20. Nf3 Nf6 21. e5 Ne4 [\u2a72]\n",
+        "20. Bxh4 Bd7 21. Bd3 Re8 22. Rb1 Kg7 23. Be1": "attacking c3 and forcing black's next few moves. \nAlternative variation: 23. Rxb7 [?] 23... Bc8 24. Bxf6+ Kxf6 25. e5+ Kg7 26. Rc7 Bxe5 [=]\n",
+        "23... b5 24. Nf3 b4 25. Bxc3 bxc3": "White has managed to hold onto his powerful center.  Meanwhile, black has converted the b-pawn into a highly dangerous past c-pawn. Black needs to get his rook behind the c-pawn in order to simplify into a slightly inferior rook endgame. \n",
+        "26. Rb7 Nxe4 27. Bxe4 Rxe4 28. Rxd7 Rc4 29. Ne1 c2 30. Nxc2 Rxc2 31. Rxa7 Rd2": "Black is down by two pawns and is in danger of losing. However,  black can force the game to a peaceful end if he adheres to the golden rules of rook endgames. #1 Centralize your king #2 control the center. #3 Keep your rook active and cut off the opponent king from meeting up with a pawn. #3 You need at least two pawn advantage to win. \n",
+        "32. Ra5": "My winning chances are hinged on keeping my  2 pawn advantage. \n",
+        "32... g5": "?\nBad, Black needs to adhere the the three golden rules. #1 centralize your king.  #2 Active rook  #3 control the centre\nAlternative variation: 32... Kf6 [!] 33. a4 Ke5 34. h4 Rd3 35. Kf2 Ra3 36. g3 Ra2+ 37. Kf3 Ra3+ 38. Kg2 Ra2+ 39. Kf3 Ra3+ [=][and that is how it is done folks!]\n",
+        "33. a4": "!?\n",
+        "33... Kf6 34. Rb5": "!\n",
+        "34... Ra2": "Alternative variation: 34... g4 [?!] 35. Rb4 g3 36. hxg3 Rxd5 37. Kf2 Rd2+ 38. Kf3 Kg5 39. g4 [!]\n",
+        "35. a5 g4 36. d6 Ke6 37. Rd5": "!\nFor the win. Black can no longer capture either pawn and therefore loses. This highlights the importance of adhering to the Golden rules of rook endings. ",
+        "37... Kd7 38. Kf1": "\nBlack resigns. Both of his pieces are unable to move and are in zugwig\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/golden-rules-of-rook-endings?gm=50122",
+    "gameName": "Golden rules of Rook endings",
+    "players": "elyhim (2352) vs. stalhandske (2116)",
+    "opening": "Nimzo-Indian defence (E20)"
+}

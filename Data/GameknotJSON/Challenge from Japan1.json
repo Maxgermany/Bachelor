@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3": "(White's knight finds safety without losing time)",
+        "5... Bg6 6. Nf3 Nd7 7. Bf4 e6 8. Bd3 Bxd3": "Black gives up his most active piece, and White trades with tempo",
+        "9. Qxd3 Ngf6 10. O-O Be7 11. Rfe1": "Claiming a semi-open file",
+        "11... O-O 12. Rad1 Qb6 13. c4 Rfd8 14. Qc2 Qa6 15. a3 Nf8 16. h4": "White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king.",
+        "16... Ng6 17. Bg5 h6": "? Why help White in his plan?",
+        "18. h5": "Seeing out the aim to disrupt Black's position",
+        "18... Nf8": "Forced -- Black faced tripling pawns!",
+        "19. Bf4 Nf8d7": "? An awkward position for this Black knight -- if White can establish himself on g6 he should win comfortably",
+        "20. Bc7 Rde8 21. Bf4 Rad8 22. Ne5": "Threatening Knxf7 immediately",
+        "22... Nf8": "? costing Black another tempo, but at least covering the vital g6 (and h7) squares.",
+        "23. b4": "(Note ..Qxa3 is met with Ra1 Qxb4, Rb1 Qd6 and White can win material back if he so wishes. The Black Queen now interferes with his d-file and is vulnerable anytime White moves his knight on e5.)",
+        "23... Nf8d7": "?! A blunder -- White has been intending to sac his knight on f7, following up with a check by the queen on g6. At best Black must have seen this and then forgot, by placing his knight on f8 on his previous move.  Black is lost now...",
+        "24. Nxf7": "White will win, even if Black plays accurately.  The middlegame closes rapidly, with a sequence of exchanges. For this, White gains three pawns and a decisive endgame.",
+        "24... Kxf7 25. Qg6+ Kg8 26. Bxh6 Bf8 27. Bxg7 Bxg7 28. h6 Re7 29. Nf5 Rf7 30. Rxe6 Nf8 31. h7+ Kh8 32. Qxf7 Nxe6 33. Qxe6": "Better might have been KnxBg7, stalling the Black rook",
+        "33... Rd7 34. Nxg7 Rxg7 35. Qxf6 Qxc4 36. Re1 Qf7 37. Qxf7 Rxf7 38. g4": "Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White.",
+        "38... Rf4 39. Re7 Rxg4+ 40. Kf1 Rg7 41. Rxg7 Kxg7 42. Ke2 Kxh7 43. Ke3 Kg6 44. Ke4 Kf6 45. f4 Ke6 46. a4 Kf6 47. f5 Ke7 48. Ke5 b6 49. a5 bxa5 50. bxa5 a6 51. f6+": "The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-japan1?gm=6652",
+    "gameName": "Challenge from Japan1",
+    "players": "another_ken (1816) vs. mleslie (1900)",
+    "opening": "Caro-Kann (B18), classical, Flohr variation"
+}

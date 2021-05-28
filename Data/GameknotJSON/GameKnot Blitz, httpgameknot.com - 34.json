@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 Bg4": "Mistake. The bishop is better placed in f5.",
+        "5. c4 Nf6 6. Be3 e6 7. Bd3 Bb4+ 8. Nc3 O-O 9. a3 Bxc3+": "Going back would mean it was a tempo loss...",
+        "10. bxc3 c6 11. h3 Bh5 12. Bg5": "It starts to be a little uneasy, but everyting's in control. ",
+        "12... Nbd7 13. g4 Bg6 14. Ne5": "White is doing well, but black has no weak points, until the opposite is proven. ",
+        "14... Qa5 15. Qd2 h6": "A \"daring\" move by black, and suddenly it is full of tactics. If NxB, hxB, NxR, Ne4... and a mess. In fact, Ne4 was to be played right now. BxN, BxB, and the white rook and the black knight are hanging. But let's see...",
+        "16. Bh4 Ne4 17. Bxe4 Bxe4 18. f3": "White thinks he is so clever, but...",
+        "18... Nxe5": "Threatening a fork on f3. ",
+        "19. dxe5 Bxf3": "So I win my pawn, and maybe the game with this. ",
+        "20. Rf1 Qxe5+ 21. Kf2 Qh2+": "A little of an exhibition. Now my bishop is safe because of the queen behind. ",
+        "22. Ke3 Qxh3": "I estimated this better than QxQ. Now white can avoid the bishop's exchange, but is is dangerous. ",
+        "23. Rxf3 Qxh4 24. Qg2 Rad8 25. Rh1 Qg5+": "White has no escape. ",
+        "26. Kf2 Rd2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=48665",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "idiosyncracy  vs. damalfi ",
+    "opening": "Scandinavian defence (B01)"
+}

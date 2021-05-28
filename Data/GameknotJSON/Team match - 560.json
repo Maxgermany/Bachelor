@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e6 2. f4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Be2 Be7": "a very strong player told me that this is a bad move.",
+        "6. O-O O-O 7. Kh1": "I think this is a wasted move.",
+        "7... c5": "taking the center",
+        "8. d4 Nc6 9. dxc5": "this move is helping me out.",
+        "9... Bxc5": "starting to attack the king position.",
+        "10. Nc3 Re8 11. Bd3 Bg4": "trying to get him to open up his king position by getting him to move his porns.",
+        "12. h3 Bh5 13. f5": "trapping the bishop, i'm hopping that he moves the g porn to g4 so I can start my attack. ",
+        "13... Qc7 14. Bg5 Ne4": "I did this move at 4.30 in the morning and was a bit concerned about it for the rest of the day.",
+        "15. Nxd5": "bad move",
+        "15... Ng3+ 16. Kh2": "He offered me a draw at this point?",
+        "16... Nxf1+ 17. Kh1": "not often you get to sack a queen so here I go.",
+        "17... Qh2+ 18. Nxh2 Ng3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=29094",
+    "gameName": "Team match",
+    "players": "leoshure (1702) vs. charlie06 (1720)",
+    "opening": "French (C00), Labourdonnais variation"
+}

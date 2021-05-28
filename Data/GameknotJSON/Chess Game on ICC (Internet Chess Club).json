@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5": "We play the Fried Liver game. My opponent accepts it.",
+        "6. Nxf7 Kxf7 7. Qf3+": "Threatening to take the knight back.",
+        "7... Qf6": "My opponent lets me take the knight back, not wanting to get into a difficult position.",
+        "8. Bxd5+": "I take the knight first.",
+        "8... Be6 9. Bxe6+ Kxe6 10. Qxf6+ gxf6": "Tons of exchanges. I find myself up a pawn, but with a less-developed position. My pawns, however, are more together.",
+        "11. Nc3": "I decide to develop my knight.",
+        "11... Bb4": "My opponent instantly attacks it.",
+        "12. d3": "I let him take it, which was probably a slight mistake. My knight was stronger than his bishop and get doubled pawns.",
+        "12... Bxc3+ 13. bxc3 Rhg8": "He develops his rook, attacking my g-pawn.",
+        "14. g3": "I simply move it up a square, preventing a strong attack.",
+        "14... Ne7": "He wants his knight to get to d5, attacking the pawn on c3.",
+        "15. Be3": "I develop my bishop, although Bd2 may have been a better move for me.",
+        "15... Nd5": "He attacks my pawn, but I didn't notice it since this was a 1 minute game.",
+        "16. d4": "I go d4, wanting to trade of pawns, getting a stronger attack in the center.",
+        "16... Nxe3": "A surprising move. Nxc3 would have won my pawn. My opponent probably missed it.",
+        "17. fxe3 exd4 18. cxd4": "I now have huge control over the center.",
+        "18... Rad8 19. O-O Rgf8 20. c4": "c4 controls d5, a critical square.",
+        "20... b6 21. d5+ Ke5 22. Rae1 Ke4": "A slight mistake for black, allowing me to make the following move...",
+        "23. Rf4+ Kd3 24. Rd1+ Kxe3 25. Rfd4 Rde8 26. Rd1d3+ Ke2 27. Kg2 Re3": "A terrible mistake for black. He's hoping I trade off rooks, giving him a very strong position.",
+        "28. Rd3d2+ Ke1 29. Rd2d1+ Ke2 30. Rd4d2#": "A nice, simple combination for checkmate."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game-on-icc-internet-chess-club?gm=33378",
+    "gameName": "Chess Game on ICC (Internet Chess Club)",
+    "players": "PomaG12 (me) (1160) vs. lollipop (opponent) (1168)",
+    "opening": "two knights defence (C57), Fegatello attack, Leonhardt variation"
+}

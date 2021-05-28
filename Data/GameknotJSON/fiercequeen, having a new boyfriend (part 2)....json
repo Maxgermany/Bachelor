@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 O-O": "not really worried here...",
+        "8. Nf3 Re8+ 9. Be3 Ng4 10. Qd2 Nxe3 11. fxe3 Bg4 12. O-O-O": "obviously...",
+        "12... Bxf3 13. gxf3 Qg5 14. Re1 dxc4 15. Bxc4": "taken care of, a long time ago...",
+        "15... Qa5 16. Kb2 b5 17. Bb3 Qb6 18. e4 a5 19. Bd5 c6 20. Bxf7+": "high time, something happened...",
+        "20... Kxf7 21. Qf4+ Kg8 22. Qd6 Qd8 23. Qxd8 Rxd8 24. e5 Nd7 25. f4 g6 26. Rhg1 Rdf8 27. Ref1 Rf5 28. Rg5 Raf8 29. Rxf5 Rxf5 30. Kb3 Nb6 31. Rf3 Nd5": "clearly posing a problem: White is getting out of moves...",
+        "32. c4 a4+": "White is losing...",
+        "33. Kc2 bxc4": "here, I resigned: with a vengeance in my heart..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-having-a-new-boyfriend-part-2?gm=65242",
+    "gameName": "fiercequeen, having a new boyfriend (part 2)...",
+    "players": "fiercequeen (2059) vs. harduf2 (1940)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

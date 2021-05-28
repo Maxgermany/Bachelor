@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Hi everybody, this time it is my opponent who resigns when faced with seemingly unavoidable mate and a strong attack.  The game seems to move very slowly and quietly until I decide to mount a kingside attack late on in the game down the g file.  Queen Glenda threatens mate but I believe it can be stopped.  You the jury may have different ideas.  Anyhow.  This game starts off with a classical Ruy Lopez.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4": "4. Ba4 - standard Lopez moves.",
+        "4... Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6": "7. ........ d6 - standard Leonhardt moves but maybe a knight move to a5 would have been an interesting variation.",
+        "8. h3 Na5 9. c3 Nxb3 10. axb3": "10. axb3 - as a result of white's 8th move h3, this allows Na5 to disrupt white's queenside pawns.  What if white recaptures with the queen though?",
+        "10... Bb7": "10. ..... Bb7 - piling up on the e4 pawn prompting d3.",
+        "11. d3 c5 12. Na3 O-O": "12. ...... 0-0 I castle and next move play Qc7 to connect my rooks - again the mantra - clear the decks!",
+        "13. Nc2 Qc7 14. c4 Rfe8": "14. ....... Rfe8 - rook centralisation.",
+        "15. Ne3 g6 16. Nd5 Nxd5 17. cxd5": "17. cxd5 - one pair of knights is exchanged.",
+        "17... Bf8 18. Nh4 Bc8 19. Be3 Qd8": "19. ....... Qd8 - d6 is weak but Glenda hits out at the knight on h5.",
+        "20. Nf3 h6 21. Qd2 Kh7": "21. ...... Kh7 - Henry defends the pawn on h6.  My kingside position is weakened but can white take full advantage?",
+        "22. Nh2 f5 23. f3 f4": "23. ....... f4 - blocks off white's dsb.",
+        "24. Bf2 Be7 25. b4 cxb4 26. Qxb4": "26. Qxb4 - one pair of pawns is exchanged.",
+        "26... Bb7 27. Qd2 Rc8 28. b4": "28. b4 - keeps the pawn on a6 backward.",
+        "28... Bh4 29. Red1 Bxf2+ 30. Qxf2": "30. Qxf2 - now an exchange of dsbs.",
+        "30... Rc3 31. Nf1 Re7 32. d4": "32. d4 - an attempt to undermine my central pawn chain.",
+        "32... g5 33. dxe5 Rxe5": "33. ........ Rxe5 - taking back with the rook blocks the e4 pawn and prevents white from getting a powerful d pawn passer.",
+        "34. Qd4 Rc4 35. Qb2": "35. Qb2 - the Wicked Witch of the West is driven back by my latest rook move.  Glenda now checks on b6 and more importantly siezes control of the a7-g1 diagonal.",
+        "35... Qb6+ 36. Kh2 h5": "36. ...... h5 - I now decide to start a pawn storm.  This will result in an opening of the g file.",
+        "37. Nd2 Rc7": "37. ....... Rc7 - this rook will go to g7 next move to control the g file.",
+        "38. Nb3 Rg7 39. Na5 g4 40. Rac1 gxf3": "40. ...... gxf3 - I decide to go for it!",
+        "41. gxf3 Reg5": "41. ........ Rge5 - an ominous doubling of black heavies on the g file!",
+        "42. Nxb7 Qxb7": "42. ...... Qxb7 - an exchange of knight for Fou Leblanc has taken Glenda away from that diagonal, but she is very interested in d7 and h3!",
+        "43. Qf2 Rg5g3 44. Rd3 Qd7": "44. ...... Qd7 - Glenda is threatening Qxh3# next move.  White can stop it with Qf1 giving me an interesting idea of exchanging those rooks for the Wicked Witch.  Glenda may be able to pick off some pawns with check and turn the game in my favour, but my opponent waves the white flag!  This bumped my rating up to 1783, the highest in my chessic career.  Sadly losses against Freddy and a couple of low draws have pegged it back somewhat.  Still, two or three of my current rated games are starting to look promising though I still have work to do in those in order to get my rating back into the 1780s."
+    },
+    "url": "https://gameknot.com/annotation.pl/blunderfest-no-8-premature-resignation-pt-2?gm=22684",
+    "gameName": "Blunderfest No.8 - Premature Resignation Pt.2",
+    "players": "NN (1686) vs. jstevens1 (1774)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

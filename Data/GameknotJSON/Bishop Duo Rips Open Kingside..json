@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "A standard opening.",
+        "1... d5": "I like this more than e5.",
+        "2. e3 e6 3. Nc3 c5": "I was trying to apply pressure on d4.",
+        "4. Nf3 Nc6 5. g3 f6 6. Bb5": "I should have seen this coming. It ruins my d5 attack.",
+        "6... Bd7 7. dxc5 Bxc5 8. O-O Nge7 9. e4 O-O 10. exd5 exd5 11. Nxd5": "Stupid Bishop...it needs to leave.",
+        "11... Bg4": "And so it does.",
+        "12. Re1 Ne5": "Guarding against a loss in the case of Nxe7.",
+        "13. Nxe7+": "A trade.",
+        "13... Qxe7": "Only option.",
+        "14. Qd5+ Kh8 15. Nxe5 fxe5 16. Rxe5": "My Bishops now will rip open the King.",
+        "16... Bxf2+ 17. Kg2 Bf3+ 18. Qxf3": "Only option.",
+        "18... Qxe5 19. Bf4": "Allows Qxf2.",
+        "19... Qxb5 20. Rf1 Bc5 21. Qg4 Rae8 22. b3": "Why? Maybe preparing for c4.",
+        "22... Re2+ 23. Kh3 Rxh2+ 24. Kxh2 Qxf1": "Mate is inevitable. ",
+        "25. Be5": "A last attempt.",
+        "25... Qg1+ 26. Kh3 Qh1#": "Thank you, turin25, for this great game, and thank you all for reading."
+    },
+    "url": "https://gameknot.com/annotation.pl/bishop-duo-rips-open-kingside?gm=39761",
+    "gameName": "Bishop Duo Rips Open Kingside.",
+    "players": "turin25  vs. theancientbeast ",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6": "Lasker: Steinitz's well-known defense.\n\nSteinitz: The revival of this defense met with much opposition, but I have seen nothing as yet to vitiate the equalizing effect, which, in my opinion, it possess.",
+        "4. d4 Bd7 5. Nc3 Nge7": "Steinitz: An important key move to this defense which I first adopted in my match against Gunsberg.",
+        "6. Bc4": "Lasker: Apparently loss of time, but the good position of that bishop seems ample compensation",
+        "6... Nxd4 7. Nxd4 exd4 8. Qxd4 Nc6 9. Qe3 Ne5 10. Bb3 c6 11. Qg3 Ng6": "Steinitz: Of doubtful merit. 11...Be7 at once was preferable.\n",
+        "12. h4": "Lasker: 12.Be3 was strong enough in this position. However, the text move embarrasses Black's development of pieces.",
+        "12... Be6 13. Bxe6 fxe6 14. Bg5 Be7 15. O-O-O e5 16. Be3 O-O": "Lasker: If 16...Bxh4 17.Qg4, and now Black cannot play 17...Qc8, as 18.Rxh4 would follow, and he cannot stir the bishop on account of 18.Rxh7.\n\nSteinitz: If 16...Bxh4 17.Qg4 Be7 18.Rxh7, and should win.",
+        "17. Ne2 Rf7": "Steinitz: Again Black would expose himself to great danger by 17...Bxh4 18.Qg4, followed soon by Qh5.",
+        "18. h5": "Lasker: It would have been risky to leave the pawn on its fourth, and to proceed with an attack by means of 18.Kb1. It might, however, have been promising enough.",
+        "18... Nf4 19. Bxf4 exf4 20. Qf3": "Steinitz: Obviously if 20.Nxf4 Rxf4, and the queen dare not retake.\n",
+        "20... Qa5 21. Kb1 Qe5 22. Nd4 Bf6 23. c3 Re8 24. Rhe1 Bd8 25. Qg4 Bc7 26. Nf3 Qf6 27. Nd2 Rfe7 28. f3 d5 29. Reh1": "Steinitz: 29...Qf7 was by far better.",
+        "29... Re7e5 30. g3": "Steinitz: A masterly coup, which relieves his position on the kingside, no matter what Black reply.",
+        "30... Rg5": "Lasker: Of course if 30...fxg3 31.f4, and Black would do best to sacrifice the exchange.\n",
+        "31. Qd7 Qf7 32. Qxf7+ Kxf7 33. g4 Bb6": "Steinitz: Inferior to 33...Rge5.",
+        "34. exd5 cxd5": "Steinitz: 34...Rxd5 is preferable, leading to a natural draw position, with which I should have been content under the circumstances.",
+        "35. Nb3 Re6 36. Rhf1 Rge5 37. Nc1": "Lasker: This forces the win of a pawn.",
+        "37... Bc7 38. Nd3 Rg5 39. Nb4 Ree5 40. Rd4 Bb6": "Lasker: A very fine move, which nearly would have turned the tables.",
+        "41. Rxf4+ Kg8 42. Nd3": "Steinitz: Much inferior to 42.Nc2, which wins easily.",
+        "42... Re2 43. Rd1 Be3 44. Rb4 b6 45. Ra4 a5 46. b4": "Steinitz: This gives Black a chance for a counter-attack, which I believe should have equalized the game\nat least.",
+        "46... d4 47. c4": "Lasker: White has nothing better as 47.cxd4 would be neutralized with 47...Rb5.",
+        "47... Bd2 48. b5 Bc3 49. Rg1 Rd2": "Lasker: Black intends to sacrifice his exchange and very nearly succeeds in scoring the game thereby.  As will be seen by the subsequent play, Black excels in detecting means of attack, which could only be met by a series of difficult and forced moves on the part of his antagonist.\n\nSteinitz: Ill-judged. 49...Kf7 seems better, with the following probable continuation: 50.f4 Rc5 51.Nxc5 bxc5, with better drawing chances.",
+        "50. f4 Rxg4": "(Adjourned)",
+        "51. Rxg4 Rxd3 52. c5": "Steinitz: Black cannot recover from the effects of this splendid move.",
+        "52... Re3": "Steinitz: If 52...Rd1+ 53.Kc2 Rd2+ 54.Kb3 (54.Kb1 drives by 54...d3) 54... bxc5 55.Kc4, and wins.",
+        "53. Rc4 d3 54. Rg1 d2 55. Rd1 bxc5 56. b6 Bd4 57. b7 Re8 58. Kc2 Rb8 59. Rb1 Kf7 60. Ra4": "1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/world-championship-match-game-1-new-york?gm=35930",
+    "gameName": "World Championship Match, Game 1, New York",
+    "players": "Lasker  vs. Steinitz ",
+    "opening": "Ruy Lopez (C62), old Steinitz defence, Nimzovich attack"
+}

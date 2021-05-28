@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 c5 5. Nf3 Nf6 6. Nc3": "If I had to do over again I would have played 6. Bc4 threatening e5.",
+        "6... g6 7. e5": "I'll play it any way. He does't want to take, Because I trade Qs and develop with threats. It was probably his best though.",
+        "7... Ng4 8. Bc4": "Now if he plays 8...nxe5 9.nxe5 dxe5 10. Bxf7 Ke7 Bg5+ ripping his king away from his Q. This is why I wish I had played it on move 6.",
+        "8... Nxf2": "Bad",
+        "9. Kxf2 Bg4 10. Re1 Bxf3 11. Qxf3": "I overlooked his next move which is why he played nxf2 however against correct play it should not have worked. And even still his king is to loose to play this line which is why he lost.",
+        "11... Qh4+ 12. g3": "slightly better is Kg1.",
+        "12... Qxc4 13. exd6+": "Here comes the attack.",
+        "13... Kd7": "If 13...Ke8 14.Qf6+ Kd7 Re7+",
+        "14. Qxb7+ Kd8 15. Qc7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/checkmate?gm=31205",
+    "gameName": "checkmate",
+    "players": "minital (1499) vs. winnietheputo (1228)",
+    "opening": "Philidor (C41), exchange variation"
+}

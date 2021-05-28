@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Hello, it is mine short lost game.\nI always start with e4.",
+        "1... e6": "seems to quiet.",
+        "2. d4": "to the center",
+        "2... d5": "bad choice - better do nothing here but he forces.",
+        "3. e5": "next time I'll take it I think.",
+        "3... c5": "troubles comes",
+        "4. c3": "defencing with pawn to keep my central pawn.",
+        "4... Nc6 5. Be3": "he is better I feel it",
+        "5... Qb6": "!",
+        "6. b3": "very bad.. but how better ?",
+        "6... cxd4": "show starts ",
+        "7. Bxd4": "may be should just move bishop to f4 ?",
+        "7... Nxd4 8. cxd4": "seems like nothing lost but..",
+        "8... Bb4+ 9. Ke2": "defence Nd2 puts d4 pawn on fire :(",
+        "9... Bd7 10. Ke3": "triing to keep living but not best I think maybe better was a3 ? Now I think so",
+        "10... Nh6 11. a3": "damn it should be earlier",
+        "11... Nf5+": "attack",
+        "12. Kf4": "last steps ",
+        "12... g5+": "he can take d4 but goes to checkmate without stops",
+        "13. Kxg5 Qd8+": "now checkmate in 2-3\n14. Kh5 Qh4#\n\n14. Kg4 Qh4 \n15. Kf3 Qe4#\n\n14. Kf4 Qh4 \n15. Kf3 Qe4#\n\nThanks fr your attention!"
+    },
+    "url": "https://gameknot.com/annotation.pl/november-mini-t?gm=11931",
+    "gameName": "November mini-t",
+    "players": "al_ya (1450) vs. minuchin (1621)",
+    "opening": "French (C02), advance variation"
+}

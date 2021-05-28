@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7": "The Sicilian Dragon setup.",
+        "5. Bb5": "I like this better than 5.Bc4 because ...e6 blocks the bishop.",
+        "5... Nd4 6. O-O Nxb5 7. Nxb5 d6 8. d3 Nf6 9. Nc3": "Saving a tempo.",
+        "9... O-O 10. e5": "I was considering 10.Qe1 at the time, and now I think that would have been better.  The threat would be Qh4, f5, and Bh6, and then probably Ng5.  10.e5 seems premature to me now.",
+        "10... dxe5 11. fxe5": "Forcing a knight retreat and opening the bishop's diagonal.",
+        "11... Nd5 12. Re1 h6": "I thought he was going to try ...g5 (with ...g4) after this, but he never did.  ",
+        "13. Ne4": "Attacking the pawn, heading for g3, and prepping c3 and then d4 to protect the pawn.  I ditch this idea later because it creates too many weaknesses for me.",
+        "13... Qc7 14. Ng3 Rd8": "He has his sights set on my many weaknesses: the square on d4 and the pawn on e5, primarily.  I have to be careful, and my time is running out (I think I had about 15 minutes left out of 30 here).",
+        "15. Bd2 Bg4": "Pinning the knight.  Now Qe2 is the only move that works to any degree.",
+        "16. Qe2 Rac8 17. Qe4": "My only hope of wriggling out of this hold he's got me in is to create some sort of counter-play.  This move is my attempt.  ",
+        "17... Be6": "I think I would have exchanged on f3, to keep the initiative.  Now I get some counter-play.",
+        "18. Qh4 Nb4": "Here I thought longer than I did at any other point in the game.  The problem is: can I justify taking his h6 pawn?  I'll definetly lose the exchange if I do.  I don't, he'll probably try something like ...c4, breaking down my pawn structure and keeping me on the defensive.  ",
+        "19. Bxh6": "I decide to try it.  If it doesn't work, at least I made a fight of it.",
+        "19... Nxc2 20. Ng5": "Taking aim at h7.",
+        "20... Bxe5": "A very clever move.  He can't afford to let me exchange (21.Bxg7 Kxg7 22.Qh7+ and mate next).",
+        "21. Nxe6": "With the plan of moving to g5 next move, attacking the pawn and the bishop.  It doesn't work out like I planned, however...",
+        "21... fxe6 22. Qg5 Bd4+": "Darn.  ",
+        "23. Kh1 Nxe1": "Well, I guess I get the pawn anyway.  ",
+        "24. Qxg6+ Kh8 25. Rxe1": "This position is very complex.  Threats along the first rank by black are covered by my d3 pawn and g3 knight.  I'm down the exchange, but does my attack have enough sting to bring down the beast?",
+        "25... Rdg8": "I would give this move a question mark.  It allows me to attack his king more easily, as he is hemmed in by the rook.  ",
+        "26. Qxe6 Qd6 27. Qh3": "!!!  Now it's over.  I threaten 28.Bf4+, taking the queen.  ",
+        "27... Qg6 28. Rxe7": "resigns.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-violent-sacking?gm=41781",
+    "gameName": "A Violent Sacking",
+    "players": "Matt Boren (1470 USCF) vs. David X. Vasquez (1941 USCF)",
+    "opening": "Sicilian (B23), Grand Prix attack, Schofman variation"
+}

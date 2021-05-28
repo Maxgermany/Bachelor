@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4": "I still consider this the Scotch",
+        "3... exd4 4. Nxd4 Be7 5. Nc3": "?! unsure of my development maybe c4 but I thought that would be too many pawn moves",
+        "5... Bd7 6. g3 c5 7. Nde2 Nc6 8. Bg2 Ne5": "Notice that I have 4 pieces controlling the d5 square",
+        "9. f4": "!! preparing for a king side attack",
+        "9... Nc6 10. O-O Nh6 11. Be3 f6 12. f5 Ng4 13. Qd2 Nb4 14. Bf4 Qb6 15. Bf3 h5 16. Nd1 O-O-O 17. c4 Ne5 18. Ne3 Bc6 19. Bg2 Be8 20. b3 g6 21. fxg6 Bxg6 22. h4 Kb8 23. Nd5": "! Notice that I controlled the d5 square throughout the entire game",
+        "23... Nxd5 24. exd5": "I still control d5 plus c6 and e6. I now blockade and lock in his d6 pawn. \r\nI have inserted a wedge into my opponent territory  ",
+        "24... Ng4 25. Rae1": "Now in current chess theory you attack where your pawn chain is pointing. Thus my pawn chain from a2; d5 was point towards the king side \r\ne6;e8 to h6; h8.",
+        "25... Bf8 26. Be3 Nxe3 27. Qxe3 Bh6 28. Qc3 Rhf8 29. Nf4 Bxf4 30. Rxf4 f5 31. Re6 Rfg8 32. Kh2 Qc7 33. Bh3 Qh7 34. Rf6 Rde8 35. Re6 Rgf8 36. Rxe8+ Rxe8 37. Qf6 Kc7 38. Bxf5 Re2+ 39. Kh3 Bxf5+ 40. Qxf5 Qxf5+ 41. Rxf5 Rxa2 42. Rxh5 Ra3 43. Rh7+ Kb6 44. Rf7 Rxb3 45. h5": "!! The winning move",
+        "45... Re3 46. h6 Re8 47. g4 a5 48. g5 a4 49. h7 a3 50. g6 Re1 51. Rf2": "I won"
+    },
+    "url": "https://gameknot.com/annotation.pl/egypt-mini-tournament?gm=12750",
+    "gameName": "EGYPT mini-tournament",
+    "players": "freeman8201 (1532) vs. gwaadin (1704)",
+    "opening": "Philidor (C41), exchange variation"
+}

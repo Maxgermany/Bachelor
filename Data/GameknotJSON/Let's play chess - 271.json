@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "A good battle! ",
+        "1... e5 2. Nf3 d5 3. d4 exd4 4. Qxd4": "The queen is out...",
+        "4... Be6 5. Bb5+ c6 6. Bd3 Nd7 7. e5 Bc5 8. Qf4 Qb6 9. Be3 Qxb2": "That`s a good start!",
+        "10. O-O Qxa1 11. Bxc5 Nxc5 12. Qb4": "Now I need to get my queen out...",
+        "12... Nxd3 13. cxd3 Qxa2 14. Qxb7 Rd8 15. Qxc6+ Bd7 16. Qc3 Rc8 17. Qb4 Ne7 18. Ng5 h6 19. Nh3 Qa6 20. Nf4 Bb5 21. Rd1 Nc6 22. Qd6": "Now he is playing strong.",
+        "22... Rd8 23. Qc5 Nxe5 24. Nxd5 Rxd5": "I had to take that horse..",
+        "25. Qxd5 Nc6 26. Qd6 Qb7 27. Re1+ Ne7 28. Nc3 Bc6 29. g3 Bh1 30. Ne4 f5 31. Kxh1 fxe4 32. Rxe4 Rf8 33. Kg2 Rf7 34. h4 a5 35. Kh3 Rxf2 36. Qg6+ Kf8 37. Qd6 Ke8 38. Rg4": "And it`s over! ",
+        "38... Qh1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=53430",
+    "gameName": "Let's play chess",
+    "players": "dcdice (1421) vs. fab2525 (1407)",
+    "opening": "QP counter-gambit (elephant gambit) (C40)"
+}

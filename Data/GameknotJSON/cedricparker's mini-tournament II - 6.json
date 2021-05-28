@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 e6 2. e3 c5": "I've been experimenting with the Franco-Benoni.  In this game my opponent plays a stonewall-type setup and goes for the direct Kingside attack.",
+        "3. c3 Nf6 4. Bd3 d5 5. Nd2 Nc6 6. f4": "In practice, the Stonewall formation is surprisingly resilient and difficult to deal with.",
+        "6... Be7 7. Ngf3 O-O 8. O-O b6 9. Ne5 Bb7 10. Rf3 cxd4 11. exd4 Nxe5 12. fxe5 Ne4 13. Rh3": "Here comes the Kingside attack.  I will defuse it as best I can.",
+        "13... f5 14. Qh5 h6 15. Bxe4 fxe4 16. Rg3 Bg5 17. Nf1 Rf5 18. Qg6 Qe8": "White now has to exchange off some of the attacking pieces.",
+        "19. Qxe8+ Rxe8 20. Bxg5 Rxg5 21. Rxg5 hxg5": "Black is left with a slightly impaired pawn structure, but also a passed e4 pawn that should be useful later.",
+        "22. Ne3 Rf8 23. Rf1 Rxf1+": "Not sure if this was best, but I thought it would be ok as White's N does not have a lot of good squares.",
+        "24. Kxf1 Ba6+ 25. Ke1 Kf7 26. Nc2 Kg6 27. g4": "White prevents entry by the King.",
+        "27... Kf7 28. Nb4 Bb7": "To protect c6.",
+        "29. Kd2 Ke7 30. b3 a5 31. Nc2 b5 32. c4 bxc4 33. bxc4 dxc4": "Black's pawn structure is further fractured, but now is a pawn to the good.",
+        "34. Kc3 Bd5 35. Ne3 Kd7 36. Nxc4 Bxc4 37. Kxc4 a4": "White's K cannot stray out of the square of the e4 pawn, so this pawn can't be touched.  White's K also can't come to the 5th rank.",
+        "38. Kc3 Kc6 39. Kc4 a3 40. Kb4 Kd5": "Now Black's K can penetrate.",
+        "41. Kc3 e3": "The e pawn can be used as a decoy to win the other pawns and improve the K's position.",
+        "42. Kd3 e2 43. Kxe2 Kxd4 44. Kd2": "Black will get another passed pawn--and the King is threatening all the white Kingside pawns.",
+        "44... Kxe5 45. Ke3 Kd5 46. Kd3 e5 47. Ke3 e4 48. Ke2 Kd4 49. Kd2 e3+ 50. Ke1 Kd3 51. Kd1 e2+ 52. Ke1 Ke3": "After the pawn marches forward and pins the White King to the back rank, only pawn moves are available.",
+        "53. h4 gxh4": "Now Black has another passer--and White still has to move pawns.",
+        "54. g5 Kf3": "This move is crucial to avoid stalemate.  Once White is out of pawn moves, Kd2 is forced.  After White's Kf2, the e pawn can promote.",
+        "55. g6 h3": "Or the h pawn can promote.  White resigned here after putting up a very good fight."
+    },
+    "url": "https://gameknot.com/annotation.pl/cedricparkers-mini-tournament-ii?gm=62137",
+    "gameName": "cedricparker's mini-tournament II",
+    "players": "damsh (1758) vs. mmoody95 (1858)",
+    "opening": "Queen's pawn (A40)"
+}

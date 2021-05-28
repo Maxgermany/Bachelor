@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3": "So we have Be3",
+        "6... e5 7. Nb3 Be7 8. f3 Be6 9. Qd2": "All is standard at the moment, I think White is going to castle long",
+        "9... O-O 10. Rg1": "Not sure about this move developing a bishop or castling would have seemed more logical to me, but I'm sure white is going to storm the kingside, I am going to storm the Queenside..",
+        "10... Nbd7 11. g4 a5 12. g5 Nh5 13. f4": "My knight is badly placed and this will allow me to get rid of the bishop",
+        "13... exf4 14. Bxf4 Nxf4 15. Qxf4 a4": "Pawn power",
+        "16. Nd4 a3": "The pawn is causing problems",
+        "17. bxa3 Rxa3 18. Ncb5 Qb6 19. Bd3 Ne5 20. Nxa3 Qxd4 21. Ke2 Qc3 22. Nb5 Nxd3": "Ouch",
+        "23. cxd3 Qb2+ 24. Ke3 Qxb5": "Whites king looks a little vulnerable, whereas the black king is quite safe",
+        "25. Rab1 Qc5+ 26. Ke2 Qc2+ 27. Ke3 d5 28. Rgc1 d4+": "Pawn power again",
+        "29. Kf3 Qxd3+ 30. Kg2 Bd6": "QxB Bh3+, Kf2 or Kg1 Qe3..the rest is history",
+        "31. e5 f6 32. gxf6 Rxf6 33. Qg3 Rg6": "White resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/zigis-mini-tournament-i?gm=31085",
+    "gameName": "zigi's mini-tournament I",
+    "players": "zigi (1558) vs. dwardman (1867)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

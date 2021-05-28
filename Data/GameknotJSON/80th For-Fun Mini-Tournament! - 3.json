@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d5": "gambit",
+        "3. d3": "declining the gambit",
+        "3... Nc6 4. Nc3 Nf6 5. Bg5": "pretty normal, just the sleeping king bishop and the gambit with the pawns",
+        "5... Be7 6. d4 O-O 7. h4 Bg4": "knight pinned",
+        "8. Be2": "now not",
+        "8... Bb4": "other knight pinned",
+        "9. Nxe5 Nxe5 10. dxe5 Nxe4": "g4 bishop exposed, queen is for free",
+        "11. Bxd8 Bxc3+": "on this position i would not castle king side, so i would try not damaging the queen side but it seems you must if trying not to lose queen if knight recaptures, fork with queen and bishop, but queen can defend",
+        "12. bxc3 Nxc3 13. Qd4": "see the idea knight take bishop, queen takes bishop and attack queen",
+        "13... Nxe2 14. Qxg4 Raxd8": "knight is for free",
+        "15. Qxe2 c5 16. Rb1": "free file 7th rank danger",
+        "16... b6": "defending the pawn",
+        "17. c4 d4 18. Qe4 Rde8 19. Kd2": "wonder why....",
+        "19... f6 20. e6 Re7 21. g4 Rfe8": "double rooks, so rook takes pawn queen needs to move. e file for the king is bad, kinda get move 19 if like with bishop x-ray attack can be made",
+        "22. Rbe1 Re7xe6 23. Qb7": "hmmmm... not bad",
+        "23... Re6e7 24. Rxe7": "what i thought checkmate is nearing black resinged"
+    },
+    "url": "https://gameknot.com/annotation.pl/80th-for-fun-mini-tournament?gm=55056",
+    "gameName": "\"80th For-Fun Mini-Tournament!\"",
+    "players": "fr3000 (1213) vs. kiss_the_queen (1068)",
+    "opening": "QP counter-gambit (elephant gambit) (C40)"
+}

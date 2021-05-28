@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. c4": "an interesting game, in which I tried to trap my opponents queen at the expense of a few pawns. The queen eventually escaped and left me in a poor position. Valuable lesson learnt!!",
+        "1... c5 2. Nf3 d6 3. Nc3": "White has surprisingly not moved d or e pawn yet.",
+        "3... g6": "intending Kings Indian defence.",
+        "4. g3 Nf6 5. Bg2 e5": "cant think why I played this as it blocks path of Bishop if Kings Indian defence is played. Planning an attack on f3 pawn at this stage was a mistake.",
+        "6. Ng5 h6": "Played this to find out what the intentions of Ng5 were.",
+        "7. Nge4 Nbd7 8. Nxf6+ Nxf6 9. Qb3": "Attacking B7 pawn.",
+        "9... Rb8": "mistake! should have moved Queen to defend b7 pawn",
+        "10. Qa4+": "a7 pawn now lost.",
+        "10... Bd7 11. Qxa7 b5": "planning to try to trap Queen by blocking light squared Bishop then playing Ra8. But should have played b6 rather than b5 as will become apparent later.",
+        "12. cxb5 e4 13. a4 d5": "b7 still a safe square for white's Queen so a bit more manouvering required. Had I played 11.b6 I could have now played 13.Bc6 to leave Queen in big trouble after 14.Ra8",
+        "14. d3 Bd6 15. dxe4": "3 pawns down and Queen trap not assured. Looks bad for me.",
+        "15... Ra8 16. Qb7": "only safe square but can make escape shortly with Nd5...",
+        "16... O-O": "trying to bring other Rook into play.",
+        "17. Nxd5": "this was the right move for white. Queen looks to be ok and 3 pawn advantage now could be match winning.",
+        "17... Nxd5 18. Qxd5": "Queen escapes and I'm now 4 pawns down. Should be game over.",
+        "18... Bxb5 19. Bxh6 Qa5+": "Bad move. had white played Qd2 I'd have lost some more material",
+        "20. Bd2": "Qd2 better I feel.",
+        "20... Qa6 21. e5 Rfe8": "Thought I play this as last roll of the dice hoping for big mistake by white. If he takes d6 Bishop with e pawn I win, but if he takes with Queen I loose.\r\nSince I am about to loose anyway decided to take the gamble. In hindsigth I'd have been better battling on and trying to win a few pawns back.",
+        "22. Qxd6": "Correct choice by white. Game over!!",
+        "22... Rac8 23. Qxa6": "hoped he wouldn't do this but I'd have done the same! ",
+        "23... Bxa6 24. f4 f6": "attempting to win back a Bishop if white takes f6, but bit unlikely.",
+        "25. Bc3 Re7 26. Rd1": "no point continuing. Lesson learnt - dont throw away pawns unless Queen trap is certain."
+    },
+    "url": "https://gameknot.com/annotation.pl/seven-days-and-one-week?gm=13091",
+    "gameName": "seven days and one week...",
+    "players": "comanche_2007 (1523) vs. hectorc (1704)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

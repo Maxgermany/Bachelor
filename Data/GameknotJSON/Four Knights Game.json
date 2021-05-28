@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone,\r\n\r\nHere I played against Chris who is our Gameknot Youtube Annotator.  We ended up playing the Four Knight's Opening.  With the popularity of the Sicilian and the Ruy Lopez this opening is not so widely played, although a year ago Coach Ion played the Belgrade Gambit against me in a game I have still not been able to bring myself to annotate.  That is because in my bid to exchange down to an equal ending I made a very stupid blunder, walked Fou Leblanc into a pin and Ion took full advantage of this.  One day I may annotate it under the Blunderfest Series but not now.  I do however have a link to that game, it is:- http://gameknot.com/list-games.pl?mode=h&u=jstevens1&opp=ionadowman.  Anyhow this is me playing the white side of it!  I kick off with e4.",
+        "1... e5 2. Nf3 Nc6 3. Nc3 Nf6": "3. ...... Nf6 - all four knights develop so this gives the Opening the Four Knights Opening.  I now transpose it into the Scotch.",
+        "4. d4": "4. d4 - with this move.",
+        "4... exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3": "7. Bd3 - after a knight exchange on c6 - development.",
+        "7... O-O 8. O-O d5 9. Bg5": "9. Bg5 - pinning the knight on e6 to the Wicked Witch of the West.  I do not wish to untangle black's kingside pawn structure if I can help it!",
+        "9... Be7 10. exd5 cxd5 11. Bxf6 Bxf6 12. Qh5": "12. Qh5 - Glenda goes on the offensive!  She comes out with an immediate threat, Qxh7#!",
+        "12... g6 13. Qxd5": "13. Qxd5 - I bet you are wondering why I did that pawn exchange after my note to move 9.  This is how, through that little move about I win the d5 pawn!",
+        "13... Be6 14. Qa5 Bg7 15. Rfd1 Qe7 16. Rab1": "16. Rab1 - supporting my b2 pawn.",
+        "16... Rfd8 17. b3 Rd6 18. Nb5": "18. Nb5! - This move is about to win the exchange as you will see.",
+        "18... Rb6 19. Be4": "19. Be4! - opens up the d file and attacks the black rook on a8.",
+        "19... Rab8 20. Nxa7": "20. Nxa7 - firstly the a7 pawn drops.",
+        "20... Bxb3 21. Nc6": "21. Nc6! - A knight fork, attacking the rook on b8 and the Witch.",
+        "21... Qxe4 22. Nxb8 Rxb8 23. cxb3": "23. cxb3 - I now take black's lsb and I am the exchange + pawn up.",
+        "23... h5 24. Qxc7": "24. Qxc7 - now the hanging c pawn drops and gives me 2 queenside remote passers.",
+        "24... Re8 25. Qc4 Qe7": "25. ..... Qe7 - declines queen swap and keeps an eye on my back row.  Must make some luft for Henry soon.",
+        "26. a4 Be5 27. Rde1": "27. Re1 - pins the black bishop to the Witch.",
+        "27... Qf6 28. Rbd1 Re6 29. Re3": "29. Re3 - a rook swinger heading for f3.",
+        "29... Rc6 30. Rf3 Rxc4 31. Rxf6": "31. Rxf6 - a queen trade.",
+        "31... Rb4 32. Rf3": "32. Rf3 - back to defend my precious b3 passer.",
+        "32... Kg7 33. Rd7": "33. Rd7 - pins the f7 pawn and this will lead to a rook trade and black's resignation which comes after I recaptured on f3 on Move 35.  Nice to be on the right side of a tactical melee.",
+        "33... Re4 34. Re3 Rxe3 35. fxe3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/four-knights-game?gm=23222",
+    "gameName": "Four Knights Game",
+    "players": "jstevens1 (1770) vs. drd123 (1594)",
+    "opening": "Four knights (C47), Scotch, 4...exd4"
+}

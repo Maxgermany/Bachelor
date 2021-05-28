@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 c5 5. Nf3": "by this time, my opponent got abusive: he was going to learn me a strong lesson; that is the friendly translation...",
+        "5... a6 6. Be2 f5 7. e5": "Augh...",
+        "7... b5": "in denial...",
+        "8. Bg5 Ne7 9. exd6": "Augh again...",
+        "9... Qa5+ 10. Bd2": "of course: Ne7 is lost...",
+        "10... b4 11. dxe7 Bxe7 12. Bc4": "prohibiting castling...",
+        "12... h6 13. O-O": "time to castle...",
+        "13... Nc6 14. c3": "preventing Nd4...",
+        "14... bxc3 15. Bxc3 Qc7": "losing more tempo: White is a full light piece ahead...",
+        "16. Re1 Bd7": "preparing castling long: right into trouble...",
+        "17. Ne5 O-O-O": "hoping for an attack, on the White Queen...",
+        "18. Ng6 Rhe8 19. Bxa6+": "a lost pawn...",
+        "19... Kb8 20. Be5": "pinning the Black Queen unto the King: Be5 has to be taken...",
+        "20... Nxe5 21. Nxe5": "White is still winning the trade: the real threat is Qb3+, whatever happens...",
+        "21... Qb6 22. Qb3": "the winning move...",
+        "22... Qxb3 23. axb3 Bf6 24. f4": "also Nxe7+, Rxe7, Rxe8+, was an option: this closes the deal...",
+        "24... Ka7 25. Bc4+": "in this position, Black timed out: he is running mate..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-dealing-out-justice-part-2-and-final?gm=65008",
+    "gameName": "fiercequeen dealing out justice (part 2 and final)...",
+    "players": "fiercequeen (2059) vs. akim90 (UR)",
+    "opening": "Philidor (C41), exchange variation"
+}

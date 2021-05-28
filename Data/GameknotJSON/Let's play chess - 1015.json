@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. e5 c5 4. c3": "Typical Structure of French Defence in Advance variation: White has a strong p chain in the center, & black consistently will attack the base d4 of the p-chain. White will try to reinforce the base.",
+        "4... Nc6 5. Nf3 cxd4": "Here we also see 5....,Qb6!?",
+        "6. cxd4 Bb4+": "The check doesnt disturb white but anyway...",
+        "7. Nc3 Nge7": "This N will either go to f5 or g6",
+        "8. Bd3": "Clears the path for castling on the k-side",
+        "8... Qb6": "Brings pressure on d4-p",
+        "9. O-O": "Unfazed with the threat white plays as per the plan.",
+        "9... O-O": "Better was 9...,Bd7!? reinforcing the threat on d4-p. Immediate 9...,Nxd4? due to 10.Nxd4,Qxd4; 11.Bb5  picks the Q on discovered attack.",
+        "10. Bxh7+": "with black pieces all piled on q-side this sac work like a butter",
+        "10... Kxh7": "forced else he simply drops a p for no reason. But neverthless 10...,Kh8 was called for. Now after the text whites attack accelerates",
+        "11. Ng5+": "check clears the path for whites Q to join the attack",
+        "11... Kg8": "What else? eg: if 11...,Kg6 stopping the Qh5 thrust is met with 12.Qd3 ,f5; 13.Qh3! swing for the final blow via h7 #",
+        "12. Qh5": "Threatens 13.Qh7 #, so there is",
+        "12... Rd8": "Idea is if 13.Qh7 ,Kf8; 14.Qh8 ,Ne8 blocks the check when black K escapes via e7; but text weakens f7, so white strikes first there ",
+        "13. Qxf7+": "forcing",
+        "13... Kh8": "Now how should the attack move?",
+        "14. Rd1": "Prepares for the swing on k-side via d3.",
+        "14... Bd7": "It seems black didnt consider whites last move else he should had played 14...,Qa6!? but then whites prepares the swing from e-file; 15.Re1,Qd3; 16Re3 - & black is forced to part with his Q in order to save the #",
+        "15. Rd3": "black resigns as # is inevitable"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=13353",
+    "gameName": "Let's play chess",
+    "players": "smartmoves (1388) vs. ngatchess (1450)",
+    "opening": "French (C02), advance, Paulsen attack"
+}

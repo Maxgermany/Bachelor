@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nge7 5. Nxe5 Nxe5 6. d4 c6 7. Ba4 b5 8. Bb3 Bxd4 9. Qxd4 Ne7g6 10. Nc3 O-O 11. Ne2 Ba6 12. Nf4 b4 13. Nxg6 Nxg6 14. Qxb4 Bxf1 15. Kxf1 Qc7 16. g3 Rae8 17. f3 Reb8 18. Qd4 Ne5 19. Qd1 Rb6 20. Bf4 Ra6 21. Bc4 Rb6 22. Qd4 d6 23. Be2 c5 24. Qd5 Rxb2 25. Bd1 h6 26. Qd2 Qc6 27. Be2": "Hi! This is a recent tournament game that ended in a win for me... I will only annotate the mid-game and checkmate sequence because anything that precedes that is terribly boring and trivial. Also, the checkmate is the only highlight.......I play as black here.",
+        "27... Rfb8": "In this position his King is unprotected. I now know that I want to attack it, but how to do that?...\nHere I double up the rooks, no strategy yet, except to maybe play Rb1+ and gain an advantage.",
+        "28. Bxh6": "Here he offers a gambit for the positional advantage of having his Queen at h6. Why not accept? With his Queen gone, it means more space for me to attack his Kingside.",
+        "28... gxh6": "...",
+        "29. Qxh6": "Now I must assess the best way to take advantage of the unprotected King. With an available pawn at c2, I can undouble the rooks, and a pottential doubling up of the Queen and 8th row Rook could result in a sacrifice leading to a checkmate. (Qb1+   ...Rxb1   Rxb1+) Finally resulting in a checkmate. That is myu line of thinking at the moment.",
+        "29... Rxc2": "...",
+        "30. f4": "Now I see the opportunity for a checkmate. If only I can get him to accept the gambit... I offer Nf3 as a gambit, to get his bishop away from its diagonal, protecting the king. If he accepts, I have a lengthy forced mate ahead of me.",
+        "30... Nf3": "...",
+        "31. Bxf3": "He accepts!",
+        "31... Qb5+": "His options are:\n- Be2 (Would result in checkmate : Qxe2...Kg1....Qg2#)\n- Ke1  Is better, because it relocates his King closer to where his bishop would move in the event of the sacrifice I mentioned earlier.\n- Kg1",
+        "32. Ke1": "Now I refer to the next sequence as the ladder :)",
+        "32... Qb4+": "Must move f1 to avoid checkmate with Qd2#",
+        "33. Kf1": "...",
+        "33... Qc4+": "In order to avoid checkmate, he must move Ke1 or Kg1...Doesn't make a difference at this point anyways.",
+        "34. Ke1": "...",
+        "34... Qc3+": "Here, once again he must play Kf1, to avoid the ever-present Qd2# checkmate.",
+        "35. Kf1": "Now the game is over. Qxa1+ leads to more troubles for the opponent.",
+        "35... Qxa1+": "His King cannot move, and the only option is to block with Bd1, a piece I can easily trap and it results in a checkmate.",
+        "36. Bd1": "...",
+        "36... Qxd1#": "There you go, a simple checkmate made to look nice.\nPlease, if you see any room for improvement or for a faster mate, just leave your comments."
+    },
+    "url": "https://gameknot.com/annotation.pl/ladder-checkmate-nice-checkmate-sequence?gm=33530",
+    "gameName": "Ladder Checkmate- Nice Checkmate Sequence",
+    "players": "???????? (1434) vs. soccer14 (1337)",
+    "opening": "Ruy Lopez (C64), classical defence, Zaitsev variation"
+}

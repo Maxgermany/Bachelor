@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 h6 3. Nf3 Bf5 4. Nbd2 e6": "All normal. ",
+        "5. e3 Nf6 6. h3": "Too much simmetry, but I can't expect more. ",
+        "6... Bd6 7. Ne5": "I always like this move. ",
+        "7... O-O": "Accepting a tought attack. ",
+        "8. g4 Bh7 9. h4": "Roller pawns. g5 at once would have been interesting, but this seemed more straightforward. ",
+        "9... Ne4": "Normal and useless, if well handled.",
+        "10. g5": "Now, the knight is threatened after f3...",
+        "10... Nxd2 11. Kxd2": "Of course. A lot of potential attack would be diverted from h5 if I take with the queen - undoubtely my opponent's intent. ",
+        "11... Bxe5": "Normally, I retake with the pawn, to restrict black's kingside. But not this time, with the king exposed behind. ",
+        "12. Bxe5": "Black can't move the f pawn to kick my bishop without unraveling his king's protection by opening the g column. ",
+        "12... hxg5": "Better was to wait for gxh and go g6, hoping to find shield behind the white pawn. Black should have developed the knight, to exchange the white's dsb if allowed. ",
+        "13. hxg5 Qxg5": "It's now just a matter of decide how to kick the queen in the right way. ",
+        "14. Bf4": "Naive?",
+        "14... Qf5": "Black's last blunder. Qf6 was called for, letting to white the way to get out of repeated queen hunt. But with this black gives to white the extra tempo needed to get the lsb developed...",
+        "15. Bd3 Qf6 16. Bxh7+": "Obviously, black is lost. A really \"easy\" win, but I used my \"secret weapons\" in a nice way against a high rated opponent (ovbiously not playing at 100%!)."
+    },
+    "url": "https://gameknot.com/annotation.pl/miniature-n-6?gm=54083",
+    "gameName": "Miniature n\u00ba6.",
+    "players": "damalfi  vs. about (2100)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

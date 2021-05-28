@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. c4 e5 2. e3 Nf6 3. d4 exd4 4. exd4 Bb4+": "It's just like fighting the Sicilian with white... d4 came to early...",
+        "5. Nc3 d5 6. a3 Bxc3+ 7. bxc3": "So far, so good... The English fortress is a mess...\n",
+        "7... O-O 8. Nf3": "8. Bd3 Re8+ 9. Ne2, is of course better... Now pawn c4 gets lost... However, after 8. ... c5! 9. Ne2 (dxc5, Be6!) cxd4 10. cxd4 dxc4 11. Bxc4 Nc6, all is well for black...\n",
+        "8... Re8+ 9. Be2": "Safer is 9. Be3 Ng4 10. Qd2...",
+        "9... dxc4": "One white Sicilian pawn, missing in action... Where's the mob?",
+        "10. O-O b5": "Without further adue...",
+        "11. a4 c6 12. Qc2 Bg4 13. Bg5 Qd6": "Via clear threats, black has gained a firm position. Logical now, seems 14. Bxf6 Qxf6 15. Ne5 Bxe2 16. Qxe2 Qe6...",
+        "14. Ra2": "Extra coverage for Be2. It won't work...",
+        "14... Nd5": "Makes Bg5 a sitting duck...",
+        "15. Rb2": "Out of order... Whites position screams Be3, and release the tension on Be2, followed by Bh5...",
+        "15... a6 16. axb5 cxb5 17. Bh4": "This was not in whites best interrest. Better was 16. Bh4...",
+        "17... Bh5": "Use your threats wisely...",
+        "18. Bg3 Qa3": "So far, so good...\n",
+        "19. Rc1 Nc6": "I didn't like the idea of 19. ... Bg6 20. Qd2 b4 21. Bd6!.. We complete development, and Be2 stays a burdon for white...",
+        "20. Ra2": "No better is 20. Bf1 Bxf3 21. gxf3 Qe7 22. f4 b4...",
+        "20... Qb3 21. Qxb3 cxb3 22. Rb2 Rac8 23. Kf1": "Maybe 23. c4? After 23. ... Rxe2 24. Rxe2 Bxf3 25. gxf3 Nxd4...",
+        "23... Na5 24. Bd1": "No relief in 24. Ra1 Nxc3! 25. Rxa5 Nxe2 26. Ra1 Bxf3 27. gxf3 Nxd4 28. Rxa6 Rc2!",
+        "24... b4 25. Bxb3": "25. Rxb3 Nxb3 26. Bxb3 Rxc3 27. Rxc3 Nxc3...",
+        "25... Rxc3": "Without further adue... We threaten Bxf3, as well as Nxb3",
+        "26. Rcb1 Nxb3 27. Rb2xb3 Rxb3 28. Rxb3 a5 29. Bd6": "It is hard, to find moves for white... This prevents 29. ... a4, for now... 29. Rb2/Rb1 Bxf3...",
+        "29... Rd8 30. Bc5 a4 31. Rb2": "More resiliant is 31. Rb1 Bxf3 22. gxf3 Ra8 23. Ra1...",
+        "31... a3": "This is why...",
+        "32. Ra2": "No excuses left. All other rook moves lead to the same variation...",
+        "32... Bxf3 33. gxf3 b3 34. Rxa3 Rb8": "White resigns. This win brought me at 1994, sadly I could not hold it up..."
+    },
+    "url": "https://gameknot.com/annotation.pl/cracking-english-via-reversed-sicilian?gm=41890",
+    "gameName": "Cracking English via Reversed Sicilian",
+    "players": "chris16 (1929) vs. vonbonkisback (1908)",
+    "opening": "English opening (A20)"
+}

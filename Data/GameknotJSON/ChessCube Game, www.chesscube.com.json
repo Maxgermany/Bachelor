@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 g6 2. Nf3 Bg7 3. Bc4 c5 4. d3 e6 5. c3 Ne7 6. e5 b6 7. Bg5 Bb7 8. Bxe7 Qxe7 9. O-O O-O 10. Nbd2 d5 11. Bb3 Nd7 12. d4 Nb8": "Black knight starts a long journey",
+        "13. a4 Nc6 14. Nb1 Na5 15. Bc2 Ba6 16. Re1 Nc4 17. b3 Nb2 18. Qc1 Nd3 19. Bxd3 Bxd3": "Now the bishop is where I wanted",
+        "20. Na3 c4 21. bxc4 dxc4 22. Nb5 a6 23. Na3 Rab8 24. Qd2 b5 25. axb5 axb5 26. Qb2": "Tension begins at b5",
+        "26... Qd7 27. Ra2 Qc6 28. Qb4 Bh6": "Bishop wants to play",
+        "29. Rb2 Be4 30. Rxe4": "Werid exchange, he probably was afraid on Bxf3",
+        "30... Qxe4 31. h3 Qd3 32. Rb1 Rfc8 33. Qb2 Rb7 34. Ne1 Qe4 35. f3 Qe3+ 36. Kh1 Bf4 37. Nec2 Qf2 38. Ne1": "White comit suicide",
+        "38... Qf1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chesscube-game-www-chesscube-com?gm=51048",
+    "gameName": "ChessCube Game, www.chesscube.com",
+    "players": "lionj@chesscube.com (1544) vs. amarjen@chesscube.com (1427)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

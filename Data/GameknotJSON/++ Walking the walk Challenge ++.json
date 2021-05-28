@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3": "A master knows more understands more and calculates better.So what to play?Best to stick with ones usual openings.",
+        "1... Nf6 2. d4 d5 3. c4": "Hoping but not expecting a QGD.",
+        "3... g6": "I haave found that the higher rated player usually heads for an indian system with the K side fianchetto.",
+        "4. cxd5": "Being a student of Capablanca rather than Alekhine or Kasparov I try for simpler positions.",
+        "4... Bg7": "4The master chooses to introduce further imbalance into the game(4....Nxd5 kept material equality but allowed white the centre duo) and sacs a pawn.",
+        "5. Qa4+ c6 6. dxc6 Nxc6": "Black is ahead in development and has open lines for his pieces.But a pawn is a pawn and though he has compensation for the pawn I would gauge its not enough.",
+        "7. Nc3": "Black is ahead in development and open lines for his pieces.But a pawn is a pawn.I would gauge black has insufficient compensation at this stage.",
+        "7... Bf5 8. e3 O-O 9. Be2 a6 10. O-O b5 11. Qd1 Rc8 12. Bd2 Qd6": "Whites position is solid but black has the iniative and definite compensation.Black is almost fully developed and ready to pressure whites Q-side and centre.",
+        "13. a3": "Restraining 13....b4",
+        "13... Rfd8 14. Na2": "Temporarily putting the n on the bords edge so as to develpe the blaxk squared B.",
+        "14... Ne4 15. Bb4 Nxb4 16. Nxb4": "In the last few moves black gained the B pair.In compensation white has managed to exchange a minor piece and alleviate his cramped positin a little.",
+        "16... Qb6 17. Rc1": "17.Rc1? seeking further exchanges but this error gives black the c-file and definite comprnsation for the P.17.Qb3 was better.",
+        "17... Rxc1 18. Qxc1 Rc8 19. Qd1": "With the bishop pair the c-file and iniative black has definite compensation for the P and he may actually stand a little better.",
+        "19... a5 20. Nd3 Qc7 21. Qc1": "Seeking exchanges to nullify blacks iniative.",
+        "21... Qc2": "Happy to exchange Q's on his terms only as if white exchanges he cedes the 7th rank.Looking at it further white can exchange followed by Bd1 as happens two moves later.",
+        "22. Re1": "An error that could have increases whites difficulties.",
+        "22... Qb3 23. Qd1 Qc2": "Is 23.....Qc2? an error by the master.23.......Rc2!? conquering the seventh with the R and increaing the pressure looks better.",
+        "24. Qxc2": "Why exchange now and not two moves ealier?Its only now white saw that Bd1 saves the day.",
+        "24... Rxc2 25. Bd1 Rc7 26. Be2": "Its here that black decides to take the draw by repetition.26.Bb3 and white slowly unravels his position and still retains the P plus.To understand why white takes the bird in the hand and accepts the draw one has to look at the hiding white received at the hands of stalhandske played at the same time.That had a negative effect on my psyche so I was happy to grab the draw.",
+        "26... Rc2 27. Bd1 Rc7 28. Be2 Rc2": "A draw though white should have played for more."
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-challenge?gm=47788",
+    "gameName": "++ Walking the walk Challenge ++",
+    "players": "caveman1960 (1780) vs. dynamic_dv (2053)",
+    "opening": "Reti opening (A05)"
+}

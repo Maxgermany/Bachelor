@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "i would like to show one of my games where the win came about as a result in the difference in development. i developed faster than my opponent and as a result i gained space and the initiative to attack. all the tactics that arose in my opinion are a result most of all of that decisive factor.",
+        "1... c5 2. Nc3 Nc6 3. f4 d6 4. Bb5 Bd7 5. Nf3 Nf6 6. Bxc6 Bxc6 7. d3 Qc7 8. O-O e5 9. Qe1 Be7 10. Qg3 exf4 11. Bxf4 Qd7 12. Qxg7": "white just won a pawn here and has prevented black from castling king-side. however now black has the opportunity of developing his pieces faster, gaining time by threatening the queen.",
+        "12... Rg8 13. Qh6 Rg6 14. Qh4 Nxe4": "if white tries to take a pawn by 15 Qxh7 then 15...Qg4 16Bg3 Nxg3 17.hxg3 Qxg3 with even material initiative and attacking prospects in the kingside.",
+        "15. Qh5 Nf6 16. Qh4 O-O-O 17. Ne2": "17.Qf2 propably better here. the queen should reatreat and white should try to organze his pieces here.",
+        "17... Rdg8 18. g3": "an important moment. black is about to force an exchange here. lets look at the position here. both black rooks are developed and attack the kingside. the white colored bishop on c6 is well placed and can create threats the queen is fine on d7 and so are the knight and bishop. on the other hand blacks queen is threatened the knights arent doing all that much and the rook on a1 isnt developed yet.",
+        "18... Rg6g4 19. Qh3": "if 19.Qh6 then 19...Rg8-g6 and we will end up in the same position as in the game.",
+        "19... Rg4xg3+": "now a forced exchange that highlights blacks weaknesses.",
+        "20. Qxg3 Rxg3+ 21. hxg3 Qg4 22. Kg2": "black was threating to take the knight on f3.",
+        "22... h5": "black is threatening h5 opening everything. white is passive.",
+        "23. Rae1": "developing the rook but its too late now!!! slightly better was 23.Rf2.",
+        "23... h4 24. c4": "a bit irrelevant to the position but black is lost even with other moves like 24.Rf2 or 24.Ng1",
+        "24... Nh5 25. d4 Nxf4+": "here black resigned. after 26.Nxf4 Qxg3+ 27.Kh1 Bxf3+ 28.Rxf3 Qxf3+ 29Ng2 h3 mate is close by. so in this game white lost time and gave black the opportunity to attack. if you see the final position the rooks and knights are passive and out of place. after the exchange of queen for rooks which was forced whites position simply collapsed. but the tactics involved were a a natural result of lack of development. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=28232",
+    "gameName": "Team match",
+    "players": "brmichael (1851) vs. thegreek1 (1832)",
+    "opening": "Sicilian (B23), Grand Prix attack"
+}

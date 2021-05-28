@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "I have been asked to annotate this game by kse6710 to see where he could improve his game",
+        "1... d5 2. c4 c6 3. f4": "!? I have never seen this move however I see it as a move to create an attack similar to that of the 4-pawns attack of the KID(King's Indian Defence)",
+        "3... Bf5": "Black has no targets to hit so this is fine especially if he plans to play Nd7 and e6 he needs his bishop outside the pawn chain. Nf6 is also fine",
+        "4. cxd5 Qxd5": "I prefer cxd5 which means after Nc6 and Rc8 black has control of the open c-file. Black's queen can be attacked with tempo and so his edge in development while be neutralised",
+        "5. Nc3": "White has the right idea attack with tempo",
+        "5... Qd6": "I like Qd8 better which although seems strange black admits he made a mistake and he can then continue. At the moment the the queen gets way in the smooth development of the DSB (Dark Squared Bishop) after e6 and so Black may need to play g6 and Bg7 to develop the bishop. The Queen can't do to d7 because it blocks Nd7",
+        "6. Nf3 e6 7. e4 Bg4 8. Be2 Bxf3": "I don't know why black exchanged because after white play BxB and then e5 he has good central control and is better developed. Also black gives up his most useful piece. He wasted a tempo playing Bg4 and also his queen at the moment is more of a nuance than a help because it blocks the development of his DSB. Black needs to hit the center with f5 after Something like Qc7,Bb4  Ne7 and then f5",
+        "9. Bxf3 Qc7 10. O-O Bb4 11. f5": "Black's pawn break is taken away from him",
+        "11... Bxc3 12. bxc3": "Again black trade bishops for knight and at the moment white is winning comfortably. Better developed, more space, safer king and of course he has a big center which could be seen as a target but Black has to develop to attack it and then white will have time to protect it. White will also win the endgame if he can keep his bishops because his two bishops will put preform black's knights.",
+        "12... e5 13. dxe5 Qxe5 14. Qd2": "Protecting the pawn and gaining a tempo because he has developed his queen and the threat of doubling on the d-file with Rd1 and threatening mate on d8",
+        "14... Nf6": "Good by black developing and preparing to export his king from the center",
+        "15. Bb2": "I prefer Rd8 forcind black to castle or play Nd7",
+        "15... Qc5+": "I think maybe Nbd7 first was better",
+        "16. Kh1 Nbd7 17. a4": "White has two isolated pawns I think black should attack them maybe b5 and if axb then cxb or if a5 a6 and then it will be ripe for the taking at a later date",
+        "17... Ne5": "Makes use of a nice outpost. and black still has time to attack the isolated a-pawn",
+        "18. Ba3 Qc4 19. Bb4": "Maybe Bd6 kicking the black Knight from it's outpost",
+        "19... Nxf3 20. Qd6": "An nice intermezzo before recapturing the knight that should win a rook",
+        "20... Ng8 21. Qf8+ Kd7 22. Rfd1+": "Rather then capture the rook white plays another intermezzo and blackls king is a bit of trouble",
+        "22... Kc7 23. Qd6+": "White continues his vicious attack",
+        "23... Kb6 24. Rdb1": "preparing a discovered check",
+        "24... a5 25. Bc5+ Ka6 26. Rb6+ Ka7 27. Rb4+ Qxc5 28. Qxc5+ Kb8": "Good tactical combination which wins white 6 points if he plays gxf3",
+        "29. gxf3 Nf6 30. Rab1": "Preparing rXB7+",
+        "30... Nd7 31. Rb4xb7+ Kc8 32. Qxc6+ Kd8 33. Qxd7#": "Nice mating combo that could have been avoided if\n\n1.) Black hadn't wasted tempos so early with queen moves and moving the same piece multiple times in the opening\n2.) Castling if black had have castled earlier he could have had a chance to win\n\nI hope you can get some good ideas to use in your game"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-kse6710?gm=38813",
+    "gameName": "Challenge from kse6710",
+    "players": "wingshooter (1302) vs. kse6710 (1328)",
+    "opening": "QGD Slav defence (D10)"
+}

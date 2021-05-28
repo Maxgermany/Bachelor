@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. f3": "not a good move. it opens the king side too soon.",
+        "3... g6": "maybe e6 was better. my fear is that white will play e5 and than the bishop is useless on g7.",
+        "4. exd5 cxd5 5. Bb5+ Bd7": "Nc6 is better. keep the strong bishop.",
+        "6. Bxd7+ Qxd7 7. Nh3": "??? why h3? why not Ne2?",
+        "7... f6": "wants e5. why not Bg7 with the same idea?",
+        "8. O-O e5 9. Re1 Nc6": "black king is still in the center and its a bit dangerous.",
+        "10. c3 h5": "attackin in the king side.",
+        "11. Nd2 Nh6 12. f4": "???\r\nallowing black to lock the center with e4 and to attack strongly on the king side.",
+        "12... e4 13. Qe2 f5": "an idea: 14.... 0-0-0 15.... Be7 16.... Rdg8 17.... g5.",
+        "14. Nf2 O-O-O 15. h4 Qh7 16. b4 Ng4 17. Nxg4": "????????\r\nvery bad move. it opens the h file for black.",
+        "17... hxg4 18. g3 Bd6 19. Nb3 g5": "!!\r\nelegant move.",
+        "20. fxg5 Bxg3 21. Rf1 Qxh4 22. Rxf5 Qh1#": "the end"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13274",
+    "gameName": "Team match",
+    "players": "normski (1174) vs. scouseste (1171)",
+    "opening": "Caro-Kann (B12), Tartakower (fantasy) variation"
+}

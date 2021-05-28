@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "I had to annotate this game. I had a winning position, a superior passed pawn and I was very lucky to get a draw. I made a couple of seriously poor decisions around move 28. ",
+        "1... c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Qc7 5. d3 Nd4 6. Ba4 a6 7. Nxd4 cxd4 8. Ne2 e5 9. O-O b5 10. Bb3 d6 11. f4 Be7 12. Ng3 O-O 13. a4 bxa4 14. Bxa4 Bg4 15. Qe1 Be6": "Was not sure the reason for the Bishop retreat. It opens up my black diagonal perfectly when I do the natural reply of f5. Black's white bishop becomes somewhat useless. It gives me the initiative and black is somewhat cramped.",
+        "16. f5 Bd7": "Now the bishop needs to be moved again.",
+        "17. Bb3": "And now my bishop is in a better spot.",
+        "17... Rfb8 18. Bg5 a5 19. Bxf6 Bxf6 20. Nh5 Bg5 21. h4": "At this point Qg3 immediately might have been better. That pawn at h4 was a thorn in my side later.",
+        "21... Bh6 22. Qg3 Kh8 23. Bxf7 Rxb2": "This move doesn't seem like the best for black. I was expecting Bc6 to force my Bishop out. Then Rxd2. I think Black maintains the initiative with that.",
+        "24. f6 g6 25. Bxg6 hxg6": "I believe this is the real blunder. I haven't found it yet, but there has to be a mate after this. ",
+        "26. Qxg6 Be3+ 27. Kh1 Rg8 28. Ng7": "28. f6! If RxQ 29. f8 Rg8 30. Qf6 Rg7 31. QxR Mate\r\n28. f6 Qd8 29. fxg8  Qxg8 30 Qxd6",
+        "28... Be8 29. f7": "29. Nxe8 works better",
+        "29... Bxf7 30. Rxf7 Qxf7 31. Qxf7 Rxg7 32. Qe8+ Kh7 33. g4 Rxc2 34. Rxa5": "34. Qh5 interposing the Bishop doesn't work because of g5. I knew I could force a draw with Qh5, but I still think I can do better. But before taking the pawn I needed to bring my Queen to h5 to put it in a better position. Then Rxa5 is fine. And I am still threatening mate if he gets to ambitious.",
+        "34... Rc1+ 35. Kh2 Bf4+ 36. Kh3 Rh1+ 37. Kg2 Rxh4 38. Kf3 Rh3+ 39. Kg2 Rg3+ 40. Kf2 Rg3xg4 41. Qh5+ Bh6 42. Qf5+ Rg4g6 43. Ra8 Rc7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/uk-players-and-int-friends-1550?gm=20134",
+    "gameName": "Uk players and Int friends 1550+",
+    "players": "lawarner (1646) vs. charleshiggie (1945)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

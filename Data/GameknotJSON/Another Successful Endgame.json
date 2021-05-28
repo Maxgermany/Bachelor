@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, just to share another good result in my 1700-1800 tournament.  I have now managed 4 points out of the first 5 games, with 3 wins and 2 draws.  This is my latest win.  We start off with a standard Ruy Lopez leading to a variation called the Leonhardt Variation.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7": "5. ......... Be7 - a conservative developing move, clearing the way for kingside castling.  This is the start of the Leonhardt Variation.",
+        "6. Re1 b5 7. Bb3 d6 8. c3": "8. c3 - creating an escape hatch for his bishop thus avoiding the famous Noah's Ark Trap.",
+        "8... O-O 9. d3 Na5 10. Bc2 c5": "10. .......... c5 - I try to claim space on the queenside.",
+        "11. Nbd2 Re8 12. Nf1 Bb7 13. Ng3 g6": "13. ......... g6 - this move seems to weaken my kingside position but the g6 move does stop white from plonking a knight in on f5.  Next move Fou Lenoir will move in to f8 to strengthen my castled position.",
+        "14. h3 Bf8 15. Bg5 h6 16. Be3 Bg7 17. Qd2": "17. Qd2 - the Wicked Witch of the West and the enemy dsb have my h6 pawn in their sights.  Henry now adds protection to this pawn.",
+        "17... Kh7 18. d4": "18. d4 - a move which strikes out in the centre but the downside is is that as a result of a plethora of exchanges, his e4 pawn is going to be very weak.  This factor will swing the game in my favour.",
+        "18... exd4 19. cxd4 Nxe4 20. Nxe4 Bxe4 21. Bxe4 Rxe4 22. dxc5 dxc5 23. Qxd8 Rxd8 24. Bxc5 Rde8": "24. ......... Rde8 - hope you can all follow that frenetic action!  I decided to double rooks on the e file and keep up the pressure on b2.  Crucially my hind rook moves onto a white square so that black's dsb cannot fork it against my knight on the rim.",
+        "25. Rxe4 Rxe4": "25. ......... Rxe4 - one pair of rooks is exchanged.",
+        "26. Ba3 Nc4 27. Rb1 Re2": "27. .......... Re2 - the pile up on the b2 pawn is relentless.  Note that if he advances it, his dsb is hanging to my knight which has come off the rim and is certainly not dim!",
+        "28. Kf1 Rc2 29. Rd1 Nxa3 30. bxa3 Rxa2 31. Rd3": "31. Rd3 - tries to save his a pawn but my next move .......",
+        "31... Bb2": "31. ..... Bb2 - unsaves it!",
+        "32. Nd4 Bxd4 33. Rxd4 Rxa3": "33. ........ Rxa3 - 2 lovely remote ebony queenside passers!",
+        "34. Rd7 Kg7": "34. ...... Kg7 - maybe this move wastes a tempo but if I am unable to promote either b or a pawn and my rook is able to take one or more of his kingside pawns then I want to preserve my own kingside pawns!",
+        "35. Rb7 Ra4": "10. ......... Ra4 - 1st step in a plan to gradually nurse one of the queenside pawns to Glendadom!",
+        "36. g4 b4": "36. ........ b4 - but I do not have to think about this plan any more because my opponent decides enough is enough and he hands me 9.6 mega handy rating points!  What a good start to the weekend!  Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/another-successful-endgame?gm=21365",
+    "gameName": "Another Successful Endgame",
+    "players": "NN (1746) vs. jstevens1 (1755)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

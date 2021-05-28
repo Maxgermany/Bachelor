@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. Nf3": "Hi everyone!\n\nPawns are the soul of chess!  They are certainly not to be taken lightly.  They are potential queens.  If you are able to keep a one pawn advantage all the way through it can therefore be decisive.  It certainly was in this game!  For the want of three rating points I would have clocked up only my third near-Expert Victory.  All the same, it was a big win because William absolutely Blitzed me (pun intended!) in my first game as white against him.  In the second, I got away with a Houdini-Style draw.  In this game, however, the position looked even until I somehow managed to win a pawn in the middlegame.  God only knows how I managed to hold on to this precious one point advantage but I did.  Pieces were exchanged and I ended up in a Q & P ending with an outside passer.  Even in such an advantageous position, Glenda just could not stop defending, right to the end.  However, she was nursing my a pawn through to becoming Glenda2.  William could not stop this promotion and resigned on the grounds of Ruinous Loss of Material.  So, how did this all happen?  Well, let us start with the Reti Opening, which is 1. Nf3.",
+        "1... Nf6": "1. ...... Nf6 - mirror image!",
+        "2. c4 g6 3. b3 Bg7": "3. ...... Bb7 - I get my fianchetto in first!",
+        "4. Bb2 O-O 5. e3 c5": "5. ....... c5 - this has more or less transposed into the English Opening.",
+        "6. Be2 Nc6 7. O-O d5": "7. ...... d5 - after both kings have been tucked away, a strike from Yours Truly in the centre.",
+        "8. d4 cxd4 9. exd4": "9. exd4 - pawn trade.",
+        "9... Bf5 10. Na3 dxc4 11. bxc4": "11. bxc4 - another pawn trade.",
+        "11... Ne4 12. Nc2 Nc5": "12.  ....... Nc5 - for one moment it looks as though I am hanging my knight.  But look further, that d4 pawn is pinned!  I will leave you, the Inquest Jury to spot the unit that that pawn is pinned to.",
+        "13. Rb1 Bxc2 14. Qxc2 Bxd4 15. Nxd4 Nxd4 16. Bxd4 Qxd4": "16. ...... Qxd4 - wheew!  What a plethora of exchanges!  Incredibly, under my board the material count registers plus one to me!  Also, just look where Glenda is!  That is not her usual location in the middlegame against Class A oppo. and above.  She is usually defending something on the first or second rank.  Can Glenda stay aggressive and keep me on that Yellow Brick Road to Expertdom?  Or will The Wicked Witch of the West stand in my way? We shall see.",
+        "17. Rfd1 Qf6 18. Bf3 Rab8": "18. ..... Rab8 - Glenda has been driven back and I am now having to defend my b pawn.  I need to hang on, grimly!",
+        "19. Rd5 b6 20. a4 a5": "20. .....a5 - to prevent William from playing a5 himself and undermining my b pawn's protection of the knight on c5.",
+        "21. h3 Rfd8 22. Qd1 Rxd5 23. Bxd5": "23. Bxd5 - rook trade.",
+        "23... Kf8 24. Bf3 Qc3": "24. ..... Qc3 - whoo-hoo!  Glenda hops on her broomstick and flies right into the heart of enemy territory.  She has her beady eye on catching those queenside p(r)awns for her better half's table!",
+        "25. Rxb6 Rxb6 26. Qd8+": "28. Qd8+ - it looks as though William is gonna get his pawn back.  However, I have something up my sleeve!",
+        "26... Kg7 27. Qxb6 Nxa4": "27. ..... Nxa4 - now, here is that outside passer I am talking about.  The Witch is now en prise.  That vital precious pawn on a5 cannot be taken free of charge by the Witch because Glenda is defending it!",
+        "28. Qb5 Qb4": "28. ..... Qb4 - offering up a queen trade of which William declines.",
+        "29. Qe5+ f6 30. Qe6": "30. Qe6 - The Witch tries to get as close to Henry as possible.  However, her only means of support is that lsb on f3.  Thankfully, I will ensure that a line-up of those pieces along the a2-g8 diagonal is not an issue for me.",
+        "30... Qd6": "30. ...... Qd6 - again offering up a queen trade and again William declines.",
+        "31. Qe1 Qc5 32. Bd5 Nb6": "32. ..... Nb6 - this is the move that will thwart that line up!",
+        "33. Kh1 Nxd5 34. cxd5": "34. cxd5 - we are now in a Q & P ending after my knight and William's lsb have been traded off.  I am tempted to take that nice juicy pawn on d5, but I eschew it.  Do you the Inquest Jury see why?",
+        "34... a4 35. Qa1 a3": "35. ..... a3 - pawn push!",
+        "36. f3 Qb4": "36. ...... Qb4 - Glenda now has her beady eye on b2.  She knows she could perish on that square.  However, as William's king is soooo far away, resurrection is at hand!",
+        "37. Kh2 Qb2 38. Qd1": "38. Qd1 - William declines a queen trade.  However, I do not know how William is gonna stop a two against one here!",
+        "38... a2": "38. ..... a2 - the final push and William waves the white flag.  There is absolutely no way he can stop Glenda2 from appearing on the board.  He can trade his queen for the pawn but that still leaves Glenda on the board.  Either way, William will be a queen to the bad and Old Matey isn't too far away.  Thankfully my games level is gradually reducing and I am able to spend more time analysing my games and getting into a \"Freeze Funk\" less and less and I am having more time to make my moves.  Anyhow, I hope you all have had a lovely weekend!  Bye for now - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-big-win-from-a-small-advantage?gm=52504",
+    "gameName": "A big win from a small advantage!",
+    "players": "blitzkov (1897) vs. jstevens1 (1853)",
+    "opening": "Reti opening (A05)"
+}

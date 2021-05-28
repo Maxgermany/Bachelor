@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Before we get started, I'd like to note I find myself to be horrendous at early games, so my goal usually involves getting to mid game without giving up to much ground.",
+        "1... c5 2. Nc3 Nc6 3. Nf3 Nd4": "I go for early aggression hoping for some early trades.",
+        "4. d3 f6 5. Be3 e5 6. Nd5": "White matches my aggression.",
+        "6... Ne7 7. c3 Nxd5": "After rejecting Nxf3 because of lost tempo. I decide to trade 7... Nxd5 in hopes of 8. cxd4 nxe3 9. fxe3 cxd4 after which I'm up a pawn unless 10. exd4 ... after which I have an opening for queen side attack through Qa5+",
+        "8. exd5 Qa5": "I still don't want to trade Nxf3 because it leaves him with much more development. Instead I pin the pawn with Qa5.",
+        "9. b4": "To my delight white decides to threaten my queen with b4! ",
+        "9... Nxf3+": "This gives me an opportunity for a strong attack on the queen side. I utilize my ability to force trade on f3 by checking the king, forcing him to either pull away the queen, or destroy his king side pawn structure, and then continue my attack with cxb4.",
+        "10. Qxf3 cxb4 11. c4": "Presumably noticing the assault after 11. cxb4 fxb4+ that would deny the castle. My opponent made another mistake!",
+        "11... b3+": "I advance the pawn under the protection of a discovered check.",
+        "12. Bd2 b2": "I ignore my attack on my queen, because I can replace it with my promoted pawn after 13. bxa5  bxa1=Q+,  winning the rook and providing an excellent continued attack on the king.\n",
+        "13. Bxa5 bxa1=Q+ 14. Ke2": "Presumably white chooses not to bring his queen to defense knowing I'd accept the trade and likely win with my advantage.",
+        "14... Qxa2+ 15. Bd2 Bb4 16. Ke3": "My opponent makes another mistake, needlessly surrendering his bishop to my attack.",
+        "16... Qxd2+ 17. Ke4 O-O": "Unsure of what to do to capitalize my lead I opt to castle allowing my rook to join the fray.",
+        "18. h4": "A deadly mistake.",
+        "18... f5+": "I proceed to force mate with 18. ... f5+ I can easily force checkmate after (1) 19. Kxe5 Re8+ 20. Kxf5 d6# or (2) 19. Kxe5 Re8+ 20. Kd4 Qc3#, or the extended mate after 19. Qxf5 Rxf5! I threaten checkmate with 20 ... Qf4#. He has 3 defenses. (3) 21. g3 Rf4+ 22. gxf4 Qxf4#,  (4) 21. d4 Rf4+ 22. Kxe5 d6# and (5) 21. d6 Qf5+ 22. Kd5 Qd4#",
+        "19. Kxe5 Re8+ 20. Kxf5 d6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-http-gameknot-com?gm=57750",
+    "gameName": "Let's play chess, http://gameknot.com/",
+    "players": "leprechaun007 (1376) vs. 42shadow42 (1386)",
+    "opening": "Sicilian (B23), closed, 2...Nc6"
+}

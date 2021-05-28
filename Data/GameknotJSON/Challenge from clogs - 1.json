@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "Ah, a kings pawn game.  I think I'll just play it boringly for the first few moves.",
+        "1... e5 2. Nf3 Nc6 3. b3": "Here it starts to get different. Looks like Dad is planning to fianchetto his bishop. I want to try to keep the middle full of pawns to block it in.  ",
+        "3... Nf6": "I wanted to play Bc5 to get the bishop out and then play d6 to make my centre pawns strong... but I decided on just developing for now.",
+        "4. Bd3 Bc5 5. O-O": "After castling, his pawn on f2 is pinned.",
+        "5... d6": "Opening up my white bishop, and strengthening my e5 pawn.",
+        "6. h3 Be6 7. Bb2 Qd7 8. Nc3 Bxh3": "Offering to sacrifice my bishop. My queen will be following in behind it.",
+        "9. Nxe5": "Feels like a gift.  My king and queen are lined up, and Dad has a white bishop handy to skewer them if I capture it with my knight. But, I do so anyway, because if I play my pawn to c6 then that should deal with the bishop.",
+        "9... Nxe5 10. gxh3 Qxh3 11. Be2 Nfg4": "Things are looking very poorly for white.  As far as I can tell, the only way to prevent Qh2# is to trade out both his white bishop and queen."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-clogs?gm=53910",
+    "gameName": "Challenge from clogs",
+    "players": "clogs (1200) vs. jongy10 (1590)",
+    "opening": "King's pawn game (C44)"
+}

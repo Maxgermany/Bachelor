@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4": "The Bird Defence -- as handled by Bird himself.",
+        "4. Nxd4 exd4 5. O-O Bc5": "Bird does not hesitate to be aggressive.",
+        "6. c3 Ne7 7. d3 c6 8. Bc4": "A mistake by White. Now the Bishop is almost useless, with the pawns on a2, d3 and e4 severely restricting its mobility.",
+        "8... O-O 9. Bg5 Kh8": "Preventing a potential Bxf7+ and preserving the initiative.",
+        "10. Qh5": "White attempts to attack...",
+        "10... f6": "...and Bird ripostes beautifully.",
+        "11. Bxf6": "White attempts to force through his attack with a sacrifice...",
+        "11... d5": "...and overlooks this devastating response. The game is now virtually lost for White.",
+        "12. Bxe7 Qxe7": "Black's counterstrike is astonishingly quick.",
+        "13. exd5 Rxf2": "After this devastating strike, White resigns. If 14 Rxf2, Black follows up with 14... Qe1 ch 15 Rf1 dxc3 dis ch 16 Kh1 Qxf1 mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=26722",
+    "gameName": "Chess game",
+    "players": "Boden  vs. Bird ",
+    "opening": "Ruy Lopez (C61), Bird's defence, Paulsen variation"
+}

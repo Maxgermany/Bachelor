@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bd6 5. c3 O-O 6. Bb3 b6 7. Bc2 Ba6 8. Nbd2 Qe7 9. O-O Bc5": "9...Nh4 might have been better, preparing for Nc5",
+        "10. Nb3": "maybe the advance b4; driving the bishop away, seems logical, forcing Bd6, and White has a better game.",
+        "10... d5 11. Nxc5 bxc5": "Maybe recapturing with the Queen was better, avoiding the doubled pawns.",
+        "12. Re1": "probably the exchange was better in the center. ",
+        "12... d4": "The push to block the center seems a little unclear; maybe it was time to open the centre up with 12...dxe4! 13. dxe4 gives Black a small edge. ",
+        "13. Bd2 Rab8 14. Qc1 Qe6 15. Ng5 Qd7 16. h3": "Maybe blocking the centre with 16. c4 may have been better.",
+        "16... h6": "driving the knight away seems alright, by if Black forced 16...c4, things would be level. White has a slight advantage. ",
+        "17. Nf3 Qd6 18. c4 Nd7 19. Nh2 Qg6 20. f4 f6": "White now can make things very difficult with the pawn advance f5. 20...Nb4 causes more trouble. ",
+        "21. Nf3": "White missed the pawn advance....",
+        "21... Nb4": "Too late for this.....the pawn exchange would have been better.",
+        "22. Bb1 Bc8 23. a3 Nc6 24. f5 Qf7 25. Nh4 Re8 26. Bc2 Nf8 27. Bd1 g6": "Further weakening the kingside.....Bd7 is a safer option.",
+        "28. Bxh6": "Maybe the exchange 28. fxg6 Nxg6 would have been better - White maintains his attack.",
+        "28... g5 29. Bxf8 Rxf8 30. Ng6 Ne7": "Black is trying to deliberately lose the exchange to try and effect the pawn structure, but 30...Rd8 is probably better. ",
+        "31. Bh5": "Maybe White wanted to maintain his pawn islands? Winning the exchange is easier and better. 31. Nxf8 Qxf8 32. Ba4 Qd8 33. Qd2 Kg7 seems promising for White. ",
+        "31... Nxg6 32. Bxg6 Qg7 33. Rb1 Bd7 34. Qd2 Be8 35. Bxe8 Rfxe8 36. b4 Qe7 37. b5 Ref8 38. a4 Rf7 39. a5 Rh7 40. Qe2 Rh4 41. Ref1 Qd7 42. Qc2": "Probably, Rf3, attempts to stop White's counterplay. ",
+        "42... Qe8": "42...g4 attempts to seek counter play. Since White is caught up on the queenside, Black attempts to seek counter play on the other side. ",
+        "43. b6": "The push forward is a little unclear, and simply loses a pawn. Rf3 straightaway would have been better, providing the defense if Black decides to counterattack.",
+        "43... cxb6 44. axb6 axb6 45. Rb5 Rh7 46. Rfb1 Rhb7 47. Rb1b3 Qh5 48. Kh2 Qh4": "Perhaps 48. g4 is better, making use of the pin on h3.",
+        "49. Qb1": "Tripling up on the b-file isn't so clear - getting back to defending the kingside - starting with Qe2, stopping g4. ",
+        "49... Qf4+ 50. Kh1": "50. Kg1 will lead to probable checks that should end in a draw. Now Black gets his chance.",
+        "50... g4 51. hxg4": "(????) In an instant, White loses. What he failed to realise is that now the h-file is open, and the queen at f4 cuts off the runaway for the king. If 51. Rb2 gxh3, Black has a small advantage, but White can actually fight for a draw. Now Black mates. ",
+        "51... Rh7+ 52. Kg1 Qe3+": "Mate follows next move."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-one-capture-disaster?gm=53900",
+    "gameName": "The One-Capture Disaster",
+    "players": "dutch12 (1573) vs. moistcomrade (1502)",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

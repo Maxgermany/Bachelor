@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4": "The other option here is the Modern Variation, 4.Nf3, which is equally good.\n",
+        "4... Nb6 5. exd6": "The exchange variation. I'm playing for a specific sub-variation that is known to give black trouble.",
+        "5... cxd6": "5....exd6 is also playable, and tends to give black a solid position.\n",
+        "6. Nc3 g6 7. Be3 Bg7 8. Rc1": "This is the variation I wanted to play - the so-called \"Voronezh Variation\"  White evacuates the a1-h8 diagonal in an attempt to eliminate much of black's counterplay.",
+        "8... Nc6": "\"?!\" - this natural move is what the Voronezh was designed to counter. Black's best chance is to play 8...O-O then strike at the center right away with 9...e5.\n",
+        "9. b3 O-O 10. d5": "The entire point of white's play. In the Alekhine, the thematic response to white's d-pawn advance is to play ...Na5, putting pressure on the c4 square. But here, white has played Rc1 and b3, so ...Na5 only serves to misplace the black N.  With ...Na5 no longer an option, black will have a difficult time finding something useful to do with this N.\n\nBlack's most promising response to white's plan is to delay developing the N to c6, and instead play an early ...e5, taking advantage of the fact that white's other N is still sitting on g1, and not on f3 where it can influence e5.\n\n",
+        "10... Nb8": "More usual is ...Ne5, but in either case white will now have a permanent space advantage and black will struggle to find counterplay.\n\n",
+        "11. Be2 Nb8d7 12. Nf3 Nf6 13. h3": "Preventing another thematic Alekhine move sequence of ...Bg4 and ...Bxf3. Now black must solve the problem of what to do with his light-square bishop.  13...Bf5 will be met with 14.Nd4.\n",
+        "13... e5": "Right idea, but about 4 moves too late. A better plan at this point would be 10...Nbd7, trying to create counterplay on the Q-side after e.g. 11.O-O Nc5 followed by ...a5.\n",
+        "14. dxe6 e.p. fxe6 15. O-O d5 16. Qc2": "White's plan is to put rooks on c1 & d1 and attack in the center.\n",
+        "16... Nbd7": "\"?\" How will black complete development of his Q-side after this? Best is probably 16...Bd7, getting the other rook into the game. Not 16...dxc4?! 17.bxc4 then White will play Rfd1 and Nb5, and the hole on d6 & isolated e-pawn are big problems for black. \n",
+        "17. Rfd1 Qa5": "\"?\" This blunder loses by force.  Black's best bet is to admit the ...Nd7 was a mistake, and put the N back on b6.",
+        "18. cxd5 Nxd5 19. Nxd5 exd5 20. Rxd5 Qb4": "Not 20...Qxd5 21.Bc4.",
+        "21. Bc4": "Now black's King comes under direct assault.\n",
+        "21... Kh8 22. Ng5": "Threatening 23.Nxh7! Kxh7 24.Rh5+",
+        "22... Nb6 23. Bc5 Qa5 24. Bxf8 Nxd5 25. Bxg7+": "?! Eliminating the black K's last remaining defender, but after the game I found 25.Qe4! which leads to a much quicker win (the GK game analysis computer agrees).\n",
+        "25... Kxg7 26. b4 Nxb4": "? Leads to a forced mate.  Black can put up stiffer resistance with 26...Qc7 27.Bxd5 Qxc2 28.Rxc2, though white has more than enough extra material to secure the win.\n",
+        "27. Qc3+ Kh6": "Or 27...Kf8 28.Qf6+ Ke8 29.Bf7+ Kd7 30.Qe6+ followed by 31.Qe8#.",
+        "28. Nf7+ Kh5 29. Be2+ Kh4 30. Qg3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/role-reversal?gm=36177",
+    "gameName": "Role Reversal",
+    "players": "hityerclock (2169) vs. drnf (1810)",
+    "opening": "Alekhine's defence (B03), exchange, Karpov variation"
+}

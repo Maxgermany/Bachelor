@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. f4": "In this game, I play black and open with a combination of moves that my Dad calls a \"Bobby Fisher\" opening (which is also called \"Reti\" when it is played for white, and can be the Old Indian in some variants).  It makes for a closed game.  I'm still experimenting with this opening for black and learning things as I go, and I'd truly enjoy your comments on the strengths and weaknesses of this opening for black.",
+        "1... Nf6 2. Nc3 g6 3. e4": "As is fairly typical, this closed opening cedes the center pawns to white.",
+        "3... d6 4. h3 Bg7 5. Qf3": "White doesn't advance the d pawn, which allows me to advance the c pawn.",
+        "5... c5 6. Bc4 O-O 7. b3 Nc6 8. Nge2": "Completed the fist 8 moves of this opening.  At this point, there are options to attack the middle or either side, particularly the queenside.",
+        "8... a6 9. Bb2 b5 10. Bd3": "I was expecting 10. Bd3, and thought I'd move e5, ...\n10. Bd3 e5\n11. fxe5 Nxe5",
+        "10... b4": "... but I changed my mind and moved b4 first, thus pressuring the knight.",
+        "11. Nd5 e5": "... then moved to e5.  At this point, I would have expected f5 or fxe5 ...",
+        "12. O-O-O": "... but white long castled? ...",
+        "12... exf4": "... thus allowing me to go back on the offensive setting up what would be the beginning of the end at move 17.",
+        "13. Nexf4 Ne5 14. Nxf6+ Bxf6 15. Qg3 Nxd3+ 16. Qxd3 Bxb2+ 17. Kxb2 Qf6+": "A good old fashioned Queen fork.",
+        "18. c3 Qxf4 19. Rdf1 Qe5 20. g4 bxc3+ 21. dxc3": "21. dxc3 a5\n22. a4 Ba6 (23. .. Bxf1 24. Rxf1)\n",
+        "21... a5": "The chess gods were smiling on me ... I saw the potential for a stacked Queen and rook along the diagonal ...",
+        "22. a4 Ba6": "... and he didn't see it coming.",
+        "23. Qd5 Qxd5 24. exd5": "I expected this to happen ...\n24. exd5 Bxf1\n25. Rxf1 Rf-e8\n26. Rf6 Ra-d8\n",
+        "24... Bxf1": "The rest of the game was spent making sure I didn't do anything stupid.",
+        "25. Rxf1 f5": "... but changed my mind and advanced the f pawn with the support of the rook.",
+        "26. g5 f4 27. Kc2 Rf5 28. Kd2 Rxd5+ 29. Kc2 Rf8 30. Rf3 Rff5 31. h4 Kf7 32. c4 Rd4 33. Kc3 Re5 34. Rf2 Re3+ 35. Kc2 f3 36. Rd2": "Although I expected this ...\n36. Rh2 Re2 \n37. Rxe2 fxe2\n(King can't block)\n... he decided to trade rooks.\n",
+        "36... Rxd2+ 37. Kxd2 Re2+ 38. Kd1 Ke6 39. b4": "Just some closing notes here on out ...\n39. b4 cxb4\n39. Kc1 f2\n39. h5 gxh5\n",
+        "39... cxb4 40. c5 dxc5 41. h5": "41. Kc1 f2\n41. h5 gxh5\n",
+        "41... gxh5 42. g6 hxg6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fisher-reti-opening-for-black-queenside-counterattack?gm=3950",
+    "gameName": "Fisher/Reti opening for black, Queenside counterattack",
+    "players": "antillajrt (1297) vs. rpilaud (1454)",
+    "opening": "Bird's opening (A02)"
+}

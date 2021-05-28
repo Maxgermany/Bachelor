@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 f5": "Against unknown oponent I prefer Latvian counter - gambit.",
+        "3. d3 Nf6 4. Nc3 Bc5 5. h3 d5 6. Nxe5 Be6 7. Bg5 O-O 8. Qf3 Nc6 9. Nxc6 bxc6 10. e5 Qb8": "Threatening with Q:b2. ",
+        "11. Rb1 Bd4": "Rewiewing oponent's past game history I saw, that he dos'nt likes to accept sacrifices. In this game I decided to sacrifice my pieces. ",
+        "12. Na4 Bxe5 13. Bf4 Qb4+ 14. Kd1": "Losing castling rights. Now King is an easy prey for my pieces. ",
+        "14... Qxf4 15. Qxf4 Bxf4 16. Nc5 Bf7 17. g3 Bh5+ 18. Be2 Bxe2+ 19. Kxe2 Rae8+ 20. Kd1 Bd6 21. Nb3 f4 22. g4 f3": "Developing pressure in Quenn's side. ",
+        "23. Nd4 Bc5 24. Nxc6 Bxf2 25. Rf1 Re2": "Saving bishop. ",
+        "26. d4 Ne4": "Opening way for  rook .",
+        "27. Ra1 Be3 28. Nb4 Rd2+ 29. Ke1 f2+ 30. Rxf2 Rfxf2 31. Nd3 Rfh2": "After 32. Nf2 follows  32 ... Rd:f2 with inevitable checkmate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=52826",
+    "gameName": "Team match",
+    "players": "cordovil (1375) vs. janislulle (1460)",
+    "opening": "Latvian counter-gambit (C40)"
+}

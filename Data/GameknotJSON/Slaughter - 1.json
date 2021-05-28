@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 g6 2. d4 Bg7 3. c3 Nf6 4. Bd3 d6 5. f4 e6 6. Nf3 Nbd7 7. O-O O-O 8. h3 Re8 9. Be3 Re7 10. e5 Nd5 11. Bd2 c5": "? Black wants to open the position but this is tactically risky.",
+        "12. exd6 Re8 13. Ne5 Qb6 14. Na3 a6 15. Nac4 Qd8 16. Ne3 Nd7f6": "? Black should play ...cxd first.",
+        "17. dxc5 a5 18. b4 axb4 19. cxb4 Nxe3 20. Bxe3 Nd7": "Wants to drive away the N. ",
+        "21. Bd4 f6 22. Nf3 e5 23. Bc4+": "A useful check.",
+        "23... Kf8": "? Black fears having f7 unprotected but the pin makes this worse.",
+        "24. fxe5 Nxe5": "? Loses a piece.",
+        "25. Nxe5 Be6": "White has a won game, but can he exploit the position of the king and win quickly?",
+        "26. Qb3 Bf5": "?? Trying to unpin the pawn but this loses rapidly.",
+        "27. Bg8": "! Threatens mate.",
+        "27... Re7": "Forced",
+        "28. dxe7+ Qxe7 29. c6": "! Threatens to pin the Q.",
+        "29... bxc6 30. Bc5 Qxc5+ 31. bxc5 Ra7": "Stops the mate on f7 but...",
+        "32. Qb8+": "Black resigns. Mate to follow."
+    },
+    "url": "https://gameknot.com/annotation.pl/slaughter?gm=25013",
+    "gameName": "Slaughter",
+    "players": "dmaestro (1530) vs. nn (1420)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

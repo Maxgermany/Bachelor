@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6": "This move is characteristic of the Slav Defence, with this defence black sets up a white squared pawn stucture, it is very popular now.",
+        "3. Nc3 Nf6 4. Nf3 Bf5 5. g3 Nbd7 6. Bg2 dxc4": "Black decides to accept this challenge, in general with most queen pawn games white is generally willing to give up or gambit a flank pawn for a center pawn since center pawns are more valuable!",
+        "7. Nh4 Bg6": "OK let us start with the checklist... \r\n1.   Is whites king safe                            Yes  Is blacks king safe   Yes\r\n2.   Is material even                                No   black is one pawn to the good\r\n3.   Are there any checks                         No\r\n4.   Are there any unprotected pieces        Yes  white Ra1...  Yes black c4 & Rh8\r\n5.   Can my opponent threaten something   Yes black threatens to \"protect c4, threatens to complete his development, black threatens to get his king castled!\r\n6.   Can I threaten something?  Threat counter threat; threat greater threat.  Yes white can exchange Nh4 for Bg6, Yes white can 0-0, Yes white can establish two pawns to one in the center & capture space!\r\n7.   Can I increase the actvity of my pieces... Yes by \"exchanging\" Nh4 for Bg6 white will gain greater control over the white squares.    \r\n8.   Can I restrict the activity of my opponents pieces ... Yes 7.  ...Bg4  or e6 would  be a greater \"test\" of white idea\r\n9.   What is my strategic plan short & long term...white would like to gain greater control over the white squares & gain greater influence in the center by playing e4 siezing more space & cramping blacks game.\r\n10.  What is blacks plan short & long term... black would like to establish some presence in the center & complete his development & castle the king!\r\n11.  If I win material is this consistent with my plan ...At this point white \"is not concerned\" with blacks pawn on c4, so he does not spend any \" time\" chase after it now!\r\n12.  If I my opponent wins material is it consistent with their plan... black priorty should be completing his development & castling his king!",
+        "8. Nxg6 hxg6 9. e4 Qc7": "9.  ...Qc7? black was unaware of whites \"threat\" to blizt me in the center, e5 or e6 was neccessary!",
+        "10. e5 Nd5 11. e6": "11.  e6! is typical white restricts the activity of blacks pieces & cripples the intergity of his pawn structure! ",
+        "11... fxe6 12. Qg4 O-O-O 13. O-O": "13.  0-0 king safe is the higest priority, black weaken pawns & squares are not going any where!",
+        "13... e5": "13.  ...e5 is not consistent with blacks plan!  By opening up the position when he is behind in development this only helps white complete his plans & goals!  Better was ...Kb8!",
+        "14. Nxd5 cxd5 15. Bxd5": "15.  Bxd5 captures a pawn with purpose, white \"threatens to restrict black activity with Be6!",
+        "15... exd4 16. Be6 Qe5 17. Bg5": "17. Bg5! stops blacks threat of Qh5 forcing a queen trade.",
+        "17... Rh5 18. Bf4": "OK with the Rh5 the queen cannot occupy the same square! Develop with a gain of time!",
+        "18... Qb5 19. Bxc4": "Gain of time, tempo, force your opponents hand!",
+        "19... Qf5 20. Rfc1": "Rf1!! this was enough to  force resignation... I will mention this a man with not teeth cannot hurt you!",
+        "20... e5 21. Be6+ Kb8 22. Bxf5 Rxf5 23. Qxg6 Rf6 24. Qc2": "Yes...White is prepared to answer Rc6 with Qd2! e5xf4 RxR bxc6 & Qxe5+ followed by Qxd4 winning simply! See note about a teethless man!",
+        "24... Bc5 25. Qxc5 Nxc5 26. Bxe5+ Ka8 27. Bxf6 gxf6 28. Rxc5": "Resign ...My friend Ryan M. is a good sport!"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game-otb-12-18-2010?gm=35751",
+    "gameName": "Chess game   OTB 12-18-2010",
+    "players": "Dinosaur53  vs. Ryan Madden ",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

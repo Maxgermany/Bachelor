@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5": "This is a bit of a redux of a game already annotated by blake84120. I wanted to check out a set of moves he recommended at the end. I couldn't figure it out (the advantage of it that is) from reading the annotation alone, so I spelled it out for myself and here it is. Enjoy!",
+        "2. Nf3 Nc6 3. d4 f6 4. d5 Nb4 5. c3 Na6 6. Bxa6 bxa6 7. c4 c6 8. dxc6 Bb4+ 9. Nc3 Qa5 10. cxd7+ Bxd7 11. a3 Bxc3+ 12. bxc3 Qxc3+ 13. Bd2 Qxc4 14. Qe2 Qxe2+ 15. Kxe2 Ne7 16. a4 O-O 17. Bb4 Rfe8 18. Rhd1": "Blake suggested a potentially awesome turn of events here, but that's not what I'm most interested in checking out: ... Blake: The pin on the knight isn't accomplishing much for black. The bishop was protecting the d7 square, keeping white's rook from advancing. It might have been better for black to maintain that defense with 19. ... Be6 (he would have no fear of 20. Rd6 Kf2, 21. Rxa6?? Bc4 ).",
+        "18... Bg4": "Unfortunately I didn't think of all that.",
+        "19. h3 Bh5 20. g4 Bg6 21. Ke3 Rab8 22. Ba5 Rb3+ 23. Rd3 Reb8 24. Rc1 Nd5+ 25. Ke2 Nf4+ 26. Ke1 Nxd3+ 27. Kd2": "Should have went for the rook here, and traded horsies, or escaping without a scratch. Another mistake I won't be correcting this time so that I can get us to the strange strategy in question.",
+        "27... Bxe4 28. Rc3 Rb3b2+ 29. Ke3 Nxf2 30. Nd2": "The actual move made here was Bg2, but the obvious choice one, one would think would be Nd1 for the fork, followed by a rook snatch. Here is what blake suggested: ... Blake: One continuation I would have had to really consider here, if I had been black, would be 30. ... Nd1  31. Kxe4 Rb8b4  32. Bxb4 Rxb4  33. Kd3 Nxc3 34. Kxc3 Rxa4. While this loses a little material, it manages to leave black in an endgame where he is up by the exchange and four pawns. Better, it exchanges off everything but white's knight, leaving black essentially with King Rook 5 pawns against King Knight 2 pawns, an easy endgame to win. I don't know if I would have played it, but I would have given it a serious look. ... Herc: So I couldn't follow this at all, but I am about to check it out now. ",
+        "30... Nd1+ 31. Kxe4 Rb8b4+": "Blake: 30. ... Nd1  31. Kxe4 Rb8b4  ",
+        "32. Bxb4 Rxb4+ 33. Kd3 Nxc3 34. Kxc3 Rxa4": "More Blake: 32. Bxb4 Rxb4  33. Kd3 Nxc3 34. Kxc3 Rxa4. While this loses a little material, it manages to leave black in an endgame where he is up by the exchange and four pawns. Better, it exchanges off everything but white's knight, leaving black essentially with King Rook 5 pawns against King Knight 2 pawns, an easy endgame to win. I don't know if I would have played it, but I would have given it a serious look. ... Not bad! ... White may as well resign here, but here's how it would play out if white didn't.",
+        "35. Kb3 Rd4 36. Kc3 a5 37. Nc4 Rxc4+": "Screw it black is sick of white wasting its time.",
+        "38. Kxc4": "Now watch this.",
+        "38... a4": "Uh oh! Queen in the making!",
+        "39. Kb4 e4": "Can't get 'em both.",
+        "40. Kxa4 e3 41. Kb3 e2 42. Kc2 e1=Q 43. Kd3 Kf7 44. Kc2 Ke6 45. Kd3 Ke5 46. Kc2 Ke4 47. Kb2 Qd2+ 48. Kb3 Kd4 49. Ka3 Qc3+ 50. Ka2 Qb4 51. g5 Kc3 52. gxf6 Qb2#": "Nice, Blake!"
+    },
+    "url": "https://gameknot.com/annotation.pl/blakes-extended-night-fork-endgame?gm=22271",
+    "gameName": "Blake's Extended Night Fork Endgame.",
+    "players": "Alexsm + Herc (at end) (2500-ish) vs. Herc + Blake (3000-ish)",
+    "opening": "Scotch opening (C44)"
+}

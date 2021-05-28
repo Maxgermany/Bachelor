@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2": "King's Indian Classical",
+        "6... e5 7. O-O exd4": "King's Indian exchange, which isn't common to most players. White or Black should know how to play this line. Take me for example, I lost a point in a OTB chess tournament once, and I've only played against it once in a tournament, because I was dumbfounded when an opponent decided to play this line; I was not ready and didn't even know what the lines were!",
+        "8. Nxd4 a6 9. Be3 Nbd7 10. f3": "At this point I didn't know what he had in mind. I knew f3 was common in this line so I followed suite.",
+        "10... Nb6 11. Nc2": "Again, a common move to play in this line and I wanted to preserve the Knight.",
+        "11... c5 12. Qd2 Be6 13. b3 Qc7 14. g4 Nbd7 15. Bh6": "I wanted to traded bishops. Pawn-g5 would block my bishop and the diagonal.",
+        "15... Ne5 16. Bxg7 Kxg7 17. Ne3": "Controlling the d5-square.",
+        "17... Rab8 18. g5 Nh5 19. f4": "OH! Also, I wanted to play this move and w/o the Knight on e3, I wouldn't have been able to do so. Hence, the knight move on move 17.",
+        "19... Nc6 20. Bxh5 gxh5 21. f5 Bd7 22. f6+": "I thought this to be the best continuation as he's unable to move the Pawn-f7, forced to the back eighth row, and rooks remain out of play.  King-g6 seem suicidal ",
+        "22... Kh8 23. Qe2 Rfg8 24. Qxh5 Rxg5+": "Oops!",
+        "25. Qxg5 Rg8 26. Qxg8+ Kxg8 27. Ncd5": "Time to defend. This move blocks the Pawn-d, while attacking.",
+        "27... Qa5 28. Kh1 Kf8 29. Rfg1 Ne5 30. Rg7": "! and excellent move!!!",
+        "30... Qd2": "?",
+        "31. Ne7": "!!! Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/check-out-this-to-be-checkmate?gm=40492",
+    "gameName": "Check out this to be checkmate",
+    "players": "freeman8201 (1725) vs. youjoin (1687)",
+    "opening": "King's Indian (A48), East Indian defence"
+}

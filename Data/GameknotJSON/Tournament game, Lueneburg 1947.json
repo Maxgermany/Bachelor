@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Classical...",
+        "1... e5": "Book...",
+        "2. Nf3": "Planning a Ruy Lopez.",
+        "2... Nc6": "Von Pohl allows it.",
+        "3. Bb5": "Following up.",
+        "3... a6": "The Morphy defense.",
+        "4. Ba4": "Dodging the question.",
+        "4... b5": "Driving the Bishop.",
+        "5. Bb3": "Forced.",
+        "5... Nf6": "Solid development.",
+        "6. d4": "Rellstab thrusts forward in the center.",
+        "6... exd4": "Logical.",
+        "7. e5": "Rellstap postpones the recapture.",
+        "7... Bb4+": "Overreaching. Von Pohl should simply move his KN.",
+        "8. c3": "Now *two* Black pieces are en prise.",
+        "8... dxc3": "Trying to squirm loose.",
+        "9. bxc3": "Renewing the threat.",
+        "9... Nxe5": "Still trying to wiggle off the hook.",
+        "10. Nxe5": "White, already up a piece for 2 Pawns, threatens both PxB and NxBP forking Q and R. In the face of this, Von Pohl resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-lueneburg-1947?gm=37488",
+    "gameName": "Tournament game, Lueneburg 1947",
+    "players": "Ludwig Rellstab  vs. Arnold von Pohl ",
+    "opening": "Ruy Lopez (C70), Graz variation"
+}

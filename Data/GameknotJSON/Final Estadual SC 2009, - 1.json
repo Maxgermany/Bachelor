@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 Be7 6. Qc2": "Depois dessa partida descobri que esse deixa o preto igualar f\u00e1cil. Em uma partida de treinamento contra o Disconzi foi jogado uma posi\u00e7\u00e3o similar, mas aqui segui seu conselho e montei uma estrutura Mar\u00f3czy, que parece a melhor chance de obter alguma vantagem no meio-jogo.\nAlternative variation: 6. d5\n",
+        "6... c5 7. e4 cxd4 8. Nxd4 Nc6 9. Nxc6": "N\u00e3o h\u00e1 outro lance para tentar crescer. Em posi\u00e7\u00f5es comuns a dama est\u00e1 em d1, dando suporte ao cavalo e permitindo algum lance de desenvolvimento.\n",
+        "9... Bxc6 10. Be2 d6 11. Be3 Qc7 12. O-O O-O 13. f4": "Talvez um plano mais frut\u00edfero fosse vagar essa casa para o bispo e dobrar na coluna 'd', pressionando a fraqueza em d6. O negro resolve o problema de espa\u00e7o com os tem\u00e1ticos Cf6-d7 e f7-f5.\n",
+        "13... Rac8 14. Bf3 Nd7 15. Rac1 Qb7": "15...f5 n\u00e3o \u00e9 oportuno por enquanto.\nAlternative variation: 15... f5 16. exf5 Rxf5 17. Bg4\n",
+        "16. Qf2": "Um lance equivocado. Se eu estivesse mais seguro teria jogado b2-b4, mas n\u00e3o sabia se valia a pena enfraquecer c4 para expandir na ala da dama tamb\u00e9m.\n",
+        "16... Nc5": "Amea\u00e7ando 17...Cd3\n",
+        "17. Qc2": "N\u00e3o h\u00e1 outra maneira razo\u00e1vel de defender sem deixar o negro melhorar sua posi\u00e7\u00e3o.\n",
+        "17... Nd7 18. Qf2 Nc5 19. Qc2 Nd7": "Empate por repeti\u00e7\u00e3o.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/final-estadual-sc-2009?gm=30622",
+    "gameName": "Final Estadual SC 2009, ?",
+    "players": "Brandao, Daniel (2049) vs. Pomar, Marcelo (2164)",
+    "opening": "Queen's pawn (A46), Torre attack"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 b6 2. Nf3 e6 3. c4 Nf6 4. Bg5 Be7 5. Nc3 c5 6. e3 cxd4 7. exd4 Bb7 8. g3 Ne4 9. Bxe7 Qxe7 10. Bg2 Nxc3 11. bxc3 d5 12. Qe2": "Melhor 12.Cd2",
+        "12... O-O 13. O-O": "Ainda 13.Cd2",
+        "13... Ba6 14. Nd2 Nc6 15. Rfe1 Na5 16. Qd1 Nxc4": "16.Bxd5-Tac8",
+        "17. Nxc4 Bxc4 18. Bf1 Bxf1 19. Kxf1 Qa3 20. Qb3 Qxb3 21. axb3 a5 22. f4 Rac8 23. Rec1 f5 24. b4 axb4 25. cxb4 Rxc1+": "25. ...-Txc1 deixa a coluna c para a torre branca",
+        "26. Rxc1 h5 27. Rc6 Rb8": "27. ...-Te8 melhor proteger a cadeia de peoes ",
+        "28. Rxe6 Kf7 29. Re5 Kf6 30. Rxd5 Rc8 31. b5 Rc1+ 32. Kg2 Rc2+ 33. Kh3 Ke6 34. Re5+ Kf6 35. Re8 Rd2 36. Rb8 Rxd4 37. Rxb6+ Ke7 38. Kh4 Rd2 39. h3 Rd3 40. Rb7+ Kf6 41. b6 g6 42. Rb8 Rb3 43. b7 Ke7": "As brancas jogam e ganham.",
+        "44. Rg8": "44.Rg8!!",
+        "44... Kd7 45. b8=Q Rxb8 46. Rxb8 Kc7 47. Rg8 Kd7 48. Rxg6 Ke7 49. Kg5 Kf7 50. Kxf5 h4 51. gxh4 Ke7 52. h5 Kf7 53. h6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chesscube-game-www-chesscube-com?gm=32430",
+    "gameName": "ChessCube Game, www.chesscube.com",
+    "players": "jmagave (1506) vs. bavishi (1560)",
+    "opening": "Queen's pawn (A40), English defence"
+}

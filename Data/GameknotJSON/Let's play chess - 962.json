@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nf3 h6 4. Nc3 Nf6 5. e3 a6": "5...c6 is the main line.",
+        "6. b3": "The bishop doesn't really have a future on b2. Better to leave it on c1 until you've played e3-e4. Qc2 was the best move.",
+        "6... Bb4 7. Bb2 Ne4 8. Qc2 O-O 9. Bd3 Nd6 10. O-O c6 11. a3 Ba5 12. Rfe1 Qf6 13. Rad1": "I get the impression that you are playing to a formula here. 13.b4 followed by 14.e4 was the best plan.",
+        "13... Nf5": "The losing move:-)",
+        "14. b4 Bc7 15. Bxf5 exf5 16. cxd5 Bd7 17. dxc6 bxc6 18. d5 Re8 19. e4 f4 20. Ne2 Qd8 21. Qc3 Be5 22. Nxe5 f6 23. Nxd7 Nxd7 24. dxc6 Rxe4 25. cxd7 Ra7 26. Qc8 Qxc8 27. dxc8=Q+ Kh7 28. Qf5+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=16708",
+    "gameName": "Let's play chess",
+    "players": "veracitus (1565) vs. nabilus (1485)",
+    "opening": "QGD Slav (D30)"
+}

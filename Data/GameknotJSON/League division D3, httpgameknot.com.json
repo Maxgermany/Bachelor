@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. c4 Nf6 3. Nc3 Bb4 4. Bd3 O-O 5. Nd5 Nxd5 6. cxd5 d6 7. h3": "(-0.91)7.Nf3 Nd7 ; 8.0-0 Nf6 ; 9.b3 Bc5 ; 10.Bb2 c6 ; 11.dxc6 bxc6 ; 12.h3 Bd7 ; 13.Qe2 h6 ; 14.Bc3 Qb6 ; 15.Fc4 (-0.21)",
+        "7... Nd7 8. a3 Ba5 9. b4 Bb6 10. Nf3 Nf6 11. Bc4": "(-2.98) 11.Bc2 a5 ; 12.Bb2 Nh5 ; 13.d4 Nf4 ; 14.0-0 Qf6 ; 15.Bc1 axb4 ; 16.Bxf4 Qxf4 ; 17.axb4 Rxa1 ; 18.Qxa1 Bxf3 ; 19.dxe5 Re8 (-0.59)",
+        "11... Bd7": "(-0.68) 11...Nxe4 ; 12.d4 exd4 ; 13.0-0 Qf6 ; 14.Qc2 d3 ; 15.Qb1 Ng3 ; 16.Bxd3 Nxf1 ; 17.Bg5 Qc3 ; 18.Kxf1 g6 ; 19.Bd2 Qf6 ; 20.Bg5 Qg7 ; 21. Kg1 Re8 (-2.98)",
+        "12. d3 Nh5 13. Bg5 f6 14. Bd2 f5 15. exf5 Rxf5 16. O-O Nf4 17. Bxf4 Rxf4 18. Re1 Bxh3 19. g3": "(-6.37) 19.Re4 Bg4 ; 20.Rxf4 exf4 ; 21.Qe2 Qf6 ; 22.Re1 a5 ; 23.b5 Bc5 ; 24.a4 Bb4 ; 25.Rc1 Bd7 (-2.22)",
+        "19... Rf7 20. Qd2": "(-13.29) 20.d4 Qf6 ; 21.dxe5 Qxf3 ; 22.Qxf3 Rxf3 ; 23.Ra2 Raf8 ; 24.Ree2 Bg4 ; 25.Kg2 Rxa3 ; 26.Rxa3 Bxe2 ; 27.Bxe2 Rxf2+ ; 28.Kh3 Rxe2 ; 29.e6 (-6.22)",
+        "20... Rxf3 21. Re4 Rxf2": "22.Qxf2 Bxf2+ ; 23.Kxf2 Qg5 ; 24.Ke2 Bg4+ ; 25.Rxg4 Qxg4+ ; 26.Kd2 Rf8 ; 27.Ra2 b5 ; 28.Bb3 Rf2+ ; 29.Ke1 Rxa2 ; 30.Bxa2 Qxg3+ ; 31.Ke2 Qh2+ ; Kd1 Qxa2"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3-http-gameknot-com?gm=52804",
+    "gameName": "League division D3, http://gameknot.com/",
+    "players": "ledzepper (1505) vs. macounet (1599)",
+    "opening": "King's pawn game (C20)"
+}

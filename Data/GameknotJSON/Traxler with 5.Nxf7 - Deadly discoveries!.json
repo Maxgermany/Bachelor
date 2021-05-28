@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nI seem to be following one bad game with one good game and vice versa!  I lost a game to a 1900+ player called Paolo playing white in the Traxler and dropped 6 rating points.  Luckily I got them back plus a little more in this game when, as with Pawnstar, the e column proved a death trap to the white king, and yet again, Glenda was the instigator.  Gameknot analysis is as follows:- http://gameknot.com/analyze-board.pl?bd=15111303&fb=1&rnd=0.23920012303562282",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1": "6. Kf1 - moves 1-5 have followed fairly standard lines.  KxB has been played and in fact I tried it against Paolo and went on to lose.",
+        "6... Qe7 7. Nxh8 Bb6": "7. ..... Bb6 - I have had some good results with this line so I decided to retreat Fou Lenoir to b6 where he is bearing down on the WK.",
+        "8. d3 d5 9. exd5 Bg4": "9. ..... Bg4 - I can ignore the threat to my knight by one move, a developing move attacking the Wicked Witch of the West.",
+        "10. Qd2 Nd4 11. d6 cxd6 12. Nc3 O-O-O": "12. ...... 0-0-0 - Henry tucks himself away on the queenside and now a black rook is ready to join in the attack on the WK.  Over the last few moves my pieces have been swarming in!",
+        "13. Nf7 Rf8 14. Ke1 e4 15. Nxd6+ Qxd6": "15. ..... Qxd6 - this knight has been sacrificed to lure Glenda off the e column, but alas for white, she returns there one move later to pin a knight.",
+        "16. Nxe4 Qe7 17. Rf1 Re8": "17. ..... Re8 - pile on.",
+        "18. Rf4 Bf5": "18. ...... Bf5 - more pile on.",
+        "19. Kf1 Bxe4": "19. ..... Bxe4 - might as well get rid of the knight.",
+        "20. dxe4 Nxe4": "20. ..... Nxe4 - out of this deal I manage to win back a pawn but I am still the exchange for pawn down.  I must attack, attack, attack!",
+        "21. Qd3 Nxc2": "21. ..... Nxc2 - this move claws back a further pawn because if QxN then Ng3+, PXN then Qe1#.  My opponent spotted the mate, counter sacrificed his light square bishop and said, \"nice try\"!",
+        "22. Be6+ Qxe6 23. Qxc2+ Kb8": "23. ...... Kb8 - Henry tucks himself further away from the centre.",
+        "24. Ke2": "24.  Ke2 - whaaat?  He walks his king right into Glenda's line of fire.  Now in order to avoid copping Old Matey, Etienne must now sacrifice his rook by interposing it onto e4.  He will find himself, after a forced exchange of queens, a clear piece down in an endgame.",
+        "24... Nd2+": "24...... Nd2+ - I decided to put this knight here because it can only be taken by the WK.  Crucially this move stops white from developing his dark square bishop.  The white king eats my knight but this allows #2.  I announced 26. Qe1# on the next move, giving my opponent the choice of resignation.  No doubt he moved his king to d1 hoping for a finger slip, alas for Etienne, I set up the move as a conditional so there was no way out for him - Glenda got her man!",
+        "25. Kxd2 Qe3+ 26. Kd1 Qe1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/traxler-with-5-nxf7-deadly-discoveries?gm=35927",
+    "gameName": "Traxler with 5.Nxf7 - Deadly discoveries!",
+    "players": "a_random_guy (1775) vs. jstevens1 (1767)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

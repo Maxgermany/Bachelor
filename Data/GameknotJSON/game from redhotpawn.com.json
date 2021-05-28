@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "I am White in this game I played on redhotpawn.com\nThis is an excellent demonstration of why it is important to always do a tactical check before moving.",
+        "1... d6": "The Pirc Defense. Doesn't promise Black equality if White plays correctly. But don't underestimate the Pirc because there is a lot of fish crap Black can play that requires White to play extra-accurately.",
+        "2. d4": "Always take over the centre when your opponent doesn't.",
+        "2... c5": "This is not the main line of the Pirc. Black wants me to take on c5 and trade queens, which would go into an endgame which is probably equal.",
+        "3. c3": "Since Black failed to take over the centre earlier, I have a better move to simply keep a pawn on d4 and hold the stronger centre by transposing into the Alapin variation of the Sicilian, reached by the move order (e4 c5 c3 d6 d4)",
+        "3... Nc6": "The main line of this opening is Nf6 Bd3. But it could still transpose.",
+        "4. Nf3": "I didn't want to play d5 because I've already spent a move making sure I keep my pawn on d4.",
+        "4... Bg4": "4...Bg4?\nAlthough this move looks natural, it is actually a positional blunder. Even though I have no obvious tactics, my next move forces Black to either undevelop his knight, or give me an even stronger centre.",
+        "5. d5": "Now I can play d5 since Black's knight cannot go to e5 (the reason will be revealed soon).\nBlack's knight will get trapped on a5, so it's only safe place will be on b8 where it wastes a tempo.\nOr Black can give up the bishop pair with Bxf3 gxf3 Ne5, leaving me with a stronger centre.\nBut Black forgot to do his safety check before moving, and will lose immediately.",
+        "5... Ne5": "5...Ne5??\nThis is a horrible blunder that caused Black to resign once I exploited it. Although Ne5 seems fine because it puts pressure on my pinned piece, Black didn't look ahead to see if I have any tactics. He simply assumes my knight cannot move, and moves without thinking. You should always do a safety check before moving (especially in positions with a lot of hanging pieces) to make sure your opponent doesn't have any tactics.",
+        "6. Nxe5": "Black could've resigned here, but my move probably startled him, since he had assumed that my knight couldn't move. (Which it just did!)",
+        "6... Bxd1": "He was probably thinking, \"Ummmm.......... Did White just hang his queen???? Now I think I'm winning! I'm up a queen!\"",
+        "7. Bb5+": "Nope!\nThanks to tactics, I will get my queen back for free, and end up with an extra piece. Black resigned once he realized his costly mistake. He had overlooked Nxe5!! as my winning move, since he simply assumed that my knight couldn't move. NEVER ASSUME IN CHESS! Learn from Black's mistake in this game. Black was thinking, \"White can't take my knight since I'll take his queen.\" But if Black had actually calculated Nxe5!! instead of just assuming, then he could've avoided the loss of a piece by playing Bxf3, leaving me only with a small (not winning) advantage"
+    },
+    "url": "https://gameknot.com/annotation.pl/game-from-redhotpawn-com?gm=4006",
+    "gameName": "game from redhotpawn.com",
+    "players": "bakerbaker (1795) vs. distantcube (1645)",
+    "opening": "Pirc defence (B07)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 h6": "La d\u00e9fense Miles.",
+        "2. d4 a6": "Les blancs occupent le centre, les noirs avan\u00e7ant les pions tours pour d\u00e9truire les pions du futur roque blanc. ",
+        "3. c4 d6": "Les blancs pr\u00e9parent une attaque, 3... d6 contre les trois pions. Les coups 4. c5 ? ou 4. e5 ? ne fonctionnaient pas, car apr\u00e8s 4... dxc5 5. dxc5 Dxd1 ! 6. Rxd1 et les blancs ne peuvent plus roquer.",
+        "4. d5 b6": "Une pr\u00e9caution envers les trois pions peu utile. En effet, les pions ne peuvent plus avancer.",
+        "5. b3 Bd7 6. Nf3": "Les blancs continuent \u00e0 se d\u00e9velopper et consolident leur cha\u00eene de pions tandis que les noirs pr\u00e9parent une structure \"B\u00e9ton\" qui a comme unique point faible la traditionnelle case f7.",
+        "6... Nf6 7. h3 g6 8. Bd3": "Les blancs contr\u00f4lent le centre et ont beaucoup d'espace, les noirs sont tr\u00e8s reserr\u00e9s.",
+        "8... Bg7 9. Na3": "Le d\u00e9veloppement du cavalier dame se fait normalement en c3, o\u00f9 il a th\u00e9oriquement plus de mobilit\u00e9 et une bonne prise au centre. ",
+        "9... Nh5 10. Rb1": "Suite \u00e0 ce coup de cavalier noir, le Fg7 peut d\u00e9sormais aller sur c3.",
+        "10... Bc3+ 11. Ke2": "Les blancs ont perdu leur occasion de faire le petit roque. 11. Fd2 Fxd2 12. Cxd2 permettait d'empecher ce d\u00e9sagr\u00e9ment.",
+        "11... O-O 12. Qc2 Bf6": "Observons la position. Les blancs ont une tour inamovible (Tb1), un cavalier qui n'a aucune case de fuite (Ca3), un roi non prot\u00e9g\u00e9 (Re2) mais un fou qui pourrait s'infiltrer chez les noirs via h6 (Fc1).\nLes noirs ont une solide d\u00e9fense mais des probl\u00e8mes de d\u00e9veloppement (Cb8, Ta8 ...).",
+        "13. g3": "13. Fxh6 \u00e9tait aussi jouable.",
+        "13... Ng7 14. Rd1 e6": "Les blancs ont regroup\u00e9 leurs pi\u00e8ces, mais les noirs ont une faiblesse : le pion h6.",
+        "15. Bxh6 exd5 16. exd5 Bxh3": "Chaque camp a un fou chez l'adversaire.",
+        "17. Be3 Bg4": "Les blancs pouvaient garder leur fou en h6, pouvant peut-\u00eatre l'\u00e9changer contre le cavalier en g7. Cependant, une id\u00e9e de combinaison germe chez les noirs : 17... Fg4 18. Tc1 Te1 19. Cb1 Cf5 20. Th1 ??? Cd4  ! 21. Rd2 Cxc2 gagnant la dame.",
+        "18. Rdh1 Re8 19. Rh2 Nf5 20. Rh4 Nd4+": "Les blancs ont laiss\u00e9 la combinaison s'ex\u00e9cuter.",
+        "21. Kf1 Nxc2 22. Bxc2": "Avec un avantage aussi grand, la fin se passe de commentaire.",
+        "22... Bxh4 23. gxh4 Bxf3 24. Bd3 Qxh4 25. Nc2 Qh1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/un-mini-tournoi-fran-ais-pourquoi-pas?gm=13992",
+    "gameName": "Un mini-tournoi fran\u00e7ais ... pourquoi pas ?",
+    "players": "niallol (944) vs. villiers (925)",
+    "opening": "Carr's defence (B00)"
+}

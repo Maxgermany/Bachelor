@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. e3 g6 4. Nc3 Bg7 5. Nf3 Nf6 6. Bd3 O-O 7. Ne5 dxc4 8. Bxc4 Nd5 9. f4 Be6 10. Qb3 b5 11. Bxd5 Bxd5 12. Nxd5 Qxd5 13. Qxd5 cxd5 14. Nd3 Nd7 15. Bd2 Rfc8 16. Ke2 e6 17. Rhc1 Bf8 18. Rxc8 Rxc8 19. Rc1 Rxc1 20. Bxc1 Bd6 21. Bd2 Kf8 22. Bb4 Ke7 23. Bc5 a6 24. b4 f6 25. g4 Bxc5 26. bxc5 Nb8": "This is a classic example of an extremely dynamic endgame. There is no time here for quiet manoeuvring or the gradual strengthening of the position. Black is threatening to bring his knight to c6, neutralizing White's protected  passed pawn, when he would have nothing at all to fear. However, in entering this position, Pillsbury had calculated a truly wonderful finish, which he had to see pretty much all the way to Black's resignation",
+        "27. f5": "The key breakthrough. The threat is 28. Nf4 when Black will be unable to defend d5, so the reply is forced. ",
+        "27... g5 28. Nb4": "Now the knight jumps to the other side, threatening the advance of the c\u00adpawn. One move earlier, this would have been ineffective because of the reply in the game, but the changed central pawn structure makes all the difference.",
+        "28... a5": "Once again, this is clearly forced.",
+        "29. c6": "This is the real point of White's play, but he had to see a considerable distance to be able to play this.",
+        "29... Kd6 30. fxe6 Nxc6": "Black is being led down a narrow path of only moves. If 30. ... axb4? then 31. e7 Kxe7 32. c7 wins.",
+        "31. Nxc6 Kxc6": "This is the first stage of White's grand conception, but in order for it to work, he had to realize that this pawn ending, at first sight highly unfavourable, is in fact winning. Black threatens to help himself to the e6-pawn, when it is he who would be winning, but White has another breakthrough.",
+        "32. e4 dxe4 33. d5+ Kd6 34. Ke3": "Now, at last, we begin to see the whole of Pillsbury's idea. His two central passed pawns are secure, and his king can cope with the enemy pawns. It is a rare case of a king and pawn ending in which central passed pawns prove stronger than outside ones.",
+        "34... b4": "Black has to try to make something of his queen side pawns, else White will simply take on e4 and then bring his king over to mop up the queen side.",
+        "35. Kxe4 a4 36. Kd4 h5": "Desperation, but he is lost anyway. After the more natural 36. ... Ke7 play continues 37. Kc4 b3 38. axb3 a3 39. Kc3 f5 (the only remaining try, setting up a passed pawn on the kingside, but White's pawns are faster) 40. gxf5 h5 41. b4 g4 42. b5 h4 43.b6 g3 44 d6+! and White will queen first with check.",
+        "37. gxh5 a3": "Threatening 38 ... b3.",
+        "38. Kc4 f5 39. h6 f4 40. h7": "A justly famous \"white knuckle ride\" by Pillsbury, who had to have calculated virtually the whole of the above sequence before entering the knight and pawn ending. Perish the thought that anyone should think that endings are boring, but if there really is someone who does think so, he should be converted by this example. "
+    },
+    "url": "https://gameknot.com/annotation.pl/great-endgames-series-knight-endings?gm=52110",
+    "gameName": "Great Endgames Series - Knight Endings",
+    "players": "Harry Pillsbury  vs. Isidor Gunsberg ",
+    "opening": "QGD Slav defence (D10)"
+}

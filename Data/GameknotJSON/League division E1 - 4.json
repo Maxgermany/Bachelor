@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "A short game this but I think it demonstrates the advantage of early pressure at a lower-middling level of play on the mental side.",
+        "1... c5": "An opening with which I am unfamiliar, though I plan to research it more in future as I'm getting a little bored of 1. e4, e5.",
+        "2. Bc4": "Not having dealt with this opening before I elect to play this rather than my usual Nc3, looking to restrict the early pawn movement.",
+        "2... Nc6 3. Nc3": "Looking back I feel I could have played Nf6 instead and considered pushing my pawn forwards. Maybe next time.",
+        "3... d6": "I never like this kind of play early. While you should never let your pawns be isolated, this kind of play is too safe and restricts your own options.",
+        "4. Qf3": "The computer says this was a poor move and I agree, however I was looking to see what agression would to to such a defensive-seeming postion.",
+        "4... Nf6": "A sensible response.",
+        "5. Nd5": "Again pushing further than I should have but in for a penny, in for a pound...",
+        "5... Bg4": "?? I can see the objective here, push the Queen around without allowing a safe retreat but this move ignores my advanced knight. Ng4 leading to Nge5 would have caused real trouble. Instead Black will come out behind by a bishop.",
+        "6. Nxf6+ exf6 7. Qxg4 Be7": "While it may have appeared sensible to give the rook freer movement all this move really does is give up the g-pawn and unleashed nasty pressure on the king.",
+        "8. Qxg7 Rf8": "Preventing Qxf7. I think Kd7 may have served better here, the mobility of the King should not be forgotten.",
+        "9. Nf3": "Even when you are agressive early on, one should not neglect to continue developing pieces. Any immediate attempt to continue pressure on the king risks turning successful early pressure into an all-in attack which could easily fail.",
+        "9... Qd7": "Looking to get the king out of trouble with a queenside castle.",
+        "10. O-O": "This move actually slowed me down. I should instead have continued to develop my midgame pieces. Still, with the advantage firmly in my hands I elected for a conservative continuation",
+        "10... O-O-O 11. d3 Ne5": "Offering the exchange to undouble his pawns.",
+        "12. Nxe5": "Accepted.",
+        "12... fxe5 13. Qxh7": "Snapping up the loose pawn and reminding my opponent of the Queen's presence.",
+        "13... Rfh8": "The hoped-for reaction allowing me to snaffle another pawn and set up shop on the a2-g8 diagonal.",
+        "14. Qxf7": "Looking to pin the Queen against the king with Be6 and seal the game.",
+        "14... Qg4": "?? The final blunder. I presume my opponent was looking to threaten my king with rook and Queen but even ignoring the fork at e6 this effort would be foiled by h3 forcing Black to spend more time extricating his Queen and allowing Qxe7 to increase my lead yet further. Kb8 or Qe8 would have forced me to accept an even exchange or to retreat and try a new angle.",
+        "15. Be6+": "Black resigns. While this game was hardly a masterpiece of skill I hope any newer players can see the pitfalls of overreaching and underanalysing which it demonstrates. In particular consider the possible results of 5. ... Ng4 which would have led to a Black advantage and a far longer game and the truly fatal blunder of 7. ... Be7 which turned a lost exchange into a lost game.\n\nThe more bull-headed players (or those wishing to test the long-term implications of the carnage amongst Black's pawns) might also consider the ramifications of 14. ... Qe8 or Kb8 as an object lesson in the strength of pawns as the game rolls on but I imagine most of you who examine these annotations are well aware of that!"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e1?gm=35814",
+    "gameName": "League division E1",
+    "players": "cailet (1224) vs. andrewein (1247)",
+    "opening": "Sicilian defence (B20)"
+}

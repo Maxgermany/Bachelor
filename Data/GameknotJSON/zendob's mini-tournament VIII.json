@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "One day, should I live long enough, perhaps I will learn to play 1.d4.  In the meantime 1.e4 is quite enough work for a non-professional like me.",
+        "1... e5": "Evgeny Sveshnikov convincingly argues that 1...c5 is the \"correct\" move here.  Thankfully he has not convinced everyone! Ironically he favors open systems with an early ...e7-e5! The game then features the pawn duo e4 and e5 as if....",
+        "2. f4 exf4 3. Bc4": "John Shaw's new book on the King's Gambit (August 2013) offers a refutation of the Bishop's Gambit beginning with 3...Nc6.  The lines with 3...Nf6 historically are also problematic vfor White.  The long time KG player is not likely to worry too much about a refutation in a rarely seen line....just toss in a piece sacrifice and move on!  Now if everyone starts playing 3...Nc6....",
+        "3... Bd6": "Bad move number one...A.) Blocks the d=pawn which traps the Queen Bishop unless the slow fianchetto is employed. B.) The Bishop does not really protect the gambit pawn capturer on f4. C.) The Bishop is exposed to pawn attacks and the resulted loss of tempi. Better are 3...Qh4+, 3...Nf6, 3...d5 and supposedly 3...Nc6.  Also the \r\nDouble King Pawn openings can be hazardous if one makes \"natural\" moves as a substitute for opening knowledge.",
+        "4. Nf3": "May as well avoid 4...Qh4+ and prepare d4 for occupation.",
+        "4... Bc5": "Bad move number two DOES move the Bishop to a better square, but loses a tempo in doing so and still leaves the piece exposed to a pawn push.",
+        "5. d4 Bb6": "Three Bishop moves already.... not good.",
+        "6. Bxf4": "White now dominates the center and is way ahead in developing pieces.",
+        "6... f6": "Bad move number three weakens the light squares around the King. Three pawn moves and three moves with the same Bshop.  After 7.0-0 White can begin to think seriously about overrunning the Black position....",
+        "7. O-O Nc6": "Good move number two!",
+        "8. c3": "Mainly freeing the Queen from the support of d4.  Obviously the Queen will soon begin to attack.",
+        "8... d6": "If Black had played this earlier instead of ...f7-f6.  Now playing this pawn advance is too slow.  Instead maybe 8...Nge7 or 8...Bg4?",
+        "9. Kh1": "Perhaps not needed, but White has the time to be safe.  Black is not applying ANY pressure to the White position.",
+        "9... g5": "Game over? Probably. The first three lines I looked at starting with a Knight capture of the g5 pawn all ended in mate. I hesitate to call this a sacrifice since the consequences can be easily calculated in advance.  There is not murkiness nor magic in this position.",
+        "10. Nxg5 fxg5": "Black should probably try 10...Qe7 or something besides the capture in hopes of gaining enough time and squares to escape the mating threats.",
+        "11. Qh5+": "All three King moves lead to mate I believe.",
+        "11... Kd7": "The other two King moves lead to mate in one with 12.Qf7#.",
+        "12. Bxg5": "I figured my opponent would shield the Queen.",
+        "12... Nge7 13. Qh3+ Ke8 14. Bf7+ Kf8": "Mate next...",
+        "15. Bh6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/zendobs-mini-tournament-viii?gm=51865",
+    "gameName": "zendob's mini-tournament VIII",
+    "players": "a50tango (1571) vs. zendob (1372)",
+    "opening": "KGA (C33), bishop's gambit"
+}

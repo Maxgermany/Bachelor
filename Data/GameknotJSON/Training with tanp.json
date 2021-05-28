@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This is a training game and my annotation is an attempt to help white improve his play. Comments are very welcome and feedback by PM is especially appreciated.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6": "Standard Ruy Lopez. ",
+        "4. Ba4 Nf6 5. c3": "This is not a bad move, but out of sequence. Anyone who plays Ruy Lopez regularly will spot this and have a proper look at the position now. Your e4 is vulnerable and black can consider some other positional options. I expected you to play 0-0 first as that discourages Nxe4 and prepares for Re1.  ",
+        "5... Nxe4": "Since this game is not about my play, I'll take a chance on this move. By that I mean - I think I can defend it (the position, not the extra pawn) and will reach a position of equality at least. I normally would play d6 or other developing move, but you obviously want to divert from normal Ruy Lopez !  Sharp play from here, I hope I don't get cut.",
+        "6. Qe2": "As white I would have looked at lines that open possibilities for B & N development, but this is ok",
+        "6... Nc5": "I must give back the pawn, so I'm thinking about the position after some exchanges, and where I'll be with development ",
+        "7. Nxe5 Qe7": "I thought you would play BxN first",
+        "8. Bxc6 dxc6 9. d4 f6 10. dxc5 Qxe5 11. Qxe5+ fxe5 12. Be3": "All these moves are ok if predictable",
+        "12... Be7 13. O-O Bf5": "Now I'm ok. I have paired Bs, can castle either side, and the isolated pawn is not too much worry for now, your white squares are weak and you can't play N to c3 ! This looks like equality or slightly better to me. ",
+        "14. Nd2 O-O-O": "Takes control of the open file",
+        "15. b4": "You know I bang on about moving Ps, so that is why I would have tried to get Rs active first, also c3 is a target now. I'll try to manouver my Bs to exploit c3 and the weakness of your white squares.",
+        "15... Bf6 16. f3": "You really need to play Nf3 here. Yet again - pushing a pawn instead of positioning a piece. f3 invites Rd3 and you will have to defend B & N & c3. I now have the initiative, probably will win c3, and will get all my forces bearing down on you within a few moves. I control more space and my isolated e5 is an assett rather than a worry. ",
+        "16... Rd3 17. Rfe1 Rxc3 18. Ne4 Bxe4": "I liked the B pair but your N could get active and this gives you an isolated e4 - so I'll have another P target",
+        "19. fxe4 Rd8 20. a3 Rdd3": "Now I have two heavies in your face, with minor threats, they cut your reply options. Even if you defend your pawns I'll get control over significant squares on your home ground, eventually something will give if I chip away.",
+        "21. Bc1 Rc2 22. Kf1": "You should look at Be3 here",
+        "22... a5": "Time to break up your pawn chain",
+        "23. Re2": "I knew something would give but did not expect an obvious mistake like this. You must have seen my reply Rd1  and you must play Re1, so after RxR KxR I have Rxg2 and more to come.",
+        "23... Rd1+ 24. Re1 Rxe1+ 25. Kxe1 Rxg2": "Two pawns down with no compensation. From here, your back rank is messy, h3 is under threat, pxp leaves three isolated pawns, even e4 is vulnerable. I will probably settle for grabbing the h pawn, swapping off the Rs, and heading into a won end-game  ",
+        "26. Bd2": "The lesson is when you make a mistake (move 23. Re2) give extra time and attention to the position. I think you know your position here has probably gone past a salvage point, and as a result you are not giving proper attention.",
+        "26... Rg1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/training-with-tanp?gm=16188",
+    "gameName": "Training with tanp",
+    "players": "jackdooley (1499) vs. tanp (1973)",
+    "opening": "Ruy Lopez (C77), Morphy defence"
+}

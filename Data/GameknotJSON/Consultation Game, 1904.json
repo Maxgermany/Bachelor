@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 g5": "Even today this is the most common variant of the King's Gambit Accepted.",
+        "4. h4 g4 5. Ne5 Nf6": "It becomes a Kieseritzky Gambit...",
+        "6. Bc4 d5 7. exd5 Bd6 8. O-O": "This move [8 O-O] makes it a Rice Gambit. Like all variants of the KGA, it is a risky but very exciting line to use as White.",
+        "8... Bxe5 9. Re1 Qe7 10. c3 Bf5 11. d4": "White opens up lines for the Q-side pieces while attacking the pinned B.",
+        "11... Nbd7 12. dxe5 Nh5 13. e6": "Thrusting hard in the center.",
+        "13... fxe6 14. dxe6 O-O-O": "Now Black makes a daring piece sacrifice instead of simply moving the Knight. Back then Chess players had pluck! There were a lot fewer draws and a lot more sacrificial attacks.",
+        "15. exd7+ Rxd7 16. Qe2 Qxh4": "Black has gained two Pawns in return for the piece and has 3 pieces aimed ominously at White's King.",
+        "17. Qf2 g3 18. Qxa7 Rd3": "Adding force to the attack.",
+        "19. Nd2 Rxd2": "Sacrificing an Exchange to remove a defender and increase the pressure.",
+        "20. Bxd2 Qh2+ 21. Kf1 f3": "With Black threatening to close the ring, White initiates a counteroffensive, beginning a series of checks.",
+        "22. Qa8+ Kd7 23. Qa4+ c6 24. Re7+": "White's countersacrifice drives the Black King into the open center of the board, away from the shelter of the Q-side Pawns.",
+        "24... Kxe7 25. Bg5+ Kd7 26. Rd1+ Kc7 27. Qa5+ Kb8": "Now White can pick up the Rook with tempo.",
+        "28. Qe5+ Ka8 29. Qxh8+ Ka7 30. Qd4+ b6": "White's string of checks has bought him time to get his King away from the danger zone on the K-side.",
+        "31. Ke1 fxg2 32. Be3": "Guarding the Queening square.",
+        "32... c5 33. Qe5 g1=Q+": "Winning back the piece via promotion.",
+        "34. Bxg1 Qxg1+ 35. Kd2 Qf2+ 36. Be2": "Sealing off the King.",
+        "36... g2 37. Qe7+ Kb8 38. Qe3": "Black resigns, as the Pawn cannot now successfully promote."
+    },
+    "url": "https://gameknot.com/annotation.pl/consultation-game-1904?gm=36381",
+    "gameName": "Consultation Game, 1904",
+    "players": "Emanuel Lasker + Allies  vs. David Janowski + Allies ",
+    "opening": "KGA (C39), Kieseritsky, Rice gambit"
+}

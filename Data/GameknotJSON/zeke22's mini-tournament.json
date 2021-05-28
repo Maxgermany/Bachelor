@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e3 e6 2. c4 c5 3. b3 b6 4. Nc3 Nc6 5. f4 Nf6 6. h3 Be7": "Here's our starting position.\nOne of the things that I noticed about this opening is that it creates lots of parallel diagonals in White's position. This means that Black's Bishops will be invaluable for attacking, while White's will be needed for defending.\nAnother thing to notice is that Black's position is solid, while White's is not. Black has spent his time (mostly) making good developing moves, while White has made mostly pawn moves.",
+        "7. Bb2": "White seeks to catch up to Black in development.",
+        "7... O-O": "Black's position is completely solid now. He is free to play ...d5 whenever he wants. This will allow his Bishops to dominate the board.",
+        "8. Nb5": "White wastes a tempo with his Knight. It would have been better for White to continue developing, and trying to patch up the holes in his pawn structure.",
+        "8... a6": "Pushing the Knight back to c3 and removing one of its support points with tempo.",
+        "9. Bxf6": "This was a really bad idea. Since White's position is riddled with open diagonals, White needs his Bishops for defense. Not only does this eliminate one of White's Bishops without hurting Black's, but it allows Black's dark-square Bishop to dominate White's position.",
+        "9... Bxf6 10. Nc3": "Now the Knight's in a pin.",
+        "10... d5": "Breaking the center, trying to get an attack while the White King is still stuck.",
+        "11. Nf3 d4": "By pushing to d4 Black has ensured that his pawn will loosen the center, not just the c-file.",
+        "12. exd4 Nxd4": "Now if Nxd4 then the Queen recaptures and dominates the center.",
+        "13. Bd3": "White prepares to castle.",
+        "13... Nxf3+": "Black is ready to spring into the center now. After 14. Qxf3 Rb8 15. O-O Bb7, Black is slicing straight into White's kingside.",
+        "14. gxf3": "This is a blunder. It instantly loses the Bishop and puts the Black Queen on to d3, where you can feel her influence radiating throughout White's position. She controls the key light diagonals around the White King, and leaves him with only one dark vent that the Bishop on f6 is threatening to take control of.",
+        "14... Qxd3 15. Rc1": "This move completely ignores the mate threat. White could have stopped it a number of ways: h5, Qe2, Qc1, Qb1, Ne4, Rh2, or Rf1.",
+        "15... Bh4#": "0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/zeke22s-mini-tournament?gm=15265",
+    "gameName": "zeke22's mini-tournament",
+    "players": "bohoc (1294) vs. tigerzrul88 (1410)",
+    "opening": "Van't Kruijs opening (A00)"
+}

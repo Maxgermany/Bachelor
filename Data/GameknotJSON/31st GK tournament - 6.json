@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "This games stand as a prove that mistakes are the product of relaxing our mind in a simple position.",
+        "1... e5 2. Nf3 Nc6 3. Nc3": "3.-Nc3 its not very popular anymore beacause white rarely gets a solid advantage out of the opening.",
+        "3... Nf6 4. Bc4": "4.-Bb5 was better, entering into a delayed \"Knights atack\" variation of the Spanish.",
+        "4... Bc5 5. d3 d6 6. Bg5": "Be3 was better.",
+        "6... h6": "A mistake.",
+        "7. Bh4": "7.-Bxf6 gxf6\n8.-Nh4 and white its winning the battle on the blockade of  the double pawns.\n\n7.-Bxf6 Qxf5\n8.-Nd5 Qd8\n9.-c3 and white its better.",
+        "7... Bg4": "Mistake. g5 was the indicated move.",
+        "8. a3": "Bxf6 was still posible.",
+        "8... g5": "Black finally reacts.",
+        "9. Bg3": "The main point of it, its that with the Bg3, white may move h3, but he can not move g4 getting rid of the pin.",
+        "9... Nd4": "Not to use the pin as to play c6 and control the key square d5.",
+        "10. h4": "apparently a dinmamic reaction but the move 10.-Nb5! seems the best.",
+        "10... Rg8": "The timmid 10.-...Nh7 was also possible, as to  inhabilitate 11.-hxg5 beacause of 11.-...Nxg5 or also, answer any move with 11.-....Qf6\n",
+        "11. Qd2": "Loses a piece, Nb5 was indicated.",
+        "11... Bxf3": "CLear its that 12.-gxh3 Nxh3  13.-Kd1 Nxd2 its a resignable positon.",
+        "12. O-O": "12.-gxf3 Nxf3  its a laughable matter.\nAltough the textual, castilng into it....",
+        "12... gxh4 13. gxf3": "Loses the queen but the bishop was already lost.\n13.-Bxh4 Rxg2 \n14.-Kh1 Rxf2 \n15.-Kg1 Rg2 \n16.-Kh1 Rxd2 \n17.-Kg1 Rg2 \n its a long and FORCED windmill combination that wins the quen, three pawns and the bishop.",
+        "13... Nxf3+": "The rest require no comments.",
+        "14. Kh1 Nxd2 15. Rfg1 hxg3 16. Rxg3 Rxg3": "Black has no objection in exchanging.",
+        "17. fxg3 Nxc4 18. Kh2": "White's move  was by all means inaccurate.",
+        "18... Ne3 19. Rc1 Nfg4+ 20. Kh3 Qg5 21. Nd5 Qh5#": "Mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/31st-gk-tournament?gm=544",
+    "gameName": "31st GK tournament",
+    "players": "keitho (1618) vs. poder_yaqui (1280)",
+    "opening": "Four knights (C46), Italian variation"
+}

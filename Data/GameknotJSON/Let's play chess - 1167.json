@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "This game shows the importance of the dark square bishop for Black in the Sicilian Dragon. After the first 10 or so moves, a sharp fight breaks out over the entire board.",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7": "Introducing the Sicilian dragon.",
+        "7. f3 O-O 8. Qd2 Nc6 9. Nb3 Bd7 10. O-O-O Rc8": "An important move in the Dragon - Black may later sacrifice the rook for the knight on c3.",
+        "11. g4 Na5": "Hoping to chip away at the defenses of White's king by trading off the less active knight on c6 for the important defensive piece on b3.",
+        "12. h4": "I think Bh6 would have been better, trading off Black's sleeping dragon on g7 and preparing an onslaught on the kingisde.",
+        "12... Nc4": "Now, Black is the one who trades off his opponent's bishop.",
+        "13. Bxc4 Rxc4 14. g5 Nh5": "Although the knight isn't doing much on h5, it will later land the decisive blow.",
+        "15. Qd3": "Reminding Black that his rook is somewhat awkwardly placed.",
+        "15... Qc8 16. Nd5 Re8": "Of course, e6?? loses the queen to Ne7 .",
+        "17. Nd2": "The rook doesn't have many options.",
+        "17... Ra4 18. Kb1 b5": "Black hopes he still has some attack left on the kingside. The bishop on g7 provides support from afar.",
+        "19. b3": "A very bad move positionally. It opens the diagonal and makes the bishop even more powerful.",
+        "19... Rxa2": "If White captures the rook, Black plays Qa5  and checkmates next move.",
+        "20. c3": "A good defensive try. White actually threatens to take the rook now. Black must be careful not to let the rook get trapped.",
+        "20... Qa6": "This move sacrifices the exchange.",
+        "21. Nb4 Ra1+ 22. Kc2 Ra2+": "Forced. Any queen move loses a whole rook to Rxa1.",
+        "23. Nxa2 Qxa2+ 24. Kc1 Ng3": "I think Rc8 would have been a clearer win for Black, but Black sets a trap here. The key is that the queen on d3 is the only defender of the pawn on c3. If that falls, Black's combination of the queen and the bishop on the g7 should mate. Black seeks to deflect the bishop.",
+        "25. Rhg1": "White falls for the trap.  Rh2 would have been better, but White would still have been in serious trouble after Rc8.",
+        "25... Ne2+ 26. Qxe2 Bxc3": "The only way to stop an immediate mate on a1 or b2 is Nb1 or Nc4, which both lose the queen to Qxe2."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=1303",
+    "gameName": "Let's play chess",
+    "players": "superted80 (1654) vs. kansaspatzer (1623)",
+    "opening": "Sicilian (B76), dragon, Yugoslav attack, Rauser variation"
+}

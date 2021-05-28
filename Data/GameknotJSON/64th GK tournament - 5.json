@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "i like the Spanish opening so i played e4",
+        "1... e5 2. Nf3 d5": "oO i don't know the name of this opening but i know that black wastes many tempi and white can develop\n##\nedit: it's the Elephant Gambit",
+        "3. exd5 Qxd5 4. Nc3": "see? 2 white knights came out while black just developed its queen, which is now attacked",
+        "4... Qc5 5. d4": "to undo black's opening i thought a queen trade might be good to increase my development advantage",
+        "5... exd4 6. Qxd4 Qxd4 7. Nxd4": "black is undeveloped while white has opened the table",
+        "7... Bc5 8. Be3": "a trade on d4 is good for white because of the threat on g7/h8 from the white bishop",
+        "8... Nf6": "undoing the threat",
+        "9. Bc4": "next development",
+        "9... O-O": "black castles...",
+        "10. O-O-O": "white too but with a more active postion of the rook",
+        "10... Bxd4 11. Bxd4": "if i trade on f6 the g-line would be open which is good for white",
+        "11... Ng4": "i don't know what the intention is but maybe the fork on f2 if i move my bishop from d4 away",
+        "12. Rd3": "trying to threaten with Rg3 followed by 14.Rxg7+ Kh8 15.Rg6+ f6 16.Bxf6+ Rxf6 17.Rxf6 with material advatage for white",
+        "12... g6 13. Nd5": "all my plans destroyed -.- but why not try to play Nd5 and threaten a mate?",
+        "13... Na6": "strange move...",
+        "14. Ne7#": "mate"
+    },
+    "url": "https://gameknot.com/annotation.pl/64th-gk-tournament?gm=28359",
+    "gameName": "64th GK tournament",
+    "players": "stonefinger (1339) vs. expressocafe (1359)",
+    "opening": "QP counter-gambit (C40), Maroczy gambit"
+}

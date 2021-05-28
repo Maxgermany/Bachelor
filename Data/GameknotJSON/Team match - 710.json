@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. h4 e5": "Almost always go king or queens pawn. King's pawn opened up an attack on the pawn if he decided to move rook out.",
+        "2. b3 Qf6": "Looking for an angle on the other rook.",
+        "3. Bb2": "A wise counter",
+        "3... d6": "Protecting the pawn, since that queen is going to have to move.",
+        "4. e3 Qe7": "Moving the queen out of diagonal, but still protected. To this point, I've done about nothing.",
+        "5. Nc3 Nf6": "Knights coming out....",
+        "6. Qe2 Nc6": "and number 2....",
+        "7. O-O-O a6 8. f3 d5 9. g4 d4": "Forcing the take...",
+        "10. exd4 exd4 11. Qxe7+ Bxe7 12. Nce2 O-O 13. Bxd4": "I missed this here.",
+        "13... Nxd4 14. Nxd4 Rd8": "Much better in retrospect.",
+        "15. Nge2 Nd5": "Setting up for the middle. The knight has nowhere at this point, but a little help and he does.",
+        "16. h5 Ba3+": "Creates the separation I need.",
+        "17. Kb1 c5": "Forcing the knight out.",
+        "18. Nf5": "Notice his knight had no where to go but here, and its a trade.",
+        "18... Bxf5 19. gxf5 Ne3": "The extremely obvious move. Threatens the rook, threatens the bishop and allows a checkmate if he takes the knight. (rook to d1)",
+        "20. Re1": "Does what he has to. In retrospect, he should have let the rook get traded for a bishop on c1.",
+        "20... Rxd2": "He's now in BIG trouble.",
+        "21. c4": "It's too late.",
+        "21... Rb2+": "He went to a1, c1 would have been disastrous as well, as I would have gone to f2 for a hidden check and likely had the rook on e1.l",
+        "22. Ka1": "Easy finish.",
+        "22... Nc2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=14898",
+    "gameName": "Team match",
+    "players": "threefingers3558 (1355) vs. tygloalex (1359)",
+    "opening": "Anti-Borg (Desprez) opening (A00)"
+}

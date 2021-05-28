@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "I nearly always start with e4 as it gets the pieces out quickest",
+        "1... c5": "the sicilian defense. Used by black players who want to achieve a win at all costs.",
+        "2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. f3 Nf6 8. Qd2 Bd7 9. Bc4": "We have now reached the main line of the dragon variation. Alternatives are \r\n0-0-0 and g4.",
+        "9... Ne5 10. Bb3 Rc8 11. Bh6 O-O 12. Bxg7 Kxg7 13. O-O-O": "completing development.The next stage is to attack black's kingside with h4, h5\r\nopening the h file for the rook",
+        "13... a6 14. h4 b5 15. h5 Rh8": "black disputes control of the h file in the event of 16.hxg6 hxg6",
+        "16. hxg6 hxg6 17. Qg5 Nc4 18. Nf5+ Bxf5": "forced as 18...Kg8 19.Rxh8  Kxh8 20.Rh1  gives white a decisive attack ",
+        "19. exf5 Rc5 20. g4": "defending the pinned pawn",
+        "20... a5": "it is now blacks turn to attack on the queenside. ",
+        "21. a3": "providing a home for the bishop on a2",
+        "21... b4 22. axb4 axb4": "black has managed to open the a file to attack the white king",
+        "23. Ne4 Qa5 24. Kb1": "the threat was Qa1#",
+        "24... Nxe4 25. fxe4 Qa8 26. Qxe7 Ra5": "threatening mate on a1 again",
+        "27. c3": "forced",
+        "27... Rxh1 28. Rxh1 Ra1+ 29. Kc2 Rxh1 30. Bxc4": "white now has a pawn for the exchange and pressure against the f pawn",
+        "30... Rh2+ 31. Kb3 Qf8 32. f6+ Kg8 33. cxb4": "if black swaps queens the pawn cannot be stopped!",
+        "33... Rh3+ 34. Kc2 Re3 35. Bd5 Re2+ 36. Kc3 Qc8+ 37. Bc4": "the threat is Qxf7  and if the queen defends it the rook drops",
+        "37... Rc2+": "however black has this resource !",
+        "38. Kxc2": "and here i offered a draw as i canot stop the checks.\r\nI really enjoyed playing this game and is a common sort of game in the dragon.\r\nFirst white attacks down the h-file, then it is blacks turn to attack. Finally his  attack runs out of steam but has the resource of perpetual check.Much more exciting than a boring draw in the queen's gambit!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=2055",
+    "gameName": "Let's play chess",
+    "players": "goldaxe2006 (1643) vs. kermit_zap (1700)",
+    "opening": "Sicilian (B35), accelerated fianchetto, modern variation with Bc4"
+}

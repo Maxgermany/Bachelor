@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4": "Queen's pawn, Mason Variation.",
+        "2... e6": "c5 is the Steinitz counter-gambit.  e6 seems like a solid response.\n",
+        "3. h3": "This seems a little weak; black's knight has not entered the fray.",
+        "3... c5 4. dxc5 Bxc5 5. e3 Ne7 6. Nf3 Nbc6 7. Bb5 a6 8. Bxc6+ bxc6": "Bishop/Knight trade is kind of interesting when it doesn't lead to doubled pawns.\n",
+        "9. Ne5 f6 10. Nd3 Bd6 11. Bxd6 Qxd6 12. Nc3 Bb7 13. Qg4 O-O 14. Nf4 Bc8 15. O-O": "Whoa!  Did white just toss his knight?  e5 puts pressure on the queen.",
+        "15... e5": "Two pieces threatened with a single pawn move.",
+        "16. Qh4": "White's queen chooses to kiss the knight good bye before parting.\n",
+        "16... Nf5": "Since the bishop is covering the knight, black can take his own sweet time over slaying the white horse.\n",
+        "17. Qg4": "Oops!  NxPe3 forks the queen and rook.",
+        "17... Nxe3": "Now black has traded up a knight and bishop for a knight and rook AND a pawn.",
+        "18. Qxc8": "...or a knight and bishop for a knight, pawn, and queen.\n",
+        "18... Raxc8 19. fxe3 exf4 20. Rxf4 Qc5 21. Re1 Rcd8 22. Kh1": "White is preparing to advance the e pawn?  ",
+        "22... Rfe8 23. Re2 Rxe3": "Free pawn.",
+        "24. Rxe3 Qxe3": "\n",
+        "25. Ra4 Qc1+": "Time to molest pawns.\n",
+        "26. Kh2 Qxb2 27. Rxa6": "??  Ok, maybe that move deserved only one ?, but what does white have against that knight?  Surely the black a pawn couldn't be worth all that.",
+        "27... Qxc3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=35489",
+    "gameName": "Fast Ladder",
+    "players": "anglezu (1425) vs. worldtraveler (1315)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

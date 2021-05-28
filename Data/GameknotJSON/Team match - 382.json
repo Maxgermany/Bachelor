@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5": "In this game I was playing black and I was the underdog.",
+        "2. Nc3": "Nc3 is an offbeat approach. Also known as the Vienna game.",
+        "2... Nc6": "Some people prefer The Falkbeer variation(2.Nf6) although I believe the Max-Lange defense is better.",
+        "3. Nf3 Nf6 4. Bc4": "Four knights Italian variation. Black should be better after Nxe5.",
+        "4... Nxe4 5. Bxf7+": "Trying to damage my kingside before giving the centre to me.",
+        "5... Kxf7 6. Nxe4 d5 7. Ng3": "I think Neg5+ was better.",
+        "7... Bc5 8. d3 Rf8 9. Bg5 Qd6 10. Nh4 Kg8": "Uncovers the attack on f2. O-O was fine and so was Rf1. I think white tried to castle on the queenside to make a more intresting game.",
+        "11. a3": "A huge blunder. Gives me a free pawn on f2 with check.",
+        "11... Bxf2+ 12. Kd2 d4": "Advancing my pawns and trying to trap the bishop with h6. ",
+        "13. Qe2 h6 14. Ne4": "Wins the bishop back. However, I've trapped one of his bishops.",
+        "14... Qd5 15. Nxf2 hxg5 16. Ng6": "Black is slightly too ambitious. Better here was Nf3 but my opponent wanted to generate threats. I will soon be a piece up.",
+        "16... Rf6 17. Qh5": "Another blunder.",
+        "17... Rxf2+ 18. Kc1": "What was he thinking? Ke1 was possible but I believe the game was already over. White could throw as many checks at me but at the end he would run out. The best white could do here was. 18. Ke1 Qxg2 19. Qh8+  and that's the end after Kf7.",
+        "18... Qxg2 19. Kb1 Qh3": "Offering the exchange of queens. I have a strong attack going on not to mention that I'm a piece and 2 pawns up.",
+        "20. Qxg5 Qg2": "This essentially forces the exchange of queens. I'm threatening Rxc2 and the queen with my queen.\n",
+        "21. Qxg2 Rxg2 22. Ka2": "My opponent gave up here. Although he could've played Nh4 he was down a lot of material.",
+        "22... Rxg6": "My opponent offered a draw here although I rejected it:D"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=42006",
+    "gameName": "Team match",
+    "players": "battlestation (1531) vs. richard1234567 (1525)",
+    "opening": "Vienna game, Max Lange defence (C25)"
+}

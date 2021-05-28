@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d6 6. d4 Bg4 7. Bxf4 Nc6": "All the games started here, with White to play.",
+        "8. d5 Ne5": "Ducking forward. In general, I'm trying to be less passive in my games.",
+        "9. Nbd2 Nf6": "Continuing to develop.",
+        "10. Bxe5 dxe5": "Completing the exchange.",
+        "11. Bb5+ Nd7": "Now I have to retreat to interpose against the check.",
+        "12. g3 Bf6": "Here I have to retreat. There are no available squares to advance to.",
+        "13. h3 Bxf3": "I opt for the exchange.",
+        "14. Qxf3 O-O": "Finally, I tuck my King safely away [and incidentally unpin my Knight.]",
+        "15. Ke2 Rc8": "Preparing to challenge White's powerful central Pawns.",
+        "16. Raf1 c6": "Attacking the advanced QP. White goes in for the exchange.",
+        "17. dxc6 bxc6": "Now his B must move. I was expecting 18 B-R6, forcing my Rook to move, but he chooses a straight retreat.",
+        "18. Bd3 Nc5": "Moving the Knight to a further-advanced position.",
+        "19. Bc4 Ne6": "I'm hoping White thinks I'm only moving here to block the Bishop's diagonal...",
+        "20. g4 Nd4+": "...and overlooks my real intentions. He did, and I reveal them now with a rooyal fork.",
+        "21. Kd1 Nxf3": "With decisive material gain.",
+        "22. Rxf3 Bg5": "White has a little bit of fight left in him...",
+        "23. Rd3 Qe7": "....but now he calls a halt, graciously resigning."
+    },
+    "url": "https://gameknot.com/annotation.pl/bertin-gambit-mini-tournament?gm=40787",
+    "gameName": "Bertin Gambit mini-tournament",
+    "players": "caballosinnombre (1406) vs. last_archimedean (1373)",
+    "opening": "KGA (C35), Cunningham, Bertin gambit"
+}

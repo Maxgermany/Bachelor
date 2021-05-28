@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "I open with my usual opening d4.  I find the queen's gambit to be a very powerful opening with quick development and strong centre control.",
+        "1... d5 2. c4 Nd7 3. Bf4": "The main weakness of the queen's gambit is that e3 is in the mainline and it is hard for the dark squared bishop to join the game, but since there is no real pressure on my c4 pawn I can move my bishop out early and hopefully trade it off for one of blacks minor pieces.",
+        "3... e6 4. e3 Ne7": "To the untrained eye moving his knights like this seems like a good defensive strategy, but is in fact quite dangerous.  His pawn on f7 is still very weak and trapping his king like that makes it possible to checkmate with a bishop or knight.",
+        "5. Nc3 f5 6. Bd3 c5": "c5?? This may seem like a relatively harmless move, but upon further inspection if I can get my knight to d6 that would be checkmate. ",
+        "7. Nb5": "Threatening checkmate..",
+        "7... Qa5+": ".. but he was more worried about Bc7, trapping the queen.",
+        "8. Qd2 Qb6": "With his queen gone the king has space so checkmate is no longer a threat, but I can win the queen in two moves. Can you see it?",
+        "9. Bc7": "Bc4!! It doesn't matter where he moves his queen..",
+        "9... Qc6 10. Nd6+": ".. because Nd6 leaves his king nowhere to go, forcing him to capture with his queen.  I almost threw my queen up to a5 as a sacrifice to get his queen off of the 6th rank but that would've led to check and could possibly have ruined the whole plan.",
+        "10... Qxd6 11. Bxd6 a5 12. Ne2 cxd4 13. Nxd4": "When I can I like to recapture central pawns with pieces because it makes them very powerful and in this case helps protect my pawn on f2.",
+        "13... Nc6 14. Nxe6": "This move was a mistake, I should've moved c5 but i saw the fork on c7 and got a little too excited.",
+        "14... Bxd6 15. c5 Nxc5 16. Nxc5 Bxc5 17. a3": "Preventing Bb4.",
+        "17... O-O 18. Bb5": "Discovered attack on the d5 pawn, which would fork the king and bishop.",
+        "18... Bd7 19. Qxd5+ Kh8 20. Qxd7": "I decided that the dark squared bishop is relatively at the moment considering my pawn structure.",
+        "20... Rac8 21. Qxb7 Ne5 22. Qd5 Rfe8": "Careless..",
+        "23. Bxe8 Rxe8": "Here I could take his bishop, but then he could move Kd3 forking my king and queen.",
+        "24. f4": "Making sure that I can still win material.",
+        "24... Nd3+": "Here I see that if I capture his knight he can fork my queen and king with his rook, but I am confident that my two rooks and superior pawn structure will have no trouble handling his bishop.",
+        "25. Qxd3 Rxe3+ 26. Qxe3 Bxe3": "And now it is just a matter of time..",
+        "27. Rd1 h5 28. g3 a4 29. Rd7 Bc1 30. Rd2": "Sacrificing my rook to get rid of his pesky bishop.  Don't want any silly forks or threatening pawns to ruin my clear advantage.",
+        "30... Bxd2+ 31. Kxd2 Kh7 32. Kc3 Kh6 33. b4": "Our pawns have reached a stalemate and my rook will trap the king on the other half of the board so all I need to do is walk a pawn to the end and checkmate will be inevitable.",
+        "33... g5 34. h4 gxf4 35. gxf4 Kg6 36. b5 Kf6 37. b6 Ke6 38. Rd1": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-clever-way-to-trap-a-queen?gm=43478",
+    "gameName": "A Clever Way to Trap a Queen",
+    "players": "mrdaddychops (1487) vs. -- (1030)",
+    "opening": "Queen's Gambit (D06)"
+}

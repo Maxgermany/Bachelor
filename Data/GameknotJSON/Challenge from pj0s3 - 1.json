@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 e6 2. c4 Qh4": "Sa\u00edda prematura da Dama...",
+        "3. Nf3": "Ganhando o primeiro tempo no ataque a Dama negra...",
+        "3... Qg4": "Ganhando o segundo tempo no ataque a Dama negra...",
+        "4. h3 Qe4 5. Nc3": "Ganhando o terceiro tempo no ataque a Dama negra...",
+        "5... Qf5 6. e4": "Ganhando o quarto tempo no ataque a Dama negra...",
+        "6... Qa5 7. Bd2": "Preparando um gatilho...",
+        "7... Nc6 8. a3": "Lance sutil, que ir\u00e1 ganhar a dama...",
+        "8... Nf6 9. Nd5": "Neste momento, a dama est\u00e1 perdida...",
+        "9... Qxd2+ 10. Nxd2": "O resto da partida dispensa coment\u00e1rios...",
+        "10... Nxd5 11. cxd5 exd5 12. exd5 Nxd4 13. Nf3 Nxf3+ 14. Qxf3 Bd6 15. Bd3 O-O 16. O-O b6 17. Rad1 Bb7 18. Qf5 g6 19. Qxd7 Rad8 20. Qa4 Bxd5 21. Bb5 Be6 22. Rfe1 a6 23. Qxa6 Bb3 24. Rxd6 cxd6 25. Bc4 Rda8 26. Qb5 Ba4 27. Qd5 Rab8 28. Re7 b5 29. Bb3 Bxb3 30. Qxb3 h5 31. Rd7 Rfe8": "Erro que custa a partida, definitivamente...",
+        "32. Qxf7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-pj0s3?gm=5366",
+    "gameName": "Challenge from pj0s3",
+    "players": "pj0s3 (1200) vs. esampaio (1294)",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

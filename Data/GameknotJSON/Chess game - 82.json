@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. b4 b6 3. Nf3 d6 4. Bc4 e6 5. Bb2 a6 6. a3 b5 7. Ba2 Nc6 8. O-O cxb4 9. d3 bxa3 10. Nxa3 Nf6 11. Bb3 Qc7 12. Nxb5": "Ouch! Pinned a-pawn...",
+        "12... Qb6 13. Na3 Bb7 14. Nc4": "Taking over the center with tempo...",
+        "14... Qc7 15. Re1 d5": "??  Why would he want to open the e file with his King in the middle?",
+        "16. exd5 Nxd5 17. Ng5 Be7 18. Rxe6": "!! Trading a rook for 3 pawns, an open King and a fierce attack.  Pretty good deal to me!",
+        "18... fxe6 19. Nxe6 Qd7 20. Nxg7+ Kf7 21. Qh5+": "Monster Knight on g7.  Long range support from the dark square bishop.",
+        "21... Kf8 22. Nb6": "I don't care if he takes my Knight.  ",
+        "22... Qd6 23. Bxd5": "Here black must defend f7 and d7 to avoid mate.  No feasible way to defend.  ",
+        "23... Qf4 24. Nd7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=59066",
+    "gameName": "Chess game",
+    "players": "dddupre  vs. xeneixe13 ",
+    "opening": "Sicilian (B20), wing gambit"
+}

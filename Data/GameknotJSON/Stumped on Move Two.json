@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Team match, I'm playing white. Open Game.",
+        "1... c6 2. d4": "Caro-Kann Defense, main line reply for white.",
+        "2... e6 3. Nf3": "Well, I'm already stumped. I don't find an opening in the Caro-Kann or the French Defense that has blacks first two moves as c6 and e6 in either order. White responds by developing.",
+        "3... Be7 4. Nc3 Bb4 5. Bd3": "White is just continuing to develop, and tempting black to exchange on c3. White isn't worried about doubled pawns on the c-file because, with all the center pawns still in the game, it should be fairly easy to undouble the c-file via exchanges in the center.",
+        "5... Bxc3+ 6. bxc3 d6 7. O-O Qa5 8. Bd2": "Black wastes no time trying to attack the doubled white pawns, but they're easy enough to defend at the moment. Of note is the fact that white is castled with three developed pieces and a stronger presence in the center, while by comparison, black has only developed his queen.",
+        "8... Nd7 9. c4": "Pushing into the center with an eye toward undoubling the c-pawns, with the gain of tempo by discovering an attack against the black queen by the white bishop on d2.",
+        "9... Qc7 10. Rb1": "White parks a rook on the half-open b-file. Doesn't look like it will have much to do for  awhile, other than preventing black from playing a pawn to b5.",
+        "10... e5 11. c3": "Another way to undouble the c-pawns by recapturing on d4 if black plays exd4 any time soon.",
+        "11... h6 12. c5": "The idea being that if black plays 12. ... dxc5, white replies by capturing on e5, and if black recaptures with his knight, then white plays Bf4 pinning it to the black queen, and supporting the attack on e5 with Qh5 if needed.",
+        "12... Ngf6 13. cxd6": "No more doubled pawns.",
+        "13... Qxd6 14. Qc2": "14. dxe5 would fork the black queen and knight and would win a piece, except that black can reply 14. ... Qxd3. Also, e5 is just a little too defended at the moment. This move defends the bishop, solving half of the problem. The other half is up to black, though I have little hope that he'll move his knight off of d7.",
+        "14... O-O 15. Nh4": "I don't really want my knight on the edge of the board, but I do want to play the pawn to f4. Black could play 15. ... exd4 to try to win a pawn, but 16. Nf5 threatens black's queen and drives her off of the d-file so white can play 17. cxd4 and prevent the loss of the pawn.",
+        "15... Nb6 16. f4": "Great, now black moves the knight I wanted him to move earlier, now when 16. dxe5 is not supported and doesn't win a piece. Black can't play 16. ... exf4? because that allows 17. e5 winning the black knight.",
+        "16... Nh5 17. fxe5": "Too late for the fork, but not too late to win a pawn.",
+        "17... Qe7 18. Nf5": "The knight was under attack, this move saves it with a tempo, unless black wants to exchange pieces while he's a pawn down.",
+        "18... Bxf5 19. exf5": "Black's castle is looking a bit exposed now. And his knight on h5 has no safe moves. His other knight on b6 is far removed from the white attack against black's castle. It's time to mobilize.",
+        "19... f6 20. Qb3+": "To create a passed pawn on e6.",
+        "20... Kh8 21. e6": "It's not just passed, it's supported, too. Black will have his pieces tied down to defending this pawn's advance to promotion, leaving white's pieces much more freedom.",
+        "21... Rab8 22. g4": "Wins the black knight on h5, since he has nowhere to go. Black could try 22. ... g6. He still loses a knight, but he can kick white's supporting f5 pawn, leaving the advanced e6 pawn feeling rather lonely up there. Or he could try 22. ... Qe8, looking to recapture on h5 from where she can support 24. ... g6. But, no matter what, white will win the knight and will still have a fairly powerful attack on black's kingside. Rather than try to weather that storm, black chose to resign at this point. To me, it seemed a bit early, since he's only a piece down, but maybe he saw a continuation from here that I haven't yet found."
+    },
+    "url": "https://gameknot.com/annotation.pl/stumped-on-move-two?gm=22535",
+    "gameName": "Stumped on Move Two",
+    "players": "blake84120 (1735) vs. hypnogeist (1631)",
+    "opening": "Caro-Kann defence (B12)"
+}

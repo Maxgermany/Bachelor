@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. cxd5 Qxd5": "Huh.... I don't think this is great as I can chase it.",
+        "4. Nc3 Bb4 5. Bd2 Bxc3 6. Bxc3 Nf6 7. Nf3 Ne4": "Maybe not great... You're usually not supposed to move the same piece twice in the opening.",
+        "8. e3 O-O 9. Bd3": "I finish minor piece development. White is ahead in development, but blacks pieces are more active.",
+        "9... Nxf2": "? Not worth the knight if you as me.",
+        "10. Kxf2 b6 11. Qa4 Bd7 12. Qa3 a5 13. Rac1": "Grabbing the half open file.",
+        "13... Nc6 14. b3": "Blocking off the queen. There are actually only three safe squares for his queen.",
+        "14... f6 15. h3 f5 16. g3 b5 17. Qb2": "White is ahead in material, but passive.",
+        "17... e5 18. Nxe5": "?? Loses the knight.",
+        "18... Nxe5 19. dxe5 Qxd3": "And now, after that blunder we are tied in material, but I'm not as passive.",
+        "20. e6": "Maybe better would be Rhd1",
+        "20... Bxe6 21. Bxg7 Rf7 22. Bh6": "Now white may have a tiny advantage.",
+        "22... b4 23. Rc6 Bd5": "Forking my two rooks.",
+        "24. Rf6 Rxf6 25. Qxf6 Qd2+ 26. Kf1 Qg2+ 27. Ke1 Qxh1+ 28. Ke2": "Now I'm down by five and my only hope is that my queen and bishop are threatening checkmate and it will be hard for him to defend.",
+        "28... Qg2+ 29. Ke1 Qxg3+ 30. Kd2 Qg2+": "He finally gets his queen in position to defend against the mate threat.",
+        "31. Kd3 f4 32. h4 Qe4+ 33. Ke2 Qxe3+ 34. Kf1 Bg2+": "I'm not sure this is sound.",
+        "35. Kxg2 Qg3+ 36. Kf1 f3": "Here I couldn't see a way to win, so I decided to get a draw.",
+        "37. Qe6+ Kh8 38. Qf6+ Kg8 39. Qe6+ Kh8 40. Qf6+ Kg8 41. Qe6+ Kh8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/could-i-have-won?gm=52207",
+    "gameName": "Could I Have Won?",
+    "players": "porcho (1191) vs. mvf4 (1365)",
+    "opening": "Queen's gambit declined (D30)"
+}

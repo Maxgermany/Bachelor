@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c6 2. Nf3": "Here's another variation I'm not familiar with.",
+        "2... d5 3. exd5 cxd5 4. d4": "But it looks like it's just transposed to the Exchange variation.",
+        "4... Nf6 5. Nc3 Nc6 6. Bb5 a6 7. Bxc6+ bxc6 8. O-O e6": "I've got to get that other bishop out so I can castle.",
+        "9. Ne5 Bb7 10. Qd3 Be7": "My other choice was c5. I figure I'm going to have to move it eventually, and it would save me a move, but I wasn't comfortable with him trading and then playing Na4.",
+        "11. Qg3 O-O 12. Bh6 Ne8 13. Na4 Bd6 14. Bf4 Nf6 15. Bg5 Ne4 16. Bxd8 Nxg3 17. fxg3 Raxd8 18. Rae1 f6": "Someday I'm going to want to get that bishop out, and it won't be on the queenside. He can put a N on c5, and keep the bishop off of a6 and b7. All these pawns blocking the lines mean that the advantage is with the 2 knights instead of the 2 bishops. But if I can hold out, my pair would give me better prospects in an ending.",
+        "19. Nd3 Rfe8 20. Nac5 Bc8 21. Nb4 Bxc5": "I don't see any choice on this move, but it's what I was hoping for all along. I gives me two connected passed pawns in the middle that I can start pushing. My bishop will look weak after it has to go to b7, but I'll chase his knight away with a5 and then be able to put it on a6 later.",
+        "22. dxc5 Bb7 23. Rf3 a5 24. Nd3 e5 25. Nc1": "Whose minor piece is worse, my bishop or his knight? I have a feeling that'll make the difference.",
+        "25... Bc8 26. Ra3 Bf5 27. c3": "I think that move's going to cause him lots of trouble. Now his rook is caught.",
+        "27... Rda8 28. Rb3 Reb8 29. Rf1 Bc2 30. Rxb8+ Rxb8": "He managed to get rid of that weak rook, but it cost him a pawn."
+    },
+    "url": "https://gameknot.com/annotation.pl/caro-kann-positional-battle?gm=24518",
+    "gameName": "Caro-Kann Positional Battle",
+    "players": "idiosyncracy (1933) vs. chuckbo (1928)",
+    "opening": "Caro-Kann defence (B10)"
+}

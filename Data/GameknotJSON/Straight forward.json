@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Nf6 3. Nf3 e6": "Here I recommend white Bb5+. I can play against it, but it will be much easier for white.",
+        "4. dxe6": "This is better than c4, that makes \"my\" game. I'll follow up with Bb4+, and then Qe7. I normally get out well of it. I don't know what proper theory says.",
+        "4... Bxe6": "The lead in developement by black is well balanced by the d and c pawns. But white must not throw them into the front so quickly, and his good developement is not very dangerous for black. ",
+        "5. d4 c6": "Here, white's best is Bf4, getting into the diagonal the first. I can hunt it with Nh5, white vn go to e5, hoping in f6, so to weaken e6 for the next stages, and then retire in g3, and if NxB, hxN and white has the semiopen column as a plus. ",
+        "6. Bg5": "All very thematic. White essentially loses the good diagonal.",
+        "6... Nbd7 7. Nbd2 Qc7": "If white castles kingside, I'll be glad to allow or provoke BxN, retaking by g pawn. ",
+        "8. Ne4": "?? This was a massive blunder from my opponent. So big... I DIDN'T SEE IT! Shame of me! Blitz stories! :-(",
+        "8... h6 9. Nxf6+ Nxf6 10. Bxf6 gxf6": "My pawns are a mess, but he doesn't have the B pair. I'm a pawn down, but not entirely bad. ",
+        "11. Bd3 Rg8 12. g3 h5": "Just Bg4, h3 was not very appealing. The only purpose was to be able to play h5 at some point. It was just not the best plan. o-o-o was much more to the point. Even Bh3 was not all that good, white is not forced to castle Kside, and I don't want to exchange my B for Nf3 at all.",
+        "13. O-O": "?? Just where my pieces have the strongest action! This is \"overestimating castling\", by all means. True, I have no serious attack right now, and I must think in the e column. ",
+        "13... O-O-O": "Nos, Bg4 Is a threat, since it pins the N who defend d4. And h3 now is not any good for white anymore.",
+        "14. c3": "White wisely stops that threat and opens a way for his majesty the Q.",
+        "14... Bd6": "I'll play f5-f4, and sac everything. His K is almost nude.",
+        "15. Qa4 Kb8 16. Nd2": "?? Too slow! And it is underestimating black's attack power! This happens when a player doesn't take into account sacrifices played against him when defending.",
+        "16... h4": "The march of the N makes this move exceptionally strong.",
+        "17. Nc4": "Has white calculated that now he will exchange that pesky B? Not at all! Dear beginner attacker, can you see the obvious winning move by black (I hope I'm accurate!)",
+        "17... Bxg3": "Maybi, hxg worked, too, but this is fine.",
+        "18. fxg3": "What else? Now, it's my \"Tal\" moment: not the \"slow\" hxg3, which gives white a tempo (Rf3,, maybe)",
+        "18... Rxg3+": "Dear beginner attacker, did you see it?",
+        "19. hxg3": "What else?",
+        "19... Qxg3+ 20. Kh1": "Forced.",
+        "20... Bd5+": "The key move. It doesn't involve the other R (mate all the same after Rg8)",
+        "21. Be4 Bxe4+ 22. Rf3 Bxf3#": "He played it until here. A short example of a \"Tallish\" mating sacrifice attack. Please smile at it... :-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/straight-forward?gm=62039",
+    "gameName": "Straight forward",
+    "players": "patK74 (1418) vs. damafi (1400)",
+    "opening": "Scandinavian defence (B01)"
+}

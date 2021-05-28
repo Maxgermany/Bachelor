@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nPicture the scene - you are in a single piece ending, you have a bishop, your opponent has a knight.  You are a pawn up.  Then the game ends in a draw and for me a low draw at that.  You wonder - how did it all go wrong.  Well here goes.  After facing many Sicilians I now get a Petrov.  This is when black plays 2...... Nf6 instead of Nc6.",
+        "1... e5 2. Nf3 Nf6 3. Nxe5 Nxe4": "3. ........ Nxe5 - central pawn trade.",
+        "4. Qe2 Qe7": "4....... Qe7 - Nf6?? drops the queen to the discovery 5. Nc6+.",
+        "5. Qxe4 d6 6. d4 dxe5 7. dxe5": "7. dxe5 - now the knights are exchanged.",
+        "7... Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5": "9. ........ Nxe5 - now a queen trade.",
+        "10. Nb5": "10. Nb5 - attacking c7.",
+        "10... Bd6 11. Nxd6+ cxd6": "11. ...... cxd6 - a N for B trade, isolating the d pawn making it a target later on.",
+        "12. Be3 O-O 13. O-O-O": "13. 0-0-0 - with the queens off the board I prefer queenside castling or to leave Henry in the centre.",
+        "13... Rd8 14. Be2 Bf5 15. c3 b6 16. h3": "16. h3 - prophylaxis here.  I do not want horsies on g4 thank you!",
+        "16... h6 17. Rd2 d5 18. Rhd1": "18. Rhd1 - doubling up on the d column.",
+        "18... Be6 19. Bf4 Ng6 20. Bg3 Rd7": "20. ....... Rd7? - loses pawn to 21. Bb5!",
+        "21. Bb5 Rdd8 22. Bc6 Rac8 23. Bxd5 Rde8 24. Bxe6 Rxe6": "24. ...... Rxe6 - bishop trade.",
+        "25. Rd2d8+ Rxd8 26. Rxd8+": "26. Rxd8+ - now a rook trade.",
+        "26... Kh7 27. Rd7 Re7 28. Rxe7 Nxe7": "28. ...... Nxe7 - a rook trade and a draw offer which I decline as at this stage I felt I should win this, a pawn up in an open board.  A few moves down the line, things are going to change quite a bit, however!",
+        "29. c4": "29. c4 - preparing to make a passer on the b or c file.",
+        "29... Kg6 30. Kd2 Kf5 31. Ke3": "31. Ke3 - both kings centralise themselves for the endgame.",
+        "31... Nc6 32. Bd6 h5 33. b4 g5 34. a3": "34. a3 - to add additional support to my b pawn should Fou Lenoir have to move from his lofty dias!",
+        "34... Ke6 35. Bh2 f5 36. f4": "34. f4 - seemed a good idea at the time, trying to break up black's pawn wall but black's next move makes me think again.",
+        "36... g4 37. h4": "37. h4.  I felt that if I took on g4 then black would take with the f pawn and not the h pawn.  I did not want to risk black getting a passer on the h file.  This becomes the first stage of the gridlock process however.",
+        "37... Kd6 38. g3 a5 39. b5 Nd8 40. Kd3 Ne6": "40. ..... Ne6 - this horsie is going to be mega-annoying as you will see.",
+        "41. Bg1 Nc5+": "41. ...... Nc5+ - I thought about Bxc5+ but then black would take back with the pawn and next move play a4!  Although it is a K & P ending there is no way past the third rank for Henry so that would be a draw as all the enemy king would have to do is shuttle from c7 to b7 ad infinitum.",
+        "42. Kc2": "42. ..... Kc2 - here I was hoping for the following:- Variation A 42. Kc2 a4 43. Kc3 Kc7 44. Kb4 Ne4 45. Kxa4 Nxg3 46. Kb4 Ne2 47. Be3 g3 48. a4 g2 49. a5 bxa5+ 50. Kxa5 g1=Q 51. Bxg1 Nxg1 52. b6+ Kb7 53. c5 Ne2 54. c6+ Kxc6 55. Ka6 Nc3 56. b7 Kc7 57. Ka7 Nb5+ 58. Ka8 Nd6 59. b8=Q+ Variation B 41. Bg1 Nc5+ 42. Kc2 Ne4 43. Bxb6 Nxg3 44. c5+ Kd5 45. c6 Ne4 46. c7 Nd6 47. Bg1 Nc8 48. b6 Kc6 49. Kb3 Kd7 50. Ka4 Nd6 51. Kxa5 Nc4+ 52. Ka6 Nd2 53. Kb7 Nf3 54. c8=Q+ Ke7 55. Bc5+ Kf6 56. Qf8+ Ke6 57. Qe7+ Kd5 58. Qd6+ Ke4 59. Ka6 g3 60. b7 g2 61. b8=Q g1=Q 62. Qe8+ Ne5 63. Qexe5+ Kf3 64. Qd3+ Kg4 65. Qdxf5+ Kf3 66. Qee4+ Kg3 67. Qg5+ Kh3 68. Qef5+ Kh2 69. Bxg1+ Kh1 70. Qh3# Variation C 42. Kc2 Na4 43. Kb3 Nc5+ 44. Bxc5+ Kxc5 45. Kc3 a4 46. Kd3 Kd6 47. Kd4 Ke6 48. c5 Kd7 49. c6+ Kc7 50. Ke5 Kc8 51. Kd6 Kd8 52. c7+ Kc8 53. Ke6 Kxc7 54. Kxf5 Kd6 55. Kg5 Kc5 56. f5 Kxb5 57. f6 Kc4 58. f7 b5 59. f8=Q b4 60. Qxb4+ Kd3 61. Qxa4 Variation D 42. Kc2 Ne4 43. Bxb6 Nxg3 44. c5+ Ke6 45. c6 Kd6 46. c7 Kd7 47. Bxa5 Ne2 48. b6 g3 49. b7 Nd4+ 50. Kd1 g2 51. c8=Q+ Ke7 52. Qc5+ Ke6 53. Qe5+ Kf7 54. Qxd4.\r\n\r\nHowever .......",
+        "42... Nd7": "42. ....... Nd7!! - this move ensures the draw for black.  All the black king now has to do is to shuttle from e6 to d6 ad infinitum as the horsie and the b pawn stops the pawn on c4 advancing.  With a heavy heart I move Fou Lenoir to f2 and offer a draw of which my opponent accepts.",
+        "43. Bf2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gridlock-pt-2?gm=23129",
+    "gameName": "Gridlock - Pt.2.",
+    "players": "jstevens1 (1770) vs. reeceharvey (1698)",
+    "opening": "Petrov (C42), Damiano variation"
+}

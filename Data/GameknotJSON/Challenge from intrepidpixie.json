@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 h5": "interesting black opening",
+        "2. Nf3 b6 3. Bc4 e6 4. d4": "white takes the center",
+        "4... Bb7 5. e5 Qe7 6. a3 Nc6 7. Be3 O-O-O 8. Nc3 f6 9. O-O Nh6 10. h3 Nf5 11. Bd3 d6 12. Qd2": "paen trade opens the door to bishop attack",
+        "12... dxe5 13. dxe5 Nxe5": "trade knights to move the protective pawn ",
+        "14. Nxe5 fxe5 15. Bg5": "black has to trade rook for bishop",
+        "15... Qf7 16. Bxd8 Kxd8": "taking bishop creates vulnerabillity with movement of bishop--check and a free piece",
+        "17. Bxf5+ Ke8 18. Be4 c6": "black declines trade but opens the door to more aggression",
+        "19. Rad1 Be7": "bishop protects d8 but not d7",
+        "20. Qd7+ Kf8": "black bishop lost",
+        "21. Qxb7 Qe8": "defensive move with queen opens a door for bishop",
+        "22. Bxc6 Qg6": "moving queen loses rook",
+        "23. Qc8+ Kf7 24. Qxh8": "at this point black has little left",
+        "24... Kf6 25. Ne4+": "pressure on king",
+        "25... Kf5": "followed by another attack on the queen",
+        "26. Be8": "best black can do is offer queen trade, and at this point, black can't afford trades",
+        "26... Qh6 27. Ng3+": "rescue knight with a check before queen trade",
+        "27... Kg5 28. Qxh6+ gxh6": "white now broadens attack",
+        "29. Rfe1 Bf6": "pawn at h5 vulnerable, then black bishop",
+        "30. Nxh5 Kf5": "another trade",
+        "31. Nxf6 Kxf6 32. Re3 Kf5": "rooks now aline to go after king",
+        "33. Rde1 Kf4 34. Re3e4+ Kf5 35. Re4xe5+": "not much left for black's fight",
+        "35... Kf4 36. Re1e4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-intrepidpixie?gm=28382",
+    "gameName": "Challenge from intrepidpixie",
+    "players": "dpwarren (1491) vs. intrepidpixie (1444)",
+    "opening": "King's pawn opening (B00)"
+}

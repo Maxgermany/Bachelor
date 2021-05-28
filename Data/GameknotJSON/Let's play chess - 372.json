@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "The opening of this game led to a tactical battle early on, and precise calculation skills were needed to avoid getting crushed. Using the correct method of calculation, we can find the best moves in most tactical sequences and avoid blundering in those sharp lines. The full method of calculation is very difficult to point out, so here are the essential tips for a good calculation. ",
+        "1... c5 2. Nf3 Nc6 3. Bb5 d6": "We should not need to calculate all the time. Most of the time, when the pieces are not clashing, we can simply make moves with only a basic safety check. We should also use our positional understanding to bring down the amount of calculation we need to do.",
+        "4. O-O Bd7 5. Re1 Nf6": "By the way, we don't need any calculation, since it is all theory.",
+        "6. c3": "White is trying to control the center squares. His idea with Bb5 and c3 are consistent. Black now should try to develop, and chase the b5 bishop away. ",
+        "6... a6 7. Ba4 b5 8. Bb3 Bg4": "The typical idea, taking extra control from the center d4. Now black is totally fine with white playing d4.",
+        "9. d4": "White does it anyways, and this leads to a complex position, where the tactics can start to arise.",
+        "9... cxd4 10. cxd4 Bxf3 11. gxf3 e5": "Of course the best move, and only a safety check is again necessary. At first sight white seems to stand superior-He has the better number of developed forces, a good center, and the bishop pair. However, white is either now forced to close the position, or he will have to defend his center and allow black to complete development. By the way, the black c6 knight will have an outpost on the d4 square in the future, so black should strive to trade bishops.",
+        "12. dxe5": "Taking is only one of the lines that ends up totally fine for black, and it is complex but equal.",
+        "12... dxe5 13. Bd5 Rc8": "Surprisingly, the black king is safe in the center, and furthermore, all but one of his pieces, the h8 rook is developed. ",
+        "14. Bg5 Nd4": "Now we should have started to make a real calculation on this move. White can reply with f4, Nc3. He has other moves, like Bb3 but they are not the best ones, and we can see it with a quick look. After 15.f4 black has some candidate moves. 15...Nc2, Bd6, Qd7(since it makes a threat). These are the main ones. We see after 15...Nc2 16.fxe5 Nxa1 exf6 gxf6 its quite complex still. A deep calculation will take a lot of time and effort. So lets go to the others. 15...Bd6 loses cause its not safe 16.fxe5 will win. 15...Qd7 16.fxe5 Qg4+ is the best variation, since after 17.Qxg4 Nxg4 black has too many threats, and black gets a good position if white moves the king. ",
+        "15. Nc3 b4": "The calculation process is similar. Lets just go with the main line, since there is so much. 16.f4 bxc3 17.fxe5 cxb2 18.Rb1 Ne6 19.Bxe6 Qxd1 20.Rexd1(20.Bxf7+ is a real blunder, since it loses a piece) fxe6 21.exf6 Rc2 with some advantage for black. A huge pain to calculate since there are other lines, but it NEEDED to be done before playing b4. I could have easily made a mistkae as well. There is only a positional advantage at the end as Well! ",
+        "16. f4 bxc3 17. fxe5 cxb2 18. Qxd4": "This is a real blunder. I don't understand why white would give away the rook. I would have a nice  endgame with a b2 pawn ready to queen in the best variation.",
+        "18... bxa1=Q 19. Rxa1 Bc5": "Now white is simply losing.",
+        "20. Qa4+ Qd7 21. Qxd7+ Nxd7 22. Bb7 Rb8": "The rest will be a technical win, and there is really no need to comment too much,",
+        "23. Bxa6 Rb2 24. Rc1 O-O 25. Bh4 Rfb8 26. Bg3": "White is threatening to play e6, his desperate shot.",
+        "26... Rb2b1 27. Rxb1 Rxb1+ 28. Kg2 Bd4 29. a4 Bxe5 30. f4 Bc3 31. Bb5 Nc5": "We are ready to win the passed pawn. So white resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=45917",
+    "gameName": "Let's play chess",
+    "players": "rushnpawn (1840) vs. tiger_lilov (1867)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3": "Standard stuff.",
+        "4... dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8. Bxc4": "Development is nearly complete for both sides, although Black's Q-side is lagging a bit.",
+        "8... O-O 9. O-O": "With both Kings tucked away, now the tactics can start.",
+        "9... Bxc3 10. bxc3": "An exchange that helps me, opening the QN file for my Rook.",
+        "10... c6 11. Qc2": "Aiming down the diagonal.",
+        "11... Qg6 12. Bd3": "Forming a battery.",
+        "12... f5 13. Ne5": "With the Black KB pawn no longer able to contest the square, I seize the outpost for my Knight.",
+        "13... Qe8 14. Rfe1": "An exchange of Pawns would now open the file for my Rook.",
+        "14... Nd7 15. Nxd7": "Rather than retreat, I simply capture.",
+        "15... Bxd7 16. exf5": "The Pawn, pinned, cannot recapture.",
+        "16... Rf6 17. fxe6": "Setting up a pin...",
+        "17... Rxe6 18. Rxe6": "of the Bishop...",
+        "18... Bxe6 19. Re1": "...after the exchanges.",
+        "19... Rd8 20. h3": "To guard against any last-ditch tries by Black of a back-rank mate.",
+        "20... Kf8 21. Bf5": "If 21... BxB, 22 RxQ CHECK forces Black's hand. 22... RxR or 22... KxR is followed by 23 QxB with a winning advantage of a Q for a R and a Pawn ahead to boot.",
+        "21... Rd6 22. Bxe6": "If 24... QxB, 25 RxQ secures a winning material edge. So Black tries 24 RxB...",
+        "22... Rxe6 23. Qf5+": "...only to be blindsided by this move, winning the Rook.",
+        "23... Qf7 24. Qxe6": "With mate on the brain.",
+        "24... a5 25. Qc8+": "The final move....",
+        "25... Qe8 26. Qxe8#": "...before the curtain falls."
+    },
+    "url": "https://gameknot.com/annotation.pl/81st-gk-tournament?gm=40273",
+    "gameName": "81st GK tournament",
+    "players": "last_archimedean (1368) vs. sovakievich (1401)",
+    "opening": "Queen's pawn game (E10)"
+}

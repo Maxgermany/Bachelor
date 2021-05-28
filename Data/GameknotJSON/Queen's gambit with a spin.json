@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "This is a queens gambit position. If black chooses to defend against it, they could pay Nf6, C6, or if they wanted to, E6",
+        "2... dxc4": "But in most cases, they take it, whitch is what happens in this game. E3 is your respose, attacking the pawn, making the best respose for black being B5",
+        "3. e3": "Another version of the same gambit would have been Qa4+ attacking the pawn, gaining it back. ",
+        "3... b5 4. a4": "A4 lures him in. If he takes the pawn, C4 and A4 are now undefended for a free pawn.",
+        "4... c6": "He doesn't want to take it, so he responds in such a way, making a forced gain in 2 moves.",
+        "5. axb5 cxb5": "The next move is the best. It garuntees that you get 4 points or more. Attacking at the undefended, and almost imposoble to defend rook in the corner: A8",
+        "6. Qf3": "...Qf3",
+        "6... Nc6": "There are 2 ways to do what Nc6 did. (Alternatives, 1.... Bb7 2. QxB7, Nd7, or 1.... Nc6 2. Qxc6, Bd7, also alternative, but that is what he does.)",
+        "7. Qxc6+": "Check",
+        "7... Bd7 8. Qb7": "Now there is a doube attack on a7. He could only stop it by Qc8 or Qb8. Qb6 wouldn't work after, 9.Qxb6, axb6 10.Rxa8, and I get ahead."
+    },
+    "url": "https://gameknot.com/annotation.pl/queens-gambit-with-a-spin?gm=28141",
+    "gameName": "Queen's gambit with a spin",
+    "players": "Joshua. P (488) vs. ??? (?)",
+    "opening": "Queen's gambit accepted (D20)"
+}

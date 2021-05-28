@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. b4": "Polish {or (Alexei) Sokolsky's} Opening",
+        "1... e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c3 Ba5 5. e3 c5": "5..., d5 6.Qa4 c6 7.Bf6 gf6 +=.\nKreideweiss \u2013 Lentschu (Marek's Enc.). \n\nI have seen the line 5...., d6 \n(6.Bg3 0\u20130 7.Nf3 =) also",
+        "6. d4": "6.Bd3 Nc6 7.Bg3 0\u20130 8.Ne2 d5 etc ...\n1\u20130  (17): Szeligowski \u2013 Ruddell, \nBoulder 1993 (Marek)",
+        "6... Nc6 7. Bxf6": "Preferable 7.Nf3",
+        "7... Qxf6 8. Qf3": "?\nWhite loses a pawn \n& stays behind in development.",
+        "8... cxd4 9. Qxf6 gxf6 10. exd4 Nxd4": "=/+, -/+",
+        "11. Bd3": "The threat was 11...., Nc2 -+",
+        "11... d5 12. Ne2 Nxe2 13. Kxe2 Bd7 14. c4": "Losing precious time.\nA little better seems the development \nof the Rook h1, either with 14.Rd1 \nor 14.Re1.",
+        "14... dxc4 15. Bxc4 O-O": "With the pair of Bishops \nand having their opponent's King\nin the center of the chessboard, \nthe Black stands much better.",
+        "16. Rd1 Ba4 17. Rd4 Rfe8+ 18. Kf1": "??\nBlindness!\nOf course White should have played 18.Kf3.\nIn that case Black again would have had\nthe better (almost winning) position, \nplaying 18..., Re1 or even 18..., Bc6+.",
+        "18... Re1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/2009?gm=24130",
+    "gameName": "\u0391\u03c4\u03bf\u03bc\u03b9\u03ba\u03cc \u0391\u03bd\u03bf\u03b9\u03ba\u03c4\u03cc \u03a4\u0395\u03a3\u03a3\u0391\u03a3 (\u0391\u03b9\u03b4\u03b7\u03c8\u03cc\u03c2 2009)",
+    "players": "Karandreas (1670) vs. Kakkanas (1999)",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

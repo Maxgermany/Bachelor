@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Greetings! Here we have a nice game to learn some important concepts such as develop and how to win having material advantage. ",
+        "1... e5 2. Nf3 Qf6": "2. .. Qf6? \nHere we have an early queen incursion. Commonly this is a bad move on a very early game.",
+        "3. Nc3": "Good develop of White. Another option could have been 3. Bc4 or even 3. d4\n",
+        "3... Bc5": "Black aims to f2, but it has no material to support the attack",
+        "4. Bc4": "Notice here that if White have played 4. Nd5! instead of Bc4 Black had to respond 4. .. Qd6 to protect e5 and c7, wining important tempos. 4. Nd5! Qd6 5. Bc4 c6 (or Nf6 6. Nxf6 Qxf6 7. 0-0 0-0 8. d3 and White is ahead) Nc3 Black has several problems to develop Bc8 and Nb8.",
+        "4... c6": "As white has no problems, it should play more aggressive in order to punish Qf6. Here d3 allows to play with the black Bishop",
+        "5. O-O b5 6. Bb3 Ne7 7. d3 d6 8. h3 O-O": "8. .. 0-0? Black has develop his pieces so badly he can't castle without loosing a piece!",
+        "9. Bg5": "Bg5! A very Natural play that it's even better now because of the strength of the two Bishops.",
+        "9... Qg6 10. Bxe7 Re8 11. Bh4 b4 12. Ng5": "Ng5!? Very interesting move that prevents Bxh3 and threats Bxf7+ wining the queen, but for three pieces (12. .. bxc3 13. Bxf7+ Qxf7 14.  Nxf7 Kxf7  15. bxc3).\nAnother better way to get advantage is: 12. Na4 Bxh3 13. Bg3 Bg4 14. Nxc5 dxc5 15. Qd2",
+        "12... Be6": "12. .. Be6? Unnecessary, Rf8 was better.  Now White can capture the Black's white bishop with his knight, keeping the couple of Bishops.",
+        "13. Qf3": "13. Qf3?? Always analyse all the variations. Here the f7 point is defended by three pieces, and attacked now by 2 plus another one by x-rays. So IT'S DEFENDED!, now Black can regain his lost piece.",
+        "13... Bxb3 14. cxb3": "14. cxb3? Its better to take hxb3 in order to maintain the center and give a column for the \"a\" Rook.",
+        "14... f6": "14. f6?? White couldn't save neither the c3 and g5 Knights. The correct order was: 13. ..Bxb3 14. axb3 bxc3 and White can't save the g5 Knight (Black plays f6 or h6)",
+        "15. Ne2": "15. Ne2?? now the White queen have no scape.. let's see how games continued (Na4 the best option for the Knight)",
+        "15... fxg5 16. Bg3 Rf8 17. Qg4 h5 18. Qf5 Rxf5 19. exf5 Qxf5 20. a3 h4 21. Bxh4": "21. Bxh4?? Black has enough material, don't give them more! Bh2 was the only choise.",
+        "21... Qxd3 22. Rfe1 Qf5": "22. .. Qf5?? Black wants to give a check on f2, but forgets the Bh4, should have taken it! (22. .. gxh4)\n",
+        "23. Bg3 Nd7 24. Rad1 bxa3 25. bxa3 Bxa3 26. Rxd6": "White gets desperate. ",
+        "26... Bxd6 27. Rd1 Qe6 28. Rc1 Bb4 29. h4 Qxb3 30. hxg5 Qb2": "The agony of having few pieces and beeing unable to defend",
+        "31. Re1 Bxe1 32. Kf1 Rb8": "Rb8? Don't gift any pieces! Much better Qa1 to defend the Bishop",
+        "33. Kxe1 Rb3 34. f3 Nc5 35. Kf2 Ne6 36. Bh4 Nd4 37. Kg3 Nxe2+ 38. Kg4 g6": "g6! Good move, prepares the Check Mate.",
+        "39. Bf2 Rb4+ 40. Kh3 Qc1 41. Bg3 Nxg3 42. Kxg3 Qe1+ 43. Kh2 Rh4#": "A good game to learn that when we are winning we shouldn't relax and stop thinking, our rival will think twice more to try to save the game! A tip when we are winning far for material: Try to exchange pieces!.. with fewer pieces on board, your material advantage will be noticed more. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=50000",
+    "gameName": "Team match",
+    "players": "mistee (1193) vs. linuxabuser (1236)",
+    "opening": "Greco defence (C40)"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6": "I think this is probably better than d6 or e6, because it doesn't show black's hand. (and after 3. d4 cxd4 4. Nxd4, 5. Nxc6 would be in black's favour because ... bxc6 gives him a central majority)",
+        "3. d4 e6": "cxd4 is more logical ...",
+        "4. c3": "... because it wouldn't have given me this opportunity to keep a pawn on d4.",
+        "4... Nf6": "4. ... cxd4  5. cxd4 Bb4+ might be ok for black - or 4... d5. The Nf6 is too vulnerable. ",
+        "5. e5 Nd5": "I suppose this position is a bit like Alekhine's defence 1. e4 Nf6?! 2. e5 (Nc3 is \"dull\" according to Varnuz - I play 2 ... d6 and transpose to a Pirc) Nd5 3. c4 Nb6 4. d4 , although my centre is pretty stable here.\n\n5. ... Ng8 is worth considering, but not exactly a move you want to play",
+        "6. c4 Nb6 7. d5 Nd4": "Loses a pawn, but there isn't much better. Ne7, moving the knight back to c6 if I play d5-d6, and f7-f6 to release the dark squared bishop, but black still has the problem of his other bishop.",
+        "8. Nxd4 cxd4 9. Qxd4 exd5 10. c5": "Not cxd5, because the knight has no retreat, and won't last long on c4",
+        "10... Nc4 11. Nc3": "and not Qxd5 because of Qa5+, recovering the pawn.",
+        "11... Qe7 12. Nxd5": "Black resigned at this point. I think the following moves would have been forced (and its more interesting to play it out than just write out moves).",
+        "12... Qxe5+ 13. Qxe5+ Nxe5 14. Nc7+ Kd8 15. Nxa8 Bxc5": "Although I'm an up the exchange for a pawn, I can't really say that I'm better. Black has two active pieces, - and I just noticed, a passed pawn - and Re8 looks strong, but he will have difficulty developing his last minor piece. Is this enough compensation? I don't know."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-defence-minature-resigned-too-soon?gm=28517",
+    "gameName": "Sicilian defence minature (resigned too soon?)",
+    "players": "no_genius (1438) vs. sjaak35 (1425)",
+    "opening": "Sicilian defence (B32)"
+}

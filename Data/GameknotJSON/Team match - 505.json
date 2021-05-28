@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Vienna Game, my preferred response to e5",
+        "2... Nc6 3. Bc4 Nf6 4. d3 h6": "Black takes a prophylactic approach. ",
+        "5. f4 Bc5 6. f5 a6": "I'm starting to feel a little tight here.",
+        "7. Nf3 d6 8. Qe2 Bd7 9. Bd2 Na5 10. Bb3 c6": "Black has made many constricting moves, but not safeguarded his King yet.",
+        "11. Bxf7+": "At the time this felt like a dubious move on my part, because the compensation I saw was going to require a lot of time. I felt like I was about to lose the initiative and this was the only way to keep it.\n\nWhat I saw was that this move would force his King into a bad position, and if I could get my Knight to G6, the black king and this whole area would be stuck. So that's what I went for.",
+        "11... Kxf7 12. Nh4 Bd4 13. Ng6": "accomplishing the intended constriction of the black king, it now has only one safe square available.",
+        "13... Rg8 14. O-O-O b5 15. g4": "My next goal is to get my Queen into the action, which requires clearing out the enemy Knight.",
+        "15... b4 16. Na4 c5": "oops, I've hung my Knight on a4 without realizing it. Nothing to do but keep attacking on the kingside.",
+        "17. g5 hxg5 18. Bxg5 Bxa4 19. Bxf6 Qxf6 20. Qh5": "With queen in position, I'm hoping to pull off a double check. However Ke8 would prevent this.",
+        "20... Be3+ 21. Kb1 Qg5": "The major blunder of the game. Either he didn't see the double check or didn't realize where it could lead. I am still down two pieces for a pawn at this point, but there is light at the end of the tunnel. I see I can trade my two rooks and knight for his queen, bishop, and pawn. An even trade on points, but after that *all his pieces are out of position* and he will have a hard time defending his open king against my rapacious queen :D ",
+        "22. Nxe5+ Kf6 23. Qf7+ Kxe5 24. Qd5+ Kf4 25. Rhf1+ Kg4 26. Rfg1+ Bxg1 27. Rxg1+ Kh4 28. Rxg5 Kxg5": "I love this position. I'm down 5 points, all my pieces but my queen are gone, but his king is in a very bad place. I certainly could still have lost at this point, but it would have required very careful movement to get black's material advantage organized.",
+        "29. f6+": "making some more space.",
+        "29... Kxf6 30. Qxd6+ Kg5 31. Qxc5+ Kh6 32. Qxa5": "Say goodbye to material advantage!",
+        "32... Bb5 33. Qxb4 Rab8": "another oops, this dooms the bishop due to potential checks. If the Rook was still on a8 then d8 becomes a safe square for the bishop to run from the coming pawn attack.",
+        "34. c4 Bd7 35. Qd6+ g6 36. Qxd7 Rbd8 37. Qh3+": "His exposed king makes everything easy.",
+        "37... Kg7 38. Kc2 Rgh8 39. Qg3 Rdc8": "Black has realized how carefully he has to move here, Rc8 prevents a future fork Qc7+, allowing him to move the h8 rook forward.\n\nBut it is too little too late, My broad pawn front provides too much security for my king for Black to threaten much, while my Queen can keep the black king hopping.",
+        "40. b4 Rh5 41. Qd6 Rch8 42. Qe7+ Kg8 43. a4 Rh5xh2+ 44. Kc3 Rh2h7 45. Qe6+ Kg7 46. Qxa6 Kh6 47. b5 Kh5 48. b6 Rg7 49. Qb5+ g5 50. a5 Kh4 51. b7 Rgg8 52. a6 g4 53. a7": "As the computer analysis showed, there were plenty of chance to improve on the play here, on both sides. But I loved how this one played out. My 2nd favorite win to date."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=33057",
+    "gameName": "Team match",
+    "players": "joe_olinger (1624) vs. venkatpb (1592)",
+    "opening": "Vienna game, Max Lange defence (C25)"
+}

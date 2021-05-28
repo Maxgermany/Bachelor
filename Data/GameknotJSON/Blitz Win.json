@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. c5 e6 4. Nf3 b6 5. cxb6 axb6 6. Nc3 c5 7. e3 c4 8. e4 Nf6 9. exd5 exd5 10. Be2 Bd6 11. O-O O-O 12. Re1 Re8 13. Bg5 h6 14. Bxf6 Qxf6 15. b3 Be6 16. bxc4": "Move forward to disrupt black's center pawn structure. It lets black pass a pawn, but the pawn is (so far) undefended by other pawns.",
+        "16... dxc4 17. Nb5": "Knight jumps to a precarious perch to threaten the bishop.",
+        "17... Bb4 18. Rf1": "Move to protect rook from bishop's glare.",
+        "18... Na6 19. a3": "Push pawn to convince bishop to move back.",
+        "19... Ba5 20. Ne5": "Another knight jumps to a precarious perch.",
+        "20... Rac8": "Black moves rook to back up the passed pawn on the c file.",
+        "21. Nd6": "Knight forks two rooks!",
+        "21... c3": "Pushing a pawn makes it more dangerous - especially with the rook to back it up, but on the other hand, it exposes an unprotected black knight on a6.",
+        "22. Nxe8": "Black now has to choose between saving the queen and saving the knight, so black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-win?gm=60675",
+    "gameName": "Blitz Win",
+    "players": "rich_sposato (1706) vs. chess_ashu (1856)",
+    "opening": "QGD Slav defence (D10)"
+}

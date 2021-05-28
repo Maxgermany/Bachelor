@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5 9. a3 Qa5 10. Rb1 c4 11. Be2 b4 12. axb4 Bxb4 13. O-O f5": "Small inaccuracy on blacks move.\n\u2026 O-O 13.  g4  Bxc3  14. bxc3 Nb6  is safer.",
+        "14. Nh4 Qd8 15. Bf2 O-O 16. g4 Ne7": "\u2026 fxg4 16.  Bxg4  Nb6 is best.",
+        "17. Kh1": "17. gxf5  Nxf5  18. Nxf5 exf5 is the best moves in this case.  ",
+        "17... Ng6": "\u2026 fxg4 17.  Bxg4  Nb6",
+        "18. Nxg6 hxg6 19. Rfg1 Kf7": "A fairly big mistake \u2026 Qe8 19.  Rg3  fxg4  20. Rxg4 Rf5 would keep the game more even.",
+        "20. Rg2 Nb6 21. Rbg1 Rg8 22. gxf5 gxf5 23. Qe1 Ra7 24. Bh4 Be7 25. Bh5+ Kf8 26. Bg5 Bxg5 27. Rg2xg5 Bd7 28. Qh4 Qe7 29. Bg6 Be8 30. Bxe8 Kxe8 31. Qh7 Qf8": "Small mistake: \u2026 Qf7 31.  Rg6  Kd8  32. Rxe6 Qxe6 is best.",
+        "32. Qh5+": "31. Rxf5 exf5",
+        "32... Kd8 33. Rg5g6 Re7": "One more small mistake: \u2026 Qf7 33.  Qh4+  Kc7  34. Qh7 Kb8 is better.",
+        "34. Na2": "Mistake again.  The problem is seen in the following: 34. Na2  Qe8  35. Qg5 Kc8  36. Nb4 a5  37. Nc6 Rf7  38. Nxa5 Ra7  39. b4 cxb3 e.p. 40. Nxb3 Qe7  41. Rf6",
+        "34... a5 35. Nc3 Kd7 36. Nb5 Nc8 37. Qd1 Kc6 38. Nc3 Qd8 39. Qa1 Qb6": "Big blunder \u2026 Qb6 39.  Qa4+  Kb7  40. Nxd5 exd5  41. Rxb6+ Nxb6  42. Qa3 Rc7  43. Qxa5 Rc6  44. Qb5 Re6  45. Rg3 Kc7  46. Kg2\n\nBest moves \u2026 Na7 39.  Qa3  Qc7  40. Na4 Rge8  41. Qc5+ Kb7  42. Qd6 Nc6  43. Nc5+ Kc8  44. Qxc7+ Kxc7  45. c3 Kb6  46. Rxg7 Rxg7",
+        "40. Na4": "Blunder.  40. Qa4+  Kb7  41. Nxd5 exd5  42. Rxb6+ Nxb6 is required.",
+        "40... Qa7": "\u2026 Qxd4!",
+        "41. Nc5 Rge8": "\u2026 Kc7 41.  Nxe6+  Kb8  42. Qa4 Qd7  43. Qxd7 Rxd7  44. Rxg7 Rgxg7  45. Rxg7 Rxg7  46. Nxg7 c3  47. bxc3 Ne7  48. Kg2 is much better.",
+        "42. Qa4+ Kb6": "Kb6? obvious blunder.",
+        "43. b3": "43. Nxe6  Nd6  44. exd6 Qd7  45. Nc5 Qxa4  46. Nxa4+ Kb7  47. dxe7 Rxe7  48. Rxg7 Rxg7  49. Nc5+ Kc6  50. Rxg7 c3\nis way better.",
+        "43... cxb3": "Blunder.",
+        "44. Rb1": "Blunder.",
+        "44... Kc7 45. Rxb3 Nb6 46. Qb5 Nc4": "Blunder and missed opportunity to checkmate opponent in 8 moves\u2026 Nc4 46.  Rxe6  Kd8  47. Qc6 Rh8  48. Qxd5+ Nd6  49. Rxd6+ Kc8  50. Rc6+ Qc7  51. Rxc7+ Kxc7  52. Na6+ Kc8  53. Rb8#",
+        "47. Rxg7 Qb6 48. Nxe6+ Kc8 49. Rxe7 Rxe7 50. Qxb6 Nxb6 51. Rxb6 Rxe6 52. Rxe6 Kb7 53. Rd6 a4 54. Rxd5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=31149",
+    "gameName": "Let's play chess",
+    "players": "chess_avenger (1627) vs. fridayap (1726)",
+    "opening": "French (C11), Steinitz, Boleslavsky variation"
+}

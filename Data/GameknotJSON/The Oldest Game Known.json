@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4": "An \"Italian game\", which we might expect from Italian masters, playing in Rome...",
+        "3... Nf6": "The Two knights' defence - much more exciting that the quiet game - Giuoco Piano.",
+        "4. Ng5": "Though labelled a \"beginner's move\" by some others consider this the best continuation.  A good alternative is 4.d4, and 4.0-0 and 4.d3 have been tried.  The last is better than it looks...",
+        "4... d5": "Tou would almost think this was forced, wouldn't you, and it very nearly is.  But in fact the remarkable 4...Bc5 is quite playable, leading to ferocious play after 5.Nxf7!?, but White maybe gets a slight edge after 5.Bxf7ch.  The old move 4...Nxe4 (5.Nxe4 d5) is more advantageous for white.",
+        "5. exd5 Nxd5": "(?) Very risky, as black comes in for a savage attack.  \"Normal\" here is 5....Na5, turning the opening into a gambit.  Black gets good play and quick development in the sequel.  Also interesting are 5...Nd4 and 5...b5, both of which lead to intriguing play for both sides.",
+        "6. Nxf7": "6.d4 is a playable line, but this forcing sacrifice is considered preferable, even today. Black has to accept, of course.  ",
+        "6... Kxf7 7. Qf3+ Ke6": "Now this is forced, as otherwise Black loses the d5-knight and is left a pawn down in a wrecked position.",
+        "8. Nc3 Nce7": "8.Nb4 is considered stronger these days, when White can consider a rook sac by 9.a3.  ",
+        "9. d4": "Three years before this game, Giannuzio recommended this as White's best here, a view endorsed by Greco in 1619... No one has since expressed a contrary view so far as I know.",
+        "9... c6": "Bringing up more support for the besieged knight.  9...b5 and 9...h6 have also been tried.  ",
+        "10. Bg5": "Undermining one of the d5-knight's supports...",
+        "10... h6": "Black can cut and run with 10...Kd7 11.Nxd5 cxd5 12.dxe5 Kc7 (not 12...h3 13.e6ch!) 13.0-0-0 Be6 14.Bxe7 Bxe7 15.Bxd5 Bxd5 16.Rxd5 when White emerges with 3 pawns and an attack for the piece.  After the text, a battle royal is taking place...",
+        "11. Bxe7": "Steinitz recommended 11.Bh4 here - something to try out, perhaps... But there's not much wrong with the capture!",
+        "11... Bxe7 12. O-O-O": "The pressure on Black's centre - and, since he's entangled in it, the Black King - has become enormous.  Black's answer is a counterattack.",
+        "12... Rf8 13. Qe4 Rxf2": "These days 13...Bg5ch would be preferred, but even so, White has a tremendous attack: 14.Kb1 Rf4 15.Qxe5ch Kf7 16.Nxd5 cxd5 17.Bxd5ch Kf8 18.Bb3! ",
+        "14. dxe5": "(!) 14.Rhf1 was for some time thought stronger, but Polerio's move has been shown the best.  ",
+        "14... Bg5+ 15. Kb1 Rd2": "(?) Played to reduce the pressure by exchanges, but this proves to be the decisive error.  Black can improve with 15...Ke7, breaking the pin on the d5-knight.  If White plays 16.e6?! Nxc3ch.  However, White can instead play 16.Bxd5 cxd5 17.Nxd5ch Kf8 (17...Ke8 18.Qg6ch) 18.Qe1! (18.Rhf1 Rxf1 19.Rxf1ch Kg8 20.e6 Qd6! is OK for Black) 18...Rf7 19.e6 Rf5 20.Qe4 winning material; or 18...Rf5 19.g4 Rf3 20.h4 Be7 21.Qe4 Rf2 22.Qe3 ... ",
+        "16. h4 Rxd1+ 17. Rxd1 Bxh4": "Now that the bishop has been induced away from the c1-h6 diagonal onto h4, White launches a final attack.",
+        "18. Nxd5": "Threatens a decisive discovered attack by, say, Nf4ch or Nf6ch.  Black has t o retake at d5.  ",
+        "18... cxd5 19. Rxd5": "Where is the queen to go to escape imminent capture?  ",
+        "19... Qg5": "...Why, to the square recently vacated by the bishop...",
+        "20. Rd6+ Ke7": "Forced.",
+        "21. Rg6": "(1-0) Black resigned the game as lost at this point.  If 21...Qd2 22.Qxh4ch Ke8 (or ...Kf8) 23.Rd6 is curtains.  Otherwise, 21...Qh5 22.g4 traps the queen.\n*** This note turns out to be not quite correct.  Check out \"Comments\" IAD."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-oldest-game-known?gm=7687",
+    "gameName": "The Oldest Game Known?",
+    "players": "Polerio (-) vs. Domenico (-)",
+    "opening": "two knights defence (C57), Fegatello attack, Polerio defence"
+}

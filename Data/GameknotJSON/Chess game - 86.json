@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. c4": "Weakens the centre, but I kind of like the english-sicilian approach",
+        "2... Nc6 3. Nc3 e6 4. d3 a6 5. Be3 b6 6. g3": "Wasn\u00b4t sure to open a fianchetto here, to counteract black bishop\u00b4s position. I think it helps holding the position although it requires one extra movement. But since black has already spent two pawn moves before, it seems right.",
+        "6... Bb7 7. Bg2 d6 8. Nge2 Nge7": "Black could have also attempted to develop a fianchetto, but it may require too many moves. On the other hand centre is solid and there is no clear requirement to me for casting for either player.",
+        "9. O-O Ng6 10. f4 Nge7": "Wasted movements, but it seems white didn\u00b4t take much advantage of it. A stronger response to aatack the right wing was required, but didn\u00b4t see a clar approach to perform such attack.",
+        "11. a3": "On the other hand, keeping preassure on the left wing also seems right. Maybe 11.f5 was a better choice, as said before; attacks the right wing and/or opens the centre.",
+        "11... Qd7 12. Na4 Nc8 13. b4 Be7 14. bxc5": "Not sure if I had to expose the flank so soon. Not a clear gain in prospect, but time flyes.",
+        "14... dxc5 15. Rb1 Qc7 16. Nec3": "With the intention to do f5 and take the centre with the knight or leave a weakened pawn in e6.",
+        "16... O-O 17. f5 Rd8": "  To me black started to do the correct movements now, considering how delicate is the position. Attacking white\u00b4s centre as a counterattack is a golden rule that he exploited very well. On the other hand, pressure on his King\u00b4s defenses is high. I thought about giving up the centre and focus on attacking, but without much results.",
+        "18. Qg4": "Unfortunately, I didn\u00b4t see the 18...Ne5 that helps winning time .",
+        "18... Ne5": "Now I feel black has the upper hand. White\u00b4s left flank in contested with b5 and Bf6 is weak, and the centre is also lost. Not a clear attack on black\u00b4s king compensates anything.",
+        "19. Qh3 exf5 20. Rxf5 Nxd3": "Not sure if this is best for black, but it doesn\u00b4t seem bad. Rook on 8th line still is a valuable defensive piece.",
+        "21. Rbf1 Bf6": " As said before, Black\u00b4s Bf6 with b5 make the white position a very delicate, if not a lost, one.",
+        "22. Rf5xf6": "This is the only movement I could see it gave white a chance. Maybe not to win but at least to create danger and confusion. Draw is the price to aim for now and it doesn\u00b4t seem and easy one, but better than trying to hold the position without the sacrifice.",
+        "22... gxf6 23. Bh6 Ne7": "It negates any chances of mate.",
+        "24. Rxf6 Ng6 25. Nxb6 Rac8": "Why not 25...Rab8 !? Or even a more active one sacrificing the rooklike Qe5; keyboard or mouse issues may explain this movement. Or he just didn\u00b4t see those.",
+        "26. Nxc8 Bxc8 27. Qh5 Qe5 28. Qxe5 Ndxe5 29. Nd5 Ng4": "Rook is lost",
+        "30. Bg5 Nxf6 31. Nxf6+ Kh8": "Best, to avoid loosing the rook",
+        "32. Ng4": "? Not a clear continuation. Time and position doesn\u00b4t help either.",
+        "32... Bxg4": "?? 32...Rd1+ saves the game. I didn\u00b4t even see that on the game either. I guess we were both too focused on the black\u00b4s king.",
+        "33. Bxd8": "I consider the game finished here. I am not adding the result, since I just wanted to share what I thought it was an interesting game with both errors and good moves, very fun to play."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=58089",
+    "gameName": "Chess game",
+    "players": "kenderfender  vs. miller3534 ",
+    "opening": "Sicilian (B20), Gloria variation"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e6": "The French Defense.",
+        "2. d4 d5 3. Nc3 Bb4": "The Winawer variation.",
+        "4. e5 c5 5. Bd2": "A quiet continuation.  5. a3 is the more common move.  5. Bd2 signals white's interest in trading dark square bishops.",
+        "5... Ne7 6. Nb5": "Forcing the bishop trade and eyeing d6.",
+        "6... Bxd2+ 7. Qxd2 O-O 8. f4": "White needs the f-pawn to help secure the center.",
+        "8... a6 9. Nd6 cxd4 10. Nf3 Nbc6 11. Bd3": "Giving up a pawn in order to launch an attack.",
+        "11... f6": "A typical break in the French defense.  Black often attacks a white pawn chain at the head as well as at the base of the chain.",
+        "12. O-O Bd7 13. Qe1": "Supporting the e-pawn and facilitating the queen's transfer to the kingside via the e1-h4 diagonal.",
+        "13... Nc8": "Black forces the d6 knight's exchange.",
+        "14. Nxc8 Rxc8 15. a3": "To prevent 15. Nb4.",
+        "15... fxe5 16. fxe5 h6": "Creating a white square weakness around the king, but black has to make some conssession.",
+        "17. Qg3 Ne7": "Black covers the white square on g6 just in time.",
+        "18. Nxd4": "A mistake.  A move such as 18. Kh1 would've been better.",
+        "18... Qb6": "Ouch!",
+        "19. Qe3 Qxb2 20. Rxf8+ Rxf8 21. Re1": "White is a pawn down with diminished attacking chances.",
+        "21... Qxa3": "Oops.",
+        "22. Bh7+": "A classic clearance sacrifice, where the bishop forces black to respond to the check while the queen on a3 is left hanging. 1-0.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/ic-dogs-team-1-mini-tournament?gm=1729",
+    "gameName": "IC DOGS Team 1 Mini Tournament",
+    "players": "yellowlab (1797) vs. dimis (1764)",
+    "opening": "French (C17), Winawer, advance, Bogolyubov variation"
+}

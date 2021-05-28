@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. c4": "Quise empezar con una apertura inglesa, aunque la posici\u00f3n resultante bien se parece a una india de rey, con la \u00fanica diferencia del pe\u00f3n en g5",
+        "1... g5 2. d4 h6 3. Nc3 Bg7 4. e4 d6 5. Be2 Nf6 6. Be3 Nc6 7. Qd2": "La idea es que si Cg4 Axg5",
+        "7... Bd7 8. h4 g4 9. O-O-O a6 10. f4 Nh5": "Esta es la posici\u00f3n el tipo de posici\u00f3n que buscaba, el negro se encuentra retrasado en desarrollo y su rey en el centro, tengo la posibilidad de abrir columnas tras e5, y mi torre en h1 no estaba jugando, desconozco si el sacrificio que sigue puede ser o no bueno, pero al menos resulta interesante",
+        "11. e5 Bf5 12. Bd3": "cambiando el alfil m\u00e1s activo",
+        "12... Bxd3 13. Qxd3 Ng3 14. e6": "probablemente este golpe haya sido omitido por mi adversario",
+        "14... Nxh1 15. exf7+ Kf8": "Obviamente, esto es mejor que comer el pe\u00f3n",
+        "16. d5 Na7 17. Nge2": "Este caballo debe caer en e6, solo debe abrirse camino",
+        "17... c5 18. Qg6 h5 19. f5 Nf2 20. Nf4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/66th-gk-tournament?gm=30259",
+    "gameName": "66th GK tournament",
+    "players": "chizzo83 (1726) vs. weelamb (1752)",
+    "opening": "English opening (A10)"
+}

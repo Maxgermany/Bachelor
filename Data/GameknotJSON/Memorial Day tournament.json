@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 e6 3. f4 d6 4. Nf3 Nf6 5. d4": "A little aggressive here, but this wins the centre and also frees up the bishop on c1",
+        "5... cxd4 6. Nxd4 Be7 7. Bd3": "Strengthening the centre, please note not only is white ahead on development, but he is already aiming his pieces toward where black's king will end up next move.",
+        "7... O-O 8. Be3": "This realistically only serves to strengthen the centre and allow the 0-0-0 later.",
+        "8... a6": "preparing the queenside pawn storm and also gives the bishop on c8 a chance to escape being blocked in by the f7 and e6 pawns.",
+        "9. g4": "White is a little reckless here and forgets about the bishop threat after e5, however even after black wins the pawn white gains the g file for his rook which will come to be rather painful in the later stages of the game.",
+        "9... e5": "trying to break up white's strong centre and win the pawn on g4",
+        "10. fxe5 Bxg4 11. Qd2 dxe5 12. Nde2": "the knight has no other good square to go to, f5 is a possibility but this allows the 0-0-0",
+        "12... Nc6": "continues development",
+        "13. O-O-O": "making the king safer and also allows the option of bringing the other rook into play",
+        "13... b5": "continues the pawn storm",
+        "14. Rhg1": "bringing the rook onto the open g file, this is the start of white's attack, now the bishop on e3 starts to have some options",
+        "14... Bxe2 15. Qxe2 Nd7 16. Bh6 Bf6 17. Nd5": "if white takes black is almost forced to take with the queen to prevent the king from being opened up entirely",
+        "17... Nd4": "Black decides to bring the other knight in to defend the kingside",
+        "18. Qf2": "white increases the pressure on the f6 bishop",
+        "18... Kh8": "freeing the pawn to defend the bishop",
+        "19. Nxf6": "black must now take with the queen to prevent bxg7+ kg8, bxf6#",
+        "19... Qxf6 20. Qxf6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/memorial-day-tournament?gm=25310",
+    "gameName": "Memorial Day tournament",
+    "players": "finch_1990 (1459) vs. john_d (1487)",
+    "opening": "Sicilian (B23), closed, Korchnoi variation"
+}

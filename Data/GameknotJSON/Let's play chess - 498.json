@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nc6 3. e3 e5 4. Nf3 Nf6 5. Bb5 Bd7 6. O-O Bb4 7. Ne2": "White's retreat surprised me.  A trade would have opened the b file to his Rook, while retreat breaks his tempo, and - where will his Knight go from here?  Watch and see - that knight will cost me the game...",
+        "7... e4": "I like the advanced pawn, especially if vic tends to retreat.  If he doesn't retreat, Nh4 is his most likely move.  There my Ng4 would reveal an attack by my Queen.  With no safe retreat, he would likely protect with g3, disrupting his Castle, I would gain a nice outpost while his Knight is marginalized...",
+        "8. Ne5": "Good move, not as shy as I thought. ",
+        "8... O-O 9. Bd2 Bxd2 10. Qxd2 a6 11. Ba4 Nxe5 12. dxe5 Bxa4 13. exf6 Qxf6": "I'm hoping White will:\r\n\r\n14.\tb3\tBb5\r\n15.\tc4\tdxc4\r\n16.\tbxc4\tBxc4\r\n\r\nAnd I'm up another pawn.",
+        "14. b3": "Is a start.\n\n",
+        "14... Bb5": "Will White: c4?",
+        "15. f4": "Nope.",
+        "15... exf3 e.p.": "A Castle cracker!",
+        "16. gxf3": "Chink!  A naked King!",
+        "16... Rfe8": "Grab the open file,",
+        "17. Rab1": "Now what?  ",
+        "17... Re5": "Let's lift a Rook!",
+        "18. Nf4 Bxf1": "Pleasant surprise.",
+        "19. Rxf1 Rf5 20. Nxd5": "Didn't expect that.  Awake oh sleeper...",
+        "20... Qd8": "Qd8 saves my Queen, prevents Nxc7 and skewers White's Knight to his Queen.  I expect he'll cover it with a pawn.\r\n",
+        "21. e4": "Like so.",
+        "21... Re5 22. Rf2": "This looks promising.  c7 attacks White's Knight and opens the door for Qa5, attacking the trailing a2 Pawn...",
+        "22... c6 23. Qf4": "I toyed with the Idea of Qg5+, but White would eventually play Nc7, forking my Pawn and Rook.  would that be a problem?  - No, Ra7 would trap his Knight...  But White could capture my undefended Rook and end up +1 instead of -2!\r\n\r\n",
+        "23... f6": "So I defend the Rook with a lowly pawn.",
+        "24. Ne3": "And now I will attack his cluster:\r\n24. Ne3 Qd4 \r\n25. Rf1 g5 \r\n26. Qg3 Qxe3+ \r\n27. Qf2 \r\n",
+        "24... Qd4 25. Nc4": "Better still!  White's Rook is pinned!",
+        "25... Rg5+": "White is facing mate in 2 or 3.\r\n\r\nUnless the lady dies....\r\n\r\nWhite saw the end coming and resigned!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=38887",
+    "gameName": "Let's play chess",
+    "players": "vicjorg5 (1177) vs. jcrycket (1415)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

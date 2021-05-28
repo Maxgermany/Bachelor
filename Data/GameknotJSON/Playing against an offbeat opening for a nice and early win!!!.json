@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. f4": "So f4, an offbeat opening i have never played against it. My main goal is to built up a strong and solid defence on my king's side and then attacking on white's kingside.",
+        "1... Nf6": "I choose Nf6 though the main reply is d5. Also some play c5 and even f5 which seems really worthless to me (f5).",
+        "2. Nf3": "Developing the knight behind the f4 pawn.",
+        "2... g6": "King's side fianchetto with g6, though i am not really experienced to those positions but i decided to try it out!",
+        "3. e3": "In order to support the pawn, seems logical to the opening.",
+        "3... Bg7": "My plan as i said was a solid defence for my King.",
+        "4. d4": "d4 and challenging both e5 and c5 squares.",
+        "4... O-O": "0-0 and now the job is done for my King. I don't really like his centre's pawn structure and anyway.",
+        "5. b4": "b4? Why is that? At least Bc4 or b3 would be better.",
+        "5... d6": "I think it's like i am playing the King's Indian Defence.",
+        "6. Bb2": "Bb2 is ok but still he's back in development.",
+        "6... c5": "c5 a thematic move to most of the defences against d4 for black. ",
+        "7. bxc5": "He took the pawn.",
+        "7... dxc5": "I took it too.",
+        "8. c3": "c3 to support the d4 pawn. But this move is blocking DS Bishop's view.",
+        "8... Qb6": "It's time for my Queen to move to threat the b2 square and support c5.",
+        "9. Ba3": "Ba3 is hitting c5 square. I know that if i am going to lose my pawn there's a hole in b2.",
+        "9... Nc6": "So Nc6 instead of Nd7 which is blocking my LS Bishop.",
+        "10. Bxc5": "Not the greatest choise here for white. His King is still exposed to possible threats.",
+        "10... Qb2": "Qb2 is good move both threatening a1 and c3 squares.",
+        "11. Nbd2": "With no option here he plays Nbd2 to protect his rook.",
+        "11... Qxc3": "So the pawn is back to me, now threatening e3 pawn. ",
+        "12. Qb3": "Well here's his mistake, He actually wanted Queen exchange but he forgot his exposed rook and King.",
+        "12... Qxa1+": "Rook is gone and check, and he resigned. So this is my first win against this opening. White didn't control his passion for attack while i had a nice King's side defence and an energetic Queen that forced him to blunder. Feel free for any comments and please rate the game if you like. Thanks and wish all good games!"
+    },
+    "url": "https://gameknot.com/annotation.pl/playing-against-an-offbeat-opening-for-a-nice-and-early-win?gm=46398",
+    "gameName": "Playing against an offbeat opening for a nice and early win!!!",
+    "players": "sidsidsid (1680) vs. mariodag (1751)",
+    "opening": "Bird's opening (A02)"
+}

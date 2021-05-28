@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "This was a realtime blitz, 5 min + 20 seconds each. As my opponent was rated somewhere in between the area of equal to better than me, I decided to go with an opening in which I'm really comfortable.  Comments are welcome on this game. I'm an amateur and relatively inexperienced player who has recently begun to study and play chess more seriously.",
+        "1... e5 2. Bc4 h6 3. Nf3 d6 4. Nc3 c6 5. O-O Nf6": "It became apparent to me that d5 was a critical square, a weakness for the bishop's opening when reinforced by black's pawn, knight, and queen.",
+        "6. d4": "With this move, I was hoping to create some space and perhaps trade off my d pawn so my queen could actively protect the d file.",
+        "6... b5": "This move surprised me, but it was a good one. It's limiting my bishop's options.",
+        "7. Be2": "This seemed te best place for my bishop.",
+        "7... b4": "Another unexpected move. My opponent was messing with the opening I had tried to create.",
+        "8. Na4": "I know this is a weak square for the knight, but it didn't have anywhere else to go. I looked over other options of creating counterplay, but didn't see much or how it could help me.",
+        "8... exd4 9. Nxd4 Nxe4": "Black has just destroyed my center.",
+        "10. Bf3 d5": "I thought this was a good move on black's part. Keeps his knight in an annoying spot, and my LSB is still pretty limited. Plus, he's keeping his center.",
+        "11. Re1 Be7 12. Nf5": "Blunder. My f5 knight was wide open for black's bishop.",
+        "12... O-O": "Thankfully, he didn't see it. I next needed to decide what to do with this knight. Perhaps there would have been possibilities in trying to defend it with my bishop, but at the time I was concerned with staying ahead in development. I had realized that I had more developed pieces, and an exchange for his DSB would facilitate my lead.",
+        "13. Nxe7+ Qxe7 14. Be3 Qd7": "I think this move was to forestall a pin I was going to set up with my DSB on c5. It also adds complications since our queens are facing each other.",
+        "15. Bxe4": "I was still looking at attacking his rook anyway, and wanted to get a very well placed knight off the board. Also, this breaks his center.",
+        "15... dxe4 16. Qxd7": "I wasn't sure how good of an idea a qeen swap was. I was trying to stay ahead of black, and foresaw a way to fork black's rook and pawn, even the material, and retain my lead in development.",
+        "16... Bxd7 17. Bc5 Re8 18. Bxb4 Na6 19. Bd6 Re6 20. Rad1 Rc8 21. Nc5": "By this time, I realized that though we were technically even, my sets of pawns were connected, while black's weren't on the queenside. I judged this as an advantage, and with a lack of other plans, just tried to keep initiative and trade down to where my connected pawns might prove more decisive. Plus, 21. ...Nxc5 22. Bxc5 puts my bishop at a point of attack on black's pawn, allowing me to keep initiative.",
+        "21... Nxc5 22. Bxc5 Rc7 23. Rd6": "In keeping with my earlier idea, I decided to offer a trade or exchange, looking at capturing black's e pawn and, again, maintaining initiative.",
+        "23... f5 24. Rxe6": "Continuing with the trade...I was uncertain about this. It seemed a relatively neutral move, beyond allowing me to continue with the freedom of attacking.",
+        "24... Bxe6 25. Bd6 Rc8 26. Bc5 a5": "It was at this point that I realized that black's bishop could take my a pawn. In the earlier couple of moves, I hadn't seen this. I was just attacking and trying to get in a place where I could get black's pawns. However, I was grateul I realized it in time!",
+        "27. a4 Rb8 28. b3 Kf7": "I think this game is at a point where king involvement is becoming crucial. I felt my disadvantage here with how my king was placed, but wasn't sure if giving up the initiative to move my king was wise. In hindsight, doing this might have saved the game. I wasn't aware of how much of a liability my closed-in position would become.",
+        "29. Rd1 Ke8 30. Rd6 Bd7": "The game felt like it was in a kind of deadlock. My only resolution was to keep on attacking and try to gain more of an advantage.",
+        "31. Bd4 Ke7 32. Be5 Rd8 33. c4 c5 34. Ra6": "Here I had a moment of exultation. Finally, nothing could stop me from gaining more of a lead...",
+        "34... Bxa4": "I was stunned. I couldn't understand why my opponent offered this sacrifice, unless it was to disengage my connected pawns, which might have been a worthy goal. I thought black was conceding, and preparing to assume a more defensive position. I should have looked closer!!",
+        "35. bxa4": "As soon as I took it, I realized my mistake. Such a pleasurable and engaging game, to end with such a lack of my own weakness!"
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=48599",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "cazador2  vs. sandcastle2 ",
+    "opening": "Bishop's opening (C23)"
+}

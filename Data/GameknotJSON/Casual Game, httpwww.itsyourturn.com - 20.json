@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. Nc3 d5 2. e4 d4": "Slightly better than other choices. \n",
+        "3. Nce2": "\n",
+        "3... a6 4. Ng3 e6 5. Bc4 c5": "Just as good is Ne7 or Nf6.  Although technically equal, the position is minuscule in Black's favor.\n",
+        "6. d3 Nc6 7. a3 Nf6 8. Nf3 Bd6 9. O-O b5 10. Bb3 Bb7 11. Bg5": "\n",
+        "11... h6 12. Bd2 Rc8 13. Re1 Bc7 14. c3 dxc3 15. Bxc3 O-O 16. Qe2 Qe7": "With the idea of a5 with b4 followed by Nd7 and Nde5 with the idea that if white plays Nf3xe5 then black has Nd4 forcing white to play Qd1.  The Queen on e7 supports the  c5 pawn in case of Bc3-d2-e3 and makes the possibility of Rfd8 more effective.  Qe7 also serves as a simple developing move since the queen has very few choices.\n",
+        "17. Red1": "Prior to this move white overstepped the time limit and lost.  What follows here is some interesting computer analysis of how the game could have continued.",
+        "17... Rfd8 18. Rac1 Ng4 19. Nh5 Nge5 20. Nxe5 Bxe5 21. Bxe5 Nxe5 22. f4 c4 23. dxc4 bxc4 24. Bc2 Rxd1+ 25. Rxd1 Nd3 26. Bxd3 cxd3 27. Rxd3 Qc5+ 28. Kh1": " 28. Kf1 Bc6\n",
+        "28... Qc1+ 29. Rd1 Rc2": "Black has a winning game here.\n",
+        "30. Qf1 Qxb2 31. Ng3 Bc6 32. a4 Rf2 33. Qg1 Rxf4 34. Rb1 Qe5 35. Qe3 Bxe4 36. Re1 Qg5": "Threatening Rf1+!\n",
+        "37. Qc1 Bb7 38. Qc2 Qd5 39. Rg1 Rc4 40. Qa2 a5 41. Ne2 Qe4": "With the idea of Rc2.\n",
+        "42. Qb3": "42. Ng3 Qc6 [Threatening Rc2.] 43. Qf2 Rc2 44. Qf1 Qxa4\n",
+        "42... Rb4 43. Qa2 Qe3": "With the idea of 44. ... Qf2 and then Rg4.\n",
+        "44. Rf1": "44. Ng3 then Qd4 with the idea of Rb2 and Qf2 where the pin on g2 leaves white helpless.",
+        "44... Qe5": "With the idea of Rb2.\n",
+        "45. Qd2 Rb2 46. Qd8+ Kh7 47. Qd3+ Be4 48. Qa6": "Better is Qg3, but that is clearly lost after Qxg3.\n",
+        "48... Qh5 49. Rf2": "49. Re1 Qg4 50. Ng3 Bxg2+ 51. Kg1 Qd4+\n",
+        "49... Rb1+ 50. Ng1 Qd1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=59221",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "NN  vs. John Coffey, Chess Player at Lar ",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

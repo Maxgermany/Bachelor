@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "1.d4 is reportedly the second most popular opening move. Fun fact: I, playing White, chose this purely to avoid the Sicilian Defence, with which I am unfamiliar.\n",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7": "Here Black begins setting up what looks like a King's Indian defense, Smyslov system (E61)...\n",
+        "4. Nf3 d5": "...but transitions into the Gruenfeld, three knights variation (D90), instead.\n",
+        "5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3": "After this move, the opening is effectively a Gruenfeld (D85), modern exchange variation.\n",
+        "7... c5 8. Bb5+": "Rb1 is a sensible alternative. Up to this point, the game has remained fairly even, with no obvious advantage to either player.\n",
+        "8... Nc6 9. O-O": "d5 is a highly devious alternative at this point, with the potential for several juicy exchanges.\n",
+        "9... cxd4 10. cxd4 O-O 11. Be3 Bg4 12. Bxc6 bxc6 13. Rb1": "At this point, Rc1 would probably have been better. This move sacrifices tempo, as we shall immediately see.\n",
+        "13... Bxf3 14. gxf3": "14.Qxf3 would preserve the pawn structure around the king and place pressure on f7 - however, as it turns out, this doubled f-pawn is useful later.\n",
+        "14... e6 15. e5 f6 16. f4": "Observe 'later'. Not just this turn, either - this triad of pawns in the center becomes the key of the game.\n",
+        "16... f5": "Here Black gives up tempo again, and never really regains it.\n",
+        "17. Qb3": "This move doubles up pieces on the b-file and threatens the king through Qxe4.\n",
+        "17... Re8 18. Rfc1": "Finally attacks the unguarded c-pawn.\n",
+        "18... Rb8": "...and this is the critical (although subtle) mistake. Why? Because of the pawns on d4, e5, and f4. After the exchanges that follow, White takes c6 and Black is forced to trap one rook on the back rank defending the pawn on e6 - because with the c- and e-pawns out of the way, White has an excellent shot at promoting their own d- and/or e-pawn, effectively ending the game. Better is 18...Rc8.\n",
+        "19. Qxb8 Qxb8 20. Rxb8 Rxb8 21. Rxc6 Rb1+": "Black neglects to guard e6. They still have one chance to salvage this: 22...Rb6.\n",
+        "22. Kg2 Ra1": "And that's it. Black will have no plausible path to recover.\n",
+        "23. Rxe6 Rxa2 24. d5 Kf7 25. Bc5 Ra5 26. Re7+ Kf8 27. Rc7+ Ke8 28. d6": "At this point, White is essentially guaranteed to promote a pawn in the near future. Black resigns.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-lesson-in-the-importance-of-passed-pawns?gm=23351",
+    "gameName": "A lesson in the importance of passed pawns",
+    "players": "packbat (1337) vs. njank (1510)",
+    "opening": "King's Indian (E61), Smyslov system"
+}

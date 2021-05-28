@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!  his is a game I played a few years back in the Foxwoods Open.  This game was played against someone with a rating more than 500 pts higher than me at the time.  I ended up losing this game, but I wanted to share it because it is by far the best game I have ever played in a tournament setting.  ",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6": "I play the closed Lopez with Black whenever possible.  I also try to get into unfamiliar lines of that opening.",
+        "5. O-O Be7 6. Re1 b5": "This is all book lines so far",
+        "7. Bb3 d6 8. c3 O-O 9. h3 Bb7": "This move characterizes the Zietzef variation of the lopez.  It can be a very sharp, tactical middlegame.  The reason I played it aganst someone so much higher than me is because he showed up almost an hour late for his match!!  I was going to try to make things as difficult as possible.",
+        "10. d3": "This move breaks book.  Normally played is 10.d4",
+        "10... Na5 11. Bc2 c5 12. Nbd2 Re8 13. Nf1 Bf8": "This is very popular in te zietzef.  The bishop usualy ends up on g7.",
+        "14. Ng3 d5": "It is usually bery risky for White to try the normal Kingside attac against the Zietzef variaton. The center is still far too voltile. I decided to add some complications to slow him down.   ",
+        "15. Bg5 d4 16. cxd4 cxd4": "I would have liked to capture with the e pawn to open up the center, but 16...exd4 is met by 17.e5 and theknight falls",
+        "17. Nf5 Nc6 18. Rc1 Nb4 19. Bb1 Qb6": "19...Qb6?  This move is the begginning of a lot of problems for black",
+        "20. a3": "The knight on b4 only has 1 square, and that square blocks the Q's protection of f6",
+        "20... Nc6 21. Bxf6 gxf6 22. Ba2 Bc8": "Tryin to drive that horridly powerful knight out of his hole",
+        "23. Nf3h4 Ne7 24. Qh5 Be6": "defending the mate starting w/ Qxf7 ",
+        "25. Bxe6 fxe6": "But also driving away that knight",
+        "26. Nh6+": "At this point, my opponent had used a whopping 14 minutes off his clock (except for the time he wasted by not being there).  My plan had obviously failed.  ",
+        "26... Kg7 27. Ng4": "or had it??  Before making my 26th move, I had solved for mate after 26...Kh8 (If I was playing the white pieces.)  After my 26th move, I solved for mate after Kg7.  It's been so long, I couldn't replicate it again if I tried, but I know it involved 27.Qf7 ",
+        "27... Ng8 28. Rc2": "plans to bring in the troops",
+        "28... Qb7 29. Rec1 Qf7": "!! ahaaa!, and the attack is over!",
+        "30. Qxf7+ Kxf7 31. Rc2c6 Nh6 32. Nxh6+ Bxh6 33. Rc1c2 Re7 34. Rb6 Raa7 35. Rcc6 Rac7 36. Nf5": "?!  This move actually allows me to have drawing chances",
+        "36... exf5 37. Rcxf6+ Kg7 38. Rfxh6 fxe4 39. dxe4": "and there's my passed pawn.",
+        "39... d3": "?  I should have waited a little before pushing this pawn",
+        "40. Rhd6 Red7": "If I had instead played Rcd7, things are still unclear",
+        "41. Rbc6": "!!!!  This move took him almost 20 minutes to find.  The game controls were 2h/40 1hr.  He was down to under  minutes before his 40th move, and it was just in the nick of time.",
+        "41... Rca7 42. Kf1 Kf7 43. Ke1 Ke7 44. Rxd7+ Rxd7 45. Kd2": "and black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/over-the-board-against-someone-500-pts-higher?gm=20748",
+    "gameName": "Over The board against someone 500 pts higher!!",
+    "players": "Joe M (1890) vs. Jay G (me) (1359)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

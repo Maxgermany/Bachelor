@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nf3 Bg4": "Not the best of moves, but I'll give my opponent credit.",
+        "4. Ne5 Bf5 5. Nc3 f6": "Opening up a weakness in Black's king side and hindering the development of the g8 knight.",
+        "6. Nf3 Bg4": "Looks like he really wants that pin to happen.",
+        "7. e3 Nh6 8. Be2 Bxf3": "Why Black decided to take now I'll never know.",
+        "9. Bxf3 e6 10. Qb3": "I prepare an attack on b7 whilst giving my c4 pawn some support.",
+        "10... Qd7 11. e4": "I challenge the d5 pawn further.",
+        "11... e5": "Threatening my unprotected d4 pawn. I must take with it to protect from my opponent getting a passed pawn after exd4.",
+        "12. dxe5 dxc4 13. Qxc4 fxe5": "Now, after the exchanges take place, the d file is open and the f file semi open. Black has an isolated pawn on e5 while my pawn on e4 is only temporarily isolated (if you would even call it so).",
+        "14. O-O b5 15. Qb3": "I want to maintain control of the a2-g8 diagonal to further my plans.",
+        "15... a5": "Preparing for 16...a4",
+        "16. a4": "It was either this move or 16. a3, which would give my queen a safe haven on a2 after 16...a4. I wanted to be agressive and maybe mess up Black's pawn structure, or open up the position a bit more.",
+        "16... b4 17. Ne2 c5": "Now I see my chance...",
+        "18. Bxh6 gxh6 19. Bh5+": "With no enemy pawn on the g file and my bishop and queen converging on f7, my attack will become deadly.",
+        "19... Ke7": "If 19...Kd8 then I'll put one of my rooks on d1 (but then again I didn't even consider 20...Bd6).",
+        "20. Qf7+ Kd8 21. Rad1 Bd6": "This move would have worked better for my opponent after he had immediately put his king on d8 after 19.Bh5+",
+        "22. Qf6+": "A simple fork.",
+        "22... Kc7 23. Qxh8 Qxa4 24. Bg4": "I planned on putting my queen on c8 after my opponent took the pawn (and kindof wasted a move).",
+        "24... Qc6 25. Qc8+ Kb6 26. Qxc6+": "Seeing that I could attack no further with the queen immediately, I exchange queens.",
+        "26... Kxc6 27. f4 b3": "It probably would have been easier for Black to take on f4, but then I get a passed pawn on e4.",
+        "28. f5 Na6 29. f6 Nb4": "My opponent completely ignores the passed pawn for the time being",
+        "30. f7 Rf8 31. Rf6": "Attacking the bishop",
+        "31... Kb5": "Instead of protecting the bishop with Rd8 ( if 32. f8=Q, then 32...Rxf8 33. Rdxd6+, Kc7), my opponent retreats his king.",
+        "32. Rdxd6 a4 33. Nc3+": "I now have Black in a forced mate, but at the time I did not think twice to find the quickest way to achieve mate (movewise); I wanted to end the game in less time (especially since this board was the last one playing).",
+        "33... Kc4 34. Be6+": "Yes, I know, Be2 would have been better.",
+        "34... Nd5 35. Bxd5+ Kd3 36. Rf3+ Kc2 37. Rf2+ Kd3 38. Bc6+ Ke3 39. Nd1#": "And that's the way the cookie crumbles. Commenting and rating are appreciated."
+    },
+    "url": "https://gameknot.com/annotation.pl/kamiak-lakewood-bd-3?gm=28063",
+    "gameName": "Kamiak @ Lakewood bd. 3",
+    "players": "Travis Olson (878) vs. Sean Kustra (1297)",
+    "opening": "QGD Slav (D11), 3.Nf3"
+}

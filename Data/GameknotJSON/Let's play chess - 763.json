@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3": "We have one of the main lines of the french winawer variation here.",
+        "5... cxd4": "considered better is Bxc3, white gets good initiative, even though my pawns are weakened.",
+        "6. axb4 dxc3 7. Qg4 Kf8 8. Nf3 cxb2": "It's dangerous to open lines for my bishop, which usually is bad in french lines.",
+        "9. Bxb2 Qc7 10. Bd3 Nc6": "a poor move - this lets me play b5 with tempo. I aim to play b5 either way, to bring my bishop to the very active a3-f8 diagonal.",
+        "11. b5 Nce7 12. O-O Nh6 13. Qg5 Nhf5 14. Ba3 h6 15. Qd2": "I threaten Bxf5 with Qxd5.",
+        "15... Ke8 16. g4": "the knight is trapped!",
+        "16... Bd7 17. gxf5 exf5 18. Bxe7 Kxe7 19. Qb4+ Ke6": "Much much better is Ke8 or Kd8; however both of those moves run into b6! with me winning more material.",
+        "20. Nd4+": "Now black is just mated.",
+        "20... Kxe5 21. Qe7+ Kxd4 22. Qe3+ Kc3 23. Be2+ Kb4 24. Rfb1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=26017",
+    "gameName": "Let's play chess",
+    "players": "chessy131 (1675) vs. blackbaron (1364)",
+    "opening": "French (C17), Winawer, advance, Rauzer variation"
+}

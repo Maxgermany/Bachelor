@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Despite a large material advantage, White has to put up with some clever stalemate threats before winning this game.",
+        "1... e5 2. Nc3 Nf6": "This move is less aggressive than 2.Nf3, but often leads to more violent play.",
+        "3. Bc4 a6 4. Nf3": "Probably not very accurate, as we shall see...",
+        "4... b5": "If White moves the bishop, 5...b4 leads to the win of the e4 pawn. I decided to invest a piece for two pawns and a small initiative.",
+        "5. Bxf7+": "This sacrifice is probably unsound.",
+        "5... Kxf7 6. Nxe5+ Ke8 7. O-O": "Trying to win the e4 pawn would be dangerous because it would open up the e-file for White.",
+        "7... Nc6 8. Nxc6": "Keeping a small lead in development. This is important because White is slightly down in material.",
+        "8... dxc6 9. e5 Ng4": "Nd5 would have been much better. The knight is safe there, and Black would have an advantage.",
+        "10. h3 Nxe5": "Nh6 had to come into consideration, as horrible as Black's position would have been after d4.",
+        "11. Re1 Qf6 12. d4": "White regains the piece.",
+        "12... Bd6": "Black's king isn't getting any safer. He probably should have castled. Now White will win another piece.",
+        "13. dxe5 Bxe5 14. Qe2 Ke7": "A useless move.",
+        "15. Qxe5+ Qxe5 16. Rxe5+ Kf7 17. Bg5": "Preventing Rd8.",
+        "17... Be6": "Black correctly gets his other rook out, although this bishop isn't very safe on e6.",
+        "18. Rae1 h6 19. Bh4": "Rxe6 was probably more accurate.",
+        "19... Bc4 20. b3 Bd5 21. Nxd5 cxd5 22. Rxd5 c6 23. Rd6 g5 24. Bg3 Rac8 25. Rd7+": "The trick is to figure out the quickest win. Even in situations where one has an extreme material advantage, games don't win themselves.",
+        "25... Kg6 26. f3 Rhf8 27. Rd6+ Rf6 28. Ree6 Rxe6 29. Rxe6+ Kf5 30. Rxh6": "White still needs to keep an eye on his back rank.",
+        "30... a5 31. a3 c5 32. Ra6": "Winning a pawn.",
+        "32... a4 33. bxa4 b4": "Black finds a way to get counterplay in a desperate situation.",
+        "34. axb4 cxb4 35. Rb6 Rc4 36. a5": "This pawn isn't as easy to advance as it seems.",
+        "36... Rxc2 37. Rxb4 Ra2 38. Rb5+ Kg6 39. Rb6+ Kf5 40. a6": "White needs to watch out for cheap stalemate ideas like 40...g4 41.hxg4 Kg5 42.Rc6?? Ra1  43. Kh1 Rh1 !! 44.Kxh1 stalemate",
+        "40... Ra5 41. Kh2 g4 42. hxg4+ Kg5": "Black finds another clever way to attempt stalemate.",
+        "43. Kh3 Rxa6": "If White takes the rook, it's stalemate. There's no reason to be tempted by that, though, because there's a mate on the board.",
+        "44. f4#": "Mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/vvv-kingknots-krowned-kingknothing-iii-vvv?gm=4677",
+    "gameName": "VVV KINGKNOT'S KROWNED KINGKNOTHING III VVV",
+    "players": "kansaspatzer (1509) vs. kingknot (1451)",
+    "opening": "Vienna game (C26)"
+}

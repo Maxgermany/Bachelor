@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\n\nI joined a MT organised by Charleshiggie  where all bar one of my opponents were experts.  It looked to be a tough tournament indeed.  My opponent actually held Coach Ion to a draw in another MT so it certainly looked as though I would be on the back foot.  However, something happened that was completely out of the blue.  Read on to find out just what it was!",
+        "1... Nf6 2. c4 e6 3. Nf3 Bb4+": "3. \u2026\u2026Bb4+ - Fou Lenoir clears the decks for kingside castling.",
+        "4. Bd2 Bxd2+ 5. Qxd2": "5. Qxd2 - bishop trade.",
+        "5... Qe7 6. Nc3 d5": "6. \u2026.. d5 - contesting the centre.",
+        "7. e3 O-O 8. Rc1 Nbd7": "8. \u2026\u2026 Nbd7 - development.",
+        "9. cxd5 exd5 10. Bd3": "10. Bd3 - white also develops.",
+        "10... c6 11. O-O Re8 12. a3 Ne4": "12. \u2026..Ne4 - outpost.",
+        "13. Qc2 Ndf6": "13. \u2026...Ndf6 - Sir Lollabout goes to f6 to support his kingside colleague Sir Slugabout on e5 (Ion kindly gave me some ideas on what names to give my horsies - Sir Slugabout is Henry's knight on the kingside and Sir Lollabout belongs to Glenda on the queenside).",
+        "14. Ne5": "14. Ne5 - white returns the compliment.",
+        "14... h6 15. Bxe4 Nxe4 16. Nxe4 dxe4": "16. \u2026\u2026 dxe4 - a plethora of exchanges ensues and I lay a trap.  If QxP?? then white loses a piece by f6 on the next turn.",
+        "17. Nc4": "17. Nc4 - of which white avoids.",
+        "17... Bf5 18. b4 Bh7": "18. \u2026\u2026 Bh7 - Fou Leblanc hides away on h7, but he will emerge later on, never you fear!",
+        "19. Rfd1 Rad8 20. Rcb1 Rd5": "20. \u2026\u2026 Rd5 - out of the blue a seed starts to germinate in my mind.  As white has concentrated his pieces onto the queenside, King Plutark has been left on his own.  Time for Glenda to seek his company.",
+        "21. a4 Qh4": "21. \u2026\u2026. Qh4 - like this!",
+        "22. b5 cxb5 23. axb5": "23. axb5 - pawn trade.",
+        "23... Rh5 24. h3 Rg5": "24. \u2026.. Rg5 - over the last two moves after getting that queenside pawn skirmish out of the way I am now seriously making King Plutark shiver in Old Matey's shadow.  The immediate threat is Qxh3 as the g2 pawn is pinned.",
+        "25. Kh1 Bf5": "25. \u2026\u2026 Bf5 - now Fou Leblanc joins the party.",
+        "26. Nd6": "26. Nd6?? - GA indicates this as the losing move.  I now play Bxh3 as gxh3 allows Qxh3#.",
+        "26... Bxh3 27. g3 Qh5": "27. \u2026\u2026 Qh5 - Glenda backs off but never fear, she is eyeing up f3.  If she gets there King Plutark will not have a prayer.",
+        "28. Kg1 Qf3": "28. \u2026\u2026 Qf3 - after this move I announce #3 and I told my opponent that he did not have to play it out.  If you want to work out the mate then please give your answers to me in a pm.  As a result of this game, this particular humble pawn (jstevens1) has her own promotion to username jotheblackqueen (this may take a few days before it happens) as she has now claimed her first ever EXPERT VICTORY.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/out-of-the-blue?gm=65814",
+    "gameName": "Out of the blue!",
+    "players": "plutark (2068) vs. jstevens1 (1879)",
+    "opening": "Bogo-Indian defence, Monticelli trap (E11)"
+}

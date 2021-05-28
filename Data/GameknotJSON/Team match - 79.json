@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 d5": "Scandinavian defense.",
+        "2. e5 h5 3. d4 c6 4. f4 Bg4 5. Be2 f5 6. Bxg4": "White could also have played exPf5 e.p. though not necessarily better than Bxg4.\n",
+        "6... fxg4 7. e6 Nf6 8. g3 Ne4 9. f5 Qa5+ 10. c3 Nd7": "Knights actually are more valuable than pawns.  This sacrifice does not help black.\n",
+        "11. exd7+ Kxd7 12. h4": "Black could play gxPh4 e.p.  Nxg3 is probably better.",
+        "12... Nxg3 13. Rh2 Rg8 14. Rf2 Ne4 15. Rf4 Nxc3": "Knights are more valuable than pawns.  Bears repeating.\n",
+        "16. Nxc3 g5": "White could play fxPg5 e.p.",
+        "17. Rf2 gxh4 18. Qe2 h3": "Bg7 defends Rg8 from Qe6+.\n",
+        "19. Qe6+ Ke8 20. Qxg8 Qb6 21. f6 Qxd4 22. fxe7": "Re2 first should protect that pawn.",
+        "22... Kxe7 23. Re2+": "Rf7+ Instead gives white Bf8.",
+        "23... Kd7 24. Qe6+ Kd8 25. Bg5+ Kc7 26. Be3 Qb4 27. Qf7+ Kd6 28. Rd1 d4 29. Bf4+ Kc5 30. Re5+ Kd6": "Rb5# is discovered checkmate.  Kd6 should be avoided simply because white can place the interposed rook anywhere he wants to take a piece, such as at Rb5."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=60180",
+    "gameName": "Team match",
+    "players": "pdhudson (971) vs. nevhelp (1011)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

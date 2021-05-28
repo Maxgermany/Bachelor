@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e3 d5 2. c4 Nf6 3. cxd5 Nxd5": "Moving twice the knight in the very opening... but after Qxd4, white has an easy developement kicking the queen. ",
+        "4. Bc4 Bf5": "I knew this move would have surprised my opponent...",
+        "5. d3": "Logical, trying to develop threatening a fork, but...",
+        "5... Nb6 6. Bb5+": "White is about to lose the d3 pawn... and he has to struggle to save it!",
+        "6... c6 7. e4": "Bxe4, dxB, QxQ, KxQ, cxB would have been ok for black, I think. ",
+        "7... cxb5 8. exf5": "But I liked to scramble white's game.",
+        "8... Qd5 9. Qf3": "Interesting and seldom seen.",
+        "9... e6": "Another \"surprise\" move. ",
+        "10. Nc3": "Bb4 could have been an option. ",
+        "10... Qxf5 11. Qxb7": "Oh, yes, but...",
+        "11... Bc5": "Threatening a lot on f2",
+        "12. Ne4 Bb4+ 13. Bd2 Bxd2+ 14. Kxd2": "Interesting, trying to activate the rook soon, but look at this poor isolani... and ah, yes, I have to free my queenside pieces, and take care of Nd6+, royal fork. ",
+        "14... Qd5 15. Qxd5 Nxd5": "Now, I can confidently say that black is better. ",
+        "16. Nd6+ Ke7 17. Nxb5": "White recovers the pawn, but the isolani would be a headache for white. ",
+        "17... a6 18. Nd4": "Nf4 threats g2, but g3 is enough to kick my knight before I can use it against d3. ",
+        "18... Rd8": "A tempo for preparation (now I do threat Nf4, winning a pawn). ",
+        "19. Ngf3 f6": "Another preparation move. ",
+        "20. Rac1": "Better to consolidate the d pawn, with Ke2, for Rd8. Maybe. ",
+        "20... e5": "I expected Re8 (Kf8)",
+        "21. Nc6+ Nxc6 22. Rxc6 Nf4 23. Rc3": "g2 is taboo, of course (Rg1, then Rxg7)",
+        "23... Rab8 24. b3 e4 25. Nh4": "Rd1 would have been better. I would have answered Rb4, and if f3... well, a hell of a thinking :-)  ",
+        "25... Nxd3 26. Nf5+ Kf8 27. Ke3 g6 28. Nd4 Rd6": "If Kxe4, Nxf2+, forking the rook. ",
+        "29. Kxe4": "A pity. ",
+        "29... Nxf2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=47314",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "stegal  vs. damalfi ",
+    "opening": "Van't Kruijs opening (A00)"
+}

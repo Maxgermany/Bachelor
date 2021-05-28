@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bc4 c6 7. e5 Ne8": "E5 zet de partij op scherp. Ik weet niet of 7. \u2026.Pg4 8.h3 Ph6 een alternatief voor zwarts\u2019 paardzet is. Onduidelijk, wordt een heel ander spel.\n",
+        "8. O-O d5": "Alternatief voor wit is om aan te sturen op een lange rochade met 8. H3, gevolgd door 9. Le3 en 10. Dd2. ",
+        "9. Bd3 Bg4 10. h3 Bxf3 11. Qxf3 Nd7 12. f5 Qb6": "Db6 cre\u00ebert een tegendreiging, 13\u2026. Pxe5. Voor de volgende zet van wit, Df2 is geen goed alternatief\n",
+        "13. Qf2 Nc7 14. a4 a5": "A5 moet wel, het net om de dame sluit zich na  bijvoorbeeld 14\u2026.Tad8, 15. A5 Db4 16. Ta4. Alternatief is bijvoorbeeld 14\u2026. C5, 15. A5 Dc6\n",
+        "15. b3 Na6": "B3 gooit de diagonaal g7 \u2013 a1 open. Dus had Chris kunnen denken aan een offer: 15.  \u2026.Pxe5! 16. dxe5 Dxf2 17. K x f2 18. L x e5 L d2 met goede compensatie voor zwart\n",
+        "16. Ba3 Nb4 17. Rad1 Rac8": "Had zwart hier niet beter de gevaarlijke loper op d3 kunnen ruilen? Met dit stuk krijgt hij later een hoop last\u2026.\n",
+        "18. Ne2 Rfe8": "De laatste zet van zwart maakt de weg vrij voor de aanval op f7",
+        "19. fxg6 fxg6 20. Qf7+ Kh8 21. Kh1 Qd8": "Kh1 moet! Want Pxe5! Dreigt na meteen Pf4. De vraag is of Pf8 niet een betere zet is voor zwart als het gespeelde Dd8?",
+        "22. Bxb4 axb4": "Eerst verhinderen dat de loper op d3 wordt afgeruild",
+        "23. Nf4 Rf8": "De verwikkelingen na de alternatieve verdediging 23\u2026. Pf8  zijn complex. Nog eens naspelen",
+        "24. Nxg6+ hxg6": "Het paard offer dat de partij beslist",
+        "25. Qxg6 Rxf1+ 26. Rxf1 Qg8": "26\u2026 Pf8 of Pf6 helpt niet meer, 27. Tf1 x paard",
+        "27. Qh5+ Bh6": "1-0\nanalyse Jan Brinkman."
+    },
+    "url": "https://gameknot.com/annotation.pl/onderlinge-comp-13-01-2017-ronde-15?gm=62451",
+    "gameName": "Onderlinge comp 13-01-2017 ronde 15",
+    "players": "Jan Brinkman (1736) vs. Chris Draijer (1745)",
+    "opening": "Pirc (B09), Austrian attack"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "I will annotate a newly played game of mine!",
+        "1... c5 2. Nf3 d6": "Sicilian Defense.",
+        "3. c4 Nc6 4. h3 Nf6 5. d3 e5 6. Nc3 Nd4 7. Bg5 Be7 8. Nxd4 cxd4 9. Ne2 O-O": "Black is castling Kingside. Whites castling is delayed, at least three moves left.",
+        "10. Ng3 Nd5 11. Bxe7 Nxe7 12. Be2 b6 13. O-O": "White is also castling Kingside.",
+        "13... Bb7 14. f4": "? Maybe better for White to play on the queenside in this position?",
+        "14... f6 15. f5": "Weakens the f-file.",
+        "15... a5 16. a4 Nc6 17. Bh5 Nb4 18. Be2 Kh8 19. Bf3 Rb8": "Slow manouvering. ",
+        "20. Bh5 Bc6 21. Be2 Qe8 22. Nh5 Qe7 23. b3 Be8 24. Ng3 Bd7 25. Rf2 Rfg8 26. Bh5 g5 27. fxg6 e.p. hxg6 28. Be2 Kg7 29. Qd2 Rgh8 30. Raf1": "A little threat! Doubling the Rooks on the f-file.",
+        "30... Rbf8 31. Bd1 Qd8 32. Ne2 Qc8": "threatening the h3-pawn. White must prevent this!",
+        "33. Rf2f3": "I had made Kh2 instead.",
+        "33... Rxh3 34. Rxh3 Bxh3": "White can\u00b4t take this Bishop, because it will opens up the g- and h-files in front of the Black King.",
+        "35. Rf3 Be6 36. Ng3 Na6 37. Nh1 Qc5 38. Rg3 Qb4 39. Qe2": "Maybe it would be better to exchange Queens and eliminate most of the pressure?",
+        "39... Rh8 40. Nf2 Nc5": "Slow maneuvering.",
+        "41. Qc2 Qe1#": "A miss there of White. If White had played properly here in the endgame, I think it would probably end with a draw!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=59535",
+    "gameName": "Team match",
+    "players": "alfonsocarlos (1570) vs. haratta (1568)",
+    "opening": "Sicilian (B50)"
+}

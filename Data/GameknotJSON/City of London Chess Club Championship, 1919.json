@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5": "(GT) One of the objects of Black's method of defense is to attack White's QN doubly by ... N-K5, followed by ... PxP. but 7 N-Q2 is probably a strong way to meet this threat. (JC) This method of defense often leaves Black with 2 B's against B and N, which in a general way constitutes an advantage.",
+        "7. Bxf6 Nxf6 8. a3 Ne4 9. Qb3 Be7": "(JC) This is not the logical place for the B, which should have been posted at Q3.",
+        "10. Bd3 Nxc3 11. bxc3 dxc4 12. Bxc4 Bf6": "(GT) I did not want White's Knight to come to K5, from where I could not dislodge it by ... P-KB3 without weakening my KP. (JC) If Black had played ... B-Q3 initially this threat would already have been guarded.",
+        "13. O-O": "(JC) The alternative was P-K4, followed by P-K5 and then O-O. White would then assume the initiative but would weaken his Pawn position considerably, and might be compelled to stake all on a violent attack against the King.",
+        "13... O-O 14. e4 e5 15. d5": "(GT) White might play 15 KR-Q1, keeping the option of breaking up the center later on. I wanted him to advance this Pawn as there is now a fine post for my B at QB4.",
+        "15... Qc7 16. Bd3": "(GT) This seems wrong, as it makes the development of Black's Q-side easier. At present he cannot play ...P-QN3 because the reply PxP followed by B-Q5.",
+        "16... b6 17. c4 Bb7 18. Rfc1": "(GT) With the idea of QR-N1 and P-B5. But it only compels Black to bring his B to QB4, which he would do in any case.",
+        "18... Be7 19. Rc2 Bc5 20. Qb2 f6": "(JC) Black's play hereabout is weak; it lacks force, and there seems to be no well-defined plan of attack. It is true that these are the most difficult positions to handle in a game. In such cases a player must conceive a plan on a large scale, which promises chances of success, and with it all, it must be a plan that can be carried out with the means at his disposal. From the look of the position it seems that Black's best chance would be to mass his forces for an attack against White's center, to be followed by a direct attack against the King. He should therefore play ... QR-K1, threatening ... P-KB4. If White is able to prevent this plan, then once Black has fixed some of the White pieces on the K side he should quickly shift his attack to the Q side and open a line for his Rooks, which once they enter into action should produce an advantage on account of the great power of the two Bishops.",
+        "21. Rb1 Rad8 22. a4 Ba6 23. Rd1": "(GT) White has clearly lost time with his Rook's moves.",
+        "23... Rfe8 24. Qb3": "(GT) To bring the Queen across after N-R4 and B-K2.",
+        "24... Rd6 25. Nh4 g6 26. Be2 cxd5": "(GT) I thought this exchange necessary here, as White is threatening to play his Bishop via N4 to K6. If he retook with the BP I intended to exchange Bishops and rely on the 2 pawns to 1 on the Q-side. I did not expect him to retake with the KP, which seemed to expose him to a violent K-side attack. (JC) Black's judgment in this instance I believe to be faulty. Had White retaken with the BP, as Black expected, Black would have had the worst of the Pawn position, as White would have had a passed Pawn well supported on the Q-side. Black's only advantage would lie in having a very well posted Bishop against a badly posted Knight. If Black had played 26... B-B1, he could have replied to 27 Q-N3 with 27... PxP, preventing 28 BPxP? on account of 28... BxP ch winning the Exchange.",
+        "27. exd5 e4 28. g3 e3": "(JC) I do not like this move. It blocks the action of the powerful B at QB4 and tends to make White's position safer than it should have been.",
+        "29. f4 Bc8 30. Nf3 Bf5 31. Rb2 Re4 32. Kg2 Qc8 33. Ng1 g5": "(GT) if now 34 B-B3 PxP 35 BxR BxB ch with a winning attack.",
+        "34. fxg5 fxg5 35. Rf1 g4": "(JC) ... R-R3 was the alternative. White's only move would have been K-R1. The position is now evidently won for Black, and it is only a question of finding the right course. The final attack is now carried on by Sir George Thomas in an irreproachable manner.",
+        "36. Bd3 Rf6 37. Ne2 Qf8": "(GT) Again preventing BxR, by the masked attack on White's Rook. White therefore protects his Rook. (JC) If 38 N-B4, Black has has 38... P-K7! 39 NxP RxN ch 40 RxR B-K5 ch!! 41 BxB (best) RxR and White is lost.",
+        "38. Rbb1 Qh6 39. Qc2": "(GT) Making a double attack on the Rook -- which still cannot be taken -- and preparing to defend the KRP. (JC) If either the Rook or Bishop are taken White would be mated in a few moves.",
+        "39... Qh3+ 40. Kh1 Rxc4": "(GT) if 40... R-R3 41 N-N1 QxNP 42 Q-KN2. Black therefore tries to get the Queen away from the defense.",
+        "41. Qxc4": "(GT) The best defense was 41 RxB, but Black would emerge with Queen against Rook and Knight.",
+        "41... Bxd3": "(GT) Not ... R-R3 because of P-Q6 dis ch.",
+        "42. Rxf6": "(GT) if QxB, then at last ... R-R3 wins.",
+        "42... Bxc4 43. Nf4 e2": "(GT) The Queen has no escape, but White has no time to take it.",
+        "44. Rg1 Qf1": "(JC) White resigns. A very fine finish."
+    },
+    "url": "https://gameknot.com/annotation.pl/city-of-london-chess-club-championship-1919?gm=52005",
+    "gameName": "City of London Chess Club Championship, 1919",
+    "players": "F. F. L. Alexander  vs. Sir George Thomas ",
+    "opening": "Queen's pawn game (D02)"
+}

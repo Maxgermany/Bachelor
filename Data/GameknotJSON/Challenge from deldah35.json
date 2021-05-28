@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Team rating test, standard kings pawn!",
+        "1... e5 2. Nf3": "always a standard... develop while threatening my free pawn.",
+        "2... d6": "protection of course, and opening the files for my bishops.",
+        "3. d4": "starting the battle a little early? is it a bad thing? generaly i found that true but in this case, lets see....",
+        "3... Nc6": "the pawns no big deal, i need to develop.",
+        "4. dxe5": "pawn graber",
+        "4... Bg4 5. exd6": "another pawn grabed.",
+        "5... Bxd6": "DEAD pawn grabing pawn! and asisted in development",
+        "6. Bb5": "Knight pin. what will i do? what would you do?",
+        "6... Nf6": "Develop!",
+        "7. e5": "opps!!!! why did i not see that???? but its ok.",
+        "7... Be7 8. Qxd8+ Rxd8": "queen swaping, always fun.",
+        "9. exf6": "here comes another pesky pawn.",
+        "9... Bxf6": "now im down, pawns still look good, but yet im still down two pawns and a knight.",
+        "10. Bxc6+ bxc6": "so much for nice pawns.",
+        "11. Bf4": "you looking for ANOTHER free pawn??",
+        "11... Bd4": "just trying to make up some ground.",
+        "12. Bxc7": "he dont bite, but takes the pawn... nows its time to advoid the dark squares.",
+        "12... Rd7 13. Be5": "hummm... free bishop? thank you!",
+        "13... Bxe5": "now im donw only a pawn, looking much better.\r\n\r\nNotice neither one of us has castled..this cant be good for one of us soon.\r\n\r\n",
+        "14. Nxe5": "looks like a nice rook/bishop pin....think again, its bait!",
+        "14... Rd1#": "i felt totaly at a disadvantage, but i had to play a good game, and Deldah35 was a great player also!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-deldah35?gm=5491",
+    "gameName": "Challenge from deldah35",
+    "players": "deldah35 (1404) vs. beresford13861 (1294)",
+    "opening": "Philidor's defence (C41)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nf3": "I opened with the Reti, which my opponent claimed was his least favorite opening.  However, Black can usually transpose to many different lines.",
+        "1... d5": "He was probably hoping for a Queen's Pawn transposition, but I won't give it to him.",
+        "2. b3": "The Nimzovich-Larsen attack",
+        "2... c5 3. e3 Nf6": "Black gets his \"Battle Donkey\" in the mix.  Battle Donkey is a copyrighted phrase by fredmcgriff, so I'll have to pay him a royalty now, which is unfair because he has a lot of money and I don't.",
+        "4. Bb2": "I fianchetto my dark square bishop, because I want to mount a heavy Queenside attack.",
+        "4... e6": "e6 clears the way for his dark square bishop, which should lead to quick castling.",
+        "5. c4 Bd6": "He clears his bishop and is looking good in my opinion.  I'm glad he chose not to exhange pawns early, because the c4/d4 area becomes the focus of my attack.",
+        "6. Be2 O-O": "As expected he castles.  fredmcgriff calls this Krystals, while when White Castles he calls it... White Castle.  Either way, I agree with him that those little burgers are extraordinary.  I'm from the South, so Krystals rules.  ",
+        "7. O-O": "Harold and Kumar, another copyrighted phrase by fredmcgriff.  Man it is expensive to annotate a game these days!",
+        "7... Nc6 8. cxd5": "I force the issue in the center now, because I want to open up an attacking line for my light square bishop over on the queen side and Bb5 is looking like a good destination.",
+        "8... exd5 9. d4 b6": "I think he should have exchanged pawns here, but he chose to fortify his pawn on c5 instead.",
+        "10. Nc3 Bb7": "Black fianchettoes his bishop, and his bishop pair has good angles on my king now.",
+        "11. Rc1": "I think this was the key move for me.  I was expecting his next move to be cxd4, so this move was to deter Qc7, which ironically gets played later and proves this move to be sound.",
+        "11... Re8": "Again, I think cxd4 would have been better, but what do I know.",
+        "12. Bb5": "Now my bishop is on an excellent attacking square which now happens to be inline with Black's rook.  Now he has to wait to take d4 or at least reinforce his knight...",
+        "12... Qc7": "Which he does with Qc7, however I now have all the ammo I need in the area to mount my attack.",
+        "13. dxc5": "Now Black has to recapture, but either way he does, my next move will be...",
+        "13... bxc5 14. Nxd5": "Nxd5, again he is practically forced to recapture or move his queen.\r\n",
+        "14... Qa5": "He chooses to move the queen, but does so to a bad square in my opinion.  This move loses another piece.",
+        "15. Nxf6+ gxf6 16. Qxd6 Qxb5 17. Qxf6": "And now I am up another pawn, but more importantly I have a mating solution (I actually had one after Qxb5).",
+        "17... Kf8 18. Ng5 Ne5 19. Bxe5": "And Black resigned.  Possible continuations are Qxf1 , 20. Rxf1 Bd5 21. Nh7  Kg8 22. Qg7#; Thanks to my opponent for being a good sport."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-ralbama1?gm=17074",
+    "gameName": "Challenge from ralbama1",
+    "players": "ralbama1 (1590) vs. GK NN (1544)",
+    "opening": "Reti (A06), Nimzovich-Larsen attack"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 g5": "Recently, I decided that openings are pointless. In which, I decided to embark on the quest of proving that. Here we go.",
+        "2. d4 d5": "I decided I needed to contest the center immediately here before I get completely over run by white pieces.",
+        "3. Bxg5 h6": "Well, I figure, at least i'll have a semi open g file that my rook can control. I really have no idea what I'm doing, I played it on a whim.",
+        "4. Bh4": "The bishiop is rather powerful here, preventing me from developing my e pawn",
+        "4... dxe4 5. Bc4": "I like the idea of Nc3 for white here. White already has a pawn advantage and a more solid structure, he should take advantage.",
+        "5... Nf6 6. c3": "It's hard to fathom this move, I cannot understand it. Oh well though I figured, I need all the help i can get.",
+        "6... Rg8 7. g3": "I expected the moves rather to be 7. Qb3 Rg7 8. Ne2 ",
+        "7... Nbd7": "Linking the knights in case of Bxf6",
+        "8. Nd2 Nb6": "I attempt to create my own space and create some sort of counter attack",
+        "9. Bb3 Bf5 10. Qe2 Qd6": "Being careful if white plays Bxf6",
+        "11. Bxf6": "And there it is. Castling queenside I believe would be better for white for now. White's bishop seemed to be a little better than black's knight",
+        "11... Qxf6 12. Nxe4 Qc6": "Pinning the knight and attempting to turn the aggression around. I feel as if I've finally reached equality...at least roughly.",
+        "13. f3 Bg7": "Focusing my pieces queenside",
+        "14. g4 Bh7 15. Nc5 Bf6 16. h4 Rxg4": "White forgot the pawn is pinned. ",
+        "17. d5": "A horrible mistake on white's part. At the time I felt as if, before this move, I finally had the advantage, but looking now with proper play white should still be winning. 17. fxg4 Qxh1 18. 0-0-0 Qxh4 19. Nf3 Bg5 seems to keep white's initiative.",
+        "17... Bxh4+ 18. Rxh4": "Alternatively, white can try to get the most he can for his queen. 18. Kf1 Qxc5 19. fxg4 Bd3 20. Rxh4 Bxe2+ 21. Nxe2 Nxd5 22. Nd4 Ne3",
+        "18... Rxg1+ 19. Kd2 Qxc5 20. Rxg1 Qxg1 21. Rg4 Qb1 22. Qb5+": "White attempts to get some sort attack going to force my queen out of the picture, but it's too late. White's king is in a mighty amount of dange",
+        "22... c6 23. dxc6 Rd8+ 24. Rd4 Qxb2+": "White ran out of time at this point, but his position was pretty hopeless. The conclusions I've been drawing from playing odd openings is, openings really are pretty insignificant. Although one may come into the middle game with a slight disadvantage solid knowledge of the middle game and especially that of the endgame will level things out. I'll leave the opening knowledge to the masters."
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-theory-who-needs-it?gm=38950",
+    "gameName": "Opening theory, who needs it?",
+    "players": "I forget (1900ish) vs. Vincerino (1941)",
+    "opening": "Reversed Grob (Borg/Basman defence/macho Grob) (B00)"
+}

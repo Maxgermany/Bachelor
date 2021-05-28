@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. Nf3": "This is a training game of team Synergie.",
+        "1... d5 2. g3 Nc6 3. Bg2 e5 4. d3 Nf6": "(brulla) I decided to reinforce the center with Nf6. Prompt e4 leads to something like 4....e4 5.dxe4 dxe4 6.Qxd8  Nxd8 7.Ng5 f5 8.0-0  = to my opinion.\r\nNow 5.0-0 look sensible to me. We could try, what happens after 5....e4.",
+        "5. O-O": "(zombigar) 5.....0-0 is what I would normally do. I anticipate you moving out that bishop to c5 or d6. Then I would look to move 6......NbD2",
+        "5... Bc5": "(brulla) I have checked on chessbase: there are 1,475 games with the position after 5.0-0. \r\nBc5 is a move that caused me trouble in some games (or better: my bad aswer caused the trouble). It covers the squares e3 and f2, that can be attacked once more by Ng4. \r\nNbd2 is still critical in my opinion, there are still 112 games using this move, though. 47 games won by white. In the games won by black, e4 becomes frequent after Nbd2. It is then often played after black's kingside castling.",
+        "6. Nbd2": "(brulla) This move still is premature.",
+        "6... e4": "(brulla) OK, here we go. Maybe we can find a strong reply for white. \r\nMy opinion is still that the squares e3 and f2 are weak in the white camp. Please note, that neither d4 nor Nb3 are possible here because white will stay one piece behind (for a pawn) after the exchanges.",
+        "7. Ng5": "(zombigar) I'm thinking of moving out the king's knight to safer ground, if you threaten him with your queen I will open the bishop diagonal to defend him.\r\n(brulla) We have now reached a heavily tactical position. Characteristic for me is that \r\nyour Ng5 is not protected, the Nd2 still blocks the view of Bc1 to e3 and my pawn on e4 is quite advanced, looking to e3. I am pondering now the following possibilities: \r\nA) 7...e3 8.fxe3 Bxe3  9.Kh1 Bxg5 -  \r\nA1) 8.Ndf3 exf2  9.Kh1 h6 10.Nh3 Ng4 =  \r\nB) 7...Bxf2  8.Rxf2 (8.Kxf2? Ng4  9.Kg1 Ne3 10.Qe1 and the knight looks to c2, can support the pawn advance to e3... =  at least \r\nC) 7...h6 8.Nh3 (protects f2, so this move is also valuable in one variation above...maybe) e3 9. Nb3 exf2  10. Nxf2 Bb6 = \r\n",
+        "7... Bxf2+ 8. Rxf2 Ng4": "(brulla) Now I am attacking your unprotected knight on g5 and the rook on f2. The square on e3 is still vulnerable. My idea would be that you move the knight on d2 away, in order to free the bishop c1.",
+        "9. Ndxe4 dxe4 10. Rf4 Qd4+": "(brulla) I think 10.Rf4 was a very good move! It might prove 7....Bxf2  as over-zealous.\r\n(brulla) On second thought, 10.Rf4 was just the best of all bad moves, but\r\nwhite really has no big choice anymore.",
+        "11. Kf1": "(brulla) 11. e3 Nxe3 12. Bxe3 Qxe3  13. Kh1 might have been more advisable than the actual continuation.\r\n",
+        "11... Nxh2+ 12. Ke1 Qg1+ 13. Kd2": "(brulla) This loses the queen, but the other alternatives are no fun either:\r\nA) 13. Rf1 Nxf1 14. Bxf1 Qxg3  15. Kd2 e3  16. Kc3 Qxg5 - \r\nB) 13. Bf1 Nxf1 14. Rxf1 Qxg3  15. Rf2 e3 16. Bxe3 Qxe3 17. Ne4 -  seems to be the variation with the least loss of material, but white's position is bad.\r\n\r\n",
+        "13... e3+ 14. Kc3 Qxd1": "White resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/go-for-kia?gm=12000",
+    "gameName": "Go for KIA!",
+    "players": "zombigar (1581) vs. brulla (1625)",
+    "opening": "Reti (A07), King's Indian attack (Barcza system)"
+}

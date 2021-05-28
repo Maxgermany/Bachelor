@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. O-O Nf6 6. e5 Ng4 7. Bf4 O-O 8. h3 Nh6 9. Bxh6 gxh6 10. c3 dxc3 11. Nxc3 d6 12. exd6 Qxd6 13. Nd5 Bf5 14. Re1 Bg6 15. Qd2 Rad8 16. Qxh6 Bxf2+ 17. Kxf2 Qc5+ 18. Ne3 Rfe8 19. Rac1 Qf8 20. Qf4 Rd7 21. Bb3 Nb4 22. Rcd1 Red8 23. Ne5 Rd7d6 24. Nxg6 hxg6 25. Qxb4 Rf6+ 26. Kg1 Qxb4 27. Rxd8+ Kg7 28. Rdd1 Qf4 29. Kh1 Qg3 30. Bd5 b6 31. Ng4 Rd6 32. Ref1 f5 33. Nf2 Qe5 34. Bb3 Qe2 35. Rde1 Qxb2 36. Re7+ Kf6 37. Rf7+ Kg5 38. Rxc7 Rd2 39. Kg1 Kf4 40. Nd3+": "Fork! winning the Queen ",
+        "40... Kg3": "...but black has one desperate plan left",
+        "41. Nxb2": "??  White misses forced mate in four with 41. Rf3   Kh4  42. Rh7   Kg5  43. Rg3   Kf6  44. Rf7#. I made this move at work thinking its never a bad move to take a Queen.",
+        "41... Rxg2+": "1/2 - 1/2  With his last piece black earns a draw by perpetual check.  gg",
+        "42. Kh1 Rh2+ 43. Kg1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/53rd-gk-tournament?gm=21375",
+    "gameName": "53rd GK tournament",
+    "players": "dpo64 (1566) vs. rudhenlau (1595)",
+    "opening": "Giuoco Piano (C50)"
+}

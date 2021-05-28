@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "This game shows how I crushed a master who didn't take me very seriously, he overextended his position and totally neglected his king safety. He was probably  having a bad tournament, because I have never seen a master lose like this before.",
+        "1... d5": "I usually don't like playing symmetrically against an opening move that I don't play as White, but at the time I couldn't find a better response. Now I am starting to like the sharp 1...c5.",
+        "2. c4 dxc4": "Normally White gets an edge in Queen's Gambit Accepted lines, but for those who don't want to study the complicated lines of Slav, QGA gives black an easier time finding good moves, but White can get a slight advantage if he knows what he is doing",
+        "3. e4": "I think this is too overextensive right now, most players play Nf3 or e3.",
+        "3... e5": "Immediately striking at the overextended centre",
+        "4. dxe5": "White neglects his king safety here, and wants to go into an endgame where he  thinks he should be able to hold the e5-pawn, and that I shouldn't be able to hold the c4-pawn",
+        "4... Qxd1+ 5. Kxd1 Nc6": "Bxc4 Nxe5 seems pretty equal to me, but White further overextended his position trying to hold the e5-pawn, which is a big mistake, especially since he has a misplaced king and I will get a huge lead in development",
+        "6. f4": "White has extended all his pawns, but has no pieces developed to back them up",
+        "6... f6": "Still, taking c4 and letting me get the e5-pawn should be White's best play, but White took f6 giving me a lead in development, still thinking that he would get an advantage if he wins the c4-pawn ",
+        "7. exf6 Nxf6 8. e5": "Further overextention of the position trying to hold this pawn, but this severely weakens the b1-h7 diagonal for my bishop, which is what led to my tactical crush.",
+        "8... Ng4 9. Nh3": "White has many weaknesses in his camp that he has to defend, and my active pieces will soon infiltrate",
+        "9... Be6": "defends c4. My lead in development is only temporary, but White's space advantage is permanent, I cannot let him win the c4-pawn quickly, or he can catch up in development and his space advantage will be strong.",
+        "10. Na3 O-O-O+": "Going all out to defend the c4-pawn is not worth it, I am focused on taking advantage of my lead in development and White's oddly placed king. Where is the king going to run? the e2 and e1 squares can be attacked by Bb4  or Nd4  so Kc2 is safest here, but my superiorly developed pieces just annihilated him here, the rest of the moves of the game were all checks.",
+        "11. Kc2 Bf5+": "Had White not advanced all 4 of his central pawns, he would have pawns to block checks like this, but since he has so many weaknesses, my pieces are free to infiltrate.",
+        "12. Kc3 Bb4+": "The king is forced to take the pawn White wanted so badly to win, but being up a pawn now is pretty meaningless. White's king is surrounded by my fully developed army, now I just need to find a mate",
+        "13. Kxc4 Be6+ 14. Kb5": "Here a6  Ka4 b5  forces white to sacrifice a piece for two pawns, but there is no mate, so a6  is not a good move.",
+        "14... Rd5+": "better to continue the infiltration of my awesomely placed pieces. White cannot possibly survive this.",
+        "15. Kc4": "If Ka4 then Ra5#",
+        "15... Rc5+": "Kicking the poor king around with a double check. I have to find a mate here, otherwise White's king escapes with a free pawn and a space advantage, while my lead in development will die down.",
+        "16. Kd3 Bf5+": "But thankfully I had found a mate now, all the moves were forced.",
+        "17. Ke2 Nd4+": "Just look at my annihilating pieces, and White's horrible king and horribly placed knights.",
+        "18. Kd1 Ne3+": "The sacrifice needed to clear up the g4-square for mate, White is helpless.",
+        "19. Bxe3 Bg4+": "White resigned here, since Be2 Bxe2 is mate, maybe this master should think twice before overextending his position just to win a pawn, and to take lower rated players more seriously."
+    },
+    "url": "https://gameknot.com/annotation.pl/infiltration-of-pieces-in-overextended-position?gm=11926",
+    "gameName": "Infiltration of Pieces in Overextended Position",
+    "players": "Hans (2216) vs. Me (1967)",
+    "opening": "QGA (D20), 3.e4"
+}

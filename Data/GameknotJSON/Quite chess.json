@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O": "The exchange Rui Lopez. Threatening the e5 pawn.",
+        "5... Bg4": "? Black has a double pawn but the 2 bishops. The main move is f6",
+        "6. h3 Bh5": "? Now e5 falls.",
+        "7. g4 Bg6 8. Nxe5 Qd4 9. Nf3": "! e4 can't be taken due Re1",
+        "9... Qc5 10. d3": "? Much better would be d4!",
+        "10... O-O-O 11. Nbd2 h5": "! this give black counterplay.",
+        "12. Nh4 Bh7 13. Nb3 Qe5 14. f4 Qb5 15. f5 hxg4 16. Qxg4 Kb8": "? Kf6! blocking the f pawn and attacking the Queen.",
+        "17. Bf4 Nf6 18. Qf3 Rg8 19. Kh1 Be7 20. Rfg1 c5 21. a4 Qd7 22. Bg5 Ne8 23. e5 Bxg5 24. Rxg5 Qd5 25. Qxd5 Rxd5 26. Re1 f6 27. Rh5 Rh8": "? Now black losses. g5! can resist some more time.",
+        "28. Ng6 fxe5 29. Nxh8 Bg8 30. Ng6 Nf6 31. Rh8 Rd8 32. Nxc5 Bd5+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/quite-chess?gm=62083",
+    "gameName": "Quite chess",
+    "players": "fcasarra (1826) vs. tpozz (1535)",
+    "opening": "Ruy Lopez (C69), exchange variation, Alapin gambit"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "C89, The Marshall Attack with 13.d3 (or 12.d3 as the two moves often prove interchangeable) is considered to be a good option for White to the usual 12.d4 Bd6 main lines.  ",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5": "Black can \"chicken\" out here with 8...d6 and avoid the very tactical Marshall Attack.",
+        "9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Re1 Bd6 13. d3": "A standard position.",
+        "13... Bf5": "This is probably a good try against 13.d3.",
+        "14. Qf3": "Two options for White would be 14.Nd2 and 14.Bxd5.",
+        "14... Qf6": "Note that 14...Qh4 was chosen by Carlsen at Wijk aan Zee 2016 versus Wei and ended in a draw after White's 44th move.  The game move 14...Qf6 was not well regarded by my opponent in our post game discussions.  Nevertheless, despite Jan's protestations to the contrary, I think the move is playable and not very damaging to Black's position.  There is coverage of 14...Qf6 in Victor Bologan's on page 282 of the New in Chess publication \"Bologan's Ruy Lopez\", which is a Black side repertoire book.  However there is noner in David Vigorito's somewhat older \"Understanding the Marshall Attack\" (2010).  If you ever wonder who needs a good database you have an answer.  My guess for a good alternative to 14...Qf6 would lead to 14...Rfe8 which John Nunn and Tim Harding analyze to a \"drawn\" ending in their seminal \"The Marshall Attack\" (Batsford, 1990) on page 108.  Again no coverage of 14...Qf6. Nunn-Harding state 14..Qd7 is bad based on Smagin - Geller, Moscow GMA 1989.  I did no research to see if their assessment has been overturned.  A point ripe for home analysis! ",
+        "15. Bxd5": "15.Nd2 is the alternative here.",
+        "15... cxd5 16. Bf4": "Okay, this game is part of a thematic tournament.  I want to experiment a little WITHOUT using a chess engine.  Usual is this move or 16.Be3, but next move....",
+        "16... Rfe8": "Appears to be untried in this position.  Bologan likes 16...Bxf4 and analyzes to an end game which he considers slightly better for White.",
+        "17. Nd2 Bxf4": "Stockfish 7 in the post mortem suggests 17...Bf8 as best.  Perhaps 17...d4 is interesting too?",
+        "18. Qxf4 Bxd3 19. Qxf6 gxf6": "Black's compromised pawn structure will probably be a long term liability.",
+        "20. Nf3 Be4 21. Nd4 Re5": "Black still dreams of the attack...",
+        "22. Re2 Rae8 23. Rae1 Kh8": "Perhaps 22..Kh8 and then 23...Rg8.  Basically Black is a tempo too slow.",
+        "24. f3": "White proves the Black offensive is too slow.",
+        "24... Bg6 25. Kf2 Re5xe2+": "Maybe 25...Bd3 is more hopeful.",
+        "26. Rxe2 Rxe2+ 27. Kxe2 Bb1 28. a3 h5 29. Nc6 Bf5 30. Nb4 a5 31. Nxd5 Kg7 32. Ke3": "The White King appears fully able to penetrate the Queenside and capture the pawn island to force a victory rather quickly.  The GK computer gives Black up for lost at 14...Qf6, but there is more to the position.  Analysis of the game with a better chess engine might prove interesting."
+    },
+    "url": "https://gameknot.com/annotation.pl/a50tangos-mini-tournament-xvii-ruymarshall-gambit?gm=61196",
+    "gameName": "a50tango's mini-tournament XVII RuyMarshall Gambit",
+    "players": "piskuntal (1881) vs. a50tango (1814)",
+    "opening": "Ruy Lopez (C89), Marshall counter-attack, 11...c6"
+}

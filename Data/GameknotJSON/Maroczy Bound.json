@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Be7 5. Nc3 Nbd7 6. e3 O-O 7. Rc1": "The usual move here, preventing Black from playing ...P-B4 and freeing his game. ",
+        "7... Re8 8. Qc2 dxc4": "8... P-B3 was better. ",
+        "9. Bxc4 c5 10. O-O cxd4 11. Nxd4 a6 12. Rfd1": "White's command of the open QB and Q files is very threatening. ",
+        "12... Qa5 13. Bh4 Ne5 14. Be2 Ng6": "14... Kt-B3, defending the threatened Q-side, was the correct choice. ",
+        "15. Bg3 e5 16. Nb3 Qc7 17. Qb1": "Gaining a tempo by the threatened discovery on the Black Q. ",
+        "17... Qb8 18. Bf3": "Both Queens are at QKt1, but Black's is obstructing his QR. ",
+        "18... Qa7 19. Na5 Bb4 20. Nc4 Bd7 21. Nd5": "Threatening to win the Exchange with Kt-B7. ",
+        "21... Nxd5 22. Bxd5 Be6 23. Qe4": "Centralizing the Queen beautifully. ",
+        "23... Bxd5 24. Rxd5 Rac8": "To prevent White from winning material with KtxP. ",
+        "25. Rcd1 Bf8 26. b3 b5 27. Nd6": "Forcing Black's reply. ",
+        "27... Bxd6 28. Rd5xd6 Rc7": "To prevent White from playing R-Q7. ",
+        "29. h4 f6 30. Qd5+": "White begins the final attack. ",
+        "30... Kh8 31. h5 Nf8 32. h6": "The barrier of Pawns must now crumble. ",
+        "32... Ng6 33. Qe6": "If 33... RxQ White forces mate with 34 R-Q8 ch. ",
+        "33... Rf8 34. Rd6d7": "The mating threat cannot be met by exchanging Rooks, so Black's move is again forced. ",
+        "34... gxh6 35. Bh4": "Threatening 36 BxP ch RxB 37 QxR ch K-Kt1 38 Q-Kt7 mate. ",
+        "35... Nxh4 36. Qe7": "White threatens three mates (QxRP, Q-Kt7, QxR) on the move. Black cannot defend all of them, so he resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/maroczy-bound?gm=68146",
+    "gameName": "Maroczy Bound",
+    "players": "Akiba Rubinstein (GM) vs. Geza Maroczy (GM)",
+    "opening": "Queen's pawn game (A46)"
+}

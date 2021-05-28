@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 Nc6 2. e4 g6 3. d5 Ne5 4. f4": "Black loses the knight.",
+        "4... Ng4 5. Qxg4 Nf6 6. Qd1 Nxe4 7. Bd3 f5 8. Nd2 b6 9. Nxe4": "Gives me a pawn advantage as well as having an extra knight.",
+        "9... fxe4 10. Bxe4 d6 11. Be3 Bg7 12. c3 Ba6": "Not sure what Black is trying to do here. After reviewing the game, I realized that the WSB doesn't move after this, so not exactly sure what the point of this move was. ",
+        "13. Nf3 Bh6": "Black seems to be a fan of putting his bishops on the outermost ranks.",
+        "14. Bd4 Bxf4": "Black forgets that I can take the Rook.",
+        "15. Bxh8 e5": "By doing this move, Black is trying to make space for the king to move away so the queen can take my bishop, but he forgets that the king can already move diagonally to d7. ",
+        "16. dxe6 e.p.": "Taking the pawn and opening a path to take the Rook",
+        "16... Ke7": "Trying to get my bishop with the queen. At this point, I should have instead done Bxa8, which would have been a better move, but I end up taking the Rook on the next turn.",
+        "17. Bd4": "Moving my bishop away",
+        "17... Kxe6": "Black is focused on my pawn, whereas he should have done something about the rook. At this point, the rook is dead.",
+        "18. Bxa8 Qxa8 19. Qb3+ d5 20. g3 Bh6 21. Ne5": "Moving my knight into the fray",
+        "21... c5": "This is a good move for Black; no matter what I do here, I'll lose either the knight or the bishop.",
+        "22. Ng4": "Threatening Black's bishop to buy my own bishop some time to escape",
+        "22... Bg5 23. Be3": "Trying to exchange Bishops",
+        "23... Kf5": "Black decides to threaten my knight instead",
+        "24. Bxg5": "Taking the bishop",
+        "24... Kxg4": "Black takes the knight",
+        "25. Bf4 d4": "Black trying to attack the h-rank rook",
+        "26. O-O-O": "Protecting my h-rank rook from capture by the Queen",
+        "26... d3": "At this point, checkmate is inevitable. Instead of this move, it would have been better for Black to do Qe4 to try and prevent mate.",
+        "27. Qe6+": "Checking the king",
+        "27... Kf3 28. Qe3+ Kg4 29. h3+ Kf5 30. Qe5#": "Mate. In this game, Black didn't manage to fully utilize all of his pieces and didn't consider all the possible outcomes of his moves, which is an important part of the game. One thing I make sure to do is when I'm playing a game on GK, I always use the \"Analyze the board\" option and play through various outcomes before I make my move."
+    },
+    "url": "https://gameknot.com/annotation.pl/black-makes-mistakes-that-cost-him-the-game?gm=57480",
+    "gameName": "Black makes mistakes that cost him the game",
+    "players": "otakumadness (1243) vs. not saying the username (1132)",
+    "opening": "Queen's pawn (A40), Lundin (Kevitz-Mikenas) defence"
+}

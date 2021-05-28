@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1": "More common is to move the Queen to either c3 or c4.",
+        "4... Ne5 5. Be2": "Too passive.",
+        "5... Nf6 6. Bg5 Bc5 7. Bxf6": "Why? ",
+        "7... Qxf6": "The Queen went out, came back. The first Bishop stayed close to home. The second Bishop exchanged. The result is a very passive position for white.",
+        "8. f3": "Better Nf3.",
+        "8... Ng4": "Good move. White can not take because of Qf2#.",
+        "9. Nh3 Ne3 10. Qd2 Qxb2": "Now the shooting starts.",
+        "11. Qc3 Qc1+ 12. Bd1": "Why this? ",
+        "12... Nxg2+": "Better would have been Qxd1+, 13.Kf2, Qxh1.",
+        "13. Ke2 b6 14. Rg1": "Whoops. But the game is lost already.",
+        "14... Bxg1 15. Nxg1 Ba6+ 16. Kf2 Qxd1 17. Kxg2 Qf1+ 18. Kh1 Be2 19. Nd2 Qf2 20. Rf1 Bxf1 21. Nxf1 O-O-O 22. Ng3 Rde8 23. Qxg7 Kb7 24. Qxf7 Qxc2 25. Qd5+ c6 26. Qxd7+ Ka6 27. Nf5 Rhg8 28. Nd6 Qg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=67882",
+    "gameName": "Team match",
+    "players": "brucesteelrod (1154) vs. squawkbert (1135)",
+    "opening": "Centre game (C22)"
+}

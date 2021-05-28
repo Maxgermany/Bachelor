@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nf6 3. Nf3 Nc6": "The four knights game.  I was pretty sure what my opponent was going to do and I had a plan waiting for him.........my prediction was Bg5, then he would take my knight.",
+        "4. Bg5": "Just what I thought.",
+        "4... Bf5 5. Bxf6": "It may not look like it, but this move actually hampered his light-squared bishop from developing.",
+        "5... gxf6": "I think you can see what I had in mind here.  Rg8 attacking his g2 pawn and preventing his light-squared bishop from developing.",
+        "6. a3 Qd7": "In preparation for castling queenside.  Usually as black I like to castle queenside to bring my rook into the game with one less move.",
+        "7. h3 O-O-O 8. b4 e5": "If he took my pawn here then I would recapture with my f pawn so the doubled f pawns weren't really a concern of mine.  He wouldn't be able to take my pawn with his knight, then I would get a whole knight for nothing.",
+        "9. e3": "He thinks that he's protecting his d pawn.",
+        "9... exd4": "I don't really care about the pawns, I just wanted his e file open for my rook.  Then I'll have two open files for my rooks.  I know that he's going kingside because castling queenside for him would just be horrible with his pawns pushed so far up the board.",
+        "10. exd4 Rg8": "Preventing his bishop from developing.  This is the move I saw with Bxf6.",
+        "11. Nh4": "Protecting his g2 pawn and attacking my bishop while at the same time allowing his LS bishop to develop.",
+        "11... Re8+ 12. Be2 Bxc2": "My plan here was to sacrifice my bishop to get a big attack and his king and queen.  If he took here my next move would have been Nxd4 attacking his LS bishop and his queen.",
+        "13. Qd2": "He didn't go for it, so I just got a pawn for nothing.  I'm not complaining.",
+        "13... Bb3 14. O-O Qxh3": "And my attack on the kingside begins.  I'm not really threating Qxg2 checkmate.  I'm threating QxN, but he can't save the knight.  If he moves the knight then Qxg2 will be checkmate.  So his knight is lost and there's nothing he can do about it.",
+        "15. g3 Qxh4": "He can't take my queen because the pawn is pinned to his king.  This is why I didn't care if he doubled my pawns because it allowed me a big attack on the g-file.",
+        "16. Kg2 Bh6": "I wasn't really sure what to do here, so I just developed my last piece and threatened his queen, keeping all of my attacking possibilities in the air for now.",
+        "17. Qd3 Bc4": "His next few moves, I honestly didn't see and he had a real fighting chance.  I'm just glad that I was able to come away with a win here.",
+        "18. Qf5+ Kb8 19. Rfh1 Nxd4 20. Qxh7 Qf4 21. Bxc4 dxc4": "Now my random moves were over, my next move was to play Qf3 , picking off the knight.",
+        "22. Na4": "Moving the knight out of the way.",
+        "22... Qf3+": "I wasn't really sure what I was going to do here.  I was expecting something like Kh2  or Kg1 or something like that.  His move surprised me.  I didn't see what to do right away, but after I looked at the position I realized that I had won.",
+        "23. Kf1": "Do you see it?",
+        "23... Qxh1#": "Checkmate.  There's nothing he can do.  My knight and rook block his only escape square that my queen can't reach.  His queen can't take me because my bishop cuts her off.  I'm really glad that I was able to win this rematch game.  I thought that I had messed up in the middle game that gave him a chance to rebound because I wasn't sure what to do.  Again all comments are welcome."
+    },
+    "url": "https://gameknot.com/annotation.pl/rematch?gm=2670",
+    "gameName": "Rematch",
+    "players": "rblock (1457) vs. ashmal29 (1462)",
+    "opening": "Blackmar-Diemer gambit (D00)"
+}

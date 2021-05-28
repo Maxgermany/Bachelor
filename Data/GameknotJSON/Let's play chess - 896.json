@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. Nf3": "As usual I prefer e4, but it's always funny to try something new ",
+        "1... f5": "Dutch defence I think. I'm not sure it's appropriate answer to 1.Nf3",
+        "2. e3 Nf6 3. d4 e6 4. Bd3 b6 5. c4": "Does the game turn to a general dutch variation?",
+        "5... Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 d6": "Maybe unnecessary. Better is Bb7",
+        "8. O-O": "The development of White is finished now",
+        "8... Bb7": "It was time for Black to fianchetting ",
+        "9. d5": "This move breaks Black center, delays it's castling and in my opinion gives a big advantage for White. The battle starts and Black hasn't many ways to answer.  ",
+        "9... exd5 10. Bxf5 dxc4 11. Nxc4 O-O": "Almost all of white's pieces are active and hold the center of the board. Black has an nonactive Q-Knight, poor pawn structure and unpleasant opened diagonal a2-g8 ",
+        "12. Ng5 h6": "Mistake!",
+        "13. Ne6 Qd7 14. Qb3": "Good move",
+        "14... Qc6 15. e4 Re8": "...d5 is better - would close the diagonal a2-g8 and would give a chance to consolidate",
+        "16. Ne5": "Now Black has no choice - its' Queen is trapped and the Knight on e5 must be taken. ",
+        "16... dxe5": "The following combination is very popular from ages",
+        "17. Ng5+ Kh8 18. Nf7+ Kg8 19. Nxh6+ Kh8 20. Qg8+ Nxg8 21. Nf7#": "Thanks for watching"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=20835",
+    "gameName": "Let's play chess",
+    "players": "luni4av (1552) vs. ausar_amen_ra (1559)",
+    "opening": "Reti v Dutch (A04)"
+}

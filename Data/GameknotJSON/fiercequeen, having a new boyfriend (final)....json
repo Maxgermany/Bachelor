@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. Nf3 Bb4": "seen it all, before...",
+        "5. e3": "shutting off, Bc1...",
+        "5... Nf6 6. cxd5 exd5 7. Bd3 Bxc3+": "time, to simplify...",
+        "8. bxc3 Bg6 9. Bxg6 hxg6": "also standard: open up, the h-file...",
+        "10. Ne5 Nc6 11. f4 Nxe5 12. fxe5 Ne4": "not really impressed...",
+        "13. Qa4+ c6 14. Qc2 Qh4+": "ending this...",
+        "15. Kf1 Ng3+": "White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-having-a-new-boyfriend-final?gm=65243",
+    "gameName": "fiercequeen, having a new boyfriend (final)...",
+    "players": "harduf2 (1940) vs. fiercequeen (2059)",
+    "opening": "QGD (D06), Grau (Sahovic) defence"
+}

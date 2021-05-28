@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Bg5": "Unusual. 4.g3 and 4.a3 are the normal moves these days.",
+        "4... Bb7 5. e3": "White is determined to avoid having his QN pinned, but doesn't want to waste a move by playing a3.",
+        "5... h6 6. Bh4 Be7": "The more aggressive 6...g5 has yielded good results.",
+        "7. Nc3": "Now that Black has committed his bishop to e7, the time is right to develop this knight.",
+        "7... c5": "An important move in most variations of the Queen's Indian, but Black needs to be sure that White can't play 8.d5. Here Black can simply play 8...Nxd5.",
+        "8. Bxf6": "A strange move. If White wanted to exchange bishop for knight, he should have done it on move 6.\r\n\r\nWang Yue (2739)-Ivanchuk,V (2779), Nice FRA 2009, continued 8.Be2 0-0 9.0-0 Nc6 10.Bg3 cxd4 11.Nxd4 d6 12.Bf3 Qd7 with a draw in 69 moves.\r\n\r\nGelfand,B (2733)-Leko,P (2749), Monte Carlo MNC 2007, continued 8.Bd3 cxd4 9.exd4 0-0 10.0-0 Nc6 11.Rc1 d5 12.cxd5 Nxd5 with a draw in 72 moves.",
+        "8... Bxf6 9. Be2 cxd4 10. exd4 O-O 11. O-O Nc6 12. d5": "This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.",
+        "12... Ne5": "The knight doesn't look too secure here. 12...Ne7 - tempting White to play 13.d6 -  is probably better.",
+        "13. Nd4": "White embarks on an ill thought out plan when he should be completing his development.",
+        "13... Rc8 14. Ndb5": "This just loses a pawn.",
+        "14... Nxc4 15. Bxc4 Rxc4 16. d6": "Losing another pawn and the game.",
+        "16... a6 17. Qb3": "After 17.Na3 Rc6 Black wins a second pawn.",
+        "17... axb5 18. Nxb5 Rc5 19. Nc7 Be5 20. Qxb6 Bxh2+": "Well seen!! Brings the game to a swift conclusion.",
+        "21. Kxh2 Qh4+ 22. Kg1 Bxg2 23. f4 Rc2": "and mate next move."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=38355",
+    "gameName": "Let's play chess",
+    "players": "mwenyasoft (1693) vs. veracitus (1770)",
+    "opening": "Queen's pawn (A46), Torre attack"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. f4 d5 2. Nf3 Nf6 3. d4 Nc6 4. Ne5 Nxe5 5. fxe5": "Exchange of knights.",
+        "5... Ne4 6. Bf4 e6 7. Qd3 Bb4+ 8. c3 Ba5 9. b4 Bb6 10. e3 Bd7 11. Be2 Qh4+ 12. g3 Qe7 13. Bf3 O-O-O 14. Na3 Qe8 15. Bxe4 dxe4": "Exchange of pieces.",
+        "16. Qxe4": "Not a very smart move on White's part. I earn myself a Rook. This move is when we start going into the endgame.",
+        "16... Bc6": "White has to choose between the Rook and the Queen. ",
+        "17. Qd3 Bxh1": "I take my prize.",
+        "18. O-O-O Bf3 19. Rf1 Qc6": "Rather than moving my bishop out of White's territory, I instead move my Queen to protect it where it is. Later on, my queen being in this spot ends up being advantageous for me.",
+        "20. e4": "White seems to be trying to block my Bishop from retreating, but instead, he's just lost a pawn. Now my Bishop can take that pawn and not be recaptured by the Queen due to my own Queen protecting it.",
+        "20... Bxe4 21. Qe3 Bxd4": "I decide to take another Pawn. White can't recapture my Bishop with the pawn, due to the pawn being pinned by my Queen.",
+        "22. Qd2 Bxc3": "I take another pawn, again threatening the Queen. Here is when I begin to force mate: if White takes my bishop with the Queen, I recapture White's queen with my own. Checkmate is basically unavoidable now for White.",
+        "23. Qe2": "White moves the Queen out of danger. ",
+        "23... Bxb4+": "Checking the king. White has a few options: several useless interpositions by the Queen or Knight, or moving the king away. No matter which one White does, I will be able to force mate.",
+        "24. Kb2 Qc3#": "Mate. I think the key mistake in this game on White's part was move number twenty, when he moved the pawn to try and block my Bishop from leaving, but which ended up allowing me to demolish the pawn defenses around the king and open up a path for my Queen and DSB to force a mate whilst supporting each other, and my LSB to block the one escape route for the King in this situation, whereas I was able to mate because I set up an advantageous position for myself by exploiting an opening in White's defenses. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=59980",
+    "gameName": "Team match",
+    "players": "harzer (959) vs. otakumadness (1040)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

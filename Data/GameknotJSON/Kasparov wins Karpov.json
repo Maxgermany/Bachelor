@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4 O-O 9. Kh1 Qc7 10. a4 Nc6 11. Be3 Re8": "Until here, standard, \"book\" moves. The two will manouver very slowly seeking for an attack line, in a strategic display.",
+        "12. Bf3 Rb8 13. Qd2 Bd7 14. Nb3 b6 15. g4": "White has to risk some more if he wants an attack line.",
+        "15... Bc8": "Black has time to relocate his lsb on the big diagonal. ",
+        "16. g5 Nd7": "White's position seems overwhelming, while black is completely stuck on his third rank, pieces all together... normally, a losing scenario, but hey, it's Kasparov behind it. He has everything under control. The deepness of the defence is far beyond my ability to decode it. ",
+        "17. Qf2": "Attacks b6 and, indirectly, f7. And delays the bishop's run to b7. ",
+        "17... Bf8": "Now the other bishop will search for the fianchetto. Very delicate. ",
+        "18. Bg2 Bb7 19. Rad1 g6 20. Bc1": "Is Karpov protecting b2 against a future B(g7)xb2?",
+        "20... Rbc8 21. Rd3 Nb4 22. Rh3 Bg7": "Leontxo says white should have played f5 right now. \n\n23.\tf4-f5\te6-f5\n24.\te4-f5\tb7-g2+\n25.\th1-g2\tc7-b7+\n26.\tg2-g1\tc8-c4\n27.\tf5-g6\tc4-g4+\n28.\th3-g3\tg4-g3+\n29.\th2-g3\td7-e5\n30.\tg6-h7+\tg8-h8\n31.\tf2-f5\tb4-c2\n32.\tf5-c2\te5-f3+\n33.\tf1-f3\tb7-f3\n34.\tc2-f2\tf3-d3",
+        "23. Be3": "It would be a mistake trying to get the advantage on c3: \n\n23.\tc1-e3\tg7-c3\n24.\tb2-c3\tc7-c3\n25.\te3-d4\tc3-h3\n26.\tg2-h3\tc8-c2\n27.\tf2-h4\t        b7-e4+\n28.\th1-g1\td7-f8",
+        "23... Re7": "Covering f7. Now, f5 for white doesn't work anymore.\n\n24.\tf4-f5\te6-f5\n25.\te4-f5\tb7-g2+\n26.\th1-g2\tg7-c3\n27.\tb2-c3\tc7-c3\n28.\te3-d4\tc3-c2\n29.\tg2-g1\tc2-f2+\n30.\tf1-f2\te7-e1+\n31.\tf2-f1\te1-f1+\n32.\tg1-f1\tg6-f5",
+        "24. Kg1": "White is attacking, but he has some weaknesses he has to take care of. ",
+        "24... Rce8 25. Rd1 f5": "Can you imagine how deep calculations must be performed in order to be able to play this?",
+        "26. gxf6 e.p. Nxf6": "\"Kasparov entrega b6 a cambio de armon\u00eda y actividad.\" says Leontxo: Kasparov gives away b6 seeking for harmony (piece coordination) and activity. ",
+        "27. Rg3 Rf7 28. Bxb6 Qb8 29. Be3": "I won't say ?, but it seems to deserve it. The pawn costed 2 tempoes, and the white's queenside is weak. The white's attack over the black king is not going anywhere, right now. ",
+        "29... Nh5 30. Rg4 Nf6 31. Rh4": "Karpov needs to win, he cannot allow a draw. ",
+        "31... g5 32. fxg5 Ng4": "Better thank Nxe4, according to Leontxo. This move wins the c2 pawn, and eliminate one of the most active white pieces. ",
+        "33. Qe2 Nxe3 34. Qxe3 Nxc2 35. Qb6": "White is now playing against black's central pawns. ",
+        "35... Ba8": "QxQ, RxQ, Bh3! would have be the right move. Leontxo says Karpos was in time trouble here. \n\n36.\tb6-b8\te8-b8\n37.\tg2-h3\tb8-b3\n38.\th3-e6\tb3-c3\n39.\tb2-c3\tg7-c3\n40.\td1-d6\tg8-g7\n41.\te6-f7\tg7-f7\n42.\th4-h7+",
+        "36. Rxd6 Rb7 37. Qxa6 Rxb3": "3 pawns for a piece would be nice, but more white pawns will fall. ",
+        "38. Rxe6 Rxb2 39. Qc4 Kh8 40. e5": "Leontxo says this is a mistake. In fact, Rb1+, NxR, QxN+, and white has a hard time defending against multiple threats. But here, the simple Ne3 seems to win. ",
+        "40... Qa7+ 41. Kh1 Bxg2+ 42. Kxg2 Nd4+": "This was actually played. I don't understand why not Ne6++, winning the queen. Maybe is there a mate somewhere. "
+    },
+    "url": "https://gameknot.com/annotation.pl/kasparov-wins-karpov?gm=34926",
+    "gameName": "Kasparov wins Karpov",
+    "players": "A. Karpov (2720) vs. G. Kasparov (2700)",
+    "opening": "Sicilian (B92), Najdorf, Opovcensky variation"
+}

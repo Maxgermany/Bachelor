@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. c4": "This was a ladder game from a significantly higher ranked player. He blundered in the middle game, which gave me some hope.\n\nAnalysis is available at http://gameknot.com/analyze-board.pl?bd=21294966&rnd=0.9512844220735133. It all starts with the English opening",
+        "1... Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bb4 5. a3 Bxc3": "All standard stuff so far though I was a little suprised that black gave up a bishop for a knight, he clearly thought it was a worthwhile exchange",
+        "6. bxc3 Nxe4 7. Qc2 d5": "This move takes us out of the gameknot database.",
+        "8. Bd3": "The computer calls this a mistake preferring 8. Be2 Nf6 9. cxd5 Qxd5 10. O-O e4",
+        "8... f5": "The computer also calls this a mistake preferring  \u2026 Nc5 9. Be2 dxc4 10. O-O Be6 11. a4 e4",
+        "9. O-O O-O 10. Qb3": "The computer calls this a mistake but I like this square for my queen, it threatens the b7 pawn and is on a nice diagonal with the black king",
+        "10... Be6": "This was a complete suprise and the computer calls it a mistake preferring \u2026 Nc5 11. Qb5 Nxd3 12. cxd5 Nb8 13. Qxd3 e4 1",
+        "11. Qxb7": "I figured I can't afford an opportunity to regain my lost material",
+        "11... Na5 12. Qb5 c6": "I was half expecting Nxc4 here",
+        "13. Qa4": "Blunder due to 13. Qa4 Nc5 14. Qc2 e4 15. Ne5 exd3 16. Nxd3 Nxd3 17. Qxd3 dxc4 18. Qc2 Nb3 ",
+        "13... dxc4": "Thankfully for me my opponent didn't see the same combination as the computer, this does however give me an opportunity to regain my lost pawn",
+        "14. Bxe4 fxe4 15. Nxe5 Qd5 16. f4 Rab8 17. Qc2 Rbd8 18. Qa4 Nb3": "The compouter says nothing about this move but I think its an oversight",
+        "19. Nxc6": "... and this is why, threatening the royal fork on e7",
+        "19... Nxa1": "This was a complete shock and is called a blunder by the computer",
+        "20. Ne7+ Kh8 21. Nxd5": "I've never been this far ahead in material against such a high ranked opponent and was starting to hope I may even get a draw out of the game if I was very careful",
+        "21... Bxd5 22. Qxa7 Nb3 23. g3 Kg8 24. a4 Rda8 25. Qd7 Rfd8 26. Qb5 Ra5": "I want to push my passed pawn but that will prove difficult",
+        "27. Qb6 Rda8 28. Qd6 Bf7 29. Ba3": "I can't recall why I made this move but looking at it now it seems a little pointless",
+        "29... Ra5a6 30. Qe7 Nxd2 31. Rd1 Re8 32. Qb7 Rxa4 33. Bc1": "My intention here was to sit my dsb on e3 but this never happened",
+        "33... Nf3+ 34. Kg2 Ra2+ 35. Bb2 Raa8 36. Rd7": "Hoping to gain more material but this move pretty much lost the game",
+        "36... Rab8": "This move pretty much sealed it for black's win, any advantage I had was now gone",
+        "37. Rxf7": "I decided grabbing material might give me a chance still of a draw",
+        "37... Rxb7 38. Rxb7 e3": "Ouch. The only consolation for me was that this is the first game ever against such a high rated player where I have been ahead in material by a significant amount and when I have resigned I have been equal on material.\n\nThanks for reading please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-lose-at-chess-pt9?gm=55309",
+    "gameName": "How to lose at chess pt9",
+    "players": "elwoos (1495) vs. frebec (2095)",
+    "opening": "English opening (A16)"
+}

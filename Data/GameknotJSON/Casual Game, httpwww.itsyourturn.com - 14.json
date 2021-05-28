@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. c4 e5": "Computers seem to think that this move gives black near equality.  However, I am not totally comfortable with it and I used to play 1. ... c5 instead.\n",
+        "2. Nc3 Nf6 3. g3": "3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 Be7 is slightly better.\n",
+        "3... c6 4. Bg2": "\n",
+        "4... d5 5. cxd5 cxd5 6. d4 exd4 7. Qxd4 Nc6 8. Qd1 d4": "Black likes to attack.\n",
+        "9. Ne4 Bb4+": "Nxe4 followed by Bb4+ is a good alternative.  So are Bg4, Bf5 and Be7.\n",
+        "10. Nd2": "10. Bd2 Nxe4 11. Bxe4 O-O Is a little better.  12. Nf3 Bh3 13. Ng5?? Qxg5\n",
+        "10... d3": "O-O and Bf5 are just as good.\n",
+        "11. e3 Bg4": "Expecting Nf3.  Castling first would be common sense.\n",
+        "12. Ngf3": "\n",
+        "12... O-O 13. O-O": "13. h3 Be6 Is slightly better.\n",
+        "13... Ne5 14. h3 Nxf3+": "\n",
+        "15. Nxf3 Bxf3 16. Qxf3 d2": "Black's little tactic.  What follows is interesting.\n",
+        "17. Rd1 Rc8 18. Qxb7 dxc1=Q 19. Rdxc1": "\n",
+        "19... a5": "Rxc1 and Bc5 are also good.  I am not particularly fond of trading pieces unless there is a good reason for it.\n",
+        "20. Rcd1 Bd2 21. Qb3 Qd7 22. a3 Rc5": "22... Rfd8  Is also good.  Black probably had lots of good choices here.\n",
+        "23. Kf1": "\n",
+        "23... a4 24. Qa2": "\n",
+        "24... Qb5+": "Rc2, Rfc8 and Qd3+ are also good.\n",
+        "25. Kg1 Rc2 26. Rab1": "Instead 26. Qb1 prevents Black's next move.\n",
+        "26... Bxe3 27. Rdf1 Qe2": "Rfc8 is also good.\n",
+        "28. Kh2": "Disastrous move in an already losing position.  This is the wrong square because it makes the king vulnerable to a check from the dark square bishop.\nAlternative variation: 28. Kh1 Bxf2 29. Rfc1 Bxg3 30. Rxc2 Survives longer. \n",
+        "28... Bxf2 29. Bd5": "29. Kh1 Bxg3 30. Rg1 Ne4 31. Rbf1 Bb8  It is hard to imagine things getting worse. 32. Qd5 Ng3+ [Or Qe3 headed to g3. ] 33. Kh2 Nxf1+ 34. Kh1 Ng3+ 35. Kh2 Ne4+ 36. Kh1 Nf2#\n",
+        "29... Bg1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=59336",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "Oldhand  vs. John Coffey, Chess Player at Lar ",
+    "opening": "English (A23), Bremen system, Keres variation"
+}

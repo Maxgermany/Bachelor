@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "This was one of my first games on GameKnot and my first game of chess in quite some time. The loose sort of plan I opened with e4 here intending to play through the Giuoco Piano opening.\n\nI know this opening inside out. It's the first one I ever learned and was among the reasons I became my high school's champion (undefeated in the tournament too).",
+        "1... e5": "Pretty standard response from black.",
+        "2. Nf3": "2. Nf3\n\nPlaces pressure on black's center pawn.",
+        "2... f6": "3.... f6?\n\nMy father would be ripping his hair out if he saw me play this. The King's Bishop Pawn is a massive weakness in either side and in the early game is strongest right where it is. This just invites a withering King side attack.",
+        "3. Nxe5": "3. Nxe5\n\nA bit of promising bait thrown in here. I always used to struggle with this when I was first learning the game. I never quite understood why, in this situation, losing a lowly pawn for the tricky knight was actually a bad deal for me. \n\nMind you. The pawn attacking the knight in these situations would have been my Queen's Pawn. I still remember the look my father would give me to this day if I so much as brushed the King's Bishop Pawn early on.\n\nI was expecting 3... Qe7",
+        "3... fxe5": "3.... fxe5?\n\nBlack's second mistake in as many moves. That king side looks awfully open to me at this point and I fully intend on ripping black open from here on in.\n\nI am a bit ruthless in my chess. If I see something, I am going for it!",
+        "4. Qh5+": "4. Qh5+\n\nHere I aim to open the game up further. 4... g6 would have been a minor inconvenience but not one that would overly concern me at this point.",
+        "4... Ke7": "4.... Ke7?\n\nNow the black king is mostly exposed.... time to turn that into completely exposed with....",
+        "5. Qxe5+": "5. Qxe5+\n\nMy Queen now issuing a charge command to her loyal troops!",
+        "5... Kf7": "He didn't have much choice here.",
+        "6. Bc4+": "6. Bc4+\n\nContinuing my development AND increasing the pressure on the black king. My aim here is to develop quickly. Take control of the board and pour in through the King side.",
+        "6... d5": "With all due respect to my opponent here.  I wonder at this point if my opponent suffers from an anxiety a lot of new players experience and expect everyone else to experience the same.\n\nThe old \"If I take that piece, he'll just take me!\" issue.",
+        "7. Bxd5+": "7. Bxd5+\n\nPoor black is really on the back foot now.",
+        "7... Be6": "7. ....Be6???\n\nHere black blundered giving me a mate next move. Better would have been 7.... Kg6\n\nEven so at this better position I would likely resign if I were black. As the game continues, white would continue developing causing many issues with any attempt by the black king to retreat to safety. Black would lose more tempo to white which would likely end the game in white's favour.",
+        "8. Qxe6#": "8. Qxe6#\n\nCheckmate. This was quite a savage game on my part it must be said, but I do not hold back. If I see it... I go for it!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=66971",
+    "gameName": "Let's play chess",
+    "players": "valifoor (1679) vs. crito79 (1037)",
+    "opening": "Damiano's defence (C40)"
+}

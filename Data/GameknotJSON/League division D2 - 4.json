@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "My favorite opening - queen gambit",
+        "2... dxc4": "Even better, accepted!",
+        "3. Nc3 Nf6 4. e4 e6 5. Bxc4": "There we go, regain the pawn with superior central development",
+        "5... Be7 6. Nf3 O-O 7. O-O a6 8. a3 b5 9. Bb3 Bb7 10. h3": "Actually, I couldn't think of a really strong move here, so i prevent the knight from holding that pesky square",
+        "10... Nbd7 11. e5 Nd5 12. Nxd5": "I hate seeing his knight so well placed",
+        "12... exd5 13. Qd3": "I've got my eye on his h7 pawn",
+        "13... c5 14. Bc2": "hoping he would think i am just avoiding the Q-B fork, but actually i'm still scheming for the h7 pawn",
+        "14... f5": "Curses, he blocked it!",
+        "15. exf6 e.p.": "Now he's got to take with knight to continue protection on h7",
+        "15... Bxf6": "Ah, he missed that.  ",
+        "16. Qxh7+ Kf7": "Now with a bit of analysis I found a great mating combo which he fell into",
+        "17. Bg6+ Ke7 18. Re1+ Kd6 19. Bf4+ Kc6 20. Re6#": "Voila! Wasn't that pretty?"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2?gm=58022",
+    "gameName": "League division D2",
+    "players": "hanasdaddy (1527) vs. bernardhgaskin (1485)",
+    "opening": "Queen's gambit accepted (D20)"
+}

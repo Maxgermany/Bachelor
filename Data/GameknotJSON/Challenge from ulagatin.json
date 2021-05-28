@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4": "Standard King's Pawn Opening",
+        "1... c5": "Sicillian Defense",
+        "2. Nf3": "Standard lines",
+        "2... d6 3. d4 cxd4 4. Nxd4 Nc6 5. Bb5": "Gains a tempo, allows White to castle, pins Black's knight to the king and threatens the knight. Threatens a fork following capture of Black's knight.",
+        "5... Nf6 6. Nxc6": "Opens an attack on Black's queen and threatens a fork on c6.",
+        "6... bxc6 7. Bxc6+": "Forks Black's King and Rook. Should be marked 7.Bxc6+!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-ulagatin?gm=31260",
+    "gameName": "Challenge from ulagatin",
+    "players": "ulagatin (1200) vs. paullovric (1335)",
+    "opening": "Sicilian (B54)"
+}

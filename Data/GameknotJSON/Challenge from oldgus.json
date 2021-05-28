@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 a6": "This is the O'Kelly variation according to Wikipedia Chess Openings. \"The idea is that 3.d4 runs into 3...cxd4 4.Nxd4 Nf6 5.Nc3 e5, when Nb5 is prevented, and Black will equalize by playing ...Bb4 and ...d5 at some point. However, after 3.c3 or 3.c4 it is unclear how 2...a6 has improved Black's position.\"",
+        "3. c4": "I looked up this move on Wiki which I'm comfortable doing versus OldGus because he doesn't mind.",
+        "3... d6 4. h3": "From here on it is sheer guess work from me.",
+        "4... e6 5. b3": "All these pawn moves are setting up what should be a long and patient game",
+        "5... Nf6 6. d3 e5 7. Bd2 Nc6": "Peeking at the d4 square with the Knight where it will eventually arrive for a brief moment resulting in some extremely peculiar pawn structure",
+        "8. Be2": "Setting up to castle as my queenside is in no condition for the King.",
+        "8... g6 9. O-O Bg7": "I immediately start thinking about trying to get rid of this fianchetto Bishop and eventually succeed",
+        "10. Nc3": "Conversely peeking at the d5 square with the Knight",
+        "10... O-O 11. Qc1": "If I can remove a fianchetto Bishop I find that it is almost always a good thing",
+        "11... b5 12. Bh6 bxc4 13. bxc4": "I actually hoped my opponent would capture 13. ... Bxh6 14. Qxh6 but he is too cagy for that. I thought dxc4 was risky as that left my e pawn rather isolated",
+        "13... Qa5": "A good place for the Queen attacking my knight and forcing me to capture with the Bishop",
+        "14. Bxg7 Kxg7 15. Rb1": "Taking control of the b file but setting up a convulted system of piece protection, Knight supported by Queen, a pawn supported by Knight, d pawn supported by Bishop",
+        "15... Be6": "Connecting the Rooks and threatening my dominance on the b rank",
+        "16. a3": "I knew that I wanted Nd5 eventually and thus need something else to protect the a pawn",
+        "16... Nd4": "The Knight cannot be allowed to occupy this outpost",
+        "17. Nxd4 exd4 18. Nd5 Bxd5": "Nor will Black accept my Knight in such a good position although the capture with the Bishop surprised me but is probably better. 18. ... Nxd5 19. cxd5 Bd7 leaves the Bishop in a poor position as compared to the Knight on f6 ",
+        "19. cxd5": "Things are very even at this point although maybe Black has an advantage with the Queen outposted in a good spot",
+        "19... Rab8 20. g4": "My hope was to drive off the Black Knight and then push the f pawn followed up by the Rook and the Queen",
+        "20... Rxb1 21. Qf4": "Obviously a huge blunder. I was playing out lines in my mind and somehow confused myself into thinking that 20. ... Rxb1 was actually a recapture and material was even at this point",
+        "21... Rxf1+ 22. Bxf1": "Now the game is essentially over although Black does an excellent job of forcing me into a position where I must trade off pieces. I always try to play out games like this for a moment because of the possibility of perpetual check",
+        "22... Rd8": "Supporting the d pawn knowing that I must push forward at this point",
+        "23. e5": "My other choice here is 23. Qc3 protecting the hanging a pawn and that might be better but 23. ... Rb8 24. Be2 Rb3 25. Bd1 Rxa3 and the pawn is doomed in any case",
+        "23... dxe5 24. Qxe5 Rxd5 25. Qe7 Qd8": "Angling to trade Queens",
+        "26. Qb7 a5 27. Qc6 Qe8 28. Qb6 Qe1 29. Qc6 h5": "There is no hope now. 30. g5 Rxg5+ 31. Kh2 Qxf1 or 30. Kh2 Qxf1 31. Qh1 Qxh1 and I have only nothing left or 30. gxh5 Rxg5+ 31. Kh2 Qxf1 32. Qh1 Qxh1. So I resigned. This would have been an interesting end game I think if I didn't blunder the Rook."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-oldgus?gm=29124",
+    "gameName": "Challenge from oldgus",
+    "players": "tomlib (1449) vs. oldgus (1627)",
+    "opening": "Sicilian (B28), O'Kelly variation"
+}

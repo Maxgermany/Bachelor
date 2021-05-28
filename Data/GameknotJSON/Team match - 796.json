@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 b6 7. Bd3 Bb7 8. Ne2 Bxg2": "I think this is a bit of a poisoned pawn. It looked like a free point, but the pressure on the black Kingside becomes quickly very threatening.",
+        "9. Rg1 Bf3": "Waste of a tempo, should have played Bb7 straight away.",
+        "10. Rg3 Bb7 11. Nf4 Ne4": "Trying to allow the Queen out, in the hope of relieving pressure.",
+        "12. Bxe4 Bxe4 13. Qg4 Qf6 14. f3 Bg6": "I felt happier here. The threats hadn't gone away, but I felt solid. I think Bf5 would have forced the exchange of Queens and would have been a better choice. It looks like I should have been able to safely hold on to the extra pawn.",
+        "15. e4 h5": "Sacrificing a pawn to relieve pressure.",
+        "16. Nxh5 Bxh5 17. Qxh5 g6 18. Qh6 Qg7 19. Bf4 Qxh6 20. Bxh6 Rc8 21. Kd2 Nc6": "White has much more advanced pawns, and much more mobility - In my efforts to swap off Kingside pressure, the game has definitely moved in white's favour.",
+        "22. Rag1 Kh7 23. Rh3 Kg8 24. Rg4 Na5 25. Kd3 c5 26. Bf4 Kg7 27. Bh6+ Kg8 28. Rgh4 f6": "Designed to prevent any nastiness with the bishop holding the h8-a1 diagonal.",
+        "29. Bf4 g5 30. Rh4h8+ Kg7 31. Rh3h7+ Kg6 32. Rh7h6+ Kg7 33. Rh8h7+ Kg8 34. Be3 d6": "Doing everything I can to hold material here. White is clearly still with a big advantage.",
+        "35. Re7 cxd4": "Aiming for e5 next move, and trying to minimise loss of pawns.",
+        "36. Bxd4 e5 37. Be3 Nxc4": "Now up by a pawn. If Rg6  must play Kh8 to prevent White taking the f6 pawn with a check. I'm unlikely to be able to avoid a draw by repetition, so it is more a case of taking enough pawns for the draw to seem like a good result for white.",
+        "38. Rxf6 Nxe3 39. Kxe3 Rxc3+": "And the pawn carnage begins ...",
+        "40. Kf2 Rxa3 41. Rxd6 Rf8 42. Rg6+ Kh8 43. Rh6+ Kg8 44. Rg6+ Kh8 45. Rh6+ Kg8 46. Rg6+": "And a threefold repetition forces the draw. I cannot help but feel this was a lucky escape, as I had been outplayed for most of the game!\n\nGame annotation for team benefit --"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=9986",
+    "gameName": "Team match",
+    "players": "rubacchus (1587) vs. topazg (1533)",
+    "opening": "Nimzo-Indian (E46), 4.e3 O-O"
+}

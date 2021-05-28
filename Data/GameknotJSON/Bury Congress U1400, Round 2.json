@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, after a dinner break it was time for Round 2 in which I had the black pieces.  I decided to play the French Defence, which was quite a usual response to e4 in my tournament games OTB.  I got the Winawer and played a rather unusual line against it.",
+        "1... e6 2. d4 d5 3. Nc3": "3. Nc3 - this is the Winawer, develops a piece and contests e4.",
+        "3... dxe4 4. Nxe4 Nd7": "4. ................ Nd7 - prepares Nf6 and allows my pawn to advance to c5 at the right moment.",
+        "5. Be3 Ngf6 6. Nc3": "6. Nc3 - eschews exchange on f6.",
+        "6... Bb4 7. a3 Bxc3+ 8. bxc3": "8. bxc3 - transposes into a more regular Winawer I think.",
+        "8... b6 9. Qf3 Rb8": "9. ................ Rb8 - dodges the Wicked Witch of the West's attack on the long diagonal and prepares Bb7 which I play on my next turn.",
+        "10. Bg5 Bb7 11. Bb5 c6": "11. ............... c6??? - having a bad hair day here, forgot the Wicked Witch is en prise - still, I hope you understand, this is the Beginner Section!!",
+        "12. Bd3 O-O 13. Qg3 Nh5 14. Qg4": "14. Qg4 - that Wicked Witch ain't gonna give me a second chance!  However, Glenda is also en prise so it would have been a mere queen trade - anyhow, white chooses to keep the queens on.",
+        "14... Ndf6 15. Qh4 c5 16. Nf3 Bxf3 17. gxf3 Re8 18. Rg1 Kf8 19. Bxh7 cxd4 20. Bd2 e5 21. Rb1 dxc3 22. Bg5 Qd7": "22. ................ Qd7 - after an exchange of pieces on f3 and one pair of pawns white has isolanis all over the place and the position is favourable.  But I could have wrapped it all up on move 11!",
+        "23. Rb3 g6": "23. ............. g6 - I now trap his lsb but white has an awkward check on h6 for me to contend with - luckily Henry has a flight square on e7.",
+        "24. Bh6+ Ke7 25. Bxg6 fxg6 26. Rxg6": "26. Rxg6 - at last I have a material advantage, but I should have been reading a book by now- also, black's position looks rather precarious.",
+        "26... Reg8": "26. ................... Rg8 - to contest the g file and to try and relieve some kingside pressure.",
+        "27. Qb4+ Qd6 28. Rxg8 Rxg8 29. Qxc3": "29. Qxc3?? - this allows a combo that drops the white queen, wait for it ............",
+        "29... Rg1+ 30. Ke2 Qd1+": "30 ..................... Qd1 , wait for it ............",
+        "31. Ke3 Nd5+": "31. .................... Nd5  - NOW! - At the end of this rudimentary king hunt there is a vicious knight fork which will win white's queen.  Ding dong, at last the Wicked Witch is dead! White throws in the sponge.  Time for tea and then Round 3."
+    },
+    "url": "https://gameknot.com/annotation.pl/bury-congress-u1400-round-2?gm=17884",
+    "gameName": "Bury Congress U1400, Round 2",
+    "players": "Paul Fisher (1296) vs. Joanne Stevens (1240)",
+    "opening": "French (C10), Rubinstein variation"
+}

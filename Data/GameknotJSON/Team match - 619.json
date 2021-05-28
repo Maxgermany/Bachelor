@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4": "In that case you could go with Qd5, I think is more active",
+        "4... Qb4+ 5. Bd2 Qxb2 6. Nc3 Nb4 7. Nd4 c5 8. Rb1 Qa3 9. Rb3": "I think a best move would be 9.Ndb5, trying 10.Nd5! and exploiting c7 and the black bad development",
+        "9... Qa5 10. Nf3": "Anyway 10.Ndb5 is a best move",
+        "10... Nxa2 11. Nd5 Qd8 12. c3 c4 13. Ra3": "Off course this move did change the horizon, an accident. Better 13.Rb2",
+        "13... Bxa3 14. Qa4 Bc5 15. Bg5 f6 16. exf6 gxf6 17. Bf4 Bb6": "But, whats up with 17...Nc3  ?",
+        "18. Qxc4 d6 19. Qe4+ Kf7 20. Qc2 Nxc3 21. Qxc3 Ba5 22. Nb4": "What a pressure over b4! This will give to the black the option to develop the board trough Ne7, Be6 and Rc8",
+        "22... Bxb4 23. Qxb4 a5 24. Qb3+ Kg7 25. Nd4 a4 26. Qa3 Qa5+ 27. Bd2 Qc5 28. Qxc5": "Let me understand, why you take the queen when the final is almost lost? I think you have to get a chance with 28.Qg3",
+        "28... dxc5 29. Nc2 a3 30. Bc3 Bf5 31. Ne3 Ne7 32. g4 Be4 33. f3 Bg6 34. Bg2 b5 35. f4 Ra7 36. f5 Bf7 37. g5 Kf8 38. Bxf6 Rg8 39. Kd2 a2 40. h4 b4 41. h5 Rd7+ 42. Kc2 b3+ 43. Kb2 Rd2+ 44. Kc3 Rxe2 45. Bxe7+ Kxe7 46. Nd5+ Bxd5 47. Bxd5 Rc2+": "The black could continue with 48...Rg5, to give great freedom to this rook",
+        "48. Kxb3 Rxg5 49. Kxc2 Rxf5 50. Bxa2 Rf2+ 51. Kb1 Kf6 52. Bb3 Rf4 53. Kb2 c4 54. Bc2 h6 55. Bg6 Ke5 56. Kc3 Kd5 57. Rh3 Kc5 58. Re3 Kb5 59. Re5+ Kc6 60. Rf5": "With this move you are taking a previous draw, best of all would be 60.Bh7, trying Bg8 and I think there is more chances to win",
+        "60... Rxf5 61. Bxf5 Kc5 62. Be6 Kd6 63. Bxc4 Ke5 64. Kd3 Kf5 65. Kd4 Kf6 66. Ke4 Kg5 67. Be2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=24450",
+    "gameName": "Team match",
+    "players": "flamerider (1504) vs. aidanbru (1450)",
+    "opening": "Queen's pawn (A40), Englund gambit"
+}

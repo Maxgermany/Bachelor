@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 c5": "Not a move I encounter often.  I think I react correctly but get into the kind of position that doesn't suit me.",
+        "4. exd5 exd5 5. Qe2+": "?! Not sure about this as it blocks in my B and leaves d4 undefended.",
+        "5... Be7 6. dxc5": "winning an unimportant pawn temporarily: probably better than just giving mine up but it doesn't help my development.",
+        "6... Nf6 7. Nf3 O-O 8. Be3 Nc6 9. g3": "a bit late to start fianchettoing, I think.  Better to move the Q and develop the B centrally",
+        "9... Bg4 10. Bg2": "? allowing the central pawn advance, forking my minor pieces, which I just missed completely: moving too fast again.",
+        "10... d4 11. Rd1": "pinning the pawn to hold off the inevitable material loss awhile",
+        "11... Bxc5": "bang goes that extra pawn",
+        "12. O-O Qa5": "bang goes the pin.  My game gets worse and worse...",
+        "13. Bd2 dxc3 14. Bxc3 Qb6 15. Bxf6": "although it's never advised to swap when material down, I take the opportunity to break up his k-side while I can",
+        "15... gxf6 16. Qe4": "and break the pin on the N while preparing to attack the doubled pawn",
+        "16... f5 17. Qf4 Ne7 18. Rd7": "a rook on the 7th rank always makes me feel better - but is it any use?",
+        "18... Ng6 19. Qg5": "my Q is getting chased around now but at least it's found an attacking position",
+        "19... Rab8": "mysterious... presumably he's concerned about my N moving and my B attacking b7 and a8",
+        "20. Nh4 Be2 21. Nxg6": "I preferred this to moving the R, allowing 21....Bxf2 ",
+        "21... hxg6 22. Rb1": "but now I have to move it anyway",
+        "22... Bxf2+ 23. Kh1 Be3 24. Qe7 Bc5": "As he played his checkmate at the end, tarriff178 advised me to look at move 25:\n\"Look at move 25. You could have taken my Bishop with QxBc5\".  I'm looking but it seems to me he just takes back with Qxc5.  What have I missed?  25. Qxe2 looks good though and was part of my original thinking, skewering the 2 Bs from e7.  One of the problems playing lots of games simultaneously on line is that I easily lose my train of thought, so probably just forgot what I'd planned and failed to spot the hanging B.  Note to self: study the board before moving!",
+        "25. Qh4": "??",
+        "25... Bb5 26. Rdd1 Bc6 27. Qh3 Bxg2+ 28. Kxg2": "?? 28. Qxg2 might have lasted slightly longer.",
+        "28... Qc6+ 29. Kf1 Qf3+ 30. Ke1 Qf2#": "a real shocker by me.  But well played tarriff178 for taking advantage."
+    },
+    "url": "https://gameknot.com/annotation.pl/speedtouch-international-players-championship-2009-how-not-to-play-against-the-french?gm=20012",
+    "gameName": "SPEEDTOUCH INTERNATIONAL PLAYERS CHAMPIONSHIP 2009 - how not to play against the French!",
+    "players": "rjacobs (1589) vs. tarriff178 (1417)",
+    "opening": "French (C10), Marshall variation"
+}

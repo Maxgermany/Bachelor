@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4": "reaches a Nimzo Indian.\n",
+        "5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 O-O 8. Bg5 h6 9. Bh4 d6 10. e3": "Alternative variation: 10. Nd2 Nbd7 11. f3 c5 12. e4 [is a more preferred line. However, e3 is good move as well]\n",
+        "10... Nbd7 11. Bd3 c5 12. O-O Qc7": "Alternative variation: 12... Rc8 13. b4 cxd4 14. Nxd4 d5\n",
+        "13. Rac1 Rac8 14. b4": "corrrectly opening up the position; white has the bishop.\n",
+        "14... cxd4 15. Nxd4 a6 16. f3 d5 17. Bg3": "putting the Black queen in the line of fire and giving the white squared bishp the strong h2 b8 diagonal.\n",
+        "17... e5 18. Nf5 Rfe8 19. Qb2": "is good, but not as good as Qd2.\nAlternative variation: 19. Qd2 [adds some pressure on the d pawn.] Qb8 20. cxd5 Rxc1 21. Rxc1 Nxd5 (21... Bxd5 [loses a pawn to] 22. Bxa6 Qa7 23. Qe2 $18) 22. Bc4 N7f6 23. e4 Nf4 24. Bxf4 exf4 25. Nd6 [ and white should not have a difficult time winning this.]\n",
+        "19... Qb8": "is almost forced.\n",
+        "20. Rfd1": "white is clearly better here, because of his excellent piece coordination.\n",
+        "20... dxc4 21. Bxc4 b5 22. Bb3 Rxc1": "Alternative variation: 22... Rc7 23. Rxc7 Qxc7 24. Rc1 Qb6 [ is better for Black, but still is lost, especially after] 25. Qa2\n",
+        "23. Qxc1 Nb6 24. Nd6": "Alternative variation: 24. Qc5 Nfd7 25. Qc2 [threatening Nxh6! .] Kf8 26. Nd6\n",
+        "24... Re7 25. Qc5 Bd5 26. Bxd5": "Alternative variation: 26. Nf5 [keeping the tension, while attacking black's rook.] Rc7 27. Bxe5 Rxc5 28. Bxb8 Rc3 29. Ne7+ Kf8 30. Nxd5 Rxb3 31. Nxb6\n",
+        "26... Nbxd5 27. e4": "Alternative variation: 27. Ne4 Rd7 28. Qc6 [almost all of Black's pieces are under attack] Rd8 29. Nxf6+ Nxf6 30. Rxd8+ Qxd8 31. Bxe5\n",
+        "27... Nf4 28. Bxf4 exf4 29. Rc1 Ne8 30. Nxe8 Rxe8 31. h3": "Alternative variation: 31. Kf2 [ white should aim for getting his king into the game soon.]\n",
+        "31... Rd8 32. Kh2": "gives up some of white's advantage. This move makes it harder to bring white's king into the game.\nAlternative variation: 32. Kf1 [gets the king closer into the game, unlike Kh2, which hinders the future activity of the king.]\n",
+        "32... Qd6 33. Qf5 g6 34. Qg4 Kg7 35. Rc5 Re8 36. Rd5": "Alternative variation: 36. h4 Re7 37. h5 $14\n",
+        "36... Qf6 37. Rd7": "throws the game away.\nAlternative variation: 37. Qd7 Re6\n",
+        "37... h5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fremont-chess-club-swiss?gm=26534",
+    "gameName": "Fremont Chess Club Swiss",
+    "players": "Manvelyan, Hayk  vs. Koepcke, Richard ",
+    "opening": "Queen's pawn (A46), Torre attack"
+}

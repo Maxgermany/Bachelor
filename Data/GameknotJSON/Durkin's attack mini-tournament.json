@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Na3 e5 2. Nc4 Nc6 3. e4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Nf3 Bg4": "The starting position for all the games.",
+        "7. Be2": "Unpinning.",
+        "7... Qe7 8. h3": "I \"put the question\".",
+        "8... Bd7 9. Bg5": "Developing with an attack.",
+        "9... f6 10. Bd2": "This seemed the best spot.",
+        "10... b5 11. Ne3": "Challenging Black's centralized Knight.",
+        "11... Nf4 12. O-O": "Time to tuck away the King.",
+        "12... Nd4 13. Nxd4": "I see no reason not to exchange.",
+        "13... exd4 14. Ng4": "Now a crazy tactical sequence begins.",
+        "14... Nxe2+ 15. Kh1": "First, I have to duck clear. Black's Knight is now stuck on K7 [if it moves, I play R-K1 pinning the Q.]",
+        "15... Bxg4 16. hxg4": "Black swaps off another set of minors.",
+        "16... f5 17. g3": "To prevent ...Q-R5 mate.",
+        "17... Nxg3+ 18. fxg3": "By checking, Black buys time to prevent me from pinning and winning the Q.",
+        "18... O-O-O 19. gxf5": "After all of those fireworks, material is even.",
+        "19... Qc5 20. g4": "I guard the advanced P.",
+        "20... Bd6 21. Bf4": "Cutting off the route to my King.",
+        "21... Qd5+ 22. Kg1": "Ducking clear,",
+        "22... Bxf4 23. Rxf4": "The last minor pieces fall.",
+        "23... Rd6 24. Qf3": "I offer an exchange.",
+        "24... Qxf3 25. Rxf3": "Draw agreed. "
+    },
+    "url": "https://gameknot.com/annotation.pl/durkins-attack-mini-tournament?gm=53127",
+    "gameName": "Durkin's attack mini-tournament",
+    "players": "last_archimedean (1332) vs. macv66 (1346)",
+    "opening": "Durkin's attack (A00)"
+}

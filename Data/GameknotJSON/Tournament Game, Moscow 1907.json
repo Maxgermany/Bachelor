@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Nc6 3. Nf3 Bg4": "Nenarokov plays aggressively.",
+        "4. cxd5 Qxd5": "It appears that Nenarokov has the advantage, as he has 3 developed pieces to Alekhine's one.",
+        "5. Nc3": "Gaining a tempo...",
+        "5... Qa5": "...and the countermove, pinning the Knight.",
+        "6. d5 O-O-O": "Again replying with a counterthreat.",
+        "7. Bd2 Bxf3": "Forcing Alekhine's hand, as PxN would now be answered with BxP, leaving Black a pawn up.",
+        "8. exf3 Nb4": "Electing to press forward. N-K4 might have been a safer alternative.",
+        "9. a3 Nxd5": "A mistake that Alekhine exploits at once.",
+        "10. Na4": "The Queen has no flight square! Nenarokov resigns at once. [This game repeated itself in 1957, Tolush vs. Aronson. Chess games have repeated before -- one time with same player as the victim! Akiba Rubinstein fell into an opening trap -- identical moves -- twice in 2 years: for details see \"The Fireside Book of Chess\".]"
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-moscow-1907?gm=36179",
+    "gameName": "Tournament Game, Moscow 1907",
+    "players": "Aleksandr Alekhine  vs. Vladimir Nenarokov ",
+    "opening": "QGD (D07), Chigorin defence"
+}

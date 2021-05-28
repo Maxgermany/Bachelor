@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4": "Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.",
+        "4... Nf6 5. O-O": "Al blanco no le preocupa Cxe4 porque puede: 6.d4, una jugada tremendamente ofensiva, o si no [6.Te1], una jugada algo ams pasiva pero muy efectiva tambien.",
+        "5... Nxe4": "Aca Nicolas comete el error que le lleva a perder la partida. Si la partida se desarrolla con una Rui Lopez, lo que tienen que hacer ambos bandos es seguir jugando Rui Lopez. Aca el negro intenta un cambio de apertura hacia una defensa Petroff (o defensa Rusa), lo que lo lleva a la ruina.",
+        "6. d4 exd4 7. Re1": "Te1 clava al caballo de e4",
+        "7... Qe7": "Aca hay 2 posibilidades: Ae7 lo que resguarda la dama pero entrega el caballo de e4. La otra es De7, peligrosa pero la que mantiene un poco mas las posibilidades.",
+        "8. Nxd4 g6": "El negro busca un fianchetto pero no llega con los tiempos",
+        "9. Nxc6 Qe6 10. Nc3 Be7 11. Nxe7 Kxe7 12. Nxe4 Kf8 13. Bh6+ Kg8 14. Ng5 Qf6": "Este ultimo error se paga con jaque mate.",
+        "15. Re8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/friendly-nqn-open?gm=31690",
+    "gameName": "Friendly NQN Open",
+    "players": "Rain\u00ed, Tom\u00e1s (944) vs. Robledo, Nicolas (939)",
+    "opening": "Ruy Lopez (C80), open, Riga variation"
+}

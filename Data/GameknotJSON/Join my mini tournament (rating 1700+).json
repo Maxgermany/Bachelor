@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Nf3 Bd6 6. O-O Nc6 7. Re1+ Ne7 8. Bg5 Be6": "My opponent wants 9. Bxf6 gxf6 where he castles queenside, or plays Kd7, and uses the g-file to attack the king.",
+        "9. Nc3 c6 10. a4 Qb6 11. Qd2": "11... Qxb2?? 12. Reb1 queen trap",
+        "11... O-O-O 12. a5 Qc7 13. Reb1": "Preparing a queenside pawn storm to attack the king.",
+        "13... h6 14. Bh4 h5 15. Bg3 Nf5 16. Bxd6 Qxd6 17. b4": "My queenside pawn storm begins, but never amounts to anything...",
+        "17... Ng4 18. h3 a6": "? An unsound piece sacrifice.",
+        "19. hxg4 hxg4 20. Ne5 Nxd4 21. Qf4 Rh5 22. Qxd4 Rdh8 23. Kf1": "Forced",
+        "23... Rxe5 24. g3": "! The king now has g2.",
+        "24... Rh2 25. Ne4 Qb8 26. Nc5 Reh5": "He keeps going to play for the win.",
+        "27. Qxg7": "Greedy.",
+        "27... Qd6 28. Rbe1 d4 29. Qg8+": "! My first plan was 29. Nxe6, but 29... Rh1+ 30. Ke2 Qxe6+ is dangerous for white. This way 30. Nxe6+ comes with the check.",
+        "29... Kc7 30. Nxe6+ fxe6 31. Rxe6": "? The mistake that should've given away the win for me.",
+        "31... Rh2h1+ 32. Ke2 Re5+ 33. Be4": "Forced. Everything else loses.",
+        "33... Rxe4+": "? 33... Rxe6 is much stronger: 34.Rxh1 Rxe4+ and the king becomes very weak.",
+        "34. Rxe4 Rxa1 35. Re8": "! The whole reason 33... Rxe4+ loses",
+        "35... Qd7": "Forced, preventing Rc8#",
+        "36. Qf8": "! Threatening Re7.",
+        "36... d3+ 37. cxd3 Ra2+ 38. Ke3 Ra1": "? At first I thought: \"Oh shit, now 39. Re7 loses\", but I have what I played next. A better try would have been... Oh, there are none. Maybe to resign?",
+        "39. Qf4+ Qd6 40. Re7+": "And my opponent resigns. Anyway, this game was sort of advertisement, if your rating is above 1700 and you want to join my mini tournament, message me and will add you."
+    },
+    "url": "https://gameknot.com/annotation.pl/join-my-mini-tournament-rating-1700?gm=55515",
+    "gameName": "Join my mini tournament (rating 1700+)",
+    "players": "Me (1235) vs. Marcus (1615)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

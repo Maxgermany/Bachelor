@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5": "Always a fun line... plenty to happen after 4... d5",
+        "4... Bc5": "Totally unexpected! I don't like the tactical possibilities after 5. Nxf7 Bxf2 , so I will take with the bishop instead.",
+        "5. Bxf7+ Ke7 6. Bd5 Rf8 7. O-O": "I need to be extremely careful of the pressure on the f2 pawn here, and my mobility is limited. Black has lost the chance to castle, but has much better development ... I'm out of my depth here.",
+        "7... d6 8. Bxc6 Bg4": "Now I have an interesting dilemma. I cannot play the desired defence of f3 because of the pin from the bishop, but can probably block with the knight for long enough to play d3, defending the e4 pawn and finally allowing my c1 bishop to get involved.\n\nIt also leaves open the option of Nc3, but after bxc6 the knight will have nowhere to develop further, so I am not sure if this is a useful move at this stage.",
+        "9. Nf3 bxc6 10. d3 Qe8 11. Be3 Qg6": "Looks like black plans on Bxf3, and with a pin on the g2 pawn capturing the Queen with the rook. Fortunately, the Knight on f6 blocks this plan, but I must be careful about it.",
+        "12. Bxc5": "Triple the pawns and play Nb-d2, and this must work well for white as black does not have enough firepower to break through.",
+        "12... Nd7": "Ah, cunning, I missed this. Now Bxf3 has become a threat and the tripled pawns are avoided, however ....",
+        "13. Bxd6+": "This forces a recapture, and Nb-d2 still works. after 13... cxd6 black has removed the doubled nature of the pawns, but at the cost of another - the material difference is now a solid two pawns.",
+        "13... cxd6 14. Nbd2 Bh3": "Threatening mate...",
+        "15. Nh4 Qg5 16. Ndf3": "16... Rxf3 17. Qxf3 Qxh4 18. Qxh3 Qxh3 19. gxh3 -- seems ok for white still.",
+        "16... Qg4 17. Kh1": "Allowing the capture of the bishop.",
+        "17... Bxg2+ 18. Nxg2 Rxf3": "Nice, I missed this combination -- now it is only one pawn and black has a lot more pressure.",
+        "19. Rg1": "Rxf2 obviously doesn't work until the queen moves, and Ra-f8 is similarly ineffective whilst the rook is pinned. 19. Rg1 allows Ne3 and for me to start increasing the pressure back. Black needs to worry about the discovered attack on his queen whilst keeping his f3 rook safe. If 19... Qh5 and black wastes move 20, then Qh5 is risky (19... Qh5 20. Ne3 and the threat of 21. Nf5  is large).",
+        "19... Qh3": "This looks much stronger, and the play is risky. There is a threat of Rxf2, and this gives mating risks on the h2 pawn. The idea here is to play 20. Ne3, and if 20... Rxf2 then 21. Rxg7  gives good threats back, but the mate threat remains.\n\nIf 21... Kf6 then 22. Ng4  Kxg7 23. Nxf2 removes the immediate danger, and if 21... Kf8 then 22. Qg1 makes 22... Qxe3 unattractive because of the immediate threat of 23. Rg8 ",
+        "20. Ne3 Raf8": "Piling up the pressure, but allowing the loss of the g7 pawn. 21. Rxg7  R8-f7 22. Rxf7  Rxf7 23. Qg1 and white can regroup, with Nf5 having become very strong.\n\n21. Rxg7 Kf6 22. Qg1 and the d7 knight is hanging - this is not playable for black.\n\nIf Ke6, Ke8 or Kd8, then 22. Qg1 Rxf2 23. Qg4 Qxg4 24. Nxg4 Rxc2 seems bad. 22. Rg3 seems the only option.\n\n22. Nf5  is also interesting if 21... Rf7 -- I think it is not useful at this stage as 22... R8xf5 23. exf5 Rxf2 seems too threatening.",
+        "21. Rxg7+ Ke6": "Strange that I would completely overlook this move. ",
+        "22. Rg3 Rxg3": "This is now ugly. After 23. fxg3 Rf2 white has little attack left. 24. Qg1 is too passive, and 24. Qg4  Qxg4 25. Nxg4 Rxc2 loses a pawn and leaves the knight in a useless position.",
+        "23. fxg3 Rf2 24. Qg1 Nf8 25. Rf1 Rxf1 26. Qxf1 Qxf1+ 27. Nxf1": "The artillery has now been swapped off the board, and there is a tricky endgame to be played to take advantage of two extra pawns.",
+        "27... h5 28. Ne3": "Hoping to play h3 with the risk of getting a passed pawn on the g file.",
+        "28... Nh7 29. Kg2 d5 30. exd5+ cxd5 31. c4": "If 31... d4 then 32.Nd5 and white can create a big force of pawns on the queenside. Black cannot advance with e4, and the knight will be hard pressed to look after both sides at once.\n\n31... dxc4 32. dxc4 seems a lot better, but it is still a guaranteed passed pawn on the c file, with good support on the a and b files.",
+        "31... d4": "This seems much better for white, black has a hard time now.",
+        "32. Nd5 Nf6": "This is the final nail. There is simply nothing black can do with the knights off the board, and white _will_ queen on one side or the other",
+        "33. Nxf6 Kxf6 34. Kf3": "Game annotation for team benefit --"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=10003",
+    "gameName": "Team match",
+    "players": "topazg (1489) vs. eddlad (1493)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

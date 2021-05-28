@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. c4": "Annotated by Isaac, as the white pieces.",
+        "1... e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. exd4 O-O 7. Bd3 Nb4": "I think this move loses tempo for black, because he moves his Knight out of a good position.",
+        "8. Bb1 Re8 9. O-O d5": "Black attacks my centre. I now make the choice to go with an isolated queen pawn (Where no pawns are beside the D pawn on the E and C files) because I think it gives me excellent attacking options because of my Knight's access to e5 and bolstering it with moves like Qd3 and Rh3, attacking the King.",
+        "10. a3 Na6 11. cxd5 Nxd5": "Here we are.",
+        "12. Ne5": "Threatening Nxd5, Qxd5 Ba2! followed by capture on f7, forking the King and Rook.",
+        "12... Be6 13. f4 f6": "Trying to move my centralized Knight. ",
+        "14. Qh5": "If ... fxe5, Qxh7, Kf8, fxe5 check, Black must give back a piece, while white has a crushing attack.",
+        "14... f5": "If black were to play g6, then White has Bxg6! and Black has all sorts of problems. I was relying on my intuition to save me here and it worked out well, winning the f5 pawn with a decent attack.",
+        "15. Bxf5 Bxf5 16. Qxf5 Bf6 17. Rf3": "Sending in another force (to h3)",
+        "17... Qd6 18. Nxd5 Qxd5 19. Rh3 Qxd4+ 20. Be3": "Developing another piece at the cost of a pawn.",
+        "20... Qd5": "Qxb2 must be looked at here. I think it would follow the same way as it would otherwise with Qxh7 check, King f8, followed by Rf1, preventing the capture at e5.",
+        "21. Qxh7+ Kf8 22. Rf1": "Preventing the capture at e5. If Bxe5, then after fxe5 check, White wins the g7 pawn and the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=41635",
+    "gameName": "Team match",
+    "players": "asimov45 (1705) vs. yshklarsh (1681)",
+    "opening": "English (A22), Bellon gambit"
+}

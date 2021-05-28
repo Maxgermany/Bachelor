@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 g6": "this may very well be the first time, an opponent surprised me straight from the first move...",
+        "2. d4 Bg7 3. Nf3 d6 4. Be3": "played from the gut: I had no idea, what was happening here; in fact, this is still theory: the Modern Defense, to be precise...",
+        "4... Nf6 5. Bd3 O-O 6. O-O Bg4": "clearly too agressive: better is c5, c3, Ng4...",
+        "7. h3 Bxf3 8. Qxf3 c6": "Black is already on slippery grounds: better Nfd7, c3, c5, Nd2...",
+        "9. Nd2 Nbd7 10. c3 e5 11. Nc4 Qe7": "better exd4, Bxd4, d5, exd5, etcetera, and release some tensions...",
+        "12. Rfe1 Rfe8 13. dxe5 Nxe5 14. Nxe5 dxe5 15. Red1 b6 16. a4 Qc7": "better Rd8...",
+        "17. Bg5": "forcing Nf6 to a bad square: after Nh5 or Nd7, White plays Bc4 and attacking f7; after Qd6/e7, Rd2, followed by Rad1...",
+        "17... Nd7 18. Bc4 Nf8": "weak and losing: after Nc5, Rd2, a6, Black has better chances...",
+        "19. Rd2 h6": "the final flaw: only after Ne6 - the only reason for Nf8, in the first place - Black can hope to survive...",
+        "20. Rad1": "lethal, in all variations...",
+        "20... hxg5": "somewhat tougher was b5, axb5, cxb5, Bb3, hxg5...",
+        "21. Rd2d7 Nxd7": "no difference makes Qxd7, Rxd7, Nxd7...",
+        "22. Qxf7+ Kh7 23. Rxd7 Qxd7": "forced Queen sacrifice...",
+        "24. Qxd7": "Black resigned: not too soon..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-on-higher-grounds?gm=63868",
+    "gameName": "Fierce Queen on higher grounds...",
+    "players": "fiercequeen (2020) vs. iceland1972 (1996)",
+    "opening": "Robatsch defence (A41), Rossolimo variation"
+}

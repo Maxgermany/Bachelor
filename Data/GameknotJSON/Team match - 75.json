@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "King's knight opening.",
+        "2... d5 3. Nxe5 f6 4. Ng4 Nh6 5. Be2": "I kind of like NxNh6 instead.",
+        "5... Nxg4 6. Bxg4 Bxg4 7. Qxg4 Qe7": "Here white should play Qc8+, followed by QxPb7.  Black would most likely intercede with Qd8, then Nd7 to defend Ra1.  White picks up Pb7 and Pd5.\n",
+        "8. d3 Nd7 9. Nc3 g6 10. Nxd5 Qd6 11. Bf4": "Ne5 will prevent white forking the king and rook.  ",
+        "11... Qc6 12. Nxc7+ Kf7 13. Nxa8 Bc5 14. Nc7 h5 15. Qe2 Ne5 16. Bxe5 fxe5 17. Nd5 Rf8 18. O-O Ke6 19. a3 Bd4 20. c3 Bc5 21. b4 b6": "That pawn doesn't really protect the bishop from capture by Pb4.",
+        "22. bxc5 Qxc5 23. d4 exd4 24. cxd4 Qxd4 25. Rad1 Qc5 26. g4": "Pg3 instead sets up Nf4+.",
+        "26... h4 27. g5": "With Qc5, Pa3 is undefended.",
+        "27... Qxa3": "Though black now has two passed pawns, they might not be salvageable.",
+        "28. Qg4+ Ke5 29. Qxh4 Rf3": "Ra1 gives white Pa7, since Nd5 defends against Qe7.",
+        "30. Ne3": "Black must defend against Nc4+, forking the black queen.  Pb5 does that, or moving the king or queen.",
+        "30... Rf4": "...or a counter attack.",
+        "31. Qg3 Qf8 32. f3 Qc5": "Oops.  White picks up both queen and rook.",
+        "33. Rd5+ Qxd5 34. Nxd5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=60227",
+    "gameName": "Team match",
+    "players": "psycho422 (1263) vs. tommyjr49 (1115)",
+    "opening": "QP counter-gambit (elephant gambit) (C40)"
+}

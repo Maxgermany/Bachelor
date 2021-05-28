@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "normal opening",
+        "1... c5": "queen opening",
+        "2. Bc4": "attacked the opponent king",
+        "2... Qa5": "hmm.surprise move...queen came so early without any support",
+        "3. Qh5": "attacked again",
+        "3... g6 4. Qe5": "targeted the rook",
+        "4... Nf6 5. Nc3 Nc6": "have to save my queen,i ran back",
+        "6. Qf4 Nd4": "this time i made a gem of a move,knew that my king and rook both are under attack..but i did Nd5..",
+        "7. Nd5": "knight sacrifice..he could have Nc2+",
+        "7... Nxd5 8. Bxd5 e6 9. Bb3 c4 10. c3 cxb3 11. cxd4 bxa2 12. Qf6": "again rook attack",
+        "12... Rg8 13. Qf3 b5 14. Qb3 Qb6 15. Nf3 Bg7 16. e5 Bb7 17. O-O Rc8 18. Rxa2": "here he got a ultimate move which he missed...Bd5 would have got my rook.",
+        "18... Bxf3 19. Qxf3 Qxd4 20. Qb7": "did not see my queen advancing..made for that",
+        "20... Bxe5 21. Qxc8+ Ke7 22. Qxg8": "resigned..he could have played.."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=26880",
+    "gameName": "Let's play chess",
+    "players": "f1shashi (1368) vs. tiko28 (1377)",
+    "opening": "Sicilian defence (B20)"
+}

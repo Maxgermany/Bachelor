@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. Nf3 f6": "I think this is called the Barnes Defense. I guess it is not terrible if your plan is to castle queenside.",
+        "2. Nc3": "Two Knights Tango. Usually creates classical positions.",
+        "2... e5 3. e4 Nc6 4. Bc4 Bc5 5. d3 Nb4": "Moving a piece twice at this stage is costly. Besides, it makes no threats and gives no benefit to the black's position.",
+        "6. Qe2": "Supporting my bishop when it comes e3. ",
+        "6... Nh6": "This opens up an immediate attack. Ne7 would have been resoundingly better. ",
+        "7. Bxh6 gxh6 8. a3": "I have to chase away the knight before I begin my attack.",
+        "8... Nc6 9. Qd2 Rg8": "Black wants an exchange, but instead just gives away a rook.",
+        "10. Bxg8 Na5": "Qe7 was called for.",
+        "11. Qxh6 a6": "Black is pretending that they don't have a problem.  ",
+        "12. Qxh7 c6": "The pretending ends. ",
+        "13. Qf7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/pretending?gm=43086",
+    "gameName": "Pretending",
+    "players": "klacsanzky (1677) vs. marinykall (1033)",
+    "opening": "Reti opening (A04)"
+}

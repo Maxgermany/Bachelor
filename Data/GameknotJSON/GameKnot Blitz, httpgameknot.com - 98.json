@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4": "This move attempts to exploit the vulnerability at f7.",
+        "3... Bc5 4. O-O Nf6 5. d3 d6 6. Bg5": "Probably too easily dealt with, but if not dealt with well, white will end up with a strong position.",
+        "6... O-O 7. Nc3 h6 8. Bh4": "?",
+        "8... Be6 9. Nd5 Bxd5 10. exd5 Nd4 11. Nxd4 Bxd4 12. c3 Bb6 13. Kh1 Qe7 14. f4": "? Sinply loses the pawn as 14...exf4 15.Rxf4 g5 loses a bishop, and it may take black a few moves, but once the counter-attack gets rolling, it will provide black compesation for the exposed King.",
+        "14... c6": "??  White gets to sidestep the blunder.",
+        "15. fxe5 dxe5 16. dxc6": "White preserves the bishop.",
+        "16... bxc6 17. Qd2": "!  Moves like these are difficult to react to in quick time when the player misses the idea behind it.",
+        "17... Bc7": "?",
+        "18. Rxf6": "Black saw no need to sidestep the pin by playing Qd6, but now he has to surrender the queen.",
+        "18... gxf6 19. Qxh6": "And the point is delivered home.",
+        "19... Bd8": "Good, but insufficient.  Too little, and too late.",
+        "20. Rf1 Qd6 21. Rxf6": "Black now must surrender the queen or face mate.  After 21.Bxf6 Bxf6 22.Qxf6 Qxf6, white is sitting pretty with a plus 6 material advantage using the common scoring system.",
+        "21... Qc5 22. Qg5+": "And I missed an even prettier mate: 22.Rg6# which makes the formerly appealing mate with the Queen in hazard look ugly.",
+        "22... Kh8 23. Rh6#": "#"
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=32137",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "mokru  vs. tptperry ",
+    "opening": "Giuoco Piano (C50)"
+}

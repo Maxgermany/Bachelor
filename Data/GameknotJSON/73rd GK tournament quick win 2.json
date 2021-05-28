@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "A common move for white.",
+        "1... e5": "A common move for black.",
+        "2. Nf3": "A common 2nd move for white.",
+        "2... Nc6": "A common 2nd move for black.",
+        "3. Nc3": "Going for the four knights game.",
+        "3... Bc5": "Only three knights.",
+        "4. d4": "Loses a pawn.",
+        "4... exd4": "--",
+        "5. Bg5": "A very bad move for white. After 5...f6 either the bishop or knight is gone.",
+        "5... Nge7": "Black missed their chance.",
+        "6. Nd5": "Not the best move. Black can't take the knight because the queen is pinned.",
+        "6... g6": "The losing move. I don't see a move that could be worse.",
+        "7. Nf6+": "White sees the chance to win early",
+        "7... Kf8": "--",
+        "8. Bh6#": "An 8 move mate. Remember that this game was played in the casual section of the tournament."
+    },
+    "url": "https://gameknot.com/annotation.pl/73rd-gk-tournament-quick-win-2?gm=35258",
+    "gameName": "73rd GK tournament quick win 2",
+    "players": "johncolt (1144) vs. pillock (1187)",
+    "opening": "Three knights game (C46)"
+}

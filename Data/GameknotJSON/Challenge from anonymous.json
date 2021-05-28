@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 d5 2. e3 h5 3. Nc3 a5 4. Nf3 Bg4 5. Be2 Qd7 6. Bb5 c6 7. Bd3 b5 8. e4 b4": "Typical opening so far. At this point I kind of made a blunder with my knight; I should have put it on d2, but instead I moved it back into its original position, making it harder to keep it in play later. (though as it turns out, I never actually need it)",
+        "9. Nb1 dxe4 10. Bxe4 a4 11. h3 Be6 12. Ne5": "I've never played against this opponent before, but sometimes I like to make an early threat on the queen to see how the opponent responds. Usually my ploy never works and my opponent takes the first opportunity to protect the queen, but this time, something unexpected happened. ",
+        "12... g6 13. Nxd7": "My opponent failed to see that the queen was in danger and I get to take it. ",
+        "13... Nxd7 14. Bxc6": "Taking a free pawn and trapping the knight. At this point, I expect my opponent to move the rook out of harm's way, but I get to take it on the next move. ",
+        "14... h4 15. Bxa8 Nb8": "With the queen, I had to sacrifice my knight, but this time, my bishop remains unharmed. ",
+        "16. Be4 f5 17. Bf3 Nf6 18. Bf4 Nbd7 19. Bc6": "Trapping the knight once more",
+        "19... g5": "This would have been a good move on my opponent's part (perhaps they were trying to force my bishop away) but they didn't protect the pawn, leaving me with an easy kill. ",
+        "20. Bxg5 Rg8": "I suppose they're trying to force my bishop away again, but at this point, I was trying to play out possible checkmates and everything was foiled by the knight so I decided to take it while I could.",
+        "21. Bxf6 Rxg2": "Rather surprised he didn't take the bishop and went foor this move instead. I have too much support on my back rank for them to attempt a checkmate now. Also now the rook is dead, thanks to my bishop.",
+        "22. Qh5+": "Decided to get my queen into play first before attempting the rook's capture.",
+        "22... Kd8 23. Bxg2": "I get the rook.",
+        "23... b3 24. axb3 Nxf6": "My opponent takes the bishop rather than the pawn, which was a good choice.",
+        "25. Qh8": "Checkmate is essentially inevitable at this point. I'm trying to just get rid of the bishops and the knight at this point. ",
+        "25... Ke8": "My opponent protects the bishop. ",
+        "26. Bc6+": "Going at the king from the unprotected left flank.",
+        "26... Kf7 27. Qxh4 axb3 28. cxb3 Bxb3 29. Ra7": "Now my rook is free to come out. ",
+        "29... Bc2": "I would suppose my opponent is trying to regain the advantage. Rather than try and move my knight out of danger, I simply castle at this point.",
+        "30. O-O": "This offers a counterattack if my opponent wants the knight.",
+        "30... Ke6 31. Re1+": "The king was well-protected, but trapped. I don't see a way out of checkmate at this point for them.",
+        "31... Ne4 32. Bd7+ Kf7 33. Bxf5 Bd3": "I have no idea what my opponent is trying to do. Maybe force a checkmate on me before I can mate him?",
+        "34. Qh7+ Bg7 35. Bxe4": "And here I basically demolish all the king's remaining defenses. ",
+        "35... Bxe4 36. Rxe4 Kf6 37. Raxe7": "I figure I might as well take myself that pawn and open a path for my rook. Checkmate is three moves away at this point.",
+        "37... Bf8": "Not the best move, but not much else he could do at this point.",
+        "38. Qf7+ Kg5 39. h4+ Kh6 40. Qh7#": "And mate. Black's mistake in this game was allowing me to take pieces without consequence and not looking ahead to what would be the best move to make. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-anonymous?gm=67594",
+    "gameName": "Challenge from anonymous",
+    "players": "otakumadness (992) vs. name redacted (945)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

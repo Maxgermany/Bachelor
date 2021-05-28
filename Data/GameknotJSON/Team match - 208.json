@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "King's pawn game, king's knight opening.",
+        "2... f6": "Damiano's defense.",
+        "3. d4": "Nxe5 is actually pretty common.  It looks like a stupid trade, a knight for a pawn, but black generally does not take the knight, because white responds with Qh5+.  Whether black responds with g6 or Ke7, white comes back with Qxe5+.",
+        "3... Nc6 4. c3 Nge7": "d5 seems to work pretty well for black here.  Nge7 is not in the database, probably because d5 (for white) pushes Nc6 into a backwater.",
+        "5. d5": "There you go.",
+        "5... Na5": "Backwater.  From here white likes b4, which gives the black knight nowhere to run, nowhere to hide.",
+        "6. b3": "Not quite.  Pb4 pushes the black knight off the board.  Nc6 would be answered by Pxc6, and black trades the knight for a pawn.  Black's best response here would be to just do something else.",
+        "6... d6 7. Ba3": "I still like b4.",
+        "7... g5": "Pb4!  Pb4!",
+        "8. c4 h5": "Bb4 black can defend with b6 or c6/c7 (so the queen covers the black knight).  But Pb4 is a lance through the heart of black knight's mount.",
+        "9. Bb4 b6 10. Bxa5 bxa5": "Black's pawns end up doubled.  Not a travesty for black, but a slight imposition.  Doubled pawns are more difficult to defend.",
+        "11. Nc3 g4 12. Nh4 Bh6 13. h3 gxh3 14. gxh3": "I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.",
+        "14... Bg5 15. Nf5 Ng6": "Oh, mistake.  NxN, PxN, BxP leaves black up a pawn.  Or BxP, PxB, NxP.  The first is probably better, as the bishop has slightly better moves than black's knight.",
+        "16. a3 h4 17. Nb5 a6 18. Nc3 Bf4 19. b4 Rb8 20. b5 Qd7 21. Qg4 Qh7 22. Rb1 Qd7": "Wait, what prevents QxNg6+?",
+        "23. Qxg6+": "...Nothing.",
+        "23... Kf8": "Ok.  Even missing a knight, Qf7 intercession is probably better than QxPf6+.",
+        "24. Qxf6+ Ke8": "OMG!  QxRh8+!  It's a free rook!  Kg8 isn't great because 25. Rg1+ leads to regicide whether black imposes the queen (QxQ#) or moves Kh7 26. Qg6#.  The loss of the black knight gives black a material disadvantage, but now black suffers the loss of a knight AND rook.\n",
+        "25. Qxh8+ Kf7 26. Rg1 Qe7": "?  Knight mounts the Nubian queen?\n\nActually, Rg7 looks like # curtains for the black king, just about.  27. Rg7 Kf6.  28 Qh6#.",
+        "27. Nxe7": "Nope.  While this may boost white's ego, Rg7+ (mate in two) means white passed up a far superior move.  The queen is worth only 9 points--6 when traded for a three point knight.",
+        "27... Kxe7 28. Rg6": "Rg7+ is better.  The king is then forced to f6.  29. Qf8# becomes another game ender.  Force mate in two.  White should be looking for opportunities like this now that he has mega power on the king's home rank.  (Each number is a rank, each letter a file).",
+        "28... axb5": "I wish I had advice for black.  Down 14 points delaying actions are the best alternative--prolonging the game past 30 moves just to put up a good show.  White might still time out.",
+        "29. Qh7+": "No matter where black moves, white should have set up Rg8# as a conditional.  This is now a force mate, with the black king's back against the firing squad wall.  \"Care for a cigarette with your blindfold, your highness?\"",
+        "29... Ke8 30. Rg8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=55212",
+    "gameName": "Team match",
+    "players": "psycho422 (1049) vs. efar (1069)",
+    "opening": "Damiano's defence (C40)"
+}

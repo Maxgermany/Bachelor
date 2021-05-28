@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. c4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 e6 5. Bg2 Be7": "1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 Nc6 5. Bg2 Be7\nA30: English, symmetrical variation\n\nAccording to the GK database, I left \"book\" here by advancing d3 instead of castling or d4.",
+        "6. d3 O-O 7. a3 b6 8. Ne5 Bb7 9. Nxc6 Bxc6 10. Bxc6 dxc6 11. Rb1 Bd6 12. b4 cxb4 13. axb4 Be5 14. Bd2 Ng4 15. b5 c5 16. f3": "16.\t... \tNf6\n17.\tf4 ",
+        "16... Nf6 17. f4 Bd4 18. e3 Bxc3 19. Bxc3 Qc7 20. Bxf6 gxf6 21. Qg4+ Kh8 22. Qh4 Qd8 23. Rd1 Rg8 24. Qh5 Rg6 25. O-O f5 26. Qf3 a5 27. bxa6 e.p.": "27.\t... \tRxa6\n28.\tQb7 \tRa3\n29.\tRd-a1 \tRxa1\n30.\tRxa1 \tQxd3\n31.\tRa8  \tRg8\n32.\tRxg8  \tKxg8",
+        "27... Rxa6 28. Qb7 Ra3": "My plan was as follows:\n27.\t... \tRxa6\n28.\tQb7 \tRa3\n29.\tRd-a1 \t\nbut instead, I took the pawn at f7.",
+        "29. Qxf7": "29.\t... \tRxd3\n30.\tRxd3 \tQxd3\n31.\tQf8  \tRg8\n32.\tQf6  \tRg7\n33.\tQxe6 \nExactly what I thought would happen, happened.",
+        "29... Rxd3 30. Rxd3 Qxd3 31. Qf8+ Rg8 32. Qf6+ Rg7 33. Qxe6 Rg6 34. Qe5+ Kg8": "34.\t... \tRg7\n35.\tRa1 \tQe4\n36.\tQc3 \th6\n37.\tRa8  \tKh7",
+        "35. Ra1 Qe4": "Later, mozart 28 said, \"In the previous game, I felt that you should have won the game. I thought your mistake was at move 35 when I had to offer the Queen swap. I thought you had a superior position if you had taken my Queen then. But hey, hind sight is always 20/20!\"",
+        "36. Qb8+ Kg7 37. Qe5+ Qxe5 38. fxe5 Re6 39. Ra6 Kg6 40. Kf2 Kg5 41. Kf3 Rxe5 42. Rxb6 Re4 43. h4+": "43.\t... \tKh5\n44.\tRf6 \tRe5\n45.\tKf4 \tRe4 \n46.\tKxf5 \tRxc4\n47.\te4 ",
+        "43... Kh5 44. Rf6 Rxc4 45. Rxf5+ Kg6 46. e4 Rc1 47. h5+ Kh6 48. e5 c4 49. e6 Rf1+ 50. Ke4": "50.\t... \tRe1 \n51.\tKd5 ",
+        "50... Rxf5 51. Kxf5 Kg7 52. e7 Kf7 53. Ke4 c3 54. Kd3 Kxe7 55. Kxc3 Kf6 56. Kd3 Kg5 57. Ke3 Kxh5 58. Kf2 Kg4 59. Kg2 h5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a30-english-symmetrical-variation?gm=9301",
+    "gameName": "A30: English, symmetrical variation",
+    "players": "rpilaud (1478) vs. mozart28 (1497)",
+    "opening": "English (A35), symmetrical, four knights system"
+}

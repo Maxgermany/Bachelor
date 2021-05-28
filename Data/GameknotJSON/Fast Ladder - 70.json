@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6": "We have an transposed into a four knights English opening with 4. g3... except white hasn't yet played Nc3!",
+        "7. d3": "More common is 7. Nc3, reserving d4 as an option.",
+        "7... Be7 8. a3": "Still resisting normal development with 8. Nc3",
+        "8... O-O 9. Nbd2": "Now white's position resembles a pseudo king's indian attack. ",
+        "9... a5 10. b3 Be6 11. Bb2 f6 12. Qc2 Qd7 13. Rfd1 Rad8": "Maybe better for me was Rfd8 here. ",
+        "14. Rac1 Qe8": "Aiming to shift my attention to the kingside via the h5-e8 diagonal.",
+        "15. Nb1": "An awkward, undeveloping move that seems pointless. better was Nc4 here.",
+        "15... a4": "I take some time off the kingside to cause white worries around his exposed queen.",
+        "16. Nfd2": "Better was bxa4, even though it ruins the pawn structure.",
+        "16... axb3 17. Nxb3 Qf7 18. Nc5 Bxc5 19. Qxc5 Bd5": "Slightly more accurate would have been to first place Bb3, forcingthe white rook to a more awkward location.",
+        "20. Bxd5 Rxd5": "Now I have the initiative, and plan to use it!",
+        "21. Qc3 f5": "White's king is starting to look a little lonely!",
+        "22. Qb3": "Better was Qe1, in defending position.",
+        "22... f4 23. Nc3": "A blunder, I can play Nd4 with tempo, and attack very quickly!",
+        "23... Nd4 24. Qa2 fxg3 25. fxg3 Qf2+ 26. Kh1 Nf3": "A tactical shot that ruins white, taking advantage of his exposed king!",
+        "27. exf3 Qxf3+ 28. Kg1 Qe3+ 29. Kh1 Rf2": "And white can't stop Qf3+ with mate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=26213",
+    "gameName": "Fast Ladder",
+    "players": "nailicis (1648) vs. chessy131 (1903)",
+    "opening": "English opening (A20)"
+}

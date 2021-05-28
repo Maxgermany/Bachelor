@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7": "Esto me huele a estudios con tio Johan",
+        "5. Nf3 Bc6 6. Ng3 Nd7 7. Be2 Ngf6 8. O-O Be7 9. Ne5 Nxe5 10. dxe5 Nd7 11. f4 O-O 12. Be3 g6 13. c4 Qc8": "Considero mejor para el negro Ah4",
+        "14. Bf3 Bxf3 15. Qxf3 c6": "Considero mejor f6 debido a que c6 autom\u00e1ticamente da un tema a las blancas a tratar, el punto d6",
+        "16. Ne4 b6 17. Rad1 Qc7 18. Rd3 Rfd8 19. Rfd1 Nf8 20. Nd6 c5": "Parece que rolando no se a percatado de que tengo un caballo...",
+        "21. Nb5 Qc8 22. Nd6 Qc7": "Aqui se acordaron las tablas, claro que ocurri\u00f3 algo curioso, le mencione a Rolando lo que estaba a punto de jugar lo cual era 22.-Txd8-Axd8  23.- Cd6-Db8  24.-Ce8-a6( recomendacion de fritz) 25.- Cf6+-Rg7  Rolando dijo que no hubiese tomado el caballo, y hubiera jugado Rg7 a lo cual la maquina comenzaba a aplastar a las negras con la variante obvia 26.-Dg3-Axf6   27.-exf6- Rxf6  28.-Dh4+-Rg7  29.- Ad2-f6  30.-Ac3....      Eso demuestra que antes de un ofrecimiento de tablas se debe mirar detenidamente el tablero, siempre puede haber algo escondido fuera de la vista superficial.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/iv-open-de-ajedrez-arica-2010?gm=33514",
+    "gameName": "IV Open de Ajedrez, Arica 2010",
+    "players": "Sanhueza, Felipe  vs. Jara, Rolando ",
+    "opening": "French (C10), Fort Knox variation"
+}

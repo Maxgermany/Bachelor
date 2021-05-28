@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 Nf6": "gr8rog (1307) vs brahmslover (1643) (annotator)",
+        "2. h3": "An odd move.",
+        "2... d5": "Taking the center, because of white's loss of time in h3",
+        "3. e3 e6 4. a3": "Another waste of time.",
+        "4... c5": "Attacking the center with a \"lever\".",
+        "5. Bb5+ Nc6 6. Bxc6+ bxc6": "Strengthening my center, and gaining the bishop pair. ",
+        "7. g3": "Creating more weaknesses.",
+        "7... cxd4 8. Qxd4 c5 9. Qd2": "Winning the center again.",
+        "9... Ne4": "Again winning a tempo.  Black has the initiative.  I am still not convinced that this is a good move.",
+        "10. Qe2 Bd6 11. Nc3 Nxc3 12. bxc3 O-O 13. Nf3 a5": "Keeping the white king in the center.",
+        "14. c4 Ba6 15. Nd2 Qf6": "winning material\n",
+        "16. Rb1 dxc4 17. Rb6 Bc7 18. Rc6 Bb7 19. Ne4 Qe7 20. Rxc7 Qxc7": "end of the combination winning the exchange that started with 14...Ba6",
+        "21. f3 Bxe4 22. fxe4 Qxg3+ 23. Qf2 Qe5": "I decided to keep the queens on because white's king is in the center.",
+        "24. Qf3 Qc3+ 25. Ke2 Qxc2+ 26. Bd2 c3": "winning a piece.",
+        "27. Rd1 Rad8 28. Kf2 Rxd2+ 29. Rxd2 cxd2 30. Qe2 d1=Q": "Two Queens!  Not sure why he didn't resign a while ago... It is simply finishing the now.",
+        "31. Qxc2 Qxc2+ 32. Kf3 Qd2 33. a4 c4 34. Kf4 c3 35. e5 c2 36. Ke4 c1=Q 37. h4 Qh1+ 38. Kf4 Qxh4+ 39. Kf3 Qdf2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23291",
+    "gameName": "Let's play chess",
+    "players": "gr8rog (1307) vs. brahmslover (1643)",
+    "opening": "Queen's pawn game (A45)"
+}

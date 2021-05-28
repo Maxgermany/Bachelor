@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Qh5": "Patzer opening.  When I'm playing amateurs I usually go with Qf3 instead, but Pg6 QxP+ gives white a free rook--always a nice way to start the day.",
+        "2... Qf6": "Everybody bringing out the big guns.",
+        "3. Nf3 g6 4. Qxe5+ Qxe5 5. Nxe5 d6 6. Nc4": "Kurosawa vs. Vvrt.",
+        "6... Bg7": "Vvrt had responded with Be6.",
+        "7. Bd3 Nf6 8. Nc3 O-O 9. b3 Nc6 10. Ne2 Ng4 11. h3 Nge5 12. Nxe5 Bxe5 13. Rb1 Nb4 14. f4 Bg7 15. Ba3 Nxd3+": "At first blush NxPa2 looks like a free pawn, but Pc3 lets white barbecue the knight from the parapet of the rook.",
+        "16. cxd3 Bd7 17. O-O Bb5 18. Rf3 c6 19. Bxd6": "The thing to be wary of here is that black's BxPd3 forks the knight and rook.  I guess Re1 protects the knight, but black picks up Pe4, another free pawn.",
+        "19... Rfd8 20. e5 Bf8 21. Nd4": "Nc1 might have been better.  Black gets the white pawn at d6 (after trading bishops), and Nc1 also blocks white's b rook--another disadvantage.  Here (Nd4) black makes back one pawn.  It was probably not worth trying to defend the doubled pawns anyway.",
+        "21... Bxd6 22. Nxb5 cxb5 23. exd6 Rxd6 24. Rc1 Rd7": "Rad8 seems like the better choice.",
+        "25. Rc2 Rad8 26. Rc5 Rd7xd3 27. Rxb5 Rd3xd2 28. a4 Rb2 29. Rxb7 Rdd2 30. Rg3 Rb1+ 31. Kh2 Rdd1 32. Rf3 h5 33. h4 a5 34. Kg3 Rb2 35. f5 Rdd2 36. fxg6 Rdxg2+ 37. Kf4 Rg4+ 38. Ke5 Re2+ 39. Kd5 fxg6 40. Rc3 Re8 41. Rc4 g5 42. hxg5 Rxg5+ 43. Kc6 Rg4 44. Kb6 Rxc4 45. bxc4 h4 46. Kxa5 h3 47. Rb1 Ra8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=55758",
+    "gameName": "Team match",
+    "players": "phoag53 (1325) vs. branneke (1283)",
+    "opening": "KP (C20), Patzer opening"
+}

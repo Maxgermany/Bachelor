@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4 d5 2. e3 g6 3. Nf3 Bg7 4. Nc3 Bg4 5. h3 Bxf3 6. gxf3": "Here white doubles his pawns.  QxBf3 would preserve the king's side pawn structure, in case white ever wanted to castle on the king's side.",
+        "6... e6 7. f4 Ne7 8. Bb5+ c6 9. Ba4 b5 10. Bb3 b4 11. Na4 a5 12. f3 O-O 13. f5": "What did this pawn sacrifice accomplish?",
+        "13... exf5": "I like NxPf5 better, though moving this pawn does help clear the e file.  Black's e7 knight is now blocked by pawns.  Of course, it is also protecting pawns, but it isn't in all that great a location.",
+        "14. f4 Nc8": "Nd6, Ne4, it will take two moves to position this knight somewhere good, giving white opportunity to develop his pieces.",
+        "15. Nc5 Nd6 16. c4 Qc7": "I like Pxc3 e.p. much better.  White now has a pawn and bishop bearing down on poor little Pd5, which black will kiss goodbye.",
+        "17. cxd5 cxd5 18. Bxd5": "Bye little pawn, hello rook!",
+        "18... Ra7 19. h4 Ne4 20. Bxe4 Rd8": "Wait, what?  Knight for nothing?",
+        "21. h5": "?  Why not move the bishop?  There will be plenty of time for pushing pawns when major pieces are free from danger.",
+        "21... Qd6": "PxBe4 isn't going to wait forever.",
+        "22. Qb3": "...or maybe it will.",
+        "22... fxe4": ":)  Finally!",
+        "23. Nxe4 Qd5 24. Nc5": "?  Seriously wrong.  Qd3 or Qc2 would protect the knight.  Even QxQd5 would be ok.  But This--QxRh1+ spells disaster for white.",
+        "24... Qxh1+ 25. Kd2 Qxh5 26. Kd3": "Oops, QxNc5.  The white knight is fair game because it is NOT protected by the d4 pawn (discovered check by black's d8 rook).",
+        "26... Qf5+ 27. e4 Qc8": "I still liked QxNc5.  Free knight.  What 's not to love?",
+        "28. f5": "The knight is still available...",
+        "28... Qxc5": ":)",
+        "29. Ke2": "Mm, I kind of like Be3 to protect that pawn.  RxPd4 would be a terrible idea, since Be3 would pin black's rook against the queen.  QxPd4 is the way to go here.",
+        "29... Qxd4": "White might think Be3 will pin black's queen against the a7 rook, but black can respond with QxPe4, giving time to move the rook out of harm's way.",
+        "30. Be3 Qxe4": "An alternative is QxPb2+.  This forces a queen trade, but ultimately does not work out as well for black.  The e4 pawn is the much tastier morsel.\n",
+        "31. Rd1": "Every trade now counts to black's advantage.",
+        "31... Rxd1 32. Kxd1 Rd7+ 33. Ke2 Qg4+": "QxPf5 is also worth considering.",
+        "34. Ke1 Qxf5 35. a3 Qb1+": "Personally, I like Rd3.  The white queen then cannot move to protect white's bishop, which subsequently falls with RxBe3+.  Black becomes beautifully positioned.",
+        "36. Ke2 Qd1+": "This is a really bad trade.  Queen and rook for a queen?  Here Re7 would have been a lot better.  Even QxPb2+ (forcing a queen trade) gets black a queen and pawn for a queen.",
+        "37. Qxd1 Rxd1 38. Kxd1 Bxb2 39. Bf4 Nc6 40. axb4 Nxb4 41. Ke2 a4 42. Bd6 Nd5": "Nah, don't bother.  Pa3 instead.  BxNb4, Pa2, white cannot prevent promotion of the queen.",
+        "43. Kd3 a3 44. Kc2 h5 45. Kb1 f5 46. Ka2 f4 47. Bxa3 Bxa3 48. Kxa3 f3 49. Kb3 f2 50. Kc4 f1=Q+ 51. Kxd5 h4": "Black does not need another queen.  Here Kf7 would probably help end the game quicker.  Time to run the white king up against the edge of the board and gut him."
+    },
+    "url": "https://gameknot.com/annotation.pl/bears1s-mini-tournament-xlv?gm=54922",
+    "gameName": "bears1's mini-tournament XLV",
+    "players": "mic1971 (947) vs. marysson (996)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

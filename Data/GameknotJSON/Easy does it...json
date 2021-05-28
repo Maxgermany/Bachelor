@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. a4 e5 2. a5 d5 3. e3 f5 4. a6": "Freddy wins quickly. The thematic tournament position.",
+        "4... Nxa6": "Black takes the pawn.",
+        "5. Bxa6 bxa6 6. d4 e4 7. Ne2 Bb4+ 8. Bd2 Be7": "Black does not want to exchange the bad bishop.",
+        "9. b3 Nf6 10. c4": "White needs counterplay.",
+        "10... O-O 11. cxd5": "Risky because it gives more scope to the black bishops but undermines the center.",
+        "11... Qxd5 12. Nbc3 Qf7 13. Na4 Be6": "A strong reaponse. Nc5 now loses a pawn.",
+        "14. Nc5": "? Move made without thought. Best was b4 with only a slight advantage for black.",
+        "14... Bxc5 15. dxc5 Bxb3 16. Qc1": "P",
+        "16... Bc4": "A good move; prevents 0-0 and protects a6. Black now has a won game.",
+        "17. Ba5 Nd7": "! Another nice move; sets a trap.\n",
+        "18. Bxc7": "?? This loses quickly.\n",
+        "18... Nxc5": "Excellent. Now black has a clear win.",
+        "19. Kf1": "Resignation is in order. White plays on a few more moves.",
+        "19... Nb3 20. Qc3 Qxc7": "! Ingenious the threat is to take with check and then grab the Q and also to the rook.",
+        "21. Rc1 Nxc1": "White resigns.",
+        "22. Qxc1 Rac8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/easy-does-it?gm=49422",
+    "gameName": "Easy does it.. ",
+    "players": "dmaestro (1487) vs. easy19 (2068)",
+    "opening": "Crab opening (A00)"
+}

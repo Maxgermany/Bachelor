@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "The King's Pawn opening.  When my opponent or I play 1.e4 I remember Bobby Fisher's statement, and it is, \"Best by Test\".",
+        "1... c5": "This is the, \"cornerstone\" of the Sicilian Defense.  Bobby Fisher would also say, \"Best by Test\" for Sicilian.  BTW, I believe that, \"Best by Test\" means to play an opening that you are most accustomed to, but I am not completely sure.",
+        "2. d4": "I am surprised that he made this move, but it is certainly playable.  I figured that he would respond with 2.Nf3, followed by 3.d4.  That is how I learned the Open Sicilian.  However, I believe that this is also an Open Sicilian, with a different variation.",
+        "2... Nf6": "? I chose this candidate because I thought he was going to play 3.dxc4.  If that happened, I would respond with 3...Nxe4.  That way, things would be even, but this move was a blunder.  That is because he will chase my knight 3.e5.",
+        "3. e5 Ne4": "Therefore, I am forced to retreat my knight, so I have lost a tempo.",
+        "4. f3": "! I honestly thought he was going to win a free pawn, with 4.dxc5.  However, it is far worse then that, and I will explain it shortly.  ",
+        "4... Ng5": "I figured that I had lost a tempo, at worst.  However, it is, \"more then meets the eye\", as it is said.  That is because he will exchange my knight for his pawn with 5.Bxg5, cxd4.  Therefore, I will be two points behind.",
+        "5. Bxg5 cxd4 6. c3": "! He made this move to force an exchange with 6...dxc3 7.bxc3, or 7.Nxc3.  However, I am not willing to exchange material because I am behind.",
+        "6... f6": "? I chose this candidate to chase his LSB, but I was not thinking.  Therefore, this is a mistake because he will force an exchange 7.exf6, gxf6.     ",
+        "7. exf6 gxf6 8. Bd2": "However, he is forced to retreat his LSB because it was chased, during the exchange.  Therefore, exchanging material might not have been so bad, but I am still behind, as I had mentioned earlier.  Afterall, I do not like exchanges when I am, \"down material\".",
+        "8... Nc6": "I do not know why I made this move.",
+        "9. Bd3": "I am also not sure why he chose this candidate because he did not fianchetto his LSB.  In addition, I do not know what he is trying to do, in this position.",
+        "9... Ne5": "! This is solid.  I moved my knight to play a fork between his LSB and f3 pawn.  ",
+        "10. Be4": "! I thought that he was going to move his DSB, instead of his LSB.  That way I would exchange pieces with 10...Nxd3+ 11.Qxd3.  What's the logic behind exchanging pieces, when you are behind?  In this position, I wanted to exchange my knight for his LSB because this is an open position.  In an open position, your bishop is worth more then your knight.  In addition, \"'There's always an exception to everything\"', as chesskingdom64 would say, and this was one of the exceptions.  Therefore, this is a very good move as it protects his LSB.  ",
+        "10... dxc3": "? Once again, I was not thinking, in this position.  I thought that I had won his c3 pawn, but I forgot about his DSB, b1 knight, and c3 pawn.  Therefore, this will become an exchange, instead of a free pawn because he will respond with 11.Nxc3.",
+        "11. Nxc3 Nc4": "I decided to play another fork.  This time, it is between his DSB and b2 pawn.  However, this was not the best choice, and I will explain that shortly.",
+        "12. f4": "! At first, I did not know why he made this move.  However, I quickly figured out that he advanced his f3 pawn to find an inevitable mating move.  This is the reason that 11...Nc4 was not a great choice, and I will go into more details shortly.",
+        "12... Nxb2": "?? I thought that this move was solid, during the game.  I played the fork so that I would win a free pawn.  In addition, I wanted to chase his queen away so that I would gain a tempo.  However, chesskingdom64 would also say, \"almost anything is better than this move.\"  In fact, this is the loosing blunder.  Therefore, his sacrifice is deflective, and this is the mating threat that I missed.  As a result, he now has an inevitable mating move and will mate me with 13.Qh5#. ",
+        "13. Qh5#": "I forgot an important lesson, with this opponent.  In chess, it is always important to look out for your opponents plan, including mating threats.  Otherwise, it will have negative consequences.  In many cases, your opponents strategies can determine your performance (how well you play.)  That was proven, in this game.  Having said that, I want to thank binblaster for giving me this game.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-missed-mating-threat?gm=44342",
+    "gameName": "a Missed Mating Threat",
+    "players": "binblaster (1865) vs. jkarp (1111)",
+    "opening": "Sicilian (B21), Smith-Morra gambit"
+}

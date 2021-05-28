@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4": "Morphy Defense, classical variation. All book so far.",
+        "4... Nf6 5. O-O Be7 6. Re1 b5": "Breaking the pin.",
+        "7. Bb3 d6 8. c3 O-O": "Both men have now secured their King's position. Development and attack are now in order.",
+        "9. h3": "Restricting the Black QB.",
+        "9... h6": "Anticipating White's next move, and taking action to limit the White QB's scope.",
+        "10. d4": "The long-prepared central thrust at last.",
+        "10... Re8 11. Nbd2": "The Q-side pieces bestir themselves at last.",
+        "11... Bf8": "Adding protection to the strong point at K4.",
+        "12. d5": "Locking the center and clarifying the game.",
+        "12... Ne7": "Black's play is on the K-side now, with White's lying on the other wing.",
+        "13. c4": "Pushing onwards...",
+        "13... bxc4": "Cutting off the potential Pawn storm.",
+        "14. Nxc4 c6": "Trying to break up White's central wedge.",
+        "15. dxc6": "Najdorf consents to the exchange.",
+        "15... Nxc6 16. Be3 Be6": "Driving back the Knight. Draw agreed. White has an endgame advantage with a flank majority on the Q-side, but it would take a long time to try and exploit. Even if it could be exploited, it may not be enough to win."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-havana-1962?gm=35969",
+    "gameName": "Casual Game, Havana 1962",
+    "players": "Miguel Najdorf (GM) vs. Che Guevara ",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

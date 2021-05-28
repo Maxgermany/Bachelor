@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bg7 6. Nxc6": "Here 6. Be3 is the mainline, and is a bit stronger. White allows Black too much compensation for his underdevelopment.",
+        "6... bxc6 7. Bd2 Nf6 8. Qc1 O-O 9. Be2": "I don't quite understand this move. He lined up the Bishop and Queen to try to undermine my fianchetoed Bishop, but then never ended up attacking it. 9.Bh6 I would think is the more logical move, followed up by a Queenside castle and a pawn storm on the kingside.",
+        "9... d5": "!! This allows me to attack the center, and try to get more devolpment.",
+        "10. e5": "? 10.exd5 is much better",
+        "10... Nd7 11. f4 f6 12. exf6 Nxf6": "Now I am the only one with central pawns.",
+        "13. Be3": "?? A huge blunder. I was already ahead, but this gives me the win.",
+        "13... d4 14. Bc4+ Kh8 15. Ne2 dxe3 16. Qxe3": "Now Black is up positionally and materially.",
+        "16... Nd5 17. Bxd5 cxd5": "Gives me back my pawn in the center, and allows me to further liquidate the material.",
+        "18. c3 Rb8 19. b3 e5 20. fxe5 Rf5 21. e6": "Now he trys to Queen the pawn, an impossible idea with my Queen AND Rook on the back ranks.",
+        "21... Ba6 22. e7 Qc8 23. Kd2 Re5": "This forces him to either trade his Queen for a Rook, or give up a Knight and his pawn. If he chooses to give up the Knight and pawn, he will fall under a large attack.",
+        "24. Qxe5 Bxe5": "He elects to trade off the Queen for the Rook.",
+        "25. Rhf1 Qc5 26. Rf7 Re8": "He can't keep the pawn alive any more.",
+        "27. Raf1 Rxe7 28. Rf7f8+ Kg7": "Here White resigns, as he is down materially and positionally. It was a great game, and I'd like to thank torrey64 for playing it with me. :)"
+    },
+    "url": "https://gameknot.com/annotation.pl/great-game?gm=37606",
+    "gameName": "Great Game",
+    "players": "torrey64 (1438) vs. pcshark11 (1495)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. c4 Bg7 4. e5 e6 5. d4 Ne7 6. d5 O-O 7. d6 Nf5": "Black has followed the Hungarian variation in this Sicilian: White has tried, to turn this in something else...",
+        "8. Bd3 Qa5+ 9. Bd2 Qb6 10. b3 a5": "Black is losing no time...",
+        "11. Bxf5 exf5 12. Bc3 Nc6 13. O-O Re8": "pawn e5 on the menu...",
+        "14. Re1 a4 15. Na3 Qd8 16. Nb5": "trying to fork at c7...",
+        "16... Re6 17. Nc7 Ra7 18. Nd5": "Nxe6 might have been an option...",
+        "18... b5 19. cxb5 Nb4 20. Bxb4 cxb4 21. bxa4 Bb7": "Black has lost two pawns, but gained the initiative...",
+        "22. Nxb4 Qa5": "forcing the Knight back to a bad place...",
+        "23. Nd5 Bxd5 24. Qxd5 Qxa4 25. Qc5": "the wrong plan...",
+        "25... Ra5": "taking b5, and trapping the Queen..",
+        "26. Qc8+ Bf8 27. Qxd7 Qxb5": "stronger than Rxb5, pinning Qa4...",
+        "28. Reb1 Qxd7": "surely not planned: but these are the breaks in blitz; making bad decisions, in good times...",
+        "29. Rb8 Kg7 30. h3 Qa7 31. Rab1 Rxa2 32. Rb1b7 Qxf2+": "White had enough, and resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-fresh-one?gm=64896",
+    "gameName": "a fresh one...",
+    "players": "chestertoo (1658) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B27), Acton extension"
+}

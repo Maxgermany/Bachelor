@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. c4": "I have never done well against the Engish opening",
+        "1... c5": "This is not the normal reply. Black's normal response to c4 is usaully e5 or Nf6. ",
+        "2. Nf3 Nc6 3. g3 Nf6 4. Bg2 e6": "I would say this is too timid. Better is e5",
+        "5. O-O b6": "Creating a unnecessary weakness on c6",
+        "6. d4 Bb7 7. Nc3 Qc7": "This is just stupid. ",
+        "8. Bf4 d6 9. dxc5 bxc5": "I now have a major weakness on d6",
+        "10. Nb5 Qd7 11. Bxd6 O-O-O": "I can not take the bishop because of my weakness on the d file. ",
+        "12. Bf4 a6": "If white wants to exchange the queens this early than I am slightly better if the exchange happens on d7. A6 is a nice in-between move that discourages white from removing the queens. ",
+        "13. Nc3 Bd6": "Removing the annoying bishop. This also loosens whites control over  the d file a lot.",
+        "14. Bxd6 Qxd6 15. Qxd6 Rxd6 16. Na4 Ne4": "the most active defence for defending C5",
+        "17. Nh4": "An easily made blunder that tips the balance. White is trying to activate his bishop but black has an equalizing blow",
+        "17... Nd4": "The hanging knight on E4 is easily parried and black now has a slight advantage in the centre. Notice how my peices are working in harmony. In contrast to white's who seem to be off on their individual missions.",
+        "18. e3 Ne2+": "This ensures the draw. ",
+        "19. Kh1 Rhd8": "doubling the rooks and activating my remaining peice. ",
+        "20. Bxe4 Bxe4+ 21. f3 Bd3": "I thought about playing Ng6  but I could not see a clear advantage so I played the drawish move. ",
+        "22. b3 Nxg3+ 23. hxg3 Bxf1 24. Rxf1 Rd6d2": "for the pawn black has a tempary space advantage. Plus the pawn is easily won back. White's pawn are easy targets",
+        "25. a3 Rd8d3 26. Nxc5 Rxe3 27. Kg1 Ree2 28. Ne4": "Agreed draw. "
+    },
+    "url": "https://gameknot.com/annotation.pl/open-for-everyone-1200-1800?gm=11356",
+    "gameName": "Open for everyone 1200-1800",
+    "players": "helmut2207 (1880) vs. elyhim (1525)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6": "This is about all I know of the Sicilian.",
+        "3. d4 e6 4. Qe2 cxd4": "Forgot about that...",
+        "5. g3 e5 6. Bh3 d6 7. Bxc8 Rxc8 8. Na3 d5 9. exd5 Qxd5 10. Nb5 a6 11. Na3 Bxa3 12. bxa3 Qa5+ 13. Nd2": "Bd2 loses to QxP.",
+        "13... Nf6 14. O-O O-O 15. Nc4 Qc5 16. Rb1 b5 17. Nd2 Rfe8 18. Ne4 Nxe4 19. Qxe4 Rcd8 20. Qg4": "Pinning the pawn.",
+        "20... Qxc2 21. Bh6": "Serves as an attack and links my Rooks.",
+        "21... g6 22. Rbc1": "Skewer!",
+        "22... Qxa2 23. Rxc6 Re6 24. Rfc1 f5": "I think RxR was better.",
+        "25. Qg5 Ree8": "This definitely loses the game.",
+        "26. Rxg6+ Kh8 27. Bg7+ Kg8 28. Bf6+": "He resigned here, since either move is mate in 2."
+    },
+    "url": "https://gameknot.com/annotation.pl/my-attempt-at-the-sicilian?gm=39589",
+    "gameName": "My attempt at the Sicilian.",
+    "players": "theancientbeast  vs. abb1er1n ",
+    "opening": "Sicilian defence (B32)"
+}

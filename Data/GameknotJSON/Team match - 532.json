@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Preparing for a variation of the Vienna game with strong, immediate pressure against f7.",
+        "2... Nf6 3. Bc4 Nxe4 4. Qh5": "Black was expecting Nxe4 where d5 forks the bishop and knight.",
+        "4... Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5 8. Nxd6+": "Nxd6?? A critical error. Of course Qd5 which I had prepared earlier--one of the problems of correspondence chess I've noticed. ",
+        "8... Bxd6": "The threat was, after Qd5, Nxd6 and mate at f7. If black's queen came out to protect, then Nxc7 winning the rook.",
+        "9. Ne2 e4 10. Qe3 Qe7 11. d3 exd3 12. Qxd3 b6 13. Bh6": "Now white is taking advantage of black's poor pawn structure and piece placement--his payment for getting a pawn and chasing me all over.",
+        "13... Bb7 14. O-O-O Nb4 15. Qd2 Bxg2": "Bxg2?? Instead of castling and saving his game white is pawn grabbing and misplacing another piece.",
+        "16. Bg5 Qg7 17. Rhe1 h6 18. Ng3+": "Ng3+! There is no good move here--...Be5, then Rx e5+...Qxe5,  Qxd7 + with various winning scenarios.",
+        "18... Kf8 19. Bf4": "Looking to penetrate to the seventh rank or win the knight on b4.",
+        "19... Bxf4 20. Qxf4 c5": "c5?? loses on the spot.",
+        "21. Qd6+": "And black, staring at mate, resigns. You could hardly find worse squares for all of black's pieces to be."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=30657",
+    "gameName": "Team match",
+    "players": "jhfit (1829) vs. sorgue (1794)",
+    "opening": "Vienna (C27), `Frankenstein-Dracula' variation"
+}

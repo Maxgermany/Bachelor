@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "I am terribly embarrassed for losing this game.  I was in a good position, then a slight lapse in concentration and the game is lost.  Do not do anything else while playing chess,  My Standard opening when playing white.",
+        "1... e5": "Normal response.",
+        "2. Nf3 d6 3. Bc4 h6": "I wasn't really expecting this but its no problem.",
+        "4. Nc3": "Keep my development going.",
+        "4... c6": "Preparing to push d5",
+        "5. O-O": "Castle to safety",
+        "5... Nf6 6. d3 a6 7. a3 Nbd7": "So far no problems",
+        "8. Nh4": "Looking to get my knight to f5",
+        "8... b5 9. Bb3 Nc5 10. Ba2": "I should've played Ba2 on the 9th move.",
+        "10... Ng4 11. Nf5": "Offering the sacrifice which will result in white winning a piece.",
+        "11... Bxf5 12. exf5 Qd7 13. Qxg4 g6 14. Qf3 gxf5 15. b4 Nb7 16. Re1 O-O-O 17. a4": "Trying to open the queenside.",
+        "17... Rg8 18. axb5 cxb5 19. Nd5 Qc6": "Black lining up mate on Qxg2 but i have this in mind.",
+        "20. Qxf5+ Rd7 21. Nf6": "There is my break in concentration.  Not seeing the whole board after i knew it was coming.  After a blunder like this i deserve to lose the game.  I was very angry with myself after this.  I consider this a very beginner blunder.  Something my child would do,  who does not play chess.  ",
+        "21... Qxg2#": "Black saw the gap and jump on it.  Perfect example of why not to do anything else while playing chess.  I gave the game away."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=21829",
+    "gameName": "Let's play chess",
+    "players": "raziell (1471) vs. marshals (1400)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

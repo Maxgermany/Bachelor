@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. c4": "English (A34), symmetrical variation\n\nAnnotated by me and some help from Rybka.\nThe ratings are simply my estimates for both programs.",
+        "1... c5 2. Nc3 g6 3. Nf3 Bg7 4. e3": "This move gives room for the white bishop and also reinforces the center d4.",
+        "4... Bxc3 5. dxc3 d6": "This move basically prevents white from taking advantage of the e5 square.",
+        "6. Be2": "6. e4 Bg4 is slightly better.",
+        "6... Nf6": "Even game thus far.",
+        "7. O-O Nc6 8. b3 O-O 9. Bd2 Qa5 10. a3 Qb6 11. b4 Bf5 12. b5": "Seems like an okay move.\n12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)",
+        "12... Na5": "Na5 gives a small advantage to white.",
+        "13. h4": "Alternate moves: 13. Bc1 Rfd8 14. Bb2 a6.",
+        "13... Bg4": "13. ...Be6! attacks the c4 pawn.",
+        "14. Bd3 Nd7 15. e4 Ne5": "Obvious threat here is Nxd3.",
+        "16. Qe2": "A move like 16. Bg5 Rfe8 is alright.",
+        "16... Nxd3": "Although this does not seem bad its not the best.\n16. ...Nb3 (bring that Knight more into play and attacks 3 pieces at once) 17. Rad1 Qa5 Bc1.",
+        "17. Qxd3 Be6 18. Bh6": "Perhaps 18. Rfb1 is more interesting.",
+        "18... Bxc4 19. Qb1": "19. Qe3 Bxc1 20. Bxf8 Rxf8 21. Rxf1 Qxb5 (gives black a significant advantage).",
+        "19... Bxf1 20. Bxf8": "At least worth considering: 20. Qxf1 Rfc8.",
+        "20... Bxg2 21. Kxg2 Rxf8 22. a4 c4 23. Kg1": "Waste of time.  23. Nd7 places the knight in a better spot.",
+        "23... Qc5 24. Qb4": "Not a great move.  White should keep the queen while he can.\n24. Qf1 Qh5 25. Qh3 Nb3 is better but still opponent has advantage.",
+        "24... Qh5": "Here the queens should have been exchanged.",
+        "25. Ne1 Nb3 26. Ra2 Qg4+ 27. Ng2 Qxe4 28. Rb2 Nc5 29. Qa5": "Here white is thinking of perhaps pushing the pawn to b6.",
+        "29... Ra8 30. b6 Nd3 31. Rc2": "I am confused why this move was made (other than to avoid the Knight).\nThe following looks much more interesting:\n31. Qxa7 Rxa7 32. bax7 Nxb2 33. a8Q+ Kg7 (still though black is winning). \n",
+        "31... Qg4": "Certainly the reason for doing this move is okay.\n31. ...Ne5 is better though 32. Qxa7 Rxa7 33. bxa7.",
+        "32. f3 Qxf3 33. Rd2 Nc1 34. Kh1 Nb3 35. Qg5 Nxd2 36. Qxd2 axb6 37. Qc2 Qg3 38. Qc1 Rxa4 39. Qe1 Qh3+ 40. Kg1 Ra2": "Black has basically won at this point.",
+        "41. Qf2 Rxf2 42. Kxf2 Qxc3": "White resigns. (Rybka says: Mate in 12)."
+    },
+    "url": "https://gameknot.com/annotation.pl/windows-7-chess-titans-level-10-vs-chess-jester-1-10e?gm=31254",
+    "gameName": "Windows 7 Chess Titans Level 10 vs Chess Jester 1.10e",
+    "players": "ChessTitans (1800?) vs. ChessJester (2000?)",
+    "opening": "English (A34), symmetrical variation"
+}

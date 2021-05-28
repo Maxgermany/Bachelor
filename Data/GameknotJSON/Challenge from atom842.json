@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. Nf3": "I'm going to annotate using the notes I made as the game progressed as well as any other observations I make looking this over after the fact now.",
+        "1... c5 2. c4 Nc6 3. d4 e6 4. Nc3 Qa5 5. Bd2 Qb4 6. Nd5": "A bit of a gamble, betting that Jamie will preserve his Q with Qxb2 and allow me to fork with Nc7+.",
+        "6... Qxc4 7. Nc7+ Kd8 8. Nxa8 Nxd4 9. Nxd4": "Traded the knight to prevent him forking me the same way. Would've liked Ne5, but it wouldn't have stopped his fork. Oh well.",
+        "9... Qxd4 10. b3": "Rg5+ would be so much cooler if that stupid pawn at c5 wasn't there. Took me a while to find a move I liked here. b3 seemed like the best move to hold onto that pawn. I didn't see any benefit in letting his Q onto the 7th rank.",
+        "10... Nf6 11. e3 Qe5": " Pushed the Queen back a little but I don't have much of a plan. Considering putting the white bishop into the field to open the bottom rank for castling.",
+        "12. Be2 h6 13. Qc2": " I think the h6 was out of habit, maybe? I don't have my bishop in position for a pin, but it blocks it if I decided to do it later on g5. I'm just not a huge fan of a6 or h6 anymore. Moving my Q out to threaten his with a bishop in a move or two and then I could force a trade with Bcxf6 and make him start stacking pawns.\n",
+        "13... Qxa1+": "...and then I saw my mistake as soon as I hit submit. Should have paid more attention. This is going to hurt.",
+        "14. Bd1 d5 15. Bc3": "Time to regroup. Bxf6 is less attractive than it was, but I need to make up for the idiot move I just made.",
+        "15... Qxd1+": " Pretty this last move by Jamie was a mistake. I see nothing wrong with Qxd1.",
+        "16. Qxd1 Ne4 17. Qc2 Nd6 18. O-O": "Now I've got to start aligning my forces and work on pressing my advantage. Hopefully this ends with a mate for white.",
+        "18... Ne4 19. Ba1 b6 20. f3 Nf6 21. Bxf6+": "Looked like a good trade to me. Finally got those stacked pawns. Hoping for 21. ... gxf6 22. b4 cxb4 23. Qc7+",
+        "21... gxf6 22. b4 Bb7 23. Nxb6 axb6 24. b5 c4 25. Rd1 Bc5 26. Qa4 Bxe3+ 27. Kf1 d4 28. Qxc4 Bd5 29. Qa4 Ke7 30. Qa7+ Kd6 31. Qxb6+ Ke5 32. Qc7+": " Just going to try to keep picking off pawns and hopefully capitalize on an errant move. Not really trying to force anything just yet.",
+        "32... Kf5 33. Qxf7 Bc4+ 34. Ke1 d3 35. Qh5+": "Looks like I could luck out on mate here with 35. Qh5+ Kf4 36. g3# I'll cross my fingers and hope he doesn't move the bishop.",
+        "35... Kf4 36. g3#": "Jamie told me he's been really busy with work lately and I think luck played a big part in this victory. I will attempt to learn all of my opponents' professions and time my games accordingly. Teachers= end of May/early June. Accountants= early to mid April. Astronauts, cowboys, and world presidents... I got nothing."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-atom842?gm=58947",
+    "gameName": "Challenge from atom842",
+    "players": "atom842 (1297) vs. jamieofthenorth (1148)",
+    "opening": "Reti opening (A04)"
+}

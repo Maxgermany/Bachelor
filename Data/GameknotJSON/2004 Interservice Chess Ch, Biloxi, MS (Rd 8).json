@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "The Interservice Chess Championships is a tournament held every year in which each of the four services (Army, Navy, Air Force & Marine Corps) send six of their best players to compete in a team competition against the other branches.  It is a long, tough tournament -- grueling, some might say -- especially for a guy like me who's sitting at the rung just above the floor on the wallchart. Some people play well at the beginning and burn out towards the end, while others just get warmed up with early losses and play better as the tournament progresses.  Luckily for me, I happened to be in the latter category for the 2004 Interservice. \r\n\r\nJust coming off my first win in this event I was pretty psyched up, but Major Cerezo would certainly give me a major headache if I slipped up, so I knew I had to be on my toes for this game. SSgt Chris Brashers had some of the Major's games in his database and I knew he liked to play the Sicilian, so I opted for the Grand Prix Attack, an opening that seems to fit my style of play. Playing aggressively had been working for me so I thought I'd continue this trend and keep the pressure up from the git-go. \r\n\r\nThis was the best game I played at this tournament and one I'm very proud of because I was uncharacteristically able to really see the board and come up with a plan I followed throughout the game that led to my getting another point for the Navy team.\r\n",
+        "1... c5 2. Nc3 d6 3. f4 Nf6 4. Nf3 a6 5. Be2": "A little more passive than I'm comfortable with, but after 4...a6 my bishop will have to move after black's eventual b5 push. Might as well save myself a tempo.",
+        "5... Nc6 6. O-O g6 7. d4 cxd4 8. Nxd4 Bg7 9. Be3 Nxd4 10. Bxd4 O-O 11. f5": "The defining move in the Grand Prix. White intends to pry open black's kingside. \r\n",
+        "11... Nd7 12. Bc4": "Stopping black from recapturing with the f-pawn should I decide to take the pawn on g6. ",
+        "12... Bxd4+": "Unexpected. Black usually doesn't initiate the trade off his \"dragon bishop,\" so this took me by surprise.  But not an unpleasant one.",
+        "13. Qxd4 Qb6 14. Qxb6 Nxb6": "I felt comfortable here. With the knight on b6, black's going to have to find a way to reorganize his queenside and develop without giving up too many tempi. ",
+        "15. Bb3 Bd7": "Passive. I think 15...d6 is better here to activate the light-squared bishop in a more productive way. ",
+        "16. Rad1": "Since black lost a tempo by playing 15...Bd7 first, I have time to prevent the push to d6 by attacking the e-pawn and pushing my f-pawn. ",
+        "16... Rac8 17. f6": "Now I win a pawn because if he takes on f6 I win the e6 pawn while black has to take time to defend his Nb6. ",
+        "17... Bg4": "Now I get two for the price of one! ",
+        "18. fxe7 Rfe8 19. Rxd6 Nc4 20. Rd8": "Exclam.  The rook can't be taken because the Nc4 will hang. ",
+        "20... Be6 21. Rfd1 f6": "Notice the precarious position of all black's pieces.  The knight's pinned, the bishop's overloaded, and the rooks are passively stuck on the eighth rank, unable to do anything but watch the show helplessly from the mezzanine.",
+        "22. Rxc8": "And here he graciously resigned -- not even making me prove it, which is unusual for a low-rated player like me in a tournament like this -- in lieu of losing two pieces. The rook has to be taken, but both 22...Rxd8 and 22...Bxd8 lose immediately to 23.Rd8. \r\n\r\nI was extremely happy to win a game over a very strong player like Major Cerezo, but I was even happier that I was able to come up with a coherent plan that worked. Thanks for the game, Major!\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/2004-interservice-chess-ch-biloxi-ms-rd-8?gm=2190",
+    "gameName": "2004 Interservice Chess Ch, Biloxi, MS (Rd 8)",
+    "players": "PN1(SW) Matt Nemmers, USN (1627) vs. Maj Mike Cerezo, USA (1849)",
+    "opening": "Sicilian (B23), closed"
+}

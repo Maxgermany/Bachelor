@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "and do not underestimate the power of paying attention! many opening collapses are a result of subtle tactics.",
+        "1... c6 2. d4 d5 3. exd5 cxd5 4. c4": "here we get a position like the queen's gambit , but with the critical missing pawns on e3 and c6. therefore: Do Not Play Like Queen's Gambit!",
+        "4... Bf5": "a strong square for the bishop ... ? \r\n\r\nnotice his kingside is underdeveloped, so he will be slow castling. and notice that his queenside, especially the a4-e8 diagonal, is wide open via the missing c6 pawn.",
+        "5. Nc3": "white gets to keep the knight.",
+        "5... Nf6 6. Nf3 e6": "i paused a moment here wondering about this. you may see nothing immediately wrong with e6, and i didn't, but something didn't seem right about it. perhaps it was the fact that the bishop is now blocked on one side of the pawn chain, i wasn't sure.\r\nanyway, no point attacking the bishop yet (which may be to his advantage). but you can see it could get trapped . \r\n\r\ni also realised here that if white was careless, he could fall quickly to a knight fork on c2. hense the following move.",
+        "7. Qb3": "i saw this in another game, and i liked the idea. it attacks d5 and b7, while stopping the pin Bb4, and xrays f7, and nobody's around to complain.\r\n\r\nit also puts black to the question. white now sees an interesting continuation, which requires black to immediately sense something is up...",
+        "7... b6": "ah, i think black is unsuspecting.\r\n\r\nc6 has critically weakened.",
+        "8. cxd5": "black *needs* to take with the pawn and accept a small weakness so he will be able to castle. but seeing he didn't seem suspecting, i didn't expect he would.",
+        "8... Nxd5": "fatal.",
+        "9. Bb5+": "to the point!",
+        "9... Nd7": "the only move, short of moving the king.\r\n\r\ni would reject winning a, possibly poisoned, pawn here in favor of a winning attack. ",
+        "10. Ne5": "now black has no time to castle. more importantly, Ne5 creates a blockade.",
+        "10... Nd5f6": "that f5 bishop is useless.",
+        "11. Bg5": "black's position has collapsed. a missing e3 pawn was needed.",
+        "11... Be7": "Qc7 is better, but still with complications.",
+        "12. Bxf6 Bxf6 13. Nxd7": "chomp. Bxd7? um...no.",
+        "13... Be7": "black cannot castle! heehee! i think he might have gotten some counterplay if he could.",
+        "14. Nxb6+": "black plays on, perhaps seeing white's king is undefended and his rooks undeveloped.",
+        "14... Kf8 15. Nxa8 Qxa8 16. O-O": "white castles anyway, but weary of a well placed sacrifice. the knight c3 is well placed!",
+        "16... g6": "black wants to escape his king, although very weakening.",
+        "17. d5": "white intends to exchange queens. black has to take the pawn here, else accept a passed pawn. for what follows, perhaps he should have.",
+        "17... exd5 18. Qxd5 Qb8": "black is wise to keep his queen, but white finds a little maneuver to remove the strong bishop pair.",
+        "19. Bc4 Be6": "unless you like the idea of Qe7.",
+        "20. Qd4": "and its over."
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-study-no-1?gm=5660",
+    "gameName": "Opening Study No.1",
+    "players": "zhnkiu (1828) vs. jingbudda (1807)",
+    "opening": "Caro-Kann (B13), Panov-Botvinnik attack"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3": "una variante con fama de inofensiva, que en tiempos empleara Boris Spassky, pero Vallejo ya nos tiene acostumbrados a transitar por senderos poco habituales.\n",
+        "6... b5 7. Bb3 d6 8. Nd5 Na5 9. Nxe7 Qxe7 10. Re1 Nxb3 11. axb3 c5 12. d3 O-O 13. Bd2": "Desde lueg o la posici\u00f3n parece estar igualada, aunque la presencia de los alfiles de distinto color y la columna \"a\" semiabierta son factores potenciales de desquilibrio.\n",
+        "13... Bb7": "una decisi\u00f3n que las negras deben tomar es por donde desarrollar este alfil: en deja de vigilar f5 y en e6 el pe\u00f3n de a6, aunque de momento todo esto parece de momento s\u00f3lo filosof\u00eda.....\n",
+        "14. Nh4": "pues a por f5\n",
+        "14... d5 15. Nf5 Qe6 16. f3": "poniendo cemento en la diagonal blanca\n",
+        "16... g6": "que decir no que sea obvio: tal vez que debilita las casillas negras...\n",
+        "17. Nh6+ Kg7 18. Qe2 Nd7": "no es f\u00e1cil decidir que continuaci\u00f3n es m\u00e1s prometedora\n",
+        "19. Ng4": "otra posibilidad es\nAlternative variation: 19.Qf2 [tratan de meter m\u00e1s piezas hacia las casillas negras del flanco de rey]  [Pero en ses caso quiz\u00e1s sea el momento para las negras de jugar] f5 20.exf5 gxf5 21.Qh4 Rf6 [y ahora la radical] 22.g4 [se encuentra con] Rg6 $1 [con buen juego para las negras]\n",
+        "19... Rfe8 20. c4 d4": "evitando la amenaza Ne3\n",
+        "21. Bh6+ Kh8 22. Nf2 f6 23. Bd2 b4": "ambos han colocado una compacta cadena de peones en el color del alfil contrario\n",
+        "24. Nh3": "a\u00fan queda la ruptura f4 pero la posici\u00f3n negra parece sufientemente s\u00f3lida\n",
+        "24... g5": "las negras continuan con su pol\u00edtica de bloqueo\n",
+        "25. Nf2 Reg8": "ahora asistiremos a un bonito ejercicio ecuestre\n",
+        "26. Nh1 Nf8 27. Ng3 Ng6 28. Nf5 Ne7 29. g4 Nxf5 30. gxf5 Qf7": "Se acuerdan tablas, y aunque la sangre no ha estado ni cerca del rio, hemos asistido a una interesante lucha estrat\u00e9gica con el tema de los alfiles de distinto color en el medio juego.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/8th-gibtelecom-chess-festival-2010-gibraltar?gm=29228",
+    "gameName": "8th Gibtelecom Chess Festival 2010, Gibraltar",
+    "players": "Vallejo Pons, F. (2705) vs. Gustafsson, J. (2627)",
+    "opening": "Ruy Lopez (C84), closed defence"
+}

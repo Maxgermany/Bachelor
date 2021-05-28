@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "2...Nc6 is better.",
+        "3. Nc3 Bg4 4. Be2 Bxf3": "Better to wait until White forces the exchange.",
+        "5. Bxf3 Nf6 6. d4 exd4 7. Qxd4 Nc6 8. Qd3 h6": "There is no need to worry about 9.Bg5. 8...Be7 was the right move.",
+        "9. Be3 Ne5 10. Qe2 Qd7 11. O-O-O Be7 12. Nd5 O-O 13. h3 Qa4": "Very careless!",
+        "14. Nxe7+ Kh8 15. a3 Nxe4 16. Bxe4 Qxe4 17. g4 Nd7 18. Nf5 Qe6 19. Qb5 b6 20. Rhe1 Ne5 21. Bd4 f6 22. f4 Qd7 23. Qd5 Nc6 24. h4 Nxd4 25. Rxd4 Rae8 26. Rde4 Kh7 27. h5 g6 28. Re4e7+ Rxe7 29. Rxe7+ Qxe7 30. Nxe7 gxh5 31. Qxh5 c5 32. Qg6+ Kh8 33. Qxh6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/once-again?gm=13170",
+    "gameName": "once again?",
+    "players": "agamyxis (1333) vs. geerthelder (1452)",
+    "opening": "Philidor's defence (C41)"
+}

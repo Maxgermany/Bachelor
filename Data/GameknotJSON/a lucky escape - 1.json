@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5": "sicilian...",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3 b5 9. O-O-O Bb7 10. Bxf6 gxf6 11. Qh5": "and i'm in trouble. i had a long look at the database, and this position favours white hugely. f7 is pinned and very weak, i need to protect e6 with either queen, bishop or king. i choose king, as it's the one move that hasn't been tried according to the database, certainly with 1900  players.",
+        "11... Ke7 12. g3 b4": "being honest, i'm close to resignation anyway, if only he moves his knight to the correct square...",
+        "13. Nce2": "? and he misses his chance to finish me off. much better was;\n13. Nb5!! (either knight, doesn't essentially matter)\n13... axb5\n14. Nxb5...\nnow the knight forks queen and d6. obviously the queen must move, but even then i must be very careful where, a white square is best to avoid another knight attack in a few moves...\n14... Qc6\n15. Nxd6...\nnow knight forks bishop and, more importantly, the weak f7. i can do nothing to stop the queen moving in on f7, forcing the king onto d8, where he is in deep trouble.\nif...\n15... Kd8\n16. Nxf7  and the rook is lost\nanything else and...\n16. Qxf7  Kd8\n17. Nxb7 \nand the material is reclaimed, plus a couple of pawns for good measure, not to mention the serious positional disadvantage i've been put in.",
+        "13... Bxe4": "now his knight, for the time being, is tied down to protecting c2. i want to get my bishop to g6 to relieve pressure.",
+        "14. Rg1 Nc6 15. Bg2 Bg6": "? this was an error, i needed to move my rook, then trade knights, before attacking his queen.",
+        "16. Nxc6+": "indeed. not much choice here...",
+        "16... Qxc6 17. Bxc6 Bxh5 18. g4": "? and this surprised me greatly, i fully expected...\n18. Bxa8 Bxe2\nand i'm down a point. he lets me off the hook again, and with this i am equal in material, and no queens. i am relieved, thinking i've got a chance to draw.",
+        "18... Rc8 19. Bb7 Rc7 20. Bxa6 Bg6": "and there we go. as it happens, this line was very bad for white, as it opens the a-file for the rook attack. he most definitely should've taken my rook while he could.",
+        "21. Rd2 Bh6 22. g5 fxg5 23. fxg5 Bg7 24. Rgd1": "?? and with this final error, white is lost. he has blocked in his king, and his bishop is now very vulnerable.",
+        "24... Ra8": "!\ntakes full advantage of white's poor move, much better than Ra7, as the c7 rook covers c4, which would be a tidy square for the bishop to move, protecting the pawn on a2.",
+        "25. Bd3": "and though this move is bad, only Bb5 is safe, and Ra5 soon sorts that out. ",
+        "25... Rxa2": "and here we go... white is now in all sorts of bother...",
+        "26. Kb1": "? mate in four.\nwhite's only choice here if he wishes to avoid mate is simply to move his c pawn...\n26. c3 (or c4) b3!\n27. Rc2 bxc2\n\nat least white's king now has flight to avoid mate, though it cost him a rook. i'm very unlikely to lose from there.",
+        "26... Rca7": "one...",
+        "27. c3": "last act of a desperate man...",
+        "27... b3": "two... white resigns.\n\n28. Kc1 Ra1 \n29. Bb1 Rxb1#"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-lucky-escape?gm=15557",
+    "gameName": "a lucky escape",
+    "players": "a-a-a (1700) vs. tugger (1447)",
+    "opening": "Sicilian (B96), Najdorf, 7.f4"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "Apertura de pe\u00f3n de Rey",
+        "1... e6": "Planteando Defensa Francesa",
+        "2. d4 d5 3. e5": "Cerrando el centro",
+        "3... c5": "Defensa francesa, variante del avance",
+        "4. dxc5": "Un error, las blancas debieron mantener \nla estructura central de peones",
+        "4... Nc6": "Castigando de inmediato el pe\u00f3n aislado",
+        "5. Bb5": "Las blancas buscan contrajuego",
+        "5... Bxc5": "Finalmente decido comer para atormentar al pe\u00f3n de e5",
+        "6. Bxc6+": "Otro error, me cambia su \u00fanica pieza activa.",
+        "6... bxc6": "Mis peones centrales est\u00e1n m\u00e1s fuertes ahora.",
+        "7. c3 Qc7": "Atacando e5 de inmediato\ny retomando la iniciativa.",
+        "8. f4": "La \u00fanica",
+        "8... Qb6": "Las blancas me entregan la diagonal de b7-g1",
+        "9. Qe2": "Forzada",
+        "9... Bxg1": "Ganando pieza menor",
+        "10. Rxg1": "Otro error, ya no he ganado pieza\nmenor, sino mayor.",
+        "10... Qxg1+ 11. Kd2 a5": "Para enviar el alfil al ataque",
+        "12. Kc2 Ba6 13. Qd2 Ne7": "Continuo mi desarrollo",
+        "14. Na3 O-O 15. b3 Qc5": "\u00danica si deseo seguir el ataque",
+        "16. Kb2": "Error, el Rey tapa sus propias piezas para salir",
+        "16... Rab8": "De nueva cuenta, se castiga la impericia\ndel rival.",
+        "17. Qe1": "\u00danica jugada del blanco que vale la pena,\ndespu\u00e9s de cualquier jugada negra sigue \nAe3, ganando Dama o buscando un poco de \ncontrajuego",
+        "17... d4": "Retomando la iniciativa y el ataque",
+        "18. c4 Bxc4 19. Nxc4 Qxc4 20. Bd2 Nd5": "Las blancas est\u00e1n perdidas, luego de a4",
+        "21. Ka3 Qc5+ 22. Kb2 a4 23. b4 Nxb4 24. Bxb4 Rxb4+": "Y las blancas se rinden."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23512",
+    "gameName": "Let's play chess",
+    "players": "everette21 (1140) vs. hambleto (1200)",
+    "opening": "French (C02), advance, Steinitz variation"
+}

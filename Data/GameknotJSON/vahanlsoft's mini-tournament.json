@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4": "Initiating the Evans Gambit an opening I'm not too familiar with but still knew of it's strength for an attacking player",
+        "4... Bxb4 5. c3 Be7": "I expected Ba5 or Bc5 both very passive approaches. With Be7 black has less claim to the center but secures his kingside more",
+        "6. O-O Nf6 7. Re1": "Protecting my e4 pawn and also a strong move with the belief of making the e-file half-open in the future",
+        "7... h6 8. d4 exd4 9. e5 Ng4": "A blunder. Now the knight has no where to escape to an must be traded for a pawn",
+        "10. h3 Ngxe5 11. Nxe5 Nxe5 12. Rxe5 d6 13. Qf3": "Threatens to flush the king from his home all the way to a vulnerable position on the queenside he cannot have that",
+        "13... O-O 14. Rh5": "I look to open black's kingside and began a devastating attack which I believe will soon lead to mate",
+        "14... Be6 15. Bxe6 fxe6 16. Qg4": "A fork that pins black's g pawn down and attacks e6",
+        "16... Bg5 17. Bxg5": "Doubling his pawn and I still have the ability to take e6 gaining initiative and material advantages",
+        "17... hxg5 18. Qxe6+ Rf7 19. Qg6 Rf6 20. Qxg5 Qf8 21. Qd5+ Rf7 22. cxd4 c6 23. Qb3 d5": "lifting the pin from his rook I now must protect f2",
+        "24. Qc2 Rf6 25. Nc3": "I need to develop now but I am extremely happy being up 3 points although he has a large pawn advantage on the queenside",
+        "25... Kf7 26. Re1 Re8": "With my material advantge I am very content trading off evenly so this plays right into my hands",
+        "27. Rxe8 Qxe8 28. Re5": "Gaining tempo and nearly cutting the board in two for black",
+        "28... Qd7 29. Qa4 b5 30. Qb3 Re6 31. Rxe6": "Again trading off :)",
+        "31... Qxe6 32. Qd1 g6 33. Qf3+ Ke7 34. Ne2": "Closing the e file to black's queen",
+        "34... Kd6 35. Qg3+ Kd7 36. Qe5": "Please trade!",
+        "36... Qxe5": "Yes!",
+        "37. dxe5 Ke6 38. f4 g5 39. g3 gxf4 40. gxf4 c5 41. Kf2 d4 42. a3": "His pawn advantage on the queenside keeps me honest in the end game",
+        "42... d3 43. Nc3 a6": "With this the queenside is officially held down by my pawn and knight. With c4 he cannot move any further and the knight controls so many squares no matter the sequence on the queenside black cannot advance a pawn without the help of his king",
+        "44. Ke3 c4 45. h4 Kf5 46. h5": "Black's king only can move back to e6",
+        "46... Ke6 47. h6 Kf7 48. f5 Kg8 49. f6 Kh7 50. e6": "This was one of my stronger end games black resigns my pawn advance is inevitable"
+    },
+    "url": "https://gameknot.com/annotation.pl/vahanlsofts-mini-tournament?gm=24242",
+    "gameName": "vahanlsoft's mini-tournament",
+    "players": "wiesner14 (1349) vs. vonshubbe (1339)",
+    "opening": "Evans gambit (C51), 5...Be7"
+}

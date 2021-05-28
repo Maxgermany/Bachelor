@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4": "He opens with his Queen-pawn.",
+        "1... e6": "I play for the French, a favorite of mine.",
+        "2. c4": "Queen's Gambit?",
+        "2... d5": "Now it is a type of French, it appears.",
+        "3. b3": "White has horrible black holes leading into his base.",
+        "3... Bb4+ 4. Bd2 Bxd2+": "Here I lose control of the dark squares.",
+        "5. Qxd2 Nc6": "Developing my Knight and hitting the d4 pawn.",
+        "6. Nf3 Nf6": "Preparing to castle.",
+        "7. e3 O-O 8. Bd3": "Aiming at h7.",
+        "8... b6 9. O-O Re8": "Preparing for an e5 push.",
+        "10. Nc3 e5": "Pushing the pawn to bust Black's center, and opening up the c8-h3 diagonal.",
+        "11. dxe5 Nxe5 12. cxd5": "Okay, he wants to totally lose control of the center, it appears.",
+        "12... Nxd5 13. Nxe5 Rxe5 14. f4": "Attacking the Rook.",
+        "14... Rh5": "Why not? Puts pressure on the King.",
+        "15. Rac1 Nxc3": "This move loses. Better to reposition it to e7, then to g6, to better attack the King.",
+        "16. Rxc3 Bf5 17. Rf2 Qh4 18. h3 Qg3": "Better is Bxh3.",
+        "19. Rf3 Qg6 20. Bxf5 Rxf5": "And there goes my attack.",
+        "21. Rxc7 h5": "Desperate.",
+        "22. h4 Qg4 23. Qf2 f6 24. e4 Ra5": "Much better was Rc5, where I could hope to trade off Rooks.",
+        "25. Rg3 Qd1+ 26. Kh2 g5 27. fxg5 fxg5": "And there it goes.",
+        "28. Qf7+ Kh8 29. Qg7#": "There it is. A decent middlegame followed by a terrible late-middlegame/horrid endgame. Please comment, since this is a training annotation."
+    },
+    "url": "https://gameknot.com/annotation.pl/training-annotation-1?gm=44895",
+    "gameName": "Training Annotation #1",
+    "players": "nikosbo (1300) vs. theancientbeast (1388)",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

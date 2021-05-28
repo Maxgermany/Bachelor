@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4": "Here I'm making sacrifices for quick opening.",
+        "4... cxb2 5. Bxb2": "I'm 2 points down, but I have 2 pieces developed.",
+        "5... Bb4+ 6. Nc3 Qf6 7. Nge2": "Protecting my knight, and making room to castle.",
+        "7... Ne7 8. O-O": "OK my knight is unpinned. If my opponent wont castle, then I have a killer move Nd5!",
+        "8... O-O": "Well he did ;).",
+        "9. Nd5": "Anyway I go Nd5, it's very strong position for knight in the centre.",
+        "9... Qd6": "That move I did not expect.",
+        "10. f4": "Starting king side attack.",
+        "10... Nxd5 11. Bxd5 c6 12. Bb3 Qxd1 13. Raxd1": "Queens are off, and all of my pieces are developed, but his queen side is not.",
+        "13... b5 14. Ng3": "f5 square is my target.",
+        "14... Ba6 15. Nf5 Bc5+ 16. Kh1 g6": "Now this is the funny part of the game, the move, i did not expect from my opponent (not with his rating). Mate in one.",
+        "17. Nh6#": "Thanks for watching. Have a nice day."
+    },
+    "url": "https://gameknot.com/annotation.pl/funny-endgame?gm=31562",
+    "gameName": "Funny endgame",
+    "players": "stojanc  vs. d_black ",
+    "opening": "Danish gambit (C21), Collijn defence"
+}

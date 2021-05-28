@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5": "Sicilian Defense.  I chose this opening because a quick review of Maglicianer's games showed she tended to lose more often with this.",
+        "2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6": "I chose Nf6 because every move made by white except NC3 favors black in the database.",
+        "5. Nc3": "Naturally white plays NC3.  Pelikan variation.",
+        "5... e5 6. Ndb5 Nxe4": "This was an early morning blunder.  For some reason I thought I could answer 7 NxNe4 with Qa5+, and then QxNb5--completely overlooking the fact Nb5 was defended by Bf1.  I even programmed it.",
+        "7. Nxe4 Qa5+ 8. c3": "Now I notice Bf1.  (At least I didn't program THAT!)",
+        "8... a6": "Pushing the knight is pretty weak when white WANTS to play Nd6+.  But white might be better off playing 9 Pb4.  The black queen is all that is protecting against the infamous Nc7+ rook fork.  Black could respond with Qb6, but white would answer with Be3, forcing the black queen back to Qd8.",
+        "9. Nbd6+": "If black plays Kd8 white answers NxPf7+ and forks the h rook.",
+        "9... Bxd6 10. Nxd6+": "Now the king must move.  Kf8 blocks the h rook.",
+        "10... Ke7 11. Nf5+ Kf6 12. Bd3 d5 13. O-O Bxf5 14. Bxf5 Kxf5 15. Qf3+ Ke6 16. Qg4+ f5 17. Qxg7 h5 18. Qg6+ Kd7 19. Qxf5+ Kd6 20. Qg6+ Kc7 21. Qg7+ Kd6 22. Qg6+ Kc7 23. Qg7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/an-interesting-clash-of-the-captains?gm=56652",
+    "gameName": "An interesting clash of the captains",
+    "players": "maglicianer (1495) vs. lord_shiva (1663)",
+    "opening": "Sicilian (B33), Pelikan, Bird variation"
+}

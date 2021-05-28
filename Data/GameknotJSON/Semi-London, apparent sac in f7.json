@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "Un altro esempio di come la gente abbandona prima del tempo e gioca senza pensare.",
+        "1... d5 2. Nf3 h6 3. h4 e6 4. Bf4 c5 5. e3 c4 6. c3 a6 7. Nbd2 Bd6 8. Ne5 Nf6 9. Be2 b5 10. a3 Bb7": "In questa apertura, l'alfiere bianco delle nere \ufffd condannato. Spero di non cascarci mai con le nere!",
+        "11. f3 Nbd7 12. Nxf7": "Questo \ufffd il sacrificio tematico. Da qualche parte devo trovare della teoria su questo. L'alternativa \ufffd 12. Cg6, minacciando la torre. ",
+        "12... Kxf7 13. Bxd6 Re8 14. f4 Nb6 15. Be5 Qe7 16. Qc2 Kg8 17. g4 Nfd7": "Qui si poteva anche pensare a muovere il cavallo in f3, ma io volevo aprire le colonne di fronte al re.",
+        "18. g5 Nxe5 19. fxe5 Qf7": "Il nero crede di avere aperto una colonna importante, ma per il bianco \ufffd facile difendersi con l'arrocco. Il nero doveva invece impedire la presa del pedone, per esempio con h5, anche se permetteva g6.",
+        "20. gxh6 Kh8": "Crede di essere furbo, ma ormai \ufffd fatta. Era meglio g6 per il nero.",
+        "21. Rg1 g6 22. h5": "Piccolo tocco... potevo anche prendere direttamente con la torre, ma cos\ufffd la minaccia \ufffd ancora pi\ufffd forte.",
+        "22... Ref8 23. O-O-O": "E adesso, anche se la donna scende in f2, posso anche lasciare che mi mangi l'alfiere!",
+        "23... gxh5": "Terribile errore. ",
+        "24. Rg7 Qf5 25. Qxf5 exf5 26. Rxb7": "D'accordo, ha perso un pezzo ma... abbandonare?"
+    },
+    "url": "https://gameknot.com/annotation.pl/semi-london-apparent-sac-in-f7?gm=16686",
+    "gameName": "Semi-London, apparent sac in f7",
+    "players": "damalfi (1637) vs. iy29 (1597)",
+    "opening": "Queen's pawn game (D02)"
+}

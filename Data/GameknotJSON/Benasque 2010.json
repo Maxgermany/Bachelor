@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3": "Joer, todo el mundo me juega lo mismo. Menos mal que el \"baina\" de Rub\u00e9n me juega siempre esto y ya estoy entrenado.",
+        "4... c6 5. Qd2 b5": "La amenaza es ...b4",
+        "6. f3 Nbd7 7. g4": "Ups.. lo de siempre, al foll\u00f3n en el flanco de rey",
+        "7... Nb6": "Hay que dar la casilla d7 al caballo de f6, ante un posible g5 del blanco",
+        "8. h4 h5": "haciendo m\u00e1s dificil el ataque blanco",
+        "9. g5 Nfd7 10. f4 Nc4": "Parece una novedad, aunque es la primera opci\u00f3n de Fritz. Quiz\u00e1 era mejor esperar con la amenaza latente, no lo se, pero yo viendo una posible echada, quer\u00eda pulirme el alfil de f1, que es el que supuestamente iba a apoyar la ruptura en f5, adem\u00e1s de abrir la columna b para buscar contrajuego con mi torre de a8",
+        "11. Bxc4 bxc4 12. f5 Qa5": "la idea es presionar sobre la fila quinta, adem\u00e1s de apoyar un posible ...e5 o ...c5",
+        "13. fxg6 fxg6 14. Nge2": "y claro, el saballo va a f4",
+        "14... e5": "con la idea de evitar Cf4",
+        "15. d5 Bb7": "Aqu\u00ed no jugu\u00e9 ...c5 seguido de ...0-0-0, que parece lo m\u00e1s l\u00f3gico, porque despu\u00e9s no se como hacer que jueguen mis piezas. As\u00ed que opt\u00e9 por esto, aunque parece peor",
+        "16. dxc6 Bxc6 17. Nd5 Qxd2+ 18. Bxd2 Bxd5": "hab\u00eda que pulirse al asesino",
+        "19. exd5 Nb6": "Y esta jugada simplemente la hice para colocar el caballo en c3, y as\u00ed no dar esa casilla al alfil, que me molestaba un poco m\u00e1s",
+        "20. Nc3 Bg7": "Tengo que sacar mis piezas",
+        "21. O-O-O Ke7": "Creo que era un poco mejor ...Tf8, aunque derivar\u00eda en lo mismo",
+        "22. Be1": "esta jugada si que no la entend\u00ed mucho",
+        "22... Rhf8": "Y yo a por la columna, que creo que es el tema principal de este finalito",
+        "23. Nb5 Kd7": "hay que evitar que el caballo llegue a e6",
+        "24. Bb4 Nc8 25. c3": "Y bueno.. con esta \"gran\" jugada se le cae todo, porque ya pierde pieza",
+        "25... a6 26. Na3 a5 27. Nc2 axb4 28. Nxb4 Ne7 29. Kd2 Rf2+ 30. Kc1 Raf8 31. a4 Ra8 32. Nc2 Rxa4 33. Na3 Nf5 34. Kb1 e4 35. Rde1 e3 36. Nc2 e2 37. Rh3 Ra8 38. Ne3 Nxe3 39. Rxe3 Re8 40. Rxe8 Kxe8 41. Kc2 Be5": "y las blancas abandonaron"
+    },
+    "url": "https://gameknot.com/annotation.pl/benasque-2010?gm=32756",
+    "gameName": "Benasque 2010",
+    "players": "Diaz Gordo, Enrique  vs. Glar\u00eda Tevar, Salvador ",
+    "opening": "Pirc (B07), 150 attack"
+}

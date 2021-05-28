@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 c5 3. c3": "When black's c pawn is moved, white must move his own, in order to be able to answer Qb3 to Qb6. b6 weakens dangerously white's dark squares.",
+        "3... Nc6": "It seemed better to take the pawn first, so to be sure Bf8 will be free. ",
+        "4. e3": "Equilibrium, now I'm safe. ",
+        "4... Nf6 5. Nd2": "Better than Nf3, just to leave black without Bg4, inviting f3, which blinds me. ",
+        "5... e6": "Giving away the possibility to make Bc8 active on the white squares. Comprehensible but a mistake. ",
+        "6. g4": "...it just gives me space to do this, since this pawn is defended by the Q - thanks to the Ng1 staying at home.",
+        "6... e5": "? Trying to mix up things? This just leaves me...",
+        "7. dxe5": "...so to force Nxg4, and then I could have chosen an attack way somehow. ",
+        "7... Bxg4": "? Black made the worst possible choice, here, allowing a piece to be kicked, giving a tempo to the opponent... thus a piece, in this case!",
+        "8. f3 Bh5 9. exf6 Qxf6": "Ok, but now, how to go on? My K is nearly weak... it's still possible some trick. ",
+        "10. Bh3": "Preventing black's castling! Thanks (again) to the unmoved Ng1, this B is inmune to Qf4+, Bg3. ",
+        "10... Bd6": "Natural is Bg3, and if BxB, hxB is still solid. But there is a tactical shot here...",
+        "11. Bxd6 Qxd6 12. Ne4": "! Black will lose one pawn. ",
+        "12... Qe7 13. Qxd5": "...and Bh5 is threatened.",
+        "13... Qh4+ 14. Ng3": "Black has to care about his B...",
+        "14... Rd8": "...which he omits, speeding up the finish.",
+        "15. Qxh5 Qc4": "So many moves, here... and time for a blunder!",
+        "16. Ng1e2 O-O 17. Bf5": "Allowing him to fork me, to Qg5, and then see. Nh5 should win somewhere. ",
+        "17... g6 18. Qg5 Qd5": "Threatening Qd2+, so I can't move my Ne2 or it will be severe. ",
+        "19. e4": "this way my Q covers d2. Black should have played f6 here, and I'd be in trouble. ",
+        "19... Qd3": "threatening f3.",
+        "20. Nh5": "Now or never. Black will fall...",
+        "20... Qxf3 21. Nf6+ Kh8 22. Rf1": "No escape but...",
+        "22... Qd3": "Black's fate is sealed...",
+        "23. Qh6": "Now, the only way out was Qd2+, losing a Rook into the bargain..."
+    },
+    "url": "https://gameknot.com/annotation.pl/another-short-one?gm=58043",
+    "gameName": "Another short one.",
+    "players": "damalfi  vs. Teutonic's Nick ",
+    "opening": "Queen's pawn, Mason variation, Steinitz counter-gambit (D00)"
+}

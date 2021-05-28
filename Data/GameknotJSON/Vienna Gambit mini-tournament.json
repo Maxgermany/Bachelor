@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. Bc4 c6 5. d4 Bb4 6. e5 Ne4 7. Qf3 d5 8. exd6 e.p. Nxd6": "All the games start here.",
+        "9. Bb3": "The standard retreat.",
+        "9... Qe7+": "Black is being aggressive. It's normally good policy to tuck your King in a safe spot before launching an attack...",
+        "10. Nge2": "Combining development and defense.",
+        "10... Bxc3+": "Black continues to press matters.",
+        "11. bxc3": "Forced if I want to not give away my piece.",
+        "11... O-O": "Now Black does castle.",
+        "12. Bxf4": "Equalizing the material.",
+        "12... Re8": "A very subtle error. The Rook should have continued to guard Black's KB2, for reasons which will become clear.",
+        "13. Bxd6": "If the Queen does not recapture, I win a piece. If it does...",
+        "13... Qxd6": "...which it does...",
+        "14. Qxf7+": "it allows a forced mate. [That sneaky Bishop on QN3! Black can't captutre the Q...]",
+        "14... Kh8": "Forced...",
+        "15. Qxe8+": "One move away...",
+        "15... Qf8": "Forced again...",
+        "16. Qxf8#": "Finis."
+    },
+    "url": "https://gameknot.com/annotation.pl/vienna-gambit-mini-tournament?gm=44684",
+    "gameName": "Vienna Gambit mini-tournament",
+    "players": "last_archimedean (1394) vs. lakshmipathi (1416)",
+    "opening": "Vienna gambit (C29)"
+}

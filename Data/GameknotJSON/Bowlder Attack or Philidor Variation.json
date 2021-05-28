@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5": "Team Match, I play black and opt for the Sicilian vs. the Open Game.",
+        "2. Bc4 Nc6": "Hmmm, one reference of mine calls white's second move, 2. Bc4, the Bowlder Attack, and another one calls it the Philidor Variation. Neither reference says much about it. At this point, black is already winging it, maybe getting some advice from the GK game Database. 2. ... Nc6 seems reasonable since it denies white the d4 space. Any commentators care to chime in on the opening?",
+        "3. c3 d6": "White braces for the pawn move to d4, at the cost of developing his queenside knight. Black readies 4. ... Bg4 in response to an anticipated 4. Nf3.",
+        "4. Bb5 Bd7": "White's already broken the \"knights before bishops\" opening principle, why not also break the \"don't move the same piece twice\" opening principle too? Lasker would be rolling over in his grave...",
+        "5. Bxc6 Bxc6 6. d3 Nf6": "6. d3 is pretty surprising, after 3. c3 prepared the way for 6. d4. White has no LSB to trap behind the d3 pawn, and he had to worry about his pawn en prise at e4, with no square for his knight to defend the pawn, but I was halfway expecting 6. Qe2 to cover the pawn and allow for 7. d4, or 7. Nf3 followed by 8. d4.",
+        "7. c4 g6": "White seems disinterested in conserving tempi. Black is looking at three pawns on the a3-f8 diagonal, so g2 seems like a much happier home for the DSB.",
+        "8. Bd2 Bg7": "Threatening 9. ... Nxe4, 10. dxe4 Bxe4 and now white has to decide which rook he wants to lose.",
+        "9. Bc3 O-O 10. Nf3 a6": "Preparing for 11. ... b5.",
+        "11. O-O b5 12. b3 b4 13. Bb2 a5": "I imagine this pawn avalanche would be more impressive if white had castled queenside.",
+        "14. a4 e5 15. Bc1 Nh5": "Looking at 16. Nf4, and also preventing the pin from the anticipated 16. Bg5.",
+        "16. Be3 Nf4 17. Ra2 Ne6": "I imagine 17. Ra2 was to get the rook off the long diagonal so it would not be attacked by black's bishop on g7 after 18. Bxf4 exf4. I'm not really sure if e6 is a better home for the black knight than f4 was, but I have my eye on d4 eventually, and with these pawn walls forming, I'm not sure I want white to trade off black's last knight quite yet.",
+        "18. Rb2 f5": "Let's break up the pawns a bit.",
+        "19. Re2 Bb7": "I had some odd plan of playing the queen to c6 to share the diagonal with the LSB aimed at g2, then trying to clear away the white pieces. I probably should have just kept it simple and won the pawn on e4.",
+        "20. Ne1 fxe4": "I didn't know it at the time, but 20. Ne1 will play a big part in black's win. White may have been better served with 20. Nf3d2 to defend e4, but maybe he was worried about black's eventual pressure on g2. Now I go ahead and win the pawn.",
+        "21. dxe4 Bxe4 22. Nd2 Bb7": "White finally gets a knight on d2, too late for his e4 pawn, and Black retreats the attacked bishop. White has six pieces and a pawn crammed into a 3x3 cell, but at the moment, it doesn't seem to present any attack options for black.",
+        "23. Qc1 e4": "To keep the white knights off of f3.",
+        "24. f3 Nd4 25. Bxd4 Bxd4+": "Black welcomes any exchanges of pieces now, with a slight material advantage (one pawn) and about to create a passed pawn. I would love nothing better than to remove all the pieces from the board and enter a king+pawns endgame, up by a pawn with a passed pawn in the center.",
+        "26. Kh1 e3": "Chasing the knight back to b1 while creating a passed pawn.",
+        "27. Ne4 Bxe4": "White blunders here with 27. Ne4? and it costs him a piece. The knight is not protected by the pinned pawn at f3, because after 28. fxe4??? black simply replies 28. ... Rxf1#. White's 20th move, 20. Ne1 disconnected white's back rank and left that rook all alone on f1. White is now down by knight and pawn and chose to resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/bowlder-attack-or-philidor-variation?gm=22561",
+    "gameName": "Bowlder Attack or Philidor Variation?",
+    "players": "hypnogeist (1624) vs. blake84120 (1753)",
+    "opening": "Sicilian defence (B20)"
+}

@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "e4. Standard.",
+        "1... e5 2. f4": "I enjoy a KG in blitz.",
+        "2... exf4": "KGA. Fun.",
+        "3. Nf3": "To stop Qh4+.",
+        "3... d5 4. d3": "Covers e4 and attacks f4.",
+        "4... dxe4 5. dxe4 Qxd1+": "Stops my Castling.",
+        "6. Kxd1 g5": "Okay.",
+        "7. Nxg5 f6 8. Nf3 Bh6": "Protects f4.",
+        "9. Nc3 Bg4 10. Be2 Nc6 11. Nd5 O-O-O": "I didn't see the pin coming.",
+        "12. Bd3 Ne5 13. Nxf4 Bxf3+ 14. gxf3 Bxf4 15. Bxf4 Nxf3 16. Ke2 Ne5": "In the aftermath, material is even.",
+        "17. Rad1 Ne7 18. Be3": "Eyeing a7.",
+        "18... Ng4 19. Bxa7 b6": "Ah! He signs his death warrant! His King's escape route on d7 is cut off by the Rook on d1.",
+        "20. Ba6#": "A bishop pair aligned in the corner."
+    },
+    "url": "https://gameknot.com/annotation.pl/bishop-pair-in-the-corner?gm=42887",
+    "gameName": "Bishop Pair in the Corner",
+    "players": "theancientbeast  vs. melrose689 ",
+    "opening": "KGA (C36), Abbazia defence (classical defence, modern defence[!])"
+}

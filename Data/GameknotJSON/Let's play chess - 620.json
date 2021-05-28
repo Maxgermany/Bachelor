@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7": "my experience is that, holding the center closed when the opponent put his bishops to diagonals is very effective tool.. so i start thinking to build a strong centeral position from this moment",
+        "4. e4 d6 5. Nf3 O-O 6. Bd3 Nbd7 7. O-O e5 8. d5": "dont want to exchange of pawns at the center",
+        "8... Nc5 9. Bc2": "though my white bishop is not very effective because of my own pawns located mostly at white squares, I want to keep it for the end game.. 9. Bg5 was my alternative..",
+        "9... Bg4 10. h3 Bxf3 11. Qxf3": "he exhanged his weak white bishop against my knight. Because of the structure of the pawns at the center, his other bishop seems also weak. Usually white wins when he is able to build strong center when the game is short. In the long games black might have better chances at the end game, since after many exhanges the white pawns will remain at distance from his King's protection.",
+        "11... Nfd7": "sometime in the game he will have to think to open the game with f5 .. This move might be a preparation for that one. But Ne8 seems better to me as his other Knight would still have more room to move. With the move in the game he limits the movement capability of his other Knight and I am using this opportunity at once.",
+        "12. b4 Na6 13. a3 b6": "Black loses time here for trying to organize his queen side position. ",
+        "14. Bd2 Rc8": "this is a mistake that probably caused to lose the game for black",
+        "15. Bd3": "16. c5 is now a serious treath",
+        "15... Ra8 16. c5 Qc8 17. c6 Nf6": "now black is squzeed. white has wide open space to move and blacks queen side is almost knocked down",
+        "18. Bg5 Nh5": "now i have to decide. whether i will continue acting slowly or try to find a quicker way. Long play might offer some chances to black if he will be able to get some air for his queen side materials somehow. So i decided to increase the pressure. Since Blacks queen side is already locked. His rook, Knight and Queen will not be able to help his King.",
+        "19. g4 Nf4 20. Bxf4 exf4 21. Ne2": "exchanging his Bishop against my seemingly useless Rook is needed here. So one important helper for his King will be out of the game.",
+        "21... Bxa1 22. Rxa1 g5": "now a nice place for my Knight appeared: f5!",
+        "23. Nd4 Nb8 24. Nf5 Qd8": "trying to bring his Queen to his King side.",
+        "25. Kg2 Qf6 26. Rh1 a5": "now white can play simply 27.b5 and black has nothing to do on his queen side. But i can feel that I have nice attack. And just continued my plan instead of playing 27.b5",
+        "27. h4 Kh8": "from this point i think both sides played their best moves and it is proved that Black has nothing to rescue his game",
+        "28. hxg5 Qxg5 29. Rh5 Qg6 30. Rh6 Qg8 31. Ne7 Qg7 32. Qh3 f5 33. Ng6+ Kg8 34. Nxf8 fxg4 35. Qh4 Kxf8 36. Qd8+ Kf7 37. Qxc7+ Kg8 38. Qc8+ Qf8 39. Qxg4+ Qg7 40. Qxg7+ Kxg7 41. Rxd6 axb4 42. axb4 Ra7 43. Rd8 Nxc6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=32150",
+    "gameName": "Let's play chess",
+    "players": "okat (1760) vs. brainbox (1819)",
+    "opening": "King's Indian (E90), Larsen variation"
+}

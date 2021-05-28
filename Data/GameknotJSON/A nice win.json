@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 e6 2. Nf3 f5 3. Bf4 Nf6 4. h3 d5 5. e3 c5 6. c3 Nc6 7. Nbd2 Be7 8. Ne5 O-O 9. g4 fxg4 10. hxg4 Nxe5 11. dxe5 Nd7 12. Qc2 g6": "Bd3 threats at once a deadly Bxg6.",
+        "13. Nf3 Qc7 14. Bd3 Nxe5 15. Nxe5 Bd6": "Ah, looking to recovering some material... but...",
+        "16. Bxg6 Rf6": "Well played.",
+        "17. Bxh7+ Kf8 18. Ng6+ Ke8 19. Bg5": "It seems incredible that with that amount of pieces I have no mate... but it is the truth.",
+        "19... Rxf2": "VERY smart. If QxR, Bg3 loses the queen. It could have been a possibility, though.",
+        "20. Qd3": "If c4, Qd4, e5... Qxd5. ",
+        "20... Bg3": "Scaring, isn't it? but...",
+        "21. O-O-O": "Oooops. Now what can do black?",
+        "21... Kd7": "Nf8+ doesn't seem deadly, so I tried...",
+        "22. Bg8 Kc6": "Here, Rh7 leads to Qa5... ",
+        "23. Nf4 Qb6": "Threatening mate. b3, Rxa2, so...",
+        "24. Rd2 Rxd2 25. Qxd2": "Pityfully, I have to take it with the queen, or Qxb2+. ",
+        "25... Bxf4": "The simple choice was exB, joining the pawns, but... ",
+        "26. Bxf4": "Pressure around the king, and e4 to get to the center. ",
+        "26... Bd7": "The wise one is Bf7, but I didn't want to lose the attack. ",
+        "27. c4": "Inviting to...",
+        "27... Rxg8 28. cxd5+": "Ah, but now he cannot take exd, because of Rh6+...",
+        "28... Kb5": "The less worse one. Again, the pawn gives me nothing, so...",
+        "29. Qd3+": "If c4, a4+, Kxa4, Qa3+, Kb4... not deadly, but wild. But black half-blundered.",
+        "29... Ka5 30. e4": "Opened the way to my bishop, the game is over. The queen must have retired to give some air to the king: Qd8, Bd2+, Kg6, Qb3+, Kc7. But...",
+        "30... Bb5 31. Bd2+ Ka6 32. Qa3+": "And mate the next one. After so many silly defeats, a nice win, at last (with a good opponent)..."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-nice-win?gm=39972",
+    "gameName": "A nice win",
+    "players": "damalfi  vs. shump ",
+    "opening": "Queen's pawn (A40)"
+}

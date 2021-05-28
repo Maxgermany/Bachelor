@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nI bet you are asking yourselves, disaster for whom?  Well, you only need one guess.  This performance was as bad as the Fried Fox Pork Chop Affair.  I am taking part in a mini-tournament organised by the Master Mater called The Annotations Project.  This is where we will be brainstorming an opening which involves a Q for 2 piece sacrifice arising out of the Sicilian Grand Prix Attack.  The first seven moves were set up as forced moves.  The action therefore starts on move 8 after Henry was forced to go to d7.",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6": "8. ....... Kc6.  If you look at this link - http://gameknot.com/annotation.pl/speculate-to-accumulate.pl?gm=21163 I played Henry to c7 that time.  Here I decided to deviate with Kc6.",
+        "9. Bxg4 Qd6": "9. ....... Qd6 - has a fairly reasonable record in the Gameknot db.  Master Freddy played this move against someone else in the same tournament and won with it so I thought that the move was OK here.  Glenda does actually attack the pawn on f5.  Alas, that is about the only thing she attacks in this game I do think!",
+        "10. d3 exd3": "10. ...... exd3 - In retrospect, although Master Freddy also took the pawn on d6 in his game I now think that it was probably an unnecessary waste of tempo.  Perhaps Na3 or g6 were better here.",
+        "11. Nc3 Kb6 12. Be3": "12. Be3! - here Freddy's opponent castled.  Freddy played a very strong move here, developing a piece and exerting pressure on c5, in fact also lining up on the same diagonal as Henry!",
+        "12... Na6 13. Nf7 Qg6": "13. ...... Qg6?? - here Freddy said that this was a bad move.  I did not see why until the following sequence.  I thought my rook was going to be lost so I thought it was a good idea for Glenda to strike out at the white lsb.  Alas, Freddy is not interested in the rook.  His knight goes to e5 with check!",
+        "14. Nd5+ Ka5": "14. ...... Ka5 - Henry seems safe here but an attack on Glenda - the white knight simultaneously defends the lsb, gains Freddy a vital attacking tempo.",
+        "15. Ne5 Qe4 16. Bf3 Qa4": "16. ........ Qa4 - Glenda must move again.",
+        "17. Bd2+ Nb4 18. Nc4+": "18. Nc4+ - Freddy's horsies give me knightmares!!!!",
+        "18... Kb5": "18. ....... Kb5 - if Ka6 then Nc7 is mate!",
+        "19. Nc7+ Kxc4": "19. ...... Kxc4 - forced.",
+        "20. b3+": "20. b3+ - a nasty royal pawn fork.  It is also mate next move.",
+        "20... Kd4 21. Ne6#": "21. Ne6# - a pretty knight mate.  Freddy could have also played c3 here - that would have also resulted in me getting Freddied yet again!  Anyhow, all credit to Freddy for taking full advantage of my mistakes!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-disaster-area?gm=24099",
+    "gameName": "A Disaster Area!",
+    "players": "easy19 (2227) vs. jstevens1 (1781)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

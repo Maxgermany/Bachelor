@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. e3 O-O 6. a3 a6 7. c5": "Such an advance in the Queen's Gambit is generally two-edged. In this case, however, White is in a position to make it because Black, with his last move, has wasted a tempo in the fight for the center.",
+        "7... c6": "We now have a familiar blocked Pawn chain.",
+        "8. b4 Nbd7 9. Bb2 Qc7 10. Qc2 e5 11. O-O-O": "The King will be safer here than on the opposite wing.",
+        "11... e4": "Black plans ...P-KB4-5, undermining White's Pawn chain.",
+        "12. Nh4 Nb8 13. g3 Ne8 14. Ng2 f5 15. h4": "Now that ...P-B5 has been stopped forever, White will be able to devote his whole attention to the Queen-side.",
+        "15... Bd8 16. a4 b6 17. b5": "Threatening 18 PxBP QxBP 19 NxQP! winning a Pawn (19.... QxN?? 20 B-B4!)",
+        "17... Nf6 18. Nf4 axb5 19. axb5 Qf7 20. Be2": "White will now benefit if Black exchanges either of the pawns.",
+        "20... Bc7": "Black wants to exchange off the White Knight on KB4, to reduce the pressure on his QP.",
+        "21. cxb6 Bxf4 22. gxf4 Bd7 23. Kd2": "The QB file is no longer safe for White's King.",
+        "23... cxb5 24. Rda1 Nc6 25. Bxb5 Na5 26. Be2 Rfb8": "White proceeds to maintain the initiative with a surprising maneuver.",
+        "27. Na4 Bxa4": "Stronger is 27... N-B5 ch 28 BxN PxB.",
+        "28. Rxa4 Rxb6 29. Bc3": "Better than 29 R/1-R1 N-N6 ch 30 QxN RxQ 31 RxR ch N-K1 32 K-B2 R-N2 and Black can survive the pressure.",
+        "29... Nb3+ 30. Qxb3 Rxb3 31. Rxa8+ Ne8 32. Bd1": "If 32... R-N3 33 B-R4 R-K3 34 R-QN1 with the irresistible threat of R/1-N8.",
+        "32... Rxc3 33. Kxc3": "The two Rooks will overpower Black's Q.",
+        "33... Qc7+ 34. Kd2 Kf7 35. Bh5+ g6 36. Rha1 Qb6": "Avoiding 36... PxB??? 37 R/1-N7 pinning and winning the Q.",
+        "37. Be2 Kg7 38. Ke1 Nc7 39. Ra8a5 Kh6 40. Kf1 Qb3 41. h5 Ne8": "On 41... PxP, 42 R-B1 Q-N2 43 R/5-B5 is decisive.",
+        "42. Ra5a6 Qb2 43. hxg6 hxg6 44. Ra6a2 Qb7 45. Ra2a7 Qb2 46. Kg2 Nf6 47. Rh1+ Nh5 48. Bxh5 gxh5 49. Rha1": "White's attack against the exposed Black King is overwhelming. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/karlsbad-tournament-1923?gm=56157",
+    "gameName": "Karlsbad tournament, 1923",
+    "players": "Aron Niemzowitsch  vs. Ossip Bernstein ",
+    "opening": "QGD Slav (D30)"
+}

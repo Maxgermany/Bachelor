@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. d4 g6 2. e4 Bg7 3. e5 d6 4. f4 dxe5 5. fxe5 f6 6. exf6 Nxf6 7. Nf3 b6 8. Bb5+ c6 9. Bc4 Nbd7 10. O-O Bb7 11. Ng5": "This is where it gets interesting. I believe my opponent thinks I am going to move Nf7. My whole motivation is really to use Bf7  just to stop the castle and keep the king struck in the center.",
+        "11... Qc8": "Opponent bites on the Nf7 ruse.",
+        "12. Bf7+": "I expect Kf8 and I am suprised at the move.",
+        "12... Kd8": "I look at this move and in milli seconds realize the game is won.",
+        "13. Ne6#": "A most excellent ruse on a good player. "
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-for-fast-players?gm=18068",
+    "gameName": "Tournament for fast players",
+    "players": "chelse3456 (1529) vs. errantknight (1520)",
+    "opening": "Modern defence (A40)"
+}

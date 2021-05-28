@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 Nf6": "This move looks like a good way to defend the pawn after e5 Nh5 but after d4 white gets a good control of the center but black always has an immideate approuche to the center with d5. for example: 4.e5 Nh5 d4 d5! c4 Bbb4  Nc3 0-0.Also I must mention that this was a favorite Idea of R.B.Fischer to the Kings Gambit.",
+        "4. e5": "The alternative Nc3 is an another option that after Be7 white still plays d4 but the problem is the immidiate d5 you cant play e5 because of Ne4 with many threats and taking the pawn after exd5 Nxd5 Nxd5 Qxd5 blacks Queen look great in the center.",
+        "4... Nd5": "!? an unexpeceted move seems to be a strange (maybe a bad mistake) idea after c4 Nb6 e4 Nc6 Bxf6 The black structure looks like from alekhine defence but now white has bishop on f4\nwich changes a look at this position.",
+        "5. c4": "Nc3 Nxc3 dxc3...I didnt like it becasue I love my \"d\" pawn and she provides good control of the center and supporting the \"e' pawn too.",
+        "5... Nb4": "Nb6 was much better.I just dont understand whats the point?",
+        "6. d4 g5 7. a3": "a3 is not just a \"chasing a mouse\" dubious move.\n",
+        "7... Nb4c6": "Na6 and knight doesnt do nothing there.g4 is simply answered by axb4 gxf3 Qxf3 with better game for white.",
+        "8. Nc3": "I think it is time to develop. the move d5 looked very interesing for me because after Ne7 and the d6! but black doesnt have have to play Ne7 instead he has g4\nwhite knight cannot escape because of Qh4  and after dxc6 gxf3 Qxf3 (cxd7  helps black to develop) Nxc6 Bxf4 Nd4 Qd3 Ne6 and white gets a great E pawn but blacks knight on e6 too.",
+        "8... a6": "a6? blunder.g4 is met by Nd5! gxf3 Nf6  Ke7 Bxf4.d6 would lead to a good continuation.",
+        "9. Nd5": "Threating Nf6 ",
+        "9... h6": "h6? a bigger blunder if you ask me now after Nf6  white is better becasue he is complitely controling the center and blacks King with no castle looks a very good object to attack the f4 g5 h6 pawn chain is weak indeed and can be met by pawn attacking moves like h4 or maybe g3. I suggest that black shoulded play Be7 (Bg7 looses to Nxg5 Qxg5 Nxc7 ) but after h4 g4 Ng5 h6 Ne4 Bxh4  g3! (Bxg3? Nf6 ) Be7 Bxf4 white is better too.",
+        "10. Nf6+": "I think white has a winning chacnes and the rest of the game is just improves that.",
+        "10... Ke7 11. Nd5+ Ke6": " If King was returning to E8 he would still can hold on.Going with the king to the center that is full with white dangerous pawns and so many threats it is madness",
+        "12. Nxc7+": "Nxc7 !",
+        "12... Qxc7": "Qxc7?? a crusing mistake it was better to loose the rook Ke7 Nxa8 loosing the rook and not the game!",
+        "13. d5+ Kf5": "Ke7 looses the Queen so he had to go to f5 and so he gets mated\nBd3  Kg4 Nd4  f3 Qxf3  Kh4 Qh3 mate.",
+        "14. Bd3+ Kg4 15. Nd4+ f3 16. Qxf3+ Kh4 17. Qh3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gambit-game-2-with-3-nf6?gm=8092",
+    "gameName": "Kings Gambit (game 2) with 3...Nf6",
+    "players": "grandm (1200) vs. francescor68 (1281)",
+    "opening": "KGA (C34), Schallop defence"
+}

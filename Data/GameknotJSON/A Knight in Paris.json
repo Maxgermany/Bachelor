@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4": "Standard Queen's pawn opening.",
+        "1... g6 2. e4 d6 3. Be3 Nf6 4. Nc3 Bg7 5. Nge2 O-O": "Fianchetto bishop and castle Kingside.",
+        "6. Ng3 Nc6 7. Be2 b6 8. O-O Bb7": "I decided I wanted to try out a fianchetto on the Queenside also in order to have two snipers for the middle.",
+        "9. Qd2 d5 10. e5 Ne4 11. Ncxe4 dxe4 12. Rfd1 Qd7 13. c4 a5 14. a3 Rad8 15. Nxe4": "In this position I envisioned the Queen on c6 with a clear line to g2 for checkmate.  I knew that in order to have a chance I needed a piece guarding the f3 square in case the bishop or pawn moved into it to stop the mate.  I want my Knight on d5 for this very purpose, but the pawn on d4 is a thorn in my side, so...",
+        "15... Bxe5": "Offering the Bishop to move the bothersome d4 pawn.",
+        "16. dxe5": "Accepted the sacrifice.",
+        "16... Qf5": "Threatening the Knight but I actually want the square it occupies.",
+        "17. Bd3": "Defending the Knight but also moving away from defense of the f3 square.",
+        "17... Nxe5": "Continuing with my plan.  I calculated White would move the Knight and reveal an attack on my Queen.  I planned to either move my Queen to e6 at that point to continue toward c6, or take his bishop with my Rook if he moved to g5.  Instead...",
+        "18. Nd6": "I honestly didn't see this spot for the Knight, most likely ignoring it (incorrectly) due to pawn protection of d6.  Of course with the Queen under fire taking the Knight does nothing.  I could move to e6 as I originally planned, but my key bishop is now under attack!  This foils my original plan and I must come up with a new one.  My Queen, Knight and Bishop are all putting pressure on his Kingside...",
+        "18... Qg4": "I am willing to sacrifice another Bishop for a devastating Knight fork...",
+        "19. Nxb7": "And he accepts.",
+        "19... Nf3+": "Nf3!! And here we see a Knight in Paris.  The g2 pawn is pinned by the black Queen and the white Queen will fall.  White resigns.  Continuation: 20. Kh1 Nxd2  21. Nxd8 Nb3  22. Rb1 Rxd8. And black has won material and retains the Queen."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-knight-in-paris?gm=39843",
+    "gameName": "A Knight in Paris",
+    "players": "mariombaomba (1704) vs. johnmv1 (1671)",
+    "opening": "Modern defence (A40)"
+}

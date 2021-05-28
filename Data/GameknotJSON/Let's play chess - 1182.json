@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e6": "French Defence",
+        "2. e5": "Not great, but can transpose to the main line of the advance varation.(e4 e6,d4 d5, e5)",
+        "2... d5": "It may have been better to play d6, immediately challenging the e5 pawn. Taking on d6 gives black a development advantage after Bxd6 or else the pawn centre will crumble.",
+        "3. d4": "Back to the main line.",
+        "3... c5 4. Bb5+": "This allows black to swap off his bad bishop. White's whie squared bishop should find a good home on d3, where it creates some kingside pressure.",
+        "4... Bd7": "Swapping the bad bishop.",
+        "5. Bxd7+ Qxd7": "I didnt take with the knight as it will be more active on c6.",
+        "6. Nc3": "it was better to try fortify the pawn chain with c3. The knight can then go to d2, then f3 or f1 and find a home on the kingside.",
+        "6... Nc6": "Putting more pressure on the pawn centre.",
+        "7. Nf3": "Developing and defending the pawn. Good move.",
+        "7... cxd4": "Breaking up the pawn chain.",
+        "8. Nxd4 Bc5": "I think I missed winning a pawn with Nxe5, but even still I prefer black's position.",
+        "9. Nxc6 bxc6 10. O-O Ne7 11. Bg5 Ng6": "Attacking the pawn e5 and also preparing h6, driving the Bishop back. Not that an immediate h6 allows Bxe7, while now it dosn't.",
+        "12. Ne2": "White should be aiming for a kingside attack as that is where the black king will most likely castle. A plan involving the moves Kh1,f4, and maybe g4 and bringing the knight to g3 to support the attack. Of course the move played is part of the plan, but the pawn on e5 must be defended. Qe2 should be the played and not Re1 as the rook will support the pawns on the kingside.",
+        "12... Nxe5": "Free pawn.",
+        "13. b3": "This move dosnt achieve much, Kh1 threatening to start moving the kingside pawns may be better.",
+        "13... O-O": "Completing development and allowing black to go for the win.",
+        "14. Nf4": "The knight looks good but it dosnt achieve much, and it blocks kingside pawns.",
+        "14... f6": "Forcing the win of a piece.",
+        "15. Bh4 g5 16. Qh5": "Trying to get some form of sompensation for the piece that will be lost, although it is really clutching at straws.",
+        "16... Qf7": "The forked pieces are going nowhere, so I took the time to get rid of the well placed white .queen",
+        "17. Qg4": "This is the final mistake. When you are losing its all to easy to miss a move, and this just loses the queen.",
+        "17... Nxg4 18. Nd3 Bd4": "Not letting the piece on h4 to get away, as the bishop is attacking the white rook.",
+        "19. Rae1 gxh4 20. h3 Ne5": "Swapping off pieces is the easiest way to convert the large material advantage to a win.",
+        "21. Nxe5 Bxe5": "White resigns as they are a Queen, a Bishop, and a pawn down."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=743",
+    "gameName": "Let's play chess",
+    "players": "goonerneil (1183) vs. smoran90 (1200)",
+    "opening": "French (C00), Steinitz attack"
+}

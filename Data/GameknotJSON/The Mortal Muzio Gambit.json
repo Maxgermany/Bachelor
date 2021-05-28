@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "I am presenting this miniature game as an example of a very aggressive continuation to the King's Knight Gambit classical variation (1.e4 e5 2. f4 exf4 3. Nf3 g5) for those seeking perhaps an alternative to the more commonly played Kieseritzsky and Allgaiers gambits. This opening, however, is not for the faint of heart. My interest in it was piqued after GM Nakamura played it against GM Andreikin in a blitz game, defeating him. This is one of my own excursions with it against a 1700 plus player.     ",
+        "1... e5 2. f4 exf4 3. Nf3": "King's Knight Gambit. Once you play this move, you'll most commonly see the Fischer Defense (3..d6), the Schallop Defense (3..Nf6), or the Cunningham (3..d7). In this game, my opponent played the still-popular classical variation (3..g5).",
+        "3... g5 4. Bc4": "Aiming at f7 and inviting g4. ",
+        "4... g4 5. O-O": "The Muzio Gambit. The idea behind it is you sacrifice the knight on f3 for an explosive assault on f7. Since most players below master level hardly ever encounter this gambit, they don't know the correct lines of defense and very soon find themselves in trouble.   ",
+        "5... gxf3": "An irresistible capture!  ",
+        "6. Qxf3": "White's bishop, queen and rook are now all aimed at the f7 pawn.   ",
+        "6... Qf6 7. e5": "Another pawn sacrifice. The purpose of this sac is to draw the queen away from f7. ",
+        "7... Qxe5": "Notice, I'm down a pawn and a knight but look at the two positions. It's tempting at this point to push d4, but that would only drive the queen back to an f7 defensive position. The correct move order here is essential! One more big sacrifice is coming - in the spirit of Paul Morphy!    ",
+        "8. Bxf7+": "The explosive Double Muzio Gambit. The purpose of this sacrifice is twofold: to keep the king on the open board by destroying any hopes of castling, and also to put him on f7 where the possibility of advantageous combinations, pins, skewers and deadly discovery checks will arise.       ",
+        "8... Kxf7": "Refusing the bishop sacrifice here isn't an option for black as far as I can tell. White's bishop will soon take on f4, and potentially give rise to torturous pins along the d8-h4 diagonal. And the black queen herself will be under the incessant threat of forks and discoveries. ",
+        "9. d4": "The idea of this pawn sac is that after 9..Qxd4, the bishop comes to d3, checking the queen with immunity from capture. White's tempo will be maintained and the black queen will have to move yet again at the expense of minor piece development. The position for black is growing more and more precarious.",
+        "9... Qf5": "At this point I think my opponent was beginning to realize the danger he was getting into, and stopped taking the offered material. Qf5 is actually the best move here - the refuting move. ",
+        "10. Bxf4 Bh6": "Black would gladly exchange bishops and queens here, but white holds all the cards and is now poised to launch multiple attacks on black's stranded king. It's showtime!   ",
+        "11. Qb3+ Qe6 12. d5": "Black probably now wishes he had eliminated this pawn. The queen has to move again, but her safety options are quickly running out. Note, the impending rook and queen discoveries on f1 and b3 are crushing. ",
+        "12... Qb6+": "This move presupposes a forced exchange of queens, but white already has too many weapons at his disposal.  ",
+        "13. Be3+": "Black resigned here, as his queen is now lost, but the game is not necessarily over. After 13...Qf6, 14. Rxf6 Nxf6, 15. Bxh6 d6, black, although crippled, cramped and at a loss of  tempo can still force white to grind out the rest of the game if he plays strong defense. I was somewhat dismayed by the resignation, as I would have liked to further investigate the developmental possibilities for both sides.  \n\n "
+    },
+    "url": "https://gameknot.com/annotation.pl/the-mortal-muzio-gambit?gm=54302",
+    "gameName": "The Mortal Muzio Gambit  ",
+    "players": "mortuarydirector (1728) vs. bearskin (1704)",
+    "opening": "KGA (C37), double Muzio gambit"
+}

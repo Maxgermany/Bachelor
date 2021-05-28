@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4": "\"Rosselsprung\" was the codename of a German naval operation in World War Two, in which the battleship \"Tirpitz\" sortied to intercept an Allied arctic convoy.  The operation was a success for the Germans.  \"Rosselsprung\" refers to the knight's move in chess.",
+        "1... d5 2. c4": "I had no affinity with the \"Kriegsmarine's\" interests.  And since my opponent was around 1650, I wanted a good game.",
+        "2... h6": "We have here a queen's gambit declined, with black playing a quick h6.",
+        "3. e3": "I often play this move in queen's gambit variations.  While it does close the dsb's diagonal, I in mind b3 and bb2.  ",
+        "3... Nf6 4. Nc3 e6 5. Nf3": "Everything looks to be proceeding normally here.  My last annotated game had been a disaster, and I kept this in mind as I selected my moves.",
+        "5... Be7 6. b3": "Part of the problem in my last game had been that I was failing to see the board.  I had put the blinders on.  \"Rosselsprung\" would have to be more than just a cheap tactical threat.",
+        "6... O-O 7. Bb2": "And so, I sortied on.  The bishop on b2 looks like it may be good, even though the opening here identifies it as a closed game.",
+        "7... a6 8. Be2": "Later, this move would prove a mistake, as bd3 would have been stronger.",
+        "8... b6 9. cxd5 exd5 10. Qd2": "Another mistake.  I think taking cd is fine, but qc2 or even qd3 was probably better.  Here, it proves to be hemmed in by the pawn chain.",
+        "10... Be6": "I consider this move pretty debatable given the pawn on d5, and white's a2 and b3 pawns.",
+        "11. h3 c5": "Black finally looks to open the board.  In this position I did not mind c4, or cxd.  I decide to castle kingside, even though I often prefer to castle queenside.  I am thinking the rooks will be good on c and d.",
+        "12. O-O Ne4 13. Nxe4": "Maybe I didn't have to take the knight, with qc2.  But after dxe and ne5, bc4 seems possible.",
+        "13... dxe4 14. Ne5 f6 15. Ng6": "Nc4 also appears strong, but white has weakened the light squares around the king, and I wanted to play bh5 to threaten winning the exchange.",
+        "15... Rf7 16. Bh5 Nc6": "nxe7, rxe7 was possible, but black's dsb is not looking like a very good piece.  I think the decision not to take was sound.",
+        "17. Rfd1": "With threats of d5.",
+        "17... Qd5": "Against d5, and threatening qxh5.",
+        "18. Qe2": "Obvious threats of dxc followed by rac1.",
+        "18... Nb4 19. dxc5": "Here I just went ahead and played dxc, since I didn't think the knight on b4 was going to be that great.",
+        "19... Qxc5 20. Nf4": "In this position, rac1 may have been better.  I am threatening to win the exchange, and to take nxe6.  Also, I am defending d3.",
+        "20... Bf5": "He protects against the ne6 threat, but is loosing the exchange.  ",
+        "21. Bxf7+ Kxf7 22. Rac1": "In this position, white looks to be doing well. He is ahead in material, has a good knight on f4, has good control of the c and d files, and has a good bishop on b2.  Black, by contrast, is going to have to move his queen to an inactive square, and has a knight with no real prospects now that d3 is stronger for white after nf4.",
+        "22... Qb5 23. Qh5+": "I don't think this move is that bad, although it is admittedly not great.  Black can just play bg6, although this will certainly lead to simplifications.",
+        "23... Kg8 24. Rc7": "Threatening rdd7 after black defends the bishop and the f5 bishop is dealt with.",
+        "24... Nd3 25. Nxd3 Bd6": "Black tries to create complications with this move.",
+        "26. Qf7+": "And white is winning, with qxg7# inevitable.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/operation-rosselsprung?gm=35347",
+    "gameName": "Operation 'Rosselsprung'",
+    "players": "kitrich_omar  vs. zeppoj ",
+    "opening": "Queen's Gambit (D06)"
+}

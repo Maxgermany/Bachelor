@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "In this match we will see a good example of a king side attack.",
+        "1... Nf6 2. c4 e6 3. Nf3 d5": "Queen's gambit",
+        "4. Bg5 Be7 5. e3 O-O 6. Nc3 b6 7. cxd5 exd5 8. Bd3 c5 9. dxc5 bxc5 10. Bxf6": "The intention here is to undermine the black's center. Now the d5pawn is under attack.",
+        "10... Bxf6 11. Nxd5 Bxb2": "Of course if 11... Qxd5?? then 12. Bxh7 . But here my main intention was to target the black King and the knight was already aiming to e7.",
+        "12. Rb1 Qa5+": "Black tries to counter by attacking the queen side. By forcing black to precipitate an attack White is slowing down Black's development. ",
+        "13. Nd2": "This is great move. White blocks the check and in the same time opens the diagonal so that later the Queen can attack the Black's King",
+        "13... Bc3 14. O-O": "14.O-O! A great move. White gives up the Knight and achieves two things: the King is safe and everything is ready for the onslaught !",
+        "14... Bxd2": "A very bad move for Black. Black should have taken measures to protect the King. For example 14... g6.",
+        "15. Bxh7+": "15. Bxh7! A big blow.",
+        "15... Kh8": "Of course if 15 ...Kxh7 will be mate in two: 16.Qh5  Kg8 17. Ne7  ",
+        "16. Qh5": "Now the only defence is for Black to threat the White Queen. Otherwise Bg6 followed by Qh7.",
+        "16... Bg4 17. Qh4 Qd8": "The only option.",
+        "18. Ne7": "Black is running out of threats. Here I though the only way Black could delay defeat is by sacrificing the Queen with Qxe7.",
+        "18... g5 19. Qh6": "Black resigned. Nothing can stop White from mating. Hope you enjoyed."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-great-king-side-attack?gm=5065",
+    "gameName": "A great King side attack!!",
+    "players": "rafias (1800) vs. ferre2zando (1777)",
+    "opening": "Queen's pawn game (E10)"
+}

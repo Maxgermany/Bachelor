@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. g3": "Attempting to control both the black and the white center squares. ",
+        "3... Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4 c6": "If White now exchanges the central Pawns, Black would have an outpost on Q5 and White would not. ",
+        "9. Be3": "Inviting 9... Kt-Kt5. ",
+        "9... Ng4 10. Bg5 Qb6": "White was expecting 10... P-B3 11 B-B1 P-KB4.",
+        "11. h3 exd4": "A temporary sacrifice.",
+        "12. Na4 Qa6 13. hxg4 b5": "Recovering the piece at the cost of a weak long diagonal, which White immediately exploits. ",
+        "14. Nxd4 bxa4 15. Nxc6": "This Knight can only be captured at the cost of the Exchange. But if Black plays 15... B-Kt2, on 16 Kt-K7 ch the weak Black Pawns would be a fatal handicap. So Black elects to eliminate the pawn weaknesses at the cost of the Exchange. ",
+        "15... Qxc6 16. e5 Qxc4 17. Bxa8 Nxe5": "Black threatens to win a second piece for the Rook via 18... BxP. White's best move is 18 QxQP. ",
+        "18. Rc1 Qb4 19. a3": "Black prepares to seize the long diagonal with... B-Kt2. ",
+        "19... Qxb2 20. Qxa4 Bb7 21. Rcb1": "A blunder. The best line for White is 21 BxB QxB 22 R-B3 Kt-B6 ch 23 RxKt QxR, leaving the material equal and chances for both players. ",
+        "21... Nf3+": "The White KB is still on the board, but the diagonal is no longer in its control. ",
+        "22. Kh1 Bxa8": "Much better than 22... Kt-Q7 dis ch 23 BxB KtxQR 24 B-QB6, which would leave equal chances for both players. ",
+        "23. Rxb2 Nxg5+ 24. Kh2 Nf3+ 25. Kh3 Bxb2 26. Qxa7 Be4": "Preventing White from playing R-QKt1, and threatening R-R1 winning the White QRP. ",
+        "27. a4 Kg7 28. Rd1 Be5 29. Qe7 Rc8": "Threatens mate in 3 (...R-B7, ...RxP, ...R-R7). If White tries 30 RxP, trying to break the power of the two Bishops by offering the Exchange, 30... R-B8 forces mate. ",
+        "30. a5 Rc2 31. Kg2 Nd4+ 32. Kf1 Bf3 33. Rb1 Nc6": "White resigns, as Black has the crushing threat of ...B-Q5. White cannot stop this without ruinous material loss. "
+    },
+    "url": "https://gameknot.com/annotation.pl/match-game-1954?gm=67721",
+    "gameName": "Match Game, 1954",
+    "players": "Mikhail Botvinnik (GM) vs. Vassiliy Smyslov (GM)",
+    "opening": "King's Indian (E60), 3.g3, counterthrust variation"
+}

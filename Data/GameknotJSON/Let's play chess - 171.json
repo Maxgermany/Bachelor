@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "Queen's Gambit opening!  A tricky one for me, personally...",
+        "2... e5": "...but I don't usually play into it.  There's a little trap here...",
+        "3. dxe5": "...where if I take his c pawn, his queen kills mine, and then I can't castle any more.  Tremendously annoying.",
+        "3... d4": "So, instead, I push forward.  There's a reverse trap available to me here, but I can never seem to get it right.",
+        "4. Nf3": "Pressure on the pawn, plus he gets development.",
+        "4... Nc6": "Answer with development of my own.",
+        "5. Nbd2": "Not many places for that knight to go, but maybe I would have gone with e3, planning Bxe3 after ...dxe3",
+        "5... Bg4 6. Qb3 Rb8": "Defending the pawn, which I need to protect my knight.  ...b6 would have been a mistake, since it would have pinned my knight to my king, making by one advanced pawn more vulnerable.",
+        "7. a3": "I don't understand.  Presumably worried about me pinning his knight, so stops ...Bb4 but these moves always seem so unnecessary.  Why not wait for the piece to move?  Feels like a loss of tempo to me.",
+        "7... f6 8. exf6": "This did 2 things: 1) let me get my knight out; 2) opened up the f file for my eventual castling, and giving space to my rook.  There is a major threat in the queen on b3, but I can fix that in a sec.",
+        "8... Nxf6 9. e3 Bc5": "Bam.  His pawn is stuck, so I can castle in peace for now. If he takes exd4, then ...Nxd4, and his queen is in threat.",
+        "10. Be2 dxe3": "I know he's going to castle, so I need to weaken his structure, since I have more pieces advanced here, I feel like I'm in a good position.",
+        "11. fxe3 O-O 12. O-O": "His pawn is pinned.  My bishop is too, kind of, since once I move it, he'll move c5, and put me in check.  Unless I get that queen off that file.  Also, I can't quite kill that pawn, since the queen is protecting it too!  arg.",
+        "12... Qe7": "applying more pressure on the e and f file, attacking the pawn.",
+        "13. Nb1 Nh5": "Why not ...Ne4? I see a vulnerability in his setup, that requires me to get his queen off.  it also requires me to keep that file open for my knight, and pin his instead.  now, if he moves his knight, I can kill it, and bring my other rook around.",
+        "14. Re1": "at first i didn't understand this, but i think it helps free his knight.  no matter.",
+        "14... Na5 15. Qc2": "If there's a problem, yo, I'll solve it.  Now, with the Queen gone, and with only the bishop guarding the pawn, check this shit out.",
+        "15... Bxe3+ 16. Bxe3 Qxe3+": "I played this out, and if he goes to the corner, which seems like the obvious thing to do, I have a good attack.  Ironically, this wouldn't have worked if he'd moved Kf1, which seems like the more dangerous position because of the rook.  But Kf1 would have been more problematic for me.  Kh1 makes him more vulnerable, because all I need to do is get a power piece on the back rank, and he's done.  His other rook is stuck, and as long as I keep pressure on him, he won't be able to get the knight out.",
+        "17. Kh1": "So, if he moves his bishop here, his king is in checkmate.  So - I have to get him to move his bishop!",
+        "17... Rxf3": "This is very tempting.  He won't kill w/ bishop, because then it's checkmate, so obviously, kill it with the pawn!",
+        "18. gxf3 Bxf3+": "Check!  But now my back rank mate is gone!  What have I done?!?  A tragic error!!",
+        "19. Bxf3": "Now, I'm pretty far down in material, and he has his queen still there, ready to pounce.  ",
+        "19... Qxe1+": "Just a check... no back rank mate...",
+        "20. Kg2 Nf4#": "sha-plow!  Knight comes out of nowhere!  This may be my favourite mate in a long time.  Aw man, this was awesome.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=59645",
+    "gameName": "Let's play chess",
+    "players": "pboonant (1412) vs. mad_disciple (1456)",
+    "opening": "QGD (D08), Albin counter-gambit, Krenosz variation"
+}

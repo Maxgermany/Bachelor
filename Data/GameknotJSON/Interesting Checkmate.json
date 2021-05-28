@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "A flawed game but ends with an interesting checkmate.",
+        "1... d6 2. d4 Nd7 3. Be3 e5 4. Nf3 Ngf6 5. Nc3 Be7 6. Qd2 O-O": "So far standard moves, but here ...c6 is better to allow ...Qc7.",
+        "7. O-O-O": "Seems risky. ",
+        "7... exd4": "!? I did not feel like ... Ng4. ",
+        "8. Nxd4 Re8 9. g3 Nc5 10. Bg2 Bf8 11. Bg5 Ne6": "Threatens exchanges.",
+        "12. Bxf6 Qxf6 13. Nd5 Qd8": "At this point, there is nothing wrong with White's position,",
+        "14. Rhe1 c6 15. Nxe6 fxe6": "Now Black has equalized and has a strong center.",
+        "16. Nf4 e5 17. Ne2 Qf6 18. Nc3 Bg4 19. f3 Bh5 20. g4 Bf7 21. b3 Red8 22. Qf2": "This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1",
+        "22... d5": "! Now Whites king is in trouble, the advantage has shifted to Black.",
+        "23. exd5 cxd5 24. Nb5": "?? A blunder. Black now has an overwhelming attack. Best was 24. Re2 Rac8 25. Na4 Qf4+ 26. Kb1 b5 27. Nb2 Bg6 28. Nd3 Bxd3 29. cxd3 Bb4 30. Qxa7 Qxh2",
+        "24... a6 25. Nc3 Bb4 26. Re3": "?? A very bad plan.",
+        "26... d4 27. Ne4": "Best was 27. Nd5 Bxd5 28. Red3 Be4 29. R3d2 Bxd2+ 30. Rxd2 Rf8 31. Qg3 Bc6 32. Kb2 Qf4 33. Rd3 Qxg3 34. hxg3. This is a very bad plan.",
+        "27... Qf4": "! Of course. The pin wins material.",
+        "28. Rdd3": "?? Another bad move. Best was 28. Qe2 Ba3+ 29. Kb1 dxe3 30. Rxd8+ Rxd8 31. h4 Bg6 32. Qc4+ Kh8 33. Qe2 Bxe4 34. fxe4 Rd2 35. Qf3 Qxe4 36. Qf8+ Bxf8 37. Bxe4",
+        "28... dxe3 29. Rxe3": "?? Very bad. Fortunately for White, Black overlooks the obvious mate in 2: Ba3+ Kb1 Rd1++.",
+        "29... Bd5": "Black still wins...the plan is a slower mate.",
+        "30. Qe2 Bxe4": "Preparing the following mate.",
+        "31. fxe4": "The rook is pinned. Now mate is inevitable,",
+        "31... Qxe3+": "QxR+!!",
+        "32. Qxe3 Ba3+ 33. Kb1 Rd1+": "And mate. Although Black should have mated white earlier, the final mating combination is instructive.",
+        "34. Qc1 Rxc1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/interesting-checkmate?gm=46884",
+    "gameName": "Interesting Checkmate",
+    "players": "tobita (1526) vs. dmaestro (1485)",
+    "opening": "Pirc defence (B07)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "I am black",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O": "Castle",
+        "4... Nf6 5. Nc3 O-O": "Castle. \nNormal so far...",
+        "6. a3": "Trying b5",
+        "6... d6 7. Na4": "What? Why not b5? This move no longer protects the e4 pawn!",
+        "7... Bg4": "Pinned",
+        "8. Nxc5 dxc5 9. h3 Bh5 10. Be2 Nxe4": "Ahead a pawn",
+        "11. d3 Nd6 12. g4 Bg6 13. Bg5 f6": "Blocked",
+        "14. Bd2": "Back",
+        "14... e4 15. Nh4 exd3": "Threatening dxe2",
+        "16. cxd3 Qe8": "!?",
+        "17. f4 Bf7 18. Re1 g5": "One of the great mistakes in the game",
+        "19. fxg5 fxg5 20. Bxg5 Nd4 21. Rc1 Nb3 22. Rc3 Nd4 23. Bh6 Nxe2+ 24. Rxe2 Qb5 25. Bxf8 Rxf8 26. Qe1 Re8 27. Rxe8+ Bxe8 28. Qe5 Qxb2 29. Qxc5 Bc6 30. Qg5+ Kh8 31. Qf6+": "Check-o-rama",
+        "31... Kg8 32. Rxc6": "The risk!",
+        "32... Qxf6": "Nope.",
+        "33. Nf5": "???",
+        "33... bxc6": "White resigns "
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=65208",
+    "gameName": "Chess game",
+    "players": "blagoj68 (White) vs. eric2jin (Black )",
+    "opening": "Giuoco Piano (C50)"
+}

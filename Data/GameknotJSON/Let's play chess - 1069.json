@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. Bb5+": "The correct  move is 3.d4",
+        "3... c6 4. Bc4 Nf6": "4.....d5 drops the e5 pawn. ",
+        "5. Nc3 Ng4": "Bad move,  black should instead develop his pieces.",
+        "6. Qe2 Qh4": "Blunder!!! ",
+        "7. g3": "A worse blunder!!! 7.Nxh4",
+        "7... Qh3": "Depriving white from immediate castling, but this is a bad move here as black is too far behind in development. ",
+        "8. b3": "I prefer 8.d3",
+        "8... Qg2": "Again, black should develop.",
+        "9. Rg1 Qh3 10. Bb2 Nxh2 11. O-O-O a6": "Blunder, Rh1 wins the knight. To be continued.",
+        "12. Ng5 Qh6 13. Nxf7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=8790",
+    "gameName": "Let's play chess",
+    "players": "raphaello52 (1200) vs. dillers (1049)",
+    "opening": "Philidor's defence (C41)"
+}

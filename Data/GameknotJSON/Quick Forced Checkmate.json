@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Hey everyone! This is a quick checkmate I delivered a few weeks ago, and I was bored so I decided to annotate it. For all the higher ranked players, let me know if I could have done something differently.",
+        "1... e5": "Here is the standard e4, e5 opening I usually see in most of my games.",
+        "2. c4": "Here is an odd move, because it doesn't seem to prepare his development. But for all I know, there is probably a hidden purpose.",
+        "2... d5": "I like to play the center opening or the bishops gambit. In this one I was playing black, so I decided to play the center opening, to speed up the development. It seems like I am committing suicide, but I am only preparing for a future attack.",
+        "3. f3": "Now he makes his first defensive play. I usually would have taken the free pawn as white, but he has now opened up the opportunity to develop move pieces. The Gameknot database gives this a positive score on this move.",
+        "3... dxe4": "I take the pawn, in order to prepare for an attack.",
+        "4. fxe4 Qh4+": "At this point I pull my Queen out of position prematurely. But although it is unprotected, it fulfills a vital mission. It forces him to move his King and ruin the possibility of castling.",
+        "5. Ke2 Qxe4+": "Now I decide to go for material value by taking the pawn Qxe4+. Once again, I am forcing him to move his King. His only legal option becomes Kf2.",
+        "6. Kf2 Bc5+": "Here I use the bishop, because it now forces him to move again (Bc5+). He could move d4, but then he would just be throwing his pieces away. It would however, open up a line for his bishop to prevent the checkmate. I have now succeeded in removing his King from the back lines. He is forced to move Kg3.",
+        "7. Kg3 Qf4#": "Now that I have narrowed his space down, I can deliver checkmate by moving Qf4#. This position is protected by the pawn, and his only other option is Kh3, which my bishop is attacking (bc8). Now if we go back to move 2 and question why I threw that pawn up there, we know how it affected the game. It allowed both my bishops and my Queen room to attack his unprotected King.\nIf any of the higher ranked players have any suggestions, just let me know what I might have done better."
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-forced-checkmate?gm=31647",
+    "gameName": "Quick Forced Checkmate",
+    "players": "????? (1160) vs. soccer14 (1277)",
+    "opening": "King's pawn game (C20)"
+}

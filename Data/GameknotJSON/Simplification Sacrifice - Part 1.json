@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!  Just to show you one of my better games against The Dentist!",
+        "1... g6 2. d4 d5 3. e5 e6 4. c3 h6": "4. ......... h6 - this is from the Pirc Defence - black's first move g6 determined the opening.  We have spent the first four moves making pawn moves but white has a big pawn chain in the centre.  Over the next few moves we start getting our pieces out.",
+        "5. Bd3 Bd7 6. Qc2 a6 7. Nf3 g5": "7. ............ g5 - an attempt at a pawn storm.  Maybe trying to dissuade kingside castling.  But the downside of this is that it can be rather weakening.",
+        "8. h3 Bg7 9. Be3 f6 10. Bg6+": "10. Bg6  - forces black to forego castling - he must move his king.",
+        "10... Kf8 11. exf6 Bxf6 12. Bh5": "12. Bh5 - making room for Glenda to invade on g6.  After black naturally responds with 12.......... Qe7 I force some exchanges which will open up the black castled position a little further.",
+        "12... Qe7 13. Ne5 Bxe5 14. dxe5 b6 15. Nd2 c5 16. O-O": "16. 0-0 - must watch out for Bb5 hitting out at f1 - not easy to block that diagonal.  Amazingly my opponent does not notice until it is too late for him.",
+        "16... Nc6 17. f4 Qg7": "17. ............... Qg7?? - a plausible enough move but it walks into a tactical shot.  Firstly, a discovery.",
+        "18. fxg5+ Ke7 19. Rf7+": "19. Rf7  - now a fork!",
+        "19... Qxf7 20. Bxf7 Kxf7 21. Rf1+": "21. Rf1  - black gets nearly enough wood for the queen but still has to face a blistering attack.",
+        "21... Ke7 22. Qg6": "22. Qg6 - and now Glenda swoops in to g6 as per my previous note!",
+        "22... Nxe5 23. Qg7+": "23. Qg7  - and another fork!  The rook on h8 is toast!",
+        "23... Kd6 24. Qxh8 Bb5": "24. ............... bb5 - a few moves too late.",
+        "25. c4 Bxc4 26. Nxc4+ Nxc4": "26. ............... Nxc4.  I decided to give a pawn back to simplify.  Now here comes another simplification sacrifice.  Black has two passers which could be unmanageable.  I also want to play gxh6 threatening h7 and hxg8/Q.  But I need to do this with a gain of tempo, so .........",
+        "27. Bf4+ e5 28. Bxe5+": "28. Bxe5 ! - removing one of the passed pawns and after Nxe5 I can play the move I wanted to play in my previous note.  As I was already a lot of material up I could afford to return some for the greater good.",
+        "28... Nxe5 29. gxh6 Ng6 30. Qg7 Ng8e7": "30. .................. Ng8e7 - black does everything he can to foil my plan, but I am not to be deterred!",
+        "31. Rf6+ Ke5 32. Rf8+": "32. Rf8  - another deadly discovery, this time the rook on a8 is toast!",
+        "32... Kd6 33. Rxa8 a5 34. h7 c4 35. Ra7 d4": "35. ............ d4 - trying to push his passer on but ................",
+        "36. Qxd4+": "36.  Qxd4  ................ Glenda makes short work of him and........ Check! A lot of ebony is dropping off the board like flies.",
+        "36... Nd5 37. h8=Q": "37. h8=Q - Glenda 2 appears but she is snapped up immediately by the black knight.  But that knight is also about to disappear from the board!",
+        "37... Nxh8 38. Qxh8 Kc5 39. Qh5 Kc6 40. Rf7": "20. Rf7 - trying to close in on a checkmate.  That black knight is a little annoying.",
+        "40... a4 41. Qf3": "41. Qf3 - Glenda pins it down.",
+        "41... b5 42. Rf5": "42. Rf5 - and my cadaverous rook piles up on it.  The knight is now lost.  I will soon have to watch out that I do not give my opponent the wrong kind of mate with this abundance of material!",
+        "42... Kc5 43. Qxd5+ Kb6 44. Qxb5+ Kc7 45. Qa6 Kb8 46. Qg6": "46. Qg6 - it will be death by firing squad for the black king.  I announce mate in three to my opponent and he finally throws in the sponge!  That was a feast of tactics, wasn't it?!"
+    },
+    "url": "https://gameknot.com/annotation.pl/simplification-sacrifice-part-1?gm=17399",
+    "gameName": "Simplification Sacrifice - Part 1",
+    "players": "jstevens1 (1525) vs. The Dentist (1292)",
+    "opening": "Norwegian defence (B06)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. Nf3 Be7 6. e3 O-O 7. cxd5 Nxd5 8. Bxe7 Nxe7": "All the games start here.",
+        "9. Bd3": "The natural move to complete development and enable castling.",
+        "9... Nd5": "Black wishes to simplify further...",
+        "10. Nxd5": "...and I'm amenable.",
+        "10... exd5": "The skirmish is complete, and the position still even.",
+        "11. O-O": "May as well go through with my plan and castle.",
+        "11... Nf6": "Placing the Knight on the natural square to protect his own K-side.",
+        "12. Ne5": "I centralize *my* Knight.",
+        "12... Ne4": "Black follows suit.",
+        "13. f3": "I force him back.",
+        "13... Nf6": "Returning to home base.",
+        "14. Rc1": "Taking the half-open file. If the Exchange Variation is not played on move 7, this is a popular 7th move for White. It is still strong here.",
+        "14... c6": "Instead of P-QB4 freeing himself completely, Black has to settle for this move that strengthens his Pawn chain. Although with two minor pieces on each side already gone it may be said that Black has already relieved a good deal of the normal cramp in the Orthodox.",
+        "15. Bb1": "With the Rook free, I can retire this B without interfering with my other pieces.",
+        "15... Qc7": "Preparing to clear the first rank.",
+        "16. Qc2": "I clear my own, connecting my Rooks.",
+        "16... Be6": "Black likewise connects *his* Rooks. The position is still approximately even.",
+        "17. h3": "With this move I begin to prepare a Pawn storm against the White King. I realize this will leave my own King exposed, but you can't be a scared chess player. Every attack involves a certain amount of risk.",
+        "17... Nh5": "What had been a slow, strategical game [typical of QP openings] ends suddenly...",
+        "18. Qxh7#": "...on this lightning-bolt!"
+    },
+    "url": "https://gameknot.com/annotation.pl/qgd-orthodox-exchange-variation-mini-tournament?gm=53594",
+    "gameName": "QGD Orthodox Exchange Variation mini-tournament",
+    "players": "last_archimedean (1341) vs. russ20124 (1224)",
+    "opening": "QGD (D51), Rochlin variation"
+}

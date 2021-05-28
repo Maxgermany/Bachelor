@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Black had some big winning chances, but then it ended up as a draw.",
+        "1... c5": "Sicilian is played",
+        "2. Nf3 d6 3. d4": "the d-pawn is coming up",
+        "3... cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3": "Lots of side pawn movement.",
+        "6... e6": "Central.",
+        "7. g4 h6 8. Bg2 g5 9. Be3 Nbd7 10. Qe2 Ne5 11. O-O-O Nfd7 12. h4 Rg8 13. hxg5 hxg5 14. Kb1 b5 15. f4 gxf4 16. Bxf4 Bb7 17. g5 Qb6 18. Rh7 O-O-O 19. Be3 Qa5 20. Rf1 Rg7 21. Rxg7 Bxg7 22. g6 Nxg6 23. Rxf7 Bxd4 24. Bxd4 Nge5 25. Rf2 Qb4 26. Be3 Nc4 27. Bc1 Kb8 28. Nd1 Rc8 29. b3 Na3+ 30. Bxa3 Qxa3 31. Bh3 Nc5 32. e5 Be4 33. Qe3 Nd3": "I marked this ? But then realized... If 34. cxd3 Bxd3+ 35. Qxd3 Rc1# and black wins.",
+        "34. Rf7": "Saving the rook and threatening mate",
+        "34... Qc5": "Blocking mate and threatening mate itself if white does something random, for example: 35. Bxe6 Qxc3 36. Ka1 Qc1+ 37. Qxc1 Rxc1#. Also if 35. cxd3 Qc2 36. Ka1 Qxd2+ getting the knight back",
+        "35. Qxc5 Nxc5": "Queen trade",
+        "36. exd6": "Yum yum",
+        "36... Rd8": "Oof",
+        "37. Nc3 Rxd6 38. Kb2 Bc6 39. a3 Nb7 40. Rh7 Nc5 41. Rh6 Kc7 42. b4 Ne4 43. Rxe6 Rxe6 44. Bxe6 Nxc3 45. Kxc3 Kb6 46. Kd4 a5 47. Bd5 Be8 48. bxa5+ Kxa5 49. Kc5 Bg6 50. c3 Bd3 51. Bc6 Be2 52. Bd7 Bd3 53. Bc6 Be2 54. Bd7 Bd3 55. Bc6 Be2 56. Bd7": "Draw...."
+    },
+    "url": "https://gameknot.com/annotation.pl/6th-sinquefield-cup-2018?gm=65375",
+    "gameName": "6th Sinquefield Cup 2018",
+    "players": "Sergey Karjakin (2773) vs. Shakhriyar Mamedyarov (2801)",
+    "opening": "Sicilian (B90), Najdorf, Adams attack"
+}

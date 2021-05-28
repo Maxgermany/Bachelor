@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Hello everyone welcome to new annotation this is a short game.But i hope it helps someone and possibly help me.Okay here we go.He opens with e4",
+        "1... e5": "Standard answer by me e5",
+        "2. Qh5": "WAY to early to bring out the Queen.",
+        "2... Nf6": "Nf6 to put pressure on early queen and e4",
+        "3. Qxe5+": "This move does gain pawn and does put me in check but with so little development it is uneffectual",
+        "3... Be7": "Block check",
+        "4. Bc4": "I believe he trying to develop and put pressure on kingside.Not sure??????",
+        "4... Nc6": "Pressure on Qe5",
+        "5. Qg3": "RETREAT",
+        "5... O-O": "Standard castle",
+        "6. Bd3": "Negative move i believe continuing to stunt development",
+        "6... Bc5": "More development",
+        "7. Nf3 d6": "RELEASING Qd8 and Bc8",
+        "8. e5": "Here i believe e5 is used as bait so i will lose N if i went Nxe6 therefore destroying my center .Because i believe he would have went Qxe5 thus forcing move of Nf6 so i just went d6xe5",
+        "8... dxe5": "take pawm",
+        "9. Ng5": "Now i see his plan?I think now he is trying to move in on my kingside",
+        "9... Be6": "Bliuding up kingside",
+        "10. Qh4": "HERE WE GO",
+        "10... Qd4": "Alittle dangerous but thinking trade",
+        "11. Bxh7+": "Iwas wrong about trade or he was focusing in on one part of board i unfornately have done this lost games as result",
+        "11... Kh8": "He should have took queen next.h7 was cover by his knight and mine,but he would have sacked his queen",
+        "12. Bg6+": "This always happens when you forget about \"rifle\" in longshot and you charge in without looking around",
+        "12... Qxh4": "After this move opponent resigns i  was about to take Bg6 or Ng5.I hope you enjoyed.postive input taken negative tolerated GOOD CHESS GOOD DAY!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=56373",
+    "gameName": "Let's play chess",
+    "players": "ensayo (1054) vs. hiredgun112 (841)",
+    "opening": "KP (C20), Patzer opening"
+}

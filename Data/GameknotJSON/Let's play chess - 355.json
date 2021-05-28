@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6": "A little subtlety I learned from US Chess Championship Live Streams. This way, I will force Nc3 before exchanging on d5, because if he has his Knight on b1 he could immediately decide for Nd2-c4. Why should I let my opponent carry out his plans effortlessly?",
+        "5. Nc3 exd5": "Now that he played Nc3, I can exchange.",
+        "6. cxd5 g6 7. Nd2 Bg7 8. e4 Nbd7 9. Be2 O-O 10. O-O Re8 11. a4 a6 12. f4 Rb8 13. a5 b5 14. axb6 e.p. Nxb6 15. Kh1 c4 16. Nxc4": "Before this move, it was all theory. This capture, however, is not the best try, because at the end of the exchanges I will have an active rook on e4.",
+        "16... Nxe4 17. Nxe4 Nxc4": "Forced, because Rxe4? Na5! and White is much better.",
+        "18. Bxc4 Rxe4 19. Be2": "I was surprised by this move, in my analysis I considered more Re1 and Qc2. This looks just like a loss of a tempo.",
+        "19... Bxb2": "Gaining a pawn, even if at the cost of my dark-squared bishop. If White wants to regain the pawn, will run into the worse endgame I saw analyzing this position.",
+        "20. Bxb2": "Wouldn't have made such a big difference 20. Rb1 Reb4.",
+        "20... Rxb2 21. Bxa6 Bxa6 22. Rxa6 Ree2": "This is a much better endgame for Black, because he has two active rooks on the 7th rank. White will be forced to place a rook on g1, where it won't affect the game for a long time.",
+        "23. Rg1 Qf6 24. Ra8+ Kg7 25. Ra4 Qc3": "Accepting the exchange of Queens, because I evaluated that the endgame with passive King and Rook was almost lost for White.",
+        "26. Qd4+ Qxd4 27. Rxd4 Kf6": "In the endgame, activate your King as fast as possible! \nIn this case, it is particularly good, because Red2 or Rbd2 would have led to a draw after Rxd2 Rxd2 Re1 Rxd5 g3 and the endgame 4v3 is a draw.",
+        "28. Rdd1 Kf5": "Continuing to activate my King, because Rd2 draws similarly to last move variations.",
+        "29. Rde1": "A desperate move in a desperate position, Rf1 wouldn't have helped because of Rf2 and the gain of the f4 pawn anyway.",
+        "29... Kxf4": "In order to snatch the pawn, Black has to see Rxe2 Rxe2 Rf1 Ke5 Rxf7?? Re1+.",
+        "30. Rxe2 Rxe2 31. g3+ Kg4": "Going for the h2 pawn.",
+        "32. Rg2": "The pawn endgame is lost, but playing something else wouldn't have saved the game either.",
+        "32... Rxg2 33. Kxg2 Kf5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=47811",
+    "gameName": "Let's play chess",
+    "players": "bob20 (1665) vs. cavillus (1849)",
+    "opening": "Blumenfeld counter-gambit (E10)"
+}

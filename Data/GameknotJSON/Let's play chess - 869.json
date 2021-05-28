@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Nice one, where a white's mistake in the beginning leads in a finale nicely won by the black.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6": "Prefers the exchange variation",
+        "4... bxc6 5. Nxe5 Qe7 6. d4 f6 7. Qh5+": "?  In his effort to keep the pawn, white makes the mistake",
+        "7... g6 8. Qh4": "Perhaps better was Kxg6, hxg6, Qxg6, with 2 pawns for the lost knight (and black on check)",
+        "8... fxe5 9. Qxe7+ Bxe7": "Black welcomes the exchange, since it helps him develop, while he also has material advantage",
+        "10. dxe5 d6 11. Bf4 dxe5 12. Bxe5 Bf6 13. Bxf6 Nxf6": "More welcome trades, white wins one more pawn, but the field is open now",
+        "14. Nc3 O-O 15. O-O Bb7": "Wants to add pressure on e4",
+        "16. Rad1 Rad8 17. Rxd8 Rxd8": "More exchanges are welcome, black also controls the free column...",
+        "18. f3 Rd2": "Black rook attacks the 2nd line...",
+        "19. Rf2 Rxf2 20. Kxf2": "Even more trades, black is hoping for an advantageous finale",
+        "20... Kf7 21. b4 Ke6 22. g4 Kd6": "Black gets its King into the game, since he lacks 2 pawns and his pawn structure is not that good, in exchange for his Bishop...",
+        "23. h3 c5 24. bxc5+ Kxc5": "Improves his position, but the f3-e4 pawns seem a bit too strong...",
+        "25. e5 Nd5 26. Ne4+ Kd4 27. e6": "Perhaps the white shouldn't have rushed into advancing his pawn, with the rest and his king  staying in the back...",
+        "27... Ne7": "Stops the pawn and hopes for an exchange (bishop for a knight) and maybe a pawn...",
+        "28. c3+ Kc4 29. Ke3": "White manages to protect his pawn structure in the king's side, but black can win a pawn with: Bxe4, Kxe4, Kxc3, which opens the column for his pawn (c7). It has the disadvantage of letting the white king go towards the 6th-7th line, which could be dangerous, but black believes that, by sacrifising his Knight for the advanced pawn at the right moment, he can win the game.",
+        "29... Bxe4 30. Kxe4 Kxc3 31. Ke5": "Everything goes according to the plan...",
+        "31... Kd3 32. Kf6 Nd5+ 33. Kf7 Ke3": "Black wants to first make sure that the white won't be able to get another pawn towards promotion, after the knight x pawn.",
+        "34. e7 Nxe7 35. Kxe7": "According to the plan, Knight takes the advanced pawn and it seems that black will be able to win this...",
+        "35... c5": "White is one move short...",
+        "36. Kf7 c4 37. Kg7 c3 38. Kxh7 c2 39. Kxg6 c1=Q": "Black achieved promotion... the game is actually finished now, despite white's further resistance...",
+        "40. g5 Kxf3 41. h4 Qc6+ 42. Kh5 Qe8+ 43. g6": "Black is starting to get a bit worried, but believes he can do it in the end",
+        "43... Kf4 44. a3 Kf5": "And the game is actually over...  Follows \n\n45.   a4   Qxg6 #  0-1\nor..\n45.   Kh6 Qxg6 #  0-1",
+        "45. Kh6 Qxg6#": "Game finished...   0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=22769",
+    "gameName": "Let's play chess",
+    "players": "jojo42 (1531) vs. guardiangr (1399)",
+    "opening": "Ruy Lopez (C68), exchange variation"
+}

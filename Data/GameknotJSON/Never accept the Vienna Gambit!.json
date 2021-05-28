@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "The Vienna game -- a lot less common than the typical 2. Nf3.",
+        "2... Nf6": "If white isn't going to attack black's e5 pawn, then black may as well start pressuring the white pawn on e4.",
+        "3. f4": "The defining move of the vienna gambit.  This is a *much* stronger move, in my mind, than the king's gambit, since the presence of the knight of f6 prevents black from playing Qh4 .",
+        "3... exf4": "?  This is a common mistake, but definitely a mistake.  The reason this is a mistake is because after 4. e5, the black knight has no safe squares, and will wind up either being sacrificed or retreated to g8.\n\nUsual is 3... d5, which is a \"falkbeer counter-gambit\" type response, and play usually continues 4. fxe5 Nxe4, and then white can choose between 5. Nf3 and 5. d3, both of which are about even.",
+        "4. e5": "!  The best move, although it's pretty obvious after the last note.",
+        "4... Ng8": "Also, Qe7 is a common response, pinning the pawn, but after 5. Qe2, the knight has to go home anyway.",
+        "5. Nf3": "This move is essential to stop Qh4 .  \n\nNote that white has quite adequate compensation for the sacrificed pawn, and that he's two moves ahead (e4-e5 and Nc3) of the typical King's Gambit accepted.",
+        "5... g5": "A reasonable move, shoring up the f4 pawn and threatening a big kingside presence with g5-g4 to follow.  This is slow, however, and black should be trying to develop at all costs to avoid getting crunched!",
+        "6. d4": "Again, development is key!  This opens up lines for the bishop and queen, and dominates the center.",
+        "6... g4": "?!  I don't like this at all here.  Black threatens to win the knight, and may well be in good shape after something like 7. Nd2 Qh4 , but what if white doesn't move the knight?",
+        "7. Bxf4": "!  With this pawn gone away, Qh4  is not threatening at all.  It takes some major cojones to sacrifice a knight so early in the game, and for just a pawn, but take stock of developed pieces and you'll see that white isn't losing at all...",
+        "7... gxf3": "The only consistent follow-up.  There are ways to defend in this position, but they are dreadfully complicated...",
+        "8. Qxf3": "Whereas white's job is easy.  White's going to play Bc4 and 0-0 and try to mate the black king on f7, while black is missing the e and g pawns and has no pieces developed at all.",
+        "8... Bh6": "Nc6 would have, perhaps, been more effective as a defensive move, as it is in the normal King's Gambit accepted.  But with white in total command of the center, there's then no good answer to d5.  Black sees that 9. Bxh6 Nxh6 defends the f7 square, but white is going after bigger stakes than just a minor piece.",
+        "9. Bc4": "More development!  Now, if the Bf4 moves, there's a mate threat on f7.",
+        "9... d6": "d5 would have been little better -- it's hard to find a suitable defense here at all, in fact.  Therefore, we have to conclude that the plan of taking the knight, Muzio-style, in the vienna gambit accepted is simply too slow, and black cannot afford the time lost.",
+        "10. O-O": "And now white has all the time in the world!  There's no need to rush... white takes his time building up his attack.  0-0 is particularly effective here, since f1 is the best square for the king's rook in this position.  \n\nAlso worth considering is the brutal 10. Bg5, which threatens Bxd8 and Qxf7#; however both threats can be parried by 10... Qd7!, so I went with the text instead.",
+        "10... Bf5": "Desperately trying to bring defensive resources to the kingside.",
+        "11. Rae1": "!  This brings the final piece into play, and white now threatens exd6 , with devastating effect.  What can black do at this point?  It's easy to see that many things don't work: Bxf4 fails to 12. Qxf4, Nd7 fails to 12. exd6 , and Ne7 fails to 12. Bxh6.  \n\nWhat can black do to save himself?",
+        "11... c6": "?  This isn't going to do it, and is a poor try.  I had thought that black would at least move a piece or try to complicate something by returning material or sacrificing his queen.  Instead, white's plan of exf6  can continue unhindered.",
+        "12. exd6+ Kf8": "Running to the the queenside with Kd7 is very dangerous and loses material, but what happens in the text is even worse.",
+        "13. Be5": "A double attack on both the bishop on f5 and the rook on h8.  Although black still has his material edge, I don't think anyone would choose the black pieces in this position!",
+        "13... Bg6": "This defends the f7 pawn once, jettisoning the rook in the hopes of living to fight a little longer...",
+        "14. Bxf7": "!  But white doesn't take the bait at all.  Black has no good defense to Bxg6 , which leads to mate, and so resigns.  Note that black has 5 pieces still at home -- whereas all of white's pieces are active.\n\nThanks to Vidas for the game, and the lesson is twofold -- don't accept the vienna gambit with exf4, and don't go grabbing material when you're behind in development!  Hope you enjoyed this one!"
+    },
+    "url": "https://gameknot.com/annotation.pl/never-accept-the-vienna-gambit?gm=7122",
+    "gameName": "Never accept the Vienna Gambit!",
+    "players": "ethansiegel (1739) vs. vidas666 (1487)",
+    "opening": "Vienna gambit (C29)"
+}

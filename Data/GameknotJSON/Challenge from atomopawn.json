@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. Nf3": "Hoping to get into a Queen's gambit declined without allowing the QGA.  ",
+        "1... f6 2. d4": "Continuing toward my Queen's Gambit move order.",
+        "2... d5 3. c4": "And we're there!  The move f6 seems out of place here, since it prevents black from bringing a knight out to defend the d5 pawn.  ",
+        "3... e5 4. Nc3": "Capturing on e5 would solve Black's development problems.  Capturing on d5 seems to win a pawn, but allows Black to develop the dark square bishop with tempo.  ",
+        "4... e4": "I missed this reply, though.  Black disrupts my pieces and the f6 pawn protects e5.  However, I think I can still bring the night to d2 and then fianchetto.  The advanced pawn should be weak once I complete my development.  ",
+        "5. Nd2 c6 6. cxd5": "Opening the a4-e8 diagonal and undermining the e4 pawn.",
+        "6... cxd5 7. Nb3": "Unblocking the Bishop on c1 and preparing to jump into c5.",
+        "7... Nc6 8. Bf4": "Now I can play e3 and bring the knight to b5, putting pressure on Black's weak c7 square.",
+        "8... Nge7 9. Nb5": "Continuing my plan.",
+        "9... Ng6 10. Nc7+": "Winning the exchange and forcing Black's king out into the open.",
+        "10... Kf7 11. Nxa8 Nxf4 12. e3": "At this point, I figure I'm going to lose two pieces for the rook (since the knight doesn't have any squares), so let's see how many tempos I can get in exchange.",
+        "12... Bb4+": "This looks bad for white, but Black's knight is still en prise.",
+        "13. Nd2 Nxd4 14. exd4": "At this point, my knight is pinned, I'm still probably going to lose the knight on a8, and I have to watch out for Nd3+.  On the other hand, Black's king is in the middle of the board.  ",
+        "14... Qe7 15. Qc2": "Black still hasn't moved his c8 bishop so that the queen can capture my knight.  Maybe I can save it.",
+        "15... Nd3+ 16. Kd1": "Now my king is in the middle of the board, too.  But the knight isn't pinned any more.  ",
+        "16... Nxf2+": "Oops.  Missed this fork.  Let's be sure not to let him save his knight like he let me save mine. ",
+        "17. Ke2 Nxh1 18. Nc7": "And it's free!",
+        "18... e3": "But now I've got to watch out for his killer pawn on e3.  It looks like he can just bring the Knight out to f2 and there's nothing I can do.    Where's my counterplay?",
+        "19. Nxd5": "Ah ha! Knights move backwards!  With this tempo, I can capture the e3 pawn and strand the black knight again.",
+        "19... exd2+": "Black seems to have forgotten his queen was under attack.",
+        "20. Nxe7 Re8": "There's still a lot of danger here with my king in the center of the board.  That defended passed pawn on the 7th is a major threat.  The knight on h1 is cutting off the f2 square from my king.  And now the rook enters the fray.  I'm going to have to play very precisely to pull this off.",
+        "21. Qc4+": "Let's try to get rid of the bishop that control's the queening square.",
+        "21... Kxe7 22. Qxb4+ Kd8+ 23. Kxd2 Nf2 24. Qd6+ Bd7 25. Bd3 Re6 26. Qf8+ Kc7 27. Rc1+ Kb6 28. Qc5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-atomopawn?gm=55278",
+    "gameName": "Challenge from atomopawn",
+    "players": "atomopawn (1385) vs. taiyou (1450)",
+    "opening": "Reti opening (A04)"
+}

@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5": "My typical response to e4 players. My coach tell me it most popular as well. My goal is to gain advantage over the d4 square with the sacrifice of white aggressive development. Also I don't tend to like to play copycat game (1. e4 e5 ...) but rather pick my own style of play.",
+        "2. Nf3 Nc6 3. d4 cxd4": "Goal one accomplish. I gain center pawn at sacrifice of allowing white to develop and open the king bishop line.",
+        "4. Nxd4 e5": "Some people call this move a error, but never get a explanation. Reason I like it I keep a pawn in the center, attack white's piece forcing a move, and I open kingside bishop.",
+        "5. Nb5 d6": "I block one bishop to open the other and add protection to the e pawn.",
+        "6. Nb1c3 a6 7. Na3 b5 8. Nd5 Nf6 9. Bg5 Be7 10. Bxf6 Bxf6": "This is typical of how I play this. The rapid development on black side is a side effect of white having to move the knights multiple times early.",
+        "11. c4 Nd4 12. Bd3 Qa5+ 13. Qd2": "This was a surprise. I expected a knight retreat, this right away told me this would not be my typical game.",
+        "13... Qxd2+ 14. Kxd2 Bg5+ 15. f4 Bxf4+": "Here I accept a pawn advantage to get rid of the knight at the cost of losing the bishop and breaking the pawn pair.",
+        "16. Nxf4 exf4 17. cxb5": "And the exchanges continue",
+        "17... Nxb5 18. Nxb5 axb5 19. Bxb5+": "Open the position and even out the score again. Lots of action and exciting turns in the game.",
+        "19... Bd7 20. Bc4 Ke7": "I choose not to castle. With the queen gone, I feel I need to keep the king centralize",
+        "21. Bd5 Rab8 22. b3 Be6": "I look at g5 as an option too but I did not go with it because I do not see where it can lead to a win.",
+        "23. Kc3 Bxd5 24. exd5 Rhc8+ 25. Kb2": "And the king moves away from the center.  However the game seems to be at a standstill. After all the exchanges and action, we are pretty much dead even.",
+        "25... Kf6 26. Rhe1": "So we agree to a draw."
+    },
+    "url": "https://gameknot.com/annotation.pl/an-action-fill-draw?gm=56070",
+    "gameName": "An action fill draw",
+    "players": "jswca (2161) vs. eaglei (1929)",
+    "opening": "Sicilian (B32), Labourdonnais-Loewenthal (Kalashnikov) variation"
+}

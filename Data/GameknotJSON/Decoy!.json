@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 Nf6": "1. ........ Nf6 - the most popular reply to d4.  This game seems a non event, but a decoy tactic at the end livens it up and I hope will whet your appetite for the tactical melee game against patzerblitzer.",
+        "2. e3 g6 3. c3 Bg7 4. Nf3 O-O 5. Nbd2 d5 6. Ne5 Nbd7": "6. ......... Nbd7 - challenges the e5 knight.",
+        "7. f4 Nxe5 8. fxe5 Nd7 9. Bd3 Nb6 10. O-O Be6": "10........... Be6 - my position seems rather cramped, but I somehow manage to get round the problem.",
+        "11. e4 c6 12. Nf3 dxe4 13. Bxe4 f6 14. exf6 exf6 15. Bc2 Qd7": "15.......... Qd7 - quite a transformation from the position on move 10.  My development is now complete and I have managed to uncramp myself.",
+        "16. Bf4 Nd5 17. Bd2 Rfe8 18. c4 Nc7 19. Bb3 b6 20. Bf4 Qf7 21. Bxc7 Qxc7 22. Re1 Bf7 23. Qd2 Rxe1+ 24. Rxe1": "24. Rxe1 - one pair of rooks has been exchange and I now contest the e file.",
+        "24... Re8 25. d5 Rxe1+ 26. Qxe1 cxd5 27. cxd5 Qc5+": "27. ......... Qc5  - ganging up on the passed c pawn.  For once I decline an invitation to swap queens!!!",
+        "28. Qf2 Qc1+ 29. Ne1 f5": "29. .......... f5, sneaky, sneaky, sneaky, it looks as though I am merely threatening the b pawn, but little does white know I am threatening something far more deadly.",
+        "30. d6": "30. d6?? - white is so pre-occupied with pushing his passer that he misses this deadly move .......",
+        "30... Bd4": "30 ........... Bd4!! - this move forces instant resignation as the white queen is pinned to the king.  If the queen captures the bishop then white cops Old Matey on e1 by 31........ Qxe1#.  This is an example of a pin/decoy."
+    },
+    "url": "https://gameknot.com/annotation.pl/decoy?gm=16328",
+    "gameName": "Decoy!",
+    "players": "NN (1674) vs. jstevens1 (1663)",
+    "opening": "Queen's pawn game (A45)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4 d6 9. c3 Bg4 10. d5 Na5 11. Bc2 c6 12. h3 Bc8 13. dxc6 Qc7 14. Nbd2 Qxc6 15. Nf1 Nc4 16. Ng3 Re8 17. a4 Be6 18. Ng5 Bd7 19. b3 Na5 20. Bd2 Qc7 21. axb5 axb5 22. Qe2 h6 23. Nf3 Be6 24. Reb1 Rab8": "Partiis Becerra Rivero - Kamski k\u00e4idi siin 24... Veb8\n",
+        "25. Nh4 b4": "Pikema m\u00f5tlemise j\u00e4rel s\u00fcndis Nyb\u00e4cki peas uus plaan. Varasemates partiides m\u00e4ngiti mustadega Rb7, millele j\u00e4rgnes b3-b4, aga siin pole ka musta vankrit a8-l.",
+        "26. c4 Nc6 27. Nhf5 Bf8 28. Be3 Rba8 29. Qf3 Nd7 30. Nh5 g6": "Seda v\u00f5imalust hakkasin arvestama alles siis, kui olin oma k\u00e4igu Rh5 juba \u00e4ra teinud. Partii ajal lugesin, et ei saa l\u00fc\u00fca ei oda ega ratsuga h6-le - ometi pole asi sugugi nii lihtne ning mustalt on vaja \u00fclit\u00e4pset kaitset - 31. Rxh6+ Oxh6 32. Oxh6 Rd4 j\u00e4rel ma enam eriti asja edasi ei uurinud, kuid selgub, et valge saab j\u00e4tkata kahistiilis 33. Le3! N\u00fc\u00fcd peab must olema t\u00e4pne - 37...Vxa1! 34. Vxa1 Rxc2 35. Lg5 Ld8! (35... Rxa1?? 36. Rf6+ Kh8 37. Of8 l\u00f5peb matiga) 36. Va8!! Lxg5 37. Vxe8+ Kh7 38. Oxg5 gxh5 39. Oe7 Oxc4! 40. Vd8! Oe6 41. Oxd6 ning l\u00f5ppm\u00e4ng V+E vs 2R on viigiline. \nV\u00e4ga huvitav on ka odaga l\u00f6\u00f6mine 31. Oxh6 Partii ajal lugesin, et kaotan - 31... Oxf5 32. exf5 Rd4, kuid arvutianal\u00fc\u00fcs t\u00f5estab vastupidist - valged v\u00f5idavad! 33. Lg4 Vxa1 34. Vxa1 Oxh6 35. fxg6 Rxc2 36. gxf7+ Kxf7 37. Lf5+! Ke7 38. Lh7+ Kd8 39. Va8+ Rb8 40. Lxh6 ning viguri eest on valgel 2 etturit ja v\u00f5imas r\u00fcnnak. Mustal on aga olemas palju tugevam vastus 31...Oxh6!! 32. Rxh6+ Kf8! 33. Rg3 (33. Vxa8 Vxa8 34. Rf6 Rd4 35. Rxd7+ Kg7!! 36. Ld1 Lxd7 37. Rg4 Oxg4 38. hxg4 Va2 39. Od3 Le7 \u00fclekaaluka seisuga mustale) 33... Va3 ning musta vigurid valitsevad lauda, valge enamettur aga ei anna end \u00fcldse tunda.\nNyb\u00e4ck oli sel hetkel tegelikult juba parajas ajapuuduses (ca 5 min 40.k\u00e4iguni)... huvitav, kas ta oleks need variandid laua taga leidnud?",
+        "31. Nhg3 Kh7 32. Qd1 Nf6 33. Nh4 Ra3 34. Bc1": "Valge puhub taganemissignaali.",
+        "34... Rxa1 35. Rxa1 Nd4 36. Be3 Nxc2 37. Qxc2 Qc6 38. Nf3": "Etturit jahtida ma ei julgenud - 38. Va4 Va8! 39. Vxb4 Lc7 j\u00e4rel kartsin musta vastum\u00e4ngu d6-d5.\n",
+        "38... Nd7 39. Ne1": "Pisukese m\u00f5tlemise j\u00e4rel leidsin valgele tugevad ratsuman\u00f6\u00f6vrid.",
+        "39... Nc5 40. Nd3 Qb7 41. Nxc5 dxc5 42. f3 Rd8 43. Nh1": "! Ratsu tuleb ideaalsele v\u00e4ljale f2, kust saab edasi liikuda g4-le v\u00f5i d3-le.",
+        "43... Be7 44. Nf2 Bg5 45. Bxg5": "Taas oli v\u00f5imalik v\u00f5tta ettur 45. Oxc5 Vd2 46. Lb1 Lc6 47. Oa7! , kuid eelistasin selle asemel rahulikku ja kindlat plaani. \n",
+        "45... hxg5 46. Rd1 Rd4 47. Rxd4 exd4 48. Nd3": "Ratsu leidis taas v\u00e4ga hea v\u00e4lja, kus blokeerib musta vabaetturit d4 ning \u00e4hvardab musta ettureid c5 ja b4.",
+        "48... Qc7 49. Qd2 f6 50. h4": "Pisikese k\u00f5hkluse j\u00e4rel otsustasin alustada ise m\u00e4ngu v\u00f5idule.",
+        "50... gxh4 51. Qf4 Qe7": "Parem oli kohe minna l\u00f5ppm\u00e4ngu 51... Lxf4! 52. Rxf4 Oc8 53. Rd3 g5! 54. Rxc5 f5! ning must j\u00f5uab alustada vastum\u00e4ngu kuningatiival ja vabaetturi d4 toetusel - 55. e5 g4! 56. Rd3 Kg6 57. Rxb4 gxf3 58. gxf3 f4! Usun, et kaotada valge siiski ei riski...\n",
+        "52. Qxh4+ Kg7 53. Qg3 g5 54. Qb8 g4 55. Qb5 gxf3 56. Qxc5 Qxc5": "Paremat polnud.",
+        "57. Nxc5 Bg4 58. gxf3 Bxf3 59. Kf2 Bd1 60. Ne6+ Kf7 61. Nxd4 Ke7 62. c5": "Lugesin siin varianti valesti, uskudes et j\u00f5uan kuningaga \u00f5igel hetkel d4-le. Anal\u00fc\u00fcs n\u00e4itab, et valge peaks v\u00f5itma variandis 62. Ke1! Oh5 63. Rc2 Kd6 64. Rxb4 Ke5 65. Rd5! Bg6 66. Rc3! Kd4 67. Kd2 Oh7 68. Re2+! Kxe4 69. b4! Kahjuks oli mul m\u00f5tlemisaega vaid veidi \u00fcle 10 minuti ning kahe k\u00e4igu vahel valides tegin vale otsuse.\n",
+        "62... Kd7 63. Ke3 Bh5 64. Nc2 Bf7 65. Nxb4 Bxb3": "K\u00e4iku 62.c5 arvestades tundus mulle, et mu kuningas on juba d4-l ning v\u00f5idan variandis 66.Rd5 Ke6 67.c6. ",
+        "66. Kd4": "\n",
+        "66... Ba4 67. Kc4": "Kui n\u00e4gin, et v\u00f5itu pole, otsustasin veel v\u00e4heke n\u00f5ksutada ning vastast eksima panna.\n",
+        "67... Ke6 68. Nd3 Bc6 69. Kd4 Kd7 70. Nb4 Ba4 71. Ke3 Ke6 72. Kf4 Bd1 73. Nc6 Bh5 74. Nd4+ Ke7 75. Ke3 Kd7 76. Nf5 Bg6 77. Kd4 Bh7 78. Kc4 Kc6 79. Kb4": "No j\u00e4lle j\u00e4i natukene puudu... musta oda \u00f5nnetu asendi t\u00f5ttu on laual kerge k\u00e4igupuudus.",
+        "79... Kc7 80. Kb5 Bg6 81. c6 Be8 82. Ne7": "\n",
+        "82... Kd6": "Ja ikkagi saab must viigi...",
+        "83. Nc8+ Ke5 84. Kc5 Bxc6 85. Kxc6 Kxe4": "Viik."
+    },
+    "url": "https://gameknot.com/annotation.pl/hof-2010-jyv-skyla?gm=32663",
+    "gameName": "Hof 2010, Jyv\u00e4skyla",
+    "players": "Lauk, \u00dclar  vs. Nyb\u00e4ck, Tomi ",
+    "opening": "Ruy Lopez (C88), closed, 7...O-O"
+}

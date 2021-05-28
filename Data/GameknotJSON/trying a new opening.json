@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. Nf3": "same first move",
+        "1... d5 2. g3": "I admit that this isn't the best opening and i don't really know how to use but i got board so decided to try some new openings ",
+        "2... Nc6 3. Bg2 d4 4. c3 Nf6 5. cxd4 Nxd4 6. Qa4+": "wasn't expecting that, but i probably should have castled by now",
+        "6... c6": "? should have blocked with the knight",
+        "7. Qxd4 g5": "?! loses ability to castle and loses a pawn",
+        "8. Qxd8+ Kxd8 9. Nxg5 Ke8": "stops the danger of nxe7+ ",
+        "10. b3": "not great leads to disaster",
+        "10... e5 11. Nf3 Bg7": "no ? its a pawn for pawn or knight and pawn for rook",
+        "12. Nxe5 Ng4": "good move",
+        "13. Nxg4": "should have moved f4 one point by point system and one of my two largest forces on the board",
+        "13... Bxa1 14. Ne3": "retreating from bishop ",
+        "14... h5": "no real purpose i can see",
+        "15. Nc3 h4 16. O-O h3 17. Bf3 Rg8 18. Ba3 Bxc3": "realising that the bishop was useless ",
+        "19. dxc3 f5 20. Rd1": "hoping he would continue with the pawn",
+        "20... f4": "he does",
+        "21. Bh5+": "resigned nothing he could do ",
+        "21... Rg6": "if he hadn't resigned this was the only move he could do",
+        "22. Bxg6#": "and I would have finished him off"
+    },
+    "url": "https://gameknot.com/annotation.pl/trying-a-new-opening?gm=25051",
+    "gameName": "trying a new opening",
+    "players": "kamshaft (1270) vs. blackymate (1230)",
+    "opening": "Reti (A07), King's Indian attack (Barcza system)"
+}

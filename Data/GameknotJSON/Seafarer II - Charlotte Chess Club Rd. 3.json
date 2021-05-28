@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. Nf3 Nc6 2. e4 e5 3. d4 exd4 4. Bg5": "White has a few stronger moves than the Bg5.  White could have taken strong control over the center with Nxd4 or created some additional attacking options with Bc4.  This bishop move allows Black to move to the offensive.",
+        "4... Be7 5. h4": "Another questionable move by White.  White advances the h4 pawn which compromises the king side pawn structure if White intends to castle in that direction.  White might have been trying to prevent moving the knight from f3 (which is threatening to capture Black's d pawn).   however i this position, White can simple move Bf4 which still gives him an active bishop although he did allow Black to develop his BSB.",
+        "5... f6": "Black's attack on the BSB is a bit premature at this point.  Although the f6 attack can lead to a very strong king side initiative (6. Bf4 g5 7. hxg5 fxg5 )  If White wishes to continue to trade in this scenario the black king can be left with no pieces to defend his flank.",
+        "6. Bf4 Bb4+": "The bishop check allows black to trade down an awkward pawn for White's c pawn however Black would have been better to continue development at this point.  Pushing the d pawn to allow for the development of his WSB and to help prepare to castle would have been better.",
+        "7. c3 dxc3 8. bxc3 Ba5": "Black is forced to either retreat his bishop to the initial square or to place it in this odd position.  ",
+        "9. Bc4": "White not immediate threats against him, White continues to develop.",
+        "9... d6 10. Qd5": "White finds a great position for his queen and threatens mate.  ",
+        "10... Qe7": "This is the only move to prevent a mate sequence by White.  ",
+        "11. O-O": "White should have reviewed Bb5 at this point.  This combination may very well allow White to go up a piece for a pawn.  (11.  ...  Bd7  12.  Bxc6  Bxc6  13. Qxa5)  or (11.  ...  Bxc3  12.  Nxc3).  The only other attempt to save the bishop (11.  ...  Bb6  12.  Bxc6  bxc6  13. Qxc6 ) leaves the a8 rook to black.   ",
+        "11... Bd7 12. Rc1 O-O-O 13. Na3 a6": "Black needs to prevent the White's knight from reaching the b5 square.  ",
+        "14. Rab1 Bb6": "Black has multiple weaknesses in his defense.  It is imperative that he hold onto his pawns so that White will be forced to sac key pieces in order to reach the king.  Black is in a completely defensive state with little thought of attacking White.",
+        "15. Nc2 Ne5": "With White's last defensive move, Black takes the opportunity to force White's bishop to move.  Here Black would be more than willing to exchange pieces just to reduce the size of the attack that he is facing.",
+        "16. Rxb6": "It is unclear why White decides to exchange his rook for a bishop without a clear attack at this point.  I don't believe that the doubled b pawns is enough compensation for this exchange.",
+        "16... cxb6 17. Rb1 Bc6": "Black again takes the opportunity to chase away White's attacking pieces.  ",
+        "18. Qe6+": "Up in material Black is more than happy to exchange the queens which also greatly reduces the threat on Black's position.",
+        "18... Qxe6 19. Bxe6+ Kc7 20. Nxe5 fxe5 21. Be3 b5": "Black has not solidified his position and can begin to mount an attack against the White pieces.  With the material advantage and White's two isolated pawns on a and c, his goal is to get to an end game quickly and leverage the advantage of a more solid pawn structure and rook to bishop comparison.",
+        "22. f3 Nf6 23. Nb4 Rde8 24. Bf5 d5 25. Nxc6": "Again, White trades down another piece which only helps Black's pawn structure and brings the game close to the ending.",
+        "25... bxc6 26. g4 dxe4 27. fxe4 g6 28. g5 gxf5 29. gxf6 Ref8 30. Bg5 h6 31. Rb2 hxg5 32. hxg5 Rh4 33. Rg2 Rxe4": "This is a major blunder for Black and should cost him the game.  At this point there is no way to prevent White from promoting one of his g or f pawns.   Rg4 is a much better move and will allow Black to capture both pawns and trade down the rooks.  (34 Rxg4 fxg4).",
+        "34. g6 Re1+": "Black makes a desperation move just to see if White makes his own blunder.",
+        "35. Kf2": "Kh2 would have allowed Black the chance to recapture the pawns by using Rh8  as a spring board to reposition his rooks.  However, White makes the better move.",
+        "35... Ra1 36. g7 Rxa2+ 37. Kf3 Rxf6 38. Rxa2": "This is the blunder that Black was waiting for.  g8=Q is a much better move.  With the promotion granting White the queen, a rook trade at g2 should be welcome.  White also would have established his queen behind Black's pawn structure and in good position to maneuver around the remaining Black rook.",
+        "38... Rg6 39. Rxa6 Rxg7": "Under time pressure and eager to remove the major threat of g8, Black captures the g7.  The third major blunder of the game.",
+        "40. Ra7+": "White now wins Black's last rook.",
+        "40... Kd6 41. Rxg7 Kc5": "Black now attempts to remove White's c pawn and push the b and c pawns in hopes of promotion.",
+        "42. Rg5 Kc4 43. Rxf5 Kxc3 44. Rxe5 b4 45. Re3+ Kc2 46. Re2+ Kc3 47. Re3+ Kc2 48. Re2+ Kc3 49. Re3+": "Repetative Check = Draw."
+    },
+    "url": "https://gameknot.com/annotation.pl/seafarer-ii-charlotte-chess-club-rd-3?gm=18491",
+    "gameName": "Seafarer II - Charlotte Chess Club Rd. 3",
+    "players": "Shirlen, Joseph (987) vs. Carerros, Charles (1281 (P))",
+    "opening": "Reti opening (A04)"
+}

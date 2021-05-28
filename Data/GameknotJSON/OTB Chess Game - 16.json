@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. f4 g6 2. Nf3 d5": "For now, everything is in book, until the next move.  And, that's because of what Joe outlined.",
+        "3. b3": "?! \"3.b3 is already a weak move.My Fianchetto places firm pressure on that a1-h8 diagonal I described above.Notice the immediate attack on whites a1 Rook.Not good.Better would have been:3.d3... a better stat book move that supports that f4 pawn with whites c1 Bishop.\" ",
+        "3... Bg7 4. Nc3": "?! \"On Andrews 4.Nc3 move,not good either.Why?  This already creates a Knight check and chase move,similar to one of my Basman Defense games,but a centralized chase,rather than a wing chase. \n\nWhites game is beginning to fall apart,but he does not know it yet. \"",
+        "4... d4 5. Ne4 Nc6 6. Bb2 Nf6 7. Nxf6+": "?! \"On move #7,my opponent shows his lack of theory training.7.Nxf6+looks good,but is weak.After 7....Bxf6 the pressure still remains on that a1/h8 diagonal in addition to supporting my nicely placed d4 pawn.Better for white would have been 7.Ng3.The slight loss of tempo is still superior to the exchange move.That is the \"theory\"part!If you check via a program analysis,that will be confirmed through pawn value assessments of the position.\" \n",
+        "7... Bxf6 8. h3": "\"8.h3 I have to give a ?.It loses whites safe position and a pawn and brings white closer to mate.After the ? h3 move,whites best response would have been: 8.h3,e5 9.e4,Bh4+ 10.Ke2(losing castling rights),exf4 11.d3,0-0(my better castled position).A strong disadvantage position for white but still not losing badly.\"\n\n",
+        "8... e5 9. fxe5": "?? At this point, due to a small correction, for now, I'm paraphrasing what he said, as opposed to, quoting.  With that being said, this is where Andrew really starts to go wrong as we will see below.",
+        "9... Bh4+ 10. Nxh4": "?? And, after this move, Joe is guaranteed a mate in two.  As explained in the lecture, it's due to his Queen a Bishop occupying the dark squares which is overwhelming for Andrew.",
+        "10... Qxh4+ 11. g3 Qxg3#": "Now, I'm going back to quoting because the moral to this story is what Joe outlined.  In it, he said, \"Notice how things became reversed?In the Bird,it is white that should be controlling the dark squares.With this game,it was black that controlled the dark squares and won in only 11 moves.Take final note to how I exploited that f2 square...the weakest square on the white side!!!This is critical in understanding the pitfalls of the Bird if not handled precisely with the better opening book moves. \n\nA quick lesson to an \"A\"rated Bird lover. \n\nAgain,with proper opening book study,the Bird can be played with relative safety,even though the stats are not good on the Bird.Much of those bad stats are based upon not studying the best opening moves and/or not using the better opening books like Hiarcs which is upgraded every 3 months.Its not free,but its worth it!\" \n\n\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-chess-game?gm=61215",
+    "gameName": "OTB Chess Game",
+    "players": "Andrew (1965) vs. Joe (2400+)",
+    "opening": "Bird's opening (A02)"
+}

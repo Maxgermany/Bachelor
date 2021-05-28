@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. Bg5 Nbd7 6. e3 Be7 7. Qc2 O-O 8. cxd5": "Alternative variation: 8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O $14\n",
+        "8... cxd5": "Alternative variation: 8... exd5 9. Bd3 Re8 10. O-O Nf8 11. h3 $14\nAlternative variation: 8... Nxd5 9. Bxe7 Qxe7 10. Be2\n",
+        "9. Bd3 a6": "Alternative variation: 9... Nb6 10. Bxf6 Bxf6 11. Bxh7+ Kh8 12. Bd3 [Cusmuliuc,D-Trippold,D/Mureck 2008/CBM 125 Extra/1-0 (54)]\n",
+        "10. a4": "Alternative variation: 10. O-O Re8 11. Rac1 [1/2-1/2 Farago, S (2365)-Kahn,E (2315)/Budapest 1996/CBM 052 ext (22)]\n",
+        "10... b6 11. O-O Bb7 12. Ne5": "Alternative variation: 12. Rac1 h6 13. Bh4 $14\nAlternative variation: 12. Rfc1 h6 13. Bf4 Nh5 14. Be5 Nxe5 15. dxe5 [Liszka,Z-Jablonowski,Z/Tarnow 1979/EXT 2003/0-1 (61)]\n",
+        "12... h6 13. Bxf6 gxf6 14. Ng4 h5 15. Qe2": "Alternative variation: 15. Qd1 Kg7 16. h3 Rh8 17. Nh2 f5 18. Ne2 $14\n",
+        "15... Kg7 16. f4": "Alternative variation: 16. h3 Rh8 17. Nh2 Nb8 18. Nf3 Nc6 19. e4 $14\n",
+        "16... Rh8 17. Nf2": "Alternative variation: 17. f5 $142\n",
+        "17... f5 18. Nh3 Nf6 19. Ng5 Ne4": "Diagrama #\n",
+        "20. Bxe4": "Error estrat\u00e9gico, debilita las casillas claras y cede la pareja de alfiles al rival. Aunque las blancas cuentan con una estructura superior, la posici\u00f3n din\u00e1mica de las negras inclinan la balanza a su favor.\nAlternative variation: 20. Nf3 Bb4 21. Rfc1 h4 22. Rc2 h3 (22... Qe7 23. Bxe4 dxe4 24. Ne5 $11) 23. gxh3 f6 $44\nAlternative variation: 20. Ngxe4 fxe4 21. Bc2 f5 [e El centro esta cerrado,pero de todas manera el blanco tiene una ligera ventaja]\n",
+        "20... dxe4 21. h4": "Alternative variation: 21. Nh3 Rc8 $15\n",
+        "21... Qd7 22. Rfd1": "Alternative variation: 22. Qc4 Rac8 23. Qb3 Qd6 $17\n",
+        "22... f6 23. Nh3 Kh6": "Alternative variation: 23... Rac8 24. Rdc1 Kh6 $17\n",
+        "24. Nf2 Rhd8": "Alternative variation: 24... Rhg8 25. Kh2 Rac8 $17\n",
+        "25. Nh1 Rdg8 26. Qc4 a5": "Excelente movimiento, habilita la casilla b4 para el alfil de e7 y deja latente un futuro Aa6.\n",
+        "27. Nb5": "Alternative variation: 27. Qb5 Bc6 $19\n",
+        "27... Rac8 28. Qe2 Bd5": "Alternative variation: 28... Rg4 29. g3 Bd5 $19\n",
+        "29. Rdc1 Bb4 30. Rxc8 Rxc8": "Alternative variation: 30... Qxc8 31. Kh2 (31. Qf2 Qc4 $19) 31... Bc4 32. Qf2 Bxb5 33. axb5 Qc4 $19\n",
+        "31. Qd1 Bc4": "Alternative variation: 31... Qg7 32. Rc1 Qg4 $19\n",
+        "32. Na3 Bd5 33. Nb5 Qg7 34. Rc1 Bb3 35. Qf1 Rxc1 36. Qxc1 Bxa4 37. Nc7 Qd7 38. Ng3 Bd6 39. Na8 Qb7 40. Nxb6 Bxf4": "Alternative variation: 40... Qxb6 41. Qc8 $11\n",
+        "41. Nxf5+": "Alternative variation: 41. exf4 Qxb6 42. Qc8 Qxd4+ 43. Kh1 Qd7 44. Qh8+ Kg6 45. Nxh5 $11\n",
+        "41... exf5 42. Nxa4 Bg3 43. Qc5 Kg6 44. Nb6 f4 45. exf4 e3 46. Qc2+ Kg7 47. Nc4 Qe7 48. Kf1 Bxf4": "Alternative variation: 48... Qc7 49. Ke2 Qxf4 50. Nxe3 $14\nAlternative variation: 48... e2+ 49. Qxe2 Qc7 $11\n",
+        "49. Ke2 Qe6 50. Ke1": "Alternative variation: 50. Qd3 Qg4+ 51. Kf1 Qg3 52. Qe2 Qxh4 53. Nxe3 $11\n",
+        "50... Qg4 51. Qe2 Bg3+ 52. Kd1 Qxd4+ 53. Kc2 Qe4+ 54. Kb3 Bf4 55. Nxa5 Qe6+ 56. Nc4 Qg4 57. Qe1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/iii-irt-jos-marca-in-memoriam-lima?gm=28859",
+    "gameName": "III IRT Jos\u00e9 marca in memoriam, Lima",
+    "players": "Vera, Deivy  vs. Cori, Jorge ",
+    "opening": "Queen's pawn game (A50)"
+}

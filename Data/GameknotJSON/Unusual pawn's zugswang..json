@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 d5 2. e5 Bf5 3. d4 e6 4. h3 h5": "The usual defence. ",
+        "5. Nf3 c5": "Allowing Bb4+.",
+        "6. Bd3 Bxd3 7. Qxd3 Qa5+": "A try. ",
+        "8. Bd2 Qb6 9. b3": "I'm not sure this was good for black, but anyway...",
+        "9... cxd4 10. Nxd4 Nd7": "Second try. The logical Bc5 was good, I don't know this one. ",
+        "11. f4 Nh6 12. Nc3 a6 13. Be3 Nc5 14. Qe2 Qb4": "Third try.",
+        "15. Qd2 Rc8": "II got nowhere. ",
+        "16. a3": "But this gives me the opportunity to show this trick. I sweared I will recover the piece, sooner or later. ",
+        "16... Nxb3": "If fxN, BxN. White tries to keep the piece. ",
+        "17. axb4 Nxd2 18. Kxd2": "BxN was better. Bxb5...",
+        "18... Bxb4 19. Nde2 Nf5 20. Bf2 Rc4 21. g4 hxg4 22. hxg4 Rxh1 23. Rxh1 Nh6": "Harassing the dsb. ",
+        "24. g5 Ng4 25. Be3 Nxe3 26. Kxe3 Bxc3 27. Rh8+ Kd7 28. Rh7 d4+ 29. Kd3 b5": "I can't believe it. I am self-tangled. ",
+        "30. Rxg7 Ke7": "And besides, I blundered another pawn. ",
+        "31. g6 Kf8 32. Rxf7+ Kg8 33. Re7": "Defending was losing. So I tried the last one. ",
+        "33... a5 34. Rxe6 a4 35. f5 a3 36. Ra6 Ra4": "Knowing I will end with doubled pawns. But in the 6\u00aa row, and with a white pawn in f7. ",
+        "37. Rxa4 bxa4 38. Nxc3 dxc3 39. Kxc3": "Now I won't advance my pawns, and the white king cannot capture them. ",
+        "39... Kg7 40. e6 Kf6": "...and three connected pawns can be stopped by the king, just as two!\nWhite is in zugszwang!",
+        "41. g7 Kxg7 42. Kb4 a2 43. e7 Kf7 44. f6 a1=Q 45. c3 a3 46. Kb3 a2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/unusual-pawns-zugswang?gm=44066",
+    "gameName": "Unusual pawn's zugswang.",
+    "players": "mrx3419  vs. damalfi ",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

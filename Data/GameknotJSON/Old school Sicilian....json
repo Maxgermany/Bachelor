@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5": "The tournament I mentioned, was all about the memory of Bobby Fischer, so only Sicilian was on the menu.",
+        "2. Nf3 d6": "Not my usual play nowadays; now I prefer 2. ... g6, and 3. ... Bg7... I hate defending c5...",
+        "3. d4": "And here is why: I hate forcings...",
+        "3... cxd4 4. Nxd4 Nf6 5. f3": "The makings of an old champion; this is how it was handled some 60 years ago...",
+        "5... e5": "And this is how they fought this...",
+        "6. Bb5+ Nbd7 7. Nf5 d5 8. exd5 a6 9. Ba4": "Or 9. Bxd7 Qxd7 10. Ne3 Bc5 11. c4 b5... Black has good play, for the pawn...",
+        "9... b5 10. Bb3 Nb6 11. Ne3 Bc5 12. Nc3 O-O 13. Qd3": "To prevent 13. ... Bf5, after 13. 0-0... But there is a slight disadvantage...",
+        "13... a5 14. a3": "After 14. Qxb5 Nfd7 15. d6 (make way for Bb3) a4 16. Bd5 Ba6 17. Qa5 (Qc6, Rc8) the white Queen runs into trouble... After 14. Nxb5 a4 15. Bc4 Ba6, all kinds of mischief threatens along diagonal f1-a6...",
+        "14... a4 15. Ba2 b4 16. axb4 Bxb4 17. O-O Ba6 18. Nb5 Bc5 19. Rd1": "Safer is 19. Kh1 Bxe3 20. Bxe3 Nbxd5 21. Rfd1...",
+        "19... e4": "After 20. fxe4? Ng4! threatens 21. ... Qh4, as well as 21. ... Bxb5 22. Qxb5 Bxe3+...",
+        "20. Qc3 Rc8 21. Qa5": "After 21. Nd4 exf3 22. gxf3 Nfxd5, black also gains a great advantage...",
+        "21... Bxb5 22. Qxb5 exf3 23. gxf3 Nfxd5 24. Kh1": "After 24. Bxd5 Nxd5, we lead to the same variation...",
+        "24... Qf6": "The assesment is clear: black won his pawn back, his pieces are working like a charm... White's kings wing is a mess... White should try 25. Ng2 Qxf3 26. Qf1, and keep his bishops on board...",
+        "25. Bxd5 Nxd5 26. Ng2 Rfd8": "Much stronger then 26. ... Qxf3 27. Rf1 Qh5 28. Rxa4...",
+        "27. Rf1": "Better is 27. Qf1 Nb6 28. Rxd8+ Rxd8 29. c3...",
+        "27... a3": "I saw no progress, after 27. ... Nb6 28. Rb1 h6 29. f4! Qe7 30. Re1 Qb7 31. Qe2, so I decided to set up a little trap...",
+        "28. c4 Nb4": "After 28. ... Ne7, 29. Ra2, after 28. ... Nb6, 29. Rb1... I had to keep him under pressure...",
+        "29. bxa3": "Also after 29. Rxa3, white loses quality, 29. ... Nd3! 30. b4 Rb8! Best is 31. bxc5 Rxb5 32. cxb5 Nxc5 33. Be3, and try to pick it up from there... Time was running out, for both of us...",
+        "29... Qxa1 30. axb4 Bd4": "Especially for l-d-j: Rodriguez - Shirov 2012 continued 30. ... Bf8... I won better...",
+        "31. c5 Rcb8 32. Qc4 Qa4 33. Bg5 Rxb4 34. Qxb4 Qxb4 35. Bxd8 Qxc5 36. Bh4 g5 37. Bg3 Qf5": "We played like devils, at this stage, to win precious time on the clock... The material is quickly diminishing...",
+        "38. f4": "Much tougher is 38. Ne1 Qb5 39. Rg1! f5 40. h4! Although white is lost, I still have to mate him in time...",
+        "38... h5 39. Rd1 h4 40. Rxd4 Qb1+ 41. Be1 h3": "Setting up mate...",
+        "42. fxg5 hxg2+ 43. Kxg2 Qxe1": "Lucky for me, Bernard ran out of time... Black seems to have no better, then eternal check, after 44. Rf4! But the old warrior let his last seconds go by... He stated: \"Well, I was not doing too bad\"... I surely had to give him that; it was a thrilling game..."
+    },
+    "url": "https://gameknot.com/annotation.pl/old-school-sicilian?gm=45247",
+    "gameName": "Old school Sicilian...",
+    "players": "fastbernie (2200) vs. vonbonkagain (1200)",
+    "opening": "Sicilian (B55), Prins variation, Venice attack"
+}

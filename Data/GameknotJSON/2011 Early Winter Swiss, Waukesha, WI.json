@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. d4 e6 3. b3 c5 4. Ba3 Nc6": "In the quick post review of this game, I questioned this move thinking that White could play exc5.  I was thinking Qa5+ however if White blocks with the queen then he could be able to hold this extra pawn for a while.\n",
+        "5. e3 b6 6. Bb2 Nf6 7. Nbd2 Qc7 8. Bd3 Bd6 9. dxc5 bxc5": "I wanted to keep the strong pawn center and the queen - bishop attack on the h2 square thinking that White may decided to castle king side into my attacking pieces.\n",
+        "10. Bxf6 gxf6": "At this point I believe that White has actually weakened his king side and created some queenside weakness on the dark squares.This also gives me the bishop pair which I tend to enjoy.\n",
+        "11. e4 d4": "This was a tough decision as I was worried about the knight outpost on C4 however taking the e-pawn would have destroyed my strong pawn center.\n",
+        "12. Nc4 Bf4 13. O-O": "Here White castles into my king side attack, however I have to be very careful over how Black works those strong centered knights.  My first step of action is to reduce the strenght of these knights and continue to mobilize my pieces against the castled king.\n",
+        "13... Ne5 14. Nfxe5 fxe5": "This was a tough move for me to make.  The alternative was to capture with the bishop which might have resulted in trading off his knight for the bishop and then my pawn recapture.  This would remove both strong knights from the game and give me a strong center.  I decided to go this route as I wanted to maintain the bishop on the king side and even though the knight on c4 is storng it doesn't have enough support to launch an immedate attack.  The biggest drawback to this move is that I have cut off the queen from the bishop.\n",
+        "15. Qh5 h6 16. Kh1 Ba6": "The primary goal behind this move is to open the ablity to castle queen side.  With the White's king now on h1 I am looking at options of openning the h file.\n",
+        "17. h4": "White is prepairing to trap the bishop.\n",
+        "17... Bxc4 18. Bxc4 Qd7 19. Rad1 O-O-O 20. g3": "White has created the net for the bishop so Black moves the bishop to the best square.\n",
+        "20... Bg5 21. hxg5": "My trap is thrown and Black goes up a Queen and a pawn for a bishop and rook.\n",
+        "21... hxg5 22. Qxh8 Rxh8+ 23. Kg2 Qc6": "At this point, I believe that White has some strong opportunities if he attacks along the h file and seeks to bring a rook to Black back rank so I push my attack and better my pawns.\n",
+        "24. f3 f5 25. Rde1 f4 26. g4 Qb6": "With the king side as locked up as possible I move to advance my queen and try to defend my weak e pawn as best I can.\n",
+        "27. Re2 Kd7 28. Rb1 Qa5 29. a4 Qc3 30. Rd1 a5": "Another move to strenghten my pawns before making some drastic moves.\n",
+        "31. Rf2 Qe3 32. Re2 Qc3 33. Rf2": "With this move, I'm pretty sure White is looking for a draw so I try to make sure that isn't possible by creating even more inbalances.\n",
+        "33... Rh4 34. Re2 Rxg4+": "The critical move in the game.  Black finds a way to crack the pawn structure and take advantage of the 32.Re2?.  Black goes up another pawn while clearing a strong white defender and creating a huge pawn weakness for White.\n",
+        "35. fxg4 f3+ 36. Kf2 fxe2 37. Bxe2 Qxc2 38. Ke1": "At this point it is hard to find good moves for White.  Black's goal is to clean up a few more pawns and then trade off the Queen for a Rook and start pushing pawns when it will be impossible for White to defend.\n",
+        "38... Qxb3 39. Bb5+ Ke7 40. Kd2 Qe3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/2011-early-winter-swiss-waukesha-wi?gm=42455",
+    "gameName": "2011 Early Winter Swiss, Waukesha, WI",
+    "players": "Geiss, Kevin (1193) vs. Carerros, Charles (1653)",
+    "opening": "Reti opening (A06)"
+}

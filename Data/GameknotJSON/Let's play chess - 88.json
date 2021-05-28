@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 e5": "I decided that I would experiment with the Englund Gambit, but my opponent did not play along.",
+        "2. d5 d6 3. e4 Nf6 4. Nc3 Be7 5. Nf3 O-O 6. Bd3 Nbd7 7. Ne2": "I think this move might have been a mistake.  It loses a tempo by moving a piece twice in the opening, and it's not a great square for the N.",
+        "7... c6 8. c4 cxd5 9. cxd5 Nc5 10. O-O": "I think Qc2 would have saved the e4 pawn.",
+        "10... Nfxe4 11. Bxe4 Nxe4 12. Nc3": "Black has sneaked a pawn.  White loses another tempo by offering the exchange of the N, which has moved yet again.  Even better for Black, the exchange will leave a backward pawn on an open file.",
+        "12... Nxc3 13. bxc3 Bg4 14. Re1 Rc8 15. Qd3 Qc7 16. Bg5": "This creates a complicated series of exchanges that allows Black to get the upper hand.  Yet defending stoically might not have been much fun either.",
+        "16... Bxf3 17. Bxe7 e4": "This strange-looking move gains a tempo with the attack on the Q.",
+        "18. Rxe4 Bxe4 19. Qxe4 Qxc3": "Black sneaks another pawn and also has the benefit of winning the exchange.",
+        "20. Rf1": "This seems passive.  Perhaps Re1 was an improvement?",
+        "20... Rfe8 21. Qh4 Rc4 22. Qg5 f6": "This tactical trick wins more material.",
+        "23. Qe3 Qxe3 24. fxe3 Rxe7": "Now Black, with a R and a pawn to the good, should win the endgame easily.",
+        "25. Re1 Re5": "White resigned here.  Black can keep taking pawns, while moving the K to f7 to keep White's R from penetrating on the e file.  White will be tied down to a hopeless defense of the K."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=64772",
+    "gameName": "Let's play chess",
+    "players": "asimpleidea (1572) vs. mmoody95 (1878)",
+    "opening": "Queen's pawn (A40), Charlick (Englund) gambit"
+}

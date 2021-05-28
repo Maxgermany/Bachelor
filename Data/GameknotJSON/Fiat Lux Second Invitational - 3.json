@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Philidor's defense.",
+        "3. d4 exd4": "Exchange variation of Philidor's defense.\n",
+        "4. Nxd4 Bd7": "Nf6 is the more common response.",
+        "5. Nc3 Nf6 6. Bc4 a5 7. O-O Be7 8. a4 O-O 9. Bg5 h6 10. Bxf6 Bxf6 11. Nd5 Be5 12. Nf3 Bxb2 13. Rb1 Bf6 14. Rxb7 Bc6 15. Rb1 Nd7 16. Nxf6+ Nxf6 17. e5 dxe5 18. Nxe5 Bxa4 19. Qxd8 Raxd8 20. Rba1 Bxc2 21. Rxa5 Rd4 22. Be2 Re8 23. Rc5 Nd5": "I think I would have moved Bc2 somewhere or played Rd5.",
+        "24. Nf3": "Black's bishop is in real trouble now.  Rde4 is a good counter threat.",
+        "24... Rde4 25. Bb5": "Odd how almost all black's major pieces are on white squares.",
+        "25... Bd3 26. Bxe8": "Bxd3 is better.  It was a free bishop, netting white three points.",
+        "26... Bxf1": "Here black should have played Rxe8+.  Black responds Kh7, THEN black trades bishop for rook.",
+        "27. Kxf1 Rxe8 28. Rxd5 Rc8 29. Nd4 c5 30. Nf5 f6": "Oops.  Knight forks hurt.  Rc7 would have discouraged that, better than moving the king.  Black needs to drive the passed c pawn, but faces a big hurdle.",
+        "31. Ne7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fiat-lux-second-invitational?gm=68342",
+    "gameName": "Fiat Lux Second Invitational",
+    "players": "americanhorse (1376) vs. bobspringett (1389)",
+    "opening": "Philidor (C41), exchange variation"
+}

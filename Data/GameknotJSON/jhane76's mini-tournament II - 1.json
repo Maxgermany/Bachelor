@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "Wriggle and Squirm\n\nClose fought battle that I eventually managed to squeak home in.",
+        "1... d5 2. c4 dxc4": "I still hate queens pawn openings. I have no idea what I'm doing.",
+        "3. Nc3 Nf6 4. e4 e6 5. Bxc4 Bb4 6. Nge2 Nxe4": "Unusually agressive for me against a Qp opening.",
+        "7. O-O Nxc3 8. bxc3 Ba5 9. Qa4+ c6 10. Ba3 Bc7 11. Rad1": "I think that was a mistake as it allows....",
+        "11... b5 12. Bxb5 cxb5 13. Qxb5+ Bd7": "Pawn cover is somewhat blown, but the pieces combining nicely should ensure some degree of latitude.",
+        "14. Qb4 Nc6 15. Qc4 Na5 16. Qd3": "This is where I get sneaky, with a beautifully crafted move (for me).",
+        "16... Rc8 17. Rdb1 Nc4": "Ooops I made a mistake, do you want a free knight?",
+        "18. Qxc4 Bxh2+": "Well, freeish knight. I liked that one. I so often get caught but rarely manage to do it myself.",
+        "19. Kxh2 Rxc4": "Queen to knight up I made the mistake of assuming this game would be fairly gentle.",
+        "20. Rb7 Qh4+ 21. Kg1 Qe4 22. Rb2": "Forced move really, I'm just pottering around having a good poke....",
+        "22... h5": "This is the start of 'the plan' trying to either force through a pawn, or leave the h file with queen and rook. Either way spells trouble for my opponent.",
+        "23. Rfb1": "Not yet worried about rb2-b8 as c4 can go back and help out.",
+        "23... h4 24. Bd6 h3": "White's bishop move didn't seem much of a threat so still pushing that pawn for all its worth.",
+        "25. f3 Qe3+ 26. Kh2 f6": "Getting worried about that b8 square and having my king attacked. ",
+        "27. Bg3 Rc8": "Wuss out time ;-)",
+        "28. Nf4 hxg2+ 29. Kxg2 Rxc3 30. Rf1": "Can't see an obvious way forward so I revert to my bad habit of pawn snaffling at any given chance. ",
+        "30... Qxd4 31. Ne2": "Forgetting of course that sometimes my opponent is giving me the pawn for a reason.",
+        "31... Qc4 32. Nxc3 Qxc3 33. Rff2 Ke7 34. Rb7 Qc1": "Being hopeful of Q-h8 mate.",
+        "35. Rf1 Qh6": "Ok, how about Q-h3 then?",
+        "36. Rxa7 e5": "The reasoning here, well Q-h3 pushes the king to f2, he is still safe and there isn't much I can do to attack him. So I'm trying to free up the pinned bishop.",
+        "37. a4 Qd2+ 38. Rf2 Qd4 39. Rb7 Kd6 40. a5 Qd1": "Right lets try it again.... move that rook down and I'll show you a little surprise....",
+        "41. Rf1 Bh3+": "Surprise! Mean of me I know, but relieved to actually win it in the end. After nabbing the queen then losing the rook to the fork I was getting blocked out and could see me making too many mistakes."
+    },
+    "url": "https://gameknot.com/annotation.pl/jhane76s-mini-tournament-ii?gm=48410",
+    "gameName": "jhane76's mini-tournament II",
+    "players": "rcpickrell (1359) vs. grey_panda (1459)",
+    "opening": "Queen's gambit accepted (D20)"
+}

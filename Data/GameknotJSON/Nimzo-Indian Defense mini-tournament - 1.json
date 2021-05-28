@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7": "All the games start from this position, with White to move. I had never done a Nimzo-Indian theme before this tournament,  but know it's a very popular defense.",
+        "9. O-O Bb4 10. e4": "Now that I've castled, I can initiate complications. ",
+        "10... O-O": "My opponent, likewise, castles before plunging towards the middle game.",
+        "11. e5": "A Knight on KB3, according to Fine and Znosko-Borovsky, is the best single piece available to protect a King that has castled King-side. So naturally, I drive it away while I have the opportunity.",
+        "11... Ne8": "The best available square. N-R4 would leave it exposed and vulnerable.",
+        "12. Be3": "Naturally, development must be completed!",
+        "12... f6": "An attempt to negate my central wedge.",
+        "13. Qc2": "I double along the diagonal.",
+        "13... Ba5": "A move seemingly without a purpose. According to Fine, it is better to have a bad plan than not to have a plan at all. Every move should have some purpose.",
+        "14. Bxh7+": "I naturally take the free Pawn, a move that also exposes Black's King somewhat.",
+        "14... Kh8": "K-B2 would leave the King closer to his allies, although I'm not sure it would have made a huge difference.",
+        "15. Qg6": "Naturally, I press forward with the Q. My Knight is also ready to join, and the Black King is momentarily denuded of defensive help.",
+        "15... fxe5": "An attempt to reduce the pressure.",
+        "16. Ng5": "Bringing forward another attacking piece.",
+        "16... Qf6": "Black's previous move cleared this square. Needless to say, I have no intention of exchanging Queens!",
+        "17. Qh5": "Threatening a deadly discovered check.",
+        "17... e4": "The correct move was 17... Q-R3, interrupting the potential discovery. Now I have a mate.",
+        "18. Bg6+": "Black has but one move...",
+        "18... Kg8": "...and this is it.",
+        "19. Qh7#": "Fin."
+    },
+    "url": "https://gameknot.com/annotation.pl/nimzo-indian-defense-mini-tournament?gm=48163",
+    "gameName": "Nimzo-Indian Defense mini-tournament",
+    "players": "last_archimedean (1341) vs. rob44nyc (1268)",
+    "opening": "Nimzo-Indian defence (E20)"
+}

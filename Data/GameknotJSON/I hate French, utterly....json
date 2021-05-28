@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Bb4 6. Bg5": "Maximum development: we strive - of course - for Nge2...\n\nIn fact, we have switched to Queens Gambit, where dxc4 is met with Bxc4...\n\n5. ... Bb4 is going to be very demanding, for black; this is no Nimzo...",
+        "6... O-O 7. Nge2": "I made no illusions about, 7. Qb3 Re8+ 8. Be2 Nc6 9. 0-0-0 Be7 10. c5 Ne4 11. Be3...",
+        "7... Be6": "Highly irregular... I would at least have tried 7. ... dxc4 8. Qa4 a5 9. Qb5 c6 10. Qxc4, and after that, Be6... True?",
+        "8. c5": "No second chance... After 8. Qb3, a5...",
+        "8... b6": "Another strange effort... One would expect 8. ... Re8 9. Qb3 Nc6 10. a3...",
+        "9. a3 Bxc3+ 10. Nxc3 bxc5 11. dxc5 c6": "I would have preferred 11. ... h6 12. Be3 Ng4 13. Bd4 Nc6 14. Bb5...",
+        "12. Be2": "Strictly spoken, Qd4 is best... But I wanted it at a4... Blacks queenswing is getting cramped...",
+        "12... Nbd7 13. O-O": "Again, I see no special use for Qd4, h6, Be3...",
+        "13... h6 14. Bh4": "Surprise! We sac a pawn...",
+        "14... Nxc5 15. b4 Ncd7": "Blacks first real mistake... After 15. ... d4, white has lots to prove...\n\nBut this is blitz...",
+        "16. Na4": "Out of the sleeve... White throws the position out of balance...",
+        "16... Qb8": "Slightly better may be 16. ... a5 17. Qd4 (just now!) g5 18. Bg3... Whites control over b8 gets nasty...",
+        "17. Bg3": "Of course...",
+        "17... Qb7 18. Rb1": "A masterpiece... Now, after 18. Qd4, we get Bf5, rendering b1 useless... We win a crucial tempo...",
+        "18... Rac8": "Incomprehensable... The least black can consider, is 18. ... Bf5 19. Rb3...",
+        "19. Nc5 Nxc5": "We got U! After 19. ... Qb6 20. Bd6 Rfe8 21. Bd3 a5, black has little to worrie about...",
+        "20. bxc5 Qd7 21. Ba6": "The final blow... White is better... As well b6, b7 as b8 are in whites hands...\n\nAll tough it be, white has no direct threats, black resigns with 5 minutes on the clock, against 6..."
+    },
+    "url": "https://gameknot.com/annotation.pl/i-hate-french-utterly?gm=44419",
+    "gameName": "I hate French, utterly...",
+    "players": "vonbonkagain (1200) vs. henryk555 (2047)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

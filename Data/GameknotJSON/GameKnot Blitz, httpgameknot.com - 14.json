@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 d6 2. e3 Nf6 3. f4": "The Stonewall opening is an old stand-by. Provides exciting attacking chances. A very strong player, however, can refute it with a king's bishop fianchetto and a pawn thrust to e5. As an opening, it's a little bit  hoping the defense blitzes on first down. Works sometimes.",
+        "3... g6": "Naturally, not what I want.",
+        "4. Nf3 Bg4 5. Bd3 Bg7 6. Nbd2 O-O 7. c3 Nbd7": "And black's next move should be e5, which will cause me all sorts of problems.",
+        "8. f5": "This is not a great gambit by white. I'll lose a pawn, and black can still get in a thrust at e5 later.",
+        "8... c5": "But apparently white doesn't want ruin his kingside paws. C5 is no trouble for white at all.",
+        "9. O-O cxd4 10. exd4": "Much better for white, freeing the dark bishop's potential.",
+        "10... d5": "Weak move for black. White has e4 well protected, and once the pin is removed by moving the queen, the knight might actually get to sit at e5.\n",
+        "11. Qe1 Bxf3 12. Rxf3": "Capturing with the knight removes a defender of e4 and allows the knight at f6 to hop in.",
+        "12... Re8 13. fxg6 fxg6 14. Re3": "Now an indecisive middle game. The hallmark of blitz chess!",
+        "14... a6 15. Re6 Nf8": "Yeah. Ok.\nRun away!",
+        "16. Re2 e6 17. Nf3 Nf8d7 18. Bg5": "Now things get interesting.",
+        "18... Kf7 19. Ne5+ Kf8": "The pin on the knight at f6, given the newly opened file, is inspiring.",
+        "20. Bxg6": "why not?",
+        "20... hxg6 21. Nxg6+ Kg8 22. Qh4 Nf8 23. Ne5 Qc7": "A blunder, but the knight would fall sooner or later with the rooks on the open f file.",
+        "24. Bxf6 Bxf6 25. Qxf6 Qg7 26. Qxg7+": "I can see trading the queens to blunt the attack, but the queen is now in a wide open shooting gallery with only the knight available to defend it.",
+        "26... Kxg7 27. Rf1": "Mating net begins. I mildly regret the retreat of the rook on the e file to the second rank. Should have come to the third, and this would go much more smoothly.\n",
+        "27... Re7 28. Re3": "Waste of a move!\n",
+        "28... Nd7 29. Rg3+ Kh7 30. Rf4": "Nothing to be done.",
+        "30... Kh8": "And this is why I annotated it. Right away, you see the knight mate.",
+        "31. Rh4+ Rh7 32. Nf7#": "Very fun."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=60140",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "48x16  vs. bobshishkabob ",
+    "opening": "Queen's Pawn (A41)"
+}

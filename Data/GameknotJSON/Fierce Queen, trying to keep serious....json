@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Bf5 3. e3 e6 4. Bd3 Bg6 5. Bxg6 hxg6 6. Nf3": "just my own quirky way, of handling this Queens' pawn opening: we have opened up the h-file, and we will use it...",
+        "6... Bd6 7. O-O": "castling into trouble, as far as I see this...",
+        "7... f6 8. Re1 a6": "against Nb5...",
+        "9. e4 Bb4 10. exd5 Bxc3 11. bxc3 Ne7": "pawn e6 is not the problem here...",
+        "12. Rxe6 Kf7 13. Qe1 Re8": "the trapped White Rook: that was the real problem...",
+        "14. Bf4": "very sloppy: but White is already in even more trouble...",
+        "14... Qxd5 15. Re3": "forced...",
+        "15... c6": "Bxb8, is in Blacks' favor...",
+        "16. Rd1": "White has some material to spare, so why not?",
+        "16... Qxa2 17. c4 Qxc2": "and even more: Black has restored the material balance; but things are getting weirder...",
+        "18. c5 Nd7 19. Rd2 Qf5": "making an issue out of the unprotected Bf4...",
+        "20. d5": "already, Qxf4 might be a good idea: but White is oblivious; we keep it like that...",
+        "20... Nxd5": "at this point, it must have dawned on White: he screwed up...",
+        "21. Rxe8 Rxe8 22. Re2 Rxe2 23. Qxe2 Nxf4": "always a delight: picking up a full piece with tempo...",
+        "24. Qe3 Qb1+ 25. Ne1": "getting careless...",
+        "25... Ne5 26. g3": "air for the King: we do not think so...",
+        "26... Nd5 27. Qe4": "it is true, that the White Queen has not many places to go: plus that Ne1 needs to be covered; but this measure is a bit dramatically: or maybe a prosaic way to resign...",
+        "27... Qxe4": "so White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-trying-to-keep-serious?gm=64174",
+    "gameName": "Fierce Queen, trying to keep serious...",
+    "players": "fluppebowl (1965) vs. fiercequeen (2059)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

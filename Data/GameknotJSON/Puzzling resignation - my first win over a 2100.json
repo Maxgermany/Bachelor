@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "d4 I always play d4.",
+        "1... d5 2. c4 e6": "He's letting me play my favorite opening, exchange variation of the queen's gambit declined.",
+        "3. Nc3 Nf6 4. cxd5 exd5 5. Bg5": "book",
+        "5... Bb4": "!? The book move is 5...Be7. This move is somewhat rare. From a positional view this is dubious because black has to either allow white to play a3 and b4 with tempo, which are helpful moves in the QGD exchange, or he has to trade away the two bishops without doubled c pawns as compensation. However black can have tricks with ... Ne4 if I'm not careful.",
+        "6. e3": "Preparing development.",
+        "6... c6": "Solidifying the c6 pawn. This is a common move in the resulting Carlsbad structure.",
+        "7. Qc2": "Thematic move in the QGD, this helps support c3 and covers e4.",
+        "7... h6 8. Bh4 g5": "Black decides to free the knight at the cost of weaking the kingside. However this may also have dynamic potential for black.",
+        "9. Bg3 Qa5": "Adding pressure to c3. ...Ne4 would have been more accurate, I think.",
+        "10. Bd3": "Now if 10...Ne4, 11. Bxe4 dxe4 12. Qxe4+ is check.",
+        "10... Be6 11. Nge2": "Supporting c3 and finishing development. I am getting ready to kick the b4 bishop.",
+        "11... Nbd7 12. O-O": "I'm castled and ready to play a3. Now comes...",
+        "12... h5": "!? This is aggressive; however, I can make stronger threats with tempo.",
+        "13. a3": "If 13...h4, 14. axb4 wins a piece with tempo. Then 15. Be5 or h4 would win.",
+        "13... Be7 14. b4": "Yet another useful move. I looked at playing 14. Nb5 ?! here to try to trap the queen, unfortunately it doesn't work.",
+        "14... Qd8 15. h4": "Thematic way to save the bishop from getting traded or lost.",
+        "15... gxh4 16. Bxh4 Qc7": "With threats of ...Ng4. However, I exploit the undefended state of the queen.",
+        "17. b5": "Thematic break on the queenside. Now for the obvious threat, I had a simple way to drive it off.",
+        "17... Ng4": "18... Qh2# is threatened.",
+        "18. Bg3": "forced",
+        "18... Bd6 19. bxc6": "! this wrecks black's pawn structure and is tactically justified. If 19...Bxg3 or 19...h4 then 20. cxd7+ wins. If ...Qxc6 then the queen is off the dangerous diagonal.",
+        "19... bxc6": "I actually thought this to be less accurate than 19...Qxc6, because:",
+        "20. Nb5": "! this forces off the queens, wins the bishop pair, and leaves black with 3 isolated pawns after 20... cxb5 21. Qxc7 Bxc7 22. Bxc7 a6. Although I would be better, The game would still be playable for black. For some reason, Black resigned at this point. I read \"Excelling at Technical Chess\" so it was disappointing to not be able to try to squeeze out the win. However I'm happy with the result 1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/puzzling-resignation-my-first-win-over-a-2100?gm=59337",
+    "gameName": "Puzzling resignation - my first win over a 2100",
+    "players": "cplusplus11 (1832) vs. vvilks (2082)",
+    "opening": "QGD (D35), exchange, positional line"
+}

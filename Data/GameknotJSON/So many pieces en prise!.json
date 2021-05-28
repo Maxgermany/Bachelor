@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nHere is my return match against Coach Ion in the Traxler MT.  I will be annotating that one two but this one is quite fascinating because although I lost this match there were so many pieces on both sides that were en prise!  This will be a good lesson in tactics to us all, including myself, The Beginner.   Here is the link to the game which has Gameknot Analysis:-http://gameknot.com/analyze-board.pl?bd=14875035&fb=1&rnd=0.8882096860666713  I will start the commentary on Move 5.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+": "5. ...... Bxf2+ - this has become the standard response to the knight fork.  Both Qe7 and Nxe4 (sacrificing the queen) have been tried in the Gameknot DB.  Qe7 has transposed back into the main line however.",
+        "6. Kf1 Qe7 7. Nxh8 d5": "7. ....... d5 - another standard move, opening up the diagonal of Fou Leblanc.",
+        "8. exd5 Nd4 9. d6 cxd6 10. c3 Bg4": "10..... Bg4 - attacks the Wicked Witch of the West who in turn feasts her glare upon Henry next move with Qa4+.",
+        "11. Qa4+ Nd7 12. Nf7": "12. ...... Nf7 - that pesky, rook stealing knight extricates himself from the corner.",
+        "12... b5": "12. ...... b5 - this move is a break from the db but it does not work.",
+        "13. Qa3 Nc2 14. Nxd6+ Kf8 15. Nc8": "15. Nc8 - this is getting sooo drole - trouble is I have more pieces en prise than The Coach, sigh and double sigh!  There is nothing better than to trade queens as Glenda is pinned and twice attacked.",
+        "15... Qxa3 16. Nxa3 Nxa1 17. Kxf2 bxc4 18. Nd6": "18. Nd6 - maybe instead of trading Glenda I should have played RxN allowing QxQ+ and then grab the rook in the corner.  Do you the Inquest Jury agree?",
+        "18... Nb6 19. Ndxc4 Nxc4 20. Nxc4 Be6 21. Nxe5": "21. Nxe5 - I knew that my e pawn was gonna fall so I thought I would trade it.  But my minor pieces become trapped on the queenside.",
+        "21... Bxa2 22. d4 Bb3": "22. ..... Bb3 - wrong piece methinks.  In retro the knight should have gone to this square.",
+        "23. Bg5 Nc2 24. Nd7+ Kf7 25. Nc5 Rb8 26. Rc1": "26. Rc1 - after a lot of clever manoeuvre, Ion will now remove my knight after NxB, RxN then RxN leaving me 5 points down on material with no counterplay whatsoever so I waved the white flag here.  Well played, Ion!"
+    },
+    "url": "https://gameknot.com/annotation.pl/so-many-pieces-en-prise?gm=35062",
+    "gameName": "So many pieces en prise!",
+    "players": "ionadowman (2115) vs. jstevens1 (1790)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 d6": "Perhaps not the best developing move; a minor piece may have been better.",
+        "4. Bc4 h6": "? The Queen already guards against the Knight's advance, plus Black has still not developed any pieces other than pawns.",
+        "5. O-O g5 6. Qe1": "Allowing the possibility of Nh5 should the g pawn advance, and putting pressure on the uncastled King.",
+        "6... Nc6 7. d4 Bg7 8. c3 Qe7 9. b4 a6 10. Ba3 Bg4 11. Nbd2 O-O-O": "Gutsy move; the Black King is now isolated from the majority of his own forces, whereas White has pieces ready to attack in the quadrant. Nf6 may have been better, followed by 0-0.",
+        "12. Bd5 Nf6 13. Bxc6": "! An even exchange that also demolishes the Black King's pawn protection.",
+        "13... bxc6 14. Qe2 Kb7": "Black has no other piece to come to the aid of the a pawn.",
+        "15. Rae1": "White bolsters the e file.",
+        "15... Nd7": "Moving some forces to assist the isolated King.",
+        "16. Nc4": "White eyes a knight check with 17. Na5 to begin a Queen-side assault.\nif 17. Na5+, The Black King has not positive response. 17...Ka7 or Kb8 leads to 18. Nxc6, winning the Black Queen.\nif 17. Na5+ Ka8, then 18. Qxa6+ Kb8 19. Nxc6 ++\nif 17. Na5+ Kc8, then 18. Qxa6+ Kb8 19. Nxc6 ++\n\nBlack needs to marshal more forces to his Queen-side to prevent the White Queen from joining the fray.",
+        "16... Nb6": "?? Black responds by presenting no defense other than a hope of escape for the King via the d7 square.\n16...Nb8 provides the same escape route, but also protects the a6 pawn.\n16...Ra8 also provides an escape route and protects the a6 pawn.\n\nEither move was preferable.",
+        "17. Na5+": "White launches the final assault. Black's best option now is to flee by playing 17...Kc8 an move towards the d7 escape square. Unfortunately, that allows 18. Nxc6! forking the Q and R (not 18.Qxa6+?, which gains only a pawn and allows the Black King to escape form pressure).",
+        "17... Kc8 18. Nxc6": "As projected; Black now drops the R for the white N at best.",
+        "18... Qd7": "??? Black cuts off his King's only escape route.",
+        "19. Qxa6#": "White seals the deal by bringing the Queen into the fray at the optimum moment.\n\n\nIn summary, Black made a lot of early pawn moves at the expense of his development.\nHe castled into a sea of enemy forces, then blocked his own defenses and finally trapped his King in a fatal position.\nWhite was lucky here, as Black's errors did more to determine the outcome than White's own efforts did."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-major?gm=50375",
+    "gameName": "Challenge from major",
+    "players": "major (1544) vs. dandelionexpress (1663)",
+    "opening": "KGA (C34), Fischer defence"
+}

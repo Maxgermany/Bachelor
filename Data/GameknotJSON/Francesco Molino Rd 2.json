@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "The second game of the year and I am coming to this game after a long line of losses.",
+        "1... c5 2. Nf3 d6 3. c3": "Delayed Alapin , I have tried this earlier . Black can response with Nf6 and then I will have to worry about the e pawn . White would like to play d4 and black will try to stop",
+        "3... a6": "Stops Bb5+, But  the bigger plan could be a queen side pawn storm . ",
+        "4. d4": "As planned and happy to play this without resistance !",
+        "4... cxd4 5. cxd4 e6 6. Be2": "I dont know the right square for the Bishop , But wanted to castle , play safe , develop",
+        "6... Be7 7. O-O Nf6 8. Nc3 O-O 9. a4": "This idea is stop b4 , and if possible play a5 and put a Knight on b6",
+        "9... b6": "Black has decided to  get the light Bishop to the long diagonal ( decided when he played 5..e6). But this move creates a few weak squares ??",
+        "10. h3": "preparing for Be3",
+        "10... Bb7 11. Bd3": "to support e4 and play Qe2 to target the a6 pawn , and force black to play a5",
+        "11... Nbd7 12. Be3 Rc8 13. Qe2 Nb8": "white looks  better ? Blacks two pieces are tied to protecting the a6 pawn",
+        "14. Rad1": "ideas of e5  , Bxh7+ ",
+        "14... Qc7 15. Rdc1": "hmm .. was that the wrong Rook on d file ?. at this point I am getting tempted and looking for ways to play e5 ....or /and d5",
+        "15... Qd7 16. Rfd1 Rfe8 17. Bg5": "I considered giving up the Bishop for Knight and then e5 ?",
+        "17... h6 18. Bh4 Rc7 19. Bg3": "a new diagonal for my Bishop",
+        "19... Rec8 20. Rca1": "too many wasted moves . This move  allows me to play my Knight , without worrying about Rxc1 or Qxa4",
+        "20... Qd8 21. e5": "finally ....",
+        "21... Ne8": "now I know white  is better ..... I started asking myself 'How can I lose from here ?\"",
+        "22. d5": "I love this move ... with blacks pieces very very uncordinated  and very few on the king side , I thought I could blow up the king side with my active pieces. I also saw the tactical 22.. exd5 23.Bf5",
+        "22... exd5": "?",
+        "23. Bf5": "getting the exchange ! and I was hopeful of getting the pawn back",
+        "23... Rc7xc3": "Black decides to get the pawn ...But I think My Bishop is much powerful than this Knight ..and I was happy ",
+        "24. bxc3 Rxc3": "The Rook cannot do much damage alone , so  I left it here !",
+        "25. e6": "! destroying the king side and taking control of all light squares.Rest of the moves were forced and I think I got the right continuation\n",
+        "25... f6": "weakening further ",
+        "26. Nh4 Nc7 27. Qh5 Qe8 28. Bg6 Qd8 29. Bf7+ Kh7 30. Qf5+": "Black resigned.\nThanks for reading"
+    },
+    "url": "https://gameknot.com/annotation.pl/francesco-molino-rd-2?gm=62498",
+    "gameName": "Francesco Molino Rd 2",
+    "players": "Kumar, Mihir (1872) vs. Zhu, Alexander Lawrence (1832)",
+    "opening": "Sicilian (B50)"
+}

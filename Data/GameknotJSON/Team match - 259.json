@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "king pawn opeaning",
+        "1... e5": "same",
+        "2. d3": "trying to have control of the center ",
+        "2... Bb4+": "check",
+        "3. c3": "block check",
+        "3... Ba5": "moves back ",
+        "4. Nf3": "building minor pieces",
+        "4... Nf6": "same",
+        "5. b4": "attacking my bishop",
+        "5... Bb6": "moved back",
+        "6. Ba3": "moves bishop",
+        "6... O-O": "castle king side",
+        "7. g3": "moves pawn",
+        "7... Nc6": "3 of minor pieces out",
+        "8. Bh3": "moves bishop",
+        "8... d6": "moves pawn",
+        "9. Bxc8": "lost bishop",
+        "9... Qxc8": "takes bishop",
+        "10. Nbd2": "moves knight",
+        "10... a5": "movespawn",
+        "11. bxa5": "takes pawn",
+        "11... Nxa5": "takes knight white times out  i win"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=51908",
+    "gameName": "Team match",
+    "players": "oleole16 (664) vs. reachforgold (687)",
+    "opening": "KP (C20), Indian opening"
+}

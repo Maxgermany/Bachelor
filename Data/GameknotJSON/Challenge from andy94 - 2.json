@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4": "I choose to change opening system trying 1.d4",
+        "1... Nf6 2. c4 d5 3. Nc3 dxc4 4. e4": "I chose e4 instead of Nf3.",
+        "4... e5 5. Nf3 c5": "c5?!\r\nStrange move.....",
+        "6. dxe5 Qxd1+ 7. Nxd1 Nxe4 8. Bxc4": "And we're at same point.\r\nIt's gonna be an open game.",
+        "8... g6 9. Bd5 f5 10. Ng1": "Ng1?!\r\n0-0 was better.",
+        "10... Nd7 11. f3 Nxe5": "Nxe5?",
+        "12. fxe4 Nd3+ 13. Kf1 fxe4 14. Bxe4 Nxc1 15. Rxc1 Bd6": "Bd6 to be able to castle.",
+        "16. Bd5": "I don't agree!",
+        "16... Bf5": "Bf5?",
+        "17. Bxb7": "Bxb7",
+        "17... Rb8 18. Bd5 Bd3+": "I chose to not castle for Ng1 and I'm paying it hard.",
+        "19. Kf2 c4 20. Nf3 Rd8 21. Re1+": "His situation is not good.",
+        "21... Kf8": "Kf8. Was Be7 better?\r\nYou have to know that black can't castle anyway cause Bd5...\r\n",
+        "22. Bxc4 Bxc4 23. Rxc4 Kg7": "Kg7?",
+        "24. Nc3 h5 25. Nb5 Bb8 26. Re7+ Kh6 27. Nxa7": "And I gain another pawn.",
+        "27... Bxa7+ 28. Rxa7 Rhf8": "?",
+        "29. Rcc7 g5": "g5??\r\nVery bad blunder....",
+        "30. Ra6+ Rf6 31. Rxf6#": "It's been an easy friendly game. But was Ng1 a bad mistake like I think?"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-andy94?gm=20214",
+    "gameName": "Challenge from andy94",
+    "players": "andy94 (1433) vs. redswift (1199)",
+    "opening": "Queen's pawn game (A50)"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d3": "I'm black here and open with Fisher/Reti.  It sets up an early queenside attack, a blunder by white, and an early 3 point advantage.  Due to sheer stupidity, I lose a big advantage and am forced to accept a stalemate in the end.  Lesson learned, don't get overly confident.",
+        "1... Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d6 5. Bg2 c5 6. a3 Nc6 7. Nbd2 a6 8. b3 Rb8 9. Bb2 b5 10. O-O bxc4": "Black sets a trap, and white misses it.",
+        "11. bxc4 Rxb2": "At this point, smart, conservative play would be in order.  Instead, I get overly confident and give up a big lead.",
+        "12. Rb1 Rxb1 13. Qxb1 Qa5": "At this point, I was hoping for a chance to pressure his queen.\n14. Qa1 Nh5\n15. Qa2 Nb4\n16. Qb3 Nc6",
+        "14. Qb2 Nh5 15. Qc1 Qc3 16. Qxc3 Bxc3": "Trying to force trades.",
+        "17. Ne4 Bb2 18. a4 Nd4 19. Nxd4 Bxd4 20. e3 Bg7 21. g4": "another white mistake",
+        "21... Bxg4 22. f3 Bf5 23. d4 cxd4 24. exd4 Bxd4+ 25. Kh1": "How could I mess this up?  :-)",
+        "25... Nf4 26. Rb1 O-O 27. Rb7 e5": "This is sloppy play by me (black) here.",
+        "28. Nxd6 Nxg2": "29. Kxg2 Bc8\n30. Nxc8 Rxc8\n31. Rb4 Bc3\n",
+        "29. Nxf5 gxf5 30. Kxg2 Rc8 31. Rd7 Rxc4 32. Kh3 Rxa4 33. Kh4 Bg1+ 34. Kg5 Kg7 35. Kxf5 Bxh2 36. Rd2 Bf4 37. Rg2+ Kf8 38. Kf6 Bh6 39. Rc2 Rf4+": "40. Kxe5 Rxf3 41. Rc8  Kg7 42. Ra8 Re3 \n",
+        "40. Kxe5 Rxf3 41. Rc6": "Another very sloppy play by black (me).",
+        "41... a5 42. Rxh6 Kg7 43. Ra6 Ra3 44. Kf5 h5 45. Kg5 Rh3": "During the game, I take notes on what I expect.  In this case (it's rare), I predicted this series accurately.\n46. Rxa5 f6 \n47. Kf5 Rf3 \n48. Ke4 Rh3\n",
+        "46. Rxa5 f6+ 47. Kf5 Rf3+ 48. Ke4 Rh3 49. Kf4 Rh4+": "50. Kg3 Rg4 \n51. Kh3 Kg6\n",
+        "50. Kg3 Rg4+ 51. Kh3 Kg6 52. Rd5 f5 53. Rd6+ Kg5 54. Rd5 h4 55. Rd3 Re4 56. Rf3 f4 57. Rf1 Re3+ 58. Kh2 Kg4 59. Rf2 f3 60. Rf1 Re2+ 61. Kg1 Rg2+ 62. Kh1 h3": "White brilliantly recognizes the stalemate possibilities and expertly forces one.",
+        "63. Rxf3 Ra2 64. Rf1 Kg3 65. Rg1+ Rg2 66. Rf1 h2 67. Rf3+ Kxf3": "Stalemate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/it-never-hurts-to-play-for-a-stalemate?gm=3963",
+    "gameName": "It never hurts to play for a stalemate",
+    "players": "benfliza (1346) vs. rpilaud (1467)",
+    "opening": "Mieses opening (A00)"
+}

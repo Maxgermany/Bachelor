@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. h3 Bf5 4. Bf4 e6": "The game started out innocently enough...",
+        "5. Ne5": "Big problem.  That knight really sucks.  I really wanted to take that horse to the glue factory, but for the time being, he will just have to sit there.",
+        "5... Bb4+ 6. c3": "Not sure what I was doing there.  I'm a young male, perhaps I was daydreaming about other things.",
+        "6... Be7 7. e3 O-O 8. h4 Nbd7 9. Nd2 c5 10. f3 Qb6": "I am slightly pleased with the position.",
+        "11. b3 Rac8 12. g4": "I am no longer pleased with my position.  I am cursing obscenities at the screen for making this happen.",
+        "12... cxd4": "I have a plan.  Not a great plan, but my bishop is Private Ryan, and he MUST be saved.",
+        "13. exd4 Nh5": "Private Hoof is offering to lend Private Ryan a hand.  Or rather, offer his life.",
+        "14. Nxd7": "I can't remember if this was part of the plan.",
+        "14... Qd8 15. Nxf8": "Taking the bait.  If he had taken the knight with his g-pawn instead, he could have held the defense, provided he made the correct moves.  Now Private Brian, Private Ryan's black brother, comes into play.",
+        "15... Bxh4+ 16. Ke2": "Taking Private Brian doesn't save the game.  I don't think so anyways, I analyzed it to an extent.",
+        "16... Nxf4+": "Now Private Hoof gets a piece of King Henry the Eighth.",
+        "17. Ke3 Rxc3+ 18. Kxf4": "Private Hoof dies.  At least his brave sacrifice didn't go in vain.",
+        "18... Qd6#": "And Queen Elizabeth shows why killing your wives isn't a good idea.  Thank you for reading my inane commentary about a silly chess game."
+    },
+    "url": "https://gameknot.com/annotation.pl/dobsovics-mini-tournament?gm=25615",
+    "gameName": "dobsovic's mini tournament",
+    "players": "dobsovic (1412) vs. chessssss (1568)",
+    "opening": "Queen's pawn game (A46)"
+}

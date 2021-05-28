@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Round 2 of tournament and I have a chance to win this round.  In this game I get lucky again because the tactics coming out of the opening (moves 14 to 20) are confusing to me.  \"Chess is a fairy tale of 1,001 blunders.\" -Savielly Tartakower.  Highest rated opponent I've won against to date.  Opponent profile says he's from Zimbabwe 32 years old.  4.d4 pretty good for me.  Resembles open Sicilian a little bit... or Philidor.",
+        "1... e5 2. Nf3 d6 3. Bc4 h6 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 Be7 7. O-O O-O 8. f3 c6 9. Be3": "9.Be3 = 7 vs 4 in the centre.  I would not have played 8...c6 but just a matter of style.",
+        "9... b5 10. Bb3 a6 11. a3 c5 12. Nde2": "Game note \"I think 10...b4 would have been annoying.  The text ...a6 seems slow and delays piece development.  I'd play 12.Nf5 if I didn't have his LSB locked down by my K-side pawns.\"  Strangely, I played it anyway on move 14.  Poor Knight did a lot of moving around for very little.",
+        "12... Bb7 13. Ng3 Nbd7 14. Nf5": "Computer didn't like 13...Nbd7.  ...c4 could have been a bit better since time was invested in ...a6.  14.Nf5 double attack pawn and DSB but computer doesn't like the immediate capture 16.Nxe7+, perhaps because it's a bad bishop anyway.",
+        "14... c4 15. Ba2 Ne5 16. Nxe7+ Qxe7 17. b3": "Computer doesn't like my 17.b3 (+0.04 on account of the sharp 17...d5) but I need to play through the options in order to understand why.  Suggests 17.Qd4 Rfd8 18.Rfe1 Rd7 19.Rad1 Re8 +0.47.  Not sure where this leads but it sure provides good central control 8 vs 6.  So he erred because 17...d5 would have opened it up to his advantage.  17...Rfc8 is evaluated it +0.52.  Also look at his move 18...Ng6 computer gives a ? and I never blinked at it during the game.  Perhaps he should have followed through with his plan on the c-file with doubled rooks.",
+        "17... Rfc8 18. Bd4 Ng6 19. bxc4 bxc4 20. Qe2": "Game note \"20.Qe2 very dynamic piece-play.  Could also push the e-pawn.\"  Computer sure doesn't like 24.Nd5 on account of the need for that e-pawn push.  Suggests Na4-Nb6.",
+        "20... Nf4 21. Qe1 Nd7 22. Qg3 Ng6 23. Rfe1 Nf6 24. Nd5 Bxd5 25. exd5 Qd7 26. Rab1": "26.Rab1 I thought I could lift it to b4 but his 26...Nxd5 puts an end to that. Bad idea on my part.  Even Bxf6 would have been better.  I could have lost it here.  Game note after ...Nxd5 \"I need a new plan... Ra1-Bb1-c3.\"",
+        "26... Nxd5 27. Rba1 Ndf4 28. Bb1 d5": "Better is ...Re8 29.c3 Re2! 30.Ra2 Rae8 -2.69 ouch",
+        "29. c3 Rce8": "Game note \"Check his 29...Re8 I think it's a blunder, I think 28...Re8 was needed.  Sure sucks I'm down a pawn.....\"",
+        "30. Bxg6 Nxg6 31. Rab1 Rxe1+ 32. Qxe1 Qa4 33. Qg3 Kh7": "Game note \"33...Kh7 huh? TSN turning point because I was lost up to this point.  Can I get my K off the back row and activate my R!! The immediate 34.Rb7 is met by ...Qd1+ I'm sure. How about 34.h4 h5 35.Rb7. Same difference!  Sure played out in my favour.\"  Computer says 33...Re8 -1.27 but after the text move it's unclear at best.  Sure gives me a bit of breathing room anyway.  \"The winner of the game is the player who makes the next-to-last mistake.\" - Savielly Tartakower",
+        "34. h4 Re8 35. h5 Ne5 36. Bxe5 g5 37. hxg6 e.p.+ fxg6 38. Rb7+ Kg8 39. Qxg6+ Kf8 40. Qg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/157th-gk-tournament?gm=63967",
+    "gameName": "157th GK tournament",
+    "players": "e4newman (1594) vs. mr_pertz (1600)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

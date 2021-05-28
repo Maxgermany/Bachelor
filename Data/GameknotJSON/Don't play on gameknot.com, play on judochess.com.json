@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 c5": "Benoni",
+        "2. d5": "standard response",
+        "2... e6": "takes initiative",
+        "3. Nc3 d6 4. e4 Nf6 5. Bc4 exd5 6. Bg5": "losing a piece",
+        "6... dxc4 7. f4 Nc6": "Like the Sicilian Grand Prix",
+        "8. Qf3 Nd4 9. Qd1": "waste",
+        "9... Be7 10. Nf3 Bg4": "aiming to weaken pawn structure",
+        "11. h3 Bxf3 12. gxf3 h6": "My rating before winning this game was 1834. My rating after is 1806. Therefore, I question the legitimacy of gameknot, and I will be sure to dissuade others from using this site."
+    },
+    "url": "https://gameknot.com/annotation.pl/dont-play-on-gameknot-com-play-on-judochess-com?gm=64730",
+    "gameName": "Don't play on gameknot.com, play on judochess.com",
+    "players": "enki12 (1010) vs. hexchess (1806)",
+    "opening": "Old Benoni (A43), Franco-Benoni defence"
+}

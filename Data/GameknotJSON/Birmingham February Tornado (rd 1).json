@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "Caesar is one of my best chess friends, and I have a pretty dismal record against him (1-6-1). My lone win was the last time we played, so I'm pretty sure he will be coming at me hard.",
+        "1... d5 2. e5 c5 3. c3 Nc6 4. f4": "!? ",
+        "4... d4 5. Nf3 Bg4 6. Bc4 e6 7. O-O Nge7 8. d3 Qb6 9. Nbd2 Na5": "?!",
+        "10. a3 Nf5 11. b4 cxb4 12. cxb4": "Correct.",
+        "12... Nxc4 13. Nxc4 Qc7 14. Bd2 b5 15. Na5": "White's White Knight",
+        "15... Nh4 16. Rc1 Qd7 17. Qc2 Nxf3+ 18. gxf3 Bf5 19. Qc6 Qxc6 20. Rxc6 Bxd3 21. Rfc1 Be7 22. Rc6c8+ Rxc8 23. Rxc8+ Bd8 24. Nb7 Ke7": "(24...Kd7 25. Nc5+ winning a piece.)",
+        "25. Rb8 Rf8 26. Nc5 Be2 27. Rb7+ Ke8 28. Kg2 Bb6 29. Nd7": "! Brutally strong.",
+        "29... Rg8 30. Nxb6": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/birmingham-february-tornado-rd-1?gm=29915",
+    "gameName": "Birmingham February Tornado (rd 1)",
+    "players": "Caesar L. (1825) vs. Thomas G. (1439)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

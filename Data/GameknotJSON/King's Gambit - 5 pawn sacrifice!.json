@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 d6 3. Nc3 Qh4+ 4. g3 Qd8 5. Nf3 exf4 6. Bc4 fxg3 7. O-O gxh2+ 8. Kh1 Nf6 9. e5 dxe5 10. d4 exd4": "White has now sacrificed 5 pawns!",
+        "11. Bg5 Be7": "If Black takes the knight with 11. ...dxc3, 12. Bxf7+ will lead to White winning the undefended queen.",
+        "12. Nb5 O-O 13. Ne5 h6 14. Rxf6": "The key move, opening up the Black defence.",
+        "14... gxf6": "If Black captures with the bishop, 14. ...Bxf6, then after 15. Qh5 there is a triple attack on f7, and 15. ...Bxe5 does not work since the bishop is pinned to the queen by the White bishop. ",
+        "15. Nxf7": "15. Qh5 may also work, but this is a bit more forcing.",
+        "15... Rxf7 16. Qh5": "Now, the pin is decisive!",
+        "16... Qf8": "The threat for White is 17. Qg6+, followed by Qxh6+, so Black defends... ",
+        "17. Bxh6": "Unfortunately for Black, though, he is now lost.",
+        "17... Qe8 18. Qg6+ Kh8": "And now there is a pretty checkmate to finish things off.",
+        "19. Bg7+ Rxg7 20. Qxe8+ Kh7 21. Qh5#": "What a game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gambit-5-pawn-sacrifice?gm=44904",
+    "gameName": "King's Gambit - 5 pawn sacrifice!",
+    "players": "King Greco  vs. NN ",
+    "opening": "King's gambit (C30)"
+}

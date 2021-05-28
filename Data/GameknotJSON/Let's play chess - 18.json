@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 e6 5. Nge2 a6 6. Nxd4 cxd4 7. Ne2 Nf6 8. Nxd4": "From this position Black could secure a slight advantage with 8...Nxe4 9.O-O d5 (as in Petrov-Pucher, Le Touquet, 2006), which is why White would have been better advised to play 8.d3.",
+        "8... Bc5 9. Nb3 Bxf2+": "[?!]\nThe quieter 9.\u2026 Bd6 10.d4 Nxe4 is preferable, but the text definitely gets White's attention, just not enough of it.",
+        "10. Kxf2 Nxe4+ 11. Ke3": "[?]\nOblivious to his danger White neglects to address Black\u2019s threat of getting his queen into play with check.  11.Kf1 seems best; granted it locks in his h-rook, but up a bishop and ahead in development White can surely find the extra tempi to get that rook out of hock.",
+        "11... b5 12. Bxb5": "[?]\nBlack gave White a reprieve \u2013 11.\u2026 d5 12.Bf1\n    \u2022 (12.Bd3 Qg5+ 13.Ke2 Qxg2+ 14.Ke1 Qf2#)\n    \u2022 (12.Be2 Qg5+ 13.Kd3 Nf2+ wins the queen)\n    \u2022 (12.Qf3 Ng5 wins the bishop)\n12.\u2026 Qg5+ 13.Ke2 e5 14.h3 Ng3+ wins the exchange \u2013 but White panics and so does not see that substituting 12.Be2 for 12.Bxb5? and proceeding as in the actual game salvages a draw as in the note following Black's 17th move.",
+        "12... Qg5+ 13. Kxe4 Bb7+ 14. Kd3 Qf5+ 15. Ke3 Qe4+ 16. Kf2 Qxg2+ 17. Ke3 axb5": "Black passes on the chance for a draw by repetition with 17.\u2026 Qe4+ 18.Kf2 Qg2+ 19.Ke3 (19.Ke1? Qxh1+ 20.Bf1 Qxh2 gives Black a rook and two pawns for a bishop and a knight) Qe4+ etc.",
+        "18. Rg1 Qe4+ 19. Kf2 Qf4+ 20. Ke1 Bf3 21. Qxf3 Qxf3 22. Rxg7 Qh1+ 23. Ke2 Qxh2+ 24. Kf1 Qh6 25. Rg3 Qf4+ 26. Kg2 Qe4+ 27. Kf2 Qh4 28. Kg2 Qe4+ 29. Kf2 Qxc2 30. Rc3 Qf5+ 31. Ke2 Rg8 32. Ke3 Rg3+ 33. Ke2 Rg2+ 34. Ke3 Ra4 35. Nd4 Qf2+": "Mate in 2: 36.Ke4 Rxd4+ 37.Ke5 Rg5#"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=68912",
+    "gameName": "Let's play chess",
+    "players": "midnight_skulker (1860) vs. results (1925)",
+    "opening": "Sicilian (B23), closed, 2...Nc6"
+}

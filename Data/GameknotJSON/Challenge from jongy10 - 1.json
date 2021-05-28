@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Bd6": "Already Dad is trying something new.",
+        "3. Nc3": "I'm just thinking \"knights before bishops\"",
+        "3... Nf6 4. Bc4 h6 5. a3 a6 6. b4 b5 7. Bb3 Bb7 8. Bb2 O-O": "Even though I have 2 bishops beaming down to his king side, he still castles on that side.",
+        "9. d3 c5 10. h3 cxb4 11. axb4": "He can play Bxb4 and pin my knight. I'll likely play Nxe5 and then O-O to remove the pin.",
+        "11... Qc7 12. O-O": "Preventing the pin. I'm hoping I can get some action on the d5 square that kills his king side knight. Then my king side knight and queen can launch an attack.",
+        "12... Bxb4 13. Nd5 Bxd5 14. Bxd5 Nc6 15. Bxc6 dxc6 16. Bxe5": "That cleared the board!",
+        "16... Qe7 17. Bd4 Bd6": "Oh dear... set himself for a fork here.",
+        "18. e5 Bxe5 19. Nxe5 Rfc8 20. Bb2 g6 21. Qf3": "Once I move my knight, his knight will be under attack from both my queen and bishop.",
+        "21... h5 22. Rfe1": "Now, when I move my knight his queen will be under attack - it will be difficult for him to save both the queen and the knight.",
+        "22... Qb4": "This feels like a blunder, for giving away the knight. Perhaps he felt that exchanging his knight for my bishop was a good deal, except that my queen+knight will be threatening checkmate.",
+        "23. Qxf6 Rcf8 24. Nc4": "Only way he can prevent Qg7# is to sacrifice his queen.  Time for him to resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-jongy10?gm=53967",
+    "gameName": "Challenge from jongy10",
+    "players": "jongy10 (1601) vs. clogs (1200)",
+    "opening": "King's knight opening (C40)"
+}

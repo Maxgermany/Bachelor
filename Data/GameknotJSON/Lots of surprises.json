@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. b3 e5 2. Bb2 Nc6 3. Nf3 e4 4. Nd4 Nf6 5. e3 Bc5": "Usually, Black takes my knight in this position, but he lets me mess with his pawns instead.",
+        "6. Nxc6 dxc6 7. d4 exd3 e.p. 8. Bxd3 Bg4 9. Qc1 Qe7 10. O-O Rd8": "I thought he was going to castle queenside. ",
+        "11. Nd2 O-O 12. Bxf6 gxf6": "What a surprise! After Qxf6, I was going to play Ne4 and get rid of his strong black bishop. That's why I was willing to trade mine off. But I didn't expect him to open up his kingside and give himself double, isolated pawns.",
+        "13. Nc4 Rd5 14. a3 b5": "That's what I was expecting when I put the knight on c4. Now it gets relocated to e4.",
+        "15. Nd2 Rfd8 16. Ne4 Bb6 17. Ng3 h5 18. e4 Rg5 19. Nf5": "I don't feel great about this move. I feel like I'm daring him to take on f5, which doubles my pawns. But I feel there are too many pieces pointed at my kingside.",
+        "19... Bxf5 20. exf5 h4": "I've got to worry about him playing a3.",
+        "21. Kh1 Bd4 22. Rb1 Qd6 23. f4": "That was another dangerous move for me. It blocks out his queen for now, but now my king's trapped.",
+        "23... Rg7 24. Rf3": "So I can meet h3 with Rxh3.",
+        "24... Rg4 25. b4": "This is like giving him a free move, but my queen's stuck on c1, guarding that pawn on a3, unless I play b4.",
+        "25... Re8": "And, of course, he stops me from being able to play Qe1.",
+        "26. Qf1 h3": "If I play gxh3, he gets to play Rg1+.\nIf I play Rxh3, he plays Rxf4.\nThat leaves the awful g3, and my king is trapped plus my rook is pinned after he moves the queen to d5.",
+        "27. g3 Qd5": "As expected. My only choice is to continue the plan I started and play c4.",
+        "28. c4 bxc4 29. Bxc4 Qxf5 30. Qd3 Qd7": "I think he's going to have some problems with that pinned bishop.",
+        "31. Rd1 c5": "I'm not sure what that does for him. It separates my pawns; it gives his queen another diagonal -- but I'm not sure it's worth the pawn.",
+        "32. bxc5 Rd8 33. Qb3": "Now that the pawn's off of this file, my queen can use it, too.",
+        "33... Rg7 34. Bf1 Rh7 35. Qb7": "I especially have to keep his queen off of that long diagonal and not let it pin my rook.",
+        "35... Qe7 36. Qc6 f5 37. a4 Kg7 38. Rfd3 Rh6 39. Qb7 Qxc5 40. Qb5 Rb8 41. Qxc5 Bxc5 42. Rd3d5 Rd6 43. Rd5xd6 cxd6 44. Bxh3": "Looks like we're heading for a draw, but I don't have any reason to avoid it. Our team's up 2-1 with this as the last remaining game.\n\n(Draw accepted)"
+    },
+    "url": "https://gameknot.com/annotation.pl/lots-of-surprises?gm=40405",
+    "gameName": "Lots of surprises",
+    "players": "chuckbo (1945) vs. arkad01 (2035)",
+    "opening": "Nimzovich-Larsen attack (A01), modern variation"
+}

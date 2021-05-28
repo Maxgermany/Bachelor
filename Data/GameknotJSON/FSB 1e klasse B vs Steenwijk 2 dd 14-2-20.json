@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. c4 c6 8. O-O O-O 9. Nc3 Nxc3 10. bxc3 dxc4 11. Bxc4 Bg4 12. h3 Bh5 13. g4 Bg6 14. Bg5 Qc7 15. Re1 h6 16. Bd2 Nd7 17. Qe2 Rae8 18. Qxe8 Rxe8 19. Rxe8+ Kh7": "ik ging de confrontatie aan, 2 torens voor en dame",
+        "20. g5": "Als zwart hier slaat volgt volgt Pxg5+ daarom speelde hij Lf4 de beste verdediging",
+        "20... Bf4 21. gxh6 Bxd2 22. Nxd2": " hier had ik al eerder gxh7 moeten spelen, dat klopt. Maar zwart vergat gxh6 te spelen. Hij dacht met Df4 het probleem op te lossen.\n      Hier win ik alsnog een pion.",
+        "22... Qf4": "Df4?",
+        "23. hxg7 Kxg7": "Dat moet, want Dxd2??. Dan zou ik g8(D+) mat spelen.",
+        "24. Nf1 Nf6 25. Re3 Ne4 26. f3 Bh5": "Lh5?",
+        "27. fxe4": "fxe4!",
+        "27... Bf3": "Zwart heeft deze combinatie bedacht. Als ik nu 28 Tae1 speel, ga ik mat. Er volgt dan: \n[28. Tae1 - Dg5+, 29. Kf2 - Dg2+ mat, het veld e1 is niet bereikbaar voor de Koning. Een mooie matcombinatie van zwart, echter ik heb ook nagedacht!!!]",
+        "28. Bd3": "Ld3!",
+        "28... Qg5+ 29. Kf2 Qg2+ 30. Ke1": "{Nu heb ik dit veld e1 als vluchtveld.} Vandaar dat ik zo lang over Ld3 heb moeten nadenken, het moest wel goed zijn h\u00e8\u2026",
+        "30... Qxh3": "Dxh3?",
+        "31. Kd2": " en ik ben ontsnapt en heb nu 2T +P tegen D. \nHet was idd. zeer ingewikkeld, vooral als je achter het bord dit alles maar moet uitvinden.\n",
+        "31... Qg2+ 32. Be2 Bxe2 33. Rg3+": "zwart geeft op."
+    },
+    "url": "https://gameknot.com/annotation.pl/fsb-1e-klasse-b-vs-steenwijk-2-dd-14-2-20?gm=67565",
+    "gameName": "FSB 1e klasse B vs Steenwijk 2 dd 14-2-20",
+    "players": "Chris Draijer (1837) vs. Jon Derks (1700)",
+    "opening": "Petrov (C42), classical attack, Marshall variation"
+}

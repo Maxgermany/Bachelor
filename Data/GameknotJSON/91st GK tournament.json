@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "My normal opening.",
+        "1... c5": "This is one of the few times I've encounted the Sicilian on Gameknot. I'm well prepared against it.",
+        "2. Nf3 Nc6": "Develops a piece and controls the centre.",
+        "3. c3": "I bet he was expecting the normal d4. I decided to throw him off a bit by playing c3.",
+        "3... d6": "I like e6 here better for black.",
+        "4. d4": "Strikes the centre. NOw I will have 2 centre pawns on d4 and e4.",
+        "4... cxd4 5. cxd4 Nf6 6. Nc3": "Develops the knight and defends the pawn.",
+        "6... Bg4 7. Be3": "Protects the pawn on d4. THis wasn't neccesary since I could capture the bishop with my g pawn if he captured my knight. I would then have an open g file and castling for black would be walknig into an death trap or ambush.",
+        "7... e6": "Black contents himself with a small pawn centre. This prepare tio develop the DSB.",
+        "8. Bb5": "Prepare d5.",
+        "8... a6 9. Ba4 b5 10. Bc2 Nb4 11. Bb1": "I still wanted to eye the e4 pawn.",
+        "11... Be7 12. a3 Nc6 13. h3 Bh5 14. Qd2": "Now I tempt him to capture the knight by moving my queen and unpinning it.",
+        "14... Bxf3 15. gxf3 e5 16. d5 Nb8 17. Rg1 g6 18. Bh6": "Attacks the weakness.",
+        "18... Nh5 19. Ne2": "Prepare for an f4 pawn storm. I wanted to play h4,h5 and start a kingside attack.",
+        "19... Nd7 20. Bd3": "Prepares to develop the rook.",
+        "20... Nc5 21. Bc2 Bf6 22. Rc1 Bg7": "Black has wasted a lot of time manouvering his pieces.",
+        "23. Bxg7 Nxg7 24. f4 Qh4": "My  Queen can now infiltrate via a5.",
+        "25. Qa5 Qxf4": "HOrrible blunder. THis secured a victory for me.",
+        "26. Nxf4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/91st-gk-tournament?gm=43868",
+    "gameName": "91st GK tournament",
+    "players": "richard1234567 (1544) vs. jonax12 (1561)",
+    "opening": "Sicilian defence (B30)"
+}

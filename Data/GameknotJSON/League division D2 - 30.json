@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7": "This is the classical system of the Pirc",
+        "5. Bd3 O-O 6. O-O e5 7. d5 Nbd7 8. Bd2 Kh8 9. Qe2 Ng8": "I am going here for the f5 push",
+        "10. Rae1 Nc5 11. b4": "b4 was a mistake in my opinion. In addition to weaking the queenside, white push me even more toward my goal of f5 control. Now I am eliminating the first of the defenders for f5",
+        "11... Nxd3 12. Qxd3 f5 13. Qc4 f4": "blocking the kingside",
+        "14. a4": "White seem to want to assault my queenside",
+        "14... b6 15. Nb5 Ba6 16. Rea1 Bf6 17. a5 Qd7 18. Qc3 Bxb5": "gaining a piece",
+        "19. Rfe1 g5 20. Red1 g4": "I am assaulting the white kingside with full force",
+        "21. Ne1 Bh4 22. g3 fxg3 23. hxg3 Bxg3": "giving back the piece to open the lines I need",
+        "24. fxg3 Rf1+ 25. Kg2 Raf8 26. Nd3 Rf1f3 27. Rdh1 Bxd3 28. cxd3 Rf3f2+ 29. Kg1 Qf7 30. Qc1 Qf3 31. Rh2 Qxg3+ 32. Kh1 Qxh2#": "nice mate I would say"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2?gm=12748",
+    "gameName": "League division D2",
+    "players": "mognam (1346) vs. lovechiefs (1200)",
+    "opening": "Pirc (B08), classical (two knights) system"
+}

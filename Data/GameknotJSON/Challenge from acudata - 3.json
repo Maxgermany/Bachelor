@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5": "!! I like it, tends to take most players out of book and out of normal development.",
+        "5. Nb5 a6": "This is your gamble.  If W takes the defensive track and returns to N-c3, you build an advantage.  However, I chose the move aggressive N-d6+ giving me the tempo.\r\n",
+        "6. Nd6+ Bxd6 7. Qxd6 Qf6 8. Qd1 Qg6 9. Nc3 d5": "Small point.  I think that supporting the center by developing your Queen's Knight is stronger then attacking immediately with d5.  Although, I see that you are offering the tempation of exd5 which would turn the game back to even.  Actually, a good gamble.",
+        "10. Nxd5 Qxe4+ 11. Be3 Nd4 12. Nc7+ Ke7": "!!! Ke7 saves your position, where Kf8 loses immediately.",
+        "13. Rc1 Bg4": "!!! Bg4 brings the game back to even.",
+        "14. Qd3 Qxd3 15. Bxd3 Rd8 16. h3 Bh5 17. f4 f6": "?? Turning point of the game.  Kd6 forces Nxa6, etc.",
+        "18. g4 Bf7 19. fxe5 fxe5 20. O-O Bg6 21. Bc4 b5 22. Bxd4 Rxd4 23. Bb3 Nf6 24. Ne6 Rd2 25. Nxg7 Nd7 26. Nf5+ Bxf5 27. Rxf5 Rf8 28. Rcf1 Rxf5": "Good trap!  pxr would shift the game to your favor.",
+        "29. Rxf5 a5": "Nc5 would have been much stronger.  This is where I think your busy schedule got you to feel rushed.  Essentially, he end of the game.",
+        "30. g5 Rd1+ 31. Kg2 Rd2+ 32. Kg3 a4 33. Bg8 Rxc2 34. Rf7+ Ke8 35. Bxh7 Rxb2 36. g6 Rb1 37. Kg2 Rb2+ 38. Kf3 e4+ 39. Kxe4 Rg2 40. Rf5 Rg1 41. Ke3 Re1+ 42. Kd2 Re7 43. h4 Nf8 44. Rxb5 Nd7 45. h5 Nf6 46. Rb8+ Kd7 47. Rb7+": "Hope this helps.\r\nBest regards,\r\nRay\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-acudata?gm=24617",
+    "gameName": "Challenge from acudata",
+    "players": "acudata (2361) vs. os5213 (2165)",
+    "opening": "Sicilian (B32), Labourdonnais-Loewenthal (Kalashnikov) variation"
+}

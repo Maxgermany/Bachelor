@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5": "my usual play, against d4..",
+        "2. c4 Bf5": "not many people, understand this...",
+        "3. Nc3 e6": "covering d5...",
+        "4. Nf3 Bb4": "stolen, from Nimzovich...",
+        "5. g3 Bxc3+ 6. bxc3 Be4": "new targets...",
+        "7. Bg2 Nf6 8. O-O O-O 9. a4": "missing the point...",
+        "9... dxc4 10. Ba3 Re8": "White is getting in trouble...",
+        "11. Ne5 Nc6 12. Nxc4": "greed, before the fall...",
+        "12... Bxg2 13. Kxg2 Qd5+": "losing a piece: White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-having-a-hard-time?gm=65331",
+    "gameName": "fiercequeen, having a hard time...",
+    "players": "rama38 (2066) vs. fiercequeen (2059)",
+    "opening": "QGD (D06), Grau (Sahovic) defence"
+}

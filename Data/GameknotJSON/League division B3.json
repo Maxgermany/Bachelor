@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "This game is a little tale of the mobile pawn-center, and how much havoc it can do when it starts to roll.",
+        "1... c5 2. Nf3 a6": "The Sicilian O\u00b4Kelly variation coming up. Since I seldom play 1. e4, I had to read some books before the next moves :)",
+        "3. c3 d6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 e6 7. Bd3 Be7 8. O-O O-O 9. Be3 Nc6 10. h3": "A weakness or a useful move? It gives the King a \"breathing hole\", but more important: It keeps the Black Knight out of g4 harassing the White Bishop on e3.",
+        "10... b5 11. a3 Bb7 12. b4 h6 13. Re1 Qd7 14. Rc1 Rac8": "A phase where both players tries to find the best squares for the pieces. Looking at the mobile pawn-centers, the important difference is that White has advanced one more square than Black.",
+        "15. Bf4": "Moving the Bishop from defense to attack, and thereby helping the coming pawn-roller.",
+        "15... Rfd8 16. Bb1": "Freeing d3 for the Queen with a mating attack in some variations.",
+        "16... Ne8": "?! I did not quite understand this move. The Black Knight leaves the defense of the square h7, and with my next move both Knights are stranded on the back line, making my center pawns even stronger.",
+        "17. d5 Nb8": "Exchanging the pawns on d5 would give White a clear edge due to the \"anchor\" pawn on d5 and a lot more room for future operations. On the other hand, now the full force of the mobile center begins to show.",
+        "18. e5 exd5 19. Qd3": "Threatening mate in 2, so Black has to weaken his king side.",
+        "19... f5 20. e6": "Sometimes in chess the Pawn is the strongest piece! The Black Queen doesn\u00b4t have a reasonable place to go.",
+        "20... Qc6 21. Nd4": "21. Ne2, Qb6 22. Be3 was my first choice, but looking deeply into the position, the Knight move seemed even stronger.",
+        "21... Qc4 22. Nxf5 Qxd3 23. Nxe7+ Kh8": "23. - Kf8 might be a bit better, but White simply continues: 24. Nxc8 with the threat of playing the e6 Pawn to e7  and promotion to a Queen on d8.",
+        "24. Bxd3 Rc7 25. Nexd5": "Black is down with a piece and a pawn - and with no tricks in hand. The rest is easy.",
+        "25... Rc6 26. e7 Rdc8 27. Bf5 Rc6xc3 28. Nxc3": "And 1-0. "
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-b3?gm=18420",
+    "gameName": "League division B3",
+    "players": "ybrevo (2056) vs. jobser (1884)",
+    "opening": "Sicilian (B28), O'Kelly variation"
+}

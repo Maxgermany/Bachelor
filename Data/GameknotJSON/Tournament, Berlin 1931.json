@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4": "Releasing the central tension.",
+        "5. a4": "To prevent ...P-QN4, supporting the advanced BP.",
+        "5... Bf5": "Seizing a good diagonal.",
+        "6. Ne5": "Initiating an attack.",
+        "6... c5": "A wasted pawn move. 6... QN-Q2, continuing to develop, is better.",
+        "7. e4": "White seizes the initiative at once with this powerful stroke.",
+        "7... Nxe4": "If instead 7... PxP?? Nadel has 8 PxB! PxN 9 QxQ ch KxQ 10 NxP ch, winning a Rook!",
+        "8. Qf3": "Looking for the knockout.",
+        "8... cxd4": "8... NxN??? falls at once to 9 QxB!! P-B3 10 BxP!! PxN 11 B-B7 mate.",
+        "9. Qxf5": "Threatening mate.",
+        "9... Nd6": "To guard the KBP.",
+        "10. Bxc4": "Adding force to the attack. If the Knight captures either piece White mates on the move.",
+        "10... e6": "To create a flight square.",
+        "11. Bb5+": "Black can lose quickly or slowly. 11... N-Q2 12 BxN ch QxB 13 Q-B4 loses slowly for Black. White's advantage of a piece gives him a technically easy win.",
+        "11... Ke7": "This move loses quickly.",
+        "12. Ng6+": "Initiating checkmating sequence...",
+        "12... hxg6": "The Knight must be taken.",
+        "13. Nd5+": "Forcing Black's response...",
+        "13... exd5": "...which allows...",
+        "14. Qe5#": "...this mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-berlin-1931?gm=42419",
+    "gameName": "Tournament, Berlin 1931",
+    "players": "Siegfried Nadel  vs. Isaak Margulis ",
+    "opening": "QGD Slav (D17), Krause attack"
+}

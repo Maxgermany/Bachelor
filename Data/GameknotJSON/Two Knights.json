@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5": "This was what Bobby Fischer played so ...",
+        "4... d5 5. exd5": "I always hope for Nxd5 because the complications are hard to handle in a blitz game.  But the reply is not the main line and surprises me a little.",
+        "5... Nd4 6. O-O": "So castling before the complications start should be a good idea.",
+        "6... Nxd5 7. c3": "I thought Ne6 would give black easy equality while Nc6 just gets back to a line in the \"fried liver attack\" and is much better for white than normally ( Since he gained two tempos ).   Black takes a third option.",
+        "7... Qxg5 8. cxd4 Nb6 9. d3": "This protects the bishop and at the same time threatens the queen.  There will be no way to save the pawn since the \nthe queen protecting and retaking after d4xe5 will lose to the pin Re1.",
+        "9... Qg6 10. dxe5 Bh3": "This was anticipated and there is an easy reply",
+        "11. Qf3 Bg4": "This is a tactical slip, as the queen is overloaded.",
+        "12. Bxf7+ Qxf7 13. Qxg4": "White is now up 2 pawns and black can't castle queen side.",
+        "13... Bc5 14. e6 Qf6 15. Nc3": "Planning Ne4.",
+        "15... O-O": "Putting pressure on f2.  However Ne4 solves all the problems.",
+        "16. Ne4 Qd4": "Trying to maintain pressure but...",
+        "17. Be3": "black resigns as he must now lose a piece."
+    },
+    "url": "https://gameknot.com/annotation.pl/two-knights?gm=66466",
+    "gameName": "Two Knights",
+    "players": "jmd1952 (1200) vs. ev41 (1880)",
+    "opening": "two knights defence (C57), Fritz variation"
+}

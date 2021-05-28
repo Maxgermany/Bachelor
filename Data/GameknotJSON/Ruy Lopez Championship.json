@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6": "The Berlin Defense",
+        "4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5": "The critical position for the Berlin Wall.  White has a kingside majority which he intends to advance.  Black intends to blockade and prevent the kingside breakthrough. ",
+        "8. Qxd8+ Kxd8 9. Bf4": "Not the most active post for the bishop.   The bishop relieves the f3 knight from guarding the e4-pawn.  White wants to redeploy the knight, move the bishop to g3, and play f4.",
+        "9... h6 10. Nc3 Be6 11. Rad1+ Ke8 12. Ne4 Rd8 13. Rxd8+ Kxd8 14. Rd1+ Kc8 15. Nd4": "15 h3...16 g4 to drive off the f5-knight before playing Nd4  comes into consideration.",
+        "15... Nxd4 16. Rxd4": "So far so good.  Black wants to keep control of the a3-c8 diagonal with his pawns and ls bishop.  Although the bishop pair is supposed to be an advantage, Black would like to trade his ds bishop for the white knight, since the knight can challenge the light squared diagonal.\n",
+        "16... c5 17. Rd1 Be7 18. a3 a5": "keeping control of b4",
+        "19. Be3 b6": "Black wants his kingside pawns on light squares, and his queenside pawns on dark squares.",
+        "20. Ng3 h5 21. Ne2 Kb7 22. h3 h4": "To play ...hxg3 e.p. in case of g4 which would break up White's kingside pawn chain. ",
+        "23. Nf4 Bf5": "I want to keep the ls bishop.",
+        "24. Nd5 Re8 25. Rd2 Kc8": "keeping control of d8 in case Black plays Nxe7",
+        "26. Bf4 Bd8 27. b3 Be6 28. Ne3 Be7 29. Bh2": "A better move would be 29.c4 to prevent Black's next move.",
+        "29... c4 30. Nxc4 Bxc4 31. bxc4 Bxa3": "A passed pawn to the good and White has a back rank problem.  Black probably has a won game.",
+        "32. c3": "32.Kf1 might be better ",
+        "32... Rd8 33. Bf4": "?? the final mistake in a bad position",
+        "33... Rxd2 34. Bxd2 Bb2": "There is no stopping the Black a-pawn from queening."
+    },
+    "url": "https://gameknot.com/annotation.pl/ruy-lopez-championship?gm=36871",
+    "gameName": "Ruy Lopez Championship",
+    "players": "vortx (1947) vs. blake78613 (1846)",
+    "opening": "Ruy Lopez (C67), open Berlin defence, l'Hermet variation"
+}

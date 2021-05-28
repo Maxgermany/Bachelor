@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Philidor's Defense -- not a good line for an amateur to try. Playable but requires exactness on the part of Black.",
+        "3. d4 f5": "Opens up the position too early. Black is cramped and behind in development. This will only help White.",
+        "4. dxe5 fxe4 5. Ng5": "This Knight will be hard to drive. Also, Black must be wary of White's threatened Q-R5ch.",
+        "5... d5 6. Nc3 Bb4": "Black finally develops a piece!",
+        "7. e6 Bxc3+": "A poor move. Why exchange off your only active piece? 7...N-K2 or 7...N-KB3 would prepare for castling. N-KB3 would also prevent White from playing Q-R5ch.",
+        "8. bxc3 Nh6": "Incomprehensible. Why not move this Knight to KB3 instead? Now the master punishes Black's errors.",
+        "9. Qh5+": "8...N-KB3 would have made this move impossible.",
+        "9... Kf8 10. Ba3+": "White is on a King-hunt. Mate follows quickly and inevitably.",
+        "10... Kg8": "Hopeless, but there are no good moves.",
+        "11. Qf7+ Nxf7 12. exf7#": "A splendid bit of attacking play."
+    },
+    "url": "https://gameknot.com/annotation.pl/blindfold-game?gm=30509",
+    "gameName": "Blindfold Game",
+    "players": "Mlotkowski  vs. Amateur ",
+    "opening": "Philidor (C41), Philidor counter-gambit, del Rio attack"
+}

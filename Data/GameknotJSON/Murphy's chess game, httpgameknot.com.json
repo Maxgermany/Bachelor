@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "(b) The primary cause of all White's subsequent difficulties.\n",
+        "1... Nh6 2. Nh3 Rg8 3. Rg1 Nc6 4. Nc3 Ne5 5. Nd5": "(c) Apparently nothing better, bad as this is.\n",
+        "5... Rh8 6. Rh1 Nc6 7. Nc3 Ng8 8. Nb1 Nb8": "(d) An ingenious and beautiful d\u00e9but, sometimes called the Pipeopener.\n",
+        "9. Ng1 e6 10. f3": "(e) Ill-judged.\n",
+        "10... Ne7 11. Ne2 Ng6 12. g4 Be7 13. Ng3 d6 14. Be2 Qd7 15. d3 Kd8": "(f) Never seen in the Caf\u00e9 de la R\u00e9gence, seldom in Simpson's Divan.\n",
+        "16. Qd2 Qe8 17. Kd1 Nd7 18. Nc3": "(g) The flag of distress.\n",
+        "18... Rb8 19. Rb1 Nb6 20. Na4 Bd7 21. b3 Rg8 22. Rg1 Kc8": "(h) Exquisitely played.\n",
+        "23. Bb2 Qf8 24. Kc1 Be8 25. Bc3": "(i) It is difficult to imagine a more deplorable situation than poor White's at this point.\n",
+        "25... Nh8 26. b4 Bd8 27. Qh6": "(j) The ingenuity of despair.\n",
+        "27... Na8": "(k) Black has now an irresistible game.\n",
+        "28. Qf6 Ng6 29. Be5 Be7 30. Nc5": "(l) High praise is due to White for the pertinacity with which he struggles to lose a piece.\n",
+        "30... Kd8": "(m) At this point Mr Endon, without as much as 'j'adoube,' turned his King and Queen's Rook upside down, in which position they remained for the rest of the game.\n",
+        "31. Nf1": "(n) A coup de repos long overdue.\n",
+        "31... Bd7 32. Kb2 Rh8 33. Kb3 Bc8 34. Ka4 Qe8+": "(o) Mr. Endon not crying 'Check!,' nor otherwise giving the slightest indication that he was alive to having attacked the King of his opponent, or rather vis-\u00e0-vis, Murphy was absolved, in accordance with Law 18, from attending to it. But this would have been to admit that the salute was adventitious.\n",
+        "35. Ka5 Nb6 36. Bf4 Nd7 37. Qc3 Ra8 38. Na6": "(p) No words can express the torment of mind that goaded White to this abject offensive.\n",
+        "38... Bf8 39. Kb5 Ne7 40. Ka5 Nb8 41. Qc6 Ng8 42. Kb5 Ke7": "(q) The termination of this solitaire is very beautifully played by Mr. Endon.\n",
+        "43. Ka5 Qd8": "(r) Further solicitation would be frivolous and vexatious, and Murphy, with fool's mate in his soul, retires.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/murphys-chess-game-http-gameknot-com?gm=43372",
+    "gameName": "Murphy's chess game, http://gameknot.com/",
+    "players": "Murphy (white) vs. Mr. Endon (black)",
+    "opening": "Hippopotamus defence (B00)"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6": "black chooses to play his pawn. Why noty his Knight to e7? rRule 1: play your knights first. Rule 2: Be careful about making pawn moves, especially at the bebginning of the game. This pawn move would latyer on in the game put Black King in a dangerous position.",
+        "5. a3 Bf8": "Bishop going back to f1, Black loses tempo. Black should have prepared to castle on that side instead. Bishop needed to take the Knight",
+        "6. Nf3 Qd7 7. Bd3 Nc6 8. O-O Bb7 9. Qe2 O-O-O": "is this a good move?",
+        "10. Ba6": "I think White is a bit too quick to start an attack here. ",
+        "10... Nh6": "Knight to h6!! I think Black knight needed to be on e7. ",
+        "11. Bg5 Be7 12. Bxb7+ Kxb7 13. Bxe7 Qxe7 14. b4": "Pawn to b4. At last!",
+        "14... Nf5 15. Rfd1 h5 16. Na4": "Black didn't see the check here, or he just ignored the threat. Ka8 would have been a better move.",
+        "16... g5 17. Nc5+ bxc5": "why not Ka8?!",
+        "18. Qb5+ Kc8 19. Qxc6": "Black lost a knight. Not looking good for black....",
+        "19... c4 20. Qa8+ Kd7 21. Qxa7 g4": "Good move but Rook to a8 would be a far dangerous threat",
+        "22. Qa4+ Kc8 23. Ne1 h4 24. Qa6+ Kd7": "white needs to keep the pressure on....\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/59th-gk-tournament?gm=25243",
+    "gameName": "59th GK tournament",
+    "players": "rdevault (2008) vs. niubo (1808)",
+    "opening": "French (C16), Winawer, advance variation"
+}

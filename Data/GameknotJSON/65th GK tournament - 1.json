@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6": "Slav defense",
+        "3. Nc3 Nf6 4. Nf3": "not the usual line but going to Slav defense main line",
+        "4... e6 5. Bg5": "I like to solve the black bishop issue this way",
+        "5... h6 6. Bxf6 Qxf6 7. e3 dxc4": "Black decides - I don't want the center",
+        "8. Bxc4 b5": "Black decides to solve the white bishop issue - but destroying the pawn structure for a suitable place for your bishop?!?",
+        "9. Bd3 Nd7 10. Qc2": "Semi opened flank - some would say not so good I would say so far so good",
+        "10... Bb7 11. Ne4": "It is time to send the queen home",
+        "11... Qd8 12. O-O": "Development part 1 done - next rooks and taking over the center",
+        "12... Be7 13. Rfd1": "Due to the course of the game it would have been better for the A-flank rook to take this spot but the basic idea is F-rook to D and A-rook to C",
+        "13... f5": "I once read - don't send a pawn to do the man's work, they can't go back",
+        "14. Ng3": "Well look at those clumsy knights pinned to the king's pawns - or are they ",
+        "14... O-O": "Finally the black finishes development",
+        "15. Ne2": "Look the way the knights with the pawns control the black center squares - the black pawns can go no further",
+        "15... Qc7": "X-ray lesson #1 - never leave your queen X-rayed",
+        "16. Bxb5 Bd6": "I don't care about pawns I am going to mate",
+        "17. Bc4": "Pointing out the black e6 weakness and more important pointing out the pointless black attack ",
+        "17... Rae8 18. a3": "That black bishop dilemma - I can't mate I can't go anywhere else ",
+        "18... Nf6": "X-ray lesson #2 - never leave your King X-rayyed",
+        "19. Qxf5 Nd5 20. Qh3": "Although it seems the Queen is cornered it still watches the crucial squares - the week pawn on e6 and defends the knight on f3 ",
+        "20... Rf6 21. e4": "as I mentioned before - the black left the center for the white, so it was time to seize it",
+        "21... Nf4": "well not the best spot, because soon it will be gone and cause the black more problems",
+        "22. Nxf4 Rxf4 23. e5": "The week e6 pawn determines the faith of the black - there is not good place for the bishop, nor for the rook, the black's pawn structure is gone and the black decides it is enough"
+    },
+    "url": "https://gameknot.com/annotation.pl/65th-gk-tournament?gm=28611",
+    "gameName": "65th GK tournament",
+    "players": "goikoetxea (1590) vs. arnihilator (1654)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

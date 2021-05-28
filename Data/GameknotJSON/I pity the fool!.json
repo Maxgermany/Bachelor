@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. Nc3": "I had white pieces and started with Nc3, a very flexible move.",
+        "1... e5": "e5, probably the best move in this position.",
+        "2. e4 Nc6 3. Bc4 Nf6 4. Nf3": "The game has transposed to Italian opening.",
+        "4... d6": "d6, not the best move, instead of d6, Bb4, Bc5 or Be7 could be played, so that black could castle in the next move. Additionally, black can also try Nxe4, Nxe4 and d5, forking white's knight and bishop, after Bd3, dxe4, and Bxe4, the game would be equalized. ",
+        "5. Ng5": "Ng5, threatening Nxf7 or Bxf7. The best move in this position would be d5. Yes, black would move the same pawn again, but still, d5 is definitely better than the move he played.",
+        "5... Ng4": "Instead of d5, black foolishly played Ng4. This move is a total blunder! See if you can find the best continuation for white.  ",
+        "6. Bxf7+": "The correct move is Bxf7+. Yes Nxf7 would still be winning for white, however, after Bxf7+ we have a forced checkmate. ",
+        "6... Ke7": "Ke7. If Kd7 was played, we would have Qxg4+, Ke7 and Nd5#. Therefore, black desperately tried Ke7.",
+        "7. Nd5+": "Nd5+. Unfortunately, there is no escape for black king. ",
+        "7... Kd7 8. Qxg4#": "After Kd7 we have Qxg4#. I pity the fool! Well, that's all, I hope you enjoyed this annotation and please leave your comments. I wish you good luck with your games and see you next time. "
+    },
+    "url": "https://gameknot.com/annotation.pl/i-pity-the-fool?gm=60404",
+    "gameName": "I pity the fool!",
+    "players": "superlalulalu  vs. Anonymous  ",
+    "opening": "Dunst (Sleipner,Heinrichsen) opening (A00)"
+}

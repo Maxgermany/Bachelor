@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4": "An invitation to the London System. You don\u00b4t see it much in high-level chess, but GM Miles played it many times. It is solid, the burden of theory is not too overwhelming, and it has quite a bit of venom if Black plays in a careless manner.",
+        "2... Nf6 3. e3 e6 4. Nd2 Nc6": "My opponent takes the \"Chigorin-approach\" to the opening. It doesn\u00b4t really challenge the White centre, but it is quite solid.",
+        "5. Ngf3 Bd6 6. Bg5": "White has wasted a tempo by playing Bf4 and now Bg5, but the position is rather closed, and exchanging Bishops on d6 only helps Blacks development. An alternative could be 6. Bg3. After 6. - Bxg3 7. hxg3 White has a nice half-open file for the Rook, but there is not much advantage in that as long as Black hasn\u00b4t castled short.",
+        "6... Bd7 7. c4": "This is not the standard pawn move in the London System, but since Black didn\u00b4t choose to challenge the centre with a move like c7-c5, I think this is the most active continuation for White.",
+        "7... dxc4 8. Bxc4 h6 9. Bh4 a6": "Black could also try to go \"all in\" with a move like 9. - g5!? The strategy then would be exchange of dark-squared Bishops on g3 and 0-0-0, leading to a complicated middle-game.",
+        "10. O-O O-O 11. a3": "Keeping the c6-Knight away from b4. I think the next move is a waste of time.",
+        "11... Na5": "(?!)",
+        "12. Bd3 Be7 13. Rc1 Nc6 14. Bb1": "Maybe my memory deludes me, but I think this maneouvre (Ra1-c1 and Bd3-b1) was something Bobby Fischer was fond of. The Bishop is safely tucked away, and it is a constant threat to to square h7. Perhaps that kind of simple strategy works better in blitz though ...",
+        "14... Nd5": "My opponent decides to get rid of the \"London-Bishop\". Probably a good choice. His position is solid enough, but there are some potential weaknesses in the horizon: Square c7 and the beautiful Knight on d5 which can be chased away with a e3-e4 thrust.",
+        "15. Bxe7 Qxe7 16. Re1 Rac8": "(?) Wrong Rook! I think 16. - Rfc8 followed by 17. - Rab8 would have sealed the Q-side pretty well.",
+        "17. Ne4 Rcb8 18. Nc5": "In a few moves White has grabbed the initiative. Now the central Pawns start moving, and the Knights start dancing ...",
+        "18... Nf6 19. e4 Rfd8 20. Qc2": "Threating 21. e5 and 22. Qh7 .",
+        "20... e5 21. d5 Na7": "Now one of Blacks Knights are out of play, and White wins the important e5-Pawn.",
+        "22. Nd3 c6 23. Nfxe5 a5 24. Nc4": "The Pawn on e4 has re-gained it\u00b4s mobillity, and the threat on h7 persists.",
+        "24... b6 25. d6 Qe8 26. Nf4 Nh7": "GM Bent Larsen once commented that with a Knight on f8, you can\u00b4t get mated! I guess that is where this Knight is heading for, but Whites central Pawns are travelling too fast.",
+        "27. Nd5": "(!) The Knight on d5 can\u00b4t be taken, since it will cost the Black Queen for Rook and Knight. Whites attack is too strong for this kind of exchanges.",
+        "27... Nc8 28. e5 g6 29. Nc7 Qf8 30. e6 Qg7 31. e7": "The d- and e-Pawns have almost reached the \"goal-line\" with the help of the Knight-pair. The game is over, but Black fought on for some more moves. And why not? Errors could still be made!",
+        "31... Nxe7 32. dxe7 Rdc8 33. Na6 Nf6 34. Nxb8 Rxb8 35. Rcd1 Nd5 36. Rxd5 cxd5 37. Nd6 Be8 38. Qc7 Ra8 39. Qb7": "39. Qd8 is an alternative, but almost everything wins.",
+        "39... Kh7 40. Qxa8": "And Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/28th-gk-tournament?gm=2257",
+    "gameName": "28th GK tournament",
+    "players": "ybrevo (1953) vs. latur (1795)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

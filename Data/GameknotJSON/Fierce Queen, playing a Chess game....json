@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Ne2 g6 3. Ng3 Bg7 4. Be2 e6 5. O-O Ne7 6. d3 O-O": "both players have reached their preferred positions...",
+        "7. Nd2 b5 8. Nf3 f5": "Black is taking as much space as possible...",
+        "9. exf5 Nxf5 10. Ne1": "Whites' Knights are working really hard: not sure why...",
+        "10... d5": "still taking up space...",
+        "11. c3 Nc6 12. Rb1 e5 13. Kh1 d4": "anything goes: White is occupied in a strange dance...",
+        "14. Kg1 a5 15. Kh1 Bb7 16. Ne4 b4 17. c4 Qe7 18. Bf3 a4 19. Bg5 Bf6 20. Bxf6 Rxf6 21. Nxf6+ Qxf6 22. Bd5+ Kg7": "by now, White is out of tricks and play: it is Blacks' turn...",
+        "23. b3 axb3 24. Qxb3 Ra3 25. Qc2 Na5 26. Bxb7 Nxb7 27. Rb3 Qa6 28. Nf3 Kf6": "Black is not buckling: White is getting in trouble...",
+        "29. Re1 Rxa2 30. Rb2 b3 31. Qxb3 Rxb2 32. Qxb2 Nbd6 33. Nxe5": "greedy: this will not help White...",
+        "33... Qa5 34. Rf1": "following a strange plan: Ra1 was way better, but Black is about to trade Queens; and Ne5 is all of a sudden very lost...",
+        "34... Qb4 35. Qc1 Kxe5": "restoring the material balance...",
+        "36. Qg5 Nf7 37. Qg4 Kf6 38. Qf4": "searching for ways, to trap the Black King: trying to prepare g2-g4, to no avail...",
+        "38... Kg7": "in this postion, White timed out: Black has still 4:57 on the clock..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-playing-a-chess-game?gm=64161",
+    "gameName": "Fierce Queen, playing a Chess game...",
+    "players": "ltjk_2000 (1593) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B20), Keres variation (2.Ne2)"
+}

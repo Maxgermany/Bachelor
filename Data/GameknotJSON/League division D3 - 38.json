@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "Choosing the Sicilian dragon.",
+        "2. Bc4": "A very anti-sicilian move",
+        "2... Nc6 3. Nc3 Ne5": "This was a lame move. Obviously, my opponent sees the threat on the bishop. A better move would be e6 blocking the f7 square and setting up a possible d5 pawn thrust. Also, by moving my knight, I not only lost pressure on d4 but also encouraged white to move to d4 putting pressure on my wayward knight.",
+        "4. Bb3 Nf6": "When I was playing this game I thought this looked okay because it looked similar to the Yugoslav attack with the noteworthy exception that my opponent was not playing the Sicilian dragon. Such Naivete.",
+        "5. d3": "My opponent is starting to take control of the center.",
+        "5... e6": "Finally, the move I should have done 2 turns ago. Too late now.",
+        "6. Bg5 h6": "This is a weeker move that Be7. Correct me if I'm wrong chess experts, but I believe h6 weekens the pawn structure should I decide to castle on kingside while the Be7 provides the same pin-break without troubling the pawns.",
+        "7. Bh4": "Case in point, the pin is still there despite h6.",
+        "7... Be7": "This is now the second time I have made a decent move but a turn or two late. You will see how much it will cost me.",
+        "8. f4": "Now this is where things start to turn bad. It is also, where I started focusing all my energies to get out of this jam. ",
+        "8... Ng6": "Here I thought, Ng6 could lead to chasing away the bishop and provide a good defense should the pawns come forward. I believe a better move would have been to move him back to c3. It would have at least opened up space on the kingside.",
+        "9. Bg3 d6 10. Qe2 d5": "My bid to start to control the center.",
+        "11. e5 Nd7 12. Nf3 Nb6 13. a3 d4 14. Ne4 f5": "I feel like this was one of my first decent moves in the game. I made a good step at controlling the center here while the en passant means he gave up a key central square that was really annoying me. The downside was that it weekened my kingside. In retrospect maybe I should have worked on castling.",
+        "15. exf6 e.p. gxf6 16. Nh4 Nxh4 17. Bxh4 f5": "I loved this move attacking 2 pieces at once. I really thought that at this point I had gotten out of a bad jam.",
+        "18. Bxe7 Qxe7 19. O-O-O fxe4": "I was so ambitious to take the knight and the lead that I didn't take much time to consider that Bd7 and queen-side castling might have been the safer option as my opponents king was safe from harm.",
+        "20. Qxe4 a5 21. Rde1 Kd8 22. c4 a4 23. Bd1 h5": "To stop that bishop from tripleteaming the pawn from the other side of the board.",
+        "24. f5 e5": "Didn't have much of a choice here. I had to keep that pawn alive to blockade the e-file. I assumed he would just trade queens. I suppose I could have checked his king with Qg5  and then tried taking the f4 pawn with mine and the queen would provide cover. Probably would have been the better move.",
+        "25. Kc2 Nd7": "I've commited myself to that pawn now.",
+        "26. g4 Nf6 27. Qg2 Rg8 28. h3 Ra6": "I wanted to activate that Rook somehow. Rh2 would have at least protected the pawn and allowed me to release the bishop. I think I rushed through these moves more than I should have.",
+        "29. g5 b6": "The goal was to fiachetto the bishop to attack the queen. Bad move because it isolated my rook from any action whatsoever. Terrible! ",
+        "30. h4 Bb7 31. Bf3": "Ok, so I fianchetto the bishop and then when he blocks with his bishop I don't have the guts to take him. Being up by a bishop, I definitely should have taken him at this point. How many blunders have I had in this game so far\u2026don't answer that. I've lost count by this point. ",
+        "31... Bc8": "Laughable, I just wasted 2 moves, no really, 3 moves. Still not out of it yet though. At least in my mind.",
+        "32. Bc6 Bxf5 33. Qh2 Ne8": "Ng4 would have been much better here. It would have done the double task of attacking the queen and protecting the e4 pawn. This was my last (and fatal) blunder. Had I made the Ng4 move, I think that I might have been still in the game, although clearly still at a positional disadvantage despite my 2 point lead.",
+        "34. Rxe5 Be6 35. Rhe1 Nc7 36. Re5xe6 Nxe6 37. Qb8#": "So, skeeterss0, if you're reading this, good game. You made less mistakes than me, and fully deserved your win! And that, my friends is how NOT to play 1.e4 c5 2.Bc4..."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3?gm=15003",
+    "gameName": "League division D3",
+    "players": "skeeterss0 (1298) vs. jwilb2514384 (1433)",
+    "opening": "Sicilian defence (B20)"
+}

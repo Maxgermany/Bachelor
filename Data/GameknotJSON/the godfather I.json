@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "tournament base, heil to the sicilian,...",
+        "6. Bg5": "my favorite attack",
+        "6... e6": "excellent defense",
+        "7. f4": "offensive answer",
+        "7... Bd7 8. Qf3 Qc7 9. Bd3": "i don't think I could have been more offensive than these moves. Maybe g and h pawns could have progressed too.",
+        "9... Nc6 10. Nb3": "At that time, I preferred to keep the complexity of the game, and avoid the exchanges of minor pieces.",
+        "10... Be7": "preparing the king side castle. But, was it a good idea?",
+        "11. O-O O-O": "to my opinion, the black king is seriously exposed, even without counting the mistakes black will make",
+        "12. a3": "before attacking on the king side, i wanted to avoid the Nb4 move.",
+        "12... b5": "and black is obviously interested in this side of the game.",
+        "13. Qg3": "threatening genuinely Bh6.",
+        "13... Kh8 14. Qh3": "real goal. Now, if Kg8, I have gained a tempo",
+        "14... h6": "serious mistake!",
+        "15. Bxh6": "after short calculation, this leads to a forced win.",
+        "15... gxh6 16. Qxh6+ Kg8": "forced",
+        "17. e5": "threatening Qh7 mate, black cannot lose the knight. So, 17 ... dxe 18. fxe Nxe5 (if Qxe5, then 19. Rxf6 followed by mate on h7) 19 Rxf6 Nxd3 20. Rf3 and black is forced to lose the queen to avoid mate on g3."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-godfather-i?gm=39107",
+    "gameName": "the godfather I",
+    "players": "thitho (1753) vs. centerctrl (1626)",
+    "opening": "Sicilian (B96), Najdorf, 7.f4"
+}

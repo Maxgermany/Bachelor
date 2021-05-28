@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nOperation Joblock has resulted in another Expert Draw for me.   Dongoodman has kindly commented on my previous annotations so I thought it would be nice to challenge him.  The endgame worked out well.  I believed I was able to lock him out so I offered him a draw and he accepted it.  So how did this happen?  We pick up the action on Move 5 where I castled short.  The opening is a Ruy Lopez Exchange Variation.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O": "5. 0-0 - Nxe5 will result in Qd4 winning back my e4 pawn as my knight must move from e5 to avoid being taken.  I am now threatening Ne4 because if the Wicked Witch of the West does try the fork trick then she will be pinned to her other half by my rook on e1 and lost.  Black now backs up the e5 pawn with Bd6.",
+        "5... Bd6 6. d4 exd4 7. Qxd4": "7. Qxd4 - pawn trade.",
+        "7... f6 8. Be3 Ne7 9. Nbd2": "9. Nbd2 - the last few moves have been spent developing my pieces and clearing the decks on the back row.",
+        "9... O-O 10. Nc4 Ng6 11. Nxd6 cxd6": "11. ..... cxd6 - straightening out the queenside pawns but removing the bishop pair.",
+        "12. Rad1 Qe7 13. Qxd6 Qxe4": "13. ...... Qxe4 - another pawn trade.",
+        "14. Qc5 Be6 15. Rd4": "15. Rd4 - forcing a queen trade.",
+        "15... Qf5 16. Qxf5 Bxf5 17. c3": "17. c3 - this pawn moves out of the line of ecclesiastical fire and brimstone from black's dsb.",
+        "17... Rfe8 18. h3": "18. h3 - to prevent a move such as Bg4 should my rook have to move off the 4th rank.",
+        "18... Rad8 19. Rfd1 Rxd4 20. Rxd4": "20. Rxd4 - rook trade.",
+        "20... Ne7 21. c4": "21. c4 - to prevent Nd5.",
+        "21... Be6 22. b3 Nf5 23. Re4 Nxe3 24. Rxe3": "24. Rxe3 - now Fou Lenoir loses his life for the black knight.  What now?",
+        "24... c5": "25. ...... c5 - aiming to keep my pawns on light squares so that they will be vulnerable to attack from black's lsb.",
+        "25. Kf1 Kf8 26. Ke2": "26. Ke2 - Henry comes to the centre to prevent ingress of the black rook into my position via the d column.",
+        "26... b6 27. Kd2 Kf7 28. g4": "28. g4 - the start of a kingside Joblock.",
+        "28... g5 29. Nh2": "29. Nh2 - a queer looking placement for the knight but this is to support my kingside pawns should black try a pawn break down the h column.",
+        "29... Rb8 30. Rc3": "30. Rc3 - a subtle, flexible move.  Should black try a pawn break down the queenside, my rook will go to c2 and aim to prevent ingress down the a or b column should there be a pawn trade or two.",
+        "30... h5 31. f3": "31. f3 - the pawn break has come like I thought it would.  I refuse to take the temporary sacrifice because it will allow the BR some ingress down the h column.  Time to bolt the door and offer a draw - my opponent accepted so my gameknot profile now reads 1 Master Draw and 10 Expert Draws.  Nice.",
+        "31... f5 32. Ke3 Rh8 33. Rc2 Kf6 34. Rg2": "34. Rg2 - I believe this move to be very flexible and versatile.  It certainly adds protection to g4 and protects the knight on h2.",
+        "34... b5 35. cxb5": "35. cxb5 - forced.",
+        "35... axb5 36. Kd3": "36. Kd3 - so Henry rushes a la John McEnroe to the other side of the Court!",
+        "36... b4 37. Rc2 hxg4 38. hxg4": "38. hxg4 - forced.",
+        "38... Rh3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-joblock-at-work?gm=30800",
+    "gameName": "The Joblock at Work",
+    "players": "jstevens1 (1802) vs. dongoodman (2033)",
+    "opening": "Ruy Lopez (C69), exchange variation, 5.O-O"
+}

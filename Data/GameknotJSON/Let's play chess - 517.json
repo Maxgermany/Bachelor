@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. c4": "This move has been played against me a couple of times recently and though at first I was a bit taken aback I rather like playing against it now. Symmetrical English positions aren't usually my happiest hunting ground but with e4 systems I really quite enjoy them",
+        "2... Nc6 3. b3": "This is a first. I certainly doubt that White will get any edge as a simple Botvinnik set up by Black with d6 and e5 keeps both of White's bishops restricted here. That said, White isn't exactly losing either",
+        "3... e5 4. Bb2 d6 5. Nc3 f5 6. exf5": "This is rarely good in these English structures. A general rule is to maintain the tension with d3 with whoever either captures and resolves the position first normally having the inferior pawn structure. By playing exf5 the backward White d pawn is a bit more vulnerable and Black gains activity for his pieces.",
+        "6... Bxf5 7. d3 Nf6 8. g3 Be7 9. Bg2 O-O 10. Nd5": "This feels wrong. White is lagging in development and his king is very liable o get caught in the middle or the f pawn getting attacked if he wastes tempi",
+        "10... Nxd5": "With the idea of improving both the rook and bishop. The fact that White's bishop gets centralised isn't too relevant as if the knight develops before the bishop retreats to g2 then Bh3 and Bg5 cement the White's king in the exposed centre.",
+        "11. Bxd5+ Kh8 12. Ne2": "As just said this moves gives the king some problems",
+        "12... Bh3 13. f4": "Very anti-positional as opening the e file just makes White's defensive task harder. No moves look much better though with Qc2 running into Nb4 and Qd2 into Bg5, f4, Bh6 with pressure. It's very hard to find a means to coordinate the White pieces at this point.",
+        "13... Nd4": "Not exf4 which although opening a central file gives the dark bishop more mobility than it deserves. This can be played at a more favourable time if the opportunity presents itself",
+        "14. fxe5": "This isn't good either as the d3 pawn is now very weak in the long term and more importantly the rook on f8 is potentially going to cause havoc on the open file that can;t be contested.",
+        "14... dxe5 15. Bxb7": "Grabbing a bit of material compensation might be best but an open position is only ever going to favour the side with developed pieces.",
+        "15... Bg5": "Offering the exchange. White wisely declines as Bxa8, Qxa8, Rg1 where Nf3+ looks promising picking the exchange back up but in fact Qf3 wins on the spot. ",
+        "16. Nxd4": "Not a good alternative to declining the exchange though. The open e file wont be consolable",
+        "16... exd4 17. Be4 Qf6": "White has too many problems. Neither rook can get involved and the b2 bishop is a spectator. Here are a few lines to demonstrate the difficulties:\r\n\r\n1. Qc2, Be3, Bc1??, Qf1+!, Rxf1, Rxf1+, Ke2, Rf2+ picking up a clear rook as the king can't get to the queen (Kd1, Bg4+) \r\n\r\n2. Qc2, Be3, Bxa8, Rxa8, and the king can't flee to the queenside now because Qf3+ can always meet Kd1. Without this resource Black can just play Re8 and pick the king off. \r\n\r\n3. Qe2 fails to Bg4! (Qh6 with the idea of Be3 and Rf2 isn't clear as Bxa8 buys White some time in this line and the king may be able to run via d1 to safety) after which Qc2, Rae8, Bc1, Qf3!, Rg1, Bxc1 and there is no defence to both Qf2 and Qe3).",
+        "18. Qh5": "Not exactly putting up resistance",
+        "18... Qf2+ 19. Kd1 Qd2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=37872",
+    "gameName": "Let's play chess",
+    "players": "7ven (1602) vs. quiet_knight (1670)",
+    "opening": "Sicilian (B20), Gloria variation"
+}

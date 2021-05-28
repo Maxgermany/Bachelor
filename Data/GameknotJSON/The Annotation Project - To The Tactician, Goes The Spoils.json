@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Another game from freddy's tourney--This time I am done in by my Tactical Superior.  The preset moves continue essentially to 9th move.",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6 9. Bxg4 e6 10. Nc3 Na6 11. Nf7 Qe7": "I was hoping Black would move 11...Qh4  12. g3  Qxg4  13. Ne5, forking Black's K and Q.",
+        "12. Ne5+ Kc7": "Black is slowly moving the K to safety.",
+        "13. O-O Rd8 14. a3": "Done to keep Na6 from getting to c2.",
+        "14... g6": "White's goal is to keep Black from developing and applying pressure--I think it's safe to say White is failing in this endeavor.  I'm thinking this goes back to my dream of the K and Q fork back on move 11.  I probably should have just taken Rh8 at that point with the N.",
+        "15. Nxe4 Bg7 16. Nc4 h6 17. d3 Kb8": "Black's King has \"castled.\"",
+        "18. Be3": "18. Be3?  This leads to an exchange of Bishops--something White cannot afford.  I was too focused on my development.",
+        "18... Bd4 19. Bxd4 Rxd4 20. Rae1 Nc7 21. Ne5": "White's pieces are developed but there's no real coordination.",
+        "21... Rg8 22. c3 Rdd8 23. Reb1": "It was here I decided I needed a plan (about time).  I wrote myself a note that I would break through Queenside or lose in the attempt.  ",
+        "23... Nd5 24. Rf2 Nf6 25. Bf3": "I can't exchange my other Bishop.  And if Black exchanges N's, my B would be aiming at b7.",
+        "25... Nxe4 26. Bxe4 Qe8 27. b4": "I was hoping for an exchange but Black was not open to that plan.",
+        "27... c4 28. d4": "This may have been an error but I was afraid to give Black an open file to exploit.",
+        "28... Rc8 29. b5": "Continuing my march Queen side.",
+        "29... Rg7 30. a4": "My poor pawns on a4 and b5 go no further...where did I go wrong?",
+        "30... Qg8 31. Rb4 g5 32. f5 exf5 33. Bf3": "With 33 Bf3, I was thinking I could perhaps go to Be2 and then take c4, while disrupting Black's Kingside assault.",
+        "33... g4 34. Be2 g3": "stupid pawn.",
+        "35. hxg3 Rxg3": "Looks like my Rook on f2 isn't going anywhere for awhile.  I've completely lost the initiative now and I'm just reacting.",
+        "36. Bxc4 Qg5 37. Nf7 Qc1+ 38. Rf1 Qxc3 39. Rb3": "At this point, I thought I had Black's R on f3 for my B.  I was feeling pretty good--I failed to notice by poor N all alone on f7  :tears:",
+        "39... Qxc4 40. Rxg3 Qxf7": "A B+N+P for a R--not a good exchange for White--Superior Tactics wins the day.",
+        "41. Rgf3 Qc4 42. Rd1": "I knew one pawn would drop--I decided to save d4.",
+        "42... Qxa4 43. Rxf5": "43...Qxd1+??\n\nI believe the word for this is \"blunder.\"",
+        "43... Qxd1+": "I believe the phrase that applies here is \"ruinous loss of material.\"  Congrats to Joanne as she played well and showed me quite clearly that I will not progress until I become a stronger tactician.  Any and all criticism is welcome."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-to-the-tactician-goes-the-spoils?gm=25133",
+    "gameName": "The Annotation Project - To The Tactician, Goes The Spoils",
+    "players": "untateve (1615) vs. jstevens1 (1792)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

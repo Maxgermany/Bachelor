@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Sometimes in chess you just get hit by a steam engine without really knowing what happened. Where did you go wrong? Where could you do better? I am still puzzled by this game - and very impressed about the way my opponent played it.",
+        "1... Nf6 2. c4 e6 3. Nf3 Bb4+": "The Bogo Indian instead of the \"normal\" Queens Indian. I never had much respect for it, but now I do have!",
+        "4. Nbd2": "Played to avoid the exchange of Bishops on d2. Black can even play his Bishop back to e7, and my Bishop looks a bit silly on d2.",
+        "4... b6 5. a3 Bxd2+ 6. Qxd2": "Good or bad? Black will gain a tempo when he plays Ne4, but this is all well known theory, and White still has a good center and chances on the Q-side.",
+        "6... Bb7 7. e3 O-O": "As Black I would never dream of Bxf3 to destroy the White pawn structure. The Bishop on b7 is too good for that.",
+        "8. Be2 d6 9. O-O Qe7 10. b4 Nbd7": "Blacks position starts to look like a \"Hedgehodge\" without the Bishop on e7. A very solid choice.",
+        "11. Bb2 Ne4 12. Qc2 f5": "And now we have something like a Dutch or Nimzo Indian. The Knight on e4 is very strong, but still I think the position is in dynamic balance.",
+        "13. b5 Ndf6 14. a4 a5": "Very strong! My initiative on the Q-side is dead and gone - now Black can start to work on the K-side. Playing bxa6 would just create more weaknesses.",
+        "15. Ne1 Ng4 16. Bf3": "Of course pawn f3 is not possible because of the fork after Nxe3.",
+        "16... Qh4 17. h3": "Only move - but another weakness on Whites K-side.",
+        "17... Ngf6 18. Nd3 Rae8 19. Rad1 g5 20. d5 e5": "I was about to resign around here. Just compare the Black Knight on e4 with the White Bishop on b2! Blacks Bishop on b7 can always get into play via c8 to comparison.",
+        "21. Nc1 g4 22. hxg4 Ng5 23. Be2 Nxg4": "Computer analysis afterwards showed -4.40 for White in this position. My gut feeling told me to tip over the King and pay respect for the very good play by my opponent. White can just wait for something like Rf6-Rh6 mate or loose material with a depressing endgame."
+    },
+    "url": "https://gameknot.com/annotation.pl/txingalarri-taldea-mini-tournament-i?gm=35952",
+    "gameName": "Txingalarri taldea - mini-tournament I",
+    "players": "ybrevo (2076) vs. arichallan (1895)",
+    "opening": "Bogo-Indian defence, Gruenfeld variation (E11)"
+}

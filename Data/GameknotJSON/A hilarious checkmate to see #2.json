@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. b3": "Nimzo-Larsen attack (aka the baby Orangutan)",
+        "1... e5 2. Bb2": "Flank attack",
+        "2... Nc6 3. c4": "I am a beginner at playing the Nimzo-larsen ",
+        "3... Bc5 4. Nf3": "!? inviting a push pawn",
+        "4... d6 5. Nc3 f5 6. d3 h6 7. e4": "Now I have a English-Botvinnik setup",
+        "7... a6 8. Be2 Bd7 9. Nd5 Nf6 10. O-O Nxd5 11. cxd5 Ne7 12. exf5 Nxf5 13. d4 exd4 14. Nxd4 Qg5 15. Bh5+": "Before he can castle",
+        "15... Kd8 16. Ne6+ Bxe6 17. dxe6 Nh4 18. Qg4 Qxg4 19. Bxg4 Ke7 20. g3 h5 21. Bh3 Nf3+ 22. Kg2 Bd4 23. Bxd4 Nxd4": "I played the opening very lame, I thought.",
+        "24. Rae1 g5 25. g4 h4 26. f4 Rhg8 27. f5 Raf8": "Rokusz does have some endgame skills",
+        "28. Kh1 a5 29. Bg2 c6 30. Be4 Rf6 31. Bd3 d5 32. h3 b5 33. Kg2 Rc8 34. Rf2 Rcf8 35. Rd2 Rb8 36. Bf1 c5 37. Kf2": "Time to march the King into the battle field. This pays off",
+        "37... b4 38. Bg2 Kd6 39. Ke3": "Now, if you did not notice, the battle has come to a standstill. As you can see the board is divided and I could not leave that knight there. Hanging out in my turf! The position needs to be open",
+        "39... Ra8 40. Rxd4": "!!",
+        "40... cxd4+ 41. Kxd4 Ke7 42. Bxd5": "?! Better would be Rc1",
+        "42... Rc8": "!! good move for black",
+        "43. a3 Rc3": "a3 was needed to play",
+        "44. axb4 axb4 45. Ke5 Rxh3 46. Ra1 Re3+ 47. Kd4 Rc3 48. Ra7+ Kd6 49. Rd7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-hilarious-checkmate-to-see-2?gm=19165",
+    "gameName": "A hilarious checkmate to see #2",
+    "players": "freeman8201 (1704) vs. rokusz (1574)",
+    "opening": "Nimzovich-Larsen attack (A01), modern variation"
+}

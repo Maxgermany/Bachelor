@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "Standard.",
+        "1... e6": "A German goes French.",
+        "2. d4": "Book.",
+        "2... d5": "Standard reply.",
+        "3. Nd2": "A passive variation.",
+        "3... Nc6": "Pressuring White's center.",
+        "4. Ne2": "Blocking his position completely.",
+        "4... e5": "Threatening to rip open the center.",
+        "5. exd5": "White plays into Black's hands.",
+        "5... Qxd5": "The heavy artillery is poised to attack White's undefended position.",
+        "6. c4": "Trying to drive the Q.",
+        "6... Nb4": "This move SHOULD have set off loud warning bells for White...",
+        "7. cxd5": "...but it didn't. White should have asked why Black would just hang his Queen.",
+        "7... Nd3#": "That's why. Game over."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-halle-1949?gm=37464",
+    "gameName": "Tournament game, Halle 1949",
+    "players": "Grossner  vs. Budrich ",
+    "opening": "French (C03), Tarrasch, Guimard variation"
+}

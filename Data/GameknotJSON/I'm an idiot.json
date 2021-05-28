@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bg5": "The Trompowsky Attack!  Unusual but perfectly okay.  ",
+        "2... h6": "?!  Not as good as the normal responses: Ne4, e6, or d5.  Still, this forces white to decide what to do with the bishop.",
+        "3. Bh4 g5": "I decide to develop my kingside aggressively.  Perhaps Bg7, d6, and Bf5 are in the cards for me, leading to an interesting kingside presence and then most likely Nd7 and a queenside castle.",
+        "4. Bg3 Ne4": "?!  Wasting time to go after the bishop when I know I should be playing either Bg7 or d6 (or even d5).",
+        "5. Be5": "Also not a very strong move; sure it threatens the rook but white should be developing his pieces.",
+        "5... f6": "?!  This isn't a very good move; it exposes black's kingside significantly.  Better was Nf6 or Rg8.",
+        "6. e3": "Such an innocuous move, when the only thing I had considered at this point was 6. Bg3 Nxg3 where white has a disrupted pawn structure and black can begin development.",
+        "6... fxe5": "??  Loses immediately.  A stupid capture that shows my blindness.  Why?",
+        "7. Qh5#": "Augh!  It's like Fool's Mate, and I fell for it!  Merry Christmas, NN."
+    },
+    "url": "https://gameknot.com/annotation.pl/im-an-idiot?gm=20486",
+    "gameName": "I'm an idiot",
+    "players": "NN  vs. Ethan (1797)",
+    "opening": "Trompovsky attack (Ruth, Opovcensky opening) (A45)"
+}

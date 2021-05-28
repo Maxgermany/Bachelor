@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. g3 d5 3. d3 h6": "I've never seen this before.\nI wonder if he's preparing for g5 or he's worried about me playing Bg5.",
+        "4. Bg2 Bf5 5. O-O e6 6. Nbd2": "I was just reached the standard position for White in the King Indian's Attack.",
+        "6... Bd6 7. b3 c6 8. Bb2": "I usually don't fianchetto both bishops -- probably because I read an opening book once that derided the double fianchetto as \"flashy,\" and it's been hard to overcome that prejudice.",
+        "8... Qc7 9. e4 Bg4 10. h3": "I played this move way too automatically. e5 comes out better for me!\nAfter 10. \u2026 Bxe5; 11. Bxe5 Qxe5; 12. Nxe5 Bxe1; 13. Rxe1, I've gotten a Q+2B for a Q+B+P.",
+        "10... Bxf3 11. Qxf3 dxe4": "I didn't expect him to release the tension this quickly. But maybe he was real concerned about me playing e5.",
+        "12. Nxe4": "Here's a tough question: take back with the pawn or knight. Either way, I probably end up with a pawn on e4. This way, there won't be a knight attacking it. Plus, I've got my minor pieces all developed and I'm castled, and he still is uncastled and has a knight on b8. I decided to trade off one of his developed pieces.",
+        "12... Nxe4 13. Qxe4": "I was about to play dxe4 without much thought, but I decided this gives him fewer choices. He has to castle. Then I'll play Qg4 and see how he can deal with the threat on g7. If he plays e5, I'll challenge it with d4.",
+        "13... O-O 14. Qg4 Be5 15. Bxe5": "I decided to trade off more pieces and head to an ending. I just taught the kids when is a bishop in the ending better than a knight: when there are pawns on both sides of the board and the center is open. So I'll try it out. I don't intend to let the pawn on d4 become a target; I'll play c4 and then d5 to trade off the center pawns.",
+        "15... Qxe5 16. d4 Qf6 17. Rfe1 Nd7 18. c4 Qe7 19. d5 cxd5 20. cxd5": "I'm sticking to the plan of creating a better endgame for me.\nI just taught them a couple of weeks ago that bishops are better than knights when there are pawn islands on both sides of the board and the center is open. Now, I'm thinking that I can also trade pawns and he'll end up with an isolated king's pawn. Another thing I taught them is that it's better to have fewer pawn islands.",
+        "20... Nf6 21. Qe2 e5 22. Qxe5 Qxe5 23. Rxe5 Rfe8 24. f4": "I spent lots of time looking at the variations after \n24. Rxe8   Rxe8\n25. Rd1\nthen just as I was about to move it, I realized that he did lots better with Nxe8. I can't push the d-pawn, and I can't send my rook to c7. So I found this plan B. But I like it because I need to make a move eventually to let my king out. But I don't think he'll take me, because it would un-isolate my QP.",
+        "24... Rxe5 25. fxe5 Nd7 26. e6": "I'm trying to make that passed pawn.",
+        "26... fxe6 27. dxe6 Nc5 28. Bd5": "I've got a trap in mind. Actually, there are lots of traps he might have to deal with because I can move the pawn and check the king.",
+        "28... Re8": "It makes sense. He figures he can attack the pawn three times, and I can only guard it one time -- I won't get my king there fast enough. But I have a plan.",
+        "29. Rc1": "Here's one of the traps he has to worry about. Nd3 is really his only option, and I'm thinking of moving Rc7. That'll let me play e7 with check, still guarded by the rook, and I can attack his queenside pawns.\n \nAnd if he takes the pawn, then his knight is pinned, and I have a second pin ready with Rc8 that leads to a fork.",
+        "29... Nxe6": "I made my last move while I saw he was online, and he took back immediately. I wonder if he hadn't been online if he would've given it more time and seen the trap.",
+        "30. Rc8": "Now I'm going to win the knight, and this looks like an easy endgame.",
+        "30... Kf7": "He's hoping I'll take the knight first.",
+        "31. Rxe8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/is-a-double-fianchetto-too-flashy?gm=23323",
+    "gameName": "Is a double fianchetto too flashy?",
+    "players": "chuckbo (1913) vs. gambiteer300 (1849)",
+    "opening": "Reti (A05), King's Indian attack, Spassky's variation"
+}

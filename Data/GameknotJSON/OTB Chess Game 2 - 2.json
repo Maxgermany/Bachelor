@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "I start off with my usual.",
+        "1... Nc6": "I am almost in unfamiliar territory here since I'm used to seeing 1...e5, as opposed to, 1...Nc6.",
+        "2. Bb5": "Therefore, I stick to what I know and try to transpose this into the Spanish Opening, since as we know, it starts off with 1.e4 e5 2.Nf3 Nc6 3.Bb5.  Given that 1...Nc6 was played, I try to do that.  Now, if I really wanted to, I also could've played 2.Nf3 which did come into consideration.  But, I felt that it was better to try and put some pressure against Tom's Nc6.",
+        "2... a6": "This could still transpose into the Spanish Opening since after 3.Bb5, black often plays this move.",
+        "3. Ba4": "Therefore, I still try to transpose the opening since this is how white retreats.",
+        "3... Nf6": "But, this move, however, stops that since Nf3 is often played.  Well, this move prevents that.  This, however, is where I overlook something.",
+        "4. Nf3": "? That's because in the Ruy Lopez, after 3.Bb5, black often responds with the Berlin Defense.  And, after 3...Nf6, black often castles.  The idea is that after 4.0-0 if 4...Nxe4, white regains the pawn by centralizing his R with 5.Re1.  Well, I am thinking along that same line, but the timing is off, as this move loses a pawn without anything in return.  Better was 4.Nc3, and then after 5.Nf3 it becomes something similar to the Four Knights Opening.",
+        "4... Nxe4 5. O-O": "As noted, I became overly confident with the last move due to the timing being off.  As I was thinking along the lines of 6.Re1 to get the N.  But, Tom stops that by attacking my B.  And, I don't like the position.  Whereas, in a different game I exchanged because it was possible when I was low on time.  The difference here is that I'm not ready to exchange but don't have a choice.",
+        "5... Nc5 6. Nc3": "That's because the only other options were 6.Bb3 or 6.Bxc6.  Now, I overlooked 6.Bxc6 and didn't want doubled pawns on the Q side.  So, I played this.  Where I a little more careful, I would've captured on c6 to double up his pawns. ",
+        "6... Nxa4 7. Nxa4 b5": "As now, Tom gains tempo here.",
+        "8. Nc3 Bb7": "Which gives him a nice spot for his LSB.  And, as we will see which Tom notes in the end, this is starting to become a dangerous position for black because of where the B is placed.",
+        "9. Re1": "So, I try to become sneaky, myself, by centralizing my R.",
+        "9... e6": "But, Tom has an answer to that.",
+        "10. d3": "So, the plan is to complete my development.  10.b3 also came into consideration, but I didn't like the looks of 10...g6 as this allows 11...Bg7, to which, Tom would threaten my Ra1 or Bb2.  Therefore, I felt like it ought to be avoided.",
+        "10... Bb4": "The only problem is his pin on my Nc3.",
+        "11. Bd2": "So, similar to what we see when it's against the Q or K, I break it with my B.",
+        "11... Qf6": "Bringing his Queen into play.  At first, I thought that the purpose was to castle on either side.  But, as it turns out, Tom is going to have a dangerous threat that I'm bound to overlook.",
+        "12. Bg5": "Thinking that Tom might have brought his Q out prematurely, I attack it.",
+        "12... Qg6 13. Bd2": "? And, I keep my N free of the pin.  But, the B would've been better on g5, as this is where Tom's threat becomes nasty.  In fact, although I'm not quite lost yet, Tom now has a big advantage because in order to save the position, I will, at the very least be forced to destroy my pawn structures.  But, it'll only get worse as that's one of the main things that I'm thinking about.",
+        "13... Nd4": "I was really wondering what to do.  As noted, I'm forced to double up my pawns.  That's because of one variation that I considered which doesn't work.  That variation is what happens after 14...Nxf3.  At first, I thought that it was no big deal because of he did that, I'd take back with 15.Qxf3?? and everything is fine.  But, it would not be because of his Bb7 which means that I almost overlooked 15...Bxf3 leaving me a Q for a piece down.  So, I had to double, and then asked myself what I could do to get out of it.  Unfortunately, I made the wrong as there were multiple threats, but I only saw one being the loss of the Queen.",
+        "14. Nxd4": "?? So, I took here thinking that it would get me out of trouble.  That's because my thought was that I was safe and felt comfortable.  But, I was wrong, and to take is a mistake here.  What I forgot is that the B is on the same line as the Q.  This means that I overlooked a bigger threat which is a checkmate.  And, by capturing, Tom can and will mate me on his next move.  The best thing was just to accept the destroyed pawn structure, but even then, Tom is clearly winning.  And, I have to try and figure out what to do to save the position.  But, capturing lost, and a threat like this shouldn't have been overlooked.  Instead, I focused too much on those doubled pawns and overlooked the checkmate.",
+        "14... Qxg2#": "Right after this game, we played one last game.  After that, we both agreed that there was not enough time to play another game.  I played better in the third game but overlooked a threat that also allowed him to checkmate.  So, instead of being at the top, I was at the bottom of my game which is how I missed the important threats.  Or another way of saying it is that I overlooked what this opponent really wanted to do which was to deliver the checkmates after the tournament game. "
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-chess-game-2?gm=62904",
+    "gameName": "OTB Chess Game 2",
+    "players": "Joe (1293) vs. Tom Walsh ",
+    "opening": "KP (B00), Nimzovich defence"
+}

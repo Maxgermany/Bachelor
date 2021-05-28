@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "I consider this move to be weak (Philidor's Defence).",
+        "3. d4 exd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 b6 7. Bc4 Qe7": "The purpose of this Queen sortie I do not know.",
+        "8. Qd2 Nf6 9. f3 O-O 10. O-O-O c5": "A pawn push, often made by weak players. Here, it's definitely a blunder.",
+        "11. Ndb5": "Here's why.",
+        "11... d5 12. exd5 a6 13. d6": "Counterattacking is almost always better than retreating.",
+        "13... Qd7 14. Nc7 Ra7 15. g4 Ne8": "Black exchanges the annoying white knight.",
+        "16. Nxe8 Rxe8 17. h4 Nc6 18. h5 Ne5 19. Bd5 Bb7 20. hxg6": "The h-file is open. That means trouble for Black.",
+        "20... hxg6 21. Qh2 Bxd5 22. Qh7+ Kf8 23. Nxd5 Nxf3": "Another gross blunder, capturing a hanging pawn. Black should be worrying about how to avoid getting mated.",
+        "24. Bh6": "Black is busted.",
+        "24... f5": "A good try, but resistance is futile.",
+        "25. Qh8+": "Taking advantage of the pin.",
+        "25... Kf7 26. Qxg7+": "Black resigns instead of 26. ... Ke6 27. Qf6#"
+    },
+    "url": "https://gameknot.com/annotation.pl/attack-on-the-h-file?gm=47531",
+    "gameName": "Attack on the H-file",
+    "players": "dsfei  vs. reedbello ",
+    "opening": "Philidor (C41), Larsen variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. Nf3": "Can Black's pawn rush overwhelm White before he can create any open lines to attach the king?",
+        "1... e6 2. g3 d5 3. Bg2 Nf6 4. d3 c5 5. O-O Be7 6. Nbd2 O-O 7. e4 Nc6 8. Re1 b5 9. e5": "We've got kind a French Defense with extra queenside pawns against the King's Indian Attack.",
+        "9... Nd7 10. Nf1 a5 11. h4 b4 12. Nf1h2": "Kingside attack versus queenside attack. But when that happens, I usually will give odds to the person who's attacking the side the king is on.",
+        "12... a4 13. Bg5 a3 14. b3": "That should clog up the queenside for me.",
+        "14... Bb7 15. Ng4 Nd4 16. Nxd4 cxd4": "I liked this because it means a knight won't be able to help attack c2. ",
+        "17. Qd2 Rc8 18. Re2 Rc3 19. Bxe7 Qxe7 20. Qf4 Qc5 21. Rc1 Ba6 22. Rd2": "My attack turned out to fizzle, so now I'm just trying to hold him off. ",
+        "22... Rc8 23. Bf1 Rf8": "It's not going to be easy for him to break through.",
+        "24. Bh3 Kh8": "That's a nice move. I was afraid of f6, but being able to play Bxe6+ helped slow down lots of the combinations I saw for him.",
+        "25. h5": "It's been almost all five days since I made this move. Either he's not sure how to break through, or he's getting something really terrific planned.",
+        "25... f5 26. exf6 e.p. gxf6 27. Nh6": "It looks more aggressive than it really is, but I don't have a better place to put it, and I want to give my bishop more room.\n \nThe real problem is I don't see any way I can stop e5, and I'm getting squeezed.",
+        "27... e5 28. Qh4 Bc8 29. Be6": "This was a more difficult decision than it seemed it should be. \nThe good thing about this move is to stop the checkmate after Nf7+, he's going to have to play Qe7 and let me have the pawn on d4. But the pawn doesn't help me all that much. My rooks still aren't in the game, and I haven't traded off any of his attackers. I suspect that I can put up more resistance after Nf5, h6, and Ng7, where he constantly has to worry about Ne6.",
+        "29... Qe7 30. Bxd5 Nb6 31. Be4 Qg7 32. Nf5": "Suddenly, I'm starting to feel okay about this. My queenside was so badly clogged up and my rooks totally worthless as weapons, and I've been hoping I could just block him until either he got frustrated or would give me a draw. And while he couldn't make any progress on that side, I've managed to open up his kingside and start forcing his pieces to come back and defend instead of attack.\n \nI doubt that he'll let me keep that knight. My knight seems a lot more valuable than his knight -- or his bishop now that it isn't threatening my pawn on d3. And I can't imagine that he'll let me play h6 and then Ng7. But if he does trade, maybe I'll be able to play Re2 to e4 to g4 to get a rook into the game. Or the other option might be to play f3 and Rg2 so it supports the pawn attacking the base of his pawn chain on f6.",
+        "32... Bxf5 33. Bxf5 Nc8": "What a wonderful move. \nI know I'm going to have to trade the bishop for the knight. In endings that are clogged like this, the knight is better than the bishop. Also, if I let it live, eventually it'll go to c3, and I'll have to post a rook on a1 while his rooks can roam. ",
+        "34. h6": "But before I trade, I've got to chase the Q off of this file. It feels like he's taking advantage of the open lines more than I am. The other thing this move accomplishes is it introduces some back row mating threats in the future.\n \nOur team is 2-0 in this 2-person match. I'm ahead by a pawn, but it's precarious, and I'm going to have trouble holding on to it. I'll offer the draw while I'm nominally ahead and secure the win for the team."
+    },
+    "url": "https://gameknot.com/annotation.pl/classic-kingside-vs-queenside-fight?gm=23433",
+    "gameName": "Classic Kingside vs Queenside fight",
+    "players": "chuckbo (1903) vs. mikkorepo (1895)",
+    "opening": "Reti opening (A04)"
+}

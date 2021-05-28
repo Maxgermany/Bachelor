@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. f4": "Bird's opening. I don't have much experience in this opening.",
+        "1... e5": "I thought that this was logical.",
+        "2. fxe5 Nc6": "d6 is the book move, but I wanted to get a minor out and start developing.",
+        "3. Nf3": "So does he.",
+        "3... f6": "I considered many variations if he didn't take.",
+        "4. exf6": "But he did.",
+        "4... Nxf6": "In retrospect, I should have taken with the pawn.",
+        "5. e3 d5": "I saw the pin on the Knight, but it didn't worry me.",
+        "6. d4 Bg4 7. Bd3 Qe7": "We both prepare to castle.",
+        "8. O-O Ne4": "A pretty little outpost.",
+        "9. c3 O-O-O 10. Nbd2 Ng5": "Building up pressure.",
+        "11. Nb3 Qf6 12. Nbd2": "Hmmm... I suppose he did that since I could chop on e3 with the Queen.",
+        "12... Bd6": "Preparing for a nice little sac.",
+        "13. Qc2": "Now that the pin is gone, as is a defender, I attack.",
+        "13... Bxf3 14. Nxf3 Rhf8": "I should have taken with my Knight instead.",
+        "15. Nxg5 Qxg5 16. Rxf8 Rxf8 17. e4 Bxh2+": "Now I get perpetual check.",
+        "18. Kxh2 Qh4+ 19. Kg1 Qe1+ 20. Kh2 Qh4+ 21. Kg1 Qe1+ 22. Kh2": "He offers a draw, and I accept, since I don't have enough for another attack. Thank  you for reading! Please rate and comment! Thank you once again, alfil, for this great game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-mating-assault-ends-in-perpetual?gm=41577",
+    "gameName": "A mating assault ends in Perpetual",
+    "players": "alfil56  vs. theancientbeast ",
+    "opening": "Bird (A02), From gambit, Lasker variation"
+}

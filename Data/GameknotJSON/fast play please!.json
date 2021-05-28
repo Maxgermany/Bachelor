@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O": "Thinking of an outright attack to weaken whites defense. So delay the castling and start to push against c5 , a square which white has plenty of influence on.",
+        "8... b5 9. a3 Bb7 10. Bd3 Nc6 11. Nxc6": "Just what the doctor ordred!",
+        "11... Bxc6 12. f3 Rb8": "still holding off castleing and creating more pressure.",
+        "13. Na2": "Whites move surprised me, so I castle..",
+        "13... O-O 14. h4 d5 15. e5 Nd7 16. Bxe7 Qxe7 17. c3 Nc5 18. Qc2 b4 19. cxb4 Ba4 20. Bxh7+ Kh8 21. Qb1 Nb3+": "attack going well,only 1 place to go for white.",
+        "22. Kc2": "now to block diagonal",
+        "22... g6 23. Bxg6 fxg6": "expecting white to advance h5...but moves king?",
+        "24. Kd3 Bb5+": "My Queen needs feeding!!",
+        "25. Ke3 Qa7+": "My very patient Queen gets fed at last!!!\n\nHere are the messages from my opponent..\n\nMoves\t\nChat (3) \t\nNotes\t \nmichael60: you had better moves which would have helped you to beat me\nmichael60: And this move I haven't noticed and it's very good"
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-play-please?gm=43312",
+    "gameName": "fast play please!",
+    "players": "michael60 (1542) vs. martindarcy (1480)",
+    "opening": "Sicilian (B95), Najdorf, 6...e6"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 e6 5. e4 exd5 6. cxd5 a6 7. a4 b6 8. h3 Be7 9. Nf3 Nbd7 10. Bf4": "Alternative variation: 10.Nd2 O-O 11.Nc4 \n",
+        "10... Qc7 11. Be2 O-O 12. O-O Re8 13. Re1 Bf8 14. Bf1 Ne5 15. Nd2 Nfd7 16. Bh2 g5 17. Ra3 Bg7 18. g3": "Alternative variation: 18.Qh5 g4 19.hxg4 Nf6 20.Qh4 Nfxg4 \n",
+        "18... Ng6": "Alternative variation: 18...c4 19.f4 gxf4 20.gxf4 Nd3 21.Bxd3 cxd3 22.Kh1 Nc5 \n",
+        "19. f4 gxf4 20. gxf4 Qd8": "Alternative variation: 20...Kh8 \n",
+        "21. Nf3": "Alternative variation: 21.Nc4 Qe7 22.Bd3 \n",
+        "21... Qf6 22. Qd2 Nh4 23. Nxh4 Qxh4 24. Nd1 Nf6": "Alternative variation: 24...Bd4+ 25.Kh1 Nf6 26.Bg2 Nh5 \n",
+        "25. Nf2 Nh5": "Alternative variation: 25...Kh8 \n",
+        "26. f5 Bd4 27. Bg2": "Alternative variation: 27.Rd3 \n",
+        "27... Qf6": "Alternative variation: 27...Bxf5 28.Rd3          ( 28.exf5 Qxf2+ 29.Qxf2 Rxe1+ 30.Bf1 Rd8 31.Qxd4 cxd4 32.Rd3 Ng7 )     28...Bg6 29.Bxd6 Rad8 30.Rxd4 cxd4 31.Bh2 Rc8 \n",
+        "28. Kh1 Bxb2": "Alternative variation: 28...Kh8 29.Ng4 Qe7 30.Nh6 Ra7 31.Bf3 Nf6 \n",
+        "29. Ng4 Qg7 30. Rb3": "Alternative variation: 30.Nh6+ Kh8 31.Nxf7+ Qxf7 32.Qxb2+ Qg7          ( 32...Qf6 33.e5 )     33.Qxb6 Bxf5 34.Qxd6 Qd4 35.Rae3 Bg6 \n",
+        "30... Be5": "Alternative variation: 30...Bd4 31.Bxd6 b5 32.e5 Kh8 \n",
+        "31. Nxe5 dxe5 32. Rxb6": "Alternative variation: 32.Bf3 \n",
+        "32... f6": "Alternative variation: 32...Ng3+ 33.Kg1 Nh5 34.Rc1 Bd7 35.Rxc5 f6 \n",
+        "33. Bf3 Qf7 34. Bxh5": "Alternative variation: 34.Rg1+ Ng7 35.Qh6 Ra7 36.Rxf6 \n",
+        "34... Qxh5 35. Rg1+ Kf7": "Alternative variation: 35...Kf8 36.Rxf6+          ( 36.Qf2 )     36...Ke7 37.Rh6 Qf3+ 38.Rg2 Rg8 39.Rxh7+ \n",
+        "36. Qg2 Rf8": "Alternative variation: 36...Qh6 37.Bxe5 \n",
+        "37. Rxf6+ Ke8 38. Rxf8+ Kxf8 39. Qg8+ Ke7 40. Rg7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/entrenamiento-maestros-arica-chile?gm=36300",
+    "gameName": "Entrenamiento Maestros, Arica, Chile",
+    "players": "Mondaca, Alfredo (1927) vs. Gutierrez, Jorge ",
+    "opening": "Benoni defence, Hromodka system (A56)"
+}

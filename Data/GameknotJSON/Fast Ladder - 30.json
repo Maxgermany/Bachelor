@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. Nf3": "definitely an opening I'm not used to",
+        "1... Nf6": "my option goes to the most common answer to Nf3",
+        "2. Nc3": "most common are c4, g3 or d4.\n",
+        "2... d5 3. e3 e6": "allowing the B to come to play",
+        "4. a3": "thinking about my B",
+        "4... Nc6": "in this phase I'm putting pieces to play",
+        "5. d3 Bd6 6. Qe2 O-O": "and protecting my K",
+        "7. b4": "according to the game analysis this was a mistake.\nnext moves would be:\n7. b4 a5 8. b5 Ne5 9. Bd2 Bd7 10. a4 Neg4 11. h3 Ne5 12. Rb1 Qe7 13. g4 Nxf3+ 14. Qxf3 Be5",
+        "7... a6 8. e4 dxe4": "e5 was a threat. between retiring the B or the N or reinforcing the defense of e5, I preferred  taking the pawn",
+        "9. dxe4 Ne5": "putting pressure on the N and opening the d rank",
+        "10. Bb2 Bd7": "in here my idea was to limit the action of the N while moving the B to the battlefield",
+        "11. Nxe5 Bxe5 12. g3 Bb5": "funny situation.\nputting pressure on the Q knowing that the N could take the B.\nif the Q moves away I was thinking about exchanging B's with the idea of making castle on the ideal side impossible.",
+        "13. Nxb5": "the error was made",
+        "13... Bxb2 14. Rb1 Be5": "moving away with the B while keeping the pressure on Nb5",
+        "15. Rd1": "the natural attack from white.\nThis is the moment I decide a crazy attack\n\ngame analysis tells me that the way to go would be: \u2026 Qe8 16. f4 Bxf4 17. gxf4 axb5 18. Qxb5 Qxb5 19. Bxb5 Rxa3 20. O-O Nxe4 21. Rd7 Nc3 22. Bc4 b5 23. Bd3",
+        "15... axb5": "sacrificing the Q\n\nthe idea with this ladder games is to be bold on the approach to the game. \n\nIn Team games and Tournaments I would never would try this",
+        "16. Rxd8 Bc3+ 17. Kd1": "White's big error. Rd2 would level things up",
+        "17... Rfxd8+": "from now on things are lost for white",
+        "18. Kc1 Rxa3": "... and I was happy with it!"
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=41051",
+    "gameName": "Fast Ladder",
+    "players": "zonal (1237) vs. nunoasc (1593)",
+    "opening": "Reti opening (A05)"
+}

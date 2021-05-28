@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Vienna game.",
+        "2... Nf6 3. Nf3 Nc6": "And now it is the four knights. Usually it is rather boring, but not in this game!",
+        "4. Bc4 Bc5 5. a3": "?! Probably a bit of a wasted move.",
+        "5... d6 6. d3 O-O": "This is a pretty dull position, hard to imagine how it will change.",
+        "7. Ng5 h6 8. h4": "And... Boom. The 'boring' position is now not so boring.",
+        "8... hxg5": "?? Really bad decision. I thought I'd be okay since my knight prevents Qh5, but it wasn't enough.",
+        "9. hxg5 Bg4": "And... BLUNDER! Allows him to win back his piece.",
+        "10. f3 Nxe4": "No matter what I played, my knight would have to stop defending h5.",
+        "11. dxe4 Bd7 12. f4": "Clearing the way for his queen.",
+        "12... g6 13. f5": "! Strong.",
+        "13... gxf5": "?? Should have created an escape route for my king by moving my rook.",
+        "14. Qh5": "Nothing I can do.",
+        "14... Re8 15. Qh8#": "Well done Jimrocks22!"
+    },
+    "url": "https://gameknot.com/annotation.pl/i-was-crushed?gm=52250",
+    "gameName": "I was crushed!",
+    "players": "jimrocks22 (1265) vs. porcho (1164)",
+    "opening": "Vienna (C26), Falkbeer variation"
+}

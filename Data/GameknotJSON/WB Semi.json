@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O d6 6. c3 Bg4 7. d4 Bxf3 8. Qxf3 exd4 9. Bxc6+ bxc6 10. e5 d5 11. Re1 Ne7 12. Bg5": "Time for safety...",
+        "12... O-O 13. Qd3": " Wasted move I thought, Qg3 better? Nf5 would be the fall back but it's not foolproof...",
+        "13... dxc3 14. Nxc3 Qd7 15. Rac1": "Everything was telegraphed at this stage, so the bishop had to move",
+        "15... Bb6 16. Na4 Ng6 17. Nxb6 cxb6": "Happy with this as long as I get the chain formed....",
+        "18. h3 a5 19. Re2 Rfe8": "Wasn't too worried about this pawn but it had to be stopped....",
+        "20. Rce1 Re6 21. Bd2": "In case of being locked in. ",
+        "21... Rae8": "would f6 have been better....?",
+        "22. f4": "now the threat was here...but I was happy with Nxe5 and swap queens....",
+        "22... c5": "looking at d4 followed by Qd5",
+        "23. f5 Re6xe5 24. fxg6 Re5xe2 25. gxh7+ Kh8 26. Rxe2 Rxe2 27. Qxe2 Kxh7 28. Qe5 d4 29. Qe4+ Kg8 30. Qa8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/wb-semi?gm=59136",
+    "gameName": "WB Semi",
+    "players": "AR (Elm Mount)  vs. BD (Curragh) ",
+    "opening": "Ruy Lopez (C70), Classical defence deferred"
+}

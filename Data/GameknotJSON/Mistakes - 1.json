@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4": "A strong move",
+        "1... d5 2. e3": "Starts to build a line",
+        "2... Nf6": "He strengthens the pawn's defence",
+        "3. e4": "Does this move do anything?",
+        "3... Nxe4 4. Qd3": "Maybe it was to lure him into a trap",
+        "4... Bf5": "Now the board's attention is focused on the knight",
+        "5. g4 Bxg4 6. f3": "A tricky decision to make",
+        "6... Bf5": "He reteats",
+        "7. Qb5+": "A smart move",
+        "7... Nd7 8. Qxb7": "Now white has the upper hand",
+        "8... Rb8 9. Qxd5": "The scores are now level",
+        "9... Ng3": "Black overlooks this move",
+        "10. hxg3 Bxc2": "Black is trying to put pressure behind the pawns",
+        "11. Bc4": "Black's in trouble now",
+        "11... e6 12. Qc6": "Instead white goes to the other side",
+        "12... Rb6": "Putting the queen in danger",
+        "13. Qc5": "!!! Awful Move",
+        "13... Nxc5": "White resigned here"
+    },
+    "url": "https://gameknot.com/annotation.pl/mistakes?gm=39926",
+    "gameName": "Mistakes",
+    "players": "beachdaz (1037) vs. fishyas (1329)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

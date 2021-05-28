@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Hi all! This is the first game from a very exciting league match that I'll be annotating. This game starts with the King's Gambit and develops quickly into a big, powerful attack. Enjoy!\n",
+        "1... e5 2. f4 exf4 3. Nf3 g5": "A standard, if aggressive continuation.\n",
+        "4. Bc4 Bg7": "Also possible is 4...g4!? but I prefer to begin my development.\n",
+        "5. d4": "A logical, thematic move. Black's capture on f4 allowed White total control of the center; not playing this move would be a mistake.\n",
+        "5... h6": "This ugly move is necessary before developing the King Knight, if Black wants to (try to) hold on to his advanced pawns. Not being forced to spend a tempo on this move is one of the advantages of 4...g4.\n",
+        "6. O-O Ne7 7. Nc3 d6 8. Re1 Nbc6 9. d5": "?! I don't like this push as much as I would like e4-e5. The text creates a hole on e5 and gives the Black Bishop pretty much unlimited scope on the long diagonal.\n",
+        "9... Ne5 10. Bb3 O-O 11. Bd2": "For an opening in which White sacrifices a pawn for extra space, his position sure is cramped. He needs to expand on the queenside, but the placement of his Knight and Bishop are preventing the freeing pawn moves he needs.\n",
+        "11... Bg4": "Pinning the Knight, and hoping to induce 12.h3 Bh5 to keep the the Bishop in action yet out of the way of an eventual ...g4 push.\n",
+        "12. h3 Bh5 13. Kf2": "?! This move was really unexpected at the time, but it's actually a kind-of okay way of transferring forces over to the kingside to defend against Black's mounting assault, assuming White uses the next several moves efficiently. I think 13.Rf1 and eventual Kh2 is more straightforward, though. White's already committed to the kingside; he might as well try to get comfy there.\n",
+        "13... Ne7g6": "Perfect spot for this Knight--not only threatening to jump to h4, but also prepared to replace the other Knight on e5 to keep the pressure up. This is the critical moment, now. Black's forces are all prepared to bust open the White position; White's pieces are cramped and misaligned. The attack is on.\n",
+        "14. Ne2": "Unpinning the Nf3 and allowing a g2-g3 push, but...\n",
+        "14... Nxf3": "Black neutralizes the threat of g2-g3.\n",
+        "15. gxf3 Qd7": "The now-isolated h-pawn and the backward f-pawn are Black's new targets. The next several moves are designed to lock White's pieces in the corner where they'll be least effective. Watch how each move forces White's replies; pulling the Rook away from the center and removing the defense of d4 for a powerful check from the DSB.\n",
+        "16. Rh1 Nh4 17. Ng1 Bxb2 18. Rb1 Bd4+": "Mission accomplished. All the defenders have been removed, forces are in place all around the WK, and now the attack can begin in earnest.\n",
+        "19. Kf1 Bxg1": "Normally exchanging a powerful, active piece for a passive one is not a great idea, but in this case Black not only has the chance to eliminate a critical defender, but also wins at least one more pawn by removing the Knight.\n",
+        "20. Rxg1": "If 20.Kxg1? instead, 20...Bxf3 wins another exchange by forking the Queen and Rook.\n",
+        "20... Qxh3+": "We're twenty moves in and the WK really doesn't have much of a castle to speak of anymore. There are an awful lot of pieces leveled at him, but not enough for a forced mate if White plays carefully.\n",
+        "21. Kf2": "The White King must avoid e2 of course, since ...Bxf3+ would win the Queen.\n",
+        "21... Qh2+ 22. Kf1 Nxf3": "The next part of the plan will be to keep the WK on f1 while vacating h2 and maintaining the initiative. In this way, Black will be threatening ...Nh2+! with a discovered attack on the WQ. For as long as he threatens that--which can be a long time, thanks to the misplaced Bb3 that cannot reach the kingside--Black will be able to do as he pleases while White is forced to spend time covering himself.\n",
+        "23. Rg2 Qh1+ 24. Kf2 Qh4+ 25. Kf1": "Mission accomplished. As a bonus, with the Queen on h4, White can no longer play Bxf4 to relieve some of the pressure. Now, with plenty of time and tempo, Black can bring additional forces to bear.\n",
+        "25... Rfe8 26. Qc1": "Breaking the threat of ...Nh2+ and threatening Bxf4, but White's position will be pretty much indefensible once Black's Rooks are doubled on the e-file. 26.c4 or maybe 26.Bc4 might have been a better try.\n",
+        "26... Rxe4 27. Bc3": "A last-ditch effort to create counterplay down the long diagonal, but it is not enough.\n",
+        "27... Rae8": "0-1. This move dashes White's hopes of play along the diagonal--the desired Qb2 is no longer playable, since 28.Qb2?? Re1+! is a simple mate in three. White sees that he has no further prospects--Black is *also* threatening 28...Qh1+ 29.Kf2 Re2+ 30.Kg3 Qh4# There's no adequate defense, and White resigns. Many thanks to mandinko for the great game, and thank you all for reading!\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/party-in-the-white-kings-court?gm=46970",
+    "gameName": "Party in the White King's Court",
+    "players": "mandinko (1616) vs. bwaa (1696)",
+    "opening": "King's knight's gambit (C38)"
+}

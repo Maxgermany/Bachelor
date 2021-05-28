@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 c6 5. Ne5 Bd6 6. f4 Nbd7 7. O-O Qc7 8. c3 b6": "Alternative variation: 8... h5 [Interesante posibilidad de ataque al rey a costa de mantener al rey en el centro.]\n",
+        "9. Nd2 Bb7": "Alternative variation: 9... O-O [Un enroque seguro y prudente.]\n",
+        "10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bg2 O-O-O": "Peligrosa maniobra que deja a las negras en problemas.\n",
+        "14. Qa4 Nd5 15. Qxa7 b5": "La idea de intentar capturar o aislar a la dama es un fantasma. el blanco potenciara y abrira lineas en su beneficio.\n",
+        "16. c4": "Buen rompimiento, aprovechando el tiempo y la situacion de abrir lineas.\n",
+        "16... Bxe5 17. fxe5": "La columna de f del blanco es otra ventaja adicional que aprisiona a las negras sobre el punto f7.\n",
+        "17... bxc4 18. Bd2 Qd7": "Alternative variation: 18... Rd7\n",
+        "19. a4": "tambien es valida esta iniciativa aun que un poco mas lenta.\nAlternative variation: 19. Rac1 [ataque rapido sobre el peon c4 y la columna.]\n",
+        "19... Nc7 20. Bc3 Na6 21. Qb6": "habia alternativas mas directas para abrir lineas e incursinar con las torres en las columnas b o a con:\nAlternative variation: 21. Rab1\nAlternative variation: 21. Rac1\nAlternative variation: 21. b3\n",
+        "21... Rhf8 22. b3 cxb3 23. Rfc1 Qc7": "Alternative variation: 23... c5 [Esta alternativa bastante complicada ayuda al negro un poco. aun que lleva a caminos de complejo calculo.] 24. Bb2 (24. d5 Qc7 25. Qxb3 Bxd5 26. Bxd5 Rxd5 27. Qc4 Qa7 28. Rf1) 24... Bxg2 25. Qxa6+ Qb7 26. Rxc5+ Kd7 27. Qe2 Bf3\n",
+        "24. Qxb3 Kd7": "peligrosa forma de conducir al rey ya que da paso a un golpe tactico fulminante con:\n",
+        "25. Qc4": "Alternative variation: 25. Ba5 Qc8 (25... Qxa5 26. Qxb7+ Qc7 27. Qxa6 [ficha de ventaja y pocision ganadora.]) 26. d5 $1 Ba8 27. dxe6+ fxe6 28. Qd3+ Ke7 29. Bxd8+ Rxd8 30. Qxh7 [decisiva ventaja.]\n",
+        "25... Rdc8 26. Bb4": "Alternative variation: 26. Rab1\n",
+        "26... Nxb4 27. Qxb4 Rfd8 28. a5 Ke8 29. a6 Ba8 30. Qc5": "Alternative variation: 30. a7\n",
+        "30... Qe7 31. Qxe7+ Kxe7 32. Ra4 Rd7 33. Kf2 Rdc7 34. Rac4 Rb8 35. a7": "Alternative variation: 35. Bxc6 Ra7 36. Bxa8 Rbxa8 37. Rc7+ Kd8 38. Rxa7 Rxa7 39. Rc6 Kd7 40. Rb6 Kc7 41. Rd6 $16\n",
+        "35... Rb6 36. h4 Kd7": "Alternative variation: 36... Rb2+ 37. R1c2 Rxc2+ 38. Rxc2 Rxa7 39. Bxc6 Bxc6 40. Rxc6 Kd7 41. Rb6 Kc7 42. Rb3 $11\n",
+        "37. Be4 h6": "Alternative variation: 37... Rxa7 38. Bxh7 g6 39. R1c3 Ra2+ 40. Rc2 Ra1\n",
+        "38. g4 Kc8 39. g5 hxg5 40. hxg5 Kb7 41. Ra4 g6 42. Ra3 Rc8 43. Ke3 Rh8 44. Kf4 Rh4+ 45. Kf3 Kc7": "Alternative variation: 45... Rh3+ 46. Kg4 Rxa3 $18\n",
+        "46. Ra6 Rb4": "Alternative variation: 46... Rxa6 47. Bxc6 Rxc6\n",
+        "47. Rcxc6+": "Alternative variation: 47. Raxc6+ Bxc6 48. Rxc6+ Kb7 49. Ra6+ Kxa6 50. a8=Q+\n",
+        "47... Bxc6 48. a8=Q": "Alternative variation: 48. Rxc6+ Kb7 49. Ra6+\n",
+        "48... Bxa8 49. Bxa8 Rh3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/irt-juvenil-cusco-2010?gm=29885",
+    "gameName": "IRT Juvenil Cusco 2010, ?",
+    "players": "Dante Nu\u00f1ez  vs. Lidver Matheus ",
+    "opening": "Queen's pawn game (D02)"
+}

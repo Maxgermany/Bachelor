@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6": "the Two Knights defense...",
+        "4. Ng5": "the Fried Liver attack (Fischer)...",
+        "4... d5 5. exd5 Na5": "the modern twist: incorrect as hell...",
+        "6. Bb5+ c6 7. dxc6 bxc6 8. Qf3": "the Blackburne Variation...",
+        "8... Rb8 9. Be2": "already, recommended by Steinitz: two centuries or so ago...",
+        "9... e4 10. Qg3": "attacking Rb8...",
+        "10... Bd6 11. f4": "unexpected...",
+        "11... h6 12. Nxf7": "forcing the issue: safer might have been 11. ... 0-0...",
+        "12... Kxf7 13. O-O Qc7": "too aggresive...",
+        "14. c3 Nh5": "losing patience? ",
+        "15. Bxh5+ g6": "losing it alltogether?",
+        "16. Qxg6+": "Black resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/miniature-in-3-10-blitz?gm=65160",
+    "gameName": "miniature in 3+10 blitz...",
+    "players": "fiercequeen (2059) vs. corvanetten (1601)",
+    "opening": "two knights defence (C58), Colman variation"
+}

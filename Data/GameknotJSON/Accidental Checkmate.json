@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 d5": "Black opened with a Norwegian Defense.  Nothing fancy, just wondering if he would fall for it.  White didn't. ",
+        "2. Qf3": "White responded by bringing his Queen out early.  This is his fairly standard opening in all of the games I played against Shane Hill.  He brings out his Queen after moving one of his pawns.  It's week, but effective if played right.  ",
+        "2... Nf6 3. c4 dxe4 4. Qe3 Bf5 5. h3 Nc6 6. c5 Qd5": "As Black, I centralized my Queen at this point.  To prepare the way for an Alekhine Gun. ",
+        "7. b3": "He pushes his pawn.  Not too shabby this early in the game. it kind of makes me sweat, actually because he can Fianchetto his bishop.  However, I continue with my plan.",
+        "7... O-O-O": "By Castling Queenside.  By castling queenside, I gain the open file with my rook -- after all, another amateur stresses -- \"Put your rooks on open files!\"  It also tucks my king away in a secure location.  I was confident about this move.  Usually, I castle king side because I feel better about castling King side.  However, this particular game requires the Rook to be on the d file to own this file.  The quickest way to move it to where I need it is to Castle. ",
+        "8. Nc3": "He moves his knight to challenge my queen, which is a very good move on his part!  But I planned to dodge anyhow.  But not to the right square, I dodge to . . .",
+        "8... Qe5": "... e5.  My King was in the way before I could complete an Alekhine Gun.  Note though, I could never form an Alekhine Gun in any of my games, even though I try too.  The formation is two rooks on one file with the queen backing them up.  However, my games always results differently against this opponent.  However, I am using my rook effectively by castling Queen side.",
+        "9. Nb5 e6 10. Qg3": "Here, Shane moves his queen to g3.  I should have taken the Queen or his rook, I didn't.  I wanted to make sure my rook is centralized. Talk about a missed opportunity. ",
+        "10... Rd5": "But I centralized my Rook.  At this point, White should have taken my Queen.  Free Queen, sitting there.  My queen is a sitting duck, a fair exchange.  Even though I was up a pawn, if White took my queen by Qxe5; then I have to respond with Rxe5 and be down a Queen (7 points).  I would be a pawn up, but still, I would have lost my queen which would make this game longer and much more exciting.",
+        "11. f4": "Instead he challenges my Queen.  Well, I don't have to take his bait so . . .",
+        "11... Qxa1": "I finally ate his Rook. He has deployed only two power pieces on the board, and now I've pinned his bishop to the King.  He could have moved his bishop, but . . . he moved his King. ",
+        "12. Kf2 Bxc5+ 13. Ke2": "After getting him in check, he moved his King out of danger. I can have a free knight if I want it, but no.  I want to punish him a little.  I did think that Qxc1 is the better move.\n",
+        "13... Qxc1 14. Qxg7": "Okay, he knows that it's checkmate in 1 move so he takes a pawn with his queen to distract me.  I panicked!",
+        "14... Qxd2#": "Here, I moved my queen to take his pawn.  Covered by the rook, I made an accidental checkmate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/accidental-checkmate?gm=41273",
+    "gameName": "Accidental Checkmate",
+    "players": "shanehill1 (1045) vs. eltonj (1103)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

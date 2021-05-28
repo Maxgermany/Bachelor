@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e6": "French defense, the computer had been playing French and Caro-kann. ",
+        "2. d4 d5 3. e5": "I decide to advance.",
+        "3... c5 4. c3 Nc6 5. Nf3 c4": "What the hell is this?!",
+        "6. b3": "It seemed like a fine move at the time, and looking at the Gameknot DB, it wins 70%, loses 17%, and draws 11%, being played 17 times.",
+        "6... cxb3 7. axb3 Nh6": "Planning to bring his knight to f5, putting pressure on the d4 pawn.",
+        "8. Bd3 Nf5 9. Bg5": "Threatening the queen, another option is to simply castle.",
+        "9... Be7 10. Bxe7 Qxe7 11. Nbd2 O-O 12. O-O": "Finally we've both castled.",
+        "12... a5": "The centre is closed, so the computer is going to attack from the wing.",
+        "13. Qc2 Bd7 14. g4": "G4. Was it a mistake, or a good move?",
+        "14... Nh4 15. Bxh7+": "That's why I thought it was good.",
+        "15... Kh8 16. h3": "Bad move.",
+        "16... g6": "My bishop is trapped!",
+        "17. Nxh4 Qxh4 18. Bxg6 fxg6 19. Qxg6": "Black's king side is destroyed, and soon mine will be too.",
+        "19... Qxh3 20. f4": "! Black could play for a draw with Qg3+ continual check.",
+        "20... Qxc3": "?? Loses.",
+        "21. Rf3": "!! Wins. Threatening the queen and threatening Rh3#.",
+        "21... Qxa1+ 22. Kg2": "There's nothing black can do to stop Rh3#",
+        "22... Nxd4 23. Rh3#": "CHECKMATE! I love sacrificing pieces to win! Please comment and thanks for reading!"
+    },
+    "url": "https://gameknot.com/annotation.pl/g4-was-it-a-good-move?gm=47785",
+    "gameName": "G4! Was It A Good Move?",
+    "players": "Callum Wilson  vs. Chess Computer ",
+    "opening": "French (C02), advance, Paulsen attack"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Defensa Francesa mal jugada",
+        "1... e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7": "Pienso que esa jugada es muy pasiva. Normalmente se hace f6 o c5",
+        "5. a3 Bxc3+ 6. bxc3 c5 7. Nf3": "Juego a desarrollarme pero teniendo en cuenta que tengo un tiempo de ventaja",
+        "7... Qc7": "quiere enlazar su perdida de tiempo con una jugada supuestamente teorica.",
+        "8. a4": "abriendo espacio a mi alfil negro y ganando tiempo",
+        "8... Nbc6": "en la defensa francesa Cc6 no tiene que esperar tanto para ser jugada",
+        "9. Ba3": "atacando punto debil y buscando diagonales para mi alfil.",
+        "9... cxd4 10. cxd4 Qa5+": "Piensa que gana material",
+        "11. Qd2": "Dxd2, Rxd2, 0 - 0 se puede jugar en igualdad aun rompiendo el enroque del blanco",
+        "11... Qxa4": "NE ne ne ne ne ",
+        "12. Qc3": "Peon envenenado que me posibilita ganancia de pieza inevitable con Da5, Dxa5, cxa5 Axe7 ,Rxe7 y Txa5"
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=29610",
+    "gameName": "Fast Ladder",
+    "players": "rromeroh (1526) vs. flanders (1705)",
+    "opening": "French (C16), Winawer, advance variation"
+}

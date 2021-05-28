@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. b3": "A classic case of mistakes emboldening the enemy",
+        "1... e5": "I opened (as black) with not much attention on the game",
+        "2. e3 d5 3. c4 d4": "I made this move to capture territory, and keep the game in his backfield",
+        "4. exd4 Qxd4": "My queen was brought out into battle too early from my perspective in retrospect",
+        "5. Nc3": "but I conceived a checkmate early if I could hoodwink my opponent",
+        "5... Nf6": "until he threatened my Queen, I would work my Knight into the battle",
+        "6. Qf3": "No matter...",
+        "6... Bg4": "I like my development at this stage - I have momentum, mass and territory",
+        "7. Qxb7": "This move  should have opened the door for me to execute my mate strategy...but I am an idiot!",
+        "7... Qxf2+": "so I did this because I was not paying attention and made my attack one move too early! Silly me. ",
+        "8. Kxf2": "so I got into trouble",
+        "8... Bd6": "and worked hard to get out of trouble, and bring the fight to my opponent ",
+        "9. Qxa8": "sacrificing my Rook in the meantime",
+        "9... O-O": "so suddenly, I am behind on points and behind in development and looking certain to lose although I have a pretty good cadre of soldiers, and might be able to pull off an upset. ",
+        "10. Nd5": "so I have work to do as he develops his attack. I do feel secure behind my castle though, and hope to keep him at bay. ",
+        "10... Ne4+": "depending on his answer to this move, I see a possible mate developing",
+        "11. Ke1": "I have to get my second Knight into the battle with both his escape routes covered",
+        "11... g6": "and create an escape route of my own just in case. ",
+        "12. Qxa7": "This move gave me a great chance to feint an attack on this Queen while I maneuvered to my pending checkmate.",
+        "12... Nc6": "thus",
+        "13. Qa4": "this retreat does not help him and in fact ensures that mate is a real threat",
+        "13... Nd4": "one move to mate...he only has one or two options to escape, but fails to see them",
+        "14. d3": "instead he threatens my knight which allows me to execute ",
+        "14... Nc2#": "checkmate"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-champcv?gm=9932",
+    "gameName": "Challenge from champcv",
+    "players": "champcv (1200) vs. opus692 (1092)",
+    "opening": "Nimzovich-Larsen attack (A01), modern variation"
+}

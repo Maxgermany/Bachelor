@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "My third win in a streak of five",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3": "English attack",
+        "6... e5 7. Nb3 Be6 8. f3 d5 9. exd5 Nxd5 10. Nxd5 Bxd5 11. Bd3 Be7 12. O-O Nc6 13. c4": "I need to get some momentum going.",
+        "13... Be6 14. a3 Nd4": "This will leave him an isolated (but passed) pawn.",
+        "15. Nxd4 exd4 16. Bf2 O-O 17. b4 Rc8 18. c5 Qd7 19. Re1 Bf6 20. Qb1 g6 21. Qb2 Rfd8 22. Rad1 Qc7 23. a4 Be5 24. g3 h5": "He finally gets active.",
+        "25. Kg2 h4 26. f4 h3+ 27. Kf1 Bf6 28. Be4 Bd5": "I thought he was better to just protect his d-pawn.",
+        "29. Bxd4 Bc4+ 30. Kg1 Rd7 31. Bxf6 a5 32. Rxd7 Qxd7 33. b5": "My c-pawn has done its job.  I'm focused on his King now.",
+        "33... Rxc5 34. Bg5 Kh7 35. Bxg6+": "!",
+        "35... fxg6 36. Re7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=57617",
+    "gameName": "Team match",
+    "players": "e4newman (1512) vs. bepawn (1460)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

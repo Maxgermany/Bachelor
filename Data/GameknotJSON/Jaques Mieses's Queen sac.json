@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Played by Jacque Mieses 1865-1954",
+        "1... e5 2. Nc3": "Vienna game",
+        "2... Nf6 3. Bc4": "Attacking the weak f7 square",
+        "3... Nxe4": "Played because 4.Nxe4 5.d5 forking both pieces.",
+        "4. Qh5": "Aggresive move which attacks both f7 and e5 squares.",
+        "4... Nd6": "Attacks bishop and covers the f7 square, but blockade his own d7 pawn.",
+        "5. Bb3": "Keeping the bishop",
+        "5... Be7": "Possibly better is Nc6. But prepares castling.",
+        "6. d3": "Preparing development of bishop.",
+        "6... O-O 7. Nf3 Nc6 8. Ng5": "Finally...",
+        "8... h6 9. h4": "Threathening 9.hxg5 10.hxg5 with mate at h7 with the queen.",
+        "9... Ne8": "??? Locks in most of his pieces",
+        "10. Nd5": "!!!",
+        "10... Nf6 11. Qg6": "!!! Wow...sacrifices a queen for a mating net.",
+        "11... fxg6 12. Nxe7+": "Discovered check and double.",
+        "12... Kh8 13. Nxg6#": "Finishes it off.\n\nHope you enjoyed it"
+    },
+    "url": "https://gameknot.com/annotation.pl/jaques-miesess-queen-sac?gm=23309",
+    "gameName": "Jaques Mieses's Queen sac",
+    "players": "???  vs. ??? ",
+    "opening": "Vienna game (C27)"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Hello. I am a fairly new member to this site (only a few weeks), and I have completed 3 games, and this is the only one with any quality whatsoever, but it is quite boring. (Just so you know, I am rated about 1700 on chess.com, and am about 1600 rated CFC.",
+        "1... c5": "The Sicilian is my usual weapon with Black, and I play the Budapest (1.d4 Nf6 2.c4 e5) against d4. \n",
+        "2. Nf3 d6": "The Kopec variation. Can lead to Dragons (g6) and Najdorfs (a6) and Scheveningens (e6) and Classicals (Nc6)",
+        "3. d4": "The Open Variation, willing to oblidge and let Black choose the variation.",
+        "3... cxd4 4. Nxd4 Nf6": "But before any opening choosing, Black almost always interjects 4...Nf6.",
+        "5. Nc3 a6": "I choose the Najdorf, which I have been playing for a few years now.",
+        "6. Bg5 e6 7. Bd3": "You don't see this move as much as more agressive 7.Bc4, 7.f4 or even 7.Qe2.",
+        "7... Be7 8. Nf3": "?! This just blocks f4, which is common in 6.Bg5 variations, and besides, you shouldn't be moving the same piece twice in the opening unless it's nessecary.",
+        "8... Nbd7 9. h3": "One question - why?",
+        "9... Qc7": "The typical outpost for the Queen, watching over the c-file, and potentially, the h2-b8 diagonal. Part of the point of a6 and e6 was to keep an opposing Knight off d5 and b5 to protect the Queen's square.",
+        "10. O-O b5 11. Re1 Bb7 12. Be3": "?! Moving another piece twice in the opening. The computer likes 12.a4.",
+        "12... Nc5": "c5 is a nice square for the Knight, and if he takes, I get an open file leading to his Queen.",
+        "13. Bxc5 dxc5 14. e5 Nd5 15. Nxd5 Bxd5": "I chose this capture to keep the open d-file.",
+        "16. Be4 Rd8 17. Qe2": "Wisely removing the Queen from my Rook's vision.",
+        "17... c4": "I just had a gut feeling sort of about this move, 17...Bc4 didn't seem right, and 17...0-0 just seemed premature.",
+        "18. c3 O-O 19. Rad1 Bxe4 20. Qxe4 Rxd1": "I offered a draw here, and he accepted. After 21.Rxd1 Rd8, thew position is simplifying. In fact, it is so equal, the computer rates this position as 1/100th of a pawn better for me."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=35593",
+    "gameName": "Let's play chess",
+    "players": "harpknight (1687) vs. chesscanada (1200)",
+    "opening": "Sicilian (B95), Najdorf, 6...e6"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Bf5": "my standard play, against any d4 opening...",
+        "3. Nf3 e6": "always releasing Bf8, with eyes on square b4: possibly preparing an early c5...",
+        "4. Nc3 Bb4": "an always useful pin...",
+        "5. g3": "what can I say? not what I would have played, but this bloke is way above me...",
+        "5... Nf6": "at least preparing castling: we have no fear for Qa4+, Nc6, Ne5, Bxc3+...",
+        "6. Bg2 Ne4": "why not? a free tempo in development for Black: Bb4 is winning in strength and also c5...",
+        "7. O-O O-O": "the position is fairly equal and balanced here: best White can do, is work on development; in stead, he prefers a tricky trade in the center, to release more pieces... ",
+        "8. Nxe4 dxe4 9. Nd2": "not good: better Nh4; already, Black might consider Qxd4; I thought it was too early: after Nb3, things become unclear...",
+        "9... Nc6": "bringing another piece in the equation: safest seems e3, or maybe a3...",
+        "10. Nxe4": "not sure, what to think of this: here is more in the balance for White, than just a pawn trade...",
+        "10... Qxd4": "however, Black has no second thoughts...",
+        "11. a3": "compensating for the threat Bxe4, Bxe4, Qxe4, losing a piece...",
+        "11... Qxd1 12. Rxd1 Be7": "Black has changed the scenery into advantage: White still has to wrap up development, while Black is in full attack mode...",
+        "13. Bf4": "trying too hard, to finish development: safer was first b4 ; after Bf6, Rb1 or Nxf6+...",
+        "13... e5": "simple: but yet very troublesome...",
+        "14. Bd2": "considering Blacks' next move, better Be3...",
+        "14... Nd4": "posing multiple threats:  the most pregnant being Nxe2+, and then back to square d4; but there is more...",
+        "15. e3": "practically forced...",
+        "15... Nb3": "much stronger, than Nc2: no doubt...",
+        "16. Ra2": "the final mistake: after Rb1, things would have been different...",
+        "16... Rad8": "suddenly, all is over: there is no way, to protect Bd2, after Bxe4, so White will lose a piece; he didn't even take the courtesy to resign: he just left the board..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-shutting-up?gm=64130",
+    "gameName": "Fierce Queen shutting up?",
+    "players": "rama38 (2090) vs. fiercequeen (2059)",
+    "opening": "QGD (D06), Grau (Sahovic) defence"
+}

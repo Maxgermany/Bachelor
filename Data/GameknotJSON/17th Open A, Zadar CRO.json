@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2 O-O 9. Be2 b6 10. Nd1 a5 11. O-O Ba6": "This idea is common and works well.\n",
+        "12. Bxa6 Rxa6": "If 13. c3 b5 14. dxc5 Bxc5 and black is ready for the b5-b4 break, and White lacks the power for a kingside attack.",
+        "13. a4": "\n",
+        "13... Ra8 14. Nc3 cxd4 15. Nxd4 Nxd4 16. Bxd4": "Black has reach a good position.  White lacks the power to attack the kingside, and black is ready to play on the C file.\n",
+        "16... Bb4": "Simplifying the position even further.\n",
+        "17. Qe3 Bxc3": "IF 18. Bxc3 Nc5 19. Bd4 Qc8 20. Rf3 Ne4 21. c3 (21. Bxb6 Qxc2) 21... Rb8 and Black has a small plus as he prepares b5. 22. Bxb6 Qa6 23. Bc5 (23. Bd4 Rxb2) 23... Nxc5 24. Qxc5 Rxb2 -/+",
+        "18. bxc3": "A questionable decision because these C pawns will be weak for the rest of the game.\n\n",
+        "18... Nc5": "If 19. Bxc5  bxc5 20. Qxc5 Rc8 21. Qe3 Qd7 [with Rc4 to follow.]  21... Rc4 First is slightly stronger.\n",
+        "19. g4 Rc8 20. f5 Qh4 21. Rf4 Rc6 22. Kh1": "Black has an excellent position.  The c3 pawn is already a serious target.\n",
+        "22... Ne4": "IF 23. Raf1 Rfc8 24. fxe6 fxe6 25. Rf7 h6 and there is no attack.",
+        "23. f6": "\n",
+        "23... Rfc8 24. g5 Qh5 25. Raf1 g6": "Black is winning.  The c3 pawn is dropping.  The kingside is safely closed.  The rest of the game is irrelevant for our purposes.\n",
+        "26. Rg1 Nxc3 27. Rf3 Ne4 28. c3 Rc6c4 29. Qd3 Rxa4 30. Rg2 Ra1+ 31. Bg1": "31. Rf1 instead maintains defense on c3.  31.. Rxf1+ 32. Qxf1 Nxc3 33. Rc2\n",
+        "31... b5 32. Rf1 Rxf1 33. Qxf1 Nxc3 34. Rg3 Qh4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/17th-open-a-zadar-cro?gm=61741",
+    "gameName": "17th Open A, Zadar CRO",
+    "players": "Ante Brkic (2564) vs. Aleksandar Kovacevic (2594)",
+    "opening": "French (C11), Steinitz, Boleslavsky variation"
+}

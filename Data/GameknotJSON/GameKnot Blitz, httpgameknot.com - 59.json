@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. c3 d5": "I'm not familiar with this opening and was already out of my book.",
+        "5. e5 Bg4 6. Bd3 Nxe5 7. Qa4+": "?! I think this move is good for the short term but gets white into trouble in the longterm. ",
+        "7... Nc6 8. Nxd4 Nge7": "?? I just hung my bishop on g4.",
+        "9. Bg5 Bd7": "Black looks very tight right now but is about to push white out of his domain.",
+        "10. O-O f6 11. Bh4 g5 12. Bg3 Bg7 13. Nd2 O-O": "I think black is doing just fine in the position now. ",
+        "14. Qc2 Nxd4": "?! I was banking on him taking h7. If he didn't, c7 would have dropped.",
+        "15. Bxh7+ Kh8 16. cxd4 f5 17. Bxf5 Bxf5 18. Qd1 Bg6": "Covering h5.",
+        "19. f4 gxf4 20. Bxf4 Bxd4+": "!? Losing my tempo for a pawn.",
+        "21. Kh1 Qd7": "Covering g4",
+        "22. Rc1 c6 23. Rf3": "?? Threatening Rh3+ but at an unfortunate cost.",
+        "23... Bh5": "! Victory! I knew how to end this game!",
+        "24. Rh3": "Feels pretty normal. I saw this though...",
+        "24... Qxh3": "! Thinking outside the box.",
+        "25. Nf3 Rxf4": "0-1 26. gxh3 Bxf3+ 27. Qxf3 Rxf3 and I am up a Rook, Bishop, and Knight."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=42377",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "shir1812  vs. coolistdude ",
+    "opening": "Centre game, Kieseritsky variation (C21)"
+}

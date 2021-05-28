@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. c4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Nf3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. e3 O-O 9. d4 exd4 10. exd4 Bg4 11. Re1 Re8 12. Bf4 Bxf3 13. Qxf3 Nxd4 14. Qxb7 Nc2 15. Rad1 Qb8 16. Re2 Bd6 17. Rxc2 Qxb7 18. Bxb7 Rad8 19. Bc6 Re6 20. Nb5 h6 21. Nxa7 g5 22. Be3 Be7 23. Rxd8+ Bxd8 24. a4 Re4 25. Bxe4 Nxa4 26. b3 Nb6 27. Bxb6 cxb6": "From here to obtain the mate then the R B & N must work together.\n",
+        "28. Rc8": "A twofold move which wins blacks final piece and gets the R behind blacks pawns.\n",
+        "28... Kg7 29. Rxd8 Kf6": "Better was h5. It moves blacks pawns up the board together and keeps the K half hidden by pawns.\n",
+        "30. Nc6": "The N joins the party and prevents the K from attacking the B\n",
+        "30... Ke6": "The more the K is exposed the easier is the mate\n",
+        "31. g4": "Blocking off more squares for the K.\n",
+        "31... Kf6 32. Bd5": "Now thw K is hemmed in with only a few squares available. Take a care not to create stalemate\n",
+        "32... Kg7 33. Rd7": "And the f-pawn is doomed\n",
+        "33... Kg6 34. Rxf7 h5 35. Ne5+": "Protecting the R as well as giving check\n",
+        "35... Kh6 36. Be4 hxg4 37. Rh7#": "Mate delivered by teamwork from the pieces.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/teaching-old-dog-new-tricks-hello-fro-http-gameknot-com-chess-pl?gm=58890",
+    "gameName": "Teaching old Dog new Tricks - hello fro, http://gameknot.com/chess.pl?",
+    "players": "bigpeta (2229) vs. penguin_ (1565)",
+    "opening": "English (A22), Carls' Bremen system"
+}

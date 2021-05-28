@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Playing White is my friend Baker who likes to develop as fast as possible to start a quick attack. 1.e4 is the move that promotes quick and easy development. If you prefer slower positions like me, then play 1.Nf3.",
+        "1... d5": "I believe the Sicilian (1...c5) is the best response to e4. Black opens up the position too quickly in this game and gives White a lead in development, which my friend exploits nicely.",
+        "2. exd5": "White can try a risky gambit if he plays 2.d4, but a lot of players at Gambito tournaments have prepared themselves against Baker's sacrifice openings.",
+        "2... Qxd5": "Development-wise, 2...Nf6 is the sharpest move since Qxd5 gives White a free developing tempo. If White tries to hold the pawn with 3.c4, then Black plays 3...c6 sacrificing a pawn for rapid development and superior control of the centre. The same player playing White sometimes plays that sacrifice as Black.",
+        "3. Nc3": "Naturally most people welcome free moves",
+        "3... Qa5": "In the Center-Counter Defense, Black wants to get the queen to c7 after c6. Black usually gets a more solid position in this opening, but White develops much quicker.",
+        "4. d4": "Opening lines for more development while controlling the centre.",
+        "4... c6": "Still book",
+        "5. Nf3 Bg4": "Black usually wants to get his light bishop out in the open before playing e6 so that the bishop isn't cramped on c8 blocked in by pawns",
+        "6. Bf4": "I'm not sure if this was the best move since b2 is weakened, but White certainly has more control of the centre despite his pinned knights.",
+        "6... e6 7. h3": "The bishop is annoying",
+        "7... Bxf3": "This is a mistake by Black. Bh5 is better since it retains the pin and the chasing move g4 weakens White's position. Even after Be2 Black's bishop still has a purpose on h5 since if the f3-knight moves, Black can trade his bad bishop for White's good one.",
+        "8. Qxf3": "Clearly the more logical piece to recapture with",
+        "8... Bb4": "This is Black's most active move, but his position is still horrible after he let White have the bishop pair. And if Black tries to fork White's pawns with Qb6, White can play O-O-O",
+        "9. Be2": "Qg3 looks interesting since it doubleattacks b8 and g7. I don't really understand Be2",
+        "9... Nd7 10. a3": "This move doesn't appear to be dangerous since axb4 would result in Qxa1  but looks can be deceiving. Black should simply move his bishop here, but he ignored White's \"pointless\" move and didn't think ahead.",
+        "10... O-O-O": "This is a big mistake because now Black's king's position is very weak. Taking that into account, Black's king would be mated if a piece could check it somehow. There is a well-known mating pattern against Black's king's position, where White sacrifices something to remove the b7-pawn so a bishop can get to a6 to deliver mate. Accomplishing that mating pattern doesn't appear to be possible, but it could be since Qxc6 bxc6 Ba6 would be mate if Black's queen wasn't defending a6.",
+        "11. axb4": "Black didn't think anything of a3, but didn't realize he was castling into a weak structure. This move appears losing since Black picks up a rook with check, but material is nothing when your opponent's king is mateable",
+        "11... Qxa1+": "Black was probably stunned by White's bold move and didn't know what was going on.",
+        "12. Kd2": "Suddenly Black is totally lost. His queen is far from the action and can no longer defend a6. Black's position is weak and underdeveloped due to developing his queen too early. And castling queenside was definitely the totally losing move.",
+        "12... Qxh1": "I'm not sure if Black even saw the mate, but if he tries to stop it, then White takes the queen and has a massive material advantage.",
+        "13. Qxc6+": "Now that White's clever deflection of the queen has driven it away from guarding a6, White can go on with the mating attack which didn't seem possible a few moves ago.",
+        "13... bxc6 14. Ba6#": "Next time Black should be careful what he's castling into!"
+    },
+    "url": "https://gameknot.com/annotation.pl/gambito-318?gm=7379",
+    "gameName": "Gambito #318",
+    "players": "Baker (1985) vs. Ricardo-Perez (1911)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

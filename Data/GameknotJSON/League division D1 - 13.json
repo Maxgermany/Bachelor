@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4": "Queens Gambit accepted. Ok, so I'm thinking win at this point.",
+        "3. e4 b5": "Have not played this position in the QGA before.",
+        "4. a4": "So far so good...",
+        "4... c6": "Black is putting up a planned fight !",
+        "5. b3": "Wrong. Historically speaking, better would have been Nc3, or axb5, or Nf3.",
+        "5... cxb3": "May have an 'out' with this move. Need to stay aggressive on the Queen side or blacks upcoming free a-pawn will eventually cause me great distress...",
+        "6. axb5 Nf6 7. e5": "Expecting Nd5 followed by my Qxb3. Not Bxc5, the responding Nxc5 will give black an immediate advantage. I need to move faster than black and delay him as much as possible."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d1?gm=31086",
+    "gameName": "League division D1",
+    "players": "bladerunner7 (1740) vs. game_1_06 (1671)",
+    "opening": "QGA (D20), 3.e4"
+}

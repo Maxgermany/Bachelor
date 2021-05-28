@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 d6 2. f4 Nf6 3. Nc3 g6": "3. .......... g6 - this is the Pirc/Robatsch Defense.  Black delays countering in the centre and decides to develop his bishop on the flank (g7).",
+        "4. Nf3 Bg7 5. Be2 c6 6. d4 Nbd7": "6. ............. Nbd7 - both players get their pieces out - white seems to have better control of the centre.",
+        "7. Be3 Qc7 8. Qd2 O-O 9. f5": "9. f5 - black castles, but is he castling into it?!",
+        "9... e5 10. fxg6 fxg6 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Bc4+": "13. Bc4  - after a plethora of piece and pawn exchanges I decide to improve the position of my bishop by giving check.  Black's king is beginning to get a little exposed.",
+        "13... Kh8 14. O-O Ng4 15. Rxf8+ Bxf8 16. Rf1": "16. Rf1 - threatens Rxf8 .",
+        "16... Bd7 17. Kh1 b5 18. Bb3": "18. Bb3 - staying on the long diagonal.",
+        "18... c5 19. Bd5": "19. Bd5 - good outpost for lsb.",
+        "19... Rd8 20. Bg5 Rc8 21. h3 b4 22. Nd1 Bb5 23. Rf7": "23. Rf7 - this rook escapes the bishop's attack and attacks the Wicked Witch of the West.  This rook will become a bone in the throat to black.",
+        "23... Qd6 24. hxg4 Re8 25. Bf6+": "25. Bf6 !! This move forces resignation as if Kg8 there is a really nasty queen-winning discovered check when I move the rook to d7.  This rook will be immune from capture because black must deal with the check on d5.  Black will lose another piece if he interposes the bishop on e7 and look, Glenda has her beady eye on h6.  Old Matey isn't too far away I think.\r\n\r\nThis was my very first Bury League Game and I was really pleased to get a successful mating attack going here!"
+    },
+    "url": "https://gameknot.com/annotation.pl/newmarket-c-v-cambridge-city-b-mating-attack?gm=17289",
+    "gameName": "Newmarket C v Cambridge City B - Mating Attack!",
+    "players": "Joanne Stevens (1240) vs. Tony Truman (1128)",
+    "opening": "Pirc defence (B07)"
+}

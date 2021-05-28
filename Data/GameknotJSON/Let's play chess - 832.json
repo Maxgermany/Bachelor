@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 h6": "a bit of a lapse here.  4 ... g5 of course is the move.",
+        "5. Bxf4 g5": "nothing to do now but play some chess and see if I can hold on.",
+        "6. Bg3 Bg7 7. Bc4 Ne7 8. e5": "this strikes me as a little premature.  8 0-0 looks good.",
+        "8... d5 9. Bb3 O-O 10. h4 Nf5": "black had better be aggressive.",
+        "11. Bf2 g4 12. Nh2": "this really strikes one as an oversight.  but is it?  12 Nfd2 g3 13 Bg1 Nxh4 may not be appealing for white.",
+        "12... g3": "better grab that piece",
+        "13. Bg1 gxh2 14. Bf2 Be6 15. Nd2 c5": "the main thinking here was to eliminate that pawn on e5.",
+        "16. Rxh2 cxd4 17. g4 Ne3": "in playing this move black had to be willing to have the queens come off the board and gradually try to realize his material advantage.",
+        "18. Bxe3 dxe3 19. Nf3 Bxg4 20. Qe2": "20 Bxd5 Nc6 should win for black.",
+        "20... Nc6": "bringing up a key reserve.",
+        "21. O-O-O Nxe5 22. Bxd5 Qf6": "a strong shot deciding the game",
+        "23. Rf1 Nxf3 24. Rhh1 Qxb2+ 25. Kd1 Qb1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=24374",
+    "gameName": "Let's play chess",
+    "players": "thearrtofnoise (1349) vs. francisbaron08 (1526)",
+    "opening": "KGA (C34), Fischer defence"
+}

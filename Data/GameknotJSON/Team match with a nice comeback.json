@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4": "This is the Schotch Gambit, one of my favorite openings.",
+        "4... h6": "I've been seeing this alot lately... don't know why though...",
+        "5. Nxd4 Nxd4 6. Qxd4 c5 7. Qd3 Qf6 8. Nc3 Ne7 9. Nb5 Qc6": "A blunder on his part.",
+        "10. Nd6+ Kd8 11. Nxf7+ Kc7 12. Nxh8": "His Queen move lost him his Rook.",
+        "12... b5 13. Bxb5 Qf6 14. Be3 g5 15. Qc3 Qxc3+ 16. bxc3 d6 17. O-O-O Be6 18. a4 Bg7": "Now I've lost my Knight though...",
+        "19. f4 Bxh8 20. fxg5 hxg5 21. Bxg5 Ng6 22. c4": "A big blunder on my part.",
+        "22... Ne5 23. Bf4 a6 24. Bxe5 Bxe5 25. h4 axb5 26. axb5": "Now I'm only up because of my extra pawns. In any situation, I'd prefer Black though.",
+        "26... Bxc4 27. h5 Bxb5 28. g4 Bf4+ 29. Kb2 Bc6 30. h6 Bxe4 31. Kc3": "A huge blunder on my part. I made this move early in the morning when I was half asleep, and started kicking myself later.",
+        "31... Be5+ 32. Kd2 Bf4+ 33. Kc3 Bxh1 34. Rxh1": "Now Black is definetly up, and should win this. ",
+        "34... Rh8 35. h7 Kd7 36. Kd3 Ke7 37. Ke4 Be5": "Most other Bishop moves would have been better.",
+        "38. Kf5 Kf7 39. g5 Kg7 40. g6 Bf6": "The right move was Rf8+.",
+        "41. Rb1 Rf8": "The move is too late now. White regains the initiative, making the game about drawn.",
+        "42. Rb7+ Kh8 43. c4 Be5+ 44. Ke4 Rf4+": "A huge blunder. He had better chances with almost any other Rook move.",
+        "45. Kd5 Rh4": "This seals it in, White has won.",
+        "46. Ke6 Rf4 47. Rb8+ Kg7 48. h8=Q+ Kxg6 49. Rg8+ Bg7 50. Rxg7#": "I was up, then down, then back up again. A rollercoaster game that kept me on the edge the whole time."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match-with-a-nice-comeback?gm=37869",
+    "gameName": "Team match with a nice comeback",
+    "players": "pcshark11 (1555) vs. johndoe63 (1484)",
+    "opening": "Scotch gambit (C44)"
+}

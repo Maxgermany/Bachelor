@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "This is a very short game I played in a local tournament. After getting into a highly tactical variation of pirc defense, black is not able to handle the tactics and loses immediately to a cool mating combination.",
+        "1... d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5": "I had reached this position at least three times in my games. Against Gary Joe (rated 1650) I tried dxc5 and then playing as if it was a Dragon, but I quickly lost. After that I experimented with Qd3 and Be3, but got into poor positions as well. Finally, I looked up the variation MCO suggested: Bb5 .",
+        "6. Bb5+ Bd7 7. e5 Ng4 8. e6 Bxb5 9. exf7+": "This is all according to the theory, and I was alerted by the fact that a 1500 player had gone so far.",
+        "9... Kxf7": "A mistake. Black should play 9... Kd7 10. Nxb5",
+        "10. Ng5+ Kf6": "As my opponent later explained to me, after deciding that Ke8 loses a bishop to Ne6, he decided to go to  f6 (unfortunately losing the king...) \r\n**************************************\r\nQ. Can you see a forced checkmate in 6 for white?\r\n**************************************",
+        "11. Nce4+ Kf5 12. Qxg4+": "!!",
+        "12... Kxg4 13. h3+ Kh5": "If black did not want to prolong the agony for another move by 13... Kh4 14. g3  Kh5, he should have settled for immediate Kf5 14. g4 mate!",
+        "14. g4+ Kh6": "14... Kh4 15. Nf3#",
+        "15. Nf7#": "I guess this should be called a Royal Forkmate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-miniature?gm=9871",
+    "gameName": "A miniature",
+    "players": "Danil Safin (1822) vs. Vivek Kembaiyan (1511)",
+    "opening": "Pirc (B09), Austrian attack, dragon formation"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. c4 Nc6": "The Sicilian defense, Gloria variation. Seemed fairly common on the gameknot database. I should check out what other sites say about it. My initial instinct was to attempt to attack e4 with Nf6, but it would appear that is premature until we deny e5 with Nc6 followed by d6.",
+        "3. d3 d6 4. Be3 Nf6 5. Nc3 g6 6. d4 cxd4 7. Bxd4 e5 8. Be3 Bg7 9. h3 O-O 10. Qf3": "A very complex and potentially problematic position for me. I believe his next intended move is O-O-O which brings his rook against my extremely weak d pawn where any further pressure, whether through c5 or Nb5, would cause it to buckle and making further problems for my queen which is currently its only defender and because of the future position of the rook, also \"safe\" because of the rook. I believe my only reasonable move now is Qa5 followed by Rd1. Subsequently, I can add defense to the d pawn by Nb4 if necessary (not necessarily wise as it stands now).",
+        "10... Qa5 11. O-O-O Rd8": "Had to defend against an attack on my weak pawn.",
+        "12. Nge2 a6": "To prevent Nb5.",
+        "13. Nd5 Nxd5": "I had to be prepared for 3 scenarios when making the decision to make the knight exchange. 14. Rxd5 looked somewhat problematic, but my plan was for Qxa2 and work my way back from there. 14. cxd5 opens up the c file for an eventual attack on the king (after my knight scrams out of the way). 14. exd5 helps clear the way for my e pawn which, when pushed, opens a diagonal of control for my black bishop to attack his weak b pawn.",
+        "14. exd5 Ne7": "I think I wanted more mobility with this move. Nb4 kinda blocks up the queen for no strong reasons.",
+        "15. Bg5": "This is potentially dangerous for me, knight is threatened (no support) and I do not wish a scenario where he could place his bishop on h6 and then queen on f6 to hem in the king.",
+        "15... Qc7 16. Bxe7 Qxe7 17. Qe3": "This was kind of a strange move. It gave me ideas that if I could somehow secure h6, I could move the bishop to trap his queen in a pin, as long as my own queen was safe.",
+        "17... Qh4": "A somewhat risky move on my part to try for the bishop attack on the queen-king diagonal. I considered 18. g3, Qh5. I kinda wanted him to think I'm going to attack the c pawn (my alternative was Qc7).",
+        "18. f4": "I think he saw through both. Unfortunately, it does set him up for a much more dangerous scenario though.",
+        "18... exf4 19. Nxf4 Qf6": "Now that the knight is blocking the queen, I was going to go for the \"cheap\" checkmate option of Qxb2 which I expected him to see. Once he took the necessary defenses against that (I was expected Rd2) I was gonna do Bh6 to attack and pin the knight against the queen, which forces his queen to f2, allowing me to do Re8 to control the e file and try an attack. \n\nUnfortunately he did not see the mate threat.",
+        "20. Bd3 Qxb2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=20569",
+    "gameName": "Let's play chess",
+    "players": "mystyc (1200) vs. cheewai (1200)",
+    "opening": "Sicilian (B20), Gloria variation"
+}

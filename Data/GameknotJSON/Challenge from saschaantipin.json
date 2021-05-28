@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4 3. e4 e6 4. Bxc4 Nc6 5. Nf3 Bb4+ 6. Nc3 f6 7. a3 Bd6 8. O-O a6 9. b4 e5 10. d5 b5": "This was not such a great exchange--white gets a pawn and a knight in exchange for a bishop.",
+        "11. Bxb5 axb5 12. Nxb5 Nxb4 13. Be3 Ba6 14. Nxd6+ cxd6 15. axb4": "Now I'm thinking, bishop for rook?  Sounds great!",
+        "15... Bxf1 16. Rxa8 Qxa8 17. Qxf1": "Here I'm only up one point, but I have a queen and a rook against a queen.  I should swap queens and increase my material advantage.  But my left side is not well developed, and white has that one passed pawn.",
+        "17... Ne7 18. b5 O-O 19. b6 Rb8 20. g4": "I should move the knight to C6 to threaten the pawn.  Why don't I do this?",
+        "20... Nc8": "Oh, I did.  Well that was good thinking!",
+        "21. g5 Nxb6 22. gxf6 gxf6 23. Bh6 Kf7 24. Qh3 Qa1+": "This was kind of stupid.  I hoped he would interpose his queen, but why would he when I'm forcing his king into a better position, while burying my queen in a useless far flung corner of the board.  Not one of my better ideas.",
+        "25. Kg2 Rg8+ 26. Ng5+": "Suddenly I realize that Ke7 or Ke8 will be followed by Qe6+.  Not pretty.  Kg6 exchanges the rook for white's knight--also unpleasant.  I decide to trade the rook (and a pawn) for the bishop and knight.  I actually conditional moved the entire sequence.",
+        "26... Rxg5+ 27. Bxg5 fxg5 28. Qf5+": "Except I had expected QxP7+.  I'm not sure what white thought his advantage would be with this move.",
+        "28... Ke8 29. Qe6+": "Kf8 sacrifices the knight.",
+        "29... Kd8 30. Qxd6+ Nd7 31. Qh6 Qc1 32. d6 Nc5 33. Qf6+ Kd7 34. Qe7+ Kc6 35. Qc7+ Kb5 36. d7": "NxPd7 would be followed by QxQ, a disappointing result for black.  I opt for a series of checks.  If I can get my queen out of the way, Ne6 would fork white's queens. but this would be easily avoided by Qb6+ and the white queens frog march the black king up against the a wall.  Ugh!",
+        "36... Qc2 37. d8=Q": "Two girls for every boy.  Black may be able to snag a few pawns, but his king is paralyzed behind the white queens.",
+        "37... Qxe4+ 38. f3 Qe2+ 39. Kg3 Qe1+ 40. Kg4 Qb4+ 41. Kg3 Qf4+ 42. Kf2 Qxh2+ 43. Ke3 Qf4+ 44. Ke2 Qc4+ 45. Kd1 Qf1+ 46. Kd2": "Here I examined what happens if black pushes the h passed pawn instead of checking the white king.  White forces mate in less than ten moves, deftly working around the black knight with a series of checks, beginning with Qa5+.",
+        "46... Qf2+ 47. Kc1 Qe1+ 48. Qd1 Qc3+ 49. Kb1": "My goal is to badger white into a draw.\n",
+        "49... Qb4+ 50. Kc2 Qb3+": "White accepts.  Though were I playing white, I might have fought longer.  After examining the position from white's point of view, however, there doesn't appear to be any way to force a queen exchange.  Provided black makes no error, it really does look like a draw."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-saschaantipin?gm=36400",
+    "gameName": "Challenge from saschaantipin",
+    "players": "saschaantipin (1423) vs. pasha582 (1571)",
+    "opening": "QGA (D20), 3.e4"
+}

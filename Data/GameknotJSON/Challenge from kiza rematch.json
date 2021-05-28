@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. c4": "I recall that Kasparov's use of the English opening in this match was unexpected for me.  However, strange as it may seem, it was I who managed to produce a surprise at the start.  In any case, in the present game my opponent thought for almost one and a half hours over his 10th move!  It is interesting that the novelty, which had such an effect on Kasparov, was prepared by me as far as the end of the 70s for my match in Baguio.  But at that time it had remained unused.",
+        "1... Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8. bxc3 Re8 9. f3 e3": "It was precisely this move, suggested in his day by my long time second, Igor Zaitsev, that plunged my opponent into deep thought.  Previously Black had automatically taken on f3; incidentally, I had played this in the 4th game of the match.  In principle, the point of the thrust e4-e3 lies in upsetting the harmonious development of White's pieces, driving a wedge into his position.  Though this idea is not original, I was convinced it had not been played before in the present situation.  \r\nBut how surprised I was one day, when, upon opening the Chess in the USSR magazine, I saw the game Berndt - Seitz, played nearly 10 years earlier in an international correspondence tournament... after 9...e3 White took the pawn 10 dxe, then ventured a desperate attack and quickly lost: 10...b6 11 f4?! Bb7 12 Bd5 Re7 13 e4 h6 14 Nxf7 Rxf7 15 Bxf7+ Kxf7 16 e5 Ne8 17 Qd5+ Kf8 18 Ba3+ d6 19 Rad1 Na5 20 Qd3 Ba6 21 Qf5+ Kg8 22 exd Bxc4 23 Qf8+ Kxf8 winning.",
+        "10. d3": "The most accurate reply.  A further advance of the d-pawn is hardly better",
+        "10... d5": "The only reply, otherwise the presumptuous e3 pawn will be quickly surrounded",
+        "11. Qb3": "Yet another essential move.  After 11 cxd Nxd5 there are 2 possible paths, both pleasant for black.",
+        "11... Na5 12. Qa3 c6 13. cxd5 cxd5 14. f4 Nc6 15. Rb1 Qc7 16. Bb2 Bg4 17. c4": "Of course, it is great temptation to harass the enemy king, but this will surprisingly hand the initiative to black.  Also not dangerous is 17 Nf3 Qd7 18 Ba1 Re7!? 19 Rfc1 Bh3, and black has sufficient counterplay.  However, by continueing quietly with 17 Rfe1, White retains good prospects.",
+        "17... dxc4 18. Bxf6 gxf6 19. Ne4 Kg7": "Intersting is 19... Rxe4!? 20 Bxe4 f5! 21 Bf3 Nd4 22 dxc Bxf3 23 exf e2 24 Rfe1 Qxc4",
+        "20. dxc4": "Now the advantage completely transfers to Black.  20 Nxf6!? leads to immense complications.  \r\nThe other dangerous manoenvre is 20 Nd6, against which black must play very carefully.",
+        "20... Rad8": "More reliable than 20... Bxe2 21 Nxf6!",
+        "21. Rb3": "?\r\nApparently the decisive mistake.  After 21 Nc3 Nd4 22 d5 there is still a stubborn struggle ahead.  Much depends on where the queen goes - to d6 or c4",
+        "21... Nd4 22. Rxe3 Qxc4 23. Kh1 Nf5 24. Rd3 Bxe2 25. Rxd8 Rxd8 26. Re1 Re8 27. Qa5": "The game is decided, Black has prepared a simple mating construction.",
+        "27... b5 28. Nd2 Qd3 29. Nb3 Bf3 30. Bxf3 Qxf3+ 31. Kg1 Rxe1+ 32. Qxe1 Ne3": "This is where Kasparov resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-kiza-rematch?gm=26295",
+    "gameName": "Challenge from kiza rematch?",
+    "players": "kiza_kondorce (1948) vs. saint_just (2081)",
+    "opening": "English opening (A16)"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Nf6 3. f4": "On the principle of \"I have nothing to lose, so let's at least make this game interesting\"...",
+        "3... d5 4. fxe5 Nxe4 5. Nf3 Be7 6. d4 O-O 7. Bd3 f5 8. exf6 e.p. Bxf6 9. O-O Nc6 10. Nxe4 dxe4 11. Bxe4 Nxd4": "All \"book\" so far, and development for both sides is just about completed. The QB's and Q's need to move.",
+        "12. c3 Nxf3+ 13. Bxf3 c6 14. Qxd8 Rxd8": "Barring a colossal oversight from the player ranked in the 2000's, I'm not going to *win* the game. But the simpler I can make it, the better my chance of somehow pulling out a draw...",
+        "15. Bf4 Be6 16. a3 Bd5 17. Bxd5+ Rxd5": "Another piece vanishes, and material is still even...",
+        "18. Rad1 Rad8 19. Rxd5 Rxd5": "And now we're down to a Bishop and Rook end game. ",
+        "20. Bc1 Kf7 21. g3": "A mistake. I need to play 21 R-K1 instead to cut off Black's King.",
+        "21... Ke6 22. Kg2 Kd6 23. Re1 Kc5": "I have to be careful, as Black's king has made a rapid approach to the Q side.",
+        "24. Re4": "I try to seal the K off from my half of the board.",
+        "24... Rd1": "Trouble. This explains why 21 R-K1 would have been better, as Black's King would have been cut off *and* his Rook could not invade the 8th rank.",
+        "25. Be3+ Kd5 26. Rf4 Rb1": "Attacking the weak spot.",
+        "27. Rb4 b6 28. Kf3 c5 29. Ra4": "29 R-N5 was the correct move. My lack of endgame technique begins to show.",
+        "29... Rxb2 30. Rxa7 Bxc3": "Now Black has a passed Pawn.",
+        "31. Bc1 Rb3 32. Kg2 Bd4 33. a4 Rb1 34. Bg5 Ra1 35. Rb7": "Still hoping to be able to stop Black on the Q-side.",
+        "35... c4 36. Bd8 Rxa4 37. Bxb6 Bxb6 38. Rxb6": "So close, but yet so far. If I hadn't lost that one Pawn, this ending would be dead even and a theoretical draw. Still, I have to fight on.",
+        "38... c3 39. Rb1 Kd4 40. Kf3 c2 41. Rc1 Kd3": "I just couldn't get my King over to defend in time. ",
+        "42. Re1 Rc4 43. Re3+ Kd4 44. Re4+ Kd5": "I throw in the towel. Well, given the rating difference I think I acquitted myself well."
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=47900",
+    "gameName": "Fast Ladder",
+    "players": "last_archimedean (1347) vs. frebec (2006)",
+    "opening": "Vienna gambit (C29), Breyer variation"
+}

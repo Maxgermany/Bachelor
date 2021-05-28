@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. g3": "Benko's Opening.  The leading responses (d5, e5, Nf6, g6, & c5) all tend to be pretty good for black.\n",
+        "1... c5 2. Bg2": "The database favors Nc6 as a response.",
+        "2... e5 3. e3": "Not in the database.",
+        "3... Nf6 4. f4 exf4 5. exf4 d6 6. b3 Bg4 7. Bf3 Bh5": "Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7).",
+        "8. Bxh5 Nxh5 9. Qxh5 Be7 10. Bb2 O-O 11. Qg4": "Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.",
+        "11... Nc6": "Nc6 was not the answer.",
+        "12. Qxg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=56461",
+    "gameName": "Team match",
+    "players": "bagboy (899) vs. mrp800 (968)",
+    "opening": "Benko's opening (A00)"
+}

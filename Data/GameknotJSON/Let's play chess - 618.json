@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "The King gambit",
+        "2... Nc6 3. Nf3 d6 4. Bc4 h6 5. O-O Qe7": "Why?I think it's bad",
+        "6. fxe5": "Look:",
+        "6... Nxe5 7. Nxe5 Qxe5 8. Bxf7+": "His position is bad,very very bad",
+        "8... Kd8 9. Be6": "!! If BxB,RxB+",
+        "9... Ne7 10. Bxc8 Rxc8 11. Nc3 a6 12. d4 Qe6 13. d5": "My center is good",
+        "13... Qd7 14. Bf4 g5 15. Bg3 Bg7 16. Qd3 c6 17. Rf7": "I win here",
+        "17... Bxc3 18. bxc3 cxd5 19. exd5 Qb5 20. Bxd6": "!! If Qb6+, Qd4,QxB,QxR+",
+        "20... Qb6+ 21. Qd4 Rc4": "?? Oooooops",
+        "22. Qxb6+ Ke8 23. Rxe7+ Kf8 24. Qd8#": "CHECKMATE"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=32172",
+    "gameName": "Let's play chess",
+    "players": "gmi56 (1200) vs. victorian00 (1256)",
+    "opening": "King's gambit (C30)"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "The opening is the Queen's Gambit Declined, which is a well-studied opening, although I have not read much of the theory, so this was a good game for practice.",
+        "1... d5 2. c4 Nf6": "This is one of the more common lines of the QGD.  In this situation, it leads to some enormously sharp and explosive positions, which is a little uncommon.",
+        "3. Nc3 e6 4. Nf3 h6": "A bit of mysterious move.  Doesn't really accomplish much, and wastes precious tempo that could have been used to develop pieces.",
+        "5. e3 Nc6 6. Bd3 Be7 7. b3 a6 8. Bb2 O-O": "After 0-0, I decided that I wanted to set up a pawn storm on his King Side.  This necessitated 0-0-0 for me in order to not compromise my king safety with the attack.",
+        "9. Qe2 Bd6 10. O-O-O Re8": "Preparing the e-pawn push, trying to blow apart the center and regain control from White's superior position there.",
+        "11. h3": "Even the greatest attacks must begin with a single move.  The pawn storm begins...",
+        "11... e5": "The capture is forced because of the fork on e4, which even if avoided, limits White's bishop considerably.",
+        "12. dxe5 Nxe5 13. Rdg1": "Again, preparing the pawn storm.",
+        "13... Nc6 14. g4 d4": "A good move, forcing the night back to protect the suddenly weak pawn on e3.",
+        "15. Nd1 Bc5 16. g5": "The pawn has reached it's ideal square.  If black captures, white has an extremely active rook in an open area of the board, if not, then black faces being two pawns down and a very shaky defense on the king side.",
+        "16... hxg5 17. Rxg5 Qd6": "Simultaneously protecting the bishop and activating the queen for possible counterplay.",
+        "18. Rhg1": "Note the Bishop on d3 is also involved in the attack, although from a fair distance.  Also, if the bishop is moved, black can cause problems by pushing the pawn further up the board.",
+        "18... g6 19. Nh4": "Preparing a night sacrifice in order to get at the king.",
+        "19... Kf8": "Getting away from the discovered checks and giving black a much needed back door to e7.",
+        "20. Qf3": "This was a move that I spent a lot of time looking at.  I couldn't find a mate after sacrificing either the night, bishop or rook on f6 because Black's knight always seemed to be able to mount a last-ditch defense.  Thus, I tried to get a little extra force into the attack.  However, this almost proved to be disastrous.",
+        "20... dxe3": "Recapturing is dangerous because it allows the e8 rook back into activity, which could lead to dangerous counterattacks from black.",
+        "21. Bxg6 e2": "This move was unexpected, and nearly finished me off.  There were no easy defenses, which made this position almost unsalvagable, but luckily...",
+        "22. Rd5": "...the attacking rook was able to be utilized at the perfect time for defense of White's slightly overexposed king.",
+        "22... Qh2": "?  This move doesn't really accomplish much.  It threatens to win the g1 rook, but at the expense of checkmate.  The queen could have been better placed at a defensive square.",
+        "23. Qxf6": "The beginning of the end, threatening checkmate on f7.",
+        "23... Be6": "A last ditch defense, though ultimately useless.",
+        "24. Nf5 Qxg1 25. Qg7#": "Two extremely potent attacks, but white was able to get there first.  \r\nI hope that you enjoyed this annotation.  Feel free to PM me if you find a way to improve it or if you see something I missed."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-jamesxc?gm=6451",
+    "gameName": "Challenge from jamesxc",
+    "players": "jamesxc (1399) vs. kundaliniknight (1433)",
+    "opening": "QGD (D06), Marshall defence"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd7": "This move is 'out-of-book' as far as I know, but I am not an expert on this line by any means.",
+        "7. O-O": "!!\nThe center has been ripped open early, and we have a sharp, open, tarrasch french battle on our hands.  Castling is clearly the best move.  The e-file is wide open and black has to move his queen in order to castle queenside.  WHite's king is now safe, and the f-rook is waiting to jump on the open e-file and attack the king!",
+        "7... a6": "??  A waste of time, black's army needs to defend the king immediately!",
+        "8. Bxc6": "!\nNot wasting any time in retreat, white simply snaps the piece off and continues the attack on blacks' king.",
+        "8... Bxc6 9. Re1+": "The attack begins on the open king file...",
+        "9... Be7 10. Ne5": "!\nThe knight rushes into e5, the ultimate attack position available...supported on an open file in the center by a rook and pawn this early in the game is a powerful opening advantage.  The knight and rook are in their perfect attack positions, soon the white queen will go to e2 and join the attack formation.  It will then be ready to strike and black has got to organize his pieces for defense immediately.",
+        "10... cxd4": "?\nInsanely, black wastes a precious defensive tempo by opening up the position even further!  It seems risky at the very least.  I would have played 10.Nf6 and then 11. 0-0 imediately get the king out of harm's way.",
+        "11. Nb3": "!\nTwo pieces are activated in one move!\nThe Knight develops himself, gets ready to jump on the d4 pawn and join the attack, also this allows the dark bishop to join the attack!",
+        "11... Nf6": "Now black is ready to castle, but the white army is moving fast!",
+        "12. Nxd4": "!!\nThe queen's knight joins his brother in the central attack!  The White knights are absolutely dominating the center of battle at this point!  They swell with power in the center supported by the queen and rook!  An awesome sight to see such an attacking position this early in the game! (move 12)",
+        "12... Rc8": "Black panics, not wanting to let a knight into c6, and lose a pawn and possibly the bishop on e7, black tries to support this weakness, but there are too many at this point.  Black's position is under intense pressure.",
+        "13. Nexc6 bxc6 14. Nf5": "!\nA double-attack, the white knight threatens the pinned bishop and the loose g-pawn.",
+        "14... Rc7": "The bishop is pinned in defense of the royalty behind him, if the black king castles, the bishop is doomed and the whole army will be destroyed by the awesome power of a knight on e7!\nI don't see anything better, black's king is under assault, and his only defense is to sacrifice his court and lose a slow, but hopeless defense.  Instead the king goes down fighting with his court!",
+        "15. Nxg7+": "Finally the hero of this game, the knights, the \"Sir lancelot\" to his king claims glory to his majesty by directly attacking the enemy monarch!",
+        "15... Kd7": "running like hell to try and hide from the white army!",
+        "16. Bf4": "The dark bishop joins in the fullfront assault on the enemy!",
+        "16... Rb7 17. Qe2": "!\nA double attack, the queen threatens both the Qxe7 and Qxa6.\n",
+        "17... Kc8 18. Qxa6": "There is no where left to hide and the black king ends it in surrender."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-art-of-early-king-attack-french-c09-tarrasch-open-variation-main-line?gm=28705",
+    "gameName": "The Art of Early King Attack...french-c09-tarrasch-open-variation-main-line",
+    "players": "pawn78 (1710) vs. mister_snooze (1756)",
+    "opening": "French (C09), Tarrasch, open variation, main line"
+}

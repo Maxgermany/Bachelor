@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6": "Probably should have taken with the P. Precarious position for the Q.",
+        "7. d4 Be7 8. Bd3 c5 9. Nf3 h6 10. O-O Bd7": "Having trouble developing my queenside. Should have considered e5 before he castled.",
+        "11. Ne5 Bd6 12. Ng4": "Caught me by surprise.",
+        "12... Qd8": "Qe7 would have added potency to Re1. Besides, I get to form a battery with my next move.",
+        "13. Qf3": "He is taking a long time to move at this stage.",
+        "13... Qc7 14. d5 h5": "Especially on this move. I was expecting Qh3.",
+        "15. Ne3 Bxh2+": "Fritz says White is clearly better here. I didn't think so at the time, but was soon to find out otherwise.",
+        "16. Kh1 Be5 17. Rb1": "A stunner. My plans have been laid waste.",
+        "17... Bxc3 18. dxe6": "Fritz says White is won here, regardless of what I play. I did not take with the B because I wanted to keep the N out of f5 and d5, and I thought I would need to B on c6.",
+        "18... fxe6 19. Bg6+ Kd8": "This was the plan. Now the K protects the Q in the event of a big tradeoff. Yes, I know it's a big risk.",
+        "20. Rxb7 Bc6 21. Rxc7 Bxf3 22. Rxc5 Be2 23. Rg1 Bd4 24. Rb5 Bxe3 25. Bxe3 Bxc4 26. Rd1+ Bd5 27. Be4 a6 28. Rbxd5+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gm-simultaneous-exhibition?gm=38036",
+    "gameName": "GM Simultaneous exhibition",
+    "players": "GM Josh Friedel  vs. princevlad ",
+    "opening": "English (A18), Mikenas-Carls, Flohr variation"
+}

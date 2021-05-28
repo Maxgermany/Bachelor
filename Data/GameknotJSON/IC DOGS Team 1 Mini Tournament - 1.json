@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6": "The hyper-accelerated dragon Sicilian defense.  The main idea of these lines versus the usual dragon is that black wants to play d5 in one move.  In the regular dragon, black plays d6, and then sometimes a later d5 costing an important tempo.",
+        "3. d4 cxd4 4. Nxd4": "4. Qxd4 is played often enough, but I think it isn't as challenging.",
+        "4... Nc6 5. Nc3 Bg7 6. Be3 Nf6 7. Nxc6": "The most challenging line in this variation of the Sicilian is 7. Bc4 0-0 8. Bb3.  I don't think 7. Be2 or 7. f3 are too challenging either.  I think some people play this line thinking that they're winning a tempo after 8. e5, but check out the position in just a few moves.",
+        "7... bxc6 8. e5 Ng8": "Now, the e-pawn is hanging.",
+        "9. f4": "White has to spend time defending the pawn on e5.",
+        "9... f6": "Which black attacks again.  ",
+        "10. exf6": "If 10. Bd4 Qa5 attacks the e5 pawn yet again.",
+        "10... Nxf6": "Now the knight is back on f6, and it isn't clear what the pawn on f4 is doing.  white hasn't won a tempo after all.",
+        "11. Bc4 d5": "This leave a backwards e-pawn, but it gives black a chance to get castled.",
+        "12. Bb3 O-O 13. Bd4": "White wants to dominate the dark squares in the center.",
+        "13... Nh5": "I decided to offer to exchange the dark square bishops.  Notice also that the f4 pawn has come under attack.",
+        "14. g3": "Creating additional white square weaknesses around white's kingside.",
+        "14... Bh3": "Preventing White from castling kingside.",
+        "15. Bxg7 Nxg7": "15. ... Kxg7 was OK, but I wanted to reroute the knight.  It did it's job, provoking 14. g3.",
+        "16. Nxd5": "I dind't consider this sound during the game.",
+        "16... cxd5 17. Bxd5+ Kh8 18. Bxa8 Qxa8": "Here's why:  White temporarily wins a rook and 2 pawns for two pieces.  Normally that's considered fair compensation.  However, White's king is going to get stuck in the center, and black is going to win a pawn back.  Two pieces are usually better than a rook and pawn.",
+        "19. Rg1": "The only move.",
+        "19... Qe4+ 20. Qe2 Qd4": "A double attack on the g1 rook and on b2.  The try 21. Qxe7 fails to 21. ...Re8 pinning the queen.",
+        "21. c3": "Oops.  Overlooking that the rook on g1 is hanging.",
+        "21... Qxg1+": "0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/ic-dogs-team-1-mini-tournament?gm=1723",
+    "gameName": "IC DOGS Team 1 Mini Tournament",
+    "players": "mhendeavour (1550) vs. yellowlab (1827)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

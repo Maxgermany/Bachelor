@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. c4 e5 2. Nf3": "Posing the question. This is the inaugural move of the Nimzovich-Flohr variation.",
+        "2... d6 3. Nc3 Bg4": "Now the opening looks a bit like a Trompowski Attack with colors reversed. The Tromp' has never impressed me as anything but a piece of brassy bragadoccio with lots of smoke and little fire. The Tromp' player boasts by his Bishop move, \"I can give you the Bishop-pair right out of the gate, and still beat you!\" That's quite an assertion, to which I always reply, \"Prove it to me.\"",
+        "4. g3 Bxf3 5. exf3 c6 6. Bg2 h6": "Not really in the spirit of the Tromp'. Black should think about working to catch up in development with 6. ...Nf6-Be7-Nbd7 or a6, especially now that he's surrendered the Bishop-pair. ",
+        "7. O-O Nf6 8. Re1 Be7 9. d4": "I just decided here that since Black already lags in development, and has squandered a couple tempi, and has handed me the two Bishops on a silver platter, that a direct attack was the most sensible course.",
+        "9... Qc7 10. f4 exf4 11. Bxf4 O-O 12. Qd2 Kh7 13. Ne4 Rh8": "Black possesses a sense of danger, it seems. Still, he's just moved the Rook he developed by castling back to its original square so he can then move his King, lately come from e8, back in the direction of its original square. ...\"Uncastling\" almost immediately you castle? Can that be a good thing?? It's already hard to suggest tenable moves for Black, but either 13. ...Nbd7 or 13. ...Qd7 has to be more helpful than the text.",
+        "14. Re2 Nbd7 15. Rae1 Bf8 16. Qd3": "To take on f6 with double check.",
+        "16... Nxe4 17. Bxe4+ Kg8 18. Bf5 Nf6 19. c5 b6 20. b4 Nd5 21. Bd2 Nf6 22. Bh3": "Preparing the transfer to an even better diagonal.",
+        "22... bxc5 23. dxc5 dxc5 24. Bf4 Qb6 25. bxc5 Qxc5 26. Rc2": "Had Black played 25. ...Bc5 I would have played 26. Rb1.",
+        "26... Qd5": "Looks like a game-saver, but only for a moment.",
+        "27. Qa6 c5": "Meh?",
+        "28. Bg2 Qf5 29. Qa4 Nh5": "A stinker. Here Black pretty much has to play 29. ...Rc8, followed by 30. Re5 Qd7  31. Qc4, maintaining the killing bind. Black was hoping, I assume, to conjure up a last-moment attack against White's King beginning with a \"desperado\" sacrifice.",
+        "30. Bxa8 Nxf4 31. gxf4": "Obviously not 31. Qf4?? Qc2.",
+        "31... Qg4+ 32. Bg2 h5 33. h3 Qh4 34. Qe4 Rh6 35. f5 g6": "??? Whoops!!",
+        "36. Qxh4": "And Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/english-opening-blitz-game?gm=45188",
+    "gameName": "English Opening - Blitz Game",
+    "players": "Avocet (1200) vs. jarrod_lee (1754)",
+    "opening": "English, Nimzovich variation (A20)"
+}

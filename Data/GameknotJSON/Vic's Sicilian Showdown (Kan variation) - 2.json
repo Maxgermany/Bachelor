@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 e6 2. e4 c5 3. Nf3 cxd4 4. Nxd4 a6": "The Sicilan Narjof defence. I will leave the theory of this varation to others as I know very little about it. ",
+        "5. Nc3 Qc7 6. Qf3": "I played this with the idea of Bf4 to follow",
+        "6... Nf6 7. Bf4 e5 8. Bg3": "Forced, but it has the advantage of putting preasure on e5",
+        "8... Bb4": "This is a very strong pin. ",
+        "9. Nf5": "Black can capture on c3 with a slightly better game for white. although after\r\n\r\n9. ...Bxc3 10. Qxc3 Qxc3 11. bxc3 Nxe4 12.Nxg7 the position is unclear. ",
+        "9... O-O 10. O-O-O d6": "Black should have played Bxc3 with equal chances.",
+        "11. Nxg7": "This is an excellent move I am sure vicpine did not see. The point is that the Knight is immune on account of 11. ...Kxg7 12. Qxf6  Kxf6 13. Nd5  with a monster fork!",
+        "11... Qe7 12. Bh4": "Black can not avoid the loss of material.",
+        "12... Kxg7 13. Bxf6+ Qxf6 14. Qxf6+ Kxf6 15. Nd5+ Kg7 16. Nxb4 Rd8 17. Nd5": "This seals the centre and cramps blacks pieces.",
+        "17... Nc6 18. Nb6 Rb8 19. Bc4 Be6 20. c3 Na5": "Black can not take the bishop because he would have no way of defending d6 after the exchange.",
+        "21. Bxe6 fxe6": "This gives black some counter chances in the centre",
+        "22. h4": "so begins the pawn march on the king side. Black has nothing better to do than sit back and let white win. ",
+        "22... Kf6 23. Rh3": "activating all the remaining forces into the game.",
+        "23... Ke7 24. Rhd3": "This ties black completely to the defense of d6. Allowing white to start a pawn march on the king side. ",
+        "24... Nc6 25. g4": "grabs more space on the king side and further cramps blacks position. ",
+        "25... Na7": "This knight is enroute to c8 where it can assist in the defense of d6",
+        "26. Nc4 Nc8 27. g5 b5": "This an attempt to create some counter play against the knight. However, this bad because it drops a pawn",
+        "28. Nxe5": "I grab another pawn exploiting the pin against the rook on e8",
+        "28... Rb6": "all of black's pieces are now tied to d6. ",
+        "29. g6": "creating a past outside pawn. ",
+        "29... hxg6 30. Nxg6+ Kf6 31. Rg1 Rb7 32. Rf3+ Kg7 33. Rg5": "Black resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/vics-sicilian-showdown-kan-variation?gm=10136",
+    "gameName": "Vic's Sicilian Showdown (Kan variation)",
+    "players": "elyhim (1646) vs. vicpine (1819)",
+    "opening": "Queen's pawn (A40)"
+}

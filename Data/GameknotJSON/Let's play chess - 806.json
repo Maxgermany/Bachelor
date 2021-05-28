@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "I've annotated this game simply because it was my first in Gameknot (i.e. there's nothing to recommend the game), and done so without the aid of a computer, so there are likely flaws in the analysis.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6": "Morphy's defence, the main line of the Ruy Lopez. I believe the logic is that it forces White into an early decision without losing a tempo, and is also the first move of a possible queenside pawn advance.",
+        "4. Ba4 Nf6 5. O-O": "Still in the main line of the Ruy Lopez. Black can and does capture on e4 (the Open/Tarrasch Defense), but White gets very good chances by attacking on the e-file.",
+        "5... Nxe4 6. d4": "Better than the immediate Re1, d4 tries to open the e-file and develops the Bc1.",
+        "6... exd4 7. Re1 f5": "?! Here we leave the \"World\" database, but not the Gameknot database. 7... f5 is tempting because 7... d5 pins the Nc6, but after 8. Nxd4, f5 is attacked, and a route to the Black king has been opened.",
+        "8. Nxd4 Nxd4": "The most popular line in the Gameknot database is 8... Qh4 9. g3 Qf6 10. Nxc6 bxc6 11. f3 Bc5+ 12. Kg2 O-O 13. fxe4 fxe4 where White is up a piece for two pawns but Black has a dangerous looking attack. The game move is probably prioritising material; I have no idea which is better.",
+        "9. Qxd4 Be7": "Be7 is thematic in the Ruy Lopez, protecting the king against pins while allowing castling. Here, the g7 pawn is too important to lose. But does Black have anything better?",
+        "10. Qxg7 Bf6": "A natural forcing move, although the knight is re-pinned. 10. Rf8 is also worth considering.",
+        "11. Qh6 Bd4": "? Black now seems to be lost, even at my lower standard. The threat on f2 is an illusion after 12. Qh5+ and 13. Qxf5, whereas Black has opened the h4-d8 diagonal for White's bishop without doing any thing to activate pieces such as Rh8 and Bc7. Better options include 11... c6 and 11... Rf8.",
+        "12. Qh5+ Ke7 13. Qxf5 d5": "Protecting the knight and attacking the queen, but even that's not enough.",
+        "14. Bg5+": "Missing 14. Rxe4+! fxe4 15. Bg5+ Kd6 16. Qf4+ Be5 17. Qd2+ winning the queen, but the game line is good enough.",
+        "14... Kd6 15. Qf4+": "This little manoeuvre gets Black's king back on the e-file.",
+        "15... Be5 16. Qxe5+ Kxe5 17. Bxd8 Rxd8 18. f3": "White is satisfied for the gain of a knight from the attack.",
+        "18... c5 19. c3": "Not 19. fxe4? b5 20. Bb3 c4, trapping the bishop. Credit to Black for resigning now when some would have played on hoping (not unrealistically) for a blunder from White.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=24796",
+    "gameName": "Let's play chess",
+    "players": "kicorse (1200) vs. kurosawa222 (1611)",
+    "opening": "Ruy Lopez (C80), open, Riga variation"
+}

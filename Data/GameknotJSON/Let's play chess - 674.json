@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "This is a defance againist Queen gambit",
+        "1... Nf6 2. c4 e5": "this is a tactic to make a critic.",
+        "3. dxe5 Ng4": "a liar attack to e5",
+        "4. Nf3 Nc6": "white has to save e5",
+        "5. Bg5": "i afraid of opponent will not came to my cheat",
+        "5... Be7 6. Bf4": "but yes, he is going to down soon...",
+        "6... Bb4+": "white's true move must be Bc3",
+        "7. Nbd2": "But he closed wrongly..",
+        "7... Qe7": "this is another liar attack to e5 again...",
+        "8. a3": "will i protect?",
+        "8... Ngxe5": "No, it will be killer for him...",
+        "9. axb4 Nd3#": "and good mate..."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=30080",
+    "gameName": "Let's play chess",
+    "players": "movemaker (1592) vs. must-er (1573)",
+    "opening": "Budapest (A52), Adler variation"
+}

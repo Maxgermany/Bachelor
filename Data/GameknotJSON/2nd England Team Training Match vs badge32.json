@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "(game info on previous page).",
+        "1... e5": "I recommend you stick with this until you have become well acquainted with the open game. IMHO only then should you consider branching out. ",
+        "2. Nf3 Nc6 3. Bb5": "Ruy Lopez, aka 'Spanish Torture'. Playing against this regularly will teach you good defensive skills, but be prepared for some steady, agonizing pain if you don't know what you are doing (hence the name)!  ",
+        "3... Nge7": "Cozio Defense. The least popular known response. Probably, mainly because it doesn't put WT under any pressure to develop and form a plan. Bent Larsen occasionally used it, but saying that he can play just about any old opening and make it work, because he is who he is. ",
+        "4. O-O a6 5. Ba4 f6": "? Too passive for my tastes. Controls g5 maybe? Ng6 had to be considered, as is  \nthe usual plan with The Cozio Defense.",
+        "6. d4": "In most Ruy Lopez variations c3 is needed as preparation for d4. A lot of people in the GK database stuck with this usual plan, probably because faced with a new Black 3rd move. However in most Cozio lines d4 can be played straight away.",
+        "6... b5 7. Bb3 d5": "I'm uncertain about this move. d6 was another option.",
+        "8. exd5 Nxd5": "? Loses material. Na5 seems better.",
+        "9. dxe5 Ndb4": "?? Advancing into enemy territory with reckless abandon.. ",
+        "10. a3": "Just about game over. The rest is pointless so I'll leave it there.",
+        "10... Nxe5 11. Qxd8+ Kxd8 12. Rd1+ Nd7 13. axb4 Bxb4 14. Nd4 Bb7 15. Ne6+ Kc8 16. Bf4 g6 17. Nxc7 Ra7 18. Be6 Rd8 19. Nxb5 axb5 20. Rxa7 Bc6 21. Rc7+ Kb8 22. Rcxd7+ Ka8 23. Rd7xd8+ Kb7 24. Rb8+ Ka7 25. Nc3 g5 26. Ra1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/2nd-england-team-training-match-vs-badge32?gm=17805",
+    "gameName": "2nd England Team Training Match vs badge32",
+    "players": "toiletduck1 (1834) vs. badge32 (1296)",
+    "opening": "Ruy Lopez (C60), Cozio defence"
+}

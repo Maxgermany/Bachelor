@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. c4 c5": "my favourite, I feel like I'm very familiar with the typical pawn structures, plans and just general play that arises from a lot of symmetrical English positions",
+        "2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. Nc3 Nf6": "so far both sides developing in the same manner and neither one has yet to commit themselves to the centre, this is one of the key ideas in the English, its flexible and looks to keep a number of options as to how to strike in the center",
+        "6. O-O d5": "according to gameKnot the first non book move. I could have maintained the symmetry for another move, however I felt it best to be the first one to strike since I can easily castle at a moments notice I'm unlikely to run into any trouble by having an uncastled king. But I felt if I waited one move more, white would get to shape how the game would progress",
+        "7. cxd5 Nxd5 8. Re1": "?! The first suspect move, There are a number of different ways for white to organise their pieces right now as well as a number of different plans to adopt. I'm not going to give y opinion on which is best since there are many plausible options, however I do feel that in most cases the rook will end up being misplaced here since this move doesn't really help achieve anything, basically I think its a waste of time, as white should keep the rooks options open until its clear where it does belong. obviously this is not a big deal though I just think there were more accurate moves available",
+        "8... O-O 9. Qb3": "Attacking the knight. The queen does often come to this square in English positions, If I were white I might have started thinking about which pawn advance I wanted to make, but this move isn't bad and I'm not sure what I would do myself so I'm not going to be overly critical of this move, the only potential down side being that if white choses to make advances on the queenside, then this move may slow it down a little ",
+        "9... Nc7": "!? You will find my knight make this journey in a decent amount of my games, especially in English positions I find that from c7 (normally I arrive via f6-e8-c7) I have the advantage of keeping my bishops diagonal clear, I also keep an eye on b5 which may help facilitate a b pawn advance and the big one is also that it give me a route to e6 which can be a great square in these positions since often having both knights with their sites on d4 is beneficial especially in cases where whites already committed the e pawn to advancing two squares",
+        "10. Rb1": "okay, this gets out of my DSB diagonal and probably means whites looking to make advances on this wing, to do this he will need to move his queen first",
+        "10... Rb8": "I do the same at my end, if I chose to go with the same plan, then mine will come to fruition just that little bit quicker because my pieces are co-ordinated more effectively to achieve it. This also has the benefit of protecting my b pawn in case I want to play ...Be6",
+        "11. Qc2 b6": "I go with a more restrained approach. it was possible to play ...b5 but I like to keep pawns as close to home as possible, the further away they go the more likely they are to find themselves over extended. with this move I'm basically protecting my c pawn and preparing to fianchetto my LSB in order to contest the long light square diagonal",
+        "12. d3 Bb7 13. a3 Ne6": "A lovely spot for the knight, just as white prepares to strike on the queenside make a play in the centre using my pieces. the 'threat' is to jump into d4 which would be uncomfortable for white so I'm hoping to commit whites e pawn to advancing, there by 'softening' whites d pawn which I can try to turn into a target ",
+        "14. e3": "white reacts to the threat which gives me something to aim at. Now one possible plan is to try to control d4 which would fix whites d pawn in place, one way to do this is to get my e6 knight out of the way then follow up with ...e5, I still need to be careful about whites ideas though, if white successfully breaks at my c pawn with b4 then fixing d3 will be a little harder. For now however I chose to try weaken the light squares around whites king since my knight on e6 could potentially be well placed to take advantage of it",
+        "14... Ne5 15. Nxe5 Bxe5": "15...Bxg2?? 16.Nxf7",
+        "16. Bxb7": "A little too complying in  my view, I had been half expecting 16.Ne4",
+        "16... Rxb7": "Not a bad square for the rook, at some point I'll want to double up probably on the c file, this makes that quicker to achieve",
+        "17. b4": "? whites counter play comes a little to late, something had to be done about the weak light squares around the king",
+        "17... Ng5": "! and now we see another downside to whites Re1 earlier in the game. In my view white lost some time in the early parts of the game (Re1,Qb3) and that is whats allowed black to take the initiative in the position",
+        "18. Kg2 Qd7": "Even stronger was Qc8 which would take advantage of whites knights position",
+        "19. f4 Qh3+ 20. Kh1 Bxc3": "Stronger than the immediate Nf3, this move order allows for some other possible ways for white to go wrong",
+        "21. Qxc3 Nf3 22. Rb2": "forced ",
+        "22... Nxe1": "?! this move is still winning but I missed the correct 21...cxb4! ( I realised as soon as I played this move)",
+        "23. Qxe1 cxb4 24. axb4 Rc7": "Preparing to double on the c file, whites only hope is to try and achieve counterplay on the long dark diagonal, however black isn't going to allow it ",
+        "25. Rf2": "This gives whites queen a little more freedom since ...Qf1# mate was always a threat if whites queen were to move, personally however I feel improving the king position by Kg1 would do the same job   ",
+        "25... Rfc8 26. Bb2 Rc7c2 27. Ba3 Rc2c3 28. Qa1 Rxd3": "Missing 28...Rxa3! which at the time I didn't see because I thought the queen would be covering c1 however as it turns out black has the clever 28...Rxa3 29.Qxa3 Rc2! which illustrates another reason the king move should have been preferred a couple of moves ago.",
+        "29. Bb2 Rxe3 30. Bd4 Rxg3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/g8-f6-d5-c7-e6-g5-f3-e1?gm=51146",
+    "gameName": "g8-f6-d5-c7-e6-g5-f3-e1",
+    "players": "lostinadaze (1899) vs. thereaper1 (1930)",
+    "opening": "English (A30), symmetrical variation"
+}

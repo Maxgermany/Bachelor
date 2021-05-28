@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5": "Seizing space in the manner of Tarrasch. ",
+        "4... c5": "The traditional counter. ",
+        "5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. c3": "Constructing the pawn chain in the Classical manner. ",
+        "8... b6": "Attempting to solve the problem of the bad QB. ",
+        "9. f4 Ba6 10. Nf3 Qd7 11. a4": "Resolutely resisting the exchange of B's. ",
+        "11... Nbc6": "Intending (with ...Kt-R4) to seize the white squares. ",
+        "12. b4 cxb4 13. cxb4 Bb7": "The plan for this Bishop has been defeated by simple, logical play. ",
+        "14. Nd6 f5 15. a5 Nc8": "15...PxP would allow 16 P-Kt5 Kt-Q1 17 RxP, with a huge gain in space. ",
+        "16. Nxb7 Qxb7 17. a6 Qf7 18. Bb5": "It is White who triumphs on the white squares, and he can also seize the open QB file at his leisure. ",
+        "18... Nc8e7 19. O-O h6 20. Rfc1 Rfc8 21. Rc2 Qe8": "Allowing a fatal pin on QB3. But 21... Kt-Q1 is no better: it allows 22 R/1-QB1 RxR 23 RxR R-B1 24 RxR KtxR 25 Q-B3 Kt-K2 26 Q-B7, and White has an easy win. ",
+        "22. Rac1 Rab8 23. Qe3 Rc7 24. Rc2c3 Qd7 25. Rc1c2 Kf8 26. Qc1 Rbc8 27. Ba4": "White now threatens P-Kt5, forcing the Black Knight away, and winning a piece on QB7. To meet this, Black has begun bringing his King over, but as the King would arrive too late, a pawn must now be given up to gain time. ",
+        "27... b5 28. Bxb5 Ke8 29. Ba4 Kd8": "The King has arrived, and now 30 P-Kt5 Kt-QKt1 would not win White a piece on QB7. ",
+        "30. h4": "Black suddenly realizes he is in Zugzwang. Nothing can be moved except the K side Pawns, and they will soon have no moves left. Then the only move will be ...Q-K1, after which P-QKt5 will win a piece on QB7 after all. So Black resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/under-the-gun?gm=67890",
+    "gameName": "Under The Gun",
+    "players": "Aleksandr Alekhine (GM) vs. Aron Niemzowitsch (GM)",
+    "opening": "French (C17), Winawer, advance, Bogolyubov variation"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6": "Up to here, this was a classic book opening",
+        "5. Ne2": "This was not a brilliant move as it blocks the white bishop. I personally would have played 5.Nf3.",
+        "5... Nc6": "I decided to put pressure on the central pawn d4. Although attacking it now would be unwise.",
+        "6. f4": "White decides to add some more protection on e5 which I personally think was not necessary. White should focus on developing its pieces and unblocking its bishop.",
+        "6... Be7": "I decided to develop my bishop.",
+        "7. g3": "White builds up quite an interesting pawn structure. The white bishop is now finally free to move.",
+        "7... h5": "I decided to bring out my knight on the King's side and to use it to put it on g4 which I think was a good spot. But, first I decided to secure g4 by advancing my pawn. Things really turned out for me as you will see later.",
+        "8. Bg2": "Finally bringing his bishop out.",
+        "8... Nh6": "I decided to bring my knight out. h6 is not a very good spot for the knight. My goal was to put it on g4. However, things turned out better than I planned.",
+        "9. O-O": "castling",
+        "9... cxd4": "I finally decided to attack the central pawn on d4",
+        "10. cxd4": "White takes the pawn back.",
+        "10... Nxd4": "I decided to take the pawn with my knight.Now, why did I do this? Well, if white takes my knight, I will not be immediately able to take it back (11...Qxd4 12.Qxd4 loses my Queen). However, the white knight would be trapped since it cannot move (due to the threat my Queen makes on the King). so, I'm fine.",
+        "11. Nxd4": "White takes my knight.",
+        "11... Bc5": "I'm attacking the white knight with my bishop. The white knight is pinned down and cannot move. White has no choice but to protect it.",
+        "12. Be3": "Bad move. This would allow 12...Qxb2 followed by Qxa1. However, this is not what I played.",
+        "12... Ng4": "Attacking the white bishop. My knight is protected by the pawn on h5.",
+        "13. Bf2": "White ignores the threat on the b2 pawn. Instead, it moves the bishop back to protect it with the rook.",
+        "13... Nxf2": "I decided to take the bishop.",
+        "14. Rxf2": "White takes my knight and protects the pawn on b2. This prevents my Queen to capture the pawn.",
+        "14... Bxd4": "I took his knight (finally) and his rook is pinned down.",
+        "15. Qe1": "Protecting his rook I guess. Although I am quite happy to trade my bishop for a rook. Anyway, this was a bad move. I would have done 15.Qc2",
+        "15... Qxb2": "I take his pawn, which allows me to take his rook. In fact, my Queen is safe.",
+        "16. Nd2": "As a last resort, he moves his knight away to protect his rook with his queen.",
+        "16... Qxa1": "White times out at this point. In fact, white had a choice. Either trade the queens or lose his other rook. By the way, this was my first annotation on my first win on Gameknot. Please do comment and give me feedback on how to improve my game and/or my annotations."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=50074",
+    "gameName": "Let's play chess",
+    "players": "agentofabstrct (1200) vs. boiteporte (1200)",
+    "opening": "French (C02), advance, Wade variation"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. Nf3 e6": "Passive. Better would have been d5 or Nf6.",
+        "2. Nc3": "Two Knights Tango. Leads to classical positions but surprises the opponent. ",
+        "2... d5 3. e4": "Contesting for the center from the very start. ",
+        "3... dxe4 4. Nxe4 Bd6": "Although the idea of retaining a stronger center on Nxd6 is good, black needs to watch for a pin on the f6 knight in the future. ",
+        "5. d4 Nf6 6. Bg5 Nbd7 7. Bc4 h6 8. Bh4 g5": "A damaging move. I have yet to castle to kingside. This may have been appropriate if I castled kingside. ",
+        "9. Nxf6+ Qxf6 10. Bg3 Bxg3 11. hxg3 e5": "Premature. Better would have been to develop the bishop on b7 and prepare for queenside castling.",
+        "12. Qe2 b5": "The reason for this gambit was unclear to me. Maybe to shake off some pressure on f7,  but it does not seem validated. Black has ruined chances to castle queenside. ",
+        "13. Bxb5 O-O 14. Bxd7 Bxd7 15. Nxe5 Rfd8": "To keep active, black should have played Rfe8. ",
+        "16. Qh5": "Earlier mistakes begin to appear in their true form. ",
+        "16... Kg7 17. O-O-O": "Giving myself more ammunition before I make the final assault. ",
+        "17... Qa6": "A desperate attempt for counterplay that only ends in mate or the loss of major material.",
+        "18. Qxf7+ Kh8 19. Ng6+ Qxg6 20. Qxg6": "Lessons of the game:\n\n1) Find yourself a solid home for your king before making a pawn storm. \n\n2) Being solid also means remaining active and making your opponent uneasy by your counterplay. "
+    },
+    "url": "https://gameknot.com/annotation.pl/early-pawn-storm-ends-in-disaster?gm=43100",
+    "gameName": "Early Pawn Storm Ends in Disaster",
+    "players": "klacsanzky (1677) vs. tubruk (1180)",
+    "opening": "Reti opening (A04)"
+}

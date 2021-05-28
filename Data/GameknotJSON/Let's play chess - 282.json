@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "Hi guys this is a game i played against gunnar01, a player with over 2000 rating and got my ass handed to me. Any tips where i could have don't better are appreciated. So i started with e4.",
+        "1... Nf6 2. Nf3 d5 3. c4": "This is the queens gambit, i usually try to play it, but i should study it a bit more.",
+        "3... c6": "Declined variation.",
+        "4. e3 Bf5 5. Bd3": "shouldn't have done this. Gave my better bishop away.",
+        "5... Bxd3 6. Qxd3 Nbd7 7. Nc3 e6 8. O-O Bd6 9. a3 O-O 10. Bd2 Qe7 11. Rfe1 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5": "here i went wrong badly. i didn't notice the pressure on h2, and that mistake cost me the game in my opinion.",
+        "14. cxd5 Qxh2+ 15. Kf1 Qh1+ 16. Ke2 Qxg2 17. Reh1 Qg4+": "queen had to move because it would've been trapped by rag1",
+        "18. Kf1 Qf3 19. Rg1 cxd5 20. Nb5 Ne4 21. Be1 Ng3+ 22. Rxg3": "the only legal move.",
+        "22... Bxg3 23. Kg1": "atleast attacking the bishop.",
+        "23... Be5 24. Bd2 Qh3 25. Re1": "here i blunder completely and get in to a mating net.",
+        "25... Bh2+ 26. Kh1 Bg3+ 27. Kg1 Qh2+": "from here its mate next move. where did i go wrong and where i could have done better? hope you enjoyed this rather poor annotation."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=52396",
+    "gameName": "Let's play chess",
+    "players": "vavavi (1298) vs. gunnar01 (2057)",
+    "opening": "Queen's pawn game (A46)"
+}

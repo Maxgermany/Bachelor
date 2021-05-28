@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4": "Maybe too soon to open here",
+        "5... c5 6. c3 Nc6 7. Nb3": "I love N in b3 defending and not being attacked by black\u00b4s bishops, but... I let that idea run in my mind without questioning it",
+        "7... Qb6 8. Nf3 Be7 9. Be2": "Now white bishop should be located in d3 to be active, but somehow my plan is fouled from the start.",
+        "9... cxd4 10. cxd4 O-O 11. O-O": "However, Bd3 is open now.",
+        "11... a5": "Black counteracts where it has more chances. My Nb3 is thereatened and I see no good defense, I may have to give up on b2. Spent a few secs here deciding what to do. I feel contrained.",
+        "12. Be3 a4 13. Nbd2": "There we go, trying to move pieces onto the King\u00b4s wing. b2 may be worth the sacrifice.",
+        "13... Qxb2": "Black thought on this for awhile, is not easy to decide whether it is worth or not taking on b2. On the other hand, queen seems to be relative safe here.",
+        "14. Bd3": "I started to make fast movements trying not to let black have a clear idea of what to do. I am not trying to attack on the queen\u00b4s but on the King\u00b4s wing.",
+        "14... f6": "I was expecting 14...f5 straight. Or maybe 14..Qc3 (not that good). I had to think now more than I wanted to decide to do the net attack (or not to do)",
+        "15. Bxh7+": "It seems interesting at least. If not taken, compesnates the lost pawn and leaves a hole to make progress in a future attack. I\u00b4d even say black needs to accept the sacrifice, otherwise BQ will go onto h5",
+        "15... Kxh7 16. Ng5+": "The second one hurt me more to make it, since I really did not see a clear line to win the game, although the position seemed ripe to try it: I will open f column and have an strong attack. However, black can return material several ways, and thus may achieve compensation.",
+        "16... fxg5 17. Qh5+ Kg8 18. fxg5": "Now the threat is g6. I spent most of the remaining time thinking on what to do in case of 18...Qc3 (threatening B in e3 and then bringing the queen near the castling to reinforce defense; or even N3xd5. I still have the feeling black can find a defense here, but maybe",
+        "18... Rxf1+": "This doesn\u00b4t solve black\u00b4s problems, I\u00b4d say it is even making them worse: Now if Qc3, it is doable Rf3",
+        "19. Rxf1 Nd8": "Now the attack is unstoppable. I was thinking what to do in case of N3xe5 or Nf6",
+        "20. g6 Nf8 21. Rxf8+ Kxf8 22. Qh8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz?gm=58680",
+    "gameName": "blitz",
+    "players": "kenderfender (1853) vs. ??? (1885)",
+    "opening": "French (C05), Tarrasch, Botvinnik variation"
+}

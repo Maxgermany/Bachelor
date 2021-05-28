@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. g3": "I really don't like this move to open. It seems like a very weak first move. I wish I had opened Nf3 instead, seems to give me the same options.",
+        "1... c5 2. Nc3 d5 3. e3": "Really not liking the way my pawns look.",
+        "3... Nc6 4. Bb5 d4 5. Bxc6+": "Not sure about my decision to capture. Since my pawns were all jagged I figured a knight might be more valuable to him. In addition, he would double a pawn and that might be an advantage.",
+        "5... bxc6": "Doubled pawn",
+        "6. Ne4": "So I threaten the unprotected (hindsight: with an unprotected)",
+        "6... f5 7. Nxc5 Qd5": "Now, I think I should have spent more time on my minor pieces. I have since been working the tactical exercises, but I didn't see the fork.",
+        "8. Qf3": "Lesser of two evils, I give up on the knight and offer a trade, doubtful black will accept.",
+        "8... Qxc5": "He doesn't",
+        "9. c3": "Trying to get my bishop out of there.",
+        "9... dxc3 10. bxc3 Nf6 11. d4": "Didn't see the fork at c3.",
+        "11... Qxc3+ 12. Kd1": "Didn't want to lose both",
+        "12... Ne4 13. Ne2 Qxa1 14. Ke1 e5": "Some thought I could castle by hand, but I really was just fleeing.",
+        "15. Kf1 Nd2+ 16. Kg2": "And in my haste, didn't see the queen being threatened. Game is pretty much over, but I keep playing.",
+        "16... Nxf3 17. Kxf3 Qxa2 18. h3 Qd5+ 19. e4 Qxe4#": "Thanks Dave for the game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk?gm=51447",
+    "gameName": "-Walking the walk-",
+    "players": "russ20124 (1228) vs. dynamic_dv (2269)",
+    "opening": "Benko's opening (A00)"
+}

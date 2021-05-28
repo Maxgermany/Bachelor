@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6": "Philidor, Larsen variation...leads to sharp positions.",
+        "6. Bg5 Bg7 7. h3 O-O 8. Qf3 h6 9. Bxf6 Bxf6": "White's play seems more focused on a tactical than positional solution.",
+        "10. Nb3 Re8 11. Nd2 Be6 12. Bd3 Nc6 13. O-O Ne5 14. Qd1 Nxd3 15. cxd3": "While white does have central pawns, black now has strong bishops, and can open the position.",
+        "15... d5 16. exd5 Bxd5 17. Nf3 c5 18. Nxd5 Qxd5": "Suddenly Black has achieved the defense's strategic goals, force white to play defensively.",
+        "19. Qc2 Rad8 20. Rfd1 Re6 21. a3 Red6 22. Rac1 b6 23. Qd2 Qb3": "Black chooses an aggressive approach, calculating that the more unbalanced pawn position favors black.",
+        "24. Qxh6 Qxb2 25. Ng5 Bxg5": "forced. ",
+        "26. Qxg5 Rd6xd3": "Black decides on a risky course, 26 ... Rxd3!?. Simply 26..Qxa3 is better, since 27 Ra1 is met by ...Qb3.",
+        "27. Qxd8+": "2 rooks for the queen. Black does have some dangerous queenside pawns  however.",
+        "27... Rxd8 28. Rxd8+ Kg7 29. Re1 Qxa3": "White has two rooks, but Black's passed pawns are menacing.",
+        "30. Rb8": "Whtie wants to double rooks while preventing b5, but then Black can play c4.",
+        "30... c4 31. Rb7 c3 32. Ree7": "Threatens pawns along the 7th rank, but Black keeps pushing the pawn.",
+        "32... c2 33. Rexf7+ Kh6 34. h4": "threatens checkmate, but Black has an out...",
+        "34... c1=Q+ 35. Kh2 Qd6+ 36. g3 g5 37. Rfh7+ Kg6 38. Rbg7+ Kf5 39. Rxg5+ Ke4": "Now what?",
+        "40. Rg4+ Kf3 41. Rf4+": "White keeps checking. ",
+        "41... Qcxf4": "This is the right moment to sac the queen and take the rook, suddenly White's king position is fatal.",
+        "42. gxf4 Qxf4+ 43. Kh1 Kxf2": "White is unable to prevent checkmate, and resigns. A good example of the potential of the Philidor if White is not careful."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-kingvader?gm=17690",
+    "gameName": "Challenge from kingvader",
+    "players": "kingvader (1750) vs. dmaestro (1560)",
+    "opening": "Philidor (C41), Berger variation"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5": "Sicilian Defence",
+        "2. Qf3": "This is not a good move. It is only to easy for black to get rid of the threat on f7 while developing at the expense of teh white queen. Better is Nf3 to be followed with d4.",
+        "2... Nc6": "Developing normally.",
+        "3. Bc4": "Creating a mate threat on f7, but it is easily stopped.",
+        "3... Ne5": "Stopping the mate as well as threatening Nxc4.",
+        "4. d4": "Really bad move, leaving the queen hanging. Qb3 was best.",
+        "4... Nxf3+": "Free queen.",
+        "5. Nxf3 e6": "The rest of the game needs little notation as black is so far up on material.",
+        "6. Ne5 cxd4 7. O-O Nf6 8. b4 Bxb4 9. Nd2 O-O 10. Ndf3 Bc3 11. Rb1 Nxe4 12. Re1 d5 13. Be2 f6 14. Nd3 Bxe1 15. Nfxe1 Nc3 16. Rb4 Nxe2+ 17. Kf1 Nxc1 18. Nxc1 e5 19. h4 b6 20. Ne2 Qd6 21. a3 Ba6 22. Rb3 Bc4 23. Rg3 f5 24. h5 f4 25. Rg5 e4 26. h6 Qxh6 27. Re5 Qh1#": "The amte takes advantage of the oin onthe e2 knight."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-anybody?gm=825",
+    "gameName": "Chess anybody?",
+    "players": "builttospill (1200) vs. smoran90 (1200)",
+    "opening": "Sicilian defence (B20)"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "This game was played on the German chess site schacharena.de. It is interesting for a cross pin in the middle game.",
+        "1... d6 2. Bc4": "A bit unusual, the standard moves are d4 and Nc3 after black's Nf6.",
+        "2... Nf6 3. d3": "Still Nc3 could have been played here.",
+        "3... g6 4. Ne2 Bg7 5. O-O O-O 6. Bb3 Nc6": "Black develops the pieces further.",
+        "7. c4": "There are some weak dark squares in white's camp already: d4, b4.",
+        "7... a5": "Attack on the queen side.",
+        "8. Ba4": "White forgets to develop his pieces.",
+        "8... Nb4 9. a3 Na6 10. Re1 Bd7": "Attacks whites only active piece.",
+        "11. Bxd7 Qxd7 12. Qd2 Nc5": "Threatens a knight fork on b3.",
+        "13. Qd1 b5": "Opens the b-line.",
+        "14. f3": "Weakens one more dark square: e3. Now there are several dark diagonals in white's camp open for black to exploit.",
+        "14... bxc4 15. dxc4 Rfb8": "Black searches for inititative on the queen side.",
+        "16. Nf4 Nb3 17. Ra2 Qc6": "The queen enters the queen side action.",
+        "18. Qc2 Nxc1 19. Qxc1 Bh6": "Pins the knight to the queen. Here an exciting game takes its course!",
+        "20. Nd5": "! If 20...Bxc1 then 21.Nxe7  and forks king and queen.",
+        "20... Qc5+": "The queen goes on the dark diagonal towards the white king.",
+        "21. Ne3": "A cross pin!! Normally this is lethal, but white finds here again and again a way to hold on.",
+        "21... Rb3 22. Nc3 Rab8 23. a4": "?! This frees square a4.",
+        "23... Rb8b4 24. Kf2 Rxc4 25. Kg1 Rcxc3 26. bxc3 Rxc3 27. Qb2 Bxe3+ 28. Kf1 Qc4+ 29. Qe2 Qxe2+ 30. Raxe2 Bb6 31. Rd1 Ra3 32. e5 Nd7 33. exd6 exd6 34. Re8+ Kg7 35. Re7 Ne5 36. f4 Nc4 37. Rc1 Ne3+ 38. Ke2 Rxa4 39. Rxe3 Bxe3 40. Kxe3 c5 41. Rd1 Rd4 42. Rb1 a4 43. g4 f5 44. Rb7+ Kh6 45. g5+ Kh5 46. Rxh7+ Kg4 47. h3+ Kg3 48. Rg7 Rxf4 49. Rxg6 a3 50. Rxd6 Re4+ 51. Kd2 Rd4+ 52. Kc3": "? Loses.",
+        "52... Rxd6 53. Kc4": "The rest was blitz, playing for the opponent to lose on time. But fortunately 2 min were enough for me to get the game into the safe mate-harbour.",
+        "53... a2 54. Kxc5 Rg6 55. Kc4 a1=Q 56. Kd5 Qa4": "Closes the king in. The only thing now to avoid is stalemate!",
+        "57. h4 Qe4+ 58. Kc5 Rc6+ 59. Kb5 Qc4+ 60. Ka5 Ra6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/match-on-schacharena-de?gm=9386",
+    "gameName": "Match on schacharena.de",
+    "players": "tozo64 (1655) vs. brulla (1585)",
+    "opening": "Pirc defence (B07)"
+}
