@@ -27,7 +27,8 @@ def createCorpus():
             jsonFile = open("../Gameknot/JSON/" + folder + "/" + filename, "r", encoding="utf-8")
             content = json.load(jsonFile)
             for move in content["moves"]:
-                file.write(content["moves"][move] + " ")
+                file.write((content["moves"][move] + " ").replace("\n", " "))
+            file.write("\n")
             jsonFile.close()
 
     file.close()
