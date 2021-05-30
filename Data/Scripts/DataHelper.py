@@ -1,6 +1,8 @@
+import re
 from os import walk
 import os
 import json
+import string
 
 def sortFilesInFolder():
     _, _, filenames = next(walk("../Gameknot/JSON/"))
@@ -32,6 +34,46 @@ def createCorpus():
             jsonFile.close()
 
     file.close()
+
+def preprocessCorpus():
+
+    processingFunctions = ["lowerCase", "filterOtherLanguages"]
+
+    file = open("../Gameknot/corpus.txt", "r+", encoding="utf-8")
+
+    content = file.read()
+
+    file.close()
+
+    for function in processingFunctions:
+        content = eval(function + "(content)")
+        file = open("../Gameknot/corpus" + function + ".txt", "w+", encoding="utf-8")
+        file.write(content)
+        file.close()
+
+def lowerCase(content):
+    return content.lower()
+
+def filterOtherLanguages(content):
+    lines = content.split("\n")
+
+    contentTemp = ""
+
+    file = open("../Gameknot/filteredLines.txt", "w+", encoding="utf-8")
+
+    for line in lines:
+        if any(x not in string.printable for x in line):
+            file.write(line)
+            file.write("\n")
+            file.write("-------------------------------------")
+            file.write("\n")
+        else:
+            contentTemp += line
+            contentTemp += "\n"
+
+    file.close()
+
+    return contentTemp
 
 
 
