@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6": "Sicilian Dragon",
+        "6. Be3 Bg7 7. f3": "This is my favorite line, the Yugoslav.",
+        "7... O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8": "This position looks fairly normal, doesn't it? White is supposed to play Bb3 here, but instead, he messes up.",
+        "11. g4": "g4?????? That was a huge error, thanks to blacks series of discovered attacks that put him into a winning game.",
+        "11... Nxd4": "Nxd4! Black now posts a discovered attack on the c4 bishop. White can't capture 12. Bxd4 like he wants to.",
+        "12. Qxd4 Nxg4": "That move gains a pawn, with a discovered attack on the queen. If 13.Qd3 then Ne5. If 13.Qd2 then Rxc4. If 13.Qd5 then Nxe3. Qxa7 wouldn't work either.",
+        "13. Bxf7+": "The best option, in my opinion.",
+        "13... Rxf7 14. Qd2 Nxe3 15. Qxe3 Bxc3 16. bxc3 Qa5": "White's Position is opened up.",
+        "17. Kb1 Rc5": "Trying to get the rook into the action.",
+        "18. Rd4 Rb5+ 19. Ka1": "Rb4 loses another pawn.",
+        "19... Qa3 20. Rb1": "Stopping mate",
+        "20... Be6": "Be6! A huge threat, not stoppable unless...",
+        "21. Rd5 Bxd5 22. exd5": "White resigns here. He's down a whole rook. This game shows how one simple messup in the sicilian dragon can cost the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-dragon-gone-bad?gm=36683",
+    "gameName": "Sicilian Dragon Gone Bad",
+    "players": "???  vs. ??? ",
+    "opening": "Sicilian (B78), dragon, Yugoslav attack, 10.O-O-O"
+}

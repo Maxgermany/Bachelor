@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 f5 2. Nf3 g6 3. Bf4": "I do not have much experience playing against the dutch. I played Bf4 cuz it seems natural and aims at a weak point in blacks defense(c7). I also did not like the prospect that my bishop would be blocked by it's own pawns so I developed it out side the pawn chain. ",
+        "3... Nf6": "The heart of black's counter attacks are through e4.",
+        "4. e3": "The disadvantage of playing e3 is that it becomes an attacking point for black via f5-f4. ",
+        "4... Bg7 5. Bc4": "Developing the bishop to it's optimal spot and slowing down black's development by preventing the immediate castling",
+        "5... d5": "I had planned for this so I was not surprised that Biggie played it. From my prespective it makes the center more static leading to a more quiet game.",
+        "6. Be2 O-O 7. c4": "This is a typical move by me where I put immediate pressure on the centre. ",
+        "7... Nh5": "I am not sure exactly what black was thinking here but it is too aggressive. I am a guy that like to keep a clean pawn chain so  I will not allow an exchange on f4. ",
+        "8. Be5": "This is a good reply to black's last move as it leaves white with greater control of the centre. ",
+        "8... Nd7": "black rightly avoids the exchange of bishops because he gets no real advantage from it. White however, achieves that positional advantage of a nicely central knight. ",
+        "9. cxd5": "With this capture white completely owns the centre. As well it give white space to create attacking chances along the b2-g8 diagonal.",
+        "9... Nxe5 10. dxe5": "very nice pawns!",
+        "10... f4": "?? a clear blunder that weakens the king side for very little in return. I am not quite sure what black had in mind with this move. ",
+        "11. Nc3": "? An OK move but perhaps too risky in the fact that it allows black to open the f file for his rook. Much better is 11.E4 and it will be hard for black to draw. I am guilty of playing too passively. ",
+        "11... Bg4": "Black increases his control of the  f file. ",
+        "12. O-O": "?? This was my last chance to play the advantageous e4. I wanted to hold a semi balance on the f file and feared that my king would get stuck in the centre. playing e4 is clearly better after which black has his work cut out for himself to open the f file. ",
+        "12... fxe3 13. fxe3 Bxf3 14. Rxf3": "! this forces the exchange of rooks and black losses any hopes of controlling the f file. ",
+        "14... Bxe5 15. Rxf8+ Qxf8 16. Bxh5": "with black's chances of controlling the f file neutralized and with a clearly superior position I had straight into the endgame. ",
+        "16... gxh5 17. Qxh5 Qg7": "However, because white allowed black to play fxe3 he does have the draw. The rest of the game is an exercise it frustration for me.",
+        "18. Rf1 Rf8 19. Rxf8+ Kxf8 20. Ne4 Bxb2 21. Qf5+ Qf7 22. Qc8+ Kg7 23. Qxb7 Be5 24. Nd2 Qg6 25. Qb4 Kf8 26. Qb3 Qa6 27. Nc4 Bf6 28. h3 Ke8 29. Kh2 c6 30. Qb8+ Kd7 31. Ne5+ Bxe5+ 32. Qxe5 c5 33. Qf5+ Kd8 34. Qxh7 Qd6+ 35. Kg1 Qxd5 36. Qc2 c4 37. Kf2 c3 38. Qxc3": "1/2 1/2"
+    },
+    "url": "https://gameknot.com/annotation.pl/leningrad-defence?gm=24910",
+    "gameName": "Leningrad defence",
+    "players": "elyhim (1908) vs. biggie (2114)",
+    "opening": "Dutch (A80)"
+}

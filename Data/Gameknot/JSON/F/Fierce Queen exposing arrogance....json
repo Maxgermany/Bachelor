@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Be3": "as we have seen before, Black is not interested in c5 at all: it is just tempo...",
+        "4... e6": "just continuing our scheme...",
+        "5. c4 Ne7 6. Nc3 O-O": "first stage of the opening done...",
+        "7. Rc1 d5": "as always...",
+        "8. dxc5": "not helping in any way...",
+        "8... Qa5": "exposing Whites' real weaknesses...",
+        "9. Bd4 Nbc6": "blowing up Whites' position...",
+        "10. Bxg7 Kxg7 11. exd5 exd5": "leaving White empty handed...",
+        "12. Be2 Rd8": "the final blow...",
+        "13. Nd4": "White is oblivious...",
+        "13... dxc4": "this was enough: White loses Nd4, and resigned on the spot..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-exposing-arrogance?gm=64238",
+    "gameName": "Fierce Queen exposing arrogance...",
+    "players": "madowo (1966) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

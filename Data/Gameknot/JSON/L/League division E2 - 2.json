@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. c3": "Rather than play d4 and possibly wind up conceding an early center square. I played c3 to set up d4. ",
+        "2... d5 3. d4": "After d4, the game would be more open. Early captures and counter movements would drive the action during the match. ",
+        "3... dxe4": "My opponent seized the opportunity to claim my e4 pawn and establish himself on my half of the board. ",
+        "4. dxe5": "I understood that by playing dxe5, I was opening up my Q to be captured. I would be behind in the match due to my opponent having more of the initiative early on. ",
+        "4... Qxd1+ 5. Kxd1 Bg4+": "My opponent again placed me in check early on forcing me to make concessions. I opted to block with f3. The piece itself would be easy for my opponent to deal with. ",
+        "6. f3 exf3 7. gxf3": "After gxf3, my K-side pawn structure was non-existent. ",
+        "7... Bh5 8. Ne2": "Given a slight reprieve from the pressure, I would begin developing my minor pieces. Computer analysis indicates that Be2 was the best move in this scenario. Mainly, I can see that move having the advantage due to maintaining better coverage over the white diagonals early in the match. Additionally, it would provide protection to the f3 pawn. ",
+        "8... Nc6": "Better play here from my opponent would have left me in a larger gap. He would have picked up the free pawn (f3) and set up a positioning on my R. ",
+        "9. Bg2": "The computer analysis indicates that f4 would have been the appropriate move in this situation. There was a clear threat to the piece and f4 would have provided protection to the hanging pawn. ",
+        "9... O-O-O+ 10. Nd2": "My opponent castled long and I continued with development. ",
+        "10... Nxe5 11. Nf4": "My opponent moves his N towards a more central location, controlling the center of the board. I opted to make a move against his LSB to remove it from its perch. ",
+        "11... Nc4": "Computer analysis indicates that this move by my opponent, was a 3 pawn swing in my favor. The threats posed by his N are not an immediate worry. I would be able to play counter-moves and not give up any ground in material.  ",
+        "12. Re1": "The computer favored Bh3+. This would have led to a favorable line. The reasoning behind my movement of Re1 was to claim the open file. ",
+        "12... Nf6 13. Kc2 Bg6+ 14. Kd1 Bc5 15. b3 Na5 16. Bh3+": "The computer says my best move here is b4 which I played next. ",
+        "16... Kb8 17. b4 Bf2 18. Rf1 Be3 19. bxa5": "The computer favored me playing Nxg6, which was also the best move it preferred on the next line as well.",
+        "19... Rhe8 20. Re1 Bxf4 21. Rxe8 Rxe8 22. Nc4 Rd8+ 23. Ke2 Nh5 24. Bxf4": "According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent. ",
+        "24... Nxf4+ 25. Kf2 Nxh3+ 26. Kg3 Bf5 27. Ne3 g6": "I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure. ",
+        "28. Nxf5 Ng5 29. Ne3 Rd3 30. Kg4": "Rd1 had crossed my mind, which the computer said was the best move. ",
+        "30... h6 31. Rd1 Rxd1 32. Nxd1": "I am down a pawn in material but my structure is completely shattered. ",
+        "32... f6 33. f4 f5+ 34. Kg3 Ne4+ 35. Kf3": "My opponent accepted a draw. "
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e2?gm=55733",
+    "gameName": "League division E2",
+    "players": "jallen85 (1085) vs. kevincr (1143)",
+    "opening": "KP (C20), Lopez opening"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nIt is high time I did an annotation.  Haven't done any since my cancer diagnosis (had my 3rd round of chemo today). Feeling a bit more up to doing a few more.  This game meanders into the late middlegame with both sides playing solidly.  I try another mating attack but it gets rebuffed.  This game ends with me trying to checkmate him with Glenda and my rook but he uses his queen as a get out of jail free card and Henry cannot avoid her checks - sssss and double ssss.  Well, we will all get to see how this comes about.",
+        "1... e5": "1. \u2026\u2026. e5 - each side is willing to play a king pawn ending.",
+        "2. Nf3 Nc6 3. Bc4 Bc5": "3. \u2026\u2026. Bc5 - Guicco Piano.",
+        "4. c3 Nf6 5. d3 d6 6. b4 Bb6": "6. \u2026\u2026 Bb6 - Fou Lenoir is driven back by a pawn stab.  However, he still attacks f2.",
+        "7. O-O O-O 8. a4 a6": "8. \u2026\u2026 a6 - ensuring that I keep Fou Lenoir bearing down on f2.",
+        "9. Nbd2 Ne7 10. Bb3 Ng6": "10. \u2026\u2026 Ng6 - Sir Lollabout comes over to cover the kingside to defend but to possibly attack the kingside at a later date.",
+        "11. Nc4 Ba7": "11. \u2026\u2026 Ba7 - I still want to keep Fou Lenoir thank you!",
+        "12. a5 h6 13. Be3 Bxe3 14. fxe3": "14. fxe3 - I end up doubling my opponent's kingside pawns as a result of this exchange.",
+        "14... Be6 15. Nfd2 Qe7 16. h3 Nh7": "16. \u2026\u2026. Nh7 - Sir Slugabout moves to a7 because I smell the risk of Luca exploiting a possible overload combo on the squares f6 and h6.  It does open the d8-h4 diagonal for Glenda as well.",
+        "17. d4 exd4 18. exd4 Nh4": "18. \u2026.. Nh4 - I had been considering Bxh3 - a bishop for pawn sac.  With this knight on h4 this sac could be a bit stronger due to the fact that Glenda can hop onto g5 and eye up g2.",
+        "19. Qe2 Qg5 20. Nf3 Nxf3+ 21. Qxf3": "21. Qxf3 - foiled - but I will not give up!",
+        "21... d5 22. exd5 Bxd5 23. Qf2 Rae8": "23. \u2026\u2026 Rae8 - 'bout time I brought my big guns into action!",
+        "24. Ba2 Nf6 25. Ne5 Bxa2 26. Rxa2": "26. Rxa2 - bishop trade.",
+        "26... Re7 27. Re2 Nh5": "27. \u2026\u2026 Nh5 - threatening a fork on g3.",
+        "28. Kh2 Qf6 29. Qe1": "29...\u2026.. Qe1 - declines queen trade.",
+        "29... Qd6": "29. \u2026\u2026 Qd6 - pins knight on b8-h2 diagonal and threatens f6.",
+        "30. Qh4 Nf6 31. Kh1 Rfe8 32. Ref2 Re7e6": "32. \u2026\u2026 Re6 - suddenly the knight on f6 looks to be under pressure.",
+        "33. Ng4 Nxg4 34. Qxg4": "34. Qxg4 - knight trade and f7 is under the hammer.  I bring back my rook to e7 to defend it.",
+        "34... Re8e7 35. Qh5 Qd7": "35. \u2026.. Qd7 - and Glenda yet again earns her sobriquet Glenda the Defender.  But hopefully not too long!",
+        "36. Qf3 c6 37. Qg3 Qe8 38. c4 Re6e4": "38. \u2026.. Re4 - still attacking though - I just cannot resist it can I?",
+        "39. Qd3": "29. Qd3 - Ah Luca!  Now you can do some defending for a change!",
+        "39... f6 40. Rd2 Re4e1 41. Rxe1 Rxe1+": "41. \u2026.. Rxe1+ - rook trade.",
+        "42. Kh2 Re3 43. Qf5 Qb8+ 44. Kg1 Qg3": "44. \u2026.. Qg3 - threatening Re1+ winning Q for R, but now Luca gets a Get out of Jail Free card with Qc8+ and a draw offer which I accept.  At least this draw gave me another sojourn in the 1900s from 23.11.19-13.1.20!",
+        "45. Qc8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/another-perpetual-check?gm=67458",
+    "gameName": "Another Perpetual Check",
+    "players": "luca23 (2092) vs. jotheblackqueen (1899)",
+    "opening": "Giuoco Piano (C53)"
+}

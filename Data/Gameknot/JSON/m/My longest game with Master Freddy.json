@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. Nc3": "Hi everyone!  Another duel with Freddy and yet another loss, but this game lasted one move longer than all my white games against him.  With the black pieces my form against him has previously been shot - i.e. 4 out of 5 of those checkmates he has put on me has been when I have been playing black against him.  Anyhow - let's see how the drama unfolds.  Freddy kicks off with his favourite Dunst Opening, Nc3.",
+        "1... d5": "1. ........ d5 - tried d5 rather than c5 the last time I played against it against Freddy - that game terminated in 23 moves!",
+        "2. e4 dxe4 3. Nxe4 Qd5 4. Nc3 Qa5": "4. ........ Qa5 - this transposes into a Scandinavian - Freddy plays an unusual line - a3 and I respond with developing my knight to f6.",
+        "5. a3 Nf6 6. d4 c6 7. Bd3 Qc7": "7. ......... Qc7 - the most popular move in the gameknot db but maybe I ought to have developed a piece or at least played e6 to free up Fou Lenoir and prepare for castling.",
+        "8. Bg5 Nd5 9. Nge2 e6": "9. ........ e6 - at last but Freddy has a huge lead in development - how I manage to last 48 moves against the Master Mater of all people I will never know!",
+        "10. Qd2 Bd6 11. Ne4 Be7 12. Bxe7 Qxe7": "12. ....... Qxe7 - some wood has been exchanged but I am still behind in development - still my knight does look good on d5 and I am ready to castle kingside.",
+        "13. O-O Nd7": "13. ....... Nd7 - develops another piece but shuts in Fou Leblanc - this bishop will be Tres Fou later on in the game!",
+        "14. Rae1 O-O": "14. ......... 0-0 - at last!",
+        "15. c4 Nd5f6 16. Ne2c3 Nxe4 17. Nxe4 Nf6 18. Nxf6+ Qxf6": "18. ......... Qxf6 - the horsies have been exchanged and the d4 pawn is en prise to Glenda but Freddy now gets aggressive with 19. Re5.",
+        "19. Re5 g6": "19. ........ g6 - does weaken castled position but Glenda will bed down there next to her other half for the next twenty moves or so.  This is to prevent a bishop sac on h7, Freddy!",
+        "20. Qe3 Qg7 21. b3 Bd7": "21. .......... Bd7 - this bishop develops at last but he will be severely hemmed in from now on in.",
+        "22. Re4 Rad8 23. Bb1 a6": "23. ....... a6 - would a5 followed by b6 have been better in the light of what is to come?",
+        "24. b4 Rfe8 25. Bd3 Rdb8 26. Re1 Red8": "26. ......... Red8 - there now follows a series of rook moves but again would b6 have been better?",
+        "27. c5 Rbc8 28. a4 Rcb8 29. Qg3 Rbc8 30. Rh4": "30. Rh4 - Freddy tries to pile in on the h file but it is gonna be hard for him to get 3 heavies on it!",
+        "30... Be8 31. Re5 Rd7 32. Qe3 Rcd8": "32. ......... Rcd8 - doubling up on the backward d4 pawn.",
+        "33. Rf4 Rd7d5 34. h3 Rxe5": "34. ............ Rxe5 - an exchange of rooks to break the monotony.",
+        "35. dxe5 Rd5 36. Re4 Rd7 37. Be2": "37. Be2  - the e file is open for my rook but a lot of white wood cover the squares on it!",
+        "37... Rd5 38. a5": "38. a5 - fixes my pawns on white squares thus imprisoning Fou Leblanc.",
+        "38... Rd7 39. h4": "39. h4 - a pawn move - is Freddy threatening h5 threatening to open up the f or h file.  Notice that if he did then gh?? would be suicide as Glenda would be pinned to Henry by a white rook moving to g4.",
+        "39... Rd5 40. Bc4 Rd8": "40. ...... Rd8 - breaking the monotony but would Rd7 have been better here?",
+        "41. Rd4": "41. Rd4 - this offers a rook trade but not in my favour because this will provide an opening for the Wicked Witch of the West, something that I have been trying to avoid all game, aaargh!",
+        "41... Rd7 42. Qd2 Qxe5": "42. ....... Qxe5 - I realise that I will drop Fou Leblanc after the rook trade on d7 but I felt that I had virtually been playing without him for the whole game and would pick up a couple of pawns as compensation for the piece and activate Glenda.  As you will see, however, the Witch has a target on b7 and boy she does not miss it!",
+        "43. Rxd7 Bxd7 44. Qxd7 Qe1+": "44. ......... Qe1  - a spite check which picks up the backward pawn on b4, but.....",
+        "45. Bf1 Qxb4 46. Qd8+ Kg7 47. Qb6": "47. Qb6!! - this move kills the game stone dead for me.  Exchanging queens here is no good because of 48. cxb6 followed by 49. Bxa6.  This counter sac would get me into a losing K & P ending because Henry is too far away to stop the b pawn crowning.  As a futile gesture Glenda grabs the pawn on h4 which prolongs the game for one more move to make it my longest game.  I resigned the game on the next move because I could not save my b pawn and then the witch would clean up one or both of the remaining pawns and crown one or both of the remaining white queenside pawns.  I lost the game here by failing to expand on the queenside.  This resulted in Fou Leblanc being tied up and getting in the way of my pieces.  I think I kept the queenside closed because I remembered my last game as black with Freddy where he attacked down both sides of the board which resulted in me getting my 5th checkmate from him.  I did not want that to happen again.  I must find a more positive way of preventing this calamity.  More improvement is needed.  Can I improve further on this against Freddy? Watch this space.",
+        "47... Qxh4 48. Qxb7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/my-longest-game-with-master-freddy?gm=22260",
+    "gameName": "My longest game with Master Freddy",
+    "players": "easy19 (2220) vs. jstevens1 (1767)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

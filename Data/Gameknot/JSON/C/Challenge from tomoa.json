@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7 9. O-O a6 10. e4 c5 11. e5 cxd4 12. Nxb5 axb5 13. exf6 Qxf6 14. Bxb5 Bxf3 15. Qxf3 Qxf3 16. gxf3 Bd6 17. Rd1 Bc5 18. a3 Ke7": "Crni odvezuje konja...\r\n",
+        "19. b4": "Bijeli logi\u010dno razvija pje\u0161aka i napada lovca..\r\n",
+        "19... Ba7 20. f4": "Slab potez bijelog: sada crni konj ima puno vi\u0161e prostora za manevar a i nepotrebno ",
+        "20... Nf6 21. Bb2": "Bijeli vr\u0161i pritisak na centralnog pije\u0161aka- ispravno!",
+        "21... Rhd8 22. Kg2 Ne4": "Trebalo je  prvo 22....Rac8 i nakon 23.Bd5 h6",
+        "23. Rd3": "Lovac na d3 je bilo bolje..(crni konj se mora vratit na f6 da \u010duva pje\u0161aka, a bijeli dobiva slobodan prostor za napredak pje\u0161aka po a i b liniji)",
+        "23... Rac8 24. Re1 Nd6": "Velika pogre\u0161ka crnog,sada se lovac izvla\u010di i lagano otvara prostor pje\u0161acima...",
+        "25. Ba4 Nc4 26. Re2 Nb6": "Ponovo gre\u0161ka crnog.sada bijeli povla\u010di lovca i ima veliku priliku pje\u0161acima realizirati partiju",
+        "27. Bb3 Nd5": "Crni poku\u0161ava jeftino zaradit :)",
+        "28. Kf3 Nc3 29. Rc2 Nd5 30. Bxd4": "Bijeli se polakomio za pije\u0161aka i napravio klju\u010dnu gre\u0161ku koja je prelomila partiju:crni u idu\u0107ih par poteza lijepom kombinacijom vra\u0107a pije\u0161aka i to sa b linije koja je predstavljala izuzetnu opasnost!",
+        "30... Nxb4": "Uzimanje pje\u0161aka sa b linije-odli\u010dan potez! Na 31.axb4 RxC8 32.Bxc8 Rxd4 crni opet vra\u0107a pije\u0161aka i bolje stoji!",
+        "31. Rxc8 Rxc8": "Crni mora jest sa kulom: na 31...Nxd5 32.Rxd8 Kxg8 33.Bxa7 i bijeli ostaje s figurom vi\u0161e",
+        "32. axb4 Bxd4 33. Ba4": "Bijeli ispravno ne \u017eeli razmjeniti lovce jer su raznobojni ,medjutim te\u0161ko je sada u ovoj poziciji parirati crnom",
+        "33... Rc4 34. Rd2": "Velika gre\u0161ka bijeloga s kojom potpisuje poraz,trebalo je 34.Rb3 Bc3 35.b5 ",
+        "34... Rxb4 35. Bc2 h6 36. Kg4 Be5 37. f3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-tomoa?gm=26291",
+    "gameName": "Challenge from tomoa",
+    "players": "vedrano (1596) vs. tomoa (1873)",
+    "opening": "QGD Slav defence (D10)"
+}

@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "The Sicilian najdorf.",
+        "6. Be3 e5 7. Nb3 Be7 8. f3 O-O 9. Qd2 b5 10. g4 Nc6 11. g5 Nd7 12. O-O-O Bb7 13. Nd5 Re8 14. Nxe7+ Qxe7": "A PAWN IS LOST.!!",
+        "15. Qxd6 Qxd6 16. Rxd6 Nf8 17. Nc5 Nd8 18. Nxb7 Nxb7 19. Rd5 Rad8 20. Rxd8 Rxd8 21. h4 Ne6 22. Bh3 Nd4 23. Bxd4 Rxd4 24. Rd1": "White is a pawn up and therefore very happy to accept and encourage exchanges.",
+        "24... Rxd1+ 25. Kxd1": "An endgame occurs. Bishop v knight and white is a pawn up.",
+        "25... Nd6 26. b3 Kf8 27. Kd2 b4 28. Bf1 a5 29. c3 bxc3+ 30. Kxc3 Ke7 31. a4 Kd7 32. b4 axb4+ 33. Kxb4 Kc6 34. a5 f6 35. gxf6 gxf6 36. a6 Kb6 37. Bc4 f5 38. a7 Kxa7 39. Kc5": "The idea of this sacrifice is that if the black king gets in the corner it will be a draw. The position looks bad for black anyway.",
+        "39... fxe4 40. Kxd6 exf3 41. Kxe5 Kb7 42. Kf6 Kc7 43. h5 Kd7 44. Kg7 h6 45. Kxh6 Ke7 46. Kg7": "The lost pawn queens. I suspect all lines were lost after my king was decoyed away from the centre but my continuation wasn't the best attempt to save the half point."
+    },
+    "url": "https://gameknot.com/annotation.pl/117th-gk-tournament?gm=59073",
+    "gameName": "117th GK tournament",
+    "players": "chrisevelyn (1791) vs. capa1 (1658)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

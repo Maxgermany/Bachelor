@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4": "\"Ah,\" I thought, \"there's nothing like the smell of Danish in the morning.\"  \n",
+        "2... Qh4": "But that's not how it happened.  \n",
+        "3. Nf3 Qxe4+ 4. Be2 Nc6 5. dxe5 Nb4": "I was expecting 5...Nxe5 here.  \n",
+        "6. O-O": "5 ... Nb4 doesn't reclaim the pawn or advance black's development.  It does make a threat of capture on c2 which has to be answered.    6. O-O is a straightforward answer, taking away the possibility of a fork (and if black still tries to grab the c-pawn, either 7. Nc3 or 7. Bd3 will make him pay for it).  6. Na3 would also defend the square in a straightforward way.  6.   Nc3 is a less obvious defense by making a counterthreat.  \n",
+        "6... Nd5 7. Bd2": "With 7. Bd2, white missed an opportunity to gain material.  Left as an exercise for the reader.  Tactics!  \n",
+        "7... h5 8. Nc3 Nxc3 9. Bxc3": "White improves his bishop's position while removing a piece which black has moved four times in the opening.  \n",
+        "9... Qg6 10. Qd4 c5 11. Qa4 f6": "White eventually catches on and plays Nh4 later in the game, but it would have been good after this.  ",
+        "12. e6": "12. e6 might not be as effective as Nh4 would have been, but the idea behind it is simple:  Black's king is still in the center and has no good castling opportunities.  The white e-pawn, one way or another, is going to remove a little bit of defense and expose it even more.  \n",
+        "12... Ne7 13. exd7+ Bxd7 14. Bb5 Bc6 15. Rfe1": "Pinning the knight so that it can't defend c6, and incidentally stationing a rook on an open central file (with a chance to station the queen's rook on the open d-file later as well).\n",
+        "15... Kf7": "15 ... O-O-O would have relieved the pin for black and brought his rook into a good position.  \n",
+        "16. Qc4+ Bd5": "I was expecting ...Nd5, to which I would have replied 17.  Rad1, and I didn't see any significant clear choice for black's subsequent move so I didn't analyze any further.\n",
+        "17. Rxe7+ Bxe7 18. Qxd5+": "By the traditional values for material, white has a modest advantage of one pawn after that sequence.  But black has lost two pieces around his vulnerable king, and white still has a swarm of them hovering nearby, as well as the continuing initiative.  \n",
+        "18... Kf8 19. Nh4": "From this point, black has mostly only unhappy decisions to make. \n",
+        "19... Qf7 20. Qe4": "Ng6 is clearly coming, and one of the unhappy decisions is what to do about it.  Rh6 would prevent the dangerous knight's advance, but then 21. Bc4 would answer pretty firmly. \n",
+        "20... g5 21. Ng6+ Kg7 22. Nxe7": "Which piece to capture?  Nxe7 keeps the knight in play, so black still has as many threats as possible to deal with.  The rook on h8 is not doing much, or likely to do much, so there's no sense diminishing the attacking force to remove it. \n",
+        "22... a6 23. Nf5+": "Safe and simpler than 23. Bc4, as black's replies are extremely limited. \n",
+        "23... Kf8": "Black was alert to the possibility of Nd6 attacking the queen with discovered check if he kept his king on the b1-h7 diagonal, or Bc4 fatally pinning the queen if ...Kg7.  That left Kf8.",
+        "24. Bc4 Qg6 25. Qd5": "25. Qd5 is indeed mate in 3, but somehow overlooks the obvious superior move, which the reader will have seen immediately. \n",
+        "25... b5 26. Qd6+ Ke8 27. Qe7#": "The theme for this game, in a word: development."
+    },
+    "url": "https://gameknot.com/annotation.pl/development?gm=40606",
+    "gameName": "Development!",
+    "players": "jsiehler (1200) vs. enietzsche (1118)",
+    "opening": "Centre game (C21)"
+}

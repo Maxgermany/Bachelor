@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "This was my 5th game here on GameKnot, that time I had a rating of 1200. Though I won this game my opponent should receive full credits, he played well and he made it an exciting game for what I am grateful!!",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "Najdorf (Sicilian) - a sharp weapon of many Super Grand Masters. As nearly all the weapons mankind has ever invented, this is double-edged. It is sharp and puts a huge pressure on White when played precisely but otherwise it backfires and Black practically commits a suicide.",
+        "6. Be2 e5 7. Nb3 Be6 8. f4 Qc7 9. O-O Nbd7 10. f5": "There were many alternatives.. like ensuring His Highness' safety (10.Kh1) or playing the so Sicilian-like 10.Be3. What is the target of 10.f5 then? Maintaining the tension and making Black loose his nerves.",
+        "10... Bxb3": "And here we go. After the cold blooded 10... Bc4 11.Bg5 (11.Bxc4 Qxc4) Be7 12.Rf3 h6 13.Be3 Ng4 the situation is hazy, no clear attacks. Though 10... Bxb3 was a logical answer with the idea of simplifying the game without loosing tempo and penetrating the white pawn structure.. it misses the chance by exchanging a bishop on an opening board and giving the half-open a-file (and the queen-side with it) to White.",
+        "11. axb3 b5": "A clear mistake as it turns out soon enough. Looses a pawn for nothing and gives a good developing opportunity for White. After 11... Qb6+ 12.Kh1 Be7 there was nothing really souting out at White.",
+        "12. Bxb5": "From now on Black has two tasks to deal with. Securing his king and keeping the white knight out of d5 since that could give a full-scale attack to White with a solid centre and tied-up Black forces.",
+        "12... Be7 13. Bg5": "Here I was thinking about 13.Kh1 but decided to make it later when (if ever) getting forced to do so. 13.Qe2 also crossed my mind with the idea of 13... 0-0 14.Rxa6! Rxa6 15.Bxa6 Rb8 16.Rd1.. most probably it was better then 13.Bg5 anyway. However, found these moves too delicate, too slow. I was in a rush to win the game.",
+        "13... O-O": "One of the tasks has been completed successfully!",
+        "14. Bxd7": "Withdrawing that bishop to d3 might have been better but here I was to get rid of the only valuable black bishop.",
+        "14... Qxd7 15. Bxf6": "Sacrificing that bishop here was a bold move. I did in full confidence of winning the game with a breakthrough my opponent has no chance to stop... when failing to go on with it this exchange could have proven itself to be a key error. However, there are some circumstences that save the situation and give a good ground for this move. Black cannot take back with the g-pawn because that closes up his own bishop badly. Moreover after 16.Bxf6 he has to make another move to make that bishop active and to give way to his f-pawn. What else then? 15.Qe2 for attacking a6 while giving way to the king-rook to occupy the d-file... or 15.Kh1 doing the inevitable.",
+        "15... Bxf6 16. Rf3": "Heading towards the d-file: 16... Bg5 17.Rd3. Maybe 16.Nd5 was better: 16... Qa7+ 17.Kh1 Qd4 18.Nxf6+ gxf6 19.Qg4+ Kh8 20.Qh4 but I missed it having something else, something slower and safer in mind.",
+        "16... Qa7+ 17. Kf1": "Inaccuracy.. Thought it was time to put the king on the field. Foolish idea till the black queen gets eliminated. Naturally enough 17.Kh1 was the proper move here.",
+        "17... Rfd8 18. Rh3 h6 19. Qg4 Qd4": "My opponent here had something in mind I have never managed to figure out. In my opinion although this error costed the game in the end. 19... Bg5 is what I think here to be logical though I doubt that could have saved the situation.",
+        "20. Rd1 Qb6": "White can play Nd5 with gaining a tempo. 20... Qa7 was more fortunate though the battle has already been lost.",
+        "21. Nd5 Qc6 22. Rxh6 Kf8 23. Rh8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/maintain-the-tension?gm=23836",
+    "gameName": "Maintain the tension",
+    "players": "vbotond (2063) vs. jeor (1294)",
+    "opening": "Sicilian (B92), Najdorf, Opovcensky variation"
+}

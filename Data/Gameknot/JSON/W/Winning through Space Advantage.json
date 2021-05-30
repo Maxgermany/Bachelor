@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. d4 a6": "This is a weak defense.",
+        "4. d5 d6 5. c4 e5 6. Nc3 Be7 7. Bd3": "Prevents ... f5",
+        "7... Nd7 8. O-O Nf8 9. Ne1 h5 10. f4 f6 11. f5": "Now Black is going to get strangled.",
+        "11... Kd7 12. Qa4+ Kc7 13. Nb5+": "Taking advantage of the pin",
+        "13... Kb8 14. Nc3 Bd7 15. Qa3 Be8 16. b4 g5": "The b-file now opens.",
+        "17. bxc5 dxc5 18. Be3 Qc7 19. Rb1 Kc8 20. Na4 b5": "Black should have exchanged bishop for knight. Now he loses a pawn and eventually the game.",
+        "21. Nxc5 Bxc5 22. Bxc5 Nd7 23. Bd6 Qb7 24. c5 Kd8": "Here, White should play Kh1 first, before advancing the c-pawn.",
+        "25. c6 Qb6+ 26. Kh1 Nb8 27. Nc2 Bxc6": "Black sacrifices a piece for two pawns to get some breathing space.",
+        "28. dxc6 Nxc6 29. Rfc1 Nd4 30. Nxd4 exd4": "A costly blunder",
+        "31. Bc7+ Qxc7 32. Rxc7 Kxc7": "Black should have resigned here, but decided to keep playing until he got checkmated.",
+        "33. Qc5+ Kb7 34. Qd5+ Ka7 35. Qd7+ Kb6 36. Rc1 Nh6 37. Qc7#": "Are you happy now?"
+    },
+    "url": "https://gameknot.com/annotation.pl/winning-through-space-advantage?gm=47660",
+    "gameName": "Winning through Space Advantage",
+    "players": "dsfei  vs. kenny529 ",
+    "opening": "Sicilian (B40), Marshall variation"
+}

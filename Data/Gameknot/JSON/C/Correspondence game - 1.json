@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4": "The \"Quiet Game\"... but not this time!",
+        "3... Nf6": "Black's aggressive defense leads to the fireworks starting early.",
+        "4. d3 Bc5 5. Bg5": "White is not afraid to mix it up!",
+        "5... O-O 6. Nc3 d6 7. Nd5": "A sharp thrust. White decides to try and press the attack.",
+        "7... Kh8": "Black tucks his King in what he thinks is a safe corner.",
+        "8. Bxf6 gxf6": "Opens the K position up, but there is no other choice.",
+        "9. Qd2 f5": "Black attempts to slow White's coming charge.",
+        "10. Qh6 f6": "Attempting to keep White's KN fron KN5.",
+        "11. Nh4": "White finds a different spot for the Knight.",
+        "11... Rf7": "Black tries to get his R and Q involved in the defense. Now the Q can move to B1 and attempt to break White's attack by offering the exchange of Queens.",
+        "12. Ng6+": "White takes advantage of the pin on Black's KRP to force home his attack before Black can marshal his defenses.",
+        "12... Kg8": "White now has a 2-move mate.",
+        "13. Nxf6+": "This move exploits another pin -- this one on the Black KR -- to divert the Q from guarding the back rank.",
+        "13... Qxf6": "Forced. But now...",
+        "14. Qf8#": "...White's Q can finish the game in style with this mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/correspondence-game?gm=30426",
+    "gameName": "Correspondence game",
+    "players": "Peper  vs. Pearce ",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

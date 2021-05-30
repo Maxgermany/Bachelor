@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6": "Difesa siciliana con 2..., e6 \nUna mossa che esprime la priorita' del nero\nnello sviluppare l' Alfiere delle caselle nere.",
+        "3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6": "Variante '4 Cavalli'?",
+        "6. Nxc6 bxc6 7. Bd3 d5 8. Qe2 Be7 9. O-O O-O 10. b3 Nd7 11. Na4 Nb6 12. Nxb6 axb6 13. Bb2 Ba3": "Proponendo lo scambio.\nUn idea da buon esito x il nero.",
+        "14. Bxa3 Rxa3 15. e5 c5": "C' era anche l' uscita di Donna a h4, ma il nero \nha in mente \nl' altro lato della scacchiera.",
+        "16. c3 Bb7 17. Qb2 Qa8": "Mossa x definizione \"economica\": \nutile sia in difesa che' x l' attacco!",
+        "18. Bb5 d4": "Il bianco si preoccupa x l' iniziativa del nero \nal lato sinistro, \no ha in mente gia' di guadagnare la diferenza di qualita \ncontro la Ta3.\nBuona sembra anche la 18.f4, con parita'.\n",
+        "19. Ba4": "?\nNon sembra buono il progetto del bianco.\nMeglio 19.f3 o anche 19.cxd4, con equilibrio.",
+        "19... Bxg2": "!\nQuesta mossa tattica da' un forte slancio al gioco del nero.",
+        "20. Qxa3": "Anche le mosse alternative del bianco non sembrano migliori:\nse 20.f4, AxTf1 21.Txf1, TxAa4 22.bxa4, dxc3-/+. -+\nse 20.Tfc1, Df3 21.Ac6, DxAc6 21.DxTa3?, Df3 -+ ...",
+        "20... Qf3": "Non certo 20... Af3? perche' esiste il 21. Qc1! Qe4 22. Qg5!+-\n",
+        "21. Bc6": "Cos' altro?\nNe' con 21.Dc1, Dg4-+, ne' con 21.Ab5, Ah3 22.Ac6, Dxc6 \n23.f3, AxTf1 -+ potrebbe sperare x il meglio.",
+        "21... Qxc6 22. Qc1 Qf3": "Valido anche 22..., De4 se 23.f3, Dg6 24.Tf2, Axf3+ -+",
+        "23. Qd1": "Sarebbe ancora peggio se 23.Dg5 \nad es. 23..., Axf1 24.Txf1, Dxc3 -+",
+        "23... Qh3 24. f3 Bxf1 25. Qxf1 Qh4": "Alternativa equivalente sembra: 25..., Df5; \n26.cxd4,cxd4 27.Te1, d3 -+\n\nNon perderebbe il miglior gioco neanche lo scambio delle D a f1:\n25..., Dxdf1 26.Rxf1, dxc3 27.Tc1, Td8  28.Txc3, Td5 -/+, -+",
+        "26. Kh1 dxc3 27. Rc1 Rd8 28. Rxc3 Rd2": "!",
+        "29. Qg1 h6 30. Rc4 Qh5": "Vince anche 30...,Dh3 31.Tc3, Txa2 -+",
+        "31. Qg3 Qf5": "Contemporaneamente il bianco abbandona.\nSarebbe seguito 32..., Txa2 con una posizione \ndisperata x il bianco.",
+        "32. Re4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/17-etcc-2009-novi-sad-serbia?gm=27099",
+    "gameName": "17.ETCC 2009, Novi Sad, Serbia",
+    "players": "Atakisi, Umut (2406) vs. Mastrovasilis, Athanasios (2519)",
+    "opening": "Sicilian (B40), Pin variation (Sicilian counter-attack)"
+}

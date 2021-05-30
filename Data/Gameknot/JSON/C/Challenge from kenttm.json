@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Nf6 7. Bxf7+ Kxf7 8. Qxd8 Bb4+ 9. Qd2 Bxd2+ 10. Nxd2 Re8 11. Bxf6": "F\u00f8ler dette trekket var altfor offensivt. Burde nok tatt betrakning for at jeg har en bedre posisjon enn deg, samt at du ikke f\u00e5r rokkert. N\u00e5r jeg ser tilbake ville nok trekket: 11. Sf3 v\u00e6rt et bedre trekk ved \u00e5 da evnt rokkere i neste trekk for \u00e5 fjerne trusselen som 10... Re8 skaper p\u00e5 kongen.",
+        "11... Kxf6 12. h3 Nc6 13. g4": "Jeg fortsetter \u00e5 angripe og fjerner da den trygge posisjonen bak de 3 f,g og h b\u00f8ndene. Men er kongen egentlig s\u00e5 mye \"tryggere\" n\u00e5r da dronningene og 2 av brikkene er borte?",
+        "13... Nd4 14. Rc1": "Nok et trekk som angriper en brikke som ikke blir dekket, selv om du ved det enkle grepet 14...c6 f\u00e5r flyttet fram brikken din samtidig som du kommer ut av angripet.",
+        "14... c6 15. f4 g6 16. Ngf3": "Her tenker jeg at du vil ta Springeren, men at jeg vil fjerne den fordi den dekker f5 som jeg gjerne vil angripe med b\u00f8ndene.",
+        "16... Nxf3+ 17. Nxf3": "Hadde jeg rokkert s\u00e5 hadde jeg ikke trengt \u00e5 fjerne Springeren fra D2 og gi fra meg e4 bonden for \u00e5 f\u00e5 en bedre angrepsposisjon.",
+        "17... Rxe4+ 18. Kf1": "18.Kf2 hadde nok v\u00e6rt et bedre valg her da det hadde beskyttet Springeren samt at jeg da kunne videre pr\u00f8vd \u00e5 angripe t\u00e5rnet ditt for \u00e5 bytte t\u00e5rn som ville gitt meg en fordel ved at t\u00e5rnet ditt er innesperret av l\u00f8peren?",
+        "18... Rxf4 19. Rc3 Be6 20. Kg2": "Her kommer trekket jeg kunne unng\u00e5tt ved \u00e5 flytte 18.Kf2.",
+        "20... Bd5": "Du f\u00e5r da dannet en pin p\u00e5 Springeren som ikke ville skjedd ved en rokkering.",
+        "21. Rf1 Rf8 22. Rc2": "Dette trekket aner jeg ikke hvorfor jeg tok. Kanskje jeg ville flytte t\u00e5rnet til f2 for \u00e5 fjerne t\u00e5rnene, men tenkte ikke p\u00e5 at Springer var l\u00e5st.",
+        "22... Kg7 23. Rc3 a5 24. Kg3 b5 25. a3 Rf4xf3+ 26. Rfxf3 Rxf3+ 27. Rxf3 Bxf3 28. Kxf3": "Burde jeg heller kommet meg ut av situasjonen istedenfor \u00e5 bytte alle brikkene som var igjen? Her har jeg jo tapt uansett ved at du har 2 b\u00f8nder fler? Eller har jeg sjanse hvis jeg bruker kongen riktig?",
+        "28... b4 29. axb4 axb4 30. Ke2 Kf6 31. Kd2 Ke5 32. Kc2 Kf4 33. Kb3 c5 34. Kc4 Kg3 35. Kxc5 b3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-kenttm?gm=27852",
+    "gameName": "Challenge from kenttm",
+    "players": "kenttm (1126) vs. fretless (1816)",
+    "opening": "Danish gambit (C21), Schlechter defence"
+}

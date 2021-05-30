@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4": "I think when I began this game against kippenvel I was around 1230.\n\nMy reason for annoting this game is to \nA.) Show how decisive a strong outpost can be.\nB.) Generally examine strategic play, for which I am grateful for any and all feedback.\n\nI start with the QP.",
+        "1... d5 2. Nc3": "Pretty basic continuation, vying for a direct challenge on the center.",
+        "2... c6": "I would say this is not such a good move by black because it doesn't do much beside protect d5, not a bad move, just not great.",
+        "3. f3": "f3 prevents the Bg3 Nb4 king/castle fork while protecting e4, and thus accomplishes two things by attacking the center and preventing the development of his WSB.\n\nAnother intesting point is that now that the Bg3 Nb4 king/castle fork (which I am personaly fond of) is no longer available, blacks knight is not so good.  He cant really play Na6, because all he can do from there is go back to b8 or goto b4, which as I said isn't really viable anymore.  His other option is Nd7, a terrible move that bottles up his Queen and WSB.  My point is that from 3 moves in black is already positionally hampered, and that I love a strategic game.",
+        "3... Nf6 4. e4": "So now his WSB can only goto d7 or e6 and his knight is still hemmed in.",
+        "4... e6": "This is a pretty passive move.",
+        "5. e5": "I decide to play e5, forcing his knight to either retreat or take the Ne4 outpost, which doesn't bother me too much because I can deal with it, and I'm already starting to jam his development.",
+        "5... Nfd7": "Personaly I would say this is a very passive move, giving me both tempo and space.",
+        "6. a3": "My thoughts for this are that it affects with DSB, only really allowing Be7.",
+        "6... Nb6": "It looks to me like he's vying for Nc4 and some pressure on my kingside post castle.",
+        "7. h4": "Backing for Bc5",
+        "7... Be7 8. Bg5 h6 9. Bxe7 Qxe7 10. g4": "To me this is interesting, the points are the same, but I have gained space on what to me looks like blacks soon to be kingside, where I already have a good jump with my pawns.",
+        "10... Nc4 11. Bxc4 dxc4": "Here we have traded his knight for my bishop in a closed game as well as weakening his center and hanging a black pawn.\n\nThe thing I really love about this though is that black has all but GIVEN ME THE Nd6+ OUTPOST!!!",
+        "12. Qd2 Nd7 13. Ne4 b6 14. O-O-O Ba6 15. Nd6+": "This outpost is so decisive, his entire position is shattered.  I know I am a little full of myself in the annotation but I am just so damn pleased with this outpost!\n\n-black has no central control\n-his knight and bishop are locked in\n-his king is checked\n-even his all powerful queen is lost for moves\n-I have traded away both of my bishops for a knight a bishop in a very closed game\n-he can't even castle anymore!",
+        "15... Kd8 16. Ne2": "This is what I love about strategic play now I don't have to play any wild tactical moves, I can sit back and make slow crushing moves, while all black can do is break himself on my position.  A slow crush like a python, this is how I like it.",
+        "16... b5": "black forefits his WSB.",
+        "17. Qa5+ Nb6 18. Qxa6": "Once again, a result of good strong position",
+        "18... Rb8 19. g5 h5 20. f4 g6 21. Kd2": "He is so locked in that I feel safe enough to bring my king into the game.",
+        "21... Qd7 22. Nc3 Ke7 23. Nce4 Nd5 24. Nf6 Nxf6 25. gxf6+ Kf8 26. b3 Kg8 27. Rdb1 Kh7 28. Rb2 Qc7 29. Rhb1 Rhd8 30. bxc4 Rd7 31. a4 Rb6 32. Qa5 a6 33. c5 Rb8 34. Qxc7 Rxc7 35. Kd3 Kh6 36. c4 Ra8 37. axb5 axb5 38. cxb5 Ra3+ 39. Rb2b3 Rxb3+ 40. Rxb3 cxb5 41. Nxb5 Rc8 42. Nd6 Rc7 43. Rb8 g5 44. Ke3 Rc6 45. Nxf7+ Kg6 46. Nxg5 Ra6 47. Ke4 Ra3 48. Nxe6 Ra1 49. f5+ Kh6 50. Rh8#": "Given, I was playing a weaker opponent and shouldn't really take alot of pride in this one.  My main reason for annoting this game was to show the power of a strong outpost."
+    },
+    "url": "https://gameknot.com/annotation.pl/61st-gk-tournament?gm=28938",
+    "gameName": "61st GK tournament",
+    "players": "thegoodbishop (1305) vs. kippenvel (1186)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5": "Lance que caracteriza o \"Ataque Fegatello\".",
+        "4... Nxe4": "Lance surpreendente, por\u00e9m duvidoso.",
+        "5. Nxf7": "Lance duvidoso. 5.Bxf7+ d\u00e1 vantagem \u00e0s brancas.",
+        "5... Qh4": "5.   ,Df6 \u00e9 mais exato, segundo o  \"Rybika\".",
+        "6. O-O Bc5": "6.   ,Cxf2 seria mais exato.",
+        "7. d4 Nxf2": "7.   ,Bxd4 era uma alternativa.",
+        "8. Rxf2": "Lance duvidoso. Melhor seria 8.Bg5, e depois de 8,   ,Dxd4, as negras manteriam alguma vantagem.",
+        "8... Bxd4 9. Nxh8 Qxf2+": "Lance duvidoso. Era melhor tomar a torre de bispo.",
+        "10. Kh1 d5 11. Bxd5": "Era melhor jogar 11.Be2.",
+        "11... Bg4 12. Bf3": "For\u00e7ado, para defender o mate na oitava.",
+        "12... Bxf3 13. gxf3 e4": "Lance interessante, mas duvidoso. \n13.   ,Bxb2!! ganhava, pois se 14.Bxb2, as negras jogariam 14.   ,Td8, e as negras j\u00e1 n\u00e3o teriam como defender a posi\u00e7\u00e3o. Iriam levar mate ou perder a dama.",
+        "14. fxe4 Be5 15. Qg1 Qf3+ 16. Qg2 Qd1+ 17. Qg1 Qf3+ 18. Qg2 Qd1+": "Dei xeque perp\u00e9tuo, pois as brancas sa\u00edam da mesa (coisas do ping), mas as negras ainda t\u00eam  vantagem.\n\n\u00c9 interessante jogar em partidas rel\u00e2mpago o lance 4.    ,Cxe4 (j\u00e1 joguei at\u00e9 em pensadas, o que n\u00e3o aconselho), para treinar posi\u00e7\u00f5es agudas e eventualmente surpreender o advers\u00e1rio.\n\nMais para a frente  colocarei aqui a melhor continua\u00e7\u00e3o para as brancas, mas sugiro que j\u00e1 v\u00e3o tentando encontrar a melhor sequ\u00eancia depois de 5.Bxf7+,Re7. "
+    },
+    "url": "https://gameknot.com/annotation.pl/jogada-durante-o-pr-ol-mpico-feminino-abril-2010?gm=31386",
+    "gameName": "Jogada durante o Pr\u00e9-Ol\u00edmpico Feminino - abril/2010",
+    "players": "Pablyto (AI) vs. Ivan (MF)",
+    "opening": "Two knights defence (C57)"
+}

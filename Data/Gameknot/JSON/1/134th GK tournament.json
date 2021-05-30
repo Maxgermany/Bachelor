@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Qf3 Nc6 5. Ne2 d6 6. h3 Be6 7. Bxe6": "White trades pieces in early phase.",
+        "7... fxe6 8. Bg5 h6 9. Bxf6 Qxf6 10. Qxf6 gxf6": "After all trades, I think now black has a little bit more spacial advantage than white.",
+        "11. Nd2 f5 12. O-O-O": "I was hesitating for 12 ... Bxf2, because 13. Rf1 will make things complicated.",
+        "12... Rg8": "So I prepare for white's move by 12. ... Rg8, aiming white's pawn on g2.",
+        "13. exf5 exf5 14. Nc3 Bxf2 15. Nd5 O-O-O 16. Rhf1 Rxg2": "Smooth sailing, except threats from knight on d5.",
+        "17. Nb3 f4 18. Rd2": "To be honest, I was missing this move. But fortunately I was able to pin white's rook by 18. ... Be3, minimizing damage.",
+        "18... Be3 19. Nxe3 Rxd2 20. Kxd2 fxe3+ 21. Kxe3 Rg8 22. Rf3 Nb4 23. c3 Nd5+ 24. Kf2 Nf4 25. Rg3": "I thought this move was white's mistake, but pushing white's king toward h line was a big threat.",
+        "25... Rxg3 26. Kxg3 Nxd3 27. Kg4 e4": "To be honest, I am not good at endgame. Both white and black want to advance pawns on h3 and e4, respectively.",
+        "28. Nd4 Ne5+ 29. Kh5 Nf3 30. Kg4": "I think this was white's big mistake. He had to hold black's pawn with his knight while advancing the pawn on h column with king.",
+        "30... Nxd4 31. cxd4": "Now since all knights are gone, things got much easier.",
+        "31... h5+ 32. Kf4 d5 33. Ke3 Kd7 34. b4 Kc6 35. a4": "White blocks black king's move.",
+        "35... Kd6 36. Kf4 Ke6 37. h4 Kf6 38. a5 a6": "Black has nothing to do but retreating his king.",
+        "39. Ke3 Kf5 40. Kf2 Kg4 41. Ke3 Kxh4 42. Kf4 Kh3 43. Ke3 Kg2 44. Ke2 h4 45. Ke3 h3 46. Ke2 h2 47. b5 axb5 48. a6 bxa6 49. Ke1 h1=Q+ 50. Ke2 Kg3 51. Ke3 b4": "White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/134th-gk-tournament?gm=60041",
+    "gameName": "134th GK tournament",
+    "players": "r8_28 (1520) vs. meatholic (1688)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

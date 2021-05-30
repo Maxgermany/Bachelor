@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5": "My first annotation, I'm playing as black against tumble_weed in a team match.  The game starts out with myself playing Sicilian defense.",
+        "2. d4": "I have only played Sicilian a couple of times.  I like the way it plays out, but I had not yet seen this move.  It took me by surprise and I think led to an early disadvantage in the game.",
+        "2... Nf6 3. Nc3 d6 4. dxc5 Nc6 5. cxd6 exd6": "I let white take a couple of pawns before recapturing.",
+        "6. Nf3 Be6 7. a3 g6 8. Ng5 Bg7": "I set up the Dragon Variation.",
+        "9. Nxe6 fxe6": "My light squared bishop and white's strong side knight are exchanged.  ",
+        "10. Bb5 O-O 11. Bxc6 bxc6": "After two exchanges, the two pawns around the center I lost early have been replaced.  I feel that this is a mistake by my opponent as I will control the center soon.",
+        "12. Be3 Qe7 13. O-O d5 14. exd5 exd5 15. Na4 Rab8 16. Bc5": "The center is mine, but let my queen get pinned between white's bishop and my rook.",
+        "16... Qc7 17. Bxf8 Rxf8 18. Rb1 Qf4 19. h3": "A blunder by my opponent, I now have his other knight.",
+        "19... Qxa4 20. Qd3 Bh6 21. b4 Ne4 22. c4 Nd2": "I don't feel that this was too sneaky as it took two turns to set up this fork.",
+        "23. cxd5 Nxb1 24. Rxb1 cxd5 25. Qxd5+ Kh8 26. Qd4+ Bg7 27. Qd3 Qc6": "Now being up in material, I'm trying to find a way to either get a mate in or trade down material to have an easier end game.",
+        "28. b5 Qb6 29. Qe2 Bd4 30. Rf1 Qc5 31. a4 Qd6 32. Kh1 Bb6 33. f3 Qg3 34. Qe1 Bc7 35. Qxg3 Bxg3": "The queens are gone, now I have whites two pawns in the a and b file to worry about.",
+        "36. Kg1 Re8": "Trying to keep white's rook from traveling too far, I set up a possible mate.",
+        "37. Ra1 Re5 38. Kf1 Bh4 39. Rb1 Re6 40. a5 Bd8 41. a6 Kg7 42. Kg1 Ba5 43. g4 h5": "I could trade rooks here, but I am too afraid of those pawns in the a and b files.",
+        "44. gxh5 gxh5 45. Rb3 Kh6 46. Kg2 h4 47. Rb2 Kg5": "From this position I am confident I can take a pawn!",
+        "48. Kf2 Kf4 49. Re2 Bb6+ 50. Kf1 Rg6": "Another one-misstep-equals-mate situation.",
+        "51. Re4+ Kxf3 52. Rg4 Rd6 53. Ke1 Ba5+": "White resigns!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=48938",
+    "gameName": "Team match",
+    "players": "tumble_weed (1414) vs. baumannjoe (1407)",
+    "opening": "Sicilian (B21), Smith-Morra gambit"
+}

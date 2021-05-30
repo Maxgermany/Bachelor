@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Nf6 3. Nc3 d6": "passief, Pc6 of Lc5 is actiever",
+        "4. f4": "Koningsgambiet, geeft vaak open spel",
+        "4... Nc6 5. Nf3 Bd7": "(Lg4 is actiever, geeft de mogelijkheid van Pd4 na afruil op f3)",
+        "6. a4": "(luchtgaatje voor de loper, en verhindert evt. a6 en b5 of Pa5)",
+        "6... Ne7": "(geeft dekking van e5 op, en blokkeert de dame en zwarte loper)",
+        "7. fxe5 Nxe4 8. O-O": "(is sterker dan meteen Pe4, gevolgd door d5; zwart mag van mij wel slaan op c3, want dxc3 geeft dan meteen de zwarte loper van wit vrij baan)",
+        "8... Qc8": "(dit begreep ik niet helemaal, verhindert evt. een lange rochade)",
+        "9. Nxe4 d5 10. Nf6+": "(verzwakt de zwarte stelling, nemen op f6 moet)",
+        "10... gxf6 11. exf6 dxc4 12. fxe7 Bxe7 13. Ne5": "(deze stelling was de bedoeling)",
+        "13... Bc5+ 14. Kh1 O-O 15. d4": "(doorslaan op f7 was ook mogelijk: 15. Txf7, Txf7; 16. Pxf7, Kxf7; 17. Dh5+ en 18. Dxc5 \u2013 maar deze combinatie heb ik tijdens het spel niet gezien)",
+        "15... Re8 16. Qh5 Be6 17. Bh6": " (deze zet verhindert een evt. mat achter de paaltjes, maar ook hier was doorslaan op f7 mogelijk en waarschijnlijk zelfs beter)",
+        "17... Bf8 18. Qg5+ Kh8 19. Qf6+ Kg8 20. Qg5+": "(ik dacht even dat mat zou volgen, maar dat had ik verkeerd gezien, ik ga dus terug met mijn dame)",
+        "20... Kh8 21. Nxf7+ Bxf7 22. Rxf7 Qe6 23. Rxf8+": "en zwart geeft op, hij gaat mat op de volgende zet.\r\nHerman Beks"
+    },
+    "url": "https://gameknot.com/annotation.pl/schaakclub-rijs-27-maart-2009?gm=22883",
+    "gameName": "Schaakclub Rijs 27 maart 2009",
+    "players": "Herman Beks  vs. Douwe Tjerkstra ",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7": "Sicilian Dragon",
+        "7. f3 Nc6 8. Be2": "?! not mainline but not a misstake",
+        "8... O-O 9. Nb3 Re8": "I played Rook e8 for 1). protection of the e-pawn in the case when my queen or c6-Knight moves 2). if white plays the bishop ram move Queen-d2 I can thus move my bishop to h8 3). because I was out of book and didn't know what to do!!!",
+        "10. O-O": "?! This isn't your typical counter-attacking sicilian dragon gameplay. ",
+        "10... Bd7 11. Rb1 a6": "playing a sort of dragon/najdorf. ",
+        "12. Nd5 Nxd5 13. Qxd5 Be6 14. Qg5 Rc8 15. c3 f6 16. Qh4 Qc7 17. c4 Bf7 18. Nd2 a5": "preventing b4",
+        "19. b3 Nb4 20. a4 Nc2 21. Bh6 Qc5+": "intermezzo",
+        "22. Kh1 Bxh6 23. Qxh6 Qe3": "I saw a strategy on the dark squares. ",
+        "24. Qxe3 Nxe3 25. Rfc1": "My knight is trapped!",
+        "25... f5": "if pawn-f4 than I can reply ...fxe4 and a flight square for knight is created.",
+        "26. g3 e5 27. Kg1 f4": "This pawn maneuver wins the game",
+        "28. Rc3 Rc6 29. Nf1 Nxf1 30. Bxf1 Kf8 31. b4 axb4 32. Rxb4 Re7 33. gxf4 exf4 34. Rcb3 Rcc7 35. Kf2 Be6 36. Rc3 Bc8 37. Rb6 Bd7 38. Rxd6 Bxa4 39. c5 Kg7": "Ah! I concluded my King is exposed to check along the back ranks of 7 & 8. Furthermore, I had foreseen my f pawn being a lil' too weak by itself and either needed protection by either King-g5 or etc. With this theme in mind I said my King needs to vamoose to h6",
+        "40. Rc4 Bb5 41. Rc1 Bxf1 42. Kxf1 Kh6 43. Ke2 Re5 44. c6 bxc6 45. Rdxc6 Rxc6 46. Rxc6": "Clearly the liquidation left my opponent with an inferior endgame. I believe this to be the \"start\" of the endgame.",
+        "46... Rh5 47. Kd3 Rxh2 48. e5 Kg5": "And my King travels the dark squared road.",
+        "49. Rf6 h5 50. Rf8 Rf2 51. Ke4 Re2+ 52. Kd5 Re3 53. e6": "!?",
+        "53... Rxf3": "!! the winning move!",
+        "54. e7 Re3 55. e8=Q Rxe8 56. Rxe8": "Yes, Now I shall embark on my quest to queen a pawn. ",
+        "56... Kg4 57. Ke4 h4 58. Rh8 g5 59. Kd3 Kf3": "Opposition",
+        "60. Kd2 Kf2": "Again Opposition. By preventing the King to enter his back rank my advantage increases and my percentage to queening increases!",
+        "61. Rh7 f3 62. Rh6 g4 63. Rxh4 g3 64. Rg4 g2 65. Kd3 g1=Q 66. Rxg1 Kxg1": "White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/dragon-making-the-last-pawn-queen?gm=55958",
+    "gameName": "Dragon: making the last Pawn Queen ",
+    "players": "pukism (1743) vs. freeman8201 (1679)",
+    "opening": "Sicilian (B75), dragon, Yugoslav attack"
+}

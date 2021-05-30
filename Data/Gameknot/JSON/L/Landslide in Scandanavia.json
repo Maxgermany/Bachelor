@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Here White uses unusual move orders to beat the Scandanavian Defense.",
+        "1... d5 2. exd5 Qxd5 3. Nc3 Qa5 4. a3": "This begins a strategy of slowly constricting Black and limiting options with flexible moves that offer transpositional possibilities to favorable positions, according to the DB.",
+        "4... c6 5. h3": "Here White prevents Bg4 but also lays the groundwork for an attack on the kingside.",
+        "5... Nf6 6. b4": "Drives away the queen and prepares for an attack on the other wing as well as possibly fianchettoing the bishop. ",
+        "6... Qc7 7. d4": "Contests the center. Note that although Black appears to be ahead in development, White is better prepared to use the open lines.",
+        "7... Bf5 8. g4": "Drives the bishop away with tempo, and prepares a wing attack if Black castles kingside.",
+        "8... Bg6 9. Bg2 h6 10. Nf3 Be4": "Be4?! loses a tempo and the bishop pair. ",
+        "11. Nxe4 Nxe4 12. Ne5 Nf6 13. c4 e6": "At this point White is in good shape. Wherever Black puts the king, White is prepared to attack with powerful bishops.",
+        "14. O-O Be7 15. f4 Nbd7 16. Nd3": "White decides to retreat the Knight. He wants to save it for the attack once Black decides which side to castle on.",
+        "16... O-O-O": "...0-0-0?! While 0-0 is risky and this is common in the Scandanavian Defense main line, here White can rapidly bring every piece and a pawn storm to bear on the Black king.",
+        "17. Be3 Rdg8 18. Qa4 Qb8 19. b5 cxb5 20. Qxb5 Bd6 21. c5 Bc7 22. c6 bxc6 23. Qxc6": "White has opened up the King. ",
+        "23... Nb6 24. a4": "To weaken the Knight. ",
+        "24... a5 25. Ne5 Rgf8 26. Rab1 Qa7 27. d5": "Black resigns, the attack is too strong to defend against and a piece is lost."
+    },
+    "url": "https://gameknot.com/annotation.pl/landslide-in-scandanavia?gm=22499",
+    "gameName": "Landslide in Scandanavia",
+    "players": "dmaestro  vs. jstevens1 ",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3": "Leaving my precious Italian attack, with 3. Bc4 Bc5 4. c3 Nf6 5. d4...",
+        "3... Nf6 4. d4 exd4 5. Nxd4 Bc5": "Very old school... The likes of Tarrasch and Rubinstein cooked this up, some 100 years ago... Nimzovitsch improved on this, with 5. ... Bb4... But that's history...",
+        "6. Be3 Bb6 7. Qd2": "No use for 7. Nxc6 bxc6 8. e5 Bxe3 9. fxe3 Nd5 10. Nxd5 cxd5 11. Qd4 0-0 12. c4 Re8...",
+        "7... O-O 8. O-O-O Re8 9. f3 d5": "Giving white no time for g4... Black is contemplating a Queen's sac! By now, l-d-j tells me this was played before... I wish I had seen this game, to prepare myself...",
+        "10. exd5 Nxd5 11. Bg5 Nxc3": "Where do people get this? After 11. ... f6 12. Bc4 Nxd4 13. Nxd5 Be6 14. Nxb6 axb6 15. Qxd4 Qxd4 16. Rxd4 fxg5, black is only slightly worse then white... After 11. ... Nde7 12. Nxc6 Qxd2 13. Bxd2 Nxc6 14. Nd5, black's endgame is only slightly inferior... This is a bomb...",
+        "12. Bxd8 Nxd1 13. Bxc7": "13. Bh4 Nxd4 14. Qxd1 Nf5! 15. Bg5 h6! seems to hold... P.S. @water123: is Aronian 1950+?",
+        "13... Bxc7 14. Nxc6 Ne3 15. Bb5": "15. Nd4? Bf4! 16. Bb5 Nf1!! goes terribly wrong for white... Now, 15. ... Bf4?, is met with 16. Ne7+! Kf8 17. Ng6+! hxg6 18. Qb4+ Re7 19. Qxf4...",
+        "15... bxc6 16. Bxc6 Nc4 17. Qd4 Be6 18. Bxa8 Bb6 19. Qd3 Rxa8": "The smoke is clearing, and black has three light pieces for a Queen, and two pawns...",
+        "20. Re1 Rd8 21. Qe4 g5": "Black's first weak move... After 21. ... g6 22. c3, white has his work cut out for him...",
+        "22. c3 Bc5 23. Re2": "Too soon for 23. f4 h6 24. f5 Bd5 25. Qd3...",
+        "23... h6 24. g3": "I did not trust on 24. b3 Ba3+ 25. Kc2 Nd6 26. Qc6 Bb4 27. Qa4 Bc5... Better protect the second row...",
+        "24... a5": "Probably, a wise decision... After 24. ... Kg7 25. b3 Ba3+ 26. Kc2 Bf5 27. Qxf5 Rd2+ 28. Rxd2 Ne3 29. Kb1 Nxf5 30. Rd7, the a-pawn is lost...",
+        "25. f4 a4 26. f5": "Stronger then 26. fxg5 hxg5 27. b4 axb3 28. axb3 Ba3+ 29. Kc2 Rd2+ 30. Kb1...",
+        "26... Bd5 27. Qd3 Bb6 28. b3 axb3 29. axb3 Na5 30. Re8+": "A tough decision: after 30. Qb5 Nxb3+ 31. Kc2 Nd4+! 32. cxd4 Bxd4 33. Re8+ Rxe8 34. Qxe8+ Kg7, I am not sure, if white can win this...",
+        "30... Rxe8 31. Qxd5 Rd8 32. Qb5": "Now, this seems fine...",
+        "32... Rd6 33. Kc2 Kg7": "This is probably too much... After 33. ... Bd8! 34. Qe8+ Kg7 35. Qe5+ Rf6 36. b4 Nc6 37. Qe4, white has only a slight edge... Now we have our free connected pawns...",
+        "34. b4 Nb7 35. c4 Rf6": "Or 35. ... Nd8 36. Qe5+ Rf5 37. c5 Nc6 38. Qe4 Bd8 39. b5 Na7 40. g4 Nxb5 41. Qd3...",
+        "36. c5": "White is running over black, now... By the way, Kramnik - Aronian continued with 36. g4... My win is cleaner...",
+        "36... Bxc5 37. bxc5 Nd8 38. g4 Nc6 39. Qb2": "This ends all... Now, white's king marches to free pawn c5...",
+        "39... Nd8 40. Kd3 Nc6 41. Kc4 Ne7 42. Qb7": "Black resigns... There is no way of stopping pawn c5..."
+    },
+    "url": "https://gameknot.com/annotation.pl/four-knights-in-the-hop-scotch?gm=45249",
+    "gameName": "Four knights in the Hop Scotch...",
+    "players": "vonbonkagain (1200) vs. John Doe (1950)",
+    "opening": "Four knights (C47), Scotch, 4...exd4"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6": "Vorige keer vergat ik tegen Frans deze zet en kwam al snel in de problemen na Lb5. Daarom nu wel \u2026",
+        "5. Nc3 Nf6 6. h3 Nc6 7. Nxc6 bxc6": "Met zijn laatste 2 zetten wijkt Frans feitelijk af van de theorie van de Siciliaanse verdediging, waarin wit door gaat met zetten als Le3. Voor mij pakt dit goed uit",
+        "8. Bd3 e5 9. O-O Be7 10. Re1 Be6 11. a3 O-O": "Zwart heeft nu een mooie stelling en kan de aanval door het centrum gaan voorbereiden",
+        "12. Re3 a5": "Te3 is effectief tegen de zwarte aanval op h3, a5 snoert de witte damevleugel verder in",
+        "13. Ne2 Nd7": "Pd7 is een noodzakelijke opzet voor de opstoot d6-d5, vanwege 13\u2026.d5? 14. Exd5 c xd5. 15 Txe5 en vervolgens 15\u2026. Ld6 brengt niet genoeg aanval voor de verloren pion. e5 moet dus eerst gedekt worden en Pd7 is daarvoor een mogelijkheid. Dc7 kan ook. Bij de witte zet Pe2 heb ik wel twijfels. Moet het paard niet op c3 blijven en  13. Lf1 lijkt dan beter?",
+        "14. Ng3 d5 15. exd5 cxd5 16. Nf5 e4": "16\u2026.e4!! dwingt de ruil op e7 af.",
+        "17. Nxe7+ Qxe7 18. Bb5 f5 19. Bc6 f4": "Van Lc6!! schrok ik wel. d5 is na f5 een zwakte geworden. ",
+        "20. Re1 Qg5": "Reken het allemaal maar eens uit na 20. Lxa8 fxe3 21. Lxd5 exf2 + 22. Kf1. ",
+        "21. Bxa8 Rxa8": "Nu niet 21 \u2026Lxh3, want dan wordt de dame geruild via Dxd5+. Zwart heeft nu alle tijd, ondanks de geofferde kwaliteit",
+        "22. g4 Ne5": "22. Kf1 is misschien een alternatief?",
+        "23. Kg2 Rf8 24. Rh1 e3 25. f3 Qh4": "25. fxe3 is waarschijnlijk geen goed alternatief. ",
+        "26. Qe1 Qxe1": "De dameruil moet vanwege de dreigingen Dg3 en Df2. Ondanks de kwaliteit minder zijn de doorgebroken centrumpionnen nu bepalend voor zwarts winst",
+        "27. Rxe1 d4 28. Rb1 Bd5": "Is c3 een mogelijkheid voor wit om tegenspel te geven? Zwart heeft dan in elk geval d3",
+        "29. b4 Nxf3 30. Kf1 Nxe1": "Te2 ipv Kf1 faalt op Pd2 + met stukwinst via Pxb1",
+        "31. Kxe1 f3": "Wit geeft op.\nCommentaar Jan Brinkman."
+    },
+    "url": "https://gameknot.com/annotation.pl/onderlinge-competitie-5-februari-2016?gm=60749",
+    "gameName": "onderlinge competitie 5 februari 2016",
+    "players": "frans lagerwaard (1653) vs. jan brinkman (1754)",
+    "opening": "Sicilian (B54)"
+}

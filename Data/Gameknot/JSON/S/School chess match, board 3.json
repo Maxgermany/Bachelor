@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5": "I am currently experimenting with the Sicilian.",
+        "2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5": "At this point, I morph it back into a king's pawn opening.",
+        "5. Nxc6": "My opponent really liked to trade, for example, if you go straight to move 16, you will already see that we reached an endgame position.",
+        "5... bxc6": "The next several moves are a fight to control e5, which results in a lot of trading, which is fine, by me, as it strengthens my position.",
+        "6. Bc4 Nf6 7. Nc3 Bb4 8. Bg5 Bb7 9. Bxf6": "I was surprised here, because my opponent destroyed an imbalance that was in his advantage, his bishop was stronger than my knight. This is the kind of trading that my opponent did all game, it strengthens my position, while we remain equal in material.",
+        "9... Qxf6 10. Qd3 Rd8 11. Ba6 Bxa6 12. Qxa6 Bxc3+": "Now I trade, to weaken his pawn position, for the endgame.",
+        "13. bxc3 d5 14. exd5 cxd5 15. Qxf6": "Another trade which helps me, this time, we remain equal, in material, when my opponent could have gained a pawn.",
+        "15... gxf6 16. Rd1": "And now we reach an early endgame, in which my pawn structure is greatly superior, which will eventually win me the game.",
+        "16... Ke7 17. Ke2 Ke6 18. Rhe1 Rhg8 19. g3 Rdb8": "I now control one full file, and one semi-open file.",
+        "20. Rdb1 h5": "I figured that this would be useful later, in still further weakening his pawns, even at the expense of one of my own pawns.",
+        "21. Rb4": "He realized now, how weak his pawns already are, and expected me to take, as he would have. He hoped to regain a pawn structure on that side.",
+        "21... a5 22. Rxb8 Rxb8 23. Kd3 f5": "This way, when I play h4, later on, my opponent can't play g4 and escape.",
+        "24. c4 e4+ 25. Kd4 Rb4 26. Kc3 Rxc4+": "I really like my pawn where they are, I don't want this little guy weakening my strong center.",
+        "27. Kb3 h4 28. gxh4": "Instinctively, my opponent takes, thus dooming himself by isolating all of his pawns!",
+        "28... Rc8 29. f3 Rh8 30. fxe4": "Exactly as I predicted (and hoped); now I can get my f7 pawn into the action, if necessary.",
+        "30... fxe4 31. Re2 Rxh4 32. Ka4 e3+ 33. Kxa5 d4 34. Kb6": "At this point, my opponent assumed that it would now become a pawn race, I suppose that it might have been, if he had played it right, or I had played it wrong, or both.",
+        "34... Kd5 35. a4 Rh6+ 36. Kb5 Rh8 37. Kb4": "At this point, my opponent should have returned his king to b6 ...",
+        "37... Rb8+": "But, instead, he leaves me the opportunity to force his king into the a file, where it will be out of the action, for the rest of the game.",
+        "38. Ka3 f5 39. c3": "Once again, my opponent assumed that I would take, but by allowing him to take first, I once again strengthened my position, for the imminent pawn promotion.",
+        "39... f4 40. cxd4 Kxd4 41. a5 f3": "And the game is as good as over (if it wasn't a long time ago)!",
+        "42. Re1 f2 43. Rf1 e2 44. Rxf2 e1=Q": "There is more (three moves), but I will omit them, because your imaginations can provide a more satisfying game than my opponent did."
+    },
+    "url": "https://gameknot.com/annotation.pl/school-chess-match-board-3?gm=13817",
+    "gameName": "School chess match, board 3",
+    "players": "Andrew (1500+?) vs. Alex (1444)",
+    "opening": "Sicilian (B32), Labourdonnais-Loewenthal variation"
+}

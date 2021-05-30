@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "The King's Pawn Opening.  ",
+        "1... c5": "Of course, I am going to respond with the Sicilian Defense.",
+        "2. c4": "I don't know why he played this, but it does not matter because I will continue with my defense.",
+        "2... d6 3. h3": "I do not know why he moved there, but 3.Nf3, or 3.Nc3 was best as it develops his Knight.",
+        "3... g5": "In this position, I intend to develop my DSB.  However, 3...Nf6, or 3...Nc6 was best, as you are supposed to develop the knight first.",
+        "4. g4": "I do not know what he is trying to accomplish, in this position, because his h3 pawn is not hanging.",
+        "4... Nc6": "! In the meantime, I am going to make the right choice by developing my Knight.  ",
+        "5. Ne2": "? This is a mistake because he is cramming his own pieces.  Instead, 5.Nf3 was better.    ",
+        "5... Bg7": "Now, I decide to Fianchetto my DSB, and this is something that I wanted to do, since move 3.",
+        "6. d4": "?! He figured that he would exchange pieces, 6...cxd4, 7.Nxd4, followed by his DSB and Queen to make me fall behind, but I am not falling for that trick.  Note: I am a beginner, in this game, so I am more obsessed about tricks, at this point, then I was during my last several annotations.  ",
+        "6... Nb4": "I do not know what I was thinking, here, but 6...Nf6 was best for development.  Afterall, I just moved my Knight twice in a row.  At this point, however, I do not realise that it is a bad idea to move the same piece twice, in the beginning.  However, General rules are almost irrelevant because I am still a beginner.  Once the rating climbs over 1000, then I start to pay attention to chess basics.  Why do I not care too much about chess basics or general opening principles?  A grandmaster (tactical-abyss), told me that it is a bad idea to obsess over principles and rules.  He implied that there are occassions where you will loose by following chess basics.  Whereas, there are other occassions where you will win, by ignoring the basics.  Of course, there might be something that I misunderstood.  But, he showed me examples of my last two sentences, in his past games.",
+        "7. d5": "I don't know why he played this.",
+        "7... e5": "? On the other hand, I do not care because I am going to prevent his e pawn from doing damage.  However, this is a mistake because I miss an important detail.  What is it?  In this position, he could have made an en-pessant capture with 8.dxe6 e.p.  Of course, I did not know when an en-pessant was allowed until I saw something like, axb4 e.p., in a different game.  Then, I spoke to grege79, before he got rid of his account, and he explained that en-pessants are allowed when you attack by pawn, horizontally, by moving your pawn in the first two spaces.  That is, for example, e2-e4, or e7-e5.  Lucky for me, he does not make that capture.  Instead, he makes a move that will cost him the game.  What is it?",
+        "8. Bd2": "This is it, his decisive mistake.  Instead, 8.Ng3 would have saved the game, without loosing his Knight.  Why?  In this position, I am going to mate in one, 8...Nd3#.  If, however, 8.Ng3 had been played, he would have protected his piece, and I would not have been able to mate.  That is because he would have been protected by his LSB.  BTW, I only thought about this, just now.  I did not make any plans, in advance.  In other words, I was only going to do things, \"move by move\".  What would have happened if I had tried to make plans, at this point?  I would have missed this mate in one.",
+        "8... Nd3#": "There you have it.  In other words, there are times where you should plan steps in advance, and not, \"move by move\".  On the other hand, there are also circumstances, where it is best to only plan one move ahead.  In some cases you might actually loose, if you try to plan far ahead, due to miscalulation.  That's the moral of this story.  Having said that, I would like to thank Expert ION, for helping to make this annotation feasible."
+    },
+    "url": "https://gameknot.com/annotation.pl/one-step-ahead?gm=42227",
+    "gameName": "One Step Ahead",
+    "players": "babalue (1168) vs. jkarp (972)",
+    "opening": "Sicilian (B20), Gloria variation"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "Here's an very interesting game i playdd against a player called cedoran",
+        "1... d5 2. c4 dxc4": "The queens gambit accepted",
+        "3. e4 f5": "A weakening move that signals long castle",
+        "4. Nc3 fxe4": "Not a really good move, because it gives white a nice knight",
+        "5. Nxe4 Qd5": "Really odd move, bringng the queen out really early",
+        "6. Nc3": "Places the knight back on its natural square",
+        "6... Qf7 7. Nf3 e6": "\nAnother pawn move. Black hasnt brought out any minor pieces",
+        "8. Bxc4 a6": "Another one??",
+        "9. Bb3 Bd7 10. O-O Bd6 11. Be3 Qh5 12. Qc2 Ne7 13. h3": "I was a bit worried about black liberating his lsb with e5",
+        "13... Nbc6 14. Rad1 e5 15. Ng5": "Just threatening bf7ch winning the queen",
+        "15... Bf5 16. Qc1": "The thread is still on",
+        "16... O-O-O": "Not a good move",
+        "17. Nf7": "This forks both rooks (duh)",
+        "17... Qg6 18. Nxd8 Bxh3": "Here i got a bit worried, but i found a forced sequence of moves which save the day",
+        "19. Be6+ Bxe6 20. Nxe6 Qxe6 21. d5": "D5! My opponent apparently missed this when playing bh2",
+        "21... Qg6 22. dxc6 Nxc6": "And white is in a winning position, but he has to be careful, black might have some tricks up his sleeve",
+        "23. Nd5 Re8 24. Qd2 e4 25. g3": "I wanted to blunt out the bishop and i thought i can handle a knight coming to f3",
+        "25... Ne5 26. Qc3": "I thought about nb6ch a long time, but decided to add more pressure on black",
+        "26... Nf3+ 27. Kg2 Qh5 28. Rfh1 Qg6 29. Bb6": "Defends against the mate threat with tempo",
+        "29... Be5 30. Qc4": "The pawn on b2 is immune",
+        "30... c6 31. Qc5": "Threatening ne7ch winning the exchange",
+        "31... Bd6": "This was a blunder",
+        "32. Ne7+": "Ne7ch!! No matter what black does he loses. 1.If 32... kb8?? 33. Rxd6! Winning a piece 2.if 32... kd7?? 33.nxg6! (Notice how blacks bishop is pinned) 3.32... rxe7??33.rxd6! Threatens mate and attacks the queen and fourth is the game continuation 32...bxe7?? 33.Qxe7! is mate no matter what black does",
+        "32... Bxe7 33. Qxe7": "Black resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/32-ne7ch?gm=53472",
+    "gameName": "32. Ne7ch!",
+    "players": "vavavi (1521) vs. cedoran (1548)",
+    "opening": "QGA (D20), Schwartz defence"
+}

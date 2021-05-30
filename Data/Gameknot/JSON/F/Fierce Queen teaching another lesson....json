@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5": "Giuoco Piano it will be: one of my favourites with White...",
+        "4. O-O Nf6 5. c3": "no fear for Nxe4: after Re1, White will set things straight...",
+        "5... O-O 6. d4 exd4 7. cxd4 Be7": "White has already castled, so Bb4 is of no use anymore...",
+        "8. d5": "White is already ahead in tempo...",
+        "8... Nb8 9. Nc3 d6 10. h3": "taking away Bg4...",
+        "10... h6 11. Bf4 a6 12. e5 dxe5 13. Nxe5 Bd6 14. Bh2 Nbd7 15. f4": "White is conquering the center...",
+        "15... Nc5 16. b4 Nce4 17. Nxe4 Nxe4 18. Qd3 Nf6 19. g4": "keeping up the pressure...",
+        "19... Bxb4 20. a3 Bc5+ 21. Kg2": "Black is not getting any grip, on the White position...",
+        "21... Nh7 22. Qb3": "setting up a change of scenery...",
+        "22... Bd6 23. Rad1 b5 24. Bd3 Bb7 25. Bxh7+ Kxh7 26. Qd3+": "mission accomplished...",
+        "26... Kg8 27. Bg3 Bxe5": "Black needs to release some tensions...",
+        "28. fxe5 Re8 29. Qf5": "although it might be too late for Black...",
+        "29... Qc8": "chess blindness, no doubt: Black should have tried Bxd5+; but the pin over Qd8 might prove lethal...",
+        "30. Qxf7+": "and Black resigned: probably fed up, with his own play.."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-teaching-another-lesson?gm=64164",
+    "gameName": "Fierce Queen teaching another lesson...",
+    "players": "fiercequeen (2059) vs. rama38 (2090)",
+    "opening": "Giuoco Piano (C50)"
+}

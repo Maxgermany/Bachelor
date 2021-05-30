@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. c4": "Starting with the English Opening",
+        "1... Nf6 2. Nc3 g6 3. Nf3 Bg7 4. e4 d6 5. d4": "Now, we are transposing to a King's Indian Defence",
+        "5... O-O 6. Be2 c5": "e5 is the main line",
+        "7. O-O": "d5 is the alternative",
+        "7... Nc6": "This is the Velimirovic attack, black forces d5 and his knight will go to b7 (Na5,b6,Nb7) and protect the Q-side. It is not popular because black wastes many tempos in this.",
+        "8. d5": "8 Be3 is harmless due to Ng4",
+        "8... Na5 9. h3": "9 Rb1 e5 10 a3 b6 (white was threatening b4 trapping the knight) 11 b4 Nb7. This is the critical position, black has lost tempo with his knight, but it is well placed on b7. If white plays bxc5, black will play Nxc5, that is the idea of the knight's \"dance\". The problem is that black needs a lot of tempo for launching an attack on the kingside",
+        "9... e5 10. Bg5 h6 11. Bd2 Ne8 12. a3": "Threatening b4 ...",
+        "12... f5": "And I played this move automatically",
+        "13. b4": "How big was my surprise when I saw I have not played b6!",
+        "13... fxe4": "I had to do something",
+        "14. Nxe4": "Nh2! was the move and I am losing the piece",
+        "14... Bf5": "Now, I have some chances",
+        "15. Nc3 e4 16. Ne1 cxb4 17. axb4 Nxc4 18. Bxc4 Rc8 19. Qb3 Qc7 20. Be2 Bxc3 21. Rc1 Bxd2 22. Rxc7 Rxc7": "This is an imporatant position of the game, the material is aprox balanced (R+B+P vs Q), I think black is not worse, his dark squared bishop is powerful and dominates the c-file, while white pieces are discoordinated",
+        "23. Qb2": "This move only helps black.White must play Nc2, and improve the knight",
+        "23... Bc3 24. Qa3 Bd4": "Defending a7, avoiding Nc2 and starting an attack against the f2-pawn",
+        "25. g4": "Too optimistic, white must not weak his king",
+        "25... Bd7": "Bc8!? was interesting",
+        "26. Ng2": "A bad move, losing immediately",
+        "26... Rc2": "The bishop cannot run.In the game, White played Bd1 and suffered a powerful attact",
+        "27. Bd1 Rcxf2 28. Rxf2 Rxf2 29. Kh2": "29 Ne3 Rd2 and black wins material",
+        "29... Bb5": "Threatening Bf1. Another way was 29 ... Rf1",
+        "30. Kg3 g5": "The king can not escape",
+        "31. Ne3 Rd2": "The threat of Be5++ is unavoidable",
+        "32. Bc2 Be5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=40652",
+    "gameName": "Team match",
+    "players": "alena7 (1877) vs. gsvc (1981)",
+    "opening": "English opening (A16)"
+}

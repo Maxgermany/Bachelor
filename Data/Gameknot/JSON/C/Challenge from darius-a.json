@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Less popular Opening as it blocks the bishop.",
+        "3. Bc4 h6": "loses the time.",
+        "4. Nc3": "Looking for Bg4 and Winning the Game.",
+        "4... Nf6 5. d4": "Always good move in this position, breaking Black's center.",
+        "5... exd4 6. Nxd4 a6": "threatening ...b5 ...c5 & ...c4 traping n winning the bishop possibly.",
+        "7. a4": "Threat was not powerful but White does not want to get bothered.",
+        "7... Qe7": "Not good move Black should focus on his development of minor pieces.",
+        "8. O-O": "my e4 pawn is attacked twice but Black cannot take it. can he.",
+        "8... g6": "this weakens more the kingside. \n\"One bad move causes more bad moves\"",
+        "9. Re1 Nc6": "Black attack d4 knight to exchange. What White do, exchange, retreat, or ....",
+        "10. Nd5": "!",
+        "10... Qd8": "(only move) This is very citical position.\nif we analyse it ... White has won the opening phase (development, controling the center, attacking the king, his own king safe, and ....) and this advantage leads him to dominent middle game. more important, Black's king is not only stuck in center but he is on same file where White's rook stands.\nBut question is How White continue ... there are two moves in White's mind 1. e5 2.Qf3",
+        "11. Qf3": "White chose the second, if now Black plays Nc6xd4 then NxN  and White will be better. But Fritz says e5 is about double powerful than Qf3. hmmm",
+        "11... Bg7 12. Nxc6": "e5 is target but first clear the way.",
+        "12... bxc6": "double pawn ... endgame advantage.",
+        "13. Nxf6+ Bxf6": "Taking with queen was better.",
+        "14. e5 dxe5": "only best move.\npredict White's next move.",
+        "15. Rxe5+ Kf8": "Look at the position.\nmaterial is even, White attacks king where king feels littel bit unsafe, Black's king rook is trapped in cage but he does little work too defending the king, Black's queenside pawn structure give black winning endgame advantage.",
+        "16. b3": "?",
+        "16... Rh7": "! very good move.\nas it gaurds the f7 pawn (the point of checkmate) and issue the threat to win rook.",
+        "17. Ba3+ Kg8": " ... phew ...\nPosition worth label\n\"White to move and Win\"",
+        "18. Rd1": "Black has two options, 1. exchange queen for two rooks or save it.",
+        "18... Bd7 19. Re4": "there was another very good continuation ...\nRxB QxR QxB and White won 2 bishops for rook, bur further continuation goes Qd1  Bf1 only move Qxc2 so position become very ..... so White postpone this line for a while as in this postion Black does not find good squars for his pieces, let's examine\nBlack Queen cannot move, d7 bishop is pinned, both rooks doesn't do anything. if f6 bishop go back g7 this will be blunder and all other moves either loses or nothing do any harm to White. according to White Kg7 should be next move for Black, what do u think? But Kg7 can ruin the kingside ...",
+        "19... Qc8": "?? Oops",
+        "20. Qxf6 c5 21. Qxg6+ Rg7 22. Bxf7+": "and checkmate in few moves.\nWhite Wants Comments.\nGame was annotated throgh the eyes of \"abro\".\nBut if you analyse it on computer u'll see many dramas ...\n even at onle place White missed the possibly forced mate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-darius-a?gm=403",
+    "gameName": "Challenge from darius-a",
+    "players": "abro (1595) vs. darius-a (1519)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

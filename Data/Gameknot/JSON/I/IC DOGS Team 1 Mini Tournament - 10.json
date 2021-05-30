@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "These annotations are for IC Dogs team members, but everyone else is welcome to them as well.",
+        "1... e5 2. Nf3 Nc6 3. d4": "The Scotch.",
+        "3... exd4 4. Bc4": "The Scotch Gambit.",
+        "4... Nf6": "Reaching the Two Knights, which often arises following 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5.",
+        "5. e5 Ne4": "5. ...d5 is considered to be the main line.",
+        "6. Qe2 Bb4+": "Much safer is 6. ...Nc5.",
+        "7. Kf1 Nc5": "The knight had nowhere else to go, but now the bishop's escape diagonal has become blocked.",
+        "8. a3 d5": "This move allows white to capture with discovered check.  But, 8. ...Ba5 9. b4 also loses material.",
+        "9. exd6 e.p.+ Ne6 10. axb4 Qxd6 11. b5 Na5": "The final mistake.  Black has overlooked that the a-file is now half-open.",
+        "12. Rxa5": "1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/ic-dogs-team-1-mini-tournament?gm=1708",
+    "gameName": "IC DOGS Team 1 Mini Tournament",
+    "players": "yellowlab (1797) vs. mhendeavour (1505)",
+    "opening": "Scotch gambit (C44), Dubois-Reti defence"
+}

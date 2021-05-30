@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. f4": "I believe this is the weakest possible opening.  There is a two move checkmate that begins this way.",
+        "1... e6 2. Nf3 Nf6 3. e3 d6 4. Nc3 a6 5. d4 d5 6. Ne5": "So far white has developed his position well.",
+        "6... Qe7 7. g3 Nfd7 8. Bd3 f6": "Time to trade knights.",
+        "9. Nxd7 Bxd7 10. g4 Nc6 11. f5": "My guess is black will castle on the queen side, and white's far flung king pawns will provide no great advantage.\n",
+        "11... O-O-O 12. fxe6 Bxe6": "With this one pawn exchange black brings great power over the central squares.",
+        "13. Bf5 Bxf5 14. gxf5 Kb8": "? Seems like a wasted move.  ",
+        "15. Qf3 Nxd4 16. Qh3": "Qg4 would have had the added advantage of threatening the black knight, while still protecting the pawns.",
+        "16... Nxc2+": "Whoa, I overlooked that too.  Classic fork.",
+        "17. Ke2 Nxa1 18. Kd2": "?  What?  Black doesn't have a white bishop.  Why move the king, and why to a BLACK square?",
+        "18... d4 19. exd4": "? Nothing is protecting that pawn from the black rook check.",
+        "19... Rxd4+": "Worse yet, white must now interpose the queen.  White could hold out for a draw, but in this case honor suggests toppling the king.",
+        "20. Qd3 Rxd3+ 21. Kxd3 Qd6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=36821",
+    "gameName": "Team match",
+    "players": "dougcosine (1391) vs. pennsylvaniadan (1403)",
+    "opening": "Bird's opening (A02)"
+}

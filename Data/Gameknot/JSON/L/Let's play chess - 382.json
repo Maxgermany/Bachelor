@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 f6": "hmmm, not the best continuation. It opens up the king, and locks up the knight on g8.",
+        "3. Nc3": "Not the best move for me either. I think I should have played d4.",
+        "3... c6 4. d3": "Again, I think it would be better to play d4",
+        "4... d5 5. b3 Bb4": "This stopped me from going Bb2.",
+        "6. Bd2 Qb6": "Not so sure why he played this.",
+        "7. g4": "I think I blacked out or something. What a bad move!",
+        "7... Bc5": "A blunder, and I punished him badly.",
+        "8. Na4": "Na4, and he resigned. His bishop is lost. The game would be on like this: 8...Bxf2, 9.Ke2, Qc7, 10.Kxf2. He would lose later on. Thank you for watching!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=45467",
+    "gameName": "Let's play chess",
+    "players": "maxim12345 (1200) vs. drealschwinn (1200)",
+    "opening": "Damiano's defence (C40)"
+}

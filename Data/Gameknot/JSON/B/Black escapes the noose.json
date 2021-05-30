@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. h3": "Unusual waiting move, hoping for ...d4. ...d3 transposes to main line sicilian.",
+        "4... Qc7": "deters e5, if now 5 d4, cxd, 6 nxd, a3",
+        "5. Bc4 a6 6. d4 b5": "the point, and an attempt to complicate the position",
+        "7. e5": "looks good, but..",
+        "7... cxd4": "This wins at least a pawn",
+        "8. exf6 dxc3 9. fxe7 Bxe7 10. Bb3": "Bb3?1; bd5 is more precise",
+        "10... Bf6": "Inviting simplification and preserving pressure behind advanced c pawn.",
+        "11. Ng5": "Ng5?!, an attempt at counterattack",
+        "11... Qe5+": "Black decides to force favorable exchanges",
+        "12. Qe2 Qxe2+ 13. Kxe2 Nd4+ 14. Kd3 Nxb3": "Combination as planned--what is white to do? If the N is taken, cxb wins more material, and the N threatens the bishop defending the N on g5. White wisely decides to set a trap...",
+        "15. Be3 Nxa1 16. Bc5": "Suddenly white has some threats. Here black's best plan is to play d6, freeing the king and threatening Bf4 , but black decides to take the N.",
+        "16... Bxg5 17. Re1+": "now the stinger...if black moves to d8, bb6 is checkmate!! Black is forced to return the piece...",
+        "17... Be7 18. Rxe7+ Kd8 19. Re1": "renewed mate threat, but black still has d6....",
+        "19... d6": "And white resigns, since the mating net is no longer a threat, the material  deficit is too great"
+    },
+    "url": "https://gameknot.com/annotation.pl/black-escapes-the-noose?gm=17840",
+    "gameName": "Black escapes the noose",
+    "players": "soulphazer (1351) vs. dmaestro (1473)",
+    "opening": "Sicilian (B29), Nimzovich-Rubinstein variation"
+}

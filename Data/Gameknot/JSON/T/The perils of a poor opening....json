@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5": "Sicilian.",
+        "2. c3": "Alapin's variation.",
+        "2... Nf6 3. Qf3": "I don't think this is good for white at all, he has blocked both natural knight development squares, and his queen is out early.",
+        "3... Nc6": "Meanwhile, I have developed both my knights.",
+        "4. g3": "?\nThe WS bishop must maintain control of d3 in this position, so the fianchetto is a bad idea, certainly at this stage.",
+        "4... e6 5. b3": "?\nHis position is becoming weaker with every pawn move. Develop!!! If a pawn must move, at least move d2, so two pieces can be developed.",
+        "5... Rb8": "Why not? White has wasted so many moves in the opening I feel it's safe to waste one too doing something that will need to be done after development anyway, since white intends a fianchetto.",
+        "6. Ne2": "?\nAt best white drops 2 points here. White has now made three bad opening moves in a row, this one the final nail in his coffin. Not only does it block the queen from returning to safety, crucially, it blocks the bishop's control of d3, hence the reason the kingside fianchetto was not a good idea in this opening.",
+        "6... Ne5": "!\nAnd here comes the attack...",
+        "7. Qg2": "Indeed. \n7. Qe3? Ng4 queen falls.\n7. Qf4? Nd3+ queen falls.",
+        "7... Nd3+": "Ooh, nothing covering d3? Sweet...",
+        "8. Kd1 Nxe4": "!\nSafe from capture thanks to Nxf2+",
+        "9. f3": "? Game over. \nHere white's best defence seems to be the undevelopment of the knight, ie Ng1. This gives his king flight other than c2, which is a bad square due to the position of his queen and my knight on d3. It also ensures the knight's safety. And, of course, it reclaims d3 for the bishop, though a little too late to save the position.\n9. Ng1 Nexf2+\n10. Ke2...\nIt then seems the best attack for me would be to claim his bishop, instead of the rook. Taking his rook would cost me both my knights, leaving me up a single point. The bishop would yeild two points, my knight capable of escape thanks to Qf6+, gaining me the required tempo.\n10... Nxc1+ Kxf2\n11. Qf6+ Ng3\n12. Qg6... and now the knight can escape via d3.\nIf white chooses instead 9. Nf4, then white will be 4 points up at the end of the exchange, thanks to Nxf4+.",
+        "9... Nef2+": "Instead white has lost his queen...",
+        "10. Kc2": "?\nNot that it matters any longer, but it gets from bad to worse for white. Basically, he had to take the knight with the queen to stave off mate, but would you do that? \n10. Qxf2 Nxf2+\n11. Ke1 Nxh1\nI could now afford to abandon the knight on h1, and still be a whole queen up.\nInstead, white plays Kc2 and it's mate in three. Those were the two options he faced thanks to 9. f3.",
+        "10... Ne1+": "White resigns.\n11. Kb2 Nfd3+\n12. Ka3 Qa5#\n\nI think it's easy to look at move 9 as the losing move for white, but honestly, I think 6. Ne2 was the killer. Move 9 just hurried things along. Ok, 2 points up is not an easy victory, there's still a lot of work to be done, but I would be left with a solid defence, compared to white, who is all over the place. It's going to take some errors from me to let him back in. A good, solid opening requires fast development and minimal pawn moves. You want knights and bishops, not queens, bossing the early game. And finally, if you want the king side fianchetto, then ensure the QP3 suare (d3 or d6) is covered, especially if your opponent has developed his knights, easily achieved by advancing the QP and leaving the queen's development until later!"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-perils-of-a-poor-opening?gm=25162",
+    "gameName": "The perils of a poor opening...",
+    "players": "***** (1565) vs. tugger (1588)",
+    "opening": "Sicilian (B22), 2.c3, Heidenfeld variation"
+}

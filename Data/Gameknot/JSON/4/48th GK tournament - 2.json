@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "I know that I had some help from my oppent, but I thought this queen sac was pretty.",
+        "1... d5 2. Bf4": "this is the Sarrat Attack, and it's the most accurate move order for the Reversed London System (AKA the Boring opening) when facing 1...d5",
+        "2... f6 3. e3 h5 4. h3 h4": "I decided to play it safe and play my move order with a KID in mind as there's no planning from my opponent",
+        "5. Nf3 g5 6. Bh2 e6 7. Be2 c6": "I felt 8.c4 was in order to win space on the queenside while giving my opponent something to play for on the kingside...",
+        "8. c4 Nd7 9. Nc3 a5": "I was surprised that he wanted the queen side as well   (?)",
+        "10. Qc2 Ne7 11. cxd5 exd5 12. O-O b5 13. e4": "I felt the push to e4 was early here....",
+        "13... Kf7": "?",
+        "14. e5 Bg7": "I had no real plan here... but my oppent didn't either... I stopped here for a day and planned... of course my opponent helped.",
+        "15. a4": "the knights hold the center so I wanted to win the d6 and e6 squares and the weaknesses on the queen side as well the lack of connection of blacks pieces...to coordinate an attack... I felt a bayonet was in order to soften things up...:)",
+        "15... Ba6 16. axb5 Bb7": "huh?.... that was easy. I stopped in my tracks here and looked for away to open a diagnal on the king... and the pawn fork looked good now. I felt as if the king should go straight to f8 and I'd win a piece.",
+        "17. e6+ Kxe6": "this again changed my plans but for the better... I  was looking at the idea of the knight sac on g5 when I remembered an idea from the american grandmaster Nakumura... an clearance/attraction sac that opened lines on the king . As well, it weakened the center and the queen side.",
+        "18. Ne4 dxe4 19. Bc4+": "Now, black has to play 19...Nd5",
+        "19... Kf5": "?? - now, do you see the mate in 3?",
+        "20. Qxe4+": "he did after I typed in the conditional moves..."
+    },
+    "url": "https://gameknot.com/annotation.pl/48th-gk-tournament?gm=18847",
+    "gameName": "48th GK tournament",
+    "players": "wintervangogh (1267) vs. ??? ",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

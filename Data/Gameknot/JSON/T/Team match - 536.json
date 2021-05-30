@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Bd3": "not the usual lines.\r\nbasically, I think that not following the main lines in openings is not so good - especially for low rated players. I think one should go with the rules that grater has seen and annotated before. In a game of low rated players it will be hard to prove ones strength in positional play when you go out of theory so early in the game.",
+        "3... c5": "I dont know the theory says here but it seems to me that d:e4 B:e4 Kf6 makes the Bishop move another move and that's 3 moves with the same piece in the early opening. that can't be good for white.",
+        "4. Bb5+": "second move with the same piece. exd5 exd5 dxc5 Bxc5 and to play against the isolated pawn seems reasonable.",
+        "4... Nc6 5. Nf3 Bd7": "5... dxe4 6. Ng4 Nf6 etc. should be checked carefuly. it might be a good choice for black.",
+        "6. O-O Bd6": "I dont like that move. e5 is a problem for black.",
+        "7. Be3": "why not e5?\r\nafter 7... Be7 8. c3 f6 9. exf6 Nxf6 10. Re1 - there are problems for black.",
+        "7... a6 8. Bxc6": "a must. going back with the bishop seems to be bad.",
+        "8... Bxc6 9. e5 Bc7 10. c3": "white managed to pass e5 and to create a chain of soldiers. it looks good.",
+        "10... cxd4 11. Nxd4": "I dont get it. is there a tactical punch that I'm missing?\r\nwhy leaving the e5 pawn helpless?",
+        "11... Ne7": "now I saw it.\r\n11.... Bxe5 12. Nxe6!? fxe6 13. Qh5+ g6 14. Qxe5 Qf6.\r\nis that realy that bad?",
+        "12. Nd2 O-O 13. Bf4 Ng6": "White's tactical tryout made the e5 pawn a target for attack. its true it can be protected but the question is: for how long?",
+        "14. Nxc6 bxc6 15. Qg4 Bxe5": "and the pawn goes - with white's small advantage.",
+        "16. Bxe5 Nxe5 17. Qg3 Ng6": "after it clears - Black is a pawn up and there is a great center play for him. white is a bit out of the game...",
+        "18. Nf3 Rb8 19. b3 Qf6": "Black is pressing on white's weak points: firdt b2 and now c3.",
+        "20. Rac1 Rb7 21. Rfe1 Rfb8": "the plan is good. there has to be a try to push the a pawn or the c pawn or both.",
+        "22. Nd4 Rb7b6": "??\r\nc5 is needed.",
+        "23. Nxc6": "a free pawn...",
+        "23... Rxc6": "????????\r\na blunder.",
+        "24. Qxb8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=30530",
+    "gameName": "Team match",
+    "players": "vulgaire (1473) vs. stefanus140 (1406)",
+    "opening": "French (C00), Schlechter variation"
+}

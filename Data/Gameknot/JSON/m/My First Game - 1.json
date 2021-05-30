@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. Nc3 e5": "Now what? I have never played this line.",
+        "4. Bc4": "I think this is the \"data base move\"",
+        "4... Nf6 5. Ng5": "Just a twist of preassure on f7",
+        "5... Nxe4": "Cowabunga! That was not healthy for Black.",
+        "6. Bxf7+ Ke7 7. Nd5+ Kd6 8. Nxe4#": "Short and sweet!"
+    },
+    "url": "https://gameknot.com/annotation.pl/my-first-game?gm=19393",
+    "gameName": "My First Game",
+    "players": "knasboll (1200) vs. vilibaby (1191)",
+    "opening": "Sicilian defence (B30)"
+}

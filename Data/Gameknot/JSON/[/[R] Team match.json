@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. c4": "English opening.",
+        "1... e5 2. e4 d6 3. d3 a5 4. Nf3 c6 5. Bg5 f6 6. Bh4 g5 7. Bg3 d5 8. cxd5 g4 9. Nh4 Bd7": "PxPd5, PxPd5, QxPd5 leaves black up one pawn.",
+        "10. Be2 Qb6 11. O-O": "Pb2 is lost.",
+        "11... a4": "QxPb2 was probably better.",
+        "12. a3 cxd5 13. exd5 Qxb2 14. Nd2 Ne7 15. Nc4 Qc3": "Qd4 protects Pg4.",
+        "16. Rc1 Qd4 17. d6 Nc8 18. Bxg4": "Black has two pieces on g4.",
+        "18... Bxg4 19. Qc2 Nxd6 20. Ne3 Bd7 21. Qc7 Na6 22. Qc2 Rc8 23. Qa2 Qxd3 24. Rcd1 Qb5 25. Rdb1 Qa5 26. Rfd1 Nc5 27. Qd5 Rc6 28. Nef5 Qc3": "I kind of like Nde4 for black instead, with an eye for a three way fork at Nc3.",
+        "29. Rbc1": "QxPa3 protects Nc5.",
+        "29... Qxa3 30. Rca1 Be6": "Bad trade for black, as white picks up a bishop.",
+        "31. Qf3 Qb4 32. Rab1 Qa5 33. Nxd6+ Bxd6 34. Qh5+": "I kind of like QxPf6.",
+        "34... Bf7 35. Qf3 Ne6": "RxPb7 looks free.  QxPf6 is even better.",
+        "36. Nf5": "RxPb7 threatens QxRc6.",
+        "36... Bg6 37. Ne3": "No.  NxBd6+ maybe.  Now BxRb1, ouch!",
+        "37... Qc3": "Passed up the rook.",
+        "38. Rbc1 Qb4": "QxPf6 forces Rf8.  White kills after this, with QxNe6+."
+    },
+    "url": "https://gameknot.com/annotation.pl/r-team-match?gm=60075",
+    "gameName": "[R] Team match",
+    "players": "mrp800 (951) vs. mouse (929)",
+    "opening": "English opening (A20)"
+}

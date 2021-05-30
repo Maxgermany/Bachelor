@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "A game of the King's Indian April 2007 mini-tournament which had the four-pawn-variation as motive.\r\nI add the Spanish comments by migchess20 and the English by carokant.",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6": "At once the advanced pawn is attacked.",
+        "8. Be2 exd5 9. e5": "White sacrifices a pawn for initiative.\r\nmigchess20: 9.cxd5 Esta continuaci\u00f3n la considero mejor, ya que los peones centrales ejercen mayor tensi\u00f3n al juego. 9...Ag4 10.0\u20130 Axf3 11.Axf3 Cbd7 12.Te1 Te8",
+        "9... dxe5": "migchess20: 9...Ce4 El caballo en la casilla e4 ejerce mayor control en el centro del tablero 10.Cxd5 Cc6 11.Dc2 f5 12.exd6",
+        "10. fxe5 Ng4 11. Nxd5 Nxe5 12. O-O Nxf3+ 13. Bxf3 Nc6 14. Be3 Nd4 15. Rc1 Be6 16. b3 Nxf3+": "Starts a chain of exchanges in order to relieve the pressure on the black position.",
+        "17. Qxf3 Bxd5": "migchess20: Creo que es mejor mantener el par de alfiles para un final y no hacer el cambio por el caballo. es mas fuerte el par de alfiles que alfil y caballo.",
+        "18. cxd5 b6 19. Rcd1": "White has an advanced free pawn, pressure on the f-file. The weak point could be the open d4-g1 diagonal. \r\nBlack has a strong bishop on g7 and also can occupy open files. The black queen has good chances via h4 on the 4th row.",
+        "19... Qd7": "Covers f7.",
+        "20. a3": "Now black had the idea: give a rook for the bishop and then skewer the rook/queen to the king with the bishop! Which rook should I take??",
+        "20... Rfe8 21. b4": "...but white can give his rook back for the bishop appearing on d4 which would put white's queen in a dominating position.",
+        "21... cxb4 22. axb4 Bc3": "migchess20: El alfil en esta posicion es mala ya que colocamos la pieza en el aire, ya que no esta defendida y esta es atacada indirectamente por la dama.",
+        "23. Bxb6 Bxb4 24. Bd4": "Now whites bishop is on the big diagonal.\r\nmigchess20: Las blancas dominan la diagonal central y el rey se encuentra expuesto a un ataque posterior. ",
+        "24... f5": "Relieves the pressure on f7 but opens the diagonal on the king.",
+        "25. Qb3 Qd6": "Blocks the pawn and covers the bishop.\r\nmigchess20: Considero debil este movimiento, creo que era mejor llevar el alfil a d6. Aqu\u00ed podias haber logrado un tablas. Las posiciones de ambos era equivalente. La defensa india del rey la considero una apertura muy dif\u00edcil, ya que es muy posicional.",
+        "26. Rdc1 Re4": "Provoques the next 5 moves but unfortunately has a hole because...",
+        "27. Rc6 Qe7 28. d6+ Qf7 29. Qxb4 Qd5": "...black intended to win back the bishop here but...",
+        "30. Rc4": "...the white rook can retreat and in the same time protect the bishop. So: always think tactical move chains UNTIL THE VERY END!",
+        "30... Rd8 31. Qc3 Rxd6 32. Bh8": "Theratens mate on g7 and also the rook check on c8 is dangerous. There is only one way.",
+        "32... Re7": "And the c8 rook check is met with Rd8.",
+        "33. Rc8+ Rd8 34. Bf6": "This skewer leads to the loss of a rook which is too much to continue. Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-indian-april-2007?gm=8977",
+    "gameName": "King's Indian April 2007",
+    "players": "nykejog (1919) vs. brulla (1623)",
+    "opening": "King's Indian (E76), Four pawns attack, dynamic line"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4": "Queen pawn's opening.\n",
+        "1... d5 2. Nc3 e6 3. e4 Bb4 4. Bd2 Bxc3 5. Bxc3 c6 6. e5 Ne7 7. Qf3 O-O 8. O-O-O Nf5 9. Bd3 Nh4 10. Qe3": "Bad move, but the worse is still to come.",
+        "10... Nxg2 11. Qg3 Nh4 12. Nh3 Nf5 13. Rhg1": "A horrid blunder.",
+        "13... Nxg3 14. Rxg3 g6 15. Nf4 b5": "White begins to struggle for his life.",
+        "16. Rh1 Kh8 17. h4 h5 18. Bd2 a5 19. Rhg1 Rg8 20. Nxg6+": "Achille's heel in the black defense. White takes the initiative with a beautiful sacrifice.",
+        "20... fxg6 21. Bxg6 Qxh4 22. Bg5": "An excellent and obvious move for white. Black has a better continuation with ...Qxg3 followed by 23. Rxg3  Rxg6 and black maintains a heavy material advantage. ",
+        "22... Qxd4": "Black falls into the trap and puts his queen on a dead track. She cannot help her king now...",
+        "23. Bf6+": "The beggining of the end.",
+        "23... Rg7 24. Bxg7+ Kxg7 25. Bd3+": "Bxh5 would have been a bad move because after ...Kh6 the white bishop becomes a burden for the white offensive. Furthermore, the black pawn on h5 will be the guillotine for te black king.",
+        "25... Kh6": "The mate cannot be avoided with ...Kf7 or ...Kf8.",
+        "26. Rg3g6+ Kh7 27. Rg6g7+ Kh6 28. Rg1g6#": "A brilliant victory. Without the queen and with a strong material deficit, white manages to win. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23872",
+    "gameName": "Let's play chess",
+    "players": "dagothur (1254) vs. ranji (1265)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

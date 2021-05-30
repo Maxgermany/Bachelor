@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Most people love 1.e4, because it gives great start for white; it opens 2 lines for the queen and bishop, and it controls a part of the center.",
+        "1... e5": "Black does the same..",
+        "2. Qf3": "Known as Napoleon's Opening. Mostly used together with a Bc4-placement, aiming to checkmate black on f7, with Qf7#.",
+        "2... Be7": "I wanted to play Philidor's Defence, with the next moves: Nf6 and 0-0. But I'm not so sure if that was the best defence against Qf3. First Nf6 would've been better.",
+        "3. Bc4": "There is white's attack. Now it's important for black to play Nf6, or at least f6.",
+        "3... Nf6": "Develops a piece, and now black is ready to castle.",
+        "4. d3": "Defending e4, and opens a diagonal for white's good bishop. ",
+        "4... c6": "My idea was to play 5. ... d5.",
+        "5. Qg3": "A nice move from id=chatswood ! He attacks both black's e- and g-pawn !",
+        "5... O-O": "In my opinion the best move for black. He gives away a centre-pawn, but beholds his kingside-fortress !",
+        "6. Qxe5": "Capturing that lonely pawn; why not ?",
+        "6... d5": "As continuation, 7. Bb3 dxe4 8. dxe4 wouldn't be that bad for white.. ",
+        "7. exd5": "Accepting my d-pawn. That wasn't good, IMO. Black attacks d5 with 3 pieces (c-pawn, f-knight and the queen). White only covers it by 2 pieces (c4-bishop and the queen). ",
+        "7... cxd5": "A pawn for a pawn.. Black now has a single pawn, wich is hard to defend (later on the game). But in this case, it's an attack towards white's bishop and taking over the initiative. White has to retreat now..",
+        "8. Bb3": "It's hardly to believe how less pieces are developed ! Both queensides haven't moved yet !",
+        "8... Re8": "Placing a rook on the same line as your opponent's queen-king-line, isn't a bad idea !",
+        "9. Qg5": "Waw ! I saw a mate in 2 coming, thanks to that rook on my e-file. White's purpose was to place his queen in safety. A check could be defended by 10. Be3, but a double-check is more then white can handle !",
+        "9... Bb4+": "The only safe squares for black are d1 and f1, but they both give mate on black's next move (10. Kd1 Re1# and 10. Kf1 Re1#).",
+        "10. Kd1": "White can do nothing more then watching how he's getting slaughtered. Though white had a nice attack in the opening. But a good opening-advice is: develop minor pieces (knights & bishops), BEFORE your major pieces (rooks & queen).",
+        "10... Re1#": "Checkmate ! I annotated this game because it's a nice example of the basic opening principles. Thanks to id=chatswood for this game and to all of you for voting / giving comments ! Geert."
+    },
+    "url": "https://gameknot.com/annotation.pl/an-early-development-of-whites-queen?gm=14485",
+    "gameName": "An early development of white's queen.",
+    "players": "chatswood (1436) vs. taufiq (1513)",
+    "opening": "KP (C20), Napoleon's opening"
+}

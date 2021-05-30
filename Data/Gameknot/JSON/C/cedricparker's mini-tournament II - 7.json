@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4": "This was my first mini-tournament game.  I didn't know what to expect.",
+        "1... e6 2. d4 c5": "I've been experimenting with the Franco-Benoni.  It's not so common, but often morphs into interesting positions from other openings.",
+        "3. dxc5 Bxc5": "Usually White is not willing to trade a flank pawn for a center pawn and to help Black develop.",
+        "4. Nf3 Qb6 5. Qd2 Nf6 6. Bd3": "White's position here is fine.  In fact, I think it's preferable to Black's.",
+        "6... d5 7. e5 Ne4 8. O-O": "I was expecting Bxe4.",
+        "8... Nxd2": "A surprising oversight.  White resigned on the spot.  I'm sure this was not typical play for this 1601-rated player."
+    },
+    "url": "https://gameknot.com/annotation.pl/cedricparkers-mini-tournament-ii?gm=62036",
+    "gameName": "cedricparker's mini-tournament II",
+    "players": "xixa01 (1585) vs. mmoody95 (1844)",
+    "opening": "French defence (C00)"
+}

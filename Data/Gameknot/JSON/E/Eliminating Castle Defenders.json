@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "54th GK Tournament, I'm playing white and open with the King's pawn.",
+        "1... e5 2. Nf3 d6 3. d4": "Black denied me my favorite Ruy Lopez, but I don't mind taking on the Philidor. 20 years ago, when I played competitive chess, I almost never saw the Philidor. Today, on GK, I see it a lot. I'm guessing it has gained popularity in the last two decades? Or maybe only on GK - are the professionals choosing Philodor much?",
+        "3... exd4 4. Qxd4": "Black chose to exchange in the center (the \"Exchange Variation\") and I decided to bring out the big gal early. Not sure it's a good decision, but it seems to be acceptible in the Philidor.",
+        "4... Nc6 5. Bb5": "Saving the white queen with the royal pin.",
+        "5... Bd7 6. Bxc6": "Black unpinned his knight, putting my queen in danger, so capturing seems well advised here.",
+        "6... Bxc6 7. Nc3 Nf6 8. Bg5": "Pin after pin. I guess I'm addicted.",
+        "8... Be7 9. O-O-O h6 10. Bf4 g5 11. Bg3": "Black chased my bishop back, kind of a reverse Angel Fire theme.",
+        "11... Qd7 12. e5 dxe5 13. Qxe5": "Exposes an attack on the black queen, and maintains pressure on the pinned knight at f6.",
+        "13... Qe6 14. Qxc7": "Black evidently wants to exchange queens, apparently enough that he overlooked danger in his own home camp.",
+        "14... O-O 15. Nd4": "Black castled into a dangerously exposed position, but at this moment, I don't have good attacking prospects while black's queen, bishop, and knight are all clustered around his castle. I'm ahead by a pawn, so I'm thinking about exchanging now. Black's bishop on c6 threatens my pawn on g2, but I have a simple fix for that - exchanging him.",
+        "15... Qc8 16. Qxe7": "See my comment on my 14th move. Again black ignores danger in his own home camp to chase the queen exchange. He voluntarily removed one of his three castle defenders, and now I eliminate one, leaving black with only a single, lone castle defender. He really needs to see to the defense of his castle.",
+        "16... Bxg2 17. Qxf6": "Black once again ignores or overlooks imminent danger. He sees the free pawn, ignoring the danger to his knight at f6. Perhaps he believes taking the white rook is threat enough to spare his knight, or compensation enough if the knight falls. I feel inclined to disprove this belief by eliminating the last castle defender.",
+        "17... Bxh1 18. Be5": "Black took the defenseless rook, but he was nearly bait, luring black into dubious captures far from his endangered king. The noble rook took one for the team, and now white has checkmate in 1, so black resigns. One cannot help but notice that white had 5 developed pieces to black's 1 (though, admittedly, part of that is due to white gobbling two undefended black pieces)."
+    },
+    "url": "https://gameknot.com/annotation.pl/eliminating-castle-defenders?gm=21764",
+    "gameName": "Eliminating Castle Defenders",
+    "players": "blake84120 (1509) vs. aauchter (1535)",
+    "opening": "Philidor (C41), Boden variation"
+}

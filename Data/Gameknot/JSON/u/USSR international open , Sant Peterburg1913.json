@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 e6 5. Nbd2 Nbd7": "5...c5 was little better here , because of the fact , that white played 5.Nbd2 instead of 5.Nc3 and there fore white doesn't make pressure on d5 .",
+        "6. Bd3 Be7 7. O-O O-O 8. Qc2": "better was 8.b3 followed by Bb2 and white finish his development , and the white queen should be on e2 in that case after 8.B3-B6.9.Bb2-Bb710.Qe2-a5.11.a4-Bb4.13.e4-dxe.11.Nxe4 and white is better . this variation was played later by Aleknine him self vs Bogoljubov in a match in 1934 .",
+        "8... dxc4": "better was 8...b5!",
+        "9. Nxc4 c5 10. Nce5": "white threats to win a free pawn after11. Nxd7 -Bxd7 .12.dxc or 11...Nxd7 .12.Bxh7+.",
+        "10... cxd4 11. exd4 Nb6": "Black have some difficulties in developing his queen side , the idea is to maneuver the black Knight to the center square d5. even its cost a lost of time , it seems that this is the best possibility that black have right now , however with the help of whites cleaver and exact maneuvers , white managed to weaken blacks both sides on the same time .",
+        "12. Ng5": "good move forcing black to weak his own king side by the move 12...g6 , not !! 12...h6?? , 13.Bh7+-Kh8 (13...Nxh7.14.Qxh7#) .14.Nexf7+Rxf7.15.Nxf7#",
+        "12... g6 13. Ngf3": "the damage has being done , now white return his knight to f3 for make room for the whites BSD to get out and bring the rook to the open c file and take over it .",
+        "13... Kg7 14. Bg5 Nbd5 15. Rac1 Bd7 16. Qd2 Ng8 17. Bxe7 Qxe7 18. Be4": "good move , white hurries to trade his bishop with the better blacks knight that placed well on the center on the board .",
+        "18... Bb5": "better was Ngf6 to defend the other knight on d5 .",
+        "19. Rfe1": "the idea is 20.Bxd5-exd5.21.Nxg6 with triple attack , when the knight attcks the queen and the rook on the same time and black canot capture the knight because of the white rook on e1 which also attack the queene in the same time .",
+        "19... Qd6 20. Bxd5 exd5": "not 20..Qxd5 ?.21.Rc5-Qxa2.22.Rxb5 with a piece up .",
+        "21. Qa5": "Good move , the white queen attacks the bishop on b5 and attacking the c7 square with the idea of entering the rook to blacks seventh rank .",
+        "21... a6": "If black played 21...Bc6 to block the whites open c file after 22.Nxc6-bxc... and white make weakness on blacks pawn structure .by 23.Ne5-Ne7.24.g3-Rab8.25.Qd2-f6.26.Nd3 ext ext ....",
+        "22. Qc7 Qxc7 23. Rxc7 h6": "Black must avoid Ng5 , therfore he loses a pawn .",
+        "24. Rxb7 Rac8 25. b3 Rc2 26. a4 Be2 27. Nh4": "Good move, with whites last move , blacks position will collapse soon , any blacks attampt to get free will suffer niether more weakneses or lost of material , for example , white threats Nhxg6, and f7 will fall after , if 28...Kf6 -Nd7+ followed by Nxf8 , and if 28...Bh5.29.g4 and white trappted the black bishop .",
+        "27... h5 28. Nhxg6 Re8 29. Rxf7+ Kh6 30. f4 a5 31. Nh4": "white threats mate in one , by 32.Nf5#, Therefor in order to avoide it , black must give up more material . ",
+        "31... Rxe5 32. fxe5 Kg5 33. g3 Kg4 34. Rg7+ Kh3 35. Ng2": "and black resings , the black knights life doesnt matter in matter of fact it will run no where due to whites mate threat Nf4, and it seems that black can do nothing about it . what a great game by the 3rd world champion(1921-1927) , although Alekhine became world champion much latter who could imagine that Alekhine who was beaten brutaly in this game will face Capablanca 14 years later "
+    },
+    "url": "https://gameknot.com/annotation.pl/ussr-international-open-sant-peterburg1913?gm=63526",
+    "gameName": "USSR international open , Sant Peterburg1913",
+    "players": "J.R.Cablanca   vs. Dr A.Alekhine  ",
+    "opening": "QGD Slav defence (D10)"
+}

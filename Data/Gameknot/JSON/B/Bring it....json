@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6": "...looking for a typical Najdorf...pet opening i'm trying to absorb...Can you ever learn it all ??!!!",
+        "3. Bc4 e6 4. Nc3 g6 5. d4 cxd4 6. Qxd4": "...white is distinctly ahead in development...and my structure is going to get a bit loose....",
+        "6... f6 7. O-O Nc6": "...at last some piece into play...but white is well ahead still...",
+        "8. Qd3 Bg7 9. Re1 a6": "...alot of pawn moves early but this one is going to gain a temp later with b5. need to scoot to 0-0 asap !!",
+        "10. a3": "..this wastes a tempo i thought. Be3 might have been better and connect the rooks, also preventing Qb6",
+        "10... Nh6": "...aiming for f7 and 0-0, white should chop here and i expected this...but...",
+        "11. h3": "..another wasted tempo...black is now edging to a solid position...not good for white in a Sicilian...(to my limited knowledge ! )",
+        "11... Nf7 12. b4 b5 13. Bb3 Qe7": "..get out of the firing line...expecting a rook to come to d1 in the very near future....",
+        "14. a4": "..mistake i thought...i'll take the pawn though..!",
+        "14... Nxb4 15. Qd4 Nc6 16. Qb6 Nfd8 17. axb5": "..white has threats but its bye bye Queen for the mo..",
+        "17... Rb8 18. Qe3 axb5 19. Bb2 O-O": "..at last...",
+        "20. Rad1": "..now i did say something about Rd1...",
+        "20... b4 21. Na4 Nf7": "...need to shore up d6 first...",
+        "22. Nb6": "...a neat little trap is being set here if not spotted...could be a Queen for 2 bishops if Ra1 after this move...",
+        "22... Ba6 23. c3": "...and white did not spot the sneaky little move....Bh6 ! Winning a piece and pawn for nothing...",
+        "23... Bh6": "...so missus....is that your Nb6 hanging...?",
+        "24. Ng5 Bxg5 25. f4": "...earlier white had to get the Nf3 to d2, to avoid this trap...",
+        "25... Bxf4": "...so whites Queen, Knight and pawn & then 2 bishops(Rxb6 & bxc3) are now under real threat  within 2 moves...nicely done...",
+        "26. Qxf4 Rxb6 27. cxb4 Rxb4": "...black is about to win another piece should white think of Bxf6.....",
+        "28. Bxf6 Qa7+": "..check it out ....! Now winning the piece with Qe3 (forced) and Rxc3",
+        "29. Qe3 Rxb3 30. Qxa7 Nxa7 31. Be7": "...i can let black take the rook and have less pieces to deal with...also, if Bxd6, Rd8 follows.",
+        "31... Nc6 32. Bxf8 Kxf8": "..thanks...",
+        "33. h4 Nce5 34. Rda1 Rb6": "..keep it solid for the moment until....",
+        "35. Kf2": "..an unexpected gaff...probably rushed...as now....its curtains....",
+        "35... Nd3+": "...white is 2 pieces and a pawn down...so tis time to go...!!\r\nA good game, white started very well...and might have pressed home a better advantage (a3 & h3 were costly in giving me a tempo or 2...)"
+    },
+    "url": "https://gameknot.com/annotation.pl/bring-it?gm=9436",
+    "gameName": "Bring it...",
+    "players": "derjoker (1541) vs. shambobala (1498)",
+    "opening": "Sicilian (B50)"
+}

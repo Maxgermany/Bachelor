@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "I was Black in this team tournament game. White overextended his position, which created weaknesses.",
+        "1... Nf6": "Tempting White to overextend by chasing my knight",
+        "2. e5": "White cannot resist temptation",
+        "2... Nd5": "Ne4 is totally losing because d4 puts my knight out of play.",
+        "3. c4": "White extends his position more.",
+        "3... Nb6 4. c5": "White still cannot resist pushing his pawns with tempo",
+        "4... Nd5": "Now no pawns can attack d5, and my knight is posted there.",
+        "5. Bc4": "Still chasing my knight.",
+        "5... c6": "Defending with e6 isn't good because if White captures, I want to recapture towards the centre.",
+        "6. Qf3": "A temporary pin",
+        "6... e6": "Now everything's secure, and I'm attacking the overextended c-pawn.",
+        "7. d4 b6": "This forces White to trade because if b4, then I play a5 and White's pawn structure collapses.",
+        "8. Bxd5": "White wanted to capture",
+        "8... cxd5 9. cxb6 Qxb6": "Hitting d4",
+        "10. Qd1": "If Qd3, then I would've played Ba6 with tempo, and if Qe3, then it could've continued Nc6 Ne2 Ba6 Nbc3 Bb4 and Black's position is tied up",
+        "10... Nc6 11. Nf3": "Ne2 doesn't let me block White from castling with Ba6, but Ba6 would still attack the defender of the d-pawn",
+        "11... Ba6": "Now white will have a hard time castling",
+        "12. a3": "White wants to stop Nb4, which hits the weak d3 square",
+        "12... Bc4 13. Nbd2 Qa5 14. Rb1": "White's idea is to play b4, but this is a losing mistake.",
+        "14... Bd3": "One tempo is all it takes to win. Now White is totally lost.\r\n",
+        "15. Ra1": "White said he didn't play b4 (the move that holds on longest) because he saw that after 15.b4, 15...Qb6 Rb3 Bb5 was winning for me since I'm threatening the d-pawn and also to skewer with Ba4. White spent so much time analysing that b4 was losing, that he didn't realize Ra1 was even more losing. Find my winning move.",
+        "15... Nb4": "White cannot defend against Nc2  without losing material. His king's position is all boxed in and his early pawn advances weakened his center. White is going to lose his rook for one of my minor pieces",
+        "16. Nb3": "But actually White didn't lose his rook here",
+        "16... Nc2#": "He lost the game"
+    },
+    "url": "https://gameknot.com/annotation.pl/2007-us-amateur-team-west?gm=6157",
+    "gameName": "2007 US Amateur Team West",
+    "players": "Him (1593) vs. Me (1800)",
+    "opening": "Alekhine's defence (B02), two pawns' attack, Mikenas variation"
+}

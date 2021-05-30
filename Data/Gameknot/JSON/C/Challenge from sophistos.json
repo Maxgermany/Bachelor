@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. c4": "a particular English with d3",
+        "1... Nf6 2. d3 c5 3. Nf3 g6 4. Bd2 Bg7 5. e4 d6 6. h3 O-O 7. Nc3 Nc6": "problems to whites with the castling and the development of the white bishop",
+        "8. b3 Bd7 9. Rc1 Rb8 10. Be2 a6 11. a4 Na7 12. Ra1 Qc7 13. O-O b5 14. axb5 axb5 15. Qc1 Rfc8 16. e5": "this is the move\r\n\r\n",
+        "16... b4 17. exf6 bxc3 18. Bxc3 exf6 19. Qb2 Nc6 20. Bxf6 Bxf6 21. Qxf6 Rxb3 22. Ng5 Bf5 23. Bf3 Ne5 24. Bd5 Bxd3 25. Rfe1 Rf8 26. Rxe5 dxe5 27. Ra8": "i like this move",
+        "27... Rb7 28. Nxf7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-sophistos?gm=12738",
+    "gameName": "Challenge from sophistos",
+    "players": "fernandoburguete (1200) vs. sophistos (1740)",
+    "opening": "English, 1...Nf6 (Anglo-Indian defense) (A15)"
+}

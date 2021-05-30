@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "This is a short game I barely won because my opponent missed one move that could've saved him. I'm white.",
+        "1... d5 2. Nc3 e6 3. Nf3": "Usual opening I use sometimes.",
+        "3... Bb4 4. Bd2 Bxc3 5. Bxc3 Nf6 6. e3 O-O": "As you will see later, I quickly break into blacks king side, only it cost me.",
+        "7. Bd3 Nc6 8. Ng5 g6": "best move and most common to guard the h pawn.",
+        "9. Be2 h6 10. Nh3 g5 11. f4": "I'm trying to force equal pawn trades to break in.",
+        "11... Ne4 12. Bf3": "This was the mistake which cost me later, but it was the whole reason I broke into his king side. Just one of those mistakes that works out because your opponent gets the idea that your handicapped without the piece.",
+        "12... Nxc3": "Sure likes even trades.",
+        "13. bxc3": "Black must have been planning to threaten me with a fork later. Who knows how that would've worked out.",
+        "13... f5": "Here's where I make the mistake of not moving my bishop.",
+        "14. g3 g4": "Now I'm forked.",
+        "15. Nf2": "I thought it would be better to have the knight since I could move my queen into his king side when he captures.",
+        "15... gxf3 16. Qxf3": "Which I do.",
+        "16... Qe8": "Trying to keep me out.",
+        "17. g4": "But I find a way in anyway.",
+        "17... Rf6 18. g5 hxg5 19. fxg5 Rg6": "This was blacks mistake where he let my queen get closer in for the kill. ",
+        "20. Qh5": "As you can see.",
+        "20... Ne7": "Trying to bring in reinforcement's.",
+        "21. Nd3": "I'm hoping to get my knight to e5, my last hope, which you will see.",
+        "21... Kf8": "Why do this? It was actually the move that gave me the win, in a way. It would have been good if he didn't move his rook to g8 later, but he did.",
+        "22. Ne5 Rg7 23. Qh8+ Rg8": "black should've moved his knightg there, but he's too late now.",
+        "24. Qf6+": "Only one move left, it's over.",
+        "24... Qf7 25. Qxf7#": "Not the longest game, but it's neat how such a bad opening leads to a win. I'd love to hear input, thx for reading."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=28471",
+    "gameName": "Team match",
+    "players": "chesswizz95 (1317) vs. lemonhart (1302)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

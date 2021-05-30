@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. c4 e5 2. Nc3 Nf6": "Starts out with the english opening.",
+        "3. d3": "Deviates from that opening.",
+        "3... Bc5": "Black brings out his pieces.",
+        "4. Nf3 Nc6": "More developing.",
+        "5. g3 d6": "Bringing out pawns so bishops can be developed.",
+        "6. Bg2 Bf5": "More developing of bishops.",
+        "7. O-O O-O": "Castling.",
+        "8. Bg5 Qe7": "More developing. The knight is pinned!",
+        "9. Nd5 Qe6": "This was a mistake for black.",
+        "10. Nxc7 Qd7 11. Nxa8": "The knight comes in with Nxc7 and takes a rook. ROOOOOOOK!!!!!",
+        "11... Rxa8 12. Bxf6 gxf6": "More blundering for black. This isn't the best.",
+        "13. a3 Bh3 14. b4": "Black's up to something! He wants to end the game fast. Meanwhile, White attacks the bishop.",
+        "14... Bxg2 15. Kxg2": "A counterattack for white.",
+        "15... Bd4 16. Rb1 Rd8": "Blacks bishop has moved, and is making a battery, but it is blocked.",
+        "17. b5 Ne7 18. a4": "White's pawns march forward.",
+        "18... Nf5 19. Nxd4 exd4": "A trade happens. A knight is taken!!!!!!",
+        "20. a5 b6 21. axb6 axb6": "White's pawns are coming close!",
+        "22. Ra1 Qb7+": "Check on the diagonal!!",
+        "23. f3": "White moves to block it.",
+        "23... Ne3+": "The night forks the king, rook and queen, and the queen is hopelessly lost. White resigns. He probably shouldn't have resigned though, because he still would have a chance. This concludes the game that forked!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-directright?gm=56123",
+    "gameName": "Challenge from directright",
+    "players": "loslo (1111) vs. directright (1134)",
+    "opening": "English opening (A22)"
+}

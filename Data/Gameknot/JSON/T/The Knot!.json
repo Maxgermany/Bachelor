@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nIn this game my opponent, William gambits a pawn early on.  I manage to hold on to my advantage for a long time in this game but alas at a price - passivitis again sets in.  I then find myself in a real tactical knot.  However, due to some very passive but defensive moves, I manage to unravel the knot and avoid losing any material except the gambit pawn.  William realised that after the trade off of knights, we would end up in a rook endgame with just our kingside pawns left.  On that understanding he offered me a draw of which I gratefully accepted.  So, how did this happen?  Well, read on .......",
+        "1... c5 2. f4": "2. f4 - the Grand Prix Attack.",
+        "2... d5 3. exd5 Nf6 4. Bb5+ Bd7 5. Bxd7+ Qxd7": "5. ...... Qxd7 - after this plethora of exchanges I find myself a clear pawn up on the next move.  William eschews playing into The Annotation Project which deals with a queen sac for two pieces.  The player with the queen would find himself suffering from passivitis and must work out how to escape from the bind.  However, this does not happen in this game.",
+        "6. c4 e6 7. dxe6 Qxe6+ 8. Qe2 Qxe2+ 9. Nxe2": "9. Nxe2 - and another plethora of exchanges - I am a clear pawn up, the queens are off the board.  You would think I am sitting really pretty here, wouldn't you?  However, the cramp comes within the next few moves.",
+        "9... Nc6 10. a3": "10. a3 - to prevent Nb4.",
+        "10... Bd6 11. d3": "11. d3 - opening up the c1-h6 diagonal for Fou Lenoir to defend my f4 pawn.",
+        "11... O-O 12. O-O": "12. 0-0 - both sides castle but I am a long way behind in development.  This will allow my opponent to work up a strong attack.",
+        "12... Rfe8 13. Nbc3": "13. Nbc3 - already a threat down the e column.  At least I defend with a developing move, but there is more aggro to come.",
+        "13... Rad8 14. Rd1 Nd4 15. Nxd4 cxd4": "15. ...... cxd4 - a knight trade which gives William an IQP.  However, my knight is en prise.  I tried the most aggressive retreat but alas it did not cut the mustard.",
+        "16. Nb5 Bc5 17. a4": "17. a4 - to avoid my knight getting trapped.",
+        "17... a6 18. Na3 Re2": "18. ..... Re2 - Choke, splutter, choke! - William gives me a bone in the throat!",
+        "19. Bd2": "19. Bd2 - clearing the decks at last, but, oh boy, passivitis has now set in and things are gonna get a little stormy.",
+        "19... Rde8": "19. ...... Rde8, hubble, bubble, double, toil and trouble - for yours truly!",
+        "20. b4": "20. b4 - a bid for freedom.",
+        "20... Bd6 21. h3": "21. h3 - to prevent Ng4.  Alas, William's knight goes to h5 and foments a lot of aggro from there too!",
+        "21... Nh5 22. f5": "22. f5 - to avoid losing a pawn.  At least immediately.",
+        "22... Bf4 23. Ra2": "23. Ra2 - backing up Fou Lenoir and attempting to get rid of one of those black choke bones in my pos.",
+        "23... Be3+ 24. Kh1": "24. Kh1 - Henry suddenly feels really cold, and a dark, dark shadow forms around him.  He sees that if he lands on f1, that chessic grim reaper, Old Matey will descend on g3 wielding that scythe, so h1 it is.",
+        "24... Nf4 25. Rc2": "25. Rc2 - preparing to unravel the knot.  Alas, it leaves my d3 pawn en prise.",
+        "25... Nxd3 26. Bxe3 Re2xe3": "26. ....... R2xe3! - if he takes with the other rook then the knight on d3 drops!",
+        "27. b5 Nb4": "27. ..... Nb4 - for one moment it looks as though I am gonna lose either my rook on c2 or my knight on a3.  However, Rb2 takes my rook out of the line of fire and counter-attacks his knight.  William took off my knight and then offered me that draw which would lead to an endgame where it would be a rook and pawn ending with just those kingside pawns.  I accepted and was pleased to gain one rating point from that high draw!  I will soon be writing another annotation about Q v 2 rooks so, more from Yours Truly later!  Until then, have a good read - Kind regards - Joanne",
+        "28. Rb2 Rxa3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-knot?gm=52166",
+    "gameName": "The Knot!",
+    "players": "jstevens1 (1816) vs. blitzkov (1897)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

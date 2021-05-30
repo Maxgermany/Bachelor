@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5": "My first tournement game opens with Queen pawn",
+        "2. e4 dxe4 3. f3 Nc6 4. fxe4 e6": "Nice central control for white",
+        "5. Nf3 Nge7 6. Nc3 Ng6 7. d5 exd5 8. Nxd5": "is this risky? Unconventional for the openings i have studied so far.",
+        "8... Be7 9. Bb5 Bd7 10. O-O O-O 11. b3 a6 12. Bd3 Bc5+ 13. Kh1": "After being checked, my stratagy for mates comes into play.",
+        "13... Nd4 14. Nxd4": "Knight swap on d4",
+        "14... Bxd4 15. c3 Ba7 16. e5": "I sacrafice the pawn to the knight to open up the h7 pawn",
+        "16... Nxe5 17. Bxh7+": "Check",
+        "17... Kxh7": "King is in the open",
+        "18. Qh5+ Kg8": "King retreats back",
+        "19. Qxe5": "I take the knight, compensating for the lost bishop (hence only pawn was sacraficed and I now have extensive pressure on the kings position.",
+        "19... Re8": "Threatens queen, white moves queen, Black bishop threatens white knight, forgetting the now  unprotected f7 pawn",
+        "20. Qh5 Bc6 21. Qxf7+": "as seen here.",
+        "21... Kh8": "I had actually not thought this far aheard, I was trying to maintain check to save my knight, or perhaps, move the black king onto g7, so i could sacrafice my knight and open up the g file for a queen/rook mate.",
+        "22. Nxc7": "The game finishes here, black either loses the queen, or loses a rook. Already being 2 points behind, resigns.\r\n\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/dungeonkings-mini-tournament?gm=26530",
+    "gameName": "dungeonking's mini-tournament",
+    "players": "bharryb (1225) vs. dungeonking (1153)",
+    "opening": "Blackmar gambit (D00)"
+}

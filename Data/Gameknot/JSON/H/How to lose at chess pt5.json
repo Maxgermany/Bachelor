@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. f4": "Though this isn't technically a loss it's certainly a game I could have won and for that reason I have decided to annotate it.\n\nThis is a mini tournament game where this is the starting position",
+        "1... d5 2. d3 Nf6 3. Nf3 g6 4. Nc3 Bg7 5. d4": "wastes a tempo and seems to achieve little",
+        "5... O-O 6. e3": "Creates a hole at e4 which is tempting for my knight",
+        "6... Bf5 7. h3 Nc6 8. a3 Ne4 9. g4 Nxc3": "This was primarily to open up whites position and to make castling difficult for him",
+        "10. bxc3 Be4 11. Bg2 e6 12. g5 Qe7": "Joining the rooks",
+        "13. O-O a5 14. Ne5 Nxe5 15. dxe5": "I think white would have been better with fxe5 as he gains control over a half open f file",
+        "15... Bxg2 16. Kxg2 c5 17. h4 h6 18. Rh1": "trying to tempt gxh6 Bxh6 as then whites h pawn gets in the way of his rook, notice also that his dsb has very limited scope as most of his pawns are on black squares",
+        "18... h5": "closing the area around the black king",
+        "19. Qe2 c4 20. a4 Rfb8 21. Ba3 Qd7 22. Bd6": "The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king",
+        "22... Rbc8 23. Rhb1 Bf8 24. Rbd1 Bxd6 25. exd6 Qxd6 26. Kg3 e5 27. Rd2 Rce8 28. Rad1 exf4+ 29. Kf3 fxe3": "I don't know what I was thinking of here, Rxe3+ is surely the move",
+        "30. Rd2xd5": "This is no real threat",
+        "30... Qc6": "The rooks are now stifled and something like Rad8 will cause problems for white",
+        "31. Kg2": "I don't understand this move at all, I was expecting something like Kg3 which would at least break the pin on the rook",
+        "31... Re5 32. Qf3 e2": "I would be happy to exchange queens as I am so close to promoting",
+        "33. Rd5d8+ Rxd8 34. Rxd8+ Kg7 35. Kh3": "another unexpected move as it leaves whites queen completely exposed",
+        "35... Qxf3+ 36. Kh2 e1=Q": "I was thinking about under promoting to a knight, with hindsight it may have been wise as this is the move that meant I couldn't win",
+        "37. Rg8+": "A very nice move from marros guarantees him a draw due to Kh7 Rh8+ .... leading to a draw by repitition",
+        "37... Kxg8": "sadly for me it was only after my greed overcame me that I realised that the position was a stalemate, if only I had underpromoted. Well done to Marros.\n\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-lose-at-chess-pt5?gm=45374",
+    "gameName": "How to lose at chess pt5",
+    "players": "marros (1387) vs. elwoos (1442)",
+    "opening": "Bird's opening (A03)"
+}

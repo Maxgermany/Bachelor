@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Hello folks, my 2nd annotation of a fun game with an aggressive white.  Your comments will be read and appreciated.\n\nMy standard opening move.",
+        "1... d5": "a surprise play from black.  white isn't sure of black's intent...",
+        "2. e5": "white passes the pawn, white's thinking of controlling the center.",
+        "2... a6 3. d4": "white's taken the center for now.",
+        "3... Nc6 4. Nf3": "at this time: white's goals are 1) defending both pawns 2) looking to setup for kingside castle ",
+        "4... e6 5. Bd2": "white brings dark bishop out to counter 5... Bb4 or 5... Nb4",
+        "5... f6 6. c4": "white offers to swap pawns.  if white's c pawn is taken, white takes pawn with light bishop and develops it.  If not, white develops another piece... maybe Nb3 or even maybe Qa4",
+        "6... fxe5 7. Nxe5": "white offers to swap knights.  white's goal here to maintain center and ensure pawn(s) in the e file to keep a defendable defender in front of the king.",
+        "7... Nxd4": "aggressive black move...",
+        "8. Qh5+": "white was thinking here something along the line of: 8. ... g6 9. Nxg6 hxg6 10. Qxg6+ Kd7 11. cxd5 exd5 12. Qg4+ Ke8 13. Qxd4 Rh4 14. f4 but...",
+        "8... Ke7": "a surprise, black moves king.  white thought Bg5+ to skewer queen, but then white saw if Bg5+ then 9...Nf6 and black would be safe for the moment... then white saw and played the better Bb4+.  white has a few conditional moves set here.",
+        "9. Bb4+ Kf6 10. Ng4#": "this might be the most interesting # of my gameknot.com time.  Thank you gameknot and thank you community!  Cheers all."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=32085",
+    "gameName": "Team match",
+    "players": "mschaech (1530) vs. longshotz68 (1509)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

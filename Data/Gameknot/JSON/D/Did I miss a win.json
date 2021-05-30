@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "This game is from a recent GK mini-tournament.  I missed the winning continuation at the end, and I ended up wimping out and taking the draw.\n",
+        "1... d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Bd3 Be7 8. Nge2": "All book so far; I prefer this line, the plan being to play f3 & e4.\n",
+        "8... O-O 9. Qc2 Re8 10. O-O Nf8 11. f3 Be6 12. Rad1 Rc8 13. e4": "Some folks prefer to play 13.Kh1 first here.",
+        "13... dxe4 14. fxe4 Ng4 15. Bf4 Ng6 16. e5": "Here's the critical position.  This position also occurred in Timman-Yusupov (Riga, 1995).  In that game, Yusupov chose 16 ... Bg5.",
+        "16... Nxf4": "... But Nxf4 looks really good. But Yusupov didn't play it, so I'm thinking there must be something wrong with this move ...",
+        "17. Bxh7+ Kh8 18. Nxf4 Ne3 19. Nxe6": "This *has* to be correct.  White gets a dictatorship on the king-side light squares, and black's king isn't looking too happy. This must be more than enough compensation for the exchange.\n",
+        "19... fxe6 20. Qd3 Nxf1 21. Bg6 Bg5": "if 21... Rf8 22.Qh3 Bh4 23.Ne4 followed by 24.g3 white wins back some material and still has mating threats.",
+        "22. Rxf1": "At the time, this looked more promising than the continuations after 22.Qh3 Bh6, when white doesn't seem to have anything better than 23.Bxe8 regaining the material.",
+        "22... Rf8 23. Ne4": "Allowing the rook swap, but what else?  Maybe 23.Rd1, but then 23... Bh6 followed by ...Qh4 and I'm actually liking black's position.",
+        "23... Rxf1+ 24. Kxf1 Qf8+ 25. Ke2 Qf4 26. Nxg5": "Now I can win the e6 pawn ....",
+        "26... Qxg5 27. Qh3+ Qh6 28. Qxe6 Rd8 29. Qe7": "I gave a lot of thought to 29.Qg4 Kg8 30.e6, but after 30... Qc1! and black should draw without too much trouble, for example 31.Qh4 Qxb2+ or 31.e7 Qxb2+ and I can't find a way to stop the checks, or 31.Bxh7+ Kxh7 32.Qh4+ Qh6 33.Qxd8 Qxe6+\n",
+        "29... Rb8 30. Qf7 Qxh2 31. Be4": "This I think is the move that gives away the advantage.  Instead, white should play 31.Qf3!, for example 31.. Rd8 32.e6 Qh4 33.Qf5! and there's no way for black to stop the pawn. But I was too enamored of my Q's position on f7 to consider Qf3.  That's why I'm just an average patzer ;)",
+        "31... Qh4 32. Kf3 a5 33. Qf5": "Here's where I realized that moving the bishop off the e8-h5 diagonal was an exceedingly bad idea on my part.",
+        "33... Qh6 34. Kg4 Kg8 35. Bc2": "Looking for cheap shots with Bb3 etc.  If 35.e6 Qf6 and black can start thinking about playing for a win.",
+        "35... g6": "Finally regaining some control on the light squares.",
+        "36. Qe6+": "I had originally planned to play 36.Bb3+ Kh7 37.Qf6 followed by 38.Bf7, but then realized black could draw with 37... Qh5+ 38.Kf4 Qh6+ etc., and if the white K retreats, 38.Kg3 Qf5 does the trick.",
+        "36... Kh7 37. Qe7+ Qg7 38. Qh4+": "Yeah, I wimped out, but at this point I was out of ideas."
+    },
+    "url": "https://gameknot.com/annotation.pl/did-i-miss-a-win?gm=34710",
+    "gameName": "Did I miss a win?",
+    "players": "hityerclock (2102) vs. profdaum (2183)",
+    "opening": "QGD (D51), 5...c6"
+}

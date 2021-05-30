@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7": "Nada que decir de la apertura, es todo conocido",
+        "5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 c5 8. Nf3 O-O 9. Qd2": "A consideraci\u00f3n era Cb5 de las blancas en vez de Dd2",
+        "9... Nc6 10. Be2 a6": "Se acabo el librito",
+        "11. dxc5 Qxc5": " Las blancas ya miran puntos vulnerables en h7 y deben intentar explotarlos, para ello deben abrir paso para que juegue su alfil",
+        "12. Bd3 f5 13. g4 d4": "Las blancas intentan fiel a su estilo, aplastar r\u00e1pido, sin embargo las negras tienen un recurso bueno para contrarrestar dicho ataque.",
+        "14. Ne2 Nb4": " El recurso del cual disponian las negras y que yo por decirlo de alguna manera \"mire a huevo\" era 14.-Ce2-Dd5  15.-Tf1-Dxa2...... complicando la partida y quedando definitivamente superiores, las sutilezas hacen la diferencia",
+        "15. gxf5 Nxd3+": "Mejor era que las blancas hubiesen jugado Cfxd",
+        "16. Qxd3 Rxf5": "Aqui la maquina dice que es ventaja ganadora para el blanco",
+        "17. Nfxd4 Nxe5": "Desesperaci\u00f3n",
+        "18. fxe5 Rxe5 19. Nb3 Qf2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/iv-open-de-ajedrez?gm=33321",
+    "gameName": "IV Open de Ajedrez",
+    "players": "Sanhueza, Felipe  vs. Depallens, Andr\u00e9s ",
+    "opening": "French (C14), classical, Steinitz variation"
+}

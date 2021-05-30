@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 g6 3. Bg5 Ne4": "Immediately challenging this Bishop",
+        "4. e3 Nxg5": "Securing the advantage of the Bishop pair",
+        "5. Nxg5 c6": "Preparing d5 but also containing a tactic that White overlooked",
+        "6. c4 Qa5+": "Winning the g5 Knight",
+        "7. Nd2 Qxg5 8. f4": "White now responds to this early loss of a piece with a frantic pawn push",
+        "8... Qa5 9. a3 Bg7": "Although White's clear intention is to play b4, I thought it better to develop a piece",
+        "10. b4 Qc7 11. Bd3 d5": "Not wanting to be swamped by a pawn avalanche I counter White's centre",
+        "12. O-O O-O 13. f5": "White continuing with his plan of pushing pwans",
+        "13... e5": "Continuing to undermime White's centre.  Although Black's Queenside is undeveloped, with an extra piece and the centre about equal, Black must be better in this position",
+        "14. fxe6 e.p. Bxe6 15. Qf3": "Perhaps 15. e4 is better for White",
+        "15... Nd7": "Eventually developed and connecting the Rooks",
+        "16. cxd5 Bxd5 17. Qf2 Rae8 18. e4 Be6 19. e5": "?!",
+        "19... f6": "White can not prevent the centre opening up after which Black's extra piece will only become increasingly advantageous",
+        "20. exf6 Rxf6 21. Qe2 Rxf1+": "Following the well known strategy of exchanging pieces if you have a material advantage",
+        "22. Rxf1 Bxd4+ 23. Kh1 Qd6": "Placing the Queen on a slightly better square",
+        "24. Nc4 Qe7 25. Qf3 Rf8 26. Qe4 Rxf1+ 27. Bxf1 Bg7": "Although the position is theoretically won for Black, I wasn't at all clear as to how best it should be played out",
+        "28. Nd2 Qd6 29. Nc4 Qd5 30. Qxd5": "? - White's best defense surely invovled keeping Queen's on the board.  With the bishop pair and an extra pawn (and an extra piece) Black's plan is now fairly straight forward",
+        "30... Bxd5 31. Nd6 b5": "Not only moving the pawn away from the Knight but more significantly fixing White's Q-side pawns on dark squares",
+        "32. Kg1 Bb2 33. Bxb5": "?? Utterly unsound",
+        "33... cxb5 34. Nxb5 a6 35. Nc7 Bb3": "A mistake; the correct move was Bc4 protecting the a5 pawn. ",
+        "36. Nxa6 Bxa3 37. b5 Bc4 38. Nc7 Bd6 39. b6 Nxb6 40. Ne8 Bc5+ 41. Kh1 Kf7 42. Nc7": "And White's Knight is now trapped",
+        "42... g5 43. h3 h5 44. g3 Nd5 45. Nxd5 Bxd5+": "The Bishop pair already exerting their influence across the board",
+        "46. Kh2 Kf6 47. h4 gxh4 48. gxh4 Kf5": "And now the mate is but a matter of time",
+        "49. Kh3 Kf4 50. Kh2 Kf3 51. Kh3 Kf2 52. Kh2 Be6 53. Kh1 Bd4": "A quiet waiting move",
+        "54. Kh2 Be5+ 55. Kh1 Bd5#": "Simple but effective"
+    },
+    "url": "https://gameknot.com/annotation.pl/mate-with-two-bishops?gm=51114",
+    "gameName": "Mate with Two Bishops",
+    "players": "Friederlempp (1611) vs. Iohannes7 ",
+    "opening": "King's Indian (A48), Torre attack"
+}

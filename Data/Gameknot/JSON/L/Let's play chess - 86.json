@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Nc6 3. d3 d6 4. Nd5 Be6 5. c3 Nf6 6. f3": "Up until this point, it's been a pretty standard start to the game. It is worth noting that it causes me anxiety to move the c or f pawns out so early in the game because it makes me feel exposed, so now it seems as if there's more paths open to me. ",
+        "6... Be7 7. g4 O-O 8. g5 Nxd5 9. exd5 Bxd5": "Exchange of knights didn't go too well for white. ",
+        "10. Qe2 Bxg5": "Taking the extra pawn",
+        "11. Nh3 Bh4+ 12. Nf2 Bg5 13. Rg1 Qf6": "I don't know why I did this. If White tried to take my bishop with his bishop, he'd have the advantage because the rook basically guarantees my queen can't recapture. ",
+        "14. Ng4 Bh4+ 15. Kd1 Qe7 16. b3 Be6 17. Nf2 d5 18. Bh6": "I see here White is aiming for the g7 space to try and trap my king. ",
+        "18... Bf6 19. Qd2 d4 20. c4 Bf5 21. Bh3": "Trying to trade bishops because that bishop is causing me trouble in this position. ",
+        "21... Bg6 22. Rg4 Nd8 23. Kc2 Ne6 24. f4 Nxf4": "Taking another pawn. My pawn can recapture either the queen or rook if white tries to take the knight. ",
+        "25. Bf1 Nxd3": "I don't remember why I did this move. ",
+        "26. Bxd3": "White takes the knight. ",
+        "26... e4": "And with this move, I get his rook in about two turns. ",
+        "27. Bxe4": "There's no way here White can avoid losing something. ",
+        "27... d3+ 28. Bxd3 Bxa1 29. Bxg6": "White decides to trade bishops even though he's behind. ",
+        "29... fxg6 30. Re4 Qa3 31. Kb1 Bf6": "The queen is making it impossible to be able to move in on the king at this point, so moving the bishop back to safety. ",
+        "32. b4": "I think White is trying to limit my queen's movements here. ",
+        "32... Qa6 33. Ng4 Rae8": "Trying to trade rooks at this point",
+        "34. Qd5+ Kh8": "I got a little scared at this point because my king was basically cornered. Luckily, I recognized that possibility but my double rooks on the back rank protected the only opening to my king. ",
+        "35. Nxf6": "White's trying to make me move the rook (probably forgot about the pawn) ",
+        "35... Qxf6": "Queen to the rescue",
+        "36. Bg5 Qf1+ 37. Bc1": "This was basically the only thing White could have done without losing another piece",
+        "37... c6": "Trying to scare away the queen",
+        "38. Qd3": "Not the best move on White's part. Now I  get a free queen. ",
+        "38... Qxd3+ 39. Kb2 Rxe4": "Taking the rook. White resigns. \n\nConclusion: I think this was simply a case of maybe me having more experience than white. I was able to predict further into the game and use my pieces more creatively. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=64845",
+    "gameName": "Let's play chess",
+    "players": "plsudhakar (947) vs. otakumadness (940)",
+    "opening": "Vienna game, Max Lange defence (C25)"
+}

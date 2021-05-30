@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. b3 c5 3. e3 Nf6 4. Bb2 Bg4 5. h3 Bf5 6. Bb5+ Nc6 7. Bxc6+ bxc6": "I thought that here white would have played Ne5, attacking the c pawn. Not a very good plan since the white queen can't reinforce the attack easily via a4. ",
+        "8. Bxf6": "Kind of weird move. White seems to give up his pieces. ",
+        "8... gxf6 9. Nh4 Bg6": "It was tempting to retire the bishop and keep the pair, but maybe wisely, black preferred to even the game right now and take advantage of his central phalanx and the semi open column. ",
+        "10. O-O e6": "...or Rg8 at once. Black wisely (IMO) leaves the black diagonal open for the pieces instead of allowing tempoes to white going e4 (if ever allowed).",
+        "11. d3 Bd6 12. c3": "White can't find an armonious way to develop. ",
+        "12... Qc7": "well, black gives away the tempo won after f5 against the knight, but opens the way for castling and white is far from reorganizing. ",
+        "13. Nf3": "Na3 is impossible due to Qa5. White would have to play Qc1, leaving c3 unattended if the knight goes to c2. A hell of a bind. ",
+        "13... Ke7 14. d4 Rhg8": "Right! Just ignore him!",
+        "15. Nbd2 Rg7": "Nothing comes from Bd3, even if evil-looking...",
+        "16. Kh1 Rag8 17. Rg1 h5 18. h4 Be4 19. Ne1 Qd7": "It would be interesting to know the plan behind this move. ",
+        "20. f3 e5": "Wow! This is a nice sac indeed!",
+        "21. fxe4 Qh3+": "Wonderful. A fantastic view. ",
+        "22. gxh3 Rg7xg1+ 23. Kh2 exd4+ 24. e5 Bxe5#": "Very nice game. Never underestimate a cheeky knight :-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/r-league-division-d2?gm=52712",
+    "gameName": "[R] League division D2",
+    "players": "drtony (1729) vs. cheeky_knight (1697)",
+    "opening": "Reti (A06), Nimzovich-Larsen attack"
+}

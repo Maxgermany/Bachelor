@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "I would like to share with you my good chess friends about how to win easly in Kings Gambit.I am not a weak player who wants to show his real strenght,I just want to show how beutiful this opening is and what great game white gets for sacrificed pawn if he will play it correctly.\n-----------------------------------------------------\nhttp://en.wikipedia.org/wiki/King%27s_knight%27s_gambit\n\n\"White offers a pawn to divert the Black e-pawn and build a stronger center with d2-d4. Theory has shown that in order for Black to maintain the one pawn advantage, moves must be made that seriously weaken the position of the Black pieces. King's Gambit is one of the oldest documented openings as it was examined by the 17th century Italian chess player Giulio Polerio. It is in an older book by Luis Ramirez de Lucena The King's Gambit is rarely seen at the master level. Black can obtain a reasonable position by relinquishing the extra pawn at a later time and consolidating defensively.\"",
+        "1... e5 2. f4": "--King gambit--",
+        "2... exf4": "- -Kings Gmabit accepted- -\nI would talk about Kings gambit declined with ...Bc5 or ...d6 later.\nIf I ever meet blacks player that decline my Gambit i will try to post the game here.also i will discuss later the 80's popular ...d5!? leading to \"Falkbeers Counter Gambit\"",
+        "3. Nf3": "Nf3 look very natural preventing Qh4 ,developing the pieces.\nThere is also Bc4!? and after Qh4  Kf1 and whites King cant castle anymore but black advantage is low and after Nf3 he will have to move his queen and white will have good lead in development and advatage in the center.remmember that black CANNOT even think about the attack becase you have all your pieces out and he dont you lead for the sacrificed f4 pawn .All attacks that I saw have created big problems for balck.",
+        "3... d6": "I think blacks another good move was g4 trying to defend the pawn\nand after immideate h4 g3 leads to many interesting ideas like Bc4 sacrifising the knight or Ne5 wich i would like to play.",
+        "4. d4": "taking the center and threating to return the pawn on f4 and have a good game",
+        "4... d5": "moving the pawn twise!?That just isnt the blacks idea the best move was g5 and after h4 g3 Ng1 Bh6 it is still playble for both sides.However this move is actualy a waste of tempo.",
+        "5. exd5 Qxd5": "Nf6 is a possible option and after c4 and the c6 is answered by Bxf4 cxd5 Nc3 and white is leading in development for sacrificed pawn",
+        "6. Nc3": "Removing the Queen and continuing to develop",
+        "6... Qd6": "defending the pawn isnt good and leads to very nice move...",
+        "7. Nb5": "...Nb5 now queen cannot defend both c7,f4 pawns and she must go away",
+        "7... Qe7+ 8. Qe2": "exchanging the queens removes black from having countergame chances.Beacause the both queens are pinned the c7 pawn is unprotected so there is realy a threat.",
+        "8... Na6 9. Bxf4": "...and the pressure just growing\n",
+        "9... Nf6": "Qxe2  Bxe2 Kd8 defending the pawn but complitely bugging the development\nand white gains a strong initiative now Ne5 is a threat or castle queen side and white is better here and Nf6 sacrificing the pawn but sliping out from being passive but still white is good here and black has some problems. c6 leads to big troubles after Nd6 ",
+        "10. Bxc7": "He gives a pawn so why not to take?",
+        "10... Nd5 11. Bg3 Bg4": "A natural developing developing move and all is good (at least he thinks that way).\nSo now black is ready to take the knight in f3 but he forgets about another a more dangerous white knight.",
+        "12. Nd6+": "In this position white is defenedly better\nThe continuation of the game is just imroving whites winning chances",
+        "12... Kd7 13. Qxe7+ Bxe7 14. Bb5+ Ke6": "I think Kc7 was much safe and better",
+        "15. O-O": "0-0!",
+        "15... Bxd6 16. Ng5+ Ke7 17. Rae1+ Be6": "Be6?? Kd8 would hold the game and not lose it.now it is time for forced mate!",
+        "18. Rxf7+ Kd8 19. Nxe6+": "After Kc8 Bxd6 it is unstopble to stop the mate with Bd7 and Rd8 looses to Bd7 ! Rxd7 Rf8  Rd8 Rxd8 mate.",
+        "19... Kc8 20. Bxd6 Nf6": "Looks like he prevented th Bd7 threat in a nice way but there is one good \"C\" file that I am going to take",
+        "21. Re3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gmabit-game-1-with-3-d6-followed-by-unusal-d5?gm=8083",
+    "gameName": "Kings Gmabit (game 1) with 3...d6 followed by unusal d5",
+    "players": "grandm (1200) vs. starcon (1200)",
+    "opening": "KGA (C34), Fischer defence"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "One would think that to win your opponent's queen and pawn, for the loss of two knights and a bishop would be to your advantage. In this game, I lost, as my opponent managed to co-ordinate his pieces wonderfully. But the question is - where did I go wrong? This is one of those games where I was just out-played, and I am not sure where I went wrong. So, dear reader, play through this game, and help me solve this mystery!",
+        "1... Nf6 2. c4 c5 3. d5 b5": "The original name of the opening was the Volga Gambit, named after the Volga River because of an article about 3...b5!? by B. Argunow written in Kuibyshev (Samara since 1991), Russia, that was published in the second issue of 1946 of the magazine Schachmaty in USSR. The term is still widely used in Russian literature.\r\n\r\nBeginning in the late 1960s, this opening idea was also promoted by Pal Benko, a Hungarian Grandmaster living in the USA, who provided many new suggestions and published his book The Benko Gambit in 1974. The name Benko Gambit stuck and is particularly used in English-speaking countries.\r\n\r\nThough \"Volga Gambit\" originally referred solely to the move 3...b5 (sometimes followed by an early ...e6), while Benko himself analyzed in his Batsford treatise solely what is now the main line, 3...b5 4.cxb5 a6, both the terms Benko Gambit and Volga Gambit are now used interchangeably or concurrently \r\n",
+        "4. Nf3": "Taking the pawn, 4, cxb5 is usually followed up with ......a6 and in return for a sacrificed pawn, black has the semi-open a and b files for the rooks. Black also plays g6 and Bg7 adding to pressure on the White Queen side. But of course, White doesn't have to take the pawn....",
+        "4... bxc4 5. Nc3 d6 6. e4": "This position seems to score well for White in the Gameknot World opening database",
+        "6... Qa5": "Qa5 is not in the Gameknot World opening database, but it is in the Gameknot database of just gameknot games.",
+        "7. Nd2 g6 8. Nxc4 Qb4": "Now in the gameknot opening database, Qd8 was played. I correctly thought that the Black queen might get lost.....",
+        "9. Bd2 Ba6 10. Nb5": "and now it is lost, but Black gets two knights and bishop for queen and pawn",
+        "10... Qxb5 11. Nxd6+ exd6 12. Bxb5+ Bxb5 13. Qb3": "I decided to try and keep threatening things, so slow down his development",
+        "13... Ba6 14. Bc3 Bg7 15. Qa4+ Kf8": "I was very confident here - he has been prevented from castling, his Rh8 seems like it will struggle to get into the game - perhaps I was getting over-confident, as Kotov describes, in \"Think like a Grandmaster\" - dizziness due to success",
+        "16. Qa5 Ne8 17. e5 Bxe5 18. Bxe5 dxe5 19. Qxc5+ Kg7": "And now I have got rid of his Black squared bishop, which can be a good defender of the Black king. The drawback is that with his king on g7, he can npw develop Rh8. Still, in this position his pieces seem undeveloped....",
+        "20. Kd2 Nf6": "Perhaps 0-0-0 was better than Kd2, and hiding my king away on b1. My king later gets in the way in the centre, and makes a run for the king side",
+        "21. f3 Rd8 22. d6 e4 23. Rhe1 exf3 24. gxf3 Nbd7 25. Qa3 Bb7 26. Rac1 Nb6 27. Qb4": "Probably better than Qb4 was to occupy the 7th rank, but after Black replies Rd7 nothing is really achieved, although Qb4 doesn't really achieve anything, and maybe is a waste of time?",
+        "27... Bd5 28. b3": "If Black had played 27. Bxf3, White gets good attacking chances down the f file, for instance 28. Rf1 Bb7, 29. Qd4 Nbd5, 30. Rxf6 Nxf6, 31. Rf1 and White wins the Black Knight on f6 with advantage. 28. b3 is to stop the annoying knight check on c4\r\n",
+        "28... Be6 29. Re5 Rd7 30. Ra5 Rad8 31. Ke2 Rd7xd6 32. Rxa7": "So the White d pawn is exchanged for the Black a pawn. White has a powerful pair of passed, connected queen side pawns - if he ever gets a chance to psuh them!",
+        "32... Nbd5 33. Qd4 Ne7 34. Qf4": "At this stage, I would have been happy to take a repetition with Nd5 Qd4 again, but he correctly plays on",
+        "34... Nf5 35. Re1 Nh5": "I was rather hoping he would play Rd2 check, exchanging his two rooks for my queen, and leaving a very interesting endgame, with my two rooks against his 3 minor pieces. Unfortunately for me he found a much stronger continuation!",
+        "36. Qe5+ Kh6 37. Kf2 Rd6d5 38. Qe4 Rd5d4 39. Qc6 Nf4": "played to prevent me playing Re2 in reply to Rd2, and also threatening a fork of king and rook with Nd3. This is why my queen had to go to c6 rather than e5",
+        "40. Kg1 Rd4d2 41. Qc1": "I realised I was losing this now. So I was hoping for Ne2 check, which looks like it wins the exchange, but in fact just loses a knight to Rxe2, as the rook d2 is pinned. Pretty hopeless, but I don't think there was anything better, and the position was lost anyway.",
+        "41... Rg2+ 42. Kf1 Rdd2 43. Qxd2": "Forced, otherwise he is mating me",
+        "43... Rxd2 44. Re4 g5 45. Kg1 Nh4 46. Re3 Nd5": "It is mate soon, for instance 47. Re4 Nxf3+, 48. Kf1 Bh3#. Even sacrificing my rook for his bishop doesn't work - his knights and rook mate me in short order\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/charleshiggies-mini-tournament?gm=23988",
+    "gameName": "charleshiggie's mini-tournament",
+    "players": "charleshiggie (1902) vs. mantaspirit (1906)",
+    "opening": "Benko gambit (A57)"
+}

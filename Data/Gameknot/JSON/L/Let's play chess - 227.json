@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. Nf3 c5 2. b3 e6 3. a3 Nf6 4. b4 c4 5. e3 d5 6. a4": "Pb4 is now undefended from BxP.",
+        "6... Nc6": "Oops.  Pb5 leaves that knight not much room to maneuver.",
+        "7. c3 Be7 8. b5 Na5 9. Qc2": "Nb3 forces the rook up one.",
+        "9... O-O 10. h3 Nb3": ":)",
+        "11. Ra2 Ne4 12. d3": "PxP leaves the knight undefended.",
+        "12... cxd3 13. Qxb3": "White will be eying BxPd3.  Nc5 is only temporary protection, though white will need to move the queen, black won't be able to position a second piece in time to protect Pd3 against Ne5.",
+        "13... Nxf2": "The knight is worth more than that pawn.\n",
+        "14. Kxf2 a5 15. Bxd3 e5": "This would have been a great move if that pawn had been defended.",
+        "16. Nxe5": "Be6 would cleverly pin the white queen against the rook with a pawn push.  It might be smarter to move Pd4 first, should white take it he loses a rook for black's white bishop.\n",
+        "16... Bc5 17. b6": "Black gets that pawn (b6) for free, bishop or queen.  I like BxP better.\n",
+        "17... Qg5": "Qf6+ means white must interpose the knight or lose it.  This let BxPb6 where the queen still protects the bishop.  Pd5 is undefended but black WANTS white to nab that pawn, lining up the queen a rook on the same diagonal Be6 would attack.",
+        "18. Qxd5": "Excellent!  Be6 picks off the white rook.",
+        "18... Bxb6 19. Qe4 Bf5": "Pb7 is undefended, but QxB, QxQ, BxQ leaves white up three points instead of one.",
+        "20. Qxb7": "BxB, NxB, Qf5+ lets black pick up the knight too, QxNd3.  Black loses QxBb6.\n",
+        "20... Qh4+": "Oops.  White can interpose the pawn.  The white queen must move to f6 to protect Bb6.",
+        "21. g3 Qf6": "Excellent.  ",
+        "22. Nd7": "BxN is required to stop the queen/rook fork.\n",
+        "22... Bxd3+": "Oh no.  BxNd7+ would have prevented NxQ.",
+        "23. Nxf6+ gxf6 24. Qxb6 Rfb8 25. Qd6": "White should have moved Qc6 or Qd4.  BxNb1 defends the bishop.",
+        "25... Rbd8": "Oh, BxNb1 would help make up that 13 point material difference.",
+        "26. Qxf6 Bxb1 27. Rb2 Bg6 28. g4 Rdc8 29. h4 Rce8": "Rc4 threatens two pawns.  ",
+        "30. h5 Be4 31. Rd1 Rac8": "I like Re6 better.",
+        "32. Rd7 Rxc3 33. Qxf7+ Kh8 34. Qg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=55973",
+    "gameName": "Let's play chess",
+    "players": "caracasbas (939) vs. mrp800 (1002)",
+    "opening": "Reti opening (A04)"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "One of my 4 match games against Rafabio, the player who handed me my most recent loss. This game I'm playing white and begin with the open game.",
+        "1... e5 2. Nf3 d6 3. d4": "The Philidor. I respond with the main line, taking charge of the center.",
+        "3... exd4 4. Nxd4 c5 5. Nf3": "I don't believe I've seen 4. ... c5 before and I have no idea what to do with it. I guess it prevents me from playing d4... Wait, I already did. Well, it prevents me from playing b4. Which was going to be my very next move. Ok, really, other than keeping my knight off of d4, I don't see what black gained by making his d-pawn backward. A home for his queen on c7, or even a  check on a5, without blocking his knight from c6, none of which seems any more useful than just developing a knight or maybe playing 4. ... g6 to prepare a fianchetto.",
+        "5... Be7 6. Bc4 h6 7. Qd5": "Subtle threat. Maybe one of these days I'm going to catch someone off guard, never see it coming because there's no way a serious player would even bother trying... But wait, the beauty is, black has no good reply to stop the mate. Suddenly I realize that 6. ... h6? was a mistake, and a move like 6. ... Nf6 or 6. ... Qd7 was required. I have to admit, I realized this after playing 7. Qd5. I know, I know, hindsight is no way to win a chess game. Except when it is.",
+        "7... Be6 8. Qxb7 Nd7 9. Bxe6 fxe6 10. Qb3": "White's lucky find wins a pawn, and isolates black's a-pawn. In compensation, black has a stronger center presence.",
+        "10... e5 11. Nc3 Rb8 12. Qa4": "OK, you're going to chase my queen, I'll run her off to where she can make an attack.",
+        "12... Qc7 13. Nd5 Qb7 14. O-O": "King safety, since black is all over that half-open b-file.",
+        "14... Ngf6 15. Nxe7": "Exchanging pieces to leverage the material advantage, and to disrupt black's castle.",
+        "15... Kxe7 16. Nd2": "I'm going to want a pawn on f3, not a knight. And I'll want it enough to temporarily block in my still undeveloped queen's bishop.",
+        "16... g5 17. f3 Nb6 18. Qa3 Nbd7 19. Nc4": "Thinking about piling up on that backward d-pawn.",
+        "19... Qb5 20. Qd3 Ne8 21. Rd1 Rg8 22. Nxd6": "The straight exchange sequence loses for white, but he knows that going in. 22. Nxd6 Qxd3! 23. Rxd3? Nxd6 and now white has lost a knight for a pawn. However, white has a zwischenzug prepared, and it's not hindsight.",
+        "22... Qxd3 23. Nf5+": "This one should be worth a ! for preventing white from losing a piece.",
+        "23... Kd8 24. Rxd3": "And now white has won a pawn and fractured black's pawn structure.",
+        "24... Rb6 25. b3 Kc7 26. Ne7": "Oops, 25. ... Kc7? loses the exchange. This one wasn't hindsight either.",
+        "26... Rg7 27. Nd5+ Kc6 28. Nxb6 axb6 29. Bb2": "If it's any colsolaiton for black, his pawn structure is less fractured now.",
+        "29... Re7 30. Rad1 Ndf6 31. a4 Nh7 32. Rd3d5": "Two against one on the e5 pawn.",
+        "32... Nf8 33. Rxe5 Rxe5 34. Bxe5": "That rook exchange favored white, since he's up 3 pawns + the exchange.",
+        "34... Nd7 35. Bg3 Nc7 36. Bxc7": "Black steps into another exchange that favors white.",
+        "36... Kxc7 37. Rxd7+": "37. Rxd7+?! is a dubious sacrifice. It loses material for no real gain, but the compensation, if it is compensation, is that back has no pieces now, and white should be able to win easily with 3 extra pawns, one of which, on e4, is already a passed pawn. As long as black had that last knight, he could harass the white pawns and stall white's inevitable promotion. Without it, promotion is inevitable.",
+        "37... Kxd7 38. Kf2": "King to the center, see if black will let the e-pawn promote. If not, the a-, b-, or c-pawn will.",
+        "38... Ke6 39. Ke3 Ke5 40. g4": "OK, black denied the e-pawn, so white needs to lock down the queenside so black cannot stall at any time in the future by playing h5. In fact, any pawn move by black right now is suicide. Not so for white, who has winning pawn moves.",
+        "40... Kf6 41. c3 Ke5 42. b4": "One queenside pawn will promote, depending on how black wants to capture. Of course, he can chase that pawn, and even stop it, but that will allow the e-pawn to promote instead.",
+        "42... Kd6 43. a5 bxa5 44. bxa5": "The a- and e-pawns are far enough apart that black's king cannot stop both of them. White won't even have to move his king to defend the promoting pawn: 44. ... Kc6 45. a6 Kb6 46. e5 Kxa6 47. e6 Kb6 48. e7 Kc6 49. e8=Q+. Seeing this, black resigned. Rafabio and I split our two matches, four games, 3-1, yet he won more rating points for his one victory than I won for my three. Well played by my opponent."
+    },
+    "url": "https://gameknot.com/annotation.pl/hindsight-is-no-way-to-win-a-chess-game?gm=23009",
+    "gameName": "Hindsight is no Way to Win a Chess Game",
+    "players": "blake84120 (1893) vs. rafabio (1552)",
+    "opening": "Philidor (C41), exchange variation"
+}

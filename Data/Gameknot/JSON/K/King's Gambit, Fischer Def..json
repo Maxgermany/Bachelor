@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3": "Standard move in this opening. The knight stops Qh4 for black and supports a soon to be advance of the d pawn.",
+        "3... d6": "Booby Fischer's variation. The opening of the bishop's diagonal for black leads to possibilities later.",
+        "4. d4 g5": "This supports the f pawn making it harder for white to open the f file. Also a future g4 push could dislodge the knight.",
+        "5. h4": "Contesting the pawn.",
+        "5... g4": "So black pushes forward to displace the knight.  Black is ill advised to play pxp as this gives him two doubled pawns and white can pick off either pawn next.",
+        "6. Ng1": "Losing a tempo but Knight to d2 blocks in his bishop and queen support of d4. Forward move to g5 of the knight results in it being harassed by a pawn. Nh2 gets white Qxh4ch. Very uncomfortable for black. So back home she goes.",
+        "6... Qf6": "The usual line here is 6.....Bh6 supporting the f pawn. The queen move is a slight deviation from most databases. It does the same in supporting the f pawn but gives black options with his queen now. The queen is no longer just menacing the diagonal. She has developed. This is a promising move.\r\nOther moves instead of Qf3 here are Ng6 and f5 but both do not support the f pawn. f5 also has the value of attacking e4 but opens up blacks king side even further. f5 would be a good move for shock value.",
+        "7. Ne2": "Getting the knight back into the frey. Does block in the f bishop for white and also white's queen diagonal. Attacks the f pawn twice over now.",
+        "7... Bh6": "Defending f4 twice.",
+        "8. Nbc3": "Developing a Q sided piece. Eyeing Nd5 possible next.\r\n",
+        "8... c6": "Preventing Nd5 and thus displacing the black queen which would win the f pawn for white.\r\nBlack missed a good move here. Yes c6 prevents lose of a pawn. If black played **f3** instead then white would be engaged elsewhere and unadvised to play Nd5. Game would continue two main ways.\r\n9. Ng3, f2ch  10. Ke2,  with white in an unfamiliar and uncomfortable position.\r\n9. gxf3, gxf3 with open g file for black's future rook placement and the knight at e2 still under attack now.",
+        "9. d5 f3": "Now black plays the move. ",
+        "10. gxf3": "Here I think 10. Ng3 losses less material. The continuation white chooses loses a piece.  After Ng3 = 10....f2 11. Ke2",
+        "10... gxf3 11. Qd4": "Trying to exzhange queens to soften the attack. ",
+        "11... fxe2": "White is now down a piece.",
+        "12. Qxf6 Nxf6": "Q for Q",
+        "13. Bxh6": "Bishop for Bishop. This way gets white a rook at f3 after the dust settles. If white played Bxe2 instead then black could reply BxB. This way gains white a tempo. \r\n",
+        "13... exf1=Q+ 14. Rxf1 Ng4 15. Bf4 Ne5": "Blocking",
+        "16. Bxe5": "Exchanging, but why? White is down a piece for a pawn here. Unless there is a direct benefit, this only makes it tougher to win. Exchanging when behind in material makes the advantage more apparent. Best to keep on fighting and try to make up the difference. Don't concede defeat by exchanging.",
+        "16... dxe5 17. d6": "0-0-0 was good here as it guards the d pawn or a simple Rd1. Don't think the pawn has a chance by advancing. Best to open up the file by letting black take pxp at d5 and then taking back with the rook.",
+        "17... Be6 18. O-O-O": "Slight difference now is that the file isn't open for the rook to be effective.",
+        "18... Nd7 19. Rfg1": "Grabbing the open file.",
+        "19... O-O-O": "Still plenty of chess left here but white choice to call it quits. Might of been a bit more challenging for black if both still had their last minor pieces."
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-gambit-fischer-def?gm=12910",
+    "gameName": "King's Gambit, Fischer Def.",
+    "players": "jstevens1 (1526) vs. dmaestro (1549)",
+    "opening": "KGA (C34), Fischer defence"
+}

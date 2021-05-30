@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6": "This was the Starting Position of the tournament",
+        "4. d4": "Max Lange Attack",
+        "4... exd4 5. O-O Be7": "? Interesting, trying to negate a possible 6.Bg5",
+        "6. Ng5 O-O 7. c3": "Trying to free my knight, one of the main Ideas of the Max Lange Attack.",
+        "7... dxc3 8. Nxc3 d6": "?? Blocks his bishop in and lets his other one out.",
+        "9. Qc2": "I brought the queen there to apply more pressure on h7. Just gave him a tempo for the time being.",
+        "9... Nd4 10. Qd3 c5": "Defending the knight but allowing me to execute my plan.",
+        "11. e5 dxe5 12. Nd5": "The knight is indirectly pinned. If it moves, game over. And one of the main ideas in chess is attack the pinned piece. ",
+        "12... Nxd5 13. Qxh7#": "Corme falls into the trap and this goes to show, Material doesn't matter. Feel free to comment! "
+    },
+    "url": "https://gameknot.com/annotation.pl/cormes-mini-tournament-xx?gm=48113",
+    "gameName": "corme's mini-tournament XX",
+    "players": "sanjay2000 (1560) vs. corme (1501)",
+    "opening": "Two knights defence (C55)"
+}

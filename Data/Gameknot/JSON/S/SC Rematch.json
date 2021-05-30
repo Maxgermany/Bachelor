@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "For those that know me, this is no suprise........",
+        "1... f5": "Dutch defense....",
+        "2. c4 Nf6 3. Nc3": "A little unusual. The Leningrad variation 3. g3 g6 4. Bg2 Bg7 is much more common.",
+        "3... d6 4. Bg5": "Trying to find an early way to further weaken black's kingside. I'm not extremely familiar with the Dutch, so I decided that I should at try to act as if I knew what I was doing:)",
+        "4... g6 5. e3 Bg7 6. Bd3 O-O 7. Nge2 Nbd7 8. O-O": "All logical developing moves by both sides so far....",
+        "8... e5": "Hoping I'll take so his knight can re-take.",
+        "9. f3": "Inferior.....my idea was to support a later e4, but I then realized that with black's dark squared bishop and queen still on the board, I had inadvertently opened up a diagonal to my king. Yikes!",
+        "9... Re8 10. Re1 e4 11. fxe4 b6": "fxe4 was the play........",
+        "12. exf5 gxf5": "Now black has an isolated pawn on an already weakened kingside. I just gotta punish this.....",
+        "13. Bxf5 h6 14. Bh4": "Preserving the pin on black's queen.",
+        "14... Rxe3": "This take by black was expected. It actually helped my cause, as I can now make a play myself on the e file.",
+        "15. Qd2 Re7 16. Nf4": "Willing to exchange rooks, while throwing more gas on the fire that is black's weakened kingside.",
+        "16... Rxe1+ 17. Rxe1 Bb7 18. Ng6": "And I can see a possible mate delivered on h7.",
+        "18... Nf8 19. Ne7+ Kh8": "19...Kf7 20. Be6  KxN 21. Bd5  saves the game, but loses the Bb7. The end is now near....",
+        "20. Bxf6 Bxf6 21. Qxh6+ Nh7 22. Qxh7#": "A pretty little attack. This game reinforced my disdain for playing the Dutch when I have the black pieces, as I am far too conservative defender. Good game ritt:)"
+    },
+    "url": "https://gameknot.com/annotation.pl/sc-rematch?gm=339",
+    "gameName": "SC Rematch",
+    "players": "tag1153 (1460) vs. ritt (1298)",
+    "opening": "Dutch with c4 & Nc3 (A85)"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 Nf6 3. Nf3 e6 4. Nbd2 Nh5 5. e3": "New for my standards. I retire the B on g3, so if NxB I get the open h column. Now I'll get quicker developement.",
+        "5... Nxf4 6. exf4 Nc6 7. c3 b6": "This move is somewhat weakening. ",
+        "8. Bb5 Bd7": "This is the correct answer. If Bb7, Qa4, and if Qd7, Ne5, winning a piece with a much better position. ",
+        "9. Ba6": "Better was BxN, followed by Ne5.",
+        "9... f6": "...now Ne5 is impossible, but he opened a line for my Q.",
+        "10. Nh4 Ne7": "Correctly, defending against Nxg6 after Qh5+.",
+        "11. f5": "One way or another, I have to break in. I think this is an accurate sacrifice.",
+        "11... exf5 12. Qe2": "Cramping black's position even more and putting pressure on the open column. ",
+        "12... Bc8 13. Bb5+ Bd7": "I see that there will be no way of getting rid of this B play, so...",
+        "14. a4 g6": "He streghten f4, now that his B is neutralized, but I was already thinking in a sac Nxf4, and if gxN... Qh5 is not mate unless I have a rook on e1. This is two moves away. ",
+        "15. O-O c6 16. Nxf5": "If BxN, Bxc6+... not sure it would have won, but it looked sacrying enough. And if gxN, Qh5+, Ng6, Re1+, Be7... and nothing happens! Finally, if black plays carelessly, Nd6#.",
+        "16... gxf5 17. Rfe1": "Now Qh5 is a mate threat.",
+        "17... Kf7 18. Qh5+ Ng6 19. Bd3": "Bxf5 is coming. ",
+        "19... Qc8": "Defending.",
+        "20. g4": "Attacking again. If fxg4, BxN+.",
+        "20... Bd6 21. gxf5 Kg7": "Can I win back the piece or not? Very hard for me to tell! Maybe Kh1 or Re3, with a column on the g column wolud have been a good way to sum up against black, but now Nf4 is a serious threat, so...",
+        "22. fxg6 hxg6 23. Qxg6+ Kf8 24. Qxf6+": "Windmill!!!",
+        "24... Kg8 25. Qg6+ Kf8 26. Qxd6+ Kg8 27. Qg6+ Kf8 28. Qf6+ Kg8 29. Re7": "...and black resigned because the mate is unstoppable.",
+        "29... Qf8 30. Qg6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-nice-windmill?gm=66195",
+    "gameName": "A nice windmill!",
+    "players": "Damafi  vs. Bluetooth ",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

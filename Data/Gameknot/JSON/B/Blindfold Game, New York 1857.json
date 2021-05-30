@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6": "Book...",
+        "3. Bc4": "No Ruy Lopez, considered then as now the strongest 3rd move in this position. But Morphy makes the \"Quiet Game\" roar!",
+        "3... Bc5": "Standard...",
+        "4. O-O": "Quickly securing the King.",
+        "4... f5": "Overaggressive. This move opens the diagonal for the B and will make it difficult for Black to castle.",
+        "5. d4": "Morphy opens up the game at once with the Black King stuck in the center.",
+        "5... exd4": "Refusing to take won't help, as Morphy will simply capture on his move and open the lines.",
+        "6. e5": "Momentarily preventing Schulten from defending with... N-KB3.",
+        "6... d6": "An attempt to get rid of the obnoxious White KP.",
+        "7. exd6": "Morphy fully opens the K file.",
+        "7... Qxd6": "Electing to put a piece in play with the recapture.",
+        "8. Re1+": "Seizing the file at once.",
+        "8... Nge7": "Because of his 4th move, Black still can't castle into safety.",
+        "9. Ng5": "Threatening a devastating Knight fork at KB7.",
+        "9... Ne5": "Hastily guarding the vulnerable spot.",
+        "10. Bf4": "Pinning the Knight and again threatening to fork. ",
+        "10... Ne7g6": "Guarding the Knight, but unable to do anything about the weak spot at his KB2.",
+        "11. Bxe5": "Prolonging the game by a move.",
+        "11... Nxe5": "Forced.",
+        "12. Nf7": "Fork and game. Schulten resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/blindfold-game-new-york-1857?gm=39402",
+    "gameName": "Blindfold Game, New York 1857",
+    "players": "Paul Morphy  vs. John Schulten ",
+    "opening": "Giuoco Piano (C50)"
+}

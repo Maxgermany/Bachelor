@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5": "My usual followup is b5. I decided to try something different.",
+        "5. c3 Nf6": "? This is a mistake.",
+        "6. O-O": "Bxc6! and black has problems.",
+        "6... Nxe4 7. d4": "? Not the best.",
+        "7... exd4": "I trade off my doomed pawn.",
+        "8. Re1": "This appears good...",
+        "8... d5": "I am safely up a pawn.",
+        "9. cxd4 Bb4": "! Hitting the rook.",
+        "10. Nc3": "? This piece was needed later to attack the knight. Bd2",
+        "10... Bxc3 11. bxc3 O-O": "Freeing the knight(s).",
+        "12. Bc2": "?",
+        "12... Nxc3": "I whip off a second pawn.",
+        "13. Qd3 Ne4": "I centralize my knight.",
+        "14. Nd2": "Clever.",
+        "14... Nb4": "The only move.",
+        "15. Qb3 Nxc2 16. Qxc2 Bf5 17. Nxe4 Bxe4": "The threat of mate on h7 is gone.",
+        "18. Qb3 b6": "? An inaccuracy on my part. My idea was to prepare c5.",
+        "19. Bb2 Qg5": "The queen mobilizes with a vengeance!",
+        "20. f3": "Naturally...",
+        "20... Bg6 21. Re5": "'sigh'",
+        "21... Qd2": "I try to counter attack.",
+        "22. Rae1": "?? What made him do that? Now I win without a problem!",
+        "22... Be4": "!! Mate is inevitable sooner or later!",
+        "23. fxe4": "?? A bad error. He resigned as soon as he played it. Mate next move...",
+        "23... Qxe1#": "White still would have died after Rxe4 dxe4, Rxe4 R(f or a)e8! and white is in big trouble!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-shocking-win?gm=64554",
+    "gameName": "A shocking win!",
+    "players": "feisty_pawn (1436) vs. lake-bay (1510)",
+    "opening": "Ruy Lopez (C70), Classical defence deferred"
+}

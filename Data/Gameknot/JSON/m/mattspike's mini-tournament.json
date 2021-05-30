@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Nf6": "Scandinavian gambit",
+        "3. d4 Nxd5 4. c4 Nf6 5. Nf3 g6 6. Nc3 Bg7 7. h3 O-O 8. Bd3 Na6": "8. ... Na6!? Trying new idea on Na6 Repertoire. Move Knight to a6 square have becoming more popular in KID and other opening. It look ridiculous but a6 just a temporary post before jump to b4 or a5 or more defensive square c7. Obviously this move is out of \"Chess positional rule of gravity\" :p ",
+        "9. Be3 c6 10. O-O Be6 11. a3 Qc8": "11. ... Qc8 preparing to sac at h3.",
+        "12. Kh2 Rd8 13. Qc1": "13. Qc1 preparing to terminate dark square bishops from the board.",
+        "13... Nh5": "13. ... Nh5 to strengthen g3 and f4 square.",
+        "14. Rg1 Nc5": "14. ... Nc5!? ",
+        "15. Qc2": "1. Qc1 ?! Better was Bc2 or Bb1",
+        "15... Nxd3 16. Qxd3 Bxd4 17. Qe2": "17. Bxd4 Bxh3! 18. gxh3?? Nf4 19. Qe3 Qxh3#",
+        "17... Qc7+ 18. Kh1 Bxc4": "18. Bxc4! Now attack start with 19. Qxc4?! Bxe3 20. fxe3?? Ng3  21. Kh2 Nf1  22. Kh1 Qh2  23. Nxh2 Ng3#\n",
+        "19. Qxc4 Bxe3 20. fxe3 Ng3+": "20. ... Ng3  21. Kh2 Nf1  22. Kh1 Qh2  23. Nxh2 Ng3# 0-1\nMission Achieved!"
+    },
+    "url": "https://gameknot.com/annotation.pl/mattspikes-mini-tournament?gm=20327",
+    "gameName": "mattspike's mini-tournament",
+    "players": "kansaspatzer (1661) vs. knazmi (1685)",
+    "opening": "Scandinavian (B01), Kiel variation"
+}

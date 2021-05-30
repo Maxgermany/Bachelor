@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. c4": "starting out with the English opening. I start out the game finding myself in a position I disliked because of some bad play in the opening, however as the middle game approaches I decide the time is ripe to sacrifice a pawn and suddenly all my pieces find themselves with beautiful squares/diagonals and I get to take control of the game as my opponent finds no real lines of attack.",
+        "1... Nf6 2. g3 e6 3. Nf3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2": "I felt this to be a nice flexible move since I figured I'd likely be planning to put pressure along the c-file and I also figured black would probably want to fianchetto the LSB. Plus I wasn't 100% sure where I wanted to develop my Queen knight",
+        "7... b6 8. cxd5": "Now relieving the tension only once black has opened up a new diagonal for his LSB",
+        "8... exd5 9. a3": "planning to follow up with b4 to hopefully clamp down on blacks intended c5 break. However in light of blacks response, this may prove to be a pipe dream",
+        "9... c5": "good move, getting in the break/expansion before I can put a stop to it.",
+        "10. dxc5 bxc5 11. b3": "hoping to give my DSB a good diagonal and to control the squares in front of blacks hanging pawns",
+        "11... Qb6": "placing immediate pressure against my now tender b pawn",
+        "12. e3": "?! again I was trying to control the squares in front of the black pawns structure, however I should have kept the pawn on it's original starting square so it can play e2-e4 in a single move. as is the move is just a waste of time, better would have been Nbd2",
+        "12... Rb8 13. Nbd2 a5": "hoping to undermine my pawn structure ",
+        "14. Rb1 Bb7 15. Re1": "Realising my position is on a downward slope I prepare to make a bid for active play. I think it's an important quality to realise sometimes that your position will only lead to trouble if you sit around doing nothing and so at times like these it does one well to think of ways to suddenly change the nature of the position.",
+        "15... Rfe8 16. e4": "! Right in the nick of time. I realise that I need to lash out and this is an excellent way to do that. now my main intention is to undermine blacks control over the centre and take away blacks dynamic potential. The other very important point is that I open up the c4 square for use of my pieces and weaken the black pawn structure, I also give my DSB the chance to develop to f4 and open up the d file for use of my pieces. After this very strong sacrifice I think white really takes over the flow of the game and now it's white who holds all the positional trumps in the position.",
+        "16... Nxe4 17. Nxe4 dxe4 18. Nd2": "looking to make it's way to c4 where it will attack the black queen and have a lot of hold over the centre and game.",
+        "18... f5": "after whites sacrifice of the e pawn it suddenly becomes difficult for black to come up with strong game plans. here he tries to get something going on the kingside",
+        "19. Nc4 Qe6 20. Bf4": "notice how much better whites minor pieces are compared to blacks, the only bad white minor piece is the LSB, but then the LSB can redirect to c4 and become quite strong due to the weakened c4-g1 diagonal",
+        "20... Rba8 21. Red1 Bd5 22. Ne3 Bc6 23. Bf1": "threatening Bc4, white really has a strangle hold over the initiative here",
+        "23... Kh8 24. Bc4 Qg6": "despite being down a pawn, whites much more active and coordinated army give white a decent advantage in my view",
+        "25. Bd5": "trying to trade so I can start attacking blacks weak pawns",
+        "25... Ref8 26. Bxc6 Qxc6 27. Rd5 Qe6 28. Rbd1 Ra7 29. Nc4 a4 30. bxa4 Nb6 31. Nxb6 Qxb6 32. Be3 Rc7 33. Qc4 Qa5 34. Qb5": "since a draw is the same as a win and since the endgames are much better for white I offer a queen trade",
+        "34... Ra7": "trading on whites terms would undouble the pawns",
+        "35. Bxc5 Bxc5 36. Rxc5 Qxa4 37. Qxa4 Rxa4 38. Rxf5 Kg8 39. Rxf8+ Kxf8 40. Ra1": "I offer a draw now because I only needed a draw and because at the time this payed out I felt a little burnt out and didn't feel like trying to convert a long endgame. However ordinarily white would have no reason to fear a loss and so playing the ending out should be the default for white since the only possible results are a draw or win for white. the best try for a win is probably to bring the king to the queenside, get in h4 if allowed and try to use tempo moves to get blacks rook to make an unfavourable move."
+    },
+    "url": "https://gameknot.com/annotation.pl/sometimes-you-just-need-to-give-up-a-pawn?gm=52544",
+    "gameName": "sometimes you just need to give up a pawn",
+    "players": "thereaper1  vs. NN ",
+    "opening": "English, 1...Nf6 (Anglo-Indian defense) (A15)"
+}

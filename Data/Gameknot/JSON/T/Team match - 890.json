@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c5 3. cxd5 Qxd5 4. Nf3 Nc6 5. Nc3 Qd7 6. d5 Nb4 7. e4 Nf6 8. Bb5 Nc6 9. Qa4 Qc7 10. dxc6 bxc6 11. Bxc6+ Bd7 12. Nd5 Nxd5 13. exd5 Rb8 14. Qg4 Bxc6 15. Bf4 Qa5+ 16. Nd2 Rxb2": "it is understandable that black remove the attack on his rook by Bf4, but leaving his back rank is the mistake that ultimately loses the game",
+        "17. Qc8+": "the only option for removing check is Qd8",
+        "17... Qd8 18. Qxc6+": "white has turned the tables",
+        "18... Qd7 19. Qxc5": "black incurs heavy casualties - if white plays his cards right, this is essentially a won game",
+        "19... Rb5 20. Qe3 Rxd5 21. Rd1 e6 22. O-O Bc5 23. Qg3 O-O 24. Bh6 g6 25. Ne4 Be7 26. Qc3 e5 27. Rdb1 Rc8 28. Qf3 f5": "black creates too much \"air\" between his sentry pawns and the king",
+        "29. Nc3 Rd3 30. Rfd1 Rcxc3 31. Rxd3 Rxd3 32. Qe2 Bf6 33. Rb8+ Bd8 34. h4 e4 35. g3 Rd1+ 36. Kg2 Rd2 37. Qc4+ Kh8 38. Qc3+ Rd4 39. Bg5 Qg7 40. Bxd8 h6 41. Bf6+ Kh7 42. Bxd4 Qg8 43. Qc7+ Qg7 44. Qxg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=643",
+    "gameName": "Team match",
+    "players": "kookabura (1347) vs. rippster (1391)",
+    "opening": "QGD (D06), symmetrical (Austrian) defence"
+}

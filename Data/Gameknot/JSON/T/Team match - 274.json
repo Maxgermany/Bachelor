@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 f6": "? This is terrible, not only does it take no control of the center it opens up the infamous diagonal.",
+        "2. e4": "I hog the center",
+        "2... e5": "? This is odd, but if I take his pawn then he can't recapture for fear of Qh5+",
+        "3. dxe5 fxe5": "?? Uh oh I think you know what's coming.",
+        "4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8": "And his rook drops off. In almost all the games I've played where I win his rook like this it is a fast game where I win quickly instead of just exchanging off material and coming into a won endgame.",
+        "6... Qxe4+": "I did expect this.",
+        "7. Ne2": "If I blocked with my bishop that would allow Qxg2.",
+        "7... Bb4+ 8. Bd2 Kf8": "Odd that he didn't exchange off his bishop for mine I mean I know he's behind but I think it would have been better to exchange.",
+        "9. Nbc3": "! This breaks the pin on my DSB and attacks his queen.",
+        "9... Qxc2": "I knew he could do that, but from now on he'll move nothing but his king.",
+        "10. Bh6+ Kf7 11. Qg7+": "I'm looking for a mating net.",
+        "11... Ke8 12. Qxg8+ Ke7": "Now his DSB is blocked so...",
+        "13. Qf8+": "I play this.",
+        "13... Ke6": "Hmm, looks like there's nothing better than Qxc8 as Nd4+ doesn't win his queen because my queen is attacked. Then I noticed",
+        "14. Nd4+": "! That this is good after all.",
+        "14... Ke5 15. Bg7#": "And...Checkmate! I liked this game and would appreciate comments and a rating."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=51117",
+    "gameName": "Team match",
+    "players": "porcho (1266) vs. gambit-z (1000)",
+    "opening": "Queen's pawn (A40)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "\"My\" Scandinavian, almost model. \nUn bell'attacco contro la mia scandinava. Ma ho avuto un buon momento, un po' di fortuna...",
+        "1... d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. Nf3 Qc7 6. O-O Bf5 7. Re1 e6 8. Nh4 Bg6 9. h3 Bd6 10. d4 Nd7 11. Bf3 Ne7 12. Nxg6 hxg6": "Till now it seems almost a manual about the opening, the way I play it. \nMore often, my white-squared bishop is taken before the knight goes to e7, so the h7 pawn goes in g6. \nNote that if I retake the bishop with the e7 knight, an inmediate d4-d5 is possible. I cannot say if it is really mortal, but I prefer not to find out in a live game. The opening of the h comumn for black proves decisive in the future, despite its innocent aspect right now.",
+        "13. Bg5": "Secondo i miei calcoli, \ufffd possibile giocare sia Cd7-f6, sia f7-f6, nonostante il pericolo. La chiave sta nell'arrocco lungo, con minaccia di presa alla regina dopo lo scoperto Ah2 .\n\n",
+        "13... Nf6 14. Bxf6 gxf6 15. Ne4": "I must admit I didn't see this \"trick\" after the B - N exchange. But I decided to make the best of it. ",
+        "15... Bh2+ 16. Kh1 Nf5 17. Nxf6+ Ke7 18. Ng4 Bf4": "And here, the position \"smells\" like if I have something. But nothing can be done yet. \nNow, I think it should have been better to get out the knight via d5-f4 thinking on a sacrifice in h3. ",
+        "19. c4 Rad8": "You have to know when to stop pushing your luck. I cannot go on with my attack right now. ",
+        "20. d5 e5": "I love risk. I think he didn't expect this one. If g3, Rxa3  seems to start something, even with the diagonal self blocked. Now, he didn't risk, but why?\ng3, Rxa3 \nKg2, and then? Rxg3 ? \nf2xg3, Bxg3\nIf wnite tries to retain material with Re4, he probably succeed, so I think this was a blunder of mine. ",
+        "21. Qe2": "He wants to go on with the attack, but this is not a good move. Now the knight menaces g3  and a sacrifice starts to glitter.",
+        "21... f6": "Unfortunately, this is necessary to protect e5 but also to give my king an escape square in f7.",
+        "22. Rad1 Kf7": "I like my ability to stay calm under strong attakcs.",
+        "23. g3": "THE mistake he did. Thanks. Otherwise, the game is still to play.",
+        "23... Bxg3 24. Kg2 Nh4+": "And I think this is a good move for an average player like me. ",
+        "25. Kf1": "The best. KxB leads to e4 , then NxBf3...",
+        "25... Nxf3 26. Qxf3 Bf4": "Again, I choosed a good moment to stay calm. In my previous moves, I had to calculate all the danger coming from the white queen and knight. It was fun.",
+        "27. Ne3 f5": "The incredible fact of this game is that I win with my pawns, pushing them with my King behind them against a queen, the rooks and a knight...",
+        "28. Ng2 cxd5": "I could have pushed my bishop to h2 before, but, as always, \"time\" is precious. I must act before he can react, I have very few moves left. ",
+        "29. cxd5 Bh2 30. Ne3 Rh5 31. Kg2": "Why not Ng4? Anyway, I can imagine white thoughts: black has a discovered king, I have four pieces pointing at it... how can I be in danger? Just some move to take away this fly, and I'll will go for a win. But...\n\nThis move was a mistake. With the next one I go further on with my attack, and the queen gets away from the danger zone, while the king is fully in it. \n",
+        "31... e4 32. Qe2": "Ok, so what? I am proud of the next move, I think it is kind of decisive. Of course, I calculate all possible variants, and I got a piece minimum. \nNote that Rg4  is not a great move. Rd8-h8 looks great, but gives he the chance of d6. Then, I don't have an inmediate win. So the correct one is the following. ",
+        "32... f4 33. Qc4": "He believes that with this one is saved, since I have to change queens. Nope! Because my pawn makes the trap.",
+        "33... f3+ 34. Kh1 Qxc4 35. Nxc4 Rxh3 36. Rxe4": "Is he aware of the danger? ",
+        "36... Bb8+ 37. Kg1 Rdh8": "But he gave me more. I calculated this position from move 33, not that bad for an average player like me. Incredibly, after such an attacking position, white is trapped. "
+    },
+    "url": "https://gameknot.com/annotation.pl/scand-my-delicate-midg-blacks-pawn-storm-on-the-qs?gm=19022",
+    "gameName": "Scand, \"my\", delicate MidG, Black's pawn storm on the QS",
+    "players": "sirky (1670) vs. damalfi (1657)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. Nf3": "My intention here was to play the Nimzo-Larsen Attack as White.  Nf3 prevents e5.",
+        "1... f6": "An unusual response.  It takes away the best square for the N.",
+        "2. c4": "I transition to the English Opening.",
+        "2... d6 3. g3 Bg4 4. Bg2 c6 5. Nc3 g6": "I don't understand why Black is creating weaknesses on the Kingside.",
+        "6. d4 Be6 7. d5": "Also reasonable would have been b3.  White doesn't mind opening up the center since castling can be done quickly, while Black is still far away from it.",
+        "7... Bf7 8. O-O e6 9. dxe6 Bxe6 10. b3 Nd7 11. Bb2": "White has a large lead in development but will need to convert it to a positional advantage.",
+        "11... Be7 12. Nd4 Bf7 13. Qd2": "This temporarily prevents Nh6, hindering Black's development.",
+        "13... a6 14. Rfd1 f5": "This makes the Bb2 more powerful by opening the diagonal.",
+        "15. e4 fxe4 16. Nxe4 Ngf6 17. Ng5": "Also to be considered was Nxd6+, trying to blow the position open immediately.  I decided that with a positional edge I was in no hurry.",
+        "17... Bg8 18. Nge6 Bxe6 19. Nxe6 Qb8": "This outpost for the N creates a significant positional advantage.",
+        "20. Qe2": "Cementing the outpost.",
+        "20... Rg8": "I think this was played with an eye to preventing Ng7+.  ",
+        "21. Rde1": "Doubling up on the Be7 and setting up the kernel of a discovered attack.",
+        "21... b6": "This allows Bxc6, winning a free pawn.  However, I had larger plans.",
+        "22. Nc7+": "This kamikaze check wins the exchange.  After Kd8, White wins with Nxa8.",
+        "22... Qxc7": "Black overlooks the major threat that allows Nc7+ to win the exchange.",
+        "23. Qxe7#": "An in-your-face checkmate.  Black missed the threat, but hung on quite a while with a difficult position in this game."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=63935",
+    "gameName": "Let's play chess",
+    "players": "mmoody95 (1879) vs. newman (1373)",
+    "opening": "Reti opening (A04)"
+}

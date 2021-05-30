@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. e5 c5": "French Defense:Advance variation. This is my favourite defense against e4.",
+        "4. Bb5+": "Unusual 4th move of white.\n\nTheory: 4.c3 Nc3 5.Nf6 Db6",
+        "4... Bd7 5. Bxd7+ Qxd7 6. Ne2": "I think it was better the knight on f3. There's no point to put the knight on e2.",
+        "6... Nc6 7. Be3 cxd4": "I played this move with the point of developing my dark squares bishop.",
+        "8. Nxd4 Nxe5": "Here, I won a pawn.\n\n8.Bxc3 was the move, trying to change his bad bishop.",
+        "9. Nc3 Bb4 10. Bd2 Nf6 11. a3 Bc5": "Better than Ba5, attacking white castle.",
+        "12. Be3 Nfg4": "I think this is a good move.\n\nI played this move , because I wanted to still atacking the f2 point, but trying a little trap.\n\nIf white tries to defend, the bishop with the queen, you'll see what happens.",
+        "13. Qe2 Nxe3 14. Qxe3 Nc6 15. Nce2 e5": "Trapping the knight, Black is now a piece ahead",
+        "16. O-O-O O-O 17. Qc3 Bxd4 18. Nxd4 Nxd4": "Now the plan is to put pressure on the c file.",
+        "19. Rhe1 Rac8 20. Qg3 Rxc2+": "I dont' know if this is the BEST move in this position, but it will lead to a winning position",
+        "21. Kb1 Qf5 22. Ka2 Rxb2+": "Now a lit bit of tactics!",
+        "23. Kxb2 Qc2+ 24. Ka1 Nb3+": "Winning the queen and the game!",
+        "25. Qxb3 Qxb3 26. Rdb1": "The worst move in the position .",
+        "26... Qxa3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/zukyyys-mini-tournament?gm=24801",
+    "gameName": "zukyyy's mini-tournament",
+    "players": "duderino (1457) vs. tubamaniac (1225)",
+    "opening": "French (C02), advance, Steinitz variation"
+}

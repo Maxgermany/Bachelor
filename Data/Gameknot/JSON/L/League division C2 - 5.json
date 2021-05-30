@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. Bd2 c5 5. Nb5 Bxd2+ 6. Qxd2 d6 7. dxc5 dxc5 8. Nd6+ Ke7 9. O-O-O Nc6 10. Nf5+ exf5 11. Qe3+": "i play first 11 moves not good",
+        "11... Be6 12. Rxd8 Rhxd8 13. Nf3": "I lost my queen but black has a good position, f8-g8 then my king is safe. But white's bishop and h1 rook is out of play. Also white's king position is open to attacks",
+        "13... Kf8 14. b3 h6 15. Qxc5+ Kg8 16. Rg1 Rac8 17. h3 Ne4 18. Qb5 Rd1+": "think of Nc3 then taking back queen and having a good game for black but sure he refuse it :)",
+        "19. Kb2 b6 20. g4 fxg4 21. hxg4 Nxf2 22. g5 Nd4 23. Qe5": "I go for bishop and knight here, Gain a bishop and knight against 1 knight",
+        "23... Nxf3 24. exf3 Rxf1 25. Qh2 Nd3+ 26. Kc3 Rxg1 27. Qxg1 Nf4": "cant take h6 pawn,Ne2 then lose a queen",
+        "28. Kd2 hxg5 29. Qxg5 Ng6 30. f4 Rc5 31. Qd8+ Kh7 32. a4 Nxf4 33. Qb8 Ng6 34. Qxa7 Ne5 35. Qxb6 Rxc4 36. a5 Rd4+ 37. Kc2 Rd3 38. Qb4 Bxb3+ 39. Qxb3 Rxb3 40. Kxb3 g5 41. Kb4 Nc6+": "white resigns..."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-c2?gm=1450",
+    "gameName": "League division C2",
+    "players": "konni (1926) vs. kesh (1877)",
+    "opening": "English, 1...Nf6 (Anglo-Indian defense) (A15)"
+}

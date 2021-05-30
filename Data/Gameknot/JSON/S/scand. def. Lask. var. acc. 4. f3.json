@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "White submits in 13 moves\n",
+        "1... d5 2. exd5 c6": "Lasker variation, I play now Nf3.",
+        "3. dxc6": "trade accepted",
+        "3... Nxc6 4. Qf3": "Mistake",
+        "4... Nd4": "menacing the queen and the fork attack by 5. ... Nc2",
+        "5. Qc3": "To eliminate both menaces",
+        "5... Bf5": "Carrying on attacking and freeing the c file",
+        "6. Bd3 Rc8": "Developing and attacking white queenside",
+        "7. Bb5+": "mistake. white loose a bishop without changing really the situation",
+        "7... Nxb5": "White situation is very bad and black begins to think how to catch the queen",
+        "8. Qb4": "Blunder ! The queen has to left the square at once",
+        "8... Nd4 9. Na3": "The queen has very little places to go. White should have plaid 9. d3",
+        "9... e5": "Queen under direct menace",
+        "10. Qa4+": "only move",
+        "10... Bd7 11. Qxa7": "Only move",
+        "11... Ra8 12. Qxb7": "only move",
+        "12... Bc6": "The queen is dead and white submit."
+    },
+    "url": "https://gameknot.com/annotation.pl/scand-def-lask-var-acc-4-f3?gm=48543",
+    "gameName": "scand. def. Lask. var. acc. 4. f3",
+    "players": "elimedia (1545) vs. ptitroque (1636)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

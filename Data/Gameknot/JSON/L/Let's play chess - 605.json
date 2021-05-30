@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 d6 3. h3 Nc6 4. Bc4 Nf6 5. Nf3 g6 6. a3 Bg7 7. d4 cxd4 8. Nxd4 O-O": "very defensive from my part...",
+        "9. Be3 Bd7 10. Qd2 a6": "i was not decided to open myself before white decides to",
+        "11. h4": "here we go",
+        "11... h5 12. Nf3 Ng4": "i found a way just to kill the most dangerous pair of bishops",
+        "13. Rb1 Rc8 14. b3 b5": "here i saw the next 4 moves easily. Except that glyn helped me a bit not playing Be2",
+        "15. Bd3": "i think this is not quite good.",
+        "15... Nxe3": "one",
+        "16. fxe3": "obviously: if Q takes, then B takes Knight",
+        "16... Nb4": "you cant take me, buddy, because of Bxc3 threat",
+        "17. Ne2": "best move",
+        "17... Nxd3+": "two",
+        "18. cxd3": "better than Q takes, that lead two doubled pawns isolated.",
+        "18... Qb6": "right now, i had nothing really decisive, but i decided to point on his weaknesses",
+        "19. b4 Rc7": "let's continue the development on c-column",
+        "20. Nf4": "obviously a big mistake...",
+        "20... Bc3 21. Qxc3 Rxc3 22. Nd5": "he probaly saw that as an escape, but...",
+        "22... Qa7": "it was not; after he takes the rook, i take e3 - check, and make a storm... it is over..."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=32679",
+    "gameName": "Let's play chess",
+    "players": "glyn1957 (1597) vs. thitho (1722)",
+    "opening": "Sicilian (B23), closed"
+}

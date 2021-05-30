@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. c4 Nc6 3. Nf3 b6 4. d3 Bb7 5. e5": "I'm not very keen on this move, as it is quite hard to defend the e5 pawn now. I can play g6 and Bg7 on one side, and Qc7 on the other - so in three moves I can get three separate pieces attacking the pawn, of which g6 and Bg7 are natural developing moves anyway. You don't want to have to tie up your pieces to defending pawns this early on.",
+        "5... g6 6. Qe2 e6 7. g3": "This is definitely a mistake. Because of my bishop already on the diagonal, Nd4 will force you to capture with your knight as there is a double attack on your knight, your queen is threatened and there is a threat of a following Nc2  instead of capturing.",
+        "7... Nd4 8. Nxd4 cxd4": "I decided to go with this instead of Bxh1 because a) I wanted to keep the diagonal, and b) It would still stop you from castling. In hindsight it was a mistake because I lost the diagonal after Rg1 and Bg2. I should have just captured the rook.",
+        "9. Rg1 Bg7 10. f4 Ne7 11. Bg2 Bxg2 12. Rxg2 d6 13. b3": "I think you had to play exd6 here. You have no real risk after I capture with the queen.",
+        "13... dxe5 14. Qe4": "I would certainly have played fxe5 now. It's hard to see how to keep hold of the pawn but asking me to take another is simply a free pawn lost.",
+        "14... O-O 15. Rf2 exf4 16. Rxf4": "Bxf4 much stronger - it gets more pieces off the back rank and doesn't allow the unpleasant bishop -> rook pin at Bg6",
+        "16... Bh6 17. Na3 Bxf4 18. Bxf4 Nf5 19. O-O-O Qd7 20. Nb5 Rac8 21. Bd6": "Final blunder, simply sacrificing a bishop and leaving black up by a rook. Many thanks for the game :)",
+        "21... Nxd6 22. Qxd4 Rfd8 23. Qxd6 Qxd6 24. Nxd6 Rxd6 25. d4 Rcd8 26. d5 exd5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2?gm=18197",
+    "gameName": "League division D2",
+    "players": "tounaboa (1296) vs. topazg (1513)",
+    "opening": "Sicilian (B20), Gloria variation"
+}

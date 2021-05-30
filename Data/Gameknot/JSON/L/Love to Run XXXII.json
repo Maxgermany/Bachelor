@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "White starts with D4 and I reply with my usual N-F6",
+        "1... Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Ne4 5. Qc2 Nxc3 6. bxc3 Be7": "This is pretty standard and white has a central advantage",
+        "7. Bd3": "White has some good pressure on the h pawn and will probably look to utilise the open b file. Black is  thinking of castling long as I believe white will castle short, get greedy and take the h pawn allowing black some attacking opportunities. This is all very early and not sound thinking,however, it is what was going through my mind.\n",
+        "7... Nc6 8. Nf3 d5": "I think white should push the pawn here, freeing the bishop and controlling d6",
+        "9. cxd5 exd5": "This suits black, as the white squared bishop is no longer trapped",
+        "10. Bxh7": "As predicted white takes the pawn, and I don't think he is going to castle long, because of the half open b file",
+        "10... Bg4": "Black develops the bishop trying to tempt black to weaken the kingside a little with h3",
+        "11. Nd2": "This is a curious move, perhaps c4 is a possibility",
+        "11... Qd6": "Black brings the Queen to a more active square",
+        "12. h3": "White chases the bishop, I am happy about this as I intend to castle long and may even give up kingside pawns if white castles short in order to bring rooks into very active positions on h8,g8 with the bishops also applying pressure",
+        "12... Be6 13. Bf5": "White is hoping to exchange and bring the queen to a better square, I am going to castle long and have ideas of sacrificing the rook if black castles short.",
+        "13... O-O-O 14. Bxe6+ Qxe6 15. O-O": "I think the sacrifice is on, but am unsure so will put the bishop on a stronger square",
+        "15... Bd6 16. a4": "White has definate plans on the queen side but black is going to open up white's king side in explosive fashion ...RxP !! There are several options open to White:\nPxR, QxP, N-F3 R-H8 threatening mate.\n\nBlack intends to double the rooks on the h file threatening mate, and may be given options to take the pawn on e3, \n\nG3 is met by Rh1+ then Q-h3 which inturn threatens mate.\n\n\n\n",
+        "16... Rxh3 17. Rd1": "White is trying to escape,I am going to offer the sac again, if white moves kf1 then r-e2 pinning the knight. If nf3 then I may exchange as the q on h3 looks very strong.",
+        "17... Rxe3 18. Nf3 Rxf3": "This rook is causing havoc, if white takes it then r-h8 causes white major problems.B-a3 is probably the best move, but that does leave white in a strong position.",
+        "19. gxf3": "Game over now,the rook trundles along to h8 and black has mate threats which white cannot answer: ",
+        "19... Rh8 20. Kf1 Rh1+": "It is curtains for white now, K-g2 is met by Q-h3 mate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/love-to-run-xxxii?gm=44599",
+    "gameName": "Love to Run XXXII",
+    "players": "loopdeloop (1746) vs. dwardman (1796)",
+    "opening": "Nimzo-Indian (E40), 4.e3"
+}

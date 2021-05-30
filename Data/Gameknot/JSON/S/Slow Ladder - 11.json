@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. c4": "This was a ladder game where I was challenged by a player with a considerably higher rating. From my perspective the result was a good one but I'm still not sure if I should have carried on the game for a little longer.\n\nWe start with my favored English opening. I decided to go for this as I know it better than most openings",
+        "1... e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. d4": "The computer calls this a mistake preferring cxd5 Nxd5. My intention was to make the position more complex",
+        "5... exd4 6. Nxd4 dxc4 7. Nxc6 Qxd1+ 8. Nxd1": "I'm still not sure that I wouldn't have been better here taking with the king but at this point I still had hopes of castling",
+        "8... bxc6": "The three black pawns on the c file certainly cheered me up and gave me hope that this wouldn't be the decimation I expected at the beginning of the game",
+        "9. Bg2 Bb4+ 10. Nc3 Nd5 11. O-O": "This takes us out of the Gameknot database where the preference is Bd2",
+        "11... Bxc3 12. Bxd5": "At the time I thought this was the only way to prevent the loss of a pawn but the computer calls it a mistake preferring 12. bxc3 Rb8 13. Rd1 Nxc3 14. Bxc6+ Ke7 though I don't understand the suggestion of Rb8 in preference to say Nxc3.",
+        "12... cxd5 13. bxc3 Bh3": "I don't like this move in this position, all it does is force me to move the rook which I was inclined to do anyway. My plan now was to prevent black from castling with Ba3 which will be hard to extricate",
+        "14. Rd1": "Would Re1 have been any better? I think with hindsight it would have been",
+        "14... c6 15. Ba3 Kd7 16. e4 Ke6 17. exd5+ cxd5 18. Rab1 Rab8 19. Bc5 a6": "At this point black suprised me a little by offering a draw which I gladly accepted, the question is, should I have carried on a little longer?\n\nThanks for reading please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/slow-ladder?gm=52019",
+    "gameName": "Slow Ladder",
+    "players": "elwoos (1533) vs. bob20 (1859)",
+    "opening": "English (A22), Bellon gambit"
+}

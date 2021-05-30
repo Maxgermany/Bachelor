@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 Nc6 3. Nc3 exf4 4. Nf3 d6 5. Bb5 Bd7 6. d4 g5 7. O-O Bg7": "To here, fairly standard lines for a Vienna gambit game.",
+        "8. Bxc6 Bxc6 9. b3 Qe7": "Preparing for O-O-O, but why?",
+        "10. Re1 O-O-O 11. Bb2 Bd7": "Brings pressure to the King-side, but removes any threat to the KP.",
+        "12. Qd2": "Basic development, but crucial.",
+        "12... g4": "The knight is unguarded, with no retreat square - but this loses the game or the Queen.",
+        "13. Nd5 Qf8": "Possibly the worst option, as the Queen is un-developed.  But the game is gone anyway.  Necessary was b6 or Bc6.",
+        "14. Qa5": "Black has nothing left but garbage moves: mate on either c7 or a8 within 3.",
+        "14... b6 15. Qxa7 Bxd4+ 16. Bxd4 gxf3": "Well, he did take the knight.",
+        "17. Qxc7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/vienna-gambit?gm=11731",
+    "gameName": "Vienna Gambit",
+    "players": "jmfpeaceable (1383) vs. slcap (1421)",
+    "opening": "King's gambit (C30)"
+}

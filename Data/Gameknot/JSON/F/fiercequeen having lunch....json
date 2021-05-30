@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. Bc4 Bg7 4. c3 e6 5. d4 cxd4 6. cxd4 Ne7 7. Bg5 O-O": "d7-d5 was playable: this is better...",
+        "8. d5 f6 9. dxe6 dxe6": "clearly mistaking on Whites' part: Bg5 is still in trouble...",
+        "10. Qxd8 Rxd8 11. Be3 a6 12. Nd4 b5 13. Bxe6+ Bxe6 14. Nxe6 Rd6 15. Nc7 f5": "let him have it...",
+        "16. Nxa8 Bxb2": "here is the rent...",
+        "17. Nc7 Rc6 18. Nd5 Nxd5 19. exd5 Rc2 20. O-O Bxa1": "Black restored the order...",
+        "21. Na3 Rxa2 22. Nb1": "Nc2, may have made a point...",
+        "22... Be5 23. Rc1 Nd7 24. f4 Bb8": "no sweat for Rc8+...",
+        "25. Rc8+ Kf7 26. Rh8": "seriously?",
+        "26... Ra1 27. Rxh7+ Ke8 28. Rh8+ Ke7 29. Rh7+ Kd6": "elementary...",
+        "30. Rg7 Rxb1+ 31. Kf2 Kxd5": "a bit of a gamble: after Rxd7+, Bd6, might be enough...",
+        "32. Rxg6 Rb2+ 33. Kg3 Rb3": "return the favor, of the pinned Bishop...",
+        "34. Kf3": "???",
+        "34... Ba7": "piece in the pocket...",
+        "35. Rxa6 Rxe3+": "and White resigned: after the forced Kf2, Ra3+, ends the game..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-having-lunch?gm=65094",
+    "gameName": "fiercequeen having lunch...",
+    "players": "surfingscotty (1631) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

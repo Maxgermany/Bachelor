@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "Queen pawn opening.",
+        "1... g6": "I hate fanciettos.",
+        "2. e4 Bg7 3. Nf3 b6 4. Nc3 Bb7": "Double fancietto for black, central control for white.",
+        "5. Bf4 d6 6. Bc4 Nd7": "Ugh. I hate this opening.",
+        "7. O-O": "But I get to castle early ",
+        "7... e5": "Challenging the centre ",
+        "8. dxe5 Nxe5": "With knight?? Interesting.",
+        "9. Re1": "Oops. I lost a bishop.",
+        "9... Nxc4 10. e5 dxe5 11. Bxe5 Bxe5 12. Nxe5 Ne7": "??",
+        "13. Nxc4": "Yum",
+        "13... Qxd1 14. Raxd1": "Rooks on open files.",
+        "14... Rd8 15. Rd3 Kf8 16. Rde3": "Threatening the knight.",
+        "16... Nf5 17. Re3e2 Kg7 18. Ne5 Rhe8 19. f4 f6": "Die",
+        "20. Nf3 Rxe2 21. Rxe2": "Trades",
+        "21... Bxf3 22. gxf3": "Rook+ knight +pawns endgames.",
+        "22... Rd4 23. Ne4 Rd1+ 24. Kf2 Rh1 25. Kg2 Rb1 26. b3 Ra1 27. a4 Rb1 28. Nc3 Rc1 29. Nb5": "Fork",
+        "29... a6 30. Nxc7 Nd4 31. Re7+ Kh6 32. Nxa6 Rxc2+": "+1",
+        "33. Kg3 Ne2+": "Why not Nxb3?",
+        "34. Kh4 f5": "Why not Nxf4?",
+        "35. Nb4 Rb2 36. Nd5": "Guarding f4",
+        "36... Ng1 37. Nf6": "Threatening mate ",
+        "37... Rxh2+ 38. Kg3 Rb2": "Nothing black could do.",
+        "39. Ng8+ Kh5 40. Rxh7#": "Mate I win."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=66102",
+    "gameName": "Chess game",
+    "players": "eric2jin (white) vs. er1c1 (black)",
+    "opening": "Modern defence (A40)"
+}

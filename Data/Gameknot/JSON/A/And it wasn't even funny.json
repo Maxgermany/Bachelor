@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "Here is a gamelet from a real-time rapidplay tournament I played in last week. My opponent and I were both on 4/4 so far - in this game someone's 100% score was going to end. The fact that my opponent was the top seed, with an ECF grade 49 points higher than mine, didn't help my optimism.",
+        "1... e6": "I play my principal opening as Black, the French Defence.",
+        "2. d4": "Main line. White occupies the centre with a Classical Pawn Centre.",
+        "2... d5": "Black's most usual response, challenging White's powerful-looking centre.",
+        "3. e5": "The Advance Variation of the French Defence.",
+        "3... c5": "An important move for Black: striking at the d-pawn. Black's overall aim in the Advance French is to target White's advanced central pawns, particularly the d-pawn, in an attempt to bring the d-pawn and then the undefended e-pawn down. 3...c5 is a good way of starting this.",
+        "4. c3": "White tries to solidify his advanced pawns.",
+        "4... Nc6": "Building up the pressure on White's central pawns.",
+        "5. Nf3": "Countering Black's previous move.",
+        "5... Qb6": "Another attack on the d-pawn.",
+        "6. Bd3": "Before this move, I was planning Nge7 followed by Nf5 to bring up another attack on the d-pawn. However, now my inexperience really shows. Surely, I thought at this moment, this move blocks White's queen's defence of the d-pawn and loses that pawn! This would enable me to very quickly bring down White's over-extended central pawns, and win one into the bargain! I felt immense euphoria at being the beneficiary of such an error by a person rated 49 points above me.\r\n\r\nHowever, I see you more experienced players looking on this position and shaking your heads with a knowing smile. You know what I have missed...as did I a few moves later.",
+        "6... cxd4 7. cxd4": "Proceeding with my \"brilliant\" idea.",
+        "7... Nxd4 8. Nxd4 Qxd4": "Snap snap snap. I have won a pawn! My opponent, younger than me, was looking at this position with a supreme poker-face. This was when the cold claw of fear gripped my heart. Maybe, just maybe, the top seed had noticed something I hadn't?",
+        "9. Bb5+": "With this eye-popping move, my opponent expressionlessly wins my queen. I didn't want to continue this game any more. I resigned on the spot. I could feel my face going through an interesting selection of pastel colours, as I gazed upon what is without a doubt the most embarassing moment of my chess career. Go on, readers, feel free to call me a complete idiot! The more comments you post the less likely it is that I will fall into this trap again!"
+    },
+    "url": "https://gameknot.com/annotation.pl/and-it-wasnt-even-funny?gm=21840",
+    "gameName": "And it wasn't even funny",
+    "players": "J.C. (107) vs. fatcat2 (58)",
+    "opening": "French (C02), advance, Milner-Barry gambit"
+}

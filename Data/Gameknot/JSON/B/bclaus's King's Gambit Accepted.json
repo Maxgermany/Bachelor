@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3": "this is the initial position",
+        "3... d5 4. exd5 Bd6 5. Bc4 Ne7 6. O-O O-O 7. d4 Bg4": "developing very quickly all the pieces.",
+        "8. Nc3 Nd7": "threatening Nb6 and after Bb3 , a5 and maybe c6 also",
+        "9. Bd3 Re8": "? it is a mistake . better was Nf6 defending the king's flank",
+        "10. Bxh7+": "!!! very interesting move!",
+        "10... Kxh7 11. Ng5+ Kg6 12. Qxg4 f5 13. Qf3 Kxg5 14. h4+": "better was 14.B:f4  with good atack",
+        "14... Kg6 15. Bxf4 Bxf4 16. h5+ Kf7 17. Qxf4 Nf6 18. Qg5 c6 19. h6 gxh6 20. Qxh6 cxd5": "20...Rh8 was also good possibility",
+        "21. Rae1 Qb6": "the attack has already finished and the black has a extra piece"
+    },
+    "url": "https://gameknot.com/annotation.pl/bclauss-kings-gambit-accepted?gm=21964",
+    "gameName": "bclaus's King's Gambit Accepted",
+    "players": "rromeroh (1641) vs. roni16 (1532)",
+    "opening": "KGA (C36), Abbazia defence, modern variation"
+}

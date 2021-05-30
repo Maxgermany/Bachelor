@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng5": "I thought that this must be some brand new and modern opening. But it's labeled the Alekhine Gambit, so it can't be too new.\n \nBut I can't help but wonder: if this is the Alekhine Gambit, what's he offering me?",
+        "5... Bg4 6. Be2 Bxe2": "I've managed to get rid of the Caro-Kann problem bishop. Next, I need to release the good bishop.",
+        "7. Nxe2 e6 8. O-O Bd6 9. c4 O-O": "I also liked the idea of Nbd7 and castling queenside, but I was uncomfortable that he was further developed. Also, I'd prefer to have my Q on c7, but then I can't castle queenside until I chase away that knight. Thinking back, I should go ahead and play h6. I'm going to have to chase it away eventually.",
+        "10. Qc2 h6": "I waited too long to play h6. Now, he has the option of playing Ne4 that he couldn't play one move earlier.",
+        "11. Nf3 Nbd7 12. h3 c5 13. Bf4 Bxf4 14. Nxf4": "I'm not sure how well-placed that knight is. It helps defend d5 and attacks e6, but it's also out in the open.",
+        "14... Qb6 15. d5": "This was a surprise to me. I was thinking that he would retreat the knight to e2 so it could recapture on d4 and not have to have the isolated pawn. But now, if I trade, there's the danger that I'm letting him have a passed pawn.",
+        "15... exd5 16. cxd5 Qd6": "Now I'm taking advantage of that knight. It can't move without losing the pawn.",
+        "17. g3": "I'm not sure why he chose that over Qd2. Maybe he wants to keep pressure on my c-pawn and use a rook to guard his d-pawn.\n \nThis is starting to look like it could head to a strange endgame -- 4 knights and no bishops.",
+        "17... Nb6 18. Rfd1 Nbxd5 19. Nxd5 Nxd5 20. Qb3": "That's a nice move, and it gets back his pawn. I'd planned for him to double the rooks, and I was going to play Nb4 to break the pin and attack his queen and give mine time to get out of there.",
+        "20... Rad8 21. Qxb7 Qb6 22. Qxb6 axb6 23. Kg2 Rfe8": "That's the natural move. The rook grabs the open file; it keeps his knight from coming to e5.\nI imagine he'll play Rd2 to keep me from playing Re2 and also to prepare to double the knights. So I'll have to move my knight after that -- maybe to b4. And after that, after we trade rooks, maybe to d3. And it's safe from a pin (Rd1) because I'd be able to play Nf4+ and win the rook.",
+        "24. Rd2 Nb4": "I just won my other game against this player, and I'm looking at our match. There are only two of us playing, and vrwc1 is amazingly far ahead in one of his games.\n  \nThis is a tight game that could go easily either way and looks drawish to me if no one makes any mistakes. So, I decided to offer the draw that looks like it guarantees at least a 2.5-1.5 victory against one of the top teams. That'll move us up the ladder."
+    },
+    "url": "https://gameknot.com/annotation.pl/has-anyone-heard-of-the-alekhine-gambit?gm=23411",
+    "gameName": "Has anyone heard of the Alekhine Gambit?",
+    "players": "gambiteer300 (1876) vs. chuckbo (1903)",
+    "opening": "Caro-Kann (B15), Alekhine gambit"
+}

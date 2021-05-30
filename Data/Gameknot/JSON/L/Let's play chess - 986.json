@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1": "White invites this check, producing complications.",
+        "4... Bc5 5. d4 Bb6 6. Nf3": "Black's attempts for an early checkmate thwarted, now white begins the counterattack.",
+        "6... Qf6 7. e5": "Whte decides to exploit an edge in development and space",
+        "7... Qf5 8. Nc3 c6 9. Bd3 Qg4 10. Ne4": "White has provoked Black into allowing a strong N outpost while Black's queen is vulnerable to being pushed around with tempo.",
+        "10... Bc7 11. h3 Qe6 12. Bxf4": "White wins back the pawn and maintains a space and tempo advantage.",
+        "12... d5": "Black decides to sacrifice a pawn to try and get some freedom, but also offers opening for White to exploint the advantage in space and development. ",
+        "13. exd6 e.p. Bd8 14. Kf2": "Now Black has to worry about a rook on the e-file and pins against the king.",
+        "14... Nf6": "What else?",
+        "15. Neg5": "The start of a plan to exploit the king position before Black can castle.",
+        "15... Qd5": "Black apparently hopes to interpose with B-e6, but makes yet another Queen move with limited retreat squares.",
+        "16. Re1+ Be6 17. c4": "Black now has only one square left for the Queen.",
+        "17... Qa5 18. Nxe6 fxe6 19. Rxe6+ Kf7": "Apparently trying to provoke the check.",
+        "20. Ng5+ Kf8 21. c5": "Threatens to trap the Queen and to open up the c4 diagonal for attacks.",
+        "21... Nd5 22. Bd2": "Suddenly, White either loses the trapped queen or is checkmated. After 22...Nb4 trying to save the Queen with a threat of NXB , White simply forces checkmate after 23 Qf3 ! B-f6 24 RxB ! Ke8 (forced) 25 Qe4  etc. Otherwise, the wandering Queen has run out of places to run and has nowhere to go."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=14846",
+    "gameName": "Let's play chess",
+    "players": "dmaestro (1425) vs. leixoessc (1574)",
+    "opening": "KGA (C33), bishop's gambit, Greco variation"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4": "The Scotch Gambit",
+        "4... Bc5": "While MCO recommends this move, white wins his pawn back with the moves that occur and white gets a better position.",
+        "5. c3 dxc3 6. Bxf7+ Kxf7 7. Qd5+ Kf8": "A better move is 7 ... Ke8 to prevent white from taking the bishop with check.",
+        "8. Qxc5+ d6 9. Qxc3 Nf6 10. Nbd2 Kf7": "Either trying to artificial castle or develop the rook. Or maybe both.",
+        "11. O-O Be6": "This move is somwhat hindering the development of black's rook.  11...Re8 would have been better.",
+        "12. Re1 Re8 13. Ng5+ Kf8 14. f4": "Still looking to crash into black's position, I decide to attack rather than trade my knight for his bishop.",
+        "14... Bg8 15. e5 Nd7": "Black has to switch to defense now since white is advancing over the equator too much for black's liking.",
+        "16. Nc4 Qe7 17. b3": "A trap is set for black if he takes the pawn now.  After 17...dxe5 18 fxe5 Ndxe5 19 Ba3 wins the queen, or 18...Ncxe5 19 Rxe5 Nxe5 20 Ba3.",
+        "17... Nd8": "What is black trying to do? Get smothers mated?",
+        "18. Bb2": "Adding a defender to e5 and also forming a battery on the a1-h8 diagonal threatening checkmate if the queen moves away.",
+        "18... Ne6 19. exd6": "I thought for a while about this move.  This was hard because after making the move I had 4 minutes on my clock.  ",
+        "19... cxd6 20. Nxd6": "20...Qxd6?? loses to 21 Nxe6 Rxe6 22 Qxg7  Ke8  with mate coming in a few moves.  The correct move for me was 20 Nxe6 and after 20...Bxe6 21 Rxe6 Qf7 22 Nxd6 and either the queen dies or black gets checkmated.  I did not see this because I has to play fast in time pressure.",
+        "20... Nf6": "Blocking the checkmate",
+        "21. Nxe6+ Bxe6 22. Nxe8 Rxe8 23. f5": "At this point in the game I am up the exchange and soon a bishop. Even though I have about 2:30 on my clock, I have a 5 second delay and I usually get low on time.  If I don't blunder my queen, this game is won.",
+        "23... Qd7 24. fxe6 Rxe6 25. Rxe6 Qxe6 26. Re1": "Even with three pieces, the king can still be attacked.",
+        "26... Qf7": "This move is not good for black since it blocks the king's only escape square.  Black will probably have to sac his queen now.  My opponent was a very fast mover and still had about 20 minutes on his clock.",
+        "27. Qc8+ Ne8 28. Ba3+": "The game winning move.",
+        "28... Kg8 29. Rxe8+ Qxe8 30. Qxe8#": "My opponent appeared to have played a lot of blitz and played very fast the whole game and missed a lot of tactics.  With me, the last tournament I had played in was the washington open.  A G30 compared to that is like a blitz game.  Even though I ran low on time, I stopped to think about my moves and led a great attack the whole game."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-power-of-the-scotch?gm=9457",
+    "gameName": "The Power of the Scotch",
+    "players": "Me  vs. Daniel Hua ",
+    "opening": "Scotch gambit (C44), Anderssen (Paulsen, Suhle) counter-attack"
+}

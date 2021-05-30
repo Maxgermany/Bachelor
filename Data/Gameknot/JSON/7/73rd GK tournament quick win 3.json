@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "A common move for white.",
+        "1... e5": "A common move for black.",
+        "2. Qf3": "Early queen moves are never good. Usually the queen gets chased around.",
+        "2... Nc6": "--",
+        "3. Bc4": "Going for the quick 4 move mate.",
+        "3... Nd4": "Oups.",
+        "4. Qxf7#": "Remember that this game was played in the casual section of the tournament. Mistakes like this one will probably never happen to the same player twice."
+    },
+    "url": "https://gameknot.com/annotation.pl/73rd-gk-tournament-quick-win-3?gm=35259",
+    "gameName": "73rd GK tournament quick win 3",
+    "players": "nathansa (1186) vs. frenchafry (1112)",
+    "opening": "KP (C20), Napoleon's opening"
+}

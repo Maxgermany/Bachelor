@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 Bb4 6. f3 O-O 7. Bd2 Re8 8. Be2 Nh5 9. a3": "9. a3?  g3 is the only way to stop a King-side attack.  Watch this...",
+        "9... Bxc3 10. Bxc3 Qh4+ 11. g3 Nxg3 12. hxg3 Qxh1": "I've done this thousands of times.  ",
+        "13. Kf1": "If I can get my Bishop to h3, white could be in a world of hurt...",
+        "13... Ne5 14. Qd4": "Very clever move for white...threatening checkmate on g7...",
+        "14... d6 15. f4": "When you find yourself in a difficult position, look for something to attack!",
+        "15... c5": "! Removes the mating threat...",
+        "16. Qxd6 b6": "I could save the Knight but I'm eager  to continue my attack so I exchange my knight for a powerful  tempo.",
+        "17. fxe5 Bh3+ 18. Ke1": "??  18. Kf2, Qg2+   19. Ke3  would have been much better for white.",
+        "18... Qxg1+ 19. Kd2 Qxa1 20. e6 Rad8 21. exf7+ Kxf7": "White's pinned queen is almost useless and my king is safe though thin on cover.",
+        "22. Bh5+ g6 23. Qxd8 Rxd8+ 24. Ke2 gxh5 25. Ke3": "A hopeless position for white...0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=57407",
+    "gameName": "Chess game",
+    "players": "nn  vs. Dupre ",
+    "opening": "Centre game (C22)"
+}

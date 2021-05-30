@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Here's a League game where, again, I've followed Ion's advice and avoided swapping off at the end, when it's a race to mate and I win by one move :-)",
+        "1... c5": "My faithful Sicilian again.",
+        "2. Bc4": "and White adopts the fashionable (on Gameknot at any rate) 2. Bc4",
+        "2... e6 3. Nf3 d5": "immediately challenging in the centre",
+        "4. exd5 exd5 5. Bb5+": "sidestepping with the equally popular Bb5 ",
+        "5... Nd7 6. O-O": "White appears to be well ahead in development, as is often the case early in the Sicilian.",
+        "6... Ngf6 7. Re1+ Be7 8. Nc3 O-O": "but Black has equalised now since White's d-pawn is still at home.",
+        "9. Bxd7 Bxd7 10. d3 Re8 11. Bg5 h6 12. Bxf6 Bxf6": "Now Black has the advantage of the Bishop Pair on a  relatively open board.  Can he use it?",
+        "13. Nxd5": "! Snapping up the loose pawn and threatening to disrupt Black's kingside",
+        "13... Bc6 14. Nxf6+": "? Better was 14. Rxe8  when 14... Qxe8 allows 15. Nxf6 , when Black has to retake with the g-pawn.  Otherwise 14. ...Bxe8 puts Black's bishop on a bad square and the good bishop falls with 15. Nxf6 ",
+        "14... Qxf6 15. c3 Rad8 16. d4": "? Better was 16. Rxe8  (again), when Black can't divert White's attention from the d-file.  White also has to watch out for his N on f3.  He shouldn't allow Black to give him doubled f-pawns.",
+        "16... Rxe1+ 17. Qxe1 Bxf3 18. gxf3 cxd4 19. cxd4 Rxd4": "Now material is even but White has a structural weakness.  Is this enough to give Black victory?",
+        "20. Qc3": "Defends the f-pawn, pins the R against the Q (if Black allowed White to capture on f6, he would return the compliment of the doubled f-pawns, unless, of course he used his R to defend the Q) and threatens Qc8 , winning the b-pawn: looks good.",
+        "20... Qg6+": "side-stepping with check on the open file",
+        "21. Kf1 Rd3": "forking Q and p",
+        "22. Qc2": "pinning the R again!",
+        "22... Qf5": "doubling the attack on the weak f-pawn",
+        "23. Ke1 Qxf3": "converting the structural advantage into a material one.  Would this be enough to justify allowing swapping off yet? ",
+        "24. Qe2": "Here, I tried to make 24...Qh1  work but couldn't.  I wanted to avoid a situation where I was chasing his pawns on his 2nd rank while he was doing the same to mine on mine.  His K was slightly better placed to defend than mine.",
+        "24... Qf5": "So I retreated again: he who runs away lives to fight another day!",
+        "25. Rc1 Rd7": "defending my second rank to give my Q time to harrass his.",
+        "26. Qc2 Qe6+ 27. Qe2 Qd5 28. Rc8+ Kh7 29. Qc2+ g6 30. Qc3": "threatening Q/R-h8   but what has White overlooked?",
+        "30... Qd1#": "Yep :-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/mater-mated?gm=21584",
+    "gameName": "Mater mated!",
+    "players": "chibears1920 (1397) vs. rjacobs (1520)",
+    "opening": "Sicilian defence (B20)"
+}

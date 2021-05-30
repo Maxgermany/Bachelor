@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. c3": "The first unusual move of the game. If followed up by P-Q4, White can get a strong center, but the drawback is that it takes away the natural developmental square for the QN.",
+        "3... Nf6 4. Qe2": "Here we see the problem: White cannot guard his KP with his QN, so now his KB is blocked in.",
+        "4... d5 5. exd5 Qxd5": "I have an advantage in development and a better center. Therefore I have to be aggressive or these advantages will dissipate.",
+        "6. c4 Qa5 7. Nc3 Bg4": "Pinning the knight and attempting to convert my extra tempi into a spatial advantage.",
+        "8. g3": "White must use 2 moves to develop his KB, and it accentuates his cramped position.",
+        "8... Bb4 9. Qe3 O-O": "I hasten to connect my Rooks and seize the center.",
+        "10. Bg2 Rfe8 11. O-O Qb6": "The Q is White's best-posted piece. if I can exchange it off I can seize the center and split his forces in two.",
+        "12. Qg5": "Naturally, White tries to avoid this.",
+        "12... Bc5": "I double on the diagonal, with ...BxPch a future threat.",
+        "13. Nh4": "White tries to generate a counterattack.",
+        "13... h6": "He overlooks this riposte. The Q has no flight square! This effectively ends the game, although my opponent has the spirit and will to win necessary to become a top player. He gamely fights on another 20 moves.",
+        "14. Qf5 Bxf5 15. Nxf5 Ng4": "Now it's a matter of technique. I need to keep my King safe and trade down.",
+        "16. d4 exd4 17. Nd5 Qa5 18. Bf4 Rac8 19. Rad1 Ne7 20. Nxd4 Nxd5 21. Bxd5": "One minor piece is exchanged.",
+        "21... c6 22. Bf3 h5 23. Bxg4 hxg4": "Another one goes.",
+        "24. Bd2 Qxa2 25. Nf5 Qxc4": "A couple of loose Pawns fall.",
+        "26. Bf4 Rcd8": "Trying to vaporize a pair of Rooks.",
+        "27. Rdc1 Qd5 28. Ne3 Bxe3 29. fxe3": "A third minor piece goes. Now it's just a matter of closing the deal.",
+        "29... Qb3 30. h4 Qxb2": "I see a potential mate. if I can get a Rook onto the 7th rank...",
+        "31. Rfe1 Rd7 32. Kf1 Rd2": "Since my opponent resolutely refuses to exchange Rooks, I decide to close him out with a mate.",
+        "33. e4 Rh2 34. e5 Qf2#": "Mission accomplished."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=30342",
+    "gameName": "Let's play chess",
+    "players": "lovronix (1140) vs. thehellion (1252)",
+    "opening": "Ponziani (C44), Jaenisch counter-attack"
+}

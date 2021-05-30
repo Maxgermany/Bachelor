@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Qh5": "Gotta love the Patzer opening <pause for effect> if you are playing black.  It is easy to defend.",
+        "2... Nc6": "Book defense for the Patzer",
+        "3. Bc4 g6 4. Qf3 Nf6": "Still in book",
+        "5. d3 Nd4": "First chance for Offensive",
+        "6. Qd1": "Standard Reply to that",
+        "6... Bc5 7. c3 Nc6 8. h3 O-O 9. Bg5": "I'll admit that was a good move",
+        "9... Kg7 10. h4 h6 11. Bd2 d6 12. f3 Nh7 13. Ne2 Na5": "I'm not sure why I did that I mistake as you will see",
+        "14. b4 Nxc4 15. dxc4 Bb6 16. Qc1 Kg8 17. Bxh6 Re8 18. h5 Qf6 19. hxg6 Qxg6 20. g4": "Here my oppenen has a slight edge if I were scoreing this I'd put this as a (1.50) for white",
+        "20... a5 21. b5 c6 22. f4": "that was a mistake it allow for me to play Qxe4 next and would be fatal to white",
+        "22... Qxe4 23. Rh2": "Defends the night that is good",
+        "23... Bxg4 24. Qd1 exf4 25. Nd2": "Not bad I might have played that myself but in retrosepct Bxf4 would have been better",
+        "25... Qe5 26. bxc6": "I see where he is going and again a easy mistake to make better would have been Qc2 set up queen's side casle",
+        "26... bxc6 27. Rb1": "Rember what I said about taking the pawn on f4 here is why",
+        "27... f3": "It is over now",
+        "28. Bf4 Qxf4": "Because the night is still pinned by the rook",
+        "29. Rh4 fxe2": "It is a will at this point",
+        "30. Qb3 Qg3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-alonzo54?gm=48027",
+    "gameName": "Challenge from alonzo54",
+    "players": "alonzo54 (1042) vs. evader23 (1149)",
+    "opening": "KP (C20), Patzer opening"
+}

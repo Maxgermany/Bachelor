@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "well, i always on Sicilian defense played Sicilian dragon variation (5...g6) , but since my opponent knew me well i decided to surprise him with Naijdorff variation.",
+        "6. a4 Nc6 7. Bc4 g6": "little tricky i would say , after 6.a4 and.7.bc4 I decided to return to dragon variation because of misplaces white pieces.",
+        "8. f3 Bg7 9. Be3 O-O 10. Qd2 Bd7 11. O-O-O Rc8 12. Bb3 Ne5 13. g4 Nc4 14. Bxc4 Rxc4 15. b3": "its a mistake , one of the ''ruels'' of the sicilian dragon are  never move your queens side pawns after casteling on queesn side now there are alot of weaknesses on the dark squares .",
+        "15... Rc8 16. h4 Qa5": "attackind thes weak sqaueres and controling the 5th rank .",
+        "17. Kb2 Rfe8": "it seemed that 17.Kb2 was silent move to protect the knight on c3 but no, after 17.Kb2 white threats Nd5 and force the black queen retreat  to passive position and get contra ply on the kings side for example : 17.Kb2-b5.18.Nd5-Qd8 (if 18...Qxd2.19.Nxe7+-Kh8.20.Rxd2 +-) 19.h5-Rfe8.20.hxg-fxg.21.Bh6-Bh8.22.Qh2 and white with the advantage therefor,\nthe move 17...Rf8 avoiding those threats because : 18.Nd5?-Qxd2 if 19. Nxe7+? Rxe7 Evan 19...Kf8, the white knight it trapped because of white must capture the queen on d2",
+        "18. g5 Nh5": "blunder , no white  rueins his chaces for contra play its one siude game now ,18.h5 was the best move for white ",
+        "19. Rhg1 Rc7 20. f4 e5 21. Nde2 exf4 22. Bd4 f3 23. Nc1 Bxd4 24. Qxd4 f2": "good move , if 25.Qxf2-Qxc3+,25.Rf1-Ng3 which will be later in the game .",
+        "25. Rgf1 Ng3 26. Rxf2": "now black finished this game with nice combination ",
+        "26... Qxc3+ 27. Qxc3 Rxc3 28. Kxc3 Nxe4+ 29. Kb2 Nxf2 30. Rxd6 Bc6": "white resigns , i hope you enjoyed the game tank you "
+    },
+    "url": "https://gameknot.com/annotation.pl/israeli-chess-leauge-division-b?gm=45346",
+    "gameName": "Israeli Chess Leauge Division B",
+    "players": "harazi (1699) vs. matsany (1546)",
+    "opening": "Sicilian (B90), Najdorf"
+}

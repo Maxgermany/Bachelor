@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5": "The game was part of a thematic tournment on the French",
+        "3. Nd2": "White chooses Tarrasch variation",
+        "3... Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 cxd4 8. cxd4": "Quite typical French setup. By the way, I've just started playing the French.",
+        "8... f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 O-O 12. Bf4 Bxf4 13. Nxf4": "I hate when they trade my good Bishop.\nNow I remain with the typical French problem of developing the light-squared Bishop.",
+        "13... Ng4": "Attacking the knight and supporting a future ...e5 ",
+        "14. Qd2 Qd6 15. g3 Bd7": "GK GameDB suggests 15 .. e5 , but after 16. dxe5 Nxe5 17. Nxe5 Nxe5 etc. I've got an isolated pawn and no piece attack, so I prefer to wait and try to \"develop\" the Bishop in another way.",
+        "16. Rfe1 Rf6": "Doubling the rooks and defending the weakling in e6.",
+        "17. Rad1 Raf8 18. h3": "I don't know. This weakens White castling. I suppose the best plan for White is to go after e6. But I like my position right now, White has something to worry about.",
+        "18... e5": "Looking for complications.",
+        "19. dxe5": "I was worried about  19. hxg4 exf4 20. g5 and Black rook has to retreat, then maybe g6 and White has the initiative. ",
+        "19... Ngxe5 20. Nxe5 Nxe5": "So far, so good. I managed to perform e5 freeing the Bishop.",
+        "21. Be2": "Nf3 with King and Queen fork was threatened. ",
+        "21... Bc6": "What else? There was the threat Qxd5+ forcing Queen exchange, and I'm down a pawn.",
+        "22. Nxd5": "? This is bad. There's no need to rush after d5, which is a long term weakness. Strangely enough, I focused mainly on this move too. Something more cautious was needed, maybe Rf1 or even f3. Then for Black an exchange sac in f4 came into consideration (deeper analysis needed).",
+        "22... Rf6xf2 23. Nf4": "I can't find anything good enough for White now. \nQe3 drops a piece: 23. Qe3 Bxd5 24. Qxf2 Rxf2 25. Kxf2 Qf6+ -+\nOn Kh1 Nf3 threatening Rh2# wins the queen.\nOther moves are replied to as in the game.",
+        "23... Nf3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/french-defense-by-pilou?gm=26458",
+    "gameName": "French Defense by Pilou",
+    "players": "concordborn (1807) vs. peppedone (1780)",
+    "opening": "French (C05), Tarrasch, closed variation"
+}

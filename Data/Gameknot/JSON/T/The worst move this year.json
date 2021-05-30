@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "It will be pleasure for my opponents to know that I still can make such horible moves like Nh4 in this game. My opponent challenged me to rematch after I won lost ending in previous one. I misjudged opponent after that game and missed some tactics including mate. My position collapsed in several moves leading to mate.",
+        "1... e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 h6 8. a5": "I try to put bishop on c8 out of game by stopping b6.",
+        "8... c5 9. dxc5 Nxc5 10. Qe2 Be6 11. Rd1": "Rook needs to attack queen",
+        "11... Qc7 12. Bd5": "There will be some exchanging, but I hope to be left with knight on d5 eventually. Other idea was 12.b3 Bc4 13.Qc4 but then goes Rac8.",
+        "12... Bxd5 13. Nxd5 Nxd5 14. Rxd5 Rac8 15. Bd2 a6 16. Bc3": "Hoping for pawn move to f4 one day. Problem is that knight will attack now 'empty' f4 and get counter play. Bishop belongs to d2 to check on f4 at least until I find some other place for queen on e2.",
+        "16... Ne6": "Hi ho let's go!",
+        "17. g3": "Already paying price for neglecting f4 square and still hoping for pawn attack on f4",
+        "17... f5": "Surprise #2",
+        "18. Nh4": "Stupid stupid move. Didn't bother to check opponents possibilities. I had to play Rad1 and then on fxe4 Qxe4 and keep on defending.",
+        "18... Bxh4": "Christmas comes early this year. Stinking bishop ruins my position.",
+        "19. gxh4 Nf4 20. Qd2 Qc4 21. Rxd6 Qxe4": "Black correctly calculated that in order to escape knight taking rook I have to come under heavy mating attack on g2.",
+        "22. f3 Qxf3 23. Bxe5": "I didn't see mate on h3. Quick end was welcomed. I have to give up rook for knight with Rd3 controlling h3.",
+        "23... Nh3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-worst-move-this-year?gm=18359",
+    "gameName": "The worst move this year",
+    "players": "malanane (1200) vs. garry-dean (1044)",
+    "opening": "Philidor (C41), Nimzovich, Sozin variation"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4": "Sacrificing a pawn for centre control and piece activity.",
+        "4... b5 5. Nf3 Nf6 6. Be2 g6": "On reflection I would prefer 6.....e6 keeping the position Slav/Semi Slav rather than giving a hybrid Slav/Indian.",
+        "7. O-O Bg7 8. Qc2": "Boris Spassky used to play the white position in a similar fashion in the 60's. The Silicon Monster gives the position as a small plus for black but in the hands of a creative attacker.........",
+        "8... O-O 9. b3 cxb3": "I looked at 9....b4 10.Na4 c3 but after 11.a3 a5 12.Nc5 blacks Q-side pawns are ripe for the plucking.",
+        "10. axb3 Bb7": "My first inaccuracy. Houdini2 gives 10.....Na6 as better",
+        "11. d5": "A mouse error. White meant to play the far superior 11.e5 with a small plus.+0.37. 11.d5 is -1.21 according to Houdini2.",
+        "11... a6": "Both 11.....cxd geniusacamel and 11....Nxe4 were superior.",
+        "12. e5": "Looking to open lines and crash through blacks defences",
+        "12... Nxd5": "Two pawns up Q-side majority a computer assessment of -0.83(after the game) for black. I began to fancy my chances of a Walk the walk victory.",
+        "13. Bb2 Nxc3": "Seeking simplification through material exchanges as I had a two pawn advantage.",
+        "14. Qxc3 c5": "Giving back a pawn to unleash my bishop on b7. 14....Qc7 was much better.",
+        "15. Qxc5 Nd7 16. Qe3": "The best move centralising the Q and eyeing blacks k-side.Houdini2 gives this a -0.39 16.Qb4 a -0.62 and 16.Qc1 a -0.62",
+        "16... Rc8": "Contesting the c-file. Houdini2 gives the position as dead equal. It favoured 16.....Nb6 with -0-26 for black.",
+        "17. Rfd1 Qe8": "One of the main differences between 2100 player and a 1800 player is that the higher rated player defends far better. Given the initiative and a clear plan we 1800 players can do quite well but when it comes to defence we can do quite poorly. Here I start to drift I feel I should have played 17....e6 but didn't as I was worried about a future Nd6",
+        "18. e6": "White begins to press and black panics.",
+        "18... Nf6": "18....Nc5 would have kept whites advantage to a minimum but worried about the coming attack black wanted pieces around the K-side.Houdini2 18.....Nc5 +0.07   18.....Nf6 +0.43",
+        "19. Ng5": "Moving more pieces into the attack",
+        "19... fxe6": "Capitulation. 19......Nd5 still held out chances of putting up a stout defence. 20.Qh3 h5 21.Bxg7 Kxg7 22.exf Rxf7 24.Qf3 which the engine gives as +0.46 compared to the played +0.74",
+        "20. Qxe6+ Kh8 21. Qh3": "Threatening mate",
+        "21... h6": "21......was a little better.",
+        "22. Ne6 Rf7": "22.....Rf7 +2.57. Houdini2 gives both 22....Rc2 +0.78 and 22...Qf7 +1.30 as better.",
+        "23. Bd3": "Black resigns. What can be learnt from this game? When the master got into a bad position he hung tough and remained optimistic and when his chances came he pursued the attack whereas black when things got tough started to play weakly before folding.\nLesson: Hang tough and be positive that way you're more open to opportunities that come you're way."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=55665",
+    "gameName": "Let's play chess",
+    "players": "geniusacamel (2136) vs. caveman1960 (1893)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3 f5 4. d3 Nf6 5. Be2 d5": "Choices, choices! The e pawn can choose to take the pawn on either the d or f columns.",
+        "6. exd5 Nxd5 7. Nxd5 Qxd5 8. O-O Bd6 9. a3": "Move a pawn up so White can begin a queen-side pawn attack to push back the Black knight and bishop on c6 and d6.",
+        "9... O-O 10. b4 Bd7 11. Bb2": "Fianchetto the bishop along the main diagonal.",
+        "11... Rae8 12. Nd2": "Move knight out of way for e2 bishop to go to f3 and threaten Black's queen.",
+        "12... a6 13. Bf3 Qf7": "Queen moves to safety, but is still along the same diagonal as her king.",
+        "14. c4": "Move pawn up to provide support for bishop when it goes to d5.",
+        "14... b6": "Black probably moved this pawn thinking I would push the c pawn to threaten the bishop on d6.",
+        "15. Bd5": "Aha! Bishop pins the queen against her king.",
+        "15... Be6": "Black moves the bishop to unpin the queen but leaves the knight on c6 undefended.",
+        "16. Bxc6": "Prize in hand!",
+        "16... Red8 17. Nf3": "Move the knight into position for the next phase of the plan.",
+        "17... e4 18. Ng5": "Knight moves to fork queen and bishop. Black resigned.\n\nThe queen can move to two safe squares, e7 and g6, but either of those will lead to catastrophe. Any other move will lead to the immediate capture of the queen.\n\n18 ... Qe7 19. Nxe6 Qxe6 20. Bd5 and the queen is again pinned against the king.\n\n18 ... Qg6 19. Nxe6 Qxe6 20. Bd5 and the queen is again pinned against the king.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/choices-choices?gm=66139",
+    "gameName": "Choices, Choices",
+    "players": "rich_sposato (1728) vs. gazumper (1957)",
+    "opening": "Three knights (C46), Winawer defence (Gothic defence)"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Hi, I never annotated a game before. After seeing so many, I feel the need to try it at least once. I'll do my hardest. I was black in this game against a worthy opponent. Our epic battle will have you shaking in awe. The finish will blow your mind. You won't see it coming. Also he moved e4 for some reason.",
+        "1... c6": "I'm using the Caro Kan because along time ago I read a book called Complete Defense to King Pawn Openings by Eric Schiller. This was over a decade ago(damn I'm getting old!) I still use it mixed in with some french defense, with the occasional hyper modern nonsense . I haven't really studied it since.",
+        "2. d4 d5 3. e5": "Using the Caro Kan you must get used to the advance and exchange variation. You'll be seeing it a lot.",
+        "3... Bf5 4. g4": "Surprisingly this is one of the main lines. One of the rare times the early g4 works",
+        "4... Bg6 5. Nc3 e6 6. h4 h6 7. h5 Bh7 8. Nf3 Nd7 9. b3": "I don't know what the fianchetto was about. White would do better with his bishop along the c1-h6 diagonal for the eventual g5 push. ",
+        "9... Be7": "I chose Be7 instead of Bb4 because I was planning to castle queen side. With the King on the queen side, the usual center break c6-c5 looks scary. So I was planning to use f7-f6 to challenge the center instead. This plan isn't objectively the best, but I was in the mood for a safer game.",
+        "10. Be3": "This move makes the pawn on b3 look weird. By now they see that the point of attack is the g5 square.",
+        "10... Qc7 11. Qd2": "More g5 pressure!",
+        "11... O-O-O 12. O-O-O Bb4": "That pawn on b3 leaves the dark squares weak. Because of this I abandon the f6 idea and get ready to move my pieces to the queen side for an attack.",
+        "13. Qe2": "They resigned.... OMG I'M THE GREATEST. THE *ACTUAL* GREATEST. i WON THIS GAME WITH SHEER POSITIONAL GENIUS. AT THIS RATE I'LL BE GM WITHIN THE YEAR. THANKS FOR THE PRAISE IN ADVANCE. This was my first annotated game so feel free to leave constructive criticism. Please be gentle, I'm honestly a little scared to put this up and have everyone think I'm an idiot. It should be better when I get to GM. ;)"
+    },
+    "url": "https://gameknot.com/annotation.pl/my-first-annotation?gm=67261",
+    "gameName": "My first annotation",
+    "players": "A Worthy Opponent (1548) vs. rosewoodknight (1562)",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

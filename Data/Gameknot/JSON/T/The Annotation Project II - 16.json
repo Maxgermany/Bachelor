@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. f4": "Another game form this project vs the tournament mastermind himself.  I feel that this game has a rather important theme to it, because not have I fallen for it but I believe that many of my fellow chess players have as well.  When attacking it is important to consider the safety of ones own king.  Don't rush forward at all cost.  Also, goes with the theme to play patiently even when far down in material.",
+        "1... d5 2. Nf3 g6 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+": "This is the start of this lovely tourney black wins the queen! With Nxg4.  White then regains the knight by forking king and knight.",
+        "7... Nxg4 8. Be6+ Kc6 9. Bxg4 Bg7": "I find this move to be the most logical follow up and probably will end up being the main line during this tournament.  It takes advantage of blacks g7 move early in this game.",
+        "10. d3": "Ne6 seems to be rather popular among the other players so far in this tourney due to the the chance to possibly at a later date exchange the knight for bishop.  I wanted to attempt to free up my dsb, but black ends up locking it in. ",
+        "10... e5": "e5 questions the stability of my knight and bishop.  Being that f4 will fall soon.  Either by exchange fxe5 Bxe5 (though I don't see what good that does.) or by exf4.",
+        "11. Nc3": "This little move follows whites need to develop quickly in order to gain some sort of restraint or initiative to balance out black material advantage.",
+        "11... exf4 12. Ncxe4": "Protects the exposed knight.",
+        "12... h6 13. Nf3": "One of a few options Ne6 is possible but then white must deal with the fact that Qh4+ is playable.",
+        "13... g5": "forcing the passivity of the dsb my initial plan.",
+        "14. Rb1": "This odd looking move has a threat of b4 along with unpinning the b2 pawn.",
+        "14... Kb6 15. b4": "taking space.",
+        "15... Nc6 16. Nfd2": "Giving the bishop flight squares and protecting my b4 pawn form Bc3+",
+        "16... a6": "Here is where I have plenty of ways to go forward but they all seem to leave my king quite exposed.  The best move in this case is O-O seems odd huh.  Freddy and I both agree on this now but I was too focused on how to go forward even-though I did consider castling.",
+        "17. Nc4+": "Not horrible should be followed up by a castle.",
+        "17... Ka7 18. b5": "I wanted to do something with this pawn because I was afraid I was going to lose it.",
+        "18... axb5 19. Rxb5 Re8": "Now here the alarm bells should have kicked in and said castle like your life depended on it.",
+        "20. Na5": "Na5?  My king is too exposed for ideas like this one.",
+        "20... Bc3+": "I missed this move and then I miss another...",
+        "21. Bd2": "Bd2?? no coming back now.  I needed to realize all the pins because the kings is so exposed... starting to see my point now?",
+        "21... Rxe4+": "just lost a knight because dxe4 Qxd2+ is very deadly.  In fact forced mate deadly... \n22. dxe4??? Qxd2+ 23. Kf1 Qe1#",
+        "22. Kd1 Bxa5 23. Bxa5 Ka6": "Now another piece falls and I'm hopelessly behind in material at this point."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-ii?gm=26679",
+    "gameName": "The Annotation Project II",
+    "players": "yoshark (1582) vs. easy19 (2263)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

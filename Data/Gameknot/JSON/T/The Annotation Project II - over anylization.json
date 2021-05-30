@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. f4 d5 2. Nf3 g6 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Kc6 9. Bxg4": "Basically the start of this tournament, almost forced except the king might get the chance to reside on e8 instead of c6.",
+        "9... Bg7": "Main line",
+        "10. Ne6 Qg8 11. d4 exd3 e.p. 12. cxd3": "Still main line",
+        "12... Na6": "?! Nd7 or h5 might be better",
+        "13. O-O h5 14. Bf3+ Kd7": "Kd6 might be more effective.",
+        "15. Bd5 Bd4+": "Freddy thought this was rushing it.  Though I had a counter sacrifice in mind because I didn't like the looks of Kc8.",
+        "16. Kh1 Qxe6": "!? giving up the material advantage for some activity.",
+        "17. Bxe6+ Kxe6 18. Nc3": "Threatens Nb5.",
+        "18... c6 19. Be3 Rad8": "Maintains the tension something I've been working on.  Besides Bxe3 Rae1 looks nasty but they lead to about the same thing.",
+        "20. Rae1 Kf7": "Though about Kf5 here though this way the king has some cover.",
+        "21. Bxd4": "Was expecting the best move here f5! but Freddy wanted to simplify.",
+        "21... Rxd4 22. f5 g5": "! Avoiding the trade.",
+        "23. f6 exf6": "Now I'm up pawn but in a odd position as the rooks are bearing down on me.",
+        "24. Ne4": "What I expected after exf6.  I don't know what Freddy's response to Rh6 would have been but I analyzed the position and thought that I'd be okay after Rxd3? Nxf6 Kg6 but Freddy had a nice combination that I missed.  Simply going with my gut and playing Rh6 was probably best here.  I guess I was just trying to hard here.",
+        "24... Rxd3 25. Nxf6 Kg6 26. Ne8": "! threatens mate 26. Rf6+ Kh7 27. Re7+ Kg8 28. Rg7# Best is probably g4 or Rxe8.",
+        "26... Rd7": "? loses a rook",
+        "27. Re6+ Kh7": "Forced",
+        "28. Nf6+": "I resign due to lose of material after Kg7 Nxd7 white has too much going for him.  Just like a Master to pounce when you make a mistake.  Good game Freddy."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-ii-over-anylization?gm=27182",
+    "gameName": "The Annotation Project II - over anylization",
+    "players": "easy19 (2273) vs. yoshark (1590)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

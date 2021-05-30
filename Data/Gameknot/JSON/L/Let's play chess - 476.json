@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I'm not good in openings and go for instinct rather than the book ' this time i chose the king side.",
+        "1... e5 2. Nf3 d6 3. d4": "take it or leave it !",
+        "3... Nf6 4. Nc3": "interesting symmetry, I also chose not to take",
+        "4... exd4": "breaking the ice !",
+        "5. Nxd4": "I chose the knight an leave the queen later ...",
+        "5... c5 6. Bb5+": "develop for future O-O, protect knight by attacking the king",
+        "6... Bd7": "there were both knights and the bishop to protect",
+        "7. Nf5": "I chose to triple attack d6 pawn in a future exchange of bishops while i will lose e4 pawn",
+        "7... Bxb5": "as predicted",
+        "8. Nxb5 Nxe4 9. Qd5": "so far as predicted but didn't expect next oponent move ...",
+        "9... Qa5+": "yep' good one, in case i put the knight on c3 or the bishop on d2 his knight would certainly go for an exchange because is hanging there with no defense ad it will win material !",
+        "10. c3": "so I chose pawn c3",
+        "10... Qxb5 11. Qxe4+ Kd7 12. Qd5": "i have to win back material so d6 is mine :) \"it was in my mind\" and maybe my thoughts were received by the opponent because of his next move",
+        "12... Ke8 13. Nxd6+ Bxd6 14. Qxd6 Nd7 15. a4": "this move i didn't understand why i made it, his queen was ok there not on the battlefield ",
+        "15... Qc6": "g2 pawn is ok for me as long as my plans are on the go",
+        "16. Bf4": "protect queen, prepare castling leading to double attack on d column and another diagonal for the bishop !",
+        "16... Qxg2": "taking bait, an exchange of queens would have led the game into overtime",
+        "17. O-O-O Qc6": "too late, mate in 4 from this point !!",
+        "18. Rhe1+ Kd8 19. Qe7+ Kc8 20. Qe8+": "sweet sacrifice",
+        "20... Rxe8 21. Rxe8#": "the end !! hope you enjoyed "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=40540",
+    "gameName": "Let's play chess",
+    "players": "pionel (1381) vs. jeff32 (1405)",
+    "opening": "Philidor (C41), Improved Hanham variation"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4": "Normal opening.",
+        "2... e5": "this where it gets interesting.",
+        "3. dxe5 Ng4": "Attacks the pawn.",
+        "4. Nf3": "covers the pawn.",
+        "4... Nc6 5. Bf4": "another attack and another defensive move",
+        "5... Qe7 6. Nbd2": "decides to let go of the pawn.",
+        "6... Ncxe5 7. Bg3": "This was a huge mistake.",
+        "7... Nd3#": "A very good mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/mate-in-7?gm=52095",
+    "gameName": "mate in 7",
+    "players": "???  vs. slaxer ",
+    "opening": "Budapest (A52), Adler variation"
+}

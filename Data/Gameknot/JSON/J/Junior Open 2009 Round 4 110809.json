@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. g3 b6": "I never know what opening to do when someone pushes g3 or b3 so i just copy normally",
+        "2. Nf3 Bb7 3. Bg2 Nf6 4. O-O Nc6 5. e3 Ba6 6. Re1 e5 7. d4 Bb4 8. Nc3 O-O 9. a3": "He should have taken e5 as i only have 1 piece covering it",
+        "9... Ba5 10. dxe5 Ne4 11. b4 Nxc3": "b4 gave me the opening to take his knight and check his queen",
+        "12. Bf1": "trying to take both my bishops just for his queen, his queen was completely trapped",
+        "12... Nxd1 13. Rxd1 Bxf1": "if am going to love it might as well be for a reason",
+        "14. Kxf1 Qe7 15. Rd5 f6": "I don't know if i should have done this move or not\nAny problem with it? now that i think about it i should have taken b4 with my bishop, then taken with my knight and put his rook into check i guess... but i don't know",
+        "16. Bb2 Bxb4": "wow and now i do it lol",
+        "17. axb4 Nxb4 18. Rc1 Nxd5 19. Rd1 c6 20. g4 fxe5 21. Nxe5 Nxe3+": "discover check if he takes with pawn",
+        "22. Ke2 Rxf2+": "i was hoping he would take the rook and then i would take his rook and split kf2 and bb2 but he didn't.\nNow that i look at it i should have moved my queen to (q)c5",
+        "23. Kxe3 Rxc2 24. Rd2 Rxb2": "plan is to kill knight put in check then kill rook",
+        "25. Rxb2 Qxe5+ 26. Kd3 Qxb2": "and then he tips his king"
+    },
+    "url": "https://gameknot.com/annotation.pl/junior-open-2009-round-4-11-08-09?gm=27362",
+    "gameName": "Junior Open 2009 Round 4 11/08/09",
+    "players": "Billy Xiong (NNNN) vs. Jared Gruenwald (XXXX)",
+    "opening": "Benko's opening (A00)"
+}

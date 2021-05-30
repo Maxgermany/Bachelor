@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 e5": "I'm obviously going with KIA.  My opponent has mirrored my moves.",
+        "7. c3": "My thought was to stake out part of the center and I eventually planned Nbd2 anyway.  I wonder if Re1 might have been better.",
+        "7... Ng4 8. h3": "I'm kicking his knight out.  Did I need to do this at this point or would have a developing move been better?",
+        "8... Nh6 9. d4": "I continue to try and own the center.",
+        "9... Nc6 10. Re1 f5 11. d5": "I think d5 may have been an error.  That move makes my LSB feel sad.",
+        "11... Ne7 12. Bg5 Nf7 13. Be3 Bh6 14. Bxh6 Nxh6 15. Nbd2 f4": "I didn't want to take f4 as I felt that I'd be opening up my King.",
+        "16. g4 Kg7 17. b4": "The King side seemed a bit closed.  Thought I'd try to explore the Queen side.",
+        "17... Nf7 18. a4 Ng8 19. Bf1": "I thought to give my Bishop some movement on the Queen side.",
+        "19... h5 20. gxh5 gxh5": "The Kings stare each other down.",
+        "21. Bg2": "I'm not sure about this move.  I seem to be reacting more than following any plan.",
+        "21... Ne7 22. Nh2 Kh6 23. Ndf3": "I have now decided to move my attack to the King side.  ",
+        "23... Rg8 24. Kf1 Ng5 25. Nxg5 Rxg5 26. Nf3 Rg7 27. Nh4 Ng6 28. Nf5+ Bxf5 29. exf5 Nh4 30. Be4 Qg5": "My King is not feeling very secure.  Time to evacuate.",
+        "31. Ke2 Rag8 32. f3": "I believe the reason for this move was to prevent f4 from advancing.",
+        "32... Nxf5": "I wonder if I should have taken this Knight.  He caused me much pain later on.  I didn't take it because I was afraid of my opponent's pawns raining down on me.  Was I playing too afraid?",
+        "33. Kd3 Ne3": "He breaks through regardless.",
+        "34. Qd2 Qg3 35. Reh1 Qg2": "He offers his Queen.  My understanding that if one is being attacked, it's a good thing to exchange pieces.",
+        "36. Qxg2 Rg7xg2 37. Rhc1 Rg8g3 38. c4": "I start thinking I'm going to need to get a passed pawn to pull this game out.",
+        "38... Rxh3 39. c5 Rhh2 40. a5 Rgd2+ 41. Kc3 Nxd5+ 42. Kc4 Ne3+ 43. Kc3 d5 44. Bb1": "This move seems to stave off checkmate for the time being.",
+        "44... Rdf2 45. a6": "I know I'll get a passed pawn now.",
+        "45... d4+ 46. Kd3 bxa6 47. Rxa6+ Kg7 48. Rc6 Nd5 49. Kc4 Ne3+ 50. Kd3 Rxf3 51. Rxc7+ Kf6 52. Ke4 Rff2 53. Rxa7 Rfb2 54. c6": "For just a moment, I thought I could pull this game out.",
+        "54... Nf5 55. Rd7": "If he went Ne7, I planned to sac my rook as then my pawn would have reached the promised land.",
+        "55... Rxb1": "In hindsight, I wonder if I should have taken his rook.  Was I playing afraid given that my opponent was about 150 rating points above me?  I was concerned that if I took his rook, he'd capture my e6 pawn.  This, in combination with my fear of his numerous passed pawns resulted in my next move. ",
+        "56. Rc5 Re2+ 57. Kd5 d3": "At this point, I felt that I had lost unless my opponent blundered.",
+        "58. c7 d2 59. Rc6+ Kg5 60. c8=Q d1=Q+ 61. Ke6": "I continued on for a few more moves, hoping for a blunder.  It never happened and eventually I resigned.",
+        "61... Nd4+ 62. Kf7 Qb3+ 63. Rc4 Rc1 64. Qg8+ Kh4 65. Kf6 Qxc4 66. Qg5+ Kh3 67. Qxh5+ Kg2": "I resigned here."
+    },
+    "url": "https://gameknot.com/annotation.pl/an-interesting-loss?gm=23480",
+    "gameName": "An Interesting Loss",
+    "players": "untateve (1575) vs. spwalter (1759)",
+    "opening": "Reti (A05), King's Indian attack"
+}

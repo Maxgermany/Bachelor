@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 e5 2. Nf3": "White doesn't take... Gambit refused",
+        "2... e4 3. Ne5": "Probably not a good move (the knight has got to move twice and it gives black one tempo)",
+        "3... f6 4. Ng4 d5": "Now black has 3 pieces out against 2 for white, although, black plaid twice the e pawn.\nFurthermore, black controls the center.",
+        "5. Ne3": "This move is another loss of time",
+        "5... Nc6 6. b3 Be6": "Black carries on develloping toward the center",
+        "7. Ba3 Nge7": "It was not a problem for black if 8. Bxf8, at the condition to be able to take back with something else than the king. It's not the best place for the knight but it's ok. It protects d4 which is weak.",
+        "8. Nc3": "Attacking d4, allowing the large castle but the knight is in the moment unprotected which is not too serious because black's Dark Square Bishop is blocked.",
+        "8... Qd7": "To allow the castle",
+        "9. f3 Bf5 10. Nxf5 Nxf5 11. Qd2": "Allowing the castle, protecting the c knight but blunder.",
+        "11... Bxa3": "Winning a bishop and forbidding white to castle long",
+        "12. Nb5": "The knight alone is not very dangerous",
+        "12... Bb2": "So that white definitely cannot castle long and to bring the bishop back at the center",
+        "13. Rb1 Bxd4": "Black is now very strong at the center ",
+        "14. g4 Ne3": "If\n15. Nxd4 Nxd4\n16. Qxd4 Nxc2+ queen is lost (the same if 16. Qxe3)",
+        "15. fxe4 dxe4": "Very seriously menacing the white queen\n16. ... Bc3 and the queen is lost but the b knight prevents it",
+        "16. c3 Nxf1 17. Rxf1": "Now the white king cannot castle and it will be very hard for white to join the two rooks.",
+        "17... O-O-O": "Bringing the rook on the central open file, very menacing for the white queen",
+        "18. h3": "Doesn't prevent black's attack on the center",
+        "18... Bf2+ 19. Rxf2 Qxd2+ 20. Kf1 Qc2": "To attack the white rook and enable the black one to come line 2 or1",
+        "21. Kg2": "From now on, white can little, but try to avoid the mate ",
+        "21... Qxb1 22. Rf4 Rd1 23. Kg3 Rg1+ 24. Kh4 Qe1+ 25. Kh5 Rh1": "White submits there He can't anyway not avoid the mate on the next 2 moves."
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-and-learning-to-run-mt-part-4?gm=48627",
+    "gameName": "Walking the Walk and Learning to Run MT Part 4",
+    "players": "lesplay (1178) vs. ptitroque (1649)",
+    "opening": "Queen's pawn (A40), Charlick (Englund) gambit"
+}

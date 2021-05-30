@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 Nb6": "Of course the idea is to post a Knight at Q4, but as it is the other Knight which will be posted there this maneuver does not seem logical. The Knight at N3 does nothing except to prevent the development of his own QB. The normal course O-O followed by P-QB4 is more reasonable.",
+        "8. Bd3": "B-N3 has some points in its favor in this position, specifically the possibility of advancing the KP at once after 8... KN-Q4 9 BxB QxB.",
+        "8... Nfd5 9. Bxe7 Qxe7 10. Nf3": "Because of the threat of ...N-KB5 [threatening the White KNP and also... NxB ch] White cannot  play 10 P-K4.",
+        "10... O-O 11. O-O Bd7 12. Rc1": "White is perfectly developed and threatens to win a Pawn with 13 NxN NxN 14 P-K4 and 15 RxP.",
+        "12... c6": "The fact that Black is practically forced to play this move in order to avoid the loss of a Pawn is enough to condemn the whole system of development by Black. White will soon post his Knights at K5 and QB5. The best move was 12... NxN to swap off a pair of Knights.",
+        "13. Ne4 f5": "This creates a giant hole on K5, from which the Knight can now never be dislodged once it lands.",
+        "14. Nc5 Be8 15. Ne5": "The position of White's Knights is ideal. They dominate the board.",
+        "15... Rb8": "There is no object in this move, unless the intention is to follow with ...N-Q2. Since this is not the case, ...R-B1 was preferable.",
+        "16. Re1 Rf6 17. Qf3 Rh6 18. Qg3 Rc8": "White threatened to win the Exchange with N-B7 or N-N4.",
+        "19. f3 Rc7 20. a3 Kh8 21. h3": "Perhaps these precautions are unnecessary, but White wants to fully secure his position before launching his attack.",
+        "21... g5 22. e4 f4 23. Qf2 Ne3": "...N-B3 was better, with the intention of getting rid of a White Knight by ...N-Q2.",
+        "24. Rxe3": "With this sacrifice of the Rook for a Knight and Pawn White obtains an overwhelming position.",
+        "24... fxe3 25. Qxe3 Nc8": "...N-Q2, to exchange off a Knight, was still the best move. However, after 26 N/B5xN BxN 27 QxP QxQ 28 N-B7 ch K-N2 28 NxQ White has an easily won end game.",
+        "26. Ng4 Rg6 27. e5 Rg7 28. Bc4 Bd7": "All Black's moves are virtually forced.",
+        "29. Nf6 Nb6": "This wandering Knight has done nothing throughout the game.",
+        "30. Nce4 h6 31. h4 Nd5 32. Qd2 Rg6 33. hxg5 Qf8": "33... PxP falls to 34 K-B2.",
+        "34. f4 Ne7 35. g4 hxg5 36. fxg5": "Black resigns. There is nothing to be done. 36... B-N1 37 Q-R2 ch K-N2 38 BxP and it's all over but the shouting."
+    },
+    "url": "https://gameknot.com/annotation.pl/havana-masters-tournament-1913?gm=52203",
+    "gameName": "Havana Masters Tournament, 1913",
+    "players": "David Janowski  vs. Abraham Kupchik ",
+    "opening": "QGD (D53), Lasker variation"
+}

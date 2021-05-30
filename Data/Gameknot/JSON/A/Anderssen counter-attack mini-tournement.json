@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nh6 7. d4 d6 8. Nd3 f3": "The starting position for all the games.",
+        "9. g3 Qh5 10. Nf2": "First task accomplished: I've blocked off Black's dangerously advanced Pawns.",
+        "10... c6 11. h3 Qg6 12. hxg4 Nxg4 13. Qxf3": "And now I've won back the gambited Pawn and evened the material. Now I can focus on generating my own attack.",
+        "13... Bg7 14. c3 Be6": "A mistake, because...",
+        "15. Bxe6": "...I now initiate a tactical sequence...",
+        "15... Qxe6 16. Qxg4": "...that leaves me up a piece.",
+        "16... Qxg4 17. Nxg4": "I'll gladly accept the exchange of Queens.",
+        "17... Nd7 18. Bf4 d5 19. exd5 cxd5 20. Nd2": "I finally finish clearing my back rank.",
+        "20... O-O-O 21. Re1": "Naturally, I take the open file.",
+        "21... b6 22. Kg2": "Time to connect my Rooks.",
+        "22... h5 23. Nf2 b5 24. Nb3 Nb6 25. Be5": "I force the exchange of another set of minors.",
+        "25... Bxe5 26. Rxe5": "I'll add a Pawn to my material collection...",
+        "26... h4 27. Rxh4": "...now.",
+        "27... Rxh4 28. gxh4": "Black should avoid swapping down. The simpler the position gets, the more telling is my material advantage.",
+        "28... Rg8+ 29. Rg5": "I suspect Black overlooked this riposte.",
+        "29... Rh8 30. Kg3 f6 31. Rg6 Rf8 32. Ng4 f5 33. Ne5 f4+ 34. Kg4": "I need to eliminate Black's final resource, the passed KBP.",
+        "34... Nd7 35. Nxd7 Kxd7 36. Nd2": "This stops the Pawn's advance.",
+        "36... Kc7 37. Nf3 a5 38. Rg5 Kc6 39. Rf5": "With the Pawn slated to fall, Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/anderssen-counter-attack-mini-tournement?gm=56391",
+    "gameName": "Anderssen counter-attack mini-tournement",
+    "players": "last_archimedean (1372) vs. grayn8 (1429)",
+    "opening": "KGA (C37), Salvio gambit, Anderssen counter-attack"
+}

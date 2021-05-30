@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "King's Gambit, my new favorite. An aggressive opening...It keeps the board open, which is my preference. ",
+        "2... exf4": "Accepted.",
+        "3. Nf3 d6 4. Be2 h6 5. d4 a6": "Up until now, it has been book Fischer defense. I don't prefer the Fischer as White, because it stops an eventual Nxf7. It doesn't, however, prevent Bxf7+!",
+        "6. Bxf4": "Scoring back material. Book Fischer doesn't allow this, because of 5. ...g5.",
+        "6... Nf6 7. Nc3 Nc6": "All four Knights come in.",
+        "8. Qd2": "Now I can castle to either side.",
+        "8... Be7 9. O-O-O": "I chose Queenside because I thought he would castle Kingside. ",
+        "9... d5 10. exd5": "Ripping open the middle.",
+        "10... Nxd5 11. Nxd5 Qxd5 12. Kb1": "Protecting the a-pawn.",
+        "12... Be6": "Double trouble on the a2-g8 diagonal.",
+        "13. b3 O-O-O 14. Bc4 Qe4 15. Rhe1": "Blunder. This allows Bb4!",
+        "15... Qf5 16. Bxe6+ fxe6 17. g3 Bb4": "As foretold.",
+        "18. Qd3 Qa5": "? Perhaps he wanted to keep the BSB for mating purposes.",
+        "19. Rxe6": "Evacuating the area.",
+        "19... Bc3 20. Bc1": "Stopping mate threat cold in its tracks.",
+        "20... Bb4 21. g4": "Qf5.",
+        "21... Ba3 22. Qf5 Qb4 23. d5": "Getting that pesky Knight out of the way.",
+        "23... Ne7": "Free food? I'm there!",
+        "24. Rxe7+ Kb8 25. Qe5 Qa5 26. Bxa3 Qxa3": "Worst move. Perhaps Rc8 or Qd6.",
+        "27. Qxc7+": "Here Black resigned. Mate is unavoidable. I hope you enjoyed this game! Please R&C and tune in for game two!"
+    },
+    "url": "https://gameknot.com/annotation.pl/game-1-against-dingtolentino38?gm=38929",
+    "gameName": "Game 1 against dingtolentino38",
+    "players": "theancientbeast  vs. dingtolentino38 ",
+    "opening": "KGA (C34), Fischer defence"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4": "My first game, never annotated before! Hope you enjoy.",
+        "1... d5 2. f3 Nf6 3. Nc3 e6 4. e4 Nc6 5. e5 Nh5 6. g4 Qh4+ 7. Ke2 Ng3+ 8. hxg3 Qxh1 9. Nh3 Qh2+": "GK told me this was a mistake!",
+        "10. Ke1 Qxg3+ 11. Ke2 f6 12. Qe1": "Major blunder! I can now check with Knight.",
+        "12... Nxd4+ 13. Kd1 Qxf3+ 14. Ne2 Bb4": "Trying to force his c2 porn out!",
+        "15. c3": "Gobbles my bait.",
+        "15... Qd3+ 16. Bd2": "Gave me the game! Should have Qd2.",
+        "16... Qc2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-quick-game?gm=39047",
+    "gameName": "a quick game",
+    "players": "trkyches (1077) vs. g-ox1991 (1200)",
+    "opening": "Queen's pawn game (D00)"
+}

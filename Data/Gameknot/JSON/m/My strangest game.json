@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. c4": "I started with the English opening",
+        "1... a5": "which then for strange reason he moved to A5",
+        "2. Nc3": "I then thought I would get my knights out",
+        "2... Ra6": "then he moved his rook and I was totally confused as to what he might be up to",
+        "3. e3": "I then moved to e4 so next I could move my C4 pawn to attack the rook with bishop on F1",
+        "3... Re6": "he then moved his rook to E6",
+        "4. Nb5": "I moved Knight to B5 so after then move to A7 to attack the Bishop",
+        "4... Nc6": "He then moved his Knight out to prevent that",
+        "5. Be2": "I decided to bring my bishop out to develop my pieces ",
+        "5... Nb4 6. a3": "I then moved to A3 to force his Knight to move back",
+        "6... Nc6 7. Nf3": "I then brought my Knight out so I could castle should I need to",
+        "7... d5": "He then moved to D5 to attack my C4 Pawn",
+        "8. c5": "I decided to decline as if I took he could of taken it with then queen and he would of developed his Queen and would then have a Rook and Queen out",
+        "8... d4": "He carried on pushing the pawn forward",
+        "9. Bc4": "which then I brought my Bishop out to attack the Rook",
+        "9... Rg6 10. Nh4": "then I did the same but with the Knight",
+        "10... Rg4": "he the attacked my knight with his Rook",
+        "11. Qf3": "I then decided to attack the F7 square with my Queen and let him have the Knight",
+        "11... g5": "instead of taking he decided to attack it with Pawn also",
+        "12. Qxf7+": "Which then I went to the F7 square",
+        "12... Kd7": "which he then only had one move KD7",
+        "13. Be6#": "which then I mated him with Be6\r\n\r\nLink to game here\r\nhttp://gameknot.com/chess.pl?bd=8678396&=rnd=0.09935537290808888"
+    },
+    "url": "https://gameknot.com/annotation.pl/my-strangest-game?gm=21591",
+    "gameName": "My strangest game",
+    "players": "the_villa (1220) vs. powerwagon (1220)",
+    "opening": "English opening (A10)"
+}

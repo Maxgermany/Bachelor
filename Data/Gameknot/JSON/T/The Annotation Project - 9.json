@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "When I won this game I didn't think it was anything remarkable but as the project has advanced, I think maybe it is.  In one of my current games, Black has bleated that he's on a hiding to nothing, so I'm offering this game up as evidence that there is hope for Black after all (even if White plays the correct 7th move, unlike my blunders against easy19 and yoshark)",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kd6": "I didn't see any point in consulting the database for this tournament.  Both players should play from first principles.  In this case, I offer to return my Q for the sake of better development.  If White plays Nf7+ and takes the Q, I get his B and he has to expend moves to save his N.",
+        "9. Nf7+ Kxe6 10. Nxd8+ Kd7 11. Nxb7 e6": "Development!",
+        "12. Nxc5+ Bxc5": "Lo and behold, I'm a piece to two pawns up and threatening mayhem...",
+        "13. Nc3 Nc6": "Development again!  Ignoring the attack on the e4-pawn",
+        "14. Nxe4 Bb6": "I like to preserve my Bishops if at all possible.  This one stops White from castling kingside.",
+        "15. d3 Nd4": "Threatening Nxc2+, forking the K & R",
+        "16. Kd1 Rac8": "Maintaining the attack and developing a rook",
+        "17. c3 Nf5": "Forced to move, I create a hold on e3",
+        "18. g3": "? Not sure what this was for",
+        "18... Rhd8": "completing my development",
+        "19. Ke2": "getting out of the line of fire of my rook",
+        "19... Ke7": "ditto",
+        "20. d4 h6": "restricting the scope of White's best piece",
+        "21. h3 Nf6": "and this simple retreat brought White's resignation.  If White's N moves, ...Nxg3+ wins the rook on h1 and Black's material and developmental superiority must surely lead to victory.  I'd have thought 22. Kd3 was worth a try though."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project?gm=24364",
+    "gameName": "The Annotation Project",
+    "players": "yoshark (1504) vs. rjacobs (1575)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

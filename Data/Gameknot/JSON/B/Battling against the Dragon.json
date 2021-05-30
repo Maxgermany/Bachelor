@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "The Sicilian Dragon is one of my favorite weapons as Black, as it has a reputation for being one of the sharpest of openings. A moment's slip for Black can allow a quick win for White...",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7": "The immediate ...Ng4 fails to Bb5 .",
+        "7. f3 Bd7 8. Qd2": "In the Dragon, White would love to trade off Black's powerful bishop, as once this happens, his attack often proves decisive.",
+        "8... O-O": "Of course, the game is still well within established theory at this point.",
+        "9. Bc4": "Once White castles on the Queenside, both sides will begin attacking their opponents' kings in earnest.",
+        "9... Nc6 10. O-O-O Rc8 11. Bb3": "This bishop, which will play crucial roles on both offense and defense from this square for the rest of the game, must be preserved.",
+        "11... Nxd4 12. Bxd4 b6 13. g4": "Shredder says that I should have played 13.e5 here, giving the line 13.e5 dxe5 14.Bxe5 Bc6 15.Qf4 Nd7 16.Bxg7 Kg7, in which I've accomplished my goal of trading off the dark square bishops with a good position.",
+        "13... Qc7": "13...Be6 is a thematic sort of move here.",
+        "14. g5": "I'm going to accomplish my goal anyway.",
+        "14... Nh5 15. Nd5": "First, I want to push Black's queen back to d8...",
+        "15... Qd8 16. Bxg7 Nxg7 17. h4 Bc6": "Shredder likes 17...Be6 better, and this makes sense, as it keeps f7 better defended and also threatens to trade off the important bishop on b3 should the knight on d5 ever move.",
+        "18. Nf4": "Fishing for holes in Black's defense. The pawn on g6 is weaker than it looks, because it is not actually defended by the f7 pawn due to the pin from White's bishop.",
+        "18... e5": "Now White can add the backwards pawn on d6 to his list of advantages.",
+        "19. Nd5": "Mission accomplished.",
+        "19... Bxd5 20. Qxd5": "I wanted to keep the bishop on b3 to keep c2 solidly defended.",
+        "20... Ne8 21. Qd2 Qc7 22. h5": "Blasting the h-file open should lead to a rapid mate for White.",
+        "22... Kh8": "Defending the g6 pawn with the f7 pawn by stepping out of the pin from the b3 bishop, and clearing some space for defensive purposes. However, the king is far from safe; the rook on h1 stares directly at it, with the queen and possibly the other rook ready to join the melee at a moment's notice.",
+        "23. f4 exf4": "Opening up the a1-h8 diagonal should have lost on the spot for Black, but I did not see it. In any event, it is obviously bad; opening up lines for White is the last thing Black wants here!",
+        "24. Qxf4": "After the game, Shredder showed me what I missed: 24.Qd4  would have given me a winning advantage. 24...f6 would lead to 25.hxg5, and 24...Ng7 to 25.h6.",
+        "24... gxh5 25. Rxh5": "White's attack is more or less irresistible here.",
+        "25... Ng7": "Now, a nice little sacrifice finishes things off.",
+        "26. Rxh7+ Kxh7 27. Rh1+ Kg8 28. Qh2": "Black could have played on with 28...Qxc2  29. Bxc2 f6, which is the only way to stop Qh8#, but this would only have delayed the inevitable a few moves longer."
+    },
+    "url": "https://gameknot.com/annotation.pl/battling-against-the-dragon?gm=8039",
+    "gameName": "Battling against the Dragon",
+    "players": "kansaspatzer (1503) vs. ikke755 (1511)",
+    "opening": "Sicilian (B75), dragon, Yugoslav attack"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "This is another game from freddy's tourney.  In this game, I am back to my habit of annotating my losses.  The action begins at move 8.",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6": "As White, I prefer when Black plays Kc7 as they lose time having to move the K or Q due to the potential fork by the N.",
+        "9. Bxg4 Qe8 10. Ne6": "This is where I where I leave the database.  The database showed several past players moving Be6.  I have had success with Ne6, but have only made this move when the King was at c7.  My thought when I go to e6 is that I block e7 from moving and slow the B and R from developing.  I didn't see the advantage of going Be6 nor the downside of Ne6.  Yodean kindly showed me why Be6 is superior to Ne6.  Now we get to watch him slowly strangle my game.",
+        "10... Na6 11. a3": "a3 is to keep Black's N from advancing to b4.",
+        "11... Qg6": "Now the error of Ne6 becomes apparent.  The Bishop is en prise but guards Ne6.  If I had moved 10. Be6 and then Black moved 11....Qg6, the Knight is guarded by f4, while it would guard Be6.  It would also be attacking e4 and Be6 would have be able to remain well developed (and even attack the Black Q with Bf7).  As it is, I move Bh3, and the Bishop never moves again  :tears:",
+        "12. Bh3 Nc7 13. f5": "I figure that the N's will be exchanged and I think to keep e7 from moving.",
+        "13... Qf6 14. O-O": "Development as well as adding protection to f5.  I also figured that when the N's are exchanged, I'll have an attack on the Queen.",
+        "14... Nxe6 15. fxe6 Qd4+ 16. Kh1": "Now Black's Q is well centralized, courtesy of my initial Ne6 move.",
+        "16... g6 17. Nc3": "I'm grasping for development...were there better ideas?",
+        "17... Bh6": "d2 is looking rather precarious.",
+        "18. b3": "Obviously hoping to fianchetto the B.",
+        "18... Rhf8": "No way can I afford to exchange Rooks.",
+        "19. Rd1 Rf2 20. Rg1": "I say goodbye to d2.",
+        "20... Bxd2 21. Bxd2 Rxd2": "I didn't see a way out.",
+        "22. Na4": "Na4 deserves a ? I think.  I sentence my N to death with that move.",
+        "22... b5 23. c3 Qg7 24. Nxc5 Kxc5 25. b4+": "I'm grasping here.  My hope was to move g2 and perhaps get my B onto g2.  ",
+        "25... Kb6 26. g3 Qxc3 27. Rgc1": "It's all over now.",
+        "27... Qf3+ 28. Kg1 Qf2+ 29. Kh1 Qxh2#": "Very well played by yodean.  All thoughts/comments are appreciated."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-a-quiet-strangulation?gm=24410",
+    "gameName": "The Annotation Project - A Quiet Strangulation",
+    "players": "untateve (1571) vs. yodean (1605)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

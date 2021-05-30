@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. Nf3": "Ding-a-ling!  Here is round 7 against Master Freddy (easy 19).  I decide to start off with a Reti and see how he responds to it.  He decides to go Reti v Dutch.  This is a rare response to the Reti and Freddy takes me out of the database after move 4.  So, only moves 2-4 were database moves.  The rest were my own - so, let the action unfold ......",
+        "1... f5": "1. ............ f5 - this is the Dutch v Reti, an interesting response - Freddy is trying to mix things up here, probably trying to get a pawn break from the flank.",
+        "2. g3 d6 3. d4 b5 4. Bg2 Nf6 5. Nbd2": "5. Nbd2 - here I decide to go for quick development.  Although this knight move blocks in Fou Lenoir it does contest the square e4 where I think Freddy would just lurve to put his horsie!",
+        "5... c6 6. b3 e5 7. dxe5 dxe5 8. Bb2": "8. Bb2 - after an exchange of pawns, Fou Lenoir finds a nice little diagonal, pointing at the black rook on h8.",
+        "8... e4 9. Nd4": "9. Nd4 - my knight evades the pawn thrust and finds an outpost on d4.  Black put his bishop on e7 next move, of course if he tries to drive my knight off d4 with c5? then he will drop the b5 pawn.  After this move which prepares castling for black I decide to create a flight square for the knight with e3 - it stops that e pawn in his tracks!",
+        "9... Be7 10. e3 O-O 11. O-O a6 12. a4": "12. a4 - I will not be bullied! - I decide to strike out here by challenging on the flank.",
+        "12... b4 13. Nc4 Ra7 14. Ne5": "14. Ne5 - I decide to up the ante a bit - pile up on that backward c6 pawn, but alas, Freddy has an answer to this!",
+        "14... Qe8": "14. ........... Qe8 - such as Qe8 backing up that c pawn.  I now put the question to his b pawn.",
+        "15. c3 bxc3 16. Bxc3": "16. Bxc3 - I split up his queenside pawn structure and keep mine together, so far so good.",
+        "16... c5 17. Ne2 Nc6 18. Nxc6 Qxc6 19. Qc2": "19. Qc2 - connects rooks and prepares a possible rook move to d1.  Mmm, in retrospect maybe I should have moved that king rook to d1 next move instead of Rac1 - think I gave Freddy a tempo with that move.",
+        "19... Nd5 20. Rac1 Rb7 21. Nf4 Nxf4 22. exf4 Be6 23. Rcb1 Rfb8 24. Be5": "24. Be5 - Oh, oh, I am about to lose a pawn here, but I will make life as difficult as possible for Freddy by putting the hind black rook en prise.",
+        "24... Bxb3 25. Qc3 Bd6 26. Bxg7 Bxa4 27. Rxb7 Rxb7 28. Ra1 Bb5": "28. ........ Bb5 - after a few exchanges black moves his bishop onto a good square and I now have to decide where to put Fou Lenoir - I decide on h6, after all, it restricts the enemy king and if that rook should leave the second rank, well, Glenda is just itching to land on g7 to deliver a revenge checkmate.",
+        "29. Bh6 Rf7 30. Rd1": "30. Rd1 - seizing the open file but ....",
+        "30... Bc7 31. Bg5 Rd7 32. Rxd7 Qxd7 33. Qa1": "33. Qa1 - Freddy pointed out that the rook trade was a mistake in the chat after I took on d7.  At the time I saw nothing better.",
+        "33... Qd4 34. Bf6 Qxa1+ 35. Bxa1 Kf7": "35. .......... Kf7 - Freddy now starts to centralise his king for the endgame.  I must try to do likewise with mine but wait, there's an enemy bishop controlling f1.",
+        "36. Bf1 Bd3 37. Bc3 Bd8 38. f3": "38. f3 - mmm, maybe I should have taken on d3, at least I would not have dropped a piece.",
+        "38... Bf6 39. Bd2": "39. Bd2 - trying to avoid exchanging down to a pure K & P ending but allowing something much much worse.",
+        "39... Bd4+ 40. Kg2 exf3+": "40. ........ exf3  - a decoy tactic that loses Frere Leblanc as Henry will have to abandon protection of him.  Those two enemy bishops were just to powerful.  I now wave the white flag and look forward to any feedback the jury has on this one -  cheers - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/it-all-started-ok?gm=21299",
+    "gameName": "It all started OK .......",
+    "players": "jstevens1 (1756) vs. easy19 (2244)",
+    "opening": "Reti v Dutch (A04)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "This was a game where i had to draw with 2 whole rooks up ahead.",
+        "1... c5": "The Sicilian.",
+        "2. Nf3 d6 3. Nc3 Nc6 4. Bb5 Bd7 5. O-O e6 6. d4": "Atacking the center.",
+        "6... cxd4 7. Nxd4 Nf6 8. Bg5 Be7 9. Bxc6": "I'm not sure why i did this, it is not right in the Sicilian for black to take control of the center.",
+        "9... Bxc6 10. Nxc6 bxc6 11. h3 O-O 12. Qd4": "Not letting black play, Rb8 with the a pawn hanging.",
+        "12... c5 13. Qd3 a6 14. a3 Qc7 15. f4": "Taking control of the center.",
+        "15... Rab8 16. Rab1 Rb7": "Now the a pawn is hanging.",
+        "17. Qxa6": "Free pawn.",
+        "17... Rfb8 18. b3 c4": "I don't see what this does.",
+        "19. Qxc4": "Another free pawn.",
+        "19... Qb6+ 20. Kh1 Qe3 21. Rbe1": "Bringing the queen back to passivity.",
+        "21... Qa7 22. a4 Rc7 23. Qd3 Rbc8": "Attacking the knight, but not seeing a fork.",
+        "24. Nb5 Qc5 25. Nxc7": "Winning a rook and 2 pawns for a knight.",
+        "25... Rxc7 26. Rec1 h6 27. Bxf6": "Forced to take it.",
+        "27... Bxf6 28. c4": "I saw the Bb2, and i would lose a pawn.",
+        "28... Rb7 29. Rcb1 Rb4 30. Rfd1": "Always making black into passivity.",
+        "30... Be7 31. Qd4": "Offer of queens.",
+        "31... Qh5 32. Qa7 Rxb3": "Wen i saw this move, i knew it was a draw.",
+        "33. Qxe7 Rxh3+ 34. Kg1": "Blunder, i could of made a draw, but here i lost a rook.",
+        "34... Qc5+ 35. Kf1 Qe3": "Another drawing tactic.",
+        "36. gxh3 Qf3+ 37. Ke1": "Agreed a draw. i was winning 2 rooks, but a draw. How sad. :("
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d1?gm=31615",
+    "gameName": "League division D1",
+    "players": "romarychkov (1622) vs. chanakam2000 (1873)",
+    "opening": "Sicilian (B50)"
+}

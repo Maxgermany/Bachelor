@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. d3 Nd4 5. Nxe5": "Oh. My.  God.  I did not see NxB.  How could white be so blind?  A move like NxPe5 would encourage black to seek a four move check mate.",
+        "5... Qf6 6. Ng4 Qg6": "How long will black ignore that bishop with its robes hiked up?",
+        "7. O-O Nxb5": "Not any longer, apparently.",
+        "8. c3 d5 9. Ne5 Qe6 10. d4": "The Pd4 counter threat has the advantage of protecting the knight while blocking black's attack of the king pawn fortress.",
+        "10... Bd6 11. exd5 Qxd5 12. Re1": "White loves discovered check.  Alas, the queen is not well situated for a sudden death stab by the knight.  Besides, black probably knows what's up.",
+        "12... Ne7": "What did I tell you?  Interposing the knight.  The queen remains well situated for attacking the king pawn fortress.",
+        "13. Nd2 Be6 14. c4": "Another white blunder?  Pd4 is vulnerable with that idle threat.",
+        "14... Qxd4 15. Qa4 Bc5 16. Kh1": "QxPf2 looks pretty sweet.  QxPf2# (checkmate) would have been the result if white had not moved the king.  Re2 might have been better.  Seems like I thought there was something wrong with that, however.\n\nThe problem with QxPf2 is that it would be followed by PxNb5.",
+        "16... c6": "?  Nothing is protecting white's queen from PxN QXQ.  Black could move the knight after castling instead.\n",
+        "17. Ndf3": "Time to bully black's queen.",
+        "17... Qxf2": "Now the black knight is a goner.",
+        "18. cxb5 O-O 19. Nd3 cxb5 20. Qxb5 Qc2": "Black was to lose either the queen or the bishop.",
+        "21. Nxc5 b6 22. Nxe6": "One two, one two, black's bishops fell.  PxNe6 would be followed by RxPe6 and a threat against the black knight.",
+        "22... fxe6 23. Rxe6 Ng6 24. Qd5": "White loves discovered check.",
+        "24... Kh8": "Black is unwilling to oblige.  White and black are matched pawn for pawn, knight for knight, and rook for rook, though white's pieces enjoy a slight positional advantage.  And, of course, there is the remaining white bishop, somewhat trapped by the black queen.",
+        "25. h4 Rad8 26. Rd6 Qc7": "White WANTS to trade.  Every trade makes the white bishop all the more valuable.",
+        "27. Rxd8 Rxd8 28. Qb3 Qg3 29. Bg5 Re8": "Now black has power to bear on e1.  White can't threaten mate with his queen on b3.  She needs to be somewhere she can fly down to the 8th rank to administer the coup de grace.",
+        "30. Qf7": "This won't do, but white also has a knight protecting e1.",
+        "30... h6": "?",
+        "31. Qxe8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=36402",
+    "gameName": "Team match",
+    "players": "pasha582 (1571) vs. brennero (1558)",
+    "opening": "Ruy Lopez (C64), classical (Cordel) defence"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd2 e5 5. Nf3 Nf6 6. Nc3 Bb4 7. Bd3 O-O 8. a3 Ba5 9. O-O d5 10. b4 Bc7 11. exd5 Nd4 12. Nxd4 exd4 13. Nb5 Bb6 14. Bc4 a6 15. Nxd4 Bg4 16. Bb2 Rc8 17. Bb3 Nxd5 18. c4 Nf6 19. c5 Bc7 20. Qg5 Bd7": "Yuck. Technically I am ahead but how can I take advantage?\r\n\r\nMove the Knight to create pressure on the f Knight and free my Bishops.\r\n\r\nNf5 (h6 looks like a problem NO NO because Qxg7 is mate!)\r\n",
+        "21. Nf5 Bxf5 22. Qxf5 Ne8": "Nc2 Looks best. Others might be good follow-ups\r\nRd8\r\nRe8",
+        "23. Bc2 g6": "Qf3 looks best. but if Queen d2 then aRc1, then the other rook to d1",
+        "24. Qf3 f6": "The obvious check and then maybe queen x b7 OR Qxb7 OR Rd1\r\n\r\nGuess I like the Qxb7 best. Position becomes very compromised if she tries to protest the a pawn.\r\n\r\n25. Rad1 Qe7 \r\n26. Rfe1 Qg7 \r\n27. Bb3+ Kh8 \r\n28. Qxb7 NO NO Bxh2\r\n",
+        "25. Qxb7 a5": "Queen only protection for her Rook. Xo maybe Rook d1 and I don't think the Queen can still protect the Rook. About only possibility I see is to take the h pawn with Bishop and check the king, and force trade of queens with check.",
+        "26. Rad1 Rb8": "26. Rad1 Rb8 \r\n27. Bb3+ Kh8 \r\n28. Rxd8 Rxb7 \r\n29. Bxf6+ Nxf6 \r\n30. Rxf8+ Kg7 \r\n Combo appears to work But not if she moves to g7",
+        "27. Bb3+ Kg7 28. Qc6 Qc8": "fR-e1 \r\n\r\n28. Qc6 Qc8 \r\n29. Rfe1 axb4 \r\n30. Re7+ Kh8 \r\n31. Rxe8 Qxe8 \r\n32. Bxf6+ Rxf6 \r\n33. Qxf6#  \r\n\r\nQc6 Qc8 \r\n29. Rd7+ Kh8 \r\n30. Rxc7 Nxc7 Doesn't work becaue of QxR \r\n31. Bxf6+ Rxf6 \r\n32. Qxf6# \r\n",
+        "29. Rfe1 Bxh2+": "Nice, have to admit."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-captain-meeting?gm=35402",
+    "gameName": "team captain meeting",
+    "players": "4boys (1537) vs. cheeky_knight (1503)",
+    "opening": "Sicilian (B21), Andreaschek gambit"
+}

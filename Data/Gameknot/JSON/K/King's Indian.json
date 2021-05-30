@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. e3": "Non-commital, but solid",
+        "2... g6 3. Nf3 Bg7 4. c4 O-O 5. Be2 d6 6. O-O Nc6 7. Nc3 Bg4 8. h3": "Not a great move, and the one that Black was trying to induce with his slightly dubious Bishop sortie. It weakens the Kingside pawn structure and gives Black's light-squared Bishop a target at which to aim itself.",
+        "8... Bd7 9. Nh2": "? A move with no solid positional point.",
+        "9... e5 10. d5 Ne7 11. e4": "Now we have a fairly standard King's Indian pawn structure, and as such White should be trying to attack Black's Queenside, while Black will aim at White's King.",
+        "11... Ne8 12. f4": "?? An awful move. White has no good possibilities on the K-side, and taking the e-pawn will only give Black a monster square on e5 instead of a blocked and passive Bishop.",
+        "12... f5": "! The refutation.",
+        "13. Bd3 fxe4": "!? Trying to open up the position and make his pieces more active. Also, this is pretty much the only way of convincingly demonstrating the wrongness of White's f4 push.",
+        "14. Bxe4 exf4 15. Bxf4 Nf6 16. Bc2 Nf5 17. Bxf5": "? Waste of tempo.",
+        "17... Bxf5 18. a3 Re8 19. Nf3": "White, once again, has to redevelop his pieces to aim at the center. However, challenging the e-file with 19. Re1! was the only way for White to hold on.",
+        "19... Ne4 20. Nxe4 Rxe4 21. Qc1": "Forced.",
+        "21... Re2": "Once again, ganging up on the b-pawn, which White will have to go through some contortions to save.",
+        "22. Nd2 Qe7": "Doubling on the e-file and for the moment stopping the c5 push.",
+        "23. Ra2": "Kind of a pointless move, but it is hard to suggest anything to White at this point.",
+        "23... Re8 24. b4": "Too little, too late. White hits upon the correct idea of advancing his Q-side pawns, but Black dominates in the center far too much for this to end any way but painfully.",
+        "24... Bd4+ 25. Kh2": "? 25. Kh1! would have prevented the Black Queen from joining the attack with tempo.",
+        "25... Qh4 26. Nf3": "?? A blunder, but White was lost anyway. After 26. Rf3 Black had prepared 26...Rxg2+ 27. Kxg2 Re2+ 28. Kf1 Rf2+ 29. Kg1 Rxf3+ with mate soon after.",
+        "26... Qxh3#": "This game illustrates the fact that, although you may have a pawn center in a closed or semi-closed position, often the best course of action is not to attempt an attack on the K-side. Also, when the character of a position changes and becomes more open, centralization often leads to an unstoppable attack when ignored."
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-indian?gm=25119",
+    "gameName": "King's Indian",
+    "players": "myaayesg (1611) vs. dribbler (1570)",
+    "opening": "Queen's pawn game (A45)"
+}

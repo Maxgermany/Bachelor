@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "Team Match, I'm playing white and begin with the Open game.",
+        "1... e5 2. Nf3 d6 3. d4": "The Philidor. I don't especially like playing against the Philidor but I'm not sure why.",
+        "3... exd4 4. Qxd4": "Black chose the exchange variation, and I'm feeling bold so I bring out the big gun early.",
+        "4... c5 5. Qa4+ Bd7 6. Qb3": "Inevitably the queen gets chased around.",
+        "6... Bc6 7. Bc4": "Threatening the pawn on f7.",
+        "7... Qc7 8. O-O": "No need to protect on e4, if black takes the pawn, white will reply 9. Re1 pinning and eventualy winning that impertinent bishop.",
+        "8... Nf6 9. Ng5": "Again forsaking the e4 pawn, which black still cannot safely take, and adding extra threat against f7 - black has no answer to save his pawn.",
+        "9... h6 10. Bxf7+": "Captured with the bishop because I didn't like the lack of mobility the knight would have on f7, and because I was hoping, at least a little, that black would play 10. .. Kd8?? so I could play 11. Ne6  and win the queen. Not exactly \"hope chess\" since I felt it was the better of the two moves regardless of black's reply.",
+        "10... Kd7 11. Ne6": "Forking the queen, who must move, and the bishop. Not much of a fork, since the bishop is only an even trade. Still, white is a pawn ahead, exchanging can't be entirely bad.",
+        "11... Qb6 12. Nxf8+": "I don't want to exchange queens, so I plan to move instead, but this little zwischenzug gives check, forcing black to respond to the white knight, and it opens e6 for the white queen.",
+        "12... Rxf8 13. Qe6+ Kd8 14. Qxd6+": "That's about it, my whole reason behind white's 11th and 12th moves - to gain a pawn and in doing so, creating a passed pawn on the e-file, though it looks like it may have a very short life at the moment. I figure this is where my attack will peter out. Black has a good reply to defend against the fork of his king and his rook on f8, and white has to consider retreating the bishop and regrouping.",
+        "14... Nbd7 15. Bg6": "I seem to remember thinking this was pretty clever when I did it, but right now, it doesn't seem to do much for me.",
+        "15... Qb4 16. Rd1": "Black's 15th move adds more pressure on e4, but since he could have simply taken e4 already, it seems redundant. Although, it does prevent an exchange of queens after black plays Bxe4. The white rook on d1 seizes an open file, the very file aimed at black's exposed king. But there is a sneakier threat that black should alleviate immediately.",
+        "16... Nxe4 17. Qxf8+": "Black didn't see the sneaky threat, so I felt obligated to show him. I have to admit, I didn't think it was all that sneaky, and I had expected him to save the rook. The rook at d1 maintains the pin on the black knight on d7. Since that knight is the only defender of the rook on f8, and it cannot defend while it is pinned, the rook is defenseless. Both rooks, in fact.",
+        "17... Kc7 18. Qxa8": "Why not? I don't really like taking my queen out of action, locking her away in a dusty corner far from her king, but despite black being developed all over the place while white is not, none of that development seems to present a very credible attack in the immediate future, so I grab the rook while the grabbing is good.",
+        "18... Nb8 19. Bf4+": "I think black wanted to trap the white queen, make that fear I mentioned in my previous note become a more permanent problem. Of course, a7 is undefended, so the queen can escape - but white has bigger fish to fry. The bishop move sets the queen free because it skewers the black king to the knight, and the lone king cannot defend that knight against both the white queen and white bishop. Even better, 19. Bf4  threatens immediate mate. Black can prevent immediate mate with 19. ... Nd6, 20. Bxd6  Kd7, 21. Bxc5  K-any, 22. Bxb4 and black loses queen, knight, and pawn, and white still has his full attack bearing down on the beleaguered black king.",
+        "19... Kc8 20. Qxb8#": "Black chose the quick way out, so white obliges."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-sneaky-threat?gm=22044",
+    "gameName": "The Sneaky Threat",
+    "players": "blake84120 (1504) vs. bukopie (1506)",
+    "opening": "Philidor (C41), Boden variation"
+}

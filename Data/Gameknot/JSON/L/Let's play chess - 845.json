@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. Nc3": "this was a nice tactical miniature, thought i'd just put it up in case anyone found the tactics interesting.",
+        "1... e6 2. e4 Nc6 3. Nf3 Be7 4. b3 b6 5. Bb2 Bb7 6. d4 d5": "i don't really know this opening, but as usual, i'm playing to try to open things up. maybe this was a bad idea, since this could have the opposite effect if white decides to play 7.e5",
+        "7. exd5": "but anyway, he took. i wondered why he did that at the time... i actually didn't see his plan. there was a reason for that.",
+        "7... exd5 8. Nxd5": "giving me the knight? i took a while looking at this to make sure i wasn't missing anything. i thought he'd lost his mind.",
+        "8... Qxd5 9. c4": "this was his plan: i move the queen somewhere (note that the queen can't cover g7 because of the knight) and then he pushes d5 and he regains the piece. but even this plan is maybe not so great for white, since after giving back the knight (of course i cover g7 and don't lose my pawn and rook) his pawns don't look great and he's still down material.",
+        "9... Bb4+": "but anyway, at the time i hadn't calculated any of that stuff because i saw this move and knew that 9. c4 was no good.",
+        "10. Nd2": "essentially forced.",
+        "10... Qe4+": "here he must choose between covering with the bishop and covering with the queen. i think covering with the queen was absolutely necessary, as it should force some exchanges and white can probably even regain some kind of equilibrium and hope to hold an endgame a piece down.\r\n\r\ni figured that 11.Be2 was the \"fun\" move, as we'll see. 11.Qe2 was also fine for me simply because it trades down. he does not have time to push d5 and win the rook unless i make a big mistake.",
+        "11. Be2": "i was pretty happy to see this, i found the move much more exciting than trying to grind him down after the queen trade.",
+        "11... Nxd4": "if Bxd4, i would probably play ...Qxd4 and that knight can't really be saved, he'll be down two pieces. if 12. O-O, of course it's mate immediately with 12. ...Qxg2#.\r\n\r\ni am also threatening to win the queen in this position with ...Nc2+!\r\nif Kf1, ...Qxg2# again, so the queen must capture the knight. there's really not much white can do to get out of this. maybe 12. Rc1 offered up some resistance. after Rc1, i might have started looking to trade down, and i think this would flow into an endgame at least one piece down for white.",
+        "12. a3": "hoping to free his knight, of course...",
+        "12... Bxd2+": "Here, my knight check ...Nc2+ would almost certainly have been stronger. I originally thought that 13. Kxd2 led to mate very quickly, but it proved a bit more complicated than I thought. Why not Qxd2? Probably because ...Nxb3.",
+        "13. Kxd2 Rd8": "here my opponent resigned, but there are some very interesting lines to look at.\r\n\r\nif 14. Re1, thinking of pinning my queen, 14...Ne2#\r\n\r\nif 14. Ke1, ...Nc2+ will still win the queen for a piece and a rook (my h8 rook), but actually i should still be able to win that bishop  back if nothing else, so white would be down very heavy material, especially given that i'm a piece up to begin with.\r\n\r\nleaving the king where he is will lose the queen on discovered check, so what about other king moves?\r\n\r\nif 14. Kc1, 14. ...Ne2+ now wins the queen and a big position.\r\n\r\n14. Kc3, on the other hand is more interesting:\r\n\r\n14. Kc3 Nxe2+ 15. Qxe2 Qxe2 (if 15. Kb4, ...a4+ 16. Kb5 Qc6#) 16. Rhe1 (looking to recoup the queen and survive) ...Rd3+! 17. Kb4 a5+ 18. Kb5? Rd5+! 19. Ka4 Bc6#\r\n\r\nthe only other hope i can see is 14. Bd3, after which i might for example take the pawn on g2 and again steer toward an endgame where i'm up material. all things considered, this bishop move was probably best. i don't see an immediate way to ruin white after 14. Bd3.\r\nstill, it would be a move that's obstinately playing for a mistake. probably not a pleasant prospect."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23889",
+    "gameName": "Let's play chess",
+    "players": "menzello (1447) vs. neutralrobotboy (1200)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

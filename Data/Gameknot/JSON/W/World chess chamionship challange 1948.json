@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4": "the idea of blacks 7....Bg4 is to act vs White's center with his pieces instead of his pawns .this way makes interesting dilemma in the modern chess strategy.",
+        "8. Be3 Nfd7 9. Qb3 Nb6 10. a4 a5 11. d5 Bxf3 12. gxf3 Qd6": "good move , the black queen on d6 is in very good position , which it attendedto move to b4 and pressure on the white's queen side.",
+        "13. Nb5 Qb4+ 14. Qxb4 axb4 15. Nxc7": "if the white moved 15.a5 so black answered 15...Bxb2.16.Rb1-Na4!(16.Ra2-Be5.17.f4-Bd6.18.e5-b3! with complications however better chances for black ).",
+        "15... Rxa4 16. Rb1": "white keeps his rook to defend the queen side . its not good idea to 16.Rxa4-Nxa4.17.b3-Nc3.18.Bh3-Be5.19.Bb6-Na6.20.Nxa6-Ra8!! with very good position for black.",
+        "16... Nb6d7 17. Nb5 Rc8 18. Be2": "maybe it was better for white play 18.Nd4 first , with the idea after 18...b3.19.Nxb3-Rb4.20.Nd2 with equal chances for both sides .",
+        "18... b3 19. Na3": "not 19.0-0-Rc2.20.Bd1-Rxb2 and black won a free pawn because if.21. Bxd3?-Rb4 and black win a piece.",
+        "19... Bxb2 20. Rxb2 Rxa3 21. Kd2": "white have strong centre with bishops pare ,however black have free pawn and the question is does black mannaged to keep his matirial advantage?!",
+        "21... Na6 22. Rhb1 Nac5 23. Bd4": "it seemed that its not so easy to take back the pawn ,even after 23.Bb5-Ne5.24.Bxc5-Rxc5.25.Rxb3-Nxf3+.26.Ke3-Rxc5.27.Ra3xc5-Rxc5.28.Kxf3-f6.29.Rc3-h5.30.Rc7-Kf8 and black keeps the material and good chances to win .",
+        "23... e5 24. dxe6 e.p. Nxe6 25. Be3 Ndc5 26. Bxc5": "the bishops pare didnt show any advantage over the  knights pare, there for white moving to passive defense.",
+        "26... Nxc5 27. Kc3 Ra4": "black doesn't seduced to give discovered check 27...Na4+because of 28.Kb4!",
+        "28. Kd2 Kg7": "good positional move , the blac king will play on the dark sqaures to avoid any dangere for b3 pawn ,i mean that the LSB wont give any check on the king and attack with the tow rooks the b3 pawn in the future .",
+        "29. Ke3 Rd8 30. Rc1 b6 31. Bc4 Rda8 32. Bd5 Ra4a2 33. Rcb1 Ra8a4 34. Kd2 Rd4+ 35. Ke2 Na4 36. Rxa2 bxa2 37. Ra1": "not 37.Bxa2?-Nc3+.38.Ke3-Ra4.39.Bb3-Ra3 .... and black win a bishop and the game  .",
+        "37... Nc3+ 38. Ke3 Rd1": "and white resigns ."
+    },
+    "url": "https://gameknot.com/annotation.pl/world-chess-chamionship-challange-1948?gm=45727",
+    "gameName": "World chess chamionship challange 1948",
+    "players": "Dr.M.Euwe  vs. V.Smyslov ",
+    "opening": "Gruenfeld defence (D99), Smyslov, main line"
+}

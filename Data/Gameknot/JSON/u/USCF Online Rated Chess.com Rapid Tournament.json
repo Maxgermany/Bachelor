@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5": "Black to play.",
+        "4... Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8. Nf3 c5 9. Nb5 Nc6 10. c3 f6": "Black follows the typical strategy of undermining White's center.",
+        "11. Be2 fxe5 12. fxe5 cxd4 13. cxd4": "I have been in this position several times. \n\nWhat should Black play?\n",
+        "13... Rxf3": "This sacrifice is common in this opening.  Now White's pawn center collapses.\n",
+        "14. Bxf3 Qb4+": "Now 15. Qd2 is better for Black after 15... Qxb5 16. Be2 Qb6 17. O-O-O Qc7 18. Kb1 Nb6.",
+        "15. Nc3": "\n",
+        "15... Nxd4 16. O-O Nxe5": "This just barely favors Black.\n",
+        "17. Nxd5": "A blunder.\n",
+        "17... Nexf3+ 18. gxf3": "Even more losing than he already was.\n\nWhite can do better with 18. Rxf3 exd5 (18... Nxf3+ is not good here. 19. Qxf3 Qc5+ (19... exd5 20. Qxd5+ Be6 21. Qxe6+ Kh8 22. Re1 h6 23. b3 =) 20. Ne3 =+) 19. Rd3 Nf5 20. Rxd5 Qb6+ 21. Kh1 Be6-+.\n",
+        "18... exd5 19. a3 Qxb2 20. Rb1 Qc3 21. Rc1": "A blunder.\n",
+        "21... Qxc1": "If 22. Qxc1 Ne2+.",
+        "22. Qxd4": "\n",
+        "22... Qg5+ 23. Kh1 Be6 24. Rg1 Qh6": "Inaccurate.\n\n24... Qe7 is just slightly stronger.\n",
+        "25. f4 Rf8": "Although still losing, White's best choice is 26. Rg5.",
+        "26. Qe5": "Now Black can win with 26... d4 27. Qxd4 Rxf4 28. Qd6 Qh3 29. Qb8+ Rf8 30. Qxb7 Bg4.\n",
+        "26... Qf6 27. Qc7 d4": "This is quite strong, but 27... Bf5 is actually the better move.\n",
+        "28. Qxb7 Qf7": "Winning, but this is not as good as 28... Rd8, because now White can trade queens.\n",
+        "29. Qc7": "This was no doubt a mouse slip, so White resigned.\n\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/uscf-online-rated-chess-com-rapid-tournament?gm=64708",
+    "gameName": "USCF Online Rated Chess.com Rapid Tournament",
+    "players": "Journeytosomewhere (1621) vs. john2001plus (1834)",
+    "opening": "French (C14), classical, Stahlberg variation"
+}

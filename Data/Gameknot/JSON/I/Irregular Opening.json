@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "Before the game gets completely underway, I would like to compliment my opponent for two things.  First, he chose an obscure opening that isn't well analyzed. This in and of itself isn't particularly striking.  However, it offered attacking chances and in places, it could get tricky.  And second, he has a strong tactical sense that I'm sure has served him well over his chess career.  I enjoyed this game very much.",
+        "1... Nf6 2. f3": "This move is great in blitz but considering the fact that I have two days to consider each of my moves, it's a poor choice.",
+        "2... d5 3. e4 dxe4 4. Nc3 exf3 5. Qxf3": "I personally would have considered Nxf3 here.  The pawn is bait but it isn't poison.",
+        "5... Qxd4 6. Be3": "White uses Black's exposed Queen to gain time and a lead in development.",
+        "6... Qg4 7. O-O-O": "This move, while normal and good in many cases isn't good here because it allows me to swap-off Queens which I think could be used in an attack down the road.",
+        "7... Qxf3 8. Nxf3": "White has a massive lead in development.  In fact, if I were to pass a board that had this position in a chess tournament, I would probably say off the top of my head, \"I'd rather be White here.\"  ",
+        "8... c6": "Black cannot allow Nb5.",
+        "9. Bc4 e6": "White might sac on f7 and put massive pressure down the f-file.",
+        "10. Rhf1 Nbd7 11. Ng5": "The pressure continues.  All of these moves go with the theme of the opening.",
+        "11... Nb6 12. Bd3": "Another good move putting the Bishop on a good diagonal.",
+        "12... Be7 13. Bd4": "Again, improving the placement of his Bishop.",
+        "13... Nbd7 14. h4 O-O 15. Rfe1 h6": "0-1  This is winning for Black even though White is still ahead in development.  Black's position is compact and solid and with careful play, White will lose.",
+        "16. Nf3 Rd8": "Even though this is a win for Black, it isn't automatic.  Black still has to complete his development and choose his moves carefully.  White must realize that he needs to generate a genuine attack if he's going to accomplish anything with his lead in development.",
+        "17. Bf2 b6 18. Ne4 Bb7": "There's no need to take the Knight leaving White's development 5 to 3.  If White wants to trade the Knight, let him do so with the development issue at 5 to 4.  Besides, trading-off pieces when one is down in material and no sure fire winning opportunity only helps Black.",
+        "19. Nxf6+ Nxf6 20. Bg3 Rac8 21. Be5 c5 22. b3 Ng4": "I want White's Bishop off the a1-h8 diagonal so that my dark-squared bishop can take advantage of the holes around White's King.",
+        "23. Bg3 c4": "This is the star move in the position.  Now my dark-squared Bishop has lots of air and there are lots of dark-squared weaknesses around White's King.",
+        "24. Bxc4 Ne3 25. Rxd8+ Rxd8 26. Bc7 Rd7 27. Bb5 Rd5 28. Bf1 Ba3+ 29. Kb1 Nxc2": "White sent me a message saying this was the first and last time he was going to play this opening.  As I said in the beginning, these types of openings are great in speed chess.  \nI think he should reconsider his feelings and keep it around for when he's playing under fast time controls."
+    },
+    "url": "https://gameknot.com/annotation.pl/irregular-opening?gm=49848",
+    "gameName": "Irregular Opening",
+    "players": "ossekop (2048) vs. annabekoach (1920)",
+    "opening": "Blackmar-Diemer gambit (A45)"
+}

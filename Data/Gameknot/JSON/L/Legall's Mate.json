@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "e4 is a strong sensible opening which immediately places a pawn in the center and opens up line for the queen and bishop.",
+        "1... e5": "A good response to e4, for the same reasons as white. ",
+        "2. Nf3": "Nf3, a strong move that places pressure on the black pawn at e5.",
+        "2... d6": "d6 is not the best move to make, to a cautious player it may be worth playing but d6 creates a cramped position for black. ",
+        "3. Bc4": "Bc4, this places whites bishop on a strong square to extend control.",
+        "3... f6": "f6, a weak move as now three pawns have been moved without a single piece having developed. f6 also takes away the knights strong developing square.",
+        "4. Nc3": "Nc3, now all of the knights for white are developed as well as a bishop, black has just three pawns.",
+        "4... Bg4": "Black expects the knight to be pinned to the queen.",
+        "5. Nxe5": "The beginning of Legall's mate. Surprise! WHat is this white has made a blunder and has lost his queen to the black bishop and it is only move 5.",
+        "5... Bxd1": "Black took the bait. Checkmate in two moves.",
+        "6. Bf7+": "Notice the white knight on e5 protects the bishop and stops the king from moving to d7. ",
+        "6... Ke7": "Forced.",
+        "7. Nd5#": "The knight from c3 seals the deal. A tip to avoid this situation if you are black is to avoid taking the queen."
+    },
+    "url": "https://gameknot.com/annotation.pl/legalls-mate?gm=36625",
+    "gameName": "Legall's Mate",
+    "players": "midgarheretic (1200) vs. sreeunited (1053)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

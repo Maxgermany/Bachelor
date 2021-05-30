@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nThis is a Traxler Tournament Game.  I played my buddy Steve as black and lost that long game, sigh.  But here I was white and I ended up with a Low Draw having 2 rooks against the Wicked Witch of the West.  It can be interesting to see how the rooks when they work together can be a tough outfit and the queen can be a menace with her checking powers (Steve's Witch certainly was a menace here).  Anyhow, as it was a mini-tourney with forced moves up to 4. ...... Bc5 I will start the action on move 5.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+": "5. Bxf7+ - a standard riposte in this tourney although Steve does break the mould in our game when it is his turn to play white.",
+        "5... Ke7 6. Bd5 Rf8 7. O-O": "7. 0-0 - keeping with the mould.  Sorted out my kingside now I have to sort out the queenside.",
+        "7... d6 8. Bxc6 bxc6 9. d3": "9. d3 - opening up a line for Fou Lenoir.",
+        "9... Bg4 10. Nf3 Kf7 11. Be3": "11. Be3 - at last I can start on developing my queenside.",
+        "11... Bb6 12. Nbd2": "12. Nbd2 - clearing, well, almost clearing the back row and at the same time defending the pinned knight on f3.  Glenda has now been released from defending (poor put upon Glenda!) Henry's steed.  Where she can move to though I have yet to decide.",
+        "12... Kg8 13. Qe1": "13. Qe1 - I put her on e1 and break the pin.",
+        "13... Qe8 14. Bxb6 cxb6": "14. ....... cxb6 - bishop trade.",
+        "15. Qe3 h6 16. Rfc1 Qg6": "16. ..... Qg6 - the beginnings of a kingside mating attack.  Can Henry survive?",
+        "17. Ne1 Nh5 18. f3 Bh3": "18. ....... Bh3 - the g3 pawn is pinned and so that black lsb encamps on h3 for a long long time.",
+        "19. Qf2 Rf4 20. Nf1 Raf8": "20. ...... Raf8 - the heavies gather ominously around Henry.",
+        "21. Ng3 Bg4 22. Qd2 Be6": "22. ...... Be6 - I make that bishop retreat but Henry is in no way out of the woods yet.",
+        "23. Nxh5 Qxh5": "23. ....... Qxh5 - knight trade.",
+        "24. g3 Rf4f6 25. c3 Bh3": "25. ...... Bh3 - the bishop returns to h3.  Sigh!",
+        "26. Rc2": "26. Rc2 - defending Henry along the second rank.",
+        "26... Qg6 27. Qe3 h5 28. Kh1": "28. Kh1 - unpins the g3 pawn.",
+        "28... h4 29. gxh4 Rf6f4 30. Rf2 Qh5 31. d4": "31. d4 - what is going on here?  Henry is under siege and I am trying to counter on the queenside?  This, however, will save me half a point later on.  You will see how.",
+        "31... exd4 32. cxd4 Qxh4 33. Ng2": "33. Ng2! - forces an exchange of that black lsb for my knight.  Good riddance to that turbulent priest!",
+        "33... Bxg2+ 34. Kxg2 Qh6 35. Kf1": "35. Kf1 - at first this appears to be a gross blunder but there is a way out, trade Glenda in for those two nasty rooks.",
+        "35... Rf4xf3 36. Qxf3 Rxf3 37. Rxf3 Qxh2": "37. ..... Qxh2 - but the Wicked Witch is about to turn a few of my footmen into dust!",
+        "38. Re1 Qxb2 39. e5 Qxd4 40. e6": "40. e6! - this move ensures the draw.  Because that pawn is almost certain to reach Glendadom the Witch must now resort to Ye Olde Perpetualle.  You know what that means ......",
+        "40... Qc4+ 41. Re2": "41. Re2 and Draw Offer which was accepted by Steve.  Whew!  Glad I survived that one!  Cheers and bye for now - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/2-rooks-v-a-queen?gm=29767",
+    "gameName": "2 rooks v a Queen",
+    "players": "jstevens1 (1776) vs. untateve (1759)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. c3 Nf6": "This is what usually happens in high level matches. The other most played response is 2... d5 It leads to more open game and we know that when someone plays Sicilian he prefers the game closed. That's why Nf6 is considered to be more consistent move. ",
+        "3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3": "Untill here, it's all theory. White sacrifices a pawn for the sake of development and good center. Usually, a precise playing is needed for using right that advantage. ",
+        "7... g6": "That move I found surprising. The theory moves are 7... dxc3 and 7... d5. They aim to accept the pawn or to take the center, so that I have less advantage. The move 7... g6 does neither. Of course we expect attack in the center later. But it's slow. ",
+        "8. cxd4": "I decided that taking would lead to a less risky game. ",
+        "8... Bg7 9. Nc3 O-O": "Black still don't play moves like d6 or e6. What I aim here is to end my development first and make my center stronger. If I have one more defender for the e5 pawn, I might play d5 with pleasure. ",
+        "10. Bg5": "Usually white would play Bf4. It's idea is that black playng d6 would lead to isolated pawn. But now, if black play d6 I really don't have to take. Moves like castle or Qe2 would be also good. I don't say that Bg5 is the best move, but it attracts me because ofter 10. Bf4 e6 my bishop would have been doing much less. ",
+        "10... Kh8": "I thought of that. It's idea is to be followed by f6. Kh8, however slows down blacks development of their c8 bishop. ",
+        "11. h4": "I guess that most people would have played Qd2 with idea Bh6. I decided that h4 is better cause otherwise black have enough time after f6 to play Qe8 and take on g6 with queen. ",
+        "11... f6": "I still haven't decided if I should just play Bf4 here. Just keeping my possibilities open. ",
+        "12. h5": "I found that move leading to at least a light peace for a three pawns if the sacrifice is accepted. The reasons this sacrifice is possible: \n- I've almost ended my development \n- It opens a line for my rook against the black king. \n- I have more pieces on the kingside. \n- I have a center so I might easily move pieces from the quenside to the kingside. That means that my c3 knight might join throughout e4. If e6 is plyed, my bihop from b3 might go to c2 and still attack something. Meantime the black knights would remain out of the stage of the events. ",
+        "12... fxg5 13. hxg6": "That way I attack g5 and h7 at the same time. One of them should be let. If 13... h6 14. Nxg5 aiming at f7. Perhaps black should take my knight at the cost of a rook. ",
+        "13... e6": "Defending g5 and, at the same time, blocking my bishops diagonal. ",
+        "14. Rxh7+": "Taking with pawn would have just blocked my attack. And that move is with a tempo. ",
+        "14... Kg8 15. Ne4": "I aim to take the third pawn. Also, that way I'll move my knight from f3 so that my queen could join. What I expected here was 15... Qe8 16. Nd6 Qg6 17. Bc2 Rf5 18. Rh2 treating g4. ",
+        "15... Rxf3": "Other possible continuation was 15. ... Ne7 16. Nfg5 Nx6 17. Qh5 treating Rxg7+ and Qh7# ",
+        "16. Qxf3": "Just joining my queen in the attack. If 16... Qe8 17. Nf6+ Bxf6 18. Qxf6 treating both g6 and h8, making the loss for black inevitable. If 16... Qe7 17. Nf6+ Kf8 18. Qh5 still winning at least a queen. ",
+        "16... d5 17. Qf7#": "The game shows how the early activity on the kingside would often be punished if your opponent is developed. "
+    },
+    "url": "https://gameknot.com/annotation.pl/early-sacrifice-due-to-good-development?gm=59494",
+    "gameName": "Early sacrifice due to good development ",
+    "players": "urnesthemingouey (1870) vs. tseb (1851)",
+    "opening": "Sicilian (B22), 2.c3, Heidenfeld variation"
+}

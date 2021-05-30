@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nc6 3. Nf3 e5": "I gain a free pawn.",
+        "4. dxe5 Bb4 5. Bd2 Bg4 6. h3 Bxf3 7. exf3": "Exchange of pieces.",
+        "7... f6 8. exf6 Qxf6": "Exchange of pawns.",
+        "9. Nxd5": "I take the unprotected pawn.",
+        "9... Qd6 10. Bb5": "This was actually a stupid move on my part. My knight is now unprotected and Black is free to take it with the queen.",
+        "10... a6": "Black doesn't take the knight, for some reason. Phew!",
+        "11. Bxb4": "Taking Black's bishop and threatening the queen.",
+        "11... Qe5+ 12. Be2 Qxb2": "Black takes my pawn.",
+        "13. Nxc7+": "I take Black's pawn and pin the king. ",
+        "13... Kf7 14. Nxa8": "Taking the Rook.",
+        "14... Nxb4": "Black takes my unprotected bishop.",
+        "15. Nc7": "Moving my knight back out",
+        "15... Ne7 16. Bc4+": "This move was mainly to bring in the bishop to protect e6 and make it possible for my knight to move to that square.",
+        "16... Kg6 17. Ne6 Nf5 18. Nf4+ Kf6 19. Rb1": "Threatening the queen. ",
+        "19... Qe5+ 20. Ne2": "If I were Black in this situation, I would do Nc6 to avoid losing a knight. ",
+        "20... Nd4 21. f4 Qe4 22. Rxb4": "Taking Black's unprotected knight.",
+        "22... Nxe2": "Thus begins checkmate. ",
+        "23. Qd6+": "Checking the king. Black's only move at this point is either a useless interposition by the Queen or else moving the king to f5, which is what he did. ",
+        "23... Kf5 24. g4#": "Mate. I think several of Black's key mistakes in this game were 1) move number twelve, when he didn't take precautions against the King being pinned and I was able to gain myself a Rook, and 2) leaving a lot of pieces unprotected and taking too many unnecessary risks. Like the knight on b4; that knight could have easily retreated to c6, but instead, Black moved the other knight forward into my territory. That knight was protecting the key square at d6; if that knight hadn't moved last turn, my queen wouldn't have been able to move to that square to check the king. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=59985",
+    "gameName": "Team match",
+    "players": "otakumadness (1048) vs. harzer (948)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

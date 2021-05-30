@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Phildor's Defense is named after the Frenchman Francois-Andre Danican Phildor, who spent much of his life in London.  This defence is almost obsolete in top rank chess because experience shows it to be lacking.  Black's intention is to play a slow, somewhat cramped defensive game, eventually breaking out with the queenside thrust...b5. ",
+        "3. d4": "At once staking a firm claim in the center.  Black has four replies: trading with 3.  ...exd4;  defending with 3. ...Nd7;  and countrattacking with 3. ...Nf6 or 3. ...f5 (Morphy's choice).",
+        "3... exd4 4. Nxd4 Be7": "The usual move order is 4. Nf6, 5. Nc3  Be7.  ",
+        "5. Nc3 Bf6": "5...Nf6 transposing into the main line is better.",
+        "6. Be3 c5": "6...Ne7 would be a better choice for Black here.",
+        "7. Ndb5 Be7": "Black is already lost because of his failure to understand the position.  ",
+        "8. Nd5 Na6 9. Nxe7 Kxe7": "Black resigned before I could play 10. Bf4."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=43653",
+    "gameName": "Let's play chess",
+    "players": "pericol (1200) vs. jedechel (1446)",
+    "opening": "Philidor (C41), exchange variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3": "The Najdorf Sicilian, English Attack",
+        "6... e5 7. Nb3 Be6": "Black's best move, to cover the gaping hole on d5.",
+        "8. f3 Nbd7 9. Qd2 Qc7 10. g4 b5": "And the battle lines are drawn! ",
+        "11. g5 Nh5": "Better was 11..b4 not allowing any of my pieces to occupy the d5 square. (a pawn would)",
+        "12. Nd5 Bxd5 13. Qxd5 Rc8 14. Bh3": "A rather nasty pin, actually. ",
+        "14... g6": "Black strives to develop his pieces. A quick glance at this board would have us noticing his undeveloped, terrible black bishop, bound by its own pawns, his knight on the wing, and his uncastled king. Three problems to solve, while my only issue is an uncastled king. ",
+        "15. c4": "Trying to pry open the C-file for me to move a rook there.",
+        "15... bxc4 16. Rc1 Qc6": "I now win a pawn.",
+        "17. Qxc6 Rxc6 18. Na5 Rc7 19. Nxc4 Be7 20. Ke2 Nf4+": "A poor move, losing tactically.",
+        "21. Bxf4 exf4 22. Nb6": "Uh oh!",
+        "22... Nc5": "Obviously Rxc1 loses to Bxd7+",
+        "23. b4 Rb7": "Of course, again, Ne6 loses to Bxe6, Rxc1, Bd7+...",
+        "24. bxc5 dxc5 25. Rcb1 Bxg5 26. Nd5 Rxb1 27. Rxb1": "The end follows quickly, my three pieces able to dominate his two.",
+        "27... O-O 28. Kd3 Rd8 29. Kc4 Kf8 30. Rb7 Ra8 31. Kxc5 f5 32. exf5 Rc8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=27017",
+    "gameName": "Fast Ladder",
+    "players": "chessy131 (1995) vs. dark_con_of_men (1949)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

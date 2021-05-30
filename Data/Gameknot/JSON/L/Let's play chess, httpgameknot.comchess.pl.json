@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 d5 5. d4 dxc4": "better was e6 to consolidate your centre and prevent d5\n",
+        "6. d5 Nb4 7. e4": "and now the centre is mine\n",
+        "7... b5": "there are more important things to do than protect c4. eg Bg4 or Nd3+ \n",
+        "8. a3 Qa5 9. e5 Nfxd5": "should take with the other N - Nbxd5. gets your N out of trouble and opens a diagonal to the K for your Q\n",
+        "10. axb4 Qxa1": "correct was Nxc3 offering a Q swap. But taking the R is a really bad move. When a piece is offered for free then you should look for the hook inside it.\n",
+        "11. Nxd5 Bd7": "better was f6 opening an escape line for the K\n",
+        "12. Nc7+ Kd8 13. e6 Kxc7": "just sets things up for a check with discovered attack on the Q. Desperation measure was Qxc1 getting rid of my B and forcing the Q off the d-file\n",
+        "14. Bf4+ Kb6": "better was Kd8 or Kb7 Puts the K in a better place\n",
+        "15. Qxa1": "and now whatever you play it is soon mate\n",
+        "15... Bxe6 16. Qa5+ Kc6 17. Qc7+ Kd5 18. Qb7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-http-gameknot-com-chess-pl?gm=54512",
+    "gameName": "Let's play chess, http://gameknot.com/chess.pl?",
+    "players": "bigpeta (2151) vs. src36 (1580)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

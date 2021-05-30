@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 g6 3. Bd3 Bg7 4. Be3 c6 5. Nc3 Bd7 6. Nge2 Bg4 7. f3 Bd7 8. O-O e6 9. Rb1 Ne7 10. Bg5 f6 11. Bh4 e5 12. d5 O-O 13. Bc4 Kh8 14. Bg3 g5 15. b4 b5 16. Bb3 Ng6 17. dxc6 Bxc6 18. Bd5 Qc7 19. Nxb5 Bxb5 20. Bxa8 h5 21. Bd5 h4 22. Bf2 Bxe2 23. Qxe2 Nf4 24. Qd1 Qd7 25. Bb3 Kh7 26. c4 Kg6 27. b5 Rd8 28. a4 a6 29. g3 Nh3+ 30. Kg2 hxg3 31. Bxg3 Rh8 32. Rc1 Nf4+ 33. Kg1 Qh3": "he came here for qg2 \"Checkmate\",So moving my rock to c2 will avoid this attack",
+        "34. Rc2 Bf8 35. Rff2": "i was thinking to get his knight , or dual protect from his knight",
+        "35... Nh5": "this is what i mean, getting my bishop",
+        "36. Rfg2 Kf7": "I have a chance , first i will attack using my queen",
+        "37. Qd5+ Kg6 38. c5": "Now , i can attack again my queen is protected by my bishop",
+        "38... dxc5 39. Qf7+ Kh6 40. Be6": "Queen lost !!!, He reassigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=37362",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "mbnaj  vs. blackphd ",
+    "opening": "Pirc defence (B07)"
+}

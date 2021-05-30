@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Una posizione veramente molto curiosa, direi quasi da studio.",
+        "1... d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. d4 Qa5 6. Nf3 Bf5 7. Bf4 e6 8. a3 Qd8 9. O-O Bd6 10. Bxd6 Qxd6 11. Ne5 Nf6 12. Re1 Nbd7 13. Bf3 Nb6 14. Ne2 O-O 15. c4 Qc7 16. b4": "E qui sembro in svantaggio, e in effetti la valanga dei pedoni bianchi sembra refutare la mia apertura (lo so che non \ufffd buona, lo so, ma...)",
+        "16... Rad8 17. Nf4 Nfd7 18. Qb3": "Fin qui, sembra che le bianche siano uscite bene dall'apertura, hanno pi\ufffd spazio, e stanno attaccando. Ma... vedete, quando i miei avversari sono in vantaggio, devono giocare molto bene :-)",
+        "18... Nxe5 19. dxe5 Rd4": "Oh oh, avranno detto le bianche.",
+        "20. c5 Nc4": "I miei soliti \"rischi\". Era troppo facile mettermi in d5 con il cavallo, per\ufffd non era male lo stesso. Il cavallo bianco deve ritirarsi, e la torre va in d3. Ma non era cos\ufffd semplice, c'erano molte alternative. Con questa, la minaccia era in d2, con il cavallo, ma io puntavo addirittura alla donna bianca!",
+        "21. g3": "Perch\ufffd non cavallo in e2?",
+        "21... Nd2 22. Qc3 Rfd8": "Ho voluto sfruttare un po' la colonna aperta... he he... anche qua forse la cosa migliore era semplicemente cambiare l'alfiere.",
+        "23. Bg2 g5": "La chiave della combinazione. Un'arma a doppio taglio, per\ufffd, come vedremo poi...",
+        "24. Nh5 Rd4d3 25. Qb2 Rb3 26. Qc1 Rdd3": "Gira e rigira, si arrivava comunque a questo punto, e le bianche sono scomodissime!",
+        "27. Re2 Rbc3 28. Qb2 Nc4 29. Qa2 Rcxa3 30. Qb1 Rdb3 31. Qc1 Rxa1 32. Qxa1 Rb1+ 33. Qxb1 Bxb1": "E fino a qui, tutto come previsto. Adesso sono in vantaggio, no? Invece, non \ufffd cos\ufffd semplice. ",
+        "34. f4 h6": "Qui non ho saputo vedere il pericolo che correva il mio cavallo, nel senso che, anche se non sembra a prima vista, non sa dove andare. Dovevo metterlo in a3e poi b5 per conservarlo. E adesso mi rendo conto che la mia donna \ufffd virtualmente inutile, anzi, diventa un problema. ",
+        "35. Nf6+ Kh8": "Bisogna sempre stare attenti alla doppietta del cavallo in e8.",
+        "36. Be4 Bxe4 37. Rxe4 Nd2": "Gi\ufffd, per\ufffd adesso c'\ufffd sempre il rischio che la torre bianca occupi la colonna d, cosa che se faceva adesso, VINCEVA! Se salvo il cavallo, per esempio in b6, Td4, minacciando Td7, Dc8, Txf7, con minaccia imparabile di matto in h7!!!!!! PER FORTUNA non l'ha vista!",
+        "38. Re2 Nf3+ 39. Kg2 Qd8": "Forse potevo guadagnare il pedone e5, ma il cavallo si perdeva, poco ma sicuro! Meraviglie degli scacchi! Se la donna nera non si muove, rimane bloccata, con possibilit\ufffd di scacco al re e alla donna con la torre difesa dal cavallo, eventualmente. Potevo anche tentare b6, ma comunque la torre non deve passare alla colonna d!",
+        "40. Kxf3 Qd3+": "E adesso comincia una lunga tortura, nella quale gioco sempre con il rischio di finire nei guai se smetto di dare scacco per tentare qualsiasi cosa, per l'occupazione della colonna d e le minaccie varie con la torre. Incredibile, dopo aver vinto la donna, rimango quasi bloccato!",
+        "41. Re3 Qf5 42. Re2 Qd3+ 43. Re3 Qf1+ 44. Kg4 Qd1+ 45. Kh3 Kg7 46. Re4 Kg6 47. Kg2 Qc2+ 48. Kf3 h5 49. h3 Qd1+ 50. Kf2": "Non serviva a niente avanzare il re. Incredibile, \ufffd ancora in trappola! Questo \ufffd stato un tentativo di rompere la patta per ripetizione. Ormai era chiaro che la mia unica possiblit\ufffd era mangiare qualche pedone e poi cambiare la mia donna per entrambi i pezzi bianchi, e vincere un finale di re e pedoni! Incredibile!",
+        "50... Qh1 51. Rd4 Qh2+ 52. Kf3 gxf4 53. Rxf4 Qxh3": "Non pu\ufffd giocare Th4 per Df5  e perde il pedone in e5, un pezzo chiave per le bianche.",
+        "54. Kf2 Qh2+ 55. Kf3 Qh1+ 56. Kf2 Qa1": "Questi sono i momenti imbarazzanti per le bianche... che devono fare?",
+        "57. Re4 Kf5 58. Kf3 Qc3+ 59. Kf2 Qd2+ 60. Kf3 Qd3+ 61. Kf2": "Secondo me un grosso errore. Dovevano resistere con Te3, e non so se sarei riuscito a \"rompere\" la fortezza bianca.",
+        "61... Qxe4 62. Nxe4 Kxe4 63. Ke2 Kxe5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/scand-2-e5-nice-rrn-dance-the-useless-queen?gm=16386",
+    "gameName": "Scand (2.e5) nice RRN dance, \"The useless queen\"",
+    "players": "snacksandpop (1591) vs. damalfi (1614)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

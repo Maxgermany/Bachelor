@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6": "...normally i would go in for a Benko but sure why not try something else..",
+        "3. e3 Bf5 4. Nf3 Nf6 5. Nc3 Nbd7 6. Nh4 Bg6 7. Nxg6 hxg6 8. cxd5 Nxd5 9. e4 Nc7": "...bit cramped but free h file..",
+        "10. Bd3 e6 11. a3 Nb6 12. Be3 Be7 13. Qc2": "..white and black are developing quickly...i see a chance to disrupt Whites K side..with a probabale 0-0-0 following for white...",
+        "13... Bg5 14. O-O-O Bxe3+ 15. fxe3 Qe7 16. Kb1 O-O-O 17. Na4 Nxa4 18. Qxa4 Qg5": "...interesting position now. White has an attack with the Q to a7 but black has mobility and dual threats to g2 and e3",
+        "19. Qxa7 Qxe3 20. Bc2 Nb5 21. Qa8+ Kc7 22. Qa5+ b6 23. Qb4 Nxd4": "...pawn grabbing...!!",
+        "24. Rhe1": "...black is now meandering into Whites territory with another pawn to grab...",
+        "24... Qf2 25. Qc4 Nxc2 26. Qxc2 Rxd1+ 27. Rxd1 Qxc2+ 28. Kxc2 Rxh2": "..black is now 2 pawns up with a 4 v 2 K side majority...",
+        "29. Rd2 e5 30. b3 f5 31. exf5 gxf5": "..now 3 v 1...",
+        "32. Rf2 g6": "...e4 might have been another option with Rxg2 to follow...white cannot substantially threaten Black here so he resigns (Good man Damo ! )"
+    },
+    "url": "https://gameknot.com/annotation.pl/you-move-ted?gm=9286",
+    "gameName": "You move Ted",
+    "players": "neimaq (1334) vs. shambobala (1200)",
+    "opening": "QGD Slav defence (D10)"
+}

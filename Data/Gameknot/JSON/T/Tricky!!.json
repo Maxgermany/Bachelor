@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Standard.",
+        "1... c5": "Sicilian. I love this defense!",
+        "2. Nf3": "Still standard, white and black will both compete for the centre.",
+        "2... d6 3. d4 cxd4 4. Nxd4 Nf6": "Dragon variation. I think the fianchettoed bishop and knight on f6 creates a strong defense for the black king.",
+        "5. Nc3 g6 6. Bc4": "I like this move, getting the bishop into an attacking position.",
+        "6... Bg7 7. O-O O-O": "Both sides have castled.",
+        "8. Be3 Qc7": "Aiming the queen at h2.",
+        "9. Rc1 e6 10. Qd2 Ng4": "! Threatening the bishop on e3, and also threatening d5!",
+        "11. Bg5": "? A blunder that loses.",
+        "11... d5": "Tricky!! Now after Bb3, Qxh2#, and after Nf3 or g3, then dxc4. Hope you enjoyed the extremely short game."
+    },
+    "url": "https://gameknot.com/annotation.pl/tricky?gm=45887",
+    "gameName": "Tricky!!",
+    "players": "strepsil999  vs. strepsil999 ",
+    "opening": "Sicilian (B70), dragon variation"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 g5": "let's try a grob",
+        "2. d4 h6 3. Nf3": "this knight is not such a good tactical choice\r\nafter in the game, it' easy for black to play g5 g4 and neutralize what is the knight defending (d4)\r\npreparing this g5 g4 by bg7 and e3, the f3 knight could be lost or forced to retreat",
+        "3... Bg7 4. Nc3": "now we are ready for fight\r\nbest position for white should be whith the knight in e2 or whith the bishop in c4 befor moving the g knight\r\n(in my opinion)",
+        "4... c5 5. dxc5": "gambit accepted is not so good choicethe c5 pawns is now isolated and the center is getting free",
+        "5... Qa5": "getting back my pawn\r\nthreatening ...bg7 x kc3 + ...etc",
+        "6. Nd4 Nc6": "accentuate pression on d4",
+        "7. Be3": "defending d4, but is has become not so easy now",
+        "7... Qxc5": "pawn back, taking some risk, but wining the knight \r\ni supose he will play ke6 trying to win my g7 bishop \r\nin this case i will play bg7 x kc3 + !",
+        "8. Ne6": "here we are",
+        "8... Bxc3+ 9. bxc3 Qxc3+": "the black threaten after that is kc7\r\nbut he will loose his knight anyway whith as response qe5 !",
+        "10. Bd2 Qe5": "then white resign and he get disconected refusing a rematch\r\ni supose he must be disgusted, that hapens often when i win whith grob.\r\ni hope a day he will take his revenge, this s just a game, and unrated moreover"
+    },
+    "url": "https://gameknot.com/annotation.pl/reversed-grob-classical-wining-defense?gm=44386",
+    "gameName": "reversed grob : classical wining defense",
+    "players": "lecommie (1398) vs. 31415 (817)",
+    "opening": "Reversed Grob (Borg/Basman defence/macho Grob) (B00)"
+}

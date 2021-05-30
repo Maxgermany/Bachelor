@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "This is a recent team game. It's all over after 14 moves",
+        "1... d5": "I decided to go for the scandinavian as I had recenlty done better than I expected with this opening against a much higher ranked player.",
+        "2. exd5 Qxd5 3. d4 Nc6": "As my queen wasn't under direct threat I decided to leave it there and try to be aggressive",
+        "4. c3 Bf5": "I like this position for the bishop as the only pawn that can threaten it is the G one, although this could happen it would make it harder for white to get his king safe",
+        "5. Nf3 O-O-O 6. Na3": "This move takes us out of the gameknot database. I am still not sure if it was a mistake for white though it does signal the start of some moves against my queen",
+        "6... e5": "Still wanting to be aggressive I was now intending to prevent white from castling.",
+        "7. Bc4": "Finally my queen is forced to move",
+        "7... Qe4+ 8. Be3": "Although this looks a reasonable defence I think Qe2 would be better",
+        "8... exd4 9. cxd4": "Now I can put my dsb safely on b4 with little that white can do to attack it. ",
+        "9... Bb4+ 10. Nd2 Qxg2 11. Rf1": "pretty much forced. White is now looking very cramped",
+        "11... Re8": "A slight repositioning. All I need to do now is break through whites defences",
+        "12. Bxf7": "This has to be a mistake from white. Surely better is Nc2. I can safely ignore this move",
+        "12... Bd3": "Threatens mate in 1 with Qxf1 (note the knight isn't defending the rook as it is pinned)",
+        "13. Qe2": "The only way I can see to prevent mate, however a catastrophic loss of material will ensue for white",
+        "13... Bxe2 14. Kxe2 Nxd4+": "and white resigned.\r\n\r\nthanks for reading please feel free to make comments"
+    },
+    "url": "https://gameknot.com/annotation.pl/short-and-sweet?gm=31150",
+    "gameName": "Short and sweet",
+    "players": "ifzalh (1461) vs. elwoos (1470)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

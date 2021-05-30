@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. c4": "10 minute clock - I play white and decide on the english, my best white attack.",
+        "1... d6 2. Nc3 a6 3. Nf3 h6 4. d4 Bf5 5. e4 Bh7 6. g3": "I think we're well off the book line English by now, but I'm still thinking Bg2 and castling king side at some point.",
+        "6... Nf6 7. Bd3 Nc6 8. Be3 Nb4 9. a3": "Forcing the issue...",
+        "9... Nxd3+ 10. Qxd3 e6 11. b4 c6": "I liked pushing forward with the pawn group. I think castling or better knight development would have been better but I felt comfortable with the initiative I seem to have",
+        "12. c5 a5 13. b5": "His little rook trap is now gone, I push knowing that I'll end up with a nice little knight outpost and a possible king/rook fork if he's not paying attention...",
+        "13... cxb5 14. Qxb5+": "Changed my mind, this feels like a mistake that I gave up protection of the e4 pawn. Black never takes advantage of this.",
+        "14... Qd7 15. Qxd7+ Nxd7 16. cxd6 Bxd6 17. e5 Be7 18. d5": "I've never been so pawn happy, but black never took up a defense of his center so I kept the pawn push up defended by the knights.",
+        "18... exd5 19. Nxd5": "c7 maybe?",
+        "19... Rc8 20. Nxe7": "No fork, at least with the game about to open up, I snag a bishop and force him to give up on castling.",
+        "20... Kxe7 21. O-O": "I need both rooks out now.",
+        "21... Rhe8 22. Rab1": "Blunder - I was totally clock watching. I was originally thinking moving the rook to c and just changed up at the last second. I almost quit right here.",
+        "22... Bxb1 23. Rxb1 Kf8 24. Rxb7 Rca8": "Blunder on his end, I feel a little better now.",
+        "25. Rxd7 a4 26. Bc5+ Kg8 27. h4 g6 28. g4 Kg7 29. g5": "Another mistake on my part - I feel like I should have brought my king up.",
+        "29... hxg5 30. Nxg5 Ra5 31. Bd4 Kg8 32. Nxf7": "More free material - I'm down a rook but up 2 pawns and a knight!!!",
+        "32... Rb5 33. Nd6": "This is where moving my King up would have really paid off.",
+        "33... Rb1+ 34. Kg2 Re6 35. Nf7 Rd1 36. Ng5 Rxe5 37. Bxe5": "Anything to get rid of one of his rooks",
+        "37... Rxd7 38. f4": "Clocks starting to get close, I think we were both coming up on under 1:30. Another mistake, I should have put my king in the game pushing him up.",
+        "38... Rd3 39. Bb2": "ACK! Another blunder!!! Rd2 and it's over!!!",
+        "39... Rb3": "OMFG!!! My opponent must be clock watching now too.",
+        "40. Bf6 Rxa3 41. h5 gxh5 42. f5 Rb3 43. Be5 a3 44. f6 Re3 45. f7+": "I might actually pull this off!!!",
+        "45... Kf8 46. Bd6+": "LOVE this move. I force his rook to protect, His king can't move. Just me vs the clock now. Both of us at a minute.",
+        "46... Re7 47. Bxa3 h4 48. Bxe7+ Kxe7 49. Kh3 Kf6 50. f8=Q+ Kxg5 51. Qh8": "Black Resigns... Not a pretty game but a lot of fun."
+    },
+    "url": "https://gameknot.com/annotation.pl/my-first-annotation?gm=42718",
+    "gameName": "My first annotation... ",
+    "players": "KevinMWHM (1400) vs. JCoop (1400)",
+    "opening": "English opening (A10)"
+}

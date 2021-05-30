@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3": "The Kings Indian, S\u00e4misch ... I love to play this with both White and Black, because it has a great offer of different strategies. And as always in a Kings Indian, initiative is paramount.",
+        "5... O-O 6. Be3 Nc6 7. Nge2 a6 8. Qb3": "So far we have followed theory, but this move I can\u00b4t find anywhere in the books or databases. And in combination with long castling it doesn\u00b4t look sound. The Queen will come under fire, giving Black some valuable tempi, as we shall see.",
+        "8... Rb8 9. O-O-O Bd7 10. Kb1 b5 11. cxb5 axb5 12. Ng3": "Of course it is too dangerous to grab the pawn on b5.",
+        "12... b4 13. Nce2 Na5 14. Qc2 b3 15. axb3 Nxb3 16. Rd3": "The White Rook comes into action for the defence, but look a the positions of the two Kings. White\u00b4s only have one pawn for cover, while Black\u00b4s can sleep peacefully.",
+        "16... Na5 17. Ra3 c5": "Defending the Knight, and threatening Qb6-Qb4 with more power in the attack.",
+        "18. h4 Qb6 19. Ra2 Be6 20. d5": "A very natural response, but this is a crucial moment. White\u00b4s Bishop on f1 is out of the game, and so is Rh1. The two Knights are more or less away from where the action is, so it wasn\u00b4t too dificult to find the sacrifice of a piece to open the lines for Black\u00b4s Bishops.",
+        "20... Nxd5 21. exd5 Bxd5 22. Nc3 Bb3": "A \"zwischenzug\" to put the White Queen on a less favorable square, since the Black Knight on a5 wins a tempo going to b3 later.",
+        "23. Qd2 Bxa2+ 24. Kxa2": "24. Nxa2, Qxb2  25. Qxb2, Rxb2  and Black wins decisive material after either 26. Ka1 or 26. Kc1.",
+        "24... Nb3 25. Qe2 Bxc3 26. Qb5": "Only move. 26. bxc3 is mate after Nc1  and Qb1  followed by Qb3 mate.",
+        "26... Qxb5 27. Bxb5 Rxb5 28. Rc1": "?? - but 28. bxc3 is no better: 28 -, Nd4! (threatening Ra8#) 29. Bc1 (only move), Ra8  30. Ba3, Nc2 and curtains.",
+        "28... Nxc1+ 29. Bxc1": "Of course White should just resign, but even chess-players believe in miracles ...",
+        "29... Bxb2 30. Bxb2 Ra8+ 31. Kb1": "Everything wins, but I had hoped for the cute alternative: 31. Ba3, c4! - when White can\u00b4t do anything against 32. -, Rb3 and 33. -, Raxa3 mate.",
+        "31... Rab8": "White resigns, but I would like to thank my opponent for many great games during the time on GameKnot - and thanks to the inventor of the Kings Indian!"
+    },
+    "url": "https://gameknot.com/annotation.pl/aboveoeufs-happy-hours-8?gm=9346",
+    "gameName": "Aboveoeuf's Happy Hours 8",
+    "players": "valeriuzaharia (2133) vs. ybrevo (1957)",
+    "opening": "King's Indian (E83), Saemisch, Panno formation"
+}

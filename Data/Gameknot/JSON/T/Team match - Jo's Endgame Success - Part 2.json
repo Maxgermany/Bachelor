@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4": "4. Nxd4 - the first four moves are standard moves of the Sicilian Defence.",
+        "4... e5 5. Nb5 d6 6. Nb1c3 a6 7. Na3 h6": "7. .......... h6 - over the last few moves the white knights have done a bit of a dance.  Next move I develop a piece with 8. Be3.",
+        "8. Be3 Nf6 9. Nc4": "9. Nc4 - an aggressive outpost for my knight.  Black decides to develop rather than attack my knight with 9......... b5.",
+        "9... Be7 10. f3 O-O 11. Be2 Nd4": "11. ............ Nd4 - over the last few moves both sides have continued to develop.  Black overreaches himself here as this move is going to leave him bereft of a pawn.",
+        "12. Bxd4 exd4 13. Qxd4 Nd7 14. Nd5 Bf6": "14. ........... Bf6 - after my aggressive 14. Nd5 black attacks the WQ with Bf6.  The IQP will now drop off.",
+        "15. Nxf6+ Nxf6 16. Qxd6 b5 17. Qxd8 Rxd8 18. Ne3": "18. Ne3 - the queens have been swapped off, another black pawn has fallen and I now retreat my knight to e3.  This gives extra support to the d1 square.",
+        "18... Nh5 19. Rd1 Be6 20. Kf2 Nf4 21. Rxd8+ Rxd8 22. Rd1 Rxd1 23. Bxd1 Bxa2": "23. ......... Bxa2 - after a plethora of exchanges black wins back one of his pawns but I hang on to my pawn plus right into the endgame.",
+        "24. Nf1 Bc4 25. Ng3 f6 26. Ne2 Ne6 27. g3 Bxe2 28. Bxe2": "28. Bxe2 - after a bit of pawn and piece positioning it now becomes another B v Kt endgame.",
+        "28... Nd4 29. Bd3 Kf7 30. Ke3 Nc6 31. c3 Ke6": "31. ....... Ke6 - both kings centralise themselves.  I next try and shore up the queenside.",
+        "32. b4 g5 33. h3 h5 34. f4": "34. f4 - now comes an intricate piece of pawn play which will lead to my eventual victory.",
+        "34... Kd6 35. Be2": "35. Be2 - the h pawn is en prise.  Black misses this by playing 35....... Ne7? so I regain my 2 pawn advantage.",
+        "35... Ne7 36. Bxh5 gxf4+ 37. gxf4 Nc6": "37. .......... Nc6 - I now have a passer on the h file and this pawn will seal the victory for me.  Over the next two moves black shunts his steed from c6 to e7 while I amass my forces.",
+        "38. Bg4 Ne7 39. h4 Nc6 40. h5 Ne7 41. h6": "41. h6 - passed pawns must be pushed!!",
+        "41... Ng6 42. h7 Kc6": "42. ........ Kc6 - defends the queenside pawns but I am not to be denied.  I now back up my h7 passer.",
+        "43. Bf5 Nh8 44. Kd4 Nf7": "44. ......... Nf7 - black is reduced to shunting his knight between h8 and f7.",
+        "45. e5 fxe5+ 46. fxe5 Nh8 47. c4 bxc4 48. Kxc4": "48. Kxc4 - another two pawns are exchanged.  The only potential mating material black now has is the a pawn.  Black moves his knight to f7 for the last time.",
+        "48... Nf7 49. e6 Nd6+": "49........... Nd6  - this knight fork wins the bishop on f5.  I now move my king to d3 out of range of any further spite checks from the steed.  Black cannot prevent h8/Q next move so he throws in the sponge.  Another much needed victory for my team!",
+        "50. Kd3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match-jos-endgame-success-part-2?gm=15291",
+    "gameName": "Team match - Jo's Endgame Success - Part 2",
+    "players": "jstevens1 (1520) vs. negoflor (1538)",
+    "opening": "Sicilian (B32), Labourdonnais-Loewenthal (Kalashnikov) variation"
+}

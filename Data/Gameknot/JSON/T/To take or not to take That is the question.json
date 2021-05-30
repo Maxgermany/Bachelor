@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "My opponent had white pieces and game starts with d4.",
+        "1... d5 2. c4": "After d5, c4 we have queen's gambit.",
+        "2... e5": "e4, the signature move of Albin counter gambit.",
+        "3. dxe5": "My opponent accepts the gambit pawn.",
+        "3... d4": "D4, gaining space on the board.",
+        "4. e3": "White plays e3 which looks logical, hoping for dxe3 and then Bxe3 developing bishop by capturing the pawn, however this is an inaccuracy.",
+        "4... Bb4+": "Bb4+ I'm going for the famous trap line - The Lasker's trap.",
+        "5. Bd2 dxe3": "After Bd2, dxe3 the trap has been set, but will my opponent take the bait? To take or not to take? That is the question.",
+        "6. Bxb4": "White falls for it. The best move is actually fxe3, it may look ugly, but he would perhaps survive.",
+        "6... exf2+": "exf2+ King can not recapture because white would lose his queen.",
+        "7. Ke2": "Ke2 is the only move.",
+        "7... fxg1=N+": "Fxg1=N+ under promoting to a knight with check. Promoting to any other piece would not work, because white has a in-between move Qxd8+, after Kxd8 white can then capture whichever piece the pawn promoted to with the rook. The best move in this position is actually Ke1 and black would follow with Qh4+. White is in deep trouble now, any inaccurate move would be devastating. Capturing the knight with rook would be a blunder...",
+        "8. Rxg1": "White captures anyway...",
+        "8... Bg4+": "Bg4+ and he resigned. My opponent was not aware of this trap and cost him the game. "
+    },
+    "url": "https://gameknot.com/annotation.pl/to-take-or-not-to-take-that-is-the-question?gm=57501",
+    "gameName": "To take or not to take? That is the question",
+    "players": "NN  vs. superlalulalu ",
+    "opening": "QGD (D08), Albin counter-gambit, Lasker trap"
+}

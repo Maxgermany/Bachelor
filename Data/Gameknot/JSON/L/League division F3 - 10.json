@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. c4": "English opening ",
+        "1... c5 2. Nc3 Nc6 3. e4 e5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. a3 a6 8. Be2 Be7 9. d4": "All even to here and then I push d pawn",
+        "9... cxd4 10. Nd5": "Following the capture of my d4 pawn I move my c knight to d5 ",
+        "10... Nxd5 11. Bd2": "As usual instead of retaking the knight following my knight's capture I move my bishop to d2.  Aaargh I infuriate myself. ",
+        "11... Nf6 12. Ng5 h6 13. Bf3 hxg5": "Same again, I move my knight over to g5 and ignore the threat to my knight by pawn at h6 and move LB to f3 !!!??",
+        "14. Bxg5 Nh7 15. Bd2 b5 16. Rc1 bxc4": "I now see a threat to my pawn at c4 and move my rook across to c1 in time to capture pawn taking my pawn",
+        "17. Rxc4 Bb7 18. Qa4 Qc7 19. Bd1 Nf6": "Black is preparing his forces on the queen side following my rook's move up to c4 and I follow suit.",
+        "20. Qc2 Qb6 21. Bg5 Qd8 22. Qd3 Ne8 23. f4": "I now decide to pursue a king side attack as I had intended. Protecting my pieces before battle commences.",
+        "23... f6 24. Rf3 fxg5 25. fxg5 Rxf3 26. Qxf3": "I have a reduced force but lots of space to attack on king side ",
+        "26... Nd6 27. Rc5 Rc8 28. Bb3+": "I now bring my LB up to check the king at b3.  White queen is in support at f3",
+        "28... Nf7 29. Bxf7+ Kh7 30. Qh3#": "White's LB takes knight at f7 and king moves out of check to h7 and queen moves across to checkmate at h3"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-f3?gm=60251",
+    "gameName": "League division F3",
+    "players": "milly64 (916) vs. mythosellipseal8 (1300)",
+    "opening": "English (A35), symmetrical variation"
+}

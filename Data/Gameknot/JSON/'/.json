@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4": "Standard opening with the queen pawn.",
+        "1... c6 2. e4": "I intended to quickly explore the mid of the board with this move.",
+        "2... Nf6 3. Nc3 Qa5": "Here i was expecting the pawn to go for d5 so i didn't quite get this move",
+        "4. Bd2 Qb6": "Looking for the weak pawn at b2.",
+        "5. Bc4": "As i didn't see the threat at b2 i kept developing my game.",
+        "5... Qxb2 6. Bxf7+": "My point with this move was to draw out the enemy king since i felt that i had the chance to take advantage of that with the undeveloped game from the black side.",
+        "6... Kxf7 7. Nf3 h6": "This move didn't make much sense to me since it wouldn't help the development or the king defense at all.",
+        "8. Ne5+ Ke8 9. Ng6 Rg8 10. e5": "With the goal of getting the knight out of f6.",
+        "10... Nd5 11. Nxd5 cxd5 12. O-O Nc6 13. Qh5 Kd8 14. f4 Qxd4+": "By this point i wasn't really worried with any pieces other than my knight my queen and his king so he just cleaned my side of the board as he pleased.",
+        "15. Kh1 Qxd2 16. f5 Qxc2 17. e6 dxe6 18. fxe6 Bxe6 19. Nxf8": "Looking back i think that my opponent should have gone for Rxf8 and i probably wouldn't have the chance to win the game had he done that.",
+        "19... Kc7 20. Nxe6+ Kb6 21. Rab1+": "My pieces start closing in on the enemy king.",
+        "21... Ka6 22. Nc7+ Ka5 23. Qxd5+": "By this time his faith was decided so we just went through the formality of playing and eventually i won.",
+        "23... Ka4 24. Qb5+ Ka3 25. Rb3+ Kxa2 26. Qa4#": "Even though we have both done a lot of mistakes i found this game really entertaining and i am really glad that at the end i come out as the winner."
+    },
+    "url": "https://gameknot.com/annotation.pl?gm=47984",
+    "gameName": "???",
+    "players": "chessadicted (1200) vs. ??? (1401)",
+    "opening": "Queen's pawn (A40)"
+}

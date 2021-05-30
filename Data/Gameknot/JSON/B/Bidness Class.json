@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4": "My chess has been suffering.  I am getting too lazy to thoroughly analyze tactical sequences.  What follows is a transcription of a game I recently had, playing in Santa Cruz.",
+        "1... d5 2. Bf4 c5": "My opponent was rated around 1600 FIDE.  I wanted to get a good position out of the opening, and I placed the bishop classically.  I generally dislike playing Indian systems because of the fianchettoed bishop.  I don't like using the bishop in this way.  With c5 my opponent is playing a Queen's gambit opening.",
+        "3. e3 c4": "This advance will clearly have major implications.  Black is now committed to a defense of the d5 square, and will probably have to play e6.  White could attempt to liberate with b3, or even e4.",
+        "4. Nf3 Nf6 5. Nc3": "I think nc3 is sound, but maybe nd2 was a better continuation.",
+        "5... Bg4 6. h3": "There has been some very informative discussion in the comments to my last game about the advisability of h3 or a3.  It seems to be a question of timing.  In this position, white has problems if black is able to play Ng4.  So the provocation of bg4 looks to be timely.  ",
+        "6... Bh5 7. Be2 e6 8. a3 Be7 9. Ne5": "After 8 moves, I rate my development sufficient to begin staging for an attack on the black king.",
+        "9... Bxe2 10. Qxe2 Nbd7 11. g4": "The attack is launched, but will it be too early.  I thought black will be able to defend this, if he plays correctly.  But no one ever plays correctly.  I thought that nxe5 was going to be find for white after be5.",
+        "11... h6 12. h4": "I do see the tactic of hxg if white plays an immediate g5.",
+        "12... h5": "Another committal pawn move.  I think gxh ends up looking not so great for white.",
+        "13. Nxf7 Kxf7 14. g5": "After the knight sac white prepares an aggressive attack after qf3.  If here ne4, then nxe4, dxe and probably f4.",
+        "14... Ng4": "I don't think the knight is that great here.  It does appear to have some purpose, attacking f2 and e3.  But black may have difficulty getting it into action.",
+        "15. e4": "Where qf3 was obviously superior.  This is the kind of mistake that causes me to have doubts about my game.  Of course, it was blitz, but this is just an embarrassing oversight.",
+        "15... g6": "And again I don't play qf3.  Seemingly, this game was a bad choice to annotate.  ",
+        "16. exd5 exd5 17. O-O-O": "This is just terrible.  I am going to the club in Phoenix next week for an invitational, and I need to play a lot better, even in blitz.",
+        "17... Nb6 18. Rde1 Re8 19. Qf3": "Finally, the merciful 19) qf3.",
+        "19... a5 20. Re2": "How not bc7+.  This honestly may be the poorest level of play of any annotation of mine.",
+        "20... Qd7 21. Rhe1 Bd6 22. Be5+": "I judged this superior to bxd6+, but it may not have been.  At this point time was very short.",
+        "22... Kg8 23. Nxd5 Nxd5 24. Qxd5+": "From this point, white probably had winning continuations I did not play.",
+        "24... Kh7 25. Bxd6": "And here, as I crudely gain material, time expires on my opponent's clock.  I think the point here is not to overcomplicate things by being too ambitious when on the attack.  And to mentally step away from the position from time to time, so that when I return, obvious features of the position are apparent."
+    },
+    "url": "https://gameknot.com/annotation.pl/bidness-class?gm=35331",
+    "gameName": "Bidness Class",
+    "players": "kitrich_omar  vs. kl4z239 ",
+    "opening": "Queen's pawn, Mason variation, Steinitz counter-gambit (D00)"
+}

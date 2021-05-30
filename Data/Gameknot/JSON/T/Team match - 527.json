@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 b5 2. Bf4 Bb7 3. e3 e6": "A blunder, but who cares? ;)",
+        "4. Nf3 a6 5. c4 Nf6": "Now it's not a blunder but gambit. :) Black does not get enough compensation for the pawn but gains some development advantage for the pawn.",
+        "6. cxb5 Bb4+ 7. Nc3 Nd5 8. Qb3": "Here I found an interesting idea. If I trade pieces on c3, f3 and f4 white will have tripled pawns on the f-file. While black is a pawn down black is probably already better.",
+        "8... Bxc3+ 9. bxc3 Nxf4 10. exf4 Bxf3 11. gxf3": "While a pawn up but white is already worse. Loss of at least one of the f pawns is just a matter of time. Also there is no safe shelter for white king. Perhaps I should have played axb here to free the knight; 0-0 was not too bad either.",
+        "11... O-O 12. h4": "I do not like the idea of h4. If white plays h5 black can respond with h6. The gain of space is also fictional, white pawns on the kingside are too weak to control anything.",
+        "12... d6 13. Bd3 Qf6 14. Be4 d5 15. Bd3 Qxf4 16. Qd1 axb5 17. Bxb5 c5": "If white takes black can play Qe5+",
+        "18. a4": "A natural move.if you have a passed pawn you should advance it.",
+        "18... cxd4 19. cxd4 Rc8 20. O-O": "Now black can take on h4, but there is no need to hurry.",
+        "20... Nc6": "White is in trouble. After Bxc6 white will lose pawns on h4 and f3.",
+        "21. Kg2": "Preparing to protect h4. and protecting f3. WHile white probably already lost Bxc6 could provide more resistance.",
+        "21... Nxd4 22. Rh1 Nf5 23. Rh3 Nxh4+ 24. Kh1 Rc3": "Not only attacking f3 but also preparing Rac8 followed by Rc1 pin. a5 still leaves some hope for draw as black can miss some combination related to back rank weaknesses."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=31709",
+    "gameName": "Team match",
+    "players": "graciously (1676) vs. mistergo (1656)",
+    "opening": "Polish defence (A40)"
+}

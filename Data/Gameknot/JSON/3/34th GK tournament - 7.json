@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. Nf3": "Reti opening. Supposedly the 4th common opening on GK. I can't stand king's pawn openings, and I can't play queen's pawn openings with the d4 move... so I prefer this opening.",
+        "1... e6 2. d4 Ne7 3. c4 d6": "I don't know if this was conservative playing or some sort of fool's check mate that I was missing.",
+        "4. Nc3 b6 5. e4": "Since parizadeh isn't pushing past two spaces I decided to make an all out offensive play into the middle.",
+        "5... g6 6. d5": "Continuing the middle play control.",
+        "6... exd5 7. cxd5 Bg7 8. Nd4": "I choose to sack the knight to keep up with the complete control of the center...",
+        "8... Bxd4 9. Qxd4": "sucessful sack.",
+        "9... Ba6": "weird move, should of castled?",
+        "10. Bxa6": "could have cut losses here by castling still...",
+        "10... Nxa6 11. Qxh8+ Kd7 12. Qd4": "opt not to take the queen in hopes of a faster checkmate (vs end game play).",
+        "12... Nc5 13. Na4": "Another sack to clear out black material",
+        "13... Nxa4 14. Qxa4+": "Sucessful sack",
+        "14... c6 15. dxc6+ Nxc6 16. O-O f5 17. e5": "bad pawn move on nickwan's part.",
+        "17... dxe5": "although it plays out with a bad take on parizadeh's part...",
+        "18. Rd1+ Kc7 19. Rxd8 Rxd8 20. h3 Nd4 21. Qc4+ Nc6 22. Bg5 Rd4 23. Qc3 Rb4 24. Rc1": "doubling up!",
+        "24... Rd4 25. Qxc6+": "walking the plank.",
+        "25... Kb8 26. Qc7+ Ka8 27. Qc8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/34th-gk-tournament?gm=4822",
+    "gameName": "34th GK tournament",
+    "players": "nickwan (1170) vs. parizadeh (1286)",
+    "opening": "Reti opening (A04)"
+}

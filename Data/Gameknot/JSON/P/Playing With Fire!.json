@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nThis is a game between Freddy the Master Mater and my buddy Steve.  Steve played the same defense against me - The Robatsch - see the game Hidden Traps.  In this game Freddy does a pawn push to h6, this tactic of his is becoming very familiar.  He has done it to me in several of our games in order to break up my kingside pawn structure.  Now, if you have a castled position with a fianchettoed bishop for goodness sake try and avoid letting it be exchanged off.  If it has to be exchanged then it may not be so bad if it is for your opponent's same colour bishop but even there should an enemy pawn get to f6 or h6 this may spell death for you if the queens are on the board.  If you exchange it for a knight as Steve did here it is even worse because an enemy queen and dsb are a lethal combo.  This is what I call playing with fire.",
+        "1... g6 2. Nc3 Bg7 3. h4": "3. h4 - see my previous note.  Freddy is striving for an attack down the h file.",
+        "3... c5 4. h5 Nc6": "4. ...... Nc6 - black refrains from taking the h pawn and develops his queen knight.",
+        "5. Bc4 e6": "5. ...... e6 - screening off a possible pin should black choose to castle kingside.",
+        "6. Nf3": "6. Nf3 - Freddy prepares to castle kingside but will he?  After all if Steve castles kingside then Freddy does have a ready made attack down the h file.",
+        "6... a6 7. d3 b5 8. Bb3": "8. Bb3 - the only move but the bishop stays on the a2-g8 diagonal.",
+        "8... Nge7 9. h6 Bxc3+": "9. ...... Bxc3+ - black must somehow hang on to that bishop.  See my intro note.",
+        "10. bxc3 Qc7 11. O-O O-O": "11. ...... 0-0 - castling into it.  Now the WQ can come to f6 via d2 - g5.  What should be a safe haven for the BK could now become a death trap.",
+        "12. Re1 Bb7 13. Qe2": "13. Qe2 - why not Qd2?",
+        "13... a5 14. a4 b4": "14. ...... b4 - black has been trying to expand on the queenside but maybe he should have been thinking about getting the KR onto d8 and a knight on e8 to stop a WQ invasion onto the weak f6.  Do you the jury agree?",
+        "15. Be3 Ne5 16. cxb4 axb4": "16. ....... axb4 - pawn trade.",
+        "17. Bf4": "17. Bf4 - a nasty pin.",
+        "17... d6 18. Nxe5 dxe5": "18. dxe5 - knight trade.",
+        "19. Bg5 Nc6": "19. ...... Nc6 - would f6 been an improvement?",
+        "20. Qf3": "20. Qf3 - here comes the white queen.  When Freddy is my opponent she is the Wicked Witch of the West.  She is gonna be really evil here!  I think f5 is black's best hope here, although Steve's castled position is gonna be really draughty!",
+        "20... Nd4": "20. ...... Nd4?? - does not prevent Qf6 threatening mate next move which is unstoppable.",
+        "21. Qf6": "21. Qf6 - Freddy takes full advantage.  Steve can only delay the mate by 1 move by playing Nf5.  Of course, after exf5 it is still mate in 2.",
+        "21... Nxb3 22. cxb3": "22. cxb3 - Freddy could have delivered mate!",
+        "22... Rfd8 23. Qg7#": "23. Qg7 MATE!! - He does deliver it now.  This is a salutary lesson on how to exploit a weak castled position."
+    },
+    "url": "https://gameknot.com/annotation.pl/playing-with-fire?gm=25434",
+    "gameName": "Playing With Fire!",
+    "players": "easy19 (2266) vs. untateve (1667)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

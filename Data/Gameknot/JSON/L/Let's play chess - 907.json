@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "interested in a king side fianchetto so dont mind blocking black rook in",
+        "3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 c5 7. Bb5+ Nbd7": "perhaps Bd7 would be better here since i've just locked the b in",
+        "8. Nf3 a6 9. Bc4": "uncomfortable pressure on f7 after white Ng5",
+        "9... Bg7 10. O-O O-O 11. Re1": "ready for a push of e5?",
+        "11... Ne5": "lock e5 down, that Ns got not a lot of other places to go, maybe back to b6?",
+        "12. Nxe5 dxe5": "whites pawn structure more stable",
+        "13. Qd2": "is this getting ready to stack Rd1? or maybe Qg5? the diagonal c1 h6 is backedup by ws black B",
+        "13... b5": "push queen side, king is safe and sound and pawns are all over anyways",
+        "14. Be2 Bb7": "Be2 removes a defender of f4, Bb7 puts B on a better diagonal and puts a bit of pressure on e4",
+        "15. Bf3": "backup e4, very guarded now",
+        "15... Qd7": "not a lot on the diagonal but getting ready for a Rd8",
+        "16. Qxd7 Nxd7 17. Bg5 f6": "unsure now about this. work done for fianchetto but now blocked in. 17... Bf6 18. Bxf6 Nxf6 or 17... Nf6 18. Bxf6 Bxf6 and more mobile bishop",
+        "18. Be3 Rad8 19. Rad1 f5 20. Bg5 Bf6 21. Bxf6 Rxf6 22. Rd3 Bc6": "backup N on d7 since Rd1 is coming",
+        "23. Red1 b4": "perhaps c4 was better here?\r\n\r\npawn up after 23. Red1 b4 24. Ne2 fxe4 25. Bxe4 Bxe4 26. Rxd7 Rxd7 27. Rxd7 Bxc2\r\nor 23. Red1 b4 24. Nd5 Bxd5 25. Rxd5 fxe4 26. Rxd7 Rxd7 27. Rxd7 exf3\r\nwin a piece with 23. Red1 b4 24. Nd5 Bxd5 25. exd5 e4",
+        "24. Nd5 Bxd5 25. Rd3xd5": "expected since 25. exd4 e4 wins a piece for black",
+        "25... Rf7": "25... fxe4? loses a piece after Bg4. after Rf7 expect 26. Rxe5 or c5 winning a pawn after 26... Nxe5 27. Rxd8 Rf8",
+        "26. Be2 Kf8": "bring king towards d7. not a5 since 27. Bb5 and the king can't be another defender",
+        "27. Bxa6 fxe4": "reclaim the pawn since after 28. Bb5 Ke8 king is close enough",
+        "28. Bb5 Ke8 29. a3 Ra8": "blunder, there was enough firepower to defend N on d7",
+        "30. Bxd7+ Rxd7 31. Rd5xd7 bxa3 32. Rxh7 Ra6": "can't play axb2 since lose rook after 33. Rh8 K? 34. Rxa8",
+        "33. bxa3 Rb6": "33... Rxa3 loses, 34. Rb1 Ra8 35. Rh8 wins the rook\n33... Rf6 34. Rb1 Rf7 35. Rb7 forces trade of rooks\n33... Rb6, lets hope he goes crazy with 35. Rd3",
+        "34. a4 Rb2 35. Ra1 Kd8 36. c4 Kc8 37. a5 Rb7 38. Rxb7 Kxb7 39. a6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=20141",
+    "gameName": "Let's play chess",
+    "players": "x-t-o (1451) vs. matpalm (1356)",
+    "opening": "Philidor (C41), Berger variation"
+}

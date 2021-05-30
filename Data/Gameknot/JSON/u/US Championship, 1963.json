@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3": "On tour in 1964, I experimented with 5 N-B5. If then 5... Q-B2 6 B-Q3 BxB 7 NxB P-K3, White has more space, and the Knight discourages ...P-QB4 or ...P-K4.",
+        "5... Bg6 6. Nf3 Nf6": "More usual is the immediate... N-Q2 to prevent N-K5.",
+        "7. h4 h6 8. Bd3": "White can try to exploit Black's move order by 8 N-K5, but 8... B-R2 9 B-QB4 P-K3 10 Q-K2 N-Q4! (followed by ...N-Q2) equalizes.",
+        "8... Bxd3 9. Qxd3 e6 10. Bd2 Nbd7": "10... Q-B2 11 P-B4 N/1-Q2 12 B-B3 P-QR4! equalizes.",
+        "11. O-O-O Qc7 12. c4 O-O-O": "12... B-Q3! 13 B-K4 B-B5! simplifies.",
+        "13. Bc3": "Now Black can no longer force the exchange of Bishops.",
+        "13... Qf4+": "The start of a faulty concept. 13.. B-Q3 14 N-K4 B-B5 ch 15 K-N1 N-K4! 16 NxN BxN equalizes.",
+        "14. Kb1 Nc5": "He still has time to back out with 14... Q-B2.",
+        "15. Qc2 Nce4": "Now there is no turning back.",
+        "16. Ne5": "A clear refutation. The Queen's retreat is cut off and the weakness on Black's KB2 etched sharply.",
+        "16... Nxf2": "What else? ",
+        "17. Rdf1": "Probably what Steinmeyer overlooked when he went into this whole mess. On 17...QxN 18 RxN Q-K6 (else 19 R-B3 winning the Q) 19 R-K2 Q-B5 20 NxKBP wins at least the exchange. So Black resigns. [Fischer, on the tournament as a whole] Motivated by my lopsided result (11-0), Dr. Hans Kmoch congratulated the runner-up, Evans, on \"winning\" the tournament... and then he congratulated me on \"winning the exhibition.\""
+    },
+    "url": "https://gameknot.com/annotation.pl/us-championship-1963?gm=53512",
+    "gameName": "US Championship, 1963",
+    "players": "Bobby Fischer (GM) vs. Robert Steinmeyer (IM)",
+    "opening": "Caro-Kann (B18), classical, Flohr variation"
+}

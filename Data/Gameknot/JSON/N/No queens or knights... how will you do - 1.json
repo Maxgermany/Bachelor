@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. Nc3 Nc6 2. Nf3 Nf6 3. Ne5 Ne4 4. Nxc6 Nxc3 5. Nxd8 Nxd1 6. Kxd1 Kxd8 7. e4 e5 8. c3 Bc5 9. b4 Bxf2": "Thank you very much!",
+        "10. a4 c5 11. g3 cxb4": "And again!",
+        "12. Ke2 Bc5 13. Rb1 bxc3": "And again!",
+        "14. Rb5 cxd2": "And again!",
+        "15. Bxd2 d6 16. Kf3 a6 17. Rb3 Be6 18. Rd3 f5 19. Be2 fxe4+": "Five pawns already!",
+        "20. Kxe4 Rf8 21. Bg5+": "Time to move",
+        "21... Ke8 22. Bf3 Bf5+": "Here we go...",
+        "23. Kd5 Bxd3": "I'm really getting on top here",
+        "24. Ke6 Rxf3": "And again",
+        "25. Rc1 Bf5+": "It's time to give the king the runaround.",
+        "26. Kd5 Rd3+ 27. Kc4 Ba3 28. Rc3": "He read this attempted checkmate...",
+        "28... Rc8+ 29. Kb3 Rcxc3+ 30. Ka2 Rc2+ 31. Kb1 Rb2+ 32. Kc1 Rxh2+ 33. Kb1 Rd1#": "...but could do nothing else but delay the inevitable."
+    },
+    "url": "https://gameknot.com/annotation.pl/no-queens-or-knights-how-will-you-do?gm=23402",
+    "gameName": "No queens or knights... how will you do?",
+    "players": "tedhead (1292) vs. aspiemikey (1351)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

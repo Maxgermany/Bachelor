@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "He was always a e4 player. ",
+        "1... c5": "So I respond with the good reliable c5",
+        "2. Nf3 d6 3. d4 cxd4": "All mainline stuff going on here. ",
+        "4. Nxd4 g6": "The accelerated dragon, it's finind it's way into alot of my games recently.",
+        "5. Nc3 Bg7 6. Be3 Nf6 7. Be2": "This opponent has his own way of playing. I tend to see the LSB develop to c4 more often than this.",
+        "7... O-O 8. O-O": "My opponent never castles queenside though, something he said to me that he is planning on changing soon.",
+        "8... h6": "The first really poor move. An unnecssary waste of time and probably a little weakning as well. The idea was to play Kh7 and prevent this Qd2 Bh6 combination that has been annoying on occasions.",
+        "9. f4": "Another trait of my opponent, he loves his f4 pushes. I personally think it's slightly early myself.",
+        "9... Nc6 10. h3": "?! My opponent returnes the favour of my ...h6 This allows for a nice little move from myself.",
+        "10... Qb6": "! comes with many threats here, plus it probably wins atleast one pawn as it threatns both whites e pawn and his b pawn.",
+        "11. Na4": "After the game my opponent said he was considering either paying this or Qd3.",
+        "11... Qb4": "? Just one of those things, I suppose I must have been a little burnt out after this weekend tournament because the move I had meant to play was actually Qa5 which would have been best.",
+        "12. c3": "! protects the knight as well as attacks thequeen.",
+        "12... Qa5 13. b4 Qd8": "I wanted to play Qc7 however that just allows Nb5.",
+        "14. Qc2 d5": "There was a point behind this move, I have forgotten what it was though.",
+        "15. e5 Ne4": "I suppose I couldn't help but place my knight on the square when I see a hole thats protected by a pawn.",
+        "16. Bd3 Nxd4": "?! Not very wise really, it just improves my opponents position.",
+        "17. cxd4 Bf5": "? I thought I had something ready for g4, obviously I was mistaken.",
+        "18. g4 Rc8 19. Qg2 Ng3": "?? Chess blindness. I completly forgot about gxf5. The point here was that if Qxg3 then Bxd3. But like I say, I forgot about gxf5. Bd7 was the only way to go I think.",
+        "20. gxf5": "!",
+        "20... Nxf1 21. Rxf1 b5": "I guess I was just demoralised at this point, the next couple of moves are terrible.",
+        "22. Nc5 Qb6 23. Nd7": "Any aside from this bad gae I did have a couple of good ones, my average opponent rating wasn't too bad anyway, much higher than my actual rating which I dont think is very accurate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/the-final-roud?gm=41112",
+    "gameName": "The final roud",
+    "players": "opponent (1676) vs. thereaper1 (1072)",
+    "opening": "Sicilian (B54)"
+}

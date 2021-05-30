@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 c5 2. c3 d6 3. d4": "That's what I usually play against Sicilian. I found the d6 variation lest scary, cause it just gives me the pawn center and the game is usually calm. ",
+        "3... cxd4 4. cxd4 e5": "Surprised! Here I could just take on e5 and then exchange the queens. That would give me some positional advantage due to black not having a castle. \nHowever, I wanted a deeper game with bigger dominance after a while. ",
+        "5. Nf3": "The idea of this move is that after 5... exd4 6. Nxd4 black has an isolated and bacward pawn on d6. ",
+        "5... Bg4 6. dxe5": "Now I take, cause the exchange of queens would lead to a pawn mire for me. ",
+        "6... Bxf3": "This is the only way for black to save their pawn. However, It leads to an open position where I have two bishops. ",
+        "7. gxf3": "I don't decide where my queen would be and also have the idea to play on the g-file. ",
+        "7... Qa5+": "Black wants to save his opportunity for castle, but that just leads to development for me. ",
+        "8. Bd2 Qxe5 9. Bc3": "A key move. Places my bishop on a big diagonal, while saving my b2 pawn. ",
+        "9... Qc5 10. Rg1": "By attacking on g7, I aim to fix black's pieces and interfere their development. F6 just leads to even slower development, so there is only one move left. ",
+        "10... Nf6": "Notice how black couldn't develop his bishop on e7 or after g6 on g7, cause I would take either on g7 or f6. ",
+        "11. Nd2 Nc6 12. Rc1": "I treat Bxf6 with tempo. ",
+        "12... Qb6 13. Nc4 Qc7": "Black is underdeveloped, while my pieces are quite positioned. I hadn't decided where to place my f1 bishop. Then it came to my mind that my rook stands good against my opponents queen. I decided to try to open the c file and see what happens. ",
+        "14. b4 O-O-O": "Well, it wasn't clear how castle king-side would happen, so that seems to be the thing. However, I think that 14.. a6 needed more attention. Maybe 15. a4 b5 16. Na5",
+        "15. Bh3+": "Developed with tempo and on a big diagonal. Also, now all my pieces except my g1 rook are turned to the queenside. ",
+        "15... Kb8 16. b5": "Continuing my plan. ",
+        "16... d5": "Surprise! Still, it isn't clear if that would lead to developing the f8 bishop. Usually, opening the center is bad when underdeveloped. But a precise game is needed, to opose that move. ",
+        "17. bxc6 dxc4": "Now it seems that I should move my queen and lose the c6 pawn. But thats the cost for a good queen-side attack. ",
+        "18. Qa4": "Now if 18... bxc6 19. Ba5 \nSo the move seems to be 18... Qxc6 with unclear game. ",
+        "18... Qxh2": "But that forces the ending. Eating pawns when under attack might be bad for your health. ",
+        "19. Qb5 Qc7": "If 19... b6 20. Be5+ and black loses his queen. \nIf 19... Qxg1+ 20. Ke2 and the mate is hardly evadable. Even if so, the blacks queen is dead. ",
+        "20. Be5 Bd6": "Only move. ",
+        "21. Rxc4": "The pawn is returned, but there is something more. \nIf 21... b6 22. Bxd6 Rxd6 (22... Qxd6 23. c7+) 23. e5 ",
+        "21... Bxe5": "It's all calculated. ",
+        "22. cxb7": "After black move his queen, there will be Rc8+ and promoting with double check. The rest is just dying. ",
+        "22... Bc3+ 23. Kf1 Rd1+ 24. Kg2 Rxg1+ 25. Kxg1": "Black resigned. "
+    },
+    "url": "https://gameknot.com/annotation.pl/why-not-to-castle-queenside-when-with-black-in-sicilian-and-some-other-stuff?gm=60271",
+    "gameName": "Why not to castle queenside when with black in Sicilian and some other stuff",
+    "players": "me  (1860) vs. someone (1600)",
+    "opening": "Sicilian (B22), Alapin's variation (2.c3)"
+}

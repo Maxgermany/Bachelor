@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. e3 b5 5. a4 Nf6 6. axb5 cxb5 7. b3 Be6 8. bxc4 Bxc4 9. Bxc4 bxc4 10. Ne5": "Or Castles or Qa4+.  Now black should play Nbd7.\n",
+        "10... Qc7": "??\n",
+        "11. Qf3": "This is a common trap in this opening.  The game is over, but what follows is interesting.\n",
+        "11... Qb6": "11. ... Nc6 is the only thing that made sense here.\n",
+        "12. Qxa8 Qb4+ 13. Bd2 Qb3 14. Ba5": "With the threat of Bc7.  White would also like to play Nd2 and Rb1.\n",
+        "14... Qb2 15. O-O Qb5 16. Bc7 Nfd7 17. Nxd7 Kxd7 18. Bxb8 Ke6 19. Qe4+": "Black resigned.  Now if ...\n",
+        "19... Kf6": "19... Kd7 20. Rxa7+ Ke8 (20... Kd8 21. Bc7+ Kd7 22. Bf4+) 21. Bd6!!  Also threatening Qa8+.   This is postmortem computer analysis.   I would have never seen this brilliant move.  f6 22. Rxe7+ Kd8 23. Qa8+\n",
+        "20. Be5+ Ke6 21. d5+ Kd7": "21... Qxd5 22. Ra6+ Qd6 23. Bxd6+ Kd7 24. Be5 And there is no stopping mate.\n",
+        "22. Rxa7+ Kc8": "22... Kd8 23. Ra8+ Kd7 24. Qf5+ e6 25. Qxf7+ Be7 26. Qxe6#\n",
+        "23. d6 exd6 24. Qa8+ Qb8 25. Qc6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=59319",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "John Coffey, Chess Player at Lar  vs. bmfn ",
+    "opening": "QGD Slav (D11), 3.Nf3"
+}

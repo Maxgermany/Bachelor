@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4": "Center game...",
+        "2... exd4 3. c3": "This is the benko gambit.",
+        "3... dxc3 4. Bc4 cxb2 5. Bxb2": "I am dawn two pawns but am up in development.",
+        "5... Bb4+": "Hmmm...",
+        "6. Nd2 Ne7": "? Now my attack starts.",
+        "7. Bxg7 Rg8 8. Bh6": "Is he going to take the pawn?",
+        "8... Rxg2": "??",
+        "9. Qf3": "I am winning!",
+        "9... Bxd2+ 10. Kf1": "!",
+        "10... Bxh6": "It doesn't matter anymore.",
+        "11. Qxf7#": "What a game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/benko-gambit-training?gm=64309",
+    "gameName": "Benko gambit training...",
+    "players": "lake-bay (1413) vs. xempt1 (1442)",
+    "opening": "Danish gambit (C21), Collijn defence"
+}

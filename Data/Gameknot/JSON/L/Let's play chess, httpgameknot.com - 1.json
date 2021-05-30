@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5": "Been using this lately.\n",
+        "2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Qb6 5. d3 Nd4 6. Ne5": "6.Ne5? pretty sure he missed something there.\n",
+        "6... Nxb5 7. Na4 Qc7": "7...Qa5+ 8.c3 or ...Qa6 8.b3 (Nc3 Nxc3 9.bxc3) to force/mess-up his pawn structure. But I chose 7...Qc7 I control 5 vs 2.\n",
+        "8. Nc4 d5": "If I play 8...d5 9.exd5 Nxd5 I control 3 vs 2. If 8...d6 I pin my Q in (and N on b5) but 5 vs 3.\n",
+        "9. Nd2 e6": "9...Bg4 is a slow plan and allows the eventual c4 or 10.f3!. Actually c4 is inevitable... hmmm leaves me a hole on d4.\n",
+        "10. O-O dxe4": "10...dxe4 seems kinda weird but I gotta remember it's me who's trying to equalize. Plus I'm ahead in material.\n",
+        "11. dxe4 e5 12. b3": "12.b3 so he'll fianchetto. His DSB is pretty strong but I can shut it down. Kinda thinking of ...Nd4...Nc6 (maybe ...Ne6). Would be nice to tempt his c-pawn to c4. Also gotta load up the d-file.\n",
+        "12... Nd4 13. c3 Nc6 14. Qc2 b5 15. Nb2 Be7 16. Nf3 O-O 17. Re1 Bb7": "17.Bb7 I have 7 vs 5 Explore 18...b4\n",
+        "18. Nd2 a6 19. c4": "Positional flaw, in my opinion.",
+        "19... Nd4 20. Qd1 Rfd8 21. Nd3 Rd7": "21...Rd7 new plan.\n",
+        "22. Re3 Rad8 23. Kh1 Ne6 24. Qe2": "23...Ne6 you don't get central control like this too often. My 10 vs his 4. Fun, open game. 24.Qe2 removes his K-side defender. If 24...Nf4 25.Nxf4 (forced since any Q movement gives up the N on the spot) exf4 (looks awkward but I'm not really worried about that pawn plus it gets me tempo by attacking the R).  Plus I made this note but not sure where it goes now lol: 26.Rf3 Qe5 (the kicker which could not be prevented) 27.Rb1 (forced) Nxe4 (to get another piece bearing down on d2 & d1 mate)\n",
+        "24... Nd4 25. Qf1": "?\n",
+        "25... Nc2 26. Rg3 Nxa1 27. Qe2 Qa5": "27...Qa5 my attack is stronger than his. 28.Nxe5 comes to nothing. 28.Nb1? again.\n",
+        "28. Nb1 Nxe4 29. Rf3 Nc3 30. Nxc3 Qxc3 31. Bb2 Bxf3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-http-gameknot-com?gm=65760",
+    "gameName": "Let's play chess, http://gameknot.com/",
+    "players": "abel777 (1695) vs. e4newman (1630)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

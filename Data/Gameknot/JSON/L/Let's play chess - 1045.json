@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 d5 2. e3 Nf6 3. Bd3 c5 4. c3 e6 5. f4 b6": "I don't like playing against the Stonewall type formations. Or is it Colle? Anyway, I like piece manouvers, but this particular pawn structure is ... well ... just boring. I quickly played 5...b6, only to realise that the planned exchange of white square bishops was not possible. Let's say, 6. Nf3 Ba6 7. B:a6 N:a6 8. Qa4  and I lose the piece... Well, too late.",
+        "6. Nf3 Bb7 7. Ne5 cxd4 8. exd4 Nbd7 9. Nd2": "I think white could have explored the pin along the a4-e8 diagonal, rather than play routinely. But it makes sense - my bishop is blocked on b7, and although it will... Ok, let's keep the plot unknown. For now, my issues are: 1) castling - which will undoubtedly result in all-out white attack on the kingside; 2) finding something useful to do for my bishop on b7. ",
+        "9... Bd6 10. Qf3 Qe7": "I don't know. I could already see contours of the attack - g2-g4, Qg3, Nd2-f3, g4-g5, h2-h4. I figured bringing the queen closer to the kingside would help survive the attack! ",
+        "11. O-O g6": "Prophylaxis against possible f4-f5, with an idea of sending the king \"by foot\" to g7, keeping the rook on h8, moving the h pawn forward and then bringing the other rook to f or e file depending on what the position requires. ",
+        "12. Bb5": "Unexpected. But doesn't stop me from doing what I planned! ",
+        "12... Kf8": "I am sure this was unexpected for my opponent. It actually looks like my mouse slipped when I was trying to put the king on g8, but no, this was indeed part of the plan! :)",
+        "13. g4 a6": "Necessary evil, bringing the white bishop back into play. Whie intends g4-g5 which is bad, I risk losing a piece on d7 and since there was no good square to put that knight now, I had to do a7-a6. ",
+        "14. Bd3 Kg7 15. g5": "I think this wasn't a good idea. White helps me cement the lines and gives me sufficient time to organise some sort of defence. I thinking keeping tension with h2-h4, intending h4-h5 with Kh1 and positioning rooks along g and f files or even both on g files would be a more promising plan. ",
+        "15... Nh5 16. Qg4 Raf8": "Ok, first concern is partially addressed. Defence looks sound. Time to start thinking about the poor bishop on b7. ",
+        "17. Be2": "Unfortunately, white makes me change priorities. He plans to retreat the queen and exchange my knight with his bishop. Panic!!! What shall I do? Hmmm. Keep cool. All I want, is not to take on h5 with the pawn, right? Yes. So, imagine my h7 pawn did not exist. Then I could take it with the rook. So, comes the idea!",
+        "17... h6": "Yes! Well done. ",
+        "18. gxh6+ Rxh6 19. Ndf3 Ndf6 20. Qg2 Rfh8": "Actually as I saw later, this move allows Ng5. Now Rf8 is not possible because of a strong move f4-f5!",
+        "21. Bd3": "Already here white could have played f5. I had totally missed this move in my calculations earlier, when planning to double rooks along the h-file, because I had two pawns and a knight blocking the bishop on the c1-h6 diagonal! Classic case of chess vision problems. ",
+        "21... Ne4": "Exchange on e4 is in my favour, I activate the bishop on b7. But now I have to sacrifice exchange. ",
+        "22. f5 exf5": "Now I have to go for an all-out attack. ",
+        "23. Bxh6+ Rxh6 24. Qe2": "Waste of time. Unless the second rook comes into play, white is in a really bad shape. ",
+        "24... Nf4 25. Qe3": "Here I thought of playing Nh3 , with g6-g5 to follow. But I did not play the move, decided to give it a bit of time. Next time I returned to make a move, I played B:e5 without even thinking. Bad discipline! ",
+        "25... Bxe5 26. dxe5 Nh3+ 27. Kg2 f4": "Expecting Q:b6 to which I was going to play g6-g5, then to g4, sweeping everything off the board...",
+        "28. Qd4 Qe6": "I don't have to lose the pawn on b6 any more...",
+        "29. Ne1": "Key mistake. White should have played Kh1, maintaining some defence chances. Now, the game is finished. ",
+        "29... Qg4+ 30. Kh1 Nef2+ 31. Qxf2 Nxf2+ 32. Rxf2 d4+": "Here comes the bishop that did not do much all the game! ",
+        "33. Ng2 Qh3": "Fine end. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=11479",
+    "gameName": "Let's play chess",
+    "players": "adam64 (1618) vs. beginner78 (1572)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

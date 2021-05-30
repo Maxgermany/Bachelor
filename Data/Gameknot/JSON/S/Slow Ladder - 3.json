@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "I've been slowly creeping up the slow ladder and have now reached the point where I am seen as \"easy meat\" for some of the higher ranked players. Usually I oblige by making a daft move. Sometimes however my opponent gets stiffer opposition than they expect. This is one of those rare games and I was very pleased with the outcome.",
+        "1... e5 2. f4": "I start with the Kings gambit as this is something I have played quite a bit recently with some success. My theory is that its not seen so often and so it takes some players out of their comfort zone",
+        "2... exf4": "The gambit is accepted",
+        "3. Nf3 g5": "This is the Quaade gambit which favours black in the gameknot database",
+        "4. Nc3 d6 5. g3 g4 6. Nh4 f3": "The gameknot database still favours black quite strongly ",
+        "7. d4": "claiming the centre and opening a line for my dsb",
+        "7... Nc6 8. Bb5": "This move takes us out of the gameknot database",
+        "8... Bd7 9. Bf4": "Developing my lsb with a view to castling long, with hindsight this might have been a little premature",
+        "9... Be7 10. Nf5 h5 11. Qd2": "I was initially looking at Nxb however I then realised that I had something that was much more disruptive for black - Ng7+",
+        "11... a6 12. Ba4 Nf6 13. Ng7+ Kf8": "forced",
+        "14. Bh6": "Now black looks to be in a bit of bother, the main threat being Ne6 winning the queen",
+        "14... Kg8 15. Ne6": "The knight is immune as taking it loses to Qg5+, Kh7, Qg7#. The black queen doesn't have many useful places to go due to the combination above, the exception is Qf8 which exchanges the queen for a knight (or bishop). The move I was expecting was Nh7 which holds off mate but loses the queen",
+        "15... Rxh6": "This is a decent try from black as the temptation of Qxh6 lets the black queen off the hook",
+        "16. Nxd8 Rg6 17. Nxc6": "I wasn't sure here whether to try to extract my knight or to simply go for an exchange. I decided on the latter as I can double black's pawns on c which not only hampers him but means his a8 rook can be tied down to defending his a pawn while his other rook is hemmed in.",
+        "17... bxc6 18. e5": "Forces blacks knight to the sidelines as otherwise dxe5,dxe5 and black loses more material.  At this point black resigned and I was very happy.\n\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/slow-ladder?gm=61019",
+    "gameName": "Slow Ladder",
+    "players": "elwoos (1522) vs. antuerpia (1676)",
+    "opening": "KGA (C37), Quaade gambit"
+}

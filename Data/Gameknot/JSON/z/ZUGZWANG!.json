@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nf3": "Hi everyone!\n\nI did promise you a return to another mating attack, but before I could annotate that one, this game finished on me.  I was facing Class A opposition in this game.  In this MT I drew my game with Rex with the black pieces and here is the return leg with me with the white pieces. The endgame became a same colour bishop ending and evolved into a K&P ending.  I feel this is also worthy of endgame study.  Did Henry come out trumps or did he end up in the Zugzwang?  To find out you must read on or you can read the GA analysis provided. http://gameknot.com/analyze-board.pl?bd=27042198&rnd=0.4446714573088253",
+        "1... d5": "1. ..... d5 - after I kicked off with the Reti Opening black responded by playing d5.",
+        "2. d4 c5 3. c4 e6 4. cxd5 exd5": "4. .... exd5 - pawn trade.",
+        "5. Nc3 Nc6 6. g3": "6. g3 - preparing to fianchetto Fou Leblanc.",
+        "6... Nf6 7. Bg2 Be7 8. O-O": "8. 0-0 - and Henry goes kingside.",
+        "8... O-O 9. dxc5 Bxc5": "9. ...... Bxc5 - another pawn trade.",
+        "10. Bg5 h6 11. Bxf6 Qxf6 12. Qxd5": "12. Qxd5 - Glenda now immolates a pawn after I traded Fou Lenoir for black's king knight but can I make this count?  Only time will tell.",
+        "12... Bb6 13. Rac1 Be6 14. Qb5 Rab8 15. Ne4": "15. Ne4 - harrying the BQ.",
+        "15... Qe7 16. a3 Bd7 17. Nc5": "17. Nc5 - this move triggers off a plethora of exchanges.",
+        "17... Bxc5 18. Rxc5 Nd4 19. Re5 Bxb5 20. Rxe7 Nxf3+ 21. Bxf3": "21. Bxf3 - a lot of wood has vanished from theboard and I am still a pawn up.  Black's b7 pawn is now en prise.",
+        "21... Rfe8 22. Rxe8+ Rxe8": "22. ...... Rxe8 - rook trade.",
+        "23. Re1 b6 24. e3 Rd8 25. Rd1 Rxd1+ 26. Bxd1": "26. Bxd1 - after the rook trade I am in a same bishop colour endgame a pawn up.  Nice but I still have some work to do.",
+        "26... Bc6 27. f3 g5 28. e4": "28. e4 - closing out the line of black's bishop.",
+        "28... f6 29. Kf2 Kf7 30. Ke3": "30. Ke3 - Henry comes out to the main battlefield to try and create a passed pawn by means of a pawn trade.  I must be patient though.",
+        "30... Ke6 31. Bb3+ Ke5": "31. ....Ke5 - nacht, but here come those pawn trades.",
+        "32. f4+ gxf4+ 33. gxf4+ Kd6": "33. .... Kd6 - the BK is driven back.  ",
+        "34. Kd4": "34. Kd4 - and now Henry comes forward!",
+        "34... a6 35. Bd5": "35. Bd5 - I want to create a passer on e5 and put Henry on e4 to support it after my currente4 pawn is traded off on e5 for black's f6 pawn.  First Fou Leblanc must contest the h1-a8 diagonal.",
+        "35... Bxd5 36. exd5": "36. exd5 - we are now in that K&P ending and I have my passer.  I have still a few things to do though before I can put black in the Zugzwang.",
+        "36... f5 37. a4": "37. a4 - this move was played to hold back b5.  If black does play it I will play b3 and then if he plays h5 I will respond with h5 and black must then lose further material.",
+        "37... h5 38. h4": "38. h4 - after playing this move black waved the white flag.  If b5, I will then play b3.  So, here is a puzzle.  Is black really in a zugzwang?  If you were black would you play a5, b5 or move your king back to c7, d7 or e7?  Answers on a post card."
+    },
+    "url": "https://gameknot.com/annotation.pl/zugzwang?gm=64649",
+    "gameName": "ZUGZWANG!",
+    "players": "jstevens1 (1811) vs. rex614 (1819)",
+    "opening": "Reti opening (A06)"
+}

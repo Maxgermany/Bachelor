@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. Bc4 g6 4. O-O Bg7 5. c3": "c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3",
+        "5... Nc6 6. b3": "b3?  Now you could have move d4 and attacked the centre.",
+        "6... Bd7 7. d4": "good, you got to d4",
+        "7... Qe7 8. Bg5 Nf6 9. Be3": "Why retreat?  You have my knight frozen against the queen.",
+        "9... O-O-O 10. dxe5 Nxe5 11. Nbd2 h5 12. Nd4 Kb8 13. Bxf7": "I'm not sure why you sacrificed your biship here.  Was this part of a plan?",
+        "13... Qxf7 14. Bg5": "Your bishop may have been better off on e3.  You have a potential discovered attack on a7 by moving the knight off of d4.  If you could get your queen to a4 (move b3 to b4) you have a possible checkmate with Qa7.",
+        "14... Bh6 15. Nd2f3": "I think you were getting tired here.  This should work, but then on your next move you take with the pawn rather than the other knight.  I think your plan was with the knight rather than opening up your king.",
+        "15... Nxf3+ 16. gxf3": "This is the beginning of the fall once you start opening up your king.  Things really started to unravel here.",
+        "16... Bxg5 17. h3": "This is an oops.",
+        "17... Bxh3 18. Kh2": "Forgot about your rook.",
+        "18... Bxf1 19. Qxf1 Bf4+ 20. Kg2 h4 21. c4": "Are you protecting your queen?  Don't forget about your king.",
+        "21... h3+ 22. Kg1 g5 23. Nf5 g4 24. fxg4 Nxg4 25. Qxh3": "Desperation or just an oversight?",
+        "25... Rxh3 26. f3 Rxf3 27. Rf1": "This is good for me, since I am so far ahead now, I don't mind exchanging pieces.  This was your only other attacking piece.",
+        "27... Rxf1+ 28. Kxf1 Ne3+ 29. Kf2 Nxf5": "And now there were none.  It is really over here since you have no attacking pieces.  A stalement is always a possiblity, though.",
+        "30. exf5 Re8 31. b4 Qxf5 32. Kf3 Re3+ 33. Kf2 Qc2+ 34. Kf1 Qe2+ 35. Kg1 Rg3+ 36. Kh1 Qg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-kneilca2?gm=30036",
+    "gameName": "Challenge from kneilca2",
+    "players": "deepbreath54 (808) vs. kneilca2 (1490)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

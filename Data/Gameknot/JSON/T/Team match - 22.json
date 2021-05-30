@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. Nf3": "The Reti Opening is the third most popular.  Nf6 is the most common response.",
+        "1... d5": "This is the second most common response.",
+        "2. d4 Bf5 3. Nc3 e6 4. Bf4 a6 5. e3 h6 6. h3 Nf6 7. a3 Bd6 8. Bxd6 Qxd6 9. Bd3 Ne4 10. Bxe4 dxe4 11. Nh2 Nd7 12. O-O g5 13. d5 O-O-O 14. dxe6 Qxe6 15. Qe2 h5 16. f3 exf3 17. Qxf3 Bg6 18. Qd5": "This leaves Pe3 undefended.",
+        "18... Qxe3+ 19. Kh1 g4 20. Rae1 Qb6": "White's b and c pawns are exposed.  Na4 would protect b2 and pretty much force Qc6 or Qd6.  The black queen's options are limited.",
+        "21. Qb3": "This protects both too, though ahead a pawn black's trade doubles up white's pawns.",
+        "21... gxh3 22. gxh3 Qc6+ 23. Kg1": "23. Nf3 definitely better.",
+        "23... Rhg8 24. Kf2": "White is compelled to move the king or discovered check lets black trade the bishop for a rook or queen.  White might be better off sacrifing the knight.\n",
+        "24... Bxc2": "QxBc2 lets black play Rg2+ which pins the white queen, picking her off for free.  So for black c2 is a free pawn.",
+        "25. Qd5 Qb6+ 26. Kf3": "Re3 would have been better.",
+        "26... Qxb2 27. Ne4 Ne5+": "Here black trades knight for queen.  ",
+        "28. Qxe5 Qxe5 29. Rf2 Bxe4+ 30. Ke3": "White should have played Ke2 instead, but down 12 recovery is unlikely.\n30. Ke2 Qb2+ or Qb5+...",
+        "30... Bc6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=67345",
+    "gameName": "Team match",
+    "players": "pawnzilla60 (1558) vs. sanjaygulati (1614)",
+    "opening": "Reti opening (A06)"
+}

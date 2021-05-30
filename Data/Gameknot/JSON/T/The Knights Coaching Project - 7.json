@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "This was my worst game so far.  White easily developes and keeps his king safe while black concentrates on a futile effort to develop his dark squared bishop ignoring king safety.",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4": "The starting position.  Black has one square to move his king d7",
+        "7. Bxf7+ Kd7 8. Be6+": "White wins the knight compensating for the loss of the Queen.",
+        "8... Kc6": "I wonder if Kc7 was better?",
+        "9. Bxg4 Qc7": "Im trying to get my queen into play and overlook that he can easily defend the pawn with g3 or better 0-0!",
+        "10. O-O g6": "This was a terrible mistake and a waste of time.  The whole game is centered on my getting my bishop developed.",
+        "11. Ne6": "He could just take my bishop if he wanted to but he has other plans",
+        "11... Qd6 12. Nc3": "White gets good development here.  Now he has his bishop and two knights going after my King",
+        "12... a6": "another wasted pawn move because I was worried more about losing my queen than my king!!!",
+        "13. Nxe4 Qd5": "another major blunder.  somehow i think i can win one of his knights with h5?  He can easily protect his e4 knight with d3! developing his dark squared bishop.  Instead he moves Ne4xc5 then after i move he can move Bf3 pinning my Queen to my King.",
+        "14. Ne4xc5 Qd6": "My only move to save my Queen",
+        "15. d3 Bg7": "another blunder because I assume NxB then QxN",
+        "16. c3 Rg8": "Now i have to make the wasted rook move to protect my bishop",
+        "17. Bf3+ Kb6": "My king is not safe here either as white mates in four moves",
+        "18. Be3 Ka5": "The only safe square but not for long",
+        "19. a4 b5": "Throwing up a prayer here",
+        "20. b4+ Kb6": "mate on the next move",
+        "21. Nd7#": "I got thrashed!"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-knights-coaching-project?gm=27711",
+    "gameName": "The Knights Coaching Project",
+    "players": "richie513 (1172) vs. dungeonking (1304)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

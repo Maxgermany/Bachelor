@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. e4": "2. Forget what this gambit is called....its pretty strong, have had fair success against a lot of players in the 1700-2000 range with it....W gets a fairly lasting initiative...if B takes on e4, then W plays f3, almost K's Gambit like without the aggravation of black playing g5, and threatening counterplay on the d8...h4 diagonal...declining is fine, too",
+        "2... c6 3. Nc3 dxe4 4. f3 exf3 5. Nxf3": "5. Back into the gambit line.",
+        "5... Bf5": "5.  ...Bg4 is seen here a lot...then if W plays Bc4 there are tactical threats based on b takes f7, then kt. check on e5 hitting the B on g4, together with the Q.\n",
+        "6. Be2 e6 7. O-O": "7. Be2 on move 6 is a little passive...we have standard Caro-K pawn formation and B is up a pawn, this is looking pretty good for B, at this point.",
+        "7... Nf6 8. Nh4 Bg6 9. Bg5 Be7 10. Nxg6 hxg6 11. Qd3 Qc7 12. h4 Nbd7 13. Bf4 Bd6 14. Bg5 Bg3": "14....this is a little too cute...B is still half-developed and this kind of thing is a poor idea...sure the B-squared diagonal is weak...maybe you were afraid of the pawn push to h5 once you castled, and thought, I'll win the pawn now ?!",
+        "15. Rf3 Bxh4 16. Rh3": "16.  Yes, sirree....the Caro-K and French are funny....its almost dangerous in them to win material early, you get thrown on the defensive and may never escape....better to hunker down....slowly equalize, and try to win material down the road...the game is over now.",
+        "16... Bf2+ 17. Kxf2 Rxh3 18. Qxh3 O-O-O 19. Qe3 Rh8 20. Bf3 Nb6 21. Bf4 Qd7 22. Ne2 Nbd5 23. Qa3 a6 24. Bg3 g5 25. Qc5 Kd8 26. Be5 g4 27. Bxf6+ gxf6 28. Bxg4 Qc7 29. c4 Nf4 30. Rd1 Nxe2 31. Kxe2 f5 32. Bf3 Kc8 33. Kd3 Qd7 34. Kc3 Kb8 35. b4 Qc7 36. Qe5 Qxe5 37. dxe5 Kc7 38. a4": "38...B should lose this game, but his only hope to draw is to keep the rooks on the bd., and trade down as many pawns as possible, thus trading the Rook eases W's task, but still W should win.",
+        "38... Rd8 39. Rxd8 Kxd8 40. b5 Kc7 41. bxa6 bxa6 42. Kb4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-david_bronshtein?gm=60087",
+    "gameName": "Challenge from david_bronshtein",
+    "players": "david_bronshtein (1556) vs. jazzbox61 (1508)",
+    "opening": "Blackmar gambit (D00)"
+}

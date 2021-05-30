@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. b3": "I've been playing Larsen's Opening for about ten years (when I played chess), trying to get better at it.\nIt's a good #2 opening, and I've compiled a nice opening database of variations.",
+        "1... d5 2. Bb2 Nf6 3. Nf3 c5 4. e3 Bf5 5. Bb5+": "There's no \"main line\" for Larsen's, but White usually gets his pieces on these squares. Sometimes the Bishop's on e2 instead. Then you'll see 0-0 and either c4 or d4 or both.\nWhat's special here is that Black usually has a knight on c6 for the bishop to pin, so you might say I'm encouraging him some.",
+        "5... Nc6 6. O-O e6 7. d4 Bd6 8. dxc5": "I don't remember making that trade before, but I want to put the knight on e5 without him trading the bishop for it and giving me doubled pawns. I want to see if I can take advantage of my pin before he castles.",
+        "8... Bxc5 9. Ne5 Qc7 10. Nd2": "I'm thinking that knight will go to f3 to help support the one on e5, maybe even take its place at some point.",
+        "10... O-O 11. Bxc6": "I decided I'd rather have the knight on e5 than the bishop.",
+        "11... bxc6 12. c4 Bd6 13. Ndf3 Ng4": "I didn't expect that, but I think it's going to work out well for me.",
+        "14. Nxg4 Bxg4 15. Qd4": "A nice double-attack there. He can thwart me, but it opens his position some and weakens his pawn on e6.",
+        "15... f5 16. c5": "A move I almost overlooked, and so did he. The bishop's got nowhere to go. If it retreats, the queen's no longer guarding g7.",
+        "16... Bxh2+ 17. Nxh2 Bh5 18. Qh4": "I'm thinking that I'd like to have the bishop on d6 to keep his rooks off of b8 and f8. And maybe I'll bring the knight to e5 again to harass pawns.",
+        "18... Bg6 19. Nf3 h6 20. Be5 Qf7 21. Bd6 Rfc8 22. Ne5 Qe8 23. Nxg6": "Not an easy decision, but I think I'm far enough ahead that I can win this endgame.",
+        "23... Qxg6 24. Qe7 Qf7": "Not much choice, really.",
+        "25. Qxf7+ Kxf7 26. b4 a6": "But now the challenge will be finding a place to break through. Maybe I traded off those pieces a little soon.",
+        "27. a4 Kf6 28. Rab1": "I'm planning to put the rook on b6 or maybe double them on the 7th rank.",
+        "28... g5 29. b5 axb5 30. axb5 cxb5 31. Rxb5 h5 32. Rc1": "I should've moved Rb6 first!\nMy plan was that after he plays Ra6, I'll play Rb6 and either get a favorable trade or be able to push the pawn on to c7.",
+        "32... Ra6": "Fortunately, I noticed that the pawn is pinned, and I can't play Rb6 yet. Time to find another plan. I looked at Rb8 for awhile, and I also looked at an earlier plan: Rcb1. Then I can go to b6. Or maybe I'll go to b7 and h7 and bring the other rook down. I'm thinking I may want to play g3 first so he can't check me on a1 and go after my f-pawn while his pawns come after my king if I move it to g3.\nI ended up decided to play Rcb1 then decide on Rb6 or Rb7.",
+        "33. Rb7": "But when I came back to the game, it's like I forgot that I hadn't made the first rook move yet.\nAs I clicked on the square, I realized what I was doing and was clicking the Cancel button on the browser to see if I could abort the move. Too late, so I offered a draw immediately. I think he felt sorry for me, because he took it. Even if there is a way to salvage the game, I knew that I didn't want to see any more of this game.    ---->    So my first game for the team, and I threw away the win."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=18549",
+    "gameName": "Team match",
+    "players": "chuckbo (1826) vs. saagent (1831)",
+    "opening": "Nimzovich-Larsen attack (A01), classical variation"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "From the 52nd gameknot tournament. ",
+        "1... e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 c4": "?! Interestingly I had faced this move a week previously in an OTB game. This move seems to gain nothing for black while helping white. ",
+        "7. Qg4 g6 8. h4": "Building pressure on the king-side, all in keeping with White's usual play in these lines. ",
+        "8... Nc6 9. h5 f5": "?? May look tempting, but white is abound with tactics now. ",
+        "10. hxg6": "! Now if 10...fxg4 11. g7! and white inevitably captures the rook and promotes a new queen!",
+        "10... h6": "?? Doesn't save black's position at all. ",
+        "11. g7": "! Black resigns. A nice miniature. "
+    },
+    "url": "https://gameknot.com/annotation.pl/french-miniature?gm=23552",
+    "gameName": "French Miniature ",
+    "players": "concordborn (1767) vs. cercer (1781)",
+    "opening": "French (C18), Winawer, advance variation"
+}

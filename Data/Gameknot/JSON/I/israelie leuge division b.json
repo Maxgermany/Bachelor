@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4": "that is Levenfish attack , in dragon variation , the idea is to forward whites pawn to e5 and get  strong space and center advantage . black must be careful now if .6....Bg7?.7.e5-Nd7.8.e6 with big advantage. if 7....Ng4 black in lost position after 8.Bg4+Bd7.9. Qxg4 or 8....Nc6.9.Nxc6-bxc.10.Bxc6+, and last one .7....Kf8.9.h3 and the black knight is traped ,9....dxe5 will lose quicker after .10. Ne6+Bxe6.11.Qxd8+",
+        "6... Nc6 7. Nxc6 bxc6 8. e5 Nd7 9. exd6 exd6 10. Be3 Qe7": "10....Be7 is the correct move , maybe black wishes to not showing white where the black bishop will move , but he's must recole that it  has aweak pawn on d6. ",
+        "11. Qd4": "good move , centre-ling the queen on strong position d4 and there is no Pisces that get her away without make more weaknesses  in blacks positions ",
+        "11... Bg7 12. Qxg7 Qxe3+ 13. Be2 Rf8 14. Rf1 Ba6 15. Rf3 Qg1+ 16. Rf1": "maybe  .16.Bf1 is batter ?",
+        "16... Qe3 17. Rd1": "good move , white attacking the weak pawn d6, and controls the center butt , the white king stays in the center with out castling and it could be big problem for whites ",
+        "17... O-O-O 18. Rxd6": "18. Qd4 was stronger move ,attacking the queen on e3, the pawn on a7, and d6. its not good for black 18....Qxd4.19.Bxa6+Kb8.19.Rxd4.or 18....Qe6.19. Qxa7 with big advantage , after 19....Re81!.20.Qxe3-Rxe3.21.Rxd6 white stays with pawn advantage and good position .",
+        "18... Rfe8 19. Rxc6+": "Big mistake for white it seems that black just lost abishop on a3 but, the weak king on the center can pay abig price .",
+        "19... Kb7": "now black is mistake the correct move was 19.....Kb8!! that  gives black  awinnig position after 20. Rxa6-Nc5.21.Ra3-Rd2 . ",
+        "20. Rxa6 Nc5 21. Ra3": "and ad raw was agreed because of 22.....Qc1-e3+ . another option was 22. Qxf7+Rd7.23.Qc4-Nxa6.Qxa6+ = that's why 19.....Kb8 was better move .  I hope you liked  my game , Evan i played bad and all most  have been punished for  being greedy for material , i learned allot ,like how much castling and safety of the king is so much important , thank you and i would like to read yours comments have nice day and play chess !!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/israelie-leuge-division-b?gm=45030",
+    "gameName": "israelie leuge division b",
+    "players": "matsany (1200) vs. krimelman  (1658)",
+    "opening": "Sicilian (B71), dragon, Levenfish variation"
+}

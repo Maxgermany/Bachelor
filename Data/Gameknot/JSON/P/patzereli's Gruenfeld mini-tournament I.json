@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4": "This is the second game I want to show from our Gruenfeld mini-tournament (the first was my loss to \"superpom\"), and again the d-pawn is decisive. Fortunately I have the White pieces this time.",
+        "1... Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8. Be2 Bg4": "A small mistake - and even right out of the opening. Thematic is c7-c5 to challenge the White center.",
+        "9. O-O c5 10. Rb1 Bxf3 11. Bxf3 Nd7": "Wrong square for the Knight! 11. - Nc6 would still give White a slight plus, but now the b7 pawn can be taken for free. After 11. - Nc6 12. Be3 The pawn could be protected by 12. - Na5.",
+        "12. Rxb7 e5 13. d5": "And the d-pawn is on its way again ...",
+        "13... Qc8 14. Rb1 Rb8 15. Rxb8 Qxb8": "Let us stop and make some status: Black has lost the Bishop pair (not un-important in an open game like the Gruenfeld), has lost a pawn, and the Bg7 looks very passive. White will put pressure on the isolated a- and c-pawns, protect the passed pawn on d5 with Rd1 and get the two Bishops to better placements. Frankly, I hate to play Black in this opening line, but of course it is just a matter of taste.",
+        "16. Qa4 Nb6 17. Qb5 Qd6 18. Be3 Rc8 19. Bg4 Rc7 20. Rd1": "Black cannot do much more than defend in this position.",
+        "20... h5 21. Bh3 Bf8 22. a4 Nc8": "A glimpse of hope! If Black can get the Knight to the perfect blocking square d6, the lifejacket has almost healed completely.",
+        "23. a5 Qe7 24. Bxc8": "Of course White will not allow it, and now the d-pawn causes havoc once again. Roughly speaking Black is lost already.",
+        "24... Rxc8 25. d6 Qd8": "In a lost position is is hard to give good advise, but Black had a little trick up his sleeve if he had played: 25. - Rd8!? Then 26. dxe7???? Rxd1+ ending up with a Bishops endgame and good chances for Black. But of course White can just play 26. Bxc5 Qe6 27. Rd5 followed by c3-c4.",
+        "26. d7 Rb8": "? The same as resignation, but after 26. - Rc7 27. Bg5 will be devastating. Black held on for a few more moves.",
+        "27. Qxb8 Be7 28. Qxe5 Kh7 29. Bxc5 Bf6 30. Qe8 Kg7 31. Bf8+": "There is a forced mate in eight moves. I hope the theme around the advanced d-pawn will provide you with some inspiration if you try your luck in the Gruenfeld."
+    },
+    "url": "https://gameknot.com/annotation.pl/patzerelis-gruenfeld-mini-tournament-i?gm=37868",
+    "gameName": "patzereli's Gruenfeld mini-tournament I",
+    "players": "ybrevo (2067) vs. yulio (1866)",
+    "opening": "Gruenfeld (D85), modern exchange variation"
+}

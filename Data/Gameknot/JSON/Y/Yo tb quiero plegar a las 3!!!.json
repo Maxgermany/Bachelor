@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Primera Victoria sobre Torres.",
+        "1... e5": "El Gambito Grunfeld.\n\nLa mayor\u00eda de partidas que hemos jugado Torres y yo se inician con el pe\u00f3n de Rey (e4), pero aqu\u00ed Torres inici\u00f3 con el pe\u00f3n de Reina... una salida muy com\u00fan en torneos y que requiere conocer muy bien los primeros pasos de respuesta, que empiezan casi siempre por sacar el caballo de rey a Cf6...\n\n... lo que no se suele hacer es lo que hice yo, sacar el pe\u00f3n de Rey desprotegido. Pens\u00e9 que Torres se conoc\u00eda muy bien la otra salida y opt\u00e9 por hacer una salida poco estandar y no recogida en grandes partidas.",
+        "2. dxe5": "El blanco se lleva un pe\u00f3n f\u00e1cil... pero por contra su pe\u00f3n queda muy adelantado y desprotegido. Pens\u00e9 que atacarlo le obligar\u00eda a concentrarse en defenderlo y podr\u00eda desproteger los flancos.",
+        "2... Nc6 3. Nf3 Qe7": "Sacar la dama a pasear no es lo m\u00e1s recomendado nunca... para \u00e9l, lo mejor ser\u00eda sacar la dama a Dd5... pero eso va en contra del principio de tener la dama protegida hasta que acabe la apertura.",
+        "4. Bf4": "... la maniobra m\u00e1s l\u00f3gica es esta, sacar el \u00e1lfil a defender el pe\u00f3n. Un pe\u00f3n de m\u00e1s, 2 piezas desarrolladas por una sola del negro y adem\u00e1s \u00e9ste a sacado la Dama, pero...",
+        "4... Qb4+": "Este golpe es importante. Recien levantado de la cama, un jaque que amenaza adem\u00e1s el \u00e1lfil de f4 y el pe\u00f3n de b2, con una amenaza velada a la torre de a1.",
+        "5. Bd2": "Lo m\u00e1s l\u00f3gico parece salvar el \u00e1lfil a cambio de perder un pe\u00f3n. De todas maneras la reina negra puede meterse en un atolladero de dif\u00edcil salida.",
+        "5... Qxb2": "Pe\u00f3n recuperado, amenaza a la Torre y amenaza de llevarse el pe\u00f3n de e5 doblemente amenazado.",
+        "6. Bc3": "Hay 2 opciones para defender la Torre. Sacar el Caballo a Cc3 o mover el \u00e1lfil Ac3 y amenazar la dama. Parece m\u00e1s agresiva esta jugada, pues obliga a la dama a alejarse del terreno enemigo, pero...",
+        "6... Bb4": "El golpe de gracia. El \u00e1lfil negro en Ab4 inmoviliza al \u00e1lfil blanco.",
+        "7. Qd2": "Para defender la torre:\nA) o se saca el caballo, con lo que se pierde un \u00e1lfil 7. Cc3 Dxc3\nB) se puede desbloquear el \u00e1lfil tapando con el caballo de f3 -> 7. Cfd2 Axc3, con lo que se acaba perdiendo tambi\u00e9n 1 pieza\nC) se saca la dama a d2, con lo cual todas las piezas quedan defendidas.\n\nC) parece la mejor opci\u00f3n y es la que Torres tom\u00f3, pero...",
+        "7... Bxc3": "Ahora si come con el caballo, pierde la torre y otro pe\u00f3n, el de a2. Y si come con la dama es JaqueMate...\n\n... a Torres no le debi\u00f3 gustar la situaci\u00f3n en la que quedaba, as\u00ed que se rindi\u00f3.\n\nVictoria Rel\u00e1mpago, Blitzkrieg!"
+    },
+    "url": "https://gameknot.com/annotation.pl/yo-tb-quiero-plegar-a-las-3?gm=31627",
+    "gameName": "Yo tb quiero plegar a las 3!!!",
+    "players": "charlycec (1408) vs. kandahar (1214)",
+    "opening": "Queen's pawn (A40), Englund gambit"
+}

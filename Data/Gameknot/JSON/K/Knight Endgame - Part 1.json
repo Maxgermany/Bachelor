@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3": "Hi everyone!\n\nBefore I hot up the action again I will calm things down a bit with a nice bit of endgame study.  There will be three games where this time Henry plays a more active part and Glenda for the most part is off the board.  To find out if I come out better in these games you will need to either read them through or read the GA version below.  I start out with the Reti Opening which seems to transpose into a French Defense.  Here is the GA version: http://gameknot.com/analyze-board.pl?bd=26752485&rnd=0.7949995190687167",
+        "1... e6 2. e4": "2. e4 - like this.",
+        "2... d5 3. Nc3 c5 4. exd5 exd5": "4. ...... exd5 - pawn trade.",
+        "5. Bb5+ Nc6 6. d4": "6. d4 - pin followed by pawn thrust.",
+        "6... c4 7. O-O Nf6 8. Ne5": "8. Ne5 - pile on.",
+        "8... Bd7": "8. .... Bd7 - pin breaker.",
+        "9. Qf3 Bd6 10. Re1": "10. Re1 - threatening a nastie such as Nxc6+ winning the BQ on the next turn.",
+        "10... O-O 11. Bxc6 bxc6 12. Nxd7 Qxd7 13. Bf4 Bxf4 14. Qxf4": "14. Qxf4 - a plethora of exchanges has left black with doubled pawns and Glenda takes an active position on the board.",
+        "14... Rfe8 15. Kf1 Rab8 16. Rxe8+ Rxe8 17. Re1 Rxe1+ 18. Kxe1": "18. Kxe1 - after another set of exchanges we are into an endgame.",
+        "18... Qe8+ 19. Kd2 h6 20. h3 Qe7 21. Qb8+": "21. Qb8+ Glenda steems down to b8 and puts pressure on a7.  At the moment I may need to think about giving my d4 pawn some protection.",
+        "21... Kh7 22. f3 Nh5": "22. ..... Nh5 - threatening at some stage to come to f4 or even g3.",
+        "23. Qh2 Qf6 24. Ne2": "24. Ne2 - defends against this threat and also the d4 pawn.",
+        "24... g5 25. Qe5 Qxe5 26. dxe5": "26. dxe5 - queen trade.  Now we have our knight endgame.",
+        "26... Kg6 27. g4": "27. g4 - putting the question to the h5 knight which then retreats to g7.",
+        "27... Ng7 28. Nd4 c5 29. Nc6": "29. Nc6 - threatens Nxa7 and a bit more.",
+        "29... Ne6 30. Ne7+": "30. Ne7+ - fork.",
+        "30... Kg7 31. Nxd5 Kf8 32. c3": "32. c3 - prevents Nd4 and keeps black's queenside pawns doubled and isolated.",
+        "32... Ke8 33. Ne3 Nf4 34. Nf5 Nxh3 35. Nxh6": "35. Nxh6 - pawn trade and keeping my pawn plus.",
+        "35... Nf4 36. Nf5 Ng6": "36. ...... Ng6  this move threatens Nxe5 on the next turn and it seems that there is no saving the e pawn.  However, another knight fork will save it.",
+        "37. Nd6+": "37. Nd6+ - on the next turn black's d4 pawn will drop off and the pawn on e5 will be protected giving me a 2 pawn lead in the endgame.  My opponent decided this deficit was far too much and waved the white flag."
+    },
+    "url": "https://gameknot.com/annotation.pl/knight-endgame-part-1?gm=64627",
+    "gameName": "Knight Endgame - Part 1",
+    "players": "jstevens1 (1753) vs. chorba (1781)",
+    "opening": "Reti opening (A04)"
+}

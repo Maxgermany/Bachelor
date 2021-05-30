@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "e4 is a useful openning for using bishop and quenn.",
+        "1... a6": "And this move does not give you any advantages. Actually it stops your upgrading.",
+        "2. d4 h6": "Center of the board is going to be mine... This is a big advantage.",
+        "3. Nf3 b6 4. Bc4": "As you see, i am moved my pieces to center. But opponent could not yet.",
+        "4... Bb7": "This is a small move. But after this move, you can win the game easily. Because, as i said at start: if you dont upgrade your pieces, that means, you have not pieces...",
+        "5. Bxf7+ Kxf7": "hes to take it.",
+        "6. Ne5+": "Now, if black plays 6- ... Ke8 7- Qh5+ g6 8- Qxg6#... \r\n\u0130f he plays \r\nThan black plays 6-... Kf6 7- Qf3+ Ke6 8- Qf5+ Kd6 9- Nc4+ Kc6 10- Qd5#\r\nBut he played  Ke6... still no chance...",
+        "6... Ke6 7. Qg4+ Kd6 8. Nf7+": "Because he lost his queen at start of game.. Than he resigned.."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=30027",
+    "gameName": "Team match",
+    "players": "must-er (1571) vs. saket_asati (1473)",
+    "opening": "St. George (Baker) defence (B00)"
+}

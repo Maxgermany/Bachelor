@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "normal",
+        "1... e5": "same",
+        "2. Qh5": "queen moves",
+        "2... g6": "pawn moves",
+        "3. Qxe5+": "check",
+        "3... Ne7": "safe",
+        "4. Qxh8": "down 6",
+        "4... Nbc6": "builds minor pieces",
+        "5. Bc4": "this game i feel  lost",
+        "5... Nd4": "moves kight",
+        "6. Qxd4": "down 9",
+        "6... Nf5": "bad move",
+        "7. Qd5": "queen moves",
+        "7... Ne7": "check mate in one",
+        "8. Qxf7#": "I lost"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-lillimax?gm=52841",
+    "gameName": "Challenge from lillimax",
+    "players": "lillimax (1045) vs. reachforgold (680)",
+    "opening": "KP (C20), Patzer opening"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. Nc3 d5 2. Nh3 e5 3. Nb5 c6 4. Nc3 f5 5. e3 e4 6. Qh5+ g6 7. Qe2 Be6": "After 7 moves, I lack mobility, but have a nice little fort to hide behind.",
+        "8. Na4 b5 9. d4 bxa4 10. Ng5 Qxg5 11. Bd2 Na6 12. Qxa6 Ne7 13. Qxa4 Bh6 14. Bb4 O-O": "Move 14, both sides made silly mistakes, but I believe I am in the better position.",
+        "15. Qa3 Rfe8 16. h4 Qf6 17. h5 g5 18. O-O-O g4 19. g3 Kf7 20. f4 Reb8 21. Ba5 Rb7 22. Ba6 Rbb8 23. Bb4 Rbe8 24. Bd6 Nc8 25. Be5 Qe7 26. Qa4 Qd7": "After much back and forth move 26 ends with a bishop in my 'fort'",
+        "27. Qb4 Kg8 28. Bb7": "I stupidly lose a rook trying to make a pin",
+        "28... Rb8": "As seen in these two",
+        "29. Bxb8": "..",
+        "29... Ne7 30. Bd6 Nc8 31. Be5 Nb6 32. Bd6 Qxb7 33. a4 Bf8 34. h6 Rd8 35. Bc5 Rb8": "I move into this position",
+        "36. Rh5 Nxa4": "Nxa4 makes it unwise for white to take the knight, as it leaves me open for Qxb7 and an attack on the king",
+        "37. c3": "White moves to protect the queen",
+        "37... Nxc5": "I take the bishop with my knight, once again white can not play Qxc5, however, niether can he play dxc5, as then that would be followed by Bxc4, either forcing white to lose his queen, or be checkmated.",
+        "38. Rd2": "White plays Rd2?!",
+        "38... Nd3+": "I fork the king and queen with Nd6, white is free to take the knight, but I will then play Bxb4",
+        "39. Kd1": "Kd1?! Is white panicing?",
+        "39... Nxb4": "Nxb6, game remains unresolved. One of my best sequence of moves to date:D...Despite white making mistakes at end, if better moves were made, my plan would have still worked:)",
+        "40. cxb4 Qxb4 41. Rg5+ Kh8 42. Ke2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e1?gm=26491",
+    "gameName": "League division E1",
+    "players": "laird0fmaxwell (997) vs. bharryb (1156)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

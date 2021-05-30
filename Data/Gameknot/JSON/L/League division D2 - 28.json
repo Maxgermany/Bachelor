@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 b5 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3": "Didn't want to double my pawns",
+        "7... e6 8. a3 Qxd4 9. Be3 Qf6 10. Qxf6 Nxf6 11. e5 Nd5 12. Nxd5 exd5": "Black has a strong center",
+        "13. Be2 Be7 14. O-O Nd7 15. f4 Bc5 16. Bxc5 Nxc5 17. f5 O-O 18. g4 Ne4 19. a4 b4 20. f6 g6": "Black and white are attacking on opposite sides. Black looks well placed for a queenside attack, while I am preparing a kingside attack. ",
+        "21. h4 Ng3 22. Rf2 Nxe2+ 23. Rxe2 Rfe8 24. Kf2 d4 25. h5 a5 26. hxg6 hxg6 27. Re4 c5 28. Rae1 Rab8": "very strong black center and black is two pawns up",
+        "29. e6 Rxe6 30. Re4xe6 fxe6 31. Rxe6 Kf7 32. Rc6 d3 33. Rxc5 d2 34. Rd5 Kxf6 35. Rxd2": "Black has still a favorable position, being one pawn up",
+        "35... c3 36. bxc3 bxc3 37. Rd6+ Kg5 38. Rd5+ Kxg4 39. Rd4+ Kf5 40. Rc4 Rb2+ 41. Ke3 c2 42. Kd2 Ra2 43. Rxc2 Rxa4": "Better was for black to play RxR. He would have been in good position to win the game  with two pawns up",
+        "44. Rc5+ Ke4 45. Rg5 Rd4+ 46. Kc3 a4 47. Rxg6 Rd3+ 48. Kb4 a3 49. Ra6 a2 50. Rxa2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2?gm=12778",
+    "gameName": "League division D2",
+    "players": "lovechiefs (1200) vs. ranji (1226)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

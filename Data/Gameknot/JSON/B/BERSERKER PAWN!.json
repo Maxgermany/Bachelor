@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nIn this game, a king is caught in the centre and that unlucky king's opponent then takes advantage of the situation by using a pawn to smash open some lines onto the uncastled king.  A certain queen hovers around like a vulture and then descends on it.  But whose king ends up in Old Matey's shadow and cannot escape?  Read on and see.",
+        "1... e5 2. Nf3 Nc6 3. d4": "3. d4 - the Scotch Opening.",
+        "3... exd4 4. Nxd4 Bc5 5. Be3 Qf6": "5. \u2026\u2026 Qf6 - there is tension on d4 and Glenda adds to it!",
+        "6. c3 Nge7": "6. \u2026\u2026 Nge7 - development.",
+        "7. Bc4 Ne5 8. Bb3 d6": "8. \u2026.. d6 - now Fou Leblanc has freedom in his sights.  Later on that h3 square will become a very significant landing base.",
+        "9. Nd2 Nd3+ 10. Ke2": "10. Ke2 - white is forced to move his king.",
+        "10... Nf4+ 11. Kf1 O-O": "11. \u2026..0-0 now my rook is indirectly bearing down on the WK.",
+        "12. Qf3 Neg6": "12. \u2026. Neg6 - I want to keep a knight on f4 for as long as possible so Sir Slugabout comes out to g6 to back up Sir Lollabout.",
+        "13. Bxf4 Nxf4 14. Ne2 Nxe2 15. Qxe2": "15. Qxe2? - Better I think was Qxf3 followed by Kxg2 making a right mess of my kingside pawns.  As it is my pawn structure is still intact and Glenda is still on the board!",
+        "15... Bg4": "15. \u2026.. Bg4 - it looks as though I have blundered a piece but should the WQ take off Fou Leblanc then Glenda will deal instant death to the WK on f2.",
+        "16. f3 Rae8 17. Qd3 c6": "17. \u2026\u2026 c6 - preparing a possible d5 to try and open up the e file.",
+        "18. Bc2 Qh4": "18. \u2026.. Qh4 - again # is threatened on f2!",
+        "19. Qe2 Bc8 20. Nb3 Bb6 21. a4 a5": "21. \u2026\u2026 a5 - creating a bolt-hole for Fou Lenoir at a7.  I wish to keep him on the a7-g1 diagonal for as long as possible.",
+        "22. Nd4": "22. Nd4 - so he shuts off the diagonal with his knight.  However, my f pawn is just about to go berserk!",
+        "22... f5": "22. \u2026\u2026 f5 - wait for it!",
+        "23. Qd2 fxe4": "23. \u2026.. fxe4 - wait for it!",
+        "24. Re1 exf3": "24. \u2026. exf3 - wait for it!",
+        "25. Rxe8 fxg2+": "25. \u2026.. fxg2 DOUBLE CHECK!!!  NOW - That one little pawn has done a lot of damage to white's position.  White can only move his king as it is a double check.  His best move is Kxg2 but he will still go down to a horrible checkmate!",
+        "26. Kxg2 Bh3+ 27. Kg1 Qg4+": "27. \u2026\u2026 Qg4+ - white waves the white flag as he can only interpose his queen on the next turn.  Glenda will just zap her off and deliver mate on g2.  What a game!  I will soon be writing about another game, carefully compiled by one of my buddies but for now enjoy!  Kind regards - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/berserker-pawn?gm=66858",
+    "gameName": "BERSERKER PAWN!",
+    "players": "blackflag25 (1714) vs. jotheblackqueen (1900)",
+    "opening": "Scotch (C45), Blackburne attack"
+}

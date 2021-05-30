@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nc3": "I wasn't expecting that, will just continue as usual",
+        "2... e6 3. a3": "I think this is a little defensive",
+        "3... Be7 4. e3": "Well the black bishop is locked in",
+        "4... O-O 5. Be2 d5": "I am looking to expand on the queen side and c5 is coming",
+        "6. Bg4": "I will continue with developing my pieces",
+        "6... c5 7. dxc5 Bxc5 8. Bf3": "The bishop has now moved 3 times ??",
+        "8... Nc6 9. Nge2": "it is all square but black has a little bit more space",
+        "9... a6 10. O-O Ne5": "Time to begin mobilising, I plan to exploit the half open c file",
+        "11. Ng3 Qc7 12. Be2 b5 13. b4": "I could have won a pawn here but think it is too early to exchange a bishop for a knight",
+        "13... Be7": "this C file is going to cause problems",
+        "14. Bb2 Bb7 15. Bf3 Nc4": "White is gradually being pushed back",
+        "16. Qc1 Rfc8": "The pressure on the c file is mounting",
+        "17. Re1": "Guess I'll win a minor piece here",
+        "17... Nxb2 18. Qxb2 Qxc3 19. Qxc3 Rxc3 20. Re2 Rac8": "Again maintaining the pressure and forcing white on the back foot",
+        "21. Ra2 e5 22. Rd2": "I can win a pawn here, but will consolidate first",
+        "22... e4 23. Be2 Rxa3": "I think this move deserves a !",
+        "24. Rb2 Ra1+ 25. Nf1": "White is helping black by putting his pieces into more passive squares",
+        "25... Ra4 26. Rd4 Ra1 27. g3 Ne8 28. Rd2 Bf6 29. Rb3 Rc1": "Black is much stronger, the rooks are causing chaos",
+        "30. Bg4 Rc8xc2": "Unless I have missed something white is playing into black's hands. The plan now is to simplify and put pressure on the b4 pawn which will fall eventually and leave black with a won end game",
+        "31. Rxc2 Rxc2 32. Bd7 Nd6 33. Bg4 Rb2 34. Rxb2 Bxb2 35. h3 Bc3 36. h4 Bxb4": "It is now a matter of time two passed pawns make for a won ending",
+        "37. Nh2 a5 38. Bd1 a4 39. Kf1 a3 40. Bb3 Nc4 41. Ke2 Bc3 42. Kd1 b4 43. Ng4 Na5 44. Kc2 f5 45. Nh2 Be1 46. Nf1 Bxf2 47. Ba2 Kf8 48. h5 Ke7 49. Bb3 Kd6 50. Ba2 Ba6": "This is all over bar the shouting",
+        "51. Nd2 Bxe3 52. Nb3 Nxb3 53. Bxb3 Kc5 54. Kd1 Bc4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/75th-gk-tournament?gm=35072",
+    "gameName": "75th GK tournament",
+    "players": "jucabaga7578 (1340) vs. dwardman (1663)",
+    "opening": "Queen's pawn game (A45)"
+}

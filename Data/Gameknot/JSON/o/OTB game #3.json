@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4": "Queen pawn opening.",
+        "1... c5": "I don\u2019t like Queen\u2019s gambit as black, so I played this to prevent that.",
+        "2. c3 d5": "This position is like Slav Defence, but with black going first!",
+        "3. Nf3 Bf5 4. Bf4 Nc6 5. e3 e6 6. Bd3 Bxd3": "I figured white would probably lose tempi if I did this...",
+        "7. Qxd3 c4": "And this is how.",
+        "8. Qd1 Qb6 9. Nbd2 Qxb2 10. Qc1 Ba3 11. Qxb2 Bxb2 12. Rb1 Bxc3 13. O-O": "It was touch move.",
+        "13... b6 14. Rfc1 Bxd2 15. Nxd2 Nge7 16. Bg5": "Lost another tempo.",
+        "16... f6": "Teehee!",
+        "17. Bf4 O-O 18. Bd6 e5 19. Bxe7 Nxe7 20. f4 Nf5": "!",
+        "21. Rce1": "Oh, guarding. Still doesn\u2019t work.",
+        "21... exd4 22. exd4 Nxd4 23. Nf3 Nxf3+ 24. gxf3 g5 25. f5": "!? Isolating the pawn ore.",
+        "25... Rae8": "Challenging the e-file.",
+        "26. Rxe8 Rxe8 27. Kf1 Re5": "That was another reason f5 would not be a great move for white.",
+        "28. Re1 Rxf5": "Rook endgame.",
+        "29. Re8+ Kf7 30. Ra8 Rxf3+ 31. Kg2 Ra3 32. Kg1 Rxa2": "+6!!",
+        "33. Rb8 Kg6 34. Rg8+ Kf5 35. Rh8 Kg4": "Sacrifice.",
+        "36. Rxh7": "Accepted ",
+        "36... Kf3": "Threatening mate, so white resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-game-3?gm=66100",
+    "gameName": "OTB game #3",
+    "players": "Nuno (870) vs. Eric (1297)",
+    "opening": "Old Benoni defence (A43)"
+}

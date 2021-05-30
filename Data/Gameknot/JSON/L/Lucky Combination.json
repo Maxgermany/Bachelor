@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 e6 3. d3 Bd6": "This is a little unusual for a closed Sicilian since the bishop will \"bite on granite\" with the white fianchetto.\n",
+        "4. g3 Ne7 5. Bg2 h6 6. Nf3 O-O 7. O-O": "Both sides are simply developing.  ",
+        "7... Nbc6 8. Nh4": "White wants to play f4 and start to roll up pawns on the kingside.",
+        "8... a6": "Black prepares a pawn advance on the queenside.\n",
+        "9. f4 e5": "This is probably not good as white can now push at will.   I don't think black had to worry about an e5 advance since he could retreat the bishop and then attack the center with d6.",
+        "10. f5": "White now has the possibility of f6. However it could be stronger with some preparation like Qh5 or Qg4 ( The awkward placement of the bishop leaves white options. )  ",
+        "10... b5 11. Kh1 Nd4": "Played to keep the white queen home and make room for the knight on e7 to move.",
+        "12. Ne2": "I decided to drive the knight off or exchange it before starting the kingside assault.  ",
+        "12... Nec6 13. c3 Nxe2 14. Qxe2": "Now there is no reason to delay the attack.",
+        "14... c4 15. Qh5": "Now f6 becomes a threat.   If 15. ... f6 then 16. Qg6 Kh8 17. Bxh6 gxh6 18. Qxh6ch Kg1 19. Ng6 and if black moves the rook then mate soon follows whether it goes to e8 or f7.  So ...\n",
+        "15... Qf6 16. dxc4 bxc4 17. g4": "The threat is g5! so that white can drive off the queen and f6 becomes deadly.\n",
+        "17... Be7": "This looks like a good solution it threatens white's knight and seems to prevent g5 but ...",
+        "18. g5": "It is possible to play g5 anyway although I was VERY lucky - I didn't look to see if my back rank was protected.",
+        "18... hxg5 19. Ng6": "This threatens mate on h8 so the only way out is to take the knight.",
+        "19... fxg6 20. fxg6": "Now mate is threatened on h7 and the queen is threatened by the rook on f1 ( I thought the queen rook would hold it when I played this line but fortunately the bishop holds it! )",
+        "20... Qxf1+ 21. Bxf1 Rxf1+ 22. Kg2": "The black rook is enprise and white still threatens mate, so black resigned.   Please comment and rate."
+    },
+    "url": "https://gameknot.com/annotation.pl/lucky-combination?gm=65643",
+    "gameName": "Lucky Combination",
+    "players": "JMD1952 (1200) vs. shoke (1730)",
+    "opening": "Sicilian (B23), closed, Korchnoi variation"
+}

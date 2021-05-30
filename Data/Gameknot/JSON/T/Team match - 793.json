@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "Never really played the Najdorf before, but I need to have more of a repertoire than just the Dragon on my black Sicilian play.",
+        "6. Be2 e5 7. Nb3 Be7 8. O-O O-O": "I'm not overly keen on this for black. It's quite highly played in the database, and seems fairly even, but the d6 pawn seems to be a long term weakness and development if anything slightly favours white.",
+        "9. Be3 Be6 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Qc7 13. Rfd1": "The d6 pawn is proving to be a real thorn in my side, and I am very restricted here... this does not seem a good choice of opening.",
+        "13... Nc5 14. Nxc5 dxc5 15. Nd5 Bxd5 16. exd5": "Now white has a full passed pawn, and black has little compensation for it. Torn between Rd8 to threaten the d5 pawn, Bd6 to hold rank and improve queen mobility, and c4 to prevent white playing c4 first.\n\nI don't like c4 as I cannot easily defend it and it gives white the threat of Bb6.\n\nBd6 allows me to follow with Qe7 and Nd7 will allow me to start pushing back on the kingside.\n\nRc-d8 lessens the defence on the c5 pawn, which cannot now have a pawn for support. Rf-d8 makes a later f5 pawn push less effective, and leaves the c8 rook with nowhere to go. In each of these cases white can just play c4 and I have no threats.\n\nBd6 with the intent of Qe7 and Nd7 seems the only option, with hopefully an f4 push to follow. With the knight and bishop defending c5 and e5 the rooks should be free to get some action again.",
+        "16... Bd6 17. c4 Qe7 18. Ra3 Nd7": "Desired development complete, it will be interesting to see white's new plan.",
+        "19. Bh6": "Seems odd - gxh6 is tempting were it not for Qxh6 and Rg3  threats -- I'll play this one safe.",
+        "19... f6 20. Rg3": "Ah, this is becoming clearer now. 21... Rf7 is intended, but 22. Bh5 g6 23. Bxg6 hxg6 24. Rxg6  is not pleasant - I think it should be ok after 24... Kh8 as the c8 rook and the f7 rook can activate very easily.",
+        "20... Rf7 21. Bh5 g6 22. Bxg6 hxg6 23. Rxg6+ Kh8 24. Qe2": "25. Qh5 seems the logical progression here, giving a nasty check with Bg7 . 24... Rh7 25. Qh5 Rg8 seems to prevent 26. Bh7 , 26. Rg7, or 26. Rxg8  from bearing fruit, so this is my aim for the defence of my corner.",
+        "24... Rh7 25. Qg4 Qf7 26. Rd3 Rg8 27. Rxg8+ Qxg8": "The main mating problems are removed, but the danger is still very great.\n\n28. Qe6 looks like a big risk. 28... Qxe6 29. dxe6 is a huge risk, with the bishop and knight both hanging, and 28... Rxh6 29. Qxd6 seems full of threats against the black pawns and knight.",
+        "28. Qh5": "This is a relief. Qf7 appears to relieve the big pressure on my pieces as the exchange just doesn't do white any favours. I still need to recoup the pawn loss, as d5 and h2 are now both fully passed pawns, and the extra knight is going to have its work cut out if it gets that far, but things are looking better than they were.",
+        "28... Qf7 29. Qh4": "Curious, white clearly doesn't want the trade, but after Qg6 the risks are simply huge. the rook and bishop are hanging, and if the rook moves anywhere other than d1 then Qb1 is mate. This looks very good for back now.",
+        "29... Qg6 30. Qh3": "Nice idea ... if 30... Rxh6 then 31. Qxd7 is not nice.. However, 30... Qxh6 gains material and threatens mate - Exchange of Queens is now guaranteed.",
+        "30... Qxh6 31. Qf3": "Protects the mate threat, but loses a pawn and the Queen exchange is still guaranteed.",
+        "31... Qxh2+ 32. Kf1 Qh1+ 33. Ke2 Qh5": "Game annotation for team benefit --"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=10004",
+    "gameName": "Team match",
+    "players": "eddlad (1490) vs. topazg (1489)",
+    "opening": "Sicilian (B92), Najdorf, Opovcensky variation"
+}

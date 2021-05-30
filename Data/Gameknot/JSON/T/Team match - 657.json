@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. e3 e6 4. Bd3 c5 5. c3 Nc6 6. Nbd2 Bd6 7. O-O O-O 8. Qe2 e5": "attacking the center and develop the bishop",
+        "9. dxc5 Bxc5 10. e4 h6": "avoiding the unpleasant move Ng5",
+        "11. exd5 Nxd5 12. Ne4 Be7 13. Bb5 f5": "14. Rd1! was very intresting",
+        "14. Bxc6 bxc6 15. Ned2": "better was 15.Ng3",
+        "15... e4 16. Ne5": "It is a mistake that causes the next move\r\n",
+        "16... Qd6 17. Ndc4 Ba6": "!!",
+        "18. Qh5 Qe6": "threatening Nf6 and winning a piece",
+        "19. b3 Rfd8": "!! This move is avoiding the queen return D1 square",
+        "20. Bb2 Bxc4": "The collapse has begun!",
+        "21. Nxc4 Nf4": "goodbye queen!",
+        "22. Qd1 Rxd1": "and the White resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=21705",
+    "gameName": "Team match",
+    "players": "wierdaj (1577) vs. roni16 (1395)",
+    "opening": "Queen's pawn game (A46)"
+}

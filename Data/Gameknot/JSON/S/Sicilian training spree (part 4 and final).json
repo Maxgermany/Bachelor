@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4 d6": "way too early, to make a decision like this: one of the tricks in the Sicilian is to not cover c5; d6, is usually played after e4, c5, Nc3, d6...",
+        "3. Nf3 a6 4. c3 b5": "true to the Sicilian, Black starts to conquer the Queens' wing...",
+        "5. g3 Nf6 6. d3 Bb7 7. Bg2 Nc6 8. Be3 Qb6": "not too accurate: maybe better Ng4 first...",
+        "9. O-O O-O-O": "you do not see this often: Black castling long, in the Sicilian; but why not?",
+        "10. h3": "take out Ng4...",
+        "10... g6": "clever, but a bit late...",
+        "11. Nbd2 Bg7 12. Qc2": "both players have completed development: White - as always - has reached a Grand Prix Attack setup; Blacks' position is solid, but there still has a lot of work to be done...",
+        "12... h6": "avoiding Ng5...",
+        "13. g4": "relentless...",
+        "13... e6": "preparing d5: a direct d5, would fail on e5; this is not much better...",
+        "14. Bf2 g5 15. e5": "time to break some tensions...",
+        "15... dxe5 16. fxe5 Nd5 17. Bg3": "avoiding Nf4...",
+        "17... c4+ 18. d4 Ne3": "these are the breaks...",
+        "19. Qe4 Nxf1 20. Nxf1 Nb4 21. Qe2 Bd5 22. Ne3 f6 23. exf6 Bxf6 24. Nxd5 Nxd5 25. Ne5": "the move, White was waiting for: now, Nf7 is a very unwelcome move...",
+        "25... Bxe5 26. Bxe5 Rh7 27. Bxd5 Rxd5": "building, on the pin over d4: but that will not hold long...",
+        "28. Rf1": "here is a problem...",
+        "28... Rd8 29. Qe4 Rhd7 30. Rf6 Rd7d5 31. Rxh6 Rxe5 32. Qxe5": "a clear miscalculation from Black: he was loosely counting on Qa8+, Kd7, Rh7+, Kd6, Qf3, Re1+, Kf2, Rb1, Qg3+, Kd5, Qe5+, Kc6, Qxe6+, Rd6, and Whites' attack will not hold with a piece behind...",
+        "32... Rd5": "Black is still building on the pin over d4: and at least, he is saving g5...",
+        "33. Rh8+ Kd7": "a tough decision: after Rd8, Rxd8+, Black has made no progress...",
+        "34. Qg7+ Kc6 35. Rc8+ Kd6 36. Qf8+ Kd7 37. Rd8+ Kc6 38. Rxd5 exd5 39. Qf6+ Kc7 40. Qxg5 Qe6": "just about the only move for Black...",
+        "41. Kf2": "the winning move: from now on, White will try and trade Queens - for instance: Qf7+, Qf5; after that, the free pawns on the Kings' wing are decisive: so Black resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-training-spree-part-4-and-final?gm=65071",
+    "gameName": "Sicilian training spree (part 4 and final)",
+    "players": "fiercequeen (2059) vs. opponent4 (2000-)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

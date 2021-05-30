@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. f4": "This is my second game against jstevens1, one of the higher-rated players in this tournament, and if I'd been told at the start of the tournament that I'd take a single half point from one of the top two players here, I'd have been very happy ;) Over the past couple of years, I have followed many of jstevens1's annotations, and progress through the ranks, so was delighted to have the opportunity to play against her in this tournament. Having lost as black I was out (but not hopeful) for revenge! Proceed forthwith to move 9 where the real action starts...",
+        "1... d5 2. Nf3 g6 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Kc6 9. Bxg4": "The first 7 moves lead to the starting position, and up to here is as good as forced.",
+        "9... Bg7 10. Ne6 Qg8": "...Bg7. 10. Ne6; Qg7 now seem accepted as best play.",
+        "11. d4 exd3 e.p. 12. cxd3": "as expected.",
+        "12... Na6": "and sure enough, here comes that knight!",
+        "13. d4": "as with that other game, I now expect the knight to head for c2 or d3 via b4. Threatening the pawn with the a8 rook doesn't work - Be3 defends whilst developing.",
+        "13... Nb4 14. Na3": "So far black is responding as expected, so as before I cover c2, not concerned about ...Nd3+; as 15. Ke2 Nxc1; 16. Rxc1+ with tempo and a rook on a nice file.",
+        "14... Re8 15. Bd2": "Making way for the rook, and asking about the intentions of that knight.",
+        "15... Nd5 16. Rc1+": "This can't be wrong, and I can't see anything better. Whilst e6 knight, and g4 bishop, are cutting off Henry's escape route and tying Glenda and Fou LeNoir to the far corner, along with 2 enemy rooks, it's time to point some firepower at the monarch.",
+        "16... Kb6": "Henry moves along in front of his pawns, as escape via d7 is impossible without dropping the bishop outright, or white can choose to go further and then exchange knight for rook.",
+        "17. Nc4+": "Nc4+ seems logical - though unlikely, there is a chance of ...Ka6; Nc5#. and if not then ...Kb5 or ...Kc6 and I play Na3+, Henry probably goes back to where he is now, and I've lost nothing.",
+        "17... Kb5": "Sure enough, no ...Ka6.",
+        "18. Na3+": "I can't find a way to progress with the d5 knight defending c7 and b4.",
+        "18... Kb6 19. Nc4+ Kb5": "At this point, jstevens offered a draw. Over the last couple of moves I had spent hours looking into all sorts of possibilities. e4 is a nice spot for my knight but any threats could be eliminated with Bxe4. Be2 looks lovely, but that bishop is tied to protection of the e6 knight. I considered simply castling, but decided it would take too long to get that new rook into any meaningful position. I even considered a4 to either restrict Henry further, or induce him to capture, thus bringing him closer, and opening another line for the rook. In the end, considering the strength of my opponent, I decided to grab the offered draw! Thanks for the game Joanne."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-ii?gm=28260",
+    "gameName": "The Annotation Project II",
+    "players": "8ballphoenix (1579) vs. jstevens1 (1785)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

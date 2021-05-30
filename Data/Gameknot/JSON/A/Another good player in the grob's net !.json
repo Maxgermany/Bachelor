@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. g4 d5 2. Bg2": "starting the most risky grob, it wasnt volontary, it's just a mistake from me !\r\ngood players never get in this trap (2/...- bc4 3/ c4 - d5xc4 4/ Bxb7 ...etc) and then is very dificult to get back the g4 pawn.",
+        "2... Bxg4 3. c4 e6": "ho ! this is uncomon, now the bishop in g4 is blocked",
+        "4. Qb3": "treathening b7 and preparing c4 x d5",
+        "4... b6": "ho ! \r\nthis was THE mistake, he is opening the diagonal h1 a8  ignoring the treath of the bishop g2",
+        "5. cxd5 exd5 6. Bxd5": "this was very easy\r\nnow we have double treath : Bd5xa8 and Bd5xf7\r\nthe game is done. \r\nThis is very typical of wining games whith grob",
+        "6... c6 7. Bxf7+ Ke7": "wining the g8 knight\r\nand soon wining the g4 bishop...",
+        "8. Bxg8 Nd7 9. Qb4+ c5 10. Qe4+": "i prefer wait before taking the bishop because it whould just be a exchange whith mine in g8",
+        "10... Kf6": "ho ho, it's becoming hard for black",
+        "11. Bd5": "I choose to loose a tempo and keep my bishop because my game is not well developped and I will need some more pieces to mat",
+        "11... Bf5 12. Qf4": "bishop nailed",
+        "12... g5 13. Qf3": "nailed anyway ! \r\nand now it'getting hot for the a8 rook !...",
+        "13... Rc8 14. b3": "preparing Bc1 b2, treathening the h8 rook and developing my pieces to mat",
+        "14... Ne5": "MISTAKE : this knight igore my next move whith bishop ! ",
+        "15. Bb2": "here we are !",
+        "15... Bd6": "the knight is still nailed, and i win a tempo",
+        "16. e4": "vicious pawn attacking !",
+        "16... g4": "MISTAKE : the queen take the f5 bishop\r\nthis is the pleasur of blitz, bad player like me has sometime his chance whith good players.",
+        "17. Qxf5+ Kg7 18. Qxg4+": "there is no hurry, ",
+        "18... Kf8 19. Qf5+": "and then we go back on the same critical situation",
+        "19... Ke8": "i whould like to mat in f7, so i have to eat this knight !",
+        "20. Bxe5 Bxe5 21. Qxe5+": "this was a mistake of me, it should be mat whith the queen in f7, so black resign and get disconnected, \r\n\r\nMost of the time oponents get digusted when loose against grob.\r\n\r\nI'm not so proud of this game because there was a lot of mistake from the black, but it's a good exemple of how grob attack disturb the minds !\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/another-good-player-in-the-grobs-net?gm=44430",
+    "gameName": "Another good player in the grob's net !",
+    "players": "31415 (890) vs. nairbp (1600)",
+    "opening": "Grob (A00), Fritz gambit"
+}

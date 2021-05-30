@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Qf3 e6 3. d3 d5 4. Nd2 Nc6 5. Qg3 g6 6. Nb3 Bg7 7. Bg5 Nge7 8. Rc1": "Ok, what?  This does not protect Pb2.  Why not castle queen's side?",
+        "8... Nb4 9. Qh4": "Pa2 is vulnerable too now.",
+        "9... f6 10. Bxf6 O-O 11. Bxe7": "Free knight, almost.  Still must protect the queen before you can retract the bishop.",
+        "11... Qd7": "Oh, take the rook!",
+        "12. Bxf8": "Nice.",
+        "12... Bxf8 13. Nf3 Be7 14. Qf4 Nxa2 15. Ne5 Qe8 16. exd5": "Did you forget your rook?",
+        "16... Nxc1 17. Nxc1 exd5 18. h4 Bd6 19. c4": "Pd4, PxP, Nc1d3 saves the knight.",
+        "19... Bxe5 20. Qh6": "Nope.  Queen cannot be on any black square black's bishop can attack by discovered check.  Bg7 or Bf4 and the white queen bites the dust.",
+        "20... Bf4+ 21. Ne2": "I would have used the bishop.  You could move the knight later.",
+        "21... Bxh6 22. Kd1": "From here it looks like force mate.",
+        "22... Qa4+ 23. Ke1 Qa1+ 24. Nc1 Qxc1+ 25. Ke2 Bg4+ 26. f3 Qe3+": "Nope.  Qd2#.  Black does not need a wall, and is just drawing it out.",
+        "27. Kd1 Qd2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=49690",
+    "gameName": "Let's play chess",
+    "players": "stekilvington (1085) vs. wingshooter (1307)",
+    "opening": "Sicilian defence (B20)"
+}

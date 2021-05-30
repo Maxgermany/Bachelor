@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 f5 2. Bf4 Nf6 3. Nf3 e6 4. Nbd2 g6 5. e3 Bg7 6. h4": "This is an almost thematic move against the Dutch. h5 is in sight.",
+        "6... Nc6 7. Be2": "I need to threat BxN after h5.",
+        "7... b6 8. Nc4": "Aiming to e5. Black can defend with d6, but this seems to be uncoherent with the Bb7 plan.",
+        "8... Nd5 9. Bg5 Nde7": "Better would have been Bc6. This keeps the knight pinned.",
+        "10. h5": "Of course...",
+        "10... d5": "hxg6 is ok, but I have a good grimp on black's position with...",
+        "11. h6 Bf8 12. Bf6 Rg8": "Now, I want to place a knight on g5, aiming to h7. For some reason I didn't do it just now. (you know, blitz...)",
+        "13. Nce5 Qd6 14. a4": "Dreaming of supporting the bishop on b5 as for some trick pinning the king. ",
+        "14... Bd7": "Ah, but then...",
+        "15. Ba6": "No castling, and no a6. ",
+        "15... Nxe5 16. Bxe5": "Black overlooks Qb4+, Qd2, Qxb2, o-o but probably he feared a rook trap with Bxc7 and Bb7.",
+        "16... Qc6 17. Bb5 Qb7 18. Ng5": "So, finally I got there.",
+        "18... c6 19. Be2 O-O-O": "Finally, black castles. Ok. but...",
+        "20. Nxh7": "...and after Nc6, black cannot stop the pawn without losing a piece. Apart from this, a5 is a strong attack, once prepared. "
+    },
+    "url": "https://gameknot.com/annotation.pl/crusching-the-dutch?gm=43544",
+    "gameName": "Crusching the Dutch",
+    "players": "damalfi  vs. kenderfender ",
+    "opening": "Dutch (A80)"
+}

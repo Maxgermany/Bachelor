@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4": "The French Defense. So far, so normal.",
+        "2... c5": "Krejcik makes it a mixture of the French and the Sicilian.",
+        "3. d5": "Natural.",
+        "3... Nf6": "Attacking the base of the Pawn chain.",
+        "4. f3": "Supporting the Pawns, but exposing the K!-KR4 diagonal.",
+        "4... Nxe4": "Krejcik makes a sacrifice to get at Ziegelmeyer's exposed King.",
+        "5. fxe4": "Accepting the sacrifice.",
+        "5... Qh4+": "The natural follow-up.",
+        "6. Kd2": "K-k2 isn't any better.",
+        "6... Qf4+": "Continuing the King-hunt.",
+        "7. Kd3": "The King has no support.",
+        "7... c4+": "Pressing onwards.",
+        "8. Kd4": "Seeking what shelter he can.",
+        "8... Nc6+": "Ziegelmeyer graciously resigns before he can get mated."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game?gm=33457",
+    "gameName": "Casual Game",
+    "players": "Ziegelmeyer  vs. Krejcik ",
+    "opening": "French defence (C00)"
+}

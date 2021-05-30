@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "The reason for annotating this game is mainly because i'm bored by the slow speed my opponent plays and the non-resignation....\r\nAnother reason is that i like to show that my opponent is unable to draw only by exchanging and playing passive. There's hope for those that hate those boring play...........",
+        "1... g6 2. g3 Bg7 3. Bg2 Nf6 4. e4 d6 5. Nc3 O-O 6. Be3 e5 7. dxe5 dxe5 8. Qxd8 Rxd8 9. Nge2 c6 10. O-O Be6 11. b3 Nbd7 12. Rad1 Ng4 13. Bc1 f5 14. h3 Ngf6 15. Bg5 Nf8 16. Rxd8 Rxd8 17. Be3 a6 18. a4 Bf7": "That e6-square is where a knight should be standing! Control over d4, f4, g5, c5.",
+        "19. exf5 gxf5 20. Rd1": "Draw offer. It seems that white is only playing for a draw. Well, lets see if he can transform an equal position into half a point.......",
+        "20... Rxd1+ 21. Nxd1 Ne6": "Black is somewhat better positioned. A pair of hangin' pawns and weak black squares on the q-side to compensate white.",
+        "22. c3": "Protects d4, but i think white should try to unbalance the black centre by f2-f4 and g3-g4. After that a few more exchanges can take place and a draw is near.",
+        "22... Nd5 23. Bxd5": "Strategical blunder.",
+        "23... cxd5 24. b4 d4": "Time for action! The black centre will disappear but the pair of bishops gets stronger and the silly white pieces are dominated. Besides that, black gets a strong passed pawn on its way to promotion.",
+        "25. cxd4 exd4 26. Bc1 d3 27. Nf4": "????\r\nLosing by force, 27. N2c3 was the only move to stay alive for at least awhile.",
+        "27... Nxf4 28. gxf4": "If 28.Bxf4 then 28...Bb3 and the knight has no place to go: 29.Nb2/c3 -> Bxb2/xc3 and after 29.Ne3 the d-pawn promotes: 29...d2!",
+        "28... Bb3 29. Ne3 Bc3": "White is losing a piece now. After 30.Nf1 black will snack on the q-side: Bxb4 and Bxa4 and the d-pawn is still a pain in the ass for white",
+        "30. Nxf5 d2 31. Bxd2 Bxd2 32. b5": "Why not resign?",
+        "32... Bxa4": "32...a6-a5 was better, but the game is won anyhow; black is playing for the quickest win, not the theoretical best way.",
+        "33. bxa6 bxa6 34. Nh6+ Kg7 35. Nf5+ Kf6 36. Nd4 Bxf4": "Maybe 36...Bd1 and a6-a5-a4-a3-a2-a1Q wins faster?",
+        "37. Kf1 Bd7 38. Ke2 Bxh3 39. Kf3 Be5 40. Nb3 Be6": "Bishops ideally posted, now its time to run and collect the point finally......",
+        "41. Nc5 Bd6 42. Ne4+": "Not falling for the trick! 42.Nxa6 Bc7 and the knight is trapped",
+        "42... Ke5 43. Ng5 a5 44. Nxh7": "Falls for the same trick as on move 42, but now thats on the other side of the board......",
+        "44... Kf5": "I guess 44...a5-a4 would have won as well, but maybe the white player resigns playing 2 pieces down???????"
+    },
+    "url": "https://gameknot.com/annotation.pl/pacpacmans-mini-tournament?gm=3701",
+    "gameName": "pacpacman's mini-tournament",
+    "players": "prince26 (1647) vs. jaromir (1817)",
+    "opening": "Modern defence (A40)"
+}

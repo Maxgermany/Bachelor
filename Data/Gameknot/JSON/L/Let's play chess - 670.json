@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 g6 2. Bc4 Bg7 3. d3 e5 4. Nc3 Nf6 5. Nd5 c6 6. Nxf6+ Bxf6 7. Qf3 h6 8. Ne2 Qe7 9. Be3 b5 10. Bb3 a5 11. a3 a4 12. Ba2 Na6 13. c4 b4 14. O-O b3 15. Bb1 Bg5 16. Nc3 Bxe3 17. Qxe3 Nc7 18. d4 d6 19. d5 c5 20. Bd3 Bd7 21. Rae1 O-O-O 22. Nb5": "My attempt to seal the king side has failed!",
+        "22... Rdg8 23. Qd2": "Further breach of my King side.",
+        "23... Nxb5 24. cxb5 Qd8 25. Rec1 Qb6 26. Qb4 Kb7 27. Qxa4 Rga8 28. Qxb3 Qa5": "Here 28...,Ra5 looses out to 29 a4,...",
+        "29. f4 Qb6 30. fxe5 c4+ 31. Kh1 cxb3 32. exd6": "Never go grabbing other's pawns, when my own f7 is threatened.\nBetter 32...,Rhf8 first.",
+        "32... Qxd6 33. Rxf7": "Start of a very nice combination that I did not spot...",
+        "33... Rhf8 34. Rc6 Qe5": "Only hope is to get to the back rank...",
+        "35. Rxd7+": "While the attack looks threatening, there is no immediate checkmate.",
+        "35... Kb8 36. b6 Qxb2 37. h3": "This is a white blunder. While h3 solves the immediate checkmate problem for white, this move enables a draw position to become available to black.\nBetter 37 Rdc7!, which removes blacks checkmate threat and retains pressure on black king.",
+        "37... Qa1+ 38. Kh2 Qe5+": "The draw is a reality.\n39 g3 is met with ...Rf2\n40 Kg1, Qxg3\n41 Kh1, Qg2 ++",
+        "39. g3 Rf2+ 40. Kg1 Qxg3+ 41. Kh1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=30377",
+    "gameName": "Let's play chess",
+    "players": "joziewelz (1343) vs. thefjbear (1365)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

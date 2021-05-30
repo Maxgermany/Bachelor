@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "Black loses the queen early and then gets slaughtered.",
+        "1... e5 2. f4 exf4 3. Bc4 Qh4+": "Risky if you are not careful...",
+        "4. Kf1 Bc5": "Threatens mate but easily blocked.",
+        "5. d4 Bb6": "Now White seizes the initiative...",
+        "6. Nf3": "Drives Q away with tempo.",
+        "6... Qg4": "? Misses threat.",
+        "7. Bxf7+": "Of course! Now white has an advantage. Black can't take due to the fork, can't castle and is under attack.",
+        "7... Ke7 8. Nc3": "Develops",
+        "8... Kxf7": "?? Loses the Q.",
+        "9. Ne5+ Kf6": "? Suicide. ",
+        "10. Nxg4+ Kg5": "? A slaughter begins.",
+        "11. h4+": "Drives the K back",
+        "11... Kg6 12. Ne5+": "Black must lose more material",
+        "12... Kf6 13. Nd5+": "Now the king is trapped in the center",
+        "13... Ke6 14. Qg4+": "Brings the Q into the attack .",
+        "14... Kd6 15. Nf7+": "Wins material and forces K to bad square.",
+        "15... Kc6 16. c3": "Prevents the K from getting out of fire with plans of mopping up",
+        "16... Nf6 17. Qxg7": "Wins rook and continues attack",
+        "17... Re8": "? Rook is lost.",
+        "18. Nxf6 Re7": "Misses threat.",
+        "19. Nd8+": "A crushing check",
+        "19... Kd6": "? Best was Kb5, which hangs on.",
+        "20. Bxf4+": "The K is trapped ",
+        "20... Re5": "Forced",
+        "21. Bxe5#": "Mate in the center. A real slaughter!"
+    },
+    "url": "https://gameknot.com/annotation.pl/slaughter?gm=53820",
+    "gameName": "Slaughter",
+    "players": "dmaestro (1566) vs. NN (1475)",
+    "opening": "KGA (C33), bishop's gambit, Greco variation"
+}

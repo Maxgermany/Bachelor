@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. g4 d5 2. Bg2 c6 3. g5 e5 4. d4 e4 5. Nc3 Bb4 6. h4 Be6 7. Bd2 Qb6 8. a3 Bd6 9. e3 Nd7 10. b4 h6 11. Nh3 f6": "Probably not the best move but it will be hard for white to find a good plan,",
+        "12. Qh5+ Kf8": "Preparing the trap by defending g7. The idea is to lure the queen to g6. Now the queen can escape to e2 but with queen on g6 black could play h5 to block the escape.",
+        "13. Ne2": "White with black king on the kingside white attempts to move pieces closer to the opponent's king. It seems that white does not understand that the position of his queen is problematic.",
+        "13... g6": "At first I did not believe that this combination works. With knight on e2 the queen can not escape.",
+        "14. Qxg6 Ne7 15. Qh5": "The queen is already lost. Looks like Qxh6 is the was the best option for white.",
+        "15... Bf7 16. g6": "A desperate move",
+        "16... Bxg6 17. Qg4 f5": "Winning the queen and the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=30449",
+    "gameName": "Team match",
+    "players": "sawboss-6260 (1687) vs. mistergo (1673)",
+    "opening": "Grob (A00), spike attack"
+}

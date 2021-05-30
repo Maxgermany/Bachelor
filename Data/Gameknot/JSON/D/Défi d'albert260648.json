@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 e6 5. Bg2 d5 6. e3 Be7": "Prudence et d\u00e9veloppement plut\u00f4t que de prendre le pion.",
+        "7. O-O dxc4": "Assez de prudence. On prend. ",
+        "8. b3": "Plut\u00f4t que Qa4 qui reprend le pion mais laisse la Dame blanche dans une position avanc\u00e9e (avec du pour et du contre).",
+        "8... cxb3": "Comme disait Confucius, un pion est un pion.",
+        "9. axb3 O-O 10. d4 cxd4 11. Nxd4 Nxd4 12. exd4": "Les blancs ont maintenant deux pions isol\u00e9s.",
+        "12... Bb4 13. Bb2 a5 14. Re1 Nd5 15. Bxd5 exd5 16. Re3 Be6 17. Nb5 Qb6 18. Qd3 Rac8 19. Ba3": "Vient \u00e0 la rescousse du Cavalier.",
+        "19... Bxa3 20. Nxa3 Rc6": "Les blancs ont r\u00e9ussi \u00e0 se lib\u00e9rer, mais les noirs vont tenter d'utiliser au maximum la colonne c ouverte.",
+        "21. Qd2 Rfc8 22. Rd1": "Abandonne l'id\u00e9e d'attaquer le pion a5 mais il fallait regrouper les pi\u00e8ces en particulier le Cavalier qui devra passer par b1.",
+        "22... h6": "Un coup d'attente qui peut \u00eatre utile plus tard en enlevant toute possibilit\u00e9 de mat sur la derni\u00e8re rang\u00e9e.",
+        "23. Rde1 Qa6": "En vue du coup suivant.",
+        "24. Qd1 b6 25. Qb1 b5": "\u00c9videmment, pourquoi n'avoir pas jou\u00e9 cela tout de suite au coup pr\u00e9c\u00e9dent. Un gars a le droit de changer d'id\u00e9e.",
+        "26. Qd3 b4": "Voil\u00e0 la raison du changement d'id\u00e9e. L'\u00e9change des dames n'est pas si mauvais pour les noirs.",
+        "27. Qxa6 Rxa6 28. Nb1": "Ce cavalier va enfin pouvoir \u00eatre plus utile. Nb5 \u00e9tait r\u00e9fut\u00e9 par Be7.",
+        "28... Rac6": "De retour sur la colonne ouverte.",
+        "29. Re3e2 Rc6c1 30. Kg2": "Sinon, les noirs jouent R(c8)c2.",
+        "30... Rxe1 31. Rxe1 Rc2 32. Rd1 Rb2 33. Nd2 Bf5": "Il y a peu de choses que les blancs auraient pu faire pour emp\u00eacher de perdre du mat\u00e9riel suppl\u00e9mentaire.",
+        "34. Nf1 Be4+": "Un petit coup interm\u00e9diaire avant de prendre le pion, pour bloquer la colonne e.",
+        "35. Kg1 Rxb3 36. Ra1 Rb1 37. Rxa5": "Tour prend tour n'\u00e9tait pas mieux. Les pions pass\u00e9s noirs ne sont pas arr\u00eatables.",
+        "37... Bd3 38. Rxd5 Bxf1 39. Rd8+": "N\u00e9cessaire pour placer la tour noire sur une case noire."
+    },
+    "url": "https://gameknot.com/annotation.pl/d-fi-dalbert260648?gm=3099",
+    "gameName": "D\u00e9fi d'albert260648",
+    "players": "albert260648 (1301) vs. guy04 (1790)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

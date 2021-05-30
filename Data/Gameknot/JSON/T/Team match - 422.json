@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. Qa4+ Bd7 7. Bb5 Nd5 8. a3 a6 9. Bxd7+ Qxd7 10. Nc3 cxd4 11. Qxd7+ Nxd7 12. Nxd5 exd5 13. Nxd4 Ne5 14. Ke2 Be7 15. f4 Nd7 16. b4 Bf6 17. Bb2 Nb6 18. Rac1 Nc4 19. Rc2 O-O 20. Kf2 Rfe8 21. Re1 Rac8 22. Bc1 g6 23. g3 Re4 24. Nb3 b6 25. a4 Nd6 26. Rxc8+ Nxc8 27. Bd2 Nd6 28. a5 bxa5 29. Nxa5 d4 30. Nc6 dxe3+ 31. Rxe3 Rxe3 32. Bxe3 Nc4 33. Bc5 Nd2 34. Nb8 Ne4+ 35. Kf3 Nd2+ 36. Ke2 Nb3 37. Nxa6 Nxc5 38. Nxc5 Be7 39. Kd3 Kf8 40. Kc4 Ke8 41. b5 Kd8 42. Kd5 Kc7 43. Nb3 Kb6 44. Kc4 h6 45. h3 f5 46. Nd4 Bc5 47. Ne6 Be7 48. g4 fxg4 49. hxg4 h5": "Key decision: f5 not pxh5.",
+        "50. f5 gxf5": "Black takes wrong pawn by advancing back pawn instead of front pawn.  He could have kept a pawn on g4.  Instead he will have a pawn on row 5, further from promotion and giving me the choice of pawn position.  Now pxh5 so my pawn is further from his kink and his pawn is closer to mine.",
+        "51. gxh5 Bf6": "Advance pawn to h7 for imminent danger to opponent.",
+        "52. h6 Be5 53. h7 Bf6 54. Nf4 Bh8 55. Ng6 Bg7 56. Nf8": "Offer sacrifice of night for pawn promotion, or if he advances pawn his pawn then fork pawn/bishop.",
+        "56... f4 57. Ne6 Be5": "The pawn was lost.  No sense protecting it.  The intense need to protect his last pawn led him to folly.",
+        "58. Nxf4": "Another offer of night sacrifice for pawn promotion.",
+        "58... Ba1": "This bishop move allows me to check then interpose my king protected knight protecting my pawn promotion.",
+        "59. Nd5+ Kb7 60. Nc3 Bxc3 61. Kxc3 Kb6 62. Kc4": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=38857",
+    "gameName": "Team match",
+    "players": "worldtraveler (1353) vs. dokimos (1320)",
+    "opening": "QGA (D26), classical variation"
+}

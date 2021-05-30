@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nd2": "I really don't like when my opponent plays the french defense. That's why I joined the tournament \"French battles\". I hoped to discover the weaknesses of the defense by playing it.\nRecently I started to play the Tarrasch variation which at first sight is complex, but actually is quite comfortable for the white.",
+        "3... Nf6": "Black avoids resolution of the center. Closed variation.",
+        "4. e5": "Botvinnik Variation.",
+        "4... Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Be7 8. Bd3 Qb6 9. Ne2 f5": "So far the main ideas of the Tarrasch variation were more or less deployed. Neither of us 2 knew enough theory to know the continuation.\nNow the White comes to the first serious decision: taking the pawn e.p. implies also taking the c-pawn and playing an open, sharp position. I believed the black would gain too much space and initiative, and prepared myself for a long war.",
+        "10. O-O c4 11. Bb1": "Bc2 was better: it spares the rook one tempo to get into play. However, I liked the threat of Qc2, after the Black has castled.",
+        "11... O-O 12. Kh1 Rd8": "The Black wants to free up f8 for the knight. I wonder if Re8 would have been better to this purpose: d8 might be used by the queen as well, and from e8 the rook would defend the critical e6 point. 12. ... ; Qc7 with the ideas b5-b4, Rb8, Nb6, would have maybe been better.",
+        "13. Rg1 Nf8 14. g4 Ng6": "Why? This will only attract the attackers!",
+        "15. gxf5 exf5 16. Ng3 Rf8": "The net effect of the last 5 moves of the black has been to bring the knight from d7 to g6. Meanwhile the White gained a passed pawn, an open file and is sharpening the blades.",
+        "17. Qf1": "The idea of 11. Bb1 was to play Qc2, and this move is inconsistent with the plan. Now Qc2 would be purposeless, given the defenders of f5. The queen must find another way.",
+        "17... Bd8 18. Qh3 Nce7 19. Ng5 h6 20. Nf3": "The knight is content of having weakened the castle and duly comes back to base.",
+        "20... Bd7 21. Nh5": "Another knight comes into play. For the moment the black Ng6 is blocked, along with the knight e7 defending it.",
+        "21... Be8 22. Nd2": "The idea at the time was probably Nf1-g3/d3. The simple 22. Nh4 was more to the point.",
+        "22... Nc6": "This is a mistake. The f5 pawn must not fall!\nThe computer analysis suggest the continuation: Qe6 23. Bc2 (which again proves the inconsistency of 11. Bb1) Rc8 24. Nf3 Rc6 25. Bd2 Rb6 26. b3 Bc7 27. Nh4 Kh8 28. Rae1 Bb5 29. Rg3\n",
+        "23. Bxf5 Nce7 24. Bc2": "Be6+ was an option, but I did not want to swap pieces after Bf7.",
+        "24... Rxf4 25. Nxf4": "No! After 25. Bxg6 Nxg6 26. Rxg6 Qxg6 27. Nxf4 the white gets one piece.",
+        "25... Nxf4 26. Qg4 Neg6 27. Nf3 Nd3 28. Bxd3 cxd3": "That's a dead pawn walking.",
+        "29. h4 Qc7": "Better 29. ... h5 30. Qxh5 Qe6 31. Qg4 Qxg4 32. Rxg4",
+        "30. h5 a5": "To let the rook in.",
+        "31. hxg6 b5": "This is a blunder. Ra6 was necessary. The computer suggests the continuation:\n\n32. Qf5 Qc6 33. Qxd3 Bxg6 34. Qe2 Be4 35. Bf4 Qe6 36. Raf1 Qh3+ 37. Bh2 Bg5 38. Rg3 Qe6 39. c4",
+        "32. Qe6+ Kf8 33. Ng5": "The white wins sooner with 33. Rf1 Bf7 34. Ng5 Bf6 35. Nh7+ Kg8 36. Nxf6+ Kh8 37. gxf7 Qc8 38. Qe8+ Qxe8 39. Nxe8 Kh7 40. f8=Q Rxe8 41. Qxe8",
+        "33... hxg5 34. Rf1+ Bf6 35. exf6": "best 35. Bxg5 Bxg6 36. Rxf6+ gxf6 37. Bh6+ Qg7 38. Qxf6+ Ke8 39. Qxg7 Ra6 40. Bg5 Be4+ 41. Kg1 Re6 42. Qg8+ Kd7 43. Qf7+ Kc6 44. Qxe6+ Kb7 45. Bd2",
+        "35... Bxg6 36. Qe7+": "If you look at how the white played, you will notice an excessive avoidance of complication. There is always time to give check: I could have gained more with Qd5+. The white wins anyway, and that's what made me spare energy at this point.",
+        "36... Qxe7 37. fxe7+ Kxe7 38. Bxg5+ Ke6 39. Kg2 Be4+ 40. Kg3 b4 41. cxb4 axb4 42. Bd2 Rc8 43. Rac1 Ra8 44. Bxb4 Rxa2 45. Ba3": "That a nice trap, isn't it? :D however, again the white missed the best sale. Look at this:\n\n45. Rc6+ Kd7 46. Rd6+ Ke8 47. Rb6 Bf5 48. Rxf5 Rxb2 49. Rf8+ Kd7 50. Rf7+ Kc8 51. Rc6+ Kd8 52. Ra6 Rc2 53. Ra8+ Rc8 54. Rf8+ Kc7 55. Raxc8+",
+        "45... g6 46. Kf4 Bg2 47. Rfe1+ Be4 48. Rxe4+ dxe4 49. Kxe4 d2 50. Rd1 g5 51. Kd3 Kd5 52. Kc3 g4 53. Kb3 Rxa3+ 54. bxa3 Kxd4 55. Rxd2+ Ke3 56. Rd8 g3 57. Rg8 Kf2 58. a4 g2 59. a5 g1=Q 60. Rxg1 Kxg1": "Sometimes less is more: a single pawn is enough, in the end.",
+        "61. a6 Kf2 62. a7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/french-battles?gm=37757",
+    "gameName": "french battles",
+    "players": "ciocionheart (1894) vs. piratiizi (1731)",
+    "opening": "French (C05), Tarrasch, Botvinnik variation"
+}

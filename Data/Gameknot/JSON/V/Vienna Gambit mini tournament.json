@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. Bc4 c6 5. d4 Bb4 6. Nge2 Nxe4 7. O-O Nxc3 8. bxc3 Be7": "The starting position for all the games. White is about to win back one of the two gambited Pawns. ",
+        "9. Nxf4": "The natural move.",
+        "9... d5 10. Bd3": "Obvious.",
+        "10... Bd7 11. a4": "A \"just in case\" move, to make sure Black doesn't get any Q-side ambitions.",
+        "11... a5 12. Qe2": "Pinning pieces is never a bad idea.",
+        "12... b6 13. c4": "Trying to open up more lines.",
+        "13... Be6 14. cxd5": "Undoubling my Pawns after the anticipated exchange.",
+        "14... Qd6 15. Bb2": "Well, if Black doesn't want to recapture...",
+        "15... cxd5 16. Bb5+": "Ah. Black just delayed it by a move. Anyway, may as well seize this diagonal.",
+        "16... Bd7 17. Rae1": "Adding force to the pin.",
+        "17... Bxb5 18. Qxb5+": "The clear choice. No way I'm closing the line by recapturing with the Pawn.",
+        "18... Nd7 19. Nxd5": "Bringing another piece into attack position.",
+        "19... O-O 20. Nxe7+": "I'm not about to pass on a free Bishop.",
+        "20... Kh8 21. Qg5": "May as well move the Q over towards Black's K.",
+        "21... f6 22. Qg4": "A tactical retreat.",
+        "22... f5 23. Nxf5": "Grabbing a loose Pawn. 23... Q-N3 was the expected reply, after which I intend to exchange Queens and win in the endgame. ",
+        "23... Nf6 24. Qxg7#": "On the other hand, an immediate mate is fine too."
+    },
+    "url": "https://gameknot.com/annotation.pl/vienna-gambit-mini-tournament?gm=62259",
+    "gameName": "Vienna Gambit mini tournament",
+    "players": "last_archimedean (1458) vs. rondol (1202)",
+    "opening": "Vienna gambit (C29)"
+}

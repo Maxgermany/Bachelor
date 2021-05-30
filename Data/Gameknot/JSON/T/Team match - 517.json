@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "usual opening",
+        "1... d5 2. c4 e6 3. Nc3 c6": "d5 to open up c on black",
+        "4. cxd5 exd5": "not what was expected",
+        "5. Nf3": "gives strong position of e5",
+        "5... f6": "made the sensible move",
+        "6. e3": "want to build strong pawn base and not sacrifice on e4",
+        "6... Bd6 7. Bd3 Be6 8. O-O Ne7": "now we can go e4 with d3 and c3 in place",
+        "9. e4 Nd7 10. Qb3 Nb6 11. exd5 Nexd5 12. Re1": "pin the bishop on the king and if black castle win the bishop",
+        "12... Qe7 13. Bf5": "pressure on king line",
+        "13... Nxc3 14. Rxe6": "king pin worked, surprising really",
+        "14... Ncd5 15. Rxe7+ Kxe7": "surprised again that king was used and not bishop",
+        "16. Be4 Nc7 17. Qe3 Ne6 18. a4": "lost direction I feel",
+        "18... a5 19. Qb3 Bb4 20. d5 Nc5": "now being chased",
+        "21. Qd1 Rad8": "a good move",
+        "22. Qe2 Rhe8": "another good move ",
+        "23. Bxh7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=32332",
+    "gameName": "Team match",
+    "players": "shine001 (1296) vs. cazuaga (1228)",
+    "opening": "QGD (D31), semi-Slav"
+}

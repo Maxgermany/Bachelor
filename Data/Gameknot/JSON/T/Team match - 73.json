@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. c4 c5 2. Nf3 Nc6 3. Nc3 e6 4. g3 Nf6 5. Bg2 Be7 6. O-O O-O": "I don`t like  the Black structure. What about you?",
+        "7. d3 a6": "a6 after this move The Black structure is not much better\n",
+        "8. Bf4 d5 9. cxd5 exd5 10. Ne5 Nxe5 11. Bxe5 Be6 12. Qc2 Bd6": "Bd6? A Mistake because the pawn on d6 is not so good",
+        "13. Bxf6 Qxf6 14. Nxd5 Bxd5 15. Bxd5 Qe7 16. Bg2 Rab8": "Rb8? I think he should play Rac8 to play a little bit more active.",
+        "17. Rac1 b6 18. e3 Rfc8 19. b3 Rc7 20. Qe2 a5 21. Rc4 Rd8 22. Rfc1 Rcd7 23. Re4 Qf6 24. d4 cxd4 25. Rxd4": "Ok I don`t think that Black can win a half point or a full point yet.\n",
+        "25... Bc5 26. Rxd7 Rxd7 27. Rd1 Rxd1+ 28. Qxd1 g6 29. h4 b5 30. a4 bxa4 31. bxa4 h6 32. Bf1 Qe6 33. Qd8+ Kg7 34. Qxa5 Qe5 35. Qd2 Bb6 36. Qc1 Qe4 37. Qa1+ Kh7 38. a5": "Run pawn run!",
+        "38... Ba7 39. a6 Qg4 40. Qe1 Qe6 41. Qd2 Qg4 42. Qd5 Qe6 43. Qxe6 fxe6 44. Kg2 Kg7 45. Kf3 Kf6 46. Ke4 Bb6 47. f4 h5 48. Bb5 Ke7 49. Bc6 Kd6 50. Bb7 Ba7 51. Kf3 Ke7 52. e4 Kd6 53. g4 Ke7 54. gxh5 gxh5 55. f5 e5 56. Ke2 Kd6 57. Kd3 Kc7 58. f6 Kd7 59. f7 Ke7 60. Bd5 Kf8 61. Kc4 Ke7 62. Kb5 Kf8 63. Kc6 Ke7 64. Kb7 Bd4 65. a7": "poor Bishop\n",
+        "65... Bxa7 66. Kxa7 Kf8 67. Kb6 Ke7 68. Kc7 Kf8 69. Kd6 Kg7 70. Ke7": "Thank you for reading my annotation!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=60410",
+    "gameName": "Team match",
+    "players": "tacticrob (1719) vs. qwer36 (1609)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

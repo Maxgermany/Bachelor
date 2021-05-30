@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. Na4 Bb6 5. Nxb6 axb6": "The beginning of problems--poor compensation for a king bishop.",
+        "6. d4 exd4 7. Qxd4 Qf6 8. Bg5 Qxd4 9. Nxd4 f6 10. Be3 Ne7 11. Bc4": "f6 was very weakening and now castling is not an option.",
+        "11... Nbc6 12. Nb5 Kd8 13. O-O Na5 14. Bd3 Be6 15. Nd4 Bd7 16. c3 Nac6 17. a3 Nxd4 18. cxd4": "Now with control of the center and proper piece placement, white looks good.",
+        "18... c6 19. d5 c5 20. b4 Kc7 21. Rfc1 Ng6 22. Rc3 Rhe8 23. Re1 Ne5 24. Be2 g5 25. f3 h6 26. g3 Ra7 27. f4 Nf7 28. Bh5 Rf8 29. Bd4 Nd8": "Black is overlooking the diagonal the dark squared bishop is on.",
+        "30. bxc5 bxc5 31. Rxc5+ dxc5 32. Bxc5 Rxa3 33. Bxa3 Rh8 34. Rc1+ Kb8 35. f5 Be8 36. Bd6+ Ka7 37. Bg6 Rg8 38. Bxe8 Rxe8 39. Rc8 Rh8 40. Be7": "The position is resignable for black right here. The problem goes back to the central pawn formation he allowed at move 17...Nxd4.",
+        "40... Nf7 41. Rxh8 Nxh8 42. Bxf6 Nf7 43. e5 b5 44. e6": "If Black ever gets back to this game, I should expect ...Nd6, when Be5 wins."
+    },
+    "url": "https://gameknot.com/annotation.pl/unfaithfservants-mini-tournament-vi?gm=30613",
+    "gameName": "unfaithfservant's mini-tournament VI",
+    "players": "jhfit (1829) vs. parsahabibi (1662)",
+    "opening": "Vienna game (C25)"
+}

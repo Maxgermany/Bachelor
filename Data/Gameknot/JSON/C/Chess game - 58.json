@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "Queens gambit!",
+        "1... d5 2. c4 dxc4": "Accepted ",
+        "3. e4 e5": "This was new",
+        "4. d5": "Pawn",
+        "4... h6": "Pawn \nFirst I thought ? but then I realized in later moves",
+        "5. Bxc4": "Even now",
+        "5... Nf6": "Knight. You see, the pawn on h6 was so that I couldn\u2019t pin his/her knight.",
+        "6. Nc3": "Knight",
+        "6... Bb4 7. Bd2 Bxc3": "Smart, but...",
+        "8. Bxc3 Nxe4 9. Bxe5": "Bxe5 and we\u2019re back to 0!",
+        "9... Qg5 10. Qf3": "?",
+        "10... Qxe5": "Whew! I was expecting Qd2+",
+        "11. Ne2": "Prepared to castle Kingside",
+        "11... O-O": "Beat me to O-O",
+        "12. d6": "!?",
+        "12... Nxd6 13. Bd3 Qxb2 14. O-O": "Castling late and guarding rook",
+        "14... Nd7 15. Bb1": "The point here, if QxR, Bh7+ winning the queen.",
+        "15... Ne5 16. Qe3 Ndc4 17. Qe4": "How did I win this!",
+        "17... Nd2": "?? big fork, but...",
+        "18. Qh7#": "I win checkmate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=65174",
+    "gameName": "Chess game",
+    "players": "eric2jin (White) vs. gogipalo (Black)",
+    "opening": "QGA (D20), 3.e4"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "Una sconfitta ignominosa... ma interessante l'apertura.",
+        "1... Nf6 2. Nf3 g6 3. Bf4 Bg7 4. c4": "Ho voluto variare il mio schema abituale, con c6, ma ...",
+        "4... O-O 5. Nc3 d5 6. e3 c5": "Questa \ufffd un'apertura che non conosco ancora bene, la Tartakower, se non sbaglio... sempre difficile per me con le bianche. ",
+        "7. Nb5": "Come sempre, vado sull'aggressivo. Il DB dava come inferiore per il bianco questa linea, ma non avevo visto nessuno che giocasse la prossima come me, quindi ho voluto provare. Ecco cosa succede a non avere i libri delle aperture. ",
+        "7... Na6 8. Qa4 Qb6 9. Ne5": "Ed eccoci nella classica posizione ipercomplicata, con mille varianti, che non so analizzare. ",
+        "9... Bf5 10. Bd3 Bxd3 11. Nxd3 dxc4 12. Qxc4 Rac8 13. a4": "Questa era necessaria, per non dover ritirare il cavallo. Avevo visto c5xd4, naturalmente, ma non tutte le sue implicazioni. ",
+        "13... cxd4": "Se prendo di cavallo, perdo b2. Sarebbe stato meglio che perdere un pezzo...",
+        "14. Qxd4 Qc6": "Mi minaccia g2, gi\ufffd che ci siamo. ",
+        "15. O-O Rfd8": "...e devo perdere un pezzo. Cerco di sfruttare tutto quello che posso, ma non c'\ufffd niente da fare. L'unica era Ce5, e non so perch\ufffd non l'ho vista... la partita \ufffd finita! Comunque, anche dopo Ce5, De6, e non mi resta che Dxa7, che comunque no \ufffd una buona posizione. Meglio comunque della seguente...",
+        "16. Nxa7 Qe6 17. Qe5 Rca8 18. Qxe6 fxe6 19. Rfd1 Rxa7 20. Ne5 Nd5 21. e4 Rf8 22. Nd7 Rxf4 23. exd5 exd5 24. Rxd5 Nb4 25. Rd2 Rd4 26. Rad1 Rxa4 27. g3 Rxd2 28. Rxd2 Ra2 29. Nc5 b6 30. Rd8+ Kf7 31. Nd7 Bd4 32. Rf8+ Ke6 33. Rf4 Nc6 34. Nf8+ Kd6 35. b3 Rb2 36. Nxh7 Rxb3 37. h4 Rxg3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/failed-against-tartakower-4-p-in-c-d?gm=20228",
+    "gameName": "Failed against Tartakower (4 p in c-d)",
+    "players": "damalfi (1661) vs. haddibje (1720)",
+    "opening": "King's Indian (A48), London system"
+}

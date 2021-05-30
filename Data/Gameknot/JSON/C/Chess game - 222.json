@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "Queen's Gambit.",
+        "1... d5 2. c4": "If Black Takes The Pawn White Will Control The Center.",
+        "2... dxc4 3. Nf3": "A Good Developing Move For The Knight.",
+        "3... b5": "?",
+        "4. a4": "Breaking The Pawn Chain.",
+        "4... c6": "Protects The B PAWN.",
+        "5. e3 Bd7 6. Ne5": "A Good Post For The Knight. ",
+        "6... e6 7. axb5": "Pawn Trade.",
+        "7... cxb5": "Accepts.",
+        "8. Qf3": "Black Resigned.Why? White Has A Mate At f7 and Is Attacking The Rook. Bye Now."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=29586",
+    "gameName": "Chess game",
+    "players": "Blackburne (1200) vs. Fleissig (1200)",
+    "opening": "QGA (D21), Ericson variation"
+}

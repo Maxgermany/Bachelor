@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. d4 Nd7": "Could have also played 3. ... Nf6",
+        "4. Bc4 c6 5. dxe5 dxe5 6. Be3 Be7 7. Nc3 Qc7 8. a4 Nc5 9. b4": "It is probably not the right time to attack. Should have played 9. Ng5 to threathen the weak f7 pawn. It also forces 9. ... Nh6 10. h3 to prevent 10. ... Bg4",
+        "9... Ne6 10. Rb1 Nf6 11. O-O O-O 12. Ne1 b5 13. Bd3 a5 14. axb5 axb4 15. b6 Qb7 16. Ne2 c5 17. c3 Bd7 18. cxb4 cxb4 19. Ng3 Nc5": "Black threatens the e4 and c6 pawns",
+        "20. Bc4 Ncxe4 21. Nxe4 Nxe4 22. Bd5 Bc6 23. Bxc6 Qxc6 24. Qh5 Nc3 25. Rb2 Qb5": "Defending the e5 pawn",
+        "26. Nf3 Ne2+ 27. Rxe2 Qxe2 28. Qxe5 Bf6 29. Qc5 b3 30. Bf4 Rfe8": "An astute move seeing that White is trying his last desperate move, to move the white pawn forward.",
+        "31. b7 Qxf1+ 32. Kxf1 Ra1+ 33. Bc1 b2": "And white surrenders!"
+    },
+    "url": "https://gameknot.com/annotation.pl/philidors-defense?gm=12703",
+    "gameName": "Philidor's defense",
+    "players": "Bardeleben  vs. Alekhine (1)",
+    "opening": "Philidor (C41), Hanham, Krause variation"
+}

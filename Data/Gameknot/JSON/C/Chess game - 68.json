@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d6 2. Nc3 Nf6 3. e4": "vers l'attaque autrichienne",
+        "3... Nbd7 4. f4 e5 5. dxe5 dxe5 6. f5": "prise de l'espace \u00e0 l'aile roi\nprotection du pion arri\u00e9r\u00e9 limit\u00e9 le Fou c8",
+        "6... c6 7. Nf3 Bb4 8. Bd3": "Protection de e4 obligatoire",
+        "8... Bc5 9. Na4": "pour parer l'\u00e9chec avec c3",
+        "9... Qa5+ 10. c3 Be7 11. b4": "prise de l'espace \u00e0 l'aile dame pour pouvoir roquer",
+        "11... Qc7 12. O-O O-O 13. Bb2": "Finir le d\u00e9veloppement, donner la grande diagonale au fou de cases noires apr\u00e8s c4",
+        "13... b5 14. Nc5 Nxc5 15. bxc5 Bxc5+ 16. Kh1": "L'enfermement du fou de cases blanches noir compense le pion m\u00eame apr\u00e8s c4",
+        "16... Bb7 17. c4": "attaque 2 fois e5",
+        "17... Ng4 18. Qe2": "\u00e9vite la fourchette en e3 et quitte un vis-\u00e0-vis possible avec une tour noire",
+        "18... bxc4 19. Bxc4": "Les fous blancs sont bien plac\u00e9s",
+        "19... Rae8 20. Nd2": "L'id\u00e9e est d'activer une tour sur l'aile roi par Tf3",
+        "20... Ne3": "active le plan blanc",
+        "21. Rf3 Bd4 22. Rxe3": "L'\u00e9change me para\u00eet favorable. Le Fb7 ne joue pas et les deux tours blanches sont activ\u00e9es. \nLes noirs doivent prendre en b2 et perdre leur fou actif",
+        "22... Bxb2 23. Rf1 Red8 24. Rg3": "le pion e5 bloque la position noire",
+        "24... Qd6 25. f6": "ferme l'acc\u00e8s \u00e0 l'aile roi",
+        "25... g6 26. Nf3": "le cavalier se dirige vers h4 et le Fb2 est attaqu\u00e9",
+        "26... Bd4 27. Nh4 Rfe8 28. Nxg6 hxg6 29. Rxg6+ Kf8 30. Rg8+": "les noirs abandonnent"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=61950",
+    "gameName": "Chess game",
+    "players": "Canard (Bruno) vs. Bougarra (Tayeb)",
+    "opening": "Queen's Pawn (A41)"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. Nf3": "Black is dangling, between opening systems: the usual approach is 3. e5, following the Philidor...",
+        "3... Nbd7 4. e5 dxe5 5. dxe5 Ng4 6. Bf4 e6 7. Bc4 Bc5 8. O-O O-O": "the smoke has cleared: let's see what we got...",
+        "9. c3 Nb6 10. Be2 Nd5 11. h3 Nxf4 12. hxg4 Nxe2+ 13. Qxe2 Qe7 14. Nbd2": "White concludes development...",
+        "14... b6 15. Ne4 Bb7 16. Nxc5 Qxc5 17. Nd4 a5 18. f4 Ba6 19. Qe4 Bxf1 20. Rxf1": "Black has a minor material advantage: but White has the play...",
+        "20... Rad8 21. Kh2": "getting out of the pin...",
+        "21... Rd5 22. Kg3": "opening up the h-file...",
+        "22... Rfd8 23. Rh1 g6 24. f5": "knocking on Blacks' door...",
+        "24... Rd5xd4 25. cxd4 Qxd4 26. Qxd4 Rxd4 27. f6": "locking in Blacks' King...",
+        "27... Rd3+ 28. Kf4 Rd2 29. Kg5": "setting up a tempo trap: we are putting Black out of moves...",
+        "29... c5 30. a4 c4 31. Rc1": "from here, Black is practically lost...",
+        "31... Rd4 32. b3": "forcing the issue...",
+        "32... Rd2 33. Rxc4 Rd8": "forced...",
+        "34. Kh6 Kf8 35. Kxh7 Ke8 36. Kg7 g5 37. Rc7": "taking away, Blacks' last moves...",
+        "37... Rd7 38. Rxd7 Kxd7 39. Kxf7": "it is enough: Black resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-instructing-again?gm=64163",
+    "gameName": "Fierce Queen instructing again...",
+    "players": "fiercequeen (2059) vs. billdavies (1512)",
+    "opening": "Pirc defence (B07)"
+}

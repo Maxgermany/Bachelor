@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5": "Sicilian Defense.",
+        "2. h4": "White's most common responses are Nf3 or Nc3.  While h3 is uncommon, h4 appears to give black a bit of an advantage.",
+        "2... Nc6 3. h5": "Pushing a pawn into the black king side castle can be useful after black has castled.",
+        "3... Nf6 4. g3": "Pg3 leaves Pe4 undefended.",
+        "4... Nxe4 5. h6 gxh6 6. Rh4 d5 7. d3 Nf6 8. Bxh6 Bxh6 9. Rxh6 Be6 10. Bh3 Qa5+ 11. c3 Bxh3 12. Nxh3 O-O-O 13. b4": "Black has a pawn, knight, and queen guarding this square.  A trade leaves white down another pawn without improving his position or developing pieces.",
+        "13... cxb4 14. Qd2 bxc3 15. Nxc3 Nd4": "Here white must guard against Nf3+, which would give black the white queen.",
+        "16. Ng5": "This does the trick, temporarily.  Black's counter will prove brutal.",
+        "16... Rhg8": "Black parries.  NxPf7 threatens the d8 rook, but gives black a queen and knight for a rook and pawn.\n\n17. Nxf7 Nf3+\n18. Ke2 Nxd2\n19. Nxd8 Qxc3\n20. Rd1 (or somewhere the queen won't snatch it--maybe Re1).",
+        "17. Rb1": "Instead of Rb1 white might better play Ne2.  Black will trade queens, probably followed by Nxe2.\n19. Nxf7, Rdf8\n20 Ne5 maybe, or Kxe2.  White is better off avoiding even trades now.",
+        "17... Rxg5": "Excellent move, because at first look it wouldn't seem the rook was worth a knight.",
+        "18. Qxg5 Nf3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=61734",
+    "gameName": "Let's play chess",
+    "players": "santiabgo (1117) vs. thabian (1200)",
+    "opening": "Sicilian defence (B20)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Hi everyone!\r\n\r\nI hope you are all having a nice weekend.  After coming on the wrong end of a tactical melee in my previous annotated game at least The Beginner got one tactic right in her game against a Class A 1800+ player called Jean-Pierre.  I drew my MT game with him as white so it was nice to get a win with the black pieces over him.  I played against The Vienna Opening which I remember trying out against Coach Ion without too much success.  The gameknot analysis link to the game is as follows:- http://gameknot.com/analyze-board.pl?bd=15246679&fb=1&rnd=0.599032368192871.  The moves of this opening are e4 e5 and Nc3 rather than Nf3.",
+        "2... Nf6 3. f4 d5": "3. ...... d5 - it is not good to play exf5 here as 4. e5 is quite strong.",
+        "4. fxe5 Nxe4 5. Nf3 Bc5 6. Qe2": "6. Qe2 - both sides concentrate on getting their pieces out.",
+        "6... Bf2+": "6. ..... Bf2+ displaces the WK, unless the Wicked Witch of the West wishes to commit chessic suicide by taking on f2!",
+        "7. Kd1 Nxc3+ 8. dxc3": "8. dxc3 - and now the queenside pawn structure is disturbed.",
+        "8... Bb6 9. Bg5 Qd7 10. Kd2 h6": "10. ..... h6 - drives back Jean-Pierre's dark squared bishop.",
+        "11. Be3 O-O": "11. .... 0-0 - time to tuck Henry away.",
+        "12. Rd1 Qa4 13. Ra1 Bf5 14. b3 Qe4": "14. ...... Qe4 - suddenly Glenda is threatening a nasty check on c2/",
+        "15. Rc1 Nd7 16. Bxb6 axb6": "16. ..... axb6 - now my queenside pawn structure is also busted.",
+        "17. Qxe4 Bxe4": "17. ....... Bxe4 - queen trade.  White is gonna have a job to avoid losing a pawn here.",
+        "18. a4 Bxf3 19. gxf3 Nxe5": "19. ..... Nxe5 - the preceding move, Bxf3 removed the knight that was guarding the e5 pawn so that my own horsie could snap it up.",
+        "20. Bg2 Nd7 21. f4 c6": "21. ..... c6 - my d5 pawn must be backed up.",
+        "22. Rhe1 Rfe8 23. h4 Nf6": "23. ..... Nf6 - a preparatory move to attempt to get the major pieces off the board to try and exchange into a won ending 1 pawn to the good.",
+        "24. Bf3 Rxe1 25. Rxe1": "25. Rxe1 - stage 1 - the first set of major pieces have been traded off.",
+        "25... Re8 26. Re5 Kf8 27. Kd3 Nd7": "27. ...... Nd7 - a cunning attempt to trap the rook on e5 for if Rf5??  then g6 wins it.",
+        "28. Rxe8+": "28. Rxe8+ - so white exchanges it.",
+        "28... Kxe8 29. c4 dxc4+ 30. Kxc4 f5": "30. ...... f5 - even though I am a pawn up, Operation Joblock comes into being.  This move blocks out the line of white's lsb on the vital h3-c8 diagonal because I do not wish that nuisance bishop to wend his way to c8 attacking my backward b7 pawn.",
+        "31. b4 Ke7": "31. ..... Ke7 - now Henry comes into the battlefield.",
+        "32. b5 Kd6": "32. ..... Kd6 - Henry takes over Glenda's mantle, guarding a vital pawn, namely the c6 and b7 pawns.  I now have plans for that white pawn on f4.  Methinks my steed can purloin it for Henry's dining table tonight!",
+        "33. h5 Nf8 34. c3": "34. c3 - if my opponent knew what was coming he would have played Kd4 preventing the loss of that pawn but he did not and now my steed comes to e6 and there is no way Jean-Pierre can now avoid losing a second pawn in the endgame.  Jean-Pierre decided to wave the white flag.  A good win here.",
+        "34... Ne6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/removal-of-the-guard?gm=36597",
+    "gameName": "Removal of the Guard",
+    "players": "pilou (1816) vs. jstevens1 (1773)",
+    "opening": "Vienna gambit (C29), Kaufmann variation"
+}

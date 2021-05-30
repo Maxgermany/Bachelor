@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5": "Sicilian.",
+        "2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. Nb1c3 a6 8. Na3 d5 9. cxd5 exd5 10. exd5 Nb4 11. Be2 Bc5 12. O-O O-O 13. Bf3 Bf5 14. Bg5 Re8 15. Qd2 b5 16. Rad1": "That move looks to complete white's development.",
+        "16... Nd3": "16 ... Nd3 Dubbed Octopus Knight by Raymond Keene.",
+        "17. Nab1 h6 18. Bh4 b4 19. Na4 Bd6 20. Bg3 Rc8 21. b3 g5 22. Bxd6": "22 Bxd6 Qxd6 The DSB exchange.",
+        "22... Qxd6": "And looks like black's development completes here.",
+        "23. g3 Nd7 24. Bg2 Qf6 25. a3 a5 26. axb4 axb4 27. Qa2": "Ironically, two moves from now she has to move back to d2.",
+        "27... Bg6 28. d6 g4 29. Qd2 Kg7": "Looks to protect the king.",
+        "30. f3 Qxd6": "30 ... Qxd6 31 fxg4 Pawn exchange that opens up the f file.",
+        "31. fxg4 Qd4+ 32. Kh1 Nf6 33. Rf4": "Threatens to capture the queen, but she needs to stay on the a7-h1 diagonal, where a7 is the only safe square for her.",
+        "33... Ne4": "...Or black can interposition with the knight. 33 ... Ne4 is stronger than 33 ... Qa7.",
+        "34. Qxd3": "This is why Ne4 is stronger. 34 ... Nf2+ forks the king and queen, except for that f4 rook...",
+        "34... Nf2+ 35. Rxf2": "But it gives black a free queen for his LSB.",
+        "35... Bxd3 36. Rfd2": "White played this instead of 36 Rxd3 to put pressure on black's queen.",
+        "36... Qe3": "...But then now e3 is a safe square for the queen while staying on the a7-h1 diagonal.",
+        "37. Rd2xd3": "Capturing the bishop while threatening the queen.",
+        "37... Rc1": "Black would want to exchange now.",
+        "38. Nb2": "White decides not to go for the exchange yet.",
+        "38... Qf2": "But now she's safe on f2.",
+        "39. Nd2": "39 Nd2? Allows black to mate in 3. Nc3 would also allow mate. Perhaps Rxc1?",
+        "39... Rxd1+": "White has no choice but to recapture now.",
+        "40. Nxd1 Re1+": "Karpov resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/brisbane-bombshell?gm=32049",
+    "gameName": "Brisbane Bombshell",
+    "players": "Anatoli Karpov  vs. Garry Kasparov ",
+    "opening": "Sicilian, Szen variation, Dely-Kasparov gambit (B44)"
+}

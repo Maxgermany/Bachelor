@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3": "Closed sicilian",
+        "2... Nc6 3. Nf3 a6 4. d4 b6": "? I thought that Black should have taken it",
+        "5. d5 Na5 6. e5 e6 7. d6 f6 8. Bxa6": "? A weird sacrifice but I was banking on the fact my opponent would play...",
+        "8... Rxa6": "??...this. Bxa6 is better and would have developed a piece as well",
+        "9. Nb5": "Threatening Nc7+",
+        "9... fxe5 10. Nxe5 Qf6": "I thought that this was wrong as now the c7 square is undefended.\nMaybe Ne7 returning some of the material.\n",
+        "11. Nc7+ Kd8": "Forced",
+        "12. Bg5": "Deflects the queen off the f7 square",
+        "12... Qxg5": "Nh6 Bxf6 gxf7 would held out for a few more moves...(Thanks yoshark for the comment)",
+        "13. Nf7#": "A nice touch\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian?gm=24049",
+    "gameName": "Sicilian",
+    "players": "???  vs. ??? ",
+    "opening": "Sicilian (B23), closed, 2...Nc6"
+}

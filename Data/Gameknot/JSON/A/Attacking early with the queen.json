@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. c4": "Alright, in this game we see the power of a well-executed early attack with the queen. My opponent didn't exactly play optimally, but he also made a few good moves that I didn't expect. So, let's begin.",
+        "1... e5 2. e4 c6": "Preparation for d5.",
+        "3. a3 Nf6": "Further preparation for d5, as well as a possibility of Ne4.",
+        "4. f3": "A mistake. I would have been more inclined to play Bd3, Kc3 or d3. Although it guards the e4 pawn, this opens a possibility of an attack on the kingside.",
+        "4... d5": "The move is ready now, as the pawn is being attacked twice and defended three times.",
+        "5. cxd5 cxd5 6. d4": "An interesting position. I have three options here. 6...Nxe4, 7. fxe4, dxe4 leaves me behind slightly in material, but with a passed pawn. However, at this stage of the game, a passed pawn isn't worth too much. 6...exd4 7.Qxd4 is bad, I have an isolated d pawn I can't support. If I take dxe4, then after 8.Qxd8, Kxd8, I've lost the right to castle and have a bad king position. If I play 6..dxe4, then it gets interesting. If 7. fxe4, Nxe4, then I'm up a pawn and have a knight trained on f2 and after playing Qf6 or Qh4, I have a mating threat. On the other hand, if he plays 7.dxe5...",
+        "6... dxe4 7. dxe5 Qa5+": "Another possibility was QxQ, forcing him to retake with his king and losing the opportunity to castle. However, this move puts him in check and lets me retake on e5. Plus, if he plays b4 instead of Bd2, I can play Bb4+, and axb would be met with QxR.",
+        "8. Bd2 Qxe5": "Puts me a pawn ahead, gets my queen and knight out of danger, and threatens the ungarded b2 pawn and the rook behind it. Plus, it also threatens exf3+ which is huge trouble for white. At best, he loses his queen, (10. Qe2, fxe2) or a rook while I promote (10. Be2, fxg2, and then fxh1 with a promotion cannot be avoided.), while at worst he can get mated. (10.Kf2, Bc5, 11. Kf3, Bg4#, or 11.Bd3, Qd3, 12. Kg3, Bd6, 13. Kh4, g5#)",
+        "9. f4": "Although this ruins the possibility of exf3+, I can still take the b pawn and attack the queenside rook. Still, with 10. Nb3 or Bb3, I can't quite take it. Not yet. Still, I'm disrupting his position and building a lead in pawns, which can prove quite decisive in endgame. ",
+        "9... Qxb2 10. Bb5+": "This was definitely a mistake. As it is, although I can't take the rook, I do get some free material out of that bishop.",
+        "10... Qxb5": "At this point, I'm two pawns and a bishop ahead in material, I have two pieces developed to his one, and I have a passed pawn. Meanwhile, his position is in shambles due to a badly guarded king and lack of offense. ",
+        "11. Nc3": "Good move. It develops a piece, gains a tempo by attacking my queen, and his rook and queen are now guarding each other.",
+        "11... Qc6": "This one gets my queen out of danger and gives a natural followup e3. If white doesn't take precautions, I can get a double attack of Qxg2 (which makes Qxh1 unavoidable), and exd2. However, both are foiled by Qe2, as it pins the e pawn to my king whilst defending the g pawn. So, I need additional preparation first.",
+        "12. Qe2 Bg4": "Thanks to the protection from my knight on f6, e3 is almost ready, if he plays Qe3, I can counter with Bb5, which will drive the queen away.",
+        "13. Qe3 Bc5 14. Qg3 Bd4": "Now I add a new threat to the equation, pinning his knight against the rook. When I play e3, although Qxg2 is no longer a good idea, If he moves his bishop, I can play Bxc3, forking his king and rook. If he doesn't, I just play exd2, and follow up with Bxc3.",
+        "15. Rc1": "Unpins and defends the knight, but it doesn't matter, as the time is ripe.",
+        "15... e3 16. Bxe3": "By taking the pawn, he's decreased the number of defenders on the knight from 3 to only 1. So...",
+        "16... Bxc3+": "Here I have all sorts of fun opportunities. If he playes 17. Rxc3, I just retake with my queen, whilst if he attempts defense with the bishop, then after 17.Bd2, Ne4, 18.Rxc3, Nxg3, 19.Rxc6, Nxh1, I've won a rook outright. If he tries playing 17.Kf1, then after 17...Qc4 18.Ne2, Qxe2+, 19.Kg1, he's trapped in the corner yet another piece down. (And not 18.Kf2 because of Ne4#. If 17.Kf2, then Ne4 forks the king and queen). ",
+        "17. Rxc3 Qxc3+": "There are several lines from here, all of which are highly in my favor. Either 18.Kf2, Ne4+ 19.Kf1, Qd3+, 20.Ke1, Qd1# (or 20. Ne2, Qxe2+, 21.Kg1, Qd1+, 22.Qe1, Qxe1#) 18. Bd2, Qa1, 19. Kf2, Ne4+ 20.Ke3, Nxg3 (19.Bc1 would delay it one more move but only changes Ne4 from check to checkmate.), 18. Kf1, Qd3+, 19. Ke1, Qd1+, 20.Kf2, Ne4# (or 19. Kf2, Ne4+ 20. Ke1, Qd1#), or 18.Kf1, Qd3+ 19. Ne2, Qxe2+ 20. Kg1, Qd1+, 21.Qe1, Qxe1#.",
+        "18. Kf2 Ne4+ 19. Kf1": "And this is when my opponent resigned. We started out fairly even, but I just kept chipping away at his position with my queen, and it eventually led to this. So remember, if the position is open, then beware the power of the queen! "
+    },
+    "url": "https://gameknot.com/annotation.pl/attacking-early-with-the-queen?gm=30258",
+    "gameName": "Attacking early with the queen",
+    "players": "issa38i (1194) vs. nicholas1024 (1200)",
+    "opening": "English opening (A20)"
+}

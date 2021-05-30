@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c6 2. f4 b5 3. Nf3 d6 4. c3 Bg4 5. d3 e6 6. h3 Bh5 7. g4 Bg6": "Blacks' style of opening is exotic: to say the least...",
+        "8. Be3 Be7 9. f5": "why not?",
+        "9... exf5 10. exf5 Bxf5 11. gxf5 Bh4+": "what seems the only justification, to sac a full piece...",
+        "12. Kd2 Bf6 13. h4 Ne7": "castling might be an option...",
+        "14. Bg5 Nd5 15. Qe2+": "Black has been careless...",
+        "15... Qe7 16. Bxf6 Qxe2+ 17. Bxe2 gxf6": "better Nxf6...",
+        "18. c4 bxc4 19. dxc4 Nf4 20. Nc3 Nd7 21. Nd4 Rc8 22. Bf3 Ne5 23. Rae1": "pinning the Knight...",
+        "23... Kd7 24. Rhg1": "aiming for g7...",
+        "24... Nxc4+ 25. Kc2 Ne5 26. Rg7 Rcg8 27. Reg1 Rxg7 28. Rxg7 Re8 29. Be4 d5 30. Bd3 Nexd3 31. Rxf7+ Re7 32. Rxf6 h5 33. Nxc6 Re8 34. Nxa7": "no rest, for the wicked...",
+        "34... d4 35. Ncb5 Re2+ 36. Kb3 Rxb2+ 37. Kc4 Rc2+ 38. Kxd4": "careless...",
+        "38... Nc5 39. Rd6+ Ke7 40. Nc6+ Kf7 41. Ne5+": "relentless...",
+        "41... Kg7 42. f6+ Kg8 43. Rd8+ Kh7 44. Ke3 Nfe6 45. Rc8 Rxa2 46. f7 Kg7 47. Nd6 Ra3+ 48. Kd2 Nb3+ 49. Kc2": "classic: the lone King, attacking two pieces...",
+        "49... Nbd4+ 50. Kb2 Rb3+ 51. Ka2": "out of reach...",
+        "51... Rh3 52. Ne8+ Kh7 53. Nf6+ Kg7 54. Nxh5+": "clearing out, Blacks' last pawn: taking away, all of his winning chances...",
+        "54... Kh6": "the losing move: safer was Kh7, and capture h4 after that; f7 cannot be stopped...",
+        "55. f8=Q+ Nxf8 56. Rxf8 Kxh5": "takes the bait: also here, Rxh4 was still saving...",
+        "57. Rh8#": "done..."
+    },
+    "url": "https://gameknot.com/annotation.pl/good-enough-to-annotate?gm=65087",
+    "gameName": "good enough to annotate...",
+    "players": "fiercequeen (2059) vs. footloooose (1437)",
+    "opening": "Caro-Kann defence (B10)"
+}

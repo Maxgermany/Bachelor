@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6": "Four Knights' Game I guess.",
+        "4. Bc4 Nxe4": "Trying to be tricky.",
+        "5. Nxe4 d5": "I thought the fork would be clever. Opening up my center pawns, developing pieces, trying to get back the tempo white got by going first.",
+        "6. Bb5 dxe4 7. Bxc6+ bxc6 8. Nxe5 Qg5": "At this point I wasn't feeling very tricky at all. I had ruined my Queen-side pawn structure, and had doubled isolated pawns on the C-file with nothing much to show for it but a weak attack.",
+        "9. h4 Qxe5": "9 h4 seemed like an odd choice. The knight could have been saved. Better might have been Nxc6, though it lets black's queen rampage for a while.",
+        "10. O-O Bd6": "Develop a piece and threaten mate - gain a tempo.",
+        "11. g3 O-O 12. d3 f5": "I'm not sure why I did this. Probably better to just liquidate and go for the exchange of pawns. I guess I wanted to open my rook on f8.",
+        "13. Re1 Qc5": "If 14. Pxe4 Pxe4, 15. Rxe4?? black plays Qxf2 and mayhem ensues.",
+        "14. Be3 Qe5": "Threatening b2.",
+        "15. d4 Qe6 16. c3 Bb7": "Bd7 wouldn't give the bishop anything he didn't already have (which isn't much yet). On b7, he's behind the c6 pawn, but once that moves, he will extend sharp pressure on the center, and then on the kingside with that horribly weakened pawn structure.",
+        "17. Qb3 Qxb3": "White should have been more reluctant to exchange queens while behind in material.",
+        "18. axb3 h6 19. Ra5 Kh7": "To chase the rook if he eventually tries to move over to e5 or attack f5.",
+        "20. Rea1 a6 21. Bf4 Bxf4": "White's last move was dubious. More material exchange, and not good for white's pawn structure. This leads to white's downfall.",
+        "22. gxf4 Kg6": "! Pawn hunting. Black cannot win with just a bishop advantage - he has to break the pawn formation and find a way to get a pawn advantage and eventually promote the pawn. This move will do it. It helps that white's two rooks are on the far side of the board where they are far removed from defending the ruined king-side pawns.",
+        "23. Rf1 Kh5 24. f3 Kxh4": "It was a bit scary that white had built a short pawn wall - I was afraid of him finding a way to get a rook to h2. But I knew I could squirm out of that, and I needed to work on my material advantage.",
+        "25. fxe4 fxe4 26. Re5 Rae8 27. Rxe8 Rxe8": "White makes another unnecessary exchange of his dwindling material.",
+        "28. Kg2 Kg4": "The opposition. White's king isn't going to save his pawn on f4. I have no fear of the discovered check and I can hide behind my pawns to escape a perpetual check.",
+        "29. Rf2 Rf8": "Obvious continuation.",
+        "30. c4 Rxf4 31. Rxf4+ Kxf4": "And now it's a lock. Best for white would be Kf2 to stop the advance of black's passed e pawn, but then black just advances the g and h pawns for the win. The lone king cannot stop all three passed pawns, and white cannot force his queen-side pawns to break through.",
+        "32. d5 Ke3 33. Kf1 Kd2": "And now the e pawn has a clear and protected path to promotion.",
+        "34. d6 cxd6": "But first I have to stop white from promoting a pawn of his own.",
+        "35. Kg2 e3 36. b4 e2 37. c5 e1=Q": "Sure, white is gobbling my pawns, trying to promote his own pawn, but now I can safely ignore that and get the checkmate before his pawns become any real threat.",
+        "38. cxd6 Ke3 39. b5 Qf2+ 40. Kh3 Kf4": "Or 40. ... Bc8 , 41. d7 Bxd7  ",
+        "41. bxc6 Qg3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-king-becomes-the-hunter?gm=20600",
+    "gameName": "The King becomes the Hunter",
+    "players": "joebagadonuts (924) vs. blake84120 (1200)",
+    "opening": "Four knights (C46), Italian variation"
+}

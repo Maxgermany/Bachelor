@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4": "Queen's Pawn, Mason Variation.",
+        "2... Nf6 3. h3 h6": "Black usually does pretty well with Pe6 or Pc5 here.",
+        "4. Nf3 Bf5 5. e3 a6 6. Bd3 Bxd3 7. Qxd3 e6 8. Qb3": "...and off the database.",
+        "8... b5 9. Nbd2 Bd6 10. Ne5 O-O 11. O-O-O Nbd7 12. Nd3 Qe7 13. g4 Bxf4 14. Nxf4 c5 15. dxc5 Nxc5 16. Qa3": "Pb4 strikes my fancy.  Doubtful white would take it, though.",
+        "16... Rfe8 17. f3 e5 18. Nh5 Nxh5 19. gxh5 Na4 20. Qxe7 Rxe7 21. b3 Nc3 22. Rde1": "Oh, oh, NxP+.",
+        "22... Nxa2+": "Yes!",
+        "23. Kb2 Nb4 24. f4 e4 25. Rhg1 a5 26. c3": "Unbelievable!  White just threw his rook with Nd3+!",
+        "26... Nd3+": "Wonderful!",
+        "27. Kc2 b4": "?  NxR+!  A good idea is to program it.",
+        "28. Rea1 Rc7 29. c4 f5 30. Kb1 dxc4 31. Nxc4 a4 32. Nb6 Ra6 33. Nxa4 Rac6 34. Ka2 Rc6c2+ 35. Kb1 Rc2c1+ 36. Rxc1 Rxc1+ 37. Ka2 Rc2+ 38. Kb1 Rh2 39. Ra2 Rxh3 40. Re2 Rxh5 41. Nb2": "Up two points black should trade.",
+        "41... Nc5 42. Kc2 g5 43. Na4": "Now don't trade...  Nd3 looks good.",
+        "43... Ne6 44. fxg5": "Use the rook so it is out of the way and the h pawn is passed.",
+        "44... hxg5": "I guess it is still passes--and the rook is out of the way--and the pawn is ahead.  And it supports the other pawns.  Yeah, this was better.",
+        "45. Nb6": "White will want to move Nd5 to take the pawn.  Black can defend with Nc5 then Nd3.  Nc7 also works, temporarily.",
+        "45... Kf7": "But not that.  Black could also run the g pawn, tying up white's rook.",
+        "46. Nd5 f4": "Oops.  Now white gets a pawn.",
+        "47. exf4 Nxf4 48. Nxf4 gxf4 49. Rxe4 Rh4": "I think Rf5 would have been better.  Black's advantage now evaporates.",
+        "50. Kd1 Rh1+ 51. Ke2 Rh3 52. Rxf4+ Ke6 53. Rxb4 Kd5 54. Rb8 Kc6 55. Kd2 Kc7 56. Rb4 Kc6 57. Kc2 Kc5 58. Rb8 Rh2+ 59. Kc3 Rh3+ 60. Kb2 Kc6 61. b4 Kc7 62. Rb5 Kc6 63. Rc5+ Kb6 64. Rc3 Rh5 65. Ka3 Rh4 66. Ka4 Re4 67. Rh3 Re6 68. Rh5 Re4 69. Rh6+ Kb7 70. Ka5 Re2 71. b5 Ra2+ 72. Kb4 Rb2+ 73. Kc5 Rc2+ 74. Kd4 Rc1 75. b6 Rc6 76. Rxc6 Kxc6 77. b7 Kxb7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=56322",
+    "gameName": "Team match",
+    "players": "sanjaygulati (1493) vs. breakfastbrew (1445)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

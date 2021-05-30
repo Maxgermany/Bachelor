@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "Main annotations taken from Steve Giddins excellent 'Greatest Ever Chess Endgames'",
+        "1... c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8. c4 Nf6 9. cxd5 cxd5 10. exd5 exd5 11. Nc3 Be7 12. Qa4+ Qd7 13. Re1 Qxa4 14. Nxa4 Be6 15. Be3 O-O": "White has the advantage of the better pawn structure, Black having three pawn islands against two. It is true that the isolated d5-pawn is a passed pawn, which is usually an asset in the endgame, but here there are still many pieces on the board, and the d4-square is controlled by White. With inaccurate play on the latter's part, the d5-pawn  could become a real asset for Black, but objectively it must at this  stage be regarded as more of a liability. The other important aspect of the pawn structure is that White has a queenside majority, which potentially can yield an outside passed pawn.",
+        "16. Bc5": "Much stronger than 16. Nc5. In this position, the exchange of dark-squared bishops is clearly in White's favour, as it leaves Black with a relatively bad bishop, and assures White a superb outpost on c5 for his knight.",
+        "16... Rfe8 17. Bxe7 Rxe7 18. b4": "Another excellent move, and a key part of White's plan. The move has three points: \n1. It sets White's majority in motion.\n2. It secures control of c5 for the white knight.\n3. It fixes Black's weak pawn on a6. \nWe have spoken many times in this book about the importance of fixing enemy weaknesses. The point here is that if Black ever tries to eliminate his a6-weakness by pushing the pawn to as, White will have the reply b4-b5, establishing a strong passed pawn. ",
+        "18... Kf8 19. Nc5 Bc8 20. f3": "A useful little move, which \"dominates\" the black knight by controlling the squares e4 and g4, to which the\nknight might otherwise jump, and also lets the white king approach the centre. The king clearly has his eye on the key central blockading square d4.",
+        "20... Rea7": "20 ...Nd7 looks like a much better try, seeking to eliminate the powerful white knight on c5.",
+        "21. Re5": "Putting further pressure on the black position, by attacking the pawn on d5, as well as making possible the\ndoubling of rooks on the e-file. ",
+        "21... Bd7 22. Nxd7+": "One of the finest positional exchange decisions ever seen in top-level chess, and one which stunned all the watching GMs. White voluntarily gives up his great-looking knight on c5, for Black's nominally \"bad\" bishop. However, just as in Petrosian-Bannik below, the key point is that what matters Multi-Piece Endings on the board, not what comes off Fischer understands that, after this exchange, his combined rooks plus bishop will be much more powerful on the open board than Black's rooks plus knight. His bishop  continues to attack the weakness on a6, whilst his queen's rook will take control of the open c-file. Once one sees the results of the exchange 22. Rxd7, it is not so hard to see its merits. The real difficulty of the move lies in the fact that it would not normally enter most players' heads to exchange such a good knight for such an apparently inferior bishop. However, great players like Fischer are always flexible in their thinking, and are not hidebound by preconceptions. For lesser players, I can recommend the above principle - look at what stays on the board, not at what comes off. It is the former that matters. ",
+        "22... Rxd7 23. Rc1": "Now 24. Rc6 is a threat, hence Black's next.",
+        "23... Rd6 24. Rc7": "Black has defended the sixth rank, but now the enemy rook invades the seventh instead. 25. Ree7 is threatened, so Black must take action against this.",
+        "24... Nd7": "24 ...Re8 loses the a6-pawn after 25. Rxe8+ Kxe8 26. Ra7",
+        "25. Re2 g6": "25 Bf5 was a threat.",
+        "26. Kf2": "As calm as you like. With Black tied in knots, but no immediate concrete tactical win available, Fischer simply\nstrengthens his position further, bringing his king into the game.",
+        "26... h5 27. f4 h4 28. Kf3": "Now 29 Kg4 is on the agenda, hence Black's next move.",
+        "28... f5 29. Ke3 d4+": "This allows the white bishop to transfer to c4, but Black could not afford to allow the white king to d4,\nwhen he would be practically movebound.",
+        "30. Kd2 Nb6": "It is hard to find a sensible move for Black. Now at least he has a threat of starting counterplay by 31 ...Nd5, but White has a move first.",
+        "31. Ree7": "With the white rooks doubled on the seventh, the end is near.",
+        "31... Nd5 32. Ref7+ Ke8 33. Rcb7 Nxf4 34. Bc4": "Black has even won a pawn, but he is helpless against the threat of 35. Rh7."
+    },
+    "url": "https://gameknot.com/annotation.pl/great-endgames-series-multi-piece-endings?gm=52316",
+    "gameName": "Great Endgames Series - Multi-piece Endings",
+    "players": "Robert James Fischer (2785) vs. Arshak Petrosian (2510)",
+    "opening": "Sicilian (B42), Kan, 5.Bd3"
+}

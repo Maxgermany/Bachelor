@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. e3 O-O 5. Bd3": "I have seen this position many times over this last year",
+        "5... d5 6. Nbd2 Nbd7 7. c3 Nh5 8. Bg3 Nxg3 9. hxg3": "Again opening the h file",
+        "9... c5 10. Qc2 c4 11. Be2 b5 12. a4 Qa5 13. b4": "The knight on d2 is ready to spring into action",
+        "13... Qa6 14. O-O bxa4": "I think this is an error",
+        "15. Rxa4 Qb6 16. Ra5 e6 17. g4 Nb8 18. g5": "Resticting the bishop a little",
+        "18... Nc6 19. Rc5 Rd8 20. Nh2 Bf8 21. Ng4": "The balck bishop is strong, removing it for the rook will give a slight adavntage",
+        "21... Bxc5 22. bxc5": "White has the potential of a passed pawn",
+        "22... Qc7 23. Nf6+": "The knight is going to be ver comfortable there",
+        "23... Kg7 24. e4 a5 25. Bf3 Ne7 26. e5": "White solidifies the centre, despite being an exchange up blacks bishop isn't really doing anything",
+        "26... a4 27. Rb1 a3 28. Nxc4": "Pawns make prizes",
+        "28... a2 29. Ra1 Ba6 30. Nb6 Bb7": "White gets the exchange back",
+        "31. Nxa8 Rxa8 32. Rxa2": "And is now two pawns to the good",
+        "32... Rxa2 33. Qxa2 Bc6 34. g3 Ng8 35. Kg2": "I have a good chance of winning this if I can get to an end game",
+        "35... Qb7 36. Qa5": "White has many threats now",
+        "36... Qa8 37. Qc7 Nxf6": "???",
+        "38. gxf6+ Kg8 39. c4": "Ouch",
+        "39... Kf8 40. cxd5 Bxd5 41. Qd6+ Kg8 42. Bxd5 Qxd5+": "Game over",
+        "43. Qxd5 exd5 44. c6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/muek54s-mini-tournament-5?gm=23854",
+    "gameName": "muek54's mini-tournament 5",
+    "players": "dwardman (1982) vs. benjamin78 (1626)",
+    "opening": "Queen's pawn game (A45)"
+}

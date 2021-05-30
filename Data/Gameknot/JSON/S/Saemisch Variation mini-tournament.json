@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6": "The starting position for all the games.",
+        "6. Bg5 O-O 7. e4 Nbd7": "Having already castled, Black has a slight edge in time, but White has more space. Also, Black's QB will have a difficult time getting out.",
+        "8. e5 dxe5": "White was too impatiient. He had a strong center but after advancing...",
+        "9. dxe5 Nxe5": "...his center has dissipated and I'm up a Pawn as well.",
+        "10. Qxd8 Rxd8": "With his doubled, isolated QBP's, White wants to inflact a weakness in my pawn structure as well to compensate. but exchanging the Q's helps me. With every piece that vanishes my advantage of a Pawn gets bigger.",
+        "11. Bxf6 gxf6": "I complete the exchange. ",
+        "12. Rd1 Rxd1+": "I gladly swap Rooks. White is now significantly behind in time, as his entire K-side still must be developed.",
+        "13. Kxd1 b6": "I want to fianchetto the B so I can occupy the open Q file with my Rook.",
+        "14. Ne2 Nxc4": "I'll gladly acquire another loose Pawn.",
+        "15. a4 Bb7": "White's B is still blocked in and is in turn blocking in the R.",
+        "16. Kc2 Rd8": "I now look to swap down.",
+        "17. Nd4 Ne5": "A tactical retreat to a safe base.",
+        "18. f4 Nc6": "Looking to exchange the Knights.",
+        "19. Nxc6 Bxc6": "White does it for me. How nice.",
+        "20. Rg1 Kg7": "Time to activate the King.",
+        "21. g3 Kg6": "Pushing forwards.",
+        "22. Bd3+ f5": "The simplest solution.",
+        "23. Re1 Bxa4+": "Grabbing another loose Pawn.",
+        "24. Kd2 Bb5": "Exploiting the pin.",
+        "25. Re3 Rxd3+": "After 26 RxR BxR 27 KxB K-B3, I have an easily won King-and-Pawn end game. So White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/saemisch-variation-mini-tournament?gm=43011",
+    "gameName": "Saemisch Variation mini-tournament",
+    "players": "robinson (1269) vs. last_archimedean (1365)",
+    "opening": "Nimzo-Indian (E24), Saemisch variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6": "We've reached the class Exchange position at this point",
+        "5. d3": "Normallly White will castle at this stage or even 5. d4 but this is out of favor in modern chess according to Wiki Chess (http://en.wikipedia.org/wiki/Ruy_Lopez,_Exchange_Variation). As events pan out 5. 0-0 was the best move.",
+        "5... Nf6 6. Nxe5": "Taking the offfered pawn. This is not the move that got me in trouble and I think this is fine but I could well be mistaken",
+        "6... Bd6 7. Nc4 Be6 8. Nxd6+": "Getting rid of the Bishop pair which is the big drawback of the the Exchange Variation. I'm in good shape at this point.",
+        "8... cxd6 9. Bg5": "This was my first mistake. 9. 0-0 is clearly better",
+        "9... Qa5+ 10. Nc3": "Now I compound matters with a pure blunder. 10. Bd2 blocks the check and retreats the Bishop to safety. It would be dangerous for Black to proceed 10. ... Bxa2 11. b3 trapping the Bishop behind the pawn and pinning the Queen.",
+        "10... Qxg5 11. g3": "I'm hoping to preserve castling rights",
+        "11... O-O-O 12. Qe2 Rhe8 13. f4": "Forcing the Queen to the other side of the board where Black probably wanted to take it anyway. And, to make the move even worse, badly weakening my Kingside structure.",
+        "13... Qa5 14. O-O d5 15. f5 Bd7 16. g4": "I'm hoping to create some counterplay but leave the King badly weakened.",
+        "16... g5 17. Rfe1": "I thought 17. fxg e.p. just wrecked my kingside even more",
+        "17... Qb6+": "Attacking my b-pawn with check",
+        "18. Kh1": "There are no good moves",
+        "18... Qxb2 19. Nd1": "Further blunder although the Knight is lost in any case. 19. Na4 c5 traps the Knight",
+        "19... Qxa1 20. c3 Qc1 21. Qf2 dxe4 22. dxe4 Rxe4 23. Ne3 Qxc3": "The situation is hopeless at this stage. Black has 24. ... Re8 or 24. ... Nxg4 and White will lose almost all remaining material. While I'm not familiar with King Pawn openings there is no excuse for my play in this one. That being said, my opponent took strong advantage of all my mistakes and took an easy victory. "
+    },
+    "url": "https://gameknot.com/annotation.pl/rematch?gm=29323",
+    "gameName": "Rematch",
+    "players": "tomlib (1452) vs. x-machine (1290)",
+    "opening": "Ruy Lopez (C68), exchange, Alekhine variation"
+}

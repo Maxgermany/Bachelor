@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 d5 2. e3 Nf6 3. Bd3 e6 4. Nd2 c5 5. c3 Nc6 6. f4": "Starting position of the themed mini-tournament: Stonewall.  \n\nHere is the gameknot analysis http://gameknot.com/analyze-board.pl?bd=19463938&fb=1&rnd=0.08165096606005995",
+        "6... cxd4 7. exd4 Bd6 8. Nh3": "I think Stalhandske wanted to go out of the database here.  He is doing this to group G in the Walking club and it is causing our brains to go into overdrive!",
+        "8... Qb6": "I am playing off a general idea I heard of where black plays for superiority on the queenside while white tries to demolish the kingside.  My plan doesn't come forward as I end up defending on the kingside plenty of times.",
+        "9. Qe2 a6": "I'm not sure what to think at this point.  I don't have a solid plan, but I am thinking about moving pawns to open the queenside eventually.  I also did not want my knight pinned by the LSB which I don't think was much of a threat.",
+        "10. O-O O-O 11. Nf3 h6": "Blocking a possible knight on g5",
+        "12. Nf2 Re8": "Sometimes when I look back, I do not remember the reasoning for the move I made.  This is an instance.  ",
+        "13. Ne5 Re7 14. Nfg4 Nxg4": "I elect to capture the knight before it decides to capture mine and open up my kingside.",
+        "15. Nxg4 f5": "f5 forces the knight to move while blunting the range of white's LSB",
+        "16. Ne5 Bxe5": "I'm thinking that with the central squares closed up with pawns, having a knight and bishop against two bishops may help me out.",
+        "17. fxe5 Bd7 18. Rf3 Nd8 19. a4 Nf7": "Bringing my knight over to support my kingside.",
+        "20. a5 Qc7 21. Bd2 Ng5": "I give up my idea of having a knight vs. bishop.  Not sure why, perhaps I thought the knight was safe, or maybe I forgot the plan after a couple of days.  ",
+        "22. Bxg5 hxg5 23. h3 Rf7 24. Rg3 Qd8": "i try to protect my pawn on g5",
+        "25. Qh5 Bb5": "Seeing that I've lost the pawn on g5, I can make it up by taking a5",
+        "26. Bxb5 axb5 27. Rxg5 Rxa5 28. Rxa5 Qxa5": "I knew at this point that playing someone at the level that stalhandske is at, I probably do not have much of a chance to pull off a win or even a draw.  My queen is out of position for any defense. His pieces are imposing themselves on my king very nicely.  However, I do try to make something out of this and continue on.",
+        "29. Qh4 Qa1+ 30. Kh2 Qxb2": "Here I resign.  I thought I saw a forced mate, but later realize that what I saw was not mate, however, after 30... Qxb2 I am in deep trouble.  I will lose enough material soon enough while trying to avoid checkmate that I cannot possibly have a positive outcome.  Overall, I can proudly say that I fought valiantly against stalhandske, and I thank him for the game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-and-learning-to-run-part-6?gm=49793",
+    "gameName": "Walking The Walk and Learning to Run Part 6",
+    "players": "stalhandske (2120) vs. baumannjoe (1364)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

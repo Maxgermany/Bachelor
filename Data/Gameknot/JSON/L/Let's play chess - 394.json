@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "Black started to pursuit my pieces from the beginning of the game until almost his last move in a strategy more suited to blitz games... his efforts were aimless and pointless and were all tamed, while I profited to develop an attack on his exposed king... he latter timed out",
+        "1... Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. Nf3 O-O": "I played this position on several games...",
+        "7. Rc1": "...I never, though, played this move, let's see what does it brings, the idea is to hit c7 early on",
+        "7... Nb6 8. Bg5 h6 9. Bf4 g5": "over extending the pawn in front of his king might get it exposed latter on",
+        "10. Be5 f6": "black's king side pawn structure looks miserable, the light squares resemble a sieve... and c7 is also vulnerable, let's try to profit from it.",
+        "11. Qb3+": "letting the bishop hanging to bring my queen out",
+        "11... Kh8 12. Bg3": "and only now remove the threatened bishop",
+        "12... f5": "? pointless",
+        "13. Be5": "the bishop is back on the best placement and now can't be expelled by pawns",
+        "13... Nb8d7 14. Bxg7+": "to increase black's weakness on the king side ",
+        "14... Kxg7": "forced",
+        "15. e3": "securing d4 and opening the bishop exit",
+        "15... g4": "? bad pawn moves...",
+        "16. Nd2 e5 17. Ne2 f4": "black achieves nothing by this line of play... maybe on a blitz game it would do some damage, but with his pieces remaining on their home squares he can't do any decent attack effort as we will surely see latter",
+        "18. exf4 exf4 19. h3": "challenging the advanced pawns and threatening to bring my rook on to the game ",
+        "19... Re8": "again hitting on one of my pieces but lacking to coordinate his efforts",
+        "20. hxg4 Nf6 21. Qh3": "aimed to h6",
+        "21... h5": "the g pawn is pinned so I don't have g5",
+        "22. Qf3": "shifting my pressure on to f4",
+        "22... c6": "? what is the point of this?",
+        "23. Qxf4 Nfd5": "and black likes to pursuit my pieces all over the board without any concrete objective",
+        "24. Qg3 hxg4 25. Nf3": "profiting from the pinned pawn to develop my knight",
+        "25... Qe7": "? again pointless",
+        "26. Qh2": "threatening to finally infiltrate black's king side"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=44106",
+    "gameName": "Let's play chess",
+    "players": "kaspanatola (2084) vs. mameluk (2148)",
+    "opening": "Gruenfeld (D85), exchange variation"
+}

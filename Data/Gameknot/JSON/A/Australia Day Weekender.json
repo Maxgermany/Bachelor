@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. Bg5 h6 16. Bd2": "This is all theory.  I am used to 16...Bg7 here but the text makes sense.  I am not sure whether of not I should play d4-d5 or try to keep the central pawns adjacent",
+        "16... exd4 17. cxd4 c5 18. Qc1 h5 19. Bg5 cxd4 20. Qd2 Qb6 21. Qxd4 Qxd4 22. Nxd4 Bg7 23. Rad1 Rac8 24. Bb1 Nc5 25. f3 Nh7 26. Be3 Na4": "now i am getting pushed around the board.  there is no good way to get rid of this knight",
+        "27. Rd2 d5 28. Bf2 Ng5 29. h4 Ne6 30. Kf1 Nxd4 31. Bxd4 Bxd4 32. Rxd4 Nxb2": "I was quite annoyed here, as I had missed that I can't grab the d pawn due to 33...Rxe1, 34.Kxe1, Rc1+, when the knight controls d1 where I had planned to move the rook!",
+        "33. e5 Rc4 34. Rxc4 bxc4": "now this is very winning for black",
+        "35. f4 c3": "?? (!).  Now the pawns lose their support and coordination",
+        "36. Ne2 Rc8 37. Rc1 Na4 38. Bc2 Nc5 39. Bb1 Na4 40. Bc2": "draw offer",
+        "40... Nb2 41. Bb1 Nc4 42. Kf2 Na3 43. Bd3 c2 44. Ke1 d4": "now i think i should have just taken the pawns",
+        "45. Kd2 Rd8 46. g3 a5 47. Rf1 Bc6 48. f5 Ba4 49. fxg6 fxg6 50. Rf6 Be8": "Check the computer here, but I think 51.Nf4 should hold.  definitely better than the move i played",
+        "51. Bxg6 Bxg6 52. Rxg6+ Kh7": "now the rook has nowhere to go and i can't stop the pawns.  30 seconds left",
+        "53. Rc6 d3 54. Ke3 d2 55. Rc7+ Kg8": "0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/australia-day-weekender?gm=29100",
+    "gameName": "Australia Day Weekender",
+    "players": "Michael D'Arcy (1193) vs. Justin Tan (2037)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

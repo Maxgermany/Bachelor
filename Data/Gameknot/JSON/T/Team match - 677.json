@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6": "and I capture one of his knights immediately like i wanted",
+        "5... dxc6 6. Qxd8+ Kxd8 7. Bg5+ f6 8. Bh4 Nh6": "like i thought",
+        "9. Nc3": "now i think f3 was better",
+        "9... Ng4": "that's why.",
+        "10. f3 Ne3 11. Rc1 Be6": "and he continues...",
+        "12. a3 Bc4 13. Bxc4 Nxc4 14. Rd1+ Ke8 15. Na4 Bd6 16. Rd3 Ne5": "b5 was better for him...",
+        "17. Rc3 Kf7 18. b4 b5 19. Nb2 Ng6 20. Bf2 Be5 21. Rb3": "His attack is less incisive.",
+        "21... Rhe8 22. Nd3 Kg8 23. Nxe5 Rxe5": "i take his bishop and...he comes out with his rook!",
+        "24. Bg3": "and now he lose a pawn (c7 or c6)",
+        "24... Re7 25. Rc3 Rd8 26. O-O": "i've no hurry",
+        "26... a6 27. Rxc6 Rc8 28. Rxa6 c5 29. Bd6 Rd7 30. bxc5": "i'm for promote!",
+        "30... h6 31. Rd1 Nh4 32. c6 Rdd8 33. c7": "ok...",
+        "33... Rde8 34. Rb6 f5 35. Rxb5 fxe4 36. fxe4 Rxe4 37. Kf1 Rg4 38. g3 Nf3": "he still tries to attack me!",
+        "39. Kg2 Ng5 40. Rb8": "ahahahha he's finished.",
+        "40... Rxb8 41. cxb8=Q+ Kh7 42. Qb7 Ne6 43. Qb5 Rg5 44. Qe8": "And he resigned. let me know your impressions on this game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=18487",
+    "gameName": "Team match",
+    "players": "andy94 (1340) vs. rogerr (1331)",
+    "opening": "Scotch game (C45)"
+}

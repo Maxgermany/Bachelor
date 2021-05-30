@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 b6": "At that time, this variation was known only as the Incze Attack, after a Master from Alaska who played it.  Today, it is better known as Queens Indian variation to the Nimzowitch Opening.",
+        "3. d4 cxd4 4. Nxd4 Bb7 5. Nc3 e6 6. Bd3 Bb4 7. Qg4": "We are now out of book and Bobby begins his attack against the Pawn on g7, a normal style of the Grandmaster. ",
+        "7... Qf6": "I also considered 7.....Nf6 realizing the g pawn could not be taken, but with the Queen move, I also attacked his Knight.",
+        "8. Be3": "Or 8. Ndb5; 9. Na6",
+        "8... h5 9. Qg3 Bxc3+": "Alternatively I might have also played 9.....Nc6; 10. Qc7...Na5 with advantage to White. As this was early in the exhibition, Bobby was taking about three minutes to circle the room.",
+        "10. bxc3 Qg6": "Here I considered 10. Nc6, but was afraid of Nb5.",
+        "11. Qc7 Bxe4 12. Nb5": "Here Bobby misses the win with 12. Qc8+.....Ke7; 13. 0-0-0. Later he told me about his hectic schedule playing 50 board exhibitions every night the past seven days. He simply missed the win. Even after his appearance that night, we sat up until 2AM eating pizza and drinking imported black beer. ",
+        "12... Bxd3 13. cxd3 Qxg2 14. O-O-O Na6 15. Qe5": "White has a clear lead in development. I kept waiting for the other shoe to fall.",
+        "15... f6 16. Qd4": "16. Nd6+...Kf8; 17. Qe4....Qxe4; 18. dxe4 with a slight advantage for Black. He had won several of his games by now, so he was getting to my board in about a minute. ",
+        "16... Qc6 17. c4 Ne7 18. Nd6+ Kf8 19. Rhg1 e5": "Also, 19.....Nc7; 20. Qf4....e5; 21. Qg3 with a slight + for Black,",
+        "20. Qe4 Qxe4": "The Knight is immune.",
+        "21. dxe4 Nb4 22. a3 Nbc6 23. c5 Nc8 24. Nxc8 Rxc8 25. Rxd7": "All of a sudden I saw two Rooks on the seventh rank and I felt totally lost. Bobby still had about 15 games going and had already lost one. ",
+        "25... Rg8": "If 25...Rh7; 26 cxb6 etc.",
+        "26. Kb2 b5 27. Rgxg7 Rxg7 28. Bh6 Ne7 29. Bxg7+ Kxg7 30. Rxe7+ Kg6 31. Rxa7": "I was hapy to see I was in a Rook+Pawn ending.",
+        "31... Rxc5 32. h4 Rc4 33. f3 Rd4 34. Rc7 Rd3 35. Rc3 Rd2+ 36. Rc2 Rd3": "Is Bobby going to give me a draw by repetition? He was still playing five or six others. ",
+        "37. Rc3 Rd2+ 38. Kb3": "No way, jose. ",
+        "38... Rh2 39. Kb4 Rxh4 40. Kxb5": "So both of us have outside passed pawns. Who will get there first?",
+        "40... f5": "Or 40.....Rh1; 41. a4....h4",
+        "41. exf5+ Kxf5 42. a4 Rh1 43. a5 h4 44. Rc4": "Fritz gives this move a double (??) owing to 44. a6.....",
+        "44... h3 45. Rh4 h2 46. Ka6": "Otherwise 46...Rb1+ wins.",
+        "46... Kg5 47. Rh3 Kf4 48. Ka7 e4": "At this point, my game was the last going and I was playing blitz with America's best chessplayer. ",
+        "49. fxe4 Kxe4 50. a6 Kd5 51. Ka8 Kc6 52. a7 Kc7 53. Rh8": "53. Rxh2 is stalemate.",
+        "53... Kd7": "Here Bobby shook my hand and said, I guess it's a draw."
+    },
+    "url": "https://gameknot.com/annotation.pl/simultaneous-exhibition?gm=27351",
+    "gameName": "Simultaneous exhibition",
+    "players": "Bobby Fischer (2758) vs. cescheckmates (1834)",
+    "opening": "Sicilian (B27), Katalimov variation"
+}

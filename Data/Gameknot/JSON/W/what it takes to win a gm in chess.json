@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "im playing with black",
+        "1... e5 2. dxe5 d6": "i do something called the englund gambit but my variation couldn't be foun in the gameknot openings section sadly",
+        "3. Nf3 Bf5 4. exd6": "boring moves of development",
+        "4... Bxd6 5. e3 a6 6. Bd2 Nc6 7. Be2 Bb4 8. O-O Nf6 9. c3 Bd6 10. Nd4 Nxd4 11. exd4 h5 12. Bf3": "tries to threaten my pawn on b7",
+        "12... c6": "not only does this move block the bishop but it also lets me develop my queen to c7",
+        "13. Re1+ Kd7": "i move my king so that i don't have to block and get that piece pinned for a while",
+        "14. Bg5 Bxh2+": "sacrifice",
+        "15. Kxh2 Ng4+": "this is a very good move because if he takes, i get a free move and its somewhat a discovered aattck",
+        "16. Bxg4 hxg4+": "i check again to open up an entire file for my rook for free",
+        "17. Kg1 Qxg5": "getting material back",
+        "18. Qb3 Qh4": "i think i can take a hit or two all my good pieces are linked up and i think its somewhat a deadmate because kf1, bd3+, re2, qh1#",
+        "19. Qxb7+": "instead he takes",
+        "19... Kd6 20. Qb4+ Kd7 21. Qb7+ Kd6 22. Qb3": "biggest blunder ever",
+        "22... Qh1#": "i beat him because he was deadmated and its also because of the blunder he made ,though he put up a great fight . feel free to give me tips on my next annotation and comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/what-it-takes-to-win-a-gm-in-chess?gm=54263",
+    "gameName": "what it takes to win a gm in chess",
+    "players": "54376 (1300 or so) vs. javier11 (2238)",
+    "opening": "Queen's pawn (A40), Englund gambit"
+}

@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4": "This short game serves as a lesson of what not to do, as it's understandably not shown in the GK game database.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6": "Giuoco Pianissimo, Canal variation",
+        "6. Bg5 h6 7. Bh4 O-O 8. Nd5 g5 9. Nxg5": "A knight sacrafice in hopes of taking black by surprise and opening up the kingside for attack.",
+        "9... hxg5 10. Bxg5 Be6": "Post-mortem: 10...Be6?! is the true error as 10...Bxf2! relieves the pin definitely with the follow up 11... Nxe4 or 11...Nxd5 depending on whether white recaptures the bishop on f2 or not. (sorry for any misleadment.)",
+        "11. Nxf6+ Kg7 12. Nh5+": "Discover check upon the queen and black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-brain-on-gk?gm=1312",
+    "gameName": "Blitz brain on GK",
+    "players": "punkusmartyrus (1558) vs. homedepotov (1590)",
+    "opening": "Giuoco Piano (C50), four knights variation"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. d4 d5 4. Nbd2 Nc6 5. exd5 exd5 6. dxc5 Bxc5 7. Bb5 Nge7 8. O-O O-O 9. Nb3 Bb6 10. Re1 Ng6 11. c3 Qd6 12. Be3 Bxe3 13. Rxe3 a6 14. Bf1 b5 15. Qd2 Bb7 16. Rae1 h6 17. Nbd4 Nxd4 18. Nxd4 Qf4 19. Qc2 Rad8 20. g3 Qf6 21. Qf5 Qb6 22. Bd3": "Next target is Ne6.",
+        "22... b4 23. Qh5": "Too early 23.Ne6 since 23. ... Bc8 24.Qh5 Bxe6 25.Rxe6 fxe6 26.Qxg6 Qxf2  black win.",
+        "23... bxc3 24. bxc3 Rd6 25. Rb1": "25.Ne6? then 25. ... Rxe6 26. Rxe6 fxe6 27. Qxg6 Qxf2 , black win.",
+        "25... Qc7 26. Ne6": "Finally.",
+        "26... Rxe6 27. Rxe6 fxe6": "It's better for black to move 27. ... Nf4. If 28. Qf5 then 28. ... fxe6 29. Qh7  Kf7. 30.gxf4 Ke8.  White have weak pawns at c3 and f4.",
+        "28. Qxg6 Qe7 29. Qh7+ Kf7 30. Bg6+ Kf6 31. Bh5 Ke5 32. Qd3": "32.f4 ?  Kd6!",
+        "32... Qc7": "If 32. ... Kf6 then 33.Re1 follow with Qg6  , checkmate white win",
+        "33. Qd4+ Kd6": "If 33. ... Kf5 then 34. Qg4  Ke5 35. Re1  Kd6 36. Rxe6 , white win.",
+        "34. Qb4+ Qc5 35. Qxc5+ Kxc5 36. Rxb7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-irwannapitupulu?gm=20354",
+    "gameName": "Challenge from irwannapitupulu",
+    "players": "irwannapitupulu (1826) vs. simson1107 (1841)",
+    "opening": "Sicilian (B40), Marshall variation"
+}

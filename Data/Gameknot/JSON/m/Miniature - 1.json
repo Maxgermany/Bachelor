@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bf4 c6 3. Nf3": "A principle says that when black moves this pawn, I have to move mine c pawn to, in order to provide room for  my Q to b2 in case of Qb6. I missed this \"on purpose\", to test some ideas similar to a game I was engaged in, where I missed by mistake the c pawn movement. ",
+        "3... b5": "My opponent went for this quick pawn's storm. ",
+        "4. Nbd2": "Somewhat surprised, but liking the challenge. ",
+        "4... a5": "! Even better! Now I could test the overexpansion. ",
+        "5. c3 Bb7 6. Qc2": "Threatening e4, that my opponent missed. ",
+        "6... e6": "Much better was d5, preventing e4. ",
+        "7. e4 c5": "Counterattacking, probably the foreseen countermove to e4. ",
+        "8. Bd3": "Inviting c4, Be7, and the situation is more controlled, but not good for white. ",
+        "8... cxd4": "?? thanks! My opponent helps me to open the game when I'm squeezed. ",
+        "9. Nxd4": "A more active piece. The for, d5 is not possible without a support for it. ",
+        "9... b4": "It seems very strong, but what does it threat?",
+        "10. Nc4": "I just ignore it, because my N has a wonderful spot on d3. ",
+        "10... bxc3 11. Nd6+ Bxd6": "Virtually forced. ",
+        "12. Bxd6": "What an outpost! If Qb6 now, e5 and let's see what happens. ",
+        "12... cxb2": "Embarassing, but also opening the column for my Q (as foreseen). ",
+        "13. Rb1": "! Black has just nothing now!",
+        "13... Qb6 14. Bc5": "No escape for the Q but...",
+        "14... Qc7 15. Nb5 Qf4 16. Nd6+ Ke7 17. Nxb7+": "And here my opponent resigned, in sight of d6, Bxd6+, or similar. "
+    },
+    "url": "https://gameknot.com/annotation.pl/miniature?gm=59144",
+    "gameName": "Miniature",
+    "players": "damalfi  vs. Lord of... ",
+    "opening": "Queen's pawn game (A45)"
+}

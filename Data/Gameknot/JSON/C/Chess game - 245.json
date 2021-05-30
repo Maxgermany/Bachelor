@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4": "A rare reply",
+        "4. Nxd4 exd4 5. O-O c6 6. Bc4 d5 7. exd5 cxd5 8. Re1+ Ne7 9. Bb3 g6": "That's the plan but...",
+        "10. Qf3": "Good move.  Double threat.  First to capture the  d5 pawn.  Second to penetrate on the dark squares weakness.",
+        "10... Be6 11. Qf6 Rg8 12. Qxd4": "Ooops.  One pawn falls.",
+        "12... Bg7 13. Ba4+ Kf8": "Black is only down a pawn but his King is stuck in the center. Bad position",
+        "14. Qf4 Qa5": "Losing a piece.  Can you see it?  \nLook for exploiting a pin.",
+        "15. Rxe6 Nf5 16. Re1 Bh6 17. Qg4 Kg7 18. c3": "To prepare d4 and to clear the c2 square for the Bishop to aim at f5.",
+        "18... Rae8": "Blunder!  He simply didn't see the Bishop aiming at e8.",
+        "19. Rxe8": "Resigns.\nLoses a Rook:  19..Rxe8 20.  Bxe8"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=26404",
+    "gameName": "Chess game",
+    "players": "A Weiler  vs. zglorb (blitz game)",
+    "opening": "Ruy Lopez (C61), Bird's defence, Paulsen variation"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 c6 5. h3 f6 6. d3 Bf5 7. Bf4 Nd7 8. a3 Qb6 9. Be2 Bg6 10. Na4 Qa5+ 11. c3 O-O-O 12. O-O e5 13. Bd2 b5 14. c4 Qxa4 15. Qxa4 bxa4 16. Rfb1 Bd6 17. b3 Bh5 18. g4 Bg6 19. bxa4 Nc5 20. Ba5 Rd7 21. Rbd1 Nb7 22. Bd2 Ne7 23. a5 Nc5 24. d4 Ne4 25. dxe5 fxe5 26. Be3 Nc3 27. Rd2 h6 28. c5 Bc7 29. a6 Rxd2 30. Nxd2 Nxe2+ 31. Kf1 Bd3 32. Ke1 Ba5 33. Ra2 Nd5 34. Rb2 Rf8 35. Rb7": "no se dio cuenta de que mi torre podia causar da\u00f1o estando alli",
+        "35... Bxa6 36. Rxa7 Bxd2+ 37. Kxd2 Bc4 38. Ra8+": "fatal, tenia que haber salvado su torre hace rato",
+        "38... Kb7 39. Rxf8": "hasta ahie stabamos empates pero mi torre estaba libre en su campo",
+        "39... Nxe3 40. fxe3 Ng1 41. h4 Bd5 42. Rh8 Nf3+ 43. Kc3 Nxh4 44. Rh7 Ng2 45. Rxg7+ Ka6 46. Rh7 Nxe3 47. Rg7": "si perdia el peon g4 perdia la partida.",
+        "47... Kb5 48. g5 h5": "tenia que haber capturado el peon, alli perdi\u00f3.",
+        "49. Rh7 Bf3 50. g6 Nf5 51. Rf7 Nh4": "Mejor: ...Bg4!",
+        "52. Rxf3 Nxf3": "Hubiera sido mejor que capture al peon g6 en lugar de la torre, y luchando tranquilamente podr\u00eda a\u00fan ganar. pero hubiera sido muy dificil caballo contra torre. y un solo peon de ventaja. ",
+        "53. g7 h4 54. g8=Q e4 55. Qc4+ Ka5 56. Qxe4 h3 57. Qxf3 h2 58. Qh1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=64903",
+    "gameName": "Let's play chess",
+    "players": "alexcajan (1243) vs. leosgame (1250)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

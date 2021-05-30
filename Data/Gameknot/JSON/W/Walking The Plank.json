@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 f5": "The Dutch Defense",
+        "2. Nf3 e6 3. Nc3": "Blocking his c-pawn, White aims for rapid development and the central break, e2-e4.  Black can clamp down on e4 with 3...d5, but that would cost him the e5 square after 4.Bf4 and a future Ne5.",
+        "3... Nf6 4. Bg5 Be7 5. Bxf6": "White exchanges in order to break with e2-e4.  The inherent problem with the Dutch Defense is the early weakening of the kingside with 1...f5.  Now a strong kingside defender (the f6 Knight) has been eliminated, making Black's kingside even weaker.   The only down side for White is giving up the prized Bishop Pair.",
+        "5... Bxf6 6. e4": "White is missing his dark-squared Bishop.  Therefore, recommended here for Black is 6...d5, which forces White to clarify his intentions in the center.  The text move allows White to fully justify his opening strategy.",
+        "6... fxe4": "Not best, as it activates White's QN.",
+        "7. Nxe4 b6": "Black aims for a queenside fianchetto combined with pressure down the f-file after ...O-O.",
+        "8. Bd3": "The Knight on e4 is at least equal to the Bishop on f6, so White refrains from further exchanges and continues developing.  Here the d3 Bishop takes aim at Black's kingside.",
+        "8... Bb7 9. Ne5": "A provocative move, threatening Qh5 !  White does not mind if Black trades one of his Bishops for one of White's powerfully centralized Knights.  Let's take a look at some variations.\n\nIf 9...Bxe5?, then 10.Qh5 ! (zwischenzug) and White recovers the piece with a centralized Queen and a better position, since Black is forced to give up castling or weaken his kingside with 10...g6.\n\nAlso weak is 9...Bxe4? 10.Bxe4 where Black has parted with his fianchettoed Bishop along with his light squares.  The Rook on a8 is attacked, making 10...d5 absolutely forced.  Other blocking moves are worse; 10...c6 is inadequate in light of 11.Qd3 g6 12.h4! (12...Bxh4?? 13.Bxg6 ! is crushing); and of course not 10...Nc6?? 11.Nxc6 dc 12.Bxc6  and White wins.  Returning to 10...d5, White simply plays 11.Bd3 with a clear advantage due to the backward e-pawn and the outpost square on e5.",
+        "9... O-O": "Castling into the storm!  Although time-consuming, in retrospect it might have been better for Black to engineer queenside castling.",
+        "10. Qh5": "Black's kingside is under massive pressure.  Here White is threatening 11.Ng5 h6 12.Bh7  Kh8 13.Ng6# which is veiled by a secondary and rather basic threat of 11.Nxf6  Rxf6 12.Qxh7  followed by total annihilation of the kingside and a winning material advantage.",
+        "10... Qe7": "The game-losing blunder, but one could hardly blame Thomas for missing this one in blitz!  10...Bxe5, giving up the Bishop Pair to remove White's monster Knight on e5, is pretty much forced.  Now in this position, after the text move (10...Qe7??) and the supposed 11.Nxf6  gxf6 (not 11...Rxf6?? 12.Qxh7  Kf8 13.Qh8#) the Black Queen covers h7.\n\nI actually had the rare privilege of playing this same game against a computer on the Internet Chess Club.  The crazy thing was the computer, rated around 2100, fell victim to the \"horizon effect\", a well-known phenomenon where a chess engine cannot \"see\" the final mate position because it simply cannot calculate far enough into the position (beyond its horizon).  In this position, the engine probably calculated 6 moves ahead and assessed that Black is \"safe\" after 10...Qe7, since h7 is guarded and there is no way to force mate in 6.  But there IS a way to force mate in 7, if you look beyond the horizon!  Drum roll...",
+        "11. Qxh7+": "Brilliant!!  The Queen sac exposes Black to a deadly double check!",
+        "11... Kxh7 12. Nxf6+": "Double check is the most powerful check other than checkmate, since the only defense is to move the King to safety.  Here the Black King is forced to go for a little walk (12...Kh8 13.Ng6#).",
+        "12... Kh6 13. Neg4+": "Exclam!  The counter-intuitive Neg4 , leaving the f6 Knight en prise, is the game-winner.  The other Knight check leads to a dead end for White.",
+        "13... Kg5": "The only move!  In this position White has TWO ways to proceed, both of which lead to the fastest mate possible.  The first one is the text move (14.h4 ) and the second is 14.f4  Kh4 [14...Kxf4 leads to a quicker mate after 15.g3  Kg5 (15...Kf3 16.O-O#!) 16.h4#] 15.g3  Kh3 16.Bf1  Bg2 17.Nf2#.",
+        "14. h4+ Kf4": "Forced",
+        "15. g3+ Kf3": "Here White has an elegant mate in 2.  After the quiet 16.Kf1 or even 16.O-O! (cutting off g2), there is no way for Black to stop 17.Nh2#.  Lasker, however, finds a slightly longer but highly amusing finish.",
+        "16. Be2+ Kg2": "Forced",
+        "17. Rh2+ Kg1": "Black is on Death Row!",
+        "18. Kd2#": "Checkmate!  The King has walked the plank!  It would have been nice for Lasker to have ended with 18.O-O-O#, but perhaps he did not wish to copy Paul Morphy's famous finale where he mated his opponent by castling long.\n\n1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-plank?gm=560",
+    "gameName": "Walking The Plank",
+    "players": "Edward Lasker  vs. Sir George Thomas ",
+    "opening": "Dutch (A80)"
+}

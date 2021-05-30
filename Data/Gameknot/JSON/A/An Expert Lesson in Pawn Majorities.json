@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, just to say that I am annotating my final two remaining games in Beafyness' tournament.  These two are against a strong Expert called therealjimfriar.  Jim has recently beaten an international master so I was pleased to come away with half a point out of my two games with him.  I think I will give you the bad news first with this game which started off as a Ruy Lopez Exchange Variation.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4": "5. ......... Bg4 - this is recommended as the strongest response to the standard book 5. 0-0.  It is trappy.  You try to drive black's lsb away with h3, but wait, black plays h5.  You really have to be careful about when you take that bishop because you as white may cop Old Matey on the open h file after the Wicked Witch of the West comes to h4!",
+        "6. h3 h5 7. d3": "7. d3 - opens up Frere Lenoir's diagonal.",
+        "7... Qf6 8. Nbd2 Ne7 9. Re1 Ng6 10. d4": "10. d4 - counters in the centre.  I just wonder if I should have taken on e5 at an opportune moment.",
+        "10... Bd6 11. hxg4 hxg4 12. Nh2 Rxh2 13. Qxg4 Qh4 14. Qxh4 Rxh4": "14. ........ Rxh4 - this plethora of exchanges gives some relief to white down the h file but there could still be a doubling of the rooks to contend with.  My next move, Nf3 clears Fere Lenoir's diagonal and puts the question to the black rook.",
+        "15. Nf3 Rh5 16. Be3": "16. Bf3 - develops my last piece - in the world database it does have a good percentage rating in favour of white.",
+        "16... f6 17. g3": "17. g3 - still following the sequence in the database and creating g2 for Henry to bolster a rook challenge on the h file but I wonder whether I should have exchanged on e5 here.",
+        "17... Kf7 18. Kg2 Re8 19. Rad1 exd4 20. Bxd4 c5": "20. ......... c5 - and here Jim takes me out of the database and starts the pawns rolling.  In order to avoid dropping a pawn here I must retreat Frere Lenoir to c3. ",
+        "21. Bc3 b5 22. a3 Ke6 23. Reh1 Rxh1 24. Rxh1 b4 25. axb4 cxb4 26. Bd2": "26. Bd2 - Jim has achieved a lot in his last few moves.  He now gets the pawn majority on the queenside.  I move the rook to a1 but would Rh7 have been a better try here, hitting at the g7 pawn and tying down one of black's pieces to it and then using one of my minor pieces to deal with the queenside pawn roll.",
+        "26... a5 27. Ra1 Ra8 28. c3 c5 29. cxb4 cxb4 30. Be3 a4": "30. ........ a4 - deadly.",
+        "31. Bd4 Ne5 32. Ne1": "32. Ne1 - I eschew exchanges on e5 to try and get my knight to take over defensive duties of a1 - Jim does not give me the chance to do this, however.",
+        "32... Nc6": "32. ........ Nc6 - gains a tempo by attacking Frere Lenoir who retreats to e3.",
+        "33. Be3 a3 34. bxa3 bxa3": "34. ......... bxa3 - Jim's mission is accomplished.  One deadly passer on the a file.",
+        "35. Bc1 a2 36. Bb2": "36. Bb2 - to try and prevent the enemy dsb from controlling that a1-h8 diagonal.  Jim forces a trade of bishops on his next move.",
+        "36... Be5 37. Bxe5 Kxe5": "37. ........ Kxe5 - recaptures with the king - this king is making his way down to b2.",
+        "38. f3 Kd4": "38. .......... Kd4.  There is no way I can stop Jim's king from getting to b2.  Henry is too far away to help and neither he nor his steed can stop Jim's plan so I wave the white flag.  On to my next annotation - now for the good news .................."
+    },
+    "url": "https://gameknot.com/annotation.pl/an-expert-lesson-in-pawn-majorities?gm=20491",
+    "gameName": "An Expert Lesson in Pawn Majorities",
+    "players": "jstevens1 (1739) vs. therealjimfriar (2048)",
+    "opening": "Ruy Lopez (C69), exchange variation, Alapin gambit"
+}

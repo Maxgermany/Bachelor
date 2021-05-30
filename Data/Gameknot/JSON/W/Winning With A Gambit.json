@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Nxc6": "If I'm not mistaken, I think this capture is generally frowned upon as it strengthens Black's pawn center.",
+        "6... bxc6 7. g3 Nf6 8. Bg2 O-O 9. O-O d6": "Giving up a pawn for development and pressure on the b-file.  I think the principle is similar to the Benko.  ",
+        "10. Bxc6 Rb8 11. Bg2 Qa5 12. a3 Be6 13. Nd5 Nxd5 14. cxd5 Bd7 15. Rb1 Ba4 16. b3 Qb5": "Winning back the gambit pawn.",
+        "17. e4 Bxb3 18. Qf3 Qa4 19. Bb2": "A natural try, but loses material.  Black's bishops sweep the board, while White's Bg2 isn't quite keeping up.",
+        "19... Bc4 20. Bxg7 Bxf1 21. Rxb8 Rxb8 22. Bh6 Bxg2 23. Kxg2": "White comes out of that down the exchange, but Black has to ensure that White can't get anything going on the dark squares around Black's king.",
+        "23... Qb3 24. Qg4 Qc4 25. Qh4 f5 26. Bf4": "Of course, Black would be happy to see 26 Qxe7 Qxe4  and simplification to a won ending.",
+        "26... Qxe4+ 27. Kh3 Qe2": "With too many threats for White to meet.  The list includes 28.. Qg4 , again simplifying to a won ending, 28 Qxf2 and the threat that White missed completely.",
+        "28. Be3 Qf1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/winning-with-a-gambit?gm=18440",
+    "gameName": "Winning With A Gambit",
+    "players": "wstooncan (1787) vs. jaybekay (1783)",
+    "opening": "Beefeater defence (A40)"
+}

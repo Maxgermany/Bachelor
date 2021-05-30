@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. e3 b6": "I've always liked the Nimzo-Indian as a versatile black response to the Queen's pawn opening with a reasonable amount of counter play.",
+        "6. Be2 Bb7 7. Bf3 d5 8. Qa4 Bxc3 9. Bxc3 Ne4 10. Bxe4 dxe4 11. b4": "White's pawns a quite persuasive here. I'm not sure I've done a good job developing this line 9... Ne4 seems like a mistake.",
+        "11... c6 12. Qc2 f5 13. Ne2 b5 14. c5 Na6": "Odd move, preparing for Nc7 -> Nd5 where it seems quite strong.",
+        "15. Nf4": "d5 is now defended from putting my knight there. expecting to play g5 when needed, but first I need to defend the e6 pawn.",
+        "15... Qe7 16. O-O Nc7": "Planning g5 and Nd5, now needing some way to get my pitiful white bishop activated.",
+        "17. a4 Ba6 18. Rfe1 g5": "That's g5 ....",
+        "19. Nh3 Nd5": "And Nd5. I now have a great position for my knight to sit, and the white knight is largely out of the fight. White's bishop is verging on useless, and he needs to open a file or break the pawn structure somewhere to make any ground in this game.",
+        "20. Bd2 bxa4": "Now to activate my bishop. Planning 21... Bb5 and 22... a6, and the bishop is suddenly a big thorn in the side of the white squares in white's territory. Now I need to get generate a kingside attack with the remaining pieces whilst white is stuck in his corner.",
+        "21. Rxa4 Bb5 22. Ra3 Rf7": "Beginning the approach. if 22... Rf6 23. Nxg5 I think the loss of the pawn would be awkward if the full attack didn't work -- this seems passive but at least making some progress :)",
+        "23. Qd1 g4": "Preventing the queen from getting to h5, and threatening the knight.",
+        "24. Nf4": "Looks threatening, but if 25. Nxd5 then 25... exd5 locks the position totally and allows me to keep building the attack on the kingside. Certainly I shouldn't be making a capture here.",
+        "24... Rf6": "Continuing the development -- this time getting in the moves that I really wanted to develop with.",
+        "25. h3": "Trying to relieve the pressure, but with the Queen at d1 I _need_ to ignore this.",
+        "25... Rh6 26. hxg4": "Likewise, recapturing here would be very bad for me.",
+        "26... Qh4": "Now there is a simple threat of Qh1#. Possible responses for white are 27. Nh3 (fxg4 seems winning after this) or 27. f3 which is more awkward -- 27... fxg4 seems to work, as if white ignores the move then 28... Qh2  29. Kf2 g3# is mate\n\nHowever, assuming that white does not ignore the move, 28. fxg4 leaves possible options to counter, including Nf6 and Rf8 (though the a7 pawn would hang). Nf6 looks like it loses material to 29. g5, but after Ng4 white cannot capture the rook without mate on h2.",
+        "27. f3 fxg4 28. fxe4": "Aha, captured the other way. I still like Nf6 after playing the check as it gives more mating threats with Nxe4.",
+        "28... Qh2+ 29. Kf2 Nf6 30. e5": "Blunder. Perhaps 30. Qc2 was required? it is hard for me to see how to launch a mating attack if the e4 pawn / square is re-defended.",
+        "30... Ne4#": "Game annotation for team benefit --"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=10008",
+    "gameName": "Team match",
+    "players": "drcrack (1493) vs. topazg (1497)",
+    "opening": "Nimzo-Indian defence (E20)"
+}

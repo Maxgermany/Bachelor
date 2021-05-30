@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4 d6": "Not the main line.",
+        "3. Nf3 b6": "Maybe not the best.",
+        "4. d4 cxd4 5. Nxd4 Nf6 6. Bb5+": "!? Just Nc3 was best.",
+        "6... Bd7 7. Bxd7+ Qxd7 8. Nc3 e5": "This is a little premature.",
+        "9. Ndb5 exf4": "? This is where he started to fall apart.",
+        "10. Bxf4": "Putting lots of pressure on the d-pawn.",
+        "10... Qc6": "? This doesn't help anything.",
+        "11. O-O": "I get rid of the possible Qxg2.",
+        "11... Na6 12. Re1": "This was just a waiting move. I hoped for ...0-0-0??, Nxa7+!",
+        "12... g6": "?? Now his knight is unprotected.",
+        "13. Bxd6 Rd8": "? Not the best thanks to my next move.",
+        "14. e5": "!! My attack is overpowering!",
+        "14... Be7": "Not much else to do.",
+        "15. exf6": "The bishop is pinned.",
+        "15... Rd7": "Again, black is floundering.",
+        "16. Rxe7+": "I close in.",
+        "16... Kd8": "Not helping anything.",
+        "17. Rxd7+ Kxd7 18. Be7+": "Sending his king to...",
+        "18... Kc8": "...there. Now I...",
+        "19. Nxa7+": "He resigned. His queen would go and he would be lost."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-crushing-game?gm=64567",
+    "gameName": "A crushing game.",
+    "players": "lake-bay (1522) vs. smikal11 (1266)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

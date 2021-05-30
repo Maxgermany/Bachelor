@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 Nf6": "This was one of my first games in the 95th GKT, my first tournament, with the #1 rated player in the 183rd group.  I previously usually played the caro-kann, hadn't looked at other openings much and decided to try this.  My pieces were quickly constricted by white, and my lack of initiative.  The caro-kann, this is not.  I'm starting the annotation on move #21, and filling in with earlier comments.",
+        "2. c4 Nc6 3. Nf3 e6 4. Nc3 b6 5. e4 d6 6. d5": "I'm already in trouble... arghh.",
+        "6... exd5 7. cxd5 Ne5 8. Be2 Nxf3+ 9. Bxf3 Be7 10. O-O O-O": "Backward pawns.  White has plenty of space.",
+        "11. b3": "Nd2? leads to more constriction.  e5 would have been the better move at this point.  The game is a mess.",
+        "11... Nd7 12. Bf4 Bf6 13. Rc1 Re8 14. h3": "White is very active and has taken over the board.",
+        "14... a5": "A feeble pawn attack at a5, apparently hoping to get a passed pawn.  White responds with Nb5 attacking c7.  Shades of the endgame are forming already.",
+        "15. Nb5 Nc5": "My knight blockade, protected by a5.",
+        "16. Re1": "I'm concerned about white putting his knight on c3, and decide to find his intentions.",
+        "16... Ba6 17. Nd4": "He's also attacking f5.",
+        "17... Bb7 18. Qd2": "My constricted position and white's potential kingside attacks are cause for concern.  My goals are to 1) protect the king, 2) neutralize the white N and bsB, 3) get more room for my pieces, 4) get more room to move near my king, and 5) advance my abc pawns.  I deliberated for awhile on what the best move might be for this plan.",
+        "18... h6": "Here we go.  An innoculous move, and the action begins.",
+        "19. Nf5": "Yikes!  Here comes the knight.  What to do?",
+        "19... Bg5": "Attack on white's bsB and queen.",
+        "20. Qd4": "Surprise move by white's queen threatening instant mate. ",
+        "20... Qf6": "White is charging ahead.  ",
+        "21. Bxg5": "Double attack on my queen, while white's knight is protecting his queen.  Do I take the queen that is threatening mate, or the bishop?  My analysis from yesterday says the queen.  As black, my first intention is to neutralize, and then if possible, to gain the initiative.  There's a nice potential rook fork with Nd3, but first the bsB has to be gone or else it would be saved by moving back to defend and leaving me down by a pawn.  White is threatening Nxc7 via d4 and b5.  Therefore 21. ... Qxd4 22. Nxd4 hxg5 23. Nb5 Re7 is apparent.\n ",
+        "21... Qxd4 22. Nxd4 hxg5 23. Rc3": "White moves Rc3 instead of Nb5.",
+        "23... g6 24. Nb5": "There he goes.  It's better to keep my Re free on the file.",
+        "24... Rac8 25. Kf1 Ba6 26. a4 Re5 27. Kg1 Bxb5": "The knight was causing too many problems.",
+        "28. axb5 f5 29. Ree3 Kf7 30. Kh2": "Now the final action begins.",
+        "30... Nxe4 31. Rcd3 Nc5 32. Rdc3 Rce8 33. Rxe5": "I deliberated for awhile on whether to take with the pawn, which looked very likely to end in a draw.  Getting the rook through was vital.",
+        "33... Rxe5 34. g3 Re1": "Finally through.",
+        "35. Kg2 Rb1 36. g4 Rxb3 37. Rxb3 Nxb3": "Two pawns ahead.  I need to get N to c3 and keep him from putting B on c4.",
+        "38. Bd1 Nd4 39. Ba4 Ne2 40. Kf3 Nc3": "Success.  N on c3 plus attack on the bishop.  A tough game.  White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/2nd-game-with-garyisk-in-95th-gk-tournament?gm=45693",
+    "gameName": "2nd game with garyisk in 95th GK tournament",
+    "players": "garyisk (1648) vs. 3253 (1597)",
+    "opening": "Kevitz-Trajkovich defence (A50)"
+}

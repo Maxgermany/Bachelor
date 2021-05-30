@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "Steve comments \"Before the game my late and great opponent was talking about playing against famous players Capablanca, Botvinnik, Golombek, Milner-Barry and playing in the 1930s in Hastings etc. etc. spoke about working at Bletchley Park (he was 90+ years old when I played him). It may account for the blunder.....anyway sadly he passed away about three years or so after this game was played....so....\"",
+        "1... d5": "Black copies white's first move.",
+        "2. c4": "Queens Gambit",
+        "2... e5": "Is met with the The Albin Counter Gambit. ",
+        "3. dxe5": "White takes.",
+        "3... d4": "Black advances",
+        "4. Nf3": "White develops.",
+        "4... Nc6": "So does black.",
+        "5. g3": "The usual recommended way of developing. Not 5. e3? Bb4+",
+        "5... Bf5": "Steve says \" a new move for the time.....usually Be6 or Bg4 had previously mostly been played)....it must have confused him as the usual idea is to gang up on the d4 pawn by way of a3, b4 Bb2, Nd2 and Nb3.....anyway it's a brutal move order demolition that follows ...\"",
+        "6. Nbd2": "Completely overlooking black's threat. Probably simplest is 6. a6, but I see that 6. Bg2 has been played with reasonable success in this position.",
+        "6... Nb4": "Oops, the threat of 7....Nc2+ is overwhelming.",
+        "7. Nb3": "Giving the king a flight square.",
+        "7... Nc2+": "Black checks.",
+        "8. Kd2": "King moves.",
+        "8... Bb4#": "But walks into a mate. As Steve says \"Lovely that one.....I used less than 1 minute and went and sat in the sun.\""
+    },
+    "url": "https://gameknot.com/annotation.pl/chester-congress-minor-under-120?gm=65556",
+    "gameName": "Chester Congress Minor (under 120)",
+    "players": "JS Ridgeway (ECF121) vs. Steve J Rush (ECF102)",
+    "opening": "QGD (D09), Albin counter-gambit, 5.g3"
+}

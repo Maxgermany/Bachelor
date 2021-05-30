@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nThis was the closest I have ever been to becoming The-Black-Queen.  Right until the end I had a winning advantage over Michael, but, due in large part to Old Matey (in the form of Michael's queen) sniffing around Henry, I ended up forcing a queen trade and immediately hitting the offer draw button.  Michael duly accepted the offer.  Little did I know that the gameknot analysis was about to show that I had a winning alternative continuation to initiating the queen trade.  I now feel as though I bottled it.  So, how did this all happen?  Well, here is the gameknot analysis below:-  http://gameknot.com/analyze-board.pl?bd=22336553&rnd=0.7168277988215053",
+        "1... d6 2. d4": "2.d4 - Michael has played the Pirc Defense and allowed me to get control in the centre.",
+        "2... Nf6 3. Nc3 g6 4. f4": "4. f4 - Austrian attack.",
+        "4... Bg7 5. Nf3 O-O 6. Bd3": "6. Bd3 - I develop my pieces quickly.",
+        "6... Bg4 7. h3 Bxf3 8. Qxf3": "8. B for N trade.",
+        "8... Nc6 9. Be3 Nb4 10. O-O-O": "10. 0-0-0 - I make a somewhat brave decision to castle on the opposite side of my opponent.  This can involve pawn storms on both sides of the board and a race to checkmate.",
+        "10... Nxd3+ 11. Rxd3": "11. Rxd3 - I have no desire to capture with my pawn and mess up my pawn structure, so the rook recaptures.",
+        "11... c6 12. e5 Nd7 13. h4": "13. h4 - the pawn storm begins.",
+        "13... Nb6 14. h5 Qc8 15. Kb1 d5 16. g4": "16. g4 - and gathers momentum.",
+        "16... Nc4 17. Bc1 Qc7 18. hxg6 fxg6": "18. ..... fxg6 - the h column is opened up.  Can I get my heavies onto that? We shall see.",
+        "19. Qh3 h6 20. f5 Kf7 21. fxg6+": "21. fxg6+ - I now expose my opponent's king.",
+        "21... Ke8 22. Rf3 Rh8 23. Rf7": "23. Rf7 - King Michael has managed to run away from the kingside and back onto his home square.  I now give my opponent a bone in the throat.",
+        "23... Rg8 24. Bxh6": "24. Bxh6 - wins a second pawn.",
+        "24... Qb6 25. Nd1": "25. Nd1 - Henry is in Old Matey's shadow so I elect to defend it with my knight.",
+        "25... Bxh6 26. Qxh6": "26. Qxh6 - now the h column is dominated by Glenda and one of my rooks, but now Henry is subject to a little harassment.",
+        "26... Na3+ 27. Kc1 Qxd4 28. e6": "28. e6 - trying to evade capture from the BQ and putting a further crimp on Michael's position.",
+        "28... Qe4 29. bxa3 Qxe6 30. Rhf1 Kd7": "30. ..... Kd7 - over the last few moves I have managed to get rid of that pesky knight which has been bothering Henry.  However, although I am still a piece up, my mating attack has been blunted a little.",
+        "31. Qg5 Rxg6 32. Rxe7+ Qxe7 33. Qxg6 Qxa3+ 34. Kb1 Qb4+ 35. Ka1 Re8": "35. ....... Re8 - over the last few moves there has been a plethora of exchanges and Michael has won back a pawn.  Henry is still being harassed.  This time by the BQ.  At least she does not have any assistance, at the mo.",
+        "36. Qf5+ Kc7 37. g5 Qd4+ 38. c3": "38. c3 - I block a check and push my passer up one square.  However, Qd2 threatening Qc1# should Glenda stray off the b1-g8 diagonal prompted me to trade queens.  I did briefly consider Qf7+ but I thought it wouldn't lead to anywhere, so I closed down the game with the queen trade and a subsequent draw offer.  Gameknot analysis showed that Qf7+ won for white.  So, a missed opportunity for yours truly.",
+        "38... Qd2 39. Qf4+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/bottled-it?gm=58847",
+    "gameName": "Bottled it!",
+    "players": "jstevens1 (1812) vs. 0newinatatime (2034)",
+    "opening": "Pirc (B09), Austrian attack, 6.Bd3"
+}

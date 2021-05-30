@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. c4 c5 2. Nf3 Nc6 3. e3 e6 4. Nc3 Nf6 5. d4 d5 6. cxd5 exd5 7. Be2 Bd6 8. dxc5 Bxc5 9. O-O O-O 10. b3 a6 11. Na4 Bd6 12. Bb2 Ne4 13. Rc1 Re8 14. Nc3 Nxc3 15. Bxc3 Bc7 16. Qd3 Be6 17. Rfd1 Rc8 18. Qb1 Qe7 19. Qa1 f6 20. Nd4 Nxd4 21. Bxd4 Bd6 22. Bf3 Rc6 23. Bb2 Rec8 24. g3 Ba3 25. Rxc6 bxc6 26. Bxa3 Qxa3 27. Rd4 Qa5 28. Ra4 Qb6 29. Qf1 Ra8 30. Qd3 Bf7 31. b4 Be6 32. Qd4 Qxd4 33. exd4 Kf8 34. Be2 Bc8 35. f3 Ke7 36. Kf2 Kd6 37. Ra5 Bb7 38. Ke3 Kc7 39. Kd2 Kb6 40. a3 Re8 41. Rc5 Bc8 42. a4 Bd7 43. Bd3 h6 44. a5+ Kb7 45. Rc1 Bc8 46. Bg6 Re7 47. Re1 Rxe1 48. Kxe1 Kc7": "In almost any endgame, it is a significant advantage to have the more active king, and this is a perfect illustration of that rule applying in a bishop endgame. Black has two weak pawns on a6 and c6, to the defence of which his bishop will be tied down. Meanwhile White will penetrate with his king on the weakened light squares on the kingside (two weaknesses!}. It seems unlikely that he should be able to do so, but with the aid of zugzwang, his king makes it all the way to h8. Finally, we see another typical device in minor piece endings - the sacrifice of a piece, to net a winning collection of pawns. Averbakh's handling of the endgame is technically flawless.",
+        "49. g4": "Fixing weaknesses - now the enemy kingside pawns are fixed in their place, and White can prepare to infiltrate them with his king.",
+        "49... Kd6 50. Kf2 Ke7 51. Kg3 Kf8 52. Kh4 Be6 53. Kh5 Bc8 54. Bd3": "Tying the black bishop down to the defence of a6.",
+        "54... Kf7 55. h3": "Zugzwang. Now Black's king must give way, since 55. ...Bb7 results in his bishop being completely immobilized after 56. Bf5.",
+        "55... Kf8 56. Kg6 Kg8 57. Bf1": "Preparing a further zugzwang.",
+        "57... Kf8 58. Be2 Kg8 59. Bd3": "Once again, Black is in zugzwang and must give ground.",
+        "59... Kf8 60. Kh7 Kf7 61. Bg6+ Kf8 62. Kh8": "White's king has made it to the end of the earth. Now the next stage is to force Black to undefend the pawn on g7.",
+        "62... Bd7 63. f4 Bc8 64. f5 Bd7 65. Bh5": "Setting up the final breakthrough.",
+        "65... Bc8 66. Be8": "A beautifully elegant final blow. The bishop sacrifices itself, on an empty square (always the most aesthetic form of sacrifice), in order to destroy the black kingside pawn structure.",
+        "66... Kxe8 67. Kxg7 h5": "Desperation. If 67. ...Ke7 68. h4! (not 68 Kxh6?? Kf7 with a draw) 68. ...Bd7 and now simply 69. g5! and the f-pawn will promote.",
+        "68. Kxf6 hxg4 69. hxg4 Kf8 70. g5 Kg8 71. g6 Kf8 72. Kg5 Bd7 73. f6 Be8": "73. ...Bc8 74. Kf4 is no better.",
+        "74. Kf5 Kg8 75. g7 Bf7 76. Ke5 Bg6 77. Kd6 Bd3 78. Kxc6 Kf7 79. Kd6 Bf5": "If the bishop stays on the a6-f1 diagonal, to prevent White's next, then after 79 ...Bc4 White wins by 80. g8Q+! Kxg8 81. Ke7.",
+        "80. b5": "Now the a-pawn will decide. A beautifully elegant ending by the great Soviet endgame expert, and a highly\ninstructive demonstration of some typical endgame ideas."
+    },
+    "url": "https://gameknot.com/annotation.pl/great-endgames-series-bishop-endings?gm=52301",
+    "gameName": "Great Endgames Series - Bishop Endings",
+    "players": "Yuri Averbakh (2445) vs. Seymon Furman (2560)",
+    "opening": "English (A30), symmetrical, hedgehog system"
+}

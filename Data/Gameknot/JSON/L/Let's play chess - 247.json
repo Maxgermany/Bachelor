@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5": "Thinking bout the Steinitz game darknite posted. ",
+        "2. Nf3 Nc6 3. Bc4 h6": "Development. center control. focus on f7.  Blacks h6 feels premature to me. ",
+        "4. d4 exd4": " The pawn at d4 isn't going anywhere immediately. White will castle and then be free to mingle about.",
+        "5. O-O Bc5 6. b4": "This position is different than the Steinitz game where Black has a pawn on e4. White plays b4 anyway sacrificing a second pawn for freedom on the dance floor.",
+        "6... Nxb4 7. c3 dxc3 8. Nxc3": "White down -2, but with good mobility available for all minor pieces. Castled and have e1 open for the rook, queen poised on d file. Blacks developed pieces aren't under any immediate threat per se, but at the same time they do not have good squares to move onto. ",
+        "8... Qe7": "8. Qe7? Not what I expected and not generally thought to be sound practice. I heard somewhere...\"try not to place your queen in front of your king....\"______ Well, I was anticipating Nf6 or d6. ",
+        "9. Re1 d6 10. Nd5": "Naturally, the rook Whites rook tucks in on the e file exerting pressure on Blacks queen. White follows 9....d6 ( which I think is a little late) with 10. Nd5! And black has to be careful now with the threat of Nc3+! Forks are good, right? At this point black decides to log out and take a break. ",
+        "10... Qd7": "Stymies the fork, but black has little mobility.",
+        "11. e5 Kd8": "The e Pawn probes onward and Blacks King seeks safety.",
+        "12. Ba3": "White wants to eliminate the Black knight from it's defensive post and remove the option of any future thoughts on playing Nc2.",
+        "12... Nxd5 13. Bxc5 Nf4": "Here it becomes clear that Black is not interesting in trading. Perhaps, 13....dxBc4 and create space for movement. Doesn't matter now.",
+        "14. exd6 c6": "Black decides belatedly for space, but only improves Whites dark squared bishop.\n",
+        "15. Ne5 Qf5": "Driving the queen and setting up 16. Nxf7+!. White has succeeded in gaining control of f7 and the central files. \n",
+        "16. Nxf7+ Kd7": "The only refuge.",
+        "17. Qd4 Rh7": "The knight on f7 is placed too well to bother picking off the rook on h7. The queen moves forward to get a better angle. !7.... Rh7 accomplishes nothing.",
+        "18. Re7+ Nxe7": "Trading down rook to knight, but gaining the e7 square.",
+        "19. dxe7+ Ke8 20. Qd8#": "Not exactly a classic for the ages, but White follows thru on the basics. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=54763",
+    "gameName": "Let's play chess",
+    "players": "ed_norton (1300) vs. mr_gold (1355)",
+    "opening": "King's pawn game (C50)"
+}

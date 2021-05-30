@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5": "To play a gambit, or to not play a gambit.",
+        "2. f4": "Gambit!",
+        "2... d6": "Declined.",
+        "3. d4": "My favorite reply for KGD.",
+        "3... Nc6 4. Nf3": "Not the best.",
+        "4... Bg4": "So I decide to rip the center open.",
+        "5. dxe5 dxe5 6. fxe5 Nxe5": "He thinks his Knight is safe.",
+        "7. Qxd8+": "Pin demolished.",
+        "7... Rxd8": "But if NxN, Rd8+. I didn't see anything but equalization from Rd8+, so I play NxN.",
+        "8. Nxe5 Rd1+ 9. Kf2 Bc5+": "He doesn't equalize.",
+        "10. Kg3 Bh5": "Then I was hit by a brilliant, Rook winning combination!",
+        "11. Bb5+": "Well, I thought it was great. I forgot about the LSB.",
+        "11... c6 12. Bxc6+ bxc6 13. Rxd1 Bxd1 14. Nxc6": "I'm up two anyway.",
+        "14... Nf6 15. e5 Ne4+ 16. Kf4 Nf2": "Okay, I'll trade up.",
+        "17. Be3 Bxe3+": "Yes!",
+        "18. Kxe3 Ng4+ 19. Kd2 O-O": "I didn't see the Knight check, but I did see the pawn and Bishop.",
+        "20. Kxd1 Rc8 21. Nxa7": "Maybe Nd4 was better.",
+        "21... Rd8+ 22. Nd2 Nxe5 23. c3": "Excape route for King, though I should have played b3.",
+        "23... Nc4 24. Ke1 Nxd2": "Thankfully, he didn't take with the Rook.",
+        "25. Rd1 Nf3+ 26. Ke2 Rxd1 27. Kxd1 Nxh2 28. b4": "Here, he said \"see ya,\" and politely let the clock run out with six minutes left (it was blitz). Thank you, revken16, for this game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/not-1-not-2-not-4-but-3-passed-pawns?gm=40723",
+    "gameName": "Not 1, not 2, not 4, but 3 passed pawns!",
+    "players": "theancientbeast  vs. revken16 ",
+    "opening": "King's gambit (C30)"
+}

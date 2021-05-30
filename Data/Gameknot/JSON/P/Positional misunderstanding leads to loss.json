@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. Nf3": "In this game, the game was based on a strategic battle based on a central pawn mass vs piece activity. Of course, activity is the whole idea of chess, and therefore black's strategy was more sound. There are very instructive ideas in this game.",
+        "1... Nf6 2. c4 e6 3. g3 d5": "White is playing a fianchetto, so black blocks the bishop with a central pawn chain immediately. This is a typical idea. Here, the black's light squared bishop is out of the game for now, but black intends to free it later with ...b6 or better ...e5. Capturing on d5 will also free the bishop. ",
+        "4. Bg2 Be7 5. O-O O-O 6. Nc3": "It's a mistake. Now black can easily attack the knight and force it away, while taking control of the center. Now his pieces are in better position.",
+        "6... d4 7. Nb1 Nc6": "Of course we should use the pieces, not the pawns. if we have a choice. ",
+        "8. d3 e5 9. e4": "This move, really, is another positional inaccuracy. White turns his light squares bishop into a prisoner, and does not have a justification for it. White should simply go 9.Nd2, keeping his position in the center. However, it is not so bad as it allows white to easily get away with having a worse development.",
+        "9... Rb8": "Black wants to play on the queenside, where he has more space. However, an idea of playing on the kingside was also possible. The one with more activity can play on whichever side of the board he wishes to. ",
+        "10. Ne1 Be6 11. f4": "All the white pieces are backwards. Certainly black should take and open things up. Now here is an  understanding of when to move pawns that are not for developing pieces or stopping threats.\n1.You move pawns when your piece activity is greater/equal to opponent's. \n2.Pawns are great to advance for an attack, but not good to defend yourself. When the opponent has activity advantage, you should keep pawns still. Here, white does not understand this idea, and black quickly starts an attack.",
+        "11... exf4 12. gxf4 Bg4 13. Nf3 Qd7 14. a3": "White makes another mistake, trying to advance his queenside agenda. We should not advance pawns when down in activity. Probably 14.Qc2 getting out of the pin is better. Now there are more weaknesses in white's position to be fixed.",
+        "14... a5 15. Nbd2 Nh5": "Provoking white to advance his pawns again. Certainly white did not want to go backwards with 16.Nb1, so he must push the pawn. As we know, it is bad when you are defending.",
+        "16. f5 Nf4 17. Qc2 Qd6": "Black is tranfering his pieces to the kingside, and will attack there. White has a lot of pawns advanced, and therefore a lot of weaknesses. Not good when defending.",
+        "18. b3": "Another mistake, this time because the move really does not do anything. ",
+        "18... Nxg2": "Black is exchanging an important kingside defender. I'm not sure it was best now, but there was definitely an idea there. However, the f4 knight is much stronger than the weak bishop, but the bishop was a defender.",
+        "19. Kxg2 Qh6 20. Ng1": "White uses the knight for a defense, as he should. This move is accurate. ",
+        "20... Bg5": "Honestly, an exhanging of bishops at the right moment will greatly favor black. White has numerous dark square weaknesses, so if he can occupy one with the knight, he should trade bishops. ",
+        "21. Ndf3 Be3": "Now if white takes black gets advantage, his rooks will be activated along the center, and will attack the weak pawns directly.",
+        "22. h3 Bh5 23. Qe2": "White does not know what to do in the position. There was very little for him to do. Black has a fierce grip on the position, and has gotton his pieces inside of the white's pawn chain, which has left many squares weak. More weak squares=More attacking chances for the attacker, and therefore pawns need to stay where they are when you defend.",
+        "23... Rbd8 24. Qc2 Rfe8": "The rooks will prevent white from taking on e3.",
+        "25. Re1 Rd6 26. Qe2": "As you can see, white is struggling for moves.",
+        "26... Ne5 27. Qf1 Rb6 28. Rb1 g6": "Now black will open the position against the weak white king-The advanced pawns are a perfect contact point. As you can see, the pawns are great for attacking, but bad for defense in so many ways. ",
+        "29. Bxe3 dxe3 30. Nxe5 Rxe5": "A few exchanges do not hamper the blacks attack. Now the game ended rather quickly.",
+        "31. Nf3 Re8 32. Qe2 gxf5 33. Qxe3": "Now just a decisive combination.",
+        "33... Rg6+ 34. Kf2": "34.Kh1 f4 same thing happnes, black is winning material.",
+        "34... f4 35. Qe2 Rg3": "White simply resigned. There is not defense, since black takes on f3 with the bishop, then the h3 pawn will fall. A good effort from my opponent. "
+    },
+    "url": "https://gameknot.com/annotation.pl/positional-misunderstanding-leads-to-loss?gm=45915",
+    "gameName": "Positional misunderstanding leads to loss",
+    "players": "blitzkov (1853) vs. tiger_lilov (1857)",
+    "opening": "Reti opening (A05)"
+}

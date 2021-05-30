@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. h3": "why? there are other stronger moves. ",
+        "3... d5 4. Nc3": "same question. exd5 is better.",
+        "4... d4 5. Nd5 Be6 6. c4 dxc3 e.p. 7. bxc3": "dxc3 saves the button.",
+        "7... Bxd5 8. exd5 Qxd5 9. c4": "Qb3 O-O-O; and Qxd5 is a little bit better.",
+        "9... Qe4+": "...Qe6 is better.",
+        "10. Be2 Nd4 11. d3": "Nxd4 i s better.",
+        "11... Qf5": "...Nf3+ is better. ",
+        "12. g4 Qd7": "...Qe6 is better.",
+        "13. Nxe5": "Nxd4 is better.",
+        "13... Qd8": "...Qe7 is much stronger.",
+        "14. Bf3": "...Bd6 better. Bxb7 Bxe5 and black is up material. ",
+        "14... Nxf3+ 15. Qxf3 Bb4+": "...f6 wins the N for a pawn. ",
+        "16. Bd2 Bxd2+ 17. Kxd2 Qg5+": "again: ...f6 wins the N.",
+        "18. Qe3": "Kc2 is strong since Qxe5; Rae8 wins the Q.",
+        "18... Qxe3+ 19. Kxe3 Nf6 20. Kf3 O-O": "since the Qs are off the board, it does not appear to be necessary to castle. ...Nd7 seems good for Black. fewer pawn islands, centralized k. ",
+        "21. d4 c6 22. Rab1 Rab8 23. a4": "Rad8 appears better.",
+        "23... a5": "...Rfd8 is better. ",
+        "24. g5 Rbd8": "...Nh5 is best.",
+        "25. gxf6 gxf6 26. Ng4 f5 27. Ne3": "Ng6+ wins the button on f5.",
+        "27... Rxd4 28. Rhg1+ Kh8 29. Nxf5 Rxc4 30. Rxb7 Rxa4 31. Nh6 Ra3+ 32. Kf4 Ra4+ 33. Ke5 f6+ 34. Kf5 Rb4 35. Nf7+ Rxf7 36. Rxf7 Rb8 37. Rgg7 a4 38. Rgxh7+ Kg8 39. Kxf6 a3 40. Rfg7+ Kf8 41. Rh8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/c-b-winter-tournament-6?gm=64853",
+    "gameName": "C B winter tournament# 6.",
+    "players": "gur-dial (1452) vs. toots2711 (1423)",
+    "opening": "King's pawn game (C44)"
+}

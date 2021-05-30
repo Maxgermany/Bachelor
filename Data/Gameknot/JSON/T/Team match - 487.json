@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 Nf6 3. Nc3 Bb4 4. Bg5 O-O": "Instead of castling black should definitely protect the pawn.  White's bishop is pinning black's knight against his queen.",
+        "5. dxe5": "Now black should counter with a pawn threat against the white bishop.  Pawn-pawn pushes the bishop off the black queen's diagonal.\n",
+        "5... Nc6": "Black choose instead to further persuade white to take the cheap knight.\n",
+        "6. exf6 g6 7. Bc4 Re8": "Who will save the e pawn?",
+        "8. f3": "f pawn to the rescue.",
+        "8... Ne5 9. Qe2 Bxc3+ 10. bxc3 Nxc4 11. Qxc4 d5 12. Qd3 Bf5 13. Rd1 Qe7": "???  Ok, moments earlier black began mainlining heroin and imagined white's pawn had transmogrified into a knightly stallion.  How did black earn 1300 with moves like that?  Perhaps black's six year old nephew made this move while black was watching Dancing with the Stars.  Mm.  Black's e rook already prevented white's pawn from nabbing the bishop at f5.  I cannot discern any clear motive for Qe7.  With all white's firepower on the d rank black has little hope of a sudden checkmate with the queen sacrifice.  To add insult to injury that important central d5 pawn remains undefended.",
+        "14. fxe7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=35230",
+    "gameName": "Team match",
+    "players": "dougcosine (1333) vs. maxillo (1321)",
+    "opening": "Centre game (C21)"
+}

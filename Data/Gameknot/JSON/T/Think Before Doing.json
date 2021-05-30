@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "This was a blitz game that I played on Gameknot. It's short, but it has a good lesson inside it.",
+        "1... e5 2. Bc4": "Trying the Scholar's mate (4 move checkmate)",
+        "2... Nf6": "I thought of this little defense 3 years ago (2010). Prevents the Queen from going to h5, and if the Queen goes to f3, she isn't threatening anything.",
+        "3. Qf3": "??? Maybe he missed the significance of my last move?",
+        "3... Bc5 4. d3": "Preparing to develop his bishop, protects the pawn and bishop. Pretty good move.",
+        "4... O-O": "The reason I lose a lot of my games is because I don't castle. Always castle early in the game.",
+        "5. Bg5": "2 attackers, 2 defenders. I'm OK on f6.",
+        "5... d6": "I am thinking about Bg4. Would that have been good?",
+        "6. Bxf6 gxf6": "Here I begin to worry. Qg3+, and my king is not very safe.",
+        "7. Qxf6": "Lucky me, I guess. He resigned at this point. Here's my big message, THINK BEFORE DOING! Don't just blindly make a move based on 2 seconds of thinking. Sianarah, everyone. "
+    },
+    "url": "https://gameknot.com/annotation.pl/think-before-doing?gm=48683",
+    "gameName": "Think Before Doing",
+    "players": "walter1978 (1195) vs. jamie79 (935)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

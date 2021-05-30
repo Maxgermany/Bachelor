@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2": "The classical approach",
+        "5... O-O 6. O-O c5": "This turns out to be quite a good variation. Maybe time to check my openingsbook???",
+        "7. dxc5 dxc5 8. Be3 b6 9. h3": "theory..",
+        "9... Bb7 10. e5": "theory..",
+        "10... Ne4": "Now it seems like white can get some advantage. Again...maybe i should check my openingsbook, for at first i thought blacks set-up was OK, and now i do get a plus....",
+        "11. Qxd8 Rxd8 12. Nxe4 Bxe4 13. Ng5 Bb7": "if 13..Bxc2? then 14.Bf3 at least wins the exchange (14...Nd7 or 14...Na6 15. Bxa8 Rxa8)",
+        "14. e6": "interesting play!",
+        "14... f5": "Or 14...f6 15.Nf7. After ...f6 black has no pressure against b2/d4",
+        "15. c3 Bf6 16. Rad1": "16.Nf7!?",
+        "16... Nc6 17. Nf7 Rxd1 18. Rxd1 Kf8": "What can black do?? His position is very cramped.",
+        "19. Bf3": "Rd7 coming up!",
+        "19... Na5 20. Bxb7 Nxb7 21. Rd7": "Bisshops exchanged, black still cramped...",
+        "21... Na5 22. Bh6+ Kg8": "Look at this position! The black king is stalemated, white just needs a check and its mate...even without queens mating attacks occur!",
+        "23. g4": "idea: gxf gxf Rd7-d3-g3 and mating",
+        "23... fxg4 24. hxg4 Nc6": "now the g-file will stay closed but the black play is more and more limited.... He has only his knight to play with.",
+        "25. f4": "e5 is mine! g5 is mine! f5 is mine! h5 is mine! d4 is mine! d5 is mine! e4 is mine!",
+        "25... a5": "the black rook can move now, without losing the a-pawn",
+        "26. Rc7 Na7": "only move, 26...Nd8 26.Nxd8 Rxd8 27.Rd7 and black has no counterplay at all",
+        "27. Kf2": "simple strategy: black cannot improve his position, so meanwhile the white king can be activatedb before white actions take place",
+        "27... a4 28. a3 Nb5 29. Rd7 Bxc3": "Despair....but helps to create a nice finish of the game",
+        "30. bxc3 Nxa3": "Simple thinking: N-away, a4-a3-a2-a1Q and wins So white has 5 moves to knot the mating net... FIVE moves,....",
+        "31. Rxe7 Nc4 32. f5 gxf5 33. gxf5 a3 34. f6 a2 35. Ng5": "Now black can queen his pawn. But then 35...a1Q 36.f7  Kh8 37.Re8  Rxe8 38.fxe8Q mates",
+        "35... Ne5 36. Rg7+ Kh8 37. Rxh7+": "37...Kg8 38.f7  Nxf7 39.exf7 CHECKMATE!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/7835s-mini-tournament-2?gm=11149",
+    "gameName": "7835's mini-tournament - 2",
+    "players": "jaromir (1865) vs. iuliusro (1718)",
+    "opening": "Pirc (B08), classical system, 5.Be2"
+}

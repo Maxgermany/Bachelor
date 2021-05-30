@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 b6 2. d4 Bb7": "This is a typical position from the Owen Defense.  ",
+        "3. d5": "This is not typical.  More often White continues development.",
+        "3... c6 4. c4 cxd5 5. cxd5 Nf6 6. Nc3 d6 7. Bb5+ Nfd7 8. Nf3 a6 9. Ba4 b5 10. Bc2": "Black is now somewhat cramped, or at least has poor piece coordination.",
+        "10... g6 11. O-O Bg7 12. Bf4 O-O 13. Rc1 Nf6 14. Re1 Nbd7 15. b4 Ng4 16. h3 Nxf2": "This was crazy.  Bxc3 was the obvious choice.",
+        "17. Qd2 Rc8 18. Bb3 Nxh3+ 19. gxh3": "Black has given up a piece for two pawns, but has insufficient piece coordination to launch an assault on the exposed White King.",
+        "19... Nf6 20. e5 Nh5 21. Bh2 Qd7 22. e6 fxe6 23. dxe6 Qe8 24. Nd4": "White pieces are wonderfully placed.",
+        "24... Rf6 25. Ne4 Bxe4 26. Rxe4 Rxc1+ 27. Qxc1 Qf8 28. Bxd6 Kh8": "exd6 runs into e7+, losing the Queen.",
+        "29. Be5 Qd8 30. Nc6 Qd3 31. Bxf6 Qxe4 32. Bxg7+ Kxg7": "White is significantly better here and only has to worry about King safety.",
+        "33. Qc3+ Kh6 34. Qd2+ Nf4 35. Bd5": "This is a good move.  Moving the Queen off the second rank might have allowed Black to play Qg2#.",
+        "35... Qf5 36. Nxe7 Qg5+ 37. Kh2 Nxe6 38. Qxg5+ Kxg5 39. Bxe6 Kf6 40. Bc8": "White wins easily by picking off the a- and b-pawns and shepherding one of them to promotion.",
+        "40... Kxe7 41. Bxa6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=57995",
+    "gameName": "Let's play chess",
+    "players": "dircours007 (1516) vs. mmoody95 (1750)",
+    "opening": "Guatemala defence (B00)"
+}

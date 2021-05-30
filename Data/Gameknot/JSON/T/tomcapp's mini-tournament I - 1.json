@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 c5": "The second game I have annotated in this mini-tournament. This was quite an interesting game as it involved my pawn chain trap such as the one I used in my game against eldominicano34 (See this link for the annotation http://gameknot.com/annotation.pl/lets-play-chess?gm=37916)",
+        "2. Nf3": "A normal Sicilian move",
+        "2... Nc6": "I hadn't seen this before but continued on as normal.",
+        "3. d4 cxd4 4. Nxd4 Nxd4 5. Qxd4": "I didn't want to play this as it drew my queen out very early but the other combination forced it.",
+        "5... e6 6. Nc3 Nf6 7. Bg5": "A pin not to dissimilar to that of the 6. Bg5 najdorf.",
+        "7... h6 8. Bxf6 Qxf6": "Know my pawn trap begins",
+        "9. e5 Qg5 10. f4 Qh4+ 11. g3 Qg4": "The computer analysis Showed that he should have played Qd8 long before",
+        "12. Be2 Qf5 13. O-O-O": "Doubles my forces on the D-file and takes my king away from the center. I had to Queenside castle because of my kingside Pawn chain attack.",
+        "13... b6 14. Bf3": "Before this game had ended I had planned on giving it an !! because of these combinations:\n\n14. Bf3 (I believe this is the nail in the coffin) 14.Bf3 d5 15. exd6 Rb8 16.d7 Kd8 17. dxe8 = Q+ Kxc8 18. Qd8# 17... Rxc8 18. Qxd7# 17... Ke7 18. Qcd7# 16... Ke7 17. d8 = Q# 14... Rb1 15. Bc6 dxc6 16. Qd8# 15... (No real strong reply) kd8 16. Bxd7 (fall into already planned checkmate lines. You can see this above but slightly different.) Bxd7 17. Qxd7# 15... Ke7 (prolongs) 16. Qd6+ Kd8 17. Qxb8 (5 points behind and in a tight situation) 16... Ke8 same as above 17. Qxb8 14... Bb7 15. Bxb7 (forces) Rd8 (all other rook moves = mate with (16. Qxd7#) 16. Bxc6 dxc6 17. Qxd8# 16... Ke7 17. Qd6+ Ke8 18. Bxd7+ Rxd7 19 Qxd7# Another possible way to prolong it is Qxc2+ at any time Kxc2 means game is basically over because of large point deficit. Also leaving rook on a8 and doing something else results in losing the rook and having large point deficit. There are also some other moves but they all still leave black so far behind the only chance of victory is time out or some horrendous blunders.\n\n",
+        "14... Bc5": "I didn't see Bc5 causes me to move queen he can then castle into safety however the computer anylasis said this was a mistake and said Rb8 was a better move because of Best: +3.59 \u00bb \u2026 Rb8 15. Qc4 Bc5 16. b4 Be3+ 17. Kb2 O-O 18. Qd3 Qxd3 19. Rxd3 Bc5 20. bxc5 bxc5+ 21. Ka1 f6 22. Rb1 Rxb1+ 23. Kxb1 fxe5 24. fxe5. However I wouldn't have played 15. Qc4 because I wanted a quick checkmate.",
+        "15. Qd2 Rb8 16. Bc6 O-O 17. Bxd7 Ba6": "Why he doesn't recapture I don't know",
+        "18. Na4 Be7 19. Bc6": "This stops R(b or f)d8 Pinning the bishop",
+        "19... Rfd8": "I knew this was coming and planned on playin Qc3",
+        "20. Qc3 Rd5": "Unexpected as he loses The Exchange",
+        "21. Bxd5 exd5 22. Rxd5 Bb7 23. Rd7": "A blunder because of Qxd7",
+        "23... Qe4": "Luckily he didn't see it",
+        "24. Rhd1": "Doubling my rooks",
+        "24... Qxa4": "I knew I would lose the knight but could capture the bishop",
+        "25. Rxe7 Qxa2 26. Qa3": "The computer described this as a mistake but I wanted to trade queens as i could use my pawn and Rook advantage to win the endgame",
+        "26... Qc4 27. b3 Qc3 28. Rdd7": "I saw a mating combo",
+        "28... Qe1+ 29. Kb2 Be4 30. Rexf7": "Wanting to play 32.Qe7 but after 32... Qxc7+ I have to play 33.Ka3 because 33.Ka1 ends in forced mate. Also after 32...Qxc2+ 33. Ka3 Qc1+ 34. Ka4 Bc6+ 35. Kb4 Qc5+ 36. Qxc5 bxc5+ 37. Kxc5 Bxd7 38. Rxd7 (White has strong end game) also after 34. Kb4 position can be interesting however what I planned on playing you will see next.",
+        "30... Qe2 31. Rfxg7+ Kh8 32. Rdc7 a5 33. Qe7": "Black resigns because he is unable to avoid mate"
+    },
+    "url": "https://gameknot.com/annotation.pl/tomcapps-mini-tournament-i?gm=38040",
+    "gameName": "tomcapp's mini-tournament I",
+    "players": "thedessertfox (1266) vs. spglenn (1261)",
+    "opening": "Sicilian (B32), Flohr variation"
+}

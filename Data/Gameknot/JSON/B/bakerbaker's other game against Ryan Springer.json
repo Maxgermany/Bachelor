@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Sometimes I play chess at my nephew's school. Although their chess club isn't very good, I have fun when I play someone again, I duplicate my moves to see if they play the same game (allowing me to win the same way) or play something different. In this game, Ryan played the exact same opening, and only changed one move.",
+        "1... e5": "Most amateur club players play e5.",
+        "2. Nf3 f6": "This is a terrible weakening move. The kid played this against me a few months ago and I crushed him, but he still didn't learn that his opening isn't good. I'd have to crush him a second time for him to learn not to play f6. It doesn't develop or aid in developing, and it seriously weakens the kingside.",
+        "3. Nxe5": "This move is possible because if Black recaptures my knight then he will be totally lost like in the first game he played against me. Black's only chance at all is to play Qe7 and Qxe4, leaving me with only a small advantage.",
+        "3... fxe5": "3...fxe5?? this is a game losing blunder. And it's funny because this is the exact same game I played against him before, and he still didn't realize how truly weakening his move was.",
+        "4. Qh5+": "This is why you shouldn't move your f-pawn in king pawn positions. ",
+        "4... Ke7": "If Black plays g6 then I play Qxe5  and Qxh8 winning the rook.",
+        "5. Qxe5+": "Although I'm down a piece for two pawns, Black's king is in serious jeapordy due to his weakening f6 and fxe5 moves. I will have already annihilated Black and recovered my material before he even has a chance.",
+        "5... Kf7 6. Bc4+": "I bring out another piece with tempo, like I did in the first game I played with this kid.",
+        "6... d5": "Black must've caught on that this is the same way I beat him before. In my previous game with him, he played Kg6 and play continued Qf5  Kh6 d4  g5 then Black was totally lost after I played h4 because of my overwhelming tactical threats. Black must've remembered this, so he sacrifices his d-pawn in order to stop my queen from coming to f5, but it won't be enough to stop my attack.",
+        "7. Bxd5+ Kg6": "Most players would rather have a piece over three pawns, so Black thinks he's in the clear.",
+        "8. d4": "Black should resign now, because of all my overwhelming tactical threats that Black cannot defend against all at once. I am threatening Bxb7, which wins Black's rook since ...Bxb7 falls into mate on f5. And I am also threatening to win Black's other rook with a more complicated tactical threat that was played in the game. Black cannot save both his rooks.",
+        "8... c6": "This was Black's attempt to save his queenside rook from my Bxb7 tactical threat. But my other more complicated tactical threat can still be played to win Black's kingside rook.\r\nOther attempts to save a rook get Black mated. Like Qd7 falls into Qg5# and Qd6 falls into Qe8  Kf6 Qf7#",
+        "9. Qg3+ Kh5": "Kf6 allows Bg5  winning the queen.",
+        "10. Bf7+ g6 11. Qe5+": "Although Black didn't physically resign here, I decided to spare you the time of looking through a game that is completely winning for me. Black is about to lose his rook, his king is dangerously misplaced and may get mated soon, and Black's other pieces aren't developed. White is simply crushing here."
+    },
+    "url": "https://gameknot.com/annotation.pl/bakerbakers-other-game-against-ryan-springer?gm=2936",
+    "gameName": "bakerbaker's other game against Ryan Springer",
+    "players": "bakerbaker (+1795) vs. R. Springer (-1200)",
+    "opening": "Damiano's defence (C40)"
+}

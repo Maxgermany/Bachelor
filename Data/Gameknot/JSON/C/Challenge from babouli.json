@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "ouverture classique de babouli",
+        "1... e5 2. Nc3 Bb4": "Seb se d\ufffdcide \ufffd le faire chier d'entr\ufffde",
+        "3. Nd5": "Babouli cherche \ufffd sauver son cavalier",
+        "3... Nc6": "Seb se d\ufffdveloppe",
+        "4. Bb5": "Babou se venge et veut clouer le cavalier noir ",
+        "4... a5": "un coup vraiment inutile... je vois pas de raison d'avancer ce pion",
+        "5. c3": "tu vas le bouger ton fou !!!, pense babouli",
+        "5... Bd6": "Seb est mal, il a bloqu\ufffd son fou...",
+        "6. Qg4": "babou se d\ufffdveloppe et sort sa dame plus tard qu'\ufffd son habitude. C'est excellent",
+        "6... g6": "oblig\ufffd pour de pas perdre sa tour",
+        "7. d4": "babou offre la diagonale du fou",
+        "7... Nxd4": "Seb sacrifie son cavalier pour essayer de soulager sa d\ufffdfense",
+        "8. cxd4 c6": "un pion attaquant deux pi\ufffdces adversaires, \ufffda risque de marcher.",
+        "9. Bg5": "Babou peut se permettre les \ufffdchanges et se d\ufffdveloppe de plus belle",
+        "9... f6 10. Nxf6+": "\ufffdchecs et  le cavalier est sauv\ufffd de l'attaque du pion",
+        "10... Nxf6": "oblig\ufffd d'\ufffdchanger",
+        "11. Bxf6 Qxf6": "Seb parvient \ufffd r\ufffdcup\ufffdrer sa pi\ufffdce sacrifi\ufffde",
+        "12. Be2": "le fou est sauv\ufffd",
+        "12... exd4": "un pion noir gratuit?",
+        "13. O-O-O": "grand rock audacieux sachant que le pion devant le roi n'est plus",
+        "13... O-O": "petit rock pour mettre la pression sur le pion f1",
+        "14. Nf3 Bc5 15. Bc4+ d5 16. e5": "vers l'\ufffdchange des dames",
+        "16... Bxg4": "dame blanche prise",
+        "17. Bxd5+": "mais oblig\ufffd de sacrifier son fou pour prendre la dame noire",
+        "17... cxd5 18. exf6 Rxf6 19. Rd3 Bxf3 20. gxf3 b5 21. Re1 Raf8 22. Re5 Rf6f5 23. Re6 Rf5xf3 24. Rxf3 Rxf3 25. Re8+ Bf8 26. Ra8 a4 27. b4 axb3 e.p. 28. axb3 Rxb3 29. f4 Rc3+ 30. Kd2 Rh3 31. Rd8 Rxh2+ 32. Kd3 h5 33. Rxd5 Bg7 34. Rxb5 h4 35. Rb6 Rf2 36. Ke4 h3 37. Rxg6 h2 38. Rh6 Bxh6": "victoire \u00e9crasante de Seb"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-babouli?gm=16434",
+    "gameName": "Challenge from babouli",
+    "players": "babouli (1261) vs. seb23 (1385)",
+    "opening": "Vienna (C25), Zhuravlev countergambit"
+}

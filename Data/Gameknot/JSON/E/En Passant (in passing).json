@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. e4": "Capturing En Passant is what this tutorial is about.",
+        "1... d5": "d5, if e4 captures df black's queen would go WAM!! and be knocked of the board, but if black captures white, no consequence.",
+        "2. e5": "a way to bock the treat, not the wisest, but a way.",
+        "2... f5": "A way to protect the pawn to get any further. If e5 moves e6, its stuck. Two reason's that move is not the best:\r\n1. moving to be6 would've stopped it, no choice, frozen.\r\n2. Obviosly, the player doesn't know En Passant.",
+        "3. exf6 e.p.": "There you go, En Passant! En Passant in English means \"in passing\" Here is the rules for En Passant: \r\n1.The enemy Pawn must be on its second row. \r\n2.The option is triggered as soon as the enemy Pawn advances two squares. \r\n3.The option is lost if not used immediately. \r\nSo, now you've got it, use this move to confuse your opponent. If he calls you a cheater, bring him here.\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/en-passant-in-passing?gm=7144",
+    "gameName": "En Passant (in passing)",
+    "players": "ajgalbraith99 (1) vs. someone ",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

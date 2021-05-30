@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, now get set for Part 2 cos here it comes!",
+        "1... c5 2. c3": "2. c3 - I played the main Nf3 line against the same opponent and lost so I decided to try a c3 Sicilian.",
+        "2... Nf6 3. e5 Nd5 4. Nf3 Nc6 5. d4 cxd4 6. cxd4 d6 7. Bc4": "7. Bc4 - the last few moves have been a combo of development and establishing a pawn centre.  There will now follow a plethora of exchanges.",
+        "7... Nb6 8. Bb5 dxe5 9. Nxe5 Bd7 10. Nxd7 Qxd7 11. Nc3": "11. Nc3 - develops a piece and supports my bishop on b5.",
+        "11... e6 12. O-O Be7 13. Qg4": "13. Qg4 - this is the main line suggested in the World DB here.  I really do need Glenda to take a more active role in the middlegame, I decide to take the plunge but what will this achieve here?",
+        "13... O-O 14. Bxc6 Qxc6 15. Bh6": "15. Bh6 - suddenly Michael finds himself in Old Matey's shadow.  Mate on g7 is threatened.",
+        "15... Bf6 16. Rfd1 Kh8 17. Ne4": "17. Ne4 - threatens Nxf6.",
+        "17... Rfg8 18. Bg5 Bd8 19. Bxd8 Rgxd8 20. Ng5": "20. Ng5 - threatening Nf7 check winning exchange.",
+        "20... Rdf8 21. Qh5": "21. Qh5 - Old Matey looms up again, this time Glenda is threatening to strike on h7.",
+        "21... Qc2 22. Rac1": "22. Rac1 - note the b2 pawn is really toxic here.  If the Wicked Witch takes it she can say bye bye to her other half!",
+        "22... Qg6 23. Qxg6 hxg6": "23. .......... hxg6 - this queen trade disrupts black's kingside pawns.",
+        "24. Rd2": "24. Rd2 - I prepare to double rooks on the c file.  Michael moves his knight to d5 next move to prevent one of my rooks entrenching themselves on c7.",
+        "24... Nd5 25. a3 Kg8": "25. ......... Kg8 - backs up f7 pawn.",
+        "26. g3 Rfc8 27. Rdc2 Rxc2 28. Rxc2 Rd8 29. Nf3": "29. Nf3 - after taking control of the c file, manoeuvering my pawns to prevent a knight incursion and backing up my isolated d pawn I decided to offer my opponent a draw.  If I got a refusal I would have centralised Henry but he accepted.  So I achieve another high draw - this time I failed by just 3 rating points to net my first ever rated Expert Draw.  Hope you have had a good read.  Cheers and bye for now.  Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/near-expert-draw-part-2?gm=19642",
+    "gameName": "Near-Expert Draw Part 2",
+    "players": "jstevens1 (1679) vs. michaeltf (1958)",
+    "opening": "Sicilian (B22), 2.c3, Heidenfeld variation"
+}

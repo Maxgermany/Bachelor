@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "This game is a stark example of what can happen when a player goes after material to the neglect of all piece development.",
+        "1... e5 2. f4": "I don't normally play the King's Gambit, but was in the mood for something particularly aggressive...",
+        "2... exf4 3. Nf3 g5 4. Bc4": "I have played this line a few times, and it has led to the Muzio Gambit. I haven't had a lot of success with it, although gothicgirl has beaten me with it many a time.",
+        "4... Bg7 5. O-O c6": "In addition to taking away the queen's knight's most natural developing square, Black's move seems rather slow. White's rapid development gives him sufficient compensation for the pawn. Shredder recommends either 5...Nc6 or 5...g4.",
+        "6. d4 g4 7. Ne1 Qb6": "Black is already a pawn up; he does not need to go pawn hunting when he has almost no development. His light squared bishop is locked in, and his queen's bishop has no available squares other than a6. I had expected Black to try to disrupt my kingside with 7...f3, or possibly to give the pawn back with the rapidly developing 7...d5.",
+        "8. c3 d5": "This would have been stronger the previous move.",
+        "9. exd5": "With little hope of Black castling anytime soon, the e-file looks deadly.",
+        "9... c5 10. Bxf4": "Of course, 10.dxc5?? Qxc5  would lose the bishop on c4. This move, which puts control of the f-file in White's hands, is much superior. The pawn on b2 is of no consequence - White is playing for mate.",
+        "10... Qxb2 11. d6": "White could have held onto the rook with 11.Nc2, and in fact, that is what my computer recommends. ",
+        "11... Qxa1 12. Nc2 Qb2": "Other than his nearly trapped queen, Black's only developed piece is his bishop on g7, and even that piece scope is limited by the well defended pawn on d4. Compare White's queen, two bishops, and rook, all of which actively participate in the attack.",
+        "13. Qe2+ Kf8 14. Bg5": "Here, my computer gives a beautiful line that I missed, involving a queen sacrifice. 14.d7 Bxd4  15.Nxd4 Bxd7  16.Bd6  Kg7 17.Qe5  f6 18.Qg5 !! fxg5 19.Bf8  Kg6 20.Bf7.",
+        "14... f6": "14...Nf6 loses to 15.Qe7 .",
+        "15. Bxf6": "This pawn was White's last obstacle to mate.",
+        "15... Bxf6 16. Rxf6+ Nxf6": "Black is the equivalent of an entire queen up in material, but of course this does not matter with mate on the board!",
+        "17. Qe7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/ckf793s-mini-tournament?gm=11279",
+    "gameName": "ckf793's mini-tournament",
+    "players": "kansaspatzer (1513) vs. onetwo (1526)",
+    "opening": "KGA (C38), Hanstein gambit"
+}

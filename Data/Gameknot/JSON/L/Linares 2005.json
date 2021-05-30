@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5": "The opening is relatively common so I'll refrain from annotations till later.",
+        "2. Nf3 d6 3. c3 Nf6 4. Be2 Bg4 5. d3 e6 6. Nbd2 Nc6 7. Nf1 d5 8. exd5 Nxd5 9. Qa4 Bh5 10. Ng3 Nb6 11. Qd1 Bg6 12. O-O Be7 13. a4 O-O 14. a5 Nd5 15. Qa4 Qc7 16. d4 cxd4 17. Nxd4 Nxd4 18. Qxd4": "Unfamiliar to some, but Anand navigates the position well. White has a queenside majority of pawns, and his central queen dominates the board. However Black threatens with 18...Bf6 or 18...Rd8, even 18...Nb4 is strong.",
+        "18... f5": "(!) Anand prepares for 19...e5 with a dominant centre. At the price of limiting his own g6-bishop, Black limits the g3-knight. Anand saw this as more important.",
+        "19. Qa4 Rad8 20. Rd1": "The potential for counterplay is visible after Anand's 20...e5 21.Bc4...",
+        "20... f4": "(!) Although relinquishing control of e4, note how badly placed the c1-bishop is!",
+        "21. Ne4 Qe5 22. Bf3 b5": "(!) If 23.Qxb5? Then 23...Bxe4. If 23.axb6? Then 23...Nxb6 24.Qc2 Bxe4 25.Bxe4 Qxe4!",
+        "23. Qc2 Nf6": "(!)",
+        "24. Nxf6+ Qxf6 25. Qb3 Rxd1+ 26. Qxd1 Rd8 27. Qe2 Bd3": "White has been forced back into his back three ranks!",
+        "28. Qe1 e5": "White has no source of queenside counterplay, the Black pawns control the centre.",
+        "29. Be2 Bxe2 30. Qxe2 e4": "(!) 31.Qxe4?? Rd1+ 0-1",
+        "31. g3 e3": "(!) Checkmate is near!",
+        "32. fxe3 f3": "(!)",
+        "33. Qxb5 f2+ 34. Kg2 Rf8": "0-1 A lesson by Anand on how to kill off counterplay.... Before it begins!"
+    },
+    "url": "https://gameknot.com/annotation.pl/linares-2005?gm=55967",
+    "gameName": "Linares 2005",
+    "players": "Rustam Kasimdzhanov  vs. Viswanathan Anand ",
+    "opening": "Sicilian (B50)"
+}

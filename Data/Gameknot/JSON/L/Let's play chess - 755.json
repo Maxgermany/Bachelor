@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "Standard e4 opening by me. ",
+        "1... e5 2. Nf3 Nc6 3. d4": "The Scotch Game. ",
+        "3... exd4 4. Bc4": "Scotch Gambit. Transposes to lots of openings so black has to be careful, but with accurate play white should get a small(or no advantage). ",
+        "4... Nf6 5. Ng5": "Perreux variation. I have been looking at this line a lot more lately. The other options are the Max Lange(which i enjoy) and the main line 5. 0-0 5. Nxe4 6. Re1 6. d5 7. Bxd5 7. Qxd5 8. Nc3 8. Qa5(or h5) and 9. Nxe4 (which i do not). ",
+        "5... d5": "The strongest response *if* black plays carefully the next few moves",
+        "6. exd5 Qe7+": "! not 6. Nxd5? 6. 0-0 when white tranposes into a favorable variation of the Loli attack. ",
+        "7. Kf1": "! the best way to go for an advantage. ",
+        "7... Ne5 8. Qxd4 Nxc4 9. Qxc4": "Main line up to here. ",
+        "9... Qc5 10. Qxc5 Bxc5": "Basically white is up a pawn but must consolidate his king position in a queenless middle game. ",
+        "11. Nc3 Bf5": "Still main line...",
+        "12. Bf4 O-O 13. Bxc7 Bxc2 14. Rc1 Bd3+ 15. Kg1": "Still main line...",
+        "15... Rfe8": "Now we actually have to start thinking. ",
+        "16. d6": "White's extra pawn is very dangerous, but the two black bishops and rook and knight are all ready to jump on the white king. ",
+        "16... Rac8 17. h3": "?! I think h4 is slightly more accurate in this position",
+        "17... h6 18. Nge4": "?! This is a good move.... but the problem is 18.Nce4! is just much better. Often in this line of the perreux variation if white can tactically take control of the e4 square he has a good position. ",
+        "18... Bxe4 19. Nxe4 Nxe4 20. d7": "! the pawn comes into effect ",
+        "20... Bxf2+ 21. Kh2 Red8": "Setting the tricky trap 22. Bxd8 23. Bg3+! 24. Kg1 24. Rxc1+",
+        "22. dxc8=Q Rxc8": "The game is paused here because of the tournament that started. I am up an exchange, he has a pawn and some piece play as compensation. "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=26251",
+    "gameName": "Let's play chess",
+    "players": "grntnick (1690) vs. evvi (1778)",
+    "opening": "Scotch gambit (C44), Dubois-Reti defence"
+}

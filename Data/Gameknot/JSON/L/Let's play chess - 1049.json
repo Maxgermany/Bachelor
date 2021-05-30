@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 d5": "Grunfeld Defense",
+        "4. Nf3 Bg7 5. e3": "I personally think that 4.Nf3 and 5.e3 are a mistake. White may play 4. e3 and 5. Ne2, because in this position the Bishop can't attack  the white in g4 (6. f3).",
+        "5... Bg4 6. Be2 O-O 7. O-O Re8 8. Ne5 Bxe2 9. Qxe2 Nbd7 10. Nxd7 Qxd7 11. Re1 c6 12. c5": "This is a mistake. White must remove the pawn in d5",
+        "12... e5 13. e4 Nxe4": "Black gains a pawn. In case of 14. Nxe4 black have to play exd4, attacking the Knight in e4",
+        "14. Nxe4 exd4 15. Qd3 Qf5 16. Nf6+ Bxf6 17. Qxf5 Rxe1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=11223",
+    "gameName": "Let's play chess",
+    "players": "alewyn (1235) vs. vulcan-raven (1200)",
+    "opening": "Gruenfeld (D94), 5.e3"
+}

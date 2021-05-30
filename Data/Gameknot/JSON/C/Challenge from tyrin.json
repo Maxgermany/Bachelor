@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "I have not computer with me so may be I have some bad analyses here.",
+        "1... c6": "Karo - Kann again of course :)",
+        "2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4": "Very sharp for my standarts",
+        "5... Bg6 6. h4": "I am not so sure about this move and it's purpose. My idea is that black can with 6...h5 to achieve a good position (which i did not do :)) \r\nFor me most common is 6.Ne2",
+        "6... h6": "Of course here is better 6...h5 and of course i should play this move earlier than 11th move",
+        "7. Bd3": "It should be 7.h5 Bh7 8.Bd3",
+        "7... Bxd3 8. Qxd3": "I see here that you did not make c:d again :)",
+        "8... Nd7 9. f4 Bb4": "I think here i made a mistake with time. I should first develop the knight and play h5 and after it to place my bishop on e7 square. And c5 would be a good idea too",
+        "10. Nge2": "Here and the moves after i would play a3 with using of this losing time move made by black and after a3 Ba5, h5 to prevent the similar move from the black",
+        "10... Ne7 11. Bd2 h5 12. g5": "I believe here is better first 12.a3 with putting the bishop out of the king side field. But i would not play after it 13.b4, because for me it would be a weak move. it would weaken the c4 square with already bad e4 one",
+        "12... Nf5": "This move was not necessary actually i was afraid from a3",
+        "13. Ng3 Nxg3 14. Qxg3 g6 15. Ne4": "A good move which leads to draw",
+        "15... Be7 16. Nf6+ Nxf6 17. gxf6 Bf8 18. Qb3": "Here i think that the black stands better but not much. I evaluate this because all the white pawns are on black squares and this is the reason i went to exchanges",
+        "18... Qb6 19. Qxb6 axb6 20. Ke2 Bh6 21. a4 Kd7 22. b4 Rhc8": "Here is better Ra7",
+        "23. Be3 Bf8 24. Rhb1 Ra7 25. a5 Rca8 26. Kd3 Bxb4": "26...B:b4?? it seems i did a huge mystake here. I evalueted everything like a draw, but as it happened i was wrong. My idea here was to put you in presure and without any chanses for losing to search and wait for your mystake. ",
+        "27. Rxb4 bxa5 28. Rb6": "28.Rb6!! this move shows me that i made a mistake. Now the b-pawn could not be moved to the safe b5 square. ",
+        "28... Kc7 29. Rab1 Rb8": "29.a4 is better",
+        "30. Bc1 a4 31. Ba3 Kc8 32. Kc3 Rba8 33. Rb1b4 Kc7 34. Kb2 Rb8 35. Ka2 Rg8 36. Rb4b1 Rga8 37. Bd6+ Kc8 38. Ka3 Rb8": "It is interesting here that position like this one, but with pawn on b5, not on b7, black can hold the draw even without a rook :)",
+        "39. Rxc6+": "Congratulations to the winner, now i am going to have an remark :) "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-tyrin?gm=14430",
+    "gameName": "Challenge from tyrin",
+    "players": "zugzwangert (1732) vs. tyrin (1887)",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\r\n\r\nHere is a game between me and my buddy Bob Jacobs.  At the end of the game, no doubt you will think, with me a clear pawn up, I should have breezed it.  Not so simple, I felt that his heavies and dsb did a real good containing job of my passers and I was worried about my king safety so hence my decision to concede a low draw and err on the side of caution.  But I could so easily have lost that game as I got my usual bad dose of middle game passivitis.  How did this happen?  Read on. ",
+        "1... d5 2. c4 dxc4": "2. ..... dxc4 - the Queen's Gambit Accepted.",
+        "3. e4 e5 4. Nf3 exd4 5. Bxc4": "5. Bxc4 - pawn trade.  This also brings out Bob's lsb giving him a lead in development.",
+        "5... Nc6 6. O-O Be6 7. Bxe6 fxe6": "7. ......... fxe6 - piece trade.  I am still behind in development.",
+        "8. Bf4 Nf6 9. Nbd2 h6 10. Re1 Be7": "10. ....... Be7 - development.",
+        "11. Rc1 Rc8 12. Nb3 O-O": "12. ...... 0-0 - it soon transpires that Henry is far from safe here.  Bob now wins back his extra pawn and his attack will soon put me on the rack!",
+        "13. Nbxd4 Qd7 14. Qb3": "14. Qb3 - oooh that nasty Witch!  Yup, the Wicked Witch of the West is eyeing up my b2 and e6 pawn.  One of these will soon drop off.",
+        "14... Nxd4 15. Nxd4 Qxd4 16. Qxe6+": "16. Qxe6+ - after a trade of knights the Witch duly snaffles the e pawn.  Now she will also commit ecclesiastical murder next move with Qxe7.",
+        "16... Kh7 17. Qxe7 Qxb2": "17. ..... Qxb2 - whoohoa, Glenda also makes an excursion into the enemy camp.  Her goal is to stop Bob from getting a remote queenside passer which I could well do without being a pawn down.",
+        "18. Rxc7": "18. Rxc7 - I am now in Old Matey's shadow.  I decide to cut Bob's attack down with Rxc7.  Not good to trade when a pawn down but I hope I can have a ghost of a survival chance in the endgame.  If Henry is caught - no chance.",
+        "18... Rxc7 19. Qxc7 Qxa2": "19. ...... Qxa3 - Glenda carries out her plan.  Bob is concerned about his back rank so he creates luft for his king but I get my pawn back and am able to plant a rook on f7 to drive back that nasty, evil witch.",
+        "20. h3 Rf7 21. Qe5 b6": "21. ........ b6 - a tentative step to Glendadom.  I will soon put my rook on b7 to try and support the passed b pawn.",
+        "22. Be3 Qc4 23. Qf5+ Kg8": "23. ..... Kg8 - evasive action.",
+        "24. Qg6": "24. Qg6? - aggressive but loses e4 pawn.",
+        "24... Qxe4 25. Qg3": "25. Qg3 - avoiding the queen trade.  I spend several moves trying to force a queen trade but to no avail.",
+        "25... Kh7 26. Bd2 Qc2 27. Be3 Rb7": "27. ..... Rb7 - I carry out the second step of my plan.  The pawns will be supported by my rook.  It is a good idea to have a rook behind passed pawns in the endgame.  But can he stay there?",
+        "28. Rc1 Qe2 29. Qe5 Qh5": "29. ...... Qh5 - in retrospect maybe I should have played a5.",
+        "30. Qe6 Qd5 31. Qc8 a5": "31. ...... a5 - I get this move in at last but that's how far as it gets.  The Witch now annoys me with her checks!",
+        "32. Qc2+ Qe4 33. Qd2 Qd5": "33. ...... Qd5 - and draw offer - after two bad losses, one against a 1500+ player my nerves got the better of me yet again.  Do you the jury have any ideas on how you could have pushed for this victory?  Please advise.  Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/living-dangerously?gm=26982",
+    "gameName": "Living Dangerously",
+    "players": "rjacobs (1631) vs. jstevens1 (1826)",
+    "opening": "QGA (D20), 3.e4"
+}

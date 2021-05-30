@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 d6": "my own defense that I've worked on for several years--designed to get the queens off and get into an endgame faster than usual. Most players are lost without the queen",
+        "2. d4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Bc4 f6 6. Be3 c6 7. Nd2 Kc7 8. f4 exf4 9. Bxf4+ Bd6 10. Bxd6+ Kxd6": "I'm taking this idea a bit too far but I have an endgame already.",
+        "11. O-O-O Kc7 12. Ngf3 Nd7 13. Nb3 Ne5 14. Nxe5 fxe5 15. Rhf1 Nf6 16. h3 b5 17. Bd3 Kb6 18. Nd2 Re8 19. Nf3 c5 20. c3 Bb7 21. Nh4 Rad8": "All of a sudden my pieces are active. Black's minor pieces are doing nothing.",
+        "22. Nf5 Ref8 23. Nxg7 Nxe4 24. Rxf8 Rxf8 25. Ne6 Rf6 26. Bxe4 Bxe4": "It's happening like I planned--white has no advantage.",
+        "27. Re1 Bd5 28. Nxc5": "loses on the spot--had to play Ng5",
+        "28... Kxc5 29. Rxe5 Rf1+ 30. Kd2 Rf2+": "and black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/unfaithfservants-mini-tournament-vi?gm=30602",
+    "gameName": "unfaithfservant's mini-tournament VI",
+    "players": "chess-knot (1753) vs. jhfit (1829)",
+    "opening": "Pirc defence (B07)"
+}

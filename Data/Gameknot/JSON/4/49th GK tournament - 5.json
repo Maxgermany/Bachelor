@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This is my first attempt at an annotation so any constructive criticism would be welcomed. I have enjoyed and benefited from other annotations and this is my attempt to return the favour. I am no expert on openenings and so will leave most of my comments until a little later on in the game",
+        "1... e5 2. Nf3 Nc6 3. Nc3": "Gameknot says this is the Three Knights game",
+        "3... Bc5": "This seems a good place for the bishop to me as it is applying pressure on the centre with an eye on the f2 pawn ",
+        "4. Bc4 Nf6 5. d3 d6 6. Ng5": "Still in the Three Knight game, this is an early attack, threatening Nf3 which forks the rook and queen or Bf3 which will force the king to move, losing the ability to castle",
+        "6... O-O": "Removes the forking options, however white can still check with the bishop resulting in an exchange of knight and bishop for my rook and a pawn. ",
+        "7. O-O Bg4": "Still in the three knights game. I like this move as it either forces whites queen onto a black square restricting it's movement, or white can block the attack with his knight. If his knight doesn't move I can move the bishop to g5 to help defend the f7 pawn",
+        "8. Qd2 Nd4": "Now it's my turn to get aggressive. The knight seems well placed there  as it is difficult to remove, it also has an eye on f3.\r\n\r\nAt this point the Gameknot database has 2 games, one where black wins and one white, so I guess the game is evenl;y balanced, though I prefer blacks position, the white queen seems awkwardly placed to me and whites dsb isn't going anywhere fast",
+        "9. h3": "this allows me to move my bishop where I want it anyway, as it means if he takes the f7 pawn I win the exchange. This move weakens whites defence around his king and restricts the knights escape routes",
+        "9... Bh5 10. Qe1": "I think this move is a mistake as it permits c2 which gains a rook, however my knight still has an eye on f3",
+        "10... h6": "The knight has limited options now. f3 means I gain a pawn and open up the king",
+        "11. Nxf7": "Probably the best option",
+        "11... Bxf7 12. Bxf7+ Rxf7": "I now have the option of ra8 - f8 pressuring the f2 pawn even further",
+        "13. Qd2": "I think here that white realised I had the option of the fork on c2, however it loses tempo and there is still nowhere for whites bishop to go",
+        "13... Qd7 14. a3": "My rook on a8 is now free to move to f8, I am looking now to open up the white position. Most of my pieces are attacking the area around the king",
+        "14... Nf3+ 15. gxf3": "forced. It also blocks the pawn on f2 which is now pinned again",
+        "15... Qxh3 16. Qe2": "The start of the end. Whites king can't move and there is little that can be brought into play to help it. This move tries to defend f3 ",
+        "16... Nh5": "Putting pressure on f3, and also allows Ng3, ... Qh1#",
+        "17. Be3": "This is to no avail as I now have too many attacking pieces",
+        "17... Rxf3 18. Bxc5": "I can safely ignore this",
+        "18... Qg4+ 19. Kh1 Rh3#": "Thanks for reading"
+    },
+    "url": "https://gameknot.com/annotation.pl/49th-gk-tournament?gm=18753",
+    "gameName": "49th GK tournament",
+    "players": "stockwell (1506) vs. elwoos (1548)",
+    "opening": "Three knights game (C46)"
+}

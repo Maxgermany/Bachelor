@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "From when I started to play 1.d4 openings my ELO rating went up with 150 points about. I think 1.d4 brings to White a very solid position with very good attacking chances. Now my favourites are Colle system and Torre attack. I'm not good in QGambit but play it often. I want to learn more about it and about Catalan opening",
+        "1... Nf6 2. c4 g6": "I hoped for 2...e6 then 3.Bg5",
+        "3. Nc3 Bg7 4. Bg5": "Anyway:)",
+        "4... d6": "King's indian always finds difficulties to me - it's solid and creates many complications. The fiancheting bishop is dangerous",
+        "5. e4": "Main line I think",
+        "5... O-O 6. Bd3": "Maybe you would prefer Kf3 first. But I was no sure where to put the g-Knight - on f3 or e3",
+        "6... c5 7. d5 Nbd7 8. Nf3": "Now it's clear where to put it",
+        "8... Ne8": "That's one of the reasons I like so much this Torre attack bishop. It's uncomfortable and pressures too hard. Here better is 8...e6",
+        "9. Qc2 a6 10. a4 Ne5 11. Nxe5 dxe5 12. h4": "Castling is unnecessary. White pieces are good developed maybe unless the knight. In fact the white pole bishop is blocked on d3 but how see later it'll be useful for defending the queenside. Pawns on kingside are ready to attack. ",
+        "12... Nd6 13. h5 h6 14. Be3 g5 15. Qe2 b6 16. g3 Bd7 17. b3 Qc8 18. f3": "the 2-rank is free for the Queen now. In the other hand Black has not many options to play",
+        "18... f5 19. Qg2 f4 20. gxf4 exf4 21. Bd2 b5": "This is a turns-the-game moment. Black tries to break the weaker white-side, considering  defence position itself is solid. Now White has some variants more of which would bring weakness at queenside mainly because of not castling. The capturing of b5 inevitably will lead to opened a-line or c-pawn march. Rb1 will save the position for a little",
+        "22. Rg1": "I chose to sac the a-rook, making solid queenside with good attacking chances on Black's kingside",
+        "22... b4 23. Ne2 Bxa1 24. Bxf4": "Maybe better was Kxf4",
+        "24... Rxf4 25. Nxf4 Qf8 26. Ng6 Qf6 27. Qg3": "for saving white-pole bishop and to not allow pinning the Queen because of check",
+        "27... Be8 28. f4": "Maybe better is e5",
+        "28... Qc3+ 29. Ke2 Bxg6 30. hxg6 Nxc4": "Premature sac. Apparently Black missed that their attacking forces are Queen and only black-pole bishop. White King has many places to run. ",
+        "31. bxc4": "?! If Bxc4 and after queen exchange Black would has good promoting chances on f-file. In the other hand White would has a Bishop blocked because of defending pawns and clumpy rook",
+        "31... Qb2+ 32. Kf3 gxf4 33. Qh3 Qg7 34. Qe6+": "Changing the roles",
+        "34... Kh8 35. Qh3 Bf6 36. Bc2 Qf8 37. Rh1 Bg7 38. Qe6 a5 39. e5 Rb8 40. Bb3": "In fact the bishop is blocked again but it's a zugzwang position for Black - the bishop is unnecessary anywhere unless b3",
+        "40... Re8 41. Rh5 Rb8 42. Rf5 Qd8 43. Rf7 Rb6 44. Qf5 Qe8 45. e6": "total blockade",
+        "45... Rb8 46. Qxf4 Rd8 47. Ke4": "With an idea to replace the bishop with the King and waiting Black to get wrong",
+        "47... Kg8 48. Kd3 Rd6 49. Qh4 Rxe6": "Mistake because of unpatience. From now Black obviously play for draw",
+        "50. dxe6 Qd8+ 51. Ke2 Qd6 52. Rxe7 Qe5+ 53. Kf1 Qf5+ 54. Ke2 Qe5+ 55. Kf1 Qf5+ 56. Qf2 Qh3+ 57. Ke2": "If capture the Bishop - 58.Qf7+ Kh7 59.Qxg7#. ",
+        "57... Qh5+ 58. Kf1 Qh1+ 59. Ke2 Qe4+ 60. Qe3 Qg4+ 61. Qf3": "And Black resigns. Thanks for watching and sorry for my bad English"
+    },
+    "url": "https://gameknot.com/annotation.pl/zugzwang?gm=24511",
+    "gameName": "Zugzwang",
+    "players": "luni4av (1728) vs. simson1107 (1739)",
+    "opening": "King's Indian (E61), Smyslov system"
+}

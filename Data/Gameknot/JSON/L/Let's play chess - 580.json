@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "King's pawn opening.  Sicilian Defense.  Nimzovich-Rossolimo attack.  Constructive comments are welcome and encouraged.  I am always looking to improve my game.",
+        "1... c5 2. Nf3 Nc6 3. Bb5 e6 4. d4 Qb6 5. c4": "White's idea is to defend his bishop and exert even more control of the center.",
+        "5... Nxd4 6. Be3 Nxf3+ 7. Qxf3 a6 8. Nc3": "This move exchanges a bishop for a pawn with little compensation for white.  The knight gains an outpost, but is not centralized.",
+        "8... axb5 9. Nxb5 d6 10. O-O Bd7 11. Qe2 Nf6 12. Bf4 Bxb5 13. cxb5 Ra4": "Black begins an attack on white's queen-side pawns.",
+        "14. f3 Be7 15. b3 Rb4 16. Bg5 O-O 17. Rab1 Rxb5 18. Qf2 Nxe4 19. fxe4 Bxg5 20. a4 Rxb3 21. a5 Qb5 22. Rxb3 Qxb3 23. Kh1": "Avoiding 23...Be3 losing the queen.",
+        "23... c4 24. Qe2 c3 25. Qh5 Be3 26. Qf3": "Looking to pin the bishop on the advance of the c-pawn.",
+        "26... c2 27. h3": "Giving an outlet for the King.",
+        "27... Qc4": "Breaking the pin on the Bishop.",
+        "28. Kh2 c1=Q 29. Rxc1 Qxc1 30. h4 Rc8": "At this point white could resign but decided to continue the fight gaining practice in a losing position.",
+        "31. g3 Rc2+ 32. Kh3 h5": "Threatening 33...Qh1 Mate.  Also deflecting white's queen... (edit 8/30 - Yes, thank you for the correction.  I noticed the defence of h1 by white's queen during the match, but forgot when doing the annotation)",
+        "33. Qxh5 Qh1+ 34. Kg4 Qxe4+": "Removing the e-pawn which protects from a check by black's rook...",
+        "35. Kh3 Qh1+ 36. Kg4 Rc4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=33624",
+    "gameName": "Let's play chess",
+    "players": "johnmv1 (1200) vs. williamrufus (1921)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

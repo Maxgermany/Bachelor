@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. f4": "very different opening from what i have seen usually ",
+        "1... d5 2. Nf3 Nf6 3. e3 a6 4. Be2 Nc6 5. b3 Bf5 6. Bb2 Nb4 7. d3 h6 8. h3 e6 9. a3 Nc6 10. O-O Be7 11. Nbd2 Qd7 12. Qe1 Bc5 13. d4 Be7 14. Bd3 Rg8": "might look like a foolish and unnecessary move but it was the plan !!  later u will see how the rook file opens up ",
+        "15. Ne5 Nxe5 16. dxe5 Nh7 17. Bxf5 exf5 18. Nf3 g5": "now u know wat i mean  ",
+        "19. Rc1 g4 20. hxg4 Rxg4": "this makes it easy for me as all i have to do is castle and double up my rook to cause a threat ",
+        "21. b4 O-O-O 22. c4 Rdg8 23. Qe2": "a mistake for a long time i contemplated that i must go for the queen in exchange for two rooks but then decided not to hoping for a better position but then i make a blunder in the latter stages ",
+        "23... h5 24. cxd5 Qxd5 25. Rfd1 Qe4": "this is the blunder ",
+        "26. Ne1": "my queen is stuck there ",
+        "26... b5": "pawn move to prevent the podr rook from coming and also to free some space for the queen ",
+        "27. Rd4 Qb7 28. Rd2 Nf8": "making the knight free as it will be very crucial to support the c file pawn which can be attacked by the two rooks of white after doubling ",
+        "29. Rdc2": "as expected ",
+        "29... Ne6 30. Rc2c6": "nice move to block out movement of my queen but a trap in disguise",
+        "30... h4": "watch the trap now ",
+        "31. Kh2": "making king come down and make the white think that black is helpless and queen cannot be freed  ",
+        "31... Kb8": "another attempt to show the helplessness as a trap ",
+        "32. Qd3": "trying to get the white queen in action ",
+        "32... Nd8": "a good move laying out the perfect trap .. white ideally should have gone back  wid rook c6-c2 but goes for a lure of a free pawn ",
+        "33. Rc6xc7": "just wht i wanted and the game is over as rook into g2.. eventually leading to checkmate will leave that for u to figure out  how !!!!1\n\nby far one of the best  games i have played .... \nand a worthy opponent in the form of joop !!!",
+        "33... Rg4xg2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=17709",
+    "gameName": "Team match",
+    "players": "joop (1738) vs. knightxp3 (1734)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

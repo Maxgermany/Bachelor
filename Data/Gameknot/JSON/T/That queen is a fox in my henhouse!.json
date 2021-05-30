@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nf3": "Hi everyone!\r\n\r\nHere I am white against the same opponent I played in Jo's Great Escape Part 2.  I decide to play the Reti here and see how I get on.  How did I get on?  Well, my opponent played a very unusual move on move 2 and followed it up with a couple of queen moves.  I tried to develop normally but I ended up yet again with an inferior middlegame.  In the latter stages of the middlegame all seemed lost - then Glenda found a good square and I think that the game turned around then because she was the vixen in black's henhouse!",
+        "1... d5 2. g3 Be6": "2. ............ Be6 - black takes me out of the database on move 2!  A strange move, blocks in his e pawn but how do I take advantage of it?",
+        "3. Bg2 Qd7 4. h3": "4. h3 - necessary as black was threatening Bh3 forcing off the lsbs and invading with the Wicked Witch of the West on h3.",
+        "4... Qc8 5. d4 h6 6. b3 Nf6 7. Nbd2 Nc6 8. Bb2": "8. Bb2 - at least I have developed a couple of pieces over the last 2 moves and I am now ready to castle but I defer it for a few moves just to see where my opponent decides to move his king.",
+        "8... Qd7 9. e3 O-O-O": "9. ....................... 0-0-0 - the queenside!",
+        "10. a3 g5 11. g4": "11. g4 - blocking off the black lsb's line.",
+        "11... Ne8 12. Qe2 Bg7 13. O-O-O": "13. 0-0-0 - development finally complete, now black tries to open up the kingside.",
+        "13... f5 14. gxf5 Bxf5 15. Ne1 e5 16. dxe5 Bxe5 17. Bxe5 Nxe5 18. Ndf3 Qe7": "18. ................ Qe7 - attacks a pawn so my next move 19. Kb2 is forced.",
+        "19. Kb2 Nf6 20. Nxe5 Qxe5+ 21. c3 Ne4 22. Bxe4 dxe4": "22. ............... dxe4 - I have tried to relieve the pressure by exchanges but it is still very much on.  One pair of rooks is about to be swapped off but the pressure increases still further.",
+        "23. h4": "23. h4 - I move my h pawn out of the line of fire of the black lsb and try to swap it off for the black g pawn.  Black advances the g pawn however after Glenda sidestepps the attack from black's remaining rook.",
+        "23... Rxd1 24. Qxd1 Rd8 25. Qe2": "25. Qe2 - this choice of square proves vital for Glenda as she has a line to c4.",
+        "25... g4 26. Ng2 Rd3 27. Rc1 Qd6": "27. .................. Qd6 - black doubles up on the d file, it is all looking extremely nasty for white.",
+        "28. Rc2 Rd1 29. Qc4 c5 30. Qg8+": "30. Qg8 !! - it was at this point that my opponent remarked in the chat \"That queen is a fox in my henhouse!\"  Believe you me, that is music to my ears - hence the double exclamation mark to my move here.",
+        "30... Kc7 31. Qf7+": "31. Qf7  - forks king and black lsb so a queen exchange is now forced.",
+        "31... Qd7 32. Qxd7+ Kxd7 33. Rc1": "33. Rc1 - necessary, to prevent the rook from attacking my kingside pieces through the back door.",
+        "33... Rxc1 34. Kxc1 Be6 35. Kc2": "35. Kc2 - now we are in an endgame my chances of survival have greatly increased.",
+        "35... h5 36. Nf4 Bf7 37. c4": "37. c4 - to try and screen out the black lsb but black can open up that diagonal with an exchange of one pair of pawns on the queenside.",
+        "37... a6 38. Kc3 Kc6 39. Kb2 b5 40. cxb5+ Kxb5": "40 ................. Kxb5 - the predicted pawn swap has taken place but I am a bit surprised that black has taken back with the king and split up his queenside pawns.",
+        "41. Kc3 a5 42. Ne2": "42. Ne2 - momentarily taking pressure off the h5 pawn, but it will be back on next turn.",
+        "42... Kc6 43. Ng3": "43. Ng3! Now puts pressure on two pawns!  Black does not notice the attack on the e pawn and plays his king to b5.",
+        "43... Kb5 44. Nxe4 a4": "44. .................... a4 then resigns.  On the last move I duly took full advantage of black's error and swiped the e pawn off.  If black had not resigned then I would have taken off the a pawn and played my king to b2.  I now have a passed pawn and I think it was that plus the pawn minus that led black to throw in the sponge.  Because my opponent was rated 1727 at the time I gained 10.9 points from this and it was enough to give me my current rating - 1705!  What a turnaround!"
+    },
+    "url": "https://gameknot.com/annotation.pl/that-queen-is-a-fox-in-my-henhouse?gm=17852",
+    "gameName": "That queen is a fox in my henhouse!",
+    "players": "jstevens1 (1691) vs. NN (1709)",
+    "opening": "Reti (A07), King's Indian attack (Barcza system)"
+}

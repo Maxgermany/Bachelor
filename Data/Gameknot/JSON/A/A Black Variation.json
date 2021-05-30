@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e6": "recognize this? this is a opening for black in a game i also annotated",
+        "2. f3 c5": "can someone please tell me what white's doing?",
+        "3. c3 Nc6": "for black, moving to d5 is forfeiting the opening, entering middle game. note that I do see the impending trouble of e5, thus Nc6",
+        "4. f4": "knew this was coming",
+        "4... Nge7": "knight lock",
+        "5. c4 d5": "I'm ready to start the offensive. ",
+        "6. cxd5 exd5 7. exd5 Nxd5 8. d3 Qe7+": "why white responds like white does is a mystery, does anyone know or is it an error?",
+        "9. Kd2": "should i have done Qe3+! ? I could have mate in two after 9...Qe3+10Kc2Nb4/e4#.\r\nthis opening works pretty well against e4 with a pawn push. ",
+        "9... Nxf4": "however, i did not notice the mate in two, so....",
+        "10. b3": "fiancetto? its a little late for that",
+        "10... Bf5": "coordinated attack on d3 seemed appealing at the moment. ",
+        "11. Qf3 Qe5 12. Qh3": "this was a tactical blunder. technically I could have won with a good game if i had seen the mate in two. I wish I saw that. stupid 2 min 5 second delay",
+        "12... Bxh3 13. gxh3 Qxa1": "that was not an error on his part, that was tactics on mine. I want to take credit for something. ",
+        "14. Ba3 Qxa2+ 15. Kc3 Nd5+ 16. Kc4 Ne3+ 17. Kb5 Qxb3+": "mate in two, white resigns. here's what would've happened.",
+        "18. Bb4 Qxb4#": "so, did this work? i know there are some problems with it. such as the fact that i never castled, and my queen was in danger a lot of the time. but you have to admit that mate around move 9. "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-black-variation?gm=35094",
+    "gameName": "A Black Variation",
+    "players": "???  vs. ??? ",
+    "opening": "French defence (C00)"
+}

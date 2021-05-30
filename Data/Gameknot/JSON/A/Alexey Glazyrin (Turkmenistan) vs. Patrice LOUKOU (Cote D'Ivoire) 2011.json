@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "So we get on the way! and as usually i started by moving my King's pawn froward to the middle ;)",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Be7": "I think it's a not good move, if 4... , Nf6    Black's black bishop can only control it's right hand side, which is not so important at the moment.",
+        "4. d3": "Development ...",
+        "4... h6": "this move i think is just a waste, he'd better develop his Queen's pawn, couldn't he?",
+        "5. Nc3 Nf6 6. Be3": "Now i think i have more advantage in the middle",
+        "6... d6 7. O-O b6 8. d4": "I'm trying to start an attack",
+        "8... exd4 9. Nxd4 Nxd4 10. Bxd4 c5": "i'm losing my advantage move after move",
+        "11. Bxf6 Bxf6": "now his bishop is active! :( ",
+        "12. Qh5 O-O": "that was predictable ",
+        "13. Nd5": "i don't want to see his black bishop ",
+        "13... Bb7": "my \"e4\" pawn is undefended...",
+        "14. Nxf6+": "but i have one more move to solve the problem of undefended pawn, so Check it is",
+        "14... Qxf6 15. Bd5": "again exchange! ",
+        "15... Bxd5 16. Qxd5 a5 17. Rfe1 Rab8 18. e5": "looking for some space",
+        "18... dxe5 19. Rxe5 Rbd8": "and the counterattack ",
+        "20. Qe4 Rd4 21. Qe2 Rfd8": "he doubles his rook! ",
+        "22. h3": "i think i had nothing to do else",
+        "22... Rd4d2 23. Qe4 Qxf2+": "after this move it took me a lot of time to think, and i found my opponents weakness, i need to get my rook to \"e8\", but how? let's first run out of checkmate",
+        "24. Kh2 Qf6 25. c3": "\"b2\" pawn for free, in order to single his rooks",
+        "25... Rxb2": "he got it, that's what i wanted",
+        "26. Rd1": "get it and you will lose!",
+        "26... Rxd1": "Yep! ",
+        "27. Re8#": "Beautiful checkmate! isn't it?"
+    },
+    "url": "https://gameknot.com/annotation.pl/alexey-glazyrin-turkmenistan-vs-patrice-loukou-cote-divoire-2011?gm=39001",
+    "gameName": "Alexey Glazyrin (Turkmenistan) vs. Patrice LOUKOU (Cote D'Ivoire) 2011",
+    "players": "alex_krasnovodsk (1432) vs. ploukou (1467)",
+    "opening": "Hungarian defence (C50)"
+}

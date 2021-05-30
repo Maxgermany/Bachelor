@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Bc5 3. Nc3 Na6": "The first departure from symmetry. Perhaps not the best move.",
+        "4. d3": "Solidly guarding the KP.",
+        "4... b6": "Preparing the fianchetto.",
+        "5. Nh3": "Both players flank Knights in a Hypermodern style.",
+        "5... Bb7 6. O-O": "Completing the K-side development.",
+        "6... h6": "I suppose this is meant to impede the development of White's QB, but it seems a wasted move.",
+        "7. Kh1 Nb4 8. f4 f6": "This move usually spells trouble for Black. You'd think by now players would know to avoid it.",
+        "9. fxe5 fxe5 10. Qh5+": "Mate to follow.",
+        "10... Ke7": "10...P-N3 is no better",
+        "11. Qxe5#": "Well done."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=34214",
+    "gameName": "Tournament Game",
+    "players": "Jacobsen  vs. Maloney ",
+    "opening": "Bishop's opening (C23), Classical variation"
+}

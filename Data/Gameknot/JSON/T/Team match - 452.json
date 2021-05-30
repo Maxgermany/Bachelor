@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 Nc6": "I can't believe I went through another never-before-encountered opening, the Queen pawn Lundin defence.",
+        "2. e3 Nf6 3. Bc4 e6 4. d5": "white is weak, but is trying to demolish my pawn/knight structure",
+        "4... Nb4 5. c3 Nbxd5 6. Nf3 Bc5 7. b4 Nxb4 8. Ba3 a5": "Two attempts, but white has not taken my knight.",
+        "9. O-O Nfd5 10. Bb5 c6": "somehow, the bishop/pawn structure failed to prevail. Retreat is almost impossible.",
+        "11. cxb4 axb4 12. Nd4 bxa3 13. Qc2 Qb6 14. Nd2 d6 15. Rab1 Bd7 16. Ne4 cxb5 17. Qd1 O-O": "by not retreating, white has a lost game. Can you see how I can pulverize white.",
+        "18. f4 Nxe3": "this move gives up my knight, for a pulverized game.",
+        "19. Qe2 Nxf1 20. Qxf1": "this LATE retreat invites black to follow up a series of unstoppable checks. White probably could have tried 20.Rd1 instead.",
+        "20... Bxd4+ 21. Kh1": "White should have tried 21.Qf2 to stop this.",
+        "21... Qc6 22. g4": "22.g4?? or 22.Qf3. 22.g4?? is a waste of time. Sadly, if white thinks he has time to distract me at this point, he will be astonished by these shocking next moves.",
+        "22... Qxe4+": "22...Qxe4+!! makes this mate unstoppable.",
+        "23. Qg2 Qxb1+ 24. Qg1 Qxg1#": "This is an example of what not to do with a great opening."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=36917",
+    "gameName": "Team match",
+    "players": "deepbreath54 (739) vs. austinwkeller (555)",
+    "opening": "Queen's pawn (A40), Lundin (Kevitz-Mikenas) defence"
+}

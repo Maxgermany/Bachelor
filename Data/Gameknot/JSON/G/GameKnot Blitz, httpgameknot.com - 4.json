@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 e6 2. c4 Nf6 3. Nc3": "I have begun learning this opening...",
+        "3... c5 4. Bg5 cxd4 5. Qxd4 Nc6 6. Qd2 Qa5 7. Bxf6": "I did this to disturb his pawn structure and discourage kingside castling.",
+        "7... gxf6 8. Nb5": "I could have played e3 here, but decided to make an inferior move to see what, if anything he would do besides play ...Bb4.",
+        "8... Bb4 9. Nc3 Bxc3 10. bxc3": "Despite the mess in whites pawn structure, the engine only gives black a pawn advantage. I am forced to recapture with the pawn because a queen trade would likely result in a lost endgame for white. As it is, white should now lose with accurate play by black. But...",
+        "10... Ne5 11. e3 b6 12. f4 Ng6 13. Nf3 Bb7": "...for some reason, black does not immediately punish white, preferring to try for a kingside attack...",
+        "14. Be2 Rc8 15. Qd4 Ne7": "...his attack will take too long now, and white will now make forcing moves. My opponent has disregarded his doubled pawn and king safety. My own king safety is not so great, but his is worse.",
+        "16. O-O Nf5 17. Qxf6": "So I take it.",
+        "17... Rg8 18. Ng5 Rg7": "This is a huge blunder,  and now white wins easily. Nd6 was essential here for black to have any chance.",
+        "19. Bh5 Qc5 20. Bxf7+ Rxf7 21. Qxf7+ Kd8 22. Rad1 Bc6 23. Nxe6#": "Rd1 was essential to allow the tactics in the position in case black defended correctly, which he did not."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=65353",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "pierre99  vs. anonymous ",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

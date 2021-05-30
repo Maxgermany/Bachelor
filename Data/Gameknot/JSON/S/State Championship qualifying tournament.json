@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. e3 c6 4. c4 e6": "A slow opening...",
+        "5. Nc3 Nbd7": "Black's position is already looking constricted.",
+        "6. Bd3 Bd6 7. O-O O-O": "Both sides castle early. But Black will end up weakening his castled position, and it will cost him the game.",
+        "8. e4 dxe4": "Black gives up the center. With his already-cramped position, this development is ominous.",
+        "9. Nxe4 Nxe4 10. Bxe4 Nf6": "The exchange has eased Black's game slightly. He is still under pressure, however.",
+        "11. Bc2 h6": "A disastrous move. White was threatening B-N5 and Q-Q3 with mate threat, but this weakening of his castled position just makes things worse.",
+        "12. b3 b6 13. Bb2": "White threatens P-Q5, opening the long diagonal.",
+        "13... Bb7 14. Qd3": "Provoking yet another Black weakening.",
+        "14... g6": "Oh, dear. Why weaken the already weak K-side further?",
+        "15. Rae1 Nh5": "This move seals Black's fate. 15... Q-K2 was the only chance.",
+        "16. Bc1 Kg7 17. Rxe6": "The final attack is beginning. 17... PxR??? is of course impossible [18 QxPch K-R1 18 Q-R7 mate.]",
+        "17... Nf6 18. Ne5": "Black's doom is just a matter of moves.",
+        "18... c5": "18... BxN would hold out a little longer. But at this stage it matters little.",
+        "19. Bxh6+ Kxh6 20. Nxf7+": "Black resigns before he can be mated. [20... RxN 21 QxP mate, or 20... K-N2 21 QxP mate, or 20... K-R2 21 QxP mate., or 20... K-R4 21 QxPch K-R5 22 P-N3ch and mate in 2.]"
+    },
+    "url": "https://gameknot.com/annotation.pl/state-championship-qualifying-tournament?gm=29450",
+    "gameName": "State Championship qualifying tournament",
+    "players": "Joe  vs. Chuck ",
+    "opening": "Queen's pawn game (D04)"
+}

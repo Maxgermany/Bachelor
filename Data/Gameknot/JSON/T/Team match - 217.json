@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 b6": "Owen Defense.  ",
+        "2. Bc4 Bb7 3. Qf3": "White has no respect for black's ability, shooting for the four move checkmate, and bringing the queen into the fray so early in the game.",
+        "3... e6 4. Nh3 Qf6": "Ph6 is the more common response to this unusual move.  White can establish dominance of the center by trading queens.  On the other hand those who open with the queen tend to be less versatile with the other pieces--a trade might benefit black in the long run.  Qf6 is not in the database.",
+        "5. d3 Qxf3": "A little surprising white declines the trade, given that black can double white's pawns.",
+        "6. gxf3 Nc6 7. Nc3 Bb4 8. Bd2 O-O-O 9. a3 Bc5 10. b4 Bd4 11. O-O-O f6 12. Nb5 g5 13. Be3 Bxe3+ 14. fxe3 a6 15. Nd4 Nxd4 16. exd4 h6 17. Nf2 d5 18. exd5 exd5 19. Bb3 Re8 20. Kd2 Ne7 21. Ng4 f5 22. Ne5 c6 23. Rhe1 f4 24. c4 h5": "This leaves Pg5 undefended.  The bigger problem here is that white can get that knight to d6+, seizing the rook at e8 with a fork.  I like Nf5.  This way black threatens NxPd4, ending up with the bishop at b3 or possibly forking the king and e rook with NxPf3.",
+        "25. Nf7 Ng6": "Ouch!  26. RxR+, RxR, Nd6+ leaves black rookless.",
+        "26. Nd6+ Kd7 27. Nxe8 Rxe8 28. Rxe8 Kxe8 29. cxd5 cxd5 30. Re1+ Kd7 31. a4 Nh4 32. Bd1 Bc6 33. Re5 Kd6 34. Rxg5 Bxa4": "Although white has a bishop protecting that pawn, BxB leaves Pf3 undefended, so Nxf3+ nets black the white rook.  My guess is that white does Rxh5 instead.",
+        "35. Rxh5 Bxd1": "Black cannot afford trades.",
+        "36. Rxh4": "KxB is better, because white preserves the f pawn.",
+        "36... Bxf3 37. Rxf4 Bh5 38. Rf6+ Kc7 39. Rf5 Be8 40. Rxd5 Kc6 41. Re5 Bf7 42. h4 Kd6 43. h5 Kc6 44. h6 Bg8 45. Rg5 Bh7 46. Rg7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=55084",
+    "gameName": "Team match",
+    "players": "e2toe4 (1548) vs. sanjinp (1500)",
+    "opening": "Owen defence (B00)"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4": "I don't normally play d4, but I decided to try an interesting gambit in this opening, since my opponent is known to have vast opening knowledge, I surprised him with an opening he had no idea what to do against.",
+        "1... Nf6 2. f3": "Threatening to take over the centre with e4.",
+        "2... d5": "This appears to stop e4, but I can play it anyway, and sacrifice the pawn.",
+        "3. e4 dxe4 4. Nc3": "I offer Black a pawn for easy rapid development. Black can decline the sacrifice, but it gives me a strong centre, so Black's best bet is to take the pawn and defend to hold onto it.",
+        "4... exf3 5. Nxf3": "For compensation for the pawn, I have better control of the centre, my pieces can find good squares easily, I have a strong central d-pawn, and Black will have a hard time trying to develop and position his units.",
+        "5... e6": "Not as active as Bg4, but Black wants to castle and defend before my further developed position crushes him.",
+        "6. Bg5": "I plan to castle queenside and attack Black's kingside.",
+        "6... Be7 7. Qd2 O-O 8. O-O-O": "Positions where players have castled on opposite sides of the board, often lead to dynamic sharp battles where one side gets brilliantly mated. But since I'm better developed and positions, my attack will start first.",
+        "8... Nbd7 9. Bd3": "I finish development first, purpose of pawn sacrifice in opening.",
+        "9... c5 10. Qf4": "Taking back on d4 is better with the queen than with the knight, because taking with the knight misplaces it, while taking with the queen doesn't disturb my position.",
+        "10... cxd4 11. Qxd4 h6": "I thought for a long time on my next move.",
+        "12. Qh4": "If I retreat my bishop, Black will have more time to defend, and soon I will have no more compensation for the pawn. This risky move was necessary in completing my attack.",
+        "12... hxg5": "I don't think Black should've accepted my second sacrifice. He's already up a pawn, and doesn't need to get greedy. I thought Nd5 was a better move.",
+        "13. Nxg5": "For compensation for the bishop, I have a very strong attack against h7, and on the h-file. While Black has no counterplay anywhere.",
+        "13... g6": "All Black can do is defend.",
+        "14. Qh6": "I need my queen off the same diagonal as Black's bishop, so it won't disturb me in my attack. ",
+        "14... Qb6": "If Black plays Re8 intending to stop my attack with Bf8, then I have the nice move Bxg6, and Black will be mated if he takes my bishop with Qf7# or Nf7# depending on where the king moves. Not to mention other tactical threats if he declines it.",
+        "15. Rhf1": "Adding pressure to the kingside.",
+        "15... Bc5": "Black wants to play Be3  but his counterattack has come too late, due to his underdeveloped position.",
+        "16. Nce4": "I need this move to replace my strong g5 knight if it is taken by Black's bishop after Be3 , and my knight cannot be taken since Black's knight is tied down to the defense of h7.",
+        "16... Be3+": "A temporary sense of power, but Black is still losing due to his very weak king.",
+        "17. Kb1 e5": "Defending the knight with the queen.",
+        "18. Rf3": "Black may as well resign here, since there is no stopping Rh3, and Black's knights are immobile.",
+        "18... Bd4": "A cheap threat.",
+        "19. b3 Qa5 20. Rh3": "Black resigned here, because I'm mating on the next move, and his counterattack has come a move too late.\r\nBlack would've been able to mate me if he had two free moves here, but remember when I sacrificed a pawn in the opening for two free developing moves?"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-tournament-2006?gm=2861",
+    "gameName": "Team Tournament 2006",
+    "players": "bakerbaker (1795) vs. Orion G. (1885)",
+    "opening": "Blackmar-Diemer gambit (A45)"
+}

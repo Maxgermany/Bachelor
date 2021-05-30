@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4": "Going into the Scotch Gambit. This is my first time playing this opening. Haven't really had much preparation with it as you can tell shortly. ",
+        "4... Nf6 5. Nxd4 Nxe4 6. Qe2 Nxd4 7. Qxe4+ Ne6 8. O-O": "I gave a pawn I have enough lead in development for compensation. I quietly squeeze Black's position in the opening from here on. ",
+        "8... Bd6 9. Nc3 O-O 10. Bd3 g6 11. Bh6 Re8 12. Rfe1 c6": "I honestly don't know if this move had a point. I kind of blinked and thought about 10 minutes as to what his intentions were. ",
+        "13. h4": "Expanding on the Kingside where i have a pieces majority and a decisive attack. ",
+        "13... Bf8 14. Bxf8 Kxf8 15. h5 Ng5 16. Qb4+ Kg8 17. hxg6 hxg6 18. Ne4 Nxe4 19. Bxe4 d5 20. Rad1": "Developing my last piece and making it very active! I was very proud of this seemingly obvious move. ",
+        "20... Bf5 21. Bxf5 Rxe1+ 22. Rxe1 gxf5 23. g3": "This was exactly the type of position I was dreaming of right out of the Opening stage. I know that I can totally dominate this position. ",
+        "23... b5 24. Kg2": "Preparing to brink the Rook to the h-file. ",
+        "24... a5 25. Qd4": "Crowning my entire strategy of my Kingside attack. ",
+        "25... Qd7": "Completely losing sight of what my intentions were. Thus my next move was a pretty decisive blow. ",
+        "26. Rh1 f6": "Desperation. Black is lost here and defense would have been difficult. ",
+        "27. Qxf6 Qg7 28. Qe6+ Qf7": "A fatal mistake. Black completely missed White's tactical threats. ",
+        "29. Rh8+": "Now to deliver the fatal blow. Black resigned in view of:\n\n29...Kxh8  30. Qxf7\n\n29...Kg7   30. Qh6#"
+    },
+    "url": "https://gameknot.com/annotation.pl/fics-online-chess?gm=13408",
+    "gameName": "FICS Online Chess",
+    "players": "SirNemo (1708) vs. GKennedy (2131)",
+    "opening": "Scotch gambit (C44), Dubois-Reti defence"
+}

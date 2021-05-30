@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Best by test.",
+        "1... c5": "An asymmetrical defense. Sapira elects not to fight on Classical lines with 1... P-K4.",
+        "2. Nf3": "The fight for White's Q4 begins at once.",
+        "2... Nf6": "Challenging the KP...",
+        "3. Nc3": "...and defending it.",
+        "3... d5": "Practically forcing the exchange, as 4 P-K5 overextends White. ",
+        "4. exd5": "White chooses to be the exchanger. With 4 P-Q3 he could have made Black initiate the exchange, but it would have shut in his KB.",
+        "4... Nxd5": "The logical follow-up.",
+        "5. Bb5+": "Developing with tempo.",
+        "5... Bd7": "5... N-Q2 was the alternative, but this way Black doesn't block in his QB and can unpin with ...N-QB3.",
+        "6. Ne5": "Pressuring the pinned Bishop.",
+        "6... Nxc3": "Sapira's one mistake. The correct move was 6... N-KB3!",
+        "7. Qf3": "Thomas pounces at once. The threat is 8 QxP mate!",
+        "7... f6": "7... Q-B2 is equally bad [8 BxB ch NxB 9 QxP ch K-Q1 10 NxN and Black can resign.]",
+        "8. Qh5+": "Closing in for the kill.",
+        "8... g6": "Forced.",
+        "9. Nxg6": "If 9... PxN?? 10 QxP mate. So Black instead plays...",
+        "9... Kf7": "...this move, his only other choice.",
+        "10. Ne5+": "This deadly double check forces Black's hand. Sapira resigns at once. His two alternatives are 10... K-N2 11 Q-B7 ch K-R3 12 QPxN mate, or 10... K-K3 11 B-B4 ch with the choice of 11... K-Q3 12 N-B7 ch winning Black's Queen or 11... N-Q4 12 BxN ch KxB 13 N-B7 ch winning Black's Queen."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-antwerp-1932?gm=36993",
+    "gameName": "Tournament game. Antwerp 1932",
+    "players": "Sir George Thomas  vs. Emanuel Sapira ",
+    "opening": "Sicilian (B29), Nimzovich-Rubinstein variation"
+}

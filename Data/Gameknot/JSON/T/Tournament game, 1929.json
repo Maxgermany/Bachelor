@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 g6 7. Bd3 Bg7 8. h3 O-O": "A garden-variety Sicilian to this point.",
+        "9. Qd2 Bd7": "Noteboom continues to quietly build his position.",
+        "10. f4 a6": "Keeping Thompson's pieces out of QN5.",
+        "11. Nf3 b5": "Countering the K-side push of White with a Q-side space grab.",
+        "12. g4 Rc8": "Taking the half-open file.",
+        "13. a3 Kh8": "Securing the K.",
+        "14. O-O-O b4": "White \"castled into it\", and Noteboom takes immediate advantage.",
+        "15. axb4 Nxb4": "The pressure begins to build...",
+        "16. Qe2 Rxc3": "A sharp sacrifice to rip open the defenses on the Q-side.",
+        "17. bxc3 Na2+": "Forcing his way to the helpless White King.",
+        "18. Kd2 Nxe4+": "Not only pressing the attack but clearing the long diagonal.",
+        "19. Ke1 Naxc3": "Continuing the chase and forking two major pieces.",
+        "20. Qg2 Nxd1": "Reaping his just rewards.",
+        "21. Kxd1 Bc6": "Adding force to the attack.",
+        "22. Bxa6 Qa5": "Bringing the Q into play with tempo.",
+        "23. Bd3 Qa1+": "Continuing to increase the pressure.",
+        "24. Ke2 Qxh1": "Setting up a beautiful tactic.",
+        "25. Qxh1 Ng3+": "Forking the royals.",
+        "26. Kf2 Nxh1+": "Securing a decisive material advantage.",
+        "27. Kg2 Rc8": "Thompson mercifully elects to \"aufgegeben\" rather than prolong the inevitable. A beautiful attack by Noteboom!"
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-1929?gm=43953",
+    "gameName": "Tournament game, 1929",
+    "players": "Walter Thompson  vs. Daniel Noteboom ",
+    "opening": "Sicilian (B58), classical"
+}

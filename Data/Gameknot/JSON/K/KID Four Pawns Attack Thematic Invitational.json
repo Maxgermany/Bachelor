@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "This is my first annotation project. I wish to thank tennesseehiker, founder of Knights of Honor Chess Club, high rated players for giving me the opportunity to play with them and Fatcat2 for the invite and for reading the preprint of this annotation.\n",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6": "Alternative variation: 4... O-O [The position setup for this tournament is set at move 5. But if we want to transpose to the four pawns attack what is the best move at this point?]\n",
+        "5. f4 O-O 6. Nf3": "A standard book move.",
+        "6... c5 7. d5 e6 8. dxe6 fxe6": "Alternative variation: 8... Bxe6 [This is another possible reply]\n",
+        "9. Bd3": "Viktor Moskalenko advocates this move. The Bishop takes the important diagonal b1-h7, supports the e4 and f4 pawns and pieces for future attack\n",
+        "9... Nc6 10. O-O a6": "Maybe too slow. It prevents Nc3-b5, but at this point White plan is playing on king side.\n",
+        "11. Ng5": "Provocation. If 11. ... h6 then the Knight simply retreats to f3 or h3 and the g6 square will become weaker\n",
+        "11... Qc7 12. Kh1": "Maybe unnecessary, but this prevents nasty tactics with Black Bishop at d4. Wait and see...\n",
+        "12... Nd4 13. Be3": "Just developing a piece and preparing to connect the Rooks.\n",
+        "13... e5": "An error. This creates a strong outpost at d5 for the c3-Knight.\n",
+        "14. f5 gxf5 15. exf5 Nxf5": "A blunder. This pawn was defended twice. Piece for a pawn and it frees the b1-h7 diagonal. \n",
+        "16. Rxf5 Bxf5 17. Bxf5": "With this exchange sacrifice White has a powerful king side attack. White must remove the f6-Knight and that can be done with tempo because at this point there is the threat Ne6, forking Queen and Rook.\n",
+        "17... Qb6 18. Nd5": "13. ... e5 was an error. Now the Knight will leave the important f6-square, the defense of h7, h5 and g4.\n",
+        "18... Nxd5 19. Be6+": "This move introduces a \"mate\" in 6 sequence. I announced that (sorry Fatcat2) and triggered the moves until I realized that the d5 Knight should be eliminated first. It would be a terrible a blunder.\nAlternative variation: 19. Bxh7+ [My intuition was said that there were some tactics here and i would played that in a friendly OTB blitz game.] Kh8 20. cxd5\nAlternative variation: 19. Qxd5+ Kh8 20. Nf7+ Rxf7 21. Qxf7 [This gives White the Exchange back and will be up a Bishop for a passed pawn. I don't like the position.]\n",
+        "19... Kh8": "Alternative variation: 19... Rf7 20. Qh5 [In this line the d5-Knight has no time to jump to f6.] Qc7 21. Bxf7+ Qxf7 22. Qxf7+\n",
+        "20. cxd5 Bh6": "Shocking. This move escaped my analysis. White must give up his Knight.\n",
+        "21. Nf7+": "Alternative variation: 21. Nxh7 Bxe3 22. Nxf8 Rxf8 23. Qh5+ Kg7 24. Qg4+\nThe text move forces Black to find the correct reply.\n",
+        "21... Rxf7": "Forced.\nAlternative variation: 21... Kg7 22. Qg4+ Kf6 23. Bg5+ Kg7 24. Bxh6+ Kf6 25. Qg5#\nAlternative variation: 21... Kg8 22. Qg4+ Bg7 23. Bh6\n",
+        "22. Bxh6 Rf6 23. Qd2": "This is a 2 in a row move: It defends b2 and h6 and threatens Qg5.\n",
+        "23... Qc7 24. Qg5 Rg6": "Correct. The f file is not a pleasant place for the Rook.\nAlternative variation: 24... Rxe6 [This seems good. Give back the Exchange for two connected passed pawns but...] 25. dxe6 Re8 26. Rf1 e4 27. Qf6+ Kg8 28. Qf8+ Rxf8 29. Rxf8# [or something like this.]\n",
+        "25. Qh5 Re8 26. Rf1 Qe7": "Really bad. At least looses the Queen.\n",
+        "27. Rf7 Qd8": "This move saves the Queen, but White will deliver a mate in 3.\nAlternative variation: 27... Qxf7 28. Bxf7 Rf6 [Threatens the back rank mate] 29. Kg1 [followed by a easy win.]\n",
+        "28. Rxh7+ Kxh7 29. Bf8+ Rh6 30. Qxh6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/kid-four-pawns-attack-thematic-invitational?gm=28857",
+    "gameName": "KID: Four Pawns Attack Thematic Invitational",
+    "players": "superbock (1442) vs. fatcat2 (1447)",
+    "opening": "King's Indian (E76), Four pawns attack, dynamic line"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "this is called Petroff defense.",
+        "3. d4": "this is called Steinitz attack.",
+        "3... Nc6 4. d5 Nb4 5. a3 Na6 6. Bxa6 bxa6 7. O-O Bc5 8. b4 Bb6 9. Bg5": "pinning the knight, because i wanted to prevent black from playing 9....Ng4! or 9....Nxe4.",
+        "9... d6 10. Nc3 h6 11. Bh4 Bg4 12. h3 Bxf3 13. Qxf3 g5 14. Bg3 Bd4": "14....Bd4!! pinning the knight and threatening to win a pawn.",
+        "15. Rfe1": "protecting e4 because black threatens 15....Bxc3 then 16....Nxe4.",
+        "15... h5 16. Rad1": "allowing white knight to move.",
+        "16... g4 17. hxg4": "i decided to exchange pawns although it will open a file for the black rook as i was afraid black may play 17....gxh3.",
+        "17... hxg4 18. Qd3 Rc8 19. Qxa6": "19.Oxa6!!",
+        "19... Bxc3 20. Qc6+": "20.Qc6+! now white wins black bishop.",
+        "20... Kf8": "i think better was Qd7.",
+        "21. Qxc3 c5": "21....c5?",
+        "22. dxc6 e.p. Qb6": "22....Qb6??",
+        "23. Rxd6 Rh6": "23....Rh6?? i expected 23....Ne8 which i was ready to play 24.Bxe5!",
+        "24. Bxe5": "now i am up with 4 pawns.",
+        "24... g3": "24....g3?",
+        "25. Qxg3": "25.Qxg3!! i played it instead of 25.Bd5! or 25.Bxg3  because now if 25....Rxc6,black loses a rook as will be seen in next 6 moves.",
+        "25... Rxc6 26. Rxc6 Qxc6 27. Bd6+ Ke8": "forced or black will sacrifices hie queen.",
+        "28. Qe5+ Kd8": "forced again.",
+        "29. Qe7+ Kc8": "forced for the third time.",
+        "30. Qf8+ Kb7 31. Qxh6 Qxd6 32. e5": "32.e5!! now black resigned because he can't prevent white from eating black knight and black is already down with 6 pawns. if 32....Qd2?? threatening the rook then 33.Qxd2"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=27448",
+    "gameName": "Chess game",
+    "players": "abdalmoneem (1200) vs. Player B (1200)",
+    "opening": "Petrov (C43), modern (Steinitz) attack"
+}

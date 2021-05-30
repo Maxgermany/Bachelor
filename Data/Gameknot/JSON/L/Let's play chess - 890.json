@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. b3 e6 3. Bb2 Nf6 4. Nf3 Bd6 5. e3 a6": "This move might be unnecessary.  Otherwise, Black's plan of development is good so far.",
+        "6. Bd3 Ne4": "It is often useful to post a N on e4, but it may be premature if development is not completed.",
+        "7. O-O c5": "A good pawn break.",
+        "8. Nbd2 f5 9. Ne5": "All of White's minor pieces are now posted, while two of Black's minor pieces are still undeveloped.",
+        "9... cxd4 10. Bxd4 Nc6": "Black's f5 left open the d1-h5 diagonal, which can cause problems if Black has not castled.",
+        "11. Qh5+ g6 12. Nxg6 Rg8 13. Ne5+": "Discovered check.",
+        "13... Kf8": "Either Kf8 or Ke7 leads now to checkmate.",
+        "14. Qf7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=21360",
+    "gameName": "Let's play chess",
+    "players": "mmoody95 (1740) vs. sleepingtiger (1429)",
+    "opening": "Queen's pawn game (D00)"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Although I played e4, my ideas were to play a slow, positional game. I was around 200 points below my opponent and thought that if I could steer it the way I wanted to, I could gain a slight middlegame edge. As will be seen in the game, through my positional ideas and with Black's cooperation, I was able to score a quick win against my higher-rated opponent.",
+        "1... e5 2. Nf3 Nc6 3. Nc3": "You can now see my slow intentions. This move may look unambitious, but I believe it is a solid system to play whenever you feel like having a positional duel. ",
+        "3... Bc5": "...Nf6 is usually played. Now if I wanted to I could play Nxe5 to open up the position, but we already know I don't want to do that :)",
+        "4. g3": "A strange, slow idea, where white appears to not care much about having the first move.",
+        "4... Nf6": "Developing, and perhaps planning a ...d5 push.",
+        "5. Bg2": "I've most recently seen this system played by a young Canadian Junior who made a big upset and beat GM Alex Shabolov in the 3rd ECF in Canada in summer of '08. I had previously seen it through games annotated by IM Josh Waitzkin. It's a very positional opening, and one of its main ideas is the kingside attack with moves like 0-0, h3, Kh2, Nh4 and f4 when the light-squared bishop could become very active if the black e5 pawn is gone.",
+        "5... d6 6. d3 a6": "Best, as Na4 was threatened, gaining the bishop-pair advantage.",
+        "7. O-O O-O 8. h3": "Not only preventing an annoying pin by the c8 bishop, but also vacating the h2 square for the white monarch, which in turn frees up the f2 pawn.",
+        "8... Be6": "A natural move, where the black queen will usually set up a battery with the bishop along the c8-h3 diagonal after ...Qd7",
+        "9. Kh2 h6": "In my opinion, a mistake. White never intended Bg5, and white's ideas lie not only in the f4 push but also in Be3, so if the bishops were traded white would have a nice semi-open file to work on. ...h6 of course also weakens the kingside slightly, and considering that black should be aware that the kingside is where white wants to play, doesn't make much sense.",
+        "10. Be3": "Tempting the trade, which of course is not forced; 11.Bxc5?! may be bad because black would have its own semi-open file for its heavy peices and strong control over the d4 square. Notice that the resulting c5 pawn would not be a weakness mainly because white has no effective way of threatening it.",
+        "10... Bxe3": "This move is the mistake that is the main cause for black's troubles later on, my previous explanations should explain why. Any other developing move would have been better.",
+        "11. fxe3": "Notice that now white has good control over the d4 square now, and if white ever wants to, can advance to d4, where the white pawns in the center will prove very unpleasant for black.",
+        "11... Qd7 12. Nh4": "The f5 square is weak, so white quickly decides to plant a strong knight there, with strong threats against the king.",
+        "12... Nh7": "Black already has a difficult position, but this move cannot help. Perhaps black wanted to advance its pawn to f5, but this idea can't be good because then after exf5, the white bishop on g2 is very strong. Quickly looking at this, my considerations would have been in ...Kh8 or ...Ne7, trying to bring the peices in their more useful defensive squares for white's coming assault.",
+        "13. Nd5": "I liked this move, and played it without much calculation. My thinking was simple, ...Bxd5 is bad because now the white bishop may use the e4 square as a pivot point to aim at the kingside and since the ...h6 move earlier in the game weakened black's white kingside squares, trading its best piece that defends them doesn't sound logical. Here I was expecting ...Ne7, putting the question to my centralized knight, but instead I got...",
+        "13... Ng5": "Another mistake, with the pitiful 'threat' of winning the h3 pawn. This must have been why black wasted two tempi moving its knight to this square, but considering white has an effective move to stop this idea and continue on its own plan, black's plan was simply wrong. Although it may not look like it, understanding this position should clearly show that the white player has the the only kingside initiative and that black has to be very careful before its position becomes hopeless.",
+        "14. Nf5": "Once again, any capture of either knight will only improve white's position. And once again because of black's careless ...h6, now not even ...g6 can be played because of the hanging h6 pawn. White's knights are currently worth more than the rooks because of how they invade into black's territory.",
+        "14... Bxd5": "Black decides that the d5 knight was more troublesome, when in truth, the f5 knight in my opinion is stronger. Now black is completely helpless on its light squares, and white should coordinate its forces on those weak squares to attack.",
+        "15. exd5 Na7": "One mistake follows another. I don't believe Black understood how bad his position was, because only ...Ne7 should have been considered. From a7 the knight only has 2 terrible squares to jump to -- b5, where it attacks nothing, and c8, which doesn't need explanation as to how bad it would be there.",
+        "16. h4": "This move is simple to find and very strong. The knight can't retreat, and black will receive nothing in compensation for its peice defecit. For these reasons black could resign here, but instead wants to be proven wrong...",
+        "16... Nh7": "With the illusion that everything was ok. White has another very simple and very strong move that destroys Black....",
+        "17. Qg4": "...And finally black realizes he is lost. Mate on g7 is threatened, and if black thinks it can prevent it with any pawn move, Nh6  wins the unprotected queen on d7. This is a good example of showing how one should exploit the weak squares that an opponent leaves unprotected to bring in the quick point with the greatest efficiency. 1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/44th-gk-tournament-round-2?gm=19829",
+    "gameName": "44th GK tournament, Round 2",
+    "players": "whatheup2 (1521) vs. munja100 (1690)",
+    "opening": "Three knights game (C46)"
+}

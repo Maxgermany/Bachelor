@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "I enjoy the KG, and was allowed to start it by my opponent (thank you dynamic_dv).",
+        "2... exf4 3. Nf3 Nf6 4. Nc3 d5": "This is a unfamiliar line of attack for me as lower rated players usually come after the N on f3. I decided to try and clear out his center pawns with exd5",
+        "5. exd5 Nxd5": "I almost decided on the exchange of Knights on d5, but went with bringing out my bishop in preparation to castle so I could remove my king from the center and complete the KG.",
+        "6. Be2": "Out of all the places to put the bishop, I look back and see this was probably one of the weakest. Setting up for the 7. .. Nxc3 8. dxc3 Qxd1 9. Bxd1 while also getting ready for the castle. This was the line chosen by my opponent, so it \"worked\", but didn't exactly lead to a good result. Better may have been 6. Bd3 blocking the Q attack.",
+        "6... Nxc3 7. dxc3 Qxd1+ 8. Bxd1": "Now that reaction is done, time to castle. Assuming my opponent protects f4 . . . ",
+        "8... Bd6": "which he does.",
+        "9. O-O O-O 10. Ng5": "In trying to develop my Q-B, I was looking to drive the B on d6 away from the defense of f4 hoping to get my material back and get both of my bishops into play. Neither of these happened. Looking back, I'm not sure what I should have done differently here. B on d1 was trapped in by the P on c3 and the N on f3. Be2 would have at least started a different line eventually leading to what though, Bd3? Bc4? This is the part of the game I have the most trouble with.",
+        "10... Bc5+ 11. Kh1 h6 12. Ne4 Be3": "I did not expect this. Looking back, it was setup perfectly for after 12. Ne4 to do this and I should have seen that. Had I just done 12. Nf4, would he have gone back to d6? I doubt it looking at this position, even Nf4 would have allowed Be3 and retreat was not something my opponent ultimately needed to do in this game. With the enemy in the midst of my ranks, I couldn't let it stand. So I exchanged and hoped to be able to hide the pawn under my knight so I could remove it as well.",
+        "13. Bxe3 fxe3 14. Re1 f5": "thusly removing the knight and practically ensuring I wouldn't get the pawn back.",
+        "15. Ng3": "Let's dance. What a wasted move. Why not 14. Nc5 . . . ? at least then I could get to d3 from a pawn attack.",
+        "15... f4 16. Ne4": "instead of 16. Ne2 blocking in my bishop, I just chose to come back to e4. Same position as the start of 14, but with the pawns guarded very well and black with the initiative.",
+        "16... Nd7 17. Bf3": "Trying to stop further incursion by the black pawns while protecting my knight.",
+        "17... Ne5 18. Rad1": "Trying to assert myself in the middle.",
+        "18... Bf5": "From here marked the beginning of the end for me. I didn't see that this would lead to a second passed pawn and my ultimate demise. Instead, I tried to guard the knight.",
+        "19. Rd4 Rad8": "Exchange offered. This was another moment that I didn't know what to do, but I saw the exchange on d4 as a way to uncouple my pawns and get some structure back.",
+        "20. b3 Rxd4 21. cxd4 Nxf3": "I saw the passed pawns, but couldn't come up with another way around it. I was hoping I could figure out how to defend it.",
+        "22. gxf3 Bxe4 23. fxe4 f3": "After looking at all my possible moves, I realized that this was mate. Either Pawn would make it to queen no matter what I did. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-dynamic_dv?gm=57254",
+    "gameName": "Challenge from dynamic_dv",
+    "players": "gtrigity (1493) vs. dynamic_dv (2304)",
+    "opening": "KGA (C34), Schallop defence"
+}

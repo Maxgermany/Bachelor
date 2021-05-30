@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 Nc6 3. Nf3 Bf5 4. c3 e6 5. Nbd2 Bd6 6. Ne5 Bxe5 7. dxe5 Nge7 8. e3 Ng6 9. g4 Bxg4 10. Qxg4 h5 11. Qh3 Qe7 12. Nf3 Qc5 13. Bd3 Qb6 14. O-O-O Nxf4 15. exf4 Qa5 16. Kb1 Qc5 17. Qh4 a5 18. Rhg1 g6 19. Qf6 Rf8 20. Ng5 Ne7 21. Nxe6": "My opponent resigned here. My sac was not at all convincing. After fxN, Qxe6 is strong, but black can't play Rxf4, because of Bxg6+, with deadly threats. But he can still goes elsewhere. ",
+        "21... fxe6 22. Qxe6 Rxf4 23. Bxg6+ Kd8": "Black evades the pin on the knight, but it takes his king into the rook's path. ",
+        "24. Bf5": "Here, white plays what it can be a brilliant move, or a flop. It opens the way for the white rook to g8+, so black can't take the bishop with the knight. Black has to do something or Qd2#, so it seems reasonable to take RxB. ",
+        "24... Rxf5 25. Rxd5+": "Black has to take, or the queen is lost. If QxR, Rg8+! and black has only NxR, QxQ+, Ke7, and white will grab some other black pawn for a difficult but probably winning endgame. But if black takes with the knight...",
+        "25... Nxd5 26. Qxf5": "White threatens Rg8+, followed by RxR. If Ke7, white penetrates with Rg7+, and if...",
+        "26... Ne7 27. Qf8+ Kd7 28. Rd1+ Kc6 29. Qf6+ Kb5 30. c4+ Qxc4": "Black is half forced to take, in my opinion. ",
+        "31. Qxe7": "Material is only +1, but white dominates the board, with two joined free pawns. It's a matter of time. I hope you enjoyed the trick position, and please feel free to correct my mistakes an analysis!"
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=55085",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "damalfi  vs. GKplayer (1500+)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

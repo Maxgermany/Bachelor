@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nI was playing in a MT called New Year's Eve Party which was hosted by Master Chrisobee.  I found myself playing against a Master called Klauno (Klaus) and after he responded to my 1. e4 with the Sicilian (c4), I decided to play the Sicilian Grand Prix Attack and we ended up in Easy 19's Experimental Demolition Derby Attack line which involved a queen sac.  Unfortunately it went belly up for me but I thought I would annotate it so that whoever wants to be the white player in this line can see the refutation.  Here is Gameknot Analysis: http://gameknot.com/analyze-board.pl?bd=17665124&rnd=0.444587956263756",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4": "5. Bc4 - shades of the Two Knights Defence where white plays g5 and Bc4 to worry the BK by attacking the square f7.",
+        "5... Bg4 6. Qxg4": "6. Qxg4 - and here is the sac!",
+        "6... Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc7 9. Bxg4": "9. Bxg4 - I now have two pieces for Glenda and I have exposed the BK.  Over the next few moves I tie down black and attack!",
+        "9... Qe8 10. Ne6+ Kb6 11. Nc3": "11. Nc3 - swift development is called for.",
+        "11... a5 12. Nd5+": "12. Nd5+ - aggressive play but I do wish I had more white pieces in the vicinity of the BK.",
+        "12... Ka7 13. Ndc7": "13. Ndc7 - fork.",
+        "13... Qg6 14. Bh3 Nc6 15. Nxa8": "15. Nxa8 - I didn't want to relax the bind but I felt I needed to get near material parity.  Unfortunately black's knight puts c2 under the hammer.",
+        "15... Nb4 16. Kd1": "16. Kd1?? - a knee jerk reaction but I overlook Qh5+ forcing Henry back to e1 to face the vicious knight fork.  As I couldn't effectively block the check I resigned on the spot.  I should have played either f5 or 0-0.  Black would have still had an advantage but not enough to force resignation.  Although my rating got to within 17 points of 1900 I still have a lot to learn!",
+        "16... Qh5+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-revisited?gm=44717",
+    "gameName": "The Annotation Project Revisited",
+    "players": "jstevens1 (1874) vs. klauno (2379)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

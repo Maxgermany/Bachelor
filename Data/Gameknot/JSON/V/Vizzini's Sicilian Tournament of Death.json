@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "This game was played in a Thematic MT hosted by Jongraft.  The initial position starts after 4. Nxd4",
+        "1... c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4": "I'm sure this game may prove to have errors & missed opportunities for both sides.  However, it was fun to play & has a dramatic ending.  ",
+        "4... Nf6": "So Black opens with 4...Nf6",
+        "5. Nc3 e5 6. Nf3 Bb4 7. Bc4": "I ignore the threat to my e pawn",
+        "7... Bxc3+ 8. bxc3 Nxe4": "Beware the hanging pawn!",
+        "9. Qd5": "Threatens mate at f7 & the hanging Knight.",
+        "9... O-O 10. Qxe4 Re8 11. O-O Qa5 12. Bd2 Rd8": "Black wants to fork my Queen & Bishop",
+        "13. Bd3 g6 14. Rfe1 d6 15. c4 Qb6 16. Bh6": "Starting the attack.",
+        "16... Bf5 17. Qh4": "After Qh4 I saw\r\n\r\n17         ...f6\r\n18.Qxf6  Qc7\r\n!9. Bxf5  gxf5\r\n20.Qxf5",
+        "17... f6 18. Qxf6 Rd7": "Rd7?  I believe this to be Black's key error in the game.  ",
+        "19. Bxf5 gxf5 20. Qxf5": "Qe6  is probably better here.  I figured he would play Rf7 & then I could play Qe6.  ",
+        "20... Rf7": "Well I guessed right, but 20.Qe6  might have been better.  ",
+        "21. Qe6": "Pinning the Rook with the idea of Ng5",
+        "21... Nb4": "I was pleased to see this move.  It told me that Black was overconfident in his position & wanted to counter-attack my Queen-side.  Not until analysis did I see 21...Nd4 leading to \r\n\r\n22.Qg4   Kh8\r\n23.Nxd4  Qxd4\r\n24.Qxd4  exd4\r\n\r\nThe material comes off, I'm up a Bishop & a pawn; but the win is far from clear.  ",
+        "22. Rab1": "Pinning his Knight & giving him trouble in hope that he will further commit to the Queen-side attack.",
+        "22... Qa5": "It worked.  Now when I play Ng5 & the Queen comes to c7 in defense, I can trade off.  So now my plan is...\r\n\r\nNg5  Qc7\r\nQxf7   Qxf7\r\nNxf7   Kxf7\r\nRxb4\r\n\r\nI'll be up a Rook, Bishop, & a pawn.  The win might be several moves away, but it's clear.  I just force trades until I'm the only one who has material left.  ",
+        "23. Ng5": "Attacking the pinned Rook as planned.  ",
+        "23... Raf8": "At this point alarm bells start ringing in my head.  Black is in trouble.  Both of his Rooks are attacked, 1 of them is pinned.  There might be a mating attack here, but I can't quite see it.  ",
+        "24. Nxf7": "I figure I'll take his Rook; let Black re-capture, pinning his other Rook.  Then maybe I can bring one of my Rooks into the attack.  ",
+        "24... Nxc2": "Well I wanted to bring a Rook in, now I can do it with tempo.\r\n\r\nNxd6   Kh8\r\nRxe5",
+        "25. Nxd6+ Kh8 26. Rxe5": "I could have played Qxe5 here & forced the trade of Queens, but I didn't want to.  If after Rxe5 Black brought the Queen home, then everything gets traded & I win the Endgame.  Black doesn't want to trade either.  So I figured he would grab my a pawn instead & threaten my back rank.  ",
+        "26... Qxa2": "Black threatens mate in 1.  I had to know for certain when I played Rxe5 that Qxa2 wasn't a threat.  In fact, it leads to mate in 2.  Here mate in 2 beats mate in 1.  ",
+        "27. Qf6+": "Qf6 !  There are only 2 possible replies.  27...Kg8 followed by Qg7#.  Or\r\n\r\n       ...Rxf6\r\nRe8   Rf8\r\nRxf8#",
+        "27... Rxf6 28. Re8+": "Here he resigns.  In this game I got to hold off mate in 1 for 2 moves, & Sacrifice my Queen to force mate.  A pretty ending & a fun game.  Hat's off to Jongraft, he gave me a hard time.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/vizzinis-sicilian-tournament-of-death?gm=10191",
+    "gameName": "Vizzini's Sicilian Tournament of Death",
+    "players": "doc3170 (1431) vs. jongraft (1478)",
+    "opening": "Sicilian (B33), Pelikan (Lasker/Sveshnikov) variation"
+}

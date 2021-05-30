@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 g6 2. e5": "Je pousse le pion pour contrer l'\u00e9ventuelle ligne du fou.",
+        "2... Bg7 3. d4 d6 4. Qe2": "Je ne voulais pas jouer Nf3, car cela aurait pu engendrer dxe5, suivi de dxe5 et Qxd1 pour l'\u00e9change de dame qui me faisait perdre mon roque. ",
+        "4... Nc6 5. c3": "En jouant ce coup, il est clair que je perd un pion.  Kf3 aurait probablement \u00e9t\u00e9 plus efficace.",
+        "5... dxe5 6. dxe5 Nxe5 7. Bf4 Qd6 8. Nd2 Nd3+": "Je ne me suis pas m\u00e9fi\u00e9 de ce coup, car je croyais le cavalier clouer.  Je n'ai pas remarqu\u00e9 que je pouvais \u00eatre en \u00e9chec. ",
+        "9. Qxd3 Qxf4 10. Ne2 Qf5 11. Ne4": "J'ai h\u00e9sit\u00e9 beaucoup entre ce coup et l'\u00e9change de reine.",
+        "11... Nf6 12. O-O-O": "Je crois que j'ai \u00e9t\u00e9 impatient avec ce roque, qui apr\u00e8s analyse me semble tr\u00e8s dangereux.  Ng3 aurait \u00e9t\u00e9 plus efficace, cela aurait forc\u00e9 une s\u00e9rie d'\u00e9change ou le retrait de sa reine.",
+        "12... O-O 13. Ne2g3 Qa5 14. Kb1 Nxe4 15. Nxe4 Bf5 16. f3": "Ce coup me semblait la seule option pour pouvoir d\u00e9gager ma reine sans donner le cavalier",
+        "16... c6 17. Rc1 Rad8 18. Qc4": "Avec connaissance de la fin de cette partie.  Il est clair que ce coup \u00e9tait mauvais.  Qc2 aurait \u00e9t\u00e9 mieux",
+        "18... c5 19. Ka1 Be6 20. Qe2": "N'ayant pas vu la ligne entre son fou et sa reine.",
+        "20... Qxa2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/quebec-8?gm=5758",
+    "gameName": "Quebec #8",
+    "players": "dragoneye (1470) vs. myself1234 (1813)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

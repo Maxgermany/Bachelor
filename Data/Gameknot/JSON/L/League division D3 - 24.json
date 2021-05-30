@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 f5 2. c4 Nf6 3. Nc3 g6": "We reach the Rubinstein Variation of the Dutch Defense although I was not aware of it at the time and simply developed as seemed natural.",
+        "4. Bg5": "With the Kingside for Black already so far forward I thought the potential of pinning the Knight was worth while although Black can break this at any time with h6.",
+        "4... Bg7": "I'm not sure if a fianchetto is normal in the variation but it seems to me Black should be developing his Queenside in the hopes of castling in that direction.",
+        "5. Nf3 d6 6. e3 c6": "This move seemed odd to me as well as it blocks the c6 square for the Knight although it does allow the Queen escape room",
+        "7. Bd3 O-O": "I totally did not see this one coming but perhaps it is normal for the variation. With the f-pawn so advanced it seems like the b3-g8 long white squared diagonal is ripe for attack",
+        "8. O-O e5": "Another error I think as it pins the Knight which is Black's best piece at the moment and gives me a pawn in the exchange to follow",
+        "9. Nxe5 dxe5 10. dxe5 Nbd7": "The Knight on f6 is pinned and cannot move",
+        "11. exf6": "Also possible is 11. Bxf6 Bxf6 12. exf6 Qxf6 but I thought this left Black in a better state of development",
+        "11... Nxf6 12. Qb3": "Looking at a discovered check and hoping my opponent takes the apparently free Bishop",
+        "12... c5": "12. ... Qxd3 13. Rd1 Qxf1 14. Kxf1 trades the Queen for a Bishop and Rook which is not horrible but down two pawns already not good either",
+        "13. Rad1 b6 14. Bxf5": "Picking up my second pawn",
+        "14... Qc7 15. Bxf6 Bxf6 16. Nd5": "Up two pawns I want to simplify",
+        "16... Qe5 17. Nxf6+ Rxf6 18. Bxc8 Rxc8": "I've gotten rid of all the minor pieces now it is a matter of forcing more trades to reach end game",
+        "19. Rd5 Qc7 20. Qc3 Rcf8 21. Qd2": "If I can get my pieces lined up then Black is forced into trades",
+        "21... Kh8": "Getting the King away from Qd5+ in the future but I thought an unnecessary move",
+        "22. Rd7 Qc6 23. Rxa7": "I pick up my third pawn",
+        "23... Rf6f5 24. Qd7 Qxd7": "24. ... Rfe7 25. Qxf7 Rxf7 26. Rxf7 and we've simplified to a Queen vs. Two Rooks ending but my three extra pawns should be plenty for victory",
+        "25. Rxd7 Ra8 26. Rb7 Rxa2 27. Rxb6 Ra4 28. b3 Rb4": "Giving away another Rook trade",
+        "29. Rxb4 cxb4": "Now I've got a three pawn advantage with each of us having a single Rook. Black's isolated b-pawn will fall eventually to the King",
+        "30. Rc1 Rc5": "Blocks off my Queenside pawn advance now I need to get the Kingside rolling",
+        "31. f4 Kg7 32. e4 Kf6 33. Kf2 h6 34. Ke3 g5 35. Kd4 Rc7 36. fxg5+ hxg5": "My e-pawn and c-pawn passers should be enough to win at this point",
+        "37. c5 Ke6 38. Rc4": "My opponent resigned here although I'm not sure 38. Rc4 was not worse than 38. Kc4. My connected pawns on g and h can force a trade and with my Rook behind my pawns the survivor of that exchange or my c-pawn or e-pawn will eventually Queen and my opponent resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3?gm=29537",
+    "gameName": "League division D3",
+    "players": "tomlib (1455) vs. keithhomeyer (1322)",
+    "opening": "Dutch with c4 & Nc3 (A85)"
+}

@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. Nc3 e5 2. Nf3 f6": "there are better alts like nc3",
+        "3. e4 c5": "to many pawn moves",
+        "4. Bc4 Nc6": "finally starting to develope",
+        "5. Nh4 g6 6. O-O f5 7. exf5": "at this moment i saw the discover attack and was kicking myself for not seeing it",
+        "7... gxf5": "that move simultaneously lost the game with a three move forced checkmate (this time i am certain) and didn't take a free piece with the queen\r\n\r\nalso in the entire game only two of my opponents pieces (excluding pawns) were moved off their original square the knight and the king",
+        "8. Qh5+ Ke7 9. Nxf5+ Kf6 10. Ne4#": "what a finish, four developed pieces checkmating the king while he is in the middle of the board and each piece is necessary  "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=24570",
+    "gameName": "Let's play chess",
+    "players": "kamshaft (1185) vs. stkelrey (1159)",
+    "opening": "Dunst (Sleipner,Heinrichsen) opening (A00)"
+}

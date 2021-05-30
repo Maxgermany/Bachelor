@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Hello!!!! This is a game that i played for a mini tournament i participate....I won the game with white in 30 moves and now i have black....I used to play with with white but i think i'm quite good with black too....So he started with e4..",
+        "1... c5": "Lately i like to play c5...Sicilian is always good for black though used to play e5 in the past...",
+        "2. e5": "e5 is not a very common reply and i think is not helping white very much...I like to play the Najdorf variation but now the best is Nc6.",
+        "2... Nc6": "So i played Nc6...I actually never played this variation in the past not even in a blitz game...",
+        "3. f4": "f4? Quite strange move i think again...Better would be Nf3..",
+        "3... d6": "d6 i think is a nice and safe move for black playing this variation...What do you think?",
+        "4. Nf3": "That seems logical...My king's side is still disorganized and i was thinking about g6 to do...",
+        "4... dxe5": "But i decided to exchange the pawns...What do you think of that?",
+        "5. fxe5": "He took it...",
+        "5... Bg4": "I guess pushing his knight with that move will give me something good...",
+        "6. Qe2": "For me this is a bad move...Is blocking his bishop.",
+        "6... Nd4": "Cause the knight threat is coming..",
+        "7. Qc4": "He play Qc4 to protect the queen",
+        "7... Bxf3": "I took the knight and then it may come: ... 8. gxf3 Nxf3+ 9. Kd1 Nxe5 and threaten the queen...",
+        "8. Qa4+": "He played Qa4+ and check my King...",
+        "8... Bc6": "But i repied with my bishop to protect the king and the bishop as well....Now he's down a piece...",
+        "9. Qc4": "The c5 pawn is exposed...",
+        "9... e6": "But now is not...The thought of playing g6 will not be only a thought..",
+        "10. d3": "To open the line for the black bishop...",
+        "10... Qh4+": "My queen should attack now...Also my knight is placed in a good square that may help my queen....",
+        "11. g3": "He defended with pawn...But now his rook is exposed...",
+        "11... Qd8": "I move the queen back to be safe...Even if he played Rg1 it will then come Nf3+! and i will take the rook...He decided to resign as he said to me he's like a turkey ready to be placed into an oven!!!! This is the game and hope you like it! With 11 moves he resigned...Maybe the variation that he used is not so good or he's not using it in a right way...Please comment and rate! Thanks!"
+    },
+    "url": "https://gameknot.com/annotation.pl/bring-on-spring-tourney?gm=38134",
+    "gameName": "Bring on Spring Tourney",
+    "players": "mtsp1975 (1304) vs. mariodag (1606)",
+    "opening": "Sicilian defence (B20)"
+}

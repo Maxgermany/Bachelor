@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. f4": "Thematic queen sacrifice game.",
+        "1... d5 2. Nf3 g6 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4 8. Be6+ Kc6 9. Bxg4 Bg7 10. Nc3": "I wanted to try a different approach.",
+        "10... Bxc3 11. dxc3": "Black has doubled whites pawns, but has lost a strong bishop.",
+        "11... e5 12. fxe5 h6 13. Nh3": "? Nxe4 was better, after which White has reasonable compensation. ",
+        "13... Na6 14. O-O Qe7": "Black seems to be developing nicely.",
+        "15. Bf4 Nc5 16. Rae1 g5": "Black drives the Bishop away.",
+        "17. Be3 Rhf8 18. Nf2": "White does not want to exchange rooks yet.",
+        "18... Qxe5": "Black grabs the pawn.",
+        "19. Bd4": "White must play actively. ",
+        "19... Qd6": "Hoping for Nxe4.",
+        "20. b4": "! White needs to drive the N off from defending the e pawn, after which a strong attack will ensue.",
+        "20... Ne6 21. Nxe4": "Here White can afford to exchange rooks.",
+        "21... Rxf1+ 22. Rxf1 Qe7": "Black wants to save the N from capture.",
+        "23. Rf6": "But this pin is very strong.",
+        "23... Kd7": "After this move, White gets more than just the piece back.",
+        "24. Rxe6 Qxe6 25. Nc5+": "Black resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-ii?gm=27860",
+    "gameName": "The Annotation Project II",
+    "players": "dmaestro (1575) vs. ledzepp (1660)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

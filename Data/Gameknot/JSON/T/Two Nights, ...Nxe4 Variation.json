@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Ng5 Nxe4": "...Nxe4 has long been a favorite.",
+        "5. Bxf7+": "Nxf7 offers Black a strong attack and at least equality, even better in many lines. This move, Bf7+, requires precise play by Black.",
+        "5... Ke7 6. Nxe4 Kxf7": "A piece swap. ",
+        "7. Qf3+ Kg8": "? Careless. Ke8 is necessary.",
+        "8. Qb3+": "?? Ng5! wins because of the double threat of f7++ and d5++.",
+        "8... d5 9. Nbc3 Be6 10. O-O": "? White does not realize that Black has serious threats.",
+        "10... Nd4 11. Qxb7 Rb8 12. Qa6 dxe4 13. Nxe4 Rb6 14. Qxa7 Nxc2": "Black has a strong attack. ",
+        "15. Rb1 Bc4 16. d3": "White wants to get some pieces out.",
+        "16... Qxd3 17. Be3": "White sacrifices a piece but better was Ng3.",
+        "17... Nxe3 18. fxe3 Qxe4 19. Qxc7": "White hopes that Black will overlook the threats on the a2-g8 diagonal.",
+        "19... Rg6": "But Black threatens mate instead.",
+        "20. Rxf8+": "White hopes for a perpetutal check.",
+        "20... Kxf8 21. Qd8+ Kf7 22. Qd7+ Kf6 23. Qd6+ Kg5 24. Qe7+ Kh5": "The Q checks have ended, mate follows.",
+        "25. g4+ Rxg4+ 26. Kf2 Rg2+ 27. Ke1 Qxb1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/two-nights-nxe4-variation?gm=28273",
+    "gameName": "Two Nights, ...Nxe4 Variation",
+    "players": "NN  vs. dmaestro ",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

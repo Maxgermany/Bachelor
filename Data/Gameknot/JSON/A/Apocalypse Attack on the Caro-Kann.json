@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "This is an attack I use against the Caro-Kann. I found it while surfing the web on chess games. If you google Apocalypse attack, you will find more information on The Kenilworthian: Apocalypse Attack web page. I pick it up because, it takes both the players out of the book moves and I needed a system.  Before playing the apocalypse attack I knew of the Classical, Advance, exchange, etc., and etc. But I like this better! In Euorpe, several grandmasters have played this line in tournaments hence why I also play it",
+        "1... c6": "\n",
+        "2. Nf3": "\nAnd I saw heaven opened,\nand behold a white horse...\nRevelations 19:11\n",
+        "2... d5": "The Caro-Kann is a solid defense. I play it. Playing the caro kann has taught me to play defensively,  forgo castling and staying in the center with my king and teaching me how to move my king as a combative piece! Capablanca and Karpov played this aginst e4.  ",
+        "3. exd5 cxd5 4. Ne5": "lo and behold this is the apocalypse attack.  If you also notice white has broken classical theory, making two pawn and knight moves in first four moves! The knight on e5 is safe. Black cannot play f6 due to: Qh5 ;...g6 and I think you know the rest. Notice the open e file, the diagonal a4 to e8, and the Knight attacking c6, d7, f7, g6, g4.",
+        "4... Nf6": "good move. Bad for black is d4",
+        "5. d4": "Anything that black plays you ought to play d4. Now if you were to play the classical exchange Caro-Kann and on the fifth move you played nf3 black has the option of playing Bg4 pining it against your queen.",
+        "5... g6": "excellent move",
+        "6. Bb5+ Nbd7 7. O-O a6 8. Bxd7+ Nxd7 9. c4": "the neo Panov-Botvinik attack deferred! Joking. There is a neo Panov-Botvinik attack but I just added deferred.",
+        "9... Bg7 10. f4 O-O 11. c5": " !",
+        "11... Nxe5 12. fxe5": "forming a wedge into my enemies territory also a deferred advance, if you will.",
+        "12... e6 13. Bf4": "over proctecing the e5 pawn",
+        "13... Bd7": "Black could have made better use of his light square bishop but he did not. The bishop remained a bad piece through the whole game",
+        "14. Nd2": "Again over protecting the e5 pawn. The noble knight destination is f3 then to e5",
+        "14... b6 15. b4 a5 16. a3 f6 17. Nf3 fxe5 18. Bxe5 axb4 19. axb4 bxc5 20. bxc5 Rxa1 21. Qxa1 Qa8": "?! Is this dubious? Then I thought. I will do the exchanges, clear the f file for my rook, a centralized knight of e5 and a passed c pawn",
+        "22. Qxa8 Rxa8 23. Bxg7 Kxg7 24. Ne5 Bc8 25. c6": "The power of the passed pawn is its lust to expand!",
+        "25... Ra4 26. Rf7+ Kg8 27. Rc7": "And black resign. I believe premature too. Caro-Kann players tend to have the edge in the endgame and there was game left in this game to be played. "
+    },
+    "url": "https://gameknot.com/annotation.pl/apocalypse-attack-on-the-caro-kann?gm=16126",
+    "gameName": "Apocalypse Attack on the Caro-Kann",
+    "players": "freeman8201 (1594) vs. delmore (1500)",
+    "opening": "Caro-Kann defence (B10)"
+}

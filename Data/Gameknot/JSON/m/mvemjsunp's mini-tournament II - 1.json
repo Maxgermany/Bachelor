@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. c4": "This is my second annotation. I hope everyone liked the last one. Anyway, this was against another 1300, and he also was very good. I want to say thank you to him for the game (I will be playing him again because this is from a mini-tournament.) So, thankyou:)",
+        "1... e5 2. Nc3 Nc6 3. g3 d6 4. Bg2 Bd7 5. d3 Qf6": "I don't really like this move, but I guess it is OK",
+        "6. Nd5": "Maybe Nf3 was better, but I don't really know.",
+        "6... Qd8 7. Qb3": "Targeting the b7 pawn",
+        "7... b6 8. Nb4": "Yes, the knight is being pinned to the rook, but it is easy to get out of.",
+        "8... Nxb4": "so far, so good",
+        "9. Qxb4 d5": "? Most people actually fall for this. On first thought, it looks like a harmless move which sort of develops the bishop with tempo. But if you look ahead, this actually loses a pawn.",
+        "10. Qb3 d4": "?? WHY????? This isn't very good at all.",
+        "11. Bxa8 Qxa8 12. Nf3 Bd6 13. O-O Bh3 14. Qa4+ c6 15. Bd2": "??",
+        "15... Ne7": "?? Take f1 goddamnit.",
+        "16. Rac1": "?? Stop it!",
+        "16... O-O": "??? By the way, I put three question marks on purpose.",
+        "17. b4": "??? *groan*",
+        "17... c5": "???? *snort*",
+        "18. Rfd1": "Finally! A decent move!!!!!!!",
+        "18... Nf5 19. bxc5 Bxc5 20. Bb4 Re8 21. Bxc5 bxc5 22. Rcb1": "! Taking the open file.",
+        "22... e4 23. dxe4 Rxe4 24. Ng5": "!",
+        "24... Rh4": "notice that I cannot take the rook.",
+        "25. Nxh3 Rxh3 26. Qd7": "! pinning the knight.",
+        "26... Rh5 27. Qc7": "!! This wins black's queen.",
+        "27... h6 28. Rb8+ Qxb8 29. Qxb8+ Kh7 30. g4 Rg5 31. Qf4 Nh4 32. Qxf7 Rxg4+ 33. Kf1 Rg2 34. Qf4 g5 35. Qf7+ Kh8 36. Rb1 Rxh2 37. Rb8#": "And this is checkmate. Hope you liked the annotation. Bye!"
+    },
+    "url": "https://gameknot.com/annotation.pl/mvemjsunps-mini-tournament-ii?gm=51155",
+    "gameName": "mvemjsunp's mini-tournament II",
+    "players": "mvemjsunp (1162) vs. thejel (1310)",
+    "opening": "English (A25), closed system"
+}

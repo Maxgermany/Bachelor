@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5": "1. ... e5 is my standard response to 1. e4",
+        "2. Nf3 Nc6": "Again a standard move.",
+        "3. Bc4 Nf6": "After 3. Bc4 I almost always go into the Two Knights Defence with 3. ... Nf6.",
+        "4. d3 Be7 5. Nc3 d6 6. Be3": "I've only seen this move once before...",
+        "6... O-O": "... and this was the response I made.\nI can't find the game yet, the Database is showing\n6. ... O-O 1 which means that two or more games transpose at some point (or there's a single game that has a position repeating): I'd have to nose through my Personal Database to find which game corresponds to the exact same sequence of moves.",
+        "7. O-O Bg4": "I've only played this once before.\nI have a game with Ng4, but that seems to be by transposition, and the position may not be the same after the 7th move.",
+        "8. Nd5": "I haven't seen this before...",
+        "8... Nxd5 9. exd5 Na5 10. b3 a6 11. b4 Nxc4": "I don't have a good square for my Knight so getting rid of White's Bad LSB is my best option.\nIt would b nice to have a Bishop Pair for later on (if the board opened up a bit), but now's not the time for counting chickens...",
+        "12. Qe2": "I assume this was just an oversight on White's part.",
+        "12... Nxe3": "I'd rather get rid of the White's remaining Bishop than save my Knight.\nIf White recaptures:\n13. fxe3 he might be able to attack down the f-File (I'm willing to risk that)",
+        "13. Qxe3 Bxf3 14. Qxf3 Bg5 15. c4 b6 16. Rae1 Qf6 17. Qxf6 Bxf6 18. a3 a5 19. Re4 axb4 20. axb4 Ra4 21. b5 Ra3 22. Rd1 Rfa8 23. Ree1 Rc3 24. Rda1 Raa3": "I don't want to give White:\n1). the a-File\n2). access to c7\n3). any chance of a Back Rank Mate (on me)",
+        "25. Rxa3 Rxa3 26. Rd1 g6": "I want to pull my Bishop back to g7 to allow my f-Pawn to support my e-Pawn.\nI'm hoping to then play e4; if White takes my Pawn I'll play Ra1 forcing an exchange of Rooks.",
+        "27. Kf1 Bg7 28. Ke2 f5 29. g3 Ra2+ 30. Kf3 Bh6 31. h4 Rd2 32. Rxd2 Bxd2": "Now I need to find a way to weaken White's Kingside Pawns...",
+        "33. Ke2 Bc3 34. f3 h6": "I want to exchange White's three Kingside Pawns for mine, then my King can break through without fear of White queening.\nAfter that I'll be able to push White away from his Queenside structure with trivial DSB moves.",
+        "35. Kf2 Kg7 36. g4 fxg4": "I'm assuming 37. fxg4\nI'd respond with h5; I don't mind whether White goes along with the further exchange or not: he'll have one or two Pawns on dark squares.\nMy position isn't good enough that it would be worth losing the Bishop for them though.\nMy DSB would be best used to force White to make King Moves that he won't like...",
+        "37. fxg4 h5": "I think I made a mistake here: if White plays g4 my King is blocked and I won't be able to unblock it without losing my DSB.",
+        "38. g5 Kf7": "I might have a chance if I push c6... but this looks extremely risky (at best).",
+        "39. Kg2 Be1": "I'm so dim! :(\nWhite can temporarily save h4 with 40. Kh3\nbut on his next move White will be forced to either abandon h4 to its fate or make a bad move with one of his Queenside Pawns",
+        "40. Kh3 Bf2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/unrated-fun?gm=57556",
+    "gameName": "unrated fun",
+    "players": "skiu (1297) vs. emphyrio1500 (1562)",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

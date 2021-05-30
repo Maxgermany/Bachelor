@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "My usual.",
+        "1... e5 2. d4": "Now here follows an ominous buildup to what I thought would be an epic battle in which I would be in the lead. ",
+        "2... f6 3. f4 Bd6 4. Nf3 Nc6": "The d-pawn must feel very threatened and yet protected at the same time.",
+        "5. Bb5 a6 6. Bxc6 dxc6": "My opponent thought a while before making this move... He must have been mourning the imminent loss of his d-pawn.",
+        "7. dxe5": "Here begins the Massacre of the King's Pawn.",
+        "7... fxe5 8. fxe5 Bd7": "?? Why not save his other Bishop? This just leads to a myriad of other problems.",
+        "9. exd6 cxd6 10. Qxd6 Nf6 11. Bg5": "Trading off a minor piece.",
+        "11... h6 12. Bxf6 gxf6 13. O-O Qe7 14. Qd4 O-O 15. Nh4": "Fork on g6.",
+        "15... Qf7": "He spotted it.",
+        "16. Nd2 f5 17. Rf2": "Taking on f5 would result in a Queen trade.",
+        "17... c5 18. Qe3 b5 19. Qg3+": "Here begins the beauty of the game.",
+        "19... Kh7 20. Raf1": "Battery.",
+        "20... Qe7 21. Qg6+ Kh8 22. Qxh6+ Qh7 23. Ng6+ Kg8 24. Qg5 fxe4 25. Nxf8+ Kh8 26. Ng6+": "I chose not to take the Queen multiple times, for aesthetic purposes.",
+        "26... Kg7 27. Rf2f7+ Kg8 28. Ne7+ Kh8 29. Rf7f8+": "Pi\u00e8ce de r\u00e9sistance.",
+        "29... Rxf8 30. Rxf8+ Qg8 31. Qh6#": "No Queen taken. I love this, and thoroughly enjoyed it! Please rate and comment."
+    },
+    "url": "https://gameknot.com/annotation.pl/d-pawn-war-keeping-queens?gm=38150",
+    "gameName": "D-pawn War/ Keeping Queens",
+    "players": "theancientbeast  vs. rodneytucker73 ",
+    "opening": "Centre game (C21)"
+}

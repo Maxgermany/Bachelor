@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "My favorite move because the pawn moves two spaces. Why does white go first and black second? Is chess racist?",
+        "1... d5": "Attacking my pawn.",
+        "2. exd5": "Why not capture?",
+        "2... Qxd5": "Black is clearly winning now because he controls all of the center and is more developed.",
+        "3. Nc3": "The game is now equal because we are both developed with one piece.",
+        "3... Qd8": "White now has forced checkmate coming up soon because he is better.",
+        "4. Bc4": "I have now developed my bishop.",
+        "4... Bd7": "This move is good for the bishop because it gives him more spaces to go.",
+        "5. Nf3": "My second pony has joined the battle",
+        "5... Bg4": "This bishop wastes time and makes white better because it now has less spaces to go and because white has forced checkmate with Ne5 Bxd1 Bxf7#. That is what would have happened if I let my opponent fall into that trap but I didn't.",
+        "6. h3": "The bishop needs to move from that square if it wants a future.",
+        "6... Bxf3": "White is still better even though he is down a pony and black's bishop can go to more places.",
+        "7. Qxf3": "White will now win because he has 15 points of development and black has 0.",
+        "7... f6": "Adding one to black's development and defending against checkmate.",
+        "8. Qxb7": "What is the air speed velocity of an unlaiden swallow?",
+        "8... Nd7": "The happy pony can now run to the center where he can have fun.",
+        "9. Qd5": "This move blocks the path to happiness.",
+        "9... Rb8": "Rb8 moving the rook to the right (or his left)",
+        "10. Qf7#": "The much delayed scholar's mate! I hope that this instructed game has made you a scholar too"
+    },
+    "url": "https://gameknot.com/annotation.pl/learn-to-be-a-scholar?gm=8902",
+    "gameName": "Learn to be a Scholar!",
+    "players": "romanlegionary (1509) vs. nogoodplayer (1425)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

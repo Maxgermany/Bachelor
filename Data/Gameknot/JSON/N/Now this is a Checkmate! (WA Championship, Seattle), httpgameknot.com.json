@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "A beautiful game by Ignacio Perez, from Cuba. This game was played in the 2007 WA State Chess Championship, which Perez eventually won!\r\n",
+        "1... d6 2. d4 Nf6 3. Nc3 g6 4. f3 c6 5. a4 Bg7 6. Be3 O-O 7. Qd2 e5 8. O-O-O Qa5 9. h4": "I love white's suicidal pawn! Wonderful attacks to black's king-side begin with this move.",
+        "9... h5": "Black doesn't like the idea, but...",
+        "10. g4": "...white sends another suicidal bomb!",
+        "10... hxg4": "white's soldier is dead, but black's position is opening.",
+        "11. h5": "Here goes the other one!",
+        "11... gxh5": "White is two pawns down but black's king-side is weakening...",
+        "12. dxe5 Qxe5 13. Bf4 Qa5 14. Bxd6 Rd8 15. e5": "elegant!",
+        "15... Ne8 16. Bd3 Nxd6 17. exd6 Na6": "Not 17...Rxd6, as 18.Bh7  would win black's rook.",
+        "18. Nge2": "White seems to be giving pawns away everywhere, but these are very subtle moves preparing for an eventual sudden assault.",
+        "18... gxf3 19. Nf4 Bg4 20. Rdg1": "Now that white's rooks are connected, they can freely move to properly position for an attack.",
+        "20... f2": "I would guess that black is deflecting white's queen, probably for a potential 21...Bxc3 or something...",
+        "21. Qxf2 Rxd6 22. Qg3 Qe5": "fishy...",
+        "23. Kb1": "Avoiding a possible pinning of the knight on f4 with Bh6\n",
+        "23... Nb4 24. Rge1 Qf6 25. Bh7+": "This is the beginning of a beautiful mating combination by Ignacio Perez.\n",
+        "25... Kf8 26. Rhf1 Qh6 27. Ng6+": "! when chess becomes art!\r\n",
+        "27... Rxg6": "Tal once said something like \"your opponent cannot take all your pieces at once, but one at a time!\".",
+        "28. Rxf7+": "!\n",
+        "28... Kxf7 29. Qc7+ Kf6 30. Qe5+ Kf7 31. Qe7#": "Beautiful game! Ignacio Perez was WA State Champion on 2007, and finished second in this year's (2008) WA State Championship, behind Grandmaster Gregory Serper.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/now-this-is-a-checkmate-wa-championship-seattle-http-gameknot-com?gm=18448",
+    "gameName": "Now this is a Checkmate! (WA Championship, Seattle), http://gameknot.com/",
+    "players": "Perez, Ignacio (2239) vs. Readey, John (2336)",
+    "opening": "Pirc defence (B07)"
+}

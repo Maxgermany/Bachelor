@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "A Scandi trap for the Boehnke gambit. Take a look and see the trap.",
+        "1... d5": "Scandinavian or Center Counter Defense",
+        "2. exd5 e5": "Boehnke Gambit",
+        "3. dxe6 e.p.": "Purposes of this move in my humble opinion:\r\n\r\n1.To gain tempo(black has to capture or be down 2 pawns in the opening\r\n2.Develop any piece after capture(w/c escapes logic for black has developed the bishop after recapture of the pawn)\r\n3.pressure on the efile at some future date \r\n\r\nSo how about some insight on the logic of this move? My brain has been fried already fot trying to determine..:-))",
+        "3... Bxe6": "recapturing the pawn and developing the QB at the same time.",
+        "4. Bb5+": "checking the king, developing the KB and preparing to castle.",
+        "4... c6": "unchecking and forcing the B to move thus gaining a tempo.",
+        "5. Ba4 Qe7": "preparing a quaint little trap for white which unfortunately he did not see.",
+        "6. Nf3": "preparing to castle but he did not see the trap set up.",
+        "6... Bc4+": "Discovered check and mate next move.  Lesson of this game is look for quaint little traps along the way, especially in the openings.\r\n\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/scandi-in-6-3-dxe6e-p?gm=8245",
+    "gameName": "Scandi in 6 (3.dxe6e.p.)",
+    "players": "ajf360 (1521) vs. hamis (1573)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

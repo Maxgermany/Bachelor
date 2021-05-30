@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 d5": "Scandinavian.",
+        "2. f3": "Black's alternatives are usually quite good when white moves this weak pawn.",
+        "2... e6": "Pdxe4 is the most popular response, though this too is good.  Pe6 might be even better, asserting greater control of the center.",
+        "3. e5 Qh4+": "Pulling the queen out early generally is not so great.  Against weak players it can be powerful, but strong players will chase her, developing their pieces while the queen moves over and over.",
+        "4. g3 Qd4": "Nice potential.",
+        "5. d3 Qxe5+": "Good move.",
+        "6. Ne2 d4 7. f4 Qd5 8. Rg1 e5 9. Bg2 Bb4+": "This was not a wise idea.  The reason is that white can block the check by interposing a pawn.  Black must move the queen out of danger, meaning the bishop falls to the blocking pawn (Pc3).\n",
+        "10. c3": "So now black has not real counter threat and must choose which piece to sacrifice, the bishop or the queen.",
+        "10... Be7": "Black does not choose wisely.",
+        "11. Bxd5 Bg4": "Oh no--Pb7 is undefended, meaning white will now take a pawn and rook essentially for free.",
+        "12. Bxb7 Bxe2": "When behind, trading pieces is best avoided if it confers no positional advantage.  Black really does not want the white queen threatening the undefended pawn at e5.  The bishop was better off simply pinning the knight, though Qa4+ would have freed it easy enough.",
+        "13. Qxe2 dxc3 14. Bxa8": "The rook wasn't going anywhere, white could have dealt with pawns first.  NOT QxPe5, which would have let the rook escape with Nd7, though.",
+        "14... Bc5": "While this looks like a decent counter threat, white will want to play QxPe5+, and pick off Bc5.  Black will have to interpose the bishop, letting white play QxPc7.",
+        "15. Qxe5+ Ne7": "Uh, no.  Be7 would block the check even better, given that QxBc5 changes black's material disadvantage from -14 to -17.  -18, since black will also lose either Pc7 or Pa7.",
+        "16. Qxc5 a6 17. Qxc7 Nd7 18. Be4 cxb2 19. Bxb2 h5 20. Qa7": "Black will need to play Kd8 to protect the remaining rook from the queen.  Nc8 might also work.  Either way black will probably play BxPg7.  But the pawn will prove cheaper than the rook.",
+        "20... f6 21. Qa8+ Nc8": "Kind of late for a rook rescue.  This sacrifice gives white both the knight and rook.",
+        "22. Qxc8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=60715",
+    "gameName": "Team match",
+    "players": "efar (995) vs. nevhelp (974)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

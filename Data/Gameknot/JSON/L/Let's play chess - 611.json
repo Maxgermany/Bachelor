@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5": "Queen's pawn game",
+        "2. e3 c5": "Here black prefered a variation of the Queen's gambit rather than Nf6",
+        "3. c3 Nc6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. dxc5": "The gambit was finally accepted",
+        "6... e5": "black are trying to control the center",
+        "7. Nf3 e4 8. O-O": "perhaps white didnt notice the pawn which is attacking the knight",
+        "8... Bxc5": "apparently a strange move, but it is aiming for positional advantage",
+        "9. Nd4 Nf6 10. Nxc6": "King's knight for a bad bishop... excellent trade for black",
+        "10... bxc6 11. b4 Bd6 12. Bd2 O-O 13. Qa4 Qc7": "a move that both defends the pawn and prepares an attack on h2",
+        "14. f3": "white didn't see the attack and prepared to develop the rook.\n",
+        "14... Bxh2+ 15. Kf2 Qg3+ 16. Ke2 Qxg2+ 17. Ke1 Bg3+": "the rook is captured with tempo",
+        "18. Kd1 Qxf1+ 19. Kc2 exf3 20. Qxc6 Be1 21. Qd6": "useless move... and a trade that prepares the black knight to fork the king and the queen",
+        "21... Bxd2 22. Kxd2 Ne4+ 23. Kc2 Nxd6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=32423",
+    "gameName": "Let's play chess",
+    "players": "dolphingrf33 (1030) vs. crinel (1400)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

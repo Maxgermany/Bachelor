@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bg5 h6": "A waste of a tempo.",
+        "3. Bxf6 exf6 4. e4 Bb4+": "Another silly move.",
+        "5. c3 Ba5 6. Bc4": "Threatening Qh5 which will fork f7 and the Bishop on a5.",
+        "6... Qe7 7. Qh5": "Qxe4  8.Ne2 Black has no answer to Qf7  or Qxa5",
+        "7... Nc6 8. Nd2 g6 9. Qf3 d6 10. Ne2 Be6 11. d5": "Better is Bb5",
+        "11... Ne5": "I missed this counter-attack.",
+        "12. Qg3 Bd7 13. O-O g5 14. f4 Bb6+ 15. Nd4 O-O-O 16. Kh1 Nxc4 17. Nxc4 Bxd4 18. cxd4 Qxe4 19. Rac1": "Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King.",
+        "19... Qxd4 20. Nxd6+ Kb8 21. Nxf7": "Fork.",
+        "21... Qxb2 22. Nxd8": "Excellent move the after the recapture by the rook will find itself on a weak square.",
+        "22... Rxd8 23. fxg5": "Black has to allow a protected passed pawn on f6.",
+        "23... fxg5": "losing.",
+        "24. Qxc7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/trompowsky?gm=7162",
+    "gameName": "Trompowsky",
+    "players": "materialkiller (1417) vs. stanik_matyas (1335)",
+    "opening": "Trompovsky attack (Ruth, Opovcensky opening) (A45)"
+}

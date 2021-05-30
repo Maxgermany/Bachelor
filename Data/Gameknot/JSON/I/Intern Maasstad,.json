@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. Nc3 h6 5. h3 Nf6 6. d3 Be7 7. a3": "laatste zet uit boek\n",
+        "7... Bd7 8. Be3 a6": "Zekert b5\n",
+        "9. Qd2 Qc8 10. Bd5 Na7 11. d4 exd4 12. Bxd4": "Alternative variation: [Niet] 12. Qxd4 Nb5 13. Nxb5 axb5 en zwart staat iets beter.",
+        "12... Be6": "Alternative variation: Niet 12.Qxd4 Nb5 13.Nxb5 axb5  ",
+        "13. Bxa7": "[12...Pb5 is [de kritieke voortzetting.]\r\n",
+        "13... Rxa7 14. Qe3": "Alternative variation: 14. Bxe6 fxe6 15. e5 dxe5 16. Nxe5 O-O en wit staat beter",
+        "14... Ra8 15. Bxe6 Qxe6 16. Nd4 Qd7 17. O-O": "Alternative variation: 17. O-O-O O-O $16\n",
+        "17... c6": "Alternative variation: 17 0-0-0- O-O  is beter voor wit",
+        "18. e5": "Alternative variation: na 18. Rad1 Qc7 19. Nf5 staat wit op winst",
+        "18... dxe5 19. Qxe5 O-O 20. Rfe1": "Alternative variation: 20. Nf5 [Is beter.] Rfe8 21. Rad1",
+        "20... Rae8 21. Nf5": "Alternative variation: 21. Qf4 [Is sterker.] Nh5 22. Qd2  \r\n",
+        "21... Bxa3": "Ontdekte aanval: e7, e8-e5\r\n21... Bxa3! 0-1 22. Nxh6+ Kh8 kan nog worden geprobeerd... [Noot van de webmaster...wel wat vroeg opgegeven hoor!]\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/intern-maasstad?gm=36750",
+    "gameName": "Intern Maasstad, ?",
+    "players": "Wim de Heer (1471) vs. Marco Zwanenburg (1422)",
+    "opening": "King's pawn game (C50)"
+}

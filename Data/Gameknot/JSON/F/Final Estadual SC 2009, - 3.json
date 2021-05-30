@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. g3 dxc4": "Um experimento. Fazia um tempo a Catal\u00e3 vinha me causando problemas dif\u00edceis de resolver.\n",
+        "5. Qc2 Bd7 6. Bg2 Bb4+": "Mais forte \u00e9 6...Bc6 ou 6...c5!?\n",
+        "7. Bd2 Be7 8. O-O Bc6 9. Qxc4 Bd5 10. Qc2 Be4": "Melhor \u00e9 10...Cc6 (desenvolvendo uma pe\u00e7a!). \u00c9 impressionante o n\u00famero de vezes que lances f\u00e1ceis e efetivos fogem da nossa percep\u00e7\u00e3o enquanto complicamos coisas simples.\n",
+        "11. Qa4+ Qd7 12. Nc3 Qxa4 13. Nxa4 Nbd7 14. Rfc1 Bc6": "Uma forma\u00e7\u00e3o conveniente, mas me incomodava a falta de contra-jogo e a constante aten\u00e7\u00e3o que o preto precisa ter sobre as possibilidades de o branco \"montar\" a posi\u00e7\u00e3o.\n",
+        "15. Nc3 Rd8 16. a4 a6": "Deixando passar 16...Cc5! O emprego da t\u00e1tica para resolver problemas estrat\u00e9gicos \u00e9 uma habilidade dif\u00edcil de dominar, mas necess\u00e1ria quando nos metemos em posi\u00e7\u00f5es apertadas.\n",
+        "17. Bf4 Bd6": "N\u00e3o era o lance que eu esperava ter de fazer nessa posi\u00e7\u00e3o, mas no final acabou me parecendo o menos pior. Mais uma vez estava numa posi\u00e7\u00e3o normal, mas me sentindo muito, muito inferior.\n",
+        "18. e3 O-O 19. a5 Nd5 20. Nxd5 Bxd5 21. Bxd6 cxd6 22. Rc7": "Algo precipitado... me deixa um pouco mais contente com a minha posi\u00e7\u00e3o, embora n\u00e3o muito.\n",
+        "22... Bc6 23. Nd2 Rdc8 24. Rxc8 Rxc8 25. Rc1 Kf8": "Agora eu finalmente comecei a me sentir mais seguro, e de fato a posi\u00e7\u00e3o melhorou um pouco pra mim - est\u00e1 praticamente igualada.\n",
+        "26. f4 Nf6 27. Rc3 Ke7 28. h3 Kd8": "Come\u00e7ando a perder a linha que eu havia acabado de encontrar. Aqui mais uma vez era preciso fazer um lance dif\u00edcil: 28...Cd5 seguido de ed5!! Analisando bem as posi\u00e7\u00f5es resultantes, parece que esse \u00e9 mesmo o melhor caminho pra segurar as pontas, mas sei da minha dificuldade para aceitar posi\u00e7\u00f5es pouco ortodoxas - n\u00e3o podendo ver todas as variantes, certamente n\u00e3o jogaria isso.\n",
+        "29. e4 d5 30. e5 Ne4": "Perdendo a paci\u00eancia, acreditando em algumas variantes taticamente favor\u00e1veis. Erro comum de se cometer em posi\u00e7\u00f5es dif\u00edceis, defender \u00e9 bastante cansativo. Agora, se o branco evita as armadilhas (bobas, diga-se de passagem), a posi\u00e7\u00e3o \u00e9 muito f\u00e1cil de jogar.\n",
+        "31. Bxe4 dxe4 32. Kf2 f5 33. exf6 e.p. gxf6 34. Ke3 f5 35. g4 Bd5": "Erro decisivo. Mater as torres daria mais chances de empatar ou mesmo oferecer resist\u00eancia. O bispo \u00e9 muito inferior ao cavalo.\n",
+        "36. g5 Rxc3+ 37. bxc3 Ba2 38. h4 Ke7 39. h5 h6 40. g6 Kf6 41. Kf2 Kg7 42. Ke1 Kf6 43. Nf1": "O branco encontra o plano.\n",
+        "43... Bb3 44. Ne3 Ba2 45. Kd2 Bb3 46. c4 Ba4 47. Kc3 Be8 48. Kd2 Ba4 49. d5 exd5 50. cxd5 Bb5 51. Nxf5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/final-estadual-sc-2009?gm=30619",
+    "gameName": "Final Estadual SC 2009, ?",
+    "players": "Pereira, Geanfrancesco (1962) vs. Brandao, Daniel (2049)",
+    "opening": "Reti opening (A05)"
+}

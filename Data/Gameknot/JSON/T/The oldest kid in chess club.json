@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "kings pawn opening",
+        "1... c5": "Sicilian defence",
+        "2. Nf3 a6 3. d4 cxd4 4. Nxd4": "trade\nI also thought it might give the knight more centre control",
+        "4... e6 5. Nc3": "Develop",
+        "5... e5 6. Nf3 d6 7. Ng5 Be7": "best move I think",
+        "8. Bc4 Bxg5 9. Bxg5": "trade",
+        "9... Qxg5 10. Qxd6 Qxg2 11. O-O-O Nc6 12. h3 Qxf2 13. Nd5 Nge7": "I would have gone for qe3",
+        "14. Nc7+": "fork",
+        "14... Kf8 15. Qd8+ Nxd8": "forced",
+        "16. Rxd8#": "mate\n\nCan you believe it? I beat the oldest kid!\nApparently he was never as good as the other kids his age.\nBut its nice to know I can beat a 14 year old.\n\nWhat did you think? I think I played better than any of my other annotated games\nThanks for viewing"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-oldest-kid-in-chess-club?gm=50400",
+    "gameName": "The oldest kid in chess club",
+    "players": "Me (white) vs. 14 year old (black)",
+    "opening": "Sicilian (B28), O'Kelly variation"
+}

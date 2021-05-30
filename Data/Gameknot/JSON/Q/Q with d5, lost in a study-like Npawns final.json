@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Esempio di un finale di cavalli e pedoni, quasi da studio, che non so analizzare bene e tuttora non so se potevo fare patta. Example of a Knight and pawns final that I couldn't manage accurately. I still don't know if I could have reached drawn or not. ",
+        "1... Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. h3 O-O 9. Be2 a6 10. a4 Nbd7 11. Bf4 Qc7": "Ho perso imperdonabilmente un tempo con l'alfiere bianco. Forse potevo essere coerente con b3, ma lasciavo la diagonale aperta all'alfiere nero, e questo mi \ufffd sembrato troppo pericoloso. ",
+        "12. Bc4 Re8 13. Qc2 Nh5 14. Bh2 Ne5 15. Nxe5 Bxe5 16. g4 Nf6 17. Bxe5 Rxe5 18. f4 Re8 19. O-O-O Bd7 20. f5 b5 21. g5 Nh5": "Ecco. Non so capire se \ufffd meglio a4xb5 o Ae2.",
+        "22. axb5 axb5 23. Bxb5 Bxb5 24. Nxb5 Ra1+ 25. Kd2 Qa5+ 26. Nc3 Rxd1+ 27. Rxd1 gxf5 28. exf5 Nf4 29. Re1 Rxe1 30. Kxe1 Nxh3": "E siamo arrivati a una certa stabilit\ufffd.",
+        "31. Qg2 Qa1+ 32. Nd1 Qa5+ 33. Kf1 Qb5+ 34. Ke1 Nf4 35. Qe4": "Adesso, passata la \"tempesta\", il mio schema di pedoni \ufffd pi\ufffd debole di quello delle nere, cosa che mi coster\ufffd la partita. Un peccato, ma difficile da prevedere sin d'ora. ",
+        "35... Qb4+ 36. Qxb4 cxb4 37. Ne3 Nd3+ 38. Kd2": "Niente paura, recupero il pedone. ",
+        "38... Nxb2 39. Kc2 Na4 40. Kb3 Nc5+ 41. Kxb4 Kf8": "Incredibile, lui ha i pedoni separati, eppure io non ho modo di difendere il pedone in g! Che lezione di finale.",
+        "42. f6 Ne4 43. Nf5 Ke8 44. Kc4 Kd7": "E qui perdo il pedone in g. Quindi, non mi \ufffd restato altro da fare che cercare di complicare un po' le cose. ",
+        "45. g6 hxg6 46. Nh6 Nxf6 47. Nxf7 Nh7": "E adesso c'\ufffd una bellissima lotta per fermare il pedone nero.",
+        "48. Nh6 g5 49. Ng4 Ke7 50. Ne3 Nf6 51. Kb5 Kd7 52. Kc4": "Forse un errore. Dovevo cercare comunque i conquistare c6 per il mio re. Queste posizioni sono un po' al di l\ufffd della mia capacit\ufffd di analisi. ",
+        "52... g4 53. Kd3 Kc7 54. Kd4 g3 55. Kc4 Ng4 56. Ng2 Kb6 57. Kb4 Ne5 58. Kc3": "Errore. Dovevo tenere duro con Cf4.",
+        "58... Kc5 59. Nf4 Ng6 60. Nd3+ Kxd5 61. Ne1 Nf4 62. Kd2 Ke4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/q-with-d5-lost-in-a-study-like-n-pawns-final?gm=19367",
+    "gameName": "Q with d5, lost in a study-like N/pawns final",
+    "players": "damalfi (1695) vs. tzafondakota (1748)",
+    "opening": "Queen's pawn game (A46)"
+}

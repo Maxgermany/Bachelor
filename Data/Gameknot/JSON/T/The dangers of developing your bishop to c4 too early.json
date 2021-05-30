@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "In this game my opponent resigns in just 11 moves. The fault is with playing Bc4 too early and not doing enough to protect it.  In so doing black, gains time and space by attacking the bishop in a very common strategic idea. I annotate this short game because it is a value lesson in perils of playing Bc4 before black has committed himself in the middle. ",
+        "1... g6": "In my games, everything is played with the purpose of controlling the centre. Even 1...g6 has this in mind since 2...Bg7 is to follow influencing e5 and d4. \n",
+        "2. Bc4": "White develops a piece and adds more influence on d5. However, it is advisable to wait 2 or 3 moves before developing the bishops since c4 can be easily attacked with tempo via e6 and d5 or a6 and b5. \n",
+        "2... Bg7": "This is the best square for this bishop since I plan to attack the c4-bishop with ...e6-d5 and ...a6-b5.  \n",
+        "3. Nc3": "A very fine move. \n",
+        "3... c5": "With 3...c5 black gives up d5 to white for control of d5. Also 3...c5 makes it much harder for white to develop his DSB and prevents d2-d4. \n",
+        "4. Qf3": "This premature queen move has it's pluses. #1 it forces black to deal with an immediate threat which is a good way to play chess. Second, it adds strength to d5 which can be a great launch pad for an attack later for white. Also, white can perhaps later try h2-h4-h5 later on. On the downside it deprives the knight it's ideal developing square and the attack on ...f7 is well covered by black. \n",
+        "4... e6": "4...e6!? this move kinda is the point of why white usually does not develop the bishop to c4 too early. Now after 4...e6 the bishop is seriously limited and black is almost threatening d7-d5! with force. So white is now forced to create an escape route for his LSB. This is usually done via a3\n",
+        "5. Nge2 Nc6": "Developing the knight and also threatening Ne5 with the fork. Which is another reason why Bc4 can be bad. Black often can gain time and space by attacking the c4-bishop via e5 or b6. \n",
+        "6. Qg3": "White dodges the fork but now the queen is sitting on g3 where the knight on e2 would ideally want to go. \n",
+        "6... Nf6": "Black continues to get his pieces out and resists the temptation of attacking too soon. The ill-timed 6...Ne5?! allows white to dodge the bullet with Bb3 or Bd3. \n",
+        "7. f3": "?? this is a serious mistake which unnecessarily weakens his king position. Instead, 7.d3\nAlternative variation: 7. d3 d5 8. Bb5\n",
+        "7... O-O": "Timing is everything in chess and playing ...d5 to early can lead to disaster. I do plan to play ...d5 but first I have to ensure king safety. So castle before you attack in the center. \n",
+        "8. O-O": "?\nI am sure that white feels that he is safe but he can not be more wrong. White has done very little to protect his c4-bishop and now he has left it out to dry. \n",
+        "8... d5": "!\nwins the game. Now the bishop has no where to go\n",
+        "9. exd5 exd5 10. Bb5": "Like all well planned attacks it makes no difference what your opponent does. \n",
+        "10... Ne7": "defending d5 and threatening Nf5 attacking the queen. \n",
+        "11. Nf4": "Alternative variation: 11. Ba4 a6 12. d4 b5\n",
+        "11... c4": "entombs the bishop but more importantly clears the a7-g1 diagonal for the possible ...Qb6+\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-dangers-of-developing-your-bishop-to-c4-too-early?gm=50030",
+    "gameName": "The dangers of developing your bishop to c4 too early",
+    "players": "ssakom (1662) vs. elyhim (2342)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

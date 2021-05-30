@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "French Defense, wing gambit [C02]\nThe combination in this game is reminiscent of the great Polish Immortal game Glucksberg vs. Najdorf (which I have also annotated here).\nThe Bxh7 \"Greek Gift\" sacrifice was first described by Greco in the 1600's (?), and the Bg8 sacrifice was inspired by Glucksberg-Najdorf.\nIf you become familiar with the standard sacrifices and checkmate themes, you can recognize the same patterns and apply them in your own games, as I did here.",
+        "1... e6 2. d4 d5 3. e5 c5 4. b4": "This gambit was taught to me by Filipp Frenkel, and should be named after him, although he says he didn't invent it.",
+        "4... cxb4": "4...cxd4 is the main line, and I shall endeavor to provide some examples.\nAlso possible are 4...b6 and 4...Nc6.\nWith 4...cxb4, Black obtains an outside passed a-pawn with the rook behind it: a powerful force in the endgame, but before the endgame, the gods have placed the middlegame! [Tarrasch]\nAt the cost of this pawn, White will enjoy a secure c3-d4-e5 pawn chain and prospects of a kingside attack.",
+        "5. a3 Nc6": "This position could also arise from the Sicilian Wing Gambit.\n5...bxa3 is the main alternative, but the black pawn cannot be held forever.",
+        "6. axb4 Bxb4+ 7. c3 Ba5": "7...Bf8 is the alternative line.\n7...Be7 shuts in black's knight on g8.\nWith 7...Ba5 black aims to prevent White from developing with the natural Bd3, due to the pin on the c3-pawn.",
+        "8. f4": "Filipp Frenkel preferred 8.h4.",
+        "8... f6 9. Nf3 fxe5 10. fxe5 Nge7 11. Bd3 Nf5": "My opponent was about to play 11 ...O-O, but noticed at the last second what is wrong with that move.",
+        "12. O-O O-O 13. Ba3": "A strong diagonal for my dark-squared bishop. I didn't notice the e3-square is now inviting a knight fork because ... this was a blitz game. I fear that in a longer time control I would have been too cautious and missed the opportunity.",
+        "13... Nce7": "? \nBlack must already give up material, at least the exchange\n13...Ne3 14.Bxh7+ Kh8 15.Qd3 Nxf1 16.Bxf8! Qxf8 17. Bg6!! Qf4!! is unclear (the greedy 17...Nxh2 is refuted by 18.Nxh2 Qf4 19.Nd2 Bd7 20.Rf1 Nxe5 21.dxe5 Bb6+ 22.Kh1 Qe3 23. Nb3 with a winning endgame (knight for two pawns)",
+        "14. g4": "Missing the simple 14. Bxf5, winning either the exchange (rook on f8 for dark-squared bishop) or the loose bishop on a5 (the black queen is overloaded and must guard both the e7-knight and a5-bishop).\nI understood that my bishops were good pieces and didn't want to exchange them.",
+        "14... Ne3": "This was a blitz game and I had overlooked this move. At this stage both players had 3 or 4 minutes left on the clock, but I became too hesitant and wasted almost all of my remaining time on the clock here and in the next few moves. When this game was played I had not learned that blitz chess is not the same game as chess.",
+        "15. Bxh7+": "!",
+        "15... Kh8": "Better is 15...Kxh7! 16.Qd3+ Ng6 (the only move) 17.Bc1!! Qe8! 18. Bxe3 and white is only somewhat better. I can't say that I foresaw this position.",
+        "16. Qd3 Nxf1 17. Ng5": "! A difficult move for a materialist like me to play.",
+        "17... g6": "Black prepares a hiding spot for his king, but this is the losing move.\n17...Nf5! was discovered 10 years later by Fred Kleist. 18.Bxf5 is forced, them 18...Qxg5 19.Qh3 (forced) Qh6 20. Qxh6+ (forced) gxh6 21. Bxf8 exf5 22.Rxa5 Ne3 23. Bxh6 (all of white's moves are still forced) 23...b6!! and the endgame is still unclear.",
+        "18. Qh3": "!\nBy this time I had only a few seconds left on my clock, but I had seen the forced mate that comes ahead. The only question is whether my flag would have fallen first.",
+        "18... Kg7": "18...Rf3!! would have surely delayed the end long enough for black to win on time.",
+        "19. Bg8": "!!\nHere Black thought for 2 minutes, then paid me the compliment of resigning, even though he still had 1 minute vs. a few seconds.\nThe finish is 19.Rf4 20. Qh7+ Kf8 21. Bf7 Rxg4+ 22. Kxf1 Rf4+ 23.Kg1 Rg4+ 24. Kh1 Rg1+ 25. Kxg1 (...any move) 26. Qh8 mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/greco-sacrifice?gm=14815",
+    "gameName": "Greco Sacrifice",
+    "players": "swarmoflocusts (1700) vs. Yates-Doerr (2111)",
+    "opening": "French (C02), advance, Steinitz variation"
+}

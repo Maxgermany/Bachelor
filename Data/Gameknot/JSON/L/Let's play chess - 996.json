@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Bc4": "Differs from my usual d4.",
+        "3... Nc6 4. O-O Nf6": "The last book move in the Sicilian: 2..d6",
+        "5. Nc3 Bg4 6. h3 Bh5 7. Re1 e6": "This move consolidates d5 and gives black a strong center.",
+        "8. g4": "the obvious threat on the Bishop. This move was debated for awhile as it opens my king side, however I thought it could be the start of a pawn rush if i saw fit in the future development of the game but before that i would have to reinforce the kingside.",
+        "8... Bg6 9. Bb5": "Analysing this position 9. d4, cxd4 10. Nxd4, Nxd4 11.Qxd4 was better for white.",
+        "9... Be7 10. d4 cxd4 11. Nxd4 Qc7 12. Nxc6": "This isn't a bad move IMO but consideration, on my part, should have been given to 12. f4, d5 then 13.e5 maybe.",
+        "12... bxc6 13. Bf1 O-O": "I decided to go for the pawn rush after my opponent castled. felt i had enough ammo to make a decent attack and cause my opponent some problems as he does have a rather cramped position.",
+        "14. Bg2 Rab8 15. g5": "The pawn rush.",
+        "15... Nd7 16. h4 f6 17. h5 Bf7 18. g6 hxg6 19. hxg6 Bxg6 20. Qg4 Kf7": "Best move.",
+        "21. Bh3": "Attacking e6 and trying to cause black problems. In my first note i said i thought i had my opponent strained, however if black plays 21..., Ne5 he has and excellent counterattacking position. Black now has the advantage!",
+        "21... f5": "This now throws away the initiative and hands it back to white. (several switches of power in this game already, which is one reason for the annotation. ",
+        "22. exf5 Bxf5 23. Qh5+ Kg8 24. Rxe6": "Now white has an active position and slight initiative. This also could work out as Bxe6, Bxe6 , Rf7, Qxf7 ....",
+        "24... Bxh3 25. Rxe7 Nf6 26. Rxc7 Nxh5 27. Rxc6 Rb4 28. f4": "28. Rxd6 is disastrous for white. Rg4  29. Kh1, Rf2 from here black should lead white into checkmate.",
+        "28... Nxf4 29. a3 Rb7": "29. ..., Ne2  30. NXe2, Rg4  31. Kh2, Rf3 perhaps this is one route black should have looked into?",
+        "30. Kh2 Bd7 31. Rxd6 g5 32. Ne4": "Threatening pawn and numerous beneficial forks c5, f6",
+        "32... Bf5": "Best move retains material after Nxg5",
+        "33. Nxg5 Bxc2 34. Be3 Rxb2 35. Bd4": "Was hoping for Rb7, 36. Rc1, then if Bishop comes off b1-h7 diagonal white plays 37. Rh6 which will win the game for white.",
+        "35... Rb1": "Well spotted from black.",
+        "36. Rxb1 Bxb1 37. Bxa7": "I now have a loan pawn however king is too far away from pawn and with some clever play by black a draw should not be to hard to come by.",
+        "37... Rf5": "From here on out there is not that much happens in terms of excitement, and could have been drawn here however I was a pawn up so continued but i dont think it was worth it. Your comments would be appreciated if you think otherwise!",
+        "38. Rd8+ Kg7 39. Be3 Kf6 40. Rb8 Bd3 41. Bxf4 Rxf4 42. Nh3 Ra4 43. Rb3 Bc2 44. Rc3": "Draw. I think this was the right thing to do due to the position of whites king and as my opponent had a high rating I was happy with the draw. I would appreciate feedback if you have any as well as questions and if I can I will try to answer them the best I can.\r\n\r\nDavid."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=14406",
+    "gameName": "Let's play chess",
+    "players": "klondyke (1701) vs. snoopy (2011)",
+    "opening": "Sicilian (B50)"
+}

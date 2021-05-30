@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O": "A very common variation of the Nimzo-Indian defense. The most popular line here involves White playing for the two bishops with 5.a3 Bxc3+ 6.Qxc3, keeping the pawn structure intact, where Black normally prefers 6...b6 to develop the queenside bishop to the long diagonal. I normally prefer the gambit line 6...b5!? 7.cxb5 c6, with lightsquare play for the pawn.",
+        "5. e3 c5": "Normally Black plays 5...b6 after e3 here, with the idea that White has failed to take control of central light squares so Black should try to take advantage of this. Of course, my theoretical knowledge is deficient given that I only recently started studying the Nimzo-Indian. 5...d5 also leads to a common position although the normal move order there is 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.e3 O-O. Since I don't play 4...d5, of course I wouldn't play 5...d5 here.",
+        "6. a3 Bxc3+ 7. Qxc3 Ne4": "A fairly standard maneuver...Black wants to occupy the central light squares with his knight and pawns, so Ne4 allows d5 and f5.",
+        "8. Qc2 d5": "8...f5 is probably more accurate. If White takes the c5 pawn there, Black does best to play a5, preventing b4, before playing to recover the pawn.",
+        "9. dxc5 Nxc5": "Actually not what I had in mind... 9...a5 is clearly a better move.",
+        "10. b4 Ne4 11. Nf3 b6 12. Bd3 f5": "Black's plan of blocking the center like this is not terribly convincing. White could try to take advantage of this with the immediate 13.cxd5, after which 13...exd5 leaves too many holes and 13...Qxd5 14.Bc4 should be advantageous for White.",
+        "13. O-O": "Of course, this is okay too.",
+        "13... Bb7 14. Bb2 Nd7 15. Nd4 Qe7 16. cxd5 Bxd5 17. f3 Nef6": "A dubious move...much better was 17...Nd6 where White has only a slight advantage.",
+        "18. e4 fxe4 19. fxe4 Rac8": "Necessary. Otherwise, after 19...Bb7, White wins the e6 pawn with 20.Qb3.",
+        "20. Qe2 Ba8 21. e5": "21.e5! is a very strong move, leading to a forced clear advantage for White. However, 21.Bc4 is also very strong, it's unclear which move is better.",
+        "21... Nd5 22. Qh5 Rxf1+ 23. Rxf1 Nf8": "The only defense... if 23...g6 White wins with 24.Bxg6!.",
+        "24. Qh3": "Perhaps stronger is 24.Rxf8+ Kxf8 25.Qxh7 with a clear advantage to White, who plans 26.Nxe6+ and 27.Bf5, winning back the Exchange.",
+        "24... g6 25. Nb5 Qg5": "Preventing Qg3, and eyeing the d2 square.",
+        "26. Nd6 Nf4": "Practically forcing Rxf4, which is actually good for White anyway. But I don't see anything better. Of course, 27.Qg3 is also possible, with advantage to White.",
+        "27. Rxf4 Qxf4 28. Nxc8 Qd2 29. Ne7+": "After this error, White should only have a draw. 29.Bf1 Qxb2 30.Qe3 was indicated, where White can keep his advantage.",
+        "29... Kg7 30. Bf1 Qxb2 31. Qe3 Nd7 32. Nc8 Nxe5 33. Nxa7 Ng4 34. Qxb6": "The losing move. After this move, Black's mate threats become unbearably strong. 34.Qf4 was completely forced, after which Black can try something like 34...Bf3!? (gxf3 loses to Qf2+ and Qxf1 mate, Qxf3 loses to Qd4+ followed by Nf2+) or a more subtle move like Qxa3 with equal chances.",
+        "34... Qe5 35. g3": "This forces White to give up his queen to avoid mate, but it's hard to find a recommendation for White here.",
+        "35... Qd5 36. Qc7+ Kh6 37. Qc1+ g5 38. h4 Qh1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=31028",
+    "gameName": "Let's play chess",
+    "players": "onny555 (1770) vs. nezeru (1916)",
+    "opening": "Nimzo-Indian (E32), classical, Adorjan gambit"
+}

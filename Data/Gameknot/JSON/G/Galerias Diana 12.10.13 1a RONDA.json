@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Clasica cuando tienes temperamento",
+        "1... e5 2. Nf3 Nc6 3. d4": "Gambito Escoses",
+        "3... exd4": "gambito aceptado, no hay muchas opciones!!\n",
+        "4. Bc4": "mas romanticismo",
+        "4... Be7 5. O-O": "Primero protego ... y luego ataco.",
+        "5... d6": "evitando e5 y preparando Ag4",
+        "6. Nxd4": "evitando complicacioones",
+        "6... Nf6": "Todo dentro de lo normal",
+        "7. Nc3 Nxd4": "Era mejor enrroque y jugar con minima ventaja blanca",
+        "8. Qxd4": "Dama centralizada y caballo de c6 eliminado Bien",
+        "8... Be6": "otro tiempo importante... pero rescatable aun",
+        "9. Bg5": "Esta jugada es Para despejar la primera linea y tratar de conquistar las columnas centrales para mis torres y en un futuro cuando se mueva el caballo de f6 se jugaria 1.Axe7, Dxe7 2.-Cd5.. y poder mantener ahi una  pieza centralizada.",
+        "9... a6": "supongo que pretendiendo ganar espacio con b5 para un futuro cambio de piezas y llegar con peones avanzados o talvez planeando enrroque largo, el cual para nada era conveniente a las negras.",
+        "10. Rad1": "comienza la presion sobre las lineas centrales",
+        "10... O-O": "ya se hacia donde dirigirme.",
+        "11. f4": "y el Clasico Ataque Ingles.",
+        "11... Ng4": "Comienza el cambio de piezas pero la mala colocacion de las torres, los peones de e4 y f4 dan ventaja a las blancas",
+        "12. Bxe7 Qxe7 13. Be2": "evitando cambios innecesarios y preguntando al negro que piensa hacer con ese caballo.",
+        "13... Nf6": "a Dh4 se contestaba con 2.- h3, Cf6 3.-f5 no hay muchas casillas buenas para el alfil de e6",
+        "14. e5": "intentando ganar mas tiempo y aprovechar la ventaja de espacio.",
+        "14... dxe5 15. fxe5 Rfd8": "??, Error que define la partida.",
+        "16. exf6 Rxd4 17. fxe7": "El peon corona o se pierde una pieza mas. 1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/galerias-diana-12-10-13-1a-ronda?gm=52364",
+    "gameName": "Galerias Diana 12.10.13 1a RONDA",
+    "players": "Entenza  vs. 1a ronda ",
+    "opening": "Scotch gambit (C44), Benima defence"
+}

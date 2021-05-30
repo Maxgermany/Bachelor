@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "A wild, wild game with horrible moves by both sides... but funny, I think. ",
+        "1... c6 2. Bf4 g6 3. c3 Bg7 4. e4 b5": "An interesting option for black is this quick attack. But it is advisable to have the bishop on the f8 square...",
+        "5. g3": "Trying a different approach to the opening, not usual for me. The idea is to take advantage of the diagonal, but is a double edged fight that probably would have costed me the game in an expert's hand. ",
+        "5... d6": "Black favours my plan by weakening c6. On the other side, if he wants to untangle his pieces he should be fighting to be safely able to play c5. ",
+        "6. a4": "I should have stuck to my plan, with Bg2, but...",
+        "6... a6 7. a5": "axb5 was better, but note that I am not still able to secure my dominion of the white diag. So I made a solid outpost for a piece in b6...",
+        "7... Nf6 8. Bg2 O-O 9. Nd2": "Black is unsure about how to develop. ",
+        "9... Re8": "But now he has a plan: e5. ",
+        "10. e5": "So I prevent it by playing myself to e5. I have the power to to this. ",
+        "10... Nd5 11. Bxd5": "I sacrifice the good bishop, but the diag will be closed to his bishop, too. Black's worst enemy is his own e7 pawn. ",
+        "11... cxd5 12. Qf3 dxe5 13. Be3": "I prefer to exchange here and keep the diagonal closed. My king has to castle, and I want it kingside. So it is not wise to overopen the game. ",
+        "13... exd4 14. Bxd4 e5": "Good by black. Now I am in little trouble. Fortunately (would you have said that?) my outpost is excellent...",
+        "15. Bb6 e4 16. Qe3": "Simply. This turned out to be more complicated for me than foreseen, due to my unwise moves. ",
+        "16... Qd6 17. Bc5 Qc6 18. Ne2": "A scaring position. ",
+        "18... Nd7 19. Nd4": "My secret weapon. ",
+        "19... Bxd4 20. Bxd4": "Solid as a rock! And with a mate threat almost done! Et voil\u00e0!",
+        "20... Re6": "Black sees it. ",
+        "21. Qh6": "Anyway. ",
+        "21... Nf6 22. O-O": "I adore castling when it is an attacking move, but probably g5 would have been more accurate. ",
+        "22... Qe8 23. f4 Qf8 24. Qh4": "I can cash some edge by exchanging queens due to f5. But it is far too low a prize for me. ",
+        "24... h5": "Blacks doesn't see the danger. I can take the knight, but it was nicer...",
+        "25. f5 Rd6 26. Bxf6 Bxf5 27. Rxf5 gxf5 28. Qg5+ Kh7 29. Qxf5+ Kh6 30. g4 Qg8": "Here I blundered, since Qxh5 was mate. But I had already seen the following: ",
+        "31. g5+ Qxg5+ 32. Qxg5+ Kh7 33. Qg7#": "And that's all... "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-nice-manouvre?gm=50928",
+    "gameName": "A nice manouvre?",
+    "players": "damalfi  vs. xixon123 ",
+    "opening": "Queen's pawn (A40)"
+}

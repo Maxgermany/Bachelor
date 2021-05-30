@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This will be my third annotation. I am, once again, playing the white pieces. I start again with e4.",
+        "1... d5": "I hate the Scandinavian defence.",
+        "2. exd5 Qxd5 3. Nc3": "Except for the part where I get a tempo. :) Devoloping knight AND attacking the queen.",
+        "3... Qe5+": "Classic responce to Nc3.",
+        "4. Be2 Nc6 5. Nf3": "Another tempo. :)",
+        "5... Qe6 6. O-O Nf6 7. Bb5 Ng4 8. Bxc6+ Qxc6 9. Nd4": "I would not have chosen to use the queen in this situation.",
+        "9... Qh6 10. d3 Qh5 11. h3": "Checkmate will not come my way! At least not yet.",
+        "11... Bd7 12. Bd2 c5 13. Nb3 g6 14. d4 e6 15. dxc5": "Thanks for the free pawn!",
+        "15... b6 16. cxb6": "Thanks for the other pawn!",
+        "16... Bd6 17. Ne4 Bh2+": "I thought this was a very unusual attack he played.",
+        "18. Kh1 f5 19. Nec5 Bc6 20. b7": "Had to happen eventually, and he can't take it with the bishop. :)",
+        "20... Rd8 21. Na5 Bxg2+": "?? What is his method here? Get rid of all your pieces?",
+        "22. Kxg2 e5 23. Nc6 f4 24. Nxd8": "Why did he let go of the rook?",
+        "24... Rf8 25. Qf3": "Yes, I see the check.",
+        "25... e4 26. Qxe4+": "But he didn't see one against him!",
+        "26... Ne5": "I would have blocked with the queen. You might scare off the white queen and get the black queen into a better position, or you can trade them.",
+        "27. b8=Q": "Had to happen at some time or another.",
+        "27... f3+ 28. Kxh2 Qg5 29. Nde6+ Kf7 30. Nxg5+ Kg8 31. Qd5+": "Run Forrest Run!",
+        "31... Kg7 32. Nge6+": "And now, checkmate cannot be avoided.",
+        "32... Kg8 33. Qxf8#": "And that, ladies and gentlemen, is how you should not play a game of chess, especially after your opponent has promoted a pawn so that they have 2 queens."
+    },
+    "url": "https://gameknot.com/annotation.pl/one-of-my-oddest-games-ever?gm=46288",
+    "gameName": "One of my oddest games ever",
+    "players": "karlw (1200) vs. imachessmanxii (1139)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

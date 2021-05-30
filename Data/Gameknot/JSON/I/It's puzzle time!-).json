@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4": "I tried this one instead of my usual Bf5 because I wanted to try it.",
+        "4. Be2 c6": "My Qa5-Qc7 plan is still \"on\", I expect to spend some moves on it. ",
+        "5. Nc3 Qa5 6. O-O e6 7. a3 Nf6 8. h3": "Ok, all this pretty normal. But I've seen too many nice games not to try to figure out wheter some trick could be done. And it happens that it works....",
+        "8... h5 9. hxg4": "Bite taken. Time to see if I was right.",
+        "9... hxg4": "The white king is suddenly exposed to Qh5 that is a strong threat.",
+        "10. Nh2 Qh5 11. f3": "It's puzzle time! What's the best way to finish?",
+        "11... g3 12. Rf2 Qxh2+ 13. Kf1 Qh1#": "My shortest checkmate."
+    },
+    "url": "https://gameknot.com/annotation.pl/its-puzzle-time?gm=44601",
+    "gameName": "It's puzzle time!:-)",
+    "players": "villos  vs. damalfi ",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

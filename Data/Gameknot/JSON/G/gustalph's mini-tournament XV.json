@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4 Nf6 3. e5 Ne4 4. d3 Ng5": "a better move here would have been 4..d5 protecting the knight and attacking the bishop",
+        "5. f4 Ne4": "5..Ne6 was the better move",
+        "6. dxe4 a6": "a better move would have been to develop the knight with 6..Nc6 or the e pawn to e6",
+        "7. f5 g6 8. fxg6 fxg6": "better to have taken with the rook's pawn moving towards the center and not opening up the king",
+        "9. Qf3 e6": "better would have been 9. .  Nc6 threatening to take the e5 pawn forking the white queen and bishop.",
+        "10. Nc3 b5 11. Bxe6": "11. Be2 would have been better for white",
+        "11... dxe6 12. Nge2 h5": "black needs to get the knight on the board with Nc6",
+        "13. g4": "13. Nf4 would put pressure on the g6 pawn",
+        "13... hxg4 14. Qxg4 Qd7": "14. . Rg8 would have protected the g6 pawn",
+        "15. Qxg6+ Ke7": "15. . Qf7 would have been better",
+        "16. Qf6+ Ke8 17. Qxh8 Qc6": "17. . Qg7 would have put pressure on the white queen",
+        "18. Rf1 Ra7": "18. . Nd7 would have protected the bishop",
+        "19. Qxf8+ Kd7 20. Rf7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gustalphs-mini-tournament-xv?gm=50017",
+    "gameName": "gustalph's mini-tournament XV",
+    "players": "gustalph (1199) vs. jkhsquonk (835)",
+    "opening": "Sicilian defence (B20)"
+}

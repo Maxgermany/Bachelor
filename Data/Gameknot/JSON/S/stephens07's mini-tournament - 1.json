@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6": "Slave defense, the Blacks refused the queen's gambit with 2. ... c6. The objective is to play e6 after Bf5.",
+        "3. Nc3 Nf6 4. Nf3 Bf5": "The normal continuation.",
+        "5. g3": "I don't think this variation is the best the White camp can have. I believe that 5.Bg5 is better.",
+        "5... e6": "To finish the opening with Bb4, and Nbd7.",
+        "6. Bg2 Nbd7 7. O-O Bb4": "The Black development is finished, they just need to castle in the king side.",
+        "8. Bd2 O-O 9. Ne5": "It is a possible variation, but not in this position.",
+        "9... Bxc3 10. Bxc3 Nxe5 11. dxe5 Ne4": "If white bishop in g2 takes, the black bishop is on e4, and he attack the white castle.",
+        "12. g4": "12. g4 ? give a pawn. Even if white bishop takes Knight in e4, Blacks got the center after the queens exchange. Schmoid maybe thinks that I wanted to capture the bishop in c3.",
+        "12... Bxg4 13. Bf3": "13. Bf3??  Blacks got an advantage of position (Ne4) and of material (the pawn). This follow is the worst Whites could find.",
+        "13... Bh3": "Attack the rook in the castle. And the Blacks got supremacy in development, material and position.",
+        "14. Bg2": "\"Protect\" the rook.",
+        "14... Qg5": "14. ... Qg5! The bishop can't move, and there is no solution to avoid the checkmate.",
+        "15. f4 Qxg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/stephens07s-mini-tournament?gm=25328",
+    "gameName": "stephens07's mini-tournament",
+    "players": "schmoid (956) vs. thebault (1245)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

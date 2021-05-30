@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4": "Developing pieces - I now have three pieces active against one",
+        "4... h6 5. d3 Nf6 6. Be3 Nd4 7. Bxd4": "As I've got more developed pieces, I'm happy to trade one of my developed pieces for one of easy-win's.\n\nComputer Analysis shows that taking the pawn on E5 with the knight was a better move, but because of the positions I felt comfortable exchanging pieces.",
+        "7... exd4 8. Nd5": "offering a second trade - again, developed for developed.",
+        "8... Nxd5 9. Bxd5": "This is to apply pressure to f7 while also keeping my pawn structure intact",
+        "9... Bd6 10. Qd2": "Part of the reason for my early bishop development was to allow me to castle either side depending on what's tactically better given the circumstances. This also puts the queen on an open diagonal and allows a lot more movement",
+        "10... Qf6 11. Qe2 Bc7 12. O-O-O O-O 13. e5 Qf4+ 14. Kb1 Re8 15. g3": "At this point black's queen is exposed - g5 and e5 are blocked, f6 is blocked and there's only one safe spot in row 4. If I can keep pressuring the queen I can force black to focus on keeping his queen safe, and there aren't many places it can reach where it will be able to get to safety",
+        "15... Qf5 16. g4": "Trying to keep the pressure up, I moved without thinking. This is a blunder on my part.",
+        "16... Qxg4 17. Rhg1": "However, while it was a blunder black taking the offending pawn does allow my to move my rook to threaten the G-file, containing both black's queen and king.",
+        "17... Qh5 18. Rg3 d6 19. Rdg1": "doubling up on the rooks - I'm still thinking of ways to take the queen but applying pressure to the king's column can only be a good thing",
+        "19... g6": "A blunder on my opponent's part, unfortunately - my bishop's been on that square for 10 turns not doing anything aside from applying pressure",
+        "20. Rg3xg6+ Kf8 21. Rg6g8+ Ke7 22. exd6+ Kf6 23. Rxe8": "very solidly with the advantage now, but I'm not confident enough in my skills to kill it from here so gaining as much of an advantage as possible puts me in good stead",
+        "23... Bxd6 24. Nxd4": "which turned out to be the right idea as I missed that by bishop was undefended",
+        "24... Qxd5 25. Qe3": "With the queen moving, I've spotted a weak point I can hopefully exploit - the king is currently pinned in place by the rooks and knight, so am looking to strike the killing blow",
+        "25... cxd4 26. Qxh6+ Kf5 27. Qg5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-try-to-improve-our-rating?gm=65989",
+    "gameName": "Let's try to improve our rating",
+    "players": "captainmal (1431) vs. easy-win (1397)",
+    "opening": "Sicilian defence (B30)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c5 5. Nf3 cxd4 6. Qxd4 Nc6 7. Bxf6 gxf6 8. Qh4 d4": "All the tournament games start from this position.",
+        "9. O-O-O Be7 10. Nxd4": "Threatening a discovered attack against the Black Q.",
+        "10... f5 11. Nxc6": "I follow through with my plan.",
+        "11... Bxh4": "Black starts...",
+        "12. Nxd8": "...and I finish the exchange of Queens. ",
+        "12... Bxd8": "When the dust has settled, I'm a Pawn up, and I prepare to exploit that advantage in what I anticipate will be a prolonged end game.",
+        "13. g3": "I want to develop my B.",
+        "13... Bg5+": "Black's B emerges from the back rank.",
+        "14. f4": "I construct my Pawn chain as I interpose.",
+        "14... Bh6": "Black maintains the pin.",
+        "15. Bg2": "I develop my B, connecting my Rooks.",
+        "15... O-O": "Black's King finds a haven.",
+        "16. e3": "I break the pin.",
+        "16... b6": "A blunder...",
+        "17. Bxa8": "...which I exploit.",
+        "17... Ba6": "Black discovers an attack on the B.",
+        "18. Bf3": "I retreat to safety.",
+        "18... Bxc4": "Snagging a loose Pawn.",
+        "19. Be2": "I offer an exchange.",
+        "19... Ba6": "Black's move blunders away the B, and before I can capture it, Black resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/primitive-pillsbury-variation-mini-tournament?gm=52830",
+    "gameName": "Primitive Pillsbury Variation mini-tournament",
+    "players": "last_archimedean (1343) vs. levisaxos (1073)",
+    "opening": "QGD (D50), Semi-Tarrasch, Primitive Pillsbury variation"
+}

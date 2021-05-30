@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6": "The mainline.  But, Jack (until our last game), played 3...Bc5?!.  I recently found out that it's an inaccuracy, as the way to proceed is with 4.c3, followed by 5.d4  The only time this works is when black plays ...b5, and you answer with Ba4, then c2-c3 followed by d3-d4 is no longer of an asset to black.  In fact, learning that from this game, is why I brought up the mainlines in the last annotation with Ted.  For the next couple of moves, everything is standard.  Although, the move order isn't the same as where reversion and I put it, where we said it later, I deem it appropriate to copy and paste the conversation here, since we're talking about this, anyway.  Joe: I also remember a game with Jack Stockel, believe it or not. Forgot what it was, but I got a pawn and then he got one back, just when I thought it was without compensation. And, it involved the same move as what I'm bound to play.  reversion: 4...Bc5?! is an innacuracy here. White will continue with 5.c3, intending d2-d4 stablishing a big control in the center. I'd only recommend an eventual Bc5 for Black in the 5...b5 6.Bb3 Bc5 line, known as the Archangel Variation. ",
+        "4. Ba4 Nf6 5. O-O": "reversion: I see you opted for the mainline 5.O-O. Most of the other games I see you annotating had 5.Nc3?! played.  Joe:  If you had played 4...Bc5, then I would've developed my Nb1 But, last week I remember what cplusplus11 said which is that, in this position, theory states that you castle right away. And, I'm into theory which is also the logic behind the annotations involving TA's Q sacs. Joe has noted that knowing theory is very important. So, when C++ told me about what they state, it changed my attitude.",
+        "5... Nxe4": "So, he takes.",
+        "6. Re1": "Thinking about what to do, and seeing what Jack Stockel once did (although it involved a different opening) where I won a pawn, I picked this.  However, a Rook wasn't an option, so Mr. Stockel hit my pawn and N, with his Queen.  In doing so, he gained tempo and won the pawn back.  The same thing applies here.  Once he retreats, I take back.  And, then, we swap off Knights.  On the other hand, his DSB will be pinned, though.",
+        "6... Nc5 7. Nxe5 Nxe5 8. Rxe5+ Be7 9. Nc3": "Seeing that my Ba4 is en-prise, I protect.",
+        "9... O-O": "And, reversion gets his monarch to safety, whilst, breaking the pin.",
+        "10. d3": "?? The idea is opening up a line to complete development.  But, this is where I start to go wrong.  Best was 10.Bb3, then would follow 10...Nxb3, 11.axb3 (capturing towards the center).  By playing this, he hits my Rook, and after my retreat, black will win material, either a piece or two pawns.",
+        "10... Bd6": "It starts with this move, as my Rook is attacked.",
+        "11. Re1": "And, I thought that, aside from the tempo loss, everythingelse holds.  But, that is not so.  Once we exchange, I'm in trouble.",
+        "11... Nxa4 12. Nxa4 Qh4": "And, it starts off here.  In this position, I had a hard time deciding between allowing Qxh2+, or kick his Queen.  But, playing 13.g3, would result in a loss of a piece.  I'd rather give up two pawns then a piece because a piece is worth more.  And, an extra piece would make matters more difficult for me.",
+        "13. Nc3 Qxh2+ 14. Kf1 Qh1+ 15. Ke2 Qxg2 16. Be3": "Preventing 16...Rg1+, as black would have a forced mate.  17.Kd2 (forced), Bg5#",
+        "16... b6": "Fianchettoing his LSB.  The idea being is that this will allow reversion to complete his development.",
+        "17. Rg1": "Preventing 17...Qg4+  I had considered, 17.Ne4 but only to exchange which I don't want due to being behind, anyhow.  Although I could get out with 18.f3, another piece would be tied down after 18...Qg2+ 19.Bf2, Bc5 since my DSB is pinned.  And, the one thing you don't want to do is, voluntarily, tie down your pieces.",
+        "17... Qh3": "So, he pulls back.",
+        "18. Kd2": "And, now, I do what I can to alleviate the exposure.  The plan is 19.Kc1.",
+        "18... Bb7": "What I didn't realize is that this move stops it, until it's too late.",
+        "19. Qe1": "?? Another idea was getting the monarch to d1, so the Q had to be moved.  The problem, however, is that reversion is going to win more material.  Best was 19.Rf1, keeping my Rook safe.",
+        "19... Bh2": "So, he quick plays this.",
+        "20. Rg5": "Figuring that my Rook is defended.  Though, I do calculate his next move.  But, even after that, it appeared that black wasn't going to win more material.",
+        "20... f6": "But, this is when I figured out, otherwise.  Calculating other variations, I realize that anywherelse, except for Rg3 or Rg1 gives black a free Rook.",
+        "21. Rg3": "Which I was not going to allow.",
+        "21... Bxg3 22. fxg3 Rae8": "After the exchange, he indirectly pins my Be3.",
+        "23. Qf2": "And, I try to get out of it.",
+        "23... Qg2": "But, the damage has been done.  As now, after being down, he will liquidate Queens.  Consequently, we both agree on one thing.  Resignation is not premature, at this point.  If this were against, even the master mater, I would not resign.  But, reversion is a stronger player, and against a 2300+ rated opponent, I agreed that there was nothing else to learn here.  So, I resigned.  Overall, I would like to thank reversion for giving me this game as there was more to learn with the Ruy Lopez."
+    },
+    "url": "https://gameknot.com/annotation.pl/training-game?gm=60377",
+    "gameName": "Training Game",
+    "players": "jkarp (1367) vs. reversion (2339)",
+    "opening": "Ruy Lopez (C80), open (Tarrasch) defence"
+}

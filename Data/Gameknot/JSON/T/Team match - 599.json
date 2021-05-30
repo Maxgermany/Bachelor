@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "This a good game with a lot of threats from both sides, most of them not obvious.",
+        "1... e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bc5 5. f4 exf4 6. Bxf4 d6 7. Nf3 Ng4 8. Ng5 O-O 9. h3 Qf6": "The black bishop was preventing his castling, so Qxf4 was quite a big threat",
+        "10. Nd5 Qg6": "However since the bishop could easily be defend with a counter attack that was a mistake",
+        "11. hxg4 h6 12. Nxf7 Rxf7 13. Nxc7 Rb8 14. Ne8": "A rather strange move.",
+        "14... Bxg4 15. Bxf7+ Kxf7 16. Nxd6+ Bxd6 17. Qd2": "White was perhaps trying to castle queens side but Rf1 was a better move",
+        "17... Rf8 18. Bxh6": "This was intent at getting the rook at f8 but this move was poorly calculated",
+        "18... Bg3+": "Forcing the king to be in line with the rook",
+        "19. Kf1 Kg8+": "only one place to run",
+        "20. Kg1 Bf2+": "The only move was Qxf3 because h2 was leading to mate. And people don't like to play without a queen"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=25501",
+    "gameName": "Team match",
+    "players": "rusmuzhik (1608) vs. demadone (1563)",
+    "opening": "Vienna game (C28)"
+}

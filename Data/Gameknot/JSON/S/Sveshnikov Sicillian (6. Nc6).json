@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5": "Part of a series of annotated games where I explore the Sveshnikov Sicillian. See my annotated games list for other examples.",
+        "2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5": "The signature move of the Sveshnikov Sicillian",
+        "6. Nxc6": "See also http://gameknot.com/annotation.pl/sveshnikov-sicillian-6-nc6?gm=28618 for another example of this line",
+        "6... bxc6 7. Bc4 Be7": "The other game plays ..d6, which is equally good",
+        "8. O-O O-O 9. Be3 Bb7": "One of the key differences with the ..Be7 lines. Its a matter of taste. This way black is directly supporting ..d5, and save a tempo over playing ..d6 first",
+        "10. Qe2": "A mistake by white",
+        "10... d5": "Winning",
+        "11. exd5 cxd5 12. Bb3 d4 13. Rad1 Qb6 14. Bxd4 exd4 15. Qxe7 dxc3 16. Rd6 Rae8 17. Qxf8+ Kxf8 18. Rxb6 axb6 19. bxc3 Ne4 20. Rd1 Nxc3 21. Ra1 Rd8 22. Kf1 Ba6+ 23. Kg1 Rd1+ 24. Rxd1 Nxd1 25. c4 Nb2 26. f3 Bxc4 27. Bxc4 Nxc4 28. Kf2 Ke7 29. Ke2 Kd6 30. Kd3 Kd5": "White resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/sveshnikov-sicillian-6-nc6?gm=28728",
+    "gameName": "Sveshnikov Sicillian (6. Nc6)",
+    "players": "ysvogel (1739) vs. longtail99 (1869)",
+    "opening": "Sicilian (B33), Pelikan (Lasker/Sveshnikov) variation"
+}

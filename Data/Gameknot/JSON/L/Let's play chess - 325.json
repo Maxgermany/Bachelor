@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Qh5": "Ha ha.  He thinks you have never seen the bad four move.  The GOOD four move puts the queen at f3, where the mate is slightly less obvious and harder to defend.",
+        "2... Nf6": "Not quite.  Pd6 would be a better answer.",
+        "3. Qxe5+ Qe7": "Ouch.  Here I would choose Be7.",
+        "4. Qxc7 Qxe4+ 5. Be2 Qxg2 6. Qe5+ Kd8 7. d4": "What?  Bf3 at least protects the rook.",
+        "7... Qxh1 8. Qg3 Ne4": "Should have moved the queen out.  Bf3 traps her in the corner. Nobody puts baby in the corner!",
+        "9. Qe3": "? QxN!",
+        "9... d5 10. f3 Nf6 11. Kd2 Qxh2 12. f4 Ne4+ 13. Kd3 Nf2+": "Yes.",
+        "14. Kc3 Qxg1 15. Nd2": "Ooh, ooh, Nd1+!  Followed by NxQ or QxQ.",
+        "15... Nd1+": "Beautiful!",
+        "16. Kd3 Qxe3#": "Yeah, baby!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=49697",
+    "gameName": "Let's play chess",
+    "players": "mutschi1 (974) vs. stekilvington (1085)",
+    "opening": "KP (C20), Patzer opening"
+}

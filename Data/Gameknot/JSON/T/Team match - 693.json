@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4": "Standard queen opening.",
+        "1... d5 2. Nf3 Nf6 3. c4": "still standard opening",
+        "3... Nc6 4. Nc3 dxc4": "taking the d pawn",
+        "5. e3": "defending the d-pawn and attackingt the black c-pawn. ",
+        "5... Bf5": "not defending the c-pawn!",
+        "6. Bxc4": "taking the pawn",
+        "6... Nb4 7. Qa4+": "check to take the horse on b 4",
+        "7... Nc6": "the big mistake",
+        "8. Ne5": "attacking f 7",
+        "8... Bd7": "not defending f 7",
+        "9. Bxf7#": "the end"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=16367",
+    "gameName": "Team match",
+    "players": "hjbo (1448) vs. sutty (1432)",
+    "opening": "Queen's pawn game (D02)"
+}

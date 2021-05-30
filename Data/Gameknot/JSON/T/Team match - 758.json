@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Bf5 3. e3 Nf6": "I prefer in this position to play c5. I guess that Nf6 is good eanogh as well.",
+        "4. Be2 e6 5. O-O Bd6": "5... c5 is better. the Bishop can be on e7 as well as d6. it is more important to break white's center now (there might not another chance to play c5).",
+        "6. c4 dxc4": "a must. 7. c5 is a strong threat.",
+        "7. Bxc4 Ne4": "why wait with 0-0?",
+        "8. Nc3 O-O 9. h3": "did ot get the move. 9.Qb3 is better as it pressures black's queen side.",
+        "9... a6": "9... Nd7 and 10... Nb6.",
+        "10. Nxe4 Bxe4": "Black got a strong Bishop in the center. white Bishop on c1 is \"stupid\" as its got no where to go.",
+        "11. Bd2 b5 12. Be2 c6": "12.... c5! 13. dxc5 Bxc5 14. Rc1 Nd7 and 15.... Rc8 with strong play in the center and on the queen side.",
+        "13. Bc3 a5 14. Nd2 Bg6 15. e4": "???\r\nloses the bishop on c3.",
+        "15... b4": "!",
+        "16. e5 bxc3 17. bxc3 Be7 18. f4 h6": "there is no rush with that move. 18.... c5! is a must.",
+        "19. Nf3 c5": "at last!",
+        "20. Bd3": "with a material advantage it is better to exchange pieces.",
+        "20... Bxd3 21. Qxd3 Nc6 22. Rad1 Qd5": "! do not let white to play d5.",
+        "23. c4 Qd8 24. d5 Nb4": "white played d5 but the diference is that he has no pawn on c3 so the black Knight can stand proud on b4.",
+        "25. Qb1 exd5 26. a3 d4": "why giving up a piece back? isn't Nc6 good enough?",
+        "27. axb4 axb4 28. f5 Bg5 29. g4 Ra3": "at least black has two passed pawns...",
+        "30. Rfe1": "??? giving back the piece...",
+        "30... Rxf3 31. Kg2 Rc3 32. Rd3 Rxc4 33. Qb3": "a great black advantage. a piece up and lots of pawn running to the last row...",
+        "33... Rc3 34. Rxc3 dxc3 35. Re2 Kh8 36. Qc4 Qd4 37. Qb5 Be3 38. e6 Qe4+ 39. Kg3 Qf4+ 40. Kg2 fxe6 41. Qd7 exf5 42. Qe7 fxg4": "basicly, game is over... only a matter of time...",
+        "43. Qxe3 Qxe3 44. Rxe3 c2": "the end..."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13273",
+    "gameName": "Team match",
+    "players": "negoflor (1489) vs. robertshildrick (1555)",
+    "opening": "Queen's pawn game (D02)"
+}

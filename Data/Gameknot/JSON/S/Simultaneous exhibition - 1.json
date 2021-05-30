@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6": "Tarrasch plays the Two Knights' Defense.",
+        "4. d4": "His opponent knows the book line.",
+        "4... exd4": "The usual response.",
+        "5. O-O": "White goes for quick development instead of the immediate recapture.",
+        "5... d6": "5... NxP is considered better.",
+        "6. Nxd4": "Centralizing the Knight nicely.",
+        "6... Be7": "Clearing the way for castling.",
+        "7. Nc3": "White continues his own development.",
+        "7... O-O": "Black castles at once.",
+        "8. h3": "Keeping Black cramped by preventing 8... B-N5. Black intends ...N-Q2, ... B-B3 and ...N/2-K4.",
+        "8... Re8": "Played with singular lack of judgment. Black should have played 8... N-Q2 immediately.",
+        "9. Re1": "Now that Black his weakened his KB2, he can no longer move his King Knight from KB3 to Q2. His King-side would be weakened beyond endurance.",
+        "9... Nd7": "Instead of 9... N-K4, which would at least offer temporary relief, Black stumbles into a fatal trap.",
+        "10. Bxf7+": "White pounces at once.",
+        "10... Kxf7": "Forced to avoid material loss.",
+        "11. Ne6": "Another very strong attacking move.",
+        "11... Kxe6": "On any other move, Black loses his Queen.",
+        "12. Qd5+": "White now forces mate.",
+        "12... Kf6": "Black's only legal move.",
+        "13. Qf5#": "A brilliant win for the amateur."
+    },
+    "url": "https://gameknot.com/annotation.pl/simultaneous-exhibition?gm=59787",
+    "gameName": "Simultaneous exhibition",
+    "players": "Amateur  vs. Siegbert Tarrasch ",
+    "opening": "Two knights defence (C55)"
+}

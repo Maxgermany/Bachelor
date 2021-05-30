@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6": "Pf6?",
+        "6. Ng5": "Pg5!?",
+        "6... d5 7. exd5 Nxd5": "beter is Pd4 of Pa5",
+        "8. Nxf7": "Pxf7?!",
+        "8... Kxf7 9. Qf3+ Ke6 10. Nc3 Nce7": "Zwart heeft een paard tegen een pion, maar wit heeft het initiatief",
+        "11. d4 c6": "exd4 kan niet voor zwart want De4+",
+        "12. O-O Ng6": "Pg6? lijkt verleidelijk om loper f8 in het spel te brengen, maar pakt niet goed uit",
+        "13. Re1 Bb4 14. dxe5 Rf8": "Tf8?  Laat een afwikkeling toe die wit een gewonnen eindspel oplevert.\n Pe5 was echter ook geen optie geweest. \nLxc3 is misschien nog te doen voor zwart\n",
+        "15. Qg4+ Rf5 16. Qxb4 Qf8": "Nu kan Da5 met allemaal verwikkelingen, die goed uitpakken voor wit, maar ik besluit af te wikkelen.",
+        "17. Qxf8 Rxf8 18. Nxd5 cxd5 19. a4 Bd7 20. axb5 axb5 21. Rxa8 Rxa8": "Nu is de rest techniek",
+        "22. Bd2 Rf8 23. g3 Ne7 24. Bb4 Bc6 25. f4 g6 26. Ra1 h5 27. Ra7 Rf7 28. Rc7 Ba8 29. Rxe7+ Rxe7 30. Bxe7 Kxe7 31. c3 Ke6 32. Kf2 Bb7 33. Ke3": "zwart geeft op"
+    },
+    "url": "https://gameknot.com/annotation.pl/bekerwedstrijd-de-donger-vs-rijs-19-11-2019?gm=67142",
+    "gameName": "Bekerwedstrijd de Donger vs Rijs 19-11-2019",
+    "players": "Jan Brinkman (1656) vs. Chris J. Jellema (1806)",
+    "opening": "Ruy Lopez (C70), Graz variation"
+}

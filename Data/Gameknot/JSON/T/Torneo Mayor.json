@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Bf5": "NO MAS TEOR\u00cdA ...\n",
+        "5. g4 Be4 6. f3 Bxb1 7. Rxb1 e6 8. Bf4 Qa5 9. Ne2 Nd7 10. Bg2 Ne7 11. O-O Nc6 12. Bg3 cxd4 13. cxd4 h5 14. h4 Be7 15. g5 Bd8": "primera oportunidad para enrocarse no usada, y correctamente no toma el pe\u00f3n en a2\nAlternative variation: [Fritz 11:] 15... Qxa2 16. g6 fxg6 17. Qd3 Rh6 18. Rfc1 Qa5 19. Bf4 Nb4 20. Qa3 Qb6 21. Bxh6 gxh6 22. Qe3 Kf7 23. Bh3 Re8 24. Nf4 [-0.36/20]\nAlternative variation: [Fritz 11:] 15... g6 16. a3 Nb6 17. b4 Qb5 18. Nc3 Qc4 19. Ne2 O-O 20. f4 Rfc8 21. b5 Nd8 22. Rf3 Na4 23. Qd3 Qa2 [-0.23/20]\n",
+        "16. g6 fxg6 17. Nf4 Nf8 18. b4 Qb6": "esta vez ya era peligroso tomar el pe\u00f3n en a2, por el retraso en el desarrollo y el rey en el centro\nAlternative variation: 18... Qxa2 [Fritz 11:] 19. Rf2 ([Fritz 11:] 19. Bf2 Kf7 20. b5 Na5 21. Bh3 g5 22. hxg5 Bxg5 23. Nd3 Qd2 24. f4 Qxd1 25. Rbxd1 Bh6 26. f5 exf5 27. Bxf5 Nc4 [-0.37/22]) 19... Qc4 20. Rd2 Qb5 21. Bh3 Kf7 22. Rc2 Qb6 23. Rc5 Be7 24. Qd3 Rh6 25. Bf2 Bxc5 26. bxc5 Qa6 27. Qxa6 bxa6 [-0.31/23]\n",
+        "19. Ne2 Ne7 20. Nc3 Nf5 21. Bf2 Rc8": "era la \u00faltima chance para enrocarse, Axh4 me parece peligrosa para las negras,  de nuevo por misma raz\u00f3n anterior\n",
+        "22. Qa4+ Qc6 23. b5": "y esta es \"la\" posici\u00f3n, tiene que haber algo, por la ventaja de espacio y desarrollo\n",
+        "23... Qxc3 24. b6+ Qc6 25. Qxc6+ bxc6 26. bxa7 Ra8 27. Rb7 Nd7 28. Rc1 Bb6 29. Rxc6 Bxa7": "y en la comodidad de mi notebook Fritz  11 devuelve la pieza y tira una variante\nAlternative variation: [Fritz 11:] 29... O-O 30. Rxe6 Bxa7 31. Rxd7 Bxd4 32. Bxd4 Nxd4 33. Rxg6 Rf7 [Fritz 11:] 34. Rgd6 (34. Rxf7 Kxf7 35. Rb6 Rxa2 36. Kf1 Nf5 37. Bh3 Ra1+ 38. Kg2 Ra2+ 39. Kf1 [0.00/16]) 34... Rxa2 35. Rd8+ Kh7 36. Rxd5 Nxf3+ 37. Bxf3 Rxf3 38. e6 Rg3+ 39. Kf1 Rh3 40. Kg1 Rxh4 41. e7 Rg4+ 42. Kf1 Rf4+ 43. Kg1 Rg4+ [0.00/18]\n",
+        "30. Rxe6+ Kd8 31. Ra6 Nxe5 32. Raxa7 Rxa7 33. Rxa7 Nf7 34. Rxf7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/torneo-mayor?gm=45882",
+    "gameName": "Torneo Mayor",
+    "players": "Robles, Carlos  vs. Matheu, Pedro ",
+    "opening": "Caro-Kann (B12), advance variation"
+}

@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4": "A brief game that felt more like a blitz game rather than a correspondence game.",
+        "1... Nf6 2. Nf3": "Heading down my standard lines.",
+        "2... e6 3. Bg5 Be7 4. Nbd2 d5 5. e3 c5 6. c3 Nbd7 7. Bd3 O-O 8. O-O": "A typical torre position, staid and safe. The best part of the torre is that it can result in some impressive fireworks for the unobservant.",
+        "8... c4": "My book on the torre discourages the pawn push as it removes the tension and black loses dynamic play.",
+        "9. Bc2": "White keeps his lsb glaring longingly at h7, the lynchpin that has undone many a careless player.",
+        "9... Qb6 10. e4": "White concluded that it was better to trade the three pawns for a piece with a strong attack on the black King.",
+        "10... Qxb2": "So it begins, black neglects development for several pawns in exchange for a knight.",
+        "11. e5 Qxc3 12. exf6 Nxf6 13. Re1": "Black should move the queen now instead of allowing white the rook lift with tempo.",
+        "13... Re8 14. Re3 Qa5 15. Ne5": "White is applying more pressure and now has free reign along the third rank with his rook.",
+        "15... Nd7": "A serious misscalculation that leads to a loss",
+        "16. Bxh7+": "The lynchpin has now fallen, black's best try is kf8 which only postpones the inevitable. He instead chooses a faster route to enlightenment.",
+        "16... Kxh7 17. Qh5+ Kg8": "From here Qxf7 and Rh3 are just as effective.",
+        "18. Qxf7+ Kh7 19. Rh3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=62508",
+    "gameName": "Let's play chess",
+    "players": "knightmare2 (1990) vs. jangwa (1829)",
+    "opening": "Queen's pawn (A46), Torre attack"
+}

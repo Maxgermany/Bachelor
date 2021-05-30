@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. Nc3": "!.Nc3 again!  Nonetheless this move is highly transpositional as will be the case in this contest.",
+        "1... Nf6": "A good reply!  1...d5 generally gives the 1.Nc3 player exactly what they are looking for.  There are lots of options for Black.  The French option with 1...e6 planning ...d5 soon is probably the most solid.  Ditto for 1...c6.",
+        "2. e4": "A possible Alekhine or Center Counter?  A Sicilian was played here once with 2...c5 to which I replied 3.Nf3.  Interesting is 2...Nc6.",
+        "2... e5": "Vienna?",
+        "3. Nf3": "No Vienna today.  One can get into a Center Game after 3.d4 exd4 4.Qxd4 Nc6 5.Qe3.",
+        "3... Nc6": "Four Knights, but is it a Scotch 4N or a Spanish 4N?  This move order avoids some minor Three Knights lines.... ( For example, 1.e4 e5 2.Nf3 Nc6 3.Nc3 f5 or 3....g6 )",
+        "4. Bb5 d6": "Perhaps we end up in a Spanish Game: Modern Steinitz after move 8...a5.",
+        "5. h3 Bd7 6. O-O Be7 7. Re1 O-O 8. Ne2 a6 9. Ba4 b5 10. Bb3 Na5 11. Ng3 Nxb3 12. axb3 Bc6 13. d4 exd4 14. Nxd4 Bb7 15. Qd2": "Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open.",
+        "15... Nd7 16. Ndf5 Ne5": "The Knight is not able to remain on e5, but both c6 and g6 are good squares after being forced to move.",
+        "17. f4 Ng6 18. Nxe7+": "White can play through the f5 square if desired with tempo.  The e4 pawn is not well guarded however.  Also all the pieces for White are not developed.",
+        "18... Qxe7 19. Nf5 Qe6 20. Qd4": "Threatening mate in one on g7, but this is easily parried by Black.  ",
+        "20... f6 21. Bd2 Rad8": "Maybe 21...Rfe8 or 21....Rae8 are better by placing the rook on the open half file?  I prefer the former.",
+        "22. Ng3": "Moving to defense of e4.  White consolidates.  ",
+        "22... Ne7 23. c4 c5 24. Qd3 b4": "21...bxc5 looks interesting.  The QR might prove useful on b8 afterward.",
+        "25. Rad1": "Black's positional decision to seal the Queenside allows White to immediately reposition the Rook.",
+        "25... Nc6 26. Be3": "Contesting d4.",
+        "26... Ne7 27. Bf2 Qd7 28. Bxc5": "Tactics created by 27...Qd7.",
+        "28... a5 29. Qxd6 Qxd6 30. Rxd6 Rxd6 31. Bxd6 Re8": "White achieves a won ending with a simple tactical combo.",
+        "32. c5 Nc6 33. e5 Nd4 34. Re3 Kf7 35. f5 fxe5 36. Bxe5 Nc6 37. Bf4 Rd8 38. Bd6 Bc8 39. Kf2 Kf6 40. Kf3 Bxf5 41. Nxf5 Kxf5 42. g4+ Kf6 43. h4 h6 44. Bc7 Rd2 45. Ke4 Rxb2 46. Kd5 Ne7+ 47. Kc4 Rc2+ 48. Kb5 Nd5 49. Be5+ Kf7 50. Rf3+ Kg6 51. h5+ Kh7 52. Rf7 Kg8 53. Rxg7+ Kf8 54. Rg6 Re2 55. Bd6+ Kf7 56. Rxh6 Re3 57. c6 Rxb3 58. c7 Nxc7+ 59. Bxc7": "An interesting struggle until Black's inaccurate Queen move creates a winning tactic."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d1?gm=27693",
+    "gameName": "League division D1",
+    "players": "a50tango (1627) vs. aphgan (1580)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

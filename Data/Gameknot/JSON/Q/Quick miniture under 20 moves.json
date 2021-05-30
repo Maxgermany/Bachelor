@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6": "Nf6 is black's most flexible move since it can transpose into the dragon ...g6, Sheveninghen systems ...e6 or Najdorf ...a6",
+        "5. Nc3 a6": "This is the starting position of the powerful Sicilian Najdorf defense. ",
+        "6. Bc4": "The sicilian Najdorf Lipnitzky attack is extremely dangerous line against black. White has tremdeous power on the king side and on e6. For good intro of this great line for white copy and paste this link. http://www.youtube.com/watch?v=tZcakUoDrkQ",
+        "6... e6 7. Bb3": "main line of the lipnitzky",
+        "7... b5": "black has to play assertively or white will be able to sac on e6 or e5. Black avoids developing with Bb7 and Nbd7 to avoid Bd5 and the pin of Bg5",
+        "8. O-O Be7": "stops Bg5 and I must emphasis \"not preparing\" 0-0",
+        "9. Qf3": "This move has tremendous power for white. White has e4-e5 and Qg3 attacking the weak g7 square. Qg3 coupled with Bh6 can be very difficult for black to handle. Especially, if white can get a knight to the f4 outpost. At this point it is critical that black avoids castling 0-0. Instead black must play to prevent e4-e5 or Bh6 by attacking and forcing white to defend. ",
+        "9... Qb6": "I prefer this over Qc7 because it puts the queen on the b file to support b5-b4 and attacks the hanging knight on d4. After the logical 10. Be3 Qb7 the queen sits well on the b7-g2 diagonal preventing the immediate e4-e5 break. ",
+        "10. Be3 Qb7": "preventing e4-e5 ",
+        "11. Qg3": "attacking g7 ",
+        "11... b4": "avoiding the sharp lines after 11. ...0-0 12. Bh6 +/=",
+        "12. Na4 Nbd7": "Preventing e4-e5. Black has done quite well. He has managed to neutralize all of white's main threats. ",
+        "13. f3": "supporting e4",
+        "13... O-O": "Now that black has completed his development and has sufficient forces on the king side white's Bh6 has nothing.  ",
+        "14. Bh6": "The main idea behind Bh6 is not checkmate but exposing the king",
+        "14... Nh5 15. Qg4": "?? This losses the Bishop. Better was 15. Qh3 gxh6 16.Qxh5 Qa7 =",
+        "15... Ndf6": "The queen will barely make it out alive",
+        "16. Qg5 Kh8": "After 17. Bxg7 Nxg7 I have ideas of putting my rook on g8. ",
+        "17. Bxg7+ Nxg7 18. Qe3 Qa7": "Even now black still has to take precaution that e6 does not fall. But this wins for black because of the threat e5. "
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-miniture-under-20-moves?gm=46337",
+    "gameName": "Quick miniture under 20 moves",
+    "players": "amirezza (2238) vs. elyhim (2261)",
+    "opening": "Sicilian (B90), Najdorf, Lipnitzky attack"
+}

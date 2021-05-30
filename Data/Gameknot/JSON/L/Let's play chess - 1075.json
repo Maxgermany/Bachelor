@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "I have just started playing e4 and I am experimenting.  I am playing white here.",
+        "1... g6": "I play the pirc/modern/KID from time to time.  The problem with g6 is that in corr. chess white just has to many options.",
+        "2. d4 Bg7 3. c4": "I wanted to take this into KID lines, c4 gives it more of a d4 type feeling.  I originally played d4 so this is good for me.",
+        "3... d6 4. Nc3 Nf6 5. f3 O-O": "Black is letting me develop however I wish, so.... I will take the sameish setup.  I consider this the best threat against the KID.",
+        "6. Bd3 b6 7. Nge2 Bb7 8. Be3 Nc6 9. Qd2 e5": "Since black will not be getting through this center I will play on the kingside and attack.  I leave my kings position in doubt so that black doesn't no where to attack.  At any time I could castle queenside. \n\nWhen I was in Sacramento for the USCF Junior High Nationals, I spent a lot of my time observing the top board: Alec Getz from Hunter.  I noticed that he played the caro-kann several times and didn't castle.  I learned that he found his rook on h8 to be better placed there then if he castled and it was on f8.  Because ofter he would later play h7-h5-h4.",
+        "10. h4 exd4 11. Nxd4 Nh5": "This is a blunder.  I \"failed\" to capitalize on it fully.",
+        "12. g4 Bxd4": "Here I should have played: Bxd4 Nxd4 Qf2! when the knights on d4 and h5 are both attacked, winning me a pieces.  I didn't even look this far though!!  I saw that after Bxd4 Nxd4 he was threatening Nxf3  winning the queen and Nc2  forking the king and rook, and stopped looking!!  This is a bad habit of mine that I am breaking it slowly. ",
+        "13. gxh5 Bxe3 14. Qxe3 Ne5 15. O-O-O a5 16. hxg6 fxg6 17. Rdf1": "All the pieces are going to the king side.  Black won't even get a counterattack going.",
+        "17... c6 18. f4 Ng4 19. Qg3 Nf6 20. h5": "I still have the iniative.  While black is reacting to my threats I am developing towards his king!",
+        "20... Qe8 21. hxg6 hxg6": "If 21...Qxg6 I was planning on Qh4 when the threats of Qxh2, e5 and Rg1 were good for me.",
+        "22. e5 dxe5 23. fxe5 Nd7 24. Bxg6": "Now I have this completely won.  Black's king has no cover and all my pieces are coming in on him!",
+        "24... Rxf1+ 25. Rxf1 Qxe5": "Now the tactics finish him off.  I might have been able to get in Bh7  Kxh7 Rf7 , but I didn't quite like it.  So I took the less risky route.",
+        "26. Bf7+ Kf8 27. Bh5+ Ke7 28. Rf7+ Kd6 29. Rxd7+": "Winning the queen.  30...Kd3 31.Bg5  Kf6 32.Rf7  wins the queen."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=8306",
+    "gameName": "Let's play chess",
+    "players": "stringplayer92 (1547) vs. tedjj (1556)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

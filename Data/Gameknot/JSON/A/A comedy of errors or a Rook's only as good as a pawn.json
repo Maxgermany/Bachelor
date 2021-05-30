@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "This is an exciting game against my new buddy duanek, who challenged me after losing a couple of tournament games.  Our score now stands at 3-1-0 to me after this game...",
+        "1... e5 2. Nf3 Nc6 3. Bb5 Nd4": "A relatively uncommon response to the Ruy Lopez, which I've met a few times on Gameknot.",
+        "4. Nxd4 exd4 5. O-O": "White is well ahead in development already, so the soundness of 5...Nd4 must be in question.",
+        "5... Bd6": "and one of my earlier games has also cast aspersions on this move... In this position it seems slightly more sensible than in other Ruy Lopez positions, as Black is probably planning ... c6 followed by ...Bc7",
+        "6. f4 c6 7. Bc4 Bc5": "White's P-f4 probably prompted this move, threatening a discovered check but easily dealt with.",
+        "8. d3 d6": "creating space for the other bishop to develop",
+        "9. Nd2 Nf6 10. Qf3": "I can't remember what prompted this unwonted early Queen move, when f3 looked such an attractive square for the Nd2.  Perhaps I planned a quick Qg3, attacking g7 and vacating the f3 square for the N.  For now, though, the Q interferes with the development of White's minor Q-side pieces.",
+        "10... Ng4": "annoyingly threatening to take up residence on e3",
+        "11. Nb3": "allowing myself to swap on e3 if the N follows through and then possibly return the favour on c5",
+        "11... Qh4": "a quick threat to h2, again easily dealt with",
+        "12. h3 Ne3 13. Bxe3 dxe3 14. e5": "? ignoring the threat to my R",
+        "14... e2+ 15. Nxc5 exf1=Q+ 16. Rxf1 dxc5": "I'm a rook to a pawn down.",
+        "17. f5": "looking to exploit my meagre assets with a quick counter-attack while Black's K is still in the middle",
+        "17... Qd4+": "centralising the Q and picking off one of those assets",
+        "18. Rf2 Qxf2+": "?! bizarrely, Black gives up his advantage.  Admittedly 18...Qxe5 19. Re2 wouldn't have been too bright but this seems to give up the advantage to easily.  18...Qxb2 or 18....Qd8 would have held on to Black's advantage, though 19. e6 would then have been interesting.",
+        "19. Qxf2 O-O": "an interesting material balance, even according to conventional scoring, but White is better developed and Black's Rooks aren't yet working together.",
+        "20. f6": "Could I really have been hoping for 20...g6 21. Qh4 followed by Qh6 and Qg7#?  You bet!",
+        "20... Be6 21. fxg7": "Either Black takes the pawn and exposes himself to White's Q or he leaves it alone and it forms a thorn in his side.",
+        "21... Rfe8": "Black chooses the latter course.",
+        "22. Qf6": "further cramping Black.  I don't think I had any specific threats in mind here, other than the pawn feast that follows.",
+        "22... Bxc4 23. dxc4 Re6 24. Qg5 Rg6 25. Qe7 Rxg7 26. Qxb7 Re8 27. Qxc6 Rxe5": "?? but even I spotted that this move had a serious flaw",
+        "28. Qa8+ Re8 29. Qxe8#": "a rook is as effective a pawn as a pawn is!  It's a classic back row mate, despite Black's g-pawn being absent."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-comedy-of-errors-or-a-rooks-only-as-good-as-a-pawn?gm=22627",
+    "gameName": "A comedy of errors or a Rook's only as good as a pawn",
+    "players": "rjacobs (1614) vs. duanek (1420)",
+    "opening": "Ruy Lopez (C61), Bird's defence, Paulsen variation"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "well91 (1403) vs brahmslover (1200) (annotator)",
+        "1... Nf6": "The most flexible option for black against 1.d4",
+        "2. Nf3 g6": "Black shows that he will either play a King's Indian Defense, or the Gruenfeld Defense.",
+        "3. Bf4": "As black I can assume that white will play the London System, which is similar to the Colle System except with the bishop on f4.",
+        "3... Bg7 4. e3 O-O 5. Bd3 d5": "The Gruenfeld Defense.  White's objectively best move here is c4, attacking the center, but this requires somewhat more \"theory\" than c3.",
+        "6. Nbd2 Nbd7": "Anticipating striking the center with ...c5 or ...e5",
+        "7. c3": "The basic position of the London System.",
+        "7... c5 8. Rc1 Re8": "Threatening to open the center with ...e5 since white has not castled.",
+        "9. h4 Qb6": "Counter-attacking on the queenside.  I am not afraid of white's attack with 10.h4 Nxh4 11.Rxh4 gxh4 12.Ng5 ...etc",
+        "10. b3": "Black now has the initiative and White is reacting to Black's moves.  From here on out, White is simply reacting to my moves, rather than creating a plan of his own. ",
+        "10... cxd4 11. cxd4 Qa5": "Attacking the e4 square.",
+        "12. Rc2 Ne4": "Voila! The knight jumps into the center and stops white's dangerous light-squared bishop.",
+        "13. O-O": "I could play 13...f5 here and play to control the center.  Because of white's potential to attack on the kingside (though not very much), I didn't want to close the center (my counter-attacking potential). ",
+        "13... Nxd2 14. Nxd2 e5": "Now opening the center.  All attacks on the wing should be met with a counter-attack in the center.",
+        "15. Bg3": "Simply a blunder, losing a pawn.  But after 15.dxe4 Nxe4 16.Be2 Bg4 White is very passive.",
+        "15... exd4 16. exd4 Bxd4 17. h5 Nc5": "Actively playing in the center, to meet white's \"attack\"",
+        "18. Be2 Bf5 19. hxg6 hxg6 20. Rxc5": "White tries to take the initiative, but to no avail white is simply lost.",
+        "20... Bxc5 21. Bh5": "Another blunder, the sacrifice is easily repelled.",
+        "21... gxh5 22. Qxh5 Bg6 23. Qxd5 Rad8": "The final blunder.",
+        "24. Qxb7 Qxd2": "And White resigns.  Notice how White never had a real plan, he was simply reacting to Black's moves."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23187",
+    "gameName": "Let's play chess",
+    "players": "well91 (1403) vs. brahmslover (1200)",
+    "opening": "King's Indian (A48), London system"
+}

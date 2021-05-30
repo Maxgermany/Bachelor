@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5": "here we go.",
+        "2. Nf3 Nc6": "By the way I was black",
+        "3. Bc4": "That isn't a good move.",
+        "3... Nd4 4. Nxe5": "accepts.",
+        "4... Qg5 5. Nxf7": "forks the queen and rook",
+        "5... Qxg2": "if he goes Nxh8 i would take the rook and soon get checkmate.From now it's unstoppable.",
+        "6. Rf1": "saves his rook...which is bad.",
+        "6... Qxe4+": "If he blocks it with the queen he loses it however,if he blocks it with the bishop black goes",
+        "7. Be2 Nf3#": "Nf3++ thank you for watching please go to my other annonated game called'mate in 8.'"
+    },
+    "url": "https://gameknot.com/annotation.pl/mate-in-7?gm=47764",
+    "gameName": "mate in 7",
+    "players": "Slaxer  (1231) vs. ??? ",
+    "opening": "Blackburne shilling gambit (C50)"
+}

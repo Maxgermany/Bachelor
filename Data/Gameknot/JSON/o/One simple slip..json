@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. Nf3": "Reti something I've been experimenting with since I can back into the Gameknot community after an absence of some time.",
+        "1... d5 2. c4 dxc4": "Black accepts my sacrifice.",
+        "3. Nc3 Qd6": "Brings the queen out early but cannot really be threatened quite yet.",
+        "4. e4 Be6 5. d4": "expecting cxd3 e.p.",
+        "5... cxd3 e.p. 6. Bxd3 Nc6 7. O-O O-O-O 8. Bc2 Bc4 9. Qxd6": "Trading active piece for an inactive one.",
+        "9... exd6 10. Re1 Nge7 11. Bf4 Ng6 12. Bg3 f6": "Creating a bind over the e5 square.",
+        "13. Nd2 Be6 14. b3 Nd4 15. Bd3 Ne7 16. Nb5": "Hoping to trade down a bit.",
+        "16... Ndc6 17. Bc4 d5 18. exd5 Bxd5 19. Nc3 Nb4 20. Rac1": "Rac1? possible a slight oversight though due to Bxc4 Nxc4 Nd3 which played out in the game however I believe white could win it back.",
+        "20... Bxc4 21. Nxc4 Nd3": "Seemingly winning the exchange but notice the pieces focused on c7.  I decide to let black decide and throw in a threat.  I was looking for the draw here.",
+        "22. Nb5": "Nb5! This move balances the powers of the game a bit.  Whites best try for some kind of counter play.  Black best might actually want to ignore the rooks for this turn and play Nc6 or possible Nd5 to respond to the threat I stumbled upon.  This seems to be a tall statement but lets continue the game.",
+        "22... Nxe1": "The worst possible move leads to mate in 5.  Would have been nice to be able to see my opponents face when I announced this in game hehe.  Black is expecting Rxe1.  I was toying around with a drawing idea Nb6+ and forcing a draw which I'll explain in a moment when I found the mate.  If black was going to capture Nxc1 would be slightly more effective then I would have played Ncd6+!? cxd6 (White could also try Rxd6 which may be more accurate.) Rxc1+ Kd7 Nxd6 white is down a whole rook but only for a moment.  White has a strong minor piece attack and should be able to regain some material if not the whole.",
+        "23. Nb6+ axb6": "Forced Kb1 Bxc7#",
+        "24. Rxc7+": "Here was my drawing idea Kb8 Rd7+ forcing Kc8 to to stop Rxd8# and repeating till draw.  I was overlooking the obvious Rc4+ leading to mate.  Which will play out in blacks final moves.",
+        "24... Kb8": "Forced.",
+        "25. Rc4+ Rd6": "Slows mate for one move.",
+        "26. Bxd6+ Ka8": "Forced.",
+        "27. Ra4#": ":)! Just remember though your opponent may be down, they are looking for revenge.  Stay alert and aware for the game isn't over till one side gives up or is forced to withdraw.  Like a wild animal cornered who looks to strike when its new master lets his/her guard down."
+    },
+    "url": "https://gameknot.com/annotation.pl/one-simple-slip?gm=31311",
+    "gameName": "One simple slip.",
+    "players": "yoshark (1406) vs. tomsmith03 (1368)",
+    "opening": "Reti accepted (A09)"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 f6": "If I'm going to play the Italian Game, I need to learn what all these odds-and-ends defenses are.",
+        "4. Nc3 Nge7 5. O-O g6 6. b3": "Getting ready to fianchetto my bishop.",
+        "6... d6 7. d4 Bg4": "Smart move - pinning the knight and removing the defender from my pawn.",
+        "8. d5 Nd4": "A powerful outpost for his knight.",
+        "9. Nb5": "Preparing for Nxd4.",
+        "9... c6 10. Nbxd4 exd4 11. Qxd4": "I took with the queen rather than the knight in order to attack the f6 pawn.",
+        "11... Ng8": "Not sure why he did this... the better move would probably have been Bg7 to defend the f6 pawn. I understand the double-defense here, but underdeveloping a piece is not quite worth that.",
+        "12. dxc6 bxc6 13. Bf4 c5 14. Bb5+": "A nice sort of in-between move. Also making him lose his ability to castle.",
+        "14... Kf7": "A fairly bad blunder... Ke7 would probably have been the better move.",
+        "15. Qd5+": "Here's where the attack really takes off. ",
+        "15... Be6 16. Qb7+": "At this point, I'm starting to press black's entire piece structure back toward the h8 corner.",
+        "16... Ne7 17. Bxd6 Kg8": "Probably trying to remove the pin on the knight, seeing that Qxd6 was not an option.",
+        "18. Bc4 Qxd6": "A mistake that cost him a rook.",
+        "19. Qxa8 h5": "Trying to give himself some room to move.",
+        "20. Rad1 Qb6 21. Bxe6+": "An exchange designed to press his pieces further yet into the corner of the board.",
+        "21... Qxe6 22. Rd8": "Preparing for Rxf8.",
+        "22... Kh7 23. Rxf8": "I exchange, and win a piece in the process.",
+        "23... Rxf8 24. Qxf8 Ng8": "Trying to prevent the queen from coming in and mating the king too quickly.",
+        "25. g3": "Planning to play Rd1 and subsequently Rd8, but in order to do this I would need something to prevent the back-rank mate by the black queen.",
+        "25... g5": "Again, giving his king room to move.",
+        "26. Rd1 h4 27. Rd8 hxg3 28. fxg3": "This was a major mistake on my part. hxg3 would have been a much stronger move.",
+        "28... g4 29. Nh4 f5 30. exf5": "Another mistake. I'm leaving my king too exposed here.",
+        "30... Qe3+": "The beginning of a series of checks in an attempt by black to set up a perpetual check and draw the game.",
+        "31. Kf1 Qc1+ 32. Ke2 Qxc2+ 33. Ke3 Qc1+ 34. Ke4": "Black did not find a solution from here. As soon as I could bring my king toward h8, it was an easy mate for me, and I could prevent the continuous check.",
+        "34... Qg5": "Black resigned here; see 34.ke4"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=52074",
+    "gameName": "Let's play chess",
+    "players": "twinchicky (1142) vs. hopeless4sure (1201)",
+    "opening": "King's pawn game (C50)"
+}

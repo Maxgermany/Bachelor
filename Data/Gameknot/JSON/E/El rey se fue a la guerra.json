@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Esta es la historia de c\u00f3mo el rey fue a la guerra",
+        "1... e5 2. Nf3 d6 3. Bc4": "Movilizando piezas",
+        "3... Be7 4. d4": "Atacando el centro",
+        "4... exd4 5. Nxd4 Nd7 6. Nf5": "Atacando g6",
+        "6... Bf6 7. Nc3 c6 8. O-O Ne7 9. Re1 O-O 10. Qf3": "La dama entra en juego construyendo una celada",
+        "10... Ne5": "El caballo negro cree va a salir ganando",
+        "11. Nh6+ gxh6 12. Qxf6": "Amenaza Axh6",
+        "12... Ne7g6": "\u00fanica",
+        "13. Qxd8 Rxd8 14. Bb3": "poniendo el alfil a salvo",
+        "14... h5": "lo mismo con su peon",
+        "15. Re3": "es hora de sumar actores a la escena",
+        "15... Kg7 16. Rg3 Be6 17. Be3 b6 18. f4 Bxb3 19. axb3": "abrir esa columna va a ser decisivo",
+        "19... Ng4 20. Bd4+ Kf8 21. h3 c5 22. Bf2 Nxf2 23. Kxf2": "el caballo era m\u00e1s activo que el alfil",
+        "23... Nxf4 24. Kf3": "el rey se va a la guerra",
+        "24... Ng6 25. Nd5 Ne5+ 26. Kf4 f6": "no veo la raz\u00f3n de adelantar el pe\u00f3n",
+        "27. Nxf6 Ng6+ 28. Kg5 Kg7 29. Nxh5+ Kh8 30. Kh6": "ya est\u00e1 el rey donde quer\u00eda estar, lo dem\u00e1s es cuesti\u00f3n de tiempo",
+        "30... Rdf8 31. Rd3": "con esta torre precisamente",
+        "31... Rad8": "no con esa precisamente",
+        "32. Rxa7 Ne5": "La jugada del caballo es fuerte, amenaza 33....Rf7 y si 34.Rxf7 sigue Nxf7#",
+        "33. Rxh7+ Kg8 34. Rg3+": "Aqui se rindieron las negras, lo que sigue es ilustrativo",
+        "34... Ng6 35. Rxg6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/el-rey-se-fue-a-la-guerra?gm=38616",
+    "gameName": "El rey se fue a la guerra",
+    "players": "cnote9 (1566) vs. moxnix (1498)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

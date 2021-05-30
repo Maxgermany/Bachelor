@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Meyer indicates he wants an open game, quickly tactical.",
+        "1... e5": "Newcomb obliges.",
+        "2. Bc4": "An old-fashiooned variant. 2 N-KB3 supplanted this move in popularity around 1830.",
+        "2... Bc5": "Countering symmetrically. 2... N-KB3 is the most solid response, but this move is acceptable.",
+        "3. Qh5": "If properly defensed, this move should not be a threat. But Newcomb fails to properly defense it.",
+        "3... g6": "An error. The correct move was 3... N-KR3, to be followed up with 4... O-O neutralizing any chance of a quick mate and leaving White's Q dangerously exposed.",
+        "4. Qxe5+": "Meyer pounces on the mistake. Black's position is already crumbling.",
+        "4... Ne7": "The alternatives aren't much better. There's no way to avoid losing the KR.",
+        "5. Qxh8+": "The King-hunt is on in earnest.",
+        "5... Ng8": "Forced. Mate is now forthcoming.",
+        "6. Qxg8+": "Closing the ring.",
+        "6... Bf8": "6... K-K2 would have prolonged the game, but Newcomb's position was hopeless anyway.",
+        "7. Qxf7#": "Mercifully putting Black out of his misery."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-los-angeles-1952?gm=35915",
+    "gameName": "Tournament game, Los Angeles 1952",
+    "players": "Meyer  vs. Newcomb ",
+    "opening": "Bishop's opening (C23), Classical variation"
+}

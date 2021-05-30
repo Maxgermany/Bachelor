@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Bxc6 Bxc6 6. d3 e6 7. Nc3 Nf6 8. Bg5 Be7 9. h3 h6 10. Be3 O-O 11. Nh2 e5 12. Ne2 Qc7 13. c4 b5 14. b3 Rad8 15. Ng3 bxc4 16. bxc4 Bd7 17. Qd2 Nh7 18. Nf3 f5 19. exf5 Bxf5 20. Ne2": "Alternative variation: [Fritz 11:] 20. Nxf5 Rxf5 21. Rab1 Bg5 22. Nxg5 Nxg5 23. Rb2 Ne6 24. Rfb1 Qc6 25. Rb7 Rf7 26. Rxf7 Kxf7 27. Qe2 Rf8 28. Qg4 Nd4 29. h4 a5 30. Bxd4 [0.42/19]\n",
+        "20... Bxh3": "He aqui lo que yo me perd\u00ed, ante la pasividad de las blancas, las negras aplican este golpe t\u00e1ctico y ganan el pe\u00f3n y claramente tienen iniciativa.",
+        "21. Bxh6": "Alternative variation: [Fritz 11:] 21. Ng3 Rxf3 22. gxf3 Bxf1 23. Kxf1 Ng5 24. Qe2 Rb8 25. Ne4 Qd7 26. Bxg5 Qh3+ 27. Kg1 Bxg5 28. Nxg5 hxg5 29. Qe4 Kf7 30. Qg4 Qxg4+ 31. fxg4 Rb2 [-1.53/22]\nY este es el error de c\u00e1lculo de las blancas, claramente pierden material y en condiciones normales, tambien la partida.",
+        "21... Rxf3": "Alternative variation: [Fritz 11:] 21... gxh6 22. Qxh6 Qd7 23. Ng3 Rf7 24. Qe3 Bg4 25. Nd2 Bg5 26. Qe1 Nf6 27. Nde4 Bf4 28. Rb1 Qa4 29. f3 [ -2.81/20]\n",
+        "22. gxf3 Bxf1 23. Kxf1 gxh6 24. Qxh6 Bg5 25. Qh5 Qf7 26. Qg4 Rf8 27. Kg2 Qf5": "Alternative variation: 27... Qg6 [Fritz 11:] 28. Qe4 Kg7 29. Ng3 Nf6 30. Qxg6+ Kxg6 31. Rb1 Nh5 32. Nxh5 Kxh5 33. Rb7 a5 34. Rb6 Rf6 35. a4 Kg6 36. Kf1 Kf5 37. Rb5 Bd2 [ -2.87/23]\n",
+        "28. Qxf5 Rxf5 29. Ng3 Rf8 30. Rb1 Bf4 31. Ne4 Rd8 32. Rb7 d5": "Alternative variation: [ Fritz 11:] 32... a5 33. Rb6 Ng5 34. Nxd6 Kf8 35. Rc6 Rd7 36. a4 Bd2 37. Kg3 Be1 38. Ra6 Ne6 39. Ne4 Rg7+ 40. Kh4 Rg6 41. Rb6 Kg7 42. Rb7+ Kh6 43. Rb6 Nf4 [-1. 33/21]\n",
+        "33. cxd5 Ng5 34. Nf6+": "Alternative variation: [Fritz 11:] 34. Rxa7 Kf8 35. Nxc5 Rd6 36. Rc7 Rh6 37. a4 Rh2+ 38. Kf1 Rh1+ 39. Ke2 Nh3 40. d6 Ng1+ 41. Kd1 Nxf3+ 42. Kc2 Nd4+ 43. Kb2 Rh2 44. Ne4 Be3 45. a5 Bxf2 46. a6 [0.11/20]\n",
+        "34... Kf8 35. Rc7": "Alternative variation: [ Fritz 11:] 35. Nd7+ Ke7 36. Nxe5+ Kd6 37. Ng6 Rg8 38. Rxa7 Ne6 39. dxe6 Rxg6+ 40. Kf1 Kxe6 41. a4 Rg8 42. a5 Rd8 43. Ke2 Rb8 44. a6 Rb2+ 45. Ke1 Rb3 46. Ke2 Ra3 47. Ra8 Ra2+ 48. Ke1 [-0.46/0]\nAlternative variation: [Fritz 11:] 35. Rxa7 Rd6 36. Nd7+ Ke8 37. Nxc5 Rxd5 38. Rc7 Rd6 39. a4 Rg6 40. Rc8+ Ke7 41. a5 Ne6+ 42. Kh3 Nxc5 43. Rxc5 Kd6 44. Rb5 Rg8 45. a6 Kc6 46. Rb2 Rg7 47. Kh4 [-0.51/21]\n",
+        "35... e4 36. Rxc5 exf3+ 37. Kf1 Bd6": "Alternative variation: [Fritz 11:] 37... Ke7 38. Ke1 (38. Nh5 Rb8 $19) 38... Rh8 39. Kd1 Rh1+ 40. Kc2 Rc1+ 41. Kb3 Rxc5 42. d4 Rc8 43. Nh5 Nh3 44. Ka4 Bd6 45. Ng7 Nxf2 46. Nf5+ Kd7 47. Nh4 Rf8 48. Ng6 Rf5 49. Nh4 [-10.38/21]\n",
+        "38. Rb5 Ke7 39. Ng4 Rc8 40. Ke1 Bf4 41. Ne3 Kd7 42. Nc4 Nf7 43. Rb7+ Rc7 44. Rxc7+ Kxc7 45. d4 Nd6 46. Nb2 Ne4 47. Nd3 Bd6 48. Kf1 Nc3 49. Ne1 Nxd5": "Alternative variation: [Fritz 11:] 49... Nxa2 50. Nxf3 Bf4 51. Ke2 Kd6 52. Kd3 Kxd5 53. Nh4 Nc1+ 54. Kc3 Ne2+ 55. Kb4 Nxd4 56. Ka5 Bd6 57. Ng2 Bc5 58. Ne3+ Ke4 59. Nd1 Kf3 60. Ka6 Ne6 61. Kb7 a5 62. Kc6 [-4.07/0]\n",
+        "50. Nxf3 Nc3 51. Ke1 Nxa2 52. Kd2 Nb4 53. Kc3 a5 54. Nd2 a4 55. Nc4 Bf8": "Alternative variation: [Fritz 11:] 55... Nd5+ 56. Kb2 Bb4 57. Kc2 Kc6 58. Nb2 Kb5 59. Nd1 Bd6 60. Kd3 a3 61. Nc3+ Nxc3 62. Kxc3 Kc6 63. Kb3 Kd5 64. Ka2 Kxd4 65. Kb3 Ke4 66. Ka2 Kf3 67. Kb3 Kxf2 [-4.65/22]\n",
+        "56. Nd2 Kd6": "debe ser Rc6\n",
+        "57. Nb1 Kd5 58. Na3 Be7 59. Nb5 Na2+ 60. Kd3 Kc6 61. Kc4 Nb4 62. Nc3 a3 63. Kb3 Nd3 64. f3 Nc1+ 65. Kc2 Bb4 66. Ne4 Ne2 67. Kb3 Nc1+ 68. Kc2 Ne2 69. Kb3 Nxd4+ 70. Ka2 Nxf3 71. Nf2 Ne1 72. Nd1 Nd3 73. Kb3 Nc1+ 74. Kc2 Bd2 75. Kb1 Kb5 76. Ka1 Kb4 77. Kb1 Kb3 78. Nb2 Na2 79. Nd1 Nc3+ 80. Nxc3 Bxc3 81. Kc1 a2 82. Kd1 a1=Q+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/toerneo-mayor?gm=45191",
+    "gameName": "Toerneo Mayor",
+    "players": "Amad\u00edo, Mauro  vs. Migliorero ",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

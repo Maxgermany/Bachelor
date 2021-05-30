@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. c4 Bc5 3. Nh3 Qf6 4. Nc3 d6": "Threatening the Knight",
+        "5. Nd5": "Good move - surprised me.",
+        "5... Qd8 6. a3": "Slow attack on the B?  Otherwise I don't get it.  I think it is a wasted move right now.",
+        "6... c6 7. Qa4": "nice defense of the knight",
+        "7... Bd7 8. Ne3 Bxe3": "I hate your knights and don't mind trading b's for them.",
+        "9. dxe3 c5 10. Qd1 Bc6 11. f3 a6": "This seems like a better time to pull this pawn up.",
+        "12. f4": "You lost the game here.  Initiative is mine - I threatened e4 on turn 10 and you immediately move off that protection.",
+        "12... Bxe4 13. Ng5 f5 14. b4": "Another strange move.  I am only up a pawn.  I might have traded the other knight for my other bishop.  I have g3 pinned.  a critical point in the game.  If you didn't trade pieces, you could move Nf3 to force me to trade if I want.",
+        "14... exf4": "but instead I get another pawn.",
+        "15. Ne6": "Another critical error.  You have GOT to move me off of e4 or get Bf1 moving so you can castle.",
+        "15... Qh4+": "g3 in turn 14 would have prevented this too.",
+        "16. Kd2": "Now I am playing chase the king.  G3 would be really helpful now, but it is still pinned.\n",
+        "16... fxe3+ 17. Kxe3 Qh6+ 18. Nf4": "nice recovery.  again it shows why I hate your N's",
+        "18... Qf6 19. Rb1 Bxb1": "Oops.  Might not have mattered much, but still a mistake.",
+        "20. Bd3 Qe5+ 21. Kf3 Bxd3 22. Re1": "I think you should have taken the B.  You get too fancy with the Re1 move and ...",
+        "22... Be4+": "I save the B AND put you in check AND free my Q from being pinned.",
+        "23. Ke3 Ne7": "I want the free pawn (g2), but then my Q is pinned again.  I make this move to add another layer in front of my K, plus open up O-O",
+        "24. Qh5+ g6 25. Nxg6": "nice snag and threatens h8 and prevents O-O",
+        "25... f4+": "Stupid move.",
+        "26. Nxf4+ Qxh5": "I really had no choice but to trade Q's.  I am way ahead on points, so the trade favors me.",
+        "27. Nxh5 Bg6 28. Nf6+ Kf7 29. Rf1 Nbc6 30. Ne4+ Nf5+ 31. Kf4 Rhd8 32. g4 Nfd4 33. Ke3+ Kg7 34. bxc5 Nc2+ 35. Kf4 Rdf8+ 36. Kg3 Rxf1 37. cxd6 Rxc1 38. Nc5 Rg1+ 39. Kf3 Rf8+ 40. Ke2 Rg2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-mariner249er?gm=1271",
+    "gameName": "Challenge from mariner249er",
+    "players": "mariner249er (1068) vs. dreid (1392)",
+    "opening": "King's pawn game (C20)"
+}

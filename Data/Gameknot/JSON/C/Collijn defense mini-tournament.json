@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nd2 Qg5 7. Ngf3 Bxd2+ 8. Nxd2 Qxg2": "All the games begin here.",
+        "9. Qh5": "Threatening 10 QxP ch K-Q1 11 Q-B8 mate. Black must select his response with care.",
+        "9... g6": "A mistake. 9... Q-N3 was the best move.",
+        "10. Qe5+": "Now a ferocious King-hunt begins.",
+        "10... Ne7": "As good or bad as anything else. Black's game is lost.",
+        "11. Qxh8+": "Winning back the material, but that is a minor consideration.",
+        "11... Ng8": "Forced.",
+        "12. Qxg8+": "Picking up the free piece.",
+        "12... Ke7": "Again forced.",
+        "13. Qxf7+": "Leaving Black a choice of how quickly he wants to die.",
+        "13... Kd6": "13... K-Q1 would have ended the torture at once (14 Q-B8 mate.)",
+        "14. Qf6+": "Flushing the game.",
+        "14... Kc5": "Forced again.",
+        "15. Qd4+": "Closing in.",
+        "15... Kc6": "The only legal move... again.",
+        "16. Qd5+": "Tightening the noose.",
+        "16... Kb6": "This should have ended things. 17 Q-QN5 mates at once.",
+        "17. Bd4+": "This prolongs things one move.",
+        "17... c5": "This is that move.",
+        "18. Qxc5#": "Mercifully putting Black out of his misery."
+    },
+    "url": "https://gameknot.com/annotation.pl/collijn-defense-mini-tournament?gm=57213",
+    "gameName": "Collijn defense mini-tournament",
+    "players": "last_archimedean (1362) vs. starkkev (1343)",
+    "opening": "Danish gambit (C21), Collijn defence"
+}

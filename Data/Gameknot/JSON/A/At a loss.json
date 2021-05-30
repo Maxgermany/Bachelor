@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 c5 2. d5 e5 3. e4": "Played irreflexively. It is better to take e.p.",
+        "3... d6 4. Nf3": "I am completely out of my known lines, so I am prepared to suffer in the opening. I sense this move is not the most accurate. ",
+        "4... Be7 5. h3": "Losing time.",
+        "5... Nd7 6. c4": "Blocking in my lsb. ",
+        "6... Ngf6 7. Qc2": "I sensed it was better to defend it with the Q, and leave the N to be more flexible.",
+        "7... Nf8 8. Be2 Ng6 9. g3": "Preventing Nf4, but debilitating my castling pawns. ",
+        "9... Bd7 10. Nc3 Qc8": "I overlooked the theat to h6, but I think it is not all that bad to let him take it. ",
+        "11. a4": "To support a future N entry in b5, if ever Be7 moves... which is not likely to happen! I'm at a loss!",
+        "11... Bxh3 12. Ng5 Bd7 13. f4": "My king is wide open, but I can't allow myself into passivity. I have to create some play.",
+        "13... exf4": "I didn't want my dsb to be exchanged by the Ng6. ",
+        "14. gxf4": "He gets g4, true, but is it really useful for him?",
+        "14... h6 15. e5": "Time to open up the game. I don't have time to get my K saved. ",
+        "15... dxe5 16. fxe5 Nxe5 17. Bf4 Ng6 18. d6": "Now, a curious tactic situation happens. If black takes my B, he can't take anymore the N or RxR+. ",
+        "18... hxg5 19. Rxh8+ Nxh8 20. Nd5": "I want to bring my Q to h7. In order to do that, I have to get rid of Nf6.",
+        "20... Nxd5 21. Bxg5": "I can't hope to recover all the material, and I don't want a B to be able to land in f8. (This whole plan has a flaw: can you see it?).",
+        "21... Bxg5 22. Qh7": "...and I thought black had no escape from QxN# or Qg8#. But he has!",
+        "22... Ng6 23. Qg8+ Nf8": "Here, Qxg7 was the needed move in order to play Bh5 and go on with the attack. But I can't allow black a single move to activate, or to free his K position. If Qxg7 ...Qd8, Bh5 and black can play ...Qf6.",
+        "24. cxd5 Bh6": "Ouch! My Q is trapped!",
+        "25. Bh5": "Just a tempo to bring Ra1 in, please... :-)",
+        "25... Be6": "?? Thank you, black! g6, and I'm busted. ",
+        "26. Kf2": "The needed tempo to bring the R in!!!! ",
+        "26... Bxd5 27. Re1+ Be6 28. Qxf7+ Kd8 29. Qe7#": "Incredibly... lucky! Thanks for reading!"
+    },
+    "url": "https://gameknot.com/annotation.pl/at-a-loss?gm=63509",
+    "gameName": "At a loss",
+    "players": "damafi (1464) vs. big7slick (1532)",
+    "opening": "Semi-Benoni (`blockade variation') (A44)"
+}

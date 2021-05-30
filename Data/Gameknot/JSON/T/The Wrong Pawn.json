@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3": "1. Nf3 (the Reti Opening) - my last opponent, apastpawn (Wayne) played this against me and won so I thought I would spring this suprise on another Expert!  Marin, however, responds with c5 instead of d5",
+        "1... c5 2. c4 e6 3. g3 b6 4. Bg2": "4. Bg2 (over the last few moves the game has transposed into an English Opening - it is quite common in the English to fianchetto your king bishop)",
+        "4... Bb7 5. Nc3 Nf6 6. d3 Be7 7. h3 O-O 8. O-O": "8. 0-0 (over the last few moves Marin and I have just concentrated on getting our pieces out)",
+        "8... a6 9. b3 d6 10. e3": "10. e3?!  (in hindsight I think this is an inaccuracy which leads to a lot of trouble later on)",
+        "10... Nbd7 11. Bb2 Rc8": "11. .......... Rc8 (just starting to put pressure on the c file - although this later shifts to the d file with disastrous consequences for yours truly!)",
+        "12. Rc1 Rc7 13. Rc2 Qa8": "13. ......... Qa8 (doubling up on the a8-h1 diagonal through the heart of white's castled position - must pay attention here!  Pity I do not do so later!)",
+        "14. Re1 Ne5 15. e4": "15. e4?! I make a pawn break to e4 but I think this may be inappropriate as it leaves the d pawn permanently backward",
+        "15... Nxf3+ 16. Bxf3 Rd8 17. Rd2 Ne8 18. Bg2 Rcd7": "18. ...... Rcd7 (Marin has amassed his heavy pieces on the d file and they are trained on my d pawn)",
+        "19. f3": "19. f3 (closes off the a1-h8 diagonal)",
+        "19... Nc7 20. Ba1 Bf6 21. Kh2": "21. Kh2 (I decide to move my king onto the second rank because my wall of pawns has moved up and it makes the king look less exposed)",
+        "21... Bd4 22. Bb2 b5 23. Nb1": "23. Nb1 (bit passive for the knight but I want to get rid of that horrid looking dark square bishop and he obligingly exchanges it)",
+        "23... Bxb2 24. Rxb2 d5 25. Qe2 h6": "25. ......... h6 (what is this seemingly innocent move?  Is he doing a Heinzkat?)",
+        "26. Rd2 dxc4 27. bxc4": "27. bxc4?? (the error that costs the game - I think that I forgot that my knight was defending d2 so I took with the b pawn - if I had taken a deep breath and counted to ten before taking with the pawn I would have taken in the bigger picture and got rid of the backward pawn in one fell swoop)  Now on move 39 I pay, pay pay!",
+        "27... b4 28. Qe3 Rd7d4 29. Bf1 a5 30. Rf2 a4 31. Nd2 Qa5 32. Ra1 Na6 33. Qe1 Nb8 34. Qb1 Nc6 35. f4": "35. f4 (trying to give myself some air)",
+        "35... Rd4d6 36. Nf3": "36. Nf3 (if the knight goes to d5 I can exchange it but it does me no good)",
+        "36... Nd4 37. Nxd4 Rd6xd4 38. Qc2 Bc6 39. Rd2": "39. Rd2?? (this costs two pawns as the d pawn is pinned - I thought it was a good idea to give added protection to the d pawn but this was evil as my opponent pointed out - it costs 2 pawns almost outright.",
+        "39... Bxe4 40. Be2 Qa6 41. Rad1 Bc6 42. Qb1 Qb7 43. Bf1 Bf3 44. Re1 Rxc4 45. Rc2 Rxc2+ 46. Qxc2 Qa7 47. Rc1": "47.  I try to get a pawn back by piling up on the backward c pawn but ......",
+        "47... Bd5 48. Qxc5 Qxc5 49. Rxc5 Bxa2 50. Ra5": "50. Ra5 (another attempt to win back a pawn but.........)",
+        "50... b3 51. Rxa4": "51.  I decide to take some satisfaction of winning back a pawn  before tossing in the sponge next move on the grounds of impending ruinous loss of material).  Well folks, this is my longest game against an Expert so far.  It just goes to show - one mistake against these Experts and it is CERTAIN that you will pay through the nose and end up with the BLOB!!",
+        "51... b2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-wrong-pawn?gm=11905",
+    "gameName": "The Wrong Pawn",
+    "players": "jstevens1 (1525) vs. marinvukusic (2062)",
+    "opening": "Reti opening (A04)"
+}

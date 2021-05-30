@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Off we go",
+        "1... d5 2. Bf4 c5 3. e3 Nc6 4. c3 Nf6 5. Nd2 Qb6 6. Qb3 c4 7. Qxb6 axb6": "All equal",
+        "8. Ngf3 b5 9. Be2 Nh5 10. Ne5": "I'm not bothered about the bishop for now, am playing to control e5",
+        "10... Nxf4 11. exf4 Ra6": "I think white stands better here as black is behind in development",
+        "12. O-O h5 13. b3 Nxe5 14. fxe5 Rg6 15. h4": "Black is intending to put pressure on g2 but I am not going to allow it",
+        "15... Bg4 16. Nf3": "B-h3 is met by knight to g5\n",
+        "16... e6 17. bxc4 bxc4 18. Rab1": "Now white switches to the queen side",
+        "18... Be7 19. Rxb7 f6 20. Rfb1": "Now it gets interesting",
+        "20... Bxf3 21. Bxf3 fxe5 22. Rb7b8+ Bd8 23. Rxd8+ Kxd8 24. Rb8+ Kc7 25. Rxh8": "Interesting times now",
+        "25... exd4 26. Bxh5 Rf6 27. cxd4 Rf4 28. Bg6 Rxd4 29. h5": "This h pawn has legs",
+        "29... Rg4 30. Rg8 Rxg6 31. hxg6 c3 32. Rxg7+ Kd6 33. Rg8 Kd7 34. g7": "Game over",
+        "34... c2 35. Rc8 Kxc8 36. g8=Q+ Kb7 37. Qh7+": "Black resigns what was a very hard fought game"
+    },
+    "url": "https://gameknot.com/annotation.pl/world-challenge-tour?gm=36071",
+    "gameName": "World Challenge Tour",
+    "players": "dwardman (1685) vs. piji (1711)",
+    "opening": "Queen's pawn, Mason variation, Steinitz counter-gambit (D00)"
+}

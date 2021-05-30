@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 b5": "This move lets Euwe establish a powerful central presence.",
+        "2. e4 Bb7 3. f3": "The fianchettoed B \"bites on granite\", and White is already severely constricting Black's game.",
+        "3... a6": "Another flank move, which does nothing to support the center.",
+        "4. c4": "This forces Abrahams to react. He cannot let Euwe have four all-powerful central Pawns.",
+        "4... bxc4": "Removing one of the Pawns, but opening up lines of attack.",
+        "5. Bxc4": "6 Q-N3 is now threatened.",
+        "5... e6": "Blocking the immediate threat, but doing nothing to improve his position.",
+        "6. Nc3": "Adding more fuel to the fire.",
+        "6... d5": "Abrahams finally fights for a piece of the center. But it is too little, too late.",
+        "7. Qb3": "7... PxB is now countered with 8 QxB N-Q2 9 Q-B6 winning at least a Pawn.",
+        "7... Nc6": "Hoping for 8 QxB??, which loses a piece [8... N-R4 9 B-N5 ch K-K2 10 NxP ch PxN, and White's Q and B are both attacked.]",
+        "8. exd5": "Now threatening P-Q6 at the appropriate time.",
+        "8... Nxd4": "The alternative is 8... N-R4, and after 9 Q-R4 ch P-B3 10 PxKP, the only person who would like Black's position is an archaeologist, as it is in ruins.",
+        "9. Qxb7": "Wins a piece outright.",
+        "9... Rb8": "Desperation. Now another Pawn falls.",
+        "10. Qxa6": "Black could easily resign now.",
+        "10... Ra8": "A spite move, attacking the Queen uselessly.",
+        "11. Bb5+": "Turning up the heat.",
+        "11... Ke7": "The only other choice, equally hopeless, was ... P-B3.",
+        "12. d6+": "Black resigns. If 12... PxP, 13 B-N5 ch P-B3 14 Q-N7 ch and mate in 1. If instead 12...QxP, 13 QxR N-B7 ch 14 K-B1 NxR 15 B-N5 ch!! Any 16 Q-K8 mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-bournemouth-1939?gm=36841",
+    "gameName": "Tournament Game, Bournemouth 1939",
+    "players": "Euwe  vs. Abrahams ",
+    "opening": "Polish defence (A40)"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. b4": "This is a series of the best matches in a mini tournament of the Orangutan Opening",
+        "1... e5": "Orangutan Opening",
+        "2. e4 Bxb4": "This is nice start for black, most common is to exchange the pawns with the bishop",
+        "3. c3 Bc5 4. Nf3 Qf6": "White didn\u00b4t see a more concentrated attack on the king side",
+        "5. Ba3 Bb6 6. Bc4": "But have a goog plan??",
+        "6... d6 7. O-O": "I dont think this is good",
+        "7... Nh6 8. Qa4+ Kd8 9. Bd5": "But the plan keeps going",
+        "9... c6 10. Bc4 Qg6": "Anunciated going for castle breaking, note Bb3 in a great position",
+        "11. Re1 Bh3": "Pull attack",
+        "12. g3 Ng4": "Double threat on f2!",
+        "13. Nh4 Qf6 14. Nf5": "He blocks the queen but now theres no turning back",
+        "14... Bxf2+": "This is a massive attack, pictoric",
+        "15. Kh1 Bxe1 16. Nxd6 Qf3+": "Takes rook, knight can take black rook but its too late",
+        "17. Kg1 Qg2#": "Abismal checkmate, is been said that in orangutan op, savage attacks are usually seen, well lets see, thank you!"
+    },
+    "url": "https://gameknot.com/annotation.pl/orangutan-research-i?gm=46896",
+    "gameName": "Orangutan Research I",
+    "players": "rogsill (1155) vs. ofiuco (1243)",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

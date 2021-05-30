@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nGerhard (Chicoboy) asked me to annotate this game.  It was a game from Charleshiggie's Group J Training Tournament.  It is white who cops Old Matey - so, how does this happen?  Well, there is a plethora of unusual opening moves from white including a lotta pawn moves, so black does get a lead in development in the opening.  Well, we shall see how the game pans out .......",
+        "1... Nc6 2. d3 e5 3. f4": "3. f4 - so Chris decided to answer Gerhard's Nimzowich Defense with a delayed King's Gambit.",
+        "3... f6": "3. ..... f6 - which transposes into Damiano's Defense on the next turn!",
+        "4. Nf3 Bc5 5. c3 d6 6. b4 Bb6 7. a4": "7. a4 - thee has been a series of pawn pushing.  I see the sense in this pawn roll though.  Chris is trying to trap Gerhard's dsb.",
+        "7... a5": "7. ..... a5 - and Gerhard creates a bolt-hole.",
+        "8. b5 Nce7 9. fxe5 dxe5": "9. ...... dxe5 - pawn trade.",
+        "10. d4 Bg4": "10. .... Bg4 - pin.",
+        "11. Be2": "11. Be2 - unpin.",
+        "11... g5 12. dxe5 Bxf3 13. Bxf3 Qxd1+ 14. Bxd1": "14. Bxd1 - a plethora of exchanges results in Gerhard being a pawn down.  Can Chris make use of the extra pawn though?  Only time will tell.",
+        "14... h6 15. Bh5+ Kf8 16. exf6 Nxf6": "16. ..... Nxf6 - Gerhard's king knight develops at last.  Now Gerhard must sort out where he is gonna put his king.",
+        "17. Bf3 g4 18. Be2": "18. Be2 - Chris' lsb has been pushed back.  Now what?",
+        "18... h5 19. e5 Ne4": "19. .... Ne4 - Gerhard's knight has been driven to a better square.  This move puts a little pressure on the isolani on c3.",
+        "20. Rf1+ Ke8 21. Bg5": "21. Bg5?? - loses piece.",
+        "21... Nxg5": "21. ..... Nxg5 - t.v.m.",
+        "22. Na3 Ne4 23. c4 Rd8": "23. ..... Rd8 - although the rooks are still unconnected, Gerhard does manage to centralise the queen rook.",
+        "24. h3 g3": "24. .... g3 - although Chris is a piece to the bad, you wouldn't think he was gonna cop Old Matey in just two moves, would you?",
+        "25. Rf4 Bf2+": "25. ..... Bf2+ - white must now give up his rook to avoid losing his king!",
+        "26. Kf1 Nd2#": "26. ..... Nd2 MATE!! Sadly white opts for sudden death.  Chris is a piece for a pawn light in the final position and with the endgame approaching this would have no doubt been decisive in Gerhard's favour anyway.  As snap mates go, this one is a beauty!  Well played Gerhard!"
+    },
+    "url": "https://gameknot.com/annotation.pl/old-matey-out-of-nowhere?gm=49671",
+    "gameName": "Old Matey Out of Nowhere!",
+    "players": "chrisforbes21 (1213) vs. chicoboy (1292)",
+    "opening": "KP (B00), Nimzovich defence"
+}

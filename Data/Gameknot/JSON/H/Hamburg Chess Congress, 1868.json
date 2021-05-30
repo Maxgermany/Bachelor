@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4": "Lange, never afraid, accepts the gambit.",
+        "5. c3 Ba5 6. d4": "Von Rothschild plays the standard line.",
+        "6... exd4 7. O-O": "Von Rothstein postpones the recapture by a move in order to castle.",
+        "7... Bb6 8. cxd4 d6": "Lange begins opening lines for counterattack.",
+        "9. d5 Na5": "Attacking the B.",
+        "10. Bb2 Ne7 11. Bd3 O-O": "Lange tucks his own King safely away.",
+        "12. Nc3": "Clearing the last minor piece.",
+        "12... Bg4": "Countering with a pin.",
+        "13. Be2": "Unpinning at once.",
+        "13... Bxf3": "Capturing anyway.",
+        "14. gxf3": "A mistake. Von Rothschild should have recaptured with the B instead of opening up his K's position.",
+        "14... Ng6": "Lang immediately prepares to exploit this error, opening a line for his Q.",
+        "15. Qd2": "With the doubled KBP's, von Rothschild cannot get his pieces quickly to the threatened sector.",
+        "15... Qh4": "With his B and Q targeting the K-side and the Knight prepared to leap into the fray, Lange ratchets up the pressure.",
+        "16. Na4": "Trying to remove the B from the attacking equation.",
+        "16... Nf4": "Lange rightly ignores this, as the Knight and Queen are sufficient force against the undefended King.",
+        "17. Nxb6": "Getting rid of the Bishop...",
+        "17... Qg5+": "...but not accounting for the Queen.",
+        "18. Kh1": "Forced.",
+        "18... Qg2#": "Nicely done."
+    },
+    "url": "https://gameknot.com/annotation.pl/hamburg-chess-congress-1868?gm=37669",
+    "gameName": "Hamburg Chess Congress, 1868",
+    "players": "Albert von Rothschild  vs. Max Lange ",
+    "opening": "Evans gambit (C52), compromised defence"
+}

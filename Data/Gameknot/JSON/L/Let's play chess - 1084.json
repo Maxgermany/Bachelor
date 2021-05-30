@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "my prefered opening move. i have read a comment that this a losing move.\r\ni don't see how one could ascertain such a conclusion, given there is only one move made, aside from esp.",
+        "1... e5 2. Nf3": "attacking and developing",
+        "2... Nc6 3. Bc4 h6": "h6 has been played against this opening often, in my own experience.\r\nto defend the f7 pawn and a rook Q fork as well as hindering the knights forward movement",
+        "4. d4": "i am looking to open the middle and attack. keeping the king from castling\r\nand gaining lead in development. the reason for this opening is to start the battling early",
+        "4... d6 5. Be3": "he hasn't taken the pawn instead he defended his e pawn. i continue to develop. Be3 seems ideal spot can cover much ground from here, is not currently blocking me in and adds support to d4",
+        "5... Nf6": "developing and attacking e4.  i wonder if f5 is better",
+        "6. Nc3": "defend",
+        "6... Bg4": "this move is another reason why Be3 was a prefered move early on",
+        "7. h3 Bxf3 8. gxf3": "i take with pawn to open up g file",
+        "8... Na5 9. Bb3": "i move here cause my king is in good shape in the middle and if he takes i could flank my rook",
+        "9... exd4": "he now takes the pawn but i wonder why after he takes the N out of play",
+        "10. Bxd4": "i capture",
+        "10... Nxb3 11. axb3 d5 12. Bxf6": "i take anticipatinghe takes with Q and Nxd5 threatening the Q and im up a pawn ",
+        "12... Qxf6 13. Nxd5 Qd6 14. c3": "defending Qd4",
+        "14... O-O-O": "curious? this gains me a pawn ",
+        "15. Rxa7 Kd7": "his caslting only caused him to be shoved back into the middle where i wanted him",
+        "16. Rxb7": "now im up another pawn and threatening Rc7.  i continued to take peaces instead of developing more support for attack so there would be less to manuever around and it was not at all dangerous to me",
+        "16... Rc8": "defending c7",
+        "17. f4": "openin up diagonal for queen.  also begening pawn atack on his Q",
+        "17... Ke8 18. Qg4 Ra8 19. O-O": "had to castle now and it is in no way to his advantage to trade queens.\r\nalso you see c7 is now open for my N and the position is even better than before.  ",
+        "19... h5": "he has forgotten about the c7 pawns vulnerability, toconcerned with my Q",
+        "20. Qf5 g6 21. Nxc7+": "i wanted my Q where i could manuever better and keep the attack constant before making theN move",
+        "21... Kd8": "i get a free pawn and its nealy over.  ",
+        "22. Qxf7 Qe7": "hoping for exchange of queens",
+        "23. Ne6+": "there were simply too many attackers for his queen to defend against.\r\n\r\ni think that blacks castling was the major point for whites advantage"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=7772",
+    "gameName": "Let's play chess",
+    "players": "climbhigh2 (1550) vs. habs68 (1510)",
+    "opening": "King's pawn game (C50)"
+}

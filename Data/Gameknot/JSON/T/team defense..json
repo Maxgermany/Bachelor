@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "standard.",
+        "1... e5 2. Nf3 Nc6 3. Bc4": "nothing fancy.",
+        "3... h6": "? i must say that i dont see a reason for this move. maybe it was to prevent Ng5? or something...",
+        "4. d4 Nf6 5. d5 Na5": "attacking the bishop.",
+        "6. Be2 Bd6": "guarding e5. better would have been d6.",
+        "7. Bd3 c5": "this move had a purpose as you will see...",
+        "8. O-O": "? a bad move.",
+        "8... c4": "! attacking the LSB and winning the e4 pawn.",
+        "9. Be2 Nxe4": "1 pawn up.",
+        "10. c3 b5 11. Nbd2 Nf6 12. Nb1": "i guess going for a draw.",
+        "12... Qc7": "threatening e4.",
+        "13. g3 Bb7 14. Re1 Bxd5": "2 pawns up!!",
+        "15. Nh4 Be6 16. Bf3 Rb8 17. Nd2 g5": "?! i think best is 0-0.",
+        "18. Ng2 Bh3 19. Ne3 Bc5 20. Ne4 Nxe4 21. Bxe4 Bxe3": "?! there is really no need to trade right now.",
+        "22. Bxe3 g4": "? this traps the black bishop, now it looks like black is down.",
+        "23. Bh1 Nc6 24. Qd2": "attacking h6.",
+        "24... h5 25. Rad1 Ne7 26. Bg5 Rb6": "um, i dont understand this move. do you???",
+        "27. Bxe7 Kxe7 28. Qg5+ Kf8 29. Rxe5": "uh oh! black is in trouble!!",
+        "29... f6 30. Qf5": "?? this is a trouble move! stronger was Rf5 and black would have to defend precisely.",
+        "30... Qxe5 31. Qxd7 Re6": "threatening mat in 2.",
+        "32. Qd2 Kg7 33. Bg2 Rd8": "! this is the winning move! do you see why??",
+        "34. Qc1 Rxd1+": "resigns! because after Qxd1 Qe1+ winning. hope that you liked it? please comment and rate it on the star system. thanks!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-defense?gm=45711",
+    "gameName": "team defense.",
+    "players": "just_william (1618) vs. shehenshah (1660)",
+    "opening": "King's pawn game (C50)"
+}

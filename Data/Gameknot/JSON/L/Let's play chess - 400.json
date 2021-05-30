@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "This game was a nice theoretical struggle, on a common top level (Anand, Kramnik, Shirov,...) opening variation, were white sacrifices the a pawn to grab the initiative, and exert a smashing center domain... I disliked the follow up after the already played 21.dxe7 that just loses a great passed pawn, and went to play a novelty with the idea of infiltrating black's 7th rank and pressure for the promotion of that same pawn... it payed off and black blundered a rook for a pawn as he missed the easy combination that grants a promotion with check...",
+        "1... Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4": "Nxc3 bxc3 and I will have a strong pawn center but allowing black a queen side pawn majority",
+        "6... Nxc3 7. bxc3 c5 8. Rb1 O-O 9. Be2": "I'll go for the main line sacrificing a pawn as in Kramnik,V - Anand,V; Tal Memorial Moscow RUS (2); 2009",
+        "9... cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4": "still following Kramnik-Anand, but now the first choice has to be made either Rxb7 diverging from the previous game but also played by Kramnik sometimes, or Bg5 keeping on the game moves",
+        "13. Bg5 h6": "all this played on Kramnik,V - Anand,V; Tal Memorial Moscow RUS (2); 2009, now I will chose to diverge, but still within know theory ",
+        "14. Be3": "diverging from the mentioned game, but already played",
+        "14... Nc6 15. d5": "pushing the pawns with tempo",
+        "15... Na5 16. Bc5": "now I can threaten to capture the e pawn and protect my bishop with the d pawn, granting me at least an exchange",
+        "16... b6 17. Bxe7 Rfe8 18. d6": "here it is the bishop is secure and my d pawn keeps it's steady advance",
+        "18... Nc6 19. Bb5": "pinning the knight and threatening to win the referred exchange...",
+        "19... Nxe7 20. Bxe8 Rxe8 21. Rc1": "!? N, Leaving the knight \"en prise\" I can postpone the capture of it as he doesn't have any better square Nc8 loses immediately to a fork with d7, the pin with the rook on the d column is also not feasible, due to dxe7 and promotion with check next move... on all other games played until here the choice was the obvious dxe7, but this just loses that beautiful d6 pawn, Rc1 threatens Rc7 adding renewed support to the pawn",
+        "21... Rd8": "?? just loses, the pin jumps to sight, but further analysis, show that white can promote with check (tempo) and just then pick the rook",
+        "22. dxe7": "temporarily sacrificing the queen and promotion with tempo due to the check allows, me to pick up the rook next also...",
+        "22... Rxd1 23. e8=Q+": "as planed... and black resigned facing major loses"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=43464",
+    "gameName": "Let's play chess",
+    "players": "kaspanatola (2049) vs. sbelanoff (2176)",
+    "opening": "Gruenfeld (D90), Three knights variation"
+}

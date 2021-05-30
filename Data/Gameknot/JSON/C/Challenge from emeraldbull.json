@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4": "I am Black.\nI like this game because it was one of the fastest games ever.",
+        "1... c5": "The Benoni Defense is referred to as a defense because White still has the first-move initiative, but the Benoni is rather a counterattack, I challenge White's pawn immidiately.",
+        "2. dxc5": "Not the best move. Here, White gives up a centre pawn for a pawn a file away from the centre.\r\nThe most agressive alternative is 2.d5, the safest is 2.c3, and the most drawish moves are 2.e3 or the better 2.Nf3.",
+        "2... e6": "I am going to win back my pawn and have an extra central pawn. After Bxc5 and Nc6, I will have good control of the dark central squares and I can use my extra central pawn by playing Ne7 then d5, resulting in a sharp dynamic battle favoring Black.",
+        "3. b4": "A bad move. White tries to hold onto his extra pawn here, but I quickly exploit him.",
+        "3... a5": "I strike the defender of the c5 pawn.",
+        "4. c3": "Taking the pawn is better because after I take back with the rook and get the c5 pawn, I will only have a small advantage.",
+        "4... axb4 5. cxb4": "5. cxb4?? A losing blunder. It was White's last chance to give back the pawn and accept a disadvantage, but now his greediness will lose the game.",
+        "5... Qf6": "White resigned.\nHe cannot defend the rook, and must sacrifice a minor piece to avoid losing it. White did not want to play on down a piece with overextended queenside pawns and lacking in development."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-emeraldbull?gm=1610",
+    "gameName": "Challenge from emeraldbull",
+    "players": "emeraldbull (1458) vs. bakerbaker (1659)",
+    "opening": "Old Benoni defence (A43)"
+}

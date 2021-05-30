@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. b3 d5 2. Bb2 Nd7 3. Nf3 e6 4. e3 c5 5. d4 Ngf6 6. Bd3 Be7 7. O-O b6 8. Nbd2 O-O 9. Qe2 Bb7 10. Ne5 Qc7 11. f4 Rac8 12. Rad1 Rfd8 13. c4 g6 14. Ndf3 Ne4": "Eelnevad k\u00e4igud on tehtud suhteliselt kiiresti - siin aga vajusin suht kiire ajakontrolli juures natuke m\u00f5ttesse. Kaalusin erinevaid variante ja j\u00e4rgnes",
+        "15. cxd5 Bxd5 16. Nxf7": "Sellest k\u00e4igust ei saanud minu arvuti v\u00e4hemalt alguses k\u00fcll kohe absoluutselt aru. Aga kui paar k\u00e4iku veel tegin hakkas ta aru saama mis laual tegelikult toimub.",
+        "16... Kxf7 17. Ng5+ Nxg5 18. fxg5+ Kg8 19. e4 Bc6 20. Qg4": "Nagu n\u00e4ha siis musta kuningal ei ole enam lihtne kuhugi varju p\u00e4\u00e4seda. Iga hetk v\u00f5ib valla p\u00e4\u00e4seda b2 oda ja e6 v\u00e4lja saab veel t\u00e4iendavalt c4 kaudu r\u00fcnnata.",
+        "20... Nf8 21. Bc4 Bd7": "Tolleks hetkeks oli mul kella peal ainult 5-10seki ja m\u00e4ngisin ainult t\u00e4nu lisasekundite abile.",
+        "22. d5 b5 23. dxe6": "Ei olnud lihtne seda oda kahida, aga tundus et vf7 tapab kui c4 l\u00fc\u00fcakse.",
+        "23... Be8 24. Rd7": "See k\u00e4ik meeldis mulle eriti. ",
+        "24... Bxd7 25. Rf7": "Hakkab matt tulema.",
+        "25... Nxe6 26. Bxe6 Bxe6 27. Qxe6": "Vanker on veel \u00fcle, aga matist pole p\u00e4\u00e4su.",
+        "27... Rd1+ 28. Rf1#": "Omamoodi huvitav muidugi, et partii l\u00f5ppes nii nagu l\u00f5ppes. Tule peale panin mati. Seda ei juhtu just v\u00e4ga tihti. "
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=44314",
+    "gameName": "Chess game",
+    "players": "Sander Kukk  vs. Margus S\u00f6\u00f6t ",
+    "opening": "Nimzovich-Larsen attack (A01), classical variation"
+}

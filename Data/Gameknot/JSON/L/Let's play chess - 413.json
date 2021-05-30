@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "My first win after a very long losing streak so I thought I would annotate this for posterity. For me, not my best game ever and it could have gone either way. In the end I just got lucky",
+        "1... d5": "I haven't played the scandinavian for a while so I thought I would give it another go.",
+        "2. d3": "This always seems a little bit too passive to me",
+        "2... dxe4 3. d4 Nf6 4. Nc3 e6": "Opening a line for one bishop and closing a line for another.",
+        "5. Bg5 Be7": "This isn't what I would normally do, I tend to prefer Bc4 but I decided to give this a go",
+        "6. Bc4 Nbd7 7. Nge2 c5 8. Bxf6 Bxf6 9. Nxe4 Qa5+": "Defending the c pawn, Qc7 looks better",
+        "10. c3 Be7 11. O-O O-O 12. a3 cxd4 13. Nxd4 Qc7 14. b4": "Poor move from white as his lsb is undefended",
+        "14... Ne5": "This doesn't seem any better, surely the obvious Qxc4 is an improvement",
+        "15. f4 Nxc4": "Well if he doesn't want his bishop I will (eventually) take it",
+        "16. Qe2 a5 17. Nb5": "This move is rendered pointless by my next one",
+        "17... Qb6+ 18. Nd4 Nd6 19. Nc5 axb4 20. cxb4 Re8": "Lining the rook up against the white queen",
+        "21. Kh1 Qc7 22. Qf3 Bf6 23. Rac1": "Leaves another piece undefended",
+        "23... Bxd4 24. Nxe6": "However I had missed this little trap.",
+        "24... Qxc1": "I decided I was so far ahead in material I could afford some exchanges",
+        "25. Rxc1 Bxe6 26. Rd1 Bb3": "The dsb is immune due the threat of a back rank mate, however this is a clear blunder",
+        "27. Qxb3 Nf5 28. g4": "Aiming the knight at h4 as then I still have the threat of a back rank mate if the white rook strays away",
+        "28... Nh4 29. Qg3 Bf6 30. g5 Nf5 31. Qh3 Ne3 32. Rd3 Rac8": "Again threatening Rc1# but I had another plan up my sleeve as we will see",
+        "33. Rxe3 Rc1+ 34. Kg2 Rc2+ 35. Kf3": "This is a mistake from white, one that I was hoping for but not expecting.",
+        "35... Rxe3+ 36. Kxe3 Rc3+ 37. Kd2 Rxh3 38. gxf6 Rxa3 39. Kc2 h5 40. Kb2 Rf3 41. b5 Rxf4 42. b6 g5 43. Kc2 g4": "And white resigned. Thanks for reading, please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=42756",
+    "gameName": "Let's play chess",
+    "players": "guyser (1459) vs. elwoos (1479)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4": "I've taken lady Trompowsky to the ball more than once, but the tailored black TNs in the 2. ...Ne4 and 3. ...c5 lines have left me gnashing my teeth and hissing at rats on my ruined dark squares.  So I revert to a maiden of classical pedigree.",
+        "2... c5 3. d5 b5": "The Volga gambit.  Do I swim down its dark rivers, leaping from the moonlit bank of Novgorod?",
+        "4. Qc2": "There are many Volga declined lines (4. a4, Nf3, and 4. cb followed by 5. e3 or 5. Nc3), but I prefer this Nimzo-like move.  It is uncommon but playable, and does not oblige black all the delicious counterplay with rook artillery firing on the a and b files, in tandem with a fianchettoed KB, that black usually receives in the Volga Gambit accepted (4. cb a6 5. ba Bxa6).  The idea behind 4. Qc2 is to play e4 immediately.",
+        "4... bxc4 5. e4 d6 6. Bxc4 g6 7. Nf3 Bg7 8. O-O O-O 9. Nc3": "I mostly developed logically, not remembering much \"theory\" about this line from the warrens of my mind.  However, with such a low-maintenance line of play, very little is theory is required, common sense the cardinal rule as opposed to a highly theoretical opening variation with razor sharp sorties.",
+        "9... Ba6": "Black seeks to challenge my comfortably placed light-squared bishop.  In the Volga Gambit accepted, black's QB is usually already here with a developing tempo up.",
+        "10. Nd2": "I have no intention of swapping pieces on black's terms, and prefer him to force to issue, but not without redeveloping my KN on c4, usually a fine outpost in all the Benoni systems.  The f-pawn is also free to advance in the future.",
+        "10... Bxc4 11. Nxc4": "He obliges.",
+        "11... Nbd7 12. f4": "Grabbing more central space, and preparing for a e5 break in the future.  The weakening of my dark squares around my king is not too toxic, because black lacks the piece placement to exploit it, plus his pawn bulwark on c5 clogs up the a7-g1 diagonal.",
+        "12... Nb6": "Black once again targets c4.  Once again I have the chance to blunder with 13. b3? Nxe4, where black will win at least a pawn.  Murder down the a1-h8 file is a primary desire for black in many lines of the Benoni/Benko complex",
+        "13. Ne3": "Once again re-developed, this time on the useful square of e3, eyeing both g4 and d5, which will be weakened after an e-pawn push.  I can also hop back to c4 given opportunity.",
+        "13... Qc7 14. a4": "Preparing to shoo the QN away from b6.  If black blockades the pawn with his own push there is a permanent hole on b5.",
+        "14... Rfb8 15. Bd2": "Continuing to develop and connect my rooks.  I have tentative ideas behind a Bc1-d2-c3 placement for my dark-squared bishop, if my QN ever finds a new hunting ground, i.e. Nb5-a3-c4.  This will nullify most of the nasty tricks black tries to pull down the firing line with his own dark-squared bishop.",
+        "15... a6": "Covering b5, though even prophylactic pawn moves cost a tempo.",
+        "16. Rae1": "Continuing to evacuate the a1-h8 diagonal, and my rook is actively placed in the center, bolstering support for that future e5 push.",
+        "16... Nbd7 17. Nc4": "As advertised (black repeating the last move with 17. ...Nb6 gives my knight a b-line to the hole at c6, via Nc4-a5-c6).  My developing and re-developing schemes are completed and my army is optimally placed.  I was glad not to give Black the typical dynamic Volga-gambit play at any time in the opening.",
+        "17... Rb7": "Black's play has a listless feel to it, having shifted wood the last several moves.  It's difficult to find a clearcut middlegame plan for him, though I think ...e6 should have been tried some time ago simply to shake the tree (not now, however since 17. ...e6? Runs afoul of 18. de fe 19. f5 where black's eroding pawn structure poses significant problems).  Black hasn't committed any true errors, but in the next few moves his position is in freefall.",
+        "18. e5": "At last.  White is now clearly better, though black can survive with creative play.  However, facing a position like this is often demoralizing, regardless of defensive resources one may possess.",
+        "18... dxe5 19. fxe5 Ng4 20. d6": "Careful not to nudge the wrong pawn, lest I helpfully helpmate myself on a silver platter.",
+        "20... exd6 21. exd6 Qd8": "? The losing blunder.  This was a danger back at move 17 when black separated his rooks for a brief moment, but it was the only moment required.  Black's best bet may have been 21. ...Qc6!?, giving up the exchange for the d-pawn, i.e.: 22. Na5 Qxd6 23. Bf4 Qb6 24. Nxb7 Qxb7, where black could still put up resistance in the middlegame.",
+        "22. Qe4": "!  A double-attack.  Actually, this doesn't quite win a piece outright, and black can confuse the issue: 22. ..Bd4ch 23. Kh1 Qh4 24. h3 Nf2ch 25. Rxf2 Qxe4 26. Nxe4 f5 27. Rf4 fxe4 28. Rxe4, but when the smoke clears white's superior piece coordination gives him a decisive edge.  Black elected to resign rather than put a fight."
+    },
+    "url": "https://gameknot.com/annotation.pl/volga-vampire?gm=35413",
+    "gameName": "Volga Vampire",
+    "players": "-nosferatu- (1716) vs. velunia8 (1658)",
+    "opening": "Benko gambit (A57)"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "This is one of my best games played yet - but, I still lost.",
+        "1... c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5": "The book says to move my knight now.  I don't know my openings well yet - compared to my other games, I'm pretty happy with this outcome.",
+        "5. f3 e5 6. Ne2 Bxe4 7. fxe4 exd4 8. Qxd4 Nd7 9. Bd2 Nc5 10. Bb4 Qxd4 11. Nxd4 Nxe4 12. Bxf8 Kxf8": "I was feeling good here trapping his pieces - but my lead wasn't so great after all.  Killing his castle is perhaps less important than keeping my pawn.",
+        "13. Bd3 Ngf6": "\n",
+        "14. O-O Re8 15. a4 h5 16. Rf4 Nc5 17. Nf5": "I'd probably not offer this trade if I could do this again.  Nothing in it for me - just isolating my pawn.",
+        "17... Nxd3 18. cxd3 Re6 19. b4 g6 20. Nd4 Rd6 21. Raf1 Kg7 22. b5 g5 23. Nf5+": "A clever fork - but not enough.",
+        "23... Kg6 24. Nxd6 gxf4 25. Rxf4 cxb5 26. axb5 Rd8 27. Ne4": "I wish I would've played Nxb7.",
+        "27... Ng4 28. Nf2": "Just trade happy, I guess - again, no gain for me.",
+        "28... Nxf2 29. Kxf2 Rxd3": "I think the game is lost from here.",
+        "30. Rb4 Rd6 31. Kf3 Rb6 32. Ke4 a6": "ahh...the rest is ugly.",
+        "33. Kd4 Rxb5 34. Kc4 Rxb4+ 35. Kxb4 b6 36. h4 Kf5 37. Kc4 Kg4 38. Kd4 Kxh4 39. Ke4 Kg3 40. Kf5 h4 41. Kf6 a5": "white resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/st-paul-winter-open-round-2?gm=13544",
+    "gameName": "St Paul Winter Open round 2",
+    "players": "tom (838) vs. willy (1534)",
+    "opening": "Caro-Kann (B18), classical variation"
+}

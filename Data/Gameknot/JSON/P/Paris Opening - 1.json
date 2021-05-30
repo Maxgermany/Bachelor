@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. Nh3": "This is a themed opening where white has a counter intuitive first move",
+        "1... d5": "I respond with the Queen's pawn, opening the white squared bishop",
+        "2. g3 e5": "Now e5 taking control of the centre",
+        "3. d4 e4 4. e3": "The pawn on e4 looks sronger now",
+        "4... Nf6": "Threatening B-g4",
+        "5. Bb5+": "This is a wasted move, it gives black a tempo, and allows black to apply pressure on the kingside",
+        "5... c6 6. Bf1 Bg4 7. Qd2": "White is very cramped and black is going to open up white's kingside a little",
+        "7... Bf3 8. Rg1 Ng4 9. Bg2 Nxh2": "it is only a pawn, but the removal of the white squared bishop will cause black problems",
+        "10. Rh1 Bxg2 11. Rxh2 Bf3 12. Nc3 Nd7 13. Ng1 Bg4": "Black wants to keep this bishop as white has a weakness on white squares",
+        "14. Rh4 h5 15. f4 exf3 e.p. 16. Qf2 Qf6 17. Bd2 O-O-O 18. O-O-O g5 19. Rh2 Bd6": "White is still cramped, white should push the e pawn or put his rook on f1, although pushing the e pawn may lead to a knight sacrifice, as the idea of a later h5 has good possibilities as does the poor position of the knight on g1",
+        "20. a3": "Well this is a passive move onward with my plan",
+        "20... h4 21. Rh1": "The pawns are just going to rumble on",
+        "21... hxg3 22. Rxh8 Rxh8 23. Na2": "I have no idea of the purpose of this move but I'm happy to take the queen",
+        "23... gxf2 24. Nxf3 Qxf3": "Now black has a mate threat",
+        "25. Nc3 Rh1": "Black maintains the mate threat it is just a matter of time now",
+        "26. Rxh1 Qxh1+ 27. Nd1 Qxd1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/paris-opening?gm=38850",
+    "gameName": "Paris Opening",
+    "players": "kingrog (1450) vs. dwardman (1680)",
+    "opening": "Amar gambit (A00)"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "My opponent had a better opening phase and was thriving on my somewhat cramped position, I still needed to solve some problems before resting on a draw or even to think about any prospects of a win. Unfortunately he timed-out...\n",
+        "1... Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4": "Gruenfeld (D85), modern exchange variation",
+        "5... Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5": "aimed at c3 while defending c5 pawn",
+        "9. Qd2 Nc6 10. Rb1 a6": "prevents Bb5",
+        "11. Rc1 cxd4": "now if cxd4 I'll exchange queens",
+        "12. cxd4 Qxd2+ 13. Kxd2 f5": "threatening fxe4 to win a pawn, white has d5 as the most probable reply",
+        "14. e5": "so ee it was, I consider it as a worst move than my proposed d5 as it puts another pawn in a dark square, leaving me with the chance of playing e6 with all my pawns on light squares and a good bishop against white's weaker bishop, plus my pawn majority on the queen side might be an advantage in the endgame, for now white has more space and a better centre...",
+        "14... Be6": "the best location for my bishop aimed at a2",
+        "15. Bc4 Bxc4": "gladly I exchange the light squared bishops",
+        "16. Rxc4 Rd8": "preventing the d5 push and pinning the d pawn",
+        "17. Ke2": "well played immediately avoiding issues arround the d pawn pin",
+        "17... O-O": "connecting rooks, now I'm thinking of a possible Rd5 to block the d4 pawn or e6, but I dislike Ng5 forcing Rfe8, maybe h6 is in order before playing e6",
+        "18. g3": "y",
+        "18... e6": "I don't like the prospect of having to defend the weakness of my e6 pawn against Ng5 but this move places all my pawns on dark squares that may be enough compensation for that weakness"
+    },
+    "url": "https://gameknot.com/annotation.pl/faisalrazas-mini-tournament-i?gm=42021",
+    "gameName": "faisalraza's mini-tournament I",
+    "players": "haapala (1966) vs. kaspanatola (1947)",
+    "opening": "Gruenfeld (D85), modern exchange variation"
+}

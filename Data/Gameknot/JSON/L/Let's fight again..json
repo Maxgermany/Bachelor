@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. f4 e6 6. Be3 g5": "Agressive move that threatens to tear the white center apart... But now black will have difficulties to find a safe place for its king.",
+        "7. Nf3 gxf4 8. Bxf4 Bg7": "Perhaps is Bxc5 stronger!? The most likely prospect of the bishop is to be traded with its white counterpart for the e-pawn. Such a trade would benefit white!",
+        "9. Bb5 Qa5+ 10. Nc3 a6": "In the French opening black almost always have problems with his bishop on c8. I would prefere Bd7 and hopefully trade the bad bishop (even if it meant that the king had to take back). If the black bishop would have taken on c5, then b6 followed by Ba6 would be a good development I think.",
+        "11. Bxc6+": "Trading the good bishop for the knight... good or bad? Creates a fortress for the bishop on c8, but also creates a strong half-open file for the rook (and queen).",
+        "11... bxc6 12. Qd4": "Not the best position for the queen, Be3 is probably better!?",
+        "12... Ne7 13. O-O Nf5": "Very good position for the knight! White needs to be careful for king-side attacks.",
+        "14. Qf2": "Here we see that if the bishop stood on e3, white would gladly offer the strong knight to take the poor bishop.",
+        "14... Qb4": "Queen takes both the b-line and the 4th row, very strong!",
+        "15. Bd2": "White can only defend the bishop and the b-pawn with Bc1, but that looked too defensive to me. I think this move is rather poor... offering two pawns for some activety on the queen-side.",
+        "15... Qg4 16. Rac1": "Planing to open the center with c4. Maybe Rab1 is better? Or Rad1?",
+        "16... Rg8": "I think this move is premature. Complete the development with Bb7, 0-0-0 and Rdg8. Then start by pushing the h-pawn. (that would have been my plan :)\nObviously white would play for center and queen-side attacks, but I think Black have the edge.",
+        "17. Ne2": "Preparing c4 and perhaps a trade with the mighty knight on f5.",
+        "17... Rb8": "Putting the rook on the b-file, good to activate the rook. Is the plan to get the rook to the g-file via the 4th row? Somewere here black needs to activate the bishop on c8, maybe a5 and Ba6?",
+        "18. b3 h5": "Good move!",
+        "19. Nfd4": "Going for a trade with the mighty knight on f5 (but this is also a trap since both Nxd4 and Bxe5 ends badly for black).",
+        "19... Bxe5": "I think Bd7 is the only move!?",
+        "20. Nxc6 Bxh2+": "Could Bc7 be an alternative? The rook is not contributing to the kingside attack and after Nxb8, Bxb8 and then Bb7 there would be two bishops targeting the white king-side...",
+        "21. Kxh2 Rb5 22. Nf4 Qg3+": "I would not offer a trade of queens when I am down with material and have some pressure. This trade makes it easier for white. Maybe Ng3, R? and then Ne4 were it finds an even better position than on f5!",
+        "23. Qxg3 Nxg3 24. Rf3 h4": "Ne4!!!",
+        "25. Be3 Bb7 26. a4 Bxc6 27. axb5 Bxb5 28. Nd3 f5 29. c4 dxc4 30. bxc4 Bc6 31. Rf2 Ne4 32. Rb2 Kd7": "Good to develop the king, but not to d7... Maybe Rg3 to make some trouble for white?",
+        "33. Ne5+ Kc7 34. Nxc6 Kxc6 35. Rb6+ Kd7 36. Rxa6 f4 37. c6+ Kc7 38. Bxf4+ Nd6 39. c5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-fight-again?gm=29159",
+    "gameName": "Let's fight again.",
+    "players": "roykazz (1841) vs. nitramboy (1374)",
+    "opening": "Caro-Kann (B12), advance variation"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c6": "The solid Caro-Kann Defense",
+        "2. f4": "? weak",
+        "2... d5 3. exd5 cxd5 4. d4": "White now has a hole on e4.",
+        "4... Bf5 5. Nf3 Nf6 6. Bd3 Qd7 7. O-O Nc6 8. Ne5 Qc8 9. c3 g6 10. Nxc6": "This exchange is advantageous for Black. White's e5 knight was better than Black's c6 knight.",
+        "10... bxc6 11. Qc2 e6": "If White exchanges bishops now, Black gets an open g-file for attack.",
+        "12. Nd2 Bd6 13. Nf3": "White moves his other knight to e5.",
+        "13... Ne4": "Unfortunately for white, the knight won't be able to remain on e5.",
+        "14. Ne5 f6 15. Nf3 h6": "Black does not fear Nh4. Simply Rg8 gives Black a strong attack if White decides to exchange knight for bishop.",
+        "16. Be3 g5": "All of Black's minor pieces are \"bad.\"",
+        "17. fxg5 hxg5 18. Bxe4 dxe4": "White exchanges but blundered in the process.",
+        "19. Nxg5": "White gets no compensation for this sacrifice.",
+        "19... fxg5 20. Bxg5 Bxh2+": "Now White's king is busted.",
+        "21. Kf2 Qc7 22. Ke2 Qg3 23. Bf4": "A blunder. The position was untenable for White anyways.",
+        "23... Qxg2+ 24. Rf2 Qg4+ 25. Ke3 Rh3+": "White is losing huge material here.",
+        "26. Kd2 Bxf4+ 27. Rxf4": "White sacs the exchange to avoid losing his queen. Here, White resigned. Note how Black's king has always been on e8."
+    },
+    "url": "https://gameknot.com/annotation.pl/whites-kingside-gets-demolished?gm=47619",
+    "gameName": "White's Kingside gets Demolished",
+    "players": "jr_white  vs. dsfei ",
+    "opening": "Caro-Kann defence (B10)"
+}

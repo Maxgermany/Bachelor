@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5": "3. ......... Bc5 - I initiate the Guico Piano (Italian Game)",
+        "4. c3": "4. c3 - this is the Guico Piano proper - 4. d3 is the Piannissimo.",
+        "4... Nf6 5. d4 exd4 6. cxd4 Bb4+": "6. ...... Bb4  - a standard follow up to 4.c3.  The next move deviates from the standard.",
+        "7. Bd2 Bxd2+ 8. Nbxd2 Nxe4 9. Nxe4 d5 10. Bd3 dxe4 11. Bxe4 O-O 12. Bxc6 bxc6": "12. ......... b x c6 I thought that this was a very sensible way to deal with 7. Bd2.  However, after a plethora of exchanges my queenside pawns are busted, oh dear!",
+        "13. h3 Qe7+ 14. Qe2 Qxe2+ 15. Kxe2 Bb7": "15. ..... Bb7 - the queens have been exchanged and white's king looks handily placed for the endgame.  White siezes on this with his next move .....",
+        "16. Rac1 f6 17. Rhd1 Rfe8+": "17.  ....... Rfe8  drives the king back to f1 though.",
+        "18. Kf1 Rad8": "18......... Rad8 - brings out my last piece and puts pressure on white's isolated d pawn.  After white's next move, 19. Rd2 I try and turn the tables on him by returning the compliment.  This leads to the loss of a pawn, but amazingly I manage to get some real play for it!",
+        "19. Rd2 Ba6+ 20. Kg1 Re2 21. Rxe2 Bxe2 22. Rxc6 Bxf3 23. gxf3 Rxd4 24. Rxc7 Rd2 25. Rxa7 Rxb2 26. a4": "26. a4.  After a plethora of pawn exchanges I am now a pawn to the bad in the rook and pawn ending, but as I said earlier, it is not all bad news and I now get the rook behind the enemy passed pawn.  It does make his rook passive.  I now firstly create a luft for my king on h7 and then g6 will be his new den!  It is vital that the king is sheltered from checks when the pawn reaches the 7th rank so that the enemy rook is unable to steal a vital tempo!",
+        "26... Ra2 27. a5 h6 28. Ra8+ Kh7 29. a6 Kg6 30. a7 Kg5 31. Kg2 Kh4": "31. ...... Kh4 - the black king moves towards the enemy pawns so that if the white king goes over to help the passed white pawn, the king will gobble them up!",
+        "32. f4 Ra3": "32. ....... Ra3 - rook doing all he can to cut enemy king off!",
+        "33. f5 Kg5 34. f3 Kxf5 35. Kg3 Kg5 36. h4+ Kf5 37. Kg2 Kf4": "37......... Kf4 - material is now even as the king has managed to gobble up one pawn.  Paul pushes his h pawn on but that is more foodie woodie for my hungry king!!",
+        "38. h5 Kg5 39. Kg3 Kxh5": "39. ........ Kxh5 - yum, yum!!",
+        "40. Kf2 Kg5": "40. ......... Kg5.  As I have now created a passed pawn of my own and his king still cut off my opponent decides to throw in the sponge.  This proved to be a turnaround in more ways than one because during this game I was dangerously on the 1500 watermark.  Despite a few losses since then, a few further wins have pushed me further north of it!  Thank Goodness!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/turnaround?gm=13344",
+    "gameName": "Turnaround!",
+    "players": "paulg3121 (1532) vs. jstevens1 (1505)",
+    "opening": "Giuoco Piano (C54), Krause variation"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "I am BL. Fairly standard Queen's Pawn Game. I usually try to play a Queen's Indian Defense.",
+        "1... Nf6 2. Bf4 e6 3. c4 b6 4. Nc3 Bb4 5. Rc1": "I feel this was a mistake. The pressure on the knight isn't relieved because I am still allowed Ne4, adding more pressure.",
+        "5... Ne4 6. Qd3": "I thought he would put my bishop to the question :) with a3, I didn't want to trade just yet, thinking I still had options to strengthen my attack.",
+        "6... Bb7 7. a3": "he now moves a3 which finally forces me to make a decision. Retreating the bishop looked bad to me, and I assumed he would recapture the bishop with bxc3 (not wanting to trade his rook for a knight this early), resulting in stacked pawns, and in my opinion, a very weakened queenside. ",
+        "7... Bxc3+ 8. bxc3 Qf6": "I continue to attack. I'm usually not one to bring my queen out early but I felt no immediate threat from WT and wanted to keep him on defense.",
+        "9. Nh3": "Now WT has alleviated the threat at f2 and protected his bishop, but I'm not sure if this was the best move. knights on the borders are usually targets of mine.",
+        "9... d6": "making room for my b knight to develop",
+        "10. d5": "taking the pawn was not an option, c5 seemed a more ideal square for my knight.",
+        "10... Nc5 11. Qd1 O-O": "BL has already castled and WT's chances of castling are looking pretty slim. WT was never able to sustain any sort of offense.",
+        "12. f3 Bc8": "my bishop prepares for bxNh3, making castling near impossible for white and creating more doubled pawns.",
+        "13. Bg5": "maybe a wasted move by BL, perhaps moving bishop to g3 would have been better, allowing the knight on h3 to move to a more productive position instead of stuck protecting the bishop.",
+        "13... Qg6 14. e4 exd5": "The knight is now mine for the taking! And he must protect the black squared bishop before the knight is captured. ",
+        "15. Qxd5": "WT queen grabs a pawn, and momentarily protects the bishop. ",
+        "15... c6": "his queen is forced to move knowing the bishop still needs back-up. ",
+        "16. Qd2": "the placement of his queen allows a fork on b3, but the h3 knight is still in my bishop's sights.",
+        "16... Bxh3 17. gxh3 Nb3": "Now the fork. I think after this move my opponent made a comment. Something like,\"uh oh.\"",
+        "18. Qf4 Nxc1 19. Qxc1 Nd7": "finally my other knight gets closer to the action :)",
+        "20. Rg1": "During the game I thought for sure this move would give me his bishop, but I didn't see the escape at 21. be3",
+        "20... f6 21. Be3 Qe8 22. Bh6 Rf7 23. Qf4": "Big mistake, the WT queen has blocked all safe squares for the bishop on h6",
+        "23... Kh8 24. Bxg7+": "pretty much forced",
+        "24... Rxg7 25. Rxg7": "already down a rook, I don't think trading pieces is best here, not sure if WT had many choices at this point.",
+        "25... Kxg7 26. Qxd6 Ne5": "going pawn hunting, but WT makes a fatal error.",
+        "27. c5": "Now the queen is captured, pawn on c5 blocks only escape route",
+        "27... Rd8 28. Qc7+ Rd7": "WT resigns!"
+    },
+    "url": "https://gameknot.com/annotation.pl/queens-indian?gm=4840",
+    "gameName": "Queen's Indian",
+    "players": "poak (1624) vs. a_train_5 (1566)",
+    "opening": "Queen's pawn game (A45)"
+}

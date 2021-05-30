@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This game played in the Chess coaching club mini-tournament is not so much an analytical annotation of a game in the usual sense but more just my personal (and very brief) thoughts at various points. \n\nThe aim of the tournament (and these 'annotations') is to allow the players taking part to discuss the strategic and tactical factors of the finished games. The stronger players then being able to help those whose weaknesses may become apparent through the annotations (like me and my bad thought processes!) and the weaker players to have a chance to learn from the stronger players thoughts throughout their games.",
+        "1... e5 2. Nf3 Nf6": "...Petrov, I have rarely played this opening.",
+        "3. Nxe5 Nxe4": " Damiano variation, from my limited experince this is probably not a wise move to play!",
+        "4. Qe2": "Forces one of a couple of sensible replies, both of which favour white:\n4...Qe7\n5. Qxe4 d6\n6. d4 dxe5\n7.dxe5 \nor\n4...d5 (This was played)\nCounter attack is unadvisable:\n4...d6  5. Nxf7 Kxf7 6. Qxe4",
+        "4... d5 5. d3": "Attacks the pinned knight.",
+        "5... f6": "A counter that leads to more problems by opening up the e8-h5 diagonal.",
+        "6. Qh5+": "White could also have played:\n6. exe4 fxe5\n7. Qh5  g6\n8. Qxe5 but could not capture the rook yet due to the discovered attack Bb4 .\n\nAnother option was:\n6. Nf3 and capturing the pinned Knight on e4 with dxe4 later.",
+        "6... g6": "...probably better than 6...Ke7 which would result in the king going for a walk.",
+        "7. Nxg6": "The only reply to exploit the pinned Rook.",
+        "7... hxg6": "The only move. 7...Ng5 trying to save the knight would result in a discovered attack with a more decisive gain of material (R 2P for nothing as opposed to R P for N):\n7...Ng5\n8. Nxh8 Kd7 \n9. h4 Ne6\n10. Qxd5 ",
+        "8. Qxh8": "...or Qxg6  followed by dxe4?",
+        "8... Ng5": "Maybe not optimal, allows 9. Bxg5.",
+        "9. Bxg5 fxg5 10. Be2": "or Nc3?",
+        "10... Nc6 11. O-O Nd4": "Unfortunately overlooks the very simple 12. Qxd4...!",
+        "12. Qxd4 Qd7 13. Re1": "Places the Rook on the open file and sets up the discovered check Bg4 .",
+        "13... Be7": "A mistake that allows 14. Qh8 , which causes more problems for black.",
+        "14. Qh8+ Kf7 15. Qh7+ Ke8": "Another mistake that allows 14. Qg8 , which forces Bf8 to break the check - this allows the discovered check Bg4  to be applied.",
+        "16. Qg8+ Bf8": "Forced...",
+        "17. Bg4+": "Loss of Black's Queen is now inevitable.",
+        "17... Qe7 18. Rxe7+": "...and the game unfortunately ends by timeout."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-coaching-club-mini-tournament?gm=1230",
+    "gameName": "Chess coaching club mini-tournament",
+    "players": "mattdw (1500) vs. big_papa (1048)",
+    "opening": "Petrov (C42), Damiano variation"
+}

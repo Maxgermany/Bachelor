@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Dit jaar ben ik van plan geen normale openingen te spelen.\nAls het even kan wil ik afwijken van de theorie. \nMijn eerste partij van het nieuwe jaar voldoet er helemaal aan. \nEn Tjeerd werkte lekker mee!",
+        "1... c5 2. Nc3 e6 3. Bc4 Ne7 4. e5 a6 5. Ne4 Nf5": "....we zijn volgens mij uit de theorie",
+        "6. g4 d5 7. gxf5 dxc4": "....moeilijk kiezen",
+        "8. f6 Qd5 9. d3 Nd7 10. f4": ".... lang over gedacht, Lf4 of Df3 of Pf3 kunnen ook. Maar ik wilde nog geen afruil van stukken.",
+        "10... g6": "....jammer, nu wordt het dichtgetimmerd. nieuw plan bedenken.",
+        "11. Qe2 cxd3 12. cxd3 b6": ".... b5 was sterker, met dreiging c4",
+        "13. Nf3 h6": "....  voor andere zetten was ik banger: b5 of Lb7",
+        "14. h4 Bb7 15. b3 O-O-O": " .... nog steeds is b5 de sterkste zet, met dreiging c4",
+        "16. Bb2 Nb8 17. O-O-O": " .... Td1 was misschien beter, met later Kf2",
+        "17... Nc6 18. Bc3": "?, .... om Pb4 tegen te gaan, maar h5 was dreigender",
+        "18... Nd4 19. Nxd4 cxd4": " .... zwart staat nu m.i. beter",
+        "20. Bb2 Bb4 21. Kb1 Kb8": ".... gevecht om de open lijn!",
+        "22. Rdc1 Rdc8 23. Qf2 Rhd8 24. Rc2 Rxc2 25. Qxc2 Rc8 26. Qf2 Bc3 27. Rc1 Bxb2": ".... als de pion van b6 nu op b5 had gestaan was b4 sterk ",
+        "28. Rxc8+ Bxc8 29. Kxb2 Ka7": "? .... nu is het uit, het paard op e4 heeft een mooi veld op d6",
+        "30. Nd6 Qc5 31. Qc2": "....en zwart geeft op. De dames worden afgeruild, en het witte paard gaat de pionnen opeten.\nCommentaar: Herman Beks"
+    },
+    "url": "https://gameknot.com/annotation.pl/schaakclub-rijs-o-c-ronde-3-dd-06-10-2017?gm=63598",
+    "gameName": "Schaakclub Rijs o. c. ronde 3 dd 06-10-2017",
+    "players": "Herman Beks (1747) vs. Tjeerd de Vries (1519)",
+    "opening": "Sicilian (B23), closed, Korchnoi variation"
+}

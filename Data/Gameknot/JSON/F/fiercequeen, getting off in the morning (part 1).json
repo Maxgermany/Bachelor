@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5": "the French defense: always good for breakfast..",
+        "3. exd5 Qxd5 4. c4": "this Black Queen is clearly on some mission...",
+        "4... Qe4+ 5. Be3 Bb4+ 6. Nc3 Bd7 7. Bd3": "Black is not getting anywhere soon...",
+        "7... Qc6": "after Qxg2, Qf3...",
+        "8. Nf3 Nf6 9. O-O Bd6 10. c5": "like taking candy, from a child...",
+        "10... Be7 11. Ne5": "Black resigned: his Queen is caught..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-getting-off-in-the-morning-part-1?gm=65236",
+    "gameName": "fiercequeen, getting off in the morning (part 1)",
+    "players": "fiercequeen (2059) vs. ccheall (UR)",
+    "opening": "French (C01), exchange variation"
+}

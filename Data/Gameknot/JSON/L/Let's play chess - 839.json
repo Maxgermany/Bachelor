@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 a6": "What?!Clearly this opening move must be wrong!I was inspired to move this after seeing a game where Anthony Miles beat Karpov(!) with this opening.",
+        "2. d4": "Establishing control of the center",
+        "2... b5": "Developing the Bishop and trying to control the c4-square.",
+        "3. Nf3 Bb7 4. e5": "!?This is a rare move.4.Bd3 is more normal.",
+        "4... e6 5. Bd3 c5": "Chipping away at the center.",
+        "6. O-O Nc6 7. Be3 cxd4": "Winning a pawn.",
+        "8. Bg5 Qc7": "Bringing pressure on the e5-pawn",
+        "9. Re1 Be7 10. Bxe7 Ngxe7 11. Nbd2 O-O": "!?Inviting an attack.Since I decided my d4 pawn was a goner,I decided to castle.I had been half expecting for my opponent to sac on h7,but I decided that the worst I could do is draw with good play.The flow of the game changes and the rest is a good example of attack and defence",
+        "12. Bxh7+ Kxh7 13. Ng5+ Kh6 14. Re4": "14...Kxg5? is suicidal.14...Kxg5 15.Qg4+ Kh6 16. Qh4+ Kg6 17.Rg4+ Kf5 18.Qg5#",
+        "14... Nxe5": "In the midist of the attack Black lights up a cigar and grabs a pawn.",
+        "15. Rh4+ Kxg5 16. f4+ Kf6": "You have to know when to stop being greedy.16...Kxh4?? 17.g3+ Kh3 18.Qh5#",
+        "17. Qh5 g6": "! A good move!Black needs to make some breathing space for the king.Nevertheless White still has a draw.",
+        "18. Qg5+ Kg7 19. fxe5": "?The losing move!White had a draw with 19.Qh6+ Kf6 20.Qg5+ etc. However this attempt for a win loses!",
+        "19... Ng8": "!! The only move!This covers both of Black's weak points at f6 and h6 simultaneously! Black would be mated if any other move was played.",
+        "20. Rxd4 Qd8": "The rest doesn't need much explanation.Black tries to trade pieces while White tries to rekindle his attack.",
+        "21. Qg3 Ne7 22. Rf1 Nf5": "Fork!",
+        "23. Rxf5 exf5 24. Nf1 Be4 25. h4 Rh8 26. c3 Qxh4 27. Rxd7 Qxg3 28. Nxg3 Rhd8 29. Rc7 Rde8 30. Kf2 Rxe5 31. b4 f4 32. Nf1 Bd3 33. Nh2 Re2+ 34. Kf3 Rxa2 35. Ng4 Be2+ 36. Kxf4 Bxg4 37. Kxg4 Rxg2+ 38. Kf3": "White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=24114",
+    "gameName": "Let's play chess",
+    "players": "alvaroalbatros (1431) vs. rookie879 (1431)",
+    "opening": "St. George (Baker) defence (B00)"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. Nc3": "Hi everyone - it's the same old story, Joanne manages to resist Freddy for about 30 moves or so, then she makes a slip up, Freddy takes full advantage and duly converts his win.  This time I resigned because I knew that Freddy would be able to stop my h pawn from crowning and he had plenty of queenside passers to promote so I decided to call it a day.  Anyhow back to the beginning.  Freddy kicks off with 1. Nc3 his favourite Dunst Opening and this time I choose e5 and hope to transpose it into a kind of 4 knights opening.  Freddy turns it into a kind of Centre Game.",
+        "1... e5 2. d4 exd4 3. Qxd4 Nf6": "3. ....... Nf6 - development.",
+        "4. g4": "4. g4 - Freddy starts a pawn roll down the kingside before developing his pieces.  I now develop my other knight.",
+        "4... Nc6 5. Qe3+ Qe7 6. Qxe7+ Bxe7": "6. ....... Bxe7 - another early queen trade, but my position will still become difficult.",
+        "7. Bd2 d6 8. g5 Nd7 9. h4 Nb6": "9........ Nb6 - trying to avoid passivitis but Freddy's horsie now causes some big problems.  On the kingside the pawn roll gathers pace.",
+        "10. Nb5 Bd8": "10. ....... Bd8 - Fou Lenoir is gonna become passive alright - but I do need to guard c7.  Would Kd7 have been an improvement?",
+        "11. O-O-O a6 12. Nc3 Bd7 13. e4 O-O": "13........ 0-0 - I would have preferred to stick Henry on the queenside but I must try to develop as quickly as possible.",
+        "14. Be3 Nc8": "14. ...... Nc8 - to avoid doubled pawns.",
+        "15. f4 Bg4 16. Be2 Bxe2 17. Ngxe2": "17. Ngxe2 - trade of light square bishops.",
+        "17... Re8 18. Ng3 f6 19. Rhg1 fxg5 20. hxg5": "20. hxg5 - Freddy recaptures with the h pawn to try and create some dangerous threats on the kingside with his rooks.",
+        "20... Nc8e7 21. Rgh1 Ng6": "21. ...... Ng6 - to give Fou Lenoir some breathing space!",
+        "22. Rh5 Nf8 23. Kb1 Rc8": "23. ...... Rc8 - at last the queen rook moves!",
+        "24. Rdh1 Ne7 25. Rf1 Neg6 26. f5 Ne5": "26. ....... Ne5 - I try and get some activity for one of my horsies.",
+        "27. f6 gxf6 28. gxf6 Re6": "28. ...... Re6 - piling up on the f6 passer.",
+        "29. Nf5 Bxf6": "29. ....... Bxf6 - I wonder, in the light of Freddy's next move whether Rxf6 would have been a better alternative.  Freddy seemed to think that the text move was the best of all the evils, if that is the best then where on earth did I go wrong earlier?",
+        "30. Nd4 Bg7 31. Rxf8+ Rxf8 32. Nxe6": "32. Nxe6 - Freddy nets piece for pawn.  I try some counterplay but Freddy foils it.",
+        "32... Rf1+ 33. Bc1": "33. Bc1 - unfortunately Freddy can safely interpose a piece on the back rank, otherwise it would have been curtains for him.",
+        "33... Nf3": "33. ....... Nf3 - here I am up to something very, very dastardly with my knight move, something as dastardly as Nd2+ Ka1, Rxc1+ Nb1 and then Rxb1#!  For one happy moment I felt as though I have got him but of course, Joanne Stevens seems predestined never to put Freddy in checkmate (I'd hold a flaming street party if I did!), always the other way round worse luck!",
+        "34. Rd5 Bh6": "34. ...... Bh6 - piling on the pressure but ......",
+        "35. Rd1": "35. Rd1! - foiled again!",
+        "35... Rxd1 36. Nxd1 Bxc1 37. Kxc1 c6": "37. ....... c6 - after the exchanges which leave me a piece for pawn down my c pawn sidesteps the horsie's attack but he finds another target, the pawn on b7.",
+        "38. Nd8 Ng5 39. Nf2 b5 40. Nxc6 h5": "40. h5 - I run with the h pawn but to no avail.",
+        "41. Kd2 h4 42. Ke3 Kg7 43. Nb4 a5": "43. ....... a5 - my pawns try to evade the marauding horse but again to no avail.",
+        "44. Nc6 a4 45. a3 h3 46. Nd4 b4 47. axb4 h2": "47.  ...... h2 and resigns - after taking my pawn as near to the queening square as possible I decide enough is enough, I am a piece for pawn down and will be piece for 2 pawns down when Freddy plays Nf5+ next turn picking up the d6 pawn.  Look at those white passers waiting to crown, take your pick Freddy.  So ends Game No 20. and I pause to reflect on the grim stats.  Master Freddy 20 - Joanne Stevens NIL!"
+    },
+    "url": "https://gameknot.com/annotation.pl/its-the-same-old-story?gm=22892",
+    "gameName": "It's the Same Old Story",
+    "players": "easy19 (2203) vs. jstevens1 (1769)",
+    "opening": "Dunst (Sleipner,Heinrichsen) opening (A00)"
+}

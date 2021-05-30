@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 d5": "Scandinavian Defence aka Center Counter",
+        "2. exd5 e5": "Boehnke Gambit. ",
+        "3. Bb5+": "a developing move by the b.",
+        "3... c6 4. Ba4": "in order to maintain the pin. ",
+        "4... Bc5": "developing the b and attacking the f2 pawn at the same time.",
+        "5. dxc6 Bxf2+": "if 6.Kxf2, then 6...Qd4+ , attacking the Bish at a4 and preventing the k from castling.",
+        "6. Kf1": "wonder why he did this. maybe trying to save the Bish",
+        "6... bxc6 7. Qe2": "thus attacking both the Bish at f2 and the pawn at e5.",
+        "7... Ba6": "bet he did not see this. ",
+        "8. d3": "forced move.",
+        "8... Bd4": "Defending the pawn at e5.",
+        "9. Nf3 Nf6 10. c3": "best move for white is Nxe5.",
+        "10... Bxc3": "threatening Bxd3, winning the q. the move culminates in winning the d3 pawn come move 13.",
+        "11. Nxe5": "defending the d3 pawn.",
+        "11... Bxe5 12. Qxe5+ Kf8 13. Ke1": "to prevent 13...Qxd3+ (white prevented the + but not the taking of the dpawn)  ",
+        "13... Qxd3": "anywhere the k moves, black wins the pawn.",
+        "14. Qc5+ Kg8 15. Nc3": "prevents the mate at e2.",
+        "15... Nbd7": "a move to not only to gain a tempo but threaten the next move.",
+        "16. Qf2 Re8+": "White resigned. mate in 5: 16..Re8+ 17.Ne2 Ne4 18.Qf1 Ng3 19.hxg3 Rxe2+ 20.Qxe2 Qxe2++  "
+    },
+    "url": "https://gameknot.com/annotation.pl/scandi-in-16-3-bb5?gm=13735",
+    "gameName": "Scandi in 16 (3.Bb5+)",
+    "players": "white  vs. hamis (1468)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

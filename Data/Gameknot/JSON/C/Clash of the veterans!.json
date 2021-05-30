@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6": "So far the standard closed Ruy Lopez variation. Black often played the Marshall Attack here, 8...d5 offering a pawn for an attack.",
+        "9. h3": "Recommended to stop Bg4",
+        "9... Bb7 10. d4 exd4": "Although this exchange has been played before, I think Black does better to delay it. It give White the square c3 for the Nb1 and leaves White in control of the centre.",
+        "11. cxd4 Qd7": "Qd7 looks a natural move, but is not on the Gameknot opening databases.",
+        "12. Nc3 Nd8": "This move looks horrible. Presumably it is to prepare c5, but surely Na5 was a better way to prepare it.",
+        "13. d5": "with the idea of meeting c5 with pxp ep.",
+        "13... c6 14. dxc6": "So I take it off, to make sure Black is straddled with a backward pawn on the semi-open d file. If I didn;t play this, he might play c5 next move.",
+        "14... Bxc6": "The knight recapture looks more natural to me, but Black has a plan",
+        "15. Bf4 Ne6 16. Bh2 Nc5 17. Bc2": "It seemed to me that the position is fairly open so the Bishops are better than the Knights.",
+        "17... Rad8": "Threatening to get rid of his weakness with d5",
+        "18. b4 Nb7": "Returning the Knight to e6 seems more natural to me.",
+        "19. Nd4 Rfe8 20. Nxc6 Qxc6 21. Qd3": "Now d5 is prevented as it opens up the b1-h7 diagonal for a killing queen check on h7",
+        "21... g6 22. Rad1": "Again, making it impossible to play d5 without losing a pawn.",
+        "22... Qc4": "A somewhat drastic way of reducing the pressure!",
+        "23. Qxc4 bxc4 24. Rd4 Rdc8 25. a3": "To avoid black playing d5 followed by Bxb4",
+        "25... Bf8 26. Nd5": "I was rather worried about the Black Bishop coming to g7 with threats along the long dark squared diagonal",
+        "26... Nxd5 27. Rxd5 Bg7 28. Rc1 Bh6 29. f4 g5 30. g3 f6 31. Kf2 c3 32. Kf3 Re6": "I think both c3 - opening up the b3-g8 diagonal - and Rd3 are mistakes",
+        "33. Bb3 Kg7 34. Rxg5+ Kf7 35. Rh5 Kg6 36. f5+": "I was very pleased with finding f5, but my opponent pointed out the simply BxR won - if KxR Bf7 mate!",
+        "36... Kxh5 37. g4+ Kg5 38. Bf4+ Kh4 39. Bg3+ Kg5 40. h4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/clash-of-the-veterans?gm=21931",
+    "gameName": "Clash of the veterans!",
+    "players": "Charles Higgie  vs. Arthur banks ",
+    "opening": "Ruy Lopez (C92), closed, Flohr-Zaitsev system (Lenzerheide variation)"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4": "Basic e4 opening ",
+        "1... e5": "basic e4 return ",
+        "2. Bc4": "Bishops opening is back ",
+        "2... f6": "ohhh finally a defense ",
+        "3. c3": "getting ready for a great move.....",
+        "3... Ne7": "BIG MISTAKE!! This is the prime reason for this mate in the first place. ",
+        "4. Qb3": "Getting ready to attack......",
+        "4... b5": "???? A horrible move! ",
+        "5. Bf7#": "Easy mate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/tears-for-arkansas-state?gm=33360",
+    "gameName": "Tears for Arkansas State",
+    "players": "spainwins (981) vs. guest*6359 (1200)",
+    "opening": "Bishop's opening (C23)"
+}

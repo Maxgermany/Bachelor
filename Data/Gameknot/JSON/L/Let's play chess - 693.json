@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "This is a Queen's Pawn Gambit Accepted game in which I gained a material advantage and my opponent eventually timed out.",
+        "1... d5 2. c4 dxc4 3. e4": "I generally prefer 3. e4 here although I used to play 3. e3 quite a bit. This leads to very sharp play quite often",
+        "3... b5": "It is generally considered a bad idea to try and protect the c pawn",
+        "4. a4 Bd7 5. axb5 Bxb5 6. Nc3 c6": "The problem with trying to protect the forward c pawn is a general lack of development and weakening of position as we see here",
+        "7. b3 a5": "The pawn is now in serious trouble and there is little to be done to save it 7. ... cxb4 8. Bxb5 cxb5 9. Qxb3 evens material with a strong center and a big gain in development",
+        "8. bxc4 Ba6": "My center is extremly strong and I have strong squares for my queen and dark squared bishop available.",
+        "9. Nf3": "My focus is now getting in position to castle so I can use my development in attacks",
+        "9... e6 10. Bd3 h6": "Trying to prevent me from placing my knight on g5 but giving me even more time to develop",
+        "11. Ne5": "I thought about castling here but decided to move foward with an attack",
+        "11... Nf6": "It is no longer possible to develop the queen side knight at this time because 11. ... Nd7 12. Nxc6",
+        "12. O-O Bd6": "Trying to drive off my well placed knight. ",
+        "13. Bf4": "Developing my last piece",
+        "13... Nfd7": "While this does attack my well positioned knight it overlooks the combination in the game continuation",
+        "14. Nxf7 Kxf7": "I thought that 14. ... Bxf4 15. Nxd8 Kxd8 might be better but I'm not sure if two pieces for a queen is worse than a pawn and the loss of king side security.",
+        "15. Bxd6 Nf6": "My dark squared bishop is very strong now and dislodging it with one of the knights is going to take considerable time",
+        "16. e5": "I thought this was better than 16. c5 Bxd3 17. Qxd3 because it keeps black with a bad bishop on the a6 square which is inhibiting development of the knight and thus the rook as well.",
+        "16... Re8 17. exf6": "All the available squares for my light squared bishop and queen on the now exposed king side seemed ripe for attack to me even though I'm losing my dark squared bishop",
+        "17... Qxd6 18. Qh5+": "18. ... Kxf6? 19. Ne4+ Ke7 20. Nxd6 Kxd6 21. Qxe8 nets me a Queen and Rook for a knight ",
+        "18... Kf8 19. fxg7+ Ke7": "19. ... Kxg7 20. Qxe8 is immediate loss of rook but also bad is 19. ... Kg8 20. Qxh6 Qxd4 21. Qh8+ Kf7 22. Qxe8+ Kxe8 23. g8=Q+ I'm not sure there are any good solutions at this stage",
+        "20. Qxe8+ Kxe8 21. g8=Q+": "My opponent timed out at this stage although my material advantage is very heavy."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=28764",
+    "gameName": "Let's play chess",
+    "players": "tomlib (1468) vs. crumbler (1200)",
+    "opening": "QGA (D20), 3.e4"
+}

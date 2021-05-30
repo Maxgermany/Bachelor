@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3": "3. ............ dxc3 - this is the Danish or Goring Gambit.  I was advised by an Expert to play the Schelecter against this particular gambit to avoid getting eaten alive!",
+        "4. Bc4 cxb2 5. Bxb2 d5": "5. .......... d5 - The Schelecter.",
+        "6. Bxd5 Nf6 7. Qe2 Nxd5 8. exd5+ Qe7 9. Qxe7+ Kxe7": "9. .......... Kxe7 - the queens and one pair of bishops have been swapped off and I am a pawn up, yipee!",
+        "10. Nf3 f6 11. O-O Kf7 12. Nbd2 Bd6": "12. .......... Bd6 - but I still have work to do.",
+        "13. Ne4 Rd8 14. Rad1 Bf5 15. Nxd6+ Rxd6 16. h3": "16. h3 - one more pair of minor pieces swapped without compromising my pawn structure - good.",
+        "16... Be4 17. Rfe1 Bxf3 18. gxf3": "18. gxf3 - and more wood is cleared and I have shattered white's kingside!",
+        "18... Na6 19. a3 Rad8": "19. ............. Rad8 - over the last two moves I finally complete my retarded development and pile up on the hapless d pawn.",
+        "20. Rd4 Rd6xd5 21. Rde4 Rd5d7": "21. ..... Rd5d7 - Castle Acre and Castle Rising both form a protective fortress around Henry.  I am now 2 pawns up but my opponent is refusing to wave the white flag.  I must exchange yet more wood!",
+        "22. f4 Nc5 23. Rc4 Nd3 24. Rb1 Nxb2 25. Rxb2": "25. Rxb2 - mission accomplished - all minor pieces now swapped off.  But a double rook ending could be very tricky.",
+        "25... b6 26. Kh2 Re8 27. Rbc2 c5 28. a4 Ree7": "28. ............. Ree7 - My queenside pawn majority has been preserved and Castle Acre and Castle Rising still protect King Henry!",
+        "29. a5 Rdb7 30. a6 Rbd7": "20. ............. Rbd7 - I eschew and exchange of pawns as I do not want my queenside pawn structure busted although it is tempting to remove white's solitary queenside pawn.",
+        "31. f5 Re5 32. Rg4 Rxf5": "32. ......... Rxf5 - another white pawn bites the dust.",
+        "33. f4 Rd4 34. Rcg2 g6 35. Rf2 h5 36. Rh4 Ra4": "36. .......... Ra4 - keeping one of my castles trained on the a6 pawn and the f pawn.  In fact the a6 pawn will drop off next move.  I allow a bone in the throat but Henry finds a convenient foxhole on h6.",
+        "37. Rd2 Rxa6 38. Rd7+ Kg8 39. Rd8+ Kh7 40. Rd7+ Kh6 41. Kg3 Ra4 42. Re7 g5": "42. ........ g5!!! This move is a killer.  Just you wait and see the next few moves!",
+        "43. fxg5+ Rxg5+ 44. Kf3 Rxh4": "44............. Rxh4 - now I am the equivalent of a queen up but still no white flag!",
+        "45. Rxa7 Rxh3+": "45. .............. Rxh3 , the last white pawn falls, now only a rook stands between me and forcing Old Matey on my opponent.",
+        "46. Ke4 Rh4+ 47. Kf3 Rb4 48. Re7 Rgg4": "48. ........... Rgg4 - my rooks have tried to line up to execute the Firing Squad but the white rook is determined to spoil the party.",
+        "49. Re6 Rbf4+": "49. ............ Rbf4 , it is here that the seed of a plan germinates in my mind.  Over the next few moves it flourishes into ............",
+        "50. Ke3 Rfe4+ 51. Rxe4 Rxe4+ 52. Kxe4 Kg5": "52. .................Kg5 ..................... a white flag from my opponent!  Yes, I think it is just a case of take your pick from black.  Look at those passers!  White has only a bare king.  So, my opponent finally waved the white flag.  What a relief.  Notice how I sacrificed 5 material points to achieve this.  Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/simplification-sacrifices-part-2?gm=17404",
+    "gameName": "Simplification Sacrifices - Part 2",
+    "players": "NN (1536) vs. jstevens1 (1504)",
+    "opening": "Danish gambit (C21), Schlechter defence"
+}

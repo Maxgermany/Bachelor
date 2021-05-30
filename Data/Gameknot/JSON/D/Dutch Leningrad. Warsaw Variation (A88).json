@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 f5 2. g3 Nf6 3. Bg2 g6": "going for the lennigrad",
+        "4. c4 Bg7 5. Nc3 d6 6. Nf3 O-O 7. O-O": "Main line of the Dutch..",
+        "7... c6": "Well, this is the warsaw variation. ",
+        "8. Rb1": "New theory from Kramnik...The idea being that in the Dutch leningrad, White has to watch out for the Bishop diagonal. E.g., 8. d5 e5; 9. e.p. dxe6 Bxe6; 10 b3. and Black has counter play. How is White suppose to protect his c4-pawn? I should note 10. Qd3 is played too.",
+        "8... Be6": "?",
+        "9. d5 cxd5 10. cxd5 Bd7 11. Ng5": "The infamous Knight g5-e6 maneuver. ",
+        "11... Na6 12. Ne6 Bxe6 13. dxe6 Rb8 14. e4": "I didn't know what else to play and I thought it open play....",
+        "14... fxe4 15. Nxe4 Nxe4 16. Bxe4 Nc5 17. Bd5": "protecting the e6-pawn",
+        "17... Rf5": "at least now I can play the move...",
+        "18. b4": "Yes, ....It makes all the difference with that b1-rook instead of it being on a1.",
+        "18... Na6 19. Be3": "Again, this is why I played e4 first.....I didn't know what to do with my dark-squared Bishop. Hence, why I played e4 as I thought it looked funny in front of the Pawn as opposed to being \"behind\" the pawn...",
+        "19... Nc7 20. Bb3 Nb5": "? protecting a7?",
+        "21. Rc1 a6 22. Qd2 d5 23. a4 Nc7 24. Bb6 Be5 25. Rfe1": "X-raying. Planning to capture Bishop on e5. After which RxR, and White would have a triple fork after Bishopxnc7!!",
+        "25... Bd6 26. f4 Rc8 27. Rc2 Qf8 28. Rec1 Qd8": "?......herein lies the problem for White: how is he going to tip the scale in his favor? I'm looking for that feather to lay down on the scale and have my opponent fall down...",
+        "29. a5": "!! I was thinking boy...my bishop would cause a whole deal of trouble on d7.",
+        "29... Kf8 30. Ba4 Kg7": "??",
+        "31. Bd7 Ra8 32. Rc2xc7": "! I foresaw the position and seen that my Rook wouldn't fair to well after the Bishop exchanges and Rook capture. Plus, I saw my dark-squared bishop was better on e5 attacking the King's fortress.",
+        "32... Bxc7 33. Bxc7 Qf8 34. Be5+ Kg8 35. Qxd5 Rh5": "I think black was afraid of g4.",
+        "36. Qxb7 Rd8 37. Rc8 Rxc8 38. Qxc8 Qxc8 39. Bxc8": "and now I win by endgame ",
+        "39... g5 40. Bxa6 gxf4 41. gxf4 Rh6 42. Bc4 Rg6+ 43. Kf2 h5 44. a6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/dutch-leningrad-warsaw-variation-a88?gm=45552",
+    "gameName": "Dutch: Leningrad. Warsaw Variation (A88) ",
+    "players": "freeman8201 (1774) vs. alexanyan (1575)",
+    "opening": "Dutch defence (A81)"
+}

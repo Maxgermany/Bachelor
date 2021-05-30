@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "This is a very rare game that results in White having a two queen advantage and 16 points in material, yet gets blindsided by a couple of pawns and a rook.",
+        "1... d5 2. c4 dxc4": "I've noticed recently that many players offer this pawn.  I have taken it each time without hesitation and am yet to regret it.  I'm sure there is a by the book reason, but I try to stay away from the book.  I know it won't be long and a player will teach me why this move is not preferred.",
+        "3. Nc3 a6 4. Nf3 b5": "With the pawn advantage, and also having a pawn in the 5th row, this is a small sacrifice in development in hopes to protect position.",
+        "5. g3 Bb7 6. Bg2 Nf6 7. O-O": "White castles first and has a strong defensive position early.",
+        "7... g6 8. e3 Bg7 9. Rb1 O-O": "Black is able to castle 3 moves later.",
+        "10. b3 Be4": "Black is offering a B-Kn trade hoping to get a fork on the rook/queen one move later.",
+        "11. Nxe4 Nxe4 12. Ng5 Nc3": "Perhaps playing too quickly, I jump at the opportunity for the fork not realizing that I have also given up my own rook in the transaction.  There is also a much less chance of escape for my knight meaning that this move that looked great at first, may result in being down material.",
+        "13. Qc2 Nxb1 14. Bxa8 h6 15. Nf3 b4": "I pondered this move probably longer than all of the rest.  I knew I was going to lose my knight, so I wanted to work hard to trap white's bishop.  After running through many scenarios in my mind, in the end I decided to give up the knight, let the bishop go, and gain a protected pawn in the 6th row with no pawns if front.",
+        "16. Qxb1 c3 17. Be4 f5 18. Bd3 Qd5": "Of the 38 moves in the game, move 18 Qd5 is the one that should have ultimately cost black the game.",
+        "19. e4": "Perhaps white did not see the pin on the queen similar to black.  Despite the very bad move by black  previously, this is an opportunity to escape keeping the queen...",
+        "19... fxe4": "Black still does not see potential pin on the queen, and jumps at the fork of the knight - bishop.",
+        "20. Bc4 Qxc4": "Having no way out now, black's queen is forced to take bishop and sacrifice herself.",
+        "21. bxc4": "pawntakesqueen",
+        "21... Rxf3": "Fortunately for black, there is a free knight in the deal.",
+        "22. Qxb4 Nc6 23. Qc5 Nxd4 24. Qxe7 Ne2+": "Black is trying hard to work the pawn in and get the queen back.",
+        "25. Kg2 Rd3 26. Qxe4": "Pawns are going quick.",
+        "26... Nxc1": "With nowhere for the black knight to go, he must sacrifice himself taking a bishop.",
+        "27. Rxc1 Rd2 28. Qa8+ Kh7 29. Qxa6 c2 30. Qa4": "With this move by White, there is virtually no hope left for black.",
+        "30... c5 31. Rxc2 Rd4 32. Qb5 Bf8 33. a4": "Down 8 in material, and having nothing left for position, it is time for black to resign.  There is only one last extremely low percentage chance at a sneak attack.",
+        "33... h5 34. a5 g5 35. a6 h4 36. a7": "Black is 3 moves from a checkmate, but white is one move from being up 2 queens.  Black's only hope is that white is only focused on getting the second queen and not paying attention to any potential threat.",
+        "36... Rd1": "This is the move that should draw some attention.  This rook should have no business being there without some sort of crazy plan.",
+        "37. a8=Q g4": "Two moves left.  Can black stay under the radar for two more moves?",
+        "38. Qac6": "If white moves the king, any of the pawns around the king, or puts black in check, the game would be resigned.  ",
+        "38... h3#": "Against all odds, black wins."
+    },
+    "url": "https://gameknot.com/annotation.pl/two-less-queens-yet-victory?gm=25264",
+    "gameName": "Two Less Queens, yet Victory",
+    "players": "northcoaster (1372) vs. pawntakesqueen (1526)",
+    "opening": "Queen's gambit accepted (D20)"
+}

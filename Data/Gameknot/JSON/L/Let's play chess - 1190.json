@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "Basic opening. plain and simple.",
+        "1... e5 2. g3": "Planning on a flanchetto on king side.",
+        "2... Qf6 3. d3 Bc5": "looks like the 4-move Checkmate, right?",
+        "4. f4": "in Hindsight, f3 might have been safer, but i think I was planning on moving out my knight soon...",
+        "4... exf4 5. gxf4": "Or capturing that damn pawn with my Bishop...",
+        "5... Qh4+": "THAT i didn't count on...\r\nThere's the set up",
+        "6. Ke2 Qf2#": "End My first game on Gameknot, in total humiliation.\r\nMy friend laughing at me in real life."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=275",
+    "gameName": "Let's play chess",
+    "players": "judgeman (1200) vs. ludwig (1047)",
+    "opening": "King's pawn game (C20)"
+}

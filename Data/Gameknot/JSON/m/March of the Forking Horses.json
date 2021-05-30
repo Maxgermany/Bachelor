@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "I am white.  For the record, this is the first time I've beaten jacobs, he's a tough opponent. As always e4!",
+        "1... c5 2. Bc4": "Any thoughts on whether this is a good move?  I know it's a strong move, but as I understand it usually you lead with the knights first, bishops second?  \r\nOr is this just a players preference?",
+        "2... e6 3. Nc3 Nc6 4. Nf3 d6 5. d3": "I would also like opinions on his, I like to guard my pawn, but it kinda hampers my Lbishop, exposing him to attack as RJ quickly jumps on here in a minute.  Perhaps d4 is better.",
+        "5... a6": "From here I should have realized he was about to pounce on my bishop.",
+        "6. O-O b5 7. Bb3 Nf6 8. Bg5 Be7 9. Re1 O-O 10. e5 Ne8": "I'm not positive why he did this, perhaps he'll let me know.  But if he would've taken pxp then at worst we'd have traden N's and my rook in the center of the board....which to be quite honest I don't really like. ",
+        "11. Ne4": "This move was multi-purpose, but mainly to get him closer to the king and hopefully save my clergyman.",
+        "11... Qc7 12. Nh4": "With this move I begin my assault on his kingside.  I knew once I got my Q over there I was going to cause some problems.",
+        "12... Nxe5": "This move caused me grief...1 pawn down.",
+        "13. d4 Bxg5": "Now when he did this I knew I was going to end up a piece down because of the strangled Lbishop.",
+        "14. Nxg5 c4 15. dxe5 dxe5 16. Qf3": "The bishop is lost, so I figured I would try some sneaky attacks to get my Q into position for the final stand.",
+        "16... Bb7 17. Qh3": "Now I have laid the foundation for a swift infiltration. ",
+        "17... Qc6 18. f3 cxb3 19. Ng6": "Serious situation for black.  If he takes with either pawn it's # on h7.  If he leaves the N and moves p-h6 then the N-e7 forking his queen. ",
+        "19... Nf6 20. Ne7+": "Black resigns as the noble stead has given Elizabeth the royal forking.  Hence Forking horses."
+    },
+    "url": "https://gameknot.com/annotation.pl/march-of-the-forking-horses?gm=23316",
+    "gameName": "March of the Forking Horses",
+    "players": "cyko (1521) vs. rjacobs (1481)",
+    "opening": "Sicilian defence (B20)"
+}

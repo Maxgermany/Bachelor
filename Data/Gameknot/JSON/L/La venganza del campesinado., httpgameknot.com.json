@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. Nc3": "Esta bonita historia acontece en esos tiempos lejanos del ajedrez rom\u00e1ntico, posbilemente en Europa. Un terrateniente, cuyo nombre se ha perdido en los laberintos del tiempo, ten\u00eda la particularidad de ser tan despiadado como buen jugador (al menos eso era lo que dec\u00eda). Para castigar a los campesinos que trabajaban en su tierra y, de paso divertirse, los citaba y obligaba a jugar, demostrando as\u00ed su superioridad tanto econ\u00f3mica como intelectual. Las sesiones eran humillantes y cada vez m\u00e1s frecuentes. Un d\u00eda, lleg\u00f3 al latifundio un forastero. Sin tener donde dormir, encontr\u00f3 lugar entre la peonada que supo compartir su pobreza con el reci\u00e9n llegado. La alegr\u00eda surgi\u00f3 cuando  el visitante, agradecido por la hospitalidad, prometi\u00f3 que vengar\u00eda el buen nombre de estas pobres personas en el propio juego del abusivo. Al d\u00eda siguiente, el retador se present\u00f3 en la mansi\u00f3n del noble, qui\u00e9n, encantado de encontrar un retador, le dio las piezas blancas. Antes de empezar, dijo nuestro jugador, le confesar\u00e9 que no solo estoy dispuesto a ganarle, sino que me he impuesto una condici\u00f3n secreta que proceder\u00e9 a escribir.\n",
+        "1... e5 2. Nf3": "Debo aconsejarte que muevas los peones - Dijo el noble mientras pensaba en el p\u00e9simo jugador que ten\u00eda en frente.\n",
+        "2... d6 3. d4 Nc6": "No me importa jugar sin enroque si ganar\u00e9 de todas formas. Que juegue dxe5 si desea. Pens\u00f3 el noble.\n",
+        "4. d5 Nce7 5. e4 f5 6. Bg5 h6 7. Bh4": "Has perdido un alfil. Pensar que un par de jugadas atr\u00e1s cre\u00edas que me pod\u00edas ganar\n",
+        "7... g5 8. Nxe5 dxe5 9. Qh5+ Kd7 10. Bb5+ Kd6 11. Bxg5 Bg7 12. Be3": "Y en este momento el noble se dio cuenta que su situaci\u00f3n no era tan c\u00f3moda como le hubiera gustado.\n",
+        "12... f4 13. Bxf4 exf4 14. e5+ Kc5 15. Na4+ Kxb5 16. Qe2+ Kxa4 17. Qc4+ Ka5 18. b4+ Ka4 19. Qb3+ Kb5 20. a4+ Kb6 21. a5+ Kb5 22. c4+ Ka6 23. b5#": "Nuestro jugador dio el papel al noble, que dec\u00eda: 'Tu tienes grandes riquezas, soldados y s\u00fabditos, pero de nada te sirve si te dejan solo. No solo dar\u00e9 mate con mis peones, sino que no me comer\u00e1s ninguno. Ellos, avanzando unidos, lograr\u00e1n destronarte'.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/la-venganza-del-campesinado-http-gameknot-com?gm=55096",
+    "gameName": "La venganza del campesinado., http://gameknot.com/",
+    "players": "Jugador  vs. Terrateniente ",
+    "opening": "Dunst (Sleipner,Heinrichsen) opening (A00)"
+}

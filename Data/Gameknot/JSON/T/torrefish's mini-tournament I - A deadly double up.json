@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5": "Hi everyone!\r\n\r\nAt last I have a game of my own to annotate.  It looked as though my game was going nowhere until after a queen trade my rooks somehow ended up on my opponent's second rank.  To have just one rook there can be a bone in the throat to my opponent, but two ....... well read on.  Gameknot Analysis is provided for this game as follows:- http://gameknot.com/analyze-board.pl?bd=15155377&fb=1&rnd=0.7747064337826831",
+        "2. Bf4": "2. Bf4 - this is the Mason Variation of the QP Opening and it is part of this themed MT.",
+        "2... Nc6 3. Nf3 Bg4 4. e3 Nf6": "4. ...... Nf6 - both sides concentrate on their development.",
+        "5. Be2 e6 6. O-O Be7 7. Nc3 O-O": "7. ..... 0-0 both sides now castle on the kingside.",
+        "8. h3 Bh5 9. Ne5": "9. Ne5 - this knight move brings about a trade off of minor pieces.",
+        "9... Bxe2 10. Nxe2 Nxe5 11. Bxe5": "11. Bxe5 - I got rid of white's knight on e5.  Although it is replaced by white's dsb I am more than happy to trade off Fou Lenoir for it.",
+        "11... Bd6 12. Qd3 Bxe5 13. dxe5": "13. dxe5 - and I do.  Although a white pawn now occupies e5 it is doubled.  At least white does not have his lsb so it may not be quite so easy for white to mount an attack on h7.",
+        "13... Nd7 14. f4 c5": "14. ...... c5 - I decided to expand on the queenside.",
+        "15. Qb5 Qc7 16. c4 a6": "16. ...... a6 - a Witch Ejection Plan is in place.  I call the enemy Queen the Wicked Witch of the West because she can be very wicked if allowed to be.",
+        "17. Qa4 b5 18. cxb5 axb5 19. Qxb5 Rfb8": "19. ...... Rfb8 - although I am temporarily a pawn down the Witch is skewered in front of her b2 pawn and she cannot retreat to defend it, so I get the pawn back and give my opponent that bone in the throat.",
+        "20. Qd3 Rxb2 21. a4": "21. a4 - natcht.",
+        "21... Rab8 22. Nc3 Rb8b3": "22. ....Rb8b3 - pin.",
+        "23. Nb5 Rxd3 24. Nxc7 Rdd2": "24. ..... Rdd2 - now here is the double-up. Already g2 is under fire and the white knight is too far away to help.",
+        "25. Rfe1 Rdxg2+": "25. ...... Rxg2+  - a pawn is a pawn.  I now decide to drive the WK to the edge of the board and nail him there.",
+        "26. Kh1 Rgh2+ 27. Kg1 Rbg2+ 28. Kf1 c4": "28. ....... c4 - I trick white into believing that the c pawn is bound for Glendadom.  My queen is known as Glenda.  Ah, but this is a space clearance for my knight.   White should start feeling very cold soon and you will soon see why.",
+        "29. a5": "29. a5 - white is tempted to push that passer along.  You would never believe that that innocuous looking steed on d7 is the Chessic Grim Reaper, Old Matey in disguise, would you?",
+        "29... Nc5 30. a6": "30. a6 - he still pushes on that pawn but the square e4 is undefended and my steed now lands on it.  White should have played Nb5 here.  He will now cop Old Matey.",
+        "30... Ne4 31. Red1": "31. Red1 - white can only delay the mate with the self-immolating Re2.  He decided not to do this and my knight comes to g6.  White decided to resign on the grounds of Unavoidable Mate here and I pick up 10 useful rating points.",
+        "31... Ng3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/torrefishs-mini-tournament-i-a-deadly-double-up?gm=37771",
+    "gameName": "torrefish's mini-tournament I - A deadly double up",
+    "players": "rgold52 (1807) vs. jstevens1 (1782)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

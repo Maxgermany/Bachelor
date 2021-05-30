@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "I think 1. d4 is very common. Usually I play 1 ... d5, but today I shall decide to do something different.",
+        "1... Nf6": "I'm not sure if this is the right knight, but I don't think I'll regret it too much.",
+        "2. Nc3": "White develops a knight. This protects the e4 square.",
+        "2... d5": "But I won't let white take care of the centre that easily. ",
+        "3. Nf3": "White develops another knight. ",
+        "3... Nc6": "I do the same. I am just trying to develop my pieces and take control of the centre, as everybody usually does. ",
+        "4. Bd2": "I think this is an intresting move. It will be hard to develop the queen and connect the rooks, though.",
+        "4... Bf5": "First, develop my LSB, so I am then ready to play e6",
+        "5. e3": "This move lets white's LSB out but blocks the DSB. Anything better?",
+        "5... e6 6. Bb5": "Pinning my knight and getting ready to castle. ",
+        "6... Bd6": "Attacking the defend h-pawn which might be a bit vulnerable after white castles.",
+        "7. O-O": "Gets the king into saftey, or does it?",
+        "7... O-O 8. Re1": "Nice move. But what's wrong with simply taking the c6 knight?",
+        "8... Qd7": "Develops my queen, protects the c6 knight and connects the rooks. 3 in 1!",
+        "9. Qe2": "White now connects his rooks. But I think his position is a bit squashed. ",
+        "9... Rfe8": "Developing my rooks.",
+        "10. Rad1": "Good move. But the h2 pawn is left undefended.",
+        "10... a6": "Chasing away the bishop, ",
+        "11. Bxc6": "Which one is better, Bishop or Knight (in this position)?",
+        "11... Qxc6 12. b4": "White is trying to chase my Queen away.",
+        "12... b5": "Not so fast!",
+        "13. Ne5": "A fine outpost for the knight, attacking my queen as well.",
+        "13... Qb6 14. a4": "Strange and intresting move. ",
+        "14... bxa4": "What else can I do?"
+    },
+    "url": "https://gameknot.com/annotation.pl/which-one-is-better-bishop-or-knight?gm=48270",
+    "gameName": "Which one is better, Bishop or Knight?",
+    "players": "kingblob23  vs. oodle ",
+    "opening": "Queen's pawn game (A45)"
+}

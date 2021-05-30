@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "King's Gambit",
+        "2... exf4": "Black accepts the gambit.",
+        "3. Nf3 d5": "a poor move",
+        "4. exd5 Be7 5. Nc3": "Blunder, but hey! it's blitz.",
+        "5... Bh4+ 6. Ke2 Qe7+ 7. Kd3": "The king goes a-running.",
+        "7... Bf5+ 8. Kc4 Nd7 9. Nxh4 Nb6+ 10. Kb3": "But where's the mate?",
+        "10... Qxh4 11. Qe2+ Ne7 12. Qb5+ Bd7 13. Qe2 O-O-O 14. Qe4 f5 15. Qf3 Qf6 16. d3 Qd4 17. Qxf4 Qc5 18. Be3 Qa5 19. Bxb6 Qxb6+ 20. Qb4 Qxb4+ 21. Kxb4": "With Queens off the board, White's king is ... unstoppable! LOL!",
+        "21... g6 22. Be2 Be8 23. Bf3 Bf7 24. d6 cxd6 25. Rhe1 Nd5+": "losing a piece ... and eventually the game",
+        "26. Nxd5 Bxd5 27. Bxd5 Rd7 28. Be6": "2 consecutive blunders in a row!",
+        "28... Rhd8 29. Bxd7+ Rxd7 30. Re8+ Kc7 31. Rae1 Kc6 32. c4 d5 33. Re1e6+ Kc7 34. Re8e7": "Now Black will have no pieces left.",
+        "34... dxc4 35. dxc4 b6 36. Rxd7+ Kxd7 37. Rf6 Ke7 38. Rc6 Kd7 39. Kb5": "If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time.",
+        "39... f4 40. Rf6 Ke7 41. Rxf4 Ke6 42. h4 h5 43. g3 Ke5 44. Ka6 Kd6 45. Kxa7 Kc5 46. a3 b5 47. b4+ Kc6 48. c5 Kd5 49. Kb6 Ke5 50. c6 g5 51. hxg5 h4 52. Rxh4 Kf5 53. c7 Kxg5 54. Rf4 Kh5 55. c8=Q": "Black tries to win on time.",
+        "55... Kg5 56. Qg8+ Kh5 57. Rh4#": "Too bad for you!"
+    },
+    "url": "https://gameknot.com/annotation.pl/funny-game?gm=47679",
+    "gameName": "Funny Game",
+    "players": "dsfei  vs. kzsuchessdj ",
+    "opening": "KGA (C36), Abbazia defence, modern variation"
+}

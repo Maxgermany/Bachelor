@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. c4 e5 2. g3 d5": "Lacks preparation.",
+        "3. cxd5 Qxd5 4. Nf3": "Forced.",
+        "4... Nc6 5. Bg2 Qd8": "Understandable, but I often prefer to let these kind of moves be in response to the opponents moves.  I guess it really makes no difference as the move costs black time either way, and there is the advantage here that black really has not committed to any particular plan or formation.",
+        "6. Nc3 Bd6 7. O-O Nf6": "Some might say that black has d4 controlled, but it is not really so.",
+        "8. d4": "!",
+        "8... e4": "? Without h6 first this is premature.  Black had e5 under control, so no immediate action is really necessary, but white may force the queens off the board and deny black castling rights.",
+        "9. Ng5 Bb4 10. Ngxe4 Nxd4 11. Nxf6+ Qxf6": "Probably the pinnacle mistake.  The move appears very natural, but gxf6 is better.",
+        "12. Nd5 Qd6 13. Qxd4 Bc5": "Better is c5.  Best is O-O.",
+        "14. Qxg7 Rf8 15. Nf6+": "Castling rights deprived.  This means that in the short term black is closer to nine points down than 4.",
+        "15... Kd8 16. Bf4": "This was tricky.  Bg5 was tempting but 16...Bd4 17.Nd5+ f6 adequately defends.",
+        "16... Qe6": "Probably worried about harassment from the knight as well as the forthcoming rook pin.  Truth be told there are few decent squares for the queen.  e7 provides backup to the critical squares around the black queen but is exposed to the Nd5 assault.  Furthermore, Nd5 wins the c7 pawn.",
+        "17. Rfd1+": "I believe white can force mate in a variety of ways some of which would satisfy the chess snob in most of us.\r\n \r\n17. \u2026 Bd7 18. Rxd7+ Kc8 19. Rxc7+ Kb8 20. Rxc5+ Qd6 21. Bxd6# \r\n17. \u2026 Bd7 18. Rxd7+ Qxd7 19. Nxd7 Kxd7 20. Rd1+ Ke7 21. Qe5#\r\n17. \u2026 Bd7 18. Rxd7+ Qxd7 19. Nxd7 Kxd7 20. Rd1+ Kc8 21. Bh3+ Kb8 22. Qxf8+ Bxf8 23. Rd8# \r\n\r\nAdditionally, these pesky moves probably lead to a forced mate, but I did not continue the analysis that far:\r\n17. \u2026 Bd6 18. Qxf8+ \r\n17. \u2026 Ke7 18. Nd5+ Ke8 19. Nxc7+ \r\n17. \u2026 Ke7 18. Nd5+ Kd7 19. Nxc7+ \r\n17. \u2026 Ke7 18. Nd5+ Kd8 19. Nxc7+ \r\n\r\nApparently there is a limit of 7 active conditional moves on gameknot.  I do not know if this is a free account limitation or system-wide.  Either way, every continuation is very bad for black.",
+        "17... Ke7 18. Nd5+ Kd7": "Avoiding the knight fork, but truth be told, the queen is won either way.  Perhaps earlier Qd6 out of check was best.",
+        "19. Nxc7+": "And black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-mokru?gm=31669",
+    "gameName": "Challenge from mokru",
+    "players": "mokru (1426) vs. lobito59 (1488)",
+    "opening": "English opening (A20)"
+}

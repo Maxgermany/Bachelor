@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Bc4 Nh6": "Interesting move. I thought it should be weak but I could not find any clear refutation. Usually this means the refutation does not exist or that the refutation is that it just does not work against standard play in the longer run. I simply proceeded with normal play",
+        "4. Nf3 d6 5. O-O Bg4 6. d3": "There was a choice here between d3 and d4. Usually I play d4 but the knight not being on f6 makes any push on d5 less important and now I do not have to worry about covering my central pawns.",
+        "6... Bxf3": "? Bad move: trades a developed bishop while allowing me to develop in the recapture, time is of the essence in the KGA",
+        "7. Qxf3 Qh4": "Black is too careless about both the f-file and his development",
+        "8. Bxf4": "White now has an half-open f-file and the type of attack on f7 for which Muzio players sacrifice a knight.",
+        "8... Ng4": "? Black is chasing a mirage on h2 ",
+        "9. Bg3 Qf6": "Perhaps hoping to save the knight by eyeing the rook on a1, but it is hard to give advice to black here.",
+        "10. Qxg4 Qxb2": "Find the mate in two",
+        "11. Qc8+ Ke7 12. Rxf7#": "And this shows once again that time and development are crucial in the KGA."
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-shots-in-the-kga-bishops-gambit-3-nh6?gm=42608",
+    "gameName": "Opening shots in the KGA Bishop's gambit  (3... Nh6)",
+    "players": "oogklep (1700) vs. itachis123 (969)",
+    "opening": "KGA (C33), bishop's gambit"
+}

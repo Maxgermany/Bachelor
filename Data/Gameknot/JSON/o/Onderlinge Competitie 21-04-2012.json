@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. c3 Bd7 5. d4 a6 6. Ba4 b5 7. Bc2 Nf6 8. Nbd2 Bg4 9. h3 Bh5 10. d5 Na5 11. Nf1 Be7 12. Ng3 Bg6 13. a4 c5": "(13...c7-c6)",
+        "14. b3": "b4 had ik in gedachten,\nmaar probeerde spel te krijgen door\npion a6 op te offeren.",
+        "14... bxa4": "14...c5-c4",
+        "15. Rxa4 Rb8 16. b4 cxb4 17. cxb4 Nb7 18. Rxa6 O-O 19. Be3 Qd7 20. Ba4 Qd8 21. Rc6": "een lokkertje om de\nloper op a4 te krijgen. Damevangst zat er niet in.!",
+        "21... Ra8": "21...Tb8-c8",
+        "22. Nd2 h5 23. O-O": "Herman gaf toe dat 0-0 niet de juiste\nvoortzetting was",
+        "23... h4 24. Nf5 Bxf5 25. exf5 Nxd5 26. Ne4": "Pxb4 durfde ik niet aan.(Tb6!)",
+        "26... Nxe3 27. fxe3 d5 28. f6 dxe4 29. fxg7": "Kxg7? had misschien tochgekund wegens.\n1. Dh5 - Lg5\n2. Tf5 - f6\nof\n1. Dg4+ - Lg5\n2. Tf5 - f6\n3. Tcxf6 ???!!!\ndan had zwart gespeeld Dxf6, Txf6 en Kxf6. en nu moet wit een tempo maken\nmet de loper en zwart staat nu nog een stuk voor. Dd8xd1",
+        "29... Qxd1 30. gxf8=Q+ Kxf8 31. Bxd1 Bg5 32. Rc7 Bxe3+ 33. Kh1 Nd8 34. Bb3 Bf4 35. Bd5 Rb8 36. Rb1 e3 37. Kg1 Kg7 38. b5 Kf6 39. b6 e4 40. Ra7 e2 41. Kf2 Ke5 42. Bxf7 Nc6 43. Rb5+ Kf6 44. Bd5 Bg3+ 45. Kxe2 Nd4+ 46. Ke3 Nxb5 47. Rb7 Rxb7 48. Bxb7 Nd6 49. Bxe4 Nc4+ 50. Kf3 Nxb6 51. Ke3 Ke5 52. Kf3 Nc4 53. Bb7": "Remise.\nCommentaar: Chris Draijer"
+    },
+    "url": "https://gameknot.com/annotation.pl/onderlinge-competitie-21-04-2012?gm=44400",
+    "gameName": "Onderlinge Competitie 21-04-2012",
+    "players": "Herman Beks (1775) vs. Chris Draijer (1768)",
+    "opening": "Ruy Lopez (C62), old Steinitz defence"
+}

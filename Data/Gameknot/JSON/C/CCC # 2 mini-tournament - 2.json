@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. exd5": "The french exchange varation is considered inferior to the normal e5.",
+        "3... exd5 4. Be3 Bd6 5. Nd2": "This is the modern way of developing the knight in these types of opennings. The idea behind it is that Nd2 allows white to retain the option of c4. ",
+        "5... Ne7 6. Ngf3 Nf5": "this move exploits the fact that my bishop has no good retreat squares. ",
+        "7. Bd3": "by playing Bd3 I hope to use the E pawn after ...Nxe3 to support a future attack against d5.",
+        "7... Nxe3": "This creates a target for black to pick on. ",
+        "8. fxe3 f5": "limiting the scope of the bishop. ",
+        "9. c4": "with my pawn structure already in a mess I play with a sense of haste to gain some advantage before black can finish the job on the e file. ",
+        "9... dxc4 10. Bxc4": "This prevents black from castling to safety. ",
+        "10... Qe7 11. Qe2": "defending e3 and increasing my influence over e4. ",
+        "11... Be6": "I do not think this is a wise move by black to offer the exchange of the light bishops. With the light bishops of the board I am able to increase my influence over e4 with greater ease. ",
+        "12. Bxe6 Qxe6 13. O-O Nc6 14. a3": "This prevents any funny business on the queenside via Nb5, or Bb5. ",
+        "14... O-O 15. Qd3 Ne7 16. Rae1": "I now have managed to gain the upper hand in the fight for e4. ",
+        "16... Kh8 17. e4": "This is a clearing move that opens up lines of attack. ",
+        "17... fxe4 18. Rxe4 Qd5 19. Rh4": "Provoking a weakness. I fully except my opponent to see this. ",
+        "19... Qf5": "My opponent wants to play without queens, but I have a nasty suprise. ",
+        "20. Ne4": "The mating net is beginning to take form on h7. Suddenly black is the one is trouble. ",
+        "20... Ng6 21. Rxh7+": "I beautiful move that leads to mate. ",
+        "21... Kg8": "Black can not take the rook because of Nfg4 winning the queen. ",
+        "22. Qc4+": "You can run but you can't hide. ",
+        "22... Qf7 23. Nf6+": "and black resign after he sees that he will suffer massive carnage."
+    },
+    "url": "https://gameknot.com/annotation.pl/ccc-2-mini-tournament?gm=11358",
+    "gameName": "CCC # 2 mini-tournament",
+    "players": "elyhim (1486) vs. gloomy_den (2010)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

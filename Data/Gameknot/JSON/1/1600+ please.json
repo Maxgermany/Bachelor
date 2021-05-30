@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5": "sicilian",
+        "2. c3": "becomes alapin now !",
+        "2... e6 3. d4 cxd4 4. cxd4 a6": "1st mistake :wasting one time. Center needs to be whether reconquered or attacked, for example d4 transposes to french opening. No need to be scared of Bb5+.",
+        "5. Nf3 Nc6 6. Bd3 d6": "Now it looks like black only want to defend. White will sure attack ! Again d4 would be better.",
+        "7. O-O": "open position => fast castling.",
+        "7... h6": "losing one tempo again. White is now a lot ahead in development.",
+        "8. Nc3 Qc7": "why this move ?\n2 bishops and 1 noble haven't moved yet, Knight are completely stuck.",
+        "9. Bf4": "move that pawn if you dare now.",
+        "9... e5 10. dxe5 dxe5 11. Nd5": "Queen's got nowhere nice to go.",
+        "11... Qa5 12. Nxe5": "white wants the center and gets it.",
+        "12... Nxe5": "necessary in this case but still an awful move.",
+        "13. Bxe5 Ra7": "??\nI still have no idea why that roque came here !?!",
+        "14. Bc3": "where can that queen go now ?",
+        "14... Qd8 15. Re1": "target : the Black King.",
+        "15... Nf6": "only one pawn ahead but the position is just so comfortable. Exchange the noble and get that e-pawn out of the way is sure to win.",
+        "16. Nxf6+ gxf6 17. e5": "get that pawn out!",
+        "17... Be6": "This would have been good, just too late.",
+        "18. Qf3 Be7": "good one again.",
+        "19. exf6 Bc5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/1600-please?gm=23441",
+    "gameName": "1600+ please",
+    "players": "quemeraisc (1648) vs. bottlenose (1368)",
+    "opening": "Sicilian (B22), Alapin's variation (2.c3)"
+}

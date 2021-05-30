@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5": "Kings pawn game",
+        "2. d4 Nc6 3. dxe5 Nxe5 4. Nf3 Bd6": "Developing and defending",
+        "5. Nxe5 Bxe5": "Not sure why but I was having a bit of a \"Keen to trade\" day.",
+        "6. Nc3 Qh4": "Not sure what that was for. Like pinning f2 or something?",
+        "7. Bd3 Bxh2 8. g3 Qd8": "Managed to win his bishop",
+        "9. Rxh2 Ne7 10. Be3 O-O 11. Nd5 Nxd5 12. exd5 h6": "To prevent bh7+",
+        "13. Rh4 Re8 14. c3 d6 15. Qb3 b6 16. Kf1 Qf6 17. Re1 Bf5 18. Bxf5 Qxf5 19. Kg2": "To prevent qf3",
+        "19... Re7 20. f3 Rae8 21. Rf4 Qh7": "I could tell I wasn't doing very well",
+        "22. Re4 Re7xe4 23. fxe4 Qxe4+ 24. Kh2 Qf3 25. Bxb6": "I really hoped he would capture b6 without looking properly. Than I could go rxe8",
+        "25... Rxe1": "But he saw it. I knew I was dead meat",
+        "26. Bg1 Re2+ 27. Bf2 Rxf2+ 28. Kh3": "Running for my life",
+        "28... Qh5#": "And I was knocked out of the tournament\nThanks for viewing"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-club-tournament-game?gm=49576",
+    "gameName": "Chess Club Tournament Game",
+    "players": "Me  (White) vs. A friend (Black)",
+    "opening": "Centre game (C21)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": " First game back under a fresh start queen opening",
+        "1... d5": " I matched that",
+        "2. c4": "Double move pawn",
+        "2... c5": "Same",
+        "3. e3": " Made a pawn wall",
+        "3... e6": "I am so out of practice",
+        "4. cxd5": "Took piece",
+        "4... exd5": "I will get hang of it once get back to the groove of things",
+        "5. a3": "Pawn",
+        "5... cxd4": "A lot of pawns moved",
+        "6. exd4": "Even",
+        "6... a5": " Out of wack",
+        "7. Qe2+": "Check",
+        "7... Ne7": "Safe",
+        "8. Bg5": "Bishop",
+        "8... h6": "Pawn",
+        "9. Bxe7": "I resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=68171",
+    "gameName": "Let's play chess",
+    "players": "dean031 (1283) vs. reachforgoals10 (1200)",
+    "opening": "QGD (D06), symmetrical (Austrian) defence"
+}

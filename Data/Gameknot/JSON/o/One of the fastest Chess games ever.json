@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 Nh6": "A very strange opening. It's the beginning of the Hippopotamus Defence.",
+        "2. d4": "Attacks the knight.",
+        "2... f5": "Now the knight is lost.",
+        "3. Bxh6": "gxh6 loses the game.",
+        "3... gxh6": "But of course, that's what was played.",
+        "4. Qh5#": "Ta-Da!\r\n\r\nTry some of my puzzles."
+    },
+    "url": "https://gameknot.com/annotation.pl/one-of-the-fastest-chess-games-ever?gm=34812",
+    "gameName": "One of the fastest Chess games ever",
+    "players": "mla96  vs. I will not name ",
+    "opening": "Hippopotamus defence (B00)"
+}

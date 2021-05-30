@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. O-O": "Routine play up until now. The game gets interesting here.",
+        "5... f6": "This move weakens the K-side, where Pillsbury intends to castle. ",
+        "6. c3 Nge7": "Blacks position is exteremely cramped. Young initiates a vigourous attack to exploit this. ",
+        "7. Nh4": "Clearing the way for the KB pawn to become a battering ram.",
+        "7... g6": "Yet another K-side weakness, but how else is he to move his Bishop to clear the way for castling?",
+        "8. f4": "The attack commences.",
+        "8... Bg7 9. f5": "Whether Black or White initiates the exchange, Black's K-side will be ripped open. The best move may well be 9... P-N4, driving the Knight and locking the Pawn formation.",
+        "9... gxf5 10. exf5": "With the exposed K-side, Pillsbury's King may be best off in the center or even, if he can clear his Q, on the Q-side with an eventual ...O-O-O.",
+        "10... O-O": "\"Castling into it\".",
+        "11. Qg4": "Immediately intiating an attack along the open line.",
+        "11... Kh8": "Seeking what shelter he can.",
+        "12. Rf3": "Bringing another big gun into the attack. Because of his cramped position, Pillsbury cannot bring forces over for defense.",
+        "12... Rg8": "This attempt at defense falls a day late and a dollar short.",
+        "13. Rh3": "Aiming ominously at Black's trapped King.",
+        "13... Bh6": "Merely driving the Queen to a better attacking position.",
+        "14. Qh5": "Creating a fearsome battery on the KR file.",
+        "14... Bxc1": "As good or bad as anything else. Pillsbury has no good options left.",
+        "15. Ng6+": "With mate to follow.",
+        "15... Kg7": "With the Pawn pinned, this move is forced.",
+        "16. Qxh7#": "A splendid finish by Young."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-boston-1893?gm=37103",
+    "gameName": "Tournament Game, Boston 1893",
+    "players": "Franklin K. Young  vs. Harry N. Pillsbury ",
+    "opening": "Ruy Lopez (C62), old Steinitz defence, Nimzovich attack"
+}

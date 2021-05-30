@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "This was a mini tournament game starting as Queen' s Gambit Accepted.",
+        "1... d5 2. c4 dxc4 3. Nf3 f6": "The computer analyses computes e6 as a better move. I liked this to restrain his knight on f3.",
+        "4. e4 e5 5. a3 c5 6. d5 b5 7. Be3 a5": "The computer states this as a mistake preferring a6. I wanted to drive my queen-side pawns and disrupt his initiative.",
+        "8. Nc3 Ba6 9. Na2 b4 10. axb4 cxb4 11. Qa4+ Qd7 12. Qxd7+ Nxd7 13. Be2 Bc5": "Enticing a ds bishop trade for a nice placement of my knight currently on d7.",
+        "14. O-O c3 15. Bxa6 Rxa6": "The analysis says that cxb2 would have been better. This may be accurate, but I felt my pawn on c3 would be picked off eventually. I left it hanging for the sake of retaining initiative.",
+        "16. bxc3 b3 17. Nd2 bxa2 18. Bxc5": "Finally! I've been waiting to take c5 with my knight for a while.",
+        "18... Nxc5 19. Rxa2 Ne7 20. c4 f5": "Setting up my knight and opening a file for my rook after castling.",
+        "21. exf5 Nxf5 22. Re1 Nd3 23. Rea1 Rg6 24. Ra2xa5 O-O 25. Ra5a8 h5 26. Rxf8+ Kxf8 27. Kf1 Nd4": "I did this to keep his king from e2.",
+        "28. Ra3 e4 29. Nxe4 Rb6 30. g3 Rb1+ 31. Kg2 Ne1+ 32. Kh3 Rb4 33. c5": "At this point I had to turn my game over to my 8 yr old because I had traveled from America to Nigeria. Gameknot blocked my access while in Nigeria. Also my email that was attached to my Gameknot account was blocked as well so I could not reset my password. Not wishing to default I asked my boy, who is a fairly strong player for an 8 year old, to finish my game. ",
+        "33... Ne2 34. Re3 Ng1+": "My little guy made the best move here!",
+        "35. Kh4 Ng2+": "Perfect!",
+        "36. Kxh5 Nxe3 37. fxe3 Rxe4 38. c6 Re5+": "I'm proud of my boy for finishing the game for me and not letting it go. Since I could not finish as I was overseas, my 8 year old thought about his moves and made the best ones!"
+    },
+    "url": "https://gameknot.com/annotation.pl/queens-gambit-accepted?gm=55460",
+    "gameName": "Queen's Gambit Accepted!",
+    "players": "ghyltarvoke (1614) vs. tulsatallguy (1514)",
+    "opening": "QGA (D21), 3.Nf3"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. c3": "Ponziani opening.",
+        "3... Nf6": "Jaenish counter attack.",
+        "4. d3 d5 5. exd5 Qxd5 6. c4 Qd8 7. Nc3 Bc5 8. Be3 Bxe3 9. fxe3 O-O 10. e4 Nd4 11. Nxd4 Qxd4 12. Qf3 Bg4 13. Qg3 Be6 14. Be2 Qb6 15. b3 Qb4 16. Kd2 a5 17. Rhf1 a4 18. a3 Qxb3": "Qd6 instead sets up a nice knight fork.  Does the queen have any escape route here if white plays Rfb1?",
+        "19. Rfb1 Nxe4+ 20. dxe4 Rfd8+": "Black had to sacrifice a knight to create the escape route, but it looks like this worked.",
+        "21. Ke1": "...temporarily.",
+        "21... Qc2 22. Bd1": "Ra2 I think would have forced that queen rook trade.  Knight covers both rooks, queen protects knight.  That would block Qd2+.",
+        "22... Qd2+ 23. Kf1 Bxc4+ 24. Kg1 Rd3 25. Qxe5": "White is going to regret that pawn.  Ph3 opens an escape hatch for the white king.",
+        "25... Qe3+ 26. Kh1 Qe1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fiat-lux-second-invitational?gm=68343",
+    "gameName": "Fiat Lux Second Invitational",
+    "players": "bobspringett (1389) vs. americanhorse (1376)",
+    "opening": "Ponziani (C44), Jaenisch counter-attack"
+}

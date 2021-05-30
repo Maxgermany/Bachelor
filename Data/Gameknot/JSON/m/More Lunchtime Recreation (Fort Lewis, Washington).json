@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nf6": "A change from my usual response.",
+        "3. e5": "One which Chuck intends to punish.",
+        "3... Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. dxc5 Bxc5 8. Qxd5 Qb6 9. Bc4 Bxf2+ 10. Ke2 O-O 11. Rf1 Bc5 12. Ng5": "I've been told that this is book opening (or at least a book position).  In any event White certainly has a lot of firepower targeted on my f7 square.",
+        "12... Ne7": "This was my way of putting the question to White.  I wanted him to withdraw his Queen though after Qf3 I am not so sure that I gained all that much.  Charles, was never one to retreat however.  He charges full speed ahead into the attack.",
+        "13. Qxf7+ Rxf7 14. Bxf7+ Kh8 15. Bc4 Ng6 16. Nf7+ Kg8 17. Nd6+": "White can now draw by repetition.  The better move to play for a win was probably Ng5 check.",
+        "17... Kh8 18. Bd3 Bxd6": "I felt an additional guard for f8 wouldn't hurt.",
+        "19. Bxg6 hxg6": "Taking the d5 pawn would have allowed a back rank mate.  By capturing at g6 I gave my King a flight square.",
+        "20. exd6 Qxd6 21. Be3 b6": "Threatening Ba6 check.",
+        "22. c4 Ba6": "Bb7 was probably better.",
+        "23. b3 Re8 24. g3 Qe5 25. Rae1 Qxe3+ 26. Kd1 Qd3+ 27. Kc1 Rxe1+ 28. Rxe1 Qc3+ 29. Kd1 Qa1+ 30. Kd2 Qxa2+ 31. Kc3 Qxh2 32. Re8+ Kh7": "White resigned; at least he got in one final check!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/more-lunchtime-recreation-fort-lewis-washington?gm=10276",
+    "gameName": "More Lunchtime Recreation (Fort Lewis, Washington)",
+    "players": "Charles Austin  vs. P.L. Michael ",
+    "opening": "Sicilian (B29), Nimzovich-Rubinstein; Rubinstein counter-gambit"
+}

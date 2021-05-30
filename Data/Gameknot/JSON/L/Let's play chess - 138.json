@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Be7 5. Be3 Nf6 6. Bd3 Nbd7": "This black move does not put pressure on the center?",
+        "7. Nf3 b6": "Black prepare to castle long...",
+        "8. Qe2": "White completing development and build up in centre",
+        "8... Bb7 9. Nxf6+ Bxf6": "Not sure why black takes with bishop, maybe Nxf6 is more active move, as black's bishop is already weak",
+        "10. h4": "Maybe white we can catch the dark bishop",
+        "10... Qe7 11. g4": "Black's dark bishop is almost in trouble",
+        "11... g6 12. c3": "White stops Qb4 and strengthens d4 pawn",
+        "12... h5 13. g5": "Reducing black's available squares",
+        "13... Bg7 14. Rh3": "Making it possible to move Nf3 without Bxh1. Where will black castle?",
+        "14... O-O-O": "Long castle to the weaker side for black.",
+        "15. Ba6": "White attacks immediately. Note that c7 pawn is a weak link in the black's defense.",
+        "15... Kb8": "This looks like a mistake, black should perhaps exchange and create space.",
+        "16. O-O-O": "Was thinking about pushing d4, but kept thinking about how to exploit the week c7 square",
+        "16... Bc6": "Second move 'forced' on the back of my Ba6 move. But Bc7 is undefended!\nNow a little neat combination, which came off for white...",
+        "17. Bf4": "Attack pawn on c7, will black spot the next move for white?",
+        "17... Rhe8": "No, a very passive move, preparing for pawn to d5.",
+        "18. Qc4": "Qc4! This move is killing black. There is no way for black to protect the Bishop on c6, so black will have to move it. But if black move the bishop, checkmate is looming: ... Bxf3; Qxc7+, Ka8; Qb7#.",
+        "18... Nf8": "This will make no difference, the checkmate is a reality.",
+        "19. Qxc6": "No matter black's next move, Qb7#"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=61885",
+    "gameName": "Let's play chess",
+    "players": "thefjbear (1379) vs. jmg12345 (1504)",
+    "opening": "French (C10), Fort Knox variation"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. d4": "White to play.\n\nThis is the beginning of the Smith-Morra Gambit.\n",
+        "2... cxd4 3. c3 d5": "Black isn't interested in the gambit.\n",
+        "4. Qxd4": "Bringing the Queen out early violates opening principles.",
+        "4... Nf6": "Stockfish prefers 4... dxe4.\n\nNow if 5. exd5 Qxd5.",
+        "5. e5": "\n",
+        "5... Nc6 6. Bb5 Nd7": "Black is trying to entice the vulnerable Queen forward.\n\nTechnically better is 6... Ng8.\n",
+        "7. Qxd5 e6 8. Qe4 Nc5": "Black is playing actively.\n\nMaybe better is 8... Qb6.\n",
+        "9. Bxc6+": "This loses.\n",
+        "9... bxc6 10. Qxc6+": "White is actually doomed.\n",
+        "10... Bd7 11. Qf3": "Black to play and win.\n",
+        "11... Bb5": "The key move, which controls squares around the White king.\n",
+        "12. Ne2": "White can do better with 12. Nd2.\n",
+        "12... Nd3+": "If 13. Kd2 Nxe5+.\nIf 13. Kd1 Nxb2+ 14. Kc2 Ba4+ 15. Kxb2 Qb6#.\n\nWhite resigns.  Suppose play were to continue ...\n\n",
+        "13. Kf1": "\n",
+        "13... Nxc1": "If 14. Nd2 Bxe2+.\nIf 14. Qh3 Qd1#.",
+        "14. Ke1": "\n",
+        "14... Nd3+ 15. Kf1 Nxe5 16. Qxa8 Qxa8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-blitz-game-coffee-club-chess-club?gm=64402",
+    "gameName": "Casual Blitz Game, Coffee Club Chess Club",
+    "players": "C Player (1500) vs. Coffey, John (1950)",
+    "opening": "Sicilian (B21), Smith-Morra gambit"
+}

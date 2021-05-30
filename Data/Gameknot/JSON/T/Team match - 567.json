@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bc4 Nxf3+ 5. Qxf3 Nf6 6. d3 h6 7. Nc3 Bb4 8. Bd2 d6 9. O-O Bg4 10. Qe3 Bc5 11. Qe1 Qd7 12. Be3 Bxe3": "Now, 13.fxe3 seems to be strong. \n\n1) Doubled pawns could be only a problem when someone attack them (only in that situation are weak). \n\n2) All the pawn's structure could be \"compensated\" with the enough activity of pieces. Doubled pawns, by definition, open columns, so rooks are a clear happy pieces then!\n\n3) F column will be the only open column on the board. So, black's rooks are not so actives, and pression on f7 pawn (Bc4 + Rf2-Rf1 -doubling-) is hard. \n\n4) Otherwise, white's queen will have a nice mission, on g3 or h4 squares, putting even more pressure on Nf6.\n\nSo, idea interesting --> fxe3, see where black castle and preparing a kingside or queenside attack, Qg3 (h4), Rf2 and Raf1. \n",
+        "13. Qxe3 O-O": "Ok, what make now?\n\n* Key in chess - the soul - are pawns! So, finding rupture points - crashes - with pawns, open diagonals and columns, improving activity of pieces.\n\nNc3 and Bc4 are active and centralised. But rooks are not so happy... :(\n\nSo, f2-f4 advance will open f column and, after this, Rf2, Raf1 and so on, will touch all the kingside. Black will be in danger, and probably will close Bc4 with a future d6-d5 (Be6, etc.) will be the best option. But then Rxf6, Qxh6, Rf3-g3 appears... uff! :-)",
+        "14. Ne2": "This maneuver is good - about all - with f-column open, increasing pression after Ng3-f5. ",
+        "14... b5 15. Bb3 d5": "Ok, thinking about this move, I wonder myself if take on d5 and after on e5 is possible... because after\n16.exd5 Nxd5 17.Qxe5, black's Nd5 is touched.",
+        "16. f3 Be6": "Maybe now 17.f4, trying to done play to Rf1, could achieve an interesting activity.",
+        "17. c3 a5 18. d4": "Sharp, provoking a little chaos. I think is good, but maybe with an other idea... :)",
+        "18... exd4": "Now 19.cxd4 is the idea, trying e4-e5. If black takes on e4 white continues with fxe4, even \"forgotting\" Bb3 could be taken :\n\n19.cxd4 dxe4 20.fxe4 Bxb3 21.axb3. Next moves are Ng3-f5 (or Rxf6 directly, trying Qxh6 and Nf5) and white's initiative is there... or I think so!",
+        "19. Nxd4": "Knight will be not very stable here... ",
+        "19... a4": "Maybe first 20.exd5 is something better, I don't know",
+        "20. Bc2 a3": "Now 21.e5 takes attention, so we must to make a \"tree\" of possibilities... \n\nThis type of pawns in the fifth row, \"cut\" in two sides the board, and it's difficult to transfer the pieces if one attack is generated... I'm seeing it (Jorge) a lot of times in tournament games, so:\n\n21.e5 axb2 and now we must calculate \na) 22.exf6 bxa1=Q 23.Rxa1 Black's castle pawns don't be touched - by Qd3! reply - but unfortunately something like 23... Rfe8 24.fxg7 Kxg7 25.Qd3 - trying Qh7+ is confronted by 25... f5!\nb) 22.Rab1 is a simple solution, with an attack if, for example, game goes 22...c5 23.exf6 cxd4 24.cxd4 \n\nSo, ",
+        "21. b3 c5": "A critical moment! To see all our possible moves is essential at these situations!\n\nSo, we have:\n\nTo save the knight:\n1) 22.Nxe6 and after Qxe6 23.e5 is possible\n2) 22.Nf5, as in the game\n3) 22.Ne2, with some \"peace\" in the board\n\nCreate other menaces:\n4) 22.exd5 and if 22...cxd4 23.dxe6, and both queens have pawns to say them hello :)\n5) 22.e5 don't lose anything, because 22.. cxd4 23.Qd3! and Nf6 must remain in his square,  or Qh7 will be a terrific checkmate...\n\nAll 1), 3), 4) or 5) seems to be correct, but it not easy to calculate them...",
+        "22. Nf5": "Black could now take on f5, I think:\n22...Bxf5 23.exf5, and black pawns are fine after Rac8 or c5-c4, trying Rfe8.",
+        "22... d4": "Really a good move, too! If 23.cxd4 Bxf5 24.exf5 cxd4 25.Qd2 Rac8, and d4 pawn offers a good support for black's knight on c3 and e3, after a future Nd5.\n\nMaybe 23.Nxh6+ gxh6 24.Qxh6 could give any chances...",
+        "23. Qf2 d3": "24.Rad1 is best here, but 24... c4 is strong, securing d3 pawn.",
+        "24. Bb1": "Now, 24... Bxf5 is strong and 25.exf5 c4. After this Bb1 and Ra1 are out of play... so game is decided.",
+        "24... c4": "25.Nd4, trying Rd1 and Bxd3 will give done any saving possibilities, maybe.",
+        "25. Qg3 Bxf5 26. exf5 Qxf5": "Black advantage is decisive.",
+        "27. Qc7 Nd5 28. Qc5 Qe5 29. Bxd3 cxd3 30. c4 bxc4 31. bxc4 Qe3+ 32. Qxe3 Nxe3 33. Rf2 Nxc4 34. h3 Rfe8 35. f4 d2 36. Rd1 Re1+ 37. Rf1 Rxd1 38. Rxd1 Rd8 39. Kf2 Nb2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=28534",
+    "gameName": "Team match",
+    "players": "skitter (1497) vs. eforsyth (1484)",
+    "opening": "Ruy Lopez (C61), Bird's defence"
+}

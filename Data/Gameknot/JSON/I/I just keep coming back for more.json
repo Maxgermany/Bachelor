@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4": "I thought I should start trying to learn the Queen's pawn openings. Not really sure what to expect here. \n\nI used Fritz 6 light to help analyze the game",
+        "1... d5 2. c4 Nf6 3. cxd5 Nxd5": "Another option was 3... Qxd5 4. Nc3 Qa5 ",
+        "4. Nf3": "e4 may have been better",
+        "4... e6 5. e4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Nf6 8. Bd3 O-O 9. O-O Nbd7 10. h3 b6 11. Nc3 Bb7 12. b4": "too passive, should have played something like Rfd1 and worked to open a file",
+        "12... a5 13. b5 c5 14. bxc6 e.p. Bxc6 15. Rab1 Rc8 16. a4": "Again passive, should've played Rfc1",
+        "16... Qe7 17. Rfe1 Nh5 18. g3": "Again too passive. d5 would've been better continued by 18... Ba8 19. Bb5 Rfd8 20. Red1\n\ntaking d5 with the epawn loses a piece when I recapture with my pawn",
+        "18... g6 19. d5 Bb7 20. Bb5 Nc5 21. d6 Qf6 22. d7 Rcd8": "Stronger was 22...Nxd7 23.Bxd7 Rxc3",
+        "23. Nh2 e5 24. Nd5": "Ng4 was stronger - likely to win the e-pawn after Qe6 25. Rbd1 Bc6 26. Bxc6 Qxc6 27. Nxe5",
+        "24... Bxd5 25. Qxd5 Qe6 26. Red1": "I probably should've traded queens here. Fritz gives the trade a  /=.59 where my move Red1 offers a return to equality",
+        "26... f5": "This was a blunder I didn't take advantage of - just didn't see 27. Qxe6  Nxe6 28. Bc4 Nf6 (or Nhg7) 29. Rxb6 with a clear advantage for white",
+        "27. Bc4 Ng7 28. Rbc1 Qxd5 29. Rxd5 Kh8 30. Rcd1 Nxe4": "Probably should've taken the pawn on a4",
+        "31. Rxe5 Nc3 32. Rd6 Ne4 33. Rxb6 Rxd7 34. Rxa5 f4 35. g4 f3 36. Bd5": "Much stronger would've been Nxf3 - Black cannot take back with his Rook without losing material. for example. 36... Rxf3 37. Ra8  Ne8 (forced) 38. Rxe8  Kg7 39. Rxe4",
+        "36... Nd2": "Not the best - Rb2 traps the Knight - Ng5 would've been better",
+        "37. Nxf3": "In the game I saw this as forcing Black to play 37... Nxf3  38.Bxf3 Rxf3 39.Ra8  Ne8 40.Rxe8  - which is what happened. I did not see Rxd5 as a response. I also did not see Rb2 trapping the Knight",
+        "37... Nxf3+": "37... Rxd5 38. Rxd5 Nxf3  would've won a bishop and a Knight for a rook\n",
+        "38. Bxf3 Rxf3 39. Ra8+ Ne8 40. Rxe8+ Kg7 41. Kg2 Rf6 42. a5": "I had considered trading rooks, but didn't like it as much. Fritz gave it a slight advantage to a5. I think I wanted to maintain tension and thought if you were to trade after taking back with my pawn and then moving my rook to the 6th rank I would have a good chance to promote",
+        "42... h5 43. g5": "I also could've played 43.Rg8  Kxg8 44. Rxf6",
+        "43... Rf5 44. a6 Rxg5+ 45. Kf3 Rf5+ 46. Ke3 Kf7 47. Ree6 g5 48. Reh6 Re5+ 49. Kf3 g4+": "Rf5  would've been better. It may have even led to a draw if 50. Kg2 Rd3 then if if White takes the pawn on h5 its a draw after Rxf2  and then the checks are perpetual.\n\nOtherwise I think this pawn check sealed the deal and put Black in a losing end game",
+        "50. hxg4 hxg4+ 51. Kxg4 Rd4+ 52. Kf3": "f4 would've been better",
+        "52... Rf5+ 53. Kg2 Kg7 54. a7 Rg5+": "Either or on the next move or this one, Rd8 would've have given Black a better chance",
+        "55. Kf1 Ra4 56. Rba6": "Black resigns as the promotion is now inevitable"
+    },
+    "url": "https://gameknot.com/annotation.pl/i-just-keep-coming-back-for-more?gm=13217",
+    "gameName": "I just keep coming back for more",
+    "players": "ekericks (1524) vs. all_is_one (1170)",
+    "opening": "QGD (D06), Marshall defence"
+}

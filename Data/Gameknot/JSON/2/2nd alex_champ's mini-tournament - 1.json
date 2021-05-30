@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. c4 Nf6 2. Nf3 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Qb3": "I am not sure of the purpose of this move.  I don't like it because it blocks White's b-pawn, which he should be pushing.",
+        "9... Nd7 10. Qc2": "This is where the Queen should have gone last move.",
+        "10... f5 11. exf5 gxf5": "Typical KID capture giving Black a nice mobile center",
+        "12. Ng5": "The White Knight eyes e6.  It is a standard White Tactic to play Ne6 forcing the c1 Bishop (who was born to sacrifice itself on h3) to take the Knight.  after exd6 the White pawn on d6 is probably lost, but it takes time for Black to win it; and meanwhile White is attacking on the queenside.",
+        "12... Nf6 13. Rd1": "White is in no hurry to go to e6 and hopes to provoke h6 from Black.",
+        "13... Qe8": "The Queen heads for the Kingside.  Fritz doesn't like this move and thinks Black should play f4.  I never considered f4, I wanted to keep my e5, f5 pawn dual abreast until I have a specific reason to move one or the other.   A point in ...f4's favor is that it would prevent White from playing f4.",
+        "14. Ne6": "Fritz likes f4 here and it may have a point.  Of course Fritz is very materialistic and doesn't approve of White sacrificing the pawn.",
+        "14... Bxe6 15. dxe6 Rc8": "This may be a too passive.  Again Fritz likes ...f4.  I wanted to get my pieces in position before putting my pawns in motion.",
+        "16. Qb3": "Once again White shuffles his Queen.",
+        "16... Kh8": "Clearing the g-file for the heavy pieces.  Also gets the king off the a2-g8 diagonal Naturally Fritz doesn't like this and thinks I should have taken timeout to play ...b6.  I think Fritz may have a point.",
+        "17. Qxb7": "Fritz now thinks White has a winning advantage.  I disagree, but must admit that I was overestimating Black's attack.",
+        "17... Ng6 18. Nb5 Qxe6 19. Nxa7 Rcd8": "I am finally ready to start my attack",
+        "20. Qxc7 f4": "...d5 was the alternative and I spent a lot of time looking at it.",
+        "21. Nc6 Rd7 22. Qb6 e4 23. Nd4 Qf7 24. Nf5": "Fritz likes 24 Qb3 for White and I tend to agree.  ...f3 25 Nxd6 Nh4 26 f4 Nd5 27 cxd5 Bxd4 28 Kf1",
+        "24... f3 25. gxf3 exf3 26. Bxf3": "Fritz likes 26 Bf1 Ne5 27 Ng3 (27 Nxd6? Qg6  28 Kh1 Nxc4- ; 27 Rxd6? Rxd6 28 Nxd6 Qg6  29 Kh1 Ne4- ; 27 Nxg7? Qg6  28 Kh1 Rxg7 29 Bg5 Qxg5 30 Bh3 Qg2  31 Bxg2 fxg2  32 Kg1 Nf3#) ",
+        "26... Ne5": "Fritz considers this position as equal",
+        "27. Bg2": "27 Qb3 was better and probably draws.",
+        "27... Qh5 28. Ne3 Nfg4 29. Nxg4 Qxg4": "29...Nxg4 is probably better",
+        "30. Qb3 Nf3+ 31. Kh1 Nxh2 32. Bh3": "This should be the losing move.  Correct was 32 Rd3 Re7 33 Bd2",
+        "32... Qh5": "32 ...Qe4  is better 33 Bg2 Nf3- ",
+        "33. Rd5": "33 Rg1 is better but Black should win with ...Nf3",
+        "33... Be5 34. Rxe5 dxe5 35. Kxh2 Rxf2+ 36. Kg1 Rdf7": "Here Fritz suggests 36...Re2 37 Qb8  Kg7- ",
+        "37. Bg2": "37 Bh6 Qg6  38 Kh1 Qxh6 39 Qb8  Qf8 40 Qxf8  Rxf8 41 b4 and White might survive.",
+        "37... Rxg2+ 38. Kxg2 Qe2+ 39. Kh3 Rf3+ 40. Qxf3 Qxf3+ 41. Kh2": "  Fritz says 42 ...h5 is winning for Black for example: 43 a5 h4 44 Ra3 Qf1  45 Kxh5 Qxc4  46 Kh5 Qxc1\n\nNotice that in the diagram, the Black Queen has the bishop dominated, any move by the bishop and the queen will be able to fork it by checking the king.",
+        "41... Qf2+ 42. Kh3 Qf3+ 43. Kh2": "Here White offered a draw and I agreed. Next, I  turned on Fritz's engine and found that I had a winning advantage."
+    },
+    "url": "https://gameknot.com/annotation.pl/2nd-alex_champs-mini-tournament?gm=19421",
+    "gameName": "2nd alex_champ's mini-tournament",
+    "players": "munis (1798) vs. blake78613 (1802)",
+    "opening": "English opening (A15)"
+}

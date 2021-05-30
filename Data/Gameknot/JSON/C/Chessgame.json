@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. c4": "English opening {all notes by Rakshi}",
+        "1... Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 Nc6 5. e3 d5 6. a3 Bc5 7. d4 Be7 8. Bd2": "Idea to castling on Queen side",
+        "8... O-O 9. O-O-O Kh8 10. h4 Qd7 11. Ne5": "Placing Knight on e5 means I need Nc6",
+        "11... Nxe5 12. dxe5 Ng4 13. Bd3": "Sacrificing one Rook and attacking on h7 pawn it depends only king",
+        "13... Nxf2 14. Bxh7 Nxh1 15. Rxh1 g6": "Idea to threats Bishop. But it is not without dangerous",
+        "16. h5": "Very beautiful move, later it opens Rook",
+        "16... Kxh7 17. hxg6+ Kg7": "Black king can't escape by moving Kg8 instead of Kg7",
+        "18. Rh7+ Kg8 19. gxf7+ Rxf7 20. Qg6+ Rg7 21. Qxg7#": "Simply mated..."
+    },
+    "url": "https://gameknot.com/annotation.pl/chessgame?gm=50897",
+    "gameName": "Chessgame",
+    "players": "Rakshi (??) vs. ChessBuddy (??][Result  1-0)",
+    "opening": "English (A17), Nimzo-English opening"
+}

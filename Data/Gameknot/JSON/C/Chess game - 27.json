@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Whew!",
+        "1... e5 2. Nf3 Nf6": "Ooh!",
+        "3. Nxe5 Nxe4": "?!",
+        "4. Qe2": "Yee",
+        "4... Qe7 5. Qxe4 d5 6. Qxd5 c6 7. Bb5": "Oops",
+        "7... a6 8. Bxc6+ bxc6 9. Qa5 f6 10. O-O fxe5 11. Re1 g6": "Um",
+        "12. Rxe5": "!",
+        "12... Qxe5": "?",
+        "13. Qxe5+": "Yay",
+        "13... Be6 14. Qxh8": "Bye bye rook",
+        "14... Bf5": "Oh well ",
+        "15. Nc3 Bxc2": "Oh",
+        "16. d4 Be4 17. Qe5+ Be7 18. Qxe4 Nd7 19. Qxc6 Rb8 20. Qxa6 Rb6 21. Qc8+ Kf7 22. Nd5": "Well",
+        "22... Rd6 23. Qc4 g5 24. Nb6+": "Check",
+        "24... Ke8": "Back",
+        "25. Qg8+ Nf8 26. Nc8 Rxd4": "Oof",
+        "27. Bxg5": "Well. One of the ways to stop back rank mate",
+        "27... Bxg5": "Cool",
+        "28. Re1+": "Check. Qxg5 was also an option.",
+        "28... Be7": "What. I would\u2019ve done Kd7.",
+        "29. Rxe7+": "White has to be careful about back rank, but",
+        "29... Kd8": "Only move.",
+        "30. Qxf8#": "Checkmate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=65574",
+    "gameName": "Chess game",
+    "players": "eric2jin (white) vs. linusinsulins (black)",
+    "opening": "Petrov (C42), Damiano variation"
+}

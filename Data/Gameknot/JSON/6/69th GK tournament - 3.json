@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "I've been having success in my GK Advance sections and I've won my last 3 first rounds in this tournament; however, somewhere during this time frame my rating bounced above 1700 for a moment and I got knocked up to the \"Expert\" section.\r\n\r\nIn the last Expert Section I played at GK I scored a \"0\" (also a second round bounce up). This time I was determined to score better (sheesh). In the end, I scored a 3.5 and this game features my highest draw aginst any GK opponent. \r\n",
+        "1... d5 2. Bg5": "I wanted to play solid but also be out of book. I'm not sure what this opening is but felt as though it was the best of both worlds. ",
+        "2... h6 3. Bh4 c6 4. Nf3 Qb6 5. Qc1 Bf5 6. c3 Nd7 7. Nbd2 e6 8. e3 Ngf6 9. Be2 Be7 10. O-O g5": "He has committed to the advance of the kingside which means he must be getting ready to castle queenside. I didn't feel any panic from this pawn rush and proceeded to play solidly. ",
+        "11. Bg3 Nh5": "I don't think this is the best move. Maybe h5 is better? ",
+        "12. c4": "Since he has to castle queenside (I think), I wanted to open QS-files. ",
+        "12... Nxg3 13. hxg3 h5 14. cxd5 exd5 15. Nb3 h4 16. Ne5 Nxe5 17. dxe5 h3 18. Nd4 Bd7 19. Qc2": "I'm looking to double on the C-file, and I kept examining e6 pushes although I couldn't find a shot. ",
+        "19... hxg2 20. Rfc1 O-O-O 21. Nb5": "The computer didn't like this move although I thought it was pretty clever. I wanted to embed my knight on d6 and at the very least trade knight for bishop. ",
+        "21... Rh6 22. Kxg2": "I had to take here since the Rh6 move protects the invasion but also prepares to double on the h-file. ",
+        "22... Bh3+ 23. Kg1 Rdh8 24. Nd4 Bd7 25. Bf3": "Stopping Rh1. ",
+        "25... Kb8 26. Nf5": "I wondered whether I was overworking my queen since it would leave the b2 pawn unprotected; however, I figured taking the bpawn would only open up another half file to his king and i would have targets on his kingside. ",
+        "26... Re6": "The attack on the pawn is a waste of time in my view. I think he should have taken with the bishop.  ",
+        "27. Nxe7 Rxe7 28. Qc3": "Eyeing the Rook on H8. ",
+        "28... g4 29. e6 Rd8": "I kept examing Q to f6 but realized the Rook at d8 was still protected. ",
+        "30. Bxg4 Bxe6 31. Bxe6 fxe6": "Okay...I have to be winning now, right? My g pawn is ready to run and all of his pawns will have to face resistence. ",
+        "32. Qc5": "First things first...force the trade of queens to consolidate the position. \r\n",
+        "32... Qxc5 33. Rxc5 Kc7 34. Kg2 b6 35. Rcc1 c5 36. Rch1 b5 37. Rh5 Kd6 38. Rah1 a5 39. g4 c4 40. g5 b4": "I know he can make a passer now....feeling ambivalent about the position. ",
+        "41. f4": "I offered a draw here...he didn't accept. I saw that the passer he could make would be an isolated. I thought that presented an extra target. ",
+        "41... c3 42. Rc1 Rc7 43. bxc3 bxc3 44. Kf3": "This move has a tripple purpose. 1) To move toward the pawn on C3; 2) To clear the file so the rook can get to h2 and; 3) To advance to support the g-passer. ",
+        "44... Rb8 45. Rh2 Rb2 46. Rg2": "You know, I thought this move was quite clever since it prepares the push of the G-pawn and forces the exchance and thereby forces the C-pawn to remain isolated. The computer preferred Rc1 to Rc2. So I guess I wasn't so clever. ",
+        "46... Rxg2 47. Kxg2 a4 48. Kf3": "Again with the dual purpose of advancing to support G or to win the C pawn. ",
+        "48... a3 49. Ke2": "Going for the pawn. ",
+        "49... e5 50. fxe5+": "I thought a long time of pushing the pawn to f5 but I couldn't get it to hold up in analysis. Although I'm winning, the g is isolated and will fall. ",
+        "50... Kxe5 51. Kd3": "I already see the finish where the other pawns will come off the board and I'm going to have a R and pawn (A-pawn) versus Rook ending. I still hoped I could squeeze a win, but now I wasn't sure. ",
+        "51... Rg7 52. Rxc3": "I offered a draw and he accepted. I know the rule that in rook versus rook and pawn endings that if the king can get to the queening square it is a draw and so since his king is in position to get to A8 and I would have to untangle, I figured I'd take the points. Maybe I should have played on for another 20 moves to see what happened, but I didn't have much of a plan other than to move the rook to A6 boxing in his king but I really didn't see how I could bring my king into play assumintg he placed his rook at g4.\r\n\r\nStill, I got my highest draw on GK. I'll take it. Hopefully I will be back in the Advance sections in the future. These Experts are killers and this is coming from a Class A USCF OTB player. "
+    },
+    "url": "https://gameknot.com/annotation.pl/69th-gk-tournament?gm=34925",
+    "gameName": "69th GK tournament",
+    "players": "mr5reasons1 (1678) vs. amartne (1939)",
+    "opening": "Levitsky attack (Queen's bishop attack) (D00)"
+}

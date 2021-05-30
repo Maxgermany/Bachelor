@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "Najdorf Sicilian - though Black's game seems slow and White can usually gain an advantage in development and space, White will nevertheless be hard-pushed to find weaknesses in the Black position.\n",
+        "6. Bg5 Nbd7": "6...e6 can also be played here, and is more mainline [correct me if I'm wrong] than the move played. However, since this move develops a piece and prevents Nakamura from doubling pawns, it can hardly be faulted [though it does make it harder for Van Wely to get out his light-square bishop]\n",
+        "7. f4": "Nakamura plays a move usual for White in the Sicilian - a kingside pawn expansion which looks to generate activity kingside. White's logical course of action now would most likely be queenside castling, and perhaps Van Wely will be thinking about queenside castling too because of White's kingside activity...\n",
+        "7... Qb6": "Van Wely brings out his queen and targets the b2 pawn...\n",
+        "8. Qd2": "...but does it need to be protected? I have annotated another game with this variation [between chess computers Rybka and Shredder] only Black has his knight on b8 and his pawn on e6  [in other words, Black had played 6...e6 instead of 6...Nbd7] here's the link to that game, by the way... http://gameknot.com/annotation.pl/technological-brilliance?gm=32287\n",
+        "8... Qxb2": "The poisoned pawn is accepted here as well, and after looking through both games, I can say with confidence that I would never take the pawn as Black! That's just my personal opinion though, because Black probably has some chances in this variation... just not in this game! :P\n",
+        "9. Rb1": "The obvious continuation, chasing the queen away, saving the rook and grabbing the half-open b-file. This rook will prove to be vital later in the game\n",
+        "9... Qa3": "Forced\n",
+        "10. Bxf6": "!? Nakamura has his reasons for this capture, but it still seems like a strange move to me at first. The capture was not forced by any means, and the bishop pair would be useful in this variation of the Sicilian [from what I can gather, the poisoned pawn variation is counting on White having superior spatial advantage for the lost pawn] However, the motif for this will be revealed...\n",
+        "10... Nxf6": "Naturally Van Wely does not want doubled pawns\n",
+        "11. e5": "Nakamura uses his full centre to its full effect here, thrusting his e5 pawn forward. This is Phase One of his plan, as the d7 knight (now the f6 knight) no longer controls e5\n",
+        "11... dxe5": "Van Wely decides to exchange here before retreating his knight. As it turns out, this makes no difference to Nakamura's crushing attack later on\n",
+        "12. fxe5": "Obviously\n",
+        "12... Nd7": "The safest square for the knight [other than g8, of course, but who would want to do that?] Now that the f6 knight [now the d7 knight] no longer controls d5...\n",
+        "13. Nd5": "! Nakamura's knight finds a snug home in the centre of the board! As well as centralising the knight, this move also threatens the standard king-rook fork. Easy enough for a Grandmaster player like Van Wely to handle... right?\n",
+        "13... Qc5": "? What a natural looking move... but incorrect! Any alternative - namely, Kd8 [best, I presume] Ra7 and Rb8 [the king has to move after Nc7+] might have been better, but it's hard to see what's so bad about this move. What we have to remember, however, is that Nakamura is also a Grandmaster...\n",
+        "14. Nb3": "watch how the knight pair gets to work to achieve the final position of this game :)\n",
+        "14... Qc6": "Forced to protect c7 - note also the role of the 'undeveloped' light-square bishop, which acts as a sniper of the c4 square\n",
+        "15. Na5": "another attack on the queen\n",
+        "15... Qc5": "Forced yet again to protect c7\n",
+        "16. Nxb7": "Yet ANOTHER attack on the queen! that knight's just done a square dance right 'round her!\n",
+        "16... Qc6": "The black queen's been doing a little step-dance of her own on the c5 and c6 squares... but why not Bxb7? It turns out that it doesn't fare too much better than Nakamura's shocker next move... 16...Bxb7 17.Rxb7 and all five alternatives to avoid Nc7+ turn out badly; 1)17...0-0-0 18.Bxa6! and Black is under enormous pressure! 2)17...Kd8 18.Nb6! and the knight on d7 falls, most likely with mate. 3)17...Rb8 18.Nf6+! Nxf6 [else Qxd7#] 19.Rxb8+ Qc8 20.Rxc8# 4) 17...Rd8 18.Nc7+! Qxc7 19.Rxc7 and 5)17...Rc8 18.Bxa6! and the threat of 19.Nf6+ Nxf6 20.Bb5+ cannot be stopped, as far as I can see... though if I've missed anything in these alternate lines, Black would probably have a saving line in 17...Rc8. If anyone can find a saving line for Black like that, feel free to comment :) Now...back to the move played. This move also stops Nc7+, and Nakamura gains nothing more with chasing the queen around. What's so bad about it then?\n",
+        "17. Rb6": "!! This shocking move end the game immediately - Black's queen is lost and Van Wely resigns. If 17...Nxb6, then White wins with 18.Nf6+, followed by 19.Qd8#. If 17...Qa4, then White earns a pretty mate with 18.Nc7#. A great example of the use of initiative and space... but where exactly did Van Wely go wrong? Was it the slight change in position from the Rybka-Shredder game that made the poisoned pawn on move 8 a highly toxic pawn? Or could Van Wely have gotten away with 16...Bxb7? Comments are very much appreciated on that matter. Until next time! - Alex\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/spatial-advantage-using-the-knight-pair?gm=33464",
+    "gameName": "Spatial Advantage...Using The Knight Pair!",
+    "players": "Hi Nakamura (2729) vs. Van Wely,L (2677)",
+    "opening": "Sicilian (B94), Najdorf, Ivkov variation"
+}

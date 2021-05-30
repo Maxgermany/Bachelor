@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5": "Here playing black in a blitz game. I'm playing the sicilian defense, since I don't like that much to defend with e5. Sometime I play the Caro-Kann, but I'm not that much experimented with the advance variation that I see often these days.",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "I'm going for a sicilian najdorf. a6 protect the square b5 and give the possibility to do b5 later, giving the possibility to counter-attack with b4 or to do Bb7.",
+        "6. Be3 e5": "The immediate e5 give the possibility to develop the bishop for castling and reduce the threat of the knight. White have to chose: Nf3 or Nb3. Ne2 is possible but white will need to move the knight again later to be able to develop the bishop. ",
+        "7. Nb3": "For right now the knight look to be blocked by the pawns, but he can be very useful later in the game.",
+        "7... Be7 8. f3 O-O 9. Qd2 b5": "?! b5 is a normal idea of the sicilian, but I think finally Nc6 would have been a better continuation. At this point, I was more experimenting than anything since I don't really know all the variations.",
+        "10. Nd5 Nxd5": "?! Well, I have moved quickly, I didn't like the threats of the knight (Bb6, Nxf6). ",
+        "11. Qxd5": "Well I was expecting exd5, I was quite shocked by the position. The queen threats my rook and there is no way I can protect it. My only solution at this point was to try to trap the queen in the corner.",
+        "11... Qc7": "Qc7 was essential to be able to do Bb7 and this way I was able to threat c2 too ,so it could be useful later in the game.",
+        "12. Qxa8": "?! Well I'm still not sure after all that it was a good move. With the accurate defense, I don't see a way for the queen to escape or to gain a big advantage.",
+        "12... Nc6": "! Nc6 blocks the way for the queen to escape and the queen can't go to a7.",
+        "13. Bxb5": "Well nice try at this point, at least he gains a free pawn.",
+        "13... Bb7 14. Qxf8+ Kxf8 15. Bd3": "After the exchange, white still have 2 pt more than I have, but with this kind of position, I still prefer my queen to my 2 rooks. ",
+        "15... Nb4 16. O-O": "Protecting of Nxc2.",
+        "16... a5": "?! Not Nxc2 because of Rc1. I don't remember the idea of a5, I know it was to do a4 later, forcing the knight to move. Nc1 would have given me the possibility to Nxc2, snatching a pawn for free and I think that 17.Nd2 Nxd3 18.cxd3 Qc2 I would have been able to gain the d pawn without problem.",
+        "17. a3 Nxd3 18. cxd3 Ba6": "Pinning the pawn. If Qc2 then Nxa5 and I don't think it advantage my position.",
+        "19. Rfd1 Bd8": "Thinking about to move my queen, leaving a5 under protection of my bishop. If Rb8 happen I can move my king to e7 without any problem.",
+        "20. d4 Qc2 21. Nd2": "The only possible move.",
+        "21... Bb6": "!",
+        "22. Bg5": "? I don't see at this point a good way for white to get out of this position, but Bg5 just help black.",
+        "22... Bxd4+ 23. Kh1 f6 24. Bh4 g5 25. Bg3 Bxb2 26. Rac1": "?",
+        "26... Bxc1": "White resigned here."
+    },
+    "url": "https://gameknot.com/annotation.pl/trapping-the-queen?gm=48497",
+    "gameName": "Trapping the queen",
+    "players": "garnett5  vs. drchopper ",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

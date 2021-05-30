@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5": "I don't really like Queen Pawn openings but went with it",
+        "2. c4 e6 3. Nf3 Nf6 4. Bg5": "The dreaded pin, which was expected hence 2. e6",
+        "4... Nc6 5. e3 b6": "Looking to finachetto as my pawn one6 is blocking development and I thought the pawn on d5 would be exchanged",
+        "6. Nc3 Bb7 7. Qa4 Bd6": "Trying to get George to safety before the fight begins",
+        "8. cxd5 exd5": "Exchange",
+        "9. Nxd5 Be7": "Here I only tried to keep some integrity in my position and had to defend with the bishop, taking with the G pawn would force me to castle to the queen sided. If he then exchanged on c3 the a7 pawn would possibly not hold",
+        "10. Nb4": "He backs of which was a mistake because b4 is under double attack....",
+        "10... Bxb4+": "And there is check included in the deal so I am taking over the iniciative",
+        "11. Nd2 O-O": "Finally getting the King out of the way to free up the knight on c3 if needed",
+        "12. Bb5": "This would have been a nice pin before 11. O-O, now it is only a menace as I saw he could not swing the momentum back even if I had to play Qd7 later on to defend",
+        "12... Bxd2+": "Keeping up the pressure with the intention to break the pin on f4 by his bishop, so I had to draw the king out from the back rank",
+        "13. Kxd2 Ne4+": "Here my opponent resigned, I would be up another piece no matter what he played.\n\nI was hoping he would play a greedy blunder for the poetic sacrifice to stop the mate 14. d3 Qxg5 15. Kxe4 Nb4+ 16. Bc6 Bxc6+ 17. Qxc6 Nxc6 but I was happy to take the win none the less."
+    },
+    "url": "https://gameknot.com/annotation.pl/turning-the-pin-against-the-pinner?gm=52734",
+    "gameName": "Turning the pin against the pinner",
+    "players": "??? (1322) vs. Timber-pusher (1402)",
+    "opening": "QGD (D30)"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, here I played against a Sicilian against a near-Expert more than 200 points north of my rating.  Up until move 13 we followed a game against an Expert and a Master who had a similar rating differential to me and my opponent.  I had to improve on that Expert's line or lose the game!  Given my performance against Apastpawn and Marinvucusic it was an extremely Herculanean order!  Did I find an improvement on Move 13?  Let the jury decide!  Joanne",
+        "1... c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3": "5. Nc3 - some fairly standard Sicilian moves.",
+        "5... d6 6. Bg5 Bd7 7. Qd2": "7. Qd2 - steady development on both sides.",
+        "7... Rc8 8. f4 Nxd4 9. Qxd4 Qa5 10. Bxf6": "10. Bxf6 - I decide to exchange B for N to break up black's kingside but is this another case of an inappropriate exchange.  I do end up missing Frere Lenoir later on.",
+        "10... gxf6 11. Be2 h5 12. O-O Qc5 13. Qxc5 Rxc5 14. f5": "Here is that game I mentioned at the beginning re Krupa Dominik (2091) vs. Bylino Oleg (2255)\r\n1. e4 c5 \r\n2. Nf3 d6 \r\n3. d4 cxd4 \r\n4. Nxd4 Nf6 \r\n5. Nc3 Nc6 \r\n6. Bg5 Bd7 \r\n7. Qd2 Nxd4 \r\n8. Qxd4 Qa5 \r\n9. f4 Rc8 \r\n10. Bxf6 gxf6 \r\n11. Be2 h5 \r\n12. O-O Qc5 \r\n13. Qxc5 Rxc5 \r\n14. Rad1 f5 \r\n15. Rd5 Bg7 \r\n16. Rxc5 Bd4  \r\n17. Kh1 dxc5 \r\n18. e5 h4 \r\n19. Bb5 Bxc3 \r\n20. Bxd7  Kxd7 \r\n21. bxc3 Rh6 \r\n22. Rb1 Kc7 \r\n23. Rb5 Ra6 \r\n24. Rxc5  Kb6 \r\n25. Rd5 Rxa2 \r\n26. Kg1 Rxc2 \r\n27. Rd7 a5 \r\n28. Rxe7 a4 \r\n29. Rxf7 a3 \r\n30. Rf8 a2 \r\n31. Ra8 Rc1  \r\n32. Kf2 a1=Q \r\n33. Rxa1 Rxa1 \r\n34. h3 Kc5 \r\n35. g4 hxg3 e.p.  \r\n36. Kxg3 Kd5 \r\n37. Kh4 Rg1 \r\n38. Kh5 Ke4 \r\n\r\nIn this game white's queenside pawn structure got busted.  I tried to avoid it but to no avail.  Here in this game white resigned on the grounds of ruinous loss of material - I would have resigned at move 33.  At least my game lasted longer!\r\n ",
+        "14... Bh6 15. Bd3 Be3+ 16. Kh1 Bc6 17. Rab1": "17. Rab1 - I try and keep my queenside pawn structure intact for as long as possible.",
+        "17... Re5 18. Rfe1 Bd2 19. Re2 Bxc3 20. bxc3": "20. bxc3 - but that dreaded exchange which I had been trying to avoid with my 14th move has come to pass.",
+        "20... Rg8 21. h3 e6 22. fxe6 fxe6": "22. ...... fxe6 - black improves his central pawn structure.",
+        "23. Rg1 Ke7 24. Kh2 Ra5 25. Ra1 Rag5 26. Rg1 Rc5 27. c4": "27. c4 - Frere Leblanc becomes a star - in more ways than one!  He is the glue that is holding my shattered queenside together.  How long will I be able to hold out though?",
+        "27... b6 28. g3 Bb7 29. Rb1 Rgc8 30. Rb2 Ba6 31. Kg2 Ra5 32. Rf2": "32. Rf2 - the start of some counterplay by white, my rook is heading to f4 then h4 to win the h5 pawn and create a passer of my own.",
+        "32... Bxc4 33. Bxc4 Rxc4 34. Rf4 Rca4 35. Rh4 Ra4xa2 36. Rxa2 Rxa2 37. Rxh5 Rxc2+ 38. Kf3 Rc3+ 39. Kg4": "39. Kg4 - my queenside has been massacred - completely caved in from relentless pressure, but here comes some counterplay of my own.",
+        "39... a5 40. Rh7+ Ke8 41. Rb7 Rb3 42. h4": "42. h4! - unbelieveably I am threatening mate in 5 but can black thwart my plans - he does unfortunately with my co-operation.  Wanna see how?  Read on.",
+        "42... Rb4 43. Kf3 Rb5 44. g4 a4 45. h5": "45. h5 - one move nearer to my goal, but ....",
+        "45... Rb3+ 46. Kf4": "46. Kf4?? - ....... would Kg2 have at least drawn the game?",
+        "46... a3 47. h6 Rh3 48. g5 Rh4+ 49. Kg3 fxg5": "Here I decided to wave the white flag on the grounds of ruinous loss of material, viz:-\r\n\r\n49. Kg3 fxg5 \r\n50. Rxb6 Ke7 \r\n51. Ra6 Rxh6 \r\n52. Rxa3 Rh4 \r\n53. Re3 Kf6 \r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/can-i-do-better-than-an-expert?gm=19567",
+    "gameName": "Can I do better than an Expert?",
+    "players": "jstevens1 (1734) vs. charleshiggie (1951)",
+    "opening": "Sicilian (B58), classical"
+}

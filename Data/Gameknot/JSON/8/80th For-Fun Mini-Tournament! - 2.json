@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Qf3": "Queen develops in opening, not so good",
+        "2... f6 3. Bc4": "Scholars mate is defended",
+        "3... Bc5 4. Qh5+ g6 5. Qf3 d6 6. a3": "B4 attacks bishop, I don't like these moves, queenside castling is bad",
+        "6... Nh6 7. d3 Ng4": "Wonder why",
+        "8. Be3 Nxe3 9. fxe3": "Equal matrieal",
+        "9... Nc6 10. c3 h5": "Blacks kingside is weak",
+        "11. Nh3 Bg4 12. Qf2 Qd7 13. Qxf6 Rf8": "Free pawn",
+        "14. Qxg6+ Kd8 15. Ng5 Bxe3": "Castling on white is not that good, black queenside is ok ",
+        "16. b4 Bf2+": "Hmmm",
+        "17. Kd2 Bh4 18. Be6 Bxe6": "Fork with king and rook! Or you lose a queen",
+        "19. Qxh5": "Noooo",
+        "19... Rf2+ 20. Ke3 Rf4 21. g3": "Pawn fork!!",
+        "21... Bxg3 22. hxg3 Rf8": "Rook  and king fork on Nxe6",
+        "23. a4 Bg4 24. Qh4": "C'mon do the fork, or attack the bishop",
+        "24... Ne7 25. Na3": "Wonder why",
+        "25... b6 26. Nh7": "Rook attacked",
+        "26... Rf3+ 27. Kd2 Be6 28. Rhf1 Rxf1 29. Rxf1": "Rook trade",
+        "29... Kc8 30. Nf8": "Fork",
+        "30... Qxa4 31. Nc2 c5 32. Nxe6 cxb4 33. Qxe7 bxc3+ 34. Ke3 Qd7": "Black wants a queen trade",
+        "35. Rf8+": "White says no",
+        "35... Kb7 36. Qxd7+": "Queen go bye bye",
+        "36... Ka6 37. Rxa8": "Black resigned, 37. ... Ka5 38. Qxa7+ Kb5 39. Ned4+ Kc5 40. Rc8# or 40. Qc7# or 37. ...d5 38. Qxa7+ Kb5 39. Ned4+ exd4+ 40. Nxd4 Kc5 41. Rc8+ Kd6 (41. ... Kb4 42. Qxb6 Ka4 or Ka3 43. Ra8) 42. Qc7# or 37. ... b5 38. Qa7# magics had some magi in the chess game(and in the game he played me I lost)",
+        "37... b5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/80th-for-fun-mini-tournament?gm=55065",
+    "gameName": "\"80th For-Fun Mini-Tournament!\"",
+    "players": "magics (1113) vs. compoundalert (1139)",
+    "opening": "KP (C20), Napoleon's opening"
+}

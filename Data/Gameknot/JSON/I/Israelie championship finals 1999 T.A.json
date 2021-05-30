@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. e4 cxd4 8. Nxd4 d6": "Its very popular to play 8...Bc5 with the idea of building a strong central position after 9.Nb3-Nc6.10.Bg5-d6 followed by ...h6,...e5. 8...Nc6 also playable here ,this move creates for black good chance in battling for the control on the dark squares on the center .",
+        "9. Be2 a6": "Doesn't showing white where the Black knight b8 will be developed , in the high level of chess masters and GM's sometimes using a mind game technique which they make a silent move ,a waiting move to see what the opponent will do next what his up to , and then they developing there Pisces according to the position , its not always effect the position but it gives to the player that using the technique a comfy feeling during the game and its help to make better decisions .",
+        "10. Be3": "10.0-0 followed by f4,f5 .. its anothere good variation .",
+        "10... Nbd7": "More carefully was 10...Be7 ,... 0-0,...Nfd7, ....Nc6 . ",
+        "11. g4": "White starting advancing his pawns on the kings side the idea is to push the black Pisces back from the center to passive position ,get space advantage and crush the black , its also obvious that white will castle on the queen side .",
+        "11... h6": "Black have to stop the g4-g5 advance , if 11...d5?.12.exd-exd.13.g5!-dxc.14.gxf-Bxh1.15.0-0-0-Bb7.16.fxg-Bxg7.17.Nf5 with extremely powerful attack .",
+        "12. O-O-O Rc8": "Good move , developing the rook to active c file , and preparring 13...Ne5 , ...b5 , exposing whites queens side .",
+        "13. f4 g6 14. e5": "Interesting , white offering sacrificing an exchange for very dangerous attack , 14...Bxh1 (which was played in the game) .15.exf followed by 16.Nxe6-Qxf6( 16..fxe ??.17.Qxg6#).17.Nxf8-Kxf8.17.Qd2-Rg8.18.g5-hxg.19.fxg -Qe7.20.Qxd6 with slight advantage for white .",
+        "14... Bxh1 15. exf6 Bb7 16. Nxe6 Qxf6 17. Bd4": "Mistake , 17.Nxf8-Kxf8.18.Qd2-Rg8.19.g5.... as I said before . ",
+        "17... Ne5": "Great move !!, Its a amazing that both sides have pieces under attack  , black blocks the diagonal a1-h8 and keeps the exchange advantage , the idea is that after 18.fxe-dxe and the bishop and the knight are under attack another idea is to make room for the bishop on b7 to defend the king if he will be forced by ...Bc6,...Bd7 maneuver .",
+        "18. fxe5 dxe5 19. Qa4+ Bc6": "Good move , if 19...b5.20.Nxb5!-axb.21.Qxb5+Bc6.22.Qxe5-Qxe5.23.Bxe5-Rg8.24.Nxf8. and white have material advantage bishop and 3 pawns vs a rook and better position .",
+        "20. Qxa6 Qxe6 21. Bxe5 Bc5": "good move , if 21...Qxe5?.22.Qxc8+ and the bishop on c6 dies with easy win for white . sucriffies a rook will lead to slight advantage for black after 22...Ra8 which trape the white queen and force a trade, Queen for 2 rooks .",
+        "22. Bxh8 Ra8 23. Qxa8+": "white have no choise , if 23.Nb5?-Qe3+.... and the black queen escapes the fork on c7 with check  and makes an own  fork with check and attacks the bishop on e2, while the white queen is stiil traped . and if 23.Nd5-Bxd5.24.cxd-Qe3+... (24.Qb5+Bc6.25.Qb3-Qxe2....)",
+        "23... Bxa8 24. b4": "It seems that now black got a winning endgame ,however white played very well to the end while black couldent use his advantage to win , and the game ended in draw) ",
+        "24... Be3+ 25. Kb2 f6": "Black threats to trap the bishop on h8 , ...Kf7,....Qe8 . ",
+        "26. c5 bxc5 27. Bb5+ Bc6 28. Bxc6+ Qxc6 29. Re1 Qg2+": "Better was 29...Qf3 that should be better version to what happend in the game .",
+        "30. Re2 Qf3 31. bxc5": "31.b5?-Kf7.32.Bxf6-Bd4.33.Bxd4-cxd ... and white will be forced to sac his knight for saving his rook any way white his lost here .",
+        "31... Kf7 32. Bxf6": "good move , white steel a live and steel little bit a dangerous , 32...Kxf6.33.Rxe3!-Qxg4 (33...Qxg4?.34.Nd4+ and the black queen dies and black can resign ) and white have some chances even to win because of his a and c passing  pawns whoare very dangerous ",
+        "32... Bxc5 33. Be5 Qxg4 34. a4": "Mistake , much better 34.Re4!-Qc8!.35.a4-Qb7+.36.Kc2-Bb4.37.Rc4 ...black steel better but far from wining.",
+        "34... h5": "and now black made a mistake that probably cost him a win , instead of 34...h5? , 34...Bb4!.35.Kb3-Ba5 ! and whites saving chances is over .",
+        "35. Re4 Qg2+": "mistake , better was 35...Qg1 with the idea to stop whites passing pawn .",
+        "36. Kb3 g5 37. a5 h4 38. a6 g4": "Black wants to create a passing pawn , followed by 39...Qg1 stoping whites a pawn , but after 39.Ra4-Ba7.40.Nb5-Qg1 .41. Bd6 white saving chances are bigger than ever . ",
+        "39. Bd6": "Great move !! , defends h2 , attacks the bishop on c5 followed by Re7+ , hitting the bishop will lead to a7 and black cant do nothing to stop the pawn from became a queen and black will have to fight for survive . 39...Bxd6?.40.a7 ...",
+        "39... Bg1 40. a7 Bxa7 41. Re7+ Kg6 42. Re6+": "good move that sved the game for white , avoiding blacks last trap 42.Rxa7?-Qc6!.43.Bb4-g3.44.hxg-h3.45.Ra2-Qe6+.46.Ka3-Qxa2+!.47.Nxa2-h2... now in order to get draw white will have to search a way like Ka2,Bb2,Nd4 and some how to prey that black wont break this structure . the game ended draw . "
+    },
+    "url": "https://gameknot.com/annotation.pl/israelie-championship-finals-1999-t-a?gm=63622",
+    "gameName": "Israelie championship finals 1999 T.A",
+    "players": "I.Hankin  vs. L.Judassin  ",
+    "opening": "Queen's Indian (E12), Petrosian system"
+}

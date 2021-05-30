@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. c4": "Not a very strong move, blocks your light squared bishop.",
+        "2... Nc6 3. Nc3 e5 4. Nd5": "Interesting, quite an aggressive move.",
+        "4... d6 5. d3 Be6 6. Nf3 Bg4 7. Be2 Nf6 8. Nxf6+ Qxf6 9. Bg5": "Good move. I was getting ambitious and this made me move back.",
+        "9... Qg6 10. h4 f6 11. h5": "Very good move, again forcing me back, not a move I expected from you.",
+        "11... Qf7 12. Bd2": "Perhaps weak, you might have tried nxe5 which pretty much forces nxn, you can then play bxb protected by the queen. Leaves you at least a pawn up.",
+        "12... Bxf3 13. Bxf3 Nd4 14. O-O g6 15. Qa4+ Ke7": "Weak move on my part. I had plans for the other side which is why I didn't interpose my queen. Too focused on what I wanted ot what I needed.",
+        "16. Bg4": "Very dangerous ;-)",
+        "16... f5 17. exf5 gxf5": "I might have tried b-g4 here. You'll still have to retreat with the other bishop but then you're still pushing me back.",
+        "18. Bf3": "Bad move. Allows the doublig of the pawns and the subsequent mate. Its your ONLY real mistake of the game, other moves may not have been the best, but this is the one that kills you. Perhaps b-h3 looking at advancing the g pawn or b-d1 though thats a very negative move. I would have played b-h3 as black has no g pawn to threaten you.",
+        "18... Nxf3+ 19. gxf3": "And after that its forced.",
+        "19... Rg8+": "Three alternatives, none of which do anything but prolong it....",
+        "20. Kh2 Qxh5#": "But you had me back pedalling there for a few moves so I'm not unhappy with getting nasty ;-) Good luck with the rest of the tourney."
+    },
+    "url": "https://gameknot.com/annotation.pl/your-basic-sicilian-b20?gm=49197",
+    "gameName": "Your Basic Sicilian B20",
+    "players": "ransmohamud (1101) vs. grey_panda (1459)",
+    "opening": "Sicilian (B20), Gloria variation"
+}

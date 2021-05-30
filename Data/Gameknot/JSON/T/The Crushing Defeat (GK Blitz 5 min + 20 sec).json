@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Since I'm making this game public, I'll disclaim what eventually will become pretty apparent: I'm neither a very skilled or experienced chess player beyond the world of recreational chess.",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "Decided to go with the move involving the Najdorf variation just for kicks. I wasn't sure what my opponent's response would be.",
+        "6. Be3 g6": "I then decided to proceed with the dragon variation, which probably wasn't wise.",
+        "7. f3 Bg7 8. Qd2 O-O 9. O-O-O": "I suppose it might start to be telltale at this point that my opponent was working on a kingside attack. I was too focused on building towards a queenside attack that I didn't notice a trend that began to be apparent in the next few moves.",
+        "9... Nbd7 10. Be2": "Here, with the aftersight of how the game progressed, its pretty easy to see that my opponent's bishops, queen, rook, and the d4 knight were perfectly set up for a pawn attack against my dragon formation. I've discovered that this might be a weakness of the dragon...in my past games it has seemed to depend on the pawn structure and bishop remaining in that formation. I might need to think of a defense that can answer this threat if I'm to continue using it.",
+        "10... Ne5 11. g4": "Here the pawn attack begins to be apparent. At this point, I was considering a knight sacrifice for one of the pawns, probably the g4 pawn, to break up the attack, since I've experienced previous games where pawn attacks were devastating. However, I didn't want my opponent to gain a material lead so early in the game. I foolishly decided to try and keep building my own attack.",
+        "11... Qb6 12. h4 Rd8": "This point in the game is rife with my own mistakes. With such a heavy attack going, I don't know how I could have ignored it at this point.",
+        "13. h5 gxh5 14. gxh5 h6 15. Nf5 Qc7 16. Nxg7 Kxg7 17. Bxh6+ Kh7 18. Rhg1 Ng8": "This, it turned out, stemmed the tide a little longer, and I had some hopes at this point of surviving the attack.",
+        "19. Nd5": "At this point, I meditated moving my knight to c4 and attacking his queen. The resulting combination I saw as 20. Kxc7 Kxd2 21. Kxa8 which leaves me behind in material, but might have been preferable to suffering as badly as I did in moves to come.",
+        "19... Qc6 20. Qf4 Be6": "Protecting the pawn.",
+        "21. Nxe7": "The knight kept on attacking my queen and concentrating around my king. There was really nothing I could do.",
+        "21... Nxe7 22. Qf6 Rdg8": "At first I thought this move would stump my opponent and give me a little breathing room, but it didn't.",
+        "23. Rg7+": "As soon as he brought his rook down, it didn't take long for me to realize there was no way I could win from this situation. Here's to a poorly played but instructive game."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-crushing-defeat-gk-blitz-5-min-20-sec?gm=48446",
+    "gameName": "The Crushing Defeat (GK Blitz: 5 min + 20 sec)",
+    "players": "msk3000k  vs. cazador2 ",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

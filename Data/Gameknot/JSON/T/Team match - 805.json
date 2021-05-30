@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. c5 Nd7 6. Nc3": "Tratto non riscontrato in altre partite; che sia una novit\u00e0?",
+        "6... b6": "si adotta subito la manovra per scardinare il centro del Bianco.",
+        "7. b4 a5 8. b5": "Ancora un tratto inatteso che per\u00f2 non difende il centro",
+        "8... bxc5 9. bxc6 Nb6 10. Bb5 Qc7": "il Bianco tentava di giocare c6c7  con perdita della Donna. E' necessario bloccare il Pc6 e provvedere a breve a catturarlo.",
+        "11. Be3 c4": "Il Nero non ha interesse ad aprire il centro, ha il Pc6 facile preda e Bb5 bloccato",
+        "12. a3": "Impedisce Bb4 che avrebbe eliminato un difensore di Bb5",
+        "12... Ne7": "Non c'\u00e8 tempo da perdere: il Pc6 va eliminato",
+        "13. Na4 Nxc6 14. Nxb6 Qxb6 15. Qa4": "Soccorre Bb5 e minaccia la cattura di Nc6",
+        "15... Rc8": "prontamente difeso",
+        "16. Ne2 Be7": "finalmente si libera la via per l'arrocco liberando di conseguenza Nc6 dall'ichiodatura",
+        "17. h4": "A questo punto della partita il Bianco non trova di meglio che espandersi sul lato di Re lasciando decidere al Nero le sorti sul lato di Donna.",
+        "17... O-O 18. f3 Nxe5": "Prima mossa di una manovra che mira a risolvere il blocco sul lato di Donna con una serie di cambi. Infatti se ora 19.dxe5 Qxe3. Ma lo scopo \u00e8 quello di minacciare l'arrivo di Nb2 con cattura della Donna. Ora il Bianco deve abbandonare Bb5 alla sua sorte se vuole conservare la Donna.",
+        "19. Nf4": "Buona mossa per impedire il passaggio Ne5d3b2",
+        "19... Rcb8": "Quindi si ripiega sull'attacco diretto di Bb5 che non pu\u00f2 essere difeso da Rb1 per via di Bf5. Quindi Bb5 non pu\u00f2 n\u00e9 essere difeso n\u00e9 scappare.",
+        "20. O-O Nd3": "Bene, cambiamo un po' di pezzi",
+        "21. Ne2": "Grave errore, il Bianco non scorge la minaccia Nb2 che gli far\u00e0 perdere la Donna. Mi aspettavo 21.Nxd3 Bxd3",
+        "21... Nb2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=9733",
+    "gameName": "Team match",
+    "players": "ds2005 (1738) vs. nunzio (1636)",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

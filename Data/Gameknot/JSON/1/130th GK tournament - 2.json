@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 Nc6": "Nimzoich Defense.\n",
+        "2. b3": "White does ok with d4 or Nf3.  Not so much this one.",
+        "2... Nf6 3. g3": "Pe4 left undefended.\n",
+        "3... Nxe4 4. Qf3 Ng5 5. Qg4 h6 6. Qf4 e5 7. Qf5": "Moving the queen around let's black develop.  White ends up moving the queen eight times in a row, permitting black enormous control of the center.\n",
+        "7... d6 8. Qd3 Nb4": "White should not leave Pc2 undefended.",
+        "9. Qc3 Nd5 10. Qd3 Nb4 11. Qc4 a5": "Be6 might have been better.",
+        "12. f4 exf4 13. gxf4 d5 14. Qd4": "OMG no!  The queen is lost by knight fork, king, queen, rook.\n",
+        "14... Nxc2+ 15. Kd1 Bf5": "Uh, no, I think NxQ is suggested here.",
+        "16. fxg5": "Like what is Nc2?  Chopped liver?",
+        "16... h5": "NxQ!  NxQ!  White should play Qe5+, followed by QxBf5 if black interposes the black bishop.  If black chooses the white bishop, obviously KxNc2.  Black will most likely select the queen.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/130th-gk-tournament?gm=59038",
+    "gameName": "130th GK tournament",
+    "players": "shosanna (1139) vs. pete_44 (1463)",
+    "opening": "KP (B00), Nimzovich defence"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nf3 Nbd7 6. Qc2 Be7 7. O-O O-O 8. Nbd2 b6": "All the games start here.",
+        "9. e4 dxc4 10. Nxc4 Ba6 11. Re1 Bxc4 12. Qxc4": "The first tactical sequence ends with no advantage to either side. ",
+        "12... b5 13. Qd3 Bb4 14. Bd2 Bxd2 15. Nxd2": "More wood vanishes to neither player's benefit. ",
+        "15... Nc5 16. Qe3 Nb7 17. Nb3 Qe7 18. Rac1 Rfc8 19. h3 e5 20. Nc5 Nxc5 21. dxc5": "Another exchange, and the first fully open file appears. ",
+        "21... Nd7 22. b4 a5 23. a3 a4 24. Rcd1": "After more maneuvering, I seize it. ",
+        "24... Rc7 25. Kh2 h6 26. Qc3 Qf6 27. Re2 Qg6 28. Red2": "I double up. This file could be my path to victory. ",
+        "28... Qe6 29. Rd2d3 Rd8 30. Qd2": "Tying Black to the defense of his Knight. ",
+        "30... g6 31. h4 Kg7 32. Bh3 f5": "The only way to avoid losing material. ",
+        "33. f3 h5 34. Kg2 Kh7 35. Qc2 Rcc8 36. Rd1d2 Rc7 37. Qd1": "Now I have a properly formed Alekhine's gun. ",
+        "37... Kg7": "Black should now follow up with ...K-B1 and ...K-K1, adding a fourth defender to the Knight. ",
+        "38. Rd3d6 Qf7 39. g4": "...RP x P would now neutralize the threat. ",
+        "39... f4": "A mistake. Now I can open the diagonal. ",
+        "40. g5": "The Knight cannot now be defended. ",
+        "40... Nf8": "But this is worse. Now he loses a whole Rook. ",
+        "41. Rd6xd8 Kh7 42. Rd8d6 Qe7 43. Kf2 Kg7 44. Rf6 Nh7 45. Rfd6": "I'm still struggling a bit to fully convert my advantage. ",
+        "45... Nf8 46. Ke2 Kf7 47. Rd2d3 Kg7 48. Qd2 Kf7 49. Qa2+ Kg7 50. Be6 Nxe6": "Turns a bad situation into a hopeless one. ",
+        "51. Qxe6 Qxe6 52. Rxe6": "With the defenders removed I can penetrate fatally with my Rooks. ",
+        "52... Rc8 53. Rdd6 Rc7 54. Rexg6+": "it's all over but the shouting. ",
+        "54... Kf7 55. Rge6 Rc8 56. Rxe5 Rc7 57. Ree6 Kg7 58. Rdxc6 Rb7 59. Reh6": "Black resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/catalan-system-mini-tournament?gm=63478",
+    "gameName": "Catalan System mini-tournament",
+    "players": "last_archimedean (1523) vs. mparrish3 (1494)",
+    "opening": "Catalan (E01), closed"
+}

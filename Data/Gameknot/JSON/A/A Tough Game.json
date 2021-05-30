@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This is very normal to play in a game, takes control of the center of the board.",
+        "1... c5": "Sicillian defense. I play this very often.",
+        "2. Nf3": "Nf3 is looking for d4 probably.",
+        "2... d6": "supporting the c5 pawn.",
+        "3. d4 cxd4 4. Bc4": "I thought he was going to play Nxd4",
+        "4... Nf6": "what is he going to do about that e4 pawn?",
+        "5. Ng5 e6": "What I should have played was h6",
+        "6. Qxd4 Nc6 7. Bb5 a6 8. Bxc6+ bxc6 9. O-O c5 10. Qe3": "I'm surprised he didn't play Re1.",
+        "10... h6 11. Nf3 Be7 12. h3 O-O 13. Nc3 Qa5 14. Bd2 Qb4 15. b3 Re8 16. e5 dxe5 17. Nxe5 Qb8": "Getting my Queen looking for the h2 square",
+        "18. Qg3 Bd6": "I'm getting more pressure on the h2 square",
+        "19. Rfe1 Bb7 20. Rad1 Qc7": "I'm not sure what the point of this was.",
+        "21. Bxh6": "Good move, I'm in for some trouble",
+        "21... g6 22. Bg5 Nh5 23. Qe3 f6": "And yes, I fork the knight and the bishop!",
+        "24. Bxf6 Nxf6 25. Ne4 Nxe4": "Never trade when your down a piece!",
+        "26. Nxg6": "I don't know what he's doing here!?",
+        "26... Bh2+": "Now I get my attack in",
+        "27. Kf1 Qf7 28. f3 Ng3+ 29. Kf2 Qxg6": "get a knight.",
+        "30. c4 Qc2+ 31. Rd2 Qg6 32. f4 Ne4+ 33. Kf1": "Now I'm putting pressure on the g2 square.",
+        "33... Nxd2+ 34. Qxd2 Ref8": "The king is in a lot of trouble now!",
+        "35. Re3 Rxf4+ 36. Ke1 Bg3+": "My opponent resigned here, it was a really tough game, but the odds ended up to be on my side at the end."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-tough-game?gm=50655",
+    "gameName": "A Tough Game",
+    "players": "rakbeater (1394) vs. chesscrosser (1231)",
+    "opening": "Sicilian, Chekhover variation (B53)"
+}

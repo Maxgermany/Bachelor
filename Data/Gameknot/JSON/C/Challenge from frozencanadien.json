@@ -1,0 +1,13 @@
+{
+    "moves": {
+        "1. d4": "This is a quick annotation for one of the players to show where he went wrong. The entire game is not commented on. So please don't vote. First annotation is at move 32 for black. ",
+        "1... Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. e3 d5 6. b3 c5 7. Bg2 Nc6 8. O-O Bd6 9. Qc2 O-O 10. Rd1 Rb8 11. Na3 b5 12. cxb5 Bxb5 13. dxc5 Be7 14. Rb1 Nb4 15. Qd2 Bd3 16. Ra1 Ne4 17. Qe1 Bxc5 18. Ne5 Bc2 19. Nxc2 Nxc2 20. Qe2 Nxa1 21. Bxe4 Qc7 22. Bxh7+ Kxh7 23. Qh5+ Kg8 24. Ng4 f5 25. Nh6+ gxh6 26. Bb2 Qf7 27. Qxh6 Qh7 28. Qg5+ Kf7 29. Qf6+ Ke8 30. Qxe6+ Qe7 31. Qc6+ Qd7 32. Qxc5 Rb5": "The beginning of the end. 32....... Rc8 much better as once the queen moves you can safely extract the knight to c2 which puts you up a rook verses 3 extra pawns by white. No need to fear 33.Qxd5 as QxQ, RxQ still gives you Kc2. If 33.Rxd5 then Black replies RxQ 34.RxQ, KxR, 36.BxN, Rc1 and you capture the bishop next.",
+        "33. Qc3 Nxb3 34. axb3 Kd8 35. Ba3 Rf7 36. h4 Qc8 37. Qe5 Qc6 38. Rc1 Qf6 39. Qc3 Qxc3 40. Rxc3 a5 41. Kg2 Rc7 42. Rxc7 Kxc7 43. Bb2 Rb6": "He has a hung pawn at b3. Take it and then you have an outside passed pawn at a5. ",
+        "44. Bc3 Ra6 45. Kf3 Kd6 46. Kf4 Ke6 47. h5 a4 48. bxa4 Rxa4+ 49. Bd4 Ra2 50. f3 Rh2 51. Kg5 Kf7 52. g4 Rh3 53. Kxf5 Rxf3+ 54. Kg5 Kg8 55. Kg6 Rf7 56. g5 Rd7 57. Kf6 Rh7": "57.......Rf7ch 58. Ke6, Rf3 59. g6, Rh3 60. Kxd5, Rxh5  Still tough to win as he has two passed pawns but not two connected pawns as before.",
+        "58. Kg6 Rf7 59. h6 Rb7 60. Kh5 Rf7 61. g6 Rg7 62. Bxg7": "Have to say you lost the game back at 32 and or 57. Thats where you could of made a diffrence in the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-frozencanadien?gm=15592",
+    "gameName": "Challenge from frozencanadien",
+    "players": "frozencanadien (1583) vs. tompike (1542)",
+    "opening": "Queen's Indian (E15), Nimzovich variation (exaggerated fianchetto)"
+}

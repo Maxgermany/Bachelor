@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5": "I wanted to practice my Sicilian.",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Rg1 e5 7. Nb3 Be7 8. g4": "Ok I've never seen this before, but it's obvious he's going to try and mess me up with a kingside pawn rush, so I stay calm.  I didn't want to do 8...Nxg4 because with 9. Rxg4 Bxg4 10.Qxg4 O-O 11.Bh6 and he gets my rook when I have to defend mate.",
+        "8... Nc6 9. g5 Nd7 10. h4 Nb6 11. Be3 Be6 12. Bxb6 Qxb6 13. Nd5": "Here I had a decision.  I ALMOST took the knight with my bishop, but then I thought \"Why should I trade my strongest bishop for 1 of his knights.  I'd rather he takes my weak black square bishop instead.\"",
+        "13... Qd8 14. Nxe7 Qxe7": "So far everything is ok. ",
+        "15. h5 g6 16. h6": "Ok, he has my kingside blocked in but he doesn't have much in the way of development, can I take advantage?",
+        "16... f6 17. Qd2 fxg5 18. Rxg5 O-O-O 19. Bg2 Kb8 20. O-O-O Rhf8 21. Rg3 Qh4": "Ok, this was a bad move in hindsight.  I'm not really attacking anything.  I was trying to push the rook to the other side of the board but there's no reason why he should actually do that.  Better, I think, would have been Qf6 or maybe Bxb3 preparing to deploy my knight to the center.  I really didn't want to trade my bishop for his knight because I felt, at the time, that my bishop was in a stronger position.",
+        "22. Rh1 Qf6 23. f3 Qf4": "He has to trade, any other move and he loses pieces.",
+        "24. Qxf4 exf4 25. Rg5 Ne5": "My knight and bishop are both on strong central squares.",
+        "26. Nd4": "I wanted him to move his knight like that so I can do Bxa2",
+        "26... Bxa2 27. b3": "And then I realized he wanted me to do Bxa2 also.  Drat.",
+        "27... Rdc8 28. Kb2 Bxb3 29. cxb3 Rf6": "I have to prevent Ne6.",
+        "30. Bf1": "With my bishop gone, his knight is covering EVERYTHING.  Even with his bishop doing nothing, my knight and my rooks are both completely blockaded by his knight.  Should have traded when I had the chance?",
+        "30... Rd8": "Going to prepare to push the pawn up and clear out his center a bit.",
+        "31. Rh2 d5 32. Rxe5": "Totally blanked on that.  I resigned at this point.  Every single piece he has backs up and/or supports the rest of his pieces.  I had trouble attacking when I was even.  Being 3 points down is a sure loss versus this guy.\n\nIn conclusion, I got some good practice with the Sicilian.  I was fighting for advantage the entire time up to the end, instead of being on the defensive, but his wierd early kingside pawn push caught me off guard and I didn't handle it as well as I could have, obviously."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=13724",
+    "gameName": "Let's play chess",
+    "players": "slowcoach (1411) vs. rajsahae (1592)",
+    "opening": "Sicilian (B90), Najdorf"
+}

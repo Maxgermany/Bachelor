@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "Okay, we're starting with a Kings Gambit.  So white wants a swashbuckling good time and he's willing to give black a slight advantage for it.  At this level of play this opening is quite a good choice.",
+        "2... f5": "In doing this you are a move ahead in the exact same attack.  You have the same weakness Q check with a pawn on the f file to create complications.  Accepting the pawn would have had white trade the weakness for his initiative but you have effectively equaled the weaknesses and given him even more initiative. ",
+        "3. exf5": "Here the mirroring had to stop if just from a tactical standpoint.  Qh5 is coming and it's not going to be pretty.  This is time for one of those really uncomfortable lines.  3...Qe7 4.Qh5+ Kd8 your king is going to have to move either way.  It's better to put him in the best square.  lets look at the alternative  ",
+        "3... exf4 4. Qh5+ g6 5. fxg6 Nf6": "White choose to play a swashbuckling game but forgot his sword.  Black should have played Qe7+ then Kd8 again getting his king out of dodge before allowing the true power of whites attack to come to fruit.  He has lost some pawns by not doing it sooner but their is still time.  5.Nf6?? it appears both players missed the tactic.  6.g7+ 7.Nxh5 8.g7xh8Q and white trades a pawn for a rook.",
+        "6. Qe5+ Qe7": "What about 7d4? instead of whats next. No need to trade just yet.  But okay white traded queens.",
+        "7. Qxe7+ Bxe7": "Look at the difference if white had already moved d4.  Note that in capturing f4 you also still have an attack on c7 if black is to capture.  Not suggesting capturing or not just saying the oppourtunity is there rather than this position.  In between moves can give you tiny advantages like that.  ",
+        "8. Bd3 h5": "Again I like 8...hxg6 getting rid of that pesky pawn and opening things up a little bit for the rook on h8 whether it be on the h g or f file.  9.Bxg6 9...Kd8.  Anyways now black has a pesky pawn to deal with he has given up the option of taking it with a pawn and so no white can keep it there.  ",
+        "9. Nf3": "What about Ne2 attacking the pawn?  Get black to start tying up his pieces to defend his isolated pawn.  Lets count how many moves he spends on this knight.",
+        "9... d5 10. Ne5": "I see white has a problem with bringing only one soldier to the war at a time.  Maybe 10.0-0 and you have a rook to help matters.  That's two moves for that knight",
+        "10... Be6 11. Nc3": "11...Nbd7 working on getting those rooks connected and your king off to the other side of the board seems just slightly better.  However pushing that knight back and showing white how much time they wasted is very tempting too.  However I favor bringing a new piece in that trades off rather than moving an old one twice to push a piece back especially since now the knight is eyeing g5.",
+        "11... Bd6 12. Nf3": "3 moves for that knight",
+        "12... Nc6": "Maybe 12.Bd7 first stoping the knight checks the bishop and then forking the rook and bishop mess where black loses his bishop pair and doubles isolated pawns giving him four islands of isolated pawns.",
+        "13. O-O": "But white has no interest in taking advantage of positional weaknesses.  Now he decides to castle.  Also note that 13.Nb5 is pretty cool.  That way when you do the whole trap with the bishop and pawns you have further forking threats.  Nevermind that though white decides to castle.",
+        "13... Bc5+": "Black begins his attack",
+        "14. Kh1 O-O-O 15. Nh4": "Four moves for that knight",
+        "15... Ng4 16. Nf3": "make that five",
+        "16... Nf2+ 17. Rxf2 Bxf2 18. Ng5": "Now we have 6",
+        "18... Rde8 19. Nxe6": "that's 7 moves with the knight just to trade it off?",
+        "19... Rxe6 20. h3 Re1+ 21. Kh2 Bg3#": "Black checkmates while white is frolicking around on with it's horsey "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=36853",
+    "gameName": "Team match",
+    "players": "dingbat (1414) vs. kmeister (1505)",
+    "opening": "King's gambit (C30)"
+}

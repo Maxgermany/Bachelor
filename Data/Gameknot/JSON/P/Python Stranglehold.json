@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "In this game, white gets into early trouble losing a trapped bishop, and falls further and further into the stranglehold finishing with a mating net, no more able to escape than prey in the grasp of a python.",
+        "1... d6 2. Bc4 Nf6 3. d3 c6 4. a4 b6 5. h3 e5 6. Nf3 Be7 7. c3 O-O 8. Qb3": "Qb3?. Premature. ",
+        "8... d5": "...d5! leaves White's bishop trapped. ",
+        "9. exd5 cxd5 10. Nxe5": "If Bb5, a3 wins the trapped bishop. White chooses this means to gain two pawns for the piece.",
+        "10... dxc4 11. dxc4 Bd6": "Attacks the Knight and clears the e-file.",
+        "12. Nf3 Re8+ 13. Kf1": "White prefers not to interposie the bishop, hoping to castle by hand instead. ",
+        "13... Nc6 14. Bg5 h6 15. Be3": "Better would have been Be3 immediately. Later on, h6 provides a critical tempo.",
+        "15... Na5": "Begins a plan to fixate on the weak c pawn",
+        "16. Qa2 Ba6": "Threatens to win the queen as well as the pawn.",
+        "17. Nbd2 Ne4": "...Ne5!? . The knight is immune since NxN loses to Bxc4 .",
+        "18. Rc1": "White wants to play b4 but wants to protect c3 first. ",
+        "18... Rc8": "More pressure on c4",
+        "19. b3 Bc5": "Black wants to open up the center.",
+        "20. Nxe4 Rxe4 21. Bd2": "Bd2?! White wants to prepare b4 but does not have the time.",
+        "21... Nxc4": "Nxc4! and the Knight is immune because of the bishop fork recapture winning the queen.",
+        "22. Kg1": "To avoid the discovered check and try and get the king out of the way.",
+        "22... Nxd2 23. Qxd2 Qxd2 24. Nxd2 Re2": "Black has forced some exchanges and now seizes the rank with threat, empowered by the two bishops raking white' kingside.",
+        "25. Nf3 Rxf2": "Rxf2 is stronger than Bxf2  Black begins to set up a stranglehold on White's king. ",
+        "26. Kh2": "To avoid the discovered check.",
+        "26... Bd6+ 27. Kg1 Bg3": "Black used the check to transfer the bishop to g3, boxing in the king. ",
+        "28. h4": "Tries to free himself, but...",
+        "28... Rxc3": "Rxc3! is pretty obvious but deadly, the rook can't be taken because of the back rank mate on f8.",
+        "29. Re1 Rcc2": "Black tightens the noose, and there is no escape. ",
+        "30. Re8+": "Loses quickly, but the slow death following Rh2 to delay an immediate Rxg2   is not pleasant either.",
+        "30... Kh7 31. Rh3 Rf1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/python-stranglehold?gm=20125",
+    "gameName": "Python Stranglehold",
+    "players": "NN  vs. dmaestro (1627)",
+    "opening": "Pirc defence (B07)"
+}

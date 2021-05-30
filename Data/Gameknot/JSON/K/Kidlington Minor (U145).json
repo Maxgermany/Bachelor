@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3": "Inviting the Winawer as usual.",
+        "3... Nf6": "Black opts for a quieter game.",
+        "4. e5": "In the past I've suffered interminable boredom after playing 4. Bg5.  I think this is a more flexible continuation.",
+        "4... Nfd7 5. f4 a6": "Rather timid.  My clubmate, who plays the Winawer, was all for an immediate ...c5",
+        "6. Nce2": "So that I can create a pawn chain.",
+        "6... c5 7. c3 Nc6 8. Nf3 cxd4 9. Nexd4 Be7 10. Be3 Nb6 11. Nd2": "I didn't want Black's N on c4, pushing my B away.",
+        "11... Bd7 12. Bd3 Nxd4 13. cxd4 Rc8 14. O-O g6": "? Creates a hole in his kingside and makes castling unattractive, so Black's K gets stuck in the centre.",
+        "15. Qf3": "White seeks to exploit the weakness immediately.",
+        "15... Bc6 16. Qh3 Rc7 17. Rac1 Qd7": "Black establishes a defence along his second rank.  As well as the central K, he also has the problem of disconnected rooks, one of which is tied to the defence of the h-pawn.",
+        "18. b3 Bb5": "? Offers me the chance to double Black's queenside pawns.",
+        "19. Rxc7 Qxc7 20. Bxb5+ axb5 21. Nf3": "This prepares both to attack the kingside and take control of the c-file with Rc1",
+        "21... Ba3 22. Ng5 h5": "?  Allows the following swap of N for 3 pawns that exposes Black's K to attack.",
+        "23. Nxe6 fxe6 24. Qxe6+ Be7 25. Qxg6+ Kd8 26. Rc1 Qd7 27. Qxb6+": "The unplanned bonus at the end of the combination :-)",
+        "27... Ke8 28. Qg6+ Kd8 29. f5 Rf8 30. f6": "and Black resigned, leaving me on 2/3 at the end of the day."
+    },
+    "url": "https://gameknot.com/annotation.pl/kidlington-minor-u145?gm=36860",
+    "gameName": "Kidlington Minor (U145)",
+    "players": "Robert Jacobs (1752) vs. Colin Solloway (1560)",
+    "opening": "French (C11), Steinitz, Bradford attack"
+}

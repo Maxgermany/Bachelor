@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5": "QGD: Semi-slav, Botvennik variation",
+        "10... Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Nxf6": "Not the main line (13...Qb6 is the most common response), but certainly an acceptable one.",
+        "14. Bg2 Bh6 15. Bh4": "In opening study I have briefly looked at this possibility. It appears Awkward, but is actually not a bad choice; it is just not commonly played. To stifle my curiousity, I checked the game databases here on GameKnot. It has, apparently, never been played in any of their \"world\" database games; and only been played once here on GameKnot- a drawn game against the top gameknot player Cyrano.",
+        "15... Bg7 16. O-O Rxh4": "Definately black's best move; he get's attacking play. ",
+        "17. gxh4 Nxd5": "we break from all GK recorded theory here.. autumnrains-cyrano sees 17... b4\r\n\r\n",
+        "18. Qg4 Bxc3 19. bxc3 Qc7 20. Bxd5": "This may not have been my best option, as the bishop points a laser into my kingside. But removing the knight allows me to activate my rooks and thrust my a-pawn nicely with tempo.",
+        "20... Bxd5 21. Rab1 a6 22. a4 O-O-O 23. axb5 f5 24. Qg6 Rd7 25. Qe8+ Kb7": "This line leads to the forced draw by repetition. Black has perpetual, and his king is in too much danger for him not to use it.",
+        "26. bxa6+ Ka7 27. f3 Rg7+ 28. Kh1 Qf4 29. Rb7+ Rxb7 30. axb7 Bxf3+ 31. Kg1": "Clearly, Kings are too exposed for anything else to happen in this game.",
+        "31... Qe3+ 32. Rf2 Qe1+ 33. Rf1 Qe3+ 34. Rf2 Qe1+ 35. Rf1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/semi-slav-botvinnik-variation?gm=27103",
+    "gameName": "Semi-Slav: Botvinnik variation",
+    "players": "chessy131 (2008) vs. be8ki (2100)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

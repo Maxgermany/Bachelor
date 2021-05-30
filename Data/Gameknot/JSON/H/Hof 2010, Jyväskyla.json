@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. Be3 Bg7 8. O-O O-O 9. Nb3 Be6 10. f4 Rc8 11. Kh1 a6 12. Bf3 Nd7": "Vastane m\u00e4ngis siin ja edasipidi kiiresti, mina m\u00f5tlesin teooriat v\u00e4lja...",
+        "13. Rb1 Bc4 14. Rf2": "Rybka olla tugevamaks pidanud k\u00e4iku Ve1... nu f2-le on igatahes palju loogilisem. Valge plaanib n\u00fc\u00fcd Vd2, Lg1 jmt k\u00e4ike.",
+        "14... b5 15. e5": "Mnjah... otsustasin lahingu vastu v\u00f5tta, alternatiiv oli 15.a3.",
+        "15... dxe5": "Uuendus! Partiis Gallagher-Alterman, 1994 m\u00e4ngiti 15... b4 16. Re4 soodsama seisuga valgele.\n",
+        "16. Rd2 Be6 17. Nc5": "Anal\u00fc\u00fcs n\u00e4itab, et mustal on k\u00f5ikjal hea. 1). 17. Oxc6 Vxc6 18. Rc5 Vxc5 (v\u00f5i 18... Vd6 19. Vxd6 exd6 20. Rxe6 fxe6 21. Lxd6 exf4 22. Lxe6+ Kh8 23. Og1 Re5) 19. Oxc5 Le8 20. Oe3 exf4 21. Oxf4 Rb6 \nv\u00f5i 2). 17. Od5 Oxd5 18. Vxd5 Vc7 19. Rc5 Rcb8! (19... Rxc5 20. Vxd8 Vxd8 21. Lf3 Rd4 22. Oxd4 exd4 23. Vd1) 20. Rxa6 Rxa6 21. Ob6 Rac5! 22. Rxb5 (22. b4 Re6! 23. Oxc7 Lxc7 24. Rxb5 Lb7 25. Vxd7 Lxb5) 22... Lb8! 23. Oxc7 Lxb5 24. b4 Lc6 25. bxc5 Rf6! \u00fclekaaluga mustale.\n",
+        "17... Nxc5 18. Rxd8 Rfxd8 19. Qe1": "? Valgel oli valida 4 erineva taganemise vahel... kahjuks tegin kohe vea. V\u00f5rdsuse eest sai v\u00f5idelda variandis 19. Lg1 Rd4 20. fxe5 Oxe5 21. Vd1 Rxf3 22. Vxd8+ Vxd8 23. gxf3",
+        "19... Nd4 20. Bxd4 exd4 21. Ne4 d3": "! Seda k\u00e4iku ma alahindasin... N\u00fc\u00fcd j\u00e4i \u00fcle vaid nukralt t\u00f5deda, et seis on l\u00e4bi.",
+        "22. Nxc5": "Suured ebameeldivused ootavad ka p\u00e4rast 22. cxd3 Rxd3, partiik\u00e4ik viib paraku p\u00e4ris lootusetusse seisu.\n",
+        "22... dxc2 23. Nxe6 cxb1=Q 24. Qxb1 fxe6 25. h4": "Lootsin vastum\u00e4ngule valgetel v\u00e4ljadel, kuid musta j\u00e4rgmine k\u00e4ik kustutas paraku k\u00f5ik lootused.",
+        "25... Rc4": "!",
+        "26. Qe1 Kf7 27. Qe3 Bxb2": "!",
+        "28. g3 Rc1+": "Kohe v\u00f5itis 28... Vc2 29. Og4 Vdd2\n",
+        "29. Kg2 Rc2+ 30. Kh3 Rdd2 31. Be4 Rdh2+ 32. Kg4 Rce2 33. Qg1 Kf6 34. Kf3 Red2 35. h5": "? Viimastel sekunditel tegin kohe kaotava k\u00e4igu. Ometi oli valgele juba tekkinud vastuv\u00f5imalusi - 35. Lc5 Od4 36. Lg5+ Kf7 37. Lh6 Kg8 38. Oxg6 hxg6 39. Lxg6+ Kf8 40. Lxe6 tekitanuks veel segadusi.\n",
+        "35... Bd4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/hof-2010-jyv-skyla?gm=32664",
+    "gameName": "Hof 2010, Jyv\u00e4skyla",
+    "players": "Lauk, \u00dclar  vs. Luukkonen, Tommi ",
+    "opening": "Sicilian (B56)"
+}

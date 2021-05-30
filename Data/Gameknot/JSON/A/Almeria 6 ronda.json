@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4 3. Nc3 c6 4. e3 Nf6 5. Bxc4 e6 6. Nf3 Be7 7. O-O b5 8. Bd3 a6 9. Qc2 Bb7 10. Rd1 O-O 11. a3 Nbd7 12. b4 a5": "ataca b4 y si se cambia queda el peon a debil",
+        "13. Rb1 axb4 14. axb4 Nb6 15. Bd2 Na4": "quiza era mejor Ta7 para doblar torres",
+        "16. Ne4 Nxe4": "hay que cambiar pues aparte de ganar el peon de h7 tambien amenaza situarse en c5",
+        "17. Bxe4 g6": "mi otra opcion era f5 pero entonces tendria dos peones atacables c6 y e6",
+        "18. Ne5 Qd6": "unica",
+        "19. Nxc6 Bf6 20. Na5 Bd5 21. Bxd5 Qxd5 22. Qc6 Rfd8 23. Qxd5 Rxd5 24. f4": "mejor que esta jugada era el plan de llevar el caballo a c5 y doblar torres y hacer valer el peon de ventaja",
+        "24... Rc8 25. Rdc1 Rxc1+ 26. Rxc1 e5": "jugado aprovechando que esta el alfil en d2",
+        "27. fxe5 Bxe5 28. Rc8+ Kg7 29. Nc6": "mucho mejor era Cb3 amenazando dxe y Cc5 para forzar cambios y hacer valer su ventaja",
+        "29... Nb6 30. Rd8": "entrando en un final de tablas incluso con chances para las negras, mejor era Te8",
+        "30... Rxd8 31. Nxd8 Nc4": "buena",
+        "32. Bc1 Bc7": "si Ad6 Cc6 y con idea de Ca7 para cambiar su peon b4 por el de b5 con ventaja de las balncas",
+        "33. Nc6 f5": "para fijar los peones blancos",
+        "34. Na7 Nd6 35. Kf1 Kf6 36. Ke2 Ke6 37. Nc6 Ne4 38. Na7 Nd6 39. Nc6 Nc8 40. h3 Kd5 41. Na5 Bd6": "no puedo entender porque no jugue Re4",
+        "42. Bd2 Nb6": "vaya aun pude jugarlo Re4",
+        "43. Kd3": "ya no",
+        "43... Na4": "aqui debi de maniobrar con el caballo para atacar b4 o e3",
+        "44. Nb7 Be7 45. Nc5 Nb2+ 46. Kc2 Nc4 47. Bc1 g5": "pensando en crear un peon pasado en elflanco de rey pero habia que prever la respuesta de las blancas 49 e4",
+        "48. Kd3 h5 49. e4+ fxe4+ 50. Nxe4": "y tablas",
+        "50... g4 51. hxg4 hxg4 52. Nf2 Bf6 53. Nxg4 Bxd4 54. Nh2 Ne5+ 55. Kc2 Kc4 56. Bd2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/almeria-6-ronda?gm=43389",
+    "gameName": "Almeria 6 ronda",
+    "players": "Rubio, Jose Juan  vs. Fernandez,Ramon ",
+    "opening": "Queen's gambit accepted (D20)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4": "The Scotch opening -- already a pair of Knights have vanished.",
+        "5... d6 6. Nc3 Nf6 7. Bg5 Be7 8. O-O-O O-O 9. Bc4": "Completing my development. Now the middle game begins.",
+        "9... h6 10. Bh4 Nh7 11. Bxe7": "Initiating another exchange.",
+        "11... Qxe7 12. Kb1": "To avoid any annoying checks on the diagonal.",
+        "12... Be6 13. Bxe6 fxe6 14. f3": "Solidifying my Pawn position. Material is even but I have control of more of the board.",
+        "14... a6 15. Ne2 Nf6 16. Qf2 e5 17. Ng3 Ng4 18. Qe2": "A few positional maneuvers...",
+        "18... Nf6 19. Rd2 Rfd8 20. Rhd1 Rd7 21. c3 Rad8 22. b4": "More slow maneuvering. Both sides have doubled Rooks on a closed file.",
+        "22... d5 23. exd5": "I expected the routine recapture 23... NxP, keeping material even.",
+        "23... c6 24. dxc6": "Now I have a small edge AND a chance to swap off the heavy pieces, magnifying the Pawn up. This is the turning point of the game.",
+        "24... Rd7xd2 25. Rxd2 Rxd2 26. Qxd2": "Even after Black takes the advanced QBP, I'll still have a 3 to 2 Q-side majority. I plan to advance these Pawns and force one through to the 8th rank.",
+        "26... Qc7 27. Ne4 Nxe4 28. fxe4": "I'm shocked Black exchanged off the Knights. With every piece that vanishes my advantage of one Pawn is magnified, and we're down to just one piece each left.",
+        "28... Qxc6 29. Qd5+": "Make that zero. This move seals the win for me.",
+        "29... Qxd5 30. exd5 Kf8 31. Kc2": "Now it's just a matter of technique. Of course, I must centralize my King.",
+        "31... Ke7 32. c4": "Now the wall of Pawns prevents Black's K from approaching on the Q-side.",
+        "32... Kd6 33. Kd3": "Movin' on up...",
+        "33... b6 34. a4": "Freezing the Q-side.",
+        "34... g5 35. h3": "I'm just waiting for Black to run out of Pawn moves.",
+        "35... h5 36. g3": "Now he has.",
+        "36... Kd7 37. Ke4": "If Black's KP falls, the game is over. My Q-side pawns will decide things.",
+        "37... Kd6 38. Kf5": "The KP must now fall. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-invitational-187?gm=40995",
+    "gameName": "Fast Invitational 187",
+    "players": "last_archimedean (1389) vs. kleinemax (1379)",
+    "opening": "Scotch (C45), Ghulam Kassim variation"
+}

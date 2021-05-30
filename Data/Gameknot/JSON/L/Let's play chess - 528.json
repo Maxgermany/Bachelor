@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3 e6 2. c4 d5 3. d4 Nf6 4. Nc3 c5": "The semi-tarrasch isn't an opening that I am particularly booked up on. I very rarely get it due to the Nf3 move order and as a general rule active play is normally enough to at least maintain the balance (apologies to any semi-tarrasch players)",
+        "5. Bg5 h6": "This was unexpected. To be honest at the time I felt that it must be downright inaccurate and very well may be but I struggled to an extent. The only sensible continuation at this point is Bxf6, Qxf6, cxd5 as otherwise I felt as if some of the purpose behind Bg5 was misguided.",
+        "6. Bxf6 Qxf6 7. cxd5": "Winning a pawn and at the same time rapidly liquidating the centre",
+        "7... cxd4": "This move is best as after exd5, dxc5, Bxc5, e3 Black will be a pawn down with a very vulnerable isolated queen's pawn",
+        "8. Qxd4 Qxd4 9. Nxd4 Bb4": "An interesting move which I probably don't respond to very accurately. In hindsight dxe6 is by fr and away the best move where it isn't too relevant that Black can give White an isolated pawn on c3 as he will have his own weakling on e6. Sadly the aesthetics of having a passed pawn on d5 and the c pawn potentially supporting this caused me to play the following.",
+        "10. e4 exd5 11. exd5 O-O": "Black though a pawn down does in fact now have an extent of compensation. The White knights aren't particularly good in spite of the seeming strength of the outposted d4 horseman. This is because there isn't actually any significant threats to be made on the dark squares c7 or e7 in time and the large amount of options for both of Black's bishops mean that the squares controlled by the knight are devalued. Meanwhile the d pawn can be easily attacked by Black and if it drops and material is restored it is likely he will have the better chances thanks to the bishop pair in the open position.",
+        "12. Be2 Rd8 13. Bf3 Re8+": "An impressive move order by Black. White can now begrudgingly accept a repetition a pawn up with Be2 or retreat his knight and cede the f5 square in which case Black's other bishop comes to life. ",
+        "14. Nde2 Nd7": "This is fine as White doesn't have the means of regaining control over f5 before the knight moves to free the light-squared bishop whilst gaining a tempo.",
+        "15. O-O Ne5": "This was a bit of a nasty surprise. I had only considered Nf6 and Nb6 applying pressure to the pawn directly. The indirect attack targeting the defending bishop is significantly better as illustrated by the game continuation",
+        "16. Be4 Nc4": "Winning back the pawn due to the double threat of Nxb2 and Nd2. Thankfully it wont be the d pawn that drops however. Whilst Black regains the pawn White gains time to unscramble his pieces and achieve a position with mutual chances",
+        "17. a3": "I felt this was very necessary to avoid being worse. Black now should probably play Bf8 after which Ng3, Nxb2, Nb5, Rd8, Rac1 he will stand marginally better with the bishops if he can find good squares for them. Black opts instead however to maintain some traps which is in itself a perfectly viable option.",
+        "17... Bxc3 18. Nxc3": "Obviously not bxc3, Ne2",
+        "18... Nxb2 19. Rfe1 Bd7": "Preventing Bh7+",
+        "20. d6": "I felt that I had to be dynamic in this position due to the temporary discoordination of Black's knight and a8 rook. In fact though Ra1b1 is just the better move. It looked a bit hairy at first with Nc4, Rb7 in which both Nd6 and potential backrow mate tricks are in circulation but the tempo on the bishop makes this irrelevant and White will have regained his pawn with a winning position. Disappointingly though this entire branch was missed during the game.",
+        "20... Bc6 21. Bxc6": "I had convinced myself that the c6 pawn would be weak when deep down I knew that this was completely untrue due to their being no imminent means of attacking it and in fact control over d5 and b5 is significantly more relevant.",
+        "21... bxc6 22. d7": "I had quite a think before this move. The other main candidate was Rxe8+, Rxe8, d7 after which Rb1 (Re1, Kf8 gives White a lost position as Black's knight will round up the pawn with via c4-b6) Nc4 (Rxd7 does not work as the night covers d1) Rb7 where Nxa3 looks full of possibilities in which White sacks a pawn with Na4 playing for Nc5 and Rc8. Sadly though instead on Nxa3 if Black plays Nb6 the line simplifies into a dead level position. Therefore in the adventurous spirit of the game d7 was played with optimistic (misguided) ideas initially of Re7, Kf8, Re1 followed by routing the Knight to d6 with a won game.",
+        "22... Red8 23. Re2": "I realised fortuitously at this point that Re7, Kf8, Re1, Nd3 leaves White busted as he must waste a tempo moving the e1 rook after which Nc5 picks up the d pawn. The position now is quite edgy and in all honesty probably slightly better for Black. This next move though is a complete blunder",
+        "23... Rab8": "I imagine Black had missed that after Rb1, Rxd7, R2xb2, Rxb2, Rxb2 that he wouldn't have mate on d1 due to the knight on c3. Black now loses at least a piece.",
+        "24. Rb1 Nc4": "Making a bad situation a lot worse",
+        "25. Rxb8 Rxb8 26. Re8+ Rxe8 27. dxe8=Q+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=37476",
+    "gameName": "Let's play chess",
+    "players": "quiet_knight (1200) vs. tipko (1472)",
+    "opening": "Reti opening (A04)"
+}

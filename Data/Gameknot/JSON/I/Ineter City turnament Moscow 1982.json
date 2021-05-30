@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. Qc2": "usually in this variation 7.e3 is played.",
+        "7... c5": "usually played here 7...Be7 with the idea of 0-0.",
+        "8. e4 Nxc3 9. bxc3 Nc6 10. Bb2 Rc8 11. Rd1 cxd4 12. cxd4 a6": "not 12...Nxd4?.13.Qa4+ and black loses a piece . and if 12...Nb4.13.Bb5+-Nc6.14.d5 and black loses apiece .",
+        "13. Qd2 Na5 14. d5 exd5 15. exd5 Bd6": "in this position white have big advantange , and the strange thing is that the intrnationl master Morey cant do  nothing about it , even moves like 15...Nc4.16.Bxc4-Rxc4.17.0-0.... or 15...Qe7+.16.Be2-Nc4.17.d6! now white getting material advantage .",
+        "16. Bxg7 Qe7+ 17. Be2 Rg8 18. Qh6 f5": "there is no choise for black, if 18...Rc2.19.Nd4! with Qxh7.",
+        "19. Bf6 Qf8 20. Qxh7 Qf7 21. Qxf5 Rg6 22. Qe4+ Kf8 23. Ng5 Rxg5 24. Bxg5": "black in hopeless position .",
+        "24... Re8 25. Bh6+ Kg8 26. Qg4+": "and black resigned . how great kasparov relay is , making this game look so easy vs the Israel international master Jacob Morey . thank you and i hope you enjoy this game ."
+    },
+    "url": "https://gameknot.com/annotation.pl/ineter-city-turnament-moscow-1982?gm=45747",
+    "gameName": "Ineter City turnament Moscow 1982",
+    "players": "G.Kasparov  vs. J.Morey ",
+    "opening": "Queen's Indian (E12), 4.Nc3, Botvinnik variation"
+}

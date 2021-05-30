@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4": "always a tell tale: this is going to be nice...",
+        "2... g6 3. d3 Bg7 4. c3 e6 5. Ne2 Ne7 6. O-O O-O 7. Ng3 d5": "I love it, when they have no clue...",
+        "8. Bb3 a5 9. d4 c4": "the Sicilian rulez...",
+        "10. Bc2 b5 11. f4 f6": "not impressed...",
+        "12. Qe2 Nbc6 13. e5 b4": "Sicilian mob style: take over the Queens' wing...",
+        "14. Be3 a4": "here we go...",
+        "15. Nd2 Bb7": "covering Ra8...",
+        "16. Nf3 b3": "here it is...",
+        "17. axb3 axb3 18. Rxa8 Qxa8 19. Bd1": "a bit passive...",
+        "19... Qa2 20. exf6 Bxf6 21. Ne5 Ra8": "the plot thickens...",
+        "22. Nxc6 Bxc6 23. Bc1 Qa7": "new targets...",
+        "24. Qxe6+ Kg7 25. f5 Bd7": "not very nice...",
+        "26. Qe3 Nxf5 27. Nxf5+ Bxf5": "no sweat broken...",
+        "28. Qg3 Qf7 29. Rxf5 Kh8": "attacking Rf5...",
+        "30. Rf3 Ra1": "time for some real chess...",
+        "31. Qf4 Kg7 32. Be2 Qe6": "White is losing...",
+        "33. Bf1 g5": "this was enough: White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-never-grows-tired-of-this?gm=65273",
+    "gameName": "fiercequeen, never grows tired of this?",
+    "players": "tsalami1 (UR) vs. fiercequeen (2059)",
+    "opening": "Sicilian defence (B20)"
+}

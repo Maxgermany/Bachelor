@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "D4 as per usual",
+        "1... d5 2. Nf3 Nf6 3. Bf4 e6 4. Nbd2 c6": "I think this is a little passive, and blacks's white squared bishop is hemmed in",
+        "5. c3 Nbd7 6. e3": "Mirrored pawn formation",
+        "6... Be7 7. Bd3": "I like the look of this diagonal",
+        "7... O-O 8. Qc2 Re8": "Black wants to push the pawn, I am not going to allow it",
+        "9. Ne5 g6": "Interesting, I can feel a pawn storm coming on",
+        "10. Ndf3 Bf8 11. Ng5 Re7": "Black is on the defensive",
+        "12. h4": "Charge",
+        "12... Nxe5 13. dxe5": "I want to shift the knight away",
+        "13... Nh5 14. Bh2": "Safety first",
+        "14... f6": "I am going to continue with my plan",
+        "15. g4 Ng7": "Oh dear",
+        "16. exf6": "Pawn power",
+        "16... Rd7 17. Bxg6": "!!!!Black is in deep trouble now",
+        "17... Qxf6": "Mate in two",
+        "18. Bf7+ Rxf7 19. Qxh7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-c3?gm=31737",
+    "gameName": "League division C3",
+    "players": "dwardman (1876) vs. mischo (1763)",
+    "opening": "Queen's bishop game (D02)"
+}

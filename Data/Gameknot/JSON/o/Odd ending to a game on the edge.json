@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. b3 d5 2. Bb2 Nf6 3. Nf3 Bf5 4. e3 e6 5. Be2 h6 6. O-O Nc6 7. Bb5 Bd6": "He must be worried about Ne5.",
+        "8. Nd4 O-O 9. Nxf5": "That gets rid of his bishop pair (gives me a slight advantage) and eliminates the pressure he had on c2.",
+        "9... exf5 10. g3": "I was thinking he might play f4.",
+        "10... Re8 11. Qf3": "This hits both of his weak pawns (f5 and d5).",
+        "11... g6 12. Qe2 a6 13. Bxc6 bxc6 14. c4 Ne4": "I knew this was coming eventually. And as soon as I play Nc3, his bishop will head to e4 and his queen to f6. And then I'll get to lock up the center with d4.",
+        "15. d4 f4": "No, I didn't expect that one. I don't feel that I can afford to let him trade on e3. I'm going to have trouble defending that pawn. I almost have to take his pawn.",
+        "16. gxf4 dxc4 17. bxc4 Rb8 18. f3 Nf6 19. Qd2": "I feel like that queen's overworked. I'm worried about him playing Bxf4.",
+        "19... Nh5 20. Bc1 c5 21. Nc3": "So he gets to solve his doubled pawn problem. If I capture, then I'll have doubled pawns and an isolated c-pawn. The doubled pawns seem a little useful to protect some squares. What I like less is a backward pawn on e3 that I can't move forward and is real easy for him to attack.",
+        "21... cxd4 22. Qxd4 Bb4 23. Qxd8 Rexd8 24. Nd5": "I've got to find a way to get that bishop into the game.",
+        "24... Bf8": "He's heading for g7.",
+        "25. a3": "I have to make that move so I can put my knight somewhere when he plays c6 and also give my rook a place to go.",
+        "25... c6 26. Nb4": "At this point, my pieces and pawns are in such a mess, I'm hoping he'll trade the bishop for the knight and win back his pawn. Then the question is whose remaining minor piece is worse off. Back when I was up a pawn in this game, I was content to let the other game be a draw. But now, even though I'm materially up, he's ahead in just about every other aspect of the game.",
+        "26... Rb6 27. Kf2 a5 28. Nc2 Bg7 29. Ra2 Rb3 30. Ke2": "I don't think he can break through. If I can get my rook over to d1, I'll feel ahead. He probably plays Re8 to threaten Nxf4 with my pawn pinned. So I'd have to go back to f2, and he can  move the rook back to d8 ... and a draw. But I won the other game in the match, and my teammate split his games, so all I need in this game is a draw for us to win the match.",
+        "30... Re8 31. Kf2": "I offered a draw, but he didn't accept it. I want to get my rook to d1 and chase his rook off of that file, so I need my king on e2 to do that. But when he moves his rook to e8, I have to go back to f2 because my pawn on e3 is pinned and his knight threatens to get back into the game with Nxf4.",
+        "31... Rd8 32. Ke2": "Very odd that he timed out when he knew that I was willing to  take a draw. But I feel my rating's about 200 points higher than it should be just because of all of the people that time out against me -- and I've never timed out of a game."
+    },
+    "url": "https://gameknot.com/annotation.pl/odd-ending-to-a-game-on-the-edge?gm=41089",
+    "gameName": "Odd ending to a game on the edge",
+    "players": "chuckbo (1968) vs. jackfigus (1950)",
+    "opening": "Nimzovich-Larsen attack (A01), classical variation"
+}

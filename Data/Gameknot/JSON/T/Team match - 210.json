@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4": "Queen's Pawn, Mason Variation.",
+        "2... Nf6 3. e3 Nc6 4. Bb5 Bd7 5. Nc3 e6 6. a3 a6 7. Ba4 b5 8. Bb3 Be7": "Be7 is not in the database.",
+        "9. h3 Ne4 10. Qg4": "Pg7 is considered a \"poisoned\" pawn.  With this particular move, white's black bishop (Bf4) is exposed to attack by e5.  Black would probably deal with the g7 threat first, of course, giving white time to mitigate the risk.",
+        "10... Bf6 11. Nxe4": "Now if black threatens the white queen with e5, white moves her and trades a knight.",
+        "11... dxe4": "Black chooses to take the knight first.  White's black bishop remains at risk.",
+        "12. Qg3": "Risk averted.  But the queen is buried here.  Qe2 might have been a better choice.  White threatens c7.",
+        "12... Rc8 13. Ne2 O-O 14. O-O Bh4 15. Qg4": "Oops.  Qh2 tucks baby in a corner, but that is probably better than this which costs white e5, Qh5, PxBf4.",
+        "15... f5": "Even better for black.  16 Qh5 Be8 and the white queen falls into darkness.",
+        "16. Bxe6+ Bxe6 17. g3 fxg4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=55167",
+    "gameName": "Team match",
+    "players": "sanjaygulati (1459) vs. savonsika (1482)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

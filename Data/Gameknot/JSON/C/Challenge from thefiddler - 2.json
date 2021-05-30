@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 Nc6 2. d4 e5 3. Nf3 exd4": "Transposes to Scotch game.",
+        "4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 Qxf3 7. gxf3 bxc6 8. Be3 Bxe3": "Scotch Game: Classical. Intermezzo Variation (C45)",
+        "9. fxe3 d6 10. Rg1 g6": "I think that Ne7 also works. If Rxg7, then Ng6.",
+        "11. Nd2 Nf6 12. O-O-O O-O 13. Bc4 Re8 14. Nb3 Re5 15. Nd4 Bb7 16. Bb3 d5 17. exd5 cxd5 18. Nb5 c6 19. Nd6 Ba6 20. e4 Rh5": "If 20...Rd8, then 21. f4",
+        "21. exd5 cxd5 22. Rg2 Kf8 23. c4 dxc4 24. Bxc4 Bxc4 25. Nxc4 Rc8 26. b3 Nd5": "The knight is eying the e3 square.",
+        "27. Kb2 Nf4": "I thought that Rxc4 followed by Ne3 would have been preferable for black. The white pawns would be separated and harder to protect.",
+        "28. Rc2 Rh3 29. Rd7 a6 30. Ra7 Rc6": "I think that this move was a mistake allowing the sham sacrifice text move.",
+        "31. Rxf7+ Kxf7 32. Ne5+ Kf6 33. Nxc6 Rxf3": "Black's pieces are not prepared to defend the queenside, so I went after the pawn. If I can get a passed pawn started first maybe I will win the game.",
+        "34. Nb4 a5 35. Nc6 a4 36. bxa4 Nd3+ 37. Kb3 Rf4 38. a5": "passed pawns must be pushed!",
+        "38... Kg5 39. a6 Rf8 40. Kc4 Nf4 41. Kb5 Kg4 42. a7 Ra8 43. Ka6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-thefiddler?gm=52502",
+    "gameName": "Challenge from thefiddler",
+    "players": "thefiddler (1840) vs. bbuurrcchh (1937)",
+    "opening": "KP (B00), Nimzovich defence"
+}

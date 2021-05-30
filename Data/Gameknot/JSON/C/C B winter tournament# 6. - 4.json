@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. O-O e5 5. d3": "5.Nc3 is stronger.",
+        "5... Nd4 6. Nc3 Nf6": "...Nxb5; Nb5 Qc6 is more normal. and ok for Black. ",
+        "7. Bg5 Qd6 8. Bxf6 Qxf6 9. Nxd4 cxd4 10. Nd5 Qh6": "...Qd6 is better and prevents losing the Rook.",
+        "11. Nc7+ Kd8 12. Nxa8 Be7 13. Qf3 f6 14. c3 dxc3 15. b3": "bxc3 is better.",
+        "15... Ba3 16. Qe2 b6 17. Bc4 Bb7 18. Bd5": "Rad1 seems better. if ...Bb7, Nxb6 axb6 and  white pushes d4. ",
+        "18... Bxd5 19. exd5 Kc8 20. Qc2 Bb2": "...Qd2 is to be considered.",
+        "21. Nxb6+": "Rab1 is better, saving a move. 21.Rab1 Kb7 22.Nc7! f5 23.Nb5",
+        "21... axb6 22. Rab1 Kb7 23. Qe2": "23.f4 is better, attacking the center and keeping the passer blockaded. ",
+        "23... Rc8 24. Qc2 Qf4 25. Rfe1 Qd2 26. Re2": "oops. Qxd2, cxd still for black advantage, but better than Re2 Qxe2; Qxe2 c2; Rf1 c1/Q. ",
+        "26... Qf4 27. Re4 Qh6 28. Rbe1 Rc5 29. g3 Rxd5 30. Ra4": ",,,Qd2!; Qxd2 cxd; Rd1 Rxd3",
+        "30... Qg6 31. Ree4 f5 32. Rec4 b5 33. Rcb4 f4": "...Qh6 is very strong. ",
+        "34. Ra5": "Kf1 is to be considered. ",
+        "34... Kb6 35. Ra8 fxg3 36. hxg3 Kb7": "...Rxd3 is strong.",
+        "37. Ra5 Kb6 38. Raa4": "Ra8 to see if it may be a draw. Black must then see the win... ",
+        "38... Rxd3 39. Ra8 Rxg3+ 40. fxg3 Qxc2 41. a4 Qd1+ 42. Kh2 Qe2+ 43. Kh3 Qf1+ 44. Kg4 h5+ 45. Kg5 Bc1+ 46. Kg6 Qf6+ 47. Kxh5 Qg5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/c-b-winter-tournament-6?gm=64854",
+    "gameName": "C B winter tournament# 6.",
+    "players": "toots2711 (1423) vs. gur-dial (1452)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

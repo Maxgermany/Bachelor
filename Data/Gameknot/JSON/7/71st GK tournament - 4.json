@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Bg5": "This isn't one of the most played moves. I think the pin over Black's knight isn't so painful.",
+        "7... h6 8. Bh4 Nbd7 9. O-O g5 10. Bg3 g4": "! With this move, I can remove a key defender of the d4 pawn, succesfully contesting White's center.",
+        "11. Ne1": "?! Maybe Nh4 woul have been more accurate, controlling the f5 square.",
+        "11... exd4 12. Qxd4 Re8": "Now White's center crumbles.",
+        "13. Qe3 Nxe4": "A necessary pseudo-sacrifice that removes White's last center pawn.",
+        "14. Nxe4 f5 15. Qb3": "? I think f3 would have been better, gaining back the pawn for the piece. An example would have been f3, gxf3, gxf3, fxe4, fxe4, and the position would have been at least unclear.",
+        "15... Rxe4 16. Bd3 Nc5 17. Qc2 Nxd3 18. Nxd3 Be6": "Threatening to gain a second pawn.",
+        "19. Nf4": "? Blundering the pawn for no compensation at all.",
+        "19... Bxc4 20. Rfe1": "Maybe Rae1 would have been more poisonous...\nEven now, anyway, the Rook can't be taken because of Rxe1+, Rxe1 and the Bishop on c4 is threatened, as well as the f5 pawn, and White would gain back one pawn.",
+        "20... Qe8": "Here is the point. If the Ra1 was on f1, I could have had the possibility to blunder with Rxe1?? Qxc4+.\n",
+        "21. f3": "Now, I can't play Rxe1+ because after Rxe1 I must move my Queen, and I would lose the f5 pawn.",
+        "21... gxf3 22. gxf3 Rxe1+ 23. Rxe1 Qc6": "Now, the f5 pawn isn't really en prise, since the f3 pawn hangs too.",
+        "24. b3 Bd5 25. Qxf5 Bxf3 26. Ne6": "Threatening Nxg7, Kxg7, Re7+.",
+        "26... Bd5 27. Nxg7 Rf8": "! The intermediate move that saves Black. The point is that Qg4 doesn't work because of Qb6+/Qc5+.",
+        "28. Qd3 Qc5+ 29. Qe3 Qxe3+ 30. Rxe3 Kxg7 31. Re7+ Rf7 32. Rxf7+ Kxf7": "Despite the presence of opposite-colour bishops, this endgame is won.",
+        "33. Kf2 Ke6 34. Ke3 c5": "Not allowing a future Kd4.",
+        "35. h4": "Nice idea, it puts the pawn on dark squares, wherre the bishops can defend it...",
+        "35... h5": "... And I do the same!",
+        "36. Kd3 b5": "My objective is to create some dangerous passed pawns on the Queenside.",
+        "37. Bf2 Kf5": "The final King invasion.",
+        "38. Bg3 Be4+ 39. Kc3 d5 40. Bd6": "I principally evaluated Bb8, but even now the position is won.",
+        "40... d4+ 41. Kd2 c4": "Creating two connected passed pawns.",
+        "42. bxc4 bxc4 43. Bc5 c3+ 44. Ke1 d3 45. Be3 Kg4 46. Bg5 Kf3 47. a3 d2+ 48. Kd1 Bc2+": "The final tactical shot.",
+        "49. Kxc2 Ke2 50. Bxd2 cxd2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/71st-gk-tournament?gm=33466",
+    "gameName": "71st GK tournament",
+    "players": "mac2butau1983 (1597) vs. chemist89 (1964)",
+    "opening": "King's Indian, 3.Nf3 (E60)"
+}

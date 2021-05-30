@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nf6 3. Bg5 e6 4. a3 Be7 5. Bxf6 Bxf6 6. e4 O-O 7. e5 Bg5 8. Nf3 Nc6 9. h4 Bh6": "After the opening, both sides look ok. However, perhaps white has more space.",
+        "10. g4 g6 11. g5 Bg7 12. h5": "White starts an early attack against black king",
+        "12... b6": "To develop bishop through this diagonal",
+        "13. hxg6 fxg6": "Keeps h column closed for white rook, opens f for black one",
+        "14. Bb5 Bb7 15. Qd3 a6 16. Bxc6 Bxc6": "More exchange",
+        "17. Ke2": "??? Perhaps made to help the 2 rooks communicate, but it will cost the game...",
+        "17... Bb5 18. Qxb5 axb5 19. Nxb5 Qc8 20. Rh4": "Trying to get some attack",
+        "20... Qa6": "Forking the knight",
+        "21. c4 c6 22. Nd6 Qa4 23. Nd2 b5 24. b3 Qa6 25. Ke3 bxc4 26. bxc4 dxc4 27. Nd6xc4 Qc8 28. Nb6": "Nice Threat, although it can be dealt",
+        "28... Qd8": "Trap is now set.",
+        "29. Nxa8": "The white didn't notice black's answer:",
+        "29... Qxg5+ 30. Rf4 Qxf4+ 31. Kd3 Rxa8": "Wins a rook and a knight for a rook...",
+        "32. Ne4 Qf3+ 33. Kc4 Qxe4": "White is lost...",
+        "34. a4 Qc2+": "and resigns..."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-guardiangr?gm=22775",
+    "gameName": "Challenge from guardiangr",
+    "players": "bogeedave (1180) vs. guardiangr (1489)",
+    "opening": "Richter-Veresov attack (D01)"
+}

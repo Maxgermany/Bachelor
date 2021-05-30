@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "This interesting verson of the Scotch game shows the danger of 3.d6 if white plays dxe5",
+        "1... e5 2. Nf3 Nc6 3. d4": "Scotch opening",
+        "3... d6": "Unusual black third move... exd4 is the main line, after which white can retake the pawn with the knight or leave the pawn and play c3 or Bc4",
+        "4. dxe5": "If black wants to recapture, he won't be able to castle because we will trade queens unless he gives up a pawn",
+        "4... dxe5 5. Qxd8+ Kxd8": "Black played this version because white often does not play 4 dxe5 because of the exchange of queens improving black's chance of equalizing",
+        "6. Bb5 Nd4": "also possible is Ne7 but any other move loses the pawn",
+        "7. Nxd4 exd4": "Black now has one pawn which has advanced far into my territory and all his other pieces on the squares where they started, except his king",
+        "8. Nd2": "i planned to play Nf3 next",
+        "8... Bb4": "Black decides to exchange my knight for his bishop, which leave me with the bishop pair",
+        "9. a3 Bxd2+ 10. Bxd2": "Now i have the bishop pair and a choice of which way to castle.  ",
+        "10... Bd7 11. Bc4": "I don't want to trade down to a draw",
+        "11... f6": "Be6 was also possible",
+        "12. O-O-O": "i want a discovered attack on the black pawn",
+        "12... Ne7 13. Bb4 Nc6": "black trys to hold the pawn",
+        "14. Bd5": "i want to capture the C pawn and black has no way of stopping me.... ",
+        "14... Nxb4 15. axb4 c6 16. Bb3 Kc7 17. Rxd4": "This pawn proves to be the difference in the game",
+        "17... Rae8 18. f3": "having my pawns on the white squares isn't ideal but i don't have a choice at this point",
+        "18... g5 19. Rhd1 Re7 20. g3 Bh3 21. Bc4 b5 22. Bf1": "I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw\r\n",
+        "22... Bxf1 23. Rxf1 Rd8 24. Rfd1 Rxd4 25. Rxd4 Rd7": "Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me",
+        "26. c3": "Instead of the obvious Rxd7, i play this move to prevent him from getting essentially a free move for his king.  Also this closes the only chance he has of getting his king to my side without exchanging pawns",
+        "26... Rxd4 27. cxd4 Kd6 28. Kd2 h5 29. Kd3 Ke6 30. b3 a6 31. Ke3 Kd6 32. f4 Ke6 33. h4 g4 34. f5+": "allows me to drive back the black king and position my king in support of e5 before i take on that square with my pawn on e4",
+        "34... Kd6 35. Kf4": "E5 is mine",
+        "35... Ke7 36. e5 Kf7": "black hopes to gain opposition with Kxf6",
+        "37. exf6 Kxf6 38. Ke4": "i have two safe squares without retreating and he has one.... here my opponent resigned because he has no way to stop my pawn from promoting.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=358",
+    "gameName": "Team match",
+    "players": "acrewboy02 (1458) vs. flycatcher (1476)",
+    "opening": "Scotch opening (C44)"
+}

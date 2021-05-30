@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4 Nf6": "My friend chooses not to fight the battle on Classical lines.",
+        "2. c4 g6": "I know what's coming, but cannot avoid it.",
+        "3. Nc3 d5": "The Gruenfeld, sure enough.",
+        "4. cxd5 Nxd5": "I immediately relieve Black of his central Pawn and he recaptures.",
+        "5. e4 Nxc3": "Now I have my \"ideal center\", but Black has exchanged off my supporting Knight.",
+        "6. bxc3 c5": "Pressuring my QP. This Pawn will be the focal point of the battle for a few moves.",
+        "7. Bc4 Bg7": "Seizing the long diagonal. ",
+        "8. Ne2 Nc6": "We both add more firepower to my Q4.",
+        "9. Be3 cxd4": "Black knocks a prop out from Q4 with this exchange.",
+        "10. cxd4 Qa5+": "Black plays aggressively. The Queen is exposed a bit but also generates potent threats.",
+        "11. Bd2 Qa3": "Now the Q is dangerously exposed and I start thinking how tro win it. Hoowver, my QP is under fire.",
+        "12. Rb1": "If Black greedily plays 12... NxP??? without thinking, 13 B-N4!!! wins the Queen!",
+        "12... O-O": "Black castles his K into safety. I should have done the same thing, but I had a devious plan: 13 P-Q5 and after the Knight moves, 14 B-N4 winning the Q.",
+        "13. d5": "Here we go....",
+        "13... Ne5": "...the Knight moves...",
+        "14. Bb4": "...and I seemingly win the Q.",
+        "14... Qf3": "I thought he'd at least play 14... QxB and get SOMETHING for the Q. But... \nI",
+        "15. gxf3": "My only chance to prolong the game was 15 O-O, but 15... QxKP wouyld leave me in a difficult position anyway.",
+        "15... Nxf3+": "Forcing my next move.",
+        "16. Kf1 Bh3#": "What a lovely finish! Even though I lost I felt it just HAD to be posted."
+    },
+    "url": "https://gameknot.com/annotation.pl/recent-otb-game?gm=41293",
+    "gameName": "Recent OTB game",
+    "players": "Me  vs. A friend ",
+    "opening": "Gruenfeld (D85), modern exchange variation"
+}

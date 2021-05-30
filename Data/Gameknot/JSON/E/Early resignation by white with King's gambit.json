@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "This is a strange game I've just played, with a final resignation that I don't understand.",
+        "1... e5 2. f4": "King's gambit.",
+        "2... exf4": "Accepted.",
+        "3. Nf3": "King's knight's gambit.",
+        "3... g5": "Quaade gambit.",
+        "4. h4": "King's knight's gambit. It was supposed to be a game without ease castling.",
+        "4... g4": "Allgaier gambit.",
+        "5. Ne5": "Kieseritsky, Paulsen defence. Forced position of White's knight.",
+        "5... Nf6": " Kieseritsky, Berlin defence. Never played such a game before, ready to learn.",
+        "6. d4": "I didn't understand this move. It's possible to take pawn on g4 or protect pawn on e4. He prefers to let his bishop free to take f4.",
+        "6... d6": "I attacked Black Knight's positon at the same time I protected g4.",
+        "7. Nd3 Nxe4": "I took the free pawn.",
+        "8. Bxf4": "He did the same.",
+        "8... b6": "I gave options to my bishop.",
+        "9. Qe2": "Just because of it.",
+        "9... f5": "I completely refuse to protect my king properly. All or nothing.",
+        "10. Nd2": "Free to castle.",
+        "10... d5": "Maybe my mistake.",
+        "11. Nf3": "He offered me his knight, just for taking mine and getting a great position. If I had accepted, it was lost.",
+        "11... Be7": "I tried to avoid his movement with his knight on f3 or his castle.",
+        "12. Nde5": "And he moves his knight to e5 just before... \u00bfresigning?\nIt was going to be such a difficult game, but so difficult to resing now?"
+    },
+    "url": "https://gameknot.com/annotation.pl/early-resignation-by-white-with-kings-gambit?gm=42575",
+    "gameName": "Early resignation by white with King's gambit",
+    "players": "ehultman (1452) vs. eduherminio (1402)",
+    "opening": "KGA (C39), Kieseritsky, Berlin defence"
+}

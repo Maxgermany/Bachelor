@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3": "The themed mini tournament started here.",
+        "6. fxe3": "Taking his bishop would have lost my queen.",
+        "6... Bxd2+ 7. Qxd2 Qxd2+ 8. Kxd2": "And boom! The queens are off and it's an endgame-like scenario since all the pieces are snoozing. I say it is very close to equal, as while white is up a pawn his king is displaced and he has two doubled, isolated pawns.",
+        "8... Be6 9. Nf3 Nc6 10. Bd3 O-O-O 11. Nc3": "Both sides race to get their pieces out.",
+        "11... Nb4 12. Ne1 Bf5 13. Nd5 Nxd3 14. Nxd3 Be4 15. Rhg1": "I'd say black might have a thin edge as his rook is slashing down the d file very nicely.",
+        "15... Bxd5": "! Wins a pawn.",
+        "16. cxd5 Rxd5 17. Rac1": "I grab a half open file, black has the edge for sure here.",
+        "17... Ne7 18. e4 Rd4 19. Rge1 Rhd8": "!",
+        "20. Rc3": "White is desperately trying to defend as black swarms forward.",
+        "20... Nc6 21. Re3 Nxe5": "Black picks up a pawn and adds another attacker.",
+        "22. b3 b5": "He's going to chase away my rook.",
+        "23. g3 Ng4": "? Better, much better would have been b4! It would have forced my rook to move.",
+        "24. Rf3 Rxe4 25. Rxf7": "As it is, white is let slightly off the hook. But black still has a big edge.",
+        "25... Red4": "?? This is the move that threw it all away for black.",
+        "26. Rcxc7+ Kb8 27. Rcb7+": "Moving to c8 would allow checkmate, but I knew he wouldn't play that.",
+        "27... Ka8 28. Rbxa7+": "I am now up a pawn.",
+        "28... Kb8 29. Rfb7+ Kc8 30. Rbc7+": "I looked long and hard for a way to get mate, but I couldn't find one. I didn't want to continue to play being up a pawn, because he is still bearing down on my knight and king. So I forced a draw.",
+        "30... Kb8 31. Rcb7+ Kc8 32. Rbc7+ Kb8 33. Rcb7+ Kc8 34. Rbc7+ Kb8 35. Rcb7+ Kc8 36. Rbc7+": "And I declared a draw. I felt it was a nice game, it was a good draw when I was behind."
+    },
+    "url": "https://gameknot.com/annotation.pl/cellius63s-gambit-albin-acettato?gm=51442",
+    "gameName": "cellius63's gambit albin acettato",
+    "players": "porcho (1326) vs. buzzwold (1370)",
+    "opening": "QGD (D08), Albin counter-gambit, Lasker trap"
+}

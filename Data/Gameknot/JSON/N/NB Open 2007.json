@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. Nf3": "NB Open 2007.",
+        "1... c5 2. g3 d6 3. Bg2 Nc6 4. O-O e5 5. d3 Be7 6. e4": "My favorite...the KIA.  It isn't all that strong against Sicilians without black playing e6 but at least it is solid and avoids the 'book lines' most Sicilian players hope to reach.",
+        "6... Bg4 7. h3 Bxf3 8. Bxf3 Nf6 9. Nc3 a6 10. Bg5 Nd7 11. Bxe7 Nxe7": "I think he captured with the knight so he could get rid of the knight I am about to put on the d5 outpost.  However, in doing so I am able to capture his knight with my e pawn.   That pawn will be almost impossible to remove.  Once he pushes his b and f pawns I'll have an outpost on c6 and more importantly on e6.  It takes me a while to plop a piece on e6 but I do. ",
+        "12. Nd5 Nxd5 13. exd5 O-O 14. c4": "I liked this pawn formation.  It is solid.  ",
+        "14... f5 15. Bg2 Rf6 16. Qh5": "I'm hoping to provoke some pawn weaknesses.",
+        "16... Nf8 17. Qg5 h6 18. Qd2 Ng6 19. b4": "Black is still quite solid on the kingside so now I probe the Queenside a bit.",
+        "19... b6 20. a4 a5 21. bxa5 Rxa5 22. Rfb1": "I liked this move and I don't think my opponent expected it. ",
+        "22... f4": "22...f4?\r\n\r\nI was waiting for this pawn to move for a long time.",
+        "23. Be4": "His position is starting to have lots of holes.  It's time to bring the bishop to life and expolit those outposts!",
+        "23... Ra6 24. Kh2": "I saw a 'neat tactical trap' so I played a poor move hoping he'd fall for it.  I should really stop doing that so often!  Now my king is less active and less able to aid in defence.\r\n\r\n",
+        "24... fxg3+ 25. fxg3 Qf8 26. Kg2 Ne7 27. Rbf1 Nc8 28. Rxf6 Qxf6 29. Rf1": "Gaining the file.",
+        "29... Qd8 30. Bf5": "Now that I own the file I can reposition the bishop even deeper into his camp.  Destination...e6.",
+        "30... Ne7 31. Be6+ Kh8 32. Rf7": "Attacking the g pawn.",
+        "32... Rxa4 33. Qd1": "The d1/h5 diagonal is calling my name.",
+        "33... Ra2+ 34. Kg1 g5": "34..g5??\r\n\r\nAnd that's one hole too many.",
+        "35. Qh5 Ra1+ 36. Kf2 Ra2+ 37. Ke3 Ng8 38. Qg6": "Black resigned here.\r\n\r\nI'm happy with my play in this game.  I suppose I should really pick up the white side of the Sicilian since the KIA isn't as effective against Sicilians without e6 by Black.  All comments are welcome."
+    },
+    "url": "https://gameknot.com/annotation.pl/nb-open-2007?gm=8618",
+    "gameName": "NB Open 2007",
+    "players": "diemjay (?) vs. N.N. (1620)",
+    "opening": "Reti opening (A04)"
+}

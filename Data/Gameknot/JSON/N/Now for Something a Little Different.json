@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. b4 e5": "Another Fast Ladder game. Strangely enough, this is the second time in a week that I've faced the Sokolsky a.k.a. Orangutan a.k.a. Polish opening. Is this opening growing in popularity? If interested, see my annotation http://gameknot.com/annotation.pl/swarming-the-uncastle?gm=25460 annotated on 7/28/2009. Black's response is the King's Pawn Variation.",
+        "2. Bb2 Bxb4": "My first opponent played 2. b5 which turned out to be quite interesting and hampered my development of my queen's knight in that game. This opponent prefers a more traditional line (if this opening has traditional lines). Black gobbles the pawn, initiating the pawn exchange.",
+        "3. Bxe5 Nf6": "The pawn on g7 was en prise, this is one good way to save it, developing a piece and preparing to castle.",
+        "4. e3 O-O": "4. e3 seems a little to timid for my taste. Why not develop a knight, maybe with 4. Nc3, preparing 5. e4 and jump into the center with gusto? Well, maybe not quite so quick, since 5. ... Bxc3 might end up costing white a pawn. Still, 4. e3 feels timid.",
+        "5. c4 Nc6": "That's more like it. 5. c4 has the gusto that 4. e3 lacked. Black develops a knight with tempo.",
+        "6. Bc3 Ne4": "Chasing the bishop, but also setting up a wicked fork.",
+        "7. Bxb4 Nxb4": "It is worth noting that in his first seven moves, white has moved his DSB four times. Initially I looked at playing that wicked fork, 7. ... Qf6, threatening checkmate on f2 and also attacking white's rook. (note: This same move, at a different time, was useful in my other game against this opening - I am wondering if the danger to white's rook along that long diagonal is a serious flaw of the Orangutan). However, after 7. ... Qf6 white plays 8. Nf3 defending the mate with development, and now if 8. ... Qxa1 9. Bxf8 Kxf8, material remains even. I usually prefer to keep pieces on the board when playing against a lower-rated opponent, so I decided to minimize the exchanges at his point. Besides, black hasn't given up on the threat yet.",
+        "8. d3 Nxf2": "This move forks the queen and the king's rook. White has nothing better to do than capture the knight.",
+        "9. Kxf2 Qf6+": "And now black plays the fork and the queen's rook falls. Black has gained a rook and pawn for a knight. Rather than play on, white resigned. This becomes my second fastest game on GameKnot, only transcended by a game in which I won white's queen on move 6 due to a simple blunder and white resigned immediately. Black advances on the Fast Ladder."
+    },
+    "url": "https://gameknot.com/annotation.pl/now-for-something-a-little-different?gm=25522",
+    "gameName": "Now for Something a Little Different",
+    "players": "durangokid (1586) vs. blake84120 (2037)",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

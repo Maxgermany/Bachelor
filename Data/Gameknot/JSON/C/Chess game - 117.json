@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. e3 e6 4. Bd3 c5 5. b3 b6 6. O-O Ba6 7. Bb2 Bd6": "creo que aqu\u00ed era interesante c4 para las negras. ",
+        "8. Nbd2 O-O 9. Ne5 Bxd3 10. cxd3 Nbd7 11. f4 Rc8 12. Rc1 cxd4": "muy bien por Alberto, que intenta simplificar para sacarles fuerzas a las blancas",
+        "13. exd4": "es importante controlar c5 para las blancas",
+        "13... Rxc1 14. Qxc1 Qc8 15. Ndf3 Qa6": "jugada que provoca la ruptura. Las blancas dejan escapar Cxd7 seguido de Dc6",
+        "16. Qc6 Bxe5 17. fxe5 Nb8": "\u00fanica y muy buena! por las casillas que controla el caballo",
+        "18. Qd6": "la mejor era Dc2, pero me daba la sensaci\u00f3n que pod\u00eda tener un fuerte ataque. ",
+        "18... Ng4": "y ahora las negras tienen la iniciativa",
+        "19. Ba3 Re8": "Alberto encontr\u00f3 muy bien todas las jugadas de defensa",
+        "20. Rd1": "Si Cg5, Dxd3 y ganan",
+        "20... Ne3 21. Rd2 Nf5": "Alberto juega muy bien su caballo",
+        "22. Qb4 h5": "interesante jugada intermedia para evitar cualquier amenaza de mate y evitar g4, sacando ese molesto caballo",
+        "23. Kf2": "para llegar a defender d3 y liberar la torre, pero Alberto materializa su iniciativa forzando la ganancia del peon de d4",
+        "23... Nc6 24. Qc3 Ncxd4 25. Nxd4 Nxd4 26. Qxd4 Qxa3": "Aqu\u00ed las blancas cometen un error decisivo que facilita el trabajo de las negras, que est\u00e1n mejor. Debieron jugar la sencilla Tc2, ganando la \u00fanica columna abierta del tablero",
+        "27. Qh4 Qc1": "Alberto juega siempre la mejor!",
+        "28. Re2": "hab\u00eda mejores, pero me vine abajo psicol\u00f3gicamente. Las blancas est\u00e1n perdidas",
+        "28... Rc8 29. Qxh5 Qf4+": "las negras vuelven a tener un peon de ventaja",
+        "30. Qf3 Qxh2 31. Ke3": "grave error. Ademas de cansado, yo estaba ya totalmente desmoralizado...",
+        "31... Qxe5+": "el resto de la partida no tiene sentido volcarla aqu\u00ed. Muy bien jugado por Alberto!"
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=51972",
+    "gameName": "Chess game",
+    "players": "Javier  vs. Alberto ",
+    "opening": "Queen's pawn game (A46)"
+}

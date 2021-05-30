@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Don't treat ratings as the be all and end all, to be honest I'm over-rated by a good 100 points. On a good streak at the moment thats all. And forget that notion about second best. You're rated 250 points below me and kept pace with me, just that final bit that let you down.",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "Standard Ruy Lopez, nowt wrong with that, I usually go to c4 rather than b5, but thats just personal preference.",
+        "3... d6": "Again personal preference, it allows the doubling on the c rank if white is so inclined, but I prefer it to the other options.",
+        "4. d4 Bd7": "Eliminates the pawn doubling potential.",
+        "5. Nc3": "Quite reasonable, d5 would have been another option, but developing pieces is a good idea.",
+        "5... Nf6 6. h3": "Perhaps a bit negative, I might have looked at developed your dark squared bishop, possibly pinning the knight.",
+        "6... a6 7. Bxc6 Bxc6 8. d5 Bb5": "Accepting the doubling in order to get the rook into a better situation.",
+        "9. Nxb5 axb5 10. O-O Be7 11. Be3 c5": "Accepted the chance of en passant as I can take straight back and still be left with a clean pawn line.",
+        "12. b3": "A bit of an error, not massively so, but Q-d3 would have been better. It supports your hanging pawn on e4 and threatens the c5 pawn(check). A couple of things to always try and rem. Firstly in endgame a pawn advantage is massive, try not to let your opponent pick up free pawns, secondly you want to be dictating the tempo of the game. Force your opponent to respond to your moves rather than vica versa.",
+        "12... Nxe4": "I've no objection to free pawns ;-)",
+        "13. Nd2 Nxd2 14. Qxd2": "Fairly straightforward, clears your lines.",
+        "14... O-O 15. c4": "I can see the logic in this move, it attacks the pawn, enables your a1 rook to move (by protecting the a2 pawn with another piece) but all the same I'm not a fan. Can't explain why, it just seems wrong. Personally I would have played b4 and forced an issue, but thats more about playing style I think.",
+        "15... b4 16. f4": "Sensible move at the time, trying to free up your rook file.",
+        "16... f6": "But I also want my rook free.",
+        "17. fxe5 fxe5 18. Qe2": "Again perhaps a bit negative, you're still letting me force the pace, rather than forcing me to respond to your moves. Imagine a long distance race against someone you know is a strong finisher, you don't stay with them, you accelerate, deaccelerate trying to use their energy up.... similar analogy here....",
+        "18... Rxf1+ 19. Rxf1 Qa5": "Now thats a mistake on my part, I got a bit greedy thinking I could start rolling your pawns up or force the queen exchange. Either would suit me, so I lunge at it.",
+        "20. Qh5": "And get caught by this move. Taking the pawn leads to Q-f7 K-h8, Qxb.... looking at saccing the rook to create a back row mate. Can't bring the queen back so I extemporise and compromise.....",
+        "20... Rf8": "Have to accept the rook and pawn for the rook, but still didn't look far enough ahead.",
+        "21. Rxf8+": "Yup, exactly what you should have done imho.",
+        "21... Kxf8 22. Qxh7 Qxa2 23. Qh8+ Kf7 24. Qh5+ Kf8 25. Qf5+ Bf6 26. Qc8+ Kf7 27. Qxb7+ Kg6 28. Qd7 Qxb3": "The reason I moved the bishop earlier was to try and tempt you with d6, unfortunately you weren't having it.",
+        "29. Qg4+ Kf7 30. Qd7+ Kg8 31. Qe6+ Kh7 32. Qf5+ Kh8 33. Qc8+ Kh7 34. Qf5+ g6": "For most of that sequence there was nothing I could do except hop out of the way. You were quite right to offer the draw and in another game I might have taken it. I looked at this variant before, but wasn't brave enough to take it. When it cropped up this time I decided to go for it. I figured one move might be enough for me to be able to seize back the tempo. You can repeat the check on d2 but then the h6 escape for the king means you're in the wrong position with the queen. If you take the bishop, well you've seen what happens. With hindsight (wonderful thing), you'd have been better off retreating, either to f2 or e4 and then bringing your h&g pawns in. e4 is more counter intuitive but it does prevent me rolling up your pawns.",
+        "35. Qxf6 Qxe3+ 36. Kh2": "And thats the mistake that hands it to me. With a passed pawn advantage to me, the last thing you want is to swap the queens off. f1 would have had the same result, the only safe place would have been h1, but then that only delays it as I play c1 with the queen forcing you into h2. So its perhaps unfair to call that the mistake rather than Qxb. At the time I looked at this move and crowed mightily, but it is (or can be forced) so the mistake has to be the moves before.",
+        "36... Qf4+ 37. Qxf4 exf4": "Doesn't matter what happens in the f-h files. No way you can now stop the b pawn and then its almost always going to be a losing battle.",
+        "38. Kg1 b3 39. Kf2 b2": "Its been said that chess is a game where the winner makes the second to last mistake. And here that happened to be me. I'm not overly a technical player and if you ask GK for a technical analysis they'll prob say half of the match was errors. From my point of view I see three mistakes. (1) yours, leaving a pawn open (2) mine, getting over ambitious and having to scurry back to defend (3) yours, taking the bishop when retreat was called for. But considering the difference in ratings (flawed as they are), you played fairly even with me throughout most of it and only a rather desperate pawn move to offer the bishop saved me."
+    },
+    "url": "https://gameknot.com/annotation.pl/myoldbooks09s-mini-tournament-ii?gm=51168",
+    "gameName": "myoldbooks09's mini-tournament II",
+    "players": "skinnybird (1186) vs. grey_panda (1438)",
+    "opening": "Ruy Lopez (C62), old Steinitz defence, Nimzovich attack"
+}

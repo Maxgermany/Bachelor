@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "After black is a little slow in development, white opens up the position.board.\r\nThen after black does not find the correct defense, he gets is blown from the board.\r\nWhite is able to launch a king-side attack in which he succeedes using a few nice sacrifices.\r\n",
+        "1... Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 g6 6. Nc3 Bg7 7. Bg5": "So far nothing remarkable, but black next move is a little too slow.",
+        "7... Qc8 8. d5": "This may be a premature attempt to punish black for his indiscretion.\nStill black will need to tread a little carefull, or things could go bad for him.",
+        "8... exd5": "Opening up lines may not be the best response, because it should favor white.",
+        "9. cxd5 d6": "Castling with 0-0 seems better, black is be ok after that.\nAfter this move white tries to profit, by looking for complications.\nIn reality black position is solid, and he should be able to stand the storm.",
+        "10. Qd4 Nbd7": "Nh5 is followed by Qe3+, and Qf5 would have been followed by e4.\nBlack follows my motto: when in doubt, allows develop another piece!\n\n",
+        "11. Bh3": "Black his pieces are being pinned down everywhere.\nHowever this is unneeded for, and 0-0-0 would have been better.\nThings might seem threatening, but if black had played 0-0 all danger would have been gone.\n\nWhite position seems strong, but it can be undermined with a simple c7-c6;\nIt is unclear to me who has the better chances here.\n",
+        "11... Nh5": "But his is a big mistake, which will cost him a piece.\nBeing aggressive has payed of for white. ",
+        "12. Qe3+": "Off course",
+        "12... Kf8 13. Qe7+ Kg8 14. Bxd7 Qb8": "That should be the end of it, black could have resigned here.\nThe game has a few interesting moves left however. ",
+        "15. O-O-O Bf8 16. Qe3 h6 17. h4": "No need to withdraw the Bisshop, its to dangerous for black to open the h-line.",
+        "17... hxg5": "I would not have played that, but you cannot blame black for trying to get back into the game.",
+        "18. hxg5 Qd8 19. Ne4": "Indiretly protecting the Bisshop",
+        "19... Qxd7 20. Rxh5": "This rook cannot be taken. Also the h-line is now open.\nIf we count material, then we can see black is being overwhelmed on the kings side already.",
+        "20... Bg7 21. Rxh8+ Bxh8 22. Rh1": "White doesnt even care about d5, and just goes all-out against blacks king.\n",
+        "22... Re8": "f7-f5 might have been the last resort.\r\nWhite was threatening both Nf6+ and Rxh8.\r\n\r\nFor example 22..., Bg7; 23.Nf6+,Bxf6; 24.gxf6; Qf5; 25.Rh8+!, and checkmate follows",
+        "23. Rxh8+": "Of course",
+        "23... Kxh8 24. Qd4+": "After Re5 follows 24.Nxe5, dxe5; 25.Qxe5+, f6; 26.gxf6+ and whites f-pawn is unstoppable",
+        "24... f6 25. Nxf6": "The game is over, there is no more defense.",
+        "25... Qg7 26. Qh4+": "Black resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-side-attack?gm=43551",
+    "gameName": "Kings side attack",
+    "players": "eduard352 (1745) vs. newline (1777)",
+    "opening": "Queen's Indian (E15), Rubinstein variation"
+}

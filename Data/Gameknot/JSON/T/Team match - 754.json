@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 g6 2. d4 d5": "I'm not femiliar with that opening. at first look it seems to be not so good for black (3. exd5 Qxd5 4. Nc3 and the black queen is chased over the board).",
+        "3. exd5 Qxd5 4. Nc3 Qd8": "... or going back home.",
+        "5. Nf3 Bg7 6. Bc4": "White has a great advantage in development and in the center.",
+        "6... Nf6 7. Bf4": "7. 0-0 is better. put the king out of the fire line in the center.",
+        "7... O-O 8. Nb5 Na6 9. Nc3": "waste of moves. white gives black the chance to get organized and attack in center.",
+        "9... b6 10. Bxa6": "??? why??? after 10... Bxa6 there will be no casteling in the king side.",
+        "10... Bxa6 11. a4 Nd5": "the white king is in the center. black attacks with all his has got.",
+        "12. Nxd5 Qxd5 13. Bxc7": "a poisened pawn. now black gets also the c file.",
+        "13... Rac8": "the rope around white's king is getting tight and tight in every move.",
+        "14. Be5 Qe4+": "there is no escape now...",
+        "15. Kd2 Bh6+": "the poor end (for white)."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13329",
+    "gameName": "Team match",
+    "players": "paulg3121 (1485) vs. t108741 (1492)",
+    "opening": "Norwegian defence (B06)"
+}

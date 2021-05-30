@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "The Petroff, one of the more counterattacking responses to e4 and Nf3.",
+        "3. Nxe5 Nc6": "This variation is weak if white plays correctly, but contains various traps.",
+        "4. Nxc6 dxc6 5. Nc3 Bc5 6. Be2": "Here white has a seemingly solid position, but I had a winning bishop sacrifice - or so I thought...",
+        "6... Bxf2+": "If white had played 6.Bc4?, then this would be winning after 7...Qd4+; here it epicly fails. Unfortunately, I had mixed up my opening lines!",
+        "7. Kxf2 Qd4+ 8. Ke1 h5": "I decided that I had better make the most of a bad job, and go for all out attack.",
+        "9. d3 h4 10. Rf1 h3 11. g3": "There goes attempt no.#1.",
+        "11... g6 12. Bf3 Nh5": "Planning ...Nxg3!, with a completely revitalised position.",
+        "13. Bxh5": "Damn.",
+        "13... gxh5 14. Qf3": "Threatening f7. Since I wanted to open lines, there was really only one possible response.",
+        "14... f5 15. exf5 Bd7": "...Kf7 was far stronger. Instead this allows a forced queen exchange.",
+        "16. Qe3+ Qxe3+ 17. Bxe3 Kf7": "Blocking the pawn.",
+        "18. Kd2 Rae8": "If the a7 pawn is taken, then ...b6 traps the bishop.",
+        "19. Rae1 Rhg8 20. Bd4 b6 21. Be5 c5": "Since I had lost another pawn, I decided to give my bishop a good square while at it.",
+        "22. Bxc7 Bc6 23. Ne4": "Threatening Nd6+. Perhaps exchanging was the wrong response, but by this point I don't think it makes a massive difference.",
+        "23... Bxe4 24. Rxe4 Rec8 25. Bd6 Rc6 26. Be5 Rg5 27. f6": "This advances the pawn, but creates vulnerabilities that allow me to delay the end.",
+        "27... b5": "Planning ...c4.",
+        "28. b3 c4 29. dxc4 bxc4 30. Bb2 c3+": "This opens up the c file.",
+        "31. Bxc3 Rgc5 32. Re7+ Kf8 33. Re3": "The best resonse, avoiding retreat and loss of material.",
+        "33... Kf7": "Attempting to bring the position back to where it was and delay white's progress.",
+        "34. Rfe1": "Threatening to place rooks on e7 and e8, at which point the pawn is unstoppable.",
+        "34... Rc6c8": "Covering the 8th rank - the seventh is lost already.",
+        "35. Re3e7+ Kf8 36. Re1e3": "Protecting the bishop.",
+        "36... Rd8+ 37. Kc1 Rdc8 38. Kb2 Rf5": "Now, black can try ...Rxc3 which creates further delay.",
+        "39. Rxa7 Rf2": "Trying to promote the h-pawn in retaliation. Unfortunately, this is too slow.",
+        "40. Ree7 Rxh2 41. Reh7": "And quick mate is inevitable.\r\nCongratulations to my opponent, who played a good consolidation and expansion game and deserved the full point, and a rather embarrassing loss for me, which I was unfortunately denied the chance to gain revenge for by our schools' teams being placed in different groups for the rest of the tournament."
+    },
+    "url": "https://gameknot.com/annotation.pl/millfield-international-2009-round-2?gm=27367",
+    "gameName": "Millfield International 2009 Round 2",
+    "players": "Galliano  vs. Pearson ",
+    "opening": "Petrov (C42), French attack"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 e6 2. Nf3 b6 3. Nc3 Bb7": "I've been experimenting with this fianchetto defense for Black.  Sometimes it results in a cramped position, but often results in interesting play.",
+        "4. Bg5 Be7 5. Qd3": "The chess teacher Dan Heisman often talks about counting as an important concept in elementary tactics.  With Qd3, Black missed that the Bishop on g5 is attacked twice (B and Q behind it) and only protected once (N), and therefore isn't safe.",
+        "5... Bxg5 6. Ne4 Be7": "White gains a tempo and has better development, but is down a full piece.",
+        "7. e3 d5 8. Nc3 Nf6 9. O-O-O Ne4": "The N threatens to capture on f2, forking the Rs and Q.  If White plays Nxe4, dxe4 forks the N and Q.",
+        "10. Nxe4 dxe4 11. Qb5+": "White cleverly tries to get out of the pawn fork with a check to gain a tempo, but forgets that the Q can still be attacked with c6 or Bc6.",
+        "11... Bc6 12. Qh5 exf3 13. gxf3 Qd5": "With a significant material plus, Black offers a Q exchange, while also threatening to fork the Rs with Qxf3.",
+        "14. Qh3 Qxf3 15. Rd3": "Either Qxh3 or Qxh1 are possible here.  Black chooses to remove as much material as possible from the board, which usually makes an existing material advantage more telling.",
+        "15... Qxh3 16. Bxh3 Bxh1": "Black is poorly developed, but is up two minor pieces and a R.  Once the position is consolidated, it should be easily won.",
+        "17. Rc3 Na6 18. d5 Bxd5": "White may have forgotten about the B lurking on h1.",
+        "19. f4": "White resigned after moving.  Black can castle and then use the large material advantage to grind White down."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=58023",
+    "gameName": "Let's play chess",
+    "players": "gavinjohnston (1137) vs. mmoody95 (1751)",
+    "opening": "Queen's pawn (A40)"
+}

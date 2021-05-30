@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "This is an interesting variation of the French Winawer.  I forgot the correct move order at move 5 and thereafter was on my own as far as the opening was concerned.  I suspect my opponent was similarly left floundering...",
+        "1... e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Qg4": "?  5. a3 is the book move.  I've played this opening dozens of times and I don't remember ever forgetting to play 5. a3 before Qg4.",
+        "5... c5 6. Qxg7 Rg8 7. Qxh7 Nbc6 8. Kd1": "White gives up castling to secure save his N from a fatal pin, strengthen his c-pawn and allow development of the kingside.  Other options were possibly 8. Qh3, 8. a3, 8. Ne2: but all had their disadvantages.",
+        "8... cxd4 9. Nce2 Nxe5 10. Nxd4": "Though a pawn up, White is badly behind in development and unable to castle.  Not good after only 10 moves!",
+        "10... Bd7 11. a3 Bc5 12. Ngf3 Bxd4 13. Nxd4 Ne5g6": "Now White's Queen is at risk... Only three squares to move to.",
+        "14. Bg5": "This threatens 15. Qxg8+ Nxg8 16. Bxd8, winning the exchange",
+        "14... Rh8": "Now the Q has only one square.",
+        "15. Qg7 Qb6": "Black forks b2 and d4 and prepares castling.",
+        "16. b3": "Note that d4 is protected by White's Q :-)",
+        "16... Qd6": "Now Black attacks h2",
+        "17. g3 O-O-O 18. Nb5": "Now that Black has castled, White wastes no time in preparing an attack, first forking the Q on d6 and the pawn on a7, while granting his Q access to c3 to deliver check.",
+        "18... Qb6 19. Qc3+ Kb8 20. Be3": "White spears a7 through the Black Queen.  The focus has swiftly transferred from the kingside.",
+        "20... Qc6 21. Bxa7+ Ka8 22. Qa5": "and now White prepares his mating net.  Note that 22....Qa6 does not defend effectively because of 23. Nc7+!",
+        "22... Rde8 23. Bb6+ Kb8 24. Qa7+ Kc8 25. Qa8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=29277",
+    "gameName": "Fast Ladder",
+    "players": "rjacobs (1618) vs. nemesis1010 (1392)",
+    "opening": "French (C16), Winawer, advance variation"
+}

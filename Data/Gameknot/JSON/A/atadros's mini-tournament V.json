@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Ruy Lopez Opening ",
+        "3... a6": "Mostly I will meet 1e4 with 1...e6 as I know the French Defence quite well.",
+        "4. Ba4": "A friend and team member suggested giving the Marshall a try as Black against this..... Thanks Jim)",
+        "4... Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3 d5": "Marshall Attack - Black sacrifices a pawn in return for a lead in development and good chances for a king-side attack.",
+        "9. exd5 Nxd5 10. Nxe5": "White accepts the offered pawn...",
+        "10... Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4": "Forcing g3 (h3 may be met with Bxh3!?)",
+        "14. g3 Qh3 15. Qd3": "Not sure about this as it helps Black to build up the attack.... perhaps Nd2 was better.",
+        "15... Bf5 16. Qf3 Rfe8": "Seems logical to claim the e file (especially as white's Queen-side is so undeveloped)\n(Although, Shredder score it about even here)",
+        "17. Qd1": "Position is lost after 17. Qd1, Maybe 17.Bd2 was best and equal according to Shredder?",
+        "17... Bg4": "Attacking the Queen....",
+        "18. Rxe8+": "White exchanges his best developed piece.",
+        "18... Rxe8 19. Qf1": "A blunder but White is lost anyway... White defends aginst the threat of Bf3 but in doing so walks into another mate...",
+        "19... Qxf1+": "I take his Queen and he resigns..... (if 20. Kxf1 then Black wins with Bh3+, 21. Kg1 Re1 ++)\n\nThanks for looking...... enough encouragement for me to give the Marshall another try."
+    },
+    "url": "https://gameknot.com/annotation.pl/atadross-mini-tournament-v?gm=61048",
+    "gameName": "atadros's mini-tournament V",
+    "players": "expectnomercy (1775) vs. john_wr (1955)",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

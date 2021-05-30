@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. b3 e5 2. Bb2 Qe7": "Here's a move I've never seen before. He said he wanted to get me out of the normal lines quickly, but I don't think it's worth clogging up the kingside.",
+        "3. e3 Nf6 4. Nf3 d6": "He's letting me have a very easy development - not challenging me at all.",
+        "5. c4": "My plan will be to try to control d5 and e5.",
+        "5... Bf5 6. d4 Nc6 7. Nc3 g6 8. Be2": "I thought a lot about playing Bd3. He can't let his bishop just sit there because I'll play Bxf5 and damage his kingside pawns. But I decided to wait for now. I'm not sure I want to capture Bxf5 until after he's captured because he'll just castle queenside and have a path down the g-file to attack my king. Or, he might move the bishop to g4, and then I'll feel pressured to retreat the B back to e2.",
+        "8... Bg7 9. O-O O-O 10. d5": "That knight has nowhere good to go, so let's control d5 with a pawn, let my bishop on b2 put pressure down the diagonal, and then put a pawn on e4.",
+        "10... Nb8 11. Nd2": "I think e4 for him gives me the most problems, at least immediately. Longer term, I like that e4 gives me the d4 square for a knight. If he plays e4, the center will be all tied up, so I'll start moving pawns on the queenside (since he doesn't have any pieces there.",
+        "11... a5 12. e4 Bd7 13. Qc2 Na6 14. a3": "Let's keep that knight off of b4.",
+        "14... Bh6 15. Rfd1 Rfc8 16. Nf3": "I don't have a plan, right now. If that knight goes to d3, then I can think about playing c5. Not sure if that helps me though. Maybe I'll move the bishop to c1 since it's not doing anything on the diagonal it's sitting on. Can he afford to trade bishops and have a hole on g7? But can he afford to let my bishop take that diagonal, maybe move to e3?",
+        "16... Nh5 17. Bc1": "I moved too fast -- remembering my plan and sticking with it instead of considering his last move. As soon as I submitted the move, I wished I'd played g3 to keep his knight from going to f4.",
+        "17... Bxc1 18. Rdxc1 Nf4 19. Bf1 Rcf8 20. Ne2 Qf6 21. Nxf4": "Too many threats here -- especially Nh3+. I've got to trade off some pieces, I think.",
+        "21... Qxf4 22. Qd2 Qxe4 23. Qxa5": "No, I don't like how this trade turned out. I gave up a center pawn for a rook's pawn -- usually not the best idea -- and it gives him a passed pawn. Plus, my pawn on a3 may tie my rook down to support it once his knight moves.",
+        "23... Nc5 24. Qc3 Qf4 25. Rce1 f5 26. b4 Ne4": "I've got to push his pieces back to his side.",
+        "27. Qe3 Qxe3 28. Rxe3 Nf6 29. Nd2 Kg7 30. h3 Rfe8 31. Rc3": "I need to entice him to play e4 so my knight can occupy d4. Also, once he puts a pawn on e4, he won't be able to move the knight there.",
+        "31... h6 32. Be2 Ra7 33. b5 Rea8": "That means I won't be able to play Nb3 on its way to d4. Might as well play Nf3 while I can. He'll play Ne4 after that, I'm guessing. Both of our bishops are useless, so I'll try to trade the bishop for the knight.",
+        "34. Nf3 Ne4 35. Re3 Ra7a4": "Once he invades on b4, it'll be all over.",
+        "36. Bd3 Nc5 37. Be2": "I played this automatically, but I don't know why. I want him to trade off the bishop for his knight. ",
+        "37... Rb4 38. axb4 Rxa1+ 39. Kh2": "I made all these moves at the same time and forgot my plans. I was going to block with the bishop on f1.",
+        "39... Ne4 40. Bd3 Nxf2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=45324",
+    "gameName": "Team match",
+    "players": "chuckbo (2032) vs. haragan (2032)",
+    "opening": "Nimzovich-Larsen attack (A01), modern variation"
+}

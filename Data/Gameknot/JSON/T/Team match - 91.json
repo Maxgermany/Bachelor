@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. f4 Nf6": "Birds Opening",
+        "2. Nc3 d5 3. d4": "No longer main line so from here on out im purely playing the board.",
+        "3... e6 4. a3 c5 5. e3 Nc6 6. Nf3 Bd6 7. Bb5 O-O 8. Ne5 Qb6 9. Nxc6 bxc6 10. Ba4 Ba6": "Eyeing on queens castle with queen while preventing kingside castle with bishop and completing development",
+        "11. Qf3 cxd4 12. exd4": "Set my eye on free pawn but first decide to protect my weak pawn with rook",
+        "12... Rac8 13. Bb3": "Now i decide to take the pawn but the board has changed and i am in for a surprise",
+        "13... Qxd4 14. Be3": "Queen trapped! I think to myself well this games lost. I decide to take bishop but looking back i think e pawn advance leads to less damage",
+        "14... Qxe3+ 15. Qxe3 c5 16. Qf3 Rcb8 17. O-O-O Rb6 18. Na4 Rbb8 19. Nc3 Rb6": "Hoping for repeat draw lol",
+        "20. g4 d4 21. Ne4": "I see future queen rook pin",
+        "21... Nxe4 22. Qxe4 Bb7 23. Qe1 Bxh1 24. Qxh1 Bxf4+": "Feeling like i may have a chance though i have my doubts",
+        "25. Kb1 h6 26. h4 g5 27. h5 Rfb8 28. Rd3 c4": "Im back into this game",
+        "29. Rxd4 cxb3": "He should advance the pawn but mistakenly takes my pawn",
+        "30. cxb3 Rb6xb3 31. Qg2": "Here i see the winning combination to leave the game with pawn and king opening up two passed pawns and know ive won",
+        "31... Rb3xb2+ 32. Qxb2 Rxb2+ 33. Kxb2 Be5 34. Kc3 Bxd4+ 35. Kxd4 f5 36. gxf5 exf5 37. Ke5 f4 38. Ke4 Kf7 39. a4 Ke6 40. Kf3 Kf5 41. a5 g4+ 42. Kg2 Ke4 43. a6 f3+ 44. Kf2 Kf4 45. Kg1 g3 46. Kh1 Ke3 47. Kg1 g2 48. Kh2 Kf2 49. Kh3 g1=Q 50. Kh4 Qg3#": "What a comeback and that is why you never give up!!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=59828",
+    "gameName": "Team match",
+    "players": "tag-pete (1488) vs. whocaresulost (1629)",
+    "opening": "Bird's opening (A02)"
+}

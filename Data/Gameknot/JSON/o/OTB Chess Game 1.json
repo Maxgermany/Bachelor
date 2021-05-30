@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "I start off with my usual as does Ted.  As expected, this will be the Spanish Opening.  I know this because just like Jack, Ted defends with 2...Nf6",
+        "1... e5 2. Nf3 Nc6 3. Bb5 Nf6": "But, I didn't know he'd respond because there are moves like 3...a6, or 3...Nxe4?! as we know.  However, this was a conditional move as I don't deviate from mainlines with him.  If I wanted to, though, I could with 4.Nc3 which I have before.  But, I prefer to castle sooner then later.",
+        "4. O-O Nxe4 5. Re1": "All part of the mainline after castling.",
+        "5... Nd4": "?? But, this isn't.  In fact, this has been played right after the Spanish Opening.  I know that because there was an occasion where after 3...Nd4, I overlooked, and thus, lost my Bb5.  Therefore, I wasn't fooled here.  And, because I know what to do, this move will cost Ted a material.  However, I was distracted, and had it been worse, I would've been the one that would blunder with 6.Nxe5?? as that's the move I almost played.  I saw this threat and decided to exchange here.  For, once he takes, I'll grab his other Knight, without anything in return.  In fact, he'll be in check once I take, which will safely allow me to capture his e5 winning a piece without anything return.",
+        "6. Nxd4 exd4 7. Rxe4+ Be7 8. Rxd4 a6": "Not surprisingly, Ted attacks now.",
+        "9. Ba4": "So, I defend.",
+        "9... c5": "Then, Ted hits my Rook.",
+        "10. Re4": "And, I defend again.",
+        "10... b5": "Once again, Ted attacks. ",
+        "11. Qf3": "?? Instead of defending, I decide to put pressure on Ted's longest diagonal.  For, I know that this B is not a goner.  If 11...bxa4, I'll just move the Rook.  In the process, Ted will be forced to play 12...Bb7, in order to avoid losing the Rook.  After that, I'd take back on b7 and remain a piece up.  But, I overlooked his next move.",
+        "11... Bb7": "As now, this skewer is quite nasty.  I was a little panicked, and thought that now, he'd equalize or even wind up ahead.  So, I asked myself what could be done here.  Keeping in mind what he intends to do, I played Hope Chess, this time by threatening mate.  The process is Reverse Psychology where I'm hoping that he does take because of that threat.",
+        "12. Bb3": "I do that with this move, and not surprisingly, he makes that lucky blunder by taking on e4 which allows me to mate once and for all.  But, I know what Ted does and his thinking.  That's because he does not take enough time to think about the threats that lie ahead.  I know this because Jack has pointed that out ahead.  So, knowing how he thinks is how I was able to deliver this mate.  BTW, this Hope Chess is also what prevented me from getting nervous.  With that being said, best for Ted would've been 12...c4, as then he'd wind up with an advantage.  That move alone loses the exchange alone because 13...Bxe4 becomes possible.  After which he can take on b3, losing a Bishop for a pawn, in addition. Therefore, I'd fall pretty far behind rather then mate.  So, the important moral for anyone to learn is what cplusplus11 mentioned in Erika's previous annotations.  That is, to look for all of the threats by your opponents.  The other lesson is what I recently that patience is of a virtue.  For doing that would've allowed him to take back, and then, as noted, capture on e4 with the initiative. ",
+        "12... Bxe4 13. Qxf7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-chess-game-1?gm=62430",
+    "gameName": "OTB Chess Game 1",
+    "players": "Joe (1310) vs. Ted ",
+    "opening": "Ruy Lopez (C67), Berlin defence, open variation"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4": "Center game.",
+        "2... exd4 3. Nf3": "In the moment I play this variation",
+        "3... Nc6 4. c3": "Alternative move :Nxd4",
+        "4... dxc3 5. Nxc3": "Gambit - White's one pawn late but has 3 pieces out against one for black",
+        "5... Bb4": "Seems to be the best move in this opening.",
+        "6. Bc4": "The most agressive response.  If 7. ... Bxc3 8. bxc3 white has an isolated pawn but 4 pieces out against one for black and very strong attack possibilities for white on the center.",
+        "6... Nf6 7. O-O Bxc3": "Black goes for a trade",
+        "8. bxc3": "No choice for white.",
+        "8... O-O 9. Qc2": "Protecting e and letting a place for the f rook on the semi open file.",
+        "9... d6": "enabling the LSB to leave his garage.",
+        "10. e5": "White's plan is to launsh a massive attack on the center.",
+        "10... Nxe5 11. Nxe5 dxe5": "A couple of trades...",
+        "12. Ba3 Re8": "No choice for black",
+        "13. Rad1": "White's attack is strong",
+        "13... Bd7": "But black has material advantage and if he manages to defend, white will be on trouble",
+        "14. f4": "White throws all his forces on the center. Black is in serious trouble for white has many possibilities of attack but 14. Qb3 could have been better.",
+        "14... c6": "White didn't see the point of this move.",
+        "15. Qb3": "?? Blunder - The losing move. White carries on attacking : fork attack 16. Bxf7+ or 16. Qxb7.\n 16. Bd6 would have been batter. for if 16. ... b6 17. Nd6 or 16. Kh1.",
+        "15... Qb6+": "Black didn't see it coming ",
+        "16. Qxb6": "No choice.",
+        "16... axb6": "The DSB is under menace, now black has the initiative, is 2 pawns ahead. White is doomed.",
+        "17. fxe5": "Last try to attack ",
+        "17... Rxe5 18. Bxf7+ Kxf7 19. Rxd7+ Kg6": "Black plays carefully, avoiding 19. ... Ke8 19. ... Kg8 19. ... Ke6 which would have permitted white to equilibrate the game.",
+        "20. Rxb7": "From now on it's finished. White tries to obtain a draw.",
+        "20... Rxa3 21. Rxb6 Rxc3 22. h3 Ra5 23. Ra1 Rc2 24. Kh2 Nd5 25. Rb3 Raxa2 26. Rg3+ Kh6 27. Rf1 g6 28. h4 Rcf2 29. Rc1 Rac2 30. Re1 Nf4 31. Kh1 Nxg2 32. h5 g5 33. Re6+ Kxh5 34. Rh6+ Kxh6 35. Rxg2 Rc1+ 36. Kh2 Rxg2+ 37. Kxg2 Kh5 38. Kg3 Re1 39. Kf2 Re8 40. Kg3 c5": "White submits here."
+    },
+    "url": "https://gameknot.com/annotation.pl/center-game-l?gm=50316",
+    "gameName": "center game (L)",
+    "players": "ptitroque (1706) vs. nagy (1657)",
+    "opening": "Centre game, Kieseritsky variation (C21)"
+}

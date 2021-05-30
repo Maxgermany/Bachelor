@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4": "Book so far.",
+        "3... d6": "Unnecessarily blocks in the KB and cramps Black's position. 3... B-B4 is the correct move.",
+        "4. O-O": "Bernstein, quite properly, tucks away his King befor engaging in complications.",
+        "4... Nge7": "Another bad move. 4... N-B3, or even 4... N-R3 to add extra protection to the KBP, would allow 5... B-K2 and 6... O-O, getting the King to a relatively safe spot.",
+        "5. Ng5": "Bernstein takes immediate advantage, pressuring KB7 at once.",
+        "5... f6": "Opening the diagonal fully for the Bishop and ensuring his King will never have a safe haven.",
+        "6. Bf7+": "Forcing the monarch to bestir himself.",
+        "6... Kd7": "The only square.",
+        "7. Qg4+": "Adding force to the attack.",
+        "7... f5": "7... N-B4 isn't any better. Black's position is shattered already, just 7 moves in.",
+        "8. exf5": "Setting up a vicious discovery.",
+        "8... h5": "White could win slowly with 9 BxRP, or quickly with...",
+        "9. f6+": "...this move.",
+        "9... hxg4": "In spite of removing the Q, Black is still mated in 2 moves.",
+        "10. Be6+": "Forcing the King to...",
+        "10... Ke8": "...this square, where...",
+        "11. f7#": "...this Pawn finishes the game with a flourish."
+    },
+    "url": "https://gameknot.com/annotation.pl/simultaneous-exhibition-paris-1932?gm=37772",
+    "gameName": "Simultaneous exhibition, Paris 1932",
+    "players": "Ossip Bernstein  vs. Amateur ",
+    "opening": "King's pawn game (C50)"
+}

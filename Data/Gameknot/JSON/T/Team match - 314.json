@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5": "This is an aggressive move. ",
+        "7. Nb3 Be7 8. Be3 Be6 9. Qd2 Nbd7": "i",
+        "10. O-O-O": "White commits himself. Now the plans of each side is clear.",
+        "10... b5": "Black immediately launches his pawn attack.",
+        "11. f3": "White does, too.",
+        "11... Rc8 12. g4 O-O": "Castling into danger?",
+        "13. h4 Qc7 14. h5": "White throws caution into the wind.",
+        "14... b4 15. Nd5": "This loses material or you could also say they are sacrificed.",
+        "15... Bxd5 16. g5 Nxe4 17. fxe4 Bxe4 18. Bd3": "Forced.",
+        "18... Bxh1": "Black becomes greedy, oblivious of the danger posed by the light-squared bishop. 18. ... Bxd3 was in order.",
+        "19. Rxh1 a5 20. g6 fxg6 21. hxg6 h6 22. Bxh6": "Sacrificing more material. But the Black King has no escape.",
+        "22... Qd8": "To block the Queen with Bg5. 22. ... Rf6 23. Bc4+ Kf8 24. Bxg7+ Ke8 25. Rh8+ Bf8 (25. ... Rf8 26. Bxf8 Bxf8 27. g7) 26. Bxf6 Nxf6 27. g7",
+        "23. Bc4+ Rf7 24. Bxf7+ Kf8 25. Bxg7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=48621",
+    "gameName": "Team match",
+    "players": "gamlet (1681) vs. bclaus (1611)",
+    "opening": "Sicilian (B92), Najdorf, Opovcensky variation"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4": "Off we go",
+        "1... d5 2. Bf4 Nf6 3. Nf3 e6 4. e3 a6": "I guess black is trying to prevent Bb5, and white continues with developing his pieces",
+        "5. Nbd2 c5 6. c3 cxd4 7. exd4 Be7 8. Bd3 Nc6 9. Qc2": "I have reached this position in several games and am very comfortable",
+        "9... O-O 10. O-O b6 11. Ne5 Bb7 12. Ndf3": "The knights are poised to put pressure on the black position",
+        "12... Ne4": "I can win a pawn here",
+        "13. Bxe4 dxe4 14. Qxe4 Qd5": "Black offers an exchange which also restricts the bishop, I think I'll take it",
+        "15. Qxd5 exd5 16. Nd7": "Black resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/55th-gk-tournament?gm=25411",
+    "gameName": "55th GK tournament",
+    "players": "dwardman (1950) vs. nikeso (1718)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

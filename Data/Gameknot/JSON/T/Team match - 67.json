@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Well this game started with an classic opening, e4 which not gave e5 as it use to be",
+        "1... b6 2. d4 Bb7 3. d5 e5": "And the possibility to to capture blacks e-pawn by en\u00b4passant went possible but how next move in that case should become stopped me from doing it",
+        "4. Nf3": "I could also have threated pawn at e5 by Qh5 but thought to save that move to future in this game",
+        "4... d6 5. Bg5 f6 6. Bh4 g5 7. Bg3 Nd7 8. Bb5 a6 9. Bc6 Bxc6 10. dxc6 Nc5 11. Nc3 Ne7 12. O-O Nxc6 13. Nd5 Nxe4 14. Nd2": "Here did I opened for chance to check by Qh5+ ",
+        "14... Nxg3 15. fxg3": "And here does opening for the Rook comes",
+        "15... h5": "But the way to check by Qh5 got stopped by this move",
+        "16. Nxf6+": "And here is the first check in this game",
+        "16... Ke7 17. Qf3 Nd4 18. Nd5+": "And here is the second check, moving Kd7 had probably been the best move for black",
+        "18... Ke6": "But by this move so is check-mate possible",
+        "19. Qf7#": "And here is the game ended in check-mate"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=60887",
+    "gameName": "Team match",
+    "players": "gustert (1544) vs. albertotheman (1346)",
+    "opening": "Guatemala defence (B00)"
+}

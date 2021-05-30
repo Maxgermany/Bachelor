@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Una sconfitta vergognosa, ma anche cos\u00ef\u00bf\u00bd sono gli scacchi. ",
+        "1... d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Nge2 c6 5. d4 Qc7": "Errore. In questo schema d'apertura, in questo caso bisogna ritirare la donna in a5, proprio per evitare o rendere meno efficace la mossa seguente.",
+        "6. Bf4 Qb6": "Altro errore. Di nuovo, \u00ef\u00bf\u00bd da giocare Da5.",
+        "7. Na4 Qa5+ 8. Nec3 Nf6 9. h3 Nd5 10. Bg3 Bf5 11. Bc4": "Se b5 subito, AxC, e se c6xA, Cf6xd5 con minacce e complicazioni. Anche se non lo fa, comunque non vinco il pezzo.",
+        "11... e6 12. O-O": "Cos\u00ef\u00bf\u00bd, la posizione non \u00ef\u00bf\u00bd troppo brutta. Sono indietro con lo sviluppo, ma questo \u00ef\u00bf\u00bd normale, e non mortale, se giocata bene. Adesso, per\u00ef\u00bf\u00bd, s\u00ef\u00bf\u00bd che \"cedo alla tentazione\" e faccio b4. ",
+        "12... b5 13. Bxd5 cxd5 14. Nc5 b4": "Volevo ottenere di pi\u00ef\u00bf\u00bd dalla posizione, ma lei (?) ha giocato a rischio, sfruttando il suo maggiore sviluppo dei pezzi. ",
+        "15. Nxd5": "Qui era meglio AxC, ho sottovalutato il pericolo. Forse. Non so se c'era modo di salvarsi e guadagnare il pezzo, giurerei di s\u00ef\u00bf\u00bd, ma non sono abbastanza abile da giurarlo. ",
+        "15... exd5 16. Re1+ Be7 17. Nb7 Qb6 18. Nd6+ Kd7 19. Nxf7 Rf8 20. Ne5+ Kd8": "Non mi negherete che la posizione \u00ef\u00bf\u00bd interessante e complicata. Se sopravvivo, ho un pezzo in pi\u00ef\u00bf\u00bd per due pedoni. Se sopravvivo, per\u00ef\u00bf\u00bd. Qui, le analisi sono diventate cos\u00ef\u00bf\u00bd complicate e ricche di varianti e trappole nascoste, che, confesso, mi sono perso. ",
+        "21. Rc1 Nc6 22. c4 Nxd4": "Sembra strana, ma se CxC, Dxd5 . E se d5xc4, una marea di possibilit\u00ef\u00bf\u00bd, ma mi \u00ef\u00bf\u00bd sembrato probabile che il pedone bianco insieme alla colonna c gli desse troppo vantaggo. ",
+        "23. cxd5": "L'idea \u00ef\u00bf\u00bd che il suo stesso pedone copre la colonna, quindi mi protegge un po'. Adesso, la tentazione era Ad6, ma allora Tc6 mi metteva in serie difficolt\u00ef\u00bf\u00bd. D'altra parte, non scordiamoci che io ho sempre \"sotto mira\" f2... ho pensato anche a Ac5, forse era migliore!",
+        "23... Bf6 24. Ng4 Rc8": "Cercando di scambiare pezzi per alleggerire la situazione. Tentativo un po' disperato, non sono stato capace di ragionare bene.",
+        "25. Rc6": "Se CxT, d5xc6 , naturalmente. TxT, d5xc6 forse era l'unica. Ma dopo non potevo prendere c6 perch\u00ef\u00bf\u00bd Cxf6 e perdo il cavallo centrale. Allora ho avuto la \"brillante\" idea di cambiare l'alfiere bianco per quel cavallo cattivo cattivo... ",
+        "25... Bxg4 26. Qxg4 Nxc6 27. dxc6 Rxc6": "Beh, ho una torre netta di vantaggio. Complimenti alla signora, che si \u00ef\u00bf\u00bd cacciata in una posizione cos\u00ef\u00bf\u00bd! Ma questo \u00ef\u00bf\u00bd stato il mio errore definitivo. Il fatto \u00ef\u00bf\u00bd che non avevo visto la combinazione successiva. Se avessi mangiato di donna, non avrebbe potuto farla, e forse avrei vinto!",
+        "28. Rd1+ Bd4": "Unica per evitare il matto subito, fornendo una via d'uscita al mio re via f6. Soluzione comunque fasulla.",
+        "29. Rxd4+ Ke7 30. Qd7+ Kf6 31. Rf4+ Kg6 32. Rxf8 Qc5 33. Qg4+ Qg5 34. Qe4+": "Un'imprudenza fatale qualche mossa fa. Come si sar\u00ef\u00bf\u00bd rallegrata :-(((("
+    },
+    "url": "https://gameknot.com/annotation.pl/scand-5-d4-badly-handled?gm=20226",
+    "gameName": "Scand, 5.d4, badly handled",
+    "players": "itsabehemoth (1567) vs. damalfi (1661)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

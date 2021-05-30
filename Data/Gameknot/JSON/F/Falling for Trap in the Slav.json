@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nc3 e6 4. e4": "!? White is trying to get a quick attack going.",
+        "4... dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4": "?! It is very risky to take the pawn, since White gets a ferocious attack.",
+        "7. Bxb4 Qxe4+ 8. Be2 Nf6": "?? A fatal blunder, but Black is under tremendous pressure.",
+        "9. Qd6": "! The mate threat is crippling. ",
+        "9... Ng8": "? A forced mate follows, but even after the better ...Nd5 White wins the N and retains a strong attack.",
+        "10. Qf8+ Kd7 11. O-O-O+ Kc7 12. Qd8#": "A useful line to know."
+    },
+    "url": "https://gameknot.com/annotation.pl/falling-for-trap-in-the-slav?gm=29118",
+    "gameName": "Falling for Trap in the Slav",
+    "players": "dmaestro (1546) vs. NN (1225)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 a6 3. f4": "Vienna Gambit",
+        "3... g6": "An odd move; I'm not sure what the intent was.  Perhaps trying to prevent 4. f5?",
+        "4. fxe5": "No matter, I'll take the free pawn.",
+        "4... Bb4 5. Nf3": "Continuing my development and protecting my investment at e5.",
+        "5... Nc6 6. Bc4 d6 7. exd6 Bxd6": "Was this simply to avoid creating an isolated pawn with 7. ... cxd6?  Seems a poor choice that wastes time.",
+        "8. d4": "I'm already eyeing the bishop sacrifice, but I need to finish my development by letting my dark bishop out to give support to my king's knight.",
+        "8... Bb4 9. Bxf7+": "The surplus material obtained earlier lessens the effect of the sacrifice of material now, but it would not have mattered even without it.  The black king is completely denuded of pawns or protection of any kind.\n\nThis is essentially the beginning of the end for black since I pretty much \"drive the bus\" from this point.  White has control of the center, superior development, and greater space (+3 P.C.).  Black has the half-open d file, an entire series of pawn holes (weak-square complex), a compromised king side, and his king is now held in the middle (-2 P.C.) putting White around 5 points ahead (despite what the computer analysis says).  Even counting the material (which is difficult in sacrifice scenarios--I'm about to be down a pawn), White is ahead by around 2 points.",
+        "9... Kxf7 10. Ng5+ Ke7 11. d5": "It would've been interesting to see what would've happened with 12. dxc6 Qxd1 13. Kxd1.",
+        "11... Ne5 12. Ne6": "The computer analysis called this a blunder.  This makes no sense to me.  Neither does the computer's continuation after this move.  I've occupied an advanced outpost (+1 P.C.) that threatens the black queen.  In general, I'm keeping the pressure on and continuing to force black's hand.",
+        "12... Bxe6 13. Bg5+": "Zwischenzug",
+        "13... Nf6 14. Bxf6+ Kxf6 15. O-O+": "Takes control of the open f file (+1 P.C.), breaks the pin on the white knight, and moves the white king to safety while checking the black king.",
+        "15... Bf5": "Another odd choice, but granted--black is running out of good choices.",
+        "16. Qd4": "Already eyeing Qf2, but first pins the black knight in preparation for g4.  At this point, I'd not noticed the combination that would ultimately occur, so these next several moves could likely have been omitted.",
+        "16... c5 17. Qf2 Qd7 18. g4 Nxg4 19. Qh4+ g5": "Blunder.  Black's light bishop is pinned--time to cash in my chips.",
+        "20. Qxg4 h5 21. Rxf5+ Ke7 22. Qxg5+ Ke8 23. Re5+ Kf8 24. Rf1+ Qf7 25. Qe7+ Kg7 26. Qxf7+ Kh6 27. Rf6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=38777",
+    "gameName": "Let's play chess",
+    "players": "alng (1337) vs. zalgiris (1411)",
+    "opening": "Vienna game (C25)"
+}

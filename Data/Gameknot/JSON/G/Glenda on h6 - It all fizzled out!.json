@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\r\n\r\nThis game is against another buddy of mine, Warren.  We are participating in the King's Indian Defense 4 pawns attack mini-tournament.  In some ways for the white player, it is like facing a Sicilian Dragon except that white usually castles short here.  I did castle long in my 4 pawns attack game against Master Freddy but sadly I lost that game.  I will take the action on to move 6 which is the first of the non-forced moves.",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3": "6. Nf3 - the most popular choice in the World DB and it does support the d4 pawn.",
+        "6... c6 7. Be2 Nbd7 8. e5 Ne8 9. O-O": "9. 0-0 - here I castle short.",
+        "9... Nc7 10. Be3 f6 11. exd6 exd6": "11. ...... exd6 - pawn trade.",
+        "12. Qc1": "12. Qc1 - Glenda is preparing for an eventual advance to h6, but that will be a few moves away yet.",
+        "12... d5 13. b3": "13. b3 - supporting the c4 pawn.",
+        "13... Nb6 14. Bd3 Ne6 15. c5": "15. c5 - trying to put a crimp on Warren's position.",
+        "15... Nd7 16. f5 gxf5 17. Bxf5 Qe8": "17. ...... Qe8 - supporting the e6 knight.",
+        "18. Bh6 Rf7 19. Bxg7 Rxg7": "19. ....... Rxg7 - this rook is gonna be a right pain.  It covers Warren's exposed king and puts an end to my mating attack.",
+        "20. Re1 Ndf8 21. Qh6 Qf7": "21. ..... Qf7 - after Glenda's incursion on h6, the Wicked Witch of the West defends the f6 pawn.",
+        "22. Bxe6 Bxe6": "22. ....... Bxe6 - bishop for knight trade.",
+        "23. Qe3 Bd7 24. Qf2 Bh3": "24. ....... Bh3 - attacking the pinned g2 pawn and forcing it to advance to g3.  Thank god my rook wasn't on f1 at the time!",
+        "25. g3 Ne6 26. Qd2 Bg4 27. Ref1 Re8 28. Nh4": "28. Nh4 - over the last few moves I have been drifting.  I now try and bolster my defense with this move.  With the absence of the g pawn my knight cannot be assailed by an enemy pawn.",
+        "28... Ng5 29. Rae1 Rxe1 30. Qxe1": "30. Qxe1 - rook trade.",
+        "30... Qe6 31. Qxe6+ Nxe6": "31. ...... Nxe6! - queen trade.  This move is stronger than Bxe6 because my pawn on d4 cannot be defended.  The only way to avoid dropping a pawn is to play Rxf6 which I do.  the positional imbalance looks very much in Warren's favour I fear.",
+        "32. Rxf6 Nxd4 33. Kf2": "33. Kf2 - Henry gets into position for the endgame.",
+        "33... Rf7 34. Rxf7 Kxf7": "34. ..... Kxf7 - rook trade.",
+        "35. Ng2 b6 36. cxb6 axb6": "36. ...... axb6 - this keeps the 3-2 majority on the queenside.  I am really concerned about the black passer on d5.  I still feel that I can defend here though so I do refrain from waving the white flag!",
+        "37. Ke3": "37. Ke3 - Henry tries to become active but unfortunately Warren's steed and the passer on d5 have other ideas.",
+        "37... Ne6 38. Ne2 c5 39. Nef4 d4+": "39. ..... d4+ - that black passer advances.",
+        "40. Kd2 Ng5 41. Ne1": "41. Ne1 - this move is necessary to prevent a decisive check by Warren's knight on f3.",
+        "41... Ne4+ 42. Kc1": "42. Kc1 - Henry retreats to c1.  Apart from my knight on f4, Henry and the other knight look really passive.  Will my defense hold?  I decided to hold out the olive branch here and Warren kindly took it.  Thankfully Warren's rating was 1695 when he accepted the draw offer and it only set me back by 2.3 rating points.  After he got his well earned High Draw against me his rating advanced to 1724!  I did tell Warren that I am bracing myself for a very tough return match in this mini-tourney.  I hope you have had a good read.  Bye for now - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/glenda-on-h6-it-all-fizzled-out?gm=29829",
+    "gameName": "Glenda on h6 - It all fizzled out!",
+    "players": "jstevens1 (1776) vs. oldgus (1720)",
+    "opening": "King's Indian (E76), Four pawns attack, dynamic line"
+}

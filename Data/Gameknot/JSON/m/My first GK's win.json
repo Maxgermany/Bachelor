@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc4": "Rare move: it's usual 7.f4",
+        "7... b5 8. Bb3 Bb7": "8. ... Be7? is losing cause of 9.Bxe6! fxe6 10.Nxe6 Qd7 11.Nxg7+, and for the piece White has three PP and the unsafe position of Black King",
+        "9. O-O h6 10. Bxf6 Qxf6 11. Qg4": "\"??\": d4-Knight is not defended. ",
+        "11... Qxd4 12. Rad1 Qf6 13. Rxd6": "\"??\": maybe White was thinking to a Pawn fork ...",
+        "13... Bxd6 14. Qh5": "14.f4 (threatening to enable the fork with e5) doesn't work cause of 14. ... Nc6!, and if 15.e5 Nxe5! 16.fxe5 Bc5+ mating",
+        "14... Nc6 15. Rd1 Rd8 16. Nxb5": "Desperate try to survive by tactics",
+        "16... axb5 17. Qxb5 Bxh2+": "\"!\": d1-Rook is not defended",
+        "18. Kxh2 Qf4+ 19. g3": "After 19.Kg1 Rxd1+ White has to lose the Queen",
+        "19... Qxf2+ 20. Kh3 Rxd1 21. Qxb7 Rh1+ 22. Kg4 Ne5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/my-first-gks-win?gm=23686",
+    "gameName": "My first GK's win",
+    "players": "olsson (1211) vs. tsunkatse (1200)",
+    "opening": "Sicilian (B95), Najdorf, 6...e6"
+}

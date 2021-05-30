@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nc3 d5 2. d4 Nf6 3. Nf3 Bf5 4. e3 e6 5. Bd3 c6 6. Bd2 Nbd7": "I try to complete the development of my pieces, even if the Bishop capture in f5 could bring me some problem. ",
+        "7. Bxf5 exf5 8. O-O Bd6 9. Nh4 g6": "Well, I must defend the pawn in f5 even if to do it i must move the pawn ahead the castle.",
+        "10. Nf3 O-O 11. a3 a5": "This move is a try to push forward the Queen-side pawns. ",
+        "12. Qb1 Re8": "I prepare the conquest of \"e\" column.",
+        "13. Qa2 a4 14. Ne2 Nb6": "Now, both two Black Knights are ready to invade the White field.",
+        "15. Rfd1 Ne4 16. b3 Qe7": "I try to threat the pawn in a3, after the exchage in b3.",
+        "17. Qb2 Ra6 18. Bc1 Rea8 19. b4 Nc4": "The attack on a3 pawn forced White to push forward b3 pawn, and allow me to put the second Knight in the middle of chessboard, attacking White pieces.",
+        "20. Qa2 Qf8": "Next stop for Black Queen will be h6, and threat the attack on h2.",
+        "21. Rd3 Qh6 22. Rb1 b5": "Now the Queen-side pawns are all right. White can start the attack against the White King.",
+        "23. Ng3 Re8 24. Bb2 f6": "Prevents the coming of White Knight in e5.",
+        "25. Re1 Ra7 26. Rdd1 Rae7 27. c3 Ng5 28. Nxg5 fxg5 29. Nf1 f4 30. Bc1 g4 31. Qb1 Qh5": "Black need to take its Queen off the diagonal c1-h6 threatened by the White Bishop",
+        "32. Qa2 f3": "And now White can't push g2-g3 because Qh3 threats a mate which White can't avoid. ",
+        "33. Qc2 Re7e4": "Black must absolutely prevent e3-e4, because this move could block both two Black Rocks. ",
+        "34. Kh1 Qh4": "I thought that g4-g3 would have been the definitive move, after Qh4, but....",
+        "35. Kg1 g5": "Now I must bring the Re8 on the \"h\" column threating the mate in h2. ",
+        "36. Ng3 Re8e6 37. h3 fxg2": "The last attack has started!",
+        "38. Qe2 Qxh3 39. f4 gxf3 e.p.": "Another pawn thrown in the first line.",
+        "40. Qxf3 Rg4": "Should the capture of the g3 Knight end the game? ",
+        "41. Qxg2 Rxg3": "The Knight has fallen and the White Queen pinned on its King made me sure that the end was near.",
+        "42. Re2": "The last desperate try to save the game, but...",
+        "42... Rh6": "And the threat of the attack in h1 make Black to remis: 0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-dutch47?gm=28370",
+    "gameName": "Challenge from dutch47",
+    "players": "dutch47 (1845) vs. andreabax (1990)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

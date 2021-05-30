@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "This one is my favorite game.",
+        "1... e5 2. Nf3 d5 3. exd5 Qxd5 4. Nc3": "my basic opening.",
+        "4... Qe6 5. d4 e4 6. Ne5 Bb4 7. Bc4 Qf5 8. Nxf7": "Oppps.",
+        "8... Be6 9. Bxe6 Bxc3+ 10. bxc3 Qxe6": "revenge for my mistake. But now I am down a rook.",
+        "11. Nxh8 Ne7 12. O-O Nbc6 13. Re1 O-O-O 14. f3": "a pawn for a knight OK.",
+        "14... Rxh8 15. Rxe4 Qf7 16. Ba3": "Now it turns serious.",
+        "16... Nd5 17. Qd3 Nf6": "At this time I am trying to cut down some of his power pieces.",
+        "18. Re2 Nd5 19. Re4 Nf6 20. Ree1 Rd8 21. Rab1 Qxa2 22. Qf5+ Nd7 23. Rb3 g6 24. Qb5 Nb6 25. Bb2 Qa5": "Time for a trade. I still have my favorite pieces knights.",
+        "26. Qxa5 Nxa5 27. Rb5 Nac4 28. Bc1 Rd5 29. Rxd5": "Now it is two knights vs. a rook and a bishop.",
+        "29... Nxd5 30. Re8+ Kd7 31. Rh8 h5 32. Rg8 Nxc3 33. Kf2 Nb5 34. Ke2 Ncd6 35. Kd3 Nf5 36. c3 Ne7 37. Rg7": "At this time it is survival. And thoughts of resigning.",
+        "37... Nd6 38. Bg5 Ndc8 39. Rh7 b6 40. c4 c6 41. h3": "Now I am thinking of promoting a pawn. ",
+        "41... a5 42. Kc3 b5 43. cxb5 cxb5 44. Rg7 Ke6 45. g4 Nd5+": "Now down to business. I now think I can pull this off.",
+        "46. Kb3 a4+ 47. Ka3 Ncb6 48. Rxg6+ Kf7 49. gxh5 Nc4+ 50. Ka2": "It is a matter of time now.",
+        "50... b4 51. Rc6 b3+ 52. Ka1 b2+ 53. Kb1 Nc3+ 54. Kc2 b1=Q+ 55. Kxc3 Qb3#": "After all said a done we both made major mistakes. But if my opponent have not stalled on some of his moves this would have been a loss for me."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=9123",
+    "gameName": "Team match",
+    "players": "veigar (1630) vs. eqj2 (1649)",
+    "opening": "QP counter-gambit (C40), Maroczy gambit"
+}

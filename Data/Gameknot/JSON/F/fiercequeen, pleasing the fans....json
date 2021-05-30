@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Bc5 3. Bc4 d6 4. O-O h6": "already, an exotic approach for Black...",
+        "5. c3 a5": "what?",
+        "6. d4 Bb6 7. b4 axb4 8. cxb4 g5 9. dxe5 g4 10. Bxf7+": "why not?",
+        "10... Kf8": "???",
+        "11. Bxg8 Kxg8 12. exd6 cxd6 13. Bb2 Rh7 14. Qd5+ Rf7 15. Ne5 Be6 16. Qb5 dxe5 17. Bxe5 h5": "the smoke is clearing...",
+        "18. Qe2 Nc6 19. Rd1 Qh4 20. Bg3": "convenient...",
+        "20... Qg5 21. Nc3 Nd4 22. Qe3 Qxe3 23. fxe3 Nf5": "the wrong plan...",
+        "24. exf5 Bxf5 25. Nd5 Bd8 26. a4 Be4 27. Nf4 h4 28. Be1 g3 29. h3 Bc7 30. Rd4": "finally, Whites' position is opening up...",
+        "30... Bc6 31. b5 Bxg2": "desperation...",
+        "32. Kxg2 Bxf4": "really?",
+        "33. exf4 b6 34. Rad1 Kg7 35. Bc3": "asking for it...",
+        "35... Kg6 36. Rd4d6+ Kf5 37. Be5 Rxa4 38. Rxb6 Ra2+ 39. Kg1 Rh2 40. Rh6 Rxh3 41. Rdd6": "Black has no threats: but White does...",
+        "41... Ke4 42. b6 Kf3 43. Rd3+ Kg4 44. Rg6+ Kf5 45. Rg5+ Ke4 46. Rd4+ Kf3 47. f5": "time to break out...",
+        "47... Rb7 48. Rf4+": "and separate the Black King, from the pack...",
+        "48... Ke3 49. Bc7 Ke2 50. f6 g2": "Black has nothing: and commits suicide...",
+        "51. Rxg2+ Ke1 52. f7": "this is convincing enough: Black resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fiercequeen-pleasing-the-fans?gm=65207",
+    "gameName": "fiercequeen, pleasing the fans...",
+    "players": "fiercequeen (2059) vs. ofyles2 (UR)",
+    "opening": "King's knight opening (C40)"
+}

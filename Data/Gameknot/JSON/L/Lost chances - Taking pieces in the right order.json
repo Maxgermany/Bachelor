@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5": "Standard opening",
+        "2. Nf3 Nc6 3. a3": "Here I opted for some safety on the knights and went of the accepted openings",
+        "3... d6 4. Nc3 Be6 5. g3": "Prepping the Fianchetto",
+        "5... h6 6. Bg2 Nf6 7. O-O a6 8. d4": "I decided to open up the middle - with unexpected outcome",
+        "8... Nxd4 9. Nxd4": "exchange accepted",
+        "9... Bc4": "Did not calculate this",
+        "10. Re1 exd4": "expected",
+        "11. Qxd4": "planned",
+        "11... b5": "possibly not the best move, better might have been Be6",
+        "12. e5": "The planned and long awaited discovery with double attack",
+        "12... Nd7": "I did not really calculate and my next move was a blunder - which worked out.....",
+        "13. Bxa8": "This goes to show how taking in the incorrect order weakens your attack. Some times by changing the order of exchanging pieces can be the difference.  After moving I saw the more forcing serious of moves:\r\n13.\texd6+\tBe7 (Qe7 would lose a queen for a pawn)\r\n14.\tdxe7\tQc8 (Could also play Qb8 without any change in the position)\r\n15.\tBxa8\tQxa8 (His king is paralyzed in the centre and can not move)\r\n16.\tQxg7\t         (The rook is indefensible and as no choice but to open up the back rank by playing f6 or f5 or move the Knight - this would loose the rook and queen)\r\n\r\nYou will also note that Nf8 only delays the inevitable - Qxh8, Kd7 - could lead to many variations Qxf8 - Qxf8 exf8=Q leaving me up a queen and knight for the exchange - or exf8=Q leaving me with 2 queens on the back rank.\r\n\r\nWhite is totally dominating the board with this semi forced moves\r\n\r\nNot accepting the Queen exchange would lead to e8+Q en possible mate if he moved of the back rank",
+        "13... Qxa8": "It played out as follows:\r\n\r\nSame moves with different ending",
+        "14. exd6+": "Already there is no forced Be7",
+        "14... Kd8 15. dxc7+": "Keeping up to develop with Tempo",
+        "15... Kxc7 16. Bf4+": "Bringing another piece into the attack",
+        "16... Kd8 17. Rad1": "pouring it on - note due to no forced Be7, I can not play Qxg7 and the king is not paralyzed......  ",
+        "17... Be6 18. Rxe6": "Did you see it? He cannot take the Rook due to Qxd7#  here the attack becomes unstoppable due to him not being able to defend  with anything but his queen.",
+        "18... Qb7": "What next?  I contemplated this a while, Rxa6 wins another pawn, but there was a more poetic and forcing move for me?\r\n\r\nI tried to correct my earlier slip with this",
+        "19. Rb6": "Here my opponent resigned with good reason:  This would lead to Qa7 or Qc8, only way to keep defending the mate.\r\n\r\nQa7 would lead to Rb8+ if Ke7 then Qxa7 wins a queen outright, if Qc8 the sacrifice of Rb8 forces the queen either to take and leave the defence of the mate square d7 or the king to move away which loses the queen.\r\n\r\nGranted my opponent was weaker and made some weaker moves, but I wanted to illustrate the power of finding the correct order of taking pieces.\r\n\r\nIn the end the result was the same, but the extra moves and effort to calculate was more as the correct line of play would be semi forced....\r\n\r\nAny comments, especially on what Black could have done different?"
+    },
+    "url": "https://gameknot.com/annotation.pl/lost-chances-taking-pieces-in-the-right-order?gm=44809",
+    "gameName": "Lost chances - Taking pieces in the right order",
+    "players": "nieh (1325) vs. rivraf (1234)",
+    "opening": "King's pawn game (C44)"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 d6 2. Nf3 Nd7": "Computer recommends 2..g6 leading to a likely King's Indian.  But this choice looked fine to me, because it was mainly a lesser used \"Old Indian\" formation.  It forced me to consider choices other than the analyzed-to-death King's Indian.",
+        "3. c4 c6 4. Nc3 Ngf6 5. Qc2 e5": "This is a good basic counter, especially when supported by the later ...Qc7.  It forces white to time the coming center pawn exchange exactly.",
+        "6. Bg5 Be7 7. Rd1 Qc7 8. e3 O-O 9. Bd3 Re8 10. O-O Nf8": "Freeing the Queen's bishop and fortifying the King-side pawns.",
+        "11. h3 Ne6": "But here I expected 11...Ng6 and then I would play either 12. Nh4 (following Del Solar-Jimenez Rojas, Santiago 1951) or 12. a3 (following Sasikiran-Gukasian, Canarias en Red prel. 3rd, from 2004), each with a slight positional edge. But this choice by Black looks like an invitation to pick off the h-pawn, which I accept.",
+        "12. Bxf6 Bxf6 13. Bxh7+ Kh8 14. dxe5 dxe5 15. Ne4": "My King's bishop is still safe, because 15...Kxh7? leads to a quick mate starting with 16. Nxf6+.",
+        "15... Be7 16. c5 g6": "Black finally traps the bishop, but at the cost of a fractured King-side and exposed king.  If instead 16...Nxc5, then 17. Nxc5 Bxc5 18. Ng5, threatening 19. Bg8 and 20. Qh7+.",
+        "17. Nd6 Bxd6": "Computer rates this move as a mistake, and recommends 17...Rd8 18. Bxg6 fxg6 19. Qxg6 Bxd6 20. Rxd6 Qg7 21. Qh5+ Kg8 22. Nxe5 Rxd6 23. cxd6 Bd7 24. Re1 Nc5 25. Nxd7 Nxd7 with a guarantee of trouble from that passed d-pawn.  If he had played instead 17...Kxh7, I was planning 18. Nxe5 Bxd6 19. cxd6 Qa5 20. d7 Bxd7 21. Nxd7.",
+        "18. cxd6 Qd8 19. Bxg6 fxg6 20. Nxe5 Qf6 21. Nxg6+ Kg7 22. d7 Bxd7": "It was better to try 22...Rd8 in order to oppose the White rook infiltration into Black's second rank. ",
+        "23. Rxd7+ Kg8 24. Rfd1 Rad8 25. Ne5": "Another knight move, this time to deflect the Black queen from its vital role in defending the second rank.",
+        "25... Rxd7 26. Rxd7 Re7": "If instead 26...Qxe5, then 27. Qh7+ ends it quickly.",
+        "27. Rxe7": "I should probably have played 27. Ng4 to get the knight into a better attack mode.",
+        "27... Qxe7 28. Qg6+ Kf8 29. Ng4 Qf7": "It is better for Black to keep the queens on the board, since the queen trade introduces a knight and pawn ending that heavily favors White.  However, I see no particular improvement Black can make here.",
+        "30. Qxf7+ Kxf7 31. f4": "Starting a massive King-side pawn storm.  For anyone who belittles the power of the pawn, this ending can be educational.  ",
+        "31... Nc5 32. Ne5+": "The e5 square is an excellent base for the White knight, because it can now support the pawn roller as it moves into the King-side corner.",
+        "32... Ke6 33. g4 Ne4": "There are few choices for the Black knight.  It can only wait.  Any foray it makes into White's Queen-side leaves the Black king with no defense.",
+        "34. h4 Kf6 35. Kg2 Nd6 36. h5 Ne4": "The only choice here for Black is 36...Kg7, to slow the advancing h-pawn and look for a chance to blockade the pawn roller.  But these four connected passed pawns are a terror for Black in this game. ",
+        "37. h6 Nd6 38. g5+": "Forcing the black king away from the square of the h-pawn.  Now nothing can stop its advance.",
+        "38... Ke7 39. h7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-mighty-pawn?gm=58109",
+    "gameName": "The Mighty Pawn",
+    "players": "huckjim (1878) vs. lcampop (1783)",
+    "opening": "Old Indian (A41), Tartakower (Wade) variation"
+}

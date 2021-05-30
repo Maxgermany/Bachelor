@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Pure Scotch !!",
+        "1... e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 Bb4+ 7. Nc3 Nf6 8. Qc2 O-O 9. O-O d6 10. Nd5 Nxd5 11. exd5 Ne7 12. Bxg7": "Pure !!",
+        "12... Kxg7 13. Qb2+ f6 14. Qxb4 Bg4 15. Nd4 c5 16. dxc6 e.p. bxc6 17. Rfe1 Ng6": "Buena jugada. si no mueve el caballo entonces Db7 !!",
+        "18. Qb7+ Qd7 19. Qxd7+ Bxd7 20. Be6 Rfd8 21. Rad1 Nf8": "reguero de piezas en combinacion para obtener un peon de ventaja de los debiles que me pertenecen",
+        "22. Nf5+ Kg6 23. Ne7+": "hermosa maniobra del caballo",
+        "23... Kh6 24. Bxd7 Rxd7 25. Nxc6 Rc8": "??",
+        "26. Ne7": "puede perder otro peon tras esa jugada mala",
+        "26... Rc2 27. a4 Rb7 28. Nf5+ Kg6 29. g4": "Previniendo un mate y apoyando el caballo en f5",
+        "29... Rbb2": "Muy mala !! Nunca debe savar su torre de la segunda linea para venir a querer hacerme presion sin pensar en la jugada planificada de mate",
+        "30. Re7 Ne6": "Unica jugada para evitar Tg7 y mate en 4 jugadas mas",
+        "31. Rd5": "Me importa el rey adversario amenanzando mate en 2 jugadas. Ch4 y Th5++"
+    },
+    "url": "https://gameknot.com/annotation.pl/scotch-opening-1?gm=30039",
+    "gameName": "Scotch Opening 1",
+    "players": "rromeroh (1677) vs. hansbro (1739)",
+    "opening": "Scotch (C44), Sea-cadet mate"
+}

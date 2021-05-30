@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "Annotated for pirate_chef_troy.",
+        "1... Nc6 2. d4 a6 3. d5 Ne5 4. h3": "Passive. there's no reason to play this move here - the black knight won't come to g4 because the queen  covers it. You should make your plans for future moves, not put your opponents possibilities as priority in your mind. I assume you worried of the potential d6, with Bg4? Not sure. Either way, developing with Nc3, or taking control of the center with f4, would be better here.",
+        "4... d6 5. Bf4": "It's good that you developed, but this is not a very productive developing move. Again, i think taking control of the e5 square with 5. f4 would be best, second and third being Nf3 or Nc3. ",
+        "5... b5 6. Be2": "Again, probably not the best developing move. What's the purpose of the bishop going to be? Ask yourselves these questions before moving. Strong was 6. a4! noticing the weak light squared pawns that your opponent has created and attacking them. Also good was 6. Nf3! when after .. Ng6 7. Be3, or 6.. Nxf3 Qxf3 leaves you with much, much better development and center control.",
+        "6... e6 7. Nf3 Ng6 8. Bg5": "Better was Be3 here. Why trade your developed bishop for his undeveloped bishop on f8 in this position? Make him move it himself, rather than trading off. ",
+        "8... Be7 9. Bxe7 Ng8xe7 10. O-O O-O 11. Nbd2": "You're hanging a pawn after 11.. exd5 12. exd5 Nxd5",
+        "11... c5 12. a3": "Still hanging that pawn silly! dxc6 e.p. would save it.",
+        "12... e5 13. c4": "Good move. Keeping a grip on your center and preventing his queenside pawns from marching. ",
+        "13... f5 14. Bd3": "Better was cxb5.. taking the 'free' pawn, now Nf4 is dangerous.",
+        "14... Nf4 15. Bc2 bxc4 16. Nxc4 Neg6 17. g3": "Yikes! think carefully before moving, lest you hang crucial kingside pawns! ",
+        "17... Nxh3+ 18. Kg2 f4 19. Rh1": "Oh god! This isn't easy to calculate, but analyze what would happen if your opponent played the accurate 19.. Bg4! 20. Rxh3 fxg3! (threatening Bxf3+ winning queen) 21. Rxg3 Bxf3+ 22. Rxf3 Nh4+! winning for white. ",
+        "19... Nh4+ 20. Nxh4 f3+ 21. Kf1": "Now you're winning in material! ",
+        "21... Ng5 22. Nf5 Bxf5 23. exf5 h6 24. g4": "You should have taken this chance to win the pesky f3 pawn with 24.. Nd2. ",
+        "24... a5 25. Nd2": "It works here too, though! =)",
+        "25... Nh7 26. Qxf3 Ng5 27. Qe2 Qd7 28. Kg2 Qb7 29. b3 Qxd5+ 30. f3 Rae8 31. Ne4": "good move! ",
+        "31... Nh7 32. Rad1": "Another good move!",
+        "32... Qa8 33. Nxd6 Re7 34. Rdg1": "Ack, why play this move? g4 - g5 will never happen with the knight on h7, a much better move/plan was 34. Qc4 + with Qxc5, invading via the helpless open queenside.",
+        "34... Rf6 35. Ne4 Rc6 36. Nxc5": "Silly you, hanging a piece. ",
+        "36... Rxc5 37. Rgd1": "Good move.. even though you moved it to g1 earlier, you realized your mistake and moved it back. Good chess players aren't afraid to do this :)",
+        "37... Nf6 38. Be4 Nd5 39. Bxd5+": "Oops! You had a cool tactic - 39. Rxd5! Rxd5 40. Qc4! Rd7 41. Rd1! will win you a full rook here",
+        "39... Rxd5 40. Rxd5 Qxd5 41. Qc4 Rd7 42. Rf1": "A bit purposeless - rooks belong on open files! ",
+        "42... Kf7 43. Rc1": "Better place =)",
+        "43... Kf6 44. Kg3 Qd2 45. Qe6+ Kg5 46. Qg6#": "Neat finish! "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=28205",
+    "gameName": "Team match",
+    "players": "pirate_chef_troy (1172) vs. gt4steve (1054)",
+    "opening": "KP (B00), Nimzovich defence"
+}

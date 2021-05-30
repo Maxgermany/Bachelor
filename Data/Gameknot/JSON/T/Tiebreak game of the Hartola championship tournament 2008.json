@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 c6 4. Nf3 h6 5. e3 b6 6. Be2 Be7 7. d5": "I wanted to make this move earlier, but felt that I should develop properly instead. Now that the opportunity remained, I took it. I don't know whether this is strong, though.",
+        "7... cxd5 8. cxd5 exd5 9. Nxd5 Bb7 10. Bc4 b5 11. Bb3 a5": "I have had troubles with the pawnstorms on the queenside in previous games with him. Overall our games (where I'm white) tend to be the same: I get the initiative have a good play on the centre and kingside, but his pawns on the queenside give me troubles towards the end. I pressure him hard, but use too much time thinking and end in a time trouble, where I blunder and lose the game. This game follows the pattern to some extent.",
+        "12. a3 a4 13. Ba2 O-O 14. O-O Ra6": "A weird move. I think natural Nc6 or maybe taking to d5 was expected. Of course now black threatens Re6, after 15.Ne5 Re6 16.Nxf6  Rxf6 -/  (maybe)",
+        "15. Ne5 d6": "Another weird move. Blocks the dark bishop and the a-rook, which now look rather silly in a6.",
+        "16. Nf3 Re8 17. b4 Nbd7 18. Nxe7+": "!? I think now my dark bishop has good prospects to aim at black's king but of course it is a dubious idea to exchange a strong knight to a passive bishop, but I feared it would come to a1-h8 diagonal and challenge my bishop.",
+        "18... Qxe7 19. Bb2 Qe4 20. Qd4 Ne5": "Here Qg6 would've been very strong I think. Now I have chance to liquidate.",
+        "21. Qxe4 Bxe4 22. Nxe5 dxe5": "Black get's rid of his weakness on d6 but I did't like black's ideas to come c4 with his knight, plus I get my rooks quicker to open lines than he does.",
+        "23. Rfd1 Bf5 24. Rac1 Be6": "Very good. Now I must give up the bishop pair or retreat.",
+        "25. Bb1 Bc4 26. Rd2 Kf8 27. Rcd1 Bb3 28. Rd2d6 Rxd6 29. Rxd6 Bc4 30. f3 Nd5 31. Kf2 f6 32. Bf5 Ne7 33. Be4 Rc8 34. f4 f5 35. Bb1 e4 36. Bd4 Kf7": "I think 36.- Ba2!! would have been very strong. 36.- Ba2 37.Bxa2 Rc2  But I haven't analysed this game at all other than during the game, so I don't really know.",
+        "37. g4": "This was stupid objectively. Black still has Ba2!",
+        "37... Rc6 38. Rxc6 Nxc6 39. gxf5": "Now things look much better.",
+        "39... Bd3": "A blunder, Bd5 would be safer.",
+        "40. Ba2+ Bc4 41. Bxc4+ bxc4 42. b5 Na5 43. Bc3 Nb7 44. Ke2 g6 45. fxg6+ Kxg6 46. Bb4 Kf6 47. Kd2 Ke6 48. Kc3 Kd5 49. f5": "I think h3 would have been better and more straighforward way to win. Black would be in zugzwang. But this wins also.",
+        "49... Ke5 50. Kxc4 Kxf5 51. Kd5 Nd8 52. b6 h5 53. Be7 Nb7 54. Kc6 Na5+ 55. Kc7 Kg4 56. Bb4 Nc4 57. b7 Nxe3 58. b8=Q Nd5+ 59. Kc6 Nf4 60. Bd2 Ne6 61. Qe5": "I had only 2 or 3 minutes left and my opponent had 20. Very typical in our games, but this time I'm just plain winning.",
+        "61... Nd8+ 62. Kd5 e3 63. Bxe3 Kf3 64. Qe4+ Ke2 65. Bg5+ Kf2 66. Qe3+ Kf1 67. Bh4 Kg2 68. Qf2+ Kh1 69. Bg3": "And so, I took my hat trick. Winning the championship again. 2006, 2007 and 2008 =)"
+    },
+    "url": "https://gameknot.com/annotation.pl/tiebreak-game-of-the-hartola-championship-tournament-2008?gm=15655",
+    "gameName": "Tiebreak game of the Hartola championship tournament 2008",
+    "players": "Elmo Suikki  vs. Risto Saarinen ",
+    "opening": "Nimzo-Indian defence (E20)"
+}

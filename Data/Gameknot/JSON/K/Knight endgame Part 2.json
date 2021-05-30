@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nHere is the third game in the trilogy.  GA analysis is here!  http://gameknot.com/analyze-board.pl?bd=27025480&fb=1&rnd=0.891668996769549",
+        "1... e5 2. Bc4 Nf6": "2. ..... Nf6 - another Bishop's Opening - this time I play Nf6 rather than Bc5.",
+        "3. Nf3 Nxe4 4. Nxe5 d5 5. Qf3": "5. Qf3 - now white gets aggressive.  Henry is threatened with a Scholar's type mate.  My knight now drops back to f6.",
+        "5... Nf6 6. Bb3 Bd6 7. d4 c6": "7. ...... c6 - I shore up d5 but I am a bit concerned about Henry being exposed on the  e column.",
+        "8. O-O Be6 9. Bg5 Be7 10. Re1 O-O": "10. ...... 0-0 at last I manage to get Henry off the e column.",
+        "11. Nc3 Nbd7 12. Qg3 Nh5 13. Bxe7 Qxe7 14. Qf3 Nxe5 15. Rxe5 Nf6": "15. ..... Nf6 - after a plethora of exchanges I am still a bit under pressure.  Still, things can sometimes change in a space of a few moves.",
+        "16. g4 Nd7 17. Re3 Qg5": "17. ...... Qg5 - like this!",
+        "18. h3 h5 19. Qg3 hxg4 20. hxg4 Qxg4 21. Kg2 Qxg3+ 22. Rxg3 g6": "22...... g6 - and another plethora of exchanges leads me to be a pawn up!  Could be very handy later!",
+        "23. Rh1 Kg7 24. Kf1 Rfh8": "24. .... Rh8 - I do not want to allow a white rook pile up on the h column.",
+        "25. Rhg1 Rh4 26. Ne2 Rah8 27. f4 Rh4h1 28. c3 Rxg1+ 29. Rxg1": "29. Rxg1 - rook trade.",
+        "29... Rh2 30. Rg2 Bh3": "30. .... Bh3 - it looks as though this move will force instant resignation.  However, white has one clever resource up his sleeve.",
+        "31. f5 Rxg2 32. Nf4 Rxb2+ 33. Nxh3 gxf5 34. Nf4 Nf6": "34. .... Nf6 - I do become 5 points up in material though.  However, my opponent makes me work very hard for the win.",
+        "35. Nd3 Rxb3 36. axb3": "36. axb3 - I attempt simplification and am now in a knight endgame with a 3 pawn plus.",
+        "36... Ne4 37. c4 Nd2+": "37. .... Nd2+ - fork.",
+        "38. Ke2 dxc4 39. bxc4 Nxc4": "39. ..... Nxc4 - White declines a further invitation of simplification  into a king and pawn ending with me two pawns up.  However, I am now 4 points up in material.",
+        "40. Kf3 a5 41. Nc5 b5 42. Kf4 a4": "42. .... a4 - pawn roll.",
+        "43. Kxf5 Na5 44. Nd3 a3 45. Nb4 Nb3 46. Ke4 Kg6 47. Kd3 f5": "47. .... f5 - now another passer is pushed.",
+        "48. Kc3 Na5 49. Kc2 f4 50. d5 cxd5 51. Nxd5 Kg5 52. Nc3 b4": "52. ..... b4 - closer and closer.",
+        "53. Ne4+ Kg4 54. Nf2+ Kf3 55. Nd1 Ke2 56. Kc1 a2": "56. ..... a2 - if white plays Kb2 to prevent my a pawn from crowning then Henry will just snap off the knight on d1 and the f pawn will have a clear run to Glendadom.  White sees this and waves the white flag.  For now that is the end of endgame study because in my next annotation I will be going back to the middlegame and Glenda is again involved in a mating attack, but will she succeed?  You will have to wait and see."
+    },
+    "url": "https://gameknot.com/annotation.pl/knight-endgame-part-2?gm=64631",
+    "gameName": "Knight endgame Part 2",
+    "players": "spensley (1596) vs. jstevens1 (1785)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

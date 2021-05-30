@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6": "King's pawn game.",
+        "3. Bb5": "Ruy Lopez.",
+        "3... Nf6": "Berlin Defense of the Ruy Lopez.",
+        "4. Bxc6": "Doubles black's pawns.  I usually go for that.",
+        "4... dxc6 5. Nxe5": "Completely wrong.  Qd4 means white loses either the knight or the pawn.  Ng4 is clearly out, so Nf3 at least prevents QxPe4+ followed by QxPg2 (the poison pawn).\n",
+        "5... Be6": "While getting the queen out early is generally frowned up, free pawn!  This move is off book.",
+        "6. d3 Bd6 7. O-O": "There is no reason to sacrifice the knight.",
+        "7... Bxe5 8. Bg5": "This compounds error, as BxPb2 gives black a rook and pawn (6 points) for a bishop (3 points).",
+        "8... h6 9. Bxf6 Bxf6 10. Nc3": "White recognizes the threat.  Pc3 also works, and might be better.  Black has incentive to trade down while doubling white's pawns.",
+        "10... Be5 11. f4 Bf6": "Here black should consider Bd4+, forcing the white king into the corner.",
+        "12. f5 Bd7 13. Qh5 Qe7 14. a3 O-O-O 15. Qf3 Bg5 16. g3 c5 17. Nd5 Qd6 18. c4 Ba4 19. Rfe1 f6 20. Rab1 Bc6 21. h4 Bd2 22. Re2 Ba5 23. b4 cxb4 24. axb4 Bxb4": "Oops.  NxBb4 gives white a free bishop.",
+        "25. Nxb4 Ba4": "Here Ra3 ends with white taking Pa7.",
+        "26. Ra2": "B-)",
+        "26... Qd4+": "White should interpose the queen, putting even more power on Pa7.",
+        "27. Kg2 b5": "PxPb5, BxPb5, RxPa7.",
+        "28. Nc6": "...or sweet.  White saw a MUCH better move.",
+        "28... Qd6 29. Nxa7+": "Uh, no.  NxRd8.  The rook is worth five, the pawn worth only one.  Granted, RxN puts white up only two, but two is still more than one.",
+        "29... Kd7 30. Nxb5 Bxb5 31. Rxb5": "Here black will wish to protect against Rd5, pinning the black queen.  Pc6 leads to 32. Rb7+, and RxPg7.  Ke7 or maybe Qc6."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=57252",
+    "gameName": "Team match",
+    "players": "phoag53 (1251) vs. goodlifer (1224)",
+    "opening": "Ruy Lopez (C65), Berlin defence"
+}

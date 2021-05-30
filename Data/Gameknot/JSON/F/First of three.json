@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "This guy busted me up pretty bad, I need to figgure out how...",
+        "1... d5 2. e5": "Aggressive...\n\nShould I respond in like?  d4 shows some promise...",
+        "2... d4 3. Bc4 c5 4. h3 Nc6 5. Nf3 Bf5 6. d3": "White has played well, but looks over extended.  I'm thinking Na4 to pressure White's Bishop.",
+        "6... Na5 7. Bd2 Nxc4": "This trade removes the threat to f7 and double White's c Pawn(s).  I've set up the next 6 conditional moves.  I doubt the game will work out that way.",
+        "8. dxc4 Qb6": "White must protect b2",
+        "9. b3 Qe6 10. O-O Be4": "Pressures the Knight protecting the Pawn.",
+        "11. Re1 f5": "I'll reget this move.",
+        "12. exf6 e.p.": "Maybe not....",
+        "12... Qf5": "A diagonal battering ram, aimed at vulnerable c2",
+        "13. Nh4": "White's best defence.  And I must retreat.  This is bad, I can't protect my Bishop..  Damn!  \r\n\r\nHere it is!  This is where I lost the game!",
+        "13... Qxf6 14. Rxe4 e5 15. Qg4 Nh6 16. Bxh6 gxh6 17. Nd2 Bd6 18. f4 Ke7 19. fxe5 Bxe5 20. Rae1": "End of line...."
+    },
+    "url": "https://gameknot.com/annotation.pl/first-of-three?gm=39475",
+    "gameName": "First of three",
+    "players": "stephenwelsh (1486) vs. jcrycket (1442)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

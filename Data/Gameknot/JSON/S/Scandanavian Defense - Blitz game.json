@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 d5": "It bears repeating: ugh, blecch, the Scandinavian ...makes me wanna upchuck. What's with all this hairy-shirt, horned-helmet, \"you-come-meet-my-cousins-Sven-and-Ingrid-ja?\" stuff anyway?? Why can't people play *civilized* defenses like the Sicilian??",
+        "2. exd5 Qxd5 3. Nc3 Qe5+": "Well, at least this is different. Book is 3. ...Qa5.",
+        "4. Qe2": "Sure, I'll swap ladies right off the bat.",
+        "4... Qf6": "Eh? Oh well ... let's play this like I want to win.",
+        "5. Nd5 Qc6 6. Qc4": "Re-extending the invitation ...to get a quick lead in development.",
+        "6... Qe6+ 7. Be2 Na6 8. Nf3 c6 9. Ne3": "Third time's the charm?",
+        "9... Qg6": "Nope! ...But see what I mean - already my position is ugly: I have no center yet, my Knight on e3 is just weird-looking, and my Queen is floating out there in space waiting to be attacked. This is *not* civilized chess.  ;-)",
+        "10. O-O Be6 11. Qd3": "One more time ...",
+        "11... Qf6 12. c3 Nc5 13. Qc2 O-O-O 14. d4": "Fourteen moves into the game and I finally get the chance to play a second pawn into the center of the board.",
+        "14... Nd7": "Okay, my position is dreadful to look at, but at this point I'm thinking my opponent's position might even be a bit worse ...and not just visually. Typically, I could kiss people who castle long in inferior positions. By doing so they're just begging me to start a direct pawnstorm attack against their King ...which is what I do here. I would have thought twice about that, though, except for the fact that all Black's pieces are walking on each other's toes while mine, ugly ducklings for the moment, are poised to become graceful swans.",
+        "15. a4 h5": "Hm. Makes sense. But I'm first.",
+        "16. a5 h4 17. a6 b6": "Naturally.",
+        "18. c4 Nb8": "If 18. ...h3  19. g3, maintaining the general ugliness of the game.",
+        "19. d5": "! - The process of stripping away the cover from in front of Black's King begins.",
+        "19... Bd7 20. dxc6 Bxc6 21. Nd5": "Wait, wait! What's this?? All of a sudden it looks like we have a really-and-for-truly chess position! Who let *that* into the room??",
+        "21... Qd6 22. Bf4": "Oh snap! Graceful swans, graceful swans ...with ninja swords!",
+        "22... Qd7 23. Ne5 Qe8 24. Bf3": "! - The guns are being aimed.",
+        "24... e6 25. Nxb6+": "! - Is a note necessary here?",
+        "25... axb6 26. a7 Bxf3 27. axb8=Q+ Kxb8 28. Nxf3+": "The discovered check makes it so much sweeter.",
+        "28... Bd6 29. Bxd6+ Rxd6 30. Qe4": "? - More accurate was 30. ...Ne5! to cover the c6 square first, plus threaten nasties like Nf7.",
+        "30... Rc6": "? - Black errs in turn. 30. ...Qc6! leaves White with nothing but material equality.",
+        "31. Ra6 f5 32. Qe5+": "The tempo gained by this check is what keeps White's attack alive.",
+        "32... Kb7 33. Rfa1 Qb8 34. Qxg7+ Rc7 35. Qxh8 Rd7 36. Ra6a7+": "Brutal simplification now ...",
+        "36... Qxa7 37. Rxa7+ Kxa7 38. h3": "No matey, but 38. Kf1 accomplishes the same thing even more aggressively.",
+        "38... Ne7 39. Nd4": "Now bringing the steed into the attack. Black has seen enough: 1 - 0"
+    },
+    "url": "https://gameknot.com/annotation.pl/scandanavian-defense-blitz-game?gm=48313",
+    "gameName": "Scandanavian Defense - Blitz game",
+    "players": "Avocet (1200) vs. g2008 (1367)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

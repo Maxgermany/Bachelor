@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4": "Part of my series of annotations explaining the Scandinavian Defence, 1.e4 d5",
+        "1... d5": "This is a very interesting example of playing the Scandinavian for black, and the typical strategies for white and black when white plays the quiet 5. Be2 line. I noticed my opponent played against the Scandinavian with great success in the gameknot mini-tournament on the same opening http://gameknot.com/mt.pl?id=41299 . His d3 system played in the tournament (and chosen for this game) is modest but solid, and I thought it would be interesting to play against it. ",
+        "2. exd5 Qxd5 3. Nf3 Nf6 4. Nc3 Qd6": "Or ..Qa5. Here ..Qd6 is the more modern line",
+        "5. Be2": "White looks to be playing the same quiet d3 system (by transposition)",
+        "5... c6": "Black's system is modest. He plans (a)..c6, (b)..bishop c8 somewhere, (c)..e6, (d)..Nbd7, (e)..Qc7, (f)..Bd6, and (g) ..O-O-O. Then depending on white's moves, he can either play ..Nd5, ..Ne5 or the freeing ..e5.  Observe black's moves and you will see him singlemindedly following this development plan",
+        "6. O-O Bf5": "Black wants to play against the d3 system this time (theory recommends d3 neutralising the f5 bishop). The idea for black to encourage d3 is that white generally plays d4 at some point to have an open game, at which point the bishop is active again. Other moves like ..Bg4 are also possible, but the effectiveness of ..Bg4 is already lessened through white's Be2 (so all the interesting variations like h3 Bh5, g4 Bg6 are not so strong after white plays d3). For an example of the ..Bg4 line against the Be2 Scandinavian, see http://gameknot.com/analyze-board.pl?bd=13108875   This is part (b) of his plan executed",
+        "7. d3 Nbd7": "Thematic. Part (d) of his plan",
+        "8. Be3": "Quiet. Black and white have lots of time in this \"piano\" variation",
+        "8... e6": "Or ..e5. But black is happy to play quietly. Part (c) of his development plan",
+        "9. Qd2 Qc7": "Necessary to deal with white's threat of Bf4, which he can now counter with ..Bd6. White can still execute his Bf4 plan supported by g2-g3, but this idea is usually a distraction for white that does not lead to advantage (especially here with his kingside castling). Part (e) of his plan",
+        "10. Rad1": "Preparing d4",
+        "10... Bd6": "Part (f) of his plan",
+        "11. h3 O-O-O": "Black has completed his development and has equality. If white does nothing, black plans ..Rhe8, ..e5, ..Nd5. The ..e5 move in particular will indicate a change in the energy of the game. This can allow black to play ..h6, retreat his light square bishop to ..e6, and after ..Nd5 he can even start a kingside attack with ..f5. The Scandinavian is very simple to play for black and he has a clear strategy to follow. White must now choose a plan. White perhaps hoped  black would play O-O, as the white pieces are setup for a kingside attack. But now he has to choose another plan. d4 is the most logical, but this suits black as it gives him a target for playing his own freeing ..e5; and there can often be tactical opportunities involving black rooks on the d and e files, and discovered attacks on the opposing white queen on the d file. Part (g) of his plan has been executed, and his development plan has been successful",
+        "12. a3 Nb6": "White may play b4, b5,  so black delays ideas of ..e5 for now. If white's attack proves dangerous he can play ..Nd5 and remove the dangerous white bishop from the dark square diagonal",
+        "13. b4 Kb8 14. Na2 Nbd5": "This is thematic but also a clever move. Black observes a tactic involving ..Nxe3, Qxe3 Bc5 followed by a kingside attack. If white instead plays ..Nxe3, fe then black can play ..g5! immediately with good chances. Note that the b-file knight is preferred for this move due to the tactical advantage of retaining the other knight on the kingside",
+        "15. c4 Nxe3 16. fxe3 g5 17. c5 Bg3 18. Nxg5": "The alternative, Qb2, is not any better. After ..g4! , Qxf6 gh black will win",
+        "18... Rhg8 19. e4 Bh2+": "With a winning attack for black",
+        "20. Kh1 Nxe4 21. Nxe4 Bxe4 22. Bf3 Bxd3 23. Qxd3 Rxd3": "White's queen and pawn is exchanged for R+B. But the position is lost due to black's central pawns. Black's plan is to first get his pawns to e4 and f4, then the move e3 or f3 will force white to lose more material to protect the king or avoid a pawn promotion. In the meantime, white has some threats around b4-b5. If he can make use of N+B+R effectively he may be able to generate problems for black",
+        "24. Rxd3 Be5 25. Rfd1 Kc8 26. Nc3": "Nf1 was necessary to avoid the exchange",
+        "26... Bxc3": "Now black no longer has to worry about potential problems on the b-file and white's knight+bishop cooperation",
+        "27. Rxc3 f5 28. Rcd3 e5": "Black's plan continues",
+        "29. Rd3d6 Qg7 30. Rd1d2 e4": "Black first limits the influence of white's bishop, then goes pawn grabbing",
+        "31. Bd1 Qa1 32. Kh2 Qxa3 33. Bh5 e3": ".",
+        "34. Rd2d3 Qb2 35. Bf3 Qe5+ 36. Kh1 e2": "Next move white needs to give up his bishop, and resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/scandinavian-defence-3-nf3-4-qd6-5-be2?gm=28726",
+    "gameName": "Scandinavian Defence (3. Nf3, 4.. Qd6 5. Be2)",
+    "players": "mgcardoso (1532) vs. longtail99 (1869)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. Nf3": "Standard opening",
+        "1... f6": "Black opens with the f7 pawn exposing the King early",
+        "2. g3 Nh6": "I continue my development while black builds a king side attack",
+        "3. Bg2 Nc6": "by bringing both knights out, black hopes to develop a night exchange",
+        "4. O-O e5 5. e4 Bc5": "Black shift focus to the queen side attack leaving my opportunity to bring force to the king side",
+        "6. d3": "I build my pawn structure to protect my flank",
+        "6... O-O": "black castles into the coming attack",
+        "7. b3": "I continue to devlop my opening to both side track black and offer a balance to my attack should I be turned back",
+        "7... Nb4": "Black bites and brings out the Knight hoping to win a piece on the queen side",
+        "8. Bxh6": "I take the Knight to force the capture of the Bishop opening the G file.",
+        "8... gxh6": "forced",
+        "9. Nh4": "Now I can develop my Knight to bring the game to a quick end",
+        "9... Qe7": "Black sees the coming battle for survival and tries to mobilize the Queen",
+        "10. Bf3": "I can see that if my Bishop gets to h5 the game is over",
+        "10... Na6": "Black retreats, not realizing that his life is on the line",
+        "11. Bh5": "My Bishop reaches his intended target now blocking a reatreat for the King a safe haven for the Queen",
+        "11... Qd6": "Black tries and fails to bring the Queen into the battle",
+        "12. Nf5": "I assault the Queen, and in doing so, block the outlet for the King. All I have to do now is bring my Queen to the battle",
+        "12... Qc6": "Black protects his Queen, still oblivious ",
+        "13. Qg4+": "My Queen enters the fray",
+        "13... Kh8": "The King retreats in vein",
+        "14. Qg7#": "An elegent trap set and sprung to full effect. "
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-caelbunny?gm=1927",
+    "gameName": "Challenge from caelbunny",
+    "players": "opus692 (1297) vs. caelbunny (1201)",
+    "opening": "Reti opening (A04)"
+}

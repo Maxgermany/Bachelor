@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. b4": "Un gambit rar... e binevenit cind adversarii au la dispozitie o baza de date cuun milion de partide",
+        "2... cxb4 3. Bc4 e6 4. Qe2 Nc6": "Albul isi prpopune sa impiedice adversarul sa joace d5, dar nu asta e scopul care-l mina in lupta.",
+        "5. Nf3 Bc5 6. Bb2 f6 7. O-O Nge7": "O decizie neinspirata. acum albul poate sa avanseze pionul d cistigind in acelasi timp tempouri.",
+        "8. d4 Bb6 9. d5 exd5 10. exd5 Na5 11. d6": "Tot flancul drept al negrului este paralizat, iar regele este silit sa ramina in centru, unde va fi tratat cu putin deferenta",
+        "11... Nxc4 12. Qxc4 Nc6 13. Re1+ Kf8 14. Nbd2": "Nici una din figurile negrului nu are mobilitate, si nici nu se zareste vreo manevra rapida de a leaduce in joc, asa ca albul isi incheie dezvoltarea pregatind transferul celui de-al doilea cal spre flancul regelui si dublarea turnurilor pe coloana \"e\".",
+        "14... g6": "In prapastie cu capul inainte... Nebunul alb din b2 este acum letal.",
+        "15. Ne4 Ne5 16. Nxe5 fxe5 17. Bxe5 Rg8": "Albul astepta aici 17....Dh4, care ar fi prelungit putin agonia",
+        "18. Bf6": "Mat la dama!?",
+        "18... Bxf2+": "Negrul crede in miracole dupa 19.R:f2 Db6 20.Nd4 Dc6.",
+        "19. Nxf2": "Acum insa nu mai e vorba de mat la dama - e la rege!",
+        "19... Qxf6 20. Re8+": "Al doilea sacrificiu de figura, si ultimul. Regele e atras pe e8, unde nu mai poate scapa de matul rezultat din cooperarea damei albe de pe ultima linie cu pionul din d6.\n",
+        "20... Kxe8 21. Qxg8+ Qf8 22. Re1+ Kd8 23. Qxf8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/64th-gk-tournament?gm=28050",
+    "gameName": "64th GK tournament",
+    "players": "kolmogorov (1615) vs. aidinho (1608)",
+    "opening": "Sicilian (B20), wing gambit, Santasiere variation"
+}

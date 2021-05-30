@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4": "Queen's pawn opening, not an area with which I am very familiar.",
+        "1... b6": "I was still experimenting with this response at this stage.",
+        "2. e3 Bb7 3. f4 e6 4. Nf3 Nf6 5. Bd3 Be7 6. Nbd2 O-O 7. O-O d6 8. h3 Nbd7 9. g4": "Well, at least he let me set up my position and there are a few holes I might be able to do something with later.",
+        "9... c5": "With the idea of attacking his pawn center before it get too strong.",
+        "10. c3": "It seems he wishes to maintain his central pawns.",
+        "10... a6": "A prelude to a queenside pawn advance.",
+        "11. g5": "Answered by a Kingside pawn advance.",
+        "11... Nd5 12. Qe2": "I was really hoping for Qc2 here.",
+        "12... b5": "Continuing the Queenside advance.",
+        "13. h4": "The action is in the wings. Problem is his pawns are advancing on my king and my pawns are just advancing (well, there is his Bishop).",
+        "13... c4 14. Bc2 Rc8 15. Nh2": "Hmmm, maybe to bring his Knight to g4?",
+        "15... f5 16. e4 Nc7 17. exf5 exf5 18. Ndf3": "Another Knight enters the Kingside arena.",
+        "18... g6 19. Bd2 Re8": "The only line that is open, might as well fight for it.",
+        "20. Be3 Bf8 21. Rf2 Nd5": "To take advantage of the pin while it is still there.",
+        "22. Ne5": "Hmmm, some hidden danger I don't see?",
+        "22... dxe5": "Still threatening the f4 pawn. (Never look a gift horse in the mouth.)",
+        "23. dxe5 Nxe3 24. Qxe3 Bc5": "Finally, a break!!",
+        "25. Qe2 Bxf2+": "The exchange is the exchange - and since he has nothing else in sight I grabbed it.",
+        "26. Kxf2 Nc5": "That c5 square sure has been nice to me.",
+        "27. Rd1 Qb6 28. Rd6": "Oh my!!!  I can't belive my good fortune!!  A free Rook!!",
+        "28... Ne4+": "And White resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-individual-game?gm=12069",
+    "gameName": "GameKnot Individual Game",
+    "players": "Ed Gatan (1556) vs. P. L. Michael (1639)",
+    "opening": "Queen's pawn (A40), English defence"
+}

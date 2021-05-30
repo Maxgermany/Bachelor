@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "White starts out with the very solid 1. e4.",
+        "1... Nf6": "Black responds by preemptively taking out his knight with 1...Nf6? This blunder allows White to attack the Knight and take more central territory.",
+        "2. e5 Nd5 3. d4": "Taking even more central territory. White's advantage right now is decisive.",
+        "3... c6 4. c4": "Taking even more territory. Black's knight is feeling heavy pressure, and is nothing but a liability for Black at this point.",
+        "4... Nb4 5. a3 g6": "Realizing his knight was a major liability, Black smartly decides to sacrifice it.",
+        "6. axb4 Qb6 7. Qd2 h5": "Black initiates a kingside attack. Majorly behind in development and pieces, will it be successful?",
+        "8. c5 Qc7 9. Bc4 Bh6 10. Qc2": "A high-level move, allowing White's queen to supervise both bishops at once.",
+        "10... Bg7": "Instead of taking White's unblocked dark-square bishop, Black wisely blocks his own bishop.",
+        "11. Nf3": "Continuing development. Transition to a normal mainline is still possible.",
+        "11... e6 12. Bg5 Rf8": "Black moves his rook for no discernible reason.",
+        "13. Nc3 f6": "Major blunder.",
+        "14. Qxg6+ Rf7 15. exf6 Bh8": "Another major blunder, allowing White to force checkmate.",
+        "16. Qg8+ Rf8 17. f7#": "After a series of conditional moves, White wins the game."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-lame-knight?gm=44281",
+    "gameName": "The Lame Knight",
+    "players": "oops_you_lose (750) vs. mother1905 (908)",
+    "opening": "Alekhine's defence (B03)"
+}

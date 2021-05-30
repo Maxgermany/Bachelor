@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "my standard move",
+        "1... Nf6 2. Nf3": "i new he would play the budapest gambit (d4 nf6 c4 e5) so i stopped him!",
+        "2... d5 3. c4 c6": "now it is the slav",
+        "4. Nc3 e6 5. e3": "normally, i would play bg5 ",
+        "5... Bb4 6. Bd2": "i dont want doubled pawns",
+        "6... Qe7 7. a3 Bd6": "? a loss of tempo",
+        "8. Be2 dxc4 9. Bxc4 Nbd7 10. O-O h5": "?! looks like hes going to attack my king",
+        "11. e4": "planning to go es!",
+        "11... e5": "he stopped me!",
+        "12. dxe5 Nxe5 13. Nxe5 Qxe5": "planning to go qxh2 mate!",
+        "14. g3 h4 15. Bf4 Qc5 16. Bxf7+": "! now i win a pawn! ",
+        "16... Kxf7 17. Qxd6 Qh5 18. e5": "i must keep him away from my king!!",
+        "18... Qf3": "?? he thinks he got me (but he is wrong!!)",
+        "19. exf6 h3": "now, i must mate before i get mated!!",
+        "20. Qe7+ Kg6": "if, kg8?? then qxg7 mate",
+        "21. Qxg7+ Kf5 22. Qg5+ Ke6 23. Rfe1+": "resigns mate will come if, kf7 qg7 mate or kd7 qg7 and mate next move!! please leave a comment or two and rate it on the star system thank you!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/mate-before-mated?gm=44578",
+    "gameName": "mate before mated!!!",
+    "players": "water123 (1941) vs. tom hales (1742)",
+    "opening": "Queen's pawn game (A46)"
+}

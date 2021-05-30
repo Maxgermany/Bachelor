@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nThis is only my second win of the tournament so far.  I did not think that I was gonna win, especially down bucket loads of material against a Class C Player called Steve - he is an opponent to watch as he has an Expert Draw against a 2100+ player under his belt.  Then I decided to sacrifice a second rook for a knight, luring the enemy bishop away from Steve's defense.  He took the rook and then I took a pawn, opening up a line for Glenda.  Now how did my Good Witch of the North take advantage of this line opener?  Well, read on!",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1": "6. Kf1 - the first unforced move.  BTW - Gameknot analysis is provided for this game under the following link:- http://gameknot.com/analyze-board.pl?bd=14910443&fb=1&rnd=0.4039886741470244.  NXB allows NxP+.  I do feel a bit leery of putting Henry on the f file where the Wicked Witch of the West can get at him when I play the white pieces but here I am playing black.  We follow the DB until Steve deviates with 16. Kf1.",
+        "6... Qe7 7. Nxh8": "7. Nxh8 - a rook is a rook.",
+        "7... Bb6 8. d3 d5 9. exd5": "9. exd5 - better than Bxd5 because of Bg4.",
+        "9... Bg4": "9. ...... Bg4 - I play it anyway.",
+        "10. Qd2 Nd4 11. d6 cxd6 12. Nc3": "12. Nc3 - development.",
+        "12... O-O-O": "12. ...... 0-0-0 - as I am a long way behind in material I must activate my remaining pieces quickly and get Henry to safety.",
+        "13. Nf7 Rf8 14. Ke1 e4 15. Qf4 Nxc2+ 16. Kf1 Rxf7": "16. ...... Rxf7 - I got really stuck for a plan after Steve deviated from the DB.  However, while I was having a good long soak in the bath I suddenly had a picture of the board in my mind with 3 days left on my clock.   I thought about taking the knight because if I did not, the white knight and the Wicked Witch would combine to keep Henry in a Perpetual Check and sentence me to a Low Draw - no thank you!  So I left my rook to hang.",
+        "17. Bxf7 exd3": "17. ..... exd3! - He took the bait and now I open up the e file and Glenda, who is seemingly minding her own business on e7 is up to summat.  What do you think she is stirring up in her cauldron?  What square would she just lurve to land on?",
+        "18. Bd2": "18. Bd2 - this move appears to have avoided catastrophe for Steve and I think that knight on c3 is very annoying.  If it were not for that knight then Glenda could quite happily program her Satnav on her broomstick to the square e2 and gleefully fly towards it to nab the enemy king.",
+        "18... Be2+": "18. ...... Be2+!! - this move is the killer.  Incredibly I spent another two days on my clock before I saw this.  Steve has no other legal move than to capture Fou Leblanc than NXN.  Now Glenda can deal death on e2.  Having found myself in a hopelessly lost position against a 1900+ player and having the possibility of losing 5.5 rating points to him I decided to resign that game and then set up Qxe2# in response to NXN as a conditional move before going to bed.  I woke up the next morning and gameknot confirmed that I had got most of those lost points back - nice.  Commiserations to Steve, in this line of the Traxler, Old Matey can strike out of a blue sky!  I must watch out as I have the white pieces against Steve and I must ensure that he does NOT get his revenge!",
+        "19. Nxe2 Qxe2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/traxler-with-5-nxf7-line-opening-sacrifices?gm=35556",
+    "gameName": "Traxler with 5.Nxf7 - Line Opening Sacrifices",
+    "players": "pawnstar2010 (1583) vs. jstevens1 (1790)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

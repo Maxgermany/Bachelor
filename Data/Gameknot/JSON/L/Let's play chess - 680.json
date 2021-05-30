@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 c6 3. Qh5": "ataque al pastor. al peon debil del rey f7. Era evidente al poner su dama en h5 que luego sacaria el alfil a c4. pero adelante el peon c6 para contrarestar el ataque.",
+        "3... d5": "echandolo, get out!",
+        "4. exd5 cxd5 5. Bb3": "aqui mis piezas estaban desarrolladas en gran medida, mientras el solo habia movido la reyna y el alfil y un peon que habia perdido",
+        "5... Nc6 6. d3 Nf6 7. Qe2": "aqui ya estaba totalmente desarrollado.",
+        "7... Bb4+ 8. c3 Ba5 9. Nf3 O-O 10. O-O Bg4 11. c4 e4 12. cxd5 exf3": "aqui coji el caballo pues en el intercambio ganaba yo pues me devoraba su dama, jajaja. el comio con el peon de alfil de rey g2 debilitando su enroque... muy bueno para mi.",
+        "13. gxf3 Bh3 14. dxc6 Bxf1": "sigo comiendo piezas pues el sigue calculando mal",
+        "15. Qxf1 bxc6 16. Qg2": "aqui quedo su dama frente al rey, cubriendolo pero invitando a clavarla con la torre.",
+        "16... Qxd3 17. Be3 Bb6 18. Bd2 h6": "aqui el blanco podria haber jugado 19 Bxh6! forzando el intercambio de las reynas. y debilitando al enroque negro.",
+        "19. Na3": "??? y el alfil???, bueno gracias.",
+        "19... Qxd2 20. Nc4 Qd4 21. Rf1 Rae8 22. h3 Nh5 23. Nxb6 axb6 24. Qg4 Qc5 25. f4 Re4 26. Bd1 Rxf4 27. Qg2 Rf6 28. Kh2": "se dio cuenta de el siguiente 29. Rg6 que \"clavaba\" a la dama. asi que movio a su rey.",
+        "28... Rg6": "igual jugue Rg6",
+        "29. Qf3 Qe5+ 30. Kh1 Rg5": "aqui reforzando al caballo ",
+        "31. h4 Rf5": "esto me dio un chance de atacar a la reyna y al peon f2, pues podria hackear al rey con el caballo en g3, solo necesitaba que la dama se moviera de alli. ",
+        "32. Qg2 Qxb2 33. Bb3 Rd8 34. Qxc6": "y se movio la dama!!!, jajaja.",
+        "34... Ng3+": "era justo y necesario!!!.  si 35 f2xNg3 Rf5xRf1#",
+        "35. Kg2 Nxf1": "bueno el resto seria ventaja de material aunque hubiera preferido 35. f2xNg3 Rf5xRf1#"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=29148",
+    "gameName": "Let's play chess",
+    "players": "sjo007 (1348) vs. alexcajan (1474)",
+    "opening": "Bishop's opening (C23), Philidor counter-attack"
+}

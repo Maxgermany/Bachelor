@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 h6": "This move seems to waste a tempo unnecessarily.",
+        "3. e3 e6 4. b3 Nc6 5. Bb2 Nf6 6. a3": "This was played in order to be able to bring the Bd3 without the harassment of Nb4.",
+        "6... a6": "Another wasted tempo.",
+        "7. Bd3 g6": "This seems ill-advised to me.  There is no reason for Black to compromise the Kingside pawn structure.",
+        "8. Nbd2 g5 9. Qe2 Bb4": "This seems even more ill-advised!  Black gives away a piece for no compensation.",
+        "10. axb4 Nxb4 11. Ba3 Nc6 12. O-O g4": "Black seems to be planning a Kingside attack, but is trailing in development and material.",
+        "13. Ne5 Nxe5 14. dxe5 Nd7 15. Qxg4 Qg5": "This is probably best.  If Black plays Nxe5, they would have to deal with Qg7.",
+        "16. Qxg5 hxg5": "Black now has an open file against White's King, but no development to exploit it.",
+        "17. f4 gxf4 18. exf4 b5 19. c4": "White is content to continue to trade, which will tend to magnify the advantage in the endgame.",
+        "19... b4 20. Bxb4": "Black gives away another pawn without compensation.",
+        "20... dxc4 21. Bxc4 c5 22. Ba3 a5 23. Ne4": "This wins more material, as Black has no way to defend c5 a second time.",
+        "23... Rh4 24. Bxc5 Nxc5 25. Nxc5 Ba6": "Black made a counting error here.  The Ba6 is attacked twice, but only defended once.",
+        "26. Nxa6 Rd8": "This is a good move.  White can fight for the d file, but not easily while the f4 pawn is loosely defended.",
+        "27. g3": "This gains the tempo needed to fight for the d file.",
+        "27... Rh6 28. Rfd1 Ra8": "A blunder.  This drops the Rook.",
+        "29. Nc7+ Ke7 30. Nxa8 a4 31. Rxa4 f5 32. Ra7+ Kf8 33. Rd8#": "Even if Black had played Ke8, Bb5+ forces this eventual position."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=61620",
+    "gameName": "Let's play chess",
+    "players": "mmoody95 (1830) vs. masoniclodge (890)",
+    "opening": "Queen's pawn game (D02)"
+}

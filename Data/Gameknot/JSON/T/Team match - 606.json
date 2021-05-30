@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nh6": "Mistake here I think on my part. In retrospect I would probably either move f6. The issue with that though is that if they move 4.Bxf7 then I need to take with the king leaving him in a vulnerable position. Any idea on a better play here?",
+        "4. Ng5 d6": "Again I think 4... f6 would probably have been a better option.",
+        "5. d3 f6 6. Nf7 Nxf7": "Whilst not perfect the knight did the intended job perfectly avoiding me having to move my queen though still vulnerable to 7.Bxf7 forcing the king to move.",
+        "7. Nc3 a6 8. Be3 Na5 9. Bxf7+ Kxf7": "and so it eventually happened...",
+        "10. O-O Kg8": "Moving for defence- probably not a great move.",
+        "11. d4": "Is this a blunder on their part? Allows my knight to sweep in.",
+        "11... c6 12. f4 Nc4 13. Qf3": "13.Qf3? Sets up a clear opportunity for me...",
+        "13... exd4": "Fork- but the knight is still there as well...",
+        "14. Bxd4 Nd2": "A second fork and this time with a two point gain on offer.",
+        "15. Qe2 Nxf1 16. Rxf1 c5": "Advancing the pawns and hemming his bishop back badly.",
+        "17. Be3 b5 18. a4 b4": "No need whatsoever for me to take that trade-off especially as their pawn is now isolated and I'm putting pressure on the sole knight defending it. Next turn I can attack the pawn with either the bishop or the queen developing them at the same time. However I've managed to totally miss the fact that c4 is now undefended and has a clear line to my king...",
+        "19. Qc4+": "crap.",
+        "19... d5": "This was the only move that didn't result in check-mate. I was sure I was a gonna here until I realised the pawn would be covered by the queen...",
+        "20. exd5 h6": "Giving the king at least one escape option...",
+        "21. Ne4 a5": "Probably should have been focusing more on developing pieces at this point. Maybe Bc5 would have been a better move. But I could see a potential queen rook dilemma with my white bishop. Innocous move on my part that was hiding the bishop move.",
+        "22. b3 Ba6 23. d6+": "This was clearly a huge blunder on their part.",
+        "23... Bxc4 24. bxc4 Bxd6": "Their last real chance of getting a queen removed.",
+        "25. Rd1 Qe8": "This ensured I got on of the bishop or the knight. They promptly resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=25260",
+    "gameName": "Team match",
+    "players": "cacciatore (1341) vs. brynr (1339)",
+    "opening": "King's pawn game (C50)"
+}

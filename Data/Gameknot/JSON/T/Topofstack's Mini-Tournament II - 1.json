@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4": "It starts of with accepting the gambit...",
+        "3. Nf3 Be7": "...which is followed by Nf3 to secure the right to castle. Then black reacts with Be7, so thats where the Cunningham defence actually starts. It's pretty annoying for white, because there is no real way to further secure the right to castle...",
+        "4. h4": "My opponent thought otherwise and went on with h4 (the Book continuation would be Bc4), weakening his pawn structure. This naturally made my next target the Knight on f3 (which would allow me to take the Pawn on h4 and giving me and advantage of two pawns).",
+        "4... d6 5. Bc4": "White decides to put the white squared bishop on c4, giving me time to further execute my plan. The intention was perhaps to attack f7 and to prepare castling.",
+        "5... Bg4 6. O-O Bxh4": "So I attacked the Knight and white castled. This allowed me fetch the pawn on h4.",
+        "7. d4 Bg3": "White went on with d4, attacking my Pawn on f4 and gaining control of the center, followed by the black bishop moving to g3, allowing Qd4 and then threatening mate at h2 once the white knight on f3 was eliminated.",
+        "8. c3": "White continued with c3, which could perhaps prepare Qa4 check, which won't have any further consequences... so I don't know what was the intention of white...",
+        "8... Bxf3 9. Qxf3": "Now that the knights in the dustbin, I can come out with my Queen to threaten mate... I'm not sure why white chose to take with the Queen, taking with the rook would have been better imho.",
+        "9... Qh4 10. Rd1": "Seeing the mate thread, white creates and escape field for the King.",
+        "10... g5": "The plan is: g5 -> g4, which should drive away the queen to d3, strenghening my attack...",
+        "11. Be2": "The fatal blunder, this kills the escape field the white King would have needed, creating a mate in two...",
+        "11... Qh2+ 12. Kf1 Qh1#": "and done, after 12 turns.\n\nThe Cunningham defence shows to me a way to restrict the advantage of whites development by building up quite some pressure in the early game. It can force white to give up castling or at least lessen the safety for the king after castling.\n\nComments welcome"
+    },
+    "url": "https://gameknot.com/annotation.pl/topofstacks-mini-tournament-ii?gm=33562",
+    "gameName": "Topofstack's Mini-Tournament II",
+    "players": "zthwbycza (1471) vs. bufferunderflow (1498)",
+    "opening": "KGA (C35), Cunningham defence"
+}

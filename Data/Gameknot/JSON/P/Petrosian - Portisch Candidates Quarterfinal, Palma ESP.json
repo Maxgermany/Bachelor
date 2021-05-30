@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. c4 g6 3. b3 Bg7 4. Bb2 c5 5. g3 d6 6. Bg2 e5 7. O-O Nc6 8. Nc3 O-O 9. d3 Nh5 10. Nd2 Bg4 11. a3 Bh6": "Black looks poised for kingside attack, but White has a great potential outpost on d5.  No good now would be 12. Nd5 Nd4 13. Bxd4 exd4 leaving Black attacking chances on the e file.  So White keeps the idea of Nd5 in reserve.",
+        "12. b4": "The classical way to exploit a structural advantage in the center is with a thrust on the flank.  However, careful calculation is required.  If 12... cxb4 13. axb4 Nxb4 and now 14. Ba3! (and not 14. Bxb7 Nxd3!). Then if 12... Nxd3 fails to 13. h3. If 12... Nc6 13. Nde4 wins the d pawn.\nIf 12... a5 13. Rb1 regains the pawn with advantage, as 13... Nxd3 still fails to 14. h3.",
+        "12... Nd4": "Black has some dangerous threats.  First is 13... Bxd2 and 14... Nb3.  The other is 13... Nf4 14. gxf4 Bxf4 with Qh4 to follow.",
+        "13. h3": "With good timing, Petrosian repulses the attack.",
+        "13... Be6 14. e3 cxb4": "This anti-positional capture is necessary because the alternative is 14... Nc6 15. bxc5 dxc5 16. Nb3 Qe7 17. Na4 and Black loses a pawn for nothing.",
+        "15. axb4 Nc6 16. b5 Ne7 17. Bxb7": "Another well calculated venture that increases White's positional advantage further.",
+        "17... Bxh3 18. Bxa8": "Now if 18... Qxa8 then 19. Qf3 is no different than the main game.",
+        "18... Bxf1 19. Kxf1 Qxa8 20. Qf3": "A very strong move, if equally obvious one.  Now if 20... Qxf3 21. Nxf3 and Black doesn't have time to defend his A pawn given the threat of 22. g4 and 23. g5 winning a piece.",
+        "20... Qb8": "This leads to an immediate loss of a piece, but there is nothing better.  If you are wondering why Black is lost, compare the pawn structures.",
+        "21. g4 Ng7 22. Qf6": "The double threat of Qxe7 and Qh4! is decisive.",
+        "22... Ngf5 23. gxf5 Nxf5 24. e4 Ng7 25. Ke1 Nh5 26. Qh4 f5 27. Nd5": "Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/petrosian-portisch-candidates-quarterfinal-palma-esp?gm=61689",
+    "gameName": "Petrosian - Portisch Candidates Quarterfinal, Palma ESP",
+    "players": "Tigran Vartanovich Petrosian (?) vs. Lajos Portisch (?)",
+    "opening": "Reti opening (A05)"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6": "6. Bh4 g5 7. Bg3 Ne4 8. Qc2 h5 9. h3 Nxg3 Is not as effective.\n6. Bf4 dxc4 7. e3 Nd5 Puts the bishop and the knight under attack making Black equal.\n",
+        "6... Qxf6 7. e3": "Best.\n",
+        "7... Bxc3+": "A little beter was 7. ... c5  8. Rc1\n",
+        "8. bxc3 Nd7 9. cxd5": "9. Qc2, Bd3, Be2, a4 and Rc1 also give white a slight advantage. \n",
+        "9... exd5 10. c4": "10. Qb3, Bd3 and a4 are also good choices.\n",
+        "10... Nb6": "Inviting harassment.   If black had castled then white's advantage is small.\nAfter  10... O-O It doesn't pay white to get greedy ... 11. cxd5 Nb6 12. e4 Re8 13. Bd3 Nxd5.\n",
+        "11. c5 Nc4": "11. ... Nd7 is a little better.\n",
+        "12. Bxc4 dxc4 13. Qa4+ c6": "13... Bd7  is a little better because it deploys a piece.\n",
+        "14. O-O": "14. Qxc4 Bh3  Is not quite as good.  15. O-O Qg6 16. Ne1\n",
+        "14... Bd7": "14... Bh3?! 15. Rfb1! Qg6 16. Nh4 Qg4 17. Rxb7 O-O 18. Qxc6\n",
+        "15. Ne5": "White would rather press the attack than capture a pawn.  Putting either rook on b1 is almost as good.  All three moves put black on the defensive.\n",
+        "15... c3": "White is winning.  Black's position is so bad that White has a pleasant choice between 16. Qb3, Qb4, Rab1, f4, e4, Nxd7, Rfb1, Qc2 and Rfc1.\n",
+        "16. Qb3 O-O-O": "This is a disaster.  The game is over.\n",
+        "17. Rab1 b5 18. cxb6 e.p. c2 19. bxa7": "Say goodnight Gracie.\n",
+        "19... Kc7": "\n",
+        "20. a8=Q": "This is remarkably simple once you see it.  \n\n",
+        "20... Rdxa8": "20... cxb1=Q  Doesn't help black any. 21. Rxb1 Qe7 22. Qxc6+!! Bxc6 23. Qb6+ Kd6 24. Qxc6#",
+        "21. Qb7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=58955",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "John Coffey, Chess Player at Lar  vs. wwhawkeye ",
+    "opening": "QGD Slav (D30)"
+}

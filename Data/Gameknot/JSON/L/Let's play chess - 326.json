@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 d6 3. Qf3": "The old four move.  Works for the boys in the barracks, but few fall for it here.  I would not come out with the queen against anyone rated over a thousand.  Save that for the lads in the barracks.",
+        "3... Nf6 4. d3 Bg4 5. Qe3 a6 6. h3 Bd7 7. a4 Be7 8. Qg3 O-O 9. Nf3 h6": "Ooh, free pawn!  Bxh6!  Very nice!",
+        "10. Nc3": "Ok, why pass up the free pawn?  You do wicked damage to the black king stronghold.  He has to give up his rook or you mate him!  Well, Nh5 would be a good defense. Never mind.  Or wait, Nh5, BxPf7+, still no good.  You were right topass on this pawn.  Strike The comment on 9.",
+        "10... Nh5 11. Qh2 Nc6 12. g4 Nf4 13. Rg1 Bh4 14. Nd5 Nd4 15. Nxd4 Bc6 16. Ne3": "I like NxN much better.  PxN, QxP.  White wins pawn, for +4. Even NxBc6 is better.  Doubles black's pawns, leaving NxN for later.",
+        "16... Qf6 17. Ndf5 Bd7 18. d4": "The knight at f5 is not protecting Pd4.  Not while the black queen is staring it down.",
+        "18... exd4 19. Ng2 Ng6 20. e5": "Black has Ng6, Pd6, and Qf6 all ready and able to pounce on this piece, protected only by Qh2.  Why move it?",
+        "20... dxe5 21. g5": "Again, why sacrifice these pawns?  In this case, though, the knight is easy pickings.",
+        "21... Qxf5 22. Bd3 Qxf2+ 23. Kd1 Qf3+ 24. Be2 Qd5": "Ph3 was also vulnerable. ",
+        "25. c4 Qc5 26. gxh6 gxh6 27. Bxh6": "Yes!  Next NxB!",
+        "27... Rfe8 28. Bh5": "?  Free bishop!  Black knight pinned by Rg1.  Also, that white bishop was protecting Pc4.",
+        "28... Qxc4": "NxB?",
+        "29. Rc1": "QxPa4+ loses another pawn.",
+        "29... Bxa4+": "Bxa4+, even better.",
+        "30. Kd2 Qb4+ 31. Ke2 Bb5+": "I was kind of partial to Nf4+.  NxN, PxN+.  Discovered check by Re8.",
+        "32. Kd1 Qb3+ 33. Rc2 Qd3+ 34. Bd2": "Oh, the rook might have been better.  You could get a draw with repeated moves.  Now Ba4 pins the rook.",
+        "34... Ba4 35. Ne1 Bxe1 36. Qe2 Qxe2+ 37. Kxe2 Bxc2 38. Rxe1": "Better to have used the king, preventing Nf4+ which forks Bh5.",
+        "38... Nf4+ 39. Kf3 Nxh5 40. Rc1 e4+ 41. Kg4 Nf6+ 42. Kg3 d3 43. h4 e3 44. Bc3 Ne4+ 45. Kf3 Nxc3 46. bxc3 d2 47. Rxc2 Rad8": "D1=Q+ gives black Rc2.",
+        "48. Ke2 d1=Q#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=49696",
+    "gameName": "Let's play chess",
+    "players": "stekilvington (1085) vs. wullmeister (1159)",
+    "opening": "Bishop's opening (C23)"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, this game is about two sides attacking one another.  The moral here though is that the side with the greater amount of forces in the enemy camp will work effectively together as a team and force checkmate whereas if you only have one piece in the enemy camp and your other pieces are stuck at home then, as you will see, God help you!",
+        "1... e5 2. Nf3 f5": "2. ................ f5 - this is the Latvian Gambit, this is a very wild opening but I thought I would try something different.  I thought that rather than sit back and allow my Expert opponent to dominate in the way he did in our last few matches, I would try a more aggressive approach.  It made the game a little more interesting but unfortunately I still got the same result - the blob!",
+        "3. Bc4": "3. Bc4 - also commonly played is Nxe5.",
+        "3... fxe4 4. Nxe5 Qg5": "4. ................ Qg5? - this move is a bad move.  I played this because the Poisoned Pawn Variation is a recognised spur of the Latvian and it did have a good win percentage in the Expert's database but not so in the Gameknot database.  The drawback to this variation is, as you will see, Glenda and Henry will be the only pieces to move in the entire game!",
+        "5. d4 Qxg2 6. Qh5+ g6 7. Bf7+ Kd8 8. Bxg6 Qxh1+ 9. Ke2 Qxc1": "9. .............. Qxc1 -  c6 is also played here but there is a brilliant refutation.  I will give you the game Atars v Tomson in a correspondence theme tournament in 1973 taken from chessgames.com as follows:-\r\n\r\n1. e4 e5 \r\n2. Nf3 f5 \r\n3. Bc4 fxe4 \r\n4. Nxe5 Qg5 \r\n5. d4 Qxg2 \r\n6. Qh5  g6 \r\n7. Bf7  Kd8 \r\n8. Bxg6 Qxh1  \r\n9. Ke2 c6 \r\n10. Nc3 Kc7 \r\n11. Bf4 Qxa1 \r\n12. Nxd7  Kxd7 \r\n13. Qf5  Kd8 \r\n14. Qxf8  Kd7 \r\n15. Qe8# \r\n\r\nSo, I decided to take the bishop and try and cut down the white army around my king.\r\n\r\n",
+        "10. Nf7+ Ke8 11. Nxh8+ hxg6 12. Qxg6+ Kd8 13. Nf7+ Ke7 14. Nc3 Qxc2+": "14. ...............Qxc2  - the queen escapes with check but cannot get back to the right sector of the board.  I still have had no chance to develop my other pieces.\r\n\r\nThe rook in the corner cannot be taken as 14 ............ Qxa1 allows a spectacular mate, viz:- \r\n14. Nc3 Qxa1 \r\n15. Nd5  Ke8 \r\n16. Nd6  Kd8 \r\n17. Qe8#",
+        "15. Ke1 d6 16. Nd5+ Kd7 17. Qxg8": "17. Qxg8 , there is something terribly sad about pieces dropping off like that on their home square.",
+        "17... e3 18. fxe3 Qxb2 19. Rd1 Qxh2 20. Qg4+": "20. Qg4  - the winning move.",
+        "20... Kc6 21. Rc1+ Kxd5": "21. ............. Kxd5 - I leave the database behind here and try to cut down white's army even more, but alas, Ion has still enough pieces available to force checkmate.",
+        "22. Qf3+ Ke6 23. Ng5+ Ke7 24. Qf7+ Kd8 25. Qxc7+ Ke8 26. Qxc8+": "Here I threw in the sponge on the grounds of unavoidable mate due to:-\r\n25. Qxc7  Ke8 \r\n26. Qxc8  Ke7 \r\n27. Qe6  Kd8 \r\n28. Rc8# \r\n\r\nSo, it is not always a material advantage that wins a game, it can be a greater concentration of forces that work well together around the enemy king that can effect a checkmate.  Hope this makes sense.  Hereby ends the lesson.\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/an-expert-lesson-in-concentration-of-forces?gm=17788",
+    "gameName": "An Expert Lesson in Concentration of Forces",
+    "players": "ionadowman (2047) vs. jstevens1 (1694)",
+    "opening": "Latvian (C40), Behting variation"
+}

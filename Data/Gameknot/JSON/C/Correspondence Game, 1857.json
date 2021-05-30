@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Never a bad choice.",
+        "1... Nc6": "A reply that would later be attached to the name of the great Latvian, Aron Niemzowitsch. Here Wake uses it merely to direct the game out of the usual channels.",
+        "2. d4": "Placing the Pawn here in spite of Black's opening move.",
+        "2... d5": "Preventing P-Q5 driving the Knight.",
+        "3. e5": "Seizing the black squares, but leaving his KP advanced and exposed.",
+        "3... Bf5": "Counterattack along the white squares.",
+        "4. Ne2": "To guard the base QP, but N-KB3 would be a better choice. If then 4... B-N5, 5 B-K3 develops and safeguards the QP. 4 N-KB3 would also allow the development of the KB and a quick K-side castle.",
+        "4... Nb4": "Taking advantage of White's tangled development. If White had played 4 N-KB3, he would be in a position to block the diagonal of the B with an eventual B-Q3. ",
+        "5. Na3": "Virtually forced.",
+        "5... c5": "Applying further pressure to White's position.",
+        "6. c3": "IF White had played 4 N-KB3, this move would be strong, as the Black Knight would be forced to retreat. With the KB controlling Q3, Black's best move would be 6... N-QR3, guarding the QBP and preparing R-B1. However...",
+        "6... Nd3+": "...because of White's mistake on move 4, Black wins at once with this move. After 7 K-Q2, Black wins the Exchange with 7... NxKBP forking Q and R."
+    },
+    "url": "https://gameknot.com/annotation.pl/correspondence-game-1857?gm=36575",
+    "gameName": "Correspondence Game, 1857",
+    "players": "Sherborne  vs. Wake ",
+    "opening": "KP (B00), Nimzovich defence, Marshall gambit"
+}

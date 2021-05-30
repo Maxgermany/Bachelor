@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 c5": "The Old Benoni Defence.  I have to admit, I have never seen this before, and use the database as a guide to the opening. \nHere is the computer analysis.\nhttp://gameknot.com/analyze-board.pl?bd=19349318&rnd=0.7766292316901995",
+        "2. c4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 e6 6. e3": "Here it appears that I've forgotten to consult the database, and I'm on my own.  My reasoning for e3 was to create a diagonal for my LSB to protect c4 if black plays d5.",
+        "6... Bb4 7. Qc2": "After having my knight pinned, I immediately move my queen to c2.  This became a very useful post for her, and only later when I move off c2 does it open up problems for  me.",
+        "7... O-O 8. Bd3 Re8 9. f4": "Not sure what I was thinking here.  F4 makes my e-pawn weak.",
+        "9... d5 10. Nf3 Qb6 11. O-O e5 12. cxd5": "Black gives me his d-pawn, making it possible to recover the weak e-pawn into something very useful as a supporter of d5.",
+        "12... Ne7": "Attacking d5...",
+        "13. Na4": "A silly attack of the queen.  My knight sits here doing very little for the rest of the game.\n\nHoly moly!  The computer analysis just came in, and it gives Na4 as the best possible move!  Gotta find out why.",
+        "13... Qd8 14. e4": "The computer does not like this move because of 14. fxe5 Ng4 15. Bxh7+\n\nI was too worried about protecting my leading pawn to see that alternative.",
+        "14... Ng6 15. g3 Qd6 16. fxe5 Nxe5 17. Bf4": "After posting a question about pinning knights to stalhandske, and expressing my general dislike of them, I pin the e5 knight with my DSB ",
+        "17... Bh3 18. Rf2 Nfg4 19. Bb5": "Looking into trading rooks.  I feel I did not make good use of my rooks this game, proven by moving it to f2 which doesn't make it very useful.",
+        "19... Nxf2 20. Bxe8 b5 21. Bxb5": "Rooks have been traded, and black makes another mistake by giving up a pawn.",
+        "21... Rc8": "Black attacks the queen, but gives up the knight on f2...",
+        "22. Bc6": "But I miss it!!!!",
+        "22... Nfd3 23. Nxe5 Nxf4 24. gxf4": "A series of exchanges occurs where I do end up making up the missed knight.  Better for black would have been 23.... Nxe5.  Then i could not have recaptured.",
+        "24... Qf6 25. Nd3": "A serious mistake!  I did not know what to do, so I decided to attack Bb2 while defending f4.  I was so happy with myself thinking \"the best defending move is one that also attacks.  \nWith this move I surrender the initiative. ",
+        "25... Qg6+ 26. Kh1 Bd6 27. Ne5": "Defending while attacking! This time the computer agrees with my move, and swings the favor back to me quickly.  Or does my move agree with the computer?",
+        "27... Qh6 28. Qc3": "Now for some reason I think about attacking the defended bishop to keep black's queen from taking my f4 pawn.  I didn't give 28....f6 any thought whatsoever.",
+        "28... f6 29. Nd3": "28...f6! forcing my knight off e5.",
+        "29... Qg6": "Threatening mate.",
+        "30. Rg1": "I want it back!  Along with a couple other moves I made this game.",
+        "30... Qxe4+": "I resign.  A fun game that ended too early!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-baumannjoe?gm=49399",
+    "gameName": "Challenge from baumannjoe",
+    "players": "baumannjoe (1216) vs. thebishop1000 (1253)",
+    "opening": "Old Benoni defence (A43)"
+}

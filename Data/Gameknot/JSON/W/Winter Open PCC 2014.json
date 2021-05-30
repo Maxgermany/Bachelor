@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. e3 g6": "this is odd...",
+        "5. Nc3 Bg7 6. Be2 O-O 7. b4": "taking space. I did at one time envision the dark-squared bishop going to b2.",
+        "7... dxc4 8. Bxc4 Nc6 9. Rb1 a6 10. O-O b6 11. a4 Bb7 12. Qe2 Ne7 13. Rd1": "I wonder how e4 would fare? I think I would have advance 1 too many pawns. ",
+        "13... Ned5 14. Nxd5 Nxd5 15. Bd2 c6 16. e4 Re8 17. Bb3 Nf6 18. Bc2 Qc7 19. Bg5 Rac8 20. e5 Nd5 21. Qd2 c5 22. bxc5 bxc5 23. Be4 Bc6 24. Bxd5 Bxd5 25. Bf6 Bxf3 26. gxf3 c4 27. Qc3": "Blockade! a passed pawn must be under lock and chain no in surveillance. ",
+        "27... Qc6 28. a5 Rcb8 29. Rb6 Rxb6 30. axb6": "it was somewhere around here that I literally at less than 1 minute on the clock. ",
+        "30... Qxb6 31. Qxc4 Qb7 32. d5 exd5 33. Qxd5 Qxd5 34. Rxd5 Bxf6 35. exf6 h5 36. Kg2 Kh7": "I'm unsure of the continuation in the order of moves. ",
+        "37. h4 Ra8 38. Ra5": "White lost on time"
+    },
+    "url": "https://gameknot.com/annotation.pl/winter-open-pcc-2014?gm=57644",
+    "gameName": "Winter Open PCC 2014",
+    "players": "freeman  vs. J. Richards ",
+    "opening": "Queen's pawn game (D02)"
+}

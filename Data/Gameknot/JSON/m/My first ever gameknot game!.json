@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nI have taken a trip down memory lane again, this time I have gone back to my very first game I played on gameknot.  This game ended happily for me.  My opponent played the Alekhine's Defense.  Nf6 in response to my 1. e4.  When I joined Gameknot it was to keep my hand in while easing my way back onto the OTB tournament circuit so I played the game as much as possible like an OTB one - no database and no analyse the board - instinct only.",
+        "1... Nf6 2. e5 Nd5 3. c4 Nb4 4. d4 c6 5. Nf3": "5. Nf3 - after establishing a strong pawn centre I develop a piece.",
+        "5... Qa5 6. Bd2": "6. Bd2 - to prevent a nasty knight discovery.",
+        "6... e6 7. Be2 d6 8. O-O": "8. Should have played a3! as this wins the knight on b4.",
+        "8... g6 9. Nc3": "9. Nc3?? Good developing move but lost opportunity for winning piece with a3.",
+        "9... c5 10. exd6 Bxd6 11. dxc5 Bxc5 12. a3": "12. a3 - at last, but it only wins piece for 2 pawns.",
+        "12... Nb4c6 13. b4 Nxb4 14. axb4 Qxb4 15. Qa4+": "Ion had this to say about my 15th move - 15.Qa4ch is a fine move that at least maintains you material and temporal advantage. Black ought simply to have exchanged queens, as you took full advantage of 15...Bd7. However, even better than 15.Qa4 , it seems to me, was 15.Nb5 (While I think of it 15.Nd5 was also worth a serious look, but let's stay with Nb5 for now). Look at the mess Black is in! Where is the queen to go? 15...Qb2 16.Bc3 and all Black's heavy pieces are en prise, or under heavy threat. And the Black king is about to become a widower. So the queen has no escape. Can Black create one a move earlier? 15.Nb5 Bxf2ch(!!) creates a \"luft\" for the queen and gains a tempo for the loss of a piece. Now, I suppose one's first thought for White would be to retake with the rook, often it is worth thinking about alternatives. Retaking with the king guards to e3-square so that if (16.Kxf2) Qc5( ) 17.Be3 maintains a terrible crimp on Black's game, and now White has 2 pieces for 3 pawns. By the way, the analogous line after 15.Nd5 goes 15...Bxf2ch 16.Kxf2 Qc5  17.Be3 Qd6 (or ....Qc6) 18.Nb6! Or: 16.(Kxf2) Qd6 17.Bb4 Qd8 18.Be7 Qd7 19.Nf6ch (Ooooo, you nasty thing!) \r\n",
+        "15... Bd7 16. Qxb4 Bxb4 17. Nb5": "17. Nb5 - threatens fork on c7 and uncovers an attack from Fou Lenoir onto his dsb.",
+        "17... Na6 18. Bxb4": "ID. An interesting point arose after Black's 17th (...Na5). Now, 18.Bxb4(!) is probably the best: forcing large scale exchanges whilst preserving your material edge. But did you consider 18.Rxa6!? as an alternative attempt to exploit the forking possibility at c7? (18.Rxa6!? bxa6 19.Nc7ch Kd8 (forced) 20.Nxa8 Bxd2 21.Nxd2 Bc6 22.Bf3 etc. White increases his material advantage. But the story doesn't end there. Suppose Black were to play (17...Na5 18.Rxa6) ...Bxb5(!). Then 19.cxb5 Bxd2 (Of course, 19...bxa6 20.Bxb4 gives White 3 minor pieces for a rook - an overwhelming advantage) 20.Ra2 and White still has a minor piece for 2 pawns, but Black has a bishop (opposite squares to White's at that) rather than the knight. On balance, then, I prefer your game continuation. But 18.Rxa6?! was definitely worth a look!",
+        "18... Bxb5 19. cxb5 Nxb4 20. Rfc1 O-O 21. Rc7": "21. Rc7 - as per my game against ralbamal this is a Bone in the throat!",
+        "21... Rab8 22. Rxa7 Nc6 23. bxc6 bxc6 24. Rxc6": "24. Rxc6 - In eliminating black's last queenside pawn I leave myself vulnerable on the back rank.  Luckily Fou Leblanc can block but oh dear there are two castles that can gang up on him.",
+        "24... Rb1+ 25. Bf1 Rd8": "25. ........ Rd8 - danger, danger, danger!",
+        "26. Ne5": "26. Ne5! - Ion had this to say about this move - After 18. Bb4, Black had a rook pawn too hard to defend, and contrived to lose an extra piece into the bargain. However spirited Black's subsuquent counterattack, you were never in very serious danger from it, given sufficient alertness. All the same, 26.Ne5! called for fine judgement and accurate play. You were always in a position if necessary to bale out with g3 or h3, but your hold on the initiative meant you never were called upon to do so (how early did you spot that knight manoeuvre to e3: when you played it to e5? If so: not bad, especially as not only did it stop Black's mating threat cold, meant that in trying to avoid an exchange of rooks, lost one for nothing to stop -slow down- your own king hunt. I also liked the choice of 4 checkmates in the final position... \r\n",
+        "26... Rdd1 27. Rc8+": "27. Rc8  - a king hunt is about to begin at the other end of the board though!",
+        "27... Kg7 28. Rxf7+ Kh6 29. Ng4+ Kg5": "29. ....... Kg5 (forced)",
+        "30. Ne3": "30. Ne3 - defends Fou Leblanc.",
+        "30... Rd2 31. Rc5+ Rd5": "31. ....... Rd5?? - scuicide but black was already miles down on material.",
+        "32. Nxd5 exd5 33. Rxd5+ Kh6 34. g3 g5 35. Rd6+ Kh5 36. Rdf6 Rb5": "36. ....... Rb5 - trying to sac his rook and get a stalemate but I am having none of it.  After my next move it is #2.",
+        "37. Rxh7+ Kg4 38. f3#": "I had a choice of 4 mates here - a pawn mate is very nice! - JS"
+    },
+    "url": "https://gameknot.com/annotation.pl/my-first-ever-gameknot-game?gm=10899",
+    "gameName": "My first ever gameknot game!",
+    "players": "jstevens1 (1200) vs. pineapplesoup (1198)",
+    "opening": "Alekhine's defence (B02)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3": "At this point, white is playing passive. I am not aware that he's playing Colle's system. Therefore I decide to transpose into a Queen's gambit. ",
+        "4... c5 5. c3": "White's response seemed strange (I didn't realise it's Colle's opening). NC6 would have been the continuation of QGD, but I wasn't sure of what white is playing. Nd7 seemed better because Nc3 doesn't seem to be coming.",
+        "5... Nbd7 6. Nbd2": "At this point, I looked up the GameDB and realised that this is a Colle's system. A quick wikipedia look (did I cheat?) showed that white's plan is to push E5, and attack kingside possibly with a bishop sacrifice to pick h7.\nMy counter play was to deny E5 (wikipedia said that the system is inflexible) - and keep a somewhat symmetrical position to attack h2 and g2 with my bishops.",
+        "6... Bd6 7. O-O O-O 8. Re1 b6": "Preparing to get bishop in line to X-ray g2.",
+        "9. dxc5": "This move is crucial for black. BxC5 will allow e4, dxe3 and Nxe4. Either I have to give up the dark squared bishop (which is very strong as pawns are on light squares) or move it to a passive e7.",
+        "9... Nxc5 10. Bc2": "Tables are turning - now white is hiding it's good (light squared) bishop.",
+        "10... Bb7": "x-ray of g2 is complete.",
+        "11. b4 Nce4": "Best square for the knight! This blocks the centre - denying access to h7. It is defended thrice.",
+        "12. Nxe4 Nxe4": "Continue to block Bxh7",
+        "13. Nd2": "White wants to push f3 to push pressure on e4 (I guess).",
+        "13... f5": "Fortifying e4 - continuing with the plan to deny E4 access.",
+        "14. Nxe4": "I think this was a mistake - now pawns will lock down the centre and white is too passive.",
+        "14... fxe4": "Now black has a rook lift available as well.",
+        "15. a4": "This was a crucial mistake. While pushed queenside because the original plan of colle's sacrifice has been blocked.\nBut tables are turned - black can get dark squared bishop, queen and rook to attack the king, which is defenceless.",
+        "15... Bxh2+": "sacrifice.",
+        "16. Kxh2 Qh4+ 17. Kg1 Qxf2+ 18. Kh2 Rf6": "And the took lift - white is lost now.",
+        "19. Kh3 Rg6": "This was a mistake. Rh6 was better. Rh6, Qh5, Rxh5, Kg4, Qh4#. Black missed this line and game will drag a bit with Qg4, Rxg4, Kxg4, Qxe1 and so on.\nBut white resigned as it's going to Q,R,B against just 1 rook (or bishop). Black queen can clean up almost the entire back rank which is completely disharmonious."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=65200",
+    "gameName": "Let's play chess",
+    "players": "willyvw (1703) vs. apurvg (1289)",
+    "opening": "Colle system (D05)"
+}

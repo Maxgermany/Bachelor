@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. c3": "I try out a new idea.",
+        "3... d5": "Of course. Black has to break up white's center before it is too late.",
+        "4. exd5 Qxd5 5. d4": "An inaccuracy. c4 might have been better.",
+        "5... Bg4": "Here's why.",
+        "6. Be3": "I consent to having my pawns scrambled.",
+        "6... O-O-O": "Black is clearly better.",
+        "7. Be2 exd4 8. cxd4 Bb4+ 9. Nc3": "The queen isn't really attacked.",
+        "9... h6": "He sees that.",
+        "10. O-O": "Now the queen is threatened.",
+        "10... Qh5 11. h3": "Dangerous, but best.",
+        "11... Bxf3 12. Bxf3 Qh4": "Getting out of fire.",
+        "13. g3": "I set a little but venomous trap.",
+        "13... Qxh3": "Oops! the queen is a goner.",
+        "14. Bg4+": "He resigned. After ...Qxg4, Qxg4+ Rd7, Qxg7 black wouldn't stand a chance after losing another rook."
+    },
+    "url": "https://gameknot.com/annotation.pl/luring-her-majesty-a-little-too-far?gm=64777",
+    "gameName": "Luring her majesty a little too far...",
+    "players": "lake-bay (1640) vs. spastic (1494)",
+    "opening": "Ponziani (C44), Caro variation"
+}

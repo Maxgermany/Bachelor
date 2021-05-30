@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "This one saw me wrap up my 1400th win on the best chess site. GameKnot. Bearwits, thank you ! Standard e4, c5. d3, Nc6 opening. My c5 reply I feel gives me options !",
+        "1... c5": "The Sicilian defence a fav of many former great players. Myself who is a massive fan of it.",
+        "2. d3 Nc6 3. Nf3 d6 4. Be2 g6": "I think this is called fianchetto, perhaps those of superior chess knowledge will comment. Any's having the dark squared bishop here is threatening.",
+        "5. O-O Bg7 6. c3 e6 7. h3 Nge7": "Nge7 supports nc6, getting the Knights working together can be deadly !",
+        "8. Bd2 O-O 9. a3 Qb6": "Qb6 ?? Thought so myself on reflection. Leaves d6 hanging, do I have a plan ?",
+        "10. b4 cxb4 11. axb4": "Nxb4 ! White can't take or Bxa1, leading to an advantage in piece material.",
+        "11... Nxb4 12. Na3 Nbc6 13. Nc4 Qc7 14. Qc1": "Qc1 ? Threating Bh3 !",
+        "14... Re8": "Re1 ! Having my Rook pinned doesn't benefit me !",
+        "15. Nh2 b6 16. f4 Bb7": "Bb7 ! Both bishops playing a role from afar !",
+        "17. Qa3": "Qa3 ?? Move baffled me as does this help white's momentum ?",
+        "17... Red8 18. Rac1 b5": "b5, that Knight was bugging me. Also saw an opportunity for a possible two passed pawns. Was I already getting greedy. With the Bishop on g7. White's queenside is looking vacant !",
+        "19. Ne3 a5 20. d4 Qb6": "White has to bring a piece over on queenside !",
+        "21. Rcb1": "White has two pieces hanging !!",
+        "21... Ba6": "I'd say time to launch an attack on one of them hanging pieces. I'm sure it say's in books, protect your pieces at all times ??",
+        "22. Nc4": "knc4 ?? Interesting move, gains what ?",
+        "22... Qc7 23. Ne3 b4": "b4 weaken's white's centre (attack's the White Queen, although those three musketeers are battle hardened. Open's the door for Bxe2",
+        "24. Qb3 Bxe2": "Piece advantage ! Bd3 coming right up !",
+        "25. Rfe1 Bd3 26. Rbc1 Bxe4": "Now the threat of white's rook on the e file ain't much of a threat.",
+        "27. Neg4 a4 28. Qc4 Bd5 29. Qf1": "b3 leads to c4 ! light squared bishop then has limited options, I feel.",
+        "29... bxc3 30. Bxc3 Nf5": "There's a possible pin that I'm aware of. Rc1 on knc6, so that stays put. kne7 tof5 ! Double pronged attack. e6 ! & h4, threatens g2. I'm sure white is feeling somewhat pressurised.",
+        "31. Nf3 a3 32. Rca1 Bxf3": "Ganging up on a piece at times is a smokescreen !",
+        "33. Qxf3 Ncxd4 34. Rec1": "Blunder !! What is white thinking ? ",
+        "34... Qb6": "Missed move on my part ! Or not ! Checkmate is a possiblity with my two warrior knights !",
+        "35. Qf2 Ne2+": "At this point white resigns. As kn(5)g3 leads to significant damage to whites cause.",
+        "36. Kh1 Nfg3+ 37. Qxg3 Nxg3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=63827",
+    "gameName": "Let's play chess",
+    "players": "bearwits (1528) vs. bogota (1598)",
+    "opening": "Sicilian defence (B20)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 Nc6 3. g3 e6 4. Bg2 Nge7 5. d3 Ng6": "I would normally play f2-f4, but for this game, decided to do something different, especially given that knight's position almost invites the next move. ",
+        "6. h4 d6 7. h5 Nge5 8. f4 Nd7 9. Nf3 Nb6": "By this moment, I was quite happy with my position, space control and piece positioning. Now I think I should have played something like Be3, Qd2 and then 0-0-0 or 0-0 depending on black's actions. But I decided to test the famous \"when in lead in development, open up the position\" principle. ",
+        "10. d4 cxd4 11. Nxd4 Bd7": "Passive move, after which the advantage is clearly mine. Here I definitely should have played Be3 with maybe Bf2 later, Qd2 and queenside castling. But I decided to continue the policy of limiting black's options. I was concerned, that Be3 would be met by Nc4, which is why I played the next move. ",
+        "12. b3 Qf6": "First move that I did not even consider in my calculations. First sign of sloppy play - seeing unexpected moves. ",
+        "13. Be3 Nxd4 14. Qxd4": "This type of the position is when the negative sides of a move like b3. a1-h8 diagonal is opened up...",
+        "14... e5": "Here I would play something like Bc6. ",
+        "15. Qd2 exf4 16. Bxf4": "Mistake that almost costed me a game. I was still optimistic about my position, but I miss a tempo to castle! Now the mentioned weakness of the big diagonal comes into play...",
+        "16... Rc8 17. e5": "Forced. ",
+        "17... dxe5 18. Ne4": "My only hope is tactical play and hope that the opponent makes a mistake. ",
+        "18... Qc6": "And there is the mistake! I did not quite understand why black gives me the e-pawn. Now, with both kings in the center, the cost of the mistake is very high on every move! ",
+        "19. Bxe5 Qxc2": "Here I was considering 0-0 and h6. 0-0 seemed safer, but h6 seemed to be a promising continuation, further sharpening the position. I also quickly considered Rd1, but then thought that committing the rook to d1 was not the good idea, maybe later I would need to put the rook on e1. ",
+        "20. h6 f6": "I wasn't expecting this. I thought white would exchange on d2 and if I took with the knight, then f6. ",
+        "21. hxg7": "Good one! ",
+        "21... Bxg7 22. Nd6+ Ke7 23. Nxc8+ Qxc8": "Strange move. R:c8 was more natural. Now, the rook on h8 will remain there till the end of the game...",
+        "24. Qd6+ Kf7 25. O-O Be6 26. Rac1": "Qd6, 0-0, Rac1, all moves that are natural, straightforward, easy to find. The attack develops by itself...",
+        "26... Qd8 27. Rc7+ Nd7 28. Bd5": "All white pieces are participating in the attack, whereas black rook and partially black bishop are offside. ",
+        "28... Kg6 29. Qxe6 Nxe5 30. Be4+": "Mating. Interesting game with mistakes, but it wouldn't be fun without mistakes!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-beginner78?gm=11578",
+    "gameName": "Challenge from beginner78",
+    "players": "beginner78 (1200) vs. cartoon (1643)",
+    "opening": "Sicilian (B24), closed"
+}

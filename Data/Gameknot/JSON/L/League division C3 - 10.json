@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. Bf4 c5": "This is always interesting",
+        "4. e3 Qb6 5. Qc1 Nc6 6. c3 d5 7. Bd3 cxd4 8. exd4 Bd7 9. Nbd2 Rc8": "Whites queen isn't in a good place",
+        "10. Qb1 Nh5 11. Be3 h6 12. O-O f5": "Well that creates a space which my knight would like to exploit, and I guess black will not castle",
+        "13. Nh4 g5 14. Ng6": "Black can trap the bishop here but at a price",
+        "14... Rg8 15. Nxf8 Kxf8 16. Nb3": "n c5 looks appealing",
+        "16... f4 17. Bd2 Ne7": "Black has opened up the king side",
+        "18. Nc5 Rxc5": "I am surprised by this although I suspect some black thinks there is enough momentum on the king side to force a win",
+        "19. dxc5 Qxc5 20. Re1 g4 21. Re5 g3 22. hxg3 Nf5 23. Bxf5 exf5 24. Rxf5+": "Black's attack is crumbling",
+        "24... Bxf5 25. Qxf5+ Ke7 26. Re1+ Kd8 27. Qf7 Rf8 28. Qxh5 fxg3 29. Qh4+ Kc8 30. Qg4+ Kb8 31. Qxg3+": "Black resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-c3?gm=31835",
+    "gameName": "League division C3",
+    "players": "dwardman (1873) vs. the_elite_knight (1703)",
+    "opening": "Queen's pawn (A46), Torre attack"
+}

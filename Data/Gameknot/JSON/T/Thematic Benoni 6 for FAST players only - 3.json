@@ -1,0 +1,12 @@
+{
+    "moves": {
+        "1. d4": "Not much to this game, but a sort of interesting tactic/trap.",
+        "1... Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7": "7 Moves of the benoni 6 main line. ",
+        "8. Qa4+ Nbd7 9. Bf4": "Attacking d6..?",
+        "9... O-O 10. Bxd6 Nb6": "White's bishop is lost. Watch out fellow d4 players! "
+    },
+    "url": "https://gameknot.com/annotation.pl/thematic-benoni-6-for-fast-players-only?gm=15976",
+    "gameName": "Thematic Benoni 6 for FAST players only",
+    "players": "wwgia (1781) vs. jakey101 (1771)",
+    "opening": "Benoni (A70), classical without 9.O-O"
+}

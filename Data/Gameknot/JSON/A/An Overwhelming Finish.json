@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone, \r\n\r\nI have just taken a trip down memory lane and found happiness.  I feel like doing this after yet another Expert loss.  Here is another game against The Dentist which ended in an overwhelming victory for me at the end.  Here is the beginning and The Dentist kicks off with d4 against me.  He did that for many games against me and then tried e4 and the Patzer's Opening.  Thankfully I beat him then but that is another story.  Anyhow, on with this one and I respond with d5.",
+        "1... d5 2. e3 e6": "2. ....... e6 - symmetry.",
+        "3. Nf3 c5 4. c3 cxd4 5. exd4": "5. exd4 - pawn trade.",
+        "5... Nc6 6. b4 a6 7. Qa4 Bd7": "7. ...... Bd7 - Fou Leblanc develops and breaks the pin on my queen knight.",
+        "8. Qc2 Nf6 9. Bf4 Be7": "9. ........ Be7 - development.",
+        "10. Bd3 O-O 11. Ng5 h6 12. Bh7+ Kh8": "12. ...... Kh8 (forced), thank God my rook is defending f7, can you the jury see why I say thank God?",
+        "13. Bg6 hxg5 14. Bxg5 fxg6 15. Qxg6": "15. Qxg6 - white has sacrificed 2 pieces for 2 pawns for a mating attack.  Thankfully it fails.",
+        "15... Nh7 16. Be3 Bg5 17. Bd2 Bxd2+ 18. Nxd2": "18. Nxd2 - when ahead in material, trade, trade and trade again unless there is a really special reason not to do so.  The Wicked Witch of the West cannot deliver mate without assistance.  If only I can either exchange queens or swap off the rooks.  The game will really be my own.",
+        "18... Qg5 19. Qxg5 Nxg5": "19. ....... Nxg5 - a queen trade, yip, yip, yipee!  2 pieces up and no Old Matey to worry about, I am in 7th heaven here.",
+        "20. O-O": "20. 0-0 - castles - a good idea to bring his remaining material in to play, but my opponent is 2 pieces down, a tall order against a player who at the time was 200-300 points north of his rating.  Still, having a winning advantage is one thing, converting it is another.  I hope this will proved a useful lesson to all ye beginners and intermediate players on how to convert such a material advantage to a forced win.",
+        "20... Rae8 21. f4 Nh7 22. h3 Rec8 23. h4 b6": "23. ....... b6 - consolidation.",
+        "24. g3 Ne7": "24. ....... Ne7 - unmasks a battery onto the c3 pawn which white misses!",
+        "25. Nf3 Rxc3 26. Ne5 Bb5": "26. ....... Bb5 - now attacks white's rook, but white also overlooks this with 27. a4?? allowing me to take the rook.",
+        "27. a4 Bxf1 28. Kxf1 Rfc8": "28. ....... Rfc8- this pile up on the c column will prove lethal to the Dentist.",
+        "29. Nf7+": "29. Nf7+  - a spite check only.",
+        "29... Kg8 30. Nd6 Rc3c1+ 31. Rxc1 Rxc1+": "31. ...... Rxc1+ - I now force off white's remaining rook, things get nastier and nastier for him.",
+        "32. Ke2 Nf5 33. Kd2 Rg1 34. Nc8 b5 35. axb5 axb5 36. Na7 Nd6": "36. ....... Nd6 - preventing the Dentist from getting a passer on the b column.",
+        "37. Ke2 Rxg3 38. Nc6 Rc3 39. Ne7+": "39. Ne7+ - another spite check.",
+        "39... Kf7 40. Nc6 Rxc6": "40. ...... Rxc6 - is the Dentist playing for a stalemate I wonder?",
+        "41. Ke3 Nf5+ 42. Kf3 Nf6 43. h5 Rc3+": "43. ...... Rc3+ - I am beginning to see a way of moving in for the kill.  The enemy king will now be driven right back as follows.",
+        "44. Ke2 Nxd4+ 45. Kd2 Ne4+": "45. ........ Ne4+ - checking the WK and protecting the rook on c3 simultaneously.  The WK is now driven back to the back rank.",
+        "46. Kd1 Rc2": "46. ...... Rc2 - I now announce mate in 3.   I gave the Dentist a careful analysis of the checkmate.  Can you find the checkmate.  For the members of the jury that enjoy doing puzzles.  Please do not put your solution in the comments but do send me a pm with your solution.  I will verify it, I promise.  My opponent waved the white flag.  What a relief!"
+    },
+    "url": "https://gameknot.com/annotation.pl/an-overwhelming-finish?gm=23532",
+    "gameName": "An Overwhelming Finish",
+    "players": "The Dentist (1249) vs. jstevens1 (1783)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

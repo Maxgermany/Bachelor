@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bd6 5. c3 O-O 6. O-O Qe7 7. Bg5 h6 8. Bh4 Bc5 9. b4 Bb6 10. Re1 Re8 11. Bxc6 dxc6 12. h3 c5 13. a3 cxb4": "This is the biggest advantage Black gets in the whole game.",
+        "14. axb4 c5 15. bxc5 Qxc5 16. d4 exd4 17. cxd4 Qc7 18. Bg3 Qd7 19. Be5 Bc7": "Probably not the best. With the unbelievable 19...Rxe5! 20. dxe5 Qxd1 21. Rxd1 Nxe4 22. Ra2 Be6 gives Black the two bishops and good attacking prospects for the exchange.",
+        "20. Bxf6 gxf6 21. Nc3 f5 22. Qd3 fxe4 23. Nxe4 Qf5": "Here Black walks into the losing exchange.  23...Re6 would have been a better alternative.",
+        "24. Nf6+ Qxf6 25. Rxe8+ Kg7 26. Re4": "....but White returns the favor and the exchange. He would have consolidated his advantage with 26. Ne5 Bd6 27. Rc1 b5.",
+        "26... Bf5 27. Rae1 Bxe4 28. Qxe4 Qc6 29. Qg4+ Qg6 30. Qd7 Qd6 31. Re7 Qxd7 32. Rxd7 Rc8 33. d5 b6": "33...Kf6 was better, to get the king into the game.",
+        "34. d6": "34. Nd4 gives White better prospects. ",
+        "34... Bb8 35. Ne5 Rf8 36. Nc6 Kf6": "Black should have made the most of his passed pawns. 36...a5 37. Nd4 Rc8 38. g3 Kf6 keeps White's advantage to a minimum, but the text-move does not cause any major damage.",
+        "37. Nxb8 Rxb8 38. Rxa7 Rd8": "yet again, 38....b5 is better, but the text-move does not spoil Black's chances that much, but Black must play with more care.",
+        "39. d7 Ke7 40. Rb7 Rxd7 41. Rxb6 f6 42. g4 Kf7 43. Kg2 Kg6 44. Re6 Rf7 45. Kg3 Rd7 46. h4 Rd3+ 47. Re3 Rd5 48. Re4 f5": "48...Rd6 is better, as it gives support from the back. Now things get tougher for Black.",
+        "49. Re6+ Kg7 50. gxf5": "50. g5 hxg5 51. hxg5 Rd4 52. f3 is better. The text-move gives Black more control and gives Black better drawing chances.",
+        "50... Rxf5 51. f4 h5": "....and here is one of three mistakes that should have cost Black the game. Here 51...Rd5 halts White's attack enough so that Black can organise himself to get better chances.",
+        "52. Kf3": "52. Re5 was a better alternative. ",
+        "52... Kf7": "52...Rc5 was better here.",
+        "53. Re5 Kf6": "This is the main blunder. White is able to infiltrate Black successfully. Here 53...Kg6 supports both pieces and gives Black more chances. Black may have lost his last chance, however......",
+        "54. Rxf5+ Kxf5 55. Ke3 Kg4 56. Ke4 Kxh4 57. Ke5": "White throws away a golden oppourtunity: He wins with 57. Kf3!! where via computer analysis, Black cannot avoid mate in twelve moves. The text-move gives Black a draw, as both sides queen on the same move.",
+        "57... Kg4": "57....Kg5 does not work, as we shall soon see.",
+        "58. f5 h4 59. f6 h3 60. f7 h2 61. f8=Q h1=Q 62. Qg8+": "....now we see why 57...Kg5 would have been a blunder. Black would have been forced to play Kg6, 5 or 4 and then Qh8 or h7+ wins the queen.",
+        "62... Kf3": "?? - Biggest blunder of the game, this walks into Mate in eight! Who did not see the skewer at this point? 62...Kh3 is the only move, and gives a draw. ",
+        "63. Qb3+": "?? - however, White for the second time, throws away his winning chance. He wins via the skewer: 63. Qa8+ Ke3 64. Qxh1 Kd3 65. Qc6 Ke2 66. Qe4+ Kd1 67. Qg2 Kc1 68. Kd4 Kd1 69. Kd3 Kc1 70. Qc2#\n",
+        "63... Kf2 64. Qb6+ Kg2 65. Qg6+ Kf2": "Draw Agreed. A highly entertaining game that had its highs and lows."
+    },
+    "url": "https://gameknot.com/annotation.pl/titanic-struggle?gm=41978",
+    "gameName": "Titanic Struggle",
+    "players": "ynpildop (1547) vs. beast66 (1526)",
+    "opening": "Ruy Lopez (C65), Berlin defence, Mortimer variation"
+}

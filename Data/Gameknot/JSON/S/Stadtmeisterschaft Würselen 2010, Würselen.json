@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d3 d6 4. Nc3 Nf6 5. Be2 Bg4 6. h3 Bh5 7. O-O Be7 8. Be3 O-O 9. g4": "he whanted attack my kingsite",
+        "9... Bg6 10. Nh4 Qd7 11. Nxg6": "take with h or f pawn?",
+        "11... fxg6": "I took with f pawn to open the f-file",
+        "12. Bg5 Nd4": "bring the Knight in better position",
+        "13. Bxf6": "take with bishop or with pawn?",
+        "13... gxf6": "I took with the pawn to have better pawn structure",
+        "14. Qd2 Kg7": "so that the Q dont move to h6",
+        "15. f3 Rad8 16. Rf2 Rf7 17. Raf1 Rdf8 18. Nd5 c6 19. Nxe7 Qxe7 20. c3": "take the biship or go away?",
+        "20... Ne6": "I whent away to bring Knight to f4",
+        "21. d4 Nf4 22. Kh2 Qd7 23. Qd1": "maybe h5 is possible???",
+        "23... Qe6 24. b3 b5 25. c4 Qd7 26. a4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/stadtmeisterschaft-w-rselen-2010-w-rselen?gm=34492",
+    "gameName": "Stadtmeisterschaft  W\u00fcrselen 2010, W\u00fcrselen",
+    "players": "Janssen, Fynn (906) vs. Hackmann, Ralf (1084)",
+    "opening": "King's pawn game (C44)"
+}

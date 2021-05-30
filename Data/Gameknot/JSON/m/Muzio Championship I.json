@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6": "This is the start-posistion of the crazy mini-turnament called Muzio-Championship I. ",
+        "7. e5": "This offer seems logical with the following ...Qxe5 8. Bxf7+, Kxf7 9. d4, Qxd4+ 10. Bd3, Qf6, and now the black king is in the line of danger. But this variation seemed at first weak to me having seen other games played like this, so I decided to do it differently...",
+        "7... Qxe5 8. b3 Nc6 9. Bb2": "He didn't take my tower, so I had to press further on to catch the queen in this already hopeless posistion.?",
+        "9... Qxb2": "Queen is locked up:-), now whit wants to hit f7",
+        "10. Nc3 Bd6 11. Qh5": "Ta-e1 was also possible but not as dangerous",
+        "11... Ne5": "I think black should have moves his king...",
+        "12. Rae1 Qxc2 13. Qxf7+ Kd8 14. Rxe5": "Here I was hoping for a draw (14..., Ne7 15. Txe7, Bxe7 16. Te1, Te8 and there is good chances. \n\nnot totally precise. There is something with the move Nd5, but white still have to look out for his king",
+        "14... Bxe5 15. Qf8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/muzio-championship-i?gm=33604",
+    "gameName": "Muzio Championship I",
+    "players": "jazzas (1622) vs. lukagracia (1597)",
+    "opening": "KGA (C37), Muzio gambit, Paulsen variation"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4 g6 3. Qf3 e6": "White shows his contempt for his lower rated opponent.  Is it warranted?  3... e6 is forced, but here we reach the central discussion at hand.  White's bishop is useless in it's current position.  Should black play d4 the first chance he gets?",
+        "4. Nh3 Bg7": "I think there's a chance that 4... a6 is called for, but white is attempting some serious pressure, so why not make a move that also prepares for early castling if need arises?",
+        "5. d3 Nc6": "As soon as black plays Nf6 or Ne7, he can play d5.  The white queen prevents it without the knight move.",
+        "6. Nd2 Nf6": "Black is free anytime he wants to play d5.  Traditional logic is that d5 expands the black center with a gain of tempo, but is it really?  After d5, white moves the bishop (either to b3 or to b5), but didn't he want to anyway?  By white making a move he wanted to make, the effect of the so called gain is negligible.",
+        "7. Bb5": "This move is a mistake, but that's partly my point.  White tired of waiting for the \"expected\" move.  Now, if I had immediately played Nf6 then d5, the knight on c6 would be pinned, but because the c knight was developed first and d5 delayed, black retains flexibility.  Unfortunately for white, it only looks like the common line.",
+        "7... Nd4": "From delaying d5, black plays Nd4 with three threats.  White has to move the queen although he does have some say in the matter.  At the very least the bishop is lost.  I expect the best continuation on such a mistake would be 8.Bxd7  Qxd7 9.Qd1.  If black does anything less than Qd1, the rook is lost.  So why solve your opponents problems for him?",
+        "8. Qe3": "White is already down, but this is catastrophic.  Maybe if white was already castled or c2 was protected, the idea of 8... Nxb5 9. Qxc5 Nc7 would get some activity out of the bishop loss to compensate.",
+        "8... Nxc2+": "White resigns.  So while there is not a doubt that challenging for the center is essential, we have to do it on our terms."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-when-to-play-d5?gm=17962",
+    "gameName": "Sicilian - when to play d5.",
+    "players": "cpm74 (1629) vs. mokru (1485)",
+    "opening": "Sicilian defence (B20)"
+}

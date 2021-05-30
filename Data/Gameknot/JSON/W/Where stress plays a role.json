@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "The King's Pawn Game.",
+        "1... e5": "He decides to play the Double King's Pawn opening, but I am used to that.",
+        "2. Nf3": "I start to develop my minor pieces by bringing out my knight.  In this position, I also threaten to capture his free pawn with Nxe5.",
+        "2... Nc6": "He responds and starts to develop his minor pieces by bringing out his knight to protect his pawn on e5.",
+        "3. Bb5": "I bring out my bishop with Bb5 since his knight is on c6.  That is because I threaten to capture his knight with Bxc6, in this position.  However, this was a mistake, and I am no longer 100% focused on this game since I am already beginning to think about my appointment.  The situation only gets worse from here.",
+        "3... Nf6": "This mistake will allow him to capture a free pawn with Nxe5 after the exchange has occurred with Bxc6 and dxc6.",
+        "4. Bxc6 dxc6 5. Nxe5 Bd6": "Now, he plays Bd6 and threatens to capture my free knight with Bxe5.  ",
+        "6. Nc4": "I played Nc4 and threatened to capture his bishop with Nxd6, but this is another mistake.  Instead, I should have protected my pawn on e4 with d3, but I am now thinking about what I must do to get organized and ready for the appointment.  Therefore, it enables him to get a free pawn with Nxe4.  ",
+        "6... Nxe4 7. Qg4": "This was my biggest mistake.  Instead, I should have castled immediately since I am in a safe place, the kings side, as opposed to bringing out my queen with Qg4.  However, I figured that I would threaten to capture his pawn with Qxg7.  That is because I became more distracted and overwhelmed, at this point, then the rest of the game.  In fact, I was just as preoccupied, at this moment, as August when my rating was below 900.  Therefore, he is now able to capture my free queen with Bxg4. ",
+        "7... Bxg4": "Because he got my queen for free, I resigned.  I learned, perhaps, the most important lesson from this game combined with many other games during the year.  When one has things to do, and/or places to go, the player should not play or resume playing chess until he or she has taken care of business.  That is because it is extremely likely that a person will not play well if he or she is preoccupied or overwhelmed during a chess game."
+    },
+    "url": "https://gameknot.com/annotation.pl/where-stress-plays-a-role?gm=42314",
+    "gameName": "Where stress plays a role",
+    "players": "jkarp (1003) vs. snowbun (1031)",
+    "opening": "Ruy Lopez (C65), Berlin defence"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "El ajedrez se trata de crear figuras geom\u00e9tricas con los elementos que nos dan. El ajedrecista es como un alba\u00f1il que tiene que construir puntos fuertes dentro de la estructura del adversario desde donde amenace el adversario. Entonces que elementos de construcci\u00f3n tenemos. Diagonales, que la hacen los alfiles, Columnas, que las hacen las torres, Vigas o filas, que las hacen las torres. Remaches, que los hacen los caballos y los peones. La dama tiene varias propiedades y el rey todas las debilidades. Una diagonal de peones fortalece la diagonal que ocupa y deja debilitada la diagonal que no ocupa. Dos peones en el centro fortalecen las cuatro casillas sobre las que influencian y debilitan las dos casillas de los costados. Dejamos un punto debil cuando hay un peon atrasado y uno adelantado. El punto debil esta en el costado del peon adelantado y el frente del peon atrasado. Entonces desde ese punto domina la situacion la pieza que pongamos. Es un lugar para ocupar, donde no puede ser desalojada la pieza. Pero eso solo no hace ganar la partida. hay que ver el concepto y el modo de usarlo. las diagonales o columnas o filas que dominan las otras piezas se pueden obstruir con una pieza nuestra que este defendida. Tambi\u00e9n se puede desviar las piezas contrarias. \n\n",
+        "1... e5": "Con la apertura del blanco le dimos lugar a las diagonales del alfil y la dama, lo mismo hizo el negro. ",
+        "2. Nf3 d6": "el blanco amenazo el punto en e5 y el negro lo defendio con su peon. ",
+        "3. d4 f5": "Con este avance del peon el negro debilita dramaticamente la diagonal que va de h5 a e8. Debe haber una compensaci\u00f3n a esta debilidad que da mas ventaja que esta terrible desventaja \n",
+        "4. dxe5 fxe4 5. Ng5 d5 6. e6 Bc5 7. Nf7": "El blanco amenaza comer la dama negra , pero previamente el negro habia amenazado la casilla f2 con su alfil y de ese modo puede sacar su dama hacia un lugar donde amenace la casilla f2 . ",
+        "7... Qf6": "La dama puede ocupar esa columna y construir una estructura donde la diagonal del alfil negro de casillas negras refuerza el punto f2 porque previamente cambio su peon que obstruia esta construccion . esta debe ser la compensaci\u00f3n a la terrible debilidad que comente previamente \n",
+        "8. Be3 d4 9. Bg5 Qf5 10. Nxh8 Qxg5 11. Bc4 Qxg2 12. Rf1 Nc6 13. Nf7 Nf6 14. f3": "este avance de peon libera la fila 2 para que la domine totalmente la dama negra. ",
+        "14... Nb4": "el negro aprovecha la ventaja de la liberaci\u00f3n de la fila para el dominio de la dama negra amenazando con su caballo la casilla c2 . El blanco antes de avanzar el peon deber\u00eda haber jugado su peon de a2 a a3. ",
+        "15. Na3 Bxe6 16. Bxe6 Nd3+": "aca cuando el negro toma con el rey, no puede el blanco tomar con el peon, porque debilita su diagonal de e1 a a5. Entonces el blanco se ve obligado a tomar con la dama . La fortaleza del negro esta en ocupar con su dama la fila segunda y en la amenaza de ocupar la diagonal con el alfil negro. Las dos solas , la fila y la diagonal no sirven . Lo que sirve es la combinacion del dominio de la fila y el dominio de la diagonal. \n\n",
+        "17. Qxd3 exd3 18. O-O-O Bxa3": "el negro toma el caballo que estaba defendiendo el punto en c2 \n",
+        "19. Bb3 d2+ 20. Kb1 Bc5 21. Ne5 Kf8 22. Nd3 Re8 23. Nxc5 Qxf1 24. Ne6+ Rxe6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/london-m1-london-mainb?gm=64590",
+    "gameName": "London m1, London ;MAINB",
+    "players": "Barnes, Thomas  vs. Morphy, Paul ",
+    "opening": "Philidor (C41), Philidor counter-gambit, Berger variation"
+}

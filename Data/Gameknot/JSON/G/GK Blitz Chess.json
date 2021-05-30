@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "1.e4 produces the most dynamic game the most quickly... great for blitz player who know their lines. And greater opportunity to err more quickly if they do not know the openings well.",
+        "1... c6": "Caro-Kann Defense",
+        "2. Nf3": "Usually I play Nc3 here with option of 3.d4 for a mainline Caro, or Nc3 for my usual 2 Knights line that Fischer played. Here in blitz I sometimes play Nf3 instead, planning to go into the 2 Knights to begin with, but giving the impression of \"not knowing I am Supposed to play 2.d4\" :)  And it stops 2...e5, for what its worth.",
+        "2... d5 3. Nc3": "2 Knights Variation, as promised.",
+        "3... Bg4 4. exd5": "4.h3 first is customary here. But again, I want to confuse the issue, and give him the chance to drop a tempo by 4...Bxf3 if he is so inclined.",
+        "4... cxd5 5. h3 Bxf3 6. Bb5+": "ZWISHENZUG, an \"in-between move\". Zwishenzugs win many games, by the way. Tho this is not that particular Kind of Zwishenzug. Still it is forcing. And being blitz, maybe the opponents heart will go pitter-patter here if they did not see it. I try to do it Quickly, and slam the piece down loudly for such moves~! }8-D",
+        "6... Nc6 7. Qxf3 e6 8. d4 Qb6 9. O-O": "I dare him too, and he does. The idea is: I am planning to gain time against his Q now, and maybe sac later on d5. After placing Rook(s) on e1 and/or d1 maybe.",
+        "9... Qxd4 10. Be3": "Now 10. ....Qf6 11.Qe2 d4 12.Ne4 Qe5 13.B-moves to save it from the fork. I didn't expect his reply now. But it seems quite active & threatening.",
+        "10... Qb4": "Now I could probably play 11.Rfe1 for a strong but safe position. And then he would really need to think twice about 11...Qxb2 (if he has plans to O-O-O) 12.Nxd5~! exd5? 13.Bd4+ Discovered Check and his Q is lost. Or 12...Qxb5? Nc7+ forking the K & Q. ",
+        "11. Nxd5": "At this time I am thinking: \"I wonder if it's sound? Looks very Active.\" And my center lines are open for Rooks to occupy.",
+        "11... exd5": "Definately NOT 11. ...Qxb5?? 12.Nc7+ K-move and 13 Knight takes the Queen.\n***\n",
+        "12. Qxd5": "Perhaps my sac wasn't sound. 13. ...Nge7 attacking my Queen, while defending the Nc6 looks hard to meet. I had thought to have a bit of a bind then with 14.Qe5 but he has ... O-O-O~! and I have not time to play 15.Bf4 now since the Nc6 has become unpinned and thus attacks my Queen \"for real\" now. Also he could play 13. ...Qd6 threatening a Q trade, but I would retreat my Q, to come back and harass his with a Rd1. \n***\nThen again, I've always been a pretty LUCKY Player~!? At board games that is; not cards, dice, or lotteries. I used to say \"Love\" there, but I met my wife on GK~! Can't get luckier than That ( Ok, on a Chess site ... right? :) ",
+        "12... Nf6": "Apologies to my opponent, here I cannot recall if he played Nf6 or Qxb2. My reply would still be Bxc6+ tho. ",
+        "13. Bxc6+ bxc6": " 13 ...Ke7 14.Bc5+ is also bad here. ",
+        "14. Qxc6+": "And the Rook or Queen must fall. 1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/gk-blitz-chess?gm=25249",
+    "gameName": "GK Blitz Chess",
+    "players": "ccmCACollister (2096 someplace :) vs. Duarte311 (2087)",
+    "opening": "Caro-Kann defence (B10)"
+}

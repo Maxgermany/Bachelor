@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. Nf3 e6 2. g3 Nf6 3. Bg2 Ng4 4. h3": "A05: Reti opening",
+        "4... Nxf2": "I've never seen this before, and I'm sure it could be devastating provided that black pressures the exposed king early.",
+        "5. Kxf2": "An interesting sacrifice, but, eventually, black does not press the exposure of the king.\n5. ... Bc5  6. d4",
+        "5... Qf6 6. d3 h6": "Why h6?  Why not Bc5  or e5?",
+        "7. e3 Bd6 8. g4 b6 9. Rf1 Qe7 10. Kg1": "I castle \"manually.\"",
+        "10... g5 11. Ne5": "A double trap.  If ...\n11. .. Bxe5 then\n12. Bxa8!\nIf ...\n11. .. c6 then\n12. Rxf7!",
+        "11... c6": "Black sees the first trap, but maybe not the second.",
+        "12. Rxf7": "12.\t... \tQd8\n13.\tNxc6 \tdxc6\n14.\tQf3 \tRf8\n15.\tRxf8  \tBxf8",
+        "12... Qd8": "If I move my rook, I lose my knight.  If I lost my knight, I lose my rook.  So, I try to pressure the trapped black rook at a8.",
+        "13. Nxc6 dxc6 14. Qf3 Bb7": "Trying to defend against the stacked Queen/Bishop, black forgets about the rook.",
+        "15. Rxb7 Qc8 16. Qf7+": "Initially, I thought I'd move as follows:\n16.\t... \tKd8\n17.\tRxa7 \tRxa7\n18.\tQxa7 ...",
+        "16... Kd8": "But, I see the fork to take the rook at h8.",
+        "17. Qf6+": "At this point, there's two basic possibilities.  I set up conditional moves as follows:\n17. ... Ke8 18. Qxh8  Bf8 19. Rh7\n17. ... Be7 18. Qxe7  ",
+        "17... Be7 18. Qxe7#": "I certainly learned to be prepared for the possibility of 4. .. Nxf2 against Reti."
+    },
+    "url": "https://gameknot.com/annotation.pl/a05-reti-opening?gm=5965",
+    "gameName": "A05: Reti opening",
+    "players": "rpilaud (1445) vs. plyr (1386)",
+    "opening": "Reti opening (A04)"
+}

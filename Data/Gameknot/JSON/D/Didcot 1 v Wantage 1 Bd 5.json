@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. c4 Nf6": "I don't like facing the English and usually encourage my opponent to convert into a King's Indian, where I'm much more familiar with the themes and tactics.  Perhaps I should learn the English properly.",
+        "2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. Nf3 d6 6. d3": "White resists the temptation to play d4, clearly following his preconceived plan, as he raced through his moves.  I too was moving quickly but I was having to think and he had only used a minute!",
+        "6... e5": "Not sure this is best.  Perhaps I should have gone symmetrical with 6...c5.",
+        "7. Bg5 Nbd7 8. Qc1": "White was still moving instantaneously, which made me stop to ponder what he was planning and might have missed.  I decided to release my N from its pin, preparing a plan that was doomed to failure.",
+        "8... Qe8 9. Bh6": "Its job on g5 done, the B prepres to swap on g7",
+        "9... Ng4": "? I think this was the start of my woes.  the N merely encourages White to do what he'd planned to do anyway and provides a target for White's attack.",
+        "10. Bxg7 Kxg7 11. h3 Nh6": "?  This compounded the error.  The idea was to support the typical KID thrust of ...f5 but the N quickly becomes a liability here.  It would have been better to admit my folly immediately and return to f6.",
+        "12. h4 f5": "Consistent but merely weakening Black's defences further.",
+        "13. h5": "! White prepares to expose the Nh6 to the full fury of his KR and Q.",
+        "13... f4": "? Another consistent but useless move.  White's QN now has a choice of beautiful squares.",
+        "14. gxf4": "White opens up more attacking lines.",
+        "14... exf4 15. Nd5": "! White forks f4 and c7, threatening a further fork from there, as well as taking closer order to Black's exposed King.",
+        "15... Nc5": "? After my longest think of the game, I decided to counter-attack, hoping to fork White's K and Q by exploiting the pin on e2 but I'd overlooked the strength of my opponent's coming combination.",
+        "16. Qc3+": "! I'd seen this but under-estimated it.",
+        "16... Kg8": "Nothing could usefully be interposed and 16...Kf7 just invited 17. Ng5+, when White's Ns looked horrible.",
+        "17. hxg6": "!  I'd seen this too but missed the most salient point of the position.",
+        "17... Qxg6": "?? Just awful, though I was probably already lost anyway.  What was shocking was that, with so many threats around, I missed the biggest one.  A quick sense check of \"What can White's Ns do?\" should have stopped me from making this blunder.  Though what else I could have done that didn't lose quickly, I don't know.",
+        "18. Ne7+": "!  White applies the coup de grace, forking K and Q.  I'd had enough and resigned immediately.  Sorry to my teammates."
+    },
+    "url": "https://gameknot.com/annotation.pl/didcot-1-v-wantage-1-bd-5?gm=29316",
+    "gameName": "Didcot 1 v Wantage 1 Bd 5",
+    "players": "Paul Paxton-Doggett (1824) vs. Bob Jacobs (1776)",
+    "opening": "English, 1...Nf6 (Anglo-Indian defense) (A15)"
+}

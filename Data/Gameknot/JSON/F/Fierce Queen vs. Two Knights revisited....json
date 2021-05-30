@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5": "Two Knights' defense by the book so far... I mostly play Nxf7, Kxf7, Qf3+, and see where this will lead me; best now is probably Ke6!?, Nc3; however, Nce7 is much safer... recommended here is the Fischer line d4!, Be7, Nxf7, Kxf7, Qf3+, with roughly the same results; I should try that one time... this time however, I tried something else; soon to my regret...",
+        "6. Qh5": "based on a simple threat; Qxf7 mate, g6 is obligatory...",
+        "6... g6 7. Qf3 Qxg5 8. Bxd5": "so far so good... blacks' next move I had predicted, but I had overlooked it's gravity...",
+        "8... Nd4 9. Qxf7+ Kd8 10. Kd1": "after Bb3, Qxg2, so there is not much choice... Bg4+ is a serious threat, after f3, Bf5...",
+        "10... Bf5 11. d3": "a very useful tempo, which might lead to swapping Queens...",
+        "11... Qg4+ 12. Bf3 Nxf3 13. Qd5+ Kc8 14. Qxf3": "so far so good, white has a pawn and the balance is somewhat restored... Qb4, a3, Qd4 is probably best for black, or straightaway Qd4...",
+        "14... Qa4 15. Nc3 Qd7 16. h3 h5": "Bb4 was best here...",
+        "17. Be3 Bg7 18. Kc1 Rf8 19. Qg3 a5": "in my opinion Qc6 is best here...",
+        "20. Re1 Re8 21. Bg5 Ra6 22. Ne4": "by now, white has the better of the play... but making progress is not easy...",
+        "22... Rc6 23. Kb1 Qd4": "better Qd5...",
+        "24. Be3 Qa4 25. b3 Qb4 26. Bd2 Qd4 27. a3 Bxe4": "too impatient; better Rf8 first...",
+        "28. Rxe4 Qc5 29. Ra2 Rf8 30. Be3 Qb5 31. f3 Qd5 32. Qe1 Rh8 33. Rc4 b6 34. Re4 Re6": "it is hard for black to keep finding the right moves; this is not helping either...",
+        "35. Qe2 Qd8": "black retreats; tougher was Bf6, Ra1, h4, Ka2, Qc6...",
+        "36. Bc1": "mainly preparing b4, with possibilities to break up the a-file freeing Ra2... or d4/f4 in some cases...",
+        "36... Kb7 37. f4": "now or never...",
+        "37... Qd5 38. d4 Rhe8 39. fxe5 c5 40. Qd3": "too early for c4...",
+        "40... Bf8": "considering whites' next move, R6e7 would have been much safer...",
+        "41. c4": "finally releasing Ra2...",
+        "41... Qc6": "blacks' position was already deteriorating; Qd7, was best here to take the edge of an upcoming d5... after Rf2, cxd4, Rxd4, Qc6, black can hold out longer... black resigned; after d5, Qd7, Qf3!, R6e7, e6! all is over..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-vs-two-knights-revisited?gm=62547",
+    "gameName": "Fierce Queen vs. Two Knights revisited...",
+    "players": "fiercequeen (2007) vs. osav (1570)",
+    "opening": "two knights defence (C57), Lolli attack"
+}

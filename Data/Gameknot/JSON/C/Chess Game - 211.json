@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e6 2. c4 d5 3. Nc3 Nh6 4. Nf3 dxe4 5. Nxe4 Nc6 6. Qb3 Nd4 7. Qa4+ c6 8. c5 Nxf3+ 9. gxf3 f5 10. Nc3 Bxc5 11. b4 Bd4 12. Bc4 Bxc3 13. dxc3 b5 14. Bxb5 cxb5 15. Qxb5+ Bd7 16. Qe5 Ba4 17. Bxh6 Qf6 18. Bxg7 Qxe5+ 19. Bxe5 Rg8 20. Kd2 O-O-O+ 21. Kc1 Rg2 22. Bd4 f4 23. Bxa7 Rd1+ 24. Rxd1 Bxd1 25. Kxd1": "White's first major mistake, White shouldn't have taken the bishop, as the rook is lost in the subsequent skewer.",
+        "25... Rg1+ 26. Kc2 Rxa1 27. Kb2 Rh1 28. a4 Rxh2 29. b5 Kb7 30. b6": "White's second major mistake, allowing black to remove the f-file pawns by blocking the a7 bishop with the b pawn.",
+        "30... Rxf2+ 31. Kb3 Rxf3 32. a5 h5 33. Kb4 h4": "Black's First major mistake, not moving the king to a6 and locking up the pawn promotion race on the a- and b-ranks.",
+        "34. Kb5 Rxc3 35. a6+ Kc8": "Black's second major mistake, last chance to prevent the promotions should have been 35... Ka8 36. b7+ Kxa7",
+        "36. b7+ Kd7 37. b8=Q Rb3+": "Nice skewer by Black",
+        "38. Kc5 Rxb8 39. Bxb8 Kc8 40. Bxf4": "White removes blacks last chance of getting promotions, and somewhat decides the game.",
+        "40... h3 41. Kb6 Kd7 42. a7 Ke7 43. a8=Q Kf6 44. Qb8 Kf5 45. Qe5+ Kg4 46. Bh2 Kh4 47. Qg3+ Kh5 48. Qxh3+ Kg5 49. Qxe6 Kh4 50. Be5 Kg5 51. Qf7 Kh6 52. Bf4#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=32109",
+    "gameName": "Chess Game",
+    "players": "JLK  vs. BJS ",
+    "opening": "French defence, Steiner variation (C00)"
+}

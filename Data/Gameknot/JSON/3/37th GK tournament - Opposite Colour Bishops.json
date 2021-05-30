@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nThis is one of my very early games on Gameknot where I took part in Gameknot's 37th GK tournament - in fact I still had a provisional rating at the time.  Please feel free to comment on this game.  Kind regards - Joanne",
+        "1... e5 2. Nf3 Nc6 3. d4": "3. d4 - the Scotch Game.",
+        "3... exd4": "3. ..... exd4 (prevents white from establishing pawn centre)",
+        "4. Nxd4 Nf6": "4. .... Ktf6 (in a fog about how to play against the Scotch but this is a sound developing move - I think and the King Kt cannot immediately be chased away by e5)",
+        "5. Bg5 Be7": "5. ..... Be7 - always a good idea to break a potentially annoying pin, I feel.",
+        "6. Nxc6 dxc6": "6.  ....... dxc6 (offering exchange of queens to which white declines next move with Qe2)",
+        "7. Qe2 O-O": "7. ...... O-O (now is a good time to get my king out of the centre)",
+        "8. Nc3 Be6 9. Rd1 Qe8 10. a3 Rd8 11. Qe3 Rxd1+": "11. ......  Rxd1  (I decide to clear my queenside of wood)",
+        "12. Nxd1 a6 13. Bxf6 Bxf6 14. c3 Bb3": "14. ...... Bb3 (the start of a plan to win a queenside pawn)",
+        "15. Be2 Qc8 16. O-O Re8": "16.  ..... Re8 (puts e pawn in a pin against WQ and ties WQ down to its defense for at least one move)",
+        "17. c4 Bxd1 18. Rxd1 Bxb2": "18. ...... Bxb2 (mission accomplished - queenside pawn won)",
+        "19. h3 Bf6 20. f3 Rd8 21. e5 Rxd1+": "21. ...... Rxd1  (now I am a pawn up I endeavour to exchange as many pieces as possible)",
+        "22. Bxd1": "21.  ....... Rxd1  (now I am a pawn up I now exchange as many pieces as possible)",
+        "22... Be7 23. f4 b6": "23. ..... b6 (I try to fortify my queenside pawn structure)",
+        "24. Bg4 Qf8 25. Qe4 Bxa3": "25. .... Bxa3 (I now pick off the a pawn - I know my c6 pawn is doomed and I will then force a queen swap which I did on move 27)",
+        "26. Qxc6 Qc5+ 27. Qxc5 Bxc5+ 28. Kf1 a5 29. Bd1 Kf8 30. g4 Ke7": "30 .... Ke7 (With the queens off I now centralise my king)",
+        "31. Ke2": "31. Ke2 (my opponent follows suite)",
+        "31... f6 32. exf6+ Kxf6 33. Kf3 h6 34. h4 g5 35. fxg5+ hxg5 36. h5": "36. h5 (oh, oh, ties my king down to the kingside and his bishop controls the white squares in front of my black queenside pawns).  I reply with Kg7 to prevent the h pawn from queening.  It looks as though white will play Ba4 next move and this together with his aueen bishop pawn holds back the queenside pawns)  My dark squared bishop is needed to protect the c pawn and the g pawn and my king is needed to defend the kingside).  I don't think white can stop my dark squared bishop from shuttling to and from d6 and f4).  I therefore offered my opponent a draw and he accepted.  I think this endgame demonstrates why bishops of opposite colours usually draw even when there is a difference of one pawn.\r\n\r\nGood game.",
+        "36... Kg7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/37th-gk-tournament-opposite-colour-bishops?gm=9549",
+    "gameName": "37th GK tournament - Opposite Colour Bishops",
+    "players": "seamisei (1430) vs. jstevens1 (1647)",
+    "opening": "Scotch (C45), Schmidt variation"
+}

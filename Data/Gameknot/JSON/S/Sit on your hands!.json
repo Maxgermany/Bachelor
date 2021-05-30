@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. c4": "When I was learning to play chess, my father used to say \"Sit on your hands during the endgame.\" to prevent the kind of thoughtless blunder I made in this one...I still do sit on my hands OTB (time permitting!). Now, if only I could sit on my mouse!",
+        "1... c6": "Transposing to Slav after 2.d4 d5, which I'm happy with. I seem to transpose to QGD or Slav whenever I play 1.c4. I actually like to play all the wierd english symmetrical lines, but I usually mess them up.",
+        "2. d4 d5 3. Nf3 Nf6 4. Nc3 g6": "I'm not familiar with this, and I expected 4...e6. The trade off 4...g6 involves seems to be a weakening of king defence in exchange for more pressure on d4, I guess...",
+        "5. cxd5 cxd5 6. Bf4 a6": "I didn't think this combined well with 4...g6 either - I'm unlikely to play Nb5 at any stage now...although I may be missing the main aim of it.",
+        "7. e3 Bg7 8. Bd3 O-O 9. O-O Nc6 10. Qb3 b5": "Did 6...a6 prepare for this? I thought it overextended him a little, and created some QS weakness. ",
+        "11. Rac1 Bb7 12. Rfd1 Rc8 13. h3 Qb6 14. Nxb5": "I thought the knight would be worth these two pawns in the long run. I now think that 14. Na4 Qa5 15. Nc5 is better. At least the sac looks tough, though, right? In my defence, my opponent, cavendish, seems to play slow, long-term games worse than fast shootouts...but I think this is probably a case of 14. Nxb5? rather than the 14. Nxb5?! I was aiming at.",
+        "14... axb5 15. Qxb5 Qxb5 16. Bxb5 Na5": "A piece up, I thought he'd want to exchange more pieces. I wasn't unhappy, though, because I thought the a and b pawns were going to prove very difficult to stop , and therefore the more QS play, the better.",
+        "17. b4": "17. Rxc1 simplified the position on the QS more than I wanted...",
+        "17... Nc4 18. Bxc4": "I thought I'd be able to expunge the passed pawn pretty quickly...wrong!",
+        "18... dxc4 19. Ne5 Bd5 20. b5 Ne4 21. f3": "By now, I was a bit worried about the c-pawn...so I thought I'd better chase off the cover for c3.",
+        "21... Bxe5 22. Bxe5": "I thought long and hard about 22.fxe4, but I couldn't see it ending well - 22. fxe4 Bxf4 23. exf4 Bxe4 being the likely result...",
+        "22... Nd6 23. e4 Be6 24. Bxd6 exd6 25. a4 d5 26. a5 Rca8 27. Rca1 Rfb8 28. Rdb1 c3 29. b6 dxe4 30. fxe4 Bc4 31. Kf2": "I did consider 31. Rc1, but I didn't much like 31. Rc1 Bd3 32. Rxc3 Bxe4 ",
+        "31... Bd3 32. Rbe1 c2 33. Ke3 Ba6 34. Rec1 Rbc8 35. Ra3": "35. Ra2 is probably better, with hindsight. I was worried about 35...Bd3, but it's not a serious problem because 36.b7 has the rooks forked. ",
+        "35... Rc4 36. Ra2 Rac8 37. Rb2 Bb7 38. Ra2 Ba6 39. Rb2 Rc4c3+ 40. Kf4": "Because 40. Kd2 Rd3  41. Ke4 Rxd4",
+        "40... Bb7 41. Ra2 Re8 42. d5 Rc4 43. Kg3 Ba6 44. Raxc2 Rxc2": "Finally, something goes in my favour! I'm pretty sure 44...Rcxe4 is better here. He's still a piece ahead, so any piece swap is a good one for him, but a lot of the pressure comes off with this swap.",
+        "45. Rxc2 Rxe4 46. Rc7 Re5": "The central pawns hadn't ever been my threat here. I think he'd have been better playing 46...Ra4 or 46...Kf8",
+        "47. Ra7": "I was rather pleased to spot this. I'd planned for 47. b7 and gaining the bishop - then I saw 47. Ra7 Bc4 48. b7 or 47. Ra7 Rxd5 Rxa6 (with or without Rg5  Kh2)     I patted myself on the back. Mentally, I added ! to my notation.",
+        "47... Bc8": "Not what I'd expected...but not a problem, right?",
+        "48. b7": "??.  It's frightful. Sorry. Clearly, 48. Ra8, pinning the bishop and gaining a queen, had to come here...I've no excuse...I think my thought process went \"He moves bishop, play b7\"...so I saw a bishop move, and played b7. Sit on those hands!",
+        "48... Bxb7 49. Rxb7 Rxd5 50. a6 Kg7 51. a7 Ra5 52. Kf4": "Thanks to luck I don't deserve, I still have just enough time to get over there and finish it.",
+        "52... Kf6 53. Ke4 Ke6 54. Kd4 h5 55. Kc4 f5 56. Kb4 Ra1 57. Kc5 g5 58. Kb6 Rb1+ 59. Kc7 Ra1 60. Rb6+ Ke5 61. Kb7 g4 62. Ra6 Rb1+ 63. Rb6 Ra1 64. a8=Q Rxa8 65. Kxa8 gxh3 66. gxh3 f4 67. Rb5+ Ke4 68. Rxh5 f3 69. Rh8 f2 70. Rf8 Ke3 71. h4 Ke2 72. h5 f1=Q 73. Rxf1": "So there you have it. I'm not proud...but many thanks to Cavendish for this and other very good games!"
+    },
+    "url": "https://gameknot.com/annotation.pl/sit-on-your-hands?gm=11937",
+    "gameName": "Sit on your hands!",
+    "players": "jfxleigh (1658) vs. hsidnevac (1594)",
+    "opening": "English (A11), Caro-Kann defensive system"
+}

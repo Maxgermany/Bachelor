@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e6 2. Nf3": "not playing d4, right away: for a change...",
+        "2... c6": "Nc6 is more usual...",
+        "3. d4 h6 4. g3 d5 5. e5 Ne7 6. g4 Nd7 7. Be3 b6 8. c3": "fortifying the center, while opening lines...",
+        "8... a5 9. Qc2 Ba6": "not wise: forcing Ra8 from the bottom row...",
+        "10. Bxa6 Rxa6 11. Qd3 b5 12. Nbd2 Ng6 13. h4": "giving Black not an inch to move...",
+        "13... Be7 14. h5 Nh4 15. O-O-O Nxf3 16. Nxf3 Bg5 17. Qd2 Bxe3 18. Qxe3": "Black is trading off, all of his active pieces...",
+        "18... O-O": "castling into trouble...",
+        "19. Nh4 Qg5 20. Qxg5 hxg5 21. Nf3 f6 22. h6 g6 23. h7+ Kh8 24. exf6 Nxf6 25. Nxg5": "Black is getting in trouble: after Nxg4, Nxe6, things become very unclear...",
+        "25... Ra7": "trying to neutralize h7...",
+        "26. Nxe6 Rff7 27. Ng5 Rfg7 28. Rde1 Ra8": "the bottom row needs to be covered...",
+        "29. Re6": "the winning move...",
+        "29... Nxg4 30. Rxc6 Nxf2 31. Rf1": "taking another open line...",
+        "31... Nd3+": "losing the Knight: after Ng4, Rf4, the Knight is lost too...",
+        "32. Kc2": "this might induce Nb4+, to at least win something back: but Black could not be bothered anymore, and resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game-in-3-10-blitz?gm=64541",
+    "gameName": "Chess game in 3+10 blitz...",
+    "players": "fiercequeen (2059) vs. breedaniels (UR)",
+    "opening": "French defence (C00)"
+}

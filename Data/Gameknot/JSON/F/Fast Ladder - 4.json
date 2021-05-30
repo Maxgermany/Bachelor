@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 Nbd7 6. e3 Qa5 7. a3 Ne4 8. Qc2 Nxg5 9. Nxg5 Be7 10. Nf3 Nf6 11. Bd3 Bd7 12. O-O Rc8 13. Ne5": "This was when I started feeling uncomfortable - on one hand this helps my queen get off the square that it's doing nothing at all, but my position is so cramped.",
+        "13... Qc7 14. e4 Bd6 15. f4 c5": "Some attempt to just break up the position, if I let these pawns keep squeezing the centre I don't think I'll have any play other than scrambling for a draw.",
+        "16. Nxd7 Nxd7 17. Nb5 Qb6 18. Nxd6+ Qxd6 19. e5": "I was actually pleased about this move. It locks the position obviously, but capturing on d5 and opening up the e file looks very unpleasant for me. I don't really want to castle into Bxh7+, and if I don't castle my King is too exposed. This felt like breathing room.",
+        "19... Qb6 20. Bxh7": "Now this move doesn't worry me too much. It opens up possible attacks on h2, it's only a pawn that I might be able to recapture in the middle, and my King is safe purely because of the pawn lock.",
+        "20... cxd4 21. Bd3 dxc4": "Now I was quite excited. I thought I was getting the bishop (or a discovered check and the queen, but that seemed unlikely). For some reason had missed that the rook at C8 is hanging and I might not gain material after all.",
+        "22. Kh1 Ke7": "Making sure the rook isn't hanging, and vaguely hopeful I might be able to double up on the h or c files. Also getting my king off the white squares felt important.",
+        "23. Bxc4": "Originally my plan was Qc6, threatening the bishop but also pinning the G2 pawn for the h file attack (meaning that I can respond to h3 with Rxh3).",
+        "23... Rh6 24. b3 Qc6": "Not much of a threat now sadly, but still pinning the pawn at least.",
+        "25. Qf2": "I thought Rf3 was a better defence here. I didn't see any way of preventing the loss of material now.",
+        "25... Rch8 26. Qg3 Nc5": "I thought about Rxf2 immediately, but I figured you couldn't prevent that this move, so I'd see if I could get more pieces into the attack. Qxg2 doesn't seem to achieve a huge deal for White, so I left the pawn hanging.",
+        "27. Kg1 Ne4": "Trying to lock down the F2 square.",
+        "28. Qf3 Rh6xh2": "g3 is the only move that isn't checkmate I think, it was all a relatively easy line to calculate from here as there it was a one way road for the rest of the game.",
+        "29. g3 Rh2h1+ 30. Qxh1 Rxh1+ 31. Kxh1 Nxg3+ 32. Kg1 Qh1+ 33. Kf2 Qh2+ 34. Ke1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fast-ladder?gm=64319",
+    "gameName": "Fast Ladder",
+    "players": "archduke (1514) vs. topazg (1750)",
+    "opening": "QGD semi-Slav (D43), Hastings variation"
+}

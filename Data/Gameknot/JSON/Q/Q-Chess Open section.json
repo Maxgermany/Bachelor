@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "This is the Ruy , known for it's ability to maintain longterm pressure on the black position.",
+        "3... a6": "Known to be the best reply , after Bxc6 black will play dxc6 and after Nxe4 black will regain the pawn with Qd4 and an equal position. ",
+        "4. Ba4 Nf6 5. O-O": "The only reply to try to retain the advantage as after Nc3 Black will play Bc5 with an easy game. ",
+        "5... b5 6. Bb3 Be7 7. Re1": "Another idea is a4 trying to undermine the extended queenside.",
+        "7... O-O 8. c3": "Known as the classical ruy, this move allows the marshall gambit to be played. If someone wishes to avoid the gambit again a4 is the key. That is known as the antimarshall variation. ",
+        "8... d5": "!?  Black sacrifices a pawn due to white's weak development. The gambit must be accepted as black gets all the advantages of the gambit even without white taking on e5.",
+        "9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6": "A key move as this cements the knight on the great d5 square.",
+        "12. d4 Bd6": "Gaining time while attacking the rook.",
+        "13. Re1 Qh4": "Blck leaps to the attack and now 14.h3 looks very dangerous due to Bxh3 so g3 is virtually forced. But after g3 the light squares around the white king are very weak so black will have good play for the sacrificed pawn.",
+        "14. g3 Qh3 15. Be3 Bg4 16. Qd3": "A little trick in the marshall is when the queen moves to any other square other than d3 and black's plays Bf3 when mate can't be avoided on g2.",
+        "16... Rae8": "Now Bf3 loses time to Qf1 . ",
+        "17. Qf1 Qh5": "Declining the exchange as this would kill black's intiative.",
+        "18. Nd2 Re6": "A common move in the marshall which prepares a rook swing to g6 or h6. Another idea is f5. ",
+        "19. Bxd5 cxd5": "White eliminates the powerful knight and takes support away from the b5 pawn.",
+        "20. a4 f5": "Black ignores the threats to the queenside as winning another pawn doesn't help white with his kingside problems. ",
+        "21. f3 Bh3 22. Qf2 g5": "Black prepares an eventual f4 push which would rip apart the kingside.",
+        "23. f4": "Stopping f4 but , pinning in the dark squared bishop; probably the best move.",
+        "23... Rg6": "Black goes for the all out kingside attack and also avoids the exchange of rooks that would happen if the e- file opened. Black will then play Qg4 and gxf4 with a big attack. ",
+        "24. fxg5": "A move that wins a second pawn but allows a flury of tactics to arise to which are in black's favor . Still , it's hard to see a constructive plan for white. ",
+        "24... f4": "!The key move as this blasts open the kingside. ",
+        "25. Bxf4 Bxf4 26. gxf4 Rxg5+": "?! a move which wins a queen for two rooks but Rxf4 was better. After Rxf4 , if Qxf4  Rxg5  and the white king has to go to h1 as Kf2... Rf5 wins the queen and after Kh1 ...Bg2 Kh1 Bh3 Qxg5 Qxg5 Kh1 Qxd2 black wins a piece",
+        "27. fxg5 Rxf2 28. Kxf2 Qh4+": "Avoiding Qxg5 Rg1 winning the queen.",
+        "29. Ke2 Bg4+ 30. Nf3 Qxh2+ 31. Ke3 Qxb2 32. Rac1 Bxf3 33. Kxf3 bxa4 34. Kf4 a3": "White runs out of time. This is a very interesting game from the marshall and shows how a gambit ties down  the defenders resources and makes it hard to find active plans. "
+    },
+    "url": "https://gameknot.com/annotation.pl/q-chess-open-section?gm=1328",
+    "gameName": "Q-Chess Open section",
+    "players": "Issac G. (1960) vs. Grant N. (1670)",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

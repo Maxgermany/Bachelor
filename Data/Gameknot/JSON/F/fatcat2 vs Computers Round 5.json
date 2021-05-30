@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Guess who's back for Round 5!? It's the battered, ancient little handheld chess program Star Chess, which has bleeping red lights in every place imaginable! Time for Star Chess' revenge!",
+        "1... e6": "The French Defence.",
+        "2. d4 d5": "Main line French.",
+        "3. e5": "Star Chess initiates the Advance Variation, sometimes considered premature but perfectly playable and theoretically OK.",
+        "3... c5": "The usual move to undermine White's pawn centre.",
+        "4. c3 Nc6 5. Nf3 Nh6": "An IM told me recently that this knight's place is on h6, which has always felt slightly unnatural to me. Time to test his advice.",
+        "6. Bg5 Qb6 7. dxc5": "?! Unexpected, voluntarily weakening his pawn centre.",
+        "7... Bxc5 8. Qc2 Qc7 9. b4 Bb6 10. Bb5 Bd7 11. Bxh6 gxh6 12. Bxc6 bxc6 13. O-O O-O-O": "Castling on opposite sides - this should get exciting. Black couldn't exactly castle on the kingside...though I grant you my queenside wasn't that good either.",
+        "14. Nbd2 h5": "They're doubled, so I might as well use them to crack open White's kingside.",
+        "15. c4 c5 16. b5 d4": "The queenside is closed off.",
+        "17. Ne4 Kb8 18. Rab1 Rhg8 19. Nf6": "Sneaky! Star Chess still has some life in his silicon chips! He's picked up two pawns!",
+        "19... Rg7 20. Nxh5 Rg4 21. Qxh7 Rdg8 22. Nf4 Rg8g7": "For the first time, Star Chess paused to think. If he were human, I suppose he'd be frowning. The best Star Chess could manage was flashing an array of red lights in obvious discomfort.",
+        "23. Qe4 Bc8": "Manoeuvring the bishop round to b7 to attack the queen.",
+        "24. h3 Bb7": "Operation complete.",
+        "25. Qxb7+": "With a whirr of discomfort, White played a move that shocked me. Sacrificing queen for bishop and rook! Why!?",
+        "25... Qxb7 26. hxg4 Rxg4 27. Nxd4": "?!?!?!?!?!? Even more unexpected. Can anyone shed light on this?",
+        "27... cxd4 28. g3 Qf3": "Grr, my major pieces are menacing your kingside, how do you feel about THAT, Star Chess?",
+        "29. Rb3 Qe4 30. Nd3": "I don't know how I would have dealt with 30.f3...thankfully I didn't have to.",
+        "30... Rg8 31. c5 Rh8 32. f3": "Drat! Foiled again! This computer is determined to fight on!",
+        "32... Qe3+ 33. Kg2 Qe2+ 34. Rf2 Qd1 35. Rf1 Qc2+ 36. Rf2 Qd1 37. Rf1 Qe2+": "How many checkmating threats did I need to create before the game was...drawn. Star Chess performed a little self-satisfied beep. In my hurry to create checkmating threats I had managed to get my queen trapped in a web of my opponent's rooks, knight and pawns. The score is 3 to fatcat2, 2 to the Computers - this isn't over yet, my silicon friends..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fatcat2-vs-computers-round-5?gm=20975",
+    "gameName": "fatcat2 vs Computers: Round 5",
+    "players": "Star Chess  vs. fatcat2 ",
+    "opening": "French (C02), advance, Paulsen attack"
+}

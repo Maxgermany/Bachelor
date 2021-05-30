@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 g6": "Black signals an intention to play a kingside fianchetto.",
+        "2. d4": "At least so far, Black is playing a modern position while White accepts the classical position and occupies the center.",
+        "2... Bg7 3. Nf3 c6": "Interesting.  Prepares d5 but at the cost of being unable to immediately deploy the knight to c6.",
+        "4. Nc3 d6 5. Bd3 Bg4": "This actually is not a bad place for the bishop, but the only purpose seems to be the relative pin.  This move actually ends up defining the flow of much of the game.",
+        "6. Be3 e6": "This does prepare d5 except that d5 seems immediately playable.  Perhaps the ultimate aim is avoiding an isolated queen pawn, but I am not sure that an immediate d5 would create one.  There is also no reason to fear a reciprical pin should black play Nf6.  Black should develop a piece besides the e pawn for several reasons.  First, white is better developed with more central, active pieces.  Each black move that fails to create activity adds to the disparity between black and white.",
+        "7. h3": "And second, he lacks escape squares for the bishop.",
+        "7... Bxf3 8. Qxf3": "The pawn capture would probably provide an interesting game, but this is probably the safer course.",
+        "8... Ne7 9. O-O O-O 10. Ne2": "His sole remaining bishop attacks the dark squares.  I can support the d pawn with this move and allow for c3 too.",
+        "10... Nd7 11. Kh2": "Once you use a repertoire long enough its ideas creep into your play even when you are trying to play an interesting, new game.  The move accomplishes two things.  It provides a waiting move, and it sets the stage for a potential kingside assault.  I do not really know if I want to fully commit to the kingside thrust yet.",
+        "11... b5 12. g4 e5 13. c3": "If the center breaks open, my g4 may have been premature, maybe terrible, but g4 discourages f5, which I believe is an advantage for white here.",
+        "13... f6 14. Ng3": "Essential preparation-- refering to white's move, but 13...f6 is probably a mistake as it weakens the black kingside and allows white to continue with a kingside attack.  He may be unduly concerned with white playing dxe5.  At any rate, I agree that the central test seems better suited to d5 because he has the ability to hold the square.",
+        "14... a5 15. Qe2 a4 16. f4 d5": "The center is potentially troublesome, but worth considering is exf as I think my hold on f5 must be wrestled with sooner or later.",
+        "17. f5 Rf7 18. Rf2 Qa5 19. Raf1 a3 20. b4 Qd8": "I wondered how far he would push the attempt, but Qa4 is met by Bc2.  I successfully closed off the queenside.",
+        "21. fxg6": "I still control f5, but I allow him a way to challenge it, but doing so creates a half-open h file.",
+        "21... hxg6 22. g5": "3 defenders and 3 attackers contest the f6 square, but if I can get in gxf6, it will fork two pieces.",
+        "22... Qc7": "He still cannot play f5, and I believe his idea was the pin.",
+        "23. h4 Kf8": "I think little of this move.  I understand why: The hotseat is kingside, but he is going to need many moves to put his king safely on the queenside.  I do not think he has enough free moves to accomplish it.",
+        "24. dxe5": "Time to add pressure.",
+        "24... Qxe5 25. Bd4 Qd6 26. e5": "And his position is creaking under the strain.  He cannot allow e6, but my real goal was undermining f6.",
+        "26... fxe5": "Expected Nxe5, but in reality after 26...Nxe5 27.Bxe5 Qxe5 28.Qxe5 fxe5 all these moves ultimately allow the next move Rxf7+.",
+        "27. Rf2xf7+ Kg8": "Ke8 drops the bishop, but I believe it safer than this move.  Unfortunately, for him, he cannot afford to lose more material without equal or better compensation.",
+        "28. h5 gxh5 29. Qxh5": "Too many threats for him to handle.",
+        "29... exd4": "Not his best defense, but perhaps he is resigning without actually doing so.",
+        "30. Qh7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/dropping-out-of-repertoire-play?gm=24926",
+    "gameName": "Dropping out of repertoire play.",
+    "players": "mokru (1546) vs. robertjmarx (1422)",
+    "opening": "Robatsch defence (A41), Rossolimo variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4": "Questa \u00e8 la variante McCutcheon della Francese.",
+        "5. e5 h6 6. Be3": "Il seguito pi\u00f9 giocato \u00e8 6.Ad2, ma questa variante non \u00e8 niente male",
+        "6... Ne4 7. Qg4 g5": "Il nero ama i rimedi drastici e gioca col fuoco. 7...g6 o 7...Rf8 sono i seguiti normali",
+        "8. h4": "8. Cge2 \u00e8 semplice e soddisfacente, ma il bianco vuole alimentare la tensione",
+        "8... c5": "Se il nero avesse scelto di proseguire con  8... h5 il bianco avrebbe dovuto scegliere tra \na) Lo spettacolare sacrificio di donna 9. hxg5!? hxg4 10. Txh8+ Af8 11. Cxe4 dxe4 12. Ce2 dove sembra che il bianco abbia  compenso per il materiale sacrificato\nb) La \"tranquilla\"  9. Dd1! Cxc3 10. Dd2! dove il bianco ha vantaggio dopo, per esempio  10...Cxa2 11. c3!\n",
+        "9. Nge2 Qa5": "Era forse questo il momento per il nero di giocare  9... h5  e se 10. hxg5 cxd4! 11. Cxd4 Da5 con una posizione complicatissima ma equilibrata\n",
+        "10. O-O-O h5 11. hxg5": "Scatenando una tempesta di complicazioni. ",
+        "11... Nxc3": "Il calcolo delle varianti \u00e8 fondamentake per valutare questa posizione, non ci si pu\u00f2 basare su ragionamenti astratti\nil dedalo di varianti porta a scoprire seguiti affascinanti, vediamo per esempio\n11... hxg4 12. Txh8+ Rd7 13. Cxe4 \ne ora:\na) 13... Dxa2 14. C2c3 Da1+ 15. Cb1 dxe4 16. dxc5+ Rc7 17. g6! con forte attacco\nb) 13... dxe4 14. c3! con vantaggio\n",
+        "12. Nxc3": "Sembra che il bianco in questa drammatica posizione abbia trascurato 12. g6!! che vince subito!\nLascio a voi di verificare con le analisi! ",
+        "12... Bxc3": "Il nero perde l'ultimo tram \nbisognava tentare 12... hxg4 13. Txh8+ Rd7 e ora \na) 14. g6 fxg6 15. Th7+ Rc6 16. Ab5+ Rb6 17. dxc5+ Axc5 18. Ad2 e non \u00e8 del tutto chiaro se il bianco ha compenso\nb) 14. Th7! con una posizione complicatissima ma sostanzialmente equilibrata\n",
+        "13. g6": "La mossa vincente!",
+        "13... cxd4": "Non sembra esserci di meglio, ad esempio:\n 13... fxg6 14. Dxg6+ Rd8 15. Dg7\noppure\n 13... hxg4 14. Txh8+ Rd7 15. g7\n",
+        "14. Rxh5 Qxa2": "Se 14... Txh5 15. g7\nSe invece 14... Tf8 15. bxc3 dxc3 16. Txd5!! Dxd5  e il bianco dovrebbe vincere sia dopo 17. Ac4!  che dopo 17. g7\n",
+        "15. Rxh8+ Kd7 16. bxc3 dxc3 17. Rxd5+": "La sassata finale!\nil nero abbandona visto che non c'\u00e8 possibilit\u00e0 di resistenza sia dopo 17... Dxd5 18. gxf7 che dopo 17...Rc7 18. Tb5 \n"
+    },
+    "url": "https://gameknot.com/annotation.pl/roquetas-de-mar-open-2009?gm=65987",
+    "gameName": "Roquetas de Mar open 2009",
+    "players": "Ibarra Jerez  vs. Herraiz Hidalgo ",
+    "opening": "French (C12), MacCutcheon, Janowski variation"
+}

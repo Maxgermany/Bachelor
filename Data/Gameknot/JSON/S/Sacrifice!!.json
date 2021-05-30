@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 a6 2. d4": "Might as well take the center if he's going to start that way...",
+        "2... b5 3. Nf3 Bb7 4. Nc3": "I have complete control!!!",
+        "4... Nf6": "4...b4 was the right move.",
+        "5. e5 Nd5 6. Nxd5 Bxd5 7. Bd3 e6 8. O-O c5 9. a4": "I'm not going to let him attack the flank without me also attacking the flank.",
+        "9... bxa4 10. Rxa4 Bc6 11. Rc4 Bb5 12. Rc3 cxd4 13. Nxd4 Bxd3 14. Bg5": "Here is the first sacrifice I do. I do this hoping to trap his Queen.",
+        "14... Qxg5 15. Rc8+ Ke7 16. f4 Qg6 17. f5": "Here, I offer up exf5 Qxd3. This lets his Queen out, but will let me get a vicious attack.",
+        "17... Bxf5": "Instead, he treats it like I made a mistake. Rather, this was his fatal mistake.",
+        "18. Nc6+": "A final sacrifice seals in my win.",
+        "18... Nxc6 19. Qd6#": "I end the game down 10 points materialy, but up a whole king. ;)"
+    },
+    "url": "https://gameknot.com/annotation.pl/sacrifice?gm=38391",
+    "gameName": "Sacrifice!!",
+    "players": "pcshark11 (1719) vs. michas2007 (1486)",
+    "opening": "St. George (Baker) defence (B00)"
+}

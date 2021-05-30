@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 d5": "Scandinavian Defense.",
+        "2. exd5": "Lasker variation of the Scandinavian Defense.",
+        "2... Qxd5 3. c4": "Pc4 actually seems to work out better for black.  White does better responding with Nc3 or Nf3.  Putting a knight into the field.\n",
+        "3... Qe6+ 4. Be2 b6": "...out of the database.",
+        "5. d3 a5 6. Be3 Bb7 7. Nf3 Bxf3 8. Bxf3 Nc6 9. O-O O-O-O 10. Nc3 h6 11. Bd5 Qg6 12. Qf3": "I like this move--it is the first one I saw too.  Puts pressure on Nc6 and Pf7.",
+        "12... Ne5 13. Qf4": "Oops, NxPd3 will make the white queen move again, giving black a free pawn while protecting Nd3 with the queen.  Black might even end up with Pb2.",
+        "13... f6 14. Be6+ Kb8 15. Nb5": "Black has RxPd3 or QxPd3.  The knight (Ne5) is protecting Pc7.",
+        "15... Rxd3": "Black chooses the rook.",
+        "16. Bf5": "Really nice.  QxPd3 would have allowed black to move Qe2, about the only square out of harm's way, but which attacks Pb2.",
+        "16... Qg5": "Ah, good recovery.  White is denied its choice of high value pieces.",
+        "17. Qe4 Qh5 18. g4 Qh4 19. f3 g6": "BxPg6 seems like a free pawn.  NxBg6 would be answered with QxRd3.",
+        "20. Bxg6 c6 21. Rfd1": "The black rook could escape to d7.  Or trade.",
+        "21... Rxd1+": "Trade it is.",
+        "22. Rxd1 cxb5": "While it looks like black is ahead, Rd8+ gives white Bf8.  So looks can be deceiving.",
+        "23. cxb5": "The bishop was worth more.",
+        "23... Bg7 24. Rd8+ Kc7 25. Rd4": "Mm, I'm thinking Qa8 looks like more fun.",
+        "25... Qe1+ 26. Kg2 Qe2+ 27. Kg3 Qxb2 28. f4 Nxg6": "Qc6+ looks like force mate.",
+        "29. Qc6+ Kb8 30. Rd7": "I think I would have gone with Rd8+ here.  Kb7 is forced, followed by QxPb6#.  Actually, it makes no difference.  Black has no move to defend against Qb7#.  Qg2+ would be a pointless delaying tactic.",
+        "30... e5 31. Qb7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=57193",
+    "gameName": "Team match",
+    "players": "psycho422 (1034) vs. ufoseeker (1102)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

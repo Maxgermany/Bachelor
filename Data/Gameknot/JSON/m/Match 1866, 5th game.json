@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4": "Evans gambit was the most popular opening in this match. It was played in 6 games, in all games, except one, in which Anderssen played with white.",
+        "6... exd4 7. O-O d6 8. cxd4 Bb6": "Standard position of Evans gambit, the tabiya of 19th century.",
+        "9. d5": "This move is not considered as good now, because white pawn pair loses its flexibility. But it was the favourite Anderssen's continuation, and he played a lot of good games with it. ",
+        "9... Na5": "According to the modern theory of Evans Gambit, after 9. ... Ne5 10. Nxe5 dxe5 11. Ba3 Bd4 12. Nd2 Bxa1 13.Qxa1 white has strong attack. So 9. ... Na5 is preferable.",
+        "10. Bb2": "White don't bother to defend the bishop: 10. ... Nxc4 11. Bxg7",
+        "10... Ne7 11. Bd3 O-O 12. Nc3 c6": "The best plan for black know at this time was suggested several years before this match by Louis Paulsen. He played 12. ... c5, then Bc7, a6 and b5, advancing pawns of the Queen's side. But Steinitz had its own idea. The 1st game of this match was played in the similar way and was won by Anderssen. But after this game Steinitz had to revise his approach.",
+        "13. Qd2 f5": "This is the point of Steinitz's plan: black pawns c and f are a weapons by which he destroys white's pawn center, which leads to sharp play, where black hopes to get advantage. This plan was first used in the 1st game of the match, and Steinitz had reasons to be satisfied by opening results. So he uses it again in the 5th game. But this time Anderssen was prepared... ",
+        "14. Rae1 fxe4 15. Nxe4": "! This is the Anderssen's idea. He sacrifices the second pawn (d5), but develops dangerous attack on black's kingside. If he played 15. Bxe4, retaining the pawn, after 15. ... Nc4 16. Qe2 Nxb2 17. Qxb2 Bf5 white could forget about attack, and black retains gambit pawn.",
+        "15... Nxd5 16. Neg5 h6 17. Ne6 Bxe6 18. Rxe6 Qd7": "? This is an error, after which white gets big advantage. In case of 18. ... Nf4 black could get more defendable position. For example: 19. Rxd6 Qxd6 20. Bh7+ Kxh7 21. Qxd6 with the same material as in the game, but having more secure king's position.",
+        "19. Rg6 Nf4 20. Rxg7+ Qxg7 21. Bxg7 Kxg7": "It looks that black could resign here. White has material advantage, black king is open to any attack, and look at these black pieces which, like frightened animals, hide in their holes. I think that Anderssen decided at this moment, that the game is done. But there was a person who did not agreed with that, and this person was Steinitz.",
+        "22. Nh4 Nxd3 23. Qxd3 Rf6 24. Nf5+ Kf8 25. Qh3 Re8 26. Qg4 Ree6 27. Qg7+ Ke8 28. g4 d5 29. Kg2 Nc4 30. Qxb7 Re2": "It looks that white took not the best plan, underestimating black's abilities to consolidate its pieces. White's achievements are very small - they won a miserable pawn b7, but still unable to really threaten black king. But black pieces are all ready to start threaten white king.",
+        "31. Qg7 Rfe6 32. h4 d4 33. Qg8+ Kd7 34. Qf7+ Kc8 35. Ng7 Ne3+ 36. Kg1 Re4": "White still does not have any ideawhat to do, but black pieces use any opportunity to get closer to white king. ",
+        "37. f3": "?? This is good move, isn't it? White defends its pawn g4 and attacks black rook, which has to retreat...\nNO, this is mistake! The rook ain't going to retreat!",
+        "37... d3": "The rook is sacrificed! And look - the pawn d gets one step closer to its final goal.",
+        "38. fxe4 Nxg4+ 39. Rf2": "This is forcedly, because otherwise 39. Kh1 Rh2#",
+        "39... Bxf2+ 40. Kh1 Re1+ 41. Kg2 Rg1+ 42. Kf3 Ne5+ 43. Kxf2 Nxf7 44. Kxg1 d2": "Black regain the sacrificed rook, then returned back the queen for the rook and bishop, retaining the only advantage - the gambit pawn, but this pawn is unstoppable.\n\nUnfortunately this great combination is not perfect - if white played 40. Kg2 instead of 40. Kh1, black had only a draw: 40... Be1+ 41. Kg1 Bf2+ etc. "
+    },
+    "url": "https://gameknot.com/annotation.pl/match-1866-5th-game?gm=49733",
+    "gameName": "Match 1866, 5th game",
+    "players": "Adolf Anderssen  vs. Wilhelm Steinitz ",
+    "opening": "Evans gambit (C51), Paulsen variation"
+}

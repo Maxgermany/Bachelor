@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "this move is the most common move out there.",
+        "1... e6": "im planning to play the French.",
+        "2. Nf3": "now im going to have to watch out cause white can play the wing gambit: 2.... d5 3. e5 3.... c5  4. b4?!",
+        "2... d5 3. exd5": "so he takes.",
+        "3... exd5 4. Ne5": "? i guess hes planning a mating attack by going Qf3 next move?",
+        "4... Bd6 5. Ng4": "i think best would have been d4.",
+        "5... Nf6 6. Nxf6+ Qxf6": "whites not even developed!",
+        "7. Bd3": "? this blocks his d pawn.",
+        "7... O-O 8. O-O Nc6 9. Bxh7+": "??? whats the point of this move????",
+        "9... Kxh7 10. Qh5+ Kg8": "?! now i think best was Qh6 forcing an exchange of queens.",
+        "11. Qxd5 Be6 12. Qb5": "his queen is the only piece hes got out!",
+        "12... Nd4 13. Qxb7 Ne2+ 14. Kh1 Qe5": "im going for the kill",
+        "15. g3": "now he losses his queen. but how?",
+        "15... Bd5+": "thats how!!",
+        "16. Qxd5 Qxd5+ 17. f3": "i think that he should just resign.",
+        "17... Nxc1 18. d3": "he cant take the knight cause i go Qxf3 and  then Kg1 Bc5+ mating next move.",
+        "18... Rfe8 19. Nc3": "! well, he gets back hhis knight.",
+        "19... Qb7 20. Na4": "???? huh????",
+        "20... Ne2 21. Rab1 Nd4": "gonig for the f3 pawn.",
+        "22. c3": "better was Kg2 but whites still lost.",
+        "22... Nxf3 23. Rf2 Ng5+": "best.",
+        "24. Kg1": "? now white allows mate in 2. im not going to show cause i want you to figure it out! please leave a commit or two and rate it on the star system. thanks.",
+        "24... Nh3+ 25. Kf1 Qh1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-misstep?gm=46058",
+    "gameName": "the misstep",
+    "players": "jkarp (1102) vs. blitzkov (1828)",
+    "opening": "French (C00), Wing gambit"
+}

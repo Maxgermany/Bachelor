@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. c4": "Hi everyone!\n\nIf you have been following my annotation about Pawn Fork Part 1, you will notice that I made a Bad Draw Offer because of planless play in a won position.  However, I felt so much better after this game because my opponent was the same opponent that I gave that draw to.  I ended up with a two pawn advantage in the late stages of the middlegame but kept my eyes firmly averted from the Offer Draw button and somehow worked out how to gain a much needed victory to get my Class A status back.  My opponent kicks off with c4 which is the English Opening and you can follow the action with the following link to Gameknot Analysis.\n\nhttp://gameknot.com/analyze-board.pl?bd=15650010&fb=1&rnd=0.3572556454226388",
+        "1... e5 2. Nc3 Nf6 3. Nf3 Nc6": "3. .... Nc6 - bit of an English 4 knights.",
+        "4. a3 d5": "4. .... d5 - in fact, almost a reversed Sicilian!",
+        "5. cxd5 Nxd5 6. e3 Nxc3 7. bxc3 e4 8. Nd4 Nxd4 9. cxd4": "9. cxd4 - a lot has been happening over the past few moves - both sets of knights have been traded off and I have managed to weaken white's queenside pawns.  Can I capitalise on this though?  We shall see.",
+        "9... Bd6 10. d3 exd3 11. Bxd3": "11. Bxd3 - both bishops are aiming at the kingside h pawns.  Which bishop will land in that check on h2 first?",
+        "11... Qf6 12. Qc2 h6 13. O-O O-O": "13. ..... 0-0 - both kings castle kingside.",
+        "14. f4 c5 15. Bb2 cxd4 16. Bxd4 Qe7 17. Rf3 f6": "17. .... f6 - to screen out the white dsb's attack down the a1-h8 diagonal.",
+        "18. f5 Qc7 19. Bc4+ Kh8 20. Qd3": "20. Qd3? - not a good move, this move loses the pawn on h2 and Fou Lenoir snaps it up with check.",
+        "20... Bxh2+ 21. Kh1 Be5 22. Raf1 Bxd4 23. Qxd4": "23. Qxd4 - every trade of pieces from now on helps black, especially with all 3 major pieces plus Gail's remaining bishop swarming around Henry.",
+        "23... Bd7 24. Qh4 Be8 25. Rf3f4 Bf7 26. Bxf7 Rxf7": "26. ...... Rxf7 - I am also glad to see the back of Gail's lsb, even at the cost of Fou Leblanc.",
+        "27. Re4 Re7 28. Rff4 Qc1+": "28. ..... Qc1+ - no pawn fork here, but a queen fork can be just as damaging!",
+        "29. Kh2 Rxe4 30. Rxe4 Qxa3": "30. ..... Qxa3 - I decided to rid myself of one set of rooks before swiping off the a3 pawn.  I now have two connected passed pawns on the queenside and they are my two extra pawns.  They should be enough to win but I must now convert this win.  Concentrate, Joanne, concentrate.",
+        "31. Qg3 Rd8 32. Re6 Qc5 33. Qf4": "33. Qf4 - defending the pawn on f5.",
+        "33... Qc8 34. Re7 Qb8": "34. ..... Qb8 - I do not mind a WR on my 7th rank as I now have the opportunity to exchange queens.  I have worked out that I can somehow shepherd one of those two passers down to Glendadom but it will be a matter of technique.",
+        "35. Kg3 Qxf4+ 36. Kxf4 Rb8 37. Ke4": "37. Ke4 - after allowing me to initiate the queen trade and the WK moving towards the queenside I now decided that it was to be the a pawn to have the honour of the march towards Glendadom.",
+        "37... a5 38. Kd4 a4 39. e4 a3 40. Kc3 Ra8": "40. ..... Ra8! - not a2? as the WK can blockade it with Kb2 and Ka1.  This ensures that at the very least, white must give up her rook for Glenda.  This is exactly what happens.  It is amazing, that at the sight of a big black queen, how many opponents wave that white flag.  Gail duly waved it as soon as Glenda appeared.  Gail would have been a whole rook and pawn to the bad and my rook would have no trouble in cleaning up the white pawns and then checkmating the WK.  I hope this will help if you do get stuck in a won position but you are wondering just how to convert it.  I hope you have a good read.  Bye for now - Joanne",
+        "41. Rd7 a2 42. Rd1 a1=Q+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/converting-a-won-game?gm=38589",
+    "gameName": "Converting a Won Game!",
+    "players": "yakky (1654) vs. jstevens1 (1795)",
+    "opening": "English (A22), Bellon gambit"
+}

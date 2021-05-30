@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bf4 e6 3. Nf3 d5 4. e3 Bd6 5. Ne5 O-O 6. Nd2": "So far, all pretty normal for a London. Black can do two things: c5, and get countergame on the queenside, or try to castle queenside, instead. Black didn't make the mistake of Nc6 before c5, but castled kingside. This makes it a perfect target for me. It would be exaggerated to say that white has an edge, but black has to play with more care that it seems. ",
+        "6... a6": "? Just one carelessly slow move. Probably it has a plan of b5-Bb7, but... ",
+        "7. g4": "Here it comes. Cesar crossed the Rubicone. ",
+        "7... Nc6": "Almost useless move. The Nd5 can't be taken by the other N. Nb4 is hardly an annoyance. Black plans to answer Nd7 to g5?",
+        "8. g5": "Nd7 forces me to find a way to proceed, and I have plenty of them, but it would be hard to find a definitive winning one. But black preferred...",
+        "8... Ne4": "My Nd2 has only one scope in this opening: to be exchanged with this black N. ",
+        "9. Bd3": "Black is helping, but not all is still done. This move threatens him a pawn. But, more than that, is x-raying h7. ",
+        "9... Nxg5": "?? The losing mistake. f5 was needed, or even Qh4, and the fight continues.  But now, nothing can save black. ",
+        "10. Qh5": "A piece is lost... or more. ",
+        "10... h6": "Opening a square for his N to retire, but...",
+        "11. Rg1": "If now black plays 15... f6, 16... BxN. Bxh6 is threatened, so fxB seems the only reasonable option. After it, 17. Ng5 seems to offer white with Nxh6, winning, for example: Be7, 18. Nxh6+, gxN, 19. Qg6+! and mate on h7 the next move. ",
+        "11... Nxe5": "BxN, dxB, Ne7 was another idea. ",
+        "12. dxe5": "The unconfortable Bd6 pays the price of his outcome (it could have been in e7, and black would stand a little better). ",
+        "12... g6": "Ok now. Playing against a 1900+ deserves something more interesting than the boring Qxh6. ",
+        "13. Bxg6": "Coup de gr\u00e2ce. ",
+        "13... fxg6 14. Qxg6+ Kh8 15. Qxh6+": "And black resigns. It's not only hanging two minor pieces with almost no action, but he's facing a dreadful discovered check after BxN. A good lesson about how very slight careless moves can lead you right into the hell against a London :-D"
+    },
+    "url": "https://gameknot.com/annotation.pl/it-happens?gm=57396",
+    "gameName": "It happens",
+    "players": "damalfi  vs. LostPlayer (1900+)",
+    "opening": "Queen's pawn game (A45)"
+}

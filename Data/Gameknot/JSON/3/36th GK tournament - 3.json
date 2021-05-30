@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6": "A classic opening - the Queen's Gambit Declined. White usually continues with Nc3.",
+        "3. Nf3 b6 4. Bf4": "I think you should have anticipated Black's next move and played either cxd5 or e3.",
+        "4... Ba6 5. c5": "This loses a pawn without any compensation. You could have played either the simple 5.cxd5 or 5.e3 dxc4 6.Bxc4 Bxc4 7.Qa4  winning back the bishop.",
+        "5... bxc5 6. dxc5 Bxc5 7. Qa4+ Qd7 8. Qxd7+ Nxd7": "8...Kxd7 would have given Black the advantage. With the queens off the board the king would be in a strong position on d7.",
+        "9. Bxc7 Rc8 10. Ba5": "Bg3 would have been better, in order to maintain control over the important square e5.",
+        "10... Ngf6 11. g3": "Too slow. You should have anticipated what was coming and played Nc3. The general rule says \"knights before bishops\".",
+        "11... Ne4 12. e3 Bb4+": "I think White could have resigned here!",
+        "13. Nc3 Bxf1 14. Nd2 Bxa5 15. Nxf1 Nxc3 16. Nd2 Ne4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/36th-gk-tournament?gm=12844",
+    "gameName": "36th GK tournament",
+    "players": "dr_kang (1474) vs. kamin (1599)",
+    "opening": "QGD Slav (D30)"
+}

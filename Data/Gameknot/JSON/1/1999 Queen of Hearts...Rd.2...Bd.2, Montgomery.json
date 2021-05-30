@@ -1,0 +1,12 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 a6 8. Na3 Be7 9. Nc4 Be6 10. Ne3 Rc8 11. Be2 Nd4 12. f3 O-O 13. O-O d5 14. exd5 Nxd5 15. Ncxd5 Bxd5 16. Nxd5 Qxd5 17. Bd3 Rfd8 18. Kh1 Nxc2 19. Bxc2 Qc4 20. Bb3 Qb4 21. Bxf7+ Kxf7 22. Qe2 Qc4 23. Qf2 Qd3 24. Be3 Rc2 25. Qg1 Rxb2 26. Rfd1 Qb3 27. Rxd8 Bxd8 28. f4 Re2 29. Bc5 e4 30. Qd4 Qd3 31. Qe5 Bf6 32. Qh5+ Ke6 33. Qe8+ Kd5": "Alternative variation: 33... Kf5 34. Qh5  Ke6 =\r\n",
+        "34. Rc1 Bc3 35. Bb4": "Alternative variation: 35. Bg1 Rc2 (35... Kc4 36. Qf7  Kb4 37. Qxb7  Ka3 =)\r\n",
+        "35... Qd2": "Alternative variation: 35... Rc2 36. Qg8  Kd4 37. Bxc3  Kxc3 38. Qxg7  Kd2 39. Rg1 Rc1 40. h3 e3 - \r\n",
+        "36. Qd7+ Kc4 37. Qxd2 Rxd2 38. Bxc3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/1999-queen-of-hearts-rd-2-bd-2-montgomery?gm=18147",
+    "gameName": "1999 Queen of Hearts...Rd.2...Bd.2, Montgomery",
+    "players": "Melvin, Bill (2200) vs. Downs, Ray (1928)",
+    "opening": "Sicilian (B33), Pelikan, Bird variation"
+}

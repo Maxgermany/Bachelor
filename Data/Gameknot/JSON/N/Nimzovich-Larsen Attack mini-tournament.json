@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Ne2 Bd7 6. O-O Be7 7. f4 O-O": "All the tournament games start from this position.",
+        "8. fxe5": "White goes in...",
+        "8... dxe5": "...for an immediate central exchange.",
+        "9. Bxc6": "White follows up...",
+        "9... Bxc6": "...with an exchange of minors.",
+        "10. Nbc3": "Simple development.",
+        "10... Bd6": "Guarding the loose Pawn.",
+        "11. d3": "White prepares in the center.",
+        "11... Ng4": "I add a second defender to the Pawn.",
+        "12. Qd2": "Clearing the back rank.",
+        "12... Qg5": "Likewise.",
+        "13. Ne4": "Centralizing the Knight and attacking the Queen.",
+        "13... Qg6": "I duck to safety.",
+        "14. h3": "Forcing back the advanced Knight.",
+        "14... Nf6": "The logical spot.",
+        "15. Nxd6": "An enormous blunder...",
+        "15... Qxg2#": "...ends the game suddenly!"
+    },
+    "url": "https://gameknot.com/annotation.pl/nimzovich-larsen-attack-mini-tournament?gm=52527",
+    "gameName": "Nimzovich-Larsen Attack mini-tournament",
+    "players": "billdancourtney (1433) vs. last_archimedean (1394)",
+    "opening": "Nimzovich-Larsen attack (A01), modern variation"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "A very intense game, with mistakes on both sides, and a very nice and interesting two-against-one-knight-but-more-pawns game.",
+        "1... d5 2. exd5 Qxd5 3. Nf3 Bg4": "Deviando dalla mia linea normale, che include c6, ecc. ",
+        "4. Be2 e5": "Se Cxe4, Dxg2! Inoltre, se Cxe4, DxC e non pu\ufffd prendere l'alfiere perch\ufffd \ufffd inchiodato.",
+        "5. Nc3 Qe6": "Se Cxe4, DxC e non pu\ufffd prendere l'alfiere perch\ufffd \ufffd inchiodato.",
+        "6. Ng5 Bxe2 7. Qxe2 Qf6": "Qui per\ufffd comincia a diventare pericoloso, per Cb5...",
+        "8. Nce4 Qc6": "Di nuovo latente Dxg2...",
+        "9. d4 f6 10. Nf3": "Qui mi ha risparmiato la vita. Con dxe la mia posizione rimane scoperta ed inferiore. ",
+        "10... Nd7 11. O-O O-O-O": "Bello e strano schema, no? Anche se sono indietro con lo sviluppo...",
+        "12. Rd1 Bd6 13. Rd3 Ne7 14. Nxd6+ Qxd6 15. dxe5 Qe6": "Tutto calcolato. ",
+        "16. Bf4 Ng6 17. Nd4": "Penso che la mossa giusta fosse Ag3, mantenendo la pressione. Anche se recupero il pedone, la sua posizione \ufffd pi\ufffd aggressiva della mia. ",
+        "17... Nxf4": "E qui commette un errore fatale...",
+        "18. Nxe6 Nxe2+ 19. Kf1 Rde8 20. Nxg7 Rxe5 21. Rad1": "Se Te1, Cf4. Se Te3, anche. ",
+        "21... Nb6 22. Re3 Nf4 23. Rxe5 fxe5 24. g3 Nh3 25. Re1 Nd7 26. Kg2 Ng5 27. h4 Nf7 28. Re4 Nc5 29. Re3 Rf8 30. Rc3": "Ma qui lo commetto io...",
+        "30... Ne4 31. Rxc7+ Kxc7 32. Ne6+ Kd7 33. Nxf8+ Ke7 34. Nxh7 Ke6": "Ed eccomi con un pezzo in pi\ufffd, ma ben tre pedoni in meno!",
+        "35. g4 Nh6 36. f3 Nd6 37. Kg3 Kf7 38. Ng5+ Kg6 39. Nh3 Ndf7 40. h5+ Kf6 41. Nf2 Ng5 42. a4 Nhf7 43. Nd1 Nd8 44. Ne3 Nde6 45. c3 Nc5 46. a5 Nd3 47. b4 Ne1 48. Nd5+ Ke6 49. a6 bxa6 50. Nc7+ Kf6 51. Nxa6 Nexf3 52. c4 Nd4 53. Nc5 e4": "Il piano \ufffd che se Rf4, Ce6 , e se CxC, RxC!. Se segue RxC, il pedone passa e se h6, Rf7 lo blocca e vinco. Mica male. Ma...",
+        "54. Kf4 Nde6+ 55. Nxe6 Kxe6 56. c5": "Mi obbliga a perdere un tempo. E non posso ritirare il cavallo, n\ufffd difenderlo, senn\ufffd c corona. ",
+        "56... Kd5": "!",
+        "57. Kxg5 e3 58. h6 e2 59. h7 e1=Q 60. h8=Q Qe3+": "Se prendo il pedone b4, non sono sicuro di riuscire a sopravvivere, quindi cerco lo scacco perpetuo.",
+        "61. Kg6 Qe4+ 62. Kh6 Qf4+ 63. g5 Qh4+ 64. Kg7 Qxg5+ 65. Kf7 Qf4+ 66. Qf6 Qxb4 67. c6 Qd6 68. Qf3+": "He offered drawn here, and black REFUSED! Ma anche qui ho valutato male la situazione. Con la prossima mossa, gli lascio la possiblit\ufffd di fare patta, mentre invece, non so se avrei potuto evitarla e persino vincere.",
+        "68... Kc5 69. Qe3+": "Se movevo il re in c6, per esempio... non lo so. "
+    },
+    "url": "https://gameknot.com/annotation.pl/scand-irregular-saved-mg-2n-vs-3-pawns?gm=19437",
+    "gameName": "Scand, \"irregular\", saved MG, 2N vs. 3 pawns",
+    "players": "drkim3 (1699) vs. damalfi (1682)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "My first e4 opening in ages.",
+        "1... e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. Be2 Bg7 6. O-O Nf6 7. Nc3 O-O 8. Bg5 Qe8 9. Qd2 Nxe4 10. Nxe4 Qxe4 11. c3": "even exchanges while developing.",
+        "11... Bg4": "His first mistake. I see a fork in the road!",
+        "12. f3 Bxd4+ 13. cxd4": "Isolated pawn but I'll take the Bishop for it.",
+        "13... Qd5 14. fxg4 Nc6 15. Be3 Rfe8 16. Bf3 Qb5 17. Bh6 Qb4 18. Qxb4": "I'm ahead so I'll exchange for a lead in the end game. His knight has to capture and I win b7.",
+        "18... Nxb4 19. Bxb7 Rab8 20. Bf3 Nc2 21. Rac1 Rxb2": "Ouch, he fell for the poison pawn.",
+        "22. Rf2": "And no way to save another piece so he resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=13395",
+    "gameName": "Let's play chess",
+    "players": "papalouie (1544) vs. lega77 (1588)",
+    "opening": "Philidor (C41), Larsen variation"
+}

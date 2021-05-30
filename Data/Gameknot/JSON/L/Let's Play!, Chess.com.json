@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2 O-O 9. O-O Na6 10. a3 Nc7 11. Bg5 a6 12. a4 h6 13. Be3 Re8 14. Qd2 Kh7 15. h3 Bd7 16. g4": "Up to this point, Stockfish 10 would choose different opening moves for both sides, however, this is where the game starts to get very interesting.  Black plays very accurately for the remainder of the game.\n",
+        "16... b5": "Correct.  Without this expansion on the queenside, Black doesn't have much.\n\nAfter 17. Ng3 the computer suggest 17... bxa4 18. Nxa4 Bb5!? 19. Nc3 Bxd3 20. Qxd3 Rb8 with a slight advantage.",
+        "17. Bxh6": "White might have thought that there was good reason to do this, but it is a blunder that will ultimately cost him the game.\n\n",
+        "17... Bxh6 18. g5": "What should Black do?",
+        "18... Bxh3": "Much better than 18... Bxg5 19. Qxg5.  Black gets a counter punch, and the weakness of the White king will soon become apparent.\n\n\n",
+        "19. Rfe1 c4": "This expansion on the queenside costs nothing and might be useful later.\n",
+        "20. Bb1": "This is a terrible square for the bishop, because it disconnects the rooks.  Better is 20. Bc2.",
+        "20... Nh5": "Prepares to attack the kingside.\n",
+        "21. gxh6": "This capture won't matter really, and in fact it makes Black's job easier.",
+        "21... Qh4 22. Qe3 Re5": "Bring in reinforcements.  White can't play 23. f4?? because of 23... Qxe1+.\n",
+        "23. Ng3 b4": "Removes the defender on d5.\n",
+        "24. Nce2 Nxd5 25. Qd4 Ndf4": "Adding another attacker to the fray.  Black can also play 25... Ndf6..\n",
+        "26. Nxf4 Nxf4 27. Qxd6": "Things are terrible enough for White, but grabbing a pawn wastes valuable time.  Instead he could mount a better defense with 27. Re3, 27. Qe3 or 27. Bc2.\n",
+        "27... Rg5 28. Re3 Be6": "Prepares Nh3+, but 28... Rd8!! is actually stronger.\n\nNow if 29. Rf3 Rd8!! and White will either give up the queen or allow checkmate.  For example, 30. Qxd8 Rxg3+ 31. fxg3 Nh3+ followed by 32... Qxd8.",
+        "29. Qc6": "This is not very helpful.  Now nothing can stop mate.",
+        "29... Nh3+": "More accurate is 29... Rd8 30. Bc2 Nh3+ 31. Kg2 Rd2 32. Kf1 Qf4 33. Re2 Rxg3 34. Rxd2 Rg1+ 35. Ke2 Qxf2#. If 32. Rf1 Nf4+ 33. Qg1 Qh3 34. e5 Rxg3+!\n\nNow White can delay things a bit with 30. Kg2 Nf4+ 31. Kg1 Rd8.",
+        "30. Kf1": "The king hunt starts.",
+        "30... Qf4": "White's pieces are unable to come to the defense of the king.\n\nIf 31. Re2 Rxg3 threatening 31... Rg1#, so 32. Rc2 Rg1+ 33. Ke2 Qxf2#",
+        "31. Nh1": "\n",
+        "31... Rg1+ 32. Ke2 Bg4+": "Black could also play Rxh1 or Rd8.",
+        "33. Kd2 Rd1+": "A little faster is 33... Rd8+ 34. Kc2 Bd1+ 35. Kf1 Bb3#.  If 34. Qd5 Rxd5 35. exd5 Rd1+ 36. Kc2 Qf5+. 37. Re4 Qxe4#.",
+        "34. Kc2 b3+ 35. Kc3 Qe5+": "if 36. Kxc4 Be6+ 37. Kb4 Rb8+ 38. Ka3 Qd4!",
+        "36. Kb4 Rb8+": "This is a little easier than 36... a5+ 37. Kxc4 Rb8.\n\nNow if 37. Kxc4 Qd4#.",
+        "37. Ka3 Qe7+": "Mate is forced."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-com?gm=65915",
+    "gameName": "Let's Play!,  Chess.com",
+    "players": "Caissarius (1853) vs. soitgoes317 (1938)",
+    "opening": "Benoni (A66), pawn storm variation"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O": "the game now in Yugoslav Attack of Sicilian Dragon, ECO B76\n",
+        "9... d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6": "both Georgiev and Fedorov continued with 13..Qc7, Morozevich-Georgiev 0-1 and Shirov-Fedorov draw 2001\n",
+        "14. Na4 Qa5 15. b3 Qc7 16. h4 h5 17. Kb2 Rd8 18. Bc4 Bf5 19. Nc3 Bxc2": "a dare temporary bishop sac by Black. ",
+        "20. Bxd5": "20.Kxc2?? Nb4+!, 20.Nxd5 cxd5 21.Kxc2 dxc4 22.Qxc4 with a slight advantage on Black because of White exposed King.\r\n\r\nPutih tidak dapat langsung memukul Gajah hitam karena ..Nb4+ Hitam menang Ratu.",
+        "20... Bxd1 21. Qc4 Qe5": "Black continues his attack disregarding the defensive idea like 21..e6.",
+        "22. Bxf7+": "another missed the crucial move by White, 22.Qxc6 e6 (22...Rac8? 23.Qxg6+!!) 23.Qxa8 Rxa8 24.Bxa8 Be2 25.Re1! Qb8! will be interesting with unbalance fight from both side.\r\n",
+        "22... Kg7 23. f4 Rd2+ 24. Kc1 Rc2+ 25. Kxd1 Qxc3 26. Qxc3+ Rxc3": "Black now ahead in material quality following the succesful material exchange.",
+        "27. Bc4 Rd8+ 28. Ke2 Rd4 29. Rf1 Kf6 30. a4 Kf5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/robsons-sicilian-2009-world-open-philadelphia?gm=24952",
+    "gameName": "Robson's Sicilian, 2009 World Open Philadelphia",
+    "players": "Friedel, Joshua (2616) vs. Robson, Ray (2553)",
+    "opening": "Sicilian (B76), dragon, Yugoslav attack, Rauser variation"
+}

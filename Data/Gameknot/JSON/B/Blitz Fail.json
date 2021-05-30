@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "This was a 5-minute blitz game, played offline at my home. I can play so badly sometimes--yes, I am Black in this one.",
+        "1... e5 2. Nf3 d6": "Philidor Defense. It's solid but passive and rarely played at the highest levels. I would never play this on GameKnot.",
+        "3. d4": "The most common move, and probably best move.",
+        "3... Nd7": "I considered channeling the Allies who lost to Morphy at the Opera House (3...Bg4) but thought better of it. If only I thought better later. This move is called the Hanham variation.",
+        "4. Bc4 g6": "I know there's some Philidor system with this move, but I sure didn't do it right!",
+        "5. dxe5 Nxe5": "I think this is the losing move, although I don't think Black's position is any good after 5...dxe5 either. It's just not salvageable now.",
+        "6. Nxe5 dxe5 7. Bxf7+ Ke7": "Obviously, if 7...Kxf7 then 8. Qxd8",
+        "8. Bg5+": "White keeps at it, trying to win that queen.",
+        "8... Nf6": "Interposing! That will work. Right? RIGHT?",
+        "9. Bxf6+": "No. No it will not. Black loses the queen. I resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-fail?gm=48351",
+    "gameName": "Blitz Fail",
+    "players": "White  vs. hscer ",
+    "opening": "Philidor (C41), Hanham, Krause variation"
+}

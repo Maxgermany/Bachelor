@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. g3 e6 2. Bg2 d5": "This is an unusual opening by White, but not a bad one.  The idea over time is to give scope to the B on the long diagonal.",
+        "3. d3 Nf6 4. Nf3 Nbd7 5. O-O Be7 6. Nc3": "White would like to play e4, while Black would love to prevent it--or keep it from being a problem.",
+        "6... c6 7. e4 O-O 8. Ne1": "I was unsure of White's reason for this move.  But the wasted tempo gives Black the chance to gain space.",
+        "8... d4 9. Ne2 e5 10. f4": "White, correctly I think, strikes back immediately at e5, but this does leave White with some weak squares.",
+        "10... Bd6 11. f5": "I was a little surprised that White would want to lock into this pawn chain, which completely devalues the B on the long diagonal.",
+        "11... h6": "White's dark square B is a good piece, but has few good squares at the moment.",
+        "12. g4": "This makes White's K more vulnerable.",
+        "12... Nxg4 13. Nxd4 Nxh2 14. Nxc6 bxc6 15. Kxh2": "Material is even, but White's K is quite exposed.",
+        "15... Qh4+ 16. Kg1": "This is a mistake.  Bh3, ugly as it is, is better here.",
+        "16... Bc5+": "Now White will lose significant material and resigned here.  White was hoping, I think, to create a Kingside attack against Black with the pawn chain.  However, the point of the g2 B is to play against Black's Queenside.  White's K was the one that turned out to be vulnerable."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=63784",
+    "gameName": "Let's play chess",
+    "players": "zooh (1318) vs. mmoody95 (1873)",
+    "opening": "Benko's opening (A00)"
+}

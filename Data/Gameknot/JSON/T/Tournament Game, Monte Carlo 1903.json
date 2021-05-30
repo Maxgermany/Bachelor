@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4": "Mieses offers a full Danish...",
+        "4... Nf6": "...and Pillsbury declines the QNP.",
+        "5. Nxc3": "Mieses ends up just one Pawn down, but he has open attacking lines as compensation.",
+        "5... d6 6. e5": "Trying to open more lines before Pillsbury's pieces can move off the back rank.",
+        "6... Qe7 7. Nf3": "Preparing to castle, and unpin his KP.",
+        "7... Nbd7 8. O-O": "Forcing Pillsbury to capture the KP.",
+        "8... Nxe5 9. Nxe5": "Mieses exchanges off Black's Knight, removing it from its strong outpost.",
+        "9... dxe5 10. Re1": "Pinning the Pawn and adding a piece to the attack.",
+        "10... c6 11. Bg5": "Adding another pin! Pillsbury's King is still trapped in the center, unable to find security by castling.",
+        "11... h6 12. Bh4": "Forcing Black to weaken his K-side further if he wishes to drive off the Bishop.",
+        "12... g5 13. Bg3": "Mieses now threatens to win the pinned Pawn.",
+        "13... Nd7 14. Qf3": "Applying more pressure to Black's cramped position.",
+        "14... f6 15. Ne4": "Centralizing the Knight beautifully.",
+        "15... Bg7 16. Rad1": "Seizing the open file with his mobile, active Rook. Pillsbury's Rooks are inactive and stuck in the corners.",
+        "16... Kd8 17. Rd6": "Invading the heart of Black's position.",
+        "17... Kc7 18. Qa3": "Shifting the focus to the Q-side now that Pillsbury's K is seeking shelter there.",
+        "18... Re8 19. Red1": "Forming a potent battery on the mighty open file.",
+        "19... Nb6 20. Qa5": "Pinning the Knight and closing in on the King.",
+        "20... Bf5 21. Nc5": "Threatening R-Q7 ch. Black's Knight is pinned and cannot defend the Q7 square.",
+        "21... Rad8 22. Qxa7": "In the face of White's numerous threats -- including 23 QxP mate -- Pillsbury resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-monte-carlo-1903?gm=37163",
+    "gameName": "Tournament Game, Monte Carlo 1903",
+    "players": "Jacques Mieses  vs. Harry N. Pillsbury ",
+    "opening": "Danish gambit (C21), Collijn defence"
+}

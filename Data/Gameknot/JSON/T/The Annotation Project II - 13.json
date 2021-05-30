@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. f4 d5 2. Nf3 g6 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4": "Here we go again!",
+        "8. Be6+ Kc6 9. Bxg4 Bg7": "This seems to be the most logical continuation, considering 2...g6.",
+        "10. d3": "White hastens to develop his dsb but with the Q still on d8, this seems to just lose a pawn and enable Black's Q to assume a dangerous position in the heart of White's position.",
+        "10... exd3 11. Bf3+ Kb6 12. Nc3 Bxc3+ 13. bxc3 dxc2": "This pawn is a thorn in White's side and prevents Rb1+",
+        "14. Be3+ c5": "?  Not because it's a blunder but because it was played without even noticing the possibility of White's reply.",
+        "15. Bxc5+": "!? If 15...Kxc5, 16. Bxb7 followed by Bxa8... but, as Freddy has explained elsewhere, White can't afford to swap off his bishops so perhaps Black shouldn't have worried about it.",
+        "15... Ka6 16. Be2+": "White is hunting down Black's king.  Can he escape?",
+        "16... Ka5 17. Ne6 Qc8 18. Bb4+ Kb6 19. Nd4": "?!  White might do better to repeat with 19. Bc5+.  Black would probably have to accept the draw.",
+        "19... Nc6 20. Nxc6": "?  White swaps off one of his attacking pieces and now Black takes over.",
+        "20... Qxc6 21. O-O Rad8 22. Rac1 Rd2 23. Bf3 Qd7 24. c4": "?  cedes control of d4",
+        "24... Qd4+ 25. Kh1 Rf2": "Black seeks to force more exchanges and force home his c-pawn.",
+        "26. Rxf2 Qxf2 27. h3": "luft ",
+        "27... Rd8 28. Kh2 Rd4": "forking two pawns and skewering one of them to a bishop but White can break the skewer with check.",
+        "29. Re1 Qxe1": "The sac is only temporary as the Queen is soon replaced when the c-pawn promotes.",
+        "30. Bxe1 Kc7": "There's no need to give up the rook by allowing it to be pinned against the King.  White can't prevent the pawn queening.",
+        "31. Bf2 c1=Q": "Now that 32. Bxd4 is not check, Black has a telling riposte.  Delaying queening would have allowed White to cover the queening square or further harass Black's rook.",
+        "32. Bxd4 Qxf4+": "A fatal fork.  White resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-ii?gm=26944",
+    "gameName": "The Annotation Project II",
+    "players": "yoshark (1569) vs. rjacobs (1589)",
+    "opening": "Bird's opening (A03), Lasker variation"
+}

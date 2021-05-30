@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4 3. Nc3 a6 4. a4 c6 5. e4 b5 6. d5 Bb7 7. dxc6 Qxd1+ 8. Nxd1 Nxc6 9. axb5 axb5 10. Rxa8+ Bxa8 11. Nc3 Na7 12. Be3 b4 13. Bxa7 bxc3 14. bxc3 Bxe4 15. Bxc4 Nf6 16. Bb6 e6 17. Bb5+ Nd7 18. Bxd7+ Kxd7 19. f3 Bd3 20. Ne2 Bd6 21. Kd2 Bc4 22. h3 Rb8 23. Bd4 Rb2+ 24. Kc1 Rxe2 25. Bxg7 Rxg2 26. Bd4 Bf4+ 27. Kb1 Kc6 28. Rd1 Bb3 29. Re1 Bc4 30. Re4 Bg3 31. Rg4 Bd3+ 32. Kc1 h5 33. Rg7": "now white will loose his tower too by G3-F4 check",
+        "33... Bg6 34. Rg8": "seems no error but this makes my opponant loose his tower too without reply!",
+        "34... Bf4+": "step 1...",
+        "35. Kd1": "out of check.. and...",
+        "35... Bc2+": "step 2! check again",
+        "36. Ke1": "tower undefended so its mine",
+        "36... Rxg8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=15958",
+    "gameName": "Team match",
+    "players": "redmenace07 (1428) vs. beorn_nl (1423)",
+    "opening": "Queen's gambit accepted (D20)"
+}

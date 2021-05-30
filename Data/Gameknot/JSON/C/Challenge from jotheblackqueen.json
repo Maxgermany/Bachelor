@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3": "Hello everyone and welcome to my 2nd annotation on GameKnot!\n\nToday we have yours truly up against a much higher rated opponent in JotheBlackQueen.\n\nI hope what follows is an interesting analysis as I try to explain my thought process as things develop in this very interesting game.\n\nSo we have Jo opening up with the Reti Opening 1.Nf3\n\nIt's not one I see very often it must be said.",
+        "1... d5": "I respond with 1...d5 with the aim of trying to secure some nice development for my material.\n\nI'm a bit wary for the moment of having that pawn protected only by my queen but we will soon address that.",
+        "2. d4 Nf6": "We have now moved into the classic Queen's Pawn Opening. This is a position I am much more comfortable with as I've had more experience with this position.",
+        "3. c4 e6": "3...e6\n\nHere I am aiming to reinforce my d5 pawn as well as opening up a possible avenue of attack down the Queen side",
+        "4. Nc3 c6": "I decided here that the pawn was going to play an important role in the game and required further protection.",
+        "5. e3 Nbd7 6. Qc2 Bd6": "Building up a flexible offense and defence here. Also setting up for my castle next move,",
+        "7. Be2 O-O": "And here we are. Firmly entrenched in the Queen's Gambit Declined semi-Slav, Stoltz variation. White is ever so slightly ahead in this position but its anyone's game from here.",
+        "8. O-O dxc4": "And here we are with first blood. Here I am aiming to restrict any meaningful movement from the White Queen on to my Queen's side.",
+        "9. Bxc4 b5": "Force the bishop back",
+        "10. Bd3 Bb7": "Reinforcing the weak pawn on c6. I also enjoy lining up 'cannon attacks' on the enemy castles.",
+        "11. a3 h6": "A waiting move on my part. Also allowing myself an escape square.\n\nI have lost too many won games by having a Rook mate my King on the back row....\n\na6 is a good move here as well but I was curious to see what Jo was about to try. So setup my defense ahead of time.",
+        "12. e4 e5 13. h3 Qc7": "13... Qc7\n\nI feel a weakness on white's queen side and I am trying to position myself so I can find it and tear it open.\n\nRe8 was a possibility but it felt like I'd be playing for a draw in that position. I don't want to draw. I want to win! Let's make things happen!",
+        "14. Be3 exd4 15. Bxd4": "Probably a mistake here. Playing through this position on my physical chessboard I kept coming up with 15.Nxd4 for white in this situation.\n\nMaybe its this mystique I have for the Knight and this bishop move was not a mistake at all but my thoughts in this moment was that the Nxd4 would put the Knight in a powerful position to be quite threatening.\n\nI was not worried at all by this bishop.\n",
+        "15... a6 16. Rfe1 c5": "I had thought to use the pawn and my material defense to either capture or force the Bishop on d4 to retreat.\n\nI realise now though that Ne5 would have been better here. A restricted white square bishop becomes even more restricted and would here help to debate white's push for the center.",
+        "17. Be3": "17. Be3?\n\nSorry Jo. I think this here was the beginning. A better move here wold have been capturing the Knight on f6 which would cause some troubling issues for my castle. It also blocks the Rook from providing cover for the following promising line of attack:\n\n17. Bxf6 c4\n18. Bf1 gxf6\n19. Nh4 Rfe8\n20. Nf5 Bf8\n\nIn this position I would be terribly vulnerable.",
+        "17... Rfe8 18. Qb1 b4 19. axb4 cxb4 20. Na4": "It was here I started to smell blood. My physical chessboard and I spent almost 10 minutes analysing every move from here on in",
+        "20... Bxe4 21. Bxe4 Nxe4": "Here I am following one of the oldest rules my first chess teacher taught me.\n\nIf you think you are ahead. Simplify the position. So with this sequence of moves I exchanged bishops with white and move my Knight towards the center, placing pressure on the castle.",
+        "22. Bxh6 Nxf2 23. Rxe8+ Rxe8": "I quite happily accept the rook exchange as it simplifies the situation further. My hands started to shake over my chessboard at this point as I felt that a win against my highest rated opponent ever was on the cards!\n\nAt this point I see white's pieces in disarray. The Queen and Rook are in the corner exerting minimal influence over the game while my material is poised.\n\nI feel like I have control over the center of the board and I try to move quickly to capitalise and find a mate as soon as possible.",
+        "24. Kxf2 gxh6 25. b3 Nf6 26. Kg1 Qa7+ 27. Kf1": "27. Kf1??\n\nWhile, I too, am hesitant to drop my king into the corner... I feel that was the best option for white here. Admittedly this position is not good for white at all and 27.Kh1 doesn't do much to alleviate it but....",
+        "27... Nh5": "27... Nh5!!\n\nA delaying move for survival is better than one that leads to a forced mate!\n\n27. Kf1 Nh5 \n28. Nb6 Qxb6 \n29. Qh7+ Kxh7 \n30. Ne5 Rxe5 \n31. g3 Nxg3+ \n32. Kg2 Re2+ \n33. Kf3 Qf2+ \n34. Kg4 Qf4#\n\nHere white resigned seeing the forced mate.\n\nThank you Jo for this game! It's fascinating to see how just a couple little mistakes in chess end up blowing up a game that looked like at one point it was heading towards a draw!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-jotheblackqueen?gm=67080",
+    "gameName": "Challenge from jotheblackqueen",
+    "players": "jotheblackqueen (1933) vs. valifoor (1725)",
+    "opening": "Reti opening (A06)"
+}

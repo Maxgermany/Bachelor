@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "1.e4 ... I've played this before and done okay, I hear its popular in Russia so it must be good !?  }8-D ",
+        "1... c5": "Sicilian Defense, still the first choice of Grandmasters vs 1. e4 . Perhaps it always will be!? What do you think? Can you guess, or already know why it is such a popular choice for GM's; and others too? I'll tell a few of the reasons: #1 It \"tests\" the opponent thru all phases of the Game. First is the Opening itself which has reams of theory written on every variation conceivable. The breadth and depth of this theory gives an opponent ample opportunity to err in the very opening, and still can produce improvements aor TN's (Theoretical Novelties- Basically a substantially untried move which one hopes is no worse than present theory, yet new and different. It might even be slightly inferior but produce such complexity that a well prepared player may feel it is worth playing). The Middle-Game: Here too there is plenty of room for Improvements and novelties and simply knowing or playing the variations better than the opponent. And finally the End Game comes, if the opp has not yet succumbed. And it makes for a certain type of endgame as well. It will almost certainly have \"unbalanced pawn structure\" which is considered much less drawish than balanced wings. Also many Rook or Rook + Minor piece endings will occur, giving a player of the Sicilian a chance to put extra study and experience in them to good use. ",
+        "2. Nf3": "Most common by far. One might try Ne2 instead in blitz to see if the opp will stop and think. However they could play 2...e5 then keeping it a Closed Siclian. So I prefer the straight forward Nf3",
+        "2... d6": "Aha~! Now a Najdorf or Dragon is most likely to occur. My two best Sicilians from either side, especially the latter.",
+        "3. d4 cxd4": "Possible is such as 3...e6 intending to meet a 4.dxc5 move with Qa5+ then recapture the pawn on c5. Its just different for blitzing.",
+        "4. Nxd4 Nf6 5. Nc3 a6": "The Najdorf Variation begins",
+        "6. Bc4 e6 7. Bb3": "This is the point where I consider it a true Fischer's Attack, for the Bb3 choice was his trademark. ",
+        "7... Be7 8. f4 Qc7": "If 8...o-o instead then 9.e5 is quite common, as played by Fischer in simul games. ",
+        "9. Be3 O-O 10. g4": "I like g4, to meet an ...e5 by Nf5 and recapture with the g4 pawn if taken there. ",
+        "10... Nc6": "Whoops~! It just went Scheveningen on me. And rather a Kere Attack I believe, but didnt have time to look it up before moviing :) ",
+        "11. g5 Ne8 12. Qh5 Nxd4 13. Bxd4 b5 14. Rg1 b4 15. Rg3": "Of course I did all the \"I move Rook, he move pawn, I move Rook ... I move Rook, before playing Rg1. So its time to proceed is all. Tho BL can play e5 before b4 and would have stopped this Rook lufting idea. But he didnt. And now I can passive-sac the entire West 40 if need be. Or use d5 and that entire diagonal if he should try to play ...e5 at this point. I didnt calculate that to any particular win, but proceeded with confidence that WT's needs would be met in that regard. ",
+        "15... bxc3 16. Rh3 h6 17. gxh6": "There was a long pause, so I believe it is now he realizes that g6 gives h7# being Mate. And odd mate for this opening. He should try ...f6 here instead of Nf6",
+        "17... Nf6 18. Bxf6 Bxf6 19. hxg7 Bxg7 20. Qh7#": "An interesting game against a good player, for Ajun and I have traded a number of past wins. But the peculiarity of the attack brings the victory. "
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=33047",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "baronderkilt (A) vs. ajun (unr)",
+    "opening": "Sicilian (B90), Najdorf, Lipnitzky attack"
+}

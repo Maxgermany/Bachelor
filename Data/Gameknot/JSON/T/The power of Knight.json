@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5": "Great oppening for the dioagonal of the black Q.",
+        "2. d4": "Not so clever",
+        "2... cxd4 3. Qxd4 Nc6": "What else?",
+        "4. Qd1 e5 5. Nf3": "The smart Knight attack begins...!!!",
+        "5... Nf6 6. Bg5": "Pin of the black queen.",
+        "6... h6 7. Bxf6": "Taking knight for bishop is my favorite.",
+        "7... Qxf6": "This was black's first mistake. He had his queenside open and he choose to defend with his queen.",
+        "8. Nc3": "Now i could open my knight without the fear of pinning by the Q.",
+        "8... Bc5": "Maybe b4 would be better?",
+        "9. Nd5": "Two black pinnings were over...",
+        "9... Qd8": "... and the queen retreats!",
+        "10. Bc4": "supporting my knight",
+        "10... O-O": "why not moving the Q to a5?",
+        "11. g3": "having my kingside ready for roke",
+        "11... Nd4": "this was a relief, this black pawn at e5 was quite a pressure",
+        "12. Nxe5 f6": "if there are two knights in the same raw is a great attack",
+        "13. Nxf6+": "double check",
+        "13... Kh8 14. Ng6#": "the power of Knights!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-power-of-knight?gm=1347",
+    "gameName": "The power of Knight",
+    "players": "dimitriskar (1280) vs. zamboman (1272)",
+    "opening": "Sicilian (B21), Andreaschek gambit"
+}

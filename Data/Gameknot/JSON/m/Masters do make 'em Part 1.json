@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\n\nMy buddy Bob Jacobs drew my attention to a victory he had obtained against a player of near-IM strength.  In fact he is currently an IM.  In this game, however, Bob's opponent slipped up big time and immediately resigned on the grounds of Ruinous Loss of Material.  So, how did all this happen?  Well, here is the Gameknot Analysis version of the game.  http://gameknot.com/analyze-board.pl?bd=17771714&fb=1&rnd=0.860014379173279.  Bob starts with his favourite opening, the Queen's Pawn Opening.",
+        "1... d5 2. c4": "2. c4 - Bob plays the Queen's Gambit.  I usually accept it but Menchy declines and plays the orthodox e6.",
+        "2... e6 3. Nc3 Nf6": "3. .... Nf6 - development.",
+        "4. Bg5 Be7": "4. ..... Be7 - pin-breaker",
+        "5. Nf3 O-O 6. e3": "6. e3 - line opener.",
+        "6... h6 7. Bh4 b6 8. Bd3": "8. Bd3 - while black prepares to fianchetto his lsb, Bob develops his onto d3 hitting at h7.",
+        "8... Bb7 9. O-O c5 10. cxd5 Nxd5": "10. ...... Nxd5 - pawn trade.",
+        "11. Bxe7 Qxe7": "11. .... Qxe7 - bishop trade.",
+        "12. Rc1 Nd7 13. Re1 Nxc3 14. Rxc3": "14. Rxc3 - knight trade.",
+        "14... Rfd8 15. Qc2 Bxf3 16. gxf3": "16. gxf3 - black busts up Bob's castled position, but will he be able to capitalise on this?",
+        "16... cxd4 17. exd4": "17. exd4 - pawn trade.",
+        "17... Qg5+": "17. ...... Qg5+ - nacht.",
+        "18. Kh1": "18. Kh1 - preparing Rg1.",
+        "18... Nf6 19. Rg1 Qf4": "19. ..... Qf4 - threatening Qxf3+.",
+        "20. Be4 Nxe4 21. fxe4": "21. fxe4 - now comes the oversight, wait for it ......",
+        "21... Qxe4+": "21. ...... Qxe4+?? - what an oversight!  Does Bob capitalise on it? ...... wait for it ......",
+        "22. Qxe4": "22. Qxe4!!! - Yeeeeeeeees he does!!  Black immediately waved the white flag.  It just shows, Masters are human and they make chessic howlers, but they are not Masters for nothing - it is very rare that they do make oversights.  Bob should still take credit for this victory - first he must spot the hanging piece.  He must then decide whether it is a sacrifice or a mistake.  Firstly he must look at his king and check that he is not in Old Matey's shadow or that if he does take the hanging material he will not then cop Old Matey.  He must also ascertain that after the capture, his opponent does not have any other riposte or positional counterplay.  Black had none whatsoever and so, having just a pawn for his queen, resigned on the Grounds of Ruinous Loss of Material even though his opponent is 800 points south of him - it was just too much.  Anyhow, another known Master has slipped up big time and he will be joining Bob on my It Can Be Done Thread.  See you soon - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/masters-do-make-em-part-1?gm=47506",
+    "gameName": "Masters do make 'em Part 1",
+    "players": "rjacobs (1537) vs. menchy (2394)",
+    "opening": "QGD (D53), 4.Bg5 Be7"
+}

@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. Bd3 g6 6. O-O Bg7 7. Be3 Ne7 8. c4 O-O 9. Nc3 Nbc6 10. Nxc6 Nxc6": "This is probably a mistake.  I think Black might end up with a better position with either dxc6 or bxc6.",
+        "11. Qd2 Ne5 12. Be2 Qc7 13. b3 d6 14. Rad1 Rd8 15. Na4 Qe7 16. c5": "Black's lack of development is a problem here, as the Rooks are not linked.",
+        "16... d5 17. Nb6 Rb8 18. exd5 exd5 19. Nxd5 Qf8 20. Ne7+": "This is a nice move that wins significant material, again because the Rooks are not linked.",
+        "20... Qxe7 21. Qxd8+ Qf8 22. Qxf8+ Kxf8 23. Rd8+ Ke7 24. Rg8 Bf6 25. f4 Nc6": "Black's Rook is not protected, but White will still be able to trade it off.",
+        "26. Bf3 Be6 27. Rxb8 Nxb8 28. Bxb7": "Black has a miserable endgame.  White is up the exchange, but also has a winning Queenside pawn majority.",
+        "28... Kf8 29. c6 Bd8 30. Rc1 Bc7 31. g3 Ke7 32. Rd1 Kf8 33. Ba7 Ke8 34. Bxb8 Bxb8 35. Bxa6": "Another pawn disappears.  White's pawns will roll.",
+        "35... Bc7 36. Rd2 Ba5 37. Rc2 Kd8 38. Bc4 Bf5 39. Rc1 f6 40. Bd5 Kc7 41. a3 Bb6+ 42. Kf1 Bh3+": "Black can only stall and hope for a blunder.  There is no way to win.",
+        "43. Bg2 Bf5 44. Ke2 Bd4 45. a4 Bb2 46. Rc4 Ba3 47. b4 Bc8": "Threatens Ba6, but even with that White is winning.",
+        "48. b5": "And, of course, White doesn't let it happen!",
+        "48... Bd6 49. Rc3 Bf5 50. a5": "White patiently advances the pawns.",
+        "50... Bb4 51. b6+": "Priority of check.  This is more elegant, but even ugly wins here.",
+        "51... Kc8 52. b7+ Kb8 53. Re3": "After Re8+, there is no way to prevent a pawn from promoting.  And there is no way to stop Re8.",
+        "53... Bxa5 54. Re8+": "Black resigned here.  White promotes next move.  White got an opening advantage in development and central control, leveraged it into a material gain, and cashed the advantage in the endgame.  Very well played."
+    },
+    "url": "https://gameknot.com/annotation.pl/cedricparkers-mini-tournament-ii?gm=62332",
+    "gameName": "cedricparker's mini-tournament II",
+    "players": "cedricparker (1528) vs. mmoody95 (1831)",
+    "opening": "French defence (C00)"
+}

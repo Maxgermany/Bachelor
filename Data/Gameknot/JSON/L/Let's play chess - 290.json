@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Qxd5": "Scandinavian defence, Lasker variation (B01)",
+        "3. Nc3 Qa5 4. Nf3 Bg4 5. Be2 Nc6 6. h3 Bh5 7. Ne4": "This move isn't in the GK database and, playing something new, I decide to hop around under the queen's radar to defend my king side and pursue the bishop for better or worse.",
+        "7... O-O-O 8. Ng3 Bg6 9. Nh4 e5": "I played the GK computer in this position and it played 9...e6 instead. Perhaps ...e5 was too bold, but I prolly would of played it myself.",
+        "10. Nxg6 hxg6 11. c3": "I play c3 to prevent the knight from advancing and to follow up with a gradual queen side attack.",
+        "11... Qd5 12. O-O f5 13. Qb3": "I offer to trade queens and to double up my pawns figuring that black already has a doubled pawn and it would open up the a file for my rook.",
+        "13... Qd6": "But black declines.",
+        "14. Bb5 f4 15. Ne4": "I decide to advance the knight hoping to fork at f7.",
+        "15... Qd7 16. Re1": "A bit of a stall move, but protecting the knight and hoping to win the e4 pawn after Bxc6.",
+        "16... Nf6 17. Ng5 Rh5 18. Rxe5": "Taking advantage of the knight pinned to blacks queen.",
+        "18... Bd6": "Here begins a bit of a pickle for me.",
+        "19. Bxc6": "I capture to make an escape route for my rook and was kinda hoping black would recapture with the b pawn.",
+        "19... Qxc6": "but black didn't.",
+        "20. Rb5 a6": "After a bit of analyzing I found there was some hope depite the rook's constant danger.",
+        "21. Ra5 b6 22. Qe6+": "With two pieces being attacked I check to change the battlefield.",
+        "22... Kb7 23. Nf7": "The knight finally makes it to f7 though under less ideal conditions.",
+        "23... Re8 24. Nxd6+": "I expected black to capture with the c pawn, where I would check with the queen at f7 ultimately getting out of my double piece attacked pickle.",
+        "24... Qxd6": "but black captures with the queen",
+        "25. Qxd6": "I became distraught at this point because black now has a beautiful mate in two, with 25...Re1+, 26.Kh2 ...Ng4#, although it was easier to swallow this type of defeat for the opportunity of getting out of that pickle.",
+        "25... cxd6": "But black misses it and the pickle and mate is diverted with white a pawn up!",
+        "26. Rxh5 gxh5 27. Kf1 g5 28. f3 Kc6 29. d4 Nd5 30. Kf2 Kb5 31. Bd2 Kc4": "at this point I could feel all my hard work collapsing around me. Blacks king had infiltrated my camp and I began regretting not giving up more queen side pawns in a desperate attempt to confuse blacks play. ",
+        "32. Re1 Rxe1 33. Kxe1 Kd3 34. a4": "A stall move though proactive.",
+        "34... Kc2 35. c4": "This move didn't occur to me until right before it was played.",
+        "35... Ne3 36. Bxe3 fxe3 37. b4": "And the lucky set up was complete with my extra pawn advantage coming into play to save the day!",
+        "37... Kd3 38. c5": "4 against 3 pawns wins out with black's king forever a space away. Black resigns. Thanks for watching my game."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=51958",
+    "gameName": "Let's play chess",
+    "players": "porygon (1552) vs. tiko28 (1540)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

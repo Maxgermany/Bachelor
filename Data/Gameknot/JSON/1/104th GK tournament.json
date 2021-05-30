@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e3": "Van't Krujis opening.  A little unusual, but I used to open this way frequently in my youth.",
+        "1... d5": "Not a conventional response.",
+        "2. g3 e5 3. Bg2 Nf6 4. Ne2 Bd6 5. O-O O-O 6. b3 c5 7. Bb2 e4 8. d4": "Pe4xPd4 e.p. is also acceptable here.",
+        "8... cxd4 9. Bxd4 Nc6 10. Bxf6 Qxf6 11. c3 b5 12. Nd2 Bg4 13. f3 exf3": "This would have been a lovely fork, save for NxP.",
+        "14. Bxf3 Bxf3 15. Rxf3 Qe6 16. Qc2 g6": "Ph7 is not in mortal danger.",
+        "17. Raf1 a5 18. c4 d4 19. Nxd4 Nxd4 20. exd4 Qg4 21. d5 bxc4 22. Nxc4 Rac8 23. Rf3f4": "?  Bishop for rook?  White would have been better off moving the queen.  Qd2 at least threatens black's a pawn.",
+        "23... Bxf4 24. Rxf4 Qd7 25. Qd2": "Rc5",
+        "25... Qa7+": "I liked Rc5 better, as it both defended Pa5 while attacking Pd5.  But this is halfway decent too.",
+        "26. Kg2 Qc5 27. a3 Rfe8 28. d6 Rcd8 29. Rd4 Qc6+ 30. Kh3 Qd7+ 31. g4 h5 32. Qd1 hxg4+ 33. Qxg4 Qxg4+ 34. Kxg4 Kg7 35. Nxa5 f6 36. Nc6 Rd7 37. h4 Re6 38. Nb8 Rdxd6 39. Rxd6 Rxd6": "Trades work to black's advantage.  Especially RvN.",
+        "40. b4 Rb6 41. Nd7 Ra6 42. b5 Rxa3 43. b6 Rb3 44. Kf4 Kf7 45. Nc5 Rxb6 46. Kg4 Rb4+ 47. Kg3 Ke7 48. Na6 Rc4 49. Nb8 Kd8 50. Kf3": "?  White cannot win without that pawn.  The best white can hope for would be a draw.",
+        "50... Kc8": "?  I don't think black can chase down the white horse, or should waste time trying.  Though pushing it against the far right side of the board while the pawns are on the left may be a decent long term strategy.  Black's king is better off shepherding pawns, or gutting the king.  Pg blocks any further movement of the h pawn.  So Pf should be promoted.",
+        "51. Na6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/104th-gk-tournament?gm=50310",
+    "gameName": "104th GK tournament",
+    "players": "muhdarif13 (1083) vs. sanjinp (1531)",
+    "opening": "Van't Kruijs opening (A00)"
+}

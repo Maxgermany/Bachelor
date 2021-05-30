@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Going for kingpawn opening",
+        "1... e5 2. Nf3": "developing",
+        "2... d6 3. Nc3": "developing",
+        "3... h6": "There was no threat of me bringing the DSB out ...",
+        "4. Bc4": "developing",
+        "4... Bg4": "the winning pin",
+        "5. h3": "trying to get rid of his bishop, here i have not seen it yet...",
+        "5... Bh5": "keeping the pin",
+        "6. a3": "have not seen it yet",
+        "6... a6": "now I see it...",
+        "7. Nxe5": "looks stupid......, this is a deceiving position due to the power of the 3 minor pieces.\r\n\r\nIf dxe5, then Qxh5 threatens mate on F7 and attacks e5, leaving me with a pawn up if he plays Qd7, white being much better in development, 3 pieces to one you should be able to convert...\r\n\r\nIf I had played this on move 5 there would be no threat for mate, it would play out as Qxg4",
+        "7... Bxd1 8. Bxf7+": "dont think he saw it comming, forced",
+        "8... Ke7 9. Nd5#": "mate.  I was very pleased that I remembered the move, even though it was 2 moves late.\r\n\r\nBut the moral is if your oponent keeps his knights in, let it rip........\r\n\r\nPlease give some comment on any other variations you can spot?"
+    },
+    "url": "https://gameknot.com/annotation.pl/queen-sac-forced-mate-in-2?gm=42433",
+    "gameName": "Queen Sac - forced mate in 2",
+    "players": "nieh (1330) vs. maalot (1378)",
+    "opening": "Philidor's defence (C41)"
+}

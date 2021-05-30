@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6": "the start position (tematic tournament)",
+        "6. Nd5": "an inusual move. 6...Nxe4?? 7.Nb5!\r\n6...Nxd5 let white a good center",
+        "6... Bg7 7. Bb5+ Bd7 8. O-O O-O 9. Nxf6+": "9. f3 it's no bad :P lose only a bishop with Nxd5 exd5 Bxd4  or Nxd5 Bxd7 Nxd7 exd5 Qb6",
+        "9... Bxf6 10. a4 a6": "Bxb5 let Ra1 to work; b5 is a good block for black pieces",
+        "11. Bc4 Nc6 12. c3": "with a change white gain a good center",
+        "12... Qb6": "Qb6? black want pressure on white center but b6 is a big problem: b7 is blocked",
+        "13. Nxc6": "without change is difficul see a way to play",
+        "13... Bxc6 14. Qe2 Rfd8": "a wrong...now white can use b6!\r\n14...Qc7 is better: let b5!",
+        "15. a5": "i think now white can play only to win!!",
+        "15... Qc7 16. Be3 Qd7 17. Bb6 Rdf8 18. f4": "now white have all his pieces (no Ra1) in good position, so he can star a kingside attack",
+        "18... e6 19. f5": "i think the best move to open kingside rook",
+        "19... d5": "the best defence, i think, but now black have to defend his centre...now Ra1-d1 is very dangerous, Bb6 control d8",
+        "20. exd5 Bxd5 21. Rad1 Qc6 22. Bxd5 exd5": "isolated pawn",
+        "23. Qf3": "Qf3! Now Rf8 is block to defend Bf6 after fxg6, Qf3 attack d5, how to defend all?",
+        "23... Bd8": "unic...but f6 is now possible",
+        "24. Bf2": "sacrifice pawn to do f6!\r\nwhy not Bd4 or Be3 ?\r\n24.Bd4 i think is not good becouse d5 now is defended so 24...f6 and Rad8 with a5 attacked; with b4, c3 is a serius problem\r\n24.Be3  Re8 and f6",
+        "24... Bxa5": "perhaps f6 is better.\r\n24...f6 25.fxg6 hxg6",
+        "25. f6 Rad8 26. Qf4 Rd6 27. Bd4 Bb6 28. Rde1": "the only way! if black do Re8 white have lost a pawn",
+        "28... Bxd4+ 29. cxd4 Re6 30. Re5": "with idea Rh5; with 30...Rxe5 31 dxe5 white win early with Qh6",
+        "30... h5": "a wrong!! Rfd8 is better",
+        "31. Rf5": "delicius move (i think) defending pawn f6 white can play Qh6",
+        "31... Kh7 32. Rxh5+ gxh5 33. Qg5 Rxf6 34. Rxf6": "i think this is a very good game; we can see:\r\n- how take advantage from a blocked pawn (b7)\r\n- use development advantage to start an attack"
+    },
+    "url": "https://gameknot.com/annotation.pl/slardifarsts-sicilian-stravaganza-ii-http-gameknot-com?gm=4439",
+    "gameName": "Slardifarst's Sicilian Stravaganza II, http://gameknot.com/",
+    "players": "saccopterigio (1717) vs. 3beansalad (1760)",
+    "opening": "Sicilian (B70), dragon variation"
+}

@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bg6 6. Bg5 Qb6 7. O-O f6 8. Bc1 Nd7 9. Nc3 O-O-O 10. Na4": "This move was made in order to push the queen backwards and set her in front of the king.",
+        "10... Qc7": "Succeeded ",
+        "11. Be3": "Now is the time to try and set a trap - capture and lock the queen.\n",
+        "11... c5 12. Rc1": "The rock will wait there until the moment is true...",
+        "12... c4": "Run away with the bishop? or leave a honey trap... which in the future can lead to the downfall of the queen...",
+        "13. Bf4 Bh5 14. b3 cxd3": "This was an obvious mistake... now the queen is gone",
+        "15. cxd3 Nc5 16. Nxc5 Qf7": "The queen tries to run away, But it's no good... keep the pressure when in attack and see the benefit ",
+        "17. Na6+ Kd7 18. Rc7+": "That's it"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=63182",
+    "gameName": "Team match",
+    "players": "roneshet (1519) vs. napalmnthemornin (1512)",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

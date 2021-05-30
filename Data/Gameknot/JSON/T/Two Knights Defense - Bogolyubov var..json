@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I like to try to use blitz to try out and learn new openings.  I like to play the Giuoco Piano but I have to know the Two Knights Defense and I am grateful when someone plays it. ( I usually lose right now. )  ",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5": "The threat on the pawn at f7 requires some kind of action.  \n",
+        "4... d5": "d5 is the most common reaction \n",
+        "5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6": "This a line I have had trouble with until I found the Bogolyubov line. ( I think its the best line here although white can still end up on the defensive. )\n",
+        "8. Qf3": "The cross pin saves the bishop and lets white do a little more than just fall back and defend.  There are three lines I found in the opening data base and I have looked at:  Rb8, breaking the pin,  Qc7 overprotecting c6 and perhaps gaining a good diagonal for the queen, and cxb5 which after 9. Qxa8 will be quite interesting.\n",
+        "8... Bb7": "This wasn't in the data base so white has two options: maintain the pin with Ba4 or Be2 to better defend the kingside.\nIf Ba4 eventually black will castle and the bishop won't serve much purpose at a4.",
+        "9. Be2": "I chose Be2. If 9...., c5 then I thought 10. Qg3 would hit the e5 pawn and allow me to play 11. d3 with an extra pawn and a position I thought I could defend. However 10. ..., Bd6 looks very threatening.  I may have been fortunate this was a blitz game.\n",
+        "9... h6 10. Ne4": "The pin with c5 is an illusion since white can play 11. Nxf6ch then move the queen or trade queens if black allows it.\n",
+        "10... Nd5 11. Nbc3 Be7 12. O-O O-O 13. d3": "Both sides try to complete development and now black can expand on the kingside.",
+        "13... f5 14. Ng3 Nxc3 15. bxc3": "White is a little uncomfortable here facing the duo at e5 and f5.  It might be possible to play Qh5 and play Bxh6 with at lest a perpetual in some variations. (On 15. ..., c5, 16. Qh5 should be an adequate response.)",
+        "15... c5 16. Qh5": "Bxh6 is playable now since if black captures white can check on g6 followed by Qxh6ch and has at least a perpetual.  White would have three pawns for the bishop and might be able to capture the pawn on f5.  But black puts an end to that dream.\n",
+        "16... Qe8": "Trading queens and trying to make the extra pawn work is probably the safer course since black really has all the space on the kingside, but the bishop on b7 means Qh3 is safe at least at the moment \n",
+        "17. Qh3 Bc8 18. Nh5": "18. ..., f4 is probably best. I had planned 19. Bg4, Bxg4, 20. Qxg4.  The threat of mate gains a tempo but the knight on h5 might be in trouble.  If 20. ..., Qf7 then Bxh6 and white may be ok though.",
+        "18... g6": "Yes the knight has nowhere to go since the retreat 19. Ng3, allows 19. ..., f4 with the discovery on the queen and knight hanging.  But there is an out.",
+        "19. Bxh6 gxh5 20. Bxf8 Qxf8": "There was no way to save the pawn on h5 so the queen capture may be better but being able to take the pawn with the queen and maintain an attack is good for white.",
+        "21. Qxh5 Qg7 22. Bf3": "Threatening the rook and heading to d5.\n",
+        "22... Rb8 23. Bd5+ Kf8 24. Rab1": "A trade of rooks here would give white the chance to invade on the 8th.  But 24. ..., Rxb1, 25. Rxb1, Bd6 trys to keep the rook out but 26. Rb5, Bc7 to save the knight allows Rxc5 with pressure on c8.\n",
+        "24... Bb7 25. Bxb7 Nxb7 26. Qxf5+": "White should be able to mop up quickly now.",
+        "26... Qf6 27. Qd7": "White is not looking for an end game but black makes a mistake.\n",
+        "27... Qd6 28. Rxb7": "Resigns.  If you have suggestions or improvements please comment. "
+    },
+    "url": "https://gameknot.com/annotation.pl/two-knights-defense-bogolyubov-var?gm=63350",
+    "gameName": "Two Knights Defense - Bogolyubov var.",
+    "players": "jmd1952 (1200) vs. sylvainc911 (1986)",
+    "opening": "two knights defence (C58), Bogolyubov variation"
+}

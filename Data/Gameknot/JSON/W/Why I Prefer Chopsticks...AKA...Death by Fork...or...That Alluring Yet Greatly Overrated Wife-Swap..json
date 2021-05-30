@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "I spend the first half of the game slowly picking apart his defenses on the right hand (with even trades) not gaining any leeway points-wise, but making  slow progress toward opening  up the castle, and snatching the throne. But in the  end a dang horse shifts the balance of the game, with a rather magnificent fork on the part of my opponent, which is immediately compounded by a stupid greedy move on my part, resulting in a queen for queen trade. When the dominoes fall nothing is left for me. (Thanks ionadowman for helping me analyze my many mistakes.)",
+        "1... Nf6 2. Nc3 d6 3. d4 g6 4. d5": "Someone recently suggested to me this pawn push to be a weak  maneuver...seems to work out here, but maybe I should have been developing knights or bishops.\n.....................................................................................\nblake78613 (1830):\nthe thematic push White is looking for against the Pirc is e4-e5. this becomes much harder after White plays d4-d5. \n.....................................................................................\n\nThanks, I'll give that a try, if I can even recognize the Pirc next I see it. (Had to look it up to understand what you were talking about.) lol...could probably stand to study a lil more chess in general.",
+        "4... e5 5. Bg5 h6 6. Bh4 g5 7. Bg3": "My bishop is chased off by pawns, but the castle on the  king's side is no longer a sweet possibility for black.",
+        "7... Nbd7 8. f3": "Escape hatch.",
+        "8... Nh5 9. Bf2": "knight encourages me through it.",
+        "9... Nf4 10. g3": "You are standing too close to my stuff.",
+        "10... Ng6 11. Qe2 Nb6 12. O-O-O Bd7 13. Bh3 Be7 14. Nb5 O-O 15. Bxd7 Qxd7 16. h4": "He castles into an open spot, I initiate trade so as to further open it  up.",
+        "16... a6 17. Nc3 Nc8 18. hxg5 Bxg5+ 19. Be3 f6 20. Nh3 Bxe3+ 21. Qxe3 Kg7 22. Nf2": "King steps for ward to hold the walls up himself, and my horsie sidesteps, to open up a line of attack.",
+        "22... Rh8 23. Ng4 h5 24. Nf2 Nce7 25. g4 h4 26. g5 f5 27. exf5 Nxf5 28. Qe4": "Castle is opened up, non-existent. Still having trouble getting through. Here I set him up for the  fork that changes the game. Well...loses the game.",
+        "28... Ng3": "There it is.",
+        "29. Qa4": "I take a shot at a queen snatch. Instead I wind up trading  ladies. Basically a desperation gamble.",
+        "29... Qxa4 30. Nxa4 Nxh1 31. Rxh1 Raf8 32. Rh3 Nf4 33. Rh2 Nxd5 34. Nh3 Rxf3 35. Nf2 Rhf8 36. Nd3 h3 37. Kd2": "Black's advantage grows in pawns. All thanks to that fork. The king no longer needs the castle he lost. I have thrown this game away with one foolish move.",
+        "37... c5 38. Ke2 Rg3 39. Nf2 Rg2 40. Kf1": "King gives up his kingdom for a horse. For some reason  I saw only Rgxf2, and not this move. I didn't even  think of Rh2 which would have been equally disastrous, but not as cool to look at.",
+        "40... Rfxf2+ 41. Ke1 Rgxh2 42. c4 Ne3 43. Nxc5": "And I am officially completely dead. I think I'd have had  this one if not for that one fork, and the domino effect occurring after. Mental note: challenge that dang nun-orc to a rematch some time.",
+        "43... Rf1#": "PS: I challenged nunorc to several rematchs, but she will not accept. She knows that she got lucky in this game, and that I would beat her in the next."
+    },
+    "url": "https://gameknot.com/annotation.pl/why-i-prefer-chopsticks-aka-death-by-fork-or-that-alluring-yet-greatly-overrated-wife-swap?gm=21787",
+    "gameName": "Why I Prefer Chopsticks...AKA...Death by Fork...or...That Alluring Yet Greatly Overrated Wife-Swap.",
+    "players": "hercules_isadore (1200) vs. nunorc (1200)",
+    "opening": "Alekhine's defence (B02), Scandinavian variation"
+}

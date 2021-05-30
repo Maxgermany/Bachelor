@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 Nc6 2. d4 d5 3. e5 Bf5": "French, except the bishop in f5.",
+        "4. Bb5 e6 5. Nf3 h6": "Otherwise Kh4",
+        "6. O-O Be7": "f6",
+        "7. Nc3 Qd7 8. Na4 a6 9. Bxc6 Qxc6 10. Nc3 O-O-O 11. h3 g5 12. Nh2 h5 13. a4 f6 14. a5 fxe5 15. dxe5 d4 16. Ne2 Bxc2 17. Nxd4 Bxd1": "Material won",
+        "18. Nxc6 bxc6 19. Be3 Be2 20. Rfe1 Bb5": "Bc4 better",
+        "21. Nf3 g4 22. hxg4 hxg4 23. Nd4 Bc4 24. Nxc6 Bd5": "Rd5 better",
+        "25. Nxd8 Kxd8 26. Ra4 Nh6 27. Bxh6 Rxh6 28. Rxg4 Rh5 29. Rd1 Rxe5 30. Rg8+ Kd7 31. Ra8 Re2 32. Rxa6 Rxb2 33. Ra8 Ra2 34. a6 Bc5": "King is in danger!",
+        "35. g4 Rxf2 36. Rf1 Rf8+": "Rxf1 Kxf1 Bxa8 another option",
+        "37. Kh2 Rxf1 38. Rg8 Bd6+": "chessmate on Rh1"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=24535",
+    "gameName": "Let's play chess",
+    "players": "hch100 (1354) vs. jonduan (1200)",
+    "opening": "KP (B00), Nimzovich defence, Marshall gambit"
+}

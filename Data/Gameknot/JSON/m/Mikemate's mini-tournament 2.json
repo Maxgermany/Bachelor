@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. h3 O-O 7. Nbd2": "Possibly I should have played Bb3 first\n",
+        "7... Na5 8. Bb3 Nxb3 9. axb3 a6 10. Nf1 Nh5 11. Be3 b6 12. Bxc5 bxc5 13. Nxe5 Nf4": "I really liked 13 Nxe5 but after this I wasn't so sure about my position",
+        "14. Ng4 Nxg2+ 15. Kd2": "I thought 15... Qg5+ was dangerous and also 15... f5 looked interesting - try to open the position and take advantage of my King's position.",
+        "15... Nf4 16. Nfe3 Be6 17. Qf3 Ng6 18. Kc2": "Maybe 18.... Qb8 19 c4 and f5 20 NxP? RxN!",
+        "18... Qd7 19. Rhg1 f5 20. Nxf5 Bxf5 21. exf5 Qxf5 22. Qxf5 Rxf5": "I'm still worse here I think",
+        "23. Rg3 Kf7 24. f3 h5 25. Ne3 Re5 26. Kd2 Rae8 27. f4 Nxf4": "I thought 27 R5e7 was better although I then have the choice of taking on a6 or playing Rag1",
+        "28. Rf1 g5 29. h4 Rg8 30. Rxg5 Rexg5 31. Rxf4+ Ke6 32. hxg5 Rxg5 33. Rh4": "It's hard to see a good plan for black here.  Maybe use the king to defend the H pawn but perhaps the best idea is to give up the pawn as you get tied down to defending it.",
+        "33... c6 34. Rh2 d5 35. Ng2 Ke5 36. Ne1 Rf5 37. Ke3 d4+ 38. Ke2 Kf4": "This is dangerous - either the rooks come off or the king gets trapped on the edge of the board. Also I can use the g file to attack\n",
+        "39. Rh1 Kg3 40. Rg1+ Kh3 41. Nf3 dxc3 42. bxc3 Rf6 43. Rg5 Re6+ 44. Kf2 h4 45. Ng1+ Kh2 46. Rg4 Rf6+ 47. Nf3+ Rxf3+ 48. Kxf3 h3 49. Kf2 Kh1 50. Rg3 Kh2 51. Rg5 a5 52. Rxc5 a4 53. bxa4 Kh1 54. Re5 c5 55. Kg3": "Just being careful towards the end to avoid a stalemate."
+    },
+    "url": "https://gameknot.com/annotation.pl/mikemates-mini-tournament-2?gm=54678",
+    "gameName": "Mikemate's mini-tournament 2",
+    "players": "richn (1960) vs. jljusto (1686)",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

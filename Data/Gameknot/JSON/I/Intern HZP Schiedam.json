@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Bg4 5. Bb5+ Bd7 6. Qd3 a6 7. Bxd7+ Nxd7 8. Qb3 Qa5+": "(8... Pgf6 of e6 is beter) ",
+        "9. Nc3 e6 10. Bf4": "10.Lf4!? (dubieus... beter is 10.Dxb7 Tb8 11.Dc6 Pe7 en zwart heeft voldoende compensatie voor de pion)",
+        "10... Bb4": "(waar 10...Db4 beter is)",
+        "11. O-O Ra7": "(11... Pgf6 geeft net als Ta7 gelijk spel)",
+        "12. Rfe1 Ngf6 13. Ne5 Bxc3": "13... Lxc3?! -0.39 (13....0-0 +0.27)",
+        "14. bxc3 O-O 15. Rab1 Nxe5 16. Rxe5": "16.Txe5? (16.dxe5 Pe4 17.c4 dxc4 18.Dxc4 Pc5 19.Ld2 Dxd2 20.Dxc5 Taa8 0.00 =)",
+        "16... Ne4": "16... Pe4!? (beter is 16... b5!)",
+        "17. Re1": "17.Te1? (17.c4  -0.17 maar nog steeds in evenwicht)  Dxc4  [+ 1.60  voor zwart ]  (nog steeds is b5 de betere zet + 1.74)",
+        "17... Qxc3 18. Qb1": "18.Db1 (met de dame de toren aanvallen op a7 is mat en met Tee3 dreigt Da1+ met mat op de volgende zet; echter 18.Td1 Tc8  is nog speelbaar, weliswaar met een 1.40+ voor zwart)  ",
+        "18... b5 19. Re3 Qxd4 20. Re3xe4": "20.T3xe4?? (dit doet het licht echt uit)  ",
+        "20... dxe4": "20... dxe4 en Le3 met de penning van de toren op a7 levert niets op omdat de toren op e5 in staat.",
+        "21. c3 Qd3 22. Qxd3 exd3 23. Re1 Rc8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/intern-hzp-schiedam?gm=65476",
+    "gameName": "Intern HZP Schiedam",
+    "players": "J.Scheele (1740) vs. A.Schouteren (1814)",
+    "opening": "Caro-Kann (B13), exchange, Rubinstein variation"
+}

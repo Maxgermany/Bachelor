@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "HI guys, this is my fourth annotation. This will be the match between me and obee_ton, which I have no knowledge of.",
+        "1... e6": "My standard opening",
+        "2. d4": "d4 to open up his black bishop",
+        "2... b6": "This is a very dangerous move, but it may turn the tide your way if used correctly, for if diagonal squares remain open and white's bishop is out, you pretty much get free rook.",
+        "3. e5": "He just did a favor to me by moving that out of the way.",
+        "3... Bb7": "In here, if he takes out his white bishop as I mentioned, I can attack g2 and take the free rook.",
+        "4. Nf3": "This will protect his rook from horrible death.",
+        "4... Bb4+": "In order to activate a piece and open up for castling",
+        "5. c3": "Natural",
+        "5... Be7": "I donpt want to put it in the f8, because that just undoes what I tried to do.",
+        "6. h4": "Limites the movement of my bishop",
+        "6... Nh6": "More in order to get a castling",
+        "7. Bxh6": "Attack at my knight.",
+        "7... O-O": "Maybe I should have took it, but I decided to castle, and that gave me extra turn(not that good, but better than nothing.",
+        "8. Bg5 h6 9. Bxe7 Qxe7": "Bishop has been traded off.",
+        "10. g3": "He surprisingly opens up the diagonal, therefore locking in his kinght, because I wouldn't want to lose my rook.",
+        "10... d6": "for better position of knight and to connect the rooks afterwards.",
+        "11. exd6 Qxd6 12. Qd3 Nd7": "This is the latest of what is going on. I will keep you updated."
+    },
+    "url": "https://gameknot.com/annotation.pl/friendly-match?gm=30249",
+    "gameName": "friendly match",
+    "players": "obee_ton (1228) vs. cleanswide (1371)",
+    "opening": "French defence (C00)"
+}

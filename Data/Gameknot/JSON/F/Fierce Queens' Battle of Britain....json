@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. c4 e5 2. g3": "after c4, e5, Nc3, Nf6, g3, we enter the Carls' Bremen system: after that, d5 would lead to some kind of a reversed Dragon; Bb4 to the Smyslov system...",
+        "2... Nf6 3. Bg2": "or Nc3, d5, cxd5, Nxd5, Bg2...",
+        "3... Bc5": "the similarities with a reversed Sicilian are unmistakable...",
+        "4. e3": "followed by Ne2, and 0-0, and then d4, this is fine: in this case, White is preparing a too early d4: better Nc3, 0-0, Nf3, and try to get back on track...",
+        "4... d5 5. d4": "better cxd5, Nxd5, Ne2...",
+        "5... exd4 6. exd4 Bb4+ 7. Nc3": "better Bd2, Bxd2+, Nxd2, 0-0, Ne2...",
+        "7... Qe7+": "after 0-0, c5, Bg4, f3, Bf5, Nge2, White has better chances to regroup...",
+        "8. Nge2 dxc4 9. O-O O-O 10. Bg5 c6 11. Ne4 Nbd7 12. a3 Bd6": "considering Whites' next possibility, maybe Ba5, Qa4, Bb6, would have been better...",
+        "13. Qc2": "missing the very strong and thematic f4, h6, Bh4: now, Black gets out better...",
+        "13... h6 14. Nxd6 Qxd6 15. Bf4 Qe6 16. Rac1 Nb6 17. Rfe1 Re8 18. Be5": "practically forced: after Nc3?, Qxe1+, Rxe1, Rxe1+, Bf1, Bh3, all is over...",
+        "18... Nfd5": "Black is getting the upper hand, entering the middle game: Nd5 will prove to be very dangerous...",
+        "19. Kf1": "not paying attention, to Blacks' upcoming threats: best was Be4, to avoid the next move...",
+        "19... Qf5": "with the White King on f1, Ne3+, is suddenly a deadly threat: this will force trading Queens in a won position for Black...",
+        "20. Nc3": "the only one: after Qxf5, Bxf5, Nc3, Rad8, Bf3, f6, Black is winning...",
+        "20... Qxc2 21. Rxc2 Bf5 22. Be4": "not good: toughest is Rcc1, Rad8, Bxd5, Nxd5, Kg2, Ne7, f3, f6, Bf4...",
+        "22... Bh3+": "this unmasks 19. Kf1, as the losing move...",
+        "23. Kg1 f6 24. Nxd5": "weak and losing: better Bd6, Nxc3, Rxc3...",
+        "24... cxd5 25. Bg6 Re6 26. f4 fxe5 27. f5 Rxg6 28. fxg6 exd4 29. Re7 Rf8 30. Rf2 c3 31. bxc3 dxc3": "White did not succeed in setting up a decisive attack: Black is winning...",
+        "32. Rc7 Nc4 33. Rcf7 Rxf7 34. gxf7+ Kf8 35. Rc2 d4 36. a4": "toughest is Kf2, Bf5, Rc1, d3, Rxc3, d2, Rxc4...",
+        "36... Bf5": "after Rc1, c2, g4, d3!, gxf5, d2, Rf1, d1Q, all is over: so White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queens-battle-of-britain?gm=63866",
+    "gameName": "Fierce Queens' Battle of Britain...",
+    "players": "rushnpawn (1985) vs. fiercequeen (2041)",
+    "opening": "English opening (A20)"
+}

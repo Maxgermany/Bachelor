@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "A typical, ueventful Ruy Lopez opening  ... ",
+        "3... Nge7": "Bad moves as the knight in e7 hinders the development of the black bishop. It is also cramp black position as castling on the king side becomes more difficult.",
+        "4. O-O a6 5. Ba4 b5 6. Bb3 Ng6 7. d4 Be7 8. c4": "c5!? freeing up  c2 as a retreat path  for the bishop on b3, allowing the knight on b1 to be developed on c3 and challenging black center. Preferable was the less aggressive but very solid c2-c3.",
+        "8... O-O 9. d5": "Trying to disrupt black cramped position and expanding white's space advantage in the center.",
+        "9... Na5": "9. ... Na5 trying to get to get the bishop pair is less significant in a cramp position. ",
+        "10. cxb5 axb5": "\r\nPreferable is Nxb3 as it is a good practice to exchange when behind in development. Play would continue: 10. ... Nxb3 11. Qxc3 a6xb5 with solid attacking potentials.  For example if white plays 12. N-c3  then Balck would reply with 12.  .. B-a3! with the sharp threat 13. .. b5 14. N-e2 B-c5 which powerfully place black bishop pair on the queen side bearing down on white's king position.",
+        "11. Bc2 Bb7 12. Nc3 c6": "c6! challenging white advanced pawns",
+        "13. d6": "13. d6!? - gaining a tempo and trying to restrict black mobility and keep the h1-a8 diagonal close for now - at the expense of white pawn structure.",
+        "13... Bf6 14. Be3 Nc4 15. b3 Nxe3 16. fxe3": "Nxe3 was a double edge move. White pawn structure is further crippled but the compensations are adequate: Open F file, good protection for the weak squares d4 and f4.  White's 2 powerful kngiths in a very cramped position is an extra bonus.",
+        "16... Bg5 17. Nxg5 Qxg5 18. Qe2 b4 19. Na4 Ba6 20. Bd3 Nh4": "threatening 20. ..., Bxd3  21 Qxd3  Qxg2 mate",
+        "21. Bxa6 Rxa6": "22. Qxa6??? is bad because of Qxg2 mate.",
+        "22. g3 f5": "Losing move ... Black is overextended and their position is going to come crumbling down very soon. The rook in a6 and the knight in h5 are both under attack. Black will lose a piece once the pin in g1 is relieved.  To make a bad position worse, Black just open the c4-g8 diagonal exposing the black king. Opening of the F file will not bode well for the black position. Better was 22. ... R-a8 22. g3 N-g6 followed by N-h8 and N-f7 bearing down on white disconnected e6 pawn.",
+        "23. Kh1": "Calmly removing the pin and leaving the knight and the rook under attack.",
+        "23... Raa8 24. gxh4 Qxh4 25. Nc5": "N-c5! - shifting the focus of attack on the weak d7 pawn with a view to create a passed pawn on d6. Not 25. e4xf5 ... because of 25. ... Qxe4ch followed by Rxf5",
+        "25... fxe4": "an other bad move ... Opening the f file white's rooks.",
+        "26. Nxd7": "Nxd7! a devastating move for white and possibly the winning move. It attacks f8 winning the F file for white. It also threatens  an elegant mate .",
+        "26... Rxf1+ 27. Rxf1 Rd8 28. Qc4+": "24. Q-c4ch is a solid move. it puts pressure on f7, pester the black king. Better was 24 Nxe5! R-d6 25 Q-c4 ch! K-h8 26. N-f7ch! K-g8 27. N-h6 dblch! followed by mate",
+        "28... Kh8 29. Nxe5": "Threatening mate  30. N-f7ch Kg8. 31. N-h6 dblch! Kh8. 32. Qg7ch Rxg7 33. N-f7!!! choked mate.  Black will also lose his queen because after 29. ... h6 30. Ng6ch forked the king and the queen on h4. Also  29. ... Rxe6 30. Rf8 mate. Black is in a lot of trouble.",
+        "29... h6 30. Ng6+": "Wins the queen and the game.",
+        "30... Kh7 31. Nxh4 Rxd6 32. Qxe4+": "Black cannot escape checkmate  ... "
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=10828",
+    "gameName": "Let's play chess",
+    "players": "ddbjean (1509) vs. billbolton (1514)",
+    "opening": "Ruy Lopez (C60), Cozio defence"
+}

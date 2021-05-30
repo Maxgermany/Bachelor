@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d5": "Highly unusual play. The Queen will be forced out on the next move if material equality is to be maintained.",
+        "3. exd5 Qxd5 4. Nc3": "Making the Queen move again.",
+        "4... Qe6 5. Bb5+ c6 6. Ba4": "Inducing him to weaken his Q-side again. Since K-side castling is out of the question for the moment, any Q-side weaknesses will make themselves felt against the King.",
+        "6... b5 7. Bb3": "Making the Quuen move yet again.",
+        "7... Qf6 8. Ne4": "And again.",
+        "8... Qe7 9. d3 h6": "Trying to prevent the B from moving to KN5, with yet another attack on the Queen.",
+        "10. Be3 Bf5": "His first developed piece other than the Queen.",
+        "11. O-O Nf6 12. Nxf6+ Qxf6": "The first tactical skirmish goes nowhere.",
+        "13. Bd2 e4 14. Bc3": "Shielding the QNP and making the wandering Q move again.",
+        "14... Qe7 15. dxe4 Bxe4 16. Re1": "Pinning... and if the Queen moves away it won't help as the Bishop will still be pinned to the King.",
+        "16... f5 17. Ne5": "Threatening N-N6, forking Q and R.",
+        "17... Qg5 18. f3": "The Bishop is in trouble. If it moves, I have N-N6 dis ch winning the KR.",
+        "18... Bc5+ 19. Kh1 b4": "An attempt to complicate. However, my threats are superior.",
+        "20. Nf7 Qh5 21. Nxh8": "Pouncing on the material.",
+        "21... bxc3": "A bad mistake. My opponent overlooked...",
+        "22. Bf7+": "this shot! The wandering Queen is felled.",
+        "22... Qxf7 23. Nxf7 Kxf7 24. fxe4": "The smoke has cleared, and my huge material advantage is decisive.",
+        "24... cxb2 25. Rb1 Bb4 26. Re2 Kf6 27. Rxb2": "Black gives in to the inevitable and resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=31316",
+    "gameName": "Let's play chess",
+    "players": "thehellion (1302) vs. tamasmarton (1222)",
+    "opening": "QP counter-gambit (C40), Maroczy gambit"
+}

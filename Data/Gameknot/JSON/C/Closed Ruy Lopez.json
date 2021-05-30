@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7": "The closed variation of the Ruy Lopez (5. ...Nxe4 would have been an open game)",
+        "6. Re1 b5 7. Bb3 O-O 8. c3 d6": "Black playing a standard closed position.  8. ...d5 would have been the Marshall Attack ",
+        "9. h3 Na5 10. Bc2": "The light squared Bishop is a valuable piece and so the exchange of it should be avoided",
+        "10... c5 11. d4": "A typical central pawn structure in closed Lopez",
+        "11... Qc7 12. Nbd2 Bb7 13. Nf1 cxd4 14. cxd4 Rac8 15. Bb1": "Once again protecting the light squared Bishop.  Although the Rook on a1 is blocked, it is not an immediate problem for White",
+        "15... Nc6 16. d5 Nb4 17. Ng3": "A familar route for the Queen's Knight where it eyes the f5 square.  Should Black play Nc2 then the light squared Bishop will at last be exchanged.  This may be a better plan for Black than the actual text",
+        "17... Nfxd5": "A sacrifice that is perhaps unsound",
+        "18. exd5 Nxd5 19. Nf5 Rfe8 20. Bg5": "With the ideas of either: a) 20. ... Bxg5 allowing Nxg5 and Qg4 with a kingside attack or; b) 21. Be4 and Rc1.  Both scenario's see White's pieces suddenly activated",
+        "20... Bxg5 21. Nxg5 Qb6": "A mistake by Black; almost a \"pass\" move",
+        "22. Qh5": "With clear mating threats.  I couln't see any defense for Black",
+        "22... h6": "?? - Gives White a mate in two",
+        "23. Qxf7+ Kh8 24. Qxg7#": "Checkmate"
+    },
+    "url": "https://gameknot.com/annotation.pl/closed-ruy-lopez?gm=51509",
+    "gameName": "Closed Ruy Lopez",
+    "players": "Iohannes7 (1527) vs. silencieux (1701)",
+    "opening": "Ruy Lopez (C97), closed, Chigorin, Yugoslav system"
+}

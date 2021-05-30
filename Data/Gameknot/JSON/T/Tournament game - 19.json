@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6": "Book...",
+        "5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5": "Harandi intends to play aggressively.",
+        "8. c3 d6 9. a4 h6 10. d4": "Tore attempts to claim the center.",
+        "10... Bb6 11. axb5 axb5 12. Rxa8 Qxa8": "Harandi now has the open file.",
+        "13. Na3 O-O 14. d5": "Torre continues to push forward.",
+        "14... Na5 15. Ba2 c6": "Harandi tries to pressure the center along the long diagonal.",
+        "16. b4 Nc4 17. Bxc4": "Exchanging off the useless KB.",
+        "17... bxc4 18. Nxc4 Bc7 19. Nxd6 Bxd6": "Torre ends up a Pawn ahead after the exchanges.",
+        "20. dxc6 Bxc6 21. Qxd6 Bxe4 22. Nh4 Rd8": "Harandi fights back aggressively, seizing the open Queen file.",
+        "23. Qxe5 Qa4 24. Qg3": "Up two Pawns, Torre hastens to protect his King.",
+        "24... Rd1": "Threatening a back-rank mate.",
+        "25. f3 Qa7+": "Hoping for 26 K-B1??? B-Q6 mate.",
+        "26. Kh1 Nh5": "Harandi's attack is gaining strength.",
+        "27. Rxd1": "White must sacrifice to slow the oncoming wave.",
+        "27... Nxg3+ 28. hxg3 Bc2": "Harandi threatens ...P-N4!, winning Torre's stranded Knight.",
+        "29. Rd2 Bb1 30. g4 Qe7 31. Nf5": "Freeing the Knight from the side of the board.",
+        "31... Bxf5 32. gxf5 Qe1+ 33. Kh2 Qxc1": "A nice combination by Harandi wins a piece.",
+        "34. Rd8+ Kh7 35. Rc8 Qf4+": "Harandi now closes out the game in superb fashion.",
+        "36. Kg1 Qxf5 37. Rc5 Qe6 38. Kf2 f5 39. Rc7": "Torre fights on for a few more moves.",
+        "39... f4 40. Kg1 h5 41. Rc5 h4 42. Rg5 Kh6": "Torre bows to the inevitable and resigns. Well done by the Iranian."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=29925",
+    "gameName": "Tournament game",
+    "players": "Eugenio Torre  vs. Khosro Harandi ",
+    "opening": "Ruy Lopez (C78), Archangelsk (counterthrust) variation"
+}

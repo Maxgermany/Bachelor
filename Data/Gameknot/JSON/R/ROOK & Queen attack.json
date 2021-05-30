@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4": "One of my best play though i have made some few mistakes.",
+        "1... Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Qxf3": "My opponent starts to develop all his pieces very quickly.",
+        "5... h6 6. Nh3 Qxd4 7. Be3 Qb4 8. O-O-O c6 9. Rd4 Qa5 10. Bd2 Bg4 11. Rxg4 Nxg4": "Exchange two pieces for one rook... It must be..",
+        "12. Qxg4 Nd7 13. Qf4 e5 14. Qh4 f6 15. Qh5+ Ke7 16. Bc4 Kd8 17. Qf7 Qc7 18. Rd1 Nc5 19. Be3+ Bd6": "My best move here...",
+        "20. Qg6 b6 21. Bf7 Rf8 22. Bxc5 bxc5 23. Be6 Qe7 24. Bc4 Kc7 25. Ne4 Rad8 26. a3 Rd7 27. c3 Rfd8": "Lining up the battery for strong attack.",
+        "28. b4 cxb4 29. axb4 Bxb4": "Here i have started my attack. I have waited a long for this moment. See my opponents KING, he is exposed completely without any support.",
+        "30. Rxd7+ Rxd7 31. cxb4 Qxb4 32. Be6": "I have expected this move.",
+        "32... Qe1+ 33. Kc2 Qe2+": "From this move, i have applied the conditional moves followed by CHECKS in every moves. ",
+        "34. Kc3 Rd3+ 35. Kb4 Qb2+ 36. Kc4 Rd4+ 37. Kc5 Qb4#": "CHECKMATE."
+    },
+    "url": "https://gameknot.com/annotation.pl/rook-queen-attack?gm=43235",
+    "gameName": "ROOK & Queen attack",
+    "players": "yakko2 (1430) vs. ms82 (1552)",
+    "opening": "Queen's pawn game (A45)"
+}

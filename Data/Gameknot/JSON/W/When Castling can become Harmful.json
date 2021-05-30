@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "As usual, the King's Pawn Opening is my favorite.  Why?  It can transpose into many variations including but not limited to the: Ruy Lopez, Guaco Piano, and Open Siclian.",
+        "1... e5": "He likes to open with King's Pawn Game.  I understand that because it used to be my favorite defense, before I knew about the Sicilian Defense.  In fact, this is the first defense, that I was taught. ",
+        "2. Nf3": "Therefore, I transpose the King's Pawn Game into the King's Knight Opening.  Why?  My goal is to play the Ruy Lopez Opening.  For this to work, 2...Nc6 must be played, or I cannot continue with the Ruy Lopez or Guaco Piano.",
+        "2... Nc6": "As I had noted earlier, this allows me to play the Ruy Lopez Opening. ",
+        "3. Bb5 Nf6": "! This is how he responds to the Ruy Lopez.  This is actually a good move because he is developing.  In chess, you are supposed to develop your pieces.",
+        "4. Bxc6": "I decide to take advantage by capturing his knight.  Why did I play this?  In this position, I am hoping to win a free pawn since he does not have that knight to defend it, 4...dxc6, 5.Nxe5, and that will happen.  However, I missed one important detail.  What happens, if 4...Nxe4.  Then, 5.Nxe5, and everything is even.  On the other hand there is a draw back.  What is it?  My king side structure is weaker.  I recently learned this, in a game, at the chess club.  In my game against a different member, that exchange caused me to loose very quickly.  In this case, I am lucky because I will win the extra pawn, but I am not going to mark this an exclamation point because of what I just mentioned.",
+        "4... dxc6 5. Nxe5 Qd4": "He could have retaken, with 6.Nxe4, but this was best.  Why?  It forks my e4 pawn and e5 knight.  Should I defend the knight or pawn?  I decide to defend the pawn.  What makes the pawn more valuable then the knight?  At first, I was basing it on my game against Master elyhim, so I believe that it is better to give away a free piece then a pawn.  That is because pawns usually win, in the end game, because they become passed pawns.  Then, the passed pawns become pawn promotions, and they often make a Queen.  However, I missed another important fact that I did not even consider.  If I gave up my pawn instead of my piece, 6...Qxe4+!!, taking away my chance to castle, and exposing my king throughout the duration of the game.  On the other hand, this is where I start to go wrong, and that will be explained later on.",
+        "6. d3 Qxe5 7. O-O": "?? At this point, I decide to castle before my opportunity is gone.  This is normally solid because it generally brings you a step closer to connecting the rooks, and controlling the center.  However, this is my loosing blunder.  Why?",
+        "7... Ng4": "!! This was best, due to the position.  In this position, he will automatically mate in one, with 8...Qxh2#.  Mate can only prevented if, 8.Qxg4.  Then, 8...Bxg4, loosing my Queen for his knight. At the time, however, I did not see 8.Qxg4 as my only option.  Therefore, he will play 8...Qxh2#, and that is why castling was the decisive mistake.  ",
+        "8. Nc3 Qxh2#": "In general, it is a good idea to develop and castle.  In most cases, castling will benefit you.  Once in a while, however, castling will hurt you, and might cost you the game.  That was proven, in this game, and it is the moral of this annotation."
+    },
+    "url": "https://gameknot.com/annotation.pl/when-castling-can-become-harmful?gm=45784",
+    "gameName": "When Castling can become Harmful",
+    "players": "jkarp (1080) vs. jobiwan1 (1244)",
+    "opening": "Ruy Lopez (C65), Berlin defence"
+}

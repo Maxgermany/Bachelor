@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. O-O Bg7 7. c3 Nc6 8. Qb3 Qe7 9. h4 Nf6 10. hxg5 hxg5 11. Nxg5": "and still we are left, with this reminiscence of Bobby Fischer claiming to have busted King's Gambit with the above set of moves, to be followed by Nxe4, 12. Bxf7+, Kd8, 13. Nxe4, Qxe4, 14. Bxf4, Nxd4... as we have seen in part II, after this the battle is all but over and far from winning for Black; in fact, Whites' play so far has been so sharp, that sacrificing a piece with 14. ... Nxd4 is the only move that does not lose immediately, since White has several threats at that point; Bg5+, Nd2, and Qd5, to name a few... that leads me to believe, that this analysis leaves a lot to be desired...",
+        "11... Nxe4": "at this point, Fritz already had suspicions; if Black is so eager, to sacrifice with Nxd4, then why not right here? after Qd1 (cxd4, Nxe4, already looks very awkward; Bxf7+, Kd8, cxd4, Nxe4, same), Ne6, and White is in deep trouble...",
+        "12. Bxf7+": "as we already had established in part 1, this is no less than a losing blunder; after Nxe4, Qxe4, Bxf7+ (better Rxf4!), Kd8, Bd5, White has no worries...",
+        "12... Kd8 13. Nxe4 Qxe4": "this can be no longer a coincedence: also at this point, Nxd4, was absolutely winning; after Qd1, Qxe4, White is crushed...",
+        "14. Bxf4": "at this point, White could have easily tried Qd5, Qxd5 (Qh7, Bxf4, is more worrying), Bxd5, Nxd4, cxd4, Bxb4+, Rf2!, or Bd5, Bxd4+, cxd4, Qxd4+, Rf2...",
+        "14... Nxd4": "as we have seen in part II, this by no means leads to a conclusive win for Black; putting this all together, I suspect big failures in the transcription of Fischers' original analysis; more plausible seems: 11. Nxg5, Nxd4, 12. Bxf7+ (still a losing blunder), Kd8, 13. cxd4, Nxe4, 14. Bxf4, Bxd4+, and White is losing..."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-bust-to-the-kings-gambit-part-3?gm=63590",
+    "gameName": "A bust to the Kings' Gambit? (part 3)",
+    "players": "Kings' Gambit  vs. Robert James Fischer ",
+    "opening": "KGA (C34), Fischer defence"
+}

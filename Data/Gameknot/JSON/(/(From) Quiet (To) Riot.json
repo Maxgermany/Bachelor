@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 d6 6. h3 h6 7. O-O O-O": "The most quiet of starts.",
+        "8. Nh2 Nd4 9. Ne2 Be6 10. Bb3 Bxb3": "Finally, some action!",
+        "11. axb3": "White completes the exchange.",
+        "11... a6 12. Ng3 Qd7 13. c3 Ne6": "Now things start to heat up. ",
+        "14. Kh1": "Unpinning.",
+        "14... b5": "I aim to attack on this side.",
+        "15. f4": "White focuses on the K-side.",
+        "15... a5": "Continuing my Pawn thrusts.",
+        "16. f5": "White counters with his own.",
+        "16... Nd8": "Have to duck clear.",
+        "17. Nh5": "Adding a piece to the mix.",
+        "17... Nxh5": "I trade it off.",
+        "18. Qxh5": "Now the White Q is applying pressure.",
+        "18... f6": "I prevent the Pawns from advancing further.",
+        "19. Rf3": "White brings forward the other big gun.",
+        "19... Qf7": "I offer an exchange.",
+        "20. Qh4": "White declines.",
+        "20... Qxb3": "The pawn is loose.",
+        "21. Rg3": "Threatening 22 Q-N4 and 23 QxP mate.",
+        "21... Qd1+": "I have a trick worth two of that. White resigns, as the alternative was 22 N-B1 QxN ch 23 K-R2 Q-N8 mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/from-quiet-to-riot?gm=55477",
+    "gameName": "(From) Quiet (To) Riot",
+    "players": "andersthorup (1459) vs. last_archimedean (1445)",
+    "opening": "Four knights (C46), Italian variation"
+}

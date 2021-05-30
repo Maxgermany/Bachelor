@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. Bb5 Bg7 5. Bxc6 dxc6 6. h3 Ne7 7. g4": "Very ambiguous. 7. Nf3 would have been safer followed by castling. ",
+        "7... O-O 8. Nf3 e4 9. Bxg7 Kxg7 10. Ne5": "Seems threatening, but does very little. 10. Nd4 is better.",
+        "10... f6 11. Nc4 f5 12. g5 Be6 13. h4 Bxc4 14. bxc4 f4 15. exf4": "White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray.",
+        "15... Rxf4 16. h5": "Now White gets himself in trouble. It was not too late to play 16. Nc3. ",
+        "16... Qd4": "Now White loses a rook because of Qxf2#.",
+        "17. Rh2 Qxa1 18. hxg6 hxg6 19. c3": "Yet again, 19. Nc3, developing the knight, simultaneously attacking the queen gives White more hope.",
+        "19... Qxa2 20. Ke2 Qxc4+ 21. d3": "21. Ke1 is much safer. Black's attack develops in strength whilst gaining more material. Resignation would have ACTUALLY been safer at this point.",
+        "21... exd3+ 22. Kd2 Qa2+": "White now missed an opportunity to get back into the game. 22...Rf5 keeps a large advantage, but White can fight on. ",
+        "23. Ke1": "Effectively loses the game. 23. Kc1 Re4 24. f3 Re2 25. Rxe2 dxe2 26. Qd2 Qe6 27. Qe1 Qe3+ 28. Kb2 Rd8 29. f4 Nf5 30. c4 Qxf4 31. Qxe2 Qxg5 Black remains a large amount of material up, but White would have survived the attack, although still remaining effectively lost. ",
+        "23... Re4+": "23...Rh8 mates faster, but this variation is also good.",
+        "24. Kf1 Qe2+ 25. Qxe2 dxe2+ 26. Ke1 Rd8": "White resigned here as Black threatens mate in the not too distant future. Notice that White's knight never moved at all, and as mentioned before, if moved, would have given White better opportunities."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-queen-clean-up?gm=53861",
+    "gameName": "The Queen Clean Up",
+    "players": "amberger (1417) vs. moistcomrade (1488)",
+    "opening": "Nimzovich-Larsen attack (A01), modern variation"
+}

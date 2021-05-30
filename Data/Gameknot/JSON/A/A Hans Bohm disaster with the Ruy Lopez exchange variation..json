@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": " This opening is the Ruy Lopez which is most popular.",
+        "3... a6": " The most common move",
+        "4. Bxc6": " The Ruy Lopez exchange variation gives Black bad pawn structure but it \r\n also gives Black a bishop matching pair but Black is also behind in \r\n development.",
+        "4... dxc6 5. O-O": " White can also play 5. Nc3 or 5.c3",
+        "5... Bg4": " The International Master Hans Bohm is known in Dutch chess circles as a\r\n brilliant positional player. His very good handling of the Ruy Lopez \r\n exchange variation has brought him a lot of victories, including a fine win \r\n over the American chess giant Samuel Reshevsky in the main line 5.f6 \r\n 6. d4 cxd4  7. Nxd4  c5  8. Nb3 Qxd1  9. Rxd1, where White's Kingside\r\n pawn majority battles against Black's Bishop matching pair, that is why \r\n his opponent  avoided the main line. In the game Black hopes to stall the \r\n d2-d4 central break.",
+        "6. h3": " !  This type of move is known as \"putting the question to the Bishop\" Black\r\n    now faces a very hard decision. If he exchanges by 6. Bxf3 Qxf3  Black\r\n   then gives up the advantage of the Bishop matching pair and still has the\r\n   doubled c-pawns. If the Bishop retreats",
+        "6... h5": "  !",
+        "7. d3": "     If  7.hxg4?? hxg4  8. Nxe5  9. f4  g3! Which results in a fast checkmate\r\n    thanks to the open h-file. Such of  these tactics are very important in \r\n   this variation of the Exchange Variation.",
+        "7... Qf6": " Adding pressure to the pin",
+        "8. Be3 Ne7": " If Black was to trade by 8.Bxf3  9. Qxf3  Qxf3 10. gxf3, doubling up White's\r\n pawns then White will go for a 11.f4 break and to undouble the pawns\r\n with an edge. But now Black wants to get his Knight on the g6 square \r\n where it will control the f4 square.",
+        "9. Nbd2 Ng6": " As Black desired.",
+        "10. hxg4": " ?    Thanks to this game  10.Rel is now preferred. In that case White would\r\n     be ready, at last! to acually play 11. hxg4 hxg4  12. Nh2!  Qh4  13. Nfd1!\r\n   blocking of the crucial h-file and winning a piece.",
+        "10... hxg4 11. Ng5": " Hans at this point was quite happy with his position. He has blocked off\r\n  Black's Queen from going to h4 while Black has blocked it from the h6 \r\n  square.",
+        "11... Nf4 12. Qxg4": "   With the g4 pawn gone, White can block a battery along the h-file  with \r\n  Ng5-h3 when desired. Also, White is poised to do Bxf4 removing another\r\n annoying attacker. But Hans overlooked......",
+        "12... Qxg5": "  !!   This!    Whoops! Hans was just so preoccupied with stopping a Queen\r\n       and Rook battery down the h-file that he missed the point that \r\n      13. Qxg5  Ne2 is both  check AND Mate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-hans-bohm-disaster-with-the-ruy-lopez-exchange-variation?gm=6638",
+    "gameName": "A Hans Bohm disaster with the Ruy Lopez exchange variation.",
+    "players": "Hans Bohm (N/A) vs. Roman Hernandez (N/A)",
+    "opening": "Ruy Lopez (C69), exchange variation, Alapin gambit"
+}

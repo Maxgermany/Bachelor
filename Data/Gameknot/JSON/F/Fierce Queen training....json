@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c5 2. f4 Nc6 3. Nf3 d6 4. Be2": "a novelty on my behalf, in this Morra gambit: I usually play c3...",
+        "4... Nf6 5. d3 e5": "better something like g6, 0-0, Bg7...",
+        "6. O-O Be7 7. c3 O-O 8. Na3": "on route to square c4 and relocate the Queens' Knight; of course, b5 is no option anymore...",
+        "8... Be6": "not the way to handle this: better exf4, Bxf4, d5...",
+        "9. f5 Bd7 10. Nc4": "now heading for square e3, and prevent d5 (after d5, Nxe5); amongst other perks...",
+        "10... Qc7": "'completing development': but not very useful, considering Whites' plans...",
+        "11. Ne3 Rad8": "way too passive: Black needs to create counterplay, or White will march right over him; b5 would have been a better option...",
+        "12. g4": "here comes trouble, supported by Ne3...",
+        "12... h6": "futile and losing: better Rb8/Rc8, g5, Ne8; this wil also open up the h-file...",
+        "13. h4 Bc8": "trying to prepare d5: although it was already hard for Black, to find sustaining play, this makes it worse; better straightaway d5 (White is threatening Nd5), g5, and try Nh5...",
+        "14. g5 hxg5 15. hxg5 Ne8": "it is not easy, to find better play: Black is already being totally crushed...",
+        "16. Nd5": "attacking the moot Qc7: now, also f5-f6 becomes a big problem...",
+        "16... Qd7": "or maybe Qa5...",
+        "17. Rf2": "to me, stronger than Nh2, Nc7, f6...",
+        "17... g6": "Nc7, Rh2, Nxd5, Qe1!, will not help anymore: White is threatening mate; best here is Qxf5, exf5, Bxf5, Qh4, f6...",
+        "18. f6": "ending all illusions for Black: he will lose a lot of material; maybe best is Qg4+, Rg2, Qe6, Nh2, Bxf6... Black however resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-training?gm=63669",
+    "gameName": "Fierce Queen training...",
+    "players": "fiercequeen (2014) vs. anandi (1627)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

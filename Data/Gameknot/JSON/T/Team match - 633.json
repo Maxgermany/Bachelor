@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd5": "I decide to put my queen on the attack...",
+        "4... Nf6 5. Qd3": "...bit retreat her as the knight attacks.",
+        "5... h6 6. Nf3 d6 7. Nd4": "I attack my knight...",
+        "7... Ne5": "...but my opponents moves his away.",
+        "8. Qe3": "My queen needs to move again.",
+        "8... a6 9. Nf3 Neg4": "That knight is sure being given the runaround.",
+        "10. Qd3": "And again.",
+        "10... Qe7 11. Nc3 c6 12. h3 Ne5 13. Nxe5": "I finally remove that knight...",
+        "13... Qxe5": "...in exchange for mine.",
+        "14. f4 Qe7 15. Be3 d5 16. exd5 cxd5 17. O-O-O Be6 18. g4 Qd6 19. f5 Bd7 20. Nxd5": "The three-pronged attack!",
+        "20... Nxd5 21. Qxd5": "The next exchange...",
+        "21... Qxd5 22. Rxd5": "And the next...",
+        "22... Bc6": "It looks as thought I'm going to lose a rook, but...",
+        "23. Re5+": "this move allows me to save both.",
+        "23... Be7 24. Rh2 Kf8 25. Bc5 Bxc5 26. Rxc5": "The next exchange...",
+        "26... f6 27. Rd2 Kg8 28. Bg2 Bxg2 29. Rxg2": "And the next...",
+        "29... Kh7 30. Re2 Rhe8 31. Rxe8 Rxe8": "And the next...",
+        "32. Kd2 Re5": "Was this really a good idea?",
+        "33. Rxe5 fxe5": "Only pawns left...",
+        "34. Ke3 g6 35. fxg6+ Kxg6 36. Ke4 Kf6 37. h4 b6 38. g5+ hxg5": "My next move would have been hxg5+, and possibly the response would be Kxg5 and mine Kxe5, but my numerical pawn advantage told."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=23324",
+    "gameName": "Team match",
+    "players": "aspiemikey (1349) vs. joost23 (1343)",
+    "opening": "Centre game (C22)"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 c5": "Ah, he wants to play a sicilian? 3.Nf3 cxd4 4.Nxd4 Or just another kind of French game: 3.Nf3 d5. No way, i would like to switch to a kind of Benoni (3.d5 exd5 4.exd5 d6) with my pawn still on c2 instead of c4. In that type of game black has problems with his space and white can put a knight on c4 AND play c2-c3 at some moment. Then black doesnt have the d4-square.",
+        "3. d5 Qb6": "Interesting! But black has to play well now. He will be behind in development soon!",
+        "4. Nc3": "Great prospect for this knight: b5->c7/d6 or recapture on d5 after exd5",
+        "4... Bd6": "Looks interesting, but i think this is asking for trouble. White can play Qg4 and black is nearly forced to sac a pawn by 5...Ne7 6.Qxg7 Ng6.\r\n\r\nOn the other hand, why make the same mistake as black does? (play too many queen moves). So 5.f4 is a good move! 5.Nf3 was also ok but less forcefull.",
+        "5. f4": "Threathening 6.e5 and 7.d6 with a massive paralising block in the centre. Black cannot allow that! I expected 5...e5 or 5...f6 and black blocks on the black fields, but placing his Q and B completly offside. After 5...e5 i intended to play 6.Nf3 (then if 6...f6? 7.fxe5 fxe5 8.Nxe5 Bxe5 9.Qh5  Qg6 10.Qxe5  and white is winning.",
+        "5... Qc7": "Ahhhhh...he invites me to play e4-e5 and surely he wont play 6...Bf8 or 6...Be7 but then sacs a piece for my beautiful pair of centerpawns 6.e5 Bxe5 7.fxe5 Qxe5 \r\n\r\nI dont think thats something to fear, but why not go for the quick win?\r\n\r\nFirst i thought about 6.Nb5 Qa5  (6....Qb6 7.dxe6) 7.Bd2 Qb6 and that will be great as well, eg 8.Bc3----->g7---->h8 but why not have some more fun?",
+        "6. e5 Bxe5 7. Nb5": "Two black pieces are attacked, he has to bring the queen into safety and will not be able to recapture on e5, so white will still have his extra centre-grip AND an extra piece!",
+        "7... Qa5+ 8. Bd2 Qd8": "Now the bishop is mine but............does black have a combination planned?????",
+        "9. fxe5 Qh4+": "Ooooops????????? Did i miss that one? Now 10.Ke2 Qe4 11.Kf2 or 11.Be3 both dont look very elegant.....",
+        "10. g3": "Black has to go through, there's no way back.",
+        "10... Qe4+ 11. Qe2 Qxh1": "Finally black has scored some trophy to compensate for his underdeveloped position.....but now the game is over. The queen is trapped, and white has plenty of time to get her cooked and fried before its time to snack.....",
+        "12. Nf3 Na6 13. O-O-O": "the queen wont go anywhere",
+        "13... exd5 14. Be1": "Why invest a rook in the capture of the queen? A bishop is all he gets in return!",
+        "14... Nh6 15. Nd6+": "And black cant even castle....in despair,...he resigned here....."
+    },
+    "url": "https://gameknot.com/annotation.pl/pacpacmans-mini-tournament?gm=4386",
+    "gameName": "pacpacman's mini-tournament",
+    "players": "jaromir (1828) vs. prince26 (1580)",
+    "opening": "French defence (C00)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "My opponent chose a riskier defense, and then made a few early mistakes and quickly lost. ",
+        "1... c5": "Sicilian. ",
+        "2. Nf3 g6": "!? Hyper accelerated Dragon. Requires precise play. ",
+        "3. d4": "The best way to exploit black's last. ",
+        "3... cxd4 4. Qxd4": "Surprise! Here this is actually good. In fact the GK database shows White with a high winning percentage at this point even with best Black play. My opponent seemed unprepared for this.",
+        "4... Nf6 5. e5": "! Keeps up the attack. DB still shows advantage White.",
+        "5... Nc6": "Necessary.",
+        "6. Qa4 Nd5": "What else? ",
+        "7. Qe4": "A strong move. ",
+        "7... e6": "Weakens the dark squares.",
+        "8. c4": "White is playing aggressively but there is nothing wrong with that here. The GK data base still shows W with a good winning percentage.",
+        "8... Nb6 9. Nc3 Bg7": "?! Risky. Better was first ...a6.",
+        "10. Nb5": "White zeros in on the dark square weaknesses. ",
+        "10... a6": "? Black can't afford this move. Better prospects were offered by simply ... 0-0. ",
+        "11. Nd6+": "Of course. The idea is not so much just to prevent Black from castling, but to bind Black up with a N on d6 that is hard to eliminate.",
+        "11... Ke7 12. c5": "Here I felt aggression was warranted, because the N would have to move to d5 and could then be attacked by Bc4.",
+        "12... Nd5 13. Bc4 b6": "?? Black can't afford this now. Better was ...Nc7. ",
+        "14. Bxd5": "! I calculated that I could open Black's King and win a pawn with threats, and given how quickly White could get the pieces in play Black was in big trouble.",
+        "14... exd5 15. Qxd5": "Threatens mate on f7.",
+        "15... Qc7": "? This loses quickly, but the threat of Ng5 after Black defends f7 was very strong. ",
+        "16. Qxf7+ Kd8 17. Qxg7": "Here Black resigns. There is no good defense to the mate threats (Bg5+. QxR+ followed by Qe8) except by moving the Q and then Black is wiped out. "
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-win?gm=44291",
+    "gameName": "Quick Win",
+    "players": "dmaestro (1514) vs. NN (1528)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

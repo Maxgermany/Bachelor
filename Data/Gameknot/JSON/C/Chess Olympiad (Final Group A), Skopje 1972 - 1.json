@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3": "Tal opens with this unuisual but flexible move.",
+        "1... g6 2. e4": "With Timman's passive response, Tal elects to seize the center at once.",
+        "2... d6 3. d4": "Forming an ideal center.",
+        "3... Nf6 4. Nbd2": "Supporting his KP.",
+        "4... Bg7 5. Bc4": "Clearing the way for castling.",
+        "5... O-O 6. Qe2": "Further strengthening the center.",
+        "6... c6 7. Bb3": "To prevent an immediate ...P-Q4.",
+        "7... Bg4 8. e5": "Forcing Black's hand.",
+        "8... dxe5 9. dxe5": "Completing the exchange.",
+        "9... Nd5 10. O-O": "Securing the King before embarking on an attack.",
+        "10... Nd7 11. h3": "Putting the question. The correct answer is 11.. BxN 12 NxB P-K3, fixing the White P at K5 as an immobile target.",
+        "11... Bf5 12. Re1": "Lining up a powerful battery.",
+        "12... Qc7 13. Nf1": "Preparing to reposition for K-side attack.",
+        "13... Rad8 14. Ng3": "Moving the final gun into place.",
+        "14... Be6 15. Qe4": "Initiating a winning attack.",
+        "15... Rfe8 16. Qh4": "Taking aim at KR7.",
+        "16... f6 17. Bh6": "Threatening to remove the valuable fianchettoed Bishop. The only move to hold the position is 17... N-B4, threatening to remove White's B in turn. [If Timman tries to preserve the B with 17... B-R1, Tal has 18 N-Q4 N-B4 19 N-K4! P-KN4 20 NxNP! winning.]",
+        "17... Nxe5 18. Rxe5": "Tal instantly pounces on Timman's scond mistake. The end falls quickly.",
+        "18... fxe5 19. Ng5": "Closing in. ",
+        "19... Bf6 20. Nxe6": "Timman resigns. If 20... BxQ, Tal wins easily with 21 NxQ followed by the win of the Rook on K1."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-olympiad-final-group-a-skopje-1972?gm=38818",
+    "gameName": "Chess Olympiad (Final Group A), Skopje 1972",
+    "players": "Mikhail Tal (Soviet Union) vs. Jan Timman (Holland)",
+    "opening": "Reti opening (A04)"
+}

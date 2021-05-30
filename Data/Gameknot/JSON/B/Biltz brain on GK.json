@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "This blitz game took both side less than 4 min each to reach the resulting position.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3": "Giuoco Pianissimo, Italian four knights variation\r\n\r\nThey call the Italian game the \"quiet game\" and criticize it for developing it's pieces in an \"unimaginative and boring manner.\" They are fools for the Italian never stays quiet for long!",
+        "5... O-O 6. Bg5 d6 7. h3 h6 8. Bh4 a6 9. Nd5 g5 10. Nxg5": "! White sacrafices in hopes of winning a pawn and/or weakening the kingside for a quick mate.",
+        "10... Nxd5 11. Nf3": "?! A seemingly poor move for white, as white had hoped for at minimum a continuation such as: 11. Nxf7 Qxh4 12. Bxd5 Rxf7 13. Qf3 Bxf2  14. Kd1 Bg4 15. hxg4 Qxh1  16. Kd2 Qxa1 17. Qxf7  Kh8 18. Qxf2 Qxb2 19. Qh4 Kh7 20. g5 Qb4  21. Ke2 Nd4  22. Kf1 Rf8  23. Kg1 Nxc2 24. Qxh6  \r\n",
+        "11... Nde7 12. g4": "Frustrated, white decides to storm the kingside in desperation.",
+        "12... Be6 13. g5": "White has little time to waste capturing blacks pieces so white allows black to initiate all exchanges and continues to attack the kingside with 0-0-0 in mind if necessary.",
+        "13... Bxc4 14. dxc4 Ng6 15. Rg1": "preparing for a pin.",
+        "15... Nxh4 16. Nxh4 hxg5 17. Qh5": "black might not have realized the severity of the exchanges until now",
+        "17... Kg7": "White takes a moment and notices that 18.Rxg5  allows Blacks king to escape through to safety via f6 - e7.",
+        "18. Nf5+": "18.Nf5  cuts off that escape square and black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/biltz-brain-on-gk?gm=1277",
+    "gameName": "Biltz brain on GK",
+    "players": "punkusmartyrus (1558) vs. konigspringer (1913)",
+    "opening": "Giuoco Piano (C50), four knights variation"
+}

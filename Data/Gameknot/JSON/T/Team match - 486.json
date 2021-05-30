@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 c6 3. d4 Bb4 4. Nge2 Bxc3+ 5. Nxc3 d6 6. dxe5 dxe5 7. Qxd8+": "I don't think I've ever played an opening like that before, and it progressed into the mid-game surprisingly fast",
+        "7... Kxd8 8. Be3 Nf6 9. O-O-O+": "looking back, me castling on the queen side was what made this game turn out like it did. This becomes visible towards the end of the game.",
+        "9... Kc7 10. Bc4 b5 11. Bxf7 Nbd7 12. f4 Ng4 13. Bg1 exf4 14. Bd4 c5 15. Bxg7": "Swo0t! I love having twin bishops controlling the board.",
+        "15... Rd8 16. Nxb5+ Kb6 17. Bd5 Bb7 18. c4": "here to stay",
+        "18... Nf2": "whoopsi, so busy commencing D-day... didn't see that one coming",
+        "19. Rhf1 Nxd1 20. Rxd1 Bxd5 21. Rxd5 Nf8 22. Bh6 Rxd5 23. exd5 Ng6 24. a3 a6 25. Nd6": "This move feels awkward now, but it really pays off!",
+        "25... Nh4": "?",
+        "26. Bxf4 Nxg2 27. Bd2": "now I can march the pawns (preserved on the queen side because of the heat in the middle and castling there) forward. Getting my Bishop where I need it proves to be a significant hinge for the remainder of my game",
+        "27... Rf8 28. b4 Rf1+ 29. Kc2 Rh1 30. Be3": "This move was actually a mistake, I made it without really thinking, but what comes next is an even better mistake!",
+        "30... Rxh2": "I was wowed that I still had that piece",
+        "31. Bxc5+": "game over for black, just a matter of delaying the inevitable now",
+        "31... Kc7 32. a4 h5 33. b5 Nf4+ 34. Kc3 Ne2+": "two checks serve nothing less than for me to further increase strength for my troops on the front line",
+        "35. Kb4 axb5 36. cxb5 h4 37. b6+": "at this point I didn't know how the mate would pull together, and I was being really careful to not make any mistakes. thinking back, this pawn/bishop/knight combo force turns out to be one of if not the most powerful end-game pushes I remember having ever played.",
+        "37... Kb8 38. a5 h3 39. a6 Nd4 40. a7+ Ka8 41. b7#": "Lovely."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=35239",
+    "gameName": "Team match",
+    "players": "edude4 (1140) vs. killerpitbull (1084)",
+    "opening": "Vienna game (C25)"
+}

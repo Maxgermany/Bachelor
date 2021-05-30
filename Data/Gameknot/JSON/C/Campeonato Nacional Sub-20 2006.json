@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. Bd3 Rb8 9. Nge2 e5": "(RR) 9. ...Nb4 10. Bb1 b5 11. a3 Nc6 12. Bd3 Na5 13. Qc2 bxc4 14. Nf4 cxd3 15. Nxd3 Nh5 16. 0-0 Nb3 17. Ne2 Nxa1 18. Rxa1 f5 19. Nb4 Bb7 20. d5 a5 21. Nd3 fxe4 22. fxe4 e5 23. b4 Qh4 24. Nf2 Shalaby,A - Ahmed,E / Cairo 1996 /EXT 98 / 0-1",
+        "10. d5 Nb4": "Desde todos los puntos de vista estrategica, esta jugada es un error, por que?.... el objetivo fundamental de este movimiento debe de ser el cambiar un Caballo (Bueno) por un Alfil (Malo), ya que de no ser asi el caballo estaria perdido. ",
+        "11. c5": "(!?)  Haciendo contacto directo con el punto d6, tambien expandiendose en el flanco de dama.... el negro podria realizar el movimiento: 11.... a5..... pero no se ve de que forma pueda salir airoso de esta situacion tan incomoda. ",
+        "11... Nxd3+ 12. Qxd3": "El blanco se libera del \"fastidioso\" alfil de casillas blancas.",
+        "12... Nd7 13. cxd6": "No: 13. c6 por Nc5 14. Qc2 bxc6 con buen juego para el negro.",
+        "13... cxd6 14. O-O Nb6 15. b3": "Mejor era: 15.Rac1",
+        "15... f5 16. Rac1 f4": "(?!) Eliminando cualquier tipo de contra-juego, ya que luego de este movimiento el negro elimina la posibilidad de arir columnas y sobre todo condena PERMANENTEMENTE la accion del alfil de casillas negras.",
+        "17. Bf2 Bd7 18. a4": "Muy bien, el blanco esta jugando donde mayores posibilidades tiene: el flanco de dama.",
+        "18... Na8": "(??) Practicamente ahora el negro tiene una pieza menos. Ademas este movimiento no es obligado. ",
+        "19. b4": "Presionando aun mas en el flanco de dama, muy bien, el blanco esta jugando donde mas chances tiene. ",
+        "19... g5 20. b5 a5 21. Nd1 b6 22. Nb2 Rf6 23. Rc6": "Juganda Brillante!! en el caso de no capturar la Torre, los puntos b6 y d6 estarian siendo presionados efectivamente y si a esto le agregamos la posibilidad de colocar la Tfc1, la presion que aplicaria el blanco seria practicamente incontenible. ",
+        "23... Bxc6": "(?) Esta captura no es muy precisa (pero que mas podria hacer??), ya que el alfil era una de las piezas mas activas. Tambien el blanco adquiere un peon fuerte en c6 controlando casillas importantes para el negro.",
+        "24. bxc6": "Correcto, capturando con el peon d5, le daba la posibilidad al negro de sacrificar el peon d6. ",
+        "24... Rg6": "Ahora el negro esta jugando practicamente con 3 piezas menos, el caballo, el alfil y la torre en b8.",
+        "25. Rc1": "Incorporando mas piezas a la ofensiva, muy bien, no se le da al negro ningun respiro. ",
+        "25... g4 26. fxg4 Rxg4 27. Qf3 Rg6 28. Nc3 Bf8": "pobre alfil",
+        "29. Nb5 Nc7 30. Nc4 Nxb5 31. axb5 Qc7 32. Bxb6": "(!!) el remate perfecto para un sacrificio estupendo",
+        "32... Rxb6 33. Nxb6 Qxb6+ 34. Qf2 Qb8 35. c7 Qc8 36. b6": "1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/campeonato-nacional-sub-20-2006?gm=24008",
+    "gameName": "Campeonato Nacional Sub-20 2006",
+    "players": "Aviles Fernando (NCA) vs. Sanchez Evgueni (NCA)",
+    "opening": "King's Indian (E83), Saemisch, 6...Nc6"
+}

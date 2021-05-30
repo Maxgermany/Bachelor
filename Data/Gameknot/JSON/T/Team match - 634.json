@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6": "long forgotten variation of the ruy lopez opening. I believe that it gives an advantage to white.",
+        "4. Bxc6+": "I think that 4.d4 is more practical.",
+        "4... bxc6 5. d4 Bg4 6. dxe5 Bxf3 7. Qxf3 dxe5": "black should have seen this position when he played 5... Bg4. his pawn structure is very dificult to defend (three groups and doble pawns on the c file). the only benefit from this variation is the open d file and the semi-open b file.",
+        "8. O-O h6": "why? why not 8...Rb8? after 9. Bg5 there is Be7 and nothing happened...",
+        "9. Rd1 Bd6": "now the bishop is in the role of a pawn. white has to play c4 and after Black's c5 the bishop has no advantages over a pawn.\r\nfor Black's behalf I can say that there is a plan of f5 somehow and it will give a better resistance.",
+        "10. b3 c5 11. Ba3 Qe7": "free the bishop from the pin.",
+        "12. Nc3 c6 13. Ne2": "interesting idea should be 13. Na4 with the idea of taking on d6 with the rook and c5 with the bishop.",
+        "13... Nf6 14. Rab1": "cant figure that out. why not 14.Rd2? with Rad1 on the next move.",
+        "14... a5 15. Bc1": "white begins to lose his advantages. why to play Rab1 and then Bc1? the bishop was well placed...",
+        "15... Rb8": "black finds the immediate weakness. the rook on b1 is not protected.",
+        "16. Bd2 c4": "black sacrifices two pawns in order to ruin White's pawn structure and to gain more maneuvering space. very interesting.",
+        "17. bxc4 Rxb1 18. Rxb1 O-O 19. Bxa5 Ra8": "taking one pawn back with a better position.",
+        "20. Bc3 Rxa2 21. Qd3": "must protect c2.",
+        "21... g6": "I think that in order to pass f5 that was a good move.",
+        "22. Ra1": "the theory says that one should exchange pieces when he has more material. I think that the position is rather equal or maybe even in Black's favour so the rook exchange is not that great.",
+        "22... Rxa1+ 23. Bxa1 g5 24. g3": "white needs to be more active so he should put his queen on the queen-side (open files a and b). to do that he must play first f3 because of the e4 pawn. you cant defend a pawn with a queen for a long time...",
+        "24... Nd7": "finding the strong spots b6 and c5.",
+        "25. Qe3 Bc5 26. Qf3 Nb6 27. Qb3 Qf6": "black manages to gain lots of space. the white bishop says all about White's position.",
+        "28. Qd3": "there is no defend against Qxf2...",
+        "28... Qxf2+ 29. Kh1 Qf1+": "the end..."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=23313",
+    "gameName": "Team match",
+    "players": "karrboy84 (1366) vs. dstone (1453)",
+    "opening": "Ruy Lopez (C62), old Steinitz defence"
+}

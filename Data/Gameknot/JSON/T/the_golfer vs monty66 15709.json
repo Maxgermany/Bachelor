@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "This is my sixth annotation. e4 is the common opening move.Opens up a lot of opportunities for the main pieces to break free.",
+        "1... e6": "e6 - a new defence to me. Unfortunately I am unsure of what it is called.",
+        "2. e5": "So I try something new myself.",
+        "2... a6": "An interesting move as it benefits none of black's pieces.",
+        "3. d4": "d4 - defending e5.",
+        "3... b5": "Another pawn move. No major pieces have come into play yet.",
+        "4. c3": "Here too, I am not benefiting any pieces and restraining my knight.",
+        "4... Bb7": "The bishop comes out for the side attack.",
+        "5. Nf3": "The knight comes out for the block.",
+        "5... h6": "Another questionable move.",
+        "6. Bd3": "Not allowing the rook to come out.",
+        "6... g5": "Comes out to attack the knight with g5.",
+        "7. g4": "Risky move, leaving the queen to protect the knight.",
+        "7... f5": "Trying to make sure I can't escape and closing the knight in.",
+        "8. gxf5 g4": "There. I accidentally move the knight which was blocking my rook.",
+        "9. Ng1 Bxh1 10. Qxg4": "Black's fatal mistakes.",
+        "10... h5 11. Qg6+": "Black's king is stuck after some realisation.",
+        "11... Ke7": "The finishing blows.",
+        "12. Bg5+ Nf6 13. Bxf6#": "That's it! Thanks to monty66 for a great game."
+    },
+    "url": "https://gameknot.com/annotation.pl/the_golfer-vs-monty66-15-7-09?gm=25189",
+    "gameName": "the_golfer vs monty66 15/7/09",
+    "players": "the_golfer (1195) vs. monty66 (1132)",
+    "opening": "French (C00), Steinitz attack"
+}

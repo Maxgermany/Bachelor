@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "In hope to 2. ... , f5 with Latvian counter gambit. ",
+        "2... d6": "Black refuses Latvian gambit",
+        "3. d4 Bg4 4. d5 Nf6 5. Nc3 c6 6. Bd2 cxd5 7. exd5 e4 8. h3 Bf5 9. Qe2 h6 10. g4 Bg6": "Pulling bishop back and preparing long castling. ",
+        "11. O-O-O Be7 12. Nh4": "Avoids possible 12. ... e:f3. ",
+        "12... Nxd5 13. Nxg6 fxg6 14. Nxd5 O-O 15. Qxe4 g5": " May be  better 15 Nc6, delivering Rook.This move makes possible  all, that followed. ",
+        "16. Nxe7+ Kh8 17. Ng6+ Kg8 18. Nxf8 Qxf8 19. Bc4+ Kh8 20. h4 Nc6 21. Bc3": "preparing possible  h:g4 and  R: h6. ",
+        "21... Re8 22. Rxd6": "May be  also 22. h:g5 with the same result after 22. ... R: e4 - 23 R: h5#. ",
+        "22... Rxe4 23. Rxh6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=52460",
+    "gameName": "Team match",
+    "players": "janislulle (1428) vs. engage (1424)",
+    "opening": "Philidor's defence (C41)"
+}

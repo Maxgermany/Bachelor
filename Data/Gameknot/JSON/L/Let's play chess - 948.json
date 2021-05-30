@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "This was a standard game between two low-ranked players. Play opened with a classic King's pawn game.",
+        "1... e5 2. Nf3 Nc6 3. b3": "Probably a bad move. I wanted to play Bb2, but there was no real reason to do so. Better moves would have been Bb5 (Ruy Lopez), Bc4 (King's pawn game main line) or Nc3 (Three knights game).",
+        "3... Nf6 4. Nc3 d5": "Black achieves the classic pawn centre: pawns on d5 and e5. Normally it's white who can get this - a measure of my ineptitude!",
+        "5. Bd3 Bg4 6. Bb2 d4": "A strong move, making good use of black's strong centre and forcing me to retreat further.",
+        "7. Ne2 Bxf3 8. gxf3": "Not a move I particularly wanted to play, as it weakened my king-side noticeably. Black continued to attack on that side with his next move.",
+        "8... Qd7 9. Ng3": "My next move, f4, would have been better played before this, as it brings the g3 square under attack.",
+        "9... g6 10. f4": "Plays this to weaken black's strong centre pawns, even if it costs white a pawn in return.",
+        "10... exf4 11. Ne2 Bc5": "The a7-g1 diagonal is still blocked, so the black bishop cannot control it. In the meantime, white can snap up black's f-pawn to regain the lost material.",
+        "12. Nxf4 Qg4 13. Ne2": "Yet another repeated move for the knight. (It is interesting, perhaps, to note that in a fifteen-move game that one knight moved no less than 7 times. Hardly an efficient game.)",
+        "13... Nxe4 14. Rg1 Qxg1+": "?? A blunder by black - as is obvious. He still has a reasonably strong centre, but he has lost his queen and freed white's in return (after 15 Nxg1).",
+        "15. Nxg1": "At this point, black resigned. Speaking as white, I'm not sure why - he looked to be a noticeably better player than me. My best guess is that he had seen his main attack blunted and did not want to play on without a queen. Thank you for reading this. Comments are welcome."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=17561",
+    "gameName": "Let's play chess",
+    "players": "fish613 (1200) vs. dostoievski (1146)",
+    "opening": "King's pawn game (C44)"
+}

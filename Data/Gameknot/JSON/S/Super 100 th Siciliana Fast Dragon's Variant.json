@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6": "Dragon !!!",
+        "6. Be3 Bg7 7. Qd2 Ng4": "Cg5 !! Con idea de eliminar el alfil que vendr\u00e0 a  Ah6",
+        "8. Bg5 h6": "Sacandolo de la diagonal",
+        "9. Bh4 O-O 10. Nd5": "Cd5 !! controlando el centro del tablero",
+        "10... Re8 11. h3": "!! Muy buena jugada que le da mas iniciativa a las blancas",
+        "11... Ne5 12. f4": "CENTRO DEL TABLERO ABSOLUTAMENTE CONTROLADO POR LAS BLANCAS",
+        "12... Nec6 13. Bf2 Nxd4": "QUITANDO DEL CAMINO PIEZAS PELIGROSAS",
+        "14. Bxd4 e5": "BLOQUEANDO DIAGONAL",
+        "15. Bf2 exf4 16. O-O-O Rxe4": "JUGADA DUDOSA QUE PERMITE EL DESARROLLO DEL ALFIL BLANCO EN DIRECCION AL FLANCO REY CON Ae3 !!",
+        "17. Bd3 Re8 18. Qxf4 Be6": "DESARROLANDO MIS PIEZAS POCO A POCO",
+        "19. Bc4 Nc6 20. Rhf1": "LAS BLANCAS TIENEN MUCHA INICIATIVA Y HAY QUE HACER ALGO PARA PARAR SU ATAQUE",
+        "20... Ne5 21. Bb3 Kh7": "JUGADA PREVENTIVA",
+        "22. g4 Bxd5": "CABALLO EN MEDIO JUEGO CONTROLANDO EL CENTRO NO LO PUEDO PERMITIR.\r\nMI ALFIL BLANCO TIENE MENOS VALOR POSICIONAL QUE ESE CABALLO",
+        "23. Bxd5 Qc7": "DESCLAVANDO LA DAMA Y BUSCANDO ALTERNATIVAS DE CONTRAATAQUE",
+        "24. h4": "AFINCANDO SU PLAN DE ACORRALAR  Y ANIQUILAR  AL REY NEGRO",
+        "24... Rac8": "UNA VEZ MIS PIEZAS BIEN POSICIONADAS EN DEFENSA ES LA HORA DE COMENZAR MI CONTRAATAQUE PARA HACERLO RETROCEDER",
+        "25. c3 b5 26. h5": "QUIEN LLEGA PRIMERO ?",
+        "26... a5 27. hxg6+ fxg6 28. Rfh1 Ref8": "!! MUY BUENA JUGADA SACANDO LA DAMA DE UNA POSICION ESTRATEGICA MUY FUERTE",
+        "29. Qg3": "PIENSO QUE TODAS MIS PIEZAS ESTAN EN UNA POSICION MUY SUSTANCIOSA Y ENVIDIABLE EN DEFENSA Y EN ATAQUE.\r\nSI ES ASI NO PUEDO PERDER ESTA PARTIDA",
+        "29... b4 30. Be3": "MUY MALA JUGADA EN SU CARRERA A LLEGAR PRIMERO ATACANDO H6 PERO BLOQUEANDO SU DAMA DE UNA POSIBLE JUGADA DEFENSIVA AL OTRO LADO",
+        "30... bxc3 31. b3": "PARECE LA JUGADA MAS LOGICA PERO ......",
+        "31... c2": "NO SE PUEDE ESPERAR MAS.\r\nSU ATAQUE ESTA DETENIDO Y GRACIAS A SU DAMA BLOQUEADA POR EL ALFIL EN E3 EL BLANCO NO TIENE MUCHAS OPCIONES DE DEFENDERSE",
+        "32. Rd2 Qc3": "se rinde !!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/super-100-th-siciliana-fast-dragons-variant?gm=27616",
+    "gameName": "\" Super 100 th Siciliana Fast \"Dragon's Variant\"\" ",
+    "players": "langkisau (1472) vs. rromeroh (1573)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

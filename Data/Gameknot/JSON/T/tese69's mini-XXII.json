@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6": "For some reason, I've always scored well against the Kan Sicilian (particularly in comparison to, say, the Najdorf).  It's fundamentally sound, but Black's counter-play always seems a little too slow for me.",
+        "5. Bd3 Qc7 6. O-O": "King-side castling followed by a king-side pawn storm is the plan here - Black is committed to going that side and White has the prospect of a slight lead in development.",
+        "6... Nf6 7. Qe2": "Keeping the option of c2-c4 rather than simply putting the Nb1-c3 is the general plan here - if White can do that, Black will struggle to play d7-d5 and d6 will be a potential weakness.  Of course, in 10 moves time, that'll be irrelevant.",
+        "7... d6 8. c4 Be7 9. Nc3 Nbd7": "Both sides develop in what looks to be an obvious manner, but Black has less space.",
+        "10. f4 b6 11. Bd2 Bb7 12. Rae1 O-O": "Both sides' development appears complete.  Black's probably fairly happy at this point. ",
+        "13. Kh1": "Putting the king in line with the Bb7 looks a little odd given that g2-g4 might well form part of the plan, but the c5-g1 diagonal can also cause some problems, perhaps if Black can play d6-d5.",
+        "13... Rfe8 14. Nf3": "Withdrawing the knight from d4 looks slightly odd, but White has lined up his pieces to play e4-e5 and this is the next logical step.  e6-e5 can be met with f4-f5 and g2-g4-g5 to storm the Black king.  Nd7-c5 is probably the best bet, although White will still look to play e4-e5.",
+        "14... Bf8 15. e5": "Natural, and hard to meet.  The Nf6 has no squares and Black is doomed, just 15 moves in.   If you play through the rest of the game, try to guess White's next move in the continuance of his attack.",
+        "15... dxe5 16. fxe5": "f7 is now weak too. ",
+        "16... Ng4": "If you want to play 17. h3 Nh6 18. Bxh6 gxh6 then I'm afraid that you have no soul.",
+        "17. Bxh7+": "Now 17. ... Kxh7 18. Ng5+ and 19. Qxg4, hitting f7 and h7 in equal measure is terminal.  ",
+        "17... Kh8 18. Be4": "White has an extra pawn on the Q-side, but the semi-open f-file and h-file are catastrophic for Black.",
+        "18... Ndxe5 19. Nxe5 Bxe4": "Is your move (a) 20. Nxf7; (b) Qxg4; (c) Qxe4 or (d) Nxe4 ?",
+        "20. Qxe4 Nf6 21. Rxf6": "Sacrificing material when you're ahead is much easier, but it's still pretty.",
+        "21... gxf6 22. Qh4+ Kg8 23. Qg4+ Bg7": "Black thinks he can run his king to the Queenside.  He can't.",
+        "24. Bh6 Kf8 25. Qxg7+ Ke7 26. Qxf7+": "Whether Black thought that f7 would still be covered when he played 20. ... Nf6 I don't know, but now it's over. ",
+        "26... Kd6 27. Rd1+ Kxe5 28. Qxc7+": "And with a huge material deficit, Black resigns.  A pretty finish is 28. ... Kf5 29. Rf1+ Kg6 30. Qg7+ Kh5 31. g4+ Kh4 32. Qxf6+ Kxg4 33. Qg5+ Kh3 34. Rh3#",
+        "28... Kf5 29. Rf1+ Kg6 30. Qg7+ Kh5 31. g4+ Kh4 32. Qxf6+ Kxg4 33. Qg5+ Kh3 34. Rf3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/tese69s-mini-xxii?gm=47313",
+    "gameName": "tese69's mini-XXII",
+    "players": "dsb13 (1786) vs. mischo (1711)",
+    "opening": "Sicilian (B42), Kan, 5.Bd3"
+}

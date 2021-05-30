@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 Bd6 5. Nf3 O-O 6. e4 exd5 7. cxd5 Re8 8. Bd3 a6 9. O-O b5 10. Bg5 h6 11. Bh4 c4 12. Bc2 g5 13. Re1": "e5 was better but not disastrously so\n",
+        "13... gxh4 14. e5 Bxe5 15. Nxe5 d6 16. Nf3 Rxe1+ 17. Qxe1 h3 18. Qe3 Qf8 19. g3": "This is where you lost your lead. Best move was Nd4. hxg2 is not a problem as a black pawn blocking teh g-file is evn better than a white one. Plus if you bet a back rank check you can escaoe with a capture.\n",
+        "19... Nbd7 20. Rd1": "Re1 putting it behind the Q so the Q can go to f4 gathering forces on the K-side\n",
+        "20... Ng4 21. Qd4": "puts the Q in a bad place. Your attack is on the K-side. better is Qf4\n",
+        "21... Nge5 22. Nxe5": "Nh4 you needed that N for the K-side attack (are you getting the idea yet that your attack should be K-side? ) :O)\n",
+        "22... Nxe5 23. Qe4 f5 24. Qe3": "Qf4 attacking the h-pawn and preventing the advance of the f-pawn\n",
+        "24... Bd7 25. Rd4": "Game losing move. Just setting yourself up for the N attacks which follow. Putting Q & R together on the same colour square is just begging for a N fork. correct move was b3\n",
+        "25... b4 26. Ne2 Re8 27. Rd2": "Cutting off the Q's only escape route\n",
+        "27... f4 28. gxf4 Qg7+ 29. Ng3": "The Q is alrea dy lost so Qg3 invites the exchange of your now useless Q for the principal piece in my attack.\n",
+        "29... Nf3+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-bigpeta-http-gameknot-com-chess-pl-b?gm=42734",
+    "gameName": "Challenge from bigpeta, http://gameknot.com/chess.pl?b",
+    "players": "twick (1200) vs. bigpeta (1932)",
+    "opening": "Nimzo-Indian defence (E20)"
+}

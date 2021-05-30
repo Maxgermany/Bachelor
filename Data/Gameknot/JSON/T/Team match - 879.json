@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Here's an older game, but Black was able to draw against a 1900 with an UNORTHODOX opening! (and ALOT of \"analyzing the board\" option) Flip board for best results.",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "Spanish game (Ruy Lopez)",
+        "3... Nf6": "Berlin defence",
+        "4. O-O Ng4 5. h3 h5": "5...h5! Fishing Hook Variation.",
+        "6. Bxc6 dxc6 7. hxg4": "And white takes the bait!",
+        "7... hxg4": "Better would be to have declined the Knight at g4 and just developed normally.",
+        "8. g3": "White gives back the knight but with a weakend kingside.",
+        "8... gxf3 9. Qxf3 Bh3 10. Re1 Qd7 11. Qc3 O-O-O 12. f3 b6 13. d3 f5 14. Bg5 f4": "14. f4! Black aims to sacrafice the exchange inorder to push the pawn not only to open the kingside, but to block off whites bishop from returning to e3 when ...Bc3  would lead to mate.",
+        "15. Kf2": "and so blacks king must walk to the otherside of the board or walk the plank.",
+        "15... Bc5+ 16. Ke2 Bd4 17. Qa3 Kb7 18. Bxd8 Qxd8 19. gxf4 exf4 20. Nd2 Bg2 21. Qa4 Be3 22. Kd1 Rh2 23. Qb4 Bxd2 24. Kxd2 a5": "24.a5 in hopes of pushing whites queen to c3, so that when 25...Bxf3 , blacks king would be confined to the 8th rank trapping in the rook for longer. My own \"in between\" move.",
+        "25. Qc3 Bxf3+ 26. Kc1 Qh4 27. b3 g5 28. e5 Be2": "28...Be2 to block off the e pawns protection",
+        "29. Kb2 g4 30. e6 f3 31. Qe5 Bxd3 32. Rac1 f2 33. Red1 f1=Q 34. Rdxf1 Bxf1 35. Rxf1 Qh8": "forcing the queen exhange.",
+        "36. Re1 Qxe5+ 37. Rxe5 Rh8 38. Kc3 c5": "Black offered a draw at this point, since even though a pawn up, an endgame wing pawn seemed unlikely to promote. 1/2- 1/2"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=2059",
+    "gameName": "Team match",
+    "players": "cian (1915) vs. punkusmartyrus (1418)",
+    "opening": "Ruy Lopez (C65), Berlin defence, 4.O-O"
+}

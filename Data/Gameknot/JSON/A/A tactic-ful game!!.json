@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. Nf3": "1. Nf3 - this is called the Reti Opening.  Develops a piece and lends flexibility as to which pawn to push.",
+        "1... d5": "1......... d5 - the most popular response to the Reti according to the GK database, controls e4 and c4.",
+        "2. c4 e6 3. d4 Nf6 4. Nc3 c6": "4. ........ c6 - I maintain control of the squares e4 and c4, developing a piece in the meantime.  White backs up his d pawn with e3 and then I take on c4, losing control of that square, but there is a possibility of a knight outpost on d5.",
+        "5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3": "8. Bd3 - moves bishop back to d3 to try and avoid it being trapped methinks.",
+        "8... Bb7 9. Bd2 a6 10. O-O c5": "10........... c5 - hits out at the pawn on d4, this will work in black's favour very soon.",
+        "11. b3": "11. b3 - to try and halt a possible pawn roll.",
+        "11... Be7 12. Re1 O-O": "12. .......... 0-0 - I now complete my development.",
+        "13. e4": "13. e4? - tries to establish a strong centre but this allows a tactical melee beginning with cxd4.",
+        "13... cxd4 14. Nxd4 Ne5 15. Nxe6 fxe6 16. Bc2 Bc5 17. Bf4 Qxd1 18. Raxd1": "18. Raxd1 - white is down a piece for a pawn.  I follow the maxim - if up on material exchange.  I therefore exchanged queens.",
+        "18... Ng6 19. Bd6 Bxd6 20. Rxd6": "20. Rxd6 - more wood is cleared from the board and I maintain my  2 in material.",
+        "20... e5 21. Red1 Rac8": "21. .......... Rac8 - skewering the knight and bishop - white now falls further behind on material.",
+        "22. Nxb5 axb5 23. Bb1 Bxe4 24. Bxe4 Nxe4 25. Rb6": "25. Rb6 - tries to snatch a pawn back and hoping to gain two queenside passers but my knight has other ideas......",
+        "25... Nc3": "25......... Nc3 - defends b pawn and attacks a pawn and rook.  White could save the a pawn by playing Ra1 but he elects to throw in the sponge!"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-tactic-ful-game?gm=14687",
+    "gameName": "A tactic-ful game!!",
+    "players": "tag1153 (1412) vs. jstevens1 (1603)",
+    "opening": "Reti opening (A09)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 d5": "Oh joy ... the Scandanavian defense. I'm getting a headache now.",
+        "2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d3 Bg4 6. f3": "What weakness?",
+        "6... Bf5 7. Bd2 c6 8. Nd5": "That was a fun move to play. The point, of course, is that White will slightly spoil Black's Kingside pawn structure by capturing on f6. Certainly that's not a winning thing by itself; but wasn't it Capablanca who taught us that positional games are won through the accumulation of small advantages, like grains of sand falling into a bowl? Sooner of later, after enough grains have fallen, the bowl will fill and then begin to overflow, and finally will be buried.",
+        "8... Qd8 9. Nxf6+ gxf6 10. Ne2 Nd7 11. Ng3 Bg6 12. a4": "It would tickle White pink to be able to play c3 right in here, to get the Queen to b3, but he can't because of the double attack on d3. So the text denies Black's immediate intentions to play ...b5 to get some Q-side activity under way.",
+        "12... Qb6 13. Bb3 Nc5": "A little too transparent. In my opinion 13. ...Bg7 was better.",
+        "14. a5 Qb5 15. Bc4 Qxb2 16. Rb1 Qe5+ 17. Qe2 Qxe2+ 18. Kxe2": "White is a pawn down but won't stay that way, and has much greater activity for his pieces now.",
+        "18... e5 19. Be3 Rb8 20. Bxc5 Bxc5 21. Ba6 b5 22. axb6 e.p. axb6 23. Bc4 b5 24. Bb3 O-O 25. h4 h5 26. Rba1": "? -- Now why'd I do that? I knew I couldn't double Rooks on this file, so the threat is an empty one. White should just play 26. Ne4 with the idea of pushing a pawn to g4, which soon happens anyway.",
+        "26... Rba8 27. Rhd1 Bd4 28. Rxa8 Rxa8 29. Ne4 Bxe4": "One alternative here is 29. ...Kg7 which seems to lead to a pawn-up endgame (though not necessarily a winning one) for Black after 30. c3 Be4  31. cd4 Bd5  32. Bd5 cd5  33. Rb1 Ra2  34. Kf1 Rd2  35. Rb5 Rd3  36. de5 fe5  37. Ke2 Rd4  38. Ke3 f5  39. g3 f4  40. gf4 Rf4  41. Rd5 Kf6  42. Rd8, although I think White might be able to improve on his 38th move. The text exchange obviously stops both 30. c3 and 30. Nxf6.",
+        "30. dxe4": "?! -- 30. fe4 is obviously a move that maintains a static equality on the Q-side, and must be considered the sounder choice. But I wanted to keep things dynamic, and after 30. ...c5  31. c4 Ra3  32. Rd3 bc4  33. Bc4 Rd3  34. Bd3 White has the same sort of ability to create a passed pawn on the h-file (as in the previous game) as a way to keep Black honest with his c-pawn.",
+        "30... Ra1": "?! -- Black helps White with his defense with this exchange of Rooks. But is there a better move?",
+        "31. Rxa1 Bxa1 32. g4": "Creating the passed pawn now!",
+        "32... hxg4 33. fxg4 Kg7 34. Kf2 Bd4+ 35. Kg3 c5 36. Bd5 c4 37. Kf3 b4": "?? -- Ouch! All Black's hopes of winning functionally evaporate after this blunder. But now comes a very long sequence of moves where both players explore the subtleties of this basic position by continuing to maneuver to win what is almost certainly a technically drawn position. Material is even, but Black's doubled pawns on the f-file (a thing created waaay back in the opening) certainly don't help.",
+        "38. Bxc4 Bc3 39. Bb5 Kh6 40. Be8 Kg7 41. Ke2 Kf8 42. Bd7": "Tease! White wants Black to pursue the Bishop to the Queenside, neglecting his Kingside in the process.",
+        "42... Kg7": "Nope. Darn.",
+        "43. Kf2 Kg6 44. Bf5+ Kh6 45. Ke2 Bd4 46. Kd3 Bf2 47. Kc4": "! -- Once again White's h-pawn is worth less than Black's lone Q-side pawn.",
+        "47... Be1 48. Kc5": "Black's c-pawn can't advance at any rate, and White's h-pawn is unimportant, so why not try to wring as much out of the position as possible?",
+        "48... Bxh4 49. Kxb4": "Now White has the only meaningful pawn on the board. Black should have simply played his Bishop to c3 and offered the draw which would have been immediately accepted.",
+        "49... Be1+ 50. Kb5": "It's pretty hard to go wrong here. White can drive the c-pawn forward regardless of Black's desires. Eg.: 50. ...Bc3  51. Kc4 and the pawn moves to c3 next, and beyond, and there's nothing Black can do to stop it except race his King to the Q-side or give up his Bishop.",
+        "50... Kg7 51. Kc6 Kf8 52. Kd7 Bc3 53. Kd8 Bd4 54. c4 Bc5 55. Kd7 Bd4 56. Kd6 Ke8 57. c5 Kd8 58. c6 Bb6 59. Bh7": "White has just about the ideal position now, with his pawn on a square the LSB can defend. Now it's will be a matter of finding out if White can trick or compel Black to lose a vital tempo that either advances the pawn or allows the White King to slip in behind Blacks pawns.",
+        "59... Bc7+ 60. Kd5 Ke7 61. Bf5 Kd8 62. Kc4 Ke7 63. Kc5 Kd8 64. Bh7 Ke7 65. Kb5 Kd6 66. Bf5 Bd8 67. Bd7 Kc7 68. Be8 Be7 69. Bxf7 Bd6 70. Be6 Be7 71. Bd7 Bd6 72. Kc4 Kd8 73. Kd3 Ke7 74. Kc3 Bc7 75. Kd3 Kd6 76. Ke3 Kc5 77. Be8 Bd8 78. Kf3 Kd4 79. Bf7 Bc7 80. Bd5 Kc5 81. Kg3 Kd6 82. Kh4 Ke7 83. g5 fxg5+ 84. Kxg5 Kd6 85. Kf6 Kc5": "Black cracks just enough here to raise spectres of doubt concerning his ability to defend the position. He should have played 85. ...Bb8 and offered the draw.",
+        "86. Ke6 Kb6 87. Kd7 Bb8 88. Bc4": "And Black's time ran out in this drawn position."
+    },
+    "url": "https://gameknot.com/annotation.pl/grinding-it-out-part-2-scandanavian-blitz-game?gm=48697",
+    "gameName": "Grinding it out (Part 2) -- Scandanavian -- Blitz game",
+    "players": "Avocet (1200) vs. jewlsandoval (1690)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

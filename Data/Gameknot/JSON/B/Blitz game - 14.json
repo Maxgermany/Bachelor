@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "So, I often use this opening :D",
+        "1... e5": "Tawba's response is e5, which always make me attack that piece, so...",
+        "2. Nf3": "...Nf3. ",
+        "2... d6": "I think a lot of people would play Nc6, but I didn't meet it now.",
+        "3. Bc4": "I brought my bishop to c4 attacking the weak f7 square",
+        "3... h6": "This move prevents me from playing Ng5, that would also attack f7.",
+        "4. O-O": "Moving my king into safety!",
+        "4... c6": "I met this move, and my first thought was that d5 will follow, so:",
+        "5. d3": "in case of d5, I move my bishop to b3 still attacking Black's kingside, and also protecting my pawn on e4.",
+        "5... Qf6": "I didn't expect this. I expected that tawba will develop his minor pieces first.",
+        "6. Nc3": "I continued with developing my knight to c3, attacking the d5 square.",
+        "6... Ne7": "I think it was a simple developing move, as the f6 square is occupied by Black's queen (but in my opinion it is more suitable for the knight).",
+        "7. Be3": "I brought my bishop to a good place, as f4 and g5 squares are attacked by black pieces.",
+        "7... Ng6": "I didn't also expect this. A piece is moved 2 times-and look at my pieces and at Black ones. I have developed my minor pieces, but look at the Black bishops and the Black knight on b8 standing on their standard squares, and not even Black rooks play...",
+        "8. d4": "As I am ready with developing my pieces, I can open up some files.",
+        "8... Be7": "Preparing kingside castling...",
+        "9. dxe5": "But he will not castle for some time.",
+        "9... Nxe5": "More exchange option.",
+        "10. Nxe5": "I chose exchanging because I can make my rook on f1 play after 11.f4",
+        "10... dxe5": "Black completes the exchange.",
+        "11. f4": "And now f4. Worth to think about what to move in Black's situation. After 11... exf4, 12. Rxf4 follows, and something will be lost. The queen or the f7 weak pawn.",
+        "11... Qg6": "You will see the point of this move.",
+        "12. fxe5": "fxe5 opens the f file, and my rook and LSB are attacking f7.",
+        "12... Bh3": "This was the point of Qg6, to pin my g2 pawn to my king.",
+        "13. Bxf7+": "But unfortunately for tawba, he may not have noticed this move, with which he loses the queen. This was the move when Black resigned. After king moves, Black queen is lost, and Black's LSB has to retreat. After Qxf7, Rxf7 follows, and after Kxf7, gxh3, or I think better is Qf3+, which wins Black's LSB and doesn't make my pawn structure strange and disadvantageous. So, the game is over, feel free to rate and to comment, and also rate and comment, please :D"
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-game?gm=34143",
+    "gameName": "Blitz game",
+    "players": "Me  vs. tawba ",
+    "opening": "Philidor (C41), Steinitz variation"
+}

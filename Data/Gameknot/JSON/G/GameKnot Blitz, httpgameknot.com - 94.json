@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6": "4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.",
+        "5. c4 Nf6 6. Nc3 g6 7. g3 Bg7 8. Bg2 O-O 9. O-O Ne5": "Interesting.",
+        "10. b3 Bg4": "!",
+        "11. f3 Bd7 12. Be3": "If black gets a hold of d4, white will be very much worse for wear.",
+        "12... Qa5 13. Qc2 Rac8 14. f4 Nc6 15. Nf3": "I have to wonder if Nxc6 was better even though it exchanges white's central knight.",
+        "15... Ng4": "Expected, but is still a good move.  Black threatens both bishop and knight when the white knight is suffering from a relative pin (as opposed to an absolute pin where the rules of the game prohibit the piece from moving away).",
+        "16. Bd2 Qc5+": "! Diffusing the white idea with check and delivering a rather nasty idea of his own.  Black is taking advantage of weaknesses that white has created in his position.",
+        "17. Kh1 Nf2+": "!",
+        "18. Rxf2": "!  White will be down two pawns, but he survives with the bishop pair for now and responds to the following idea: 18.Kg1 Nxe4+ 19.Kh1 Nxd2! 20.Qxd2 Qb4!",
+        "18... Qxf2 19. Rf1": "Black is compelled to move, but he is ahead.",
+        "19... Qc5 20. Nd5": "? See black's next.",
+        "20... e6 21. Be3": "Need to evaluate 21.b4 as the played move seems seems to cost material.  21.b4! and the queen has no escape planned: 21...Nxb4 22.Bxb4 Qxc4! and black siezes the file but trades away his material advantage to save the queen.",
+        "21... Qa3 22. Bc1": "White would very much like exchanging dark-square bishops, and that threat on his knight is irksome.",
+        "22... Qa6 23. Nc3": "I need to evaluate 23.Ne3.",
+        "23... Nb4 24. Qd2 Bxc3": "A good move with a dark side; It wins a pawn but it concedes the dark squares.",
+        "25. Qxc3 Nxa2": "Irritating, but accurate where white loses the dark squares.",
+        "26. Qf6": "But white wants to control the dark squares anyway.",
+        "26... Nxc1": "Black may believe he has removed white's teeth, but there is fight left.",
+        "27. Rxc1 d5": "? And a Blunder provides the way.  I was struggling through ideas on how to pivot the knight to the square I want it on when he releases control of a key square on the path.  Up until now black was winning or the game was even.  Now the game is at least even or in white's hands.",
+        "28. Ne5 Bc6": "?? Terrible.  Saves a piece at the cost of the game.  Black must defend g4.",
+        "29. Ng4": "Resignation, but it is premature.  White threatens mate in 1 forcing 29...h5 when it is unclear whether white will get enough compensation from 30.Nh6+ Kh7 31.Nxf7 dxe4 (as a filler move for black) 32.Ng5+ Kh6 (32...Kg8 33.Qxg6+ Kh8 34.Qxh7#)."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=32700",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "mokru  vs. raidon ",
+    "opening": "Sicilian (B32), Flohr variation"
+}

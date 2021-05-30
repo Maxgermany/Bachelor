@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "Gates opens with the classical 1. e4",
+        "1... Nc6": "Carlsen (who has only 3 sec on his clock) chooses an asymmetric reply, the Nimzowitsch defense, although it certainly won't be a defense this time!",
+        "2. Nf3": "A perfectly normal and solid move, even though 2. d4 would have been sharper",
+        "2... d5": "This is the first attacking move that I suppose needs to be done if your'e going to beat your opponent with only 30 sec on your clock. The only good reply had been 3. exd (3. e5 also OK), but....",
+        "3. Bd3": "Gates is far too cautious and defends the pawn with the LSB, blocking his d pawn",
+        "3... Nf6": "an attack on the \"odd white LSB\" by Nb4 had been good here (in a \"normal game\"), but Carlsen goes for the jugular.....(the KING)",
+        "4. exd5": "a perfectly good move!",
+        "4... Qxd5": "Carlsen takes back - of course with the queen!",
+        "5. Nc3": "Gates counters with a good move, developing and attacking the queen at the same time",
+        "5... Qh5": "This, again, is in the spirit of \"having to win fast\", a more conservative position for the queen had been preferred in a normal game",
+        "6. O-O": "a natural good move!",
+        "6... Bg4": "6.....Bg4! This is ingenious, and would have been just that also in a normal match",
+        "7. h3": "This is hasty, Gates should have kept his cool with 7. Be2 amending the position of his LSB and defending",
+        "7... Ne5": "Now, in a normal match 7....Ne5 would have been a true BLUNDER (7....Bxf3 etc was of course the best continuation with black having the better position) because of the devastating and simple 8. hxg4! after which white would be winning (in a \"normal\" game).",
+        "8. hxg4": "And indeed, that is the move Gates makes! So, is white winning now.....?",
+        "8... Nfxg4": "Carlsen takes with the f-knight, I think because he sets up a trap to get rid of the all-important white knight at f3",
+        "9. Nxe5": "Gates fall into the trap, takes the offered knight, and that's the end",
+        "9... Qh2#": "THE END :)"
+    },
+    "url": "https://gameknot.com/annotation.pl/bullet-game?gm=53856",
+    "gameName": "Bullet game",
+    "players": "Bill Gates  vs. Magnus Carlsen ",
+    "opening": "KP (B00), Nimzovich defence"
+}

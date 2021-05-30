@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6": "Queen's Gambit Declined.",
+        "3. Nf3": "QGD Slav.",
+        "3... Nf6 4. Nc3 c6 5. e3 Be7 6. b3": "White usually plays Bd3 here.  But this move seems to work well.  Black usually responds by castling...",
+        "6... b6": "...but not this time.",
+        "7. Bd3 Nbd7 8. Bb2 O-O": "..and that is out of the database.",
+        "9. O-O Qc7 10. e4 e5 11. cxd5 cxd5 12. dxe5 dxe4 13. Nxe4 Nxe5": "That pawn is going to cost, because white has a knight and bishop on e5, but black has only the queen attacking it.  Maybe Ng4 would have been better.",
+        "14. Nxe5 Nxe4": "BxNe4 threatens the black rook, giving white opportunity to rescue the wayward knight.",
+        "15. Bxe4 Bf6": "White will take the rook.  For a knight?  Any day and twice on Sunday.",
+        "16. Bxa8 Bxe5 17. Bxe5 Qxe5 18. Re1 Qg5 19. Qd5 Qg6": "Black is well advised to avoid even material trades now, down a rook.",
+        "20. Qf3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=56164",
+    "gameName": "Let's play chess",
+    "players": "gblaze (1429) vs. slackline (1340)",
+    "opening": "QGD Slav (D30)"
+}

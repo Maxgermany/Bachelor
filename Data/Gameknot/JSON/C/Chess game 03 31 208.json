@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "1... e5": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "2. Bc4": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "2... Nc6": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "3. Nf3": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "3... f5": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "4. exf5": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "4... Nf6 5. d3": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "5... d5 6. Bb5": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "6... Bd6": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "7. O-O": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "7... Bxf5": "It's always very gratifying when you lose an exchange and still manage to prevail.",
+        "8. Re1": "White wants my e pawn.  Gotta have it.",
+        "8... O-O 9. Bxc6 bxc6 10. Nxe5 Bxe5 11. Rxe5": "Ok so I lost a pawn but it may not matter too much given the disparity in development.  ",
+        "11... Qd7 12. Bg5 Ng4 13. Re1": "Oh my...who owns this board?",
+        "13... Qd6 14. g3 Nxf2": "Best move of the game...  white loses Queen and a pawn for two minor pieces if 15. Kxf2, ...",
+        "15. Bf4 Nh3+": "It took a while to find this obvious attacking move.",
+        "16. Kh1 Qd7": "Looking to threaten white's Queen again...",
+        "17. Nd2 Bg4 18. Qc1": "Probably the best but weak nonetheless.",
+        "18... g5": "Not too worried about opening my King given white's so many backward pieces...this will now open a line for my rook.  ",
+        "19. Be3": "Astonishing that a Bishop check is mate but for  white's Knight.  Let's try to get rid of him.  I'm hoping white doesn't notice.  ",
+        "19... Rf3 20. Nb3": "Probably the worst move possible ...20. Rf1...could have bailed him out.  ",
+        "20... Rf2": "Couldn't resist...",
+        "21. Bxf2": "Couldn't resist...",
+        "21... Bf3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game-03-31-208?gm=64465",
+    "gameName": "Chess game 03 31 208",
+    "players": "soccersk1llz  vs. smo-kingjoe ",
+    "opening": "Bishop's opening (C23)"
+}

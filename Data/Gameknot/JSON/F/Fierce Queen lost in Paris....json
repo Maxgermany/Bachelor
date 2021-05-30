@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e6": "up until this game, I never took the French Defense very seriously; most theory I fathomed, came from Blitz experience... this game opened my eyes for good; by now, I know better......",
+        "2. Nf3 d5 3. e5 c5 4. c3 Nc6 5. d4 Nge7 6. Be3": "without Qb6, this move is still playable and part of the theoretical setup... best here though is Bd3; also theory...",
+        "6... Nf5 7. Bd3 Nxe3 8. fxe3 Qb6 9. b3 Bd7 10. O-O f6 11. a4 a6 12. exf6 gxf6 13. a5 Nxa5 14. dxc5 Bxc5 15. Nd4 Nc6 16. Qh5+": "up until now, I was under the impression I was doing rather nicely against this 2350+ giant... but that would soon change...",
+        "16... Ke7 17. Qh6": "after the game - I lost in the end - I found Qh4... that move is much better...",
+        "17... Raf8 18. Kh1 Nxd4 19. exd4 Bxd4 20. Bxa6 Be5 21. Bd3": "by now, Black is clearly better... but what went wrong? (note: 17. Qh6 went wrong: Qh4 would have still rendered control over d4, as wel as f6)",
+        "21... Qxb3 22. Ra3 Qb2 23. Re1 Rfa8 24. Rxa8 Rxa8 25. c4 Ra2 26. Qg7+ Kd6 27. cxd5 exd5 28. Qf8+ Kc6 29. Qg8": "slowly, but surely White is losing control; maybe better here, but also losing is Bf1... the loss of control over d4 on move 17 proved deadly; lessons learned...",
+        "29... Kb6": "Bh3 is even stronger...",
+        "30. Rg1 Bd4 31. Re1 Ka7": "ending it all for White...",
+        "32. h3 Qf2": "Bxh3 is winning instantly...",
+        "33. Rf1 Qe3 34. Qxh7": "the last resort...",
+        "34... Bb5": "the killer move...",
+        "35. Qh4": "Bxb5 leads to mate after Qg3...",
+        "35... Bxd3": "it is over; White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-lost-in-paris?gm=63083",
+    "gameName": "Fierce Queen lost in Paris...",
+    "players": "fiercequeen (2041) vs. robyngowell (2393)",
+    "opening": "French (C00), Wing gambit"
+}

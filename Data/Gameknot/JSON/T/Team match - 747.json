@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4": "not usual for white. the reason is e6...",
+        "2... e6 3. Nf3 Nc6 4. O-O d5": "of course. taking the center and vanishing the white bishop.",
+        "5. exd5 exd5 6. Re1+ Nge7": "I think that Be7 was better and than Nf6.",
+        "7. Bb5 Qb6": "black uses his great advantage in space.",
+        "8. a4 a6 9. Bxc6+ Qxc6": "9... b6 10. d4 cxd4 with Rb8, 0-0, Nf5, Be6 and c5.",
+        "10. d4 Be6": "leaving with an isolated d pawn.",
+        "11. Ng5 cxd4 12. Nxe6 fxe6 13. Re2": "13. Qxd4 (a must) Qxc2 14. Nc3 with an advantage for white.",
+        "13... Kd7 14. Qxd4 Nf5 15. Qc3 Qxc3 16. Nxc3": "a slight advantage to black because of the pawns in the center.",
+        "16... Bb4 17. Nd1": "Na2 was needed here.",
+        "17... Nd4 18. Re5 Nxc2": "an extra pawn in the endgame is a lot.",
+        "19. Ra2 Nd4 20. Re3": "20. Be3 is worth looking.",
+        "20... Rac8 21. Ra1": "giving away a rook...",
+        "21... Nc2 22. Rxe6 Kxe6 23. Rb1 Nd4 24. Ne3": "?? 24. Be3 is not losing the piece but the game is lost anyhow..."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13414",
+    "gameName": "Team match",
+    "players": "t108741 (1492) vs. kreifi (1469)",
+    "opening": "Sicilian defence (B20)"
+}

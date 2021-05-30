@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Nf6": "The Scadinavian defense. More risky than Qxd5 but often more exciting to play.",
+        "3. Nf3": "For a while this was the standard response with leading players when it was realised that 3.c4 allowed the dangerous Icelandic gambit with 3....e6 and 3.d4 allowed the ultra sharp Jadoul gambit with 3....Bg4!",
+        "3... Qxd5 4. Nc3": "Natural and best",
+        "4... Qa5": "Again the most natural move",
+        "5. Bc4 Bf5 6. d3": "It is always a difficult decision but d3 is always very restrictive for white and while it stops Ne4 it does not allow whites bishop any real freedom to defend if need be.",
+        "6... c6 7. O-O e6 8. Bd2 Qc7": "Time to retreat the Queen to avoid any Ne4 ideas",
+        "9. Re1 Be7 10. h3 Nbd7 11. Nh4 Bg6 12. Nxg6": "The Knight gobbles the bishop but opens a line towards his own king so must be suspect",
+        "12... hxg6 13. Bb3 O-O-O": "Safety castles on the opposite wing leaving only the white king with difficulties.",
+        "14. Be3 Nb6 15. a4 Nbd5": "Not afraid of 16. Bxa7 as b6 wins the Bishop.",
+        "16. Nxd5 Nxd5 17. Bd2 Bf6": "Starting to cause some minor threats",
+        "18. c3 Nf4 19. Bxf4 Qxf4": "As my opponent was rating higher than myself i offered a draw here. Black is more than equal and has no problems whatsoever but i thought it would be wise. My opponent declined and played.....",
+        "20. a5": "Possibly with the idea of Rook a4 but did not get time.",
+        "20... Be5": "Threatens mate with the idea of creating weaknesses to exploit.",
+        "21. g3 Qf5": "Attacks two pawns and is difficult to meet",
+        "22. Qg4": "Probably best",
+        "22... Bc7": "Un covering another attack this time on the a5 pawn as well as removing the bishop from the firing line.",
+        "23. Qxf5": "White cracks and makes a blunder though it was difficult to find a alternative. Probably best was d4 when 23....Bxa5 could be met by Re5. This position is another reason why 6.d3 was an error. 6.d4 should be best.",
+        "23... gxf5": "Now 2 pawns under attack and he can't defend both.",
+        "24. Kg2 Rxd3 25. Bc4 Rd2 26. b4": "Finally his pawns are rolling but can't do much with them as i control the open file and have all the space.",
+        "26... Rhd8 27. Re2 Rxe2 28. Bxe2 Rd2 29. Kf3": "Probably a losing blunder with the position that arises Kf1 should be preferred.",
+        "29... Rc2 30. c4 Rb2 31. b5 Be5": "Threatening a nasty discovery",
+        "32. Ra3 Bd4": "A quiet but very powerful move. The bishop is pinned now as if it moves it will be mate. The king can't move because of the bishop.",
+        "33. a6 e5": "Ignoring Whites pawn play. The threat now is e4  and the king has to move and the pawn falls.\r\n\r\nWhite is in a lot of trouble here, he needs to try and liquidate the position but Blacks control is too much. \r\n\r\n34. axb  Kxb\r\n35. bxc  Kxc is fairly best for him hard to suggest anything else. However if he follows up with 36. Ra6  expecting Kb7 when he can play 37.Rd6 surviving he would face diasaster with 36...kc7 when he has no checks and no way to meet 37....e4 \r\n\r\nAll of which led to white resigning here"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=11726",
+    "gameName": "Team match",
+    "players": "camcorder (1819) vs. cameron12345 (1749)",
+    "opening": "Scandinavian defence (B01)"
+}

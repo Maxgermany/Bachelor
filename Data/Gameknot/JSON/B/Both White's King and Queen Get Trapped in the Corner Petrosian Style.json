@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c6 2. Nc3 d5 3. Nf3": "The Two Knights variation of the Caro-Kann",
+        "3... Bg4 4. h3 Bxf3 5. Qxf3 d4": "This move takes White out of the book.",
+        "6. Bc4 e6 7. Ne2 Nd7": "Offering a pawn sacrifice in exchange for White's light-squared bishop",
+        "8. Qg3 Nb6 9. Bb3 Nf6 10. d3 a5 11. a3": "a4 would weaken the b4 square.",
+        "11... a4 12. Ba2 Ra5 13. f4 Be7 14. O-O Rb5": "This is a blunder. White can win with f5!",
+        "15. Kh1": "White misses a great opportunity.",
+        "15... Nh5 16. Qf3 g6 17. Rb1 Ng7 18. Bd2 h5": "Black makes another blunder, which allows Nxd4 followed by Bc3, skewering the knight on g7.",
+        "19. c4 Rc5": "Offering the exchange",
+        "20. Bb4 h4 21. Bxc5 Bxc5 22. Rbe1": "Threatening to open the e-file with f5",
+        "22... Nd7": "Now White cannot push any of his pawns.",
+        "23. Red1 Qb6 24. Rd2 Qa5 25. Rc2 Rh5 26. Rb1 e5": "I felt that I was winning after this move.",
+        "27. fxe5": "White's best chance was b4 or b3.",
+        "27... Nxe5 28. Qf6 Ne6 29. Rf1 Be7 30. Qf2 c5 31. Nf4": "White exchanges an important defender for Black's worst piece.",
+        "31... Nxf4 32. Qxf4 Qc7 33. Rcf2 Bg5 34. Qh2 Qe7 35. Bb1 Be3 36. Rf2f6 Rg5 37. Bc2 Rg3": "Black sacrifices a pawn, but in return, he has trapped both White's King and Queen.",
+        "38. Bxa4+ Kf8 39. Bc2 Kg7 40. Rf6f3": "This is a mistake. Rb6 was best.",
+        "40... Nxf3 41. Rxf3 Qe5": "White's Queen is still trapped.",
+        "42. Ba4 f5 43. exf5 gxf5 44. Bd7 f4 45. Ba4 Kf6 46. Bc2 Kg5 47. Rf1 Qd6 48. b4": "This blunder will end the game.",
+        "48... cxb4 49. axb4 Qxb4 50. Rb1 Qd2 51. Rb5+ Kf6 52. Rb6+ Ke5 53. Rb5+ Kd6": "Here, White ran out of time."
+    },
+    "url": "https://gameknot.com/annotation.pl/both-whites-king-and-queen-get-trapped-in-the-corner-petrosian-style?gm=52870",
+    "gameName": "Both White's King and Queen Get Trapped in the Corner Petrosian Style",
+    "players": "Spencer Martin (1908) vs. David Fei (1997)",
+    "opening": "Caro-Kann (B11), two knights, 3...Bg4"
+}

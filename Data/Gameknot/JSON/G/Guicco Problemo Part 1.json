@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5": "3.  ........... Bc5  - the Guicco Piano.  If the next move is d3 then this will transpose into the Guicco Pianissimo.  This is usually one of the first openings that beginners are taken through because it is an example of where the minor pieces should usually go.",
+        "4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+": "6. ............ Bb4  - white's fourth move c3 is the Guicco Piano proper.  This checking sequence is a fairly common response to this move.  White has a good pawn centre but black is trying to undermine it!",
+        "7. Bd2 Bxd2+ 8. Nbxd2 d5": "8. ............ d5 - black counters in the centre.",
+        "9. exd5 Nxd5 10. Qb3 Nce7 11. O-O O-O": "11. .......... 0-0 - white has put quite a bit of pressure on the d4 knight, although it is well supported at the moment.  According to chessops database this position is deemed to be equal.  Both kings now get tucked away on the kingside.",
+        "12. Rfe1 c6": "12. ....... c6 - bolstering the d5 knight.",
+        "13. Ne4 Qb6 14. Nc5 Qxb3 15. Bxb3 Rd8": "15. .................... Rd8 - indirectly bearing down on the white IQP.",
+        "16. Re2 Ng6": "16. .......... Ng6 - Ion stated here \"I've had a look at the game, and I reckon you might have had the whisker of an edge in the early middlegame. A line like 16...c6 17.Ne4 Bg4 18.Ned2 Bxf3 19.Nxf3 Rd6 and then pile on White's isolated d-pawn would have given you the initiative (assuming the line is correct). \"",
+        "17. Rae1 Nf6 18. Ne5 Rf8 19. Nxg6 hxg6 20. Re2e7": "20. Re7 - a serious bone in the throat for black.",
+        "20... b6 21. Ne4 Nxe4 22. Re7xe4": "22. Re7xe4?! - why not capture with the rook on e1 maintaining the \"Bone in the Throat?\"  My queenside pawns would have looked extremely edible to said white rook.",
+        "22... a5 23. h3 a4": "23. ................ a4 - puts question to white's lsb.",
+        "24. Bc2 Be6 25. a3 b5 26. Re4e5 Rfe8": "26. .......... Rfe8? - Ion stated here \"But the mistake that really got you into trouble was 26...Rfe8. 26...Rfd8 looks much better to me, after which the game seems to be even. Later, instead of 31...Rd1  I probably would have tried 31...b4, to force off a pair of Q-side pawns. But maybe your move was at least as good. White never seemed to get much attack once the f-pawn went. Probably he would have been better off protecting that pawn (31...Rd1  32.Kh2 Rd2 33.f3 Rxb2 whereupon White just rounds up Black's a-pawn). Then Black would have had to defend on both sides of the board. \"\r\n",
+        "27. Bxg6 fxg6 28. Re5xe6 Rxe6 29. Rxe6 Rd8": "29 .......... Rd8 - Oooh dear!  I am now a pawn to the bad.  Best plan here is to firstly try and pick off the IQP - I have queenside pawn majority at the moment then activate my rook - vital when you are a pawn down in R P endings!",
+        "30. Rxc6 Rxd4 31. Rc5 Rd1+ 32. Kh2 Rd2 33. Rxb5 Rxf2": "33. ...... Rxf2 - still a pawn down but a couple of pawns have been exchanged and my rook is now very active.  But what can he do?  Read on ..........",
+        "34. Kg3 Rc2 35. Rb4 Kf7 36. Kf3 Kf6 37. g4 g5": "37. ......... g5!  A vital move here - holds up the advance of the h pawn and Henry can now sandwich himself neatly between the two doubletons on the g file should we have a white passer on a7 to contend with.  It is essential that the white rook will not be able to check Henry in order to get a queen.  It also brings my g pawn a little closer to g1.  This will become a factor later on.",
+        "38. Rb6+ Kf7 39. Kg3 Rd2 40. Rb4 Rc2 41. Rxa4 Rxb2 42. Ra7+ Kg6": "42. ........ Kg6 - and here is the sandwich and Henry is the filling!!!",
+        "43. a4 Rb3+ 44. Kg2 Rb2+": "44. ........ Rb2 , would you believe it, Paul and I agreed a DRAW here!  It seems incredible but should the white king try and come to the aid of the a pawn, the black rook will clean up the white g and h pawn.  Incredibly the g pawn will crown first!  I offered the draw and Paul accepted.  What a relief after being in such a dire position in the middlegame and a pawn minus to the bargain!"
+    },
+    "url": "https://gameknot.com/annotation.pl/guicco-problemo-part-1?gm=17320",
+    "gameName": "Guicco Problemo Part 1",
+    "players": "paulg3121 (1598) vs. jstevens1 (1621)",
+    "opening": "Giuoco Piano (C54), Krause variation"
+}

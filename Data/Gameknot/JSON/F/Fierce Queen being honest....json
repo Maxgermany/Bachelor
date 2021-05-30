@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5": "the sharpest continuation for White: testing Blacks' bluff...",
+        "4... Qa5+ 5. c3": "I am still not sure, what is the best continuation for White...",
+        "5... Qxc5 6. Be2 e6": "following my usual scheme, for the Sicilian...",
+        "7. O-O Ne7 8. Be3": "of course: the Black Queen has to be contested, at some point...",
+        "8... Qc7 9. Bd4 O-O": "all is well, on the Western Frontier...",
+        "10. h4": "White has to come up with something: this would not have been my choice...",
+        "10... Nbc6 11. Be3 d5": "the signature Sicilian move: open up the d-file...",
+        "12. Nbd2": "White is losing tempo swiftly now...",
+        "12... f5 13. exd5 exd5 14. Bc5": "not really helping...",
+        "14... b6 15. Ba3 Be6": "Black has completed development: all lines are secured...",
+        "16. Nb3 Bf7": "clearing up the e-file...",
+        "17. Ng5 h6": "Black is not impressed: Nxf7 is in Blacks' favor...",
+        "18. Nf3": "a very weak move: probably the losing one...",
+        "18... Rad8": "taking the d- file...",
+        "19. Qc2": "not too soon...",
+        "19... Rfe8": "taking the e-file...",
+        "20. Nbd4": "there it is: the losing move...",
+        "20... Nxd4 21. Nxd4 Bxd4": "Black resigns: after cxd4, Qxc2 loses the Queen..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-being-honest?gm=64310",
+    "gameName": "Fierce Queen being honest...",
+    "players": "jtoth (1600) vs. fiercequeen (2059)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

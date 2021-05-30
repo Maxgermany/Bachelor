@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "My first mini-tournament. Classic king pawn. Nothing here yet.",
+        "1... c5": "Cicilian. No problem.",
+        "2. Nf3 Nf6 3. Nc3": "He still hasn't moved d4, but I don't care.",
+        "3... Nc6": "You have two knights, I have two knights.",
+        "4. Bc4": "I didn't know if this was a threaten on f7, so I decide to play with it.",
+        "4... e5 5. O-O": "Kingside castle. Now here comes the fun!",
+        "5... Nd4": "Scare that knight away.",
+        "6. Nxe5": "Perfect. ",
+        "6... Bd6": "geting ready for a Bxh2+. Also I'm luring the knight away to f7 so I can...",
+        "7. Nxf7 Qc7": "Pull out the queen. ",
+        "8. Nxh8": "Now that the knight's in the corner, and that I'm lined up with a bishop and a queen, the fun can begin.",
+        "8... Bxh2+ 9. Kh1": "Now he sees the danger! But it is to late.",
+        "9... Qf4": "bringing up the queen.",
+        "10. d3": "He tries to get my queen away. ",
+        "10... Qh4": "Okay then. Will do.",
+        "11. g3 Bxg3+": "A discovered check. ",
+        "12. Kg2": "Time for the final blow.",
+        "12... Qh2#": "Checkmate! And I have won my first mini-tournament game."
+    },
+    "url": "https://gameknot.com/annotation.pl/jimmydays-mini-tournament-xlii?gm=49489",
+    "gameName": "jimmyday's mini-tournament XLII",
+    "players": "glenngilbert (1242) vs. daviddude (1249)",
+    "opening": "Sicilian (B29), Nimzovich-Rubinstein variation"
+}

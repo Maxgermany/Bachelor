@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4": "This is one of my First games, so I decided to mix it up.",
+        "2... Nf6 3. d3 d6 4. b3": "In retrospect, not a good move.",
+        "4... e5": "We've both been just messing with our pawns up till now, but Black's move here makes little sense to me, maybe he is clearing the way to castle, but why?",
+        "5. h4 Be7 6. f3 O-O": "Castling like this only stuck his king in the corner, as Black's rook can't get anywhere for some turns. I decide to pawn-storm the king's side, because Black is cramped. Whatever he is doing, I've got plenty of tempo.",
+        "7. g4 Nc6 8. h5 a6": "The threat of b4 is not preventable. I'll focus on the king side some more, taking the tempo from Black's queen side attack.",
+        "9. Qd2": "(?)GK Analysis says this is where I'm in the wort position, I'm down 2.72 points. ",
+        "9... b5": "This wins him the bishop, but I got the tempo I needed. ",
+        "10. h6": "(?)Black gets impatient, and Ignores the very advanced pawn. GK Analysis says were very close now.",
+        "10... bxc4 11. hxg7": "At this point, my pawn storms the castle, and I use him as a ladder.",
+        "11... Re8": "(?) better would be Qa5, pinning or trading my queen as Black has the advantage. ",
+        "12. Qh6 Nb4": "(?)Black decides to attack, now that my queen is out. I think Bf8 would be smarter, trading a bishop for a passed pawn on the 7th rank. GK says Nd4 is optimal, 13. g5 Nf5 14. exf5 Bxf5 15. dxc4 Nd7 16. Rh2 Qa5+ 17. Bd2 Qc7  would result. ",
+        "13. Kd1 Rf8": "(?)Black has fed another tempo into my storm, and seals his fate. ",
+        "14. g5": "(!)At this point, My pawn attacks Black's knight, opening up Qxh7mate. I never knew doubled pawns could be so powerful. The lesson? Never play passively, and don't castle just to castle. "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-sicilian?gm=39149",
+    "gameName": "A Sicilian.",
+    "players": "kingzach (1200) vs. esotsm (1129)",
+    "opening": "Sicilian defence (B20)"
+}

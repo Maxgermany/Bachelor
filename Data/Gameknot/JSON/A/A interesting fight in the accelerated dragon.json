@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "I usually play e4. But sometimes I play Nf3 if I want flexibility. Especially, in OTB games black uses a lot of time to think in their development plan. I am white.",
+        "1... c5": "Sicilian defence.",
+        "2. Nf3": "Until move 6 I won't annotate as it is just theory.",
+        "2... Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3": "I have played dragon with black and white a lot of time. But, I have never faced accelerated dragon. So, I checked most of the opening moves from the database.",
+        "6... Nf6 7. Bc4 O-O 8. Bb3 Ng4": "When I faced this move I was a bit shocked. Because I thought that by playing Qxg4 I can easily win a knight. But then I saw that d4 knight was hanging.",
+        "9. Qxg4": "I took the knight, because I didn't want to give away my e3 bishop.",
+        "9... Nxd4 10. Qd1 Nxb3 11. axb3 a6": "I think this move is a mistake. Because black should have taken control of some centre squares. Probably playing d6 and and then Be6 would have been much better.",
+        "12. Qd2": "I want to exchange that g7 bishop as fast as possible.",
+        "12... Re8 13. Bh6 Bh8": "!? Interesting move. Later as we see this move will cause black headache. That's why black played Re8.",
+        "14. h4": "I thought a lot about this move. I was intending to play Be3 and Bd4. But that would have been a waste of time and black could have simply played e5.",
+        "14... d6 15. h5 Bd7 16. hxg6 hxg6 17. Bf8": "! Now black has several options.\r\n\r\n17. ... Kxf8 18. Rxh8  Kg7 19.Qh6  if black plays correctly he won't lose. But white will stand much better.\r\n17. ... Rxf8 18. Qh6 f5 19. Qxh8  Kf7 in this variation white will be better.\r\n",
+        "17... Kxf8 18. Rxh8+ Kg7 19. Qh6+ Kf6 20. Nd5+": "Now there is a critical choice for black. He has two options Kd6 and Ke5.\r\n\r\n20. ... Kd6 21. Nf4  Kf6 22. Nh5  Ke5 (22. ... Kd6 Ng7 ) 23. Qf4  Kd6 \r\n24. Qg4  Ke5 ( 24. ... f5 Qxg6 here white will be up a pawn. And because the king is exposed white will be better. But still black can resist.) 25. f4  Kxe4 26. Qf3  Kd4 27. O-O-O and mate will be followed.\r\n\r\n20. ... Ke5 21. Qf4  Kd6 (21. ... Kd4 22. O-O-O  Kc5 23. Qe4 and white will soon mate the black king) 22. Qg4  and it will turn into the same variation I told with Kd6. ",
+        "20... Ke5 21. Qf4+ Kd4": "Black makes a mistake and soon will be mated.",
+        "22. O-O-O+ Kc5 23. Qe3+ Kc6 24. Qc3+ Kb5 25. Qc4+": "and he resigns 25. Ka5 26. Qb4# mate. my analyzes can be wrong so feel free to comment. "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-interesting-fight-in-the-accelerated-dragon?gm=15183",
+    "gameName": "A interesting fight in the accelerated dragon",
+    "players": "emres (1650) vs. centerctrl (1756)",
+    "opening": "Sicilian (B35), accelerated fianchetto, modern variation with Bc4"
+}

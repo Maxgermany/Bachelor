@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Hello everybody - this is a game I played against hiredgun112. Hope you enjoy.",
+        "1... e5": "Normal.",
+        "2. Nf3": "Normal.",
+        "2... Nf6": "Still normal, but there is a trap which goes:\n\n3. Nxe5 Nxe4 4. Qe2 Nf6 5. Nc6+ winning queen.",
+        "3. Nc3": "Defending the pawn.",
+        "3... a6": "Why not defend the e5 pawn? People like to play a6 and h6 often, but there is often no point in it.",
+        "4. Bc4": "Developing, though I could just take the e-pawn.",
+        "4... Bc5": "Developing.",
+        "5. O-O": "Castling",
+        "5... O-O": "Castling",
+        "6. Nxe5": "Now that my development is set up, I take the e-pawn.",
+        "6... d6": "Opening lines for the bishop and attacking my knight.",
+        "7. Nf3": "Falling back.",
+        "7... Bg4": "Pinning the knight.",
+        "8. h3": "It is suitable here to play a wing pawn; this attacks the bishop.",
+        "8... Nc6": "Ignoring this and developing the knight.",
+        "9. hxg4": "Free bishop.",
+        "9... Nxg4": "Revenge for the bishop.",
+        "10. d4": "Controlling the centre and attacking the bishop.",
+        "10... Qf6": "Ignoring the threat of the bishop.",
+        "11. dxc5": "That's two bishops gone.",
+        "11... Qh6": "And he immediately resigns after playing this move. The queen will get taken by the bishop on c1. Please rate and give comments if necessary. Thank you."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-oodle3?gm=57327",
+    "gameName": "Challenge from oodle3",
+    "players": "oodle3 (1200) vs. hiredgun112 (890)",
+    "opening": "Petrov three knights game (C42)"
+}

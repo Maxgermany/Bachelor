@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4": "This old-fashioned opening exposes White's Queen to Black's pieces. Black tends to gain an advantage in development as a result.",
+        "2... exd4": "The only logical move.",
+        "3. Qxd4": "White recaptures at once.",
+        "3... Nc6": "Developing the Knight to its natural square and gaining a tempo.",
+        "4. Qe3": "The Queen must retreat.",
+        "4... Nf6": "Now Black can develop his King Knight as well. He has 2 pieces out and White only has 1.",
+        "5. Bc4": "Overly aggressive. White does need to develop, but a more modest move such as B-Q3 or N-QB3 [both of which also defend the exposed KP] would serve him better. Because of the premature Queen development, White is on the defensive.",
+        "5... Ne5": "Swiderski takes advantage of White's mistake, centralizing his Knight and attacking the unprotected KB.",
+        "6. Bb3": "White's Bishop is forced to retreat...",
+        "6... Bb4+": "...allowing Swiderski time to develop another piece with tempo. White needs to develop and break the attack. 7 N-QB3 or 7 N-Q2 is in order.",
+        "7. c3": "A major blunder by White. Not only does this not develop a piece, it also blocks his QN from its natural square!",
+        "7... Bc5": "Swiderski pounces, attacking the Queen again. Obviously White cannot play 8 QxB??? as 8...N-Q6 ch!!! would fork White's King and Queen. Probably the \"best\" move is 8 Q-K2, although even then White would be in trouble, massively behind in development.",
+        "8. Qg3": "The second blunder in a row allows Swiderski a brilliant finish.",
+        "8... Bxf2+": "Forking King and Queen. If 9 QxB, 9...N-Q6 ch forks the royalty again. If 9 KxB, 9...NxP ch ALSO forks the white royals! White does the honorable thing and resigns. He has been magnificently outplayed!"
+    },
+    "url": "https://gameknot.com/annotation.pl/simultaneous-exhibition?gm=32615",
+    "gameName": "Simultaneous exhibition",
+    "players": "Amateur  vs. Swiderski ",
+    "opening": "Centre game (C22), Berger variation"
+}

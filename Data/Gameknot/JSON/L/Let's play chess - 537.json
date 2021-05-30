@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5": "I typically play the king's indian, but I thought I would try something different considering that I had access to the gameknot database.",
+        "3. Nc3 cxd4 4. Qxd4 Nc6": "I liked the idea of exchanging pawns and developing my knight with tempo",
+        "5. Qd1 e6 6. Bg5 Be7 7. Bxf6": "Not a good echange. For one thing it puts my dark squared bishop on its favorite diagonal. Also, white's kingside remains undeveloped.",
+        "7... Bxf6 8. Rc1": "Trying to avoid doubled pawns, but I like my bishop too much to trade at this point.",
+        "8... O-O": "With a good lead in development I decide to secure my king.",
+        "9. Ne4": "The b2 pawn looks pretty juicy, pluss white's kingside is still undeveloped.",
+        "9... Bxb2 10. Rb1 Bd4 11. e3 Bb6": "I had thoughts of keeping white's king from castling, but it wasn't to be.",
+        "12. Bd3 Ba5+ 13. Nd2 Nb4": "Forking the bishop on d3 and the pawn on a2.",
+        "14. Qb3": "Responds to both threats, but white's queen is tied up to a passive role. My plan is to open things up and develop my light squared bishop.",
+        "14... d5 15. Ngf3": "perhaps advancing the c pawn was a better idea for white.",
+        "15... dxc4 16. Bxc4 b5": "I was looking to create a pin of sorts along the b file with my rook, threatening a check/discovered pin winning the bishop.",
+        "17. Be2 Bb7": "Finally activating the light squared bishop. I have my eye on the a2 pawn.",
+        "18. O-O Bd5 19. Qb2 Nxa2": "Taking with the knight gave me multiple threats, attacking the knight on d2, and threatening the fork if white responds with Qxb5.",
+        "20. Bxb5": "This was white's critical mistake.",
+        "20... Rb8": "Even if white moves the queen, the coming Nc3 fork still wins the bishop.",
+        "21. Nd4 a6 22. Nc6": "Adding insult to injury white gives up his best knight for a weak knight on the edge of the board.",
+        "22... Bxc6 23. Qxa2 axb5": "I considered pushing this lovely passed pawn, but white cuts it off with his knight.",
+        "24. Nb3 Qd5": "Threatening mate. I thought this was a little stronger than Qd5 because it adds some pressure to the queenside as well as the mate threat.",
+        "25. f3": "White's only real response.",
+        "25... Bb6 26. Rfd1 Bxe3+ 27. Kh1 Qh5 28. Nd4 Bf4": "Another mate threat with one response.",
+        "29. h3 Bd5 30. Qa5": "Leaves the 2nd rank ungaurded.",
+        "30... e5 31. Ne2 Bxf3 32. Nxf4 exf4 33. Rd3": "The final mistake.",
+        "33... Qxh3+ 34. Kg1 Qxg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=36717",
+    "gameName": "Let's play chess",
+    "players": "heyvern (1367) vs. fnkdwg (1448)",
+    "opening": "Benoni defence (A56)"
+}

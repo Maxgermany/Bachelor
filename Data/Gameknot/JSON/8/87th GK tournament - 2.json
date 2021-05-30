@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3 c5": " if e4 we have a Sicilian",
+        "2. e4 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 Nbd7 7. f3 e6 8. g4": "white will pawn storm my king side...",
+        "8... h6": "getting some leverage on g5",
+        "9. Qd2 b5": "and now counter-attacking on the queen side",
+        "10. O-O-O b4": "again to get more space on the queen side",
+        "11. Nce2 Qc7": "leaves the b pawn \"en prise\" because if white captures it allows me to open up the center with tempo and get two pawns for my pawn",
+        "12. h4 d5": "and also counter-attacking on the center, now I expect Bf4 e5",
+        "13. Bf4": "forcing my reply",
+        "13... e5": "to block the threat on my queen, so I can keep it on c7",
+        "14. g5": "? this move was expectable after Bh2, but not now, my opponent must have mixed up is move order",
+        "14... hxg5": "forcing the retreat because if white captures the leaves the h2-b8 diagonal releasing the pin on e5 and thus losing the d4 knight",
+        "15. Bh2 gxh4": "and I get two pawns advantage",
+        "16. exd5 Nxd5 17. Kb1 Nd7b6": "my knights will support each other, without blocking the f pawn",
+        "18. Nc1 Bd6 19. Ndb3 a5": "consolidation of the queen side",
+        "20. Re1 Kf8": "and moving the king away from danger without a castle because I need the rook on the h column and the queen side is to much open, next I may need to play g6 to open an escape route for the king",
+        "21. f4": "?! sacrifices a pawn, white pieces can all be pointed at my king but does it worth three pawns? Does he have time for it? More so with white's king also vulnerable",
+        "21... Nxf4 22. Bxf4 exf4 23. Nd4 Bd7": "to counter on Nb5",
+        "24. Nb5 Bxb5": "for seconds I even considered Nc4 but it loses to the immediate Bxc4 Qxc4 Qxd6+",
+        "25. Bxb5": "now e8 is a bit weak so I need that g6 square",
+        "25... g6 26. Qd4 Rh5": "to prepare the blockade on e5..."
+    },
+    "url": "https://gameknot.com/annotation.pl/87th-gk-tournament?gm=44104",
+    "gameName": "87th GK tournament",
+    "players": "saufbruder (2395) vs. kaspanatola (2084)",
+    "opening": "Reti opening (A04)"
+}

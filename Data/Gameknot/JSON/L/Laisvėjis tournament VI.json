@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2": "The Classical Variation (ECO: E32)",
+        "4... O-O 5. Bg5 c5 6. e3 h6 7. Bxf6 Qxf6 8. Nf3 b6": "Besides 9.Be2 White could also consider 9.Qe4.",
+        "9. Be2 cxd4 10. Nxd4 Bb7 11. O-O Na6 12. Rac1 Bc5 13. Nf3 Nb4 14. Qb3 d5 15. cxd5 Nxd5": "In this position 16.Ne4 would break up Black\u2019s bishop pair while saddling him with an isolated c-pawn.",
+        "16. a3 Nxc3 17. Qxc3 Qxc3 18. Rxc3 Rac8 19. Rfc1 a5 20. h3": "White offered a draw at this point.  Black declined only because he thought his bishop pair gave him an (albeit very slight) advantage\u2026and White\u2019s last move suggested he was unsure how to proceed.",
+        "20... Rfd8 21. Kf1 Bxf3 22. Bxf3 Rd2": "[?] Black was fixated on achieving the typically favorable position of paired rooks on an oppo\u00adnent\u2019s second rank, but overlooked that he must separate his own rooks to do so, pin\u00adning his bishop to the rook on the d-file.  This would not be a problem if the bishop could be attacked by only a rook, but White\u2019s next move reveals such is not the case.  He would have been better off playing to clear the rooks off the board with 21.\u2026 Bd6 and seeing if his bishop pair could over\u00adwork White\u2019s bishop and knight, though the symmetrical pawn structure suggests White\u2019s offer of a draw was well considered.  Now this move required preparation with 22.\u2026 Ra1.",
+        "23. b4 axb4 24. axb4 Ra8 25. Bxa8": "As Black resigned he quoted George Bernard Shaw, who suggested his epitaph read, \"I knew if I waited around long enough something like this would happen.\""
+    },
+    "url": "https://gameknot.com/annotation.pl/laisv-jis-tournament-vi?gm=69039",
+    "gameName": "Laisv\u0117jis tournament VI",
+    "players": "marsman (1861) vs. midnight_skulker (1811)",
+    "opening": "Nimzo-Indian (E32), classical, Adorjan gambit"
+}

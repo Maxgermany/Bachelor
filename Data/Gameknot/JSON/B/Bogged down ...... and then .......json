@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. Nf3": "Hi everyone!\n\nAs I stated in my Club thread - I seem to be getting through my games very slowly.  The reason is, my opponents have put up such a good show against me that I am trying hard to make sensible moves, but it is like wading through treacle.  This game was no different. Wolfgang kept me in such a bind for a good part of the game it was unbelievable.  It took a lot of horse manoeuvring before I was able to get anywhere.  But suddenly I did, and it was all over and I netted a 6.5 rating point haul over my fellow Class A opponent. He starts off with the Reti Opening, which is Nf3 and I make the most popular response with 1. ..... d5.",
+        "1... d5 2. d4 Nf6 3. c4 c6": "3. ..... c6 - this seems to be transposing into a Queen's Gambit Declined, Slav Defense.",
+        "4. Nc3 dxc4 5. a4 Bf5 6. Nh4 Bd7": "6. .... Fou Leblanc is chased back to d7.  Whenever I think of putting my pieces onto active squares, they somehow get chased back - sigh and double sigh.",
+        "7. e4 e6 8. g3 Bb4": "8. ..... Bb4 - so I have a bit of a breakout with the piece that eventually decides the game in my favour, Fou Lenoir!",
+        "9. Bg2 c5 10. d5 exd5 11. exd5": "11. exd5 - pawn trade.",
+        "11... Qe7+ 12. Kf1": "12. Kf1 - white cannot now castle, but can I capitalise on this?  Time will tell.",
+        "12... Bg4 13. Qc2": "13. Qc2 - why not f3?",
+        "13... O-O 14. h3 Bh5 15. Bf4 Na6": "15. ..... Na6 - a poor square for my knight on a6 but, that knight does become a vital defender to that square c7 where a white knight will threaten a fork for many moves to come.",
+        "16. d6": "16. d6 - I feel like singing the song \"Thorn in my side .....\" when this pawn gets to this square.  This is the start of a long bind for Yours Truly.  Still, being in a quagmire is nothing new for jstevens1!",
+        "16... Qd7": "16. ..... Qd7 - and now Glenda has another defensive role - blockade!  Note, she is also defending a pawn on b7 which is pinned to my rook on a8!",
+        "17. Nb5": "17. Nb5 - white tightens the cinch!",
+        "17... Rfe8": "17. .... Rfe8 - walking into a potential knight fork, but I must get some counterplay in.  This move at least threatens Re2 hitting at the Wicked Witch of the West on c2.",
+        "18. Bf3 Bxf3 19. Nxf3": "19. Nxf3 - I couldn't believe it when Wolfgang offered me his bishop for Fou Leblanc.  I was only too pleased to get rid of that turbulent white prelate.  At least my pawn on b7 can sleep a little easier, and so can Glenda, she has one less defensive task to do.",
+        "19... Qc6": "19. .... Qc6 - Indeed, a very relieved Glenda threatens the knight on f3.  If that knight moves then Glenda will gleefully net the rook on h1 and the WK!  So Wolfgang must move his king.",
+        "20. Kg2 Nd5": "20. .... Nd5 - I now make a bid for freedom and try and tempt white to play Ne5??  If white plays that move then he will allow a deadly double check with Nxf4++ followed by the even deadlier Old Matey!",
+        "21. Qxc4 Nb6": "21. ..... Nb6 - re-opening the pin line onto the knight on f3 and putting pressure on c4 and a4.",
+        "22. Qc2 c4": "22. .... c4 - opening up an attacking line for Fou Lenoir onto that wretched pawn (I nearly said thorn!) on d6!",
+        "23. g4 Bc5": "23. ...... Bc5 - I was taking sooo long over my moves.  We were playing Fischer Time Controls of 10 days per move and I had less than 4 days on my clock before I made the next move, I was that stuck.  However, I do have the seed of a plan and it will germinate over the next few moves, which will only take another two days to be played out!  ",
+        "24. Rhe1 Nb4 25. Qd2 Nb4d5": "25. .... N4d5 - putting pressure on f4 and I have the idea of playing Nxa4, Rxa4 and blasting that pesky knight on b5 off the board by Glenda.",
+        "26. Kg3": "26. .... Bb4 - after spending another day, ruminating over Nxa4 or Bb4, I choose the latter.  White unsurprisingly exchanges rooks on e8.  At least this deals with the threat of that c7 knight fork that has hung over me for eons!",
+        "26... Bb4 27. Rxe8+ Rxe8 28. Qc2": "28. Qc2 - white defends his a4 pawn but now I have a little combo up my sleeve beginning with, wait for it ......",
+        "28... Nxf4": "28. ..... Nxf4! - yes, here it is!  You will see that white will drop at least a piece if he takes it with his king, and ......",
+        "29. Kxf4": "29. Kxf4 .... and he does!  Eureka!  Now I can get rid of that wretched thorn on d6 with check.  I do exactly that and Wolfgang topples his king.  After NxB, QxN+ then white must give up his knight to avoid copping Old Matey.  Hence the resignation.  All I can say is whew and double whew!  Joanne",
+        "29... Bxd6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/bogged-down-and-then?gm=48560",
+    "gameName": "Bogged down ...... and then ......",
+    "players": "caveman1960 (1824) vs. jstevens1 (1943)",
+    "opening": "Reti opening (A06)"
+}

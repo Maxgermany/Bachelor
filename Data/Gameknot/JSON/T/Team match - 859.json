@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 Nc6": "Chigorin defence is my favourite weapon for some time now",
+        "3. e3 Nf6 4. a3 Bg4 5. Be2 Bxe2 6. Nxe2 e6 7. O-O Bd6 8. Nd2 O-O 9. c4 dxc4 10. Nxc4 Bxf4 11. Nxf4 Re8 12. Rc1": "I was satisfied with the outcome of the opening since I don't think white has any real advantage here",
+        "12... Ne7 13. Qc2 c6 14. b4 Ned5 15. Nd3 Nb6 16. Nc5 Nxc4 17. Qxc4": "Of course not 17.Nxb7?? Qc7 - ",
+        "17... Qb6 18. f4 Nd5 19. Rf3": "White decided to go to all-out attack on king's side, and I will be looking for some conterplay on the other side. I was more succesful since my king is easily defended",
+        "19... Qc7 20. Rc2 Rac8 21. Qd3 f5 22. Rh3 Nf6 23. Rf2 g6 24. Qe2 b6 25. Nd3 Ng4 26. Rff3 Re7 27. Rfg3 a5": "The beginning of Kasparov-like counter-attack",
+        "28. e4 axb4 29. axb4 Ra8 30. e5 Ra1+": "The back rank is horribly weak",
+        "31. Ne1 c5 32. Rgc3 Qa7 33. bxc5 bxc5 34. Rcd3": "why Rd3?, I don't see why Rxc5 is bad",
+        "34... cxd4 35. Kf1 Rb7 36. Rd1 Rbb1 37. Rxb1 Rxb1 38. Rh4": "Decisive mistake, and now the beautiful finish:",
+        "38... d3": "!",
+        "39. Qd2 Rd1": "!",
+        "40. Qb2 Rxe1+": "very nice, don't You think?",
+        "41. Kxe1 Qg1+ 42. Kd2 Qf2+ 43. Kc3 Qxh4 44. Kxd3 Qxh2 45. Qb8+ Kg7 46. Qb7+ Kh6 47. Qf3 Qg1 48. g3 Qb1+ 49. Kc4 Qf1+ 50. Qd3 Qxd3+ 51. Kxd3 Kh5 52. Ke2 Nh2 53. Kf2 Kg4 54. Kg2 Nf1 55. Kxf1 Kxg3 56. Kg1 Kxf4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=5396",
+    "gameName": "Team match",
+    "players": "ricrice (1687) vs. countpetroff (1652)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. Nf3": "I like to start games slow and safe. Losing in the opening is never a satisfying experience. ",
+        "1... d5 2. g3 Nc6 3. Bg2 e5 4. d3 h6": "I found this move immediately odd - developing the minor pieces seems much more logical. I see Black's idea though: he wants to cut off my knight from the flight square g5 in the case of a future e4 push and to take away the g5 square from my dark-squared bishop. But then again, the dark squared bishop is not used early in the game in the King's Indian Attack. ",
+        "5. O-O Be6 6. Nbd2 Qd7": "I thought this was an interesting choice: it almost appeared that black was wanting to castle queenside. ",
+        "7. Re1 Rd8": "Well, the idea about castling queenside is finished. I wondered why he activated his queenside early instead of his kingside - seemed a bit counter-intuitive. ",
+        "8. e4": "The standard break in the center with the King's Indian Attack. The opening may look harmless, though it can become aggressive and flashy in an instant, with crazy tactics flying everywhere.",
+        "8... d4": "This determines the nature of the game for a while - a closed position. I think he didn't want to activate my e-file and put pressure on his e-pawn. ",
+        "9. a3": "A prophylactic: you can tell I enjoy Petrosian's play. I didn't want any distractions from Bb4 and Nb4. Also, the queenside seemed like the most desirable place to attack since the center was closed and the kingside appeared to be well-guarded. ",
+        "9... Bd6": "Black may have more space, but his play is rather limited. ",
+        "10. Qe2": "Offering protection when posting a knight on c4, and also letting the rooks to eventually unite. ",
+        "10... Nf6 11. Nc4 O-O 12. b4": "Starting the queenside advances. Now the knight c6 looks a bit awkward.  ",
+        "12... a6 13. Bd2 b5 14. Nb2": "Though this appears to be a rather poor place for the knight, pawn advances such as a4 and c4 can be quite powerful with the knight's help.",
+        "14... Ne7": "The critical mistake. It allows a tactical combination centered on e5. I didn't see the tactic just yet, only seeing it the following move. I continued instead with my expansion on the queenside.",
+        "15. c4 c6": "Another mistake. Black needs to play Nc6 or Qa7 to stop the tactical flourish that happens on the next move. ",
+        "16. Nxd4": "The combination that I missed the previous move that provides me with a fork on e5. ",
+        "16... exd4 17. e5 Bxe5 18. Qxe5": "I haven't won any pieces, but I have a distinct positional advantage: greater spatial power and an opening up of my light-squared bishop. ",
+        "18... Ng6 19. Qc5 Rdc8 20. Qb6": "The freedom of extra space I was given after the tactical combination has culminated in an irresistible pressure. ",
+        "20... Ne7 21. Qxa6 Rfd8 22. Qb6 Rcb8 23. Qc5 Rde8 24. Bf4": "The key piece to follow up the attack. Black has to be careful about his center after Be5, and even his kingside with tactics possible on h6. ",
+        "24... Rbc8 25. Be5 bxc4 26. Nxc4": "The knight is quite powerful here, vying for d6 and b6. ",
+        "26... Nfd5": "Black saw the attack on b6, but not on d6. Bishop takes knight was absolutely necessary. ",
+        "27. Nd6 Rcb8 28. Nxe8 Rb5 29. Qxd4 f6 30. Bxf6": "An interesting tactic can ensure with knight takes bishop or pawn takes bishop, with an eventual fork of the queen and king by my knight. ",
+        "30... Nxf6 31. Qxd7 Bxd7 32. Nxf6+ gxf6 33. Rxe7 Bf5": "Lesson of the game: always check the board for tactical tricks, even for ones that are not so obvious.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/a-tactical-breakthrough-in-the-center-leads-to-a-positional-advantage?gm=52943",
+    "gameName": "A tactical breakthrough in the center leads to a positional advantage.",
+    "players": "klacsanzky (1658) vs. trouble25 (1770)",
+    "opening": "Reti (A07), King's Indian attack (Barcza system)"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nThis is a game to illustrate that Knights on the Rim can be dim!  Adam, a former Expert, could not resist a little bit of pawn grabbing, a sin I have sometimes been guilty of when I have done this against, Freddy the Master Mater and paid with my king!  Adam was a little more fortunate, his knight ended up getting coralled on the rim.  Adam had a potentially decisive kingside pawn majority.  I was taking no chances and so Henry did a royal progress up the chessboard and forced Adam to exchange pawns.  Adam was then left with a side pawn which Fou Lenoir captured and the game ended as a draw with neither players having sufficient material.  Computer Analysis for this game has been done so you can pick up my game in my past games profile and follow the game that way.  Black responds 1..... e6 to my e4 and so this becomes the French Defense.",
+        "1... e6 2. d4 d5 3. exd5 exd5": "3. ..... exd5 - this pawn trade gives this the Exchange Variation of the French Defense.",
+        "4. Nf3 Bd6 5. c4 dxc4 6. Bxc4": "6. Bxc4 - smooth development so far.",
+        "6... Nf6 7. O-O O-O": "7. ..... 0-0 - both sides tuck their respective kings on the kingside and now need to get their queenside pieces out.",
+        "8. Nc3 Bg4 9. h3 Bh5 10. g4": "10. g4 - this is recommended in the World DB but it does leave Henry a little draughty.",
+        "10... Bg6 11. Ne5 c6 12. f4": "12. f4 - the beginnings of a pawn storm which does not quite materialise.",
+        "12... b5 13. Bb3 b4 14. f5": "14. f5 - this pawn move triggers off several trades.",
+        "14... Bxf5 15. Rxf5 bxc3 16. bxc3 Bxe5 17. Rxe5": "17. Rxe5 - I chose this recapture rather than dxe5 because I wanted to control the e column.",
+        "17... Nbd7 18. Re2 Qc7": "18. ...... Qc7, here comes the Wicked Witch of the West, ssss - she is threatening Qg3+.  My queen, Glenda The Defender moves one square to e1 to defend against this.  ",
+        "19. Qe1 Rae8 20. Rxe8 Rxe8 21. Qf2": "21. Qf2 - Glenda maintains control of g3 and gives a foothold for a rook to come to e1 and contest the e column.",
+        "21... Nf8 22. Bb2": "22. Bb2 - Fou Lenoir finally emerges to defend the backward c3 pawn but to open a line for my rook to come to e1.",
+        "22... Ng6 23. Re1 Rxe1+ 24. Qxe1": "24. Qxe1 - the rooks have been traded off but it is difficult to see which player has the edge here.",
+        "24... Nf4 25. Qe3": "25. Qe3 - preventing Nd3.",
+        "25... h5 26. Bc1 Nf6d5 27. Bxd5 Nxd5": "27. ...... Nxd5 - B for N trade.  It will be interesting to see just which piece is better.  Meanwhile, Glenda decided to remind the BK that she is very interested in him when she is not tied down to defending - poor put upon Glenda!",
+        "28. Qe8+ Kh7 29. Qe4+ g6 30. Qf3": "30. Qf3 - I would have liked to have opened up the Bk with gxh5 here but unfortunately the Wicked Witch can land on g3 with a very nasty check mentioned in an earlier note.  So Glenda must defend it, sigh!",
+        "30... hxg4 31. hxg4 Kg8 32. c4 Nb6 33. c5 Nd5 34. Kf2": "34. Kf2 - Henry decided to move to give Glenda a foothold on the e column.  Now the Witch gives a series of checks.",
+        "34... Qh2+ 35. Qg2 Qh4+ 36. Kf1 Qf6+ 37. Qf2": "37. Qf2 - after this little Royal merry-go round I offer a draw and Adam declines.  It seemed as though he had a winning plan, but ....",
+        "37... Qxf2+ 38. Kxf2 Nb4 39. Kf3 Nxa2 40. Bd2": "40. Bd2! ..... yes, but look at Fou Lenoir!  It seemed as though I had blundered a pawn because Henry had to move out of the way to avoid losing Fou Lenoir in a knight fork and therefore the a pawn fell, but as you can see - at a price!  Fou Lenoir coralls the knight!",
+        "40... Kf8 41. Ke4 Ke7 42. d5": "42. d5 - I decided to obtain a passer here but was it the right plan?",
+        "42... f5+ 43. gxf5 cxd5+ 44. Kxd5 gxf5": "44. .... gxf5 - I did get a passer but, alas, so did black!",
+        "45. Ke5 Kd7 46. Kxf5 Kc6": "46. ...... Kc6 - my prized passer is about to fall but if K x P immediately, Fou Lenoir will skewer the BK against that pawn.  The result will be a draw on the grounds of insufficient mating force.  That was exactly what happened and Adam and I had to manually agree a draw on move 49.  A pleasing result for me as it was a High Draw - my current form is very erratic but the more of these kind of results I get, the more likely my rating may upsurge again should I be at the top of my game!",
+        "47. Ke4 Kxc5 48. Be3+ Kc4 49. Bxa7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/coralled?gm=35187",
+    "gameName": "Coralled!",
+    "players": "jstevens1 (1823) vs. adamraoof (1975)",
+    "opening": "French (C01), exchange, Svenonius variation"
+}

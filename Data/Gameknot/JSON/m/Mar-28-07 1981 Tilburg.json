@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3": "i think that by the move 4.a3 white preparing Nc3 with out the possibility of pin by Bb4 in the future , and the idea is to large White's center control  by e4 square",
+        "4... Bb7 5. Nc3 Ne4 6. Nxe4 Bxe4 7. Nd2 Bg6": "i think it was better for black to play 7...Bg7 because of the  the long diagonal a8-h8 .  by the chess theory book , when the bishops have long diagonal there position is very strong .",
+        "8. g3 Nc6 9. e3": "kasparov didn't want to close h1-a8 diagonal for he's bishop ,and by the move 9.e3 white defends the pawn on d4 and , the knight on d2 controlling the light squares by avoiding Be4 for example , this is not usual style for Kasparov , kasparov was known by hes aggressive and complected style as like Bobby Fischer RIP , M.Tal RIP, Dr Alekhine RIP. However, it doesn't mean that their positional game was poor, their positional game was great as there tactical style .",
+        "9... a6 10. b4": " now white got more space control on the queen side , preraring to develop he's DSB on the long diagonal a1-h6 , whites pisece playced very well its total advantange for white .",
+        "10... b5": "black wishes to sucrifies apwn to get any kind of contra play for example 10...b5.11.cxb-axb.12.Bxb5-Nxb4....., but kasparov had other ideas .",
+        "11. cxb5 axb5 12. Bb2": "white keeping  he's development and doesnt hurry to take material , but with the move 12.Bb2! ,13.Bxb5-Nxb4 is not availbele because of the protection on the white rook on a1 by  the Bishop on b2 and the Queen on d1 for example: 12...Be7?!.13.Bxb5-Nxb4?.14.axb4-Rxa1.15.Qxb1.....",
+        "12... Na7 13. h4": "the weak position of the bishop on g6 is great chance to start attacking it by advancing it pawns forward on the king side ",
+        "13... h6 14. d5": "White scarifies pawn for opening a1-h8 diagonal for he's DSB on b2 and keeping black from developing he's Pisces , and preparing strong attack on the blacks king side, 14.Bg2 was also good alternative. another idea of d5 is to cut of the black knight from participating the game .",
+        "14... exd5 15. Bg2 c6 16. O-O": "Before attacking blacks king which stuck on the center white caste-ling first, for safety of he's king which is one of the most important elements of the game , now he can focus on the black king .",
+        "16... f6": "black must some how develop he's pieces, but now he' made some weaknesses on he's king side which will be harmful in the future.",
+        "17. Re1 Be7 18. Qg4": "Good move ,  the white Queen attacks the bishop on g6 and force the black lose he's right to castel becaus of , any retreet of the Bishop will cause material lose for example : if 18....Bf7 19.Qxg7-Rg8.20.Qxh6 and black collaps , if 18....Bd3.19.Qxg7-Rf8.20.Qxh6.... and last , 18...Bh7?.19.Qxg7-Rf8.20.Qxh7 and black lose he's bishop and the all game. there for 18...Kf7 is forced .",
+        "18... Kf7 19. h5 Bh7 20. e4 dxe4 21. Bxe4": "White continue to attack the light weak squars .",
+        "21... Bxe4 22. Nxe4 Nc8 23. Rad1": "Another Pisces join to the attack. due whites center control kasparov can afford he's Rook to maneuver to the king side by Rad1-Rd4-Rg4.",
+        "23... Ra7 24. Nxf6": "Wonderful , Kasparov scarifies he's knight , for very hard mate attack on the black king ",
+        "24... gxf6": "maybe 24...Bxf6 was better move but after 25.Qg6+-Kf8.26.Bxf6-gxf6 .27. Re6... , black in very bad position.",
+        "25. Qg6+ Kf8 26. Bc1 d5 27. Rd4": "with the the idea of Rg4. the pawn on h6 will not escape .",
+        "27... Nd6 28. Rg4 Nf7 29. Bxh6+ Ke8": "Black cant  capture the bishop on h6 because of :29...Rxh6.30.Qg8# and if 29...Nxh6.30.Qg7+......",
+        "30. Bg7": "and black resigns ...because after 30.....Rg8.31.Qxf6  and for the reason that slowly but surely white take back he's material. and whit has free pawn h which can go to the end and can be crowned . thank you ."
+    },
+    "url": "https://gameknot.com/annotation.pl/mar-28-07-1981-tilburg?gm=45497",
+    "gameName": " Mar-28-07 1981 Tilburg ",
+    "players": "Garry Kasparov   vs. Ulf Andersson  ",
+    "opening": "Queen's Indian (E12), Petrosian system"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. c4": "i am not sure the name of this opening but i think its kinda slow.",
+        "1... e5": "ill take the center then.",
+        "2. e4": "i think he is trying to transpose into a nice game.",
+        "2... Nf6": "i do not mind",
+        "3. Nc3": "i would have moved d6 maybe but theh again thats 3 pawns in a row.",
+        "3... c6": "stopping the knight from advancing",
+        "4. d3": "there we go",
+        "4... Bb4 5. Bd2": "the usaul answer",
+        "5... Na6 6. Nf3 O-O 7. Be2 d6 8. O-O": "same side castleing, if i were white i would have tried to castle queen case if his attack fails my defense can over power him.",
+        "8... Be6 9. Ng5 Bc5": "i hoped he would take the bad bishop so i could open my rook",
+        "10. Nxe6 fxe6": "thank you for obliging",
+        "11. Bg5": "no biggie she will move",
+        "11... Qb6 12. b3 Nd7": "opening the rooks road to victory",
+        "13. Bh4 Rf4": "nice guarding but the rook has many ideas",
+        "14. Na4": "pushing the queen out",
+        "14... Qb4 15. g3": "messing up his castled position.",
+        "15... Rf7": "leaving space to double up",
+        "16. Bg4 Nc7": "i do not want to lose the e6 pawn.",
+        "17. Bh5 g6": "i do not want to lose my rook either",
+        "18. Bg4 Raf8": "finally.",
+        "19. Qe2 Bd4": "i probably should have just took the pawn now but i wanted to be sure about it",
+        "20. Rac1 Nf6": "hoping to push a bishop off the board",
+        "21. Bxf6 Rf7xf6": "now i better take that pawn soon",
+        "22. Bh3 Rf6xf2": "i win the exchange here.",
+        "23. Rxf2 Rxf2": "leaving the discovered check as an idea that leaves me with atleast a rook to the exchange or a knight and 2 pawns.\r\n\r\nhe resigned after this move."
+    },
+    "url": "https://gameknot.com/annotation.pl/rematch-from-hce_?gm=16433",
+    "gameName": "Rematch from hce_",
+    "players": "hce_ (1349) vs. just_some_guy (1288)",
+    "opening": "English opening (A20)"
+}

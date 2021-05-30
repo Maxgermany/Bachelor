@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "Atwood ventures a King's Gambit.",
+        "2... exf4": "As a man of honor, Philidor accepts.",
+        "3. Nf3": "A sure way to prevent a Black counterattack of ...Q-R5 ch, always a danger in the King's Gambit.",
+        "3... g5": "Philidor supports the advanced Pawn.",
+        "4. Bc4": "Naturally, Atwood goes after the weakness at KB7.",
+        "4... g4": "Philidor counterattacks with verve.",
+        "5. d4": "Opening more attacking lines...",
+        "5... gxf3": "...but sacrificing a whole piece.",
+        "6. Qxf3": "Bringing out the heavy artillery.",
+        "6... Nc6": "Philidor hastens to begin his own development and consolidate his position.",
+        "7. c3": "Securely guarding the QP.",
+        "7... Qf6": "Adding a defender to the KB2 square.",
+        "8. e5": "Thrusting forward in the center.",
+        "8... Qxe5+": "Countering with a check.",
+        "9. Kd1": "I must be missing something here. Why is 9 PxQ a bad move? I can't imagine Atwood overlooking it, or Philidor missing it when he played his previous move.",
+        "9... Qf6": "Having forced Atwood's King to move, the Queen retreats.",
+        "10. Re1+": "Down a piece and a Pawn, Atwood must attack.",
+        "10... Be7": "Philidor cuts him off at the pass.",
+        "11. Bxf4": "Winning back the Pawn.",
+        "11... d6": "Enabling the QB to move folowed by O-O-O. With his attack gone and down a piece without compensation, Atwood resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/london-tournament-1795?gm=37509",
+    "gameName": "London Tournament, 1795",
+    "players": "George Atwood  vs. Francois-Andre Philidor ",
+    "opening": "KGA (C37), Ghulam Kassim gambit"
+}

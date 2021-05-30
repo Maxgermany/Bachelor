@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. Nc3 g6 6. exd6 cxd6 7. Bb5+": "Black has gotten himself into a forced variation of the Alekhine defense: things are not going well...",
+        "7... Bd7 8. a4 a5 9. O-O Bg7 10. Re1 O-O 11. d5": "stronger than Bg5, Re8, Qd2, Bxb5, Nxb5...",
+        "11... Bxb5": "better Re8, Nd4, Bxb5...",
+        "12. Nxb5 Nb8d7 13. Bg5 Nf6": "pretty much forced: Bf6, b3, and after Ne5, Nxe5, Bxe5, f4...",
+        "14. Bxf6 Bxf6 15. Ra2 Nd7 16. b3 Nc5 17. c3 Na6 18. Rae2 Nc7 19. Nxc7 Qxc7 20. c4 Rfe8 21. Qd3 Rad8 22. Nd2 Be5 23. Ne4 Bg7": "not the very best, after all: better e6, dxe6, Rxe6, Ng5, Re7, f4, Bf6...",
+        "24. Qf3 e5 25. dxe6 e.p. Rxe6 26. Nf6+": "the winning move: White wins a quality...",
+        "26... Bxf6 27. Re2xe6 Be5": "forced: after fxe6, Qxf6, White is winning after e5, Rd1...",
+        "28. Rf6": "at this point, we were already a full month in the game, after various postponements: not uncommon amongst weaker players; it took another postponement of 14 full days, to let Black finally time out..."
+    },
+    "url": "https://gameknot.com/annotation.pl/fierce-queen-on-a-long-haul?gm=63942",
+    "gameName": "Fierce Queen on a long haul...",
+    "players": "fiercequeen (2070) vs. rennstahl (1879)",
+    "opening": "Alekhine's defence (B03)"
+}

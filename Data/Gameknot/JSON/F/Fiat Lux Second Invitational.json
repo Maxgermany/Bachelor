@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Vienna game.",
+        "2... Nf6": "Falkbeer variation.",
+        "3. Nf3 Nc6": "Now it looks like a four knights game.",
+        "4. g3 Bc5 5. Bg2": "The Fianchetto of the bishop, foreshadowed by g3.",
+        "5... d5 6. exd5 Nxd5 7. O-O O-O": "Everyone castles.  White's fortification looks more impressive, but whether that is just a facade remains to be seen.",
+        "8. d3": "White opens the bishop diagonal.  Black has three pieces deployed and dominates the center, whereas white's fianchettoed bishop is kind of buried.  The f knight lacks range of motion.  The pawn move seems like it could have been delayed--trading knights would prevent white's pawns from being doubled while drawing the black queen into the field early.",
+        "8... Nxc3 9. bxc3 Bg4 10. h3 Bh5 11. Qe1 f6 12. Rb1": "Honestly, I'm unsure of the point of this move. ",
+        "12... Rb8": "Black mimics again.  But for black this move seems to make more sense, getting the rook off the diagonal remotely threatened by white's fianchettoed bishop.",
+        "13. Qe2": "White immobilizes Nf3.  Honestly, no outlines of any plan seem yet formed.",
+        "13... Qd6 14. g4 Bf7 15. c4 Nd4": "White eyes b7, unleashing the fianchettoed bishop with a knight exchange.",
+        "16. Nxd4 Bxd4": "Free pawn, maybe.",
+        "17. Bxb7 Qd7": "Black is going to put a lot of pressure on Bb7.  But white can delay and get the rooks defending each other first.",
+        "18. Be3 Bxe3": "The bishop trade exposes the undefended a pawns.",
+        "19. Qxe3 c6 20. Qxa7 Rba8": "White cannot save a2...",
+        "21. Qc5": "...but c6 is vulnerable.",
+        "21... Rxa2 22. Bxc6 Qc8": "Black pins the bishop.  But white sees the bishop is salvageable--the real threat now is on c2.",
+        "23. Rfc1 Be8": "Now the bishop must be rescued.",
+        "24. Bd5+": "Black has to interpose the bishop or lose the queen.  Up two all even trades now favor white.",
+        "24... Bf7 25. Bxf7+": "Again, Rxf7 sacrifices the queen.  The black king exits the castle instead.",
+        "25... Kxf7 26. Qd5+": "Rb7 is defended by the white queen.  The next moves will be critical.",
+        "26... Qe6": "Blunder.  The reason is that Rb7 drives off the black queen's defense.",
+        "27. Rb7+ Kg6 28. Qxe6 Raa8 29. Qf5+": "I was in the hospital these moves, and so programmed this sequence in.  Instead of mentioning that in chat I accidentally wrote it in the notes, where my opponent couldn't see it.  But always always program force mates.  That should simply go without saying.",
+        "29... Kh6 30. Qh5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fiat-lux-second-invitational?gm=68352",
+    "gameName": "Fiat Lux Second Invitational",
+    "players": "lord_shiva (1806) vs. americanhorse (1359)",
+    "opening": "Vienna (C26), Falkbeer variation"
+}

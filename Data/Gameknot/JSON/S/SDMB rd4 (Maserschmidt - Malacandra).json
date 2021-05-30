@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 d6 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. d3 O-O 6. Nge2 e5 7. h3 Be6 8. O-O Qd7 9. Kh2 Nc6 10. Be3 Ne7 11. Qd2 c6 12. Bh6 Ne8 13. Bxg7 Nxg7": "At this point I figured my Knights would be more than enough to cover any weaknesses on the dark squares and in the pawn position.",
+        "14. f4 f5 15. fxe5 dxe5 16. exf5 gxf5": "For although my f and e pawns lack the protection of any other pawns, they help to crowd out the White pieces, and they aren't too hard to support.",
+        "17. Qe3 Ng6 18. Rae1 Qc7 19. Qc5 Qb6 20. Qxb6 axb6 21. a3 Ra5": "I figured there might be some future in using the Rook to defend the pawns along the rank, while keeping tabs on White's queenside, and with the possibility in future of the Rook swinging in behind the advancing K-side pawns.",
+        "22. Ng1 Bd7 23. Nf3 h6": "And here I thought I might as well shut down another square for White's knight.",
+        "24. Nb1 Re8 25. Nbd2 b5": "I couldn't allow Nc4. But this means my Rook will have to find a more active square.",
+        "26. Nb3 Ra7 27. Rf2 Kf7": "Having no other piece to spare to defend the centre, I took a leaf out of Steinitz's book, reasoning the White pieces aren't well placed for an immediate attack on my wandering King. He ended up not needing to go to f6, though.",
+        "28. h4 b6": "Gradually taking over more space on the Q-side, and aiming to leave nothing for the White Bishop to go at.",
+        "29. Bh3 Raa8 30. Nfd2 Kg8 31. Rfe2 Re7 32. Rf1 Rf8": "I've recovered enough time to get my QR over behind the pawns, and now there's no threat to them in the near future.",
+        "33. Ref2 Ref7 34. Nc1 Be6 35. Bg2 Bd7 36. Na2 f4": "Thinking I was winning a pawn. White's been passively woodpushing ever since I offered a draw just after the Queen exchange, and his Knights are on such inoffensive squares I thought it was time for a little tactic.",
+        "37. gxf4 Nxh4 38. Be4 Rf7xf4 39. Rf2xf4 Rxf4 40. Rxf4 exf4 41. Nb4": "Ouch. There's no good defence for the poor c6 pawn (41. ... c5; 42. Nd5 and the b6 pawn goes), and meanwhile my h4 Knight is short of squares.",
+        "41... Nhf5 42. Nxc6 Kf7 43. Nf3 Kf6 44. c3 Ne3": "But White's pawns are vulnerable to a Knight.",
+        "45. Nb4 Ngf5": "No point rushing in with 36. ... Nd1+, when I have to fear Nd5+ and the loss of my f-pawn.",
+        "46. d4 Nd6": "But now I can threaten another fork...",
+        "47. Nd5+ Nxd5 48. Bxd5 Nc4": "If White takes on c4, I undouble my pawns, and I like the ending better with a Bishop against a Knight with pawns on both wings.",
+        "49. b3": "Apparently White agrees with me, to the tune of preferring to give up a pawn.",
+        "49... Nxa3 50. Ne5 Be6 51. Bxe6 Kxe6": "Again, I think the ending favours me with wide-spread pawns and a much better placed King.",
+        "52. Kg2 Nb1 53. c4 Nd2": "Rather than taking on c4 and leaving White with two connected pawns.",
+        "54. cxb5 Nxb3 55. Kf3": "Here I could win both White's pawns, but after 55. ... Nxd4+; 56. Kxf4, Nxb5; 57. Nc4 and there is nothing to be done to save the pawn on b6. Knights are notoriously bad at stopping passed Rook's pawns, but I don't have enough theory to know if K + N + hP beats K + N, and I suspected it probably didn't.",
+        "55... Kf5 56. Nc6 Nd2+ 57. Ke2 Nc4 58. Kf3 Nd6": "Now White can only hold onto his b-pawn at the price of condemning his Knight to a miserable square.",
+        "59. Ne7+ Kg5 60. d5": "So he lets the b-pawn go and hopes to create some chances based on his passed d-pawn.",
+        "60... Nxb5 61. Nc8 Nd4+ 62. Ke4": "Here I think White's King should have gone to f2, and as far as I can tell the win is extremely difficult if it exists at all.",
+        "62... f3 63. Ke3": "White saw that he couldn't take the Knight - and I, that I needed to keep my f-pawn.",
+        "63... Kg4 64. d6 Kg3": "Threatening to push the f-pawn again, but it's a balancing act: soon my Knight will be completely tied to defence.",
+        "65. d7 Ne6 66. Nd6 Kg2 67. Ne4": "White resigned here without waiting for my reply. I still have to tread carefully as after 67. ... h5; 68. Ng5, f2; 69. Nxe6, f1(Q); 70. d8(Q), Qe1+; 71. any, Qxe6; I'm in a difficult Queen ending with my King far from my pawns. True, I have an outright win if I can exchange Queens soon as the White King can't possibly stop both my remaining pawns, but I don't get much practice at Queen endings! However, after 67. ... Nd8 I think I'm pretty much bulletproof - it's only a matter of time before the Knight has to go to f2 (or f1, depending) to hold the f- and h-pawns, and then White's got nothing left to stop the b-pawn. A hard fight!"
+    },
+    "url": "https://gameknot.com/annotation.pl/sdmb-rd4-maserschmidt-malacandra?gm=32590",
+    "gameName": "SDMB rd4 (Maserschmidt - Malacandra)",
+    "players": "maserschmidt (1554) vs. gil-gandel (1649)",
+    "opening": "Pirc defence (B07)"
+}

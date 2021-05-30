@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "Another one of my fast losses, with a beautiful mate ending. This is another case of \"Better castle in time!\"",
+        "1... d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bf4 g5": "This does not seem necessary, only weakens the black king side's light squares.",
+        "7. Bg3 Nh5": "Then, to chase this bishop instead of developing my pieces was not the right strategy.",
+        "8. O-O-O Nd7 9. Nge2 c5 10. dxc5 Nxc5 11. h4": "Now he goes for my king.",
+        "11... g4 12. Bh2 Qb6 13. Nd4 Ne6": "?\r\nThis move neglects the weakness of the light squares in black's camp.\r\n13...Bd7 and 14...0-0-0 was the necessary thing to do.",
+        "14. Nf5 Nc7 15. Nxg7+": "Black loses his well placed black bishop.",
+        "15... Nxg7": "A knight on g7... how awkward!",
+        "16. e5": "!\r\nThe lines are going to open up and it is too late for black to do anything about it.",
+        "16... Bf5 17. exd6 Rd8 18. Qe1": "The bishop on h2 controls the square d6 and the e7-pawn is pinned against the black king. The black position is pathetic.",
+        "18... Nce6": "Tries to block the e-file, but the white attack is rolling.",
+        "19. Bb5+ Kf8 20. Nd5": "!\r\nGives the bishop for the final hit.",
+        "20... Qxb5 21. dxe7+ Kg8 22. Nf6#": "Very beautiful checkmate pattern."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=7001",
+    "gameName": "Team match",
+    "players": "goudysans (1633) vs. brulla (1728)",
+    "opening": "Pirc (B07), Byrne variation"
+}

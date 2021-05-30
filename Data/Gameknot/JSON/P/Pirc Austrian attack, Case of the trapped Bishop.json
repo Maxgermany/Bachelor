@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6": "Pirc.  That is pronounce (Perts or Peerts) not (Perk)",
+        "3. Nc3 g6 4. f4": "Austrian Attack",
+        "4... Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5 Bg4 9. Bc4 Nc7": "Standard book moves",
+        "10. h3 Bxf3 11. Qxf3 Nd7": "I believe this is a book move as well.",
+        "12. a4": "book:?",
+        "12... a6 13. Qd3 Rb8": "?! bad move on my part.  Better was b6!",
+        "14. Be3 Qc8 15. a5": "? ",
+        "15... b5": "?! I don't know if this was good or bad but it worked out well for me.",
+        "16. Ba2": "?",
+        "16... Qb7 17. f5": "?",
+        "17... Ne5": "!",
+        "18. Qe2 Rbe8": "some what of a useless move",
+        "19. fxg6 hxg6 20. Bf4 Nd7 21. Rae1 Nf6 22. e5 Nfxd5": "!",
+        "23. Qe4 c4": "!",
+        "24. exd6": "?",
+        "24... exd6 25. Qf3": "!",
+        "25... Bxc3": "  !!",
+        "26. bxc3": "Now the light square bishop is stuck!",
+        "26... Qa7+": "getting out of the pin!",
+        "27. Kh2 Rxe1 28. Rxe1 Nxf4 29. Qxf4 Qc5 30. Re3": "??",
+        "30... Nd5": "white resigned"
+    },
+    "url": "https://gameknot.com/annotation.pl/pirc-austrian-attack-case-of-the-trapped-bishop?gm=20838",
+    "gameName": "Pirc: Austrian attack,  Case of the trapped Bishop",
+    "players": "dutchdabbler (1638) vs. freeman8201 (1711)",
+    "opening": "Pirc (B09), Austrian attack, 6.Bd3"
+}

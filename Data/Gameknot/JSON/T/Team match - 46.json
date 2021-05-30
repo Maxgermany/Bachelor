@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "Winning a game of chess is alway's brings a nice feeling. However winning for your team is a different kind of satisfaction. \nIt's been said chess notation is required. I ask why ?? For the sake of conformity I'll try at a later date.",
+        "1... c5 2. Nf3 g6 3. Bc4 Bg7 4. c3 e6 5. O-O Ne7 6. d4": "d4 looking to negate the dark squared bishop. ",
+        "6... d5": "Had a feeling he'd respond with this.",
+        "7. exd5 exd5 8. Bb5+ Nbc6 9. Re1 O-O 10. Be3": "Two things, protect d4. That dark squared bishop ! dxc5 not interested !",
+        "10... c4": "Looking at my white bishop ! Exit on the way.",
+        "11. Qd2 a6 12. Ba4 Bf5 13. Bh6": "My opponent not moving the stationary Bf5, helps my cause.",
+        "13... b5 14. Bxg7 Kxg7 15. Bc2": "Now it's a knights battle, game on !!",
+        "15... a5 16. Bxf5 Nxf5 17. Ng5 Ra7 18. Qf4 Re7 19. Nd2 Qc7 20. Qxc7": "Qxc7 allows me to battle for the opening file. Although time can be lost doing so. Could other attacks begin around the rooks an the KING.",
+        "20... Rxc7 21. a3 a4 22. Ngf3 h6 23. Re2 g5 24. h3 Nce7 25. Rae1 Ng6 26. g3 h5": "h5 ?? Mistake, easily done, done so myself in far to many games. Perhaps he's looking at h5, g4, who knows.",
+        "27. Nxg5": "Knxg5 f6, Ne6 !! Too obvious for my opponent.",
+        "27... h4 28. g4 Nd6 29. Ndf3 Nf4 30. Re2e7 Rxe7 31. Rxe7 Ng6 32. Rd7 Ne8 33. Ne6+ Kg8 34. Nxf8 Kxf8 35. Rxd5 Nf6 36. Rxb5 Ne4 37. Rb4 Nf4 38. Nxh4 Nxh3+ 39. Kg2 Nhxf2 40. Nf5 Nxg4 41. Rb8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=63753",
+    "gameName": "Team match",
+    "players": "bogota (1563) vs. rippster (1541)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

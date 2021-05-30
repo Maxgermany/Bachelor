@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Standard Ruy Lopez",
+        "3... a6 4. Bxc6 dxc6": "Exchange variation. It is quite good OTB (over the board) as black can generate lots of threats",
+        "5. O-O Bg4 6. h3": "What is black's next move?",
+        "6... h5": "did you guess h5? Guys, why cant he just take the knight? Think about it before looking at the next moves? ......................7. hxg4 hxg4 the knight is en prise. So where does it go? 8. Nh2 Qh4!! Threatening mate if the knight moves or stays put. 9. f3 to escape g3! ouch!!!",
+        "7. d3 Qf6": "Ganging up on the knight. We have already ascertained he cant take it.",
+        "8. Nbd2 Bc5": "I usually play 8.......Ne7 to go to g6 and then f4, but this looked inviting",
+        "9. b3": "Never seen this move before. Obviously he wants to get his bishop active.",
+        "9... Bd4 10. Rb1 Ne7 11. Qe1 Bc3": "I like pins.",
+        "12. Nh2": "He is preparing to take on g4, shall I move it or leave it.",
+        "12... Ng6": "Never any question. I am always up for the scrap",
+        "13. hxg4": "He's took it!",
+        "13... hxg4 14. f3": "This is wrong. It allows me the check on d4",
+        "14... Bd4+": "Has to block with rook",
+        "15. Kh1": "????????????????????? and so we reach the position I have set. what happened next?"
+    },
+    "url": "https://gameknot.com/annotation.pl/round-6?gm=51463",
+    "gameName": "Round 6",
+    "players": "another  vs. Jim friar ",
+    "opening": "Ruy Lopez (C69), exchange variation, Alapin gambit"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. f4 e5 2. fxe5": "Mi segunda partida con Kriti, la primera desastrozamente perdida, en un torneo con apertura obligada.",
+        "2... Nc6": "Suele jugarse, tambi\u00e9n d6.",
+        "3. Nf3 g5 4. d4 g4 5. Ng5": "Amenazo jugar Ce4, con interesante dominio central, la pr\u00f3xima jugada es casi obligada",
+        "5... d5 6. e4 Be7 7. Nxf7": "Otra opci\u00f3n, que ni consider\u00e9, ya que le ten\u00eda fe a este sacrificio, es exd5",
+        "7... Kxf7 8. Bb5": "libero la columna f para mi torre",
+        "8... h5 9. O-O+ Kg7": "Tiempo de estudiar el sacrificio, el rey negro est\u00e1 inseguro, pero la falta de desarrollo blanco, y lo endeble del centro (la amenaza es tomar el pe\u00f3n e, exponiendo el d\u00e9bil d4) no compensan la inseguridad real. Las negras est\u00e1n claramente mejor",
+        "10. c3": "Obligado, por la amenaza anteriormente predicha",
+        "10... Nh6 11. Nd2 Be6 12. exd5 Bxd5 13. Qc2": "Era mejor a e2, pero, tocar el punto g6 es una sensaci\u00f3n atrayente",
+        "13... Bxg2": "Lindo sacrificio que simplifica la posici\u00f3n, pero permite centralizar mi dama. Las negras luego de esto, ceden la iniciativa, aunque siguen teniendo mejor juego",
+        "14. Kxg2 Qd5+ 15. Qe4 Qxb5 16. c4": "Esta jugada tiene el simple motivo de despejar la gran diagonal negra, activando mi alfil y amenazando bajo rayos X",
+        "16... Qa6 17. b3 Raf8 18. Bb2": "Ac\u00e1 cre\u00eda estar mejor, pero no v\u00ed Da5, desviando mi dama de f5, que permite activar el caballo de h6.",
+        "18... Nd8 19. e6": "Esta jugada tiene el simple objetivo de cerrar el paso de la dama negra a g6. Creo que d5 hubiese sido efectiva.",
+        "19... Ng8": "El rey negro se ve acosado por las piezas blancas, cambi\u00e9 las torres en f8 para dar el descubierto con d5+ si toma de alfil. Hab\u00eda calculado a 20 Txf8 Axf8  21 d5+ Cf6 22 e7",
+        "20. Rxf8 Kxf8 21. Rf1+ Kg7": "Obviamente a esta casilla, es gratificante para m\u00ed observar que el rey no puede ir a e8 por el jaque de dama en g6, posibilitado gracias a la jugada 19",
+        "22. d5+ Nf6 23. Qf4": "Cedo la casilla e4 para el caballo, y con la dama busco la casilla g5, todas mis piezas atacan, mientras la dama en a6 est\u00e1 extraviada",
+        "23... Rh6": "A Dxa2, atacando el alfil indefenso, sigue Dg5+.",
+        "24. Ne4 Nxe6": "el negro devuelve la pieza para activar la dama. Interesante jugada, que no tuve en cuenta que la aceptaci\u00f3n inmediata del caballo conduce a un final con un pe\u00f3n m\u00e1s de las negras. Si el caballo no se toma, controla las casillas c7 y g5.",
+        "25. Qe5": "Luego de meditar minutos frente a la pc, encontr\u00e9 esta jugada tan simple como eficaz, teniendo en cuenta que ahora queda amenazado el alfil en e7 y con eso, el caballo clavado en e6, am\u00e9n del ya clavado en f6. Y la dama negra sigue sin actuar sobre el punto f6",
+        "25... Ba3 26. Nxf6 Bxb2 27. Ne8+ Kg8 28. Qxb2": "Recuper\u00e9 la pieza, y se equilibro el material, pero la amenaza latente del mate en g7 gana el caballo atacado. ",
+        "28... Rg6 29. Nf6+ Kf7 30. dxe6+ Qxe6 31. Nxh5+ Ke8": "Al comer el pe\u00f3n, solo hab\u00eda tenido en cuenta Rg8 como respuesta, y pensaba colocar mi caballo en g3. Frente a esta respuesta, probablemente el retorno a campo en g3 sea lo m\u00e1s eficaz, como demuestro en la pr\u00f3xima jugada. Claro est\u00e1 que el doble con Cf4 no sirve ante De4+ o Dc6+",
+        "32. Ng7+": "Ganando calidad, quedando con torre de ventaja. Hay que tener en cuenta los jaques de dama sobre el rey blanco luego de 32 .... Txg7 33 Dxg7 De4+ 34 Rg3 Dd3+ conduce a tablas. As\u00ed mismo 34 Rf2 Df3+ 35 Re1 De3 pero 35 Rg1 De3+ 36 Tf2, no es f\u00e1cil ver como se escapa el rey blanco, creo que mi oponente debi\u00f3 continuar con la partida"
+    },
+    "url": "https://gameknot.com/annotation.pl/concordborns-mini-tournament-ii?gm=30190",
+    "gameName": "concordborn's mini-tournament II",
+    "players": "chizzo83 (1721) vs. kriti (1792)",
+    "opening": "Bird (A02), From gambit, Lasker variation"
+}

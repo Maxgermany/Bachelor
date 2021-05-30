@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 Nf6": "1. ........ Nf6 - the Alekhine's Defense.  The purpose of this is to attack the e pawn from the outset and develop a piece.  The usual move for white is to then advance the e pawn to e5 and back it up next move with d4 which is what I do.",
+        "2. e5 Nd5 3. d4 d6": "3. ......  d6 - hits out at e pawn and opens diagonal for c8 bishop.",
+        "4. Nf3": "4. Nf3 - develops a piece and defends both d and e pawns.",
+        "4... g6": "4. ........ g6 - prepares to fianchetto king bishop - the bishop will put pressure on d4 and e5 when it gets to g7 which Freddy plays on move 6.",
+        "5. Bc4": "5. Bc4 - develops a piece and attacks the d4 knight moving it from its lofty outpost to b6 which attacks the bishop which retreats to b3.",
+        "5... Nb6 6. Bb3 Bg7 7. a4": "7. a4 - a book move still which creates an escape square for the bishop on b3.  Black counters with a5.",
+        "7... a5 8. Ng5": "8. Ng5 - still book - this hits at f7 which is also attacked by the bishop on b3 - Freddy must do something about this which he does by playing d5 cutting off the line of the white bishop.",
+        "8... d5 9. f4": "9. f4 - additionally supports the pawn on e5.  Black now castles and I follow suite.  Over the next few moves both sides continue their development.  I am careful to develop the bishop first as I want to put my knight on d2 giving f3 some backup and getting a nice solid pawn chain from b2 through to e5 - how ironic that this feature will be my doom in the ending!!!",
+        "9... O-O 10. O-O Nc6 11. c3 h6 12. Nf3 Bg4 13. Be3 e6 14. Nbd2 f5 15. exf6 e.p.": "15. ef ep - is this move the first step towards perdition?  Black recaptures with the queen putting pressure on my f pawn.",
+        "15... Qxf6 16. h3": "16.  h3 - I put the question to his bishop and he takes my knight.  I recapture with my knight.",
+        "16... Bxf3 17. Nxf3 Ne7 18. Ne5": "18. Ne5 - Might as well make some good use of the e5 square!  An outpost for my steed.  Notice that I have some designs on e7 should the b6 knight move to c4 and get exchanged, then Freddy has the possibility of a knight fork to think about.  Freddy retaliates by putting his knight on f5 attacking my dark square bishop which sidesteps to f2.",
+        "18... Nf5 19. Bf2 Ne7 20. Be3 Rad8": "20. ........ Rad6 - Freddy spots the draw by repetition threat (If I draw I will gain 9 rating points - which is why I call an Expert Draw Half-Point Heaven!!) and puts his rook on the same file as my queen.  If your oppo does this to you, consider moving her off it as this may pin your pawns!",
+        "21. Bc2": "21. Bc2 - I consider moving my queen to b1 so I first play my bishop to c2 - reason - I want to pile up on the g6 pawn but Freddy has other ideas and one pair of knights gets exchanged.",
+        "21... Nc4 22. Nxc4 dxc4 23. Qe1": "23. Qe1 - queen moves off the d file and guards h5.  Black now plonks his knight on d5 attacking my queen bishop which is defended by my queen at the moment.  I play my bishop to e4 to put the question to it.  Two moves later I decide to exchange the bishop for the knight - there no pesky knight moves to worry about!!",
+        "23... Nd5 24. Be4 c6 25. Bxd5 exd5 26. Qd2": "26. Qd2 - the queen moves onto the d file because it is blocked.  He moves his rook from the d file onto the e file and I put my queen on f2 to give additional protection to the f pawn.",
+        "26... Rde8 27. Qf2 Re4 28. Rae1 b5 29. axb5 cxb5": "29. ...... c x b5 - the beginnings of a pawn break.  I decide to exchange one pair of rooks as I do not like his rook camped on e4.  However, the pawn break moves ever closer.  In hindsight I should have kept my bishop on e3 or f2 to protect the foremost pawn should the chain be attacked at the base.",
+        "30. Bd2 Rxe1 31. Qxe1 a4 32. Qe5": "32. Qe5?? - an agressive looking move but I think it was the loser because I was trying to invade black's position with my queen and round up his queenside pawns from behind.  I think I should have played my king to h1 as the heavy pieces were still on the board but more importantly I would have gained a vital tempo by being able to back up the e pawn with my queen on f2 without the worry of it being pinned by a bishop check on e4 should that base be undermined.  But Freddy prevents this with Qc6!!!  I make things worse by dropping the queen back to e1 - another wasted move in 20/20 vision hindsight!!",
+        "32... Qc6 33. Qe1 b4": "33. ....... b4 - here it comes, here it comes!!",
+        "34. Qa1": "34. Qa1 - trying to protect e4 x-ray fashion if the pawns are split but it doesn't work.",
+        "34... Qa6 35. Kh2": "35. Kh2 - moving my king out of the line of the coming check on e4.",
+        "35... a3 36. bxa3 Qxa3 37. cxb4 Qxa1 38. Rxa1 Bxd4 39. Rc1": "39. Rc1 - moves out of the bishop attack and tries to blockade the passed c pawn.  The queens have been exchanged as have the outside passed pawns, but now I am lumbered with 2 central ones and am extremely passive.",
+        "39... Bb2 40. Rc2 Bg7 41. Kg3 Rc8 42. Kf3 d4 43. Rc1 c3 44. Be1 d3 45. Ke3": "45. Ke3 - a last ditch swindle trying to exchange my bishop for his 2 passers.  If I can do that then I may have drawing chances, but Freddy kills this idea and the game stone dead with 46. ......... Re8 !!!  This means that I will soon be a whole piece down in the ending and there is still one queenside passer of his left.  I throw in the sponge after 47.  ........ Rd8 .\r\n\r\nMoral of this story.  It is not always the base of the chain that is necessary weak, sometimes the head needs seeing to as well as my opponent may certainly see to it!!!",
+        "45... d2 46. Bxd2 Re8+ 47. Kd3 Rd8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/an-expert-lesson-in-pawn-breaks?gm=13900",
+    "gameName": "An Expert Lesson in Pawn Breaks",
+    "players": "jstevens1 (1558) vs. easy19 (2142)",
+    "opening": "Alekhine's defence (B04), modern, Keres variation"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. b3": "One of my favorite \"quiet\" openings.",
+        "1... e6 2. Bb2 d5 3. Nf3 c5 4. e3 Nf6 5. c4 dxc4 6. Bxc4": "The first skirmish, and now I'm ready to castle.",
+        "6... a6 7. O-O b5 8. Be2 Nc6 9. h3 Bd6 10. d3 O-O 11. Nbd2 Nd5 12. Ne4": "Development is just about finished, as we enter the middle game.",
+        "12... f5 13. Nxd6": "Naturally I remove the B from the dangerous diagonal.",
+        "13... Qxd6 14. Qd2 e5 15. e4 Nde7 16. Qc3 fxe4 17. dxe4": "Creating the first open file.",
+        "17... b4 18. Qc4+ Be6 19. Qc2": "Still not much happening. I defend my bulwark KP.",
+        "19... Nd4 20. Nxd4": "I don't want the Black Knight centralized so beautifully.",
+        "20... cxd4 21. Bd3": "Blockading the passed Pawn.",
+        "21... Rac8 22. Qd2 a5 23. Rac1": "Naturally, I oppose Rooks.",
+        "23... Ng6 24. Kh2 Nf4 25. Bb1": "If I allow ...NxB, my Q would have to be used as a blockading piece, a role it is ill-suited for.",
+        "25... d3 26. Rfd1": "I am trying to win the passed P.",
+        "26... Ne2 27. Rxc8": "May as well simplify.",
+        "27... Bxc8 28. Bxd3": "Success.",
+        "28... Rxf2 29. Bxe2": "A self-pin, but winning the piece is worth it.",
+        "29... Qg6 30. Rg1": "The only move. I must fight off the mating threats.",
+        "30... Ba6 31. Qd8+": "Ah, this'll force the Rook back.",
+        "31... Rf8 32. Qd5+": "I was expecting ...K-R1 in reply.",
+        "32... Qf7 33. Qxf7+": "Well, now that I've exchanged Queens...",
+        "33... Rxf7 34. Bxa6": "...and won a B as well, it's all over but the shouting.",
+        "34... Rf2 35. Bxe5 Rxa2 36. Rf1 a4 37. Bc4+": "Black resigns, as the position is hopeless."
+    },
+    "url": "https://gameknot.com/annotation.pl/why-defensive-skills-matter?gm=55242",
+    "gameName": "Why defensive skills matter",
+    "players": "last_archimedean (1425) vs. praetorian_guard (1435)",
+    "opening": "Nimzovich-Larsen attack (A01)"
+}

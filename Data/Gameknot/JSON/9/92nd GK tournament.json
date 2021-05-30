@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. c4 dxc4 5. Na3": "Development and attacks pawn c4. Only response that makes sense is 5...b5 to protect the pawn, otherwise black gave a central pawn.",
+        "5... b5 6. d3": "white must be careful and it is dangerous for white to start aggressive play against c6/b5/c4 pawns. This may be backfire. But if white do not play active enough then white will end with pawn down and no compensation.",
+        "6... cxd3 7. Ne5": "attacks c6 or get the pawn back on d3.",
+        "7... Nd5": "unusual move, possible are 7...Bb7 to develop and protect c6, or 7...a6",
+        "8. O-O": "also possible 8.Nxd3. But here white decided to develop. If black takes on e2 d-file will be open. We are in a slow developing opening with strategical play. Computer engines do not like.",
+        "8... dxe2": "black decides to take. in my humble opinion not the best move. black makes together 8 moves. 2 moves with his knight from Ng8-Nd5 and 6 pawn moves.\nWhite develops 3 figures and safe his king.",
+        "9. Qxe2": "white gets a pawn back and develops his queen, but not on the perfect place.\n",
+        "9... e6": "Necessary move to develop Bf8 and to protect strong outpost on d5.\nSummary here: white develops 4 figures+king safe. Black has 2 pawns, but if we set 3 tempos for a pawn, white has compensation.",
+        "10. Rd1": "Rd1 pins the Nd5, but perhaps not the best move. Possible was to open lines quickly white 10.Nb5?! cxb5 11.Qb5+ Bd7 12.Qb7. But white should develop and play positional. Perhaps 10.BxNd5 cxd5 to exchange strong outpost.\nBut the pawn on c6 blocks later the Bc8. White should try to get his knight or bishop on c6, but Be3 fails, because of Nd5xBe3. So it will be necessary to exchange Nd5 with Bg2 first.",
+        "10... Be7 11. Nc2 O-O 12. Nd4 Bb7 13. Be3 Qc7 14. Bxd5": "exchange black's best piece and convertes Bb7 in a static bad piece.",
+        "14... cxd5 15. Bf4": "defends Ne5 to freeing the queen for other tasks.",
+        "15... Qb6 16. Rac1": "white gets the open file. Blacks queenside is undeveloped and black has no counterplay.\nDifficult position for black.",
+        "16... a6 17. Rd3": "The idea about Rd3: Perhaps later in the game the rook will go to Rc3. This rook could also defending the queenside, if black decides to initiate counterplay. White's figures are ready for attack. After open files on the king side the rook will go to the king side quickly.",
+        "17... Bf6 18. Qh5": "Blacks counterplay is on the queenside. White brings his queen to h5. We see two pieces defending black's king. Four of whites pieces are ready to attack blacks king.",
+        "18... g6": "This weakens the king side. Perhaps better was to bring defending pieces to the king side. Like 18...Qd8",
+        "19. Qf3": "Goes back and leaves the g-/h-file, because of possible pawn storm to open more files at the king side",
+        "19... g5": "black could try to initiate counterplay with 19...a5. with g5 he weakens his kingsside even more.  Also better was 19...Rc8 20.Rxc8 Bxc8 21. Rc3 Nd7 and black attacks Ne5 and should try to exchange pieces 22. Ndc6 Nxe5 23.Nxe5 Bg7. black should not exchange Bf6, because of protecting the black squares around his king.\n",
+        "20. Qg4 h6 21. h4": "now whites gets a decisive attack. black is lost.",
+        "21... Bg7": "from now on white does not play the best moves, but it is enough to win the game",
+        "22. hxg5 hxg5 23. Bxg5 f5 24. Qh5 Qd6 25. Bf4": "25.Ng6 Rf7 26.Nxe6 Qxe6 27.Re3 Qxe3 28. Bxe3 Nd7 29.Bh6 wins, too.",
+        "25... Qe7 26. Rdc3 Qe8 27. Qg5 Qd8 28. Qxg7+ Kxg7 29. Rc3c7+": "better was 29.Nxe6 Kf6 30.Nd8 and the best move black has is to resign...",
+        "29... Kg8 30. Nxe6 Qf6 31. Nxf8 Qxf8 32. Rxb7 a5 33. Rcc7 Ra6 34. Rcf7 Nc6 35. Rxf8+ Kxf8 36. Nd7+ Ke8 37. Nf6+ Kd8 38. Nxd5 Nb4 39. Bg5+ Kc8 40. Rc7+ Kb8 41. Nxb4 axb4 42. Rc5 Rxa2 43. Bf6 Ra5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/92nd-gk-tournament?gm=46500",
+    "gameName": "92nd GK tournament",
+    "players": "topstock (2072) vs. caknight (2129)",
+    "opening": "Reti (A07), King's Indian attack, Yugoslav variation"
+}

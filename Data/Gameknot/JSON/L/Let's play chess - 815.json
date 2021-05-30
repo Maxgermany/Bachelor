@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 d6": "Leads to modern defence",
+        "2. f4 f5": "A new idea for me. Attacks the center.",
+        "3. e3 Nf6 4. Bd3 c5": "Attack the center!",
+        "5. Nf3 Nc6 6. c3 e6 7. b4 cxb4": "A pawn win.",
+        "8. c4 Be7 9. a3 bxa3 10. Bxa3 Qa5+": "Kbd2 Qc3 --> xe3",
+        "11. Nfd2 Ng4 12. O-O": "Qe2 e5",
+        "12... Nxe3 13. Qe2 Nxf1 14. Qxf1 Nxd4 15. Qf2": "Bf6 Bb2 Qb6 ",
+        "15... Qb6 16. Nc3 Nc6": "Bf6",
+        "17. Kf1 Qxf2+ 18. Kxf2 Bf6 19. Bb2 Nb4 20. Be2 Nc2 21. Ra5 b6 22. Rb5 Nd4 23. Bf3 Rb8 24. Nb3 Nxb5 25. Bc6+ Bd7 26. Bxb5": "Some calculation...",
+        "26... Bxb5 27. cxb5 Rc8 28. Na4 Rc2+ 29. Ke1 Bxb2 30. Kd1 Rxg2 31. h3 Kd7 32. Nd2 Bd4 33. Nb3 Be3 34. h4 Bxf4 35. Nd4 Rc8 36. Nc6 e5 37. Nxa7 Rc1#": "This game was played fast. \r\nLessons from this game: \r\nControl the center;\r\nTry new ideas \r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=24522",
+    "gameName": "Let's play chess",
+    "players": "dee7712 (1175) vs. jonduan (1200)",
+    "opening": "Queen's Pawn (A41)"
+}

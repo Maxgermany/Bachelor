@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5": "Sicilian defense",
+        "2. Bc4": "Bowler attack - inaccuracy",
+        "2... e6": "easily defended, and chanses to equalize with tempo",
+        "3. Nc3": "possibly to prevent d5 with tempo? ",
+        "3... Nc6 4. d3": "mistake, no space for bishop after b5",
+        "4... a6": "setting it up",
+        "5. a3": "white has to give the bishop some space",
+        "5... b5 6. Ba2": "black achieves superiority on queen side",
+        "6... Nf6 7. Bg5 Be7 8. Nf3 Nd4 9. O-O Nxf3+ 10. Qxf3 Bb7 11. Bxf6 Bxf6 12. Qh5 O-O 13. Qxc5 Rc8 14. Qd6 Qe7 15. Qxe7 Bxe7 16. Rae1 b4 17. Nb1 Rxc2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-dekaasploeg?gm=40187",
+    "gameName": "Challenge from dekaasploeg",
+    "players": "forzaholland (1247) vs. dekaasploeg (1350)",
+    "opening": "Sicilian defence (B20)"
+}

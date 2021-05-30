@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5": "So far, so normal. But Corzo has a surprise up his sleeve.",
+        "5. h4 g4 6. Ng5 h6 7. Nxf7 Kxf7": "This risky line is designed to enmesh the youngster in ferocious complications.",
+        "8. d4 d5 9. exd5 Qe7+": "Driving Corzo's King.",
+        "10. Kf2 g3+": "Forcing the King to the corner, where it barricades in White's KR.",
+        "11. Kg1 Nxd4": "A brilliant counter-sacrifice by Capablanca to simplify advantageously.",
+        "12. Qxd4 Qc5": "If now 13 QxQ??? Capa has 13... BxQ ch 14 B-K3 BxB mate!",
+        "13. Ne2 Qb6": "The threat of ...B-QB4 winning the Q forces the following exchange.",
+        "14. Qxb6 axb6": "Now Black's QR can enter via the side door.",
+        "15. Nd4 Bc5": "A powerful pin.",
+        "16. c3 Ra4": "Threatens ...RxN winning a piece [PxR??? BxP mate!]",
+        "17. Be2 Bxd4+": "Initiating a nice sequence.",
+        "18. cxd4 Rxd4": "Wins a Pawn and if the King moves off KB2, ...RxP winning a second Pawn would be threatened.",
+        "19. b3 Nf6": "Bringing the reserves up to join the attacking forces, while simultaneously screening the Rook.",
+        "20. Bb2 Rd2": "Forking the Bishops and forcing Corzo's hand.",
+        "21. Bh5+ Nxh5": "A superb sacrifice.",
+        "22. Bxh8 f3": "With White's Bishops out of the way and his Rooks stuck in the corners, his King is virtually defenseless.",
+        "23. gxf3 Nf4": "Closing in.",
+        "24. Be5 Rg2+": "The hunt begins.",
+        "25. Kf1 Rf2+": "Intensifying the chase.",
+        "26. Ke1 Nd3+": "Winning the Bishop. Corzo resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/match-game-cuban-championship-1900?gm=38173",
+    "gameName": "Match game, Cuban Championship, 1900",
+    "players": "Juan Corzo  vs. Jose R. Capablanca ",
+    "opening": "Vienna (C25), Hamppe-Allgaier gambit"
+}

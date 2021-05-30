@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nc3": "I have to say I've never seen this move.  I've seen 4. Nf3, 4. g3, 4. Na3, 4. f3, and 4. a4.\nI already feel Black has a slight advantage.",
+        "4... b4 5. Nb1 e6 6. g3": "Well, the diagonal does look appealing.",
+        "6... a5 7. dxe6 fxe6 8. Bg2 Ra6 9. Bf4": "Another great diagonal.",
+        "9... d6": "I looked at 9...Nc6 but backed away from it.",
+        "10. Qd3 Be7 11. Nd2 O-O": "I hate my position.  ",
+        "12. Ne4 Nxe4 13. Bxe4 h6 14. Nf3 Nd7 15. Nd2 Kh8 16. Bg2 e5 17. Be3 Nf6 18. O-O a4 19. h3 b3 20. axb3 Bd7 21. bxa4 Qc8 22. Qb3 Bc6 23. Qc2 Re8 24. Bxc6 Qxc6": "I still hate my position.",
+        "25. f3 Qb7": "Not only do I hate my position, I hate my life.  What have I drifted into?",
+        "26. Ra3 e4": "I'm just winging it at this point.  I have no idea what to do."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=49854",
+    "gameName": "Let's play chess",
+    "players": "mevv (1896) vs. annabekoach (1936)",
+    "opening": "Benko gambit (A57)"
+}

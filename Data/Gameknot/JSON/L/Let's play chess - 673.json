@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 dxc4 3. Nf3 Nc6 4. Nc3 e6": "Standard stuff so far.",
+        "5. e4 Bb4 6. Bxc4 Nge7 7. O-O O-O": "Both me and my opponent complete our King-side development.",
+        "8. Bg5 Bxc3 9. bxc3 h6 10. Bh4": "I try to draw my opponent into playing P-KN4, breaking the pin but opening up his castled position. But it doesn't work.",
+        "10... Qd7 11. Bb5": "I always try to pin enemy pieces when i can. It restricts their options.",
+        "11... a6 12. Ne5 Qd6 13. Bxc6 Nxc6": "So far the game has remained even.",
+        "14. f4 Nxe5 15. fxe5 Qc6": "I have to be careful not to lose a Pawn in the center. The doubled KP is a weakness.",
+        "16. Qd3 a5 17. Be1": "I defend the base of my Pawn chain.",
+        "17... b6": "I overlook the effect of this move.",
+        "18. Bd2 Ba6": "Nicely played. Now I lose the Exchange. 18 Q-K3 was the move I should have played to avoid it.",
+        "19. Qe3": "One move late.",
+        "19... Bxf1 20. Rxf1 Qe8": "A mistake. Ahead in material, my opponent should be advancing instead of retreating.",
+        "21. Qg3": "Now I must be aggressive. i try hereabouts to formulate a mating attack. I am aiming, if my opponent permits, to play 22 BxP and follow up with 23 QxP mate.",
+        "21... Kh8 22. Rf4 f6 23. Rh4": "Hoping my opponent would think the KRP is sufficiently guarded. I try for 24 BxP PxB 25 RxP mate.",
+        "23... h5 24. Qf3": "My goal now is to win back the material and press the attack. I threaten 25 RxP ch.",
+        "24... g6": "Now the KBP is insufficiently guarded, enabling me to create a passed Pawn and undouble my Pawns.",
+        "25. exf6 Rf7 26. e5": "A protected passed Pawn. Now I can fix my opponent's pieces.",
+        "26... Rh7 27. Qd3 Qf7": "My opponent defends well.",
+        "28. Rh3 Rd8 29. Rg3": "Applying more pressure.",
+        "29... Rg8 30. h4": "Locking the position. Neither side can accomplish much, and I'm happy to take a draw given that I'm still behind in material."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=30182",
+    "gameName": "Let's play chess",
+    "players": "thehellion (1244) vs. jdcali49 (1200)",
+    "opening": "QGA (D21), 3.Nf3"
+}

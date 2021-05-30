@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "The king's gambit is an unusual opening now, it was popular about 170 years ago.",
+        "2... exf4": "Gambit accepted.",
+        "3. Nf3": "This prevents ...Qh4+.  However, 3. Bc4 Qh4+ is playable for white (see the Immortal Game, Anderssen vs. Kieseritzky, 1851).",
+        "3... Bc5": "A serious mistake.  The point of a gambit is to deflect one of black's center pawns and allow white's pawns to control the center.  g5 would have been much better.",
+        "4. d4": "Because of black's misplaced bishop, white gets to advance another pawn into the center with tempo...",
+        "4... Bb6 5. Bxf4": "...and recapture the gambit pawn!",
+        "5... d6 6. Bd3 Bg4 7. c3 Bxf3": "Another serious mistake.  This assists white in developing her queen and after castling the queen will be supported by a rook on the half open f-file.  It would have been much better to wait until white either tried to kick the bishop out (e.g. h3) or moved her queen off the diagonal, breaking the pin on the knight.  There was a reason for taking the knight, which was to weaken white's control of the e5 and d4 squares.",
+        "8. Qxf3 Nc6 9. O-O Qd7 10. Nd2 O-O-O 11. Nc4 Nge7 12. e5": "Blunder.  There is a tactic that could have been played here, but I didn't see it until 3 moves later.  It involves the pin on the d4 pawn and various other under or unprotected pieces.  With that clue see if you can figure out what I should have done.",
+        "12... dxe5 13. Bxe5 f6": "Instead of advancing the pawn, I could have captured the bishop with my knight and then played out the tactic that I found 2 moves later.",
+        "14. Bg3 Kb8": "This almost invites white's next move (assuming she doesn't see the tactic I eventually find), though that wasn't my purpose.  Actually, I had almost equalized the position and now I almost give it all back.  White should have moved her king off the diagonal with my bishop or else exchanged her knight for my bishop.",
+        "15. a4": "White gets greedy.  She is trying to get my bishop for the bargain basement price of one pawn.  Here I realize my bishop is trapped, almost.  In desperation to save the bishop I stumble on the tactic that I could have set in motion 3 moves back.  ",
+        "15... Bxd4+": "This could have been done earlier thus:  12. e5 dxe5 13. Bxe5 Nxe5 14. Nxe5 Bxd4+ 15. cxd4 Qxd4+ 16. Qf2 Qxe5.",
+        "16. cxd4 Qxd4+ 17. Kh1 Qxd3 18. Qxd3 Rxd3": "Suddenly the tables are turned!",
+        "19. a5 Nd5 20. a6": "A one pawn \"storm\"...",
+        "20... b6": "...ignored.",
+        "21. Na3 Kc8 22. Rae1 Nd4 23. Rec1": "That's where that rook should have gone in the first place.  But because of the wasted tempo...",
+        "23... Ne2": "...I can do this, eliminating the annoying bishop.  <Mini-seminar on forking:  Session 1>",
+        "24. Rc2": "Not the best place for that rook, as we shall see.",
+        "24... Nxg3+": "<Mini-seminar on forking:  Session 2>",
+        "25. hxg3 Ne3": "<Mini-seminar on forking:  Session 3>",
+        "26. Rf3": "Blunder.  The pin on my knight is a mirage.",
+        "26... Rd1+": "Zwischenzug!",
+        "27. Kh2 Ng4+": "Forget the rook, a mating net is materializing.",
+        "28. Kh3 h5": "Game over.  There is no stopping Rh1#."
+    },
+    "url": "https://gameknot.com/annotation.pl/fork-it-over-1-10-2020?gm=67365",
+    "gameName": "Fork it over (1/10/2020)",
+    "players": "sylvie32 (1778) vs. thehirsutefrog (1727)",
+    "opening": "King's knight's gambit (C34)"
+}

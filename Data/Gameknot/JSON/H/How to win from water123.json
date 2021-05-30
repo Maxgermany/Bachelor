@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Bc4 e6 4. O-O Nf6 5. Re1 Be7 6. c3": "Not best... 6. d4 cxd4 7. Nxd4 Nc6 was to be preferred... >>> Note to tiger_lilov: I do not use computers in my evaluations... I play as a human... But thanks for the enlightenment<<<",
+        "6... O-O 7. d4": "A little late, now... Considering the threat d5, better 7. Bb3 Nc6...",
+        "7... a6": "Very deep... What is wrong with 7. ... Nxe4 8. Rxe4 d5 9. Bxd5 Qxd5 10. Re5 Qd7?",
+        "8. e5": "No second chance, but better first 8. dcx5 dxc5 9. e5...",
+        "8... dxe5 9. Nxe5": "No offense, but I think white had better played 9. dxe5 Qxd1 10. Rxd1 Nd5 11. Bxd5 exd5 12. Rxd5...",
+        "9... cxd4 10. cxd4 b5 11. Bb3": "Not good, either... 11. Be2 Bb7 12. Nc3, holds better...",
+        "11... Bb7 12. Nc3 Nbd7": "Of course, 12. ... Nc6 works better for black...",
+        "13. Nxf7": "Very sharp play, by white... And precisely at the right moment... After 13. Qe2 Nb6, the edge is gone...",
+        "13... Rxf7 14. Bxe6 Nf8": "Who cares, what I think? But I would have preferred 14. ... Bd6",
+        "15. Bxf7+ Kxf7 16. Qb3+": "Not good... After 16. Bg5, white holds an equal position...",
+        "16... Nd5": "So this is how you win from a weaker player... Very instructive... After 16. ... Bd5 17. Qd1 Ne6/Ng6, white can start all over again, in a slightly worse position... This - however -  loses immediately...",
+        "17. Re5": "Without further adue...",
+        "17... Ng6": "Making it worse, probably out of frustration... After 17. ... Ne6 18. Nxd5 Nxd4 19. Qd1 Bd6 20. Bg5, matters could be contained...",
+        "18. Rxd5": "Sharp as a doornail...",
+        "18... Bxd5 19. Qxd5+": "Black gets very lucky... White is squandering his advantage once more... After 19. Nxd5, black can happily resign...",
+        "19... Qxd5 20. Nxd5 Rd8 21. Nxe7": "All forced, for white...",
+        "21... Rxd4": "And justice, for all... After 21. ... Nxe7 22. Be3 Rc8, white is still somewhat better, but has a very long way to go... Luckily, this is not blitz... White's next move ends all...",
+        "22. Be3": "Black resigns... Probably out of resentment, of his own play... According to water123, the annotation is poor; as usually... He is a sore loser, so he can never be a winner..."
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-win-from-water123?gm=45429",
+    "gameName": "How to win from water123",
+    "players": "wizzz999 (1754) vs. water123 (1905)",
+    "opening": "Sicilian (B50)"
+}

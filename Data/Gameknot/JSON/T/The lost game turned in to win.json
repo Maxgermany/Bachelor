@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I started with e4.",
+        "1... e5": "Standart.",
+        "2. Nf3 Nc6 3. Bc4 h6": "Not so often, but I did see this move before.",
+        "4. Nc3 Nf6 5. O-O Bc5 6. d3 a6 7. Re1": "Preparing for Be3, I want to eliminate his dark bishop.",
+        "7... d6 8. Be3 Bb4 9. a3 Bxc3 10. bxc3": "Ok the dark bishop is gone, and also I'm not worried about doubled pawns on c file, because I have plan, how to \"fix\" that.",
+        "10... b5 11. Bb3 Bb7 12. Nd2": "I could play d4, but his white bishop stopped me to do that. 12.d4 Nxe4 13.dxe5 Nxe5 14.Nxe5 dxe5, and I'm a pawn down, my dark bishop is locked, and I still have doubled pawns on c file.",
+        "12... Ne7 13. c4": "Fixing the doubled pawns problem. If 13....b4 then 14.axb4 and a file is open.",
+        "13... bxc4 14. Nxc4": "My pawn structure is fixed",
+        "14... d5 15. Nxe5 d4": "I think Ng6 is the best move here.",
+        "16. Nxf7 Qd7 17. Nxh8 dxe3 18. Rxe3 O-O-O 19. Nf7 Rf8 20. f4": "I should play h3 here.",
+        "20... Ng4": "And here comes the pain.",
+        "21. Rg3": "I totally overlooked the next move for black, which is the wining move.",
+        "21... h5": "He didnt see it.",
+        "22. f5": "And I still didn't see it, to prevent it. I was to busy whit 23.Be6 pinning his Queen to his King.",
+        "22... Qd4+": "Now here it is. If I move my king to h1, then Nf2+, 24.Kg1 Nxd1+, and the game is lost so I want to resign. But then I did the next move, to offer my opponent a quick finish of the game with well deserved checkmate.",
+        "23. Kf1 Ne3+": "?!? 23....Qf2#",
+        "24. Rxe3 Qxe3 25. Qxh5 Qd4 26. Rb1 Qf6 27. Be6+ Kb8 28. e5": "And the cards have turned. Now I'm winning.",
+        "28... g6 29. Qf3": "Mate thread on b7.",
+        "29... c6": "Blocked.",
+        "30. exf6 Nxf5 31. Kg1 Nd4 32. Qf4+ Ka8 33. Qxd4": "And my opponent resign and congratulated me for the win. But on move 23 I should congratulated him. Thanks to my opponent escalabar, and good day to all of you."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-lost-game-turned-in-to-win?gm=40328",
+    "gameName": "The lost game turned in to win",
+    "players": "stojanc (1581) vs. escalabar (1547)",
+    "opening": "King's pawn game (C50)"
+}

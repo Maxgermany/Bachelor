@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. b3 Bf5 3. Bb2 Nf6 4. Nf3 e6 5. e3 c5 6. Bd3 Ne4": "The Bf5 setup that my opponent uses turns out to be pretty effective.",
+        "7. Nbd2 cxd4 8. exd4 Bb4 9. O-O Nc3 10. Qe1 Bxd3": "It may have been an error to allow this.  The doubled d pawns turn out to be quite a liability later.",
+        "11. cxd3 Nc6 12. Qe3 Nb5 13. a3 Bc3 14. Bxc3 Nxc3 15. Rfc1 Nb5 16. b4 O-O 17. Nb3 a5 18. a4 Nd6 19. b5 Nb4": "My pawns have gained some space, but the doubled and isolated d pawns are well-targeted by Black.",
+        "20. Ne1 Nf5 21. Qd2 b6 22. Nc2 Nxc2 23. Rxc2 Qf6": "Again attacking the d5 pawn.",
+        "24. Qf4 Rac8 25. Rac1 Rxc2 26. Rxc2 g5 27. Qg4 Re8 28. Rc6 Nh6 29. Qg3 Nf5 30. Qe5": "Almost all of my play is dictated by having to protect the annoying d pawns.  If I could figure out a way to jettison them while converting to some other useful feature I would!",
+        "30... Qd8 31. h3 Qb8 32. Qf6 h6 33. Nd2 Qf4 34. Nf3 Rf8": "Otherwise Ne5 is very annoying.",
+        "35. Qe5 Rb8 36. Qxf4": "This relieves some of the pressure on my d pawn and weakens Black's pawn structure, but Black is still equal.",
+        "36... gxf4 37. Kf1 Kf8 38. Ke2 Ke8 39. Kd2 Ne7 40. Rc2 Rc8 41. Rxc8+ Nxc8 42. Ne1 Nd6 43. Kc3 f6": "It's going to be difficult for either side to make progress without taking dangerous chances.  A draw was agreed.  Well-played by Black, especially the way my weak pawns were targeted consistently."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=27696",
+    "gameName": "Let's play chess",
+    "players": "mmoody95 (1829) vs. gareth1984 (1624)",
+    "opening": "Queen's pawn game (D00)"
+}

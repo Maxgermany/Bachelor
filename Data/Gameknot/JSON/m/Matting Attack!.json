@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Vienna Game.",
+        "2... Bc5": "Black steps out of opening book targeting the week f7 square.",
+        "3. Nf3": "Point being Nc6 4. Nxe5 Nxe5 5. d4.",
+        "3... d6": "Black solidifies his position with his bad bishop outside of his pawn structure. ",
+        "4. d4": "d3 seemed week due to blacks bishop.  d4 may not be possible later so I challenge the center right away.",
+        "4... exd4 5. Nxd4 Nf6 6. Bc4": "Bg5 was considered.",
+        "6... O-O 7. O-O d5 8. exd5": "locking the bishop in for the time.  Nxd5 is met with caution.  8. Nxd5 c6!?",
+        "8... c6": "!? white can't take on dxc6 Qxd4 losing a knight.",
+        "9. Bg5 Qb6 10. Bxf6": "I almost considered not playing this move.  But it does break up black structure which is a key to my attack later on.",
+        "10... gxf6 11. Na4": "Na4!? Qb4 Nxc5",
+        "11... Qb4 12. Nxc5": "Now the queen has a choice Qxc4 Ne4 or Qxc5 Bb3.  I believe the correct move though it fuels a bit of an attack for white is Qxc4.",
+        "12... Qxc5 13. Bb3 cxd5": "keeping the bishop under lock and key.",
+        "14. Qd3": "Connecting the rooks and allowing a possible check Qg3.",
+        "14... Bg4": "Prevents Rd1.",
+        "15. f3 Bh5 16. Kh1": "unpins the knight.",
+        "16... Bg6 17. Qd2 Nc6 18. Nxc6 bxc6": "Trade of knights Giving the bishop little to no life but its still a good bishop and the endgame should we reach it could be quite good for white.",
+        "19. f4 Rae8 20. f5 Bh5 21. Rae1": "Critical point what can black do? a5 is met by a4 Bg4 is met by Qf4.",
+        "21... Rxe1": "Black makes a choice though not a good one.  White will have full control of the e-file.",
+        "22. Rxe1 Bg4 23. Qf4": "Give the bishop chase.",
+        "23... Bh5 24. Qg3+ Kh8 25. Qh4 Bf3": "Black had no where to go so decides to sac the bishop for structure.  Though I have a very good attack going in which mate is soon. Best was probably Bg6.  I believe it is force mate from here stop and see if you can find it.",
+        "26. Qxf6+": "only move is Kg8\n",
+        "26... Kg8 27. Qg5+": "Forcing Kh8",
+        "27... Kh8 28. f6": "f6! this is the critical move for the forced mate.",
+        "28... Rg8 29. Re8": "Black is done Rxe8 Qg7#. Black cannot loosen the king good enough to do continuous-checking Bxg2+ Kxg2 and blacks out of Checks after Q+ KxQ.  Black can't do anything that doesn't protect g7 due to Qg7# what a beautiful pinning mate that would be.  Blacks last option doesn't change anything Qf8 Rxf8 and its back to the same position just with the rook on f8 and no black queen.",
+        "29... Bxg2+ 30. Kxg2 Rxe8 31. Qg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/matting-attack?gm=30981",
+    "gameName": "Matting Attack!",
+    "players": "yoshark  vs. caa108 ",
+    "opening": "Vienna game (C25)"
+}

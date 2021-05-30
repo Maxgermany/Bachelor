@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4": "I wanted sg else like the ordinary.(black)",
+        "4. Nxd4 cxd4 5. c3 a6 6. Bd3 e5 7. O-O d6 8. cxd4 Nf6 9. Nc3 Be6 10. d5 Bg4 11. f3 Bd7 12. Be2 Qb6+ 13. Kh1 Be7 14. Qc2 O-O 15. Bd1 Rac8 16. Qb3 Qa7 17. d3 Nh5 18. g3 Bh3": "important move.",
+        "19. Rg1 Bd8": "to B6.",
+        "20. Qc2 Bb6 21. Re1 f5": "f column is opened.",
+        "22. Qe2 f4 23. g4 Nf6 24. Bb3": "Greatest mistake!!",
+        "24... Nxg4 25. fxg4 f3 26. Qd1 Bg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/mates-mini-tournament?gm=5115",
+    "gameName": "mates' mini-tournament",
+    "players": "pmcmurphy (1575) vs. iszke (1500)",
+    "opening": "Sicilian (B30), Nimzovich-Rossolimo attack (without ...d6)"
+}

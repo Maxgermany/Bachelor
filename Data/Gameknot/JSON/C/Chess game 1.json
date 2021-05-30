@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. f4 Nxe4 3. Nf3 Nc5": "neglecting the developed pieces",
+        "4. d4": "chasing the knight",
+        "4... Ne6": "a problem ... blocking the pawn",
+        "5. Bc4": "bringing a piece into play",
+        "5... c6": "intending d5 but White counters",
+        "6. d5": "attacking the knight",
+        "6... cxd5 7. Bxd5 Nc6 8. Ne5 f6": "trying to attack the knight",
+        "9. f5": "counterattacking",
+        "9... Nxe5 10. fxe6 dxe6 11. Bxe6 Bxe6 12. O-O g6 13. Re1 Bg7": "perparing to castle",
+        "14. Bf4 g5 15. Bg3 h5": "weakening the pawn structure",
+        "16. Bf2 Qa5 17. Qd4 Nc4 18. Nc3": "developing the knight out",
+        "18... Nb6 19. b4 Qa3 20. Nb5 Qa4 21. Nc3 Qxc2 22. Rac1 Qh7 23. b5 Bc4 24. Qe4 Bf8": "protecting mate on e7",
+        "25. Bxb6 axb6 26. Qxb7 Rd8 27. Qxb6 e5": "a bad move",
+        "28. Qxf6 Bf7 29. Nd5 Rb8 30. Rc7": "threatening mate with Re7+ Bxe7 Qxe7#",
+        "30... Bg8 31. Rxe5+ Be7 32. Qxe7+ Qxe7 33. Rexe7+ Kd8 34. Rcd7+ Kc8 35. Rdc7+ Kd8 36. Re6 Rxb5 37. Rd6+ Ke8 38. Nf6+ Kf8 39. Rd8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game-1?gm=68536",
+    "gameName": "Chess game 1",
+    "players": "???  vs. ??? ",
+    "opening": "Alekhine's defence (B02)"
+}

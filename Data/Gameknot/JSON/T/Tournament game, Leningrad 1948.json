@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4": "All book, so far.",
+        "4... Nf6": "Challenging the center.",
+        "5. Nc3": "Developing and guarding.",
+        "5... g6 6. f4 Bg4": "Striving for counterplay.",
+        "7. Bb5+": "Turnabout is fair play.",
+        "7... Nbd7": "Keeping his threat on the Q active.",
+        "8. Bxd7+ Qxd7": "Refusing to relinquish the tempo by recapturing with the B.",
+        "9. Qd3 e5": "Trying to drive White back.",
+        "10. Nf3": "Countering with a threat on the KP.",
+        "10... Bxf3": "Opting to exchange.",
+        "11. Qxf3": "With the threat of PxP and a discovery on the unguarded Knight.",
+        "11... Qg4": "The losing move.",
+        "12. Nd5": "Spassky resigns. White has too many threats [NxN winning a piece, N-B7 ch with a shakrukh]. There's no way to defend all of them. Exchanging Queens first doesn't help, as Korchnoi can win a piece [after 12... QxQ] with 13 NxN ch! before recapturing the Q. Spassky could save the piece with 12... K-Q1, but after 13 NxN Q-R5 ch 14 P-N3 QxN, Korchnoi has a winning positional advantage with his absolute control of Q5 and the backward Black Q-pawn, not to mention that the Black King would be trapped in the center and wide open to attack."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-leningrad-1948?gm=36062",
+    "gameName": "Tournament game, Leningrad 1948",
+    "players": "Viktor Korchnoi  vs. Boris Spassky ",
+    "opening": "Sicilian (B71), dragon, Levenfish variation"
+}

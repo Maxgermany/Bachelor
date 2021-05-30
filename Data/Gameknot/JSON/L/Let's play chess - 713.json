@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 d5 2. b3 Nc6 3. Bb2 Nf6 4. Nf3 Bf5": "I've been experimenting with this setup, and occasionally Bf5 is troublesome.  The key is to avoid doubled isolated pawns on the d file.",
+        "5. e3 a6 6. a3 e6 7. Bd3 Bd6 8. O-O Bg4 9. Nbd2 O-O 10. Qe1 Bxf3 11. Nxf3 Re8 12. Ne5 Bxe5 13. dxe5 Nd7 14. f4": "Often this leads to a good Kingside attack, since Black can no longer defend with a Nf6.",
+        "14... f6 15. exf6 Nxf6": "Black has cleverly figured out a way to get his N back in a good defensive position.",
+        "16. Qg3 d4": "This might not be best.  It allows me to dislodge the N again.",
+        "17. e4 Rf8 18. Qh3": "Probably not best.  e5 to dislodge the N might have been better.",
+        "18... e5 19. f5 Qe7 20. Rf3 Kh8 21. Raf1 Qf7 22. Bc1 Qh5": "Black defends well.",
+        "23. Qxh5 Nxh5 24. Rh3 Nf6 25. Rff3 h6 26. Rfg3 Rf7 27. Rh4 Nh7 28. Rg6 Ne7 29. Rg3": "I am unable to make progress on the Kingside.",
+        "29... b5 30. Bd2 Rf6 31. Be2 Rb8 32. Rhh3 c5": "I am hoping to exploit the third rank.",
+        "33. Rgf3 b4 34. axb4 cxb4 35. Rf1 a5 36. Ra1 Ra8": "Pinning the R on a8 costs Black a pawn.  ",
+        "37. Bxb4 Nc6 38. Bd2 Kg8 39. Bc4+ Kf8 40. c3 dxc3 41. Rxc3": "This allows my other R to get to an open file.",
+        "41... Rd6 42. Bd5 Ra6 43. Be3": "Threatening Bc5 with a pin.",
+        "43... Ke8 44. Bc4 Ra8 45. Bb5": "Pinning the N.",
+        "45... Kd7 46. Kf2 Nf6 47. Kf3": "Covering e4 with the K allows all of my pieces to roam.  Black's pieces are tied down to defense.",
+        "47... Ne8 48. Rac1 Rc8 49. Bb6 g6 50. Bxc6+ Rcxc6 51. Rc3xc6 Rxc6 52. Rxc6 Kxc6 53. Bxa5": "I sneak another pawn.",
+        "53... g5 54. h4 Kd6 55. hxg5 hxg5 56. Bd2": "There is no way for Black to defend this pawn.  The N alone will not be able to handle three passed pawns."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=27719",
+    "gameName": "Let's play chess",
+    "players": "mmoody95 (1829) vs. alcarde (1562)",
+    "opening": "Queen's pawn game (D00)"
+}

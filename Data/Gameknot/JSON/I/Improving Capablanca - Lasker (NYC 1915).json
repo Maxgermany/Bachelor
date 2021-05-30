@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Ruy L\u00f3pez (a.k.a. Spanish) opening.",
+        "3... a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4": "6...b5; 7. Bb3, d5 is the main line of the Open Variation. 7...d5 is considered too risky.",
+        "6... exd4 7. Re1 d5": "7...f5; 8. Nxd4 is better for White.",
+        "8. Nxd4 Bd6 9. Nxc6 Bxh2+ 10. Kh1": "Better than 10. Kf1, Qh4.",
+        "10... Qh4 11. Rxe4+ dxe4": "11...Qxe4 is worse due to 12. Nd4 ! b5; 13. Kh2.",
+        "12. Qd8+ Qxd8 13. Nxd8+ Kxd8 14. Kxh2 Be6 15. c3": "Julen Arizmendi's suggestion after Arizmendi - Garc\u00eda Rom\u00e1n, Cullera op 2005. 15. Be3, f5; 16. Nc3, Ke7; 17. g4 was played at Capablanca - Lasker, New York 1915.",
+        "15... f5 16. Bf4 h6 17. Nd2 Kc8 18. g4 fxg4": "18...g6; 19. gxf5, gxf5; 20. f3 creates a weak black pawn.",
+        "19. Nxe4 Rf8 20. Be3 b6": "An error. 20...Bd5 was Black's best option.",
+        "21. Bc6 Rb8 22. Bd4 Bd7": "22...Rf7; 23. Kg3, Bd7 was better.",
+        "23. Bd5": "White Bishops are in total control of the board, now.",
+        "23... Rf5 24. c4 g6 25. Rd1 Rf8 26. Kg3 h5 27. Nf6 Bf5 28. Re1 c5 29. Nh7": "29. Be5, Rb7; 30. Bxb7 , Kxb7 is also O.K.",
+        "29... h4+ 30. Kg2 cxd4 31. Nxf8 d3 32. Rd1": "32. Ne6! heading to d4 was even better.",
+        "32... b5 33. c5 b4 34. Be6+ Kb7 35. Bxf5 gxf5 36. Ne6 Re8 37. Nd4": "37. Ng7?? Re2 equalizes. The final is still far from won for White.",
+        "37... Re5 38. c6+ Kc7 39. Rxd3 f4": "How to continue? After 40. Rd1, f3 ; 41. Kg1, Rd5 or 40. Kf1, f3; 41. Rd2, Ra5, White is not making any progress.",
+        "40. f3": "40. f3!! The only way to break Black's compact mass of pawns.",
+        "40... h3+ 41. Kh2 g3+ 42. Kxh3 Rh5+ 43. Kg4": "43. Rg2, Rh2 ; 44. Rg1, Rxb2; 45. Rd1, Rxa2 gives Black some compensation.",
+        "43... g2 44. Ne2 Rh1 45. Rd2 Re1 46. Ng1": "Only move!",
+        "46... Rxg1 47. b3 Kxc6 48. Kxf4": "Now, the pawn at g2 will fall, and White will win the Rook ending.",
+        "48... a5 49. Kg3 Re1 50. Rxg2 Kd6 51. Rh2 Rg1+ 52. Kf4 Rg8 53. Rh5 Ra8 54. Kg4 Rg8+ 55. Rg5 Ra8 56. f4 Ke6 57. Rb5 Rg8+ 58. Kf3 Ra8 59. f5+ Kf6 60. Kf4 Ra6 61. Rb8 Rd6 62. Rf8+ Ke7 63. Ra8 Rd4+": "63...Kf6; 64. Ke4 was also hopeless for Black.",
+        "64. Ke5": "64. Kg5! was more accurate.",
+        "64... Rd7 65. f6+ Kf7 66. Rxa5": "Here, on Oct 8th, 2007, Rolando resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/improving-capablanca-lasker-nyc-1915?gm=12551",
+    "gameName": "Improving Capablanca - Lasker (NYC 1915)",
+    "players": "shajmaty (1952) vs. rotomesa (2081)",
+    "opening": "Ruy Lopez (C80), open, Riga variation"
+}

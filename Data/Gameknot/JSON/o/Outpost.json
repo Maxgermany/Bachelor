@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4": "Opening moves, as you can see my opponent wanted to play open sicillian. In this position It is bad for white to trade Knights on c6 while it s bad for black to trade Knights on d4. If white trades black will have strong pawn structure and if black trades it will waste a tempo for blackand white will just develop the Queen to the center. ",
+        "4... Nxd4": "My opponent had chosen to trade Knights.I can say I am happy with this trade.",
+        "5. Qxd4 Qc7": "So his Queen comes to c7 which would be better if she came the move earlier. Attacking c pawn.",
+        "6. Nc3": "So I protect my pawn by developing my Knight on c3.",
+        "6... e5": "Attacking my queen that is fine but is it good leaving d5 square for my Knight?",
+        "7. Qd1": "I retreated my Queen to d1. It s not a good move I can say.I could just take my Knight to d5 ignoring the attack.It would be good for me. He would have to play Qb8 and that would be very bad for black.(He wouldnt be able to take my queen because of the threat  Nxc7+ neither he  can take my cpawn cause then Qxe5+ and black would be in real bad situation.) ",
+        "7... Nf6 8. Bg5": "So you can tell what my plan is. I want my knight on d5 and because of that i wanna destroy his Knight.",
+        "8... Be7 9. Be2 O-O 10. O-O h6": "He wants my Bishop to go away in the end. But my bishop was not just there to pin the Knight I wanna take it.",
+        "11. Bxf6 Bxf6 12. Nd5": "After the exchange of Knights I simply played d5, the most natural move. Forking his queen and Bishop. But sure I wont trade it with his Bishop.",
+        "12... Qc6": "he s protecting his Bishop in case i wanted to take it. He doesnt want to let me destroy his pawn structure.",
+        "13. c3": "I played c3 under protection of my Knight. I want to start a pawn storm to  send his queen somewhere else Cause his Queen s eyeing c7 and that s where my Knight might like to go soon.As you can say there s not easy way for black to get rid of my Knight on d5 . He has to use his Bishop for that but it is not that easy Because He doesnt have that much time.",
+        "13... Re8 14. a4": "So i started to execute my plan with a4. This move b6 for black because after b6 I wanna play Bb5.But I cant say it was the best move cause I could play Bb5 right away and if queen takes Bishop Nc7 wins the exchange.",
+        "14... a6": "He s preventing Bb5.",
+        "15. b4": "I want to play Bb5 so I am trying to push my pawn to b5. So I played b4 first. ",
+        "15... b5": "b5??? That was what I wanted to see, it onl helps me.",
+        "16. axb5 axb5 17. Rxa8 Qxa8": "After exchanges we reached this position. And my Knight that resides on d5 outpost is the strongest piece on the board , dont you think?",
+        "18. Nc7": "This move wins the game.",
+        "18... Qxe4 19. Nxe8 Bb7": "Black's last hope to mate white on g2. Always be careful when game s  about to end.",
+        "20. Nxf6+ gxf6 21. Bf3": "1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/outpost?gm=30456",
+    "gameName": "Outpost ",
+    "players": "dusundurt (1669) vs. gambit1 (1502)",
+    "opening": "Sicilian (B32), Flohr variation"
+}

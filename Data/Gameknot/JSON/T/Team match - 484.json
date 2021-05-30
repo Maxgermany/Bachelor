@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "D",
+        "1... d6 2. d4 Nf6 3. Nc3 g6 4. h4 Bg7 5. f3 c6 6. Be3 b5 7. g4 b4": "Rather bold, but nothing apparently wrong, will make castling a bit difficult since the king side is destroyed.\r\n\r\nNe2, Nb1, Na4, g5.\r\n\r\nNa4 seems a bit clumsy of a placement but there is really nothing to threaten it. It has the advantage of covering c5 square. He will probably try a5.\r\n\r\nNe2 blocked bishop. Nb1, boy do I hate going back to where I was.",
+        "8. Na4 O-O": "Okay he castled and did not do a5. But my knight is very awkward and I still need to get my king tucked away. I think I can mount a pretty good king side attack, but that fienchattoed position is tough to attack.\r\n\r\nBc4, b3, Qd2, Be2\r\n\r\nThinking first bishop then Queen. Rejected, don't have a great spot for Bishop yet. But Qd2 allows for the queen to slide along the 2 rank and o-o-o\r\n\r\nThrew out Bc4 because of d5. I need to push e5 when he does d5 and I can't if my bishop is being attacked.\r\n\r\nb3 seems like a weakness, but if Bd7 happens I have to consider it more because I need running room for the Knight.",
+        "9. Qd2 a5": "okay he did the a5 I was expecting.\r\n\r\nSo on a high level can I mount a king side attack or should I ooo first. ooo First will put the rook behind my Queen. Neither one of us has great development.\r\n\r\nOkay ooo it is. I love king side attacks so this should be fun.",
+        "10. O-O-O Be6": "Attacking my a pawn. Was planning on b3 anyway, gives me an escape route for my knight.",
+        "11. b3 Bd7": "Hmmm I guess his plan will become clear. I guess he wants the Bishop out of the way if he pushes and I push, it is not an evential threat to the knight which is poorly placed anyway. Need to be careful, BxN will destroy Queenside pawns\r\n\r\nI think I can ignore this move for now and continue with development, king side attack.\r\n\r\nBc4 helps him open up c file, \r\nh5, \r\ng5 Knight goes to h5 making attack harder sort of like he is in now, \r\nNe2, \r\ne5 gives him a good hole for his knight, \r\nd5 gives him open c file then Bishop x Knight destroys my queen side, \r\nNh3",
+        "12. h5 c5": "Nb6 okay why don't i give away all pieces.\r\ndxc\r\nhxg Looks best can still do dxc later.",
+        "13. hxg6 Bxa4 14. bxa4 cxd4": "14. bxa4 cxd4 \r\n15. gxh7+ Nxh7 \r\n16. Qh2  \r\n\r\nOk gxh7 it is\r\nand what can he do Nf6 fllowed by Bxd4",
+        "15. gxh7+ Kh8": "Okay, Bh6 looks good keeps up pressure.",
+        "16. Bh6 Nc6": "17. Bxg7+ Kxg7 \r\n18. h8=Q+ Rxh8 \r\n19. Qg5+ Kf8 \r\n20. Rxh8+  \r\n",
+        "17. Bxg7+ Kxg7": "Going according to plan",
+        "18. h8=Q+ Rxh8 19. Qg5+": "Mate cannot be avoided."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=35361",
+    "gameName": "Team match",
+    "players": "4boys (1537) vs. prcpower (1722)",
+    "opening": "Pirc defence (B07)"
+}

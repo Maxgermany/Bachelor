@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. e5 cxd4 8. Qa4+ Nc6 9. O-O-O Bd7 10. Ne4 Be7 11. exf6 gxf6 12. Bh4 Qc7": "N\u00e4ib, et v\u00e4\u00e4rt uuendus. Seni on suurmeistrite praktikas esinenud 12... Vc8, 12... a6, 12... Rb4,  12... e5 ja 12... Ra5.",
+        "13. Kb1": "Anal\u00fc\u00fcsisin pisut j\u00e4tku 13. Og3 e5 14. Lxc4. Paistab, et mustal on sel juhul taskus v\u00e4hemalt viik - 14...b5 15. Lc2 La5 16. a3 Vc8 17. Kb1 b4 18. a4 b3 19. Lxb3 Rb4 20. Ob5 Oxb5 21. axb5 Rc2 22. La2 Lxb5 23. Vd2 Ra3+ 24. Ka1 Rc2+ 25. Kb1... aga k\u00f5rvalvariante leiab suure t\u00f5en\u00e4osusega ikka \u00fcksjagu ning pole v\u00f5imatu, et kusagil on ka paremaid v\u00f5imalusi.\n",
+        "13... Qf4 14. Re1 Nb4 15. Qxb4": "Huvitav oleks teada, mis oli mustal varuks 15. Ld1 (15...c3 16. Lc1!) peale. Rjazantsevi lipukahing on ilus, kuid usun, et siiski ebakorrektne.\n",
+        "15... Bxb4 16. Nxf6+ Kd8 17. Re4 Qf5 18. Ne5": "P\u00e4rast 18. Oxc4 Oe7! 19. Od3! Oxf6 20. Vxd4 Ke8!! 21. Oxf5 Oxd4 22. Rxd4 exf5 23. Ve1+ Kf8 j\u00e4\u00e4b mustale enamkvaliteet.\n",
+        "18... Bc6": "Hea k\u00e4ik on Fritzu arvates 18... Oe7! 19. Rexd7 (19. g4 Lxe4+ 20. Rxe4 Oxh4 21. Rxf7+ Ke7 22. Rxh8 b5) 19... b5 20. Oe2 Vxf6 21. Rxf6 Kc7\n",
+        "19. g4": "N\u00fc\u00fcd tuleb lipp tagastada. Lauale j\u00e4\u00e4b umbkaudse materiaalse v\u00f5rdsuse juures m\u00f5lemapoolsete v\u00f5imalustega seis.",
+        "19... Qxe5 20. Rxe5 Bxh1 21. Nd5+ Kd7 22. Nxb4 d3 23. a4 Rhg8 24. h3 f5 25. Bg3 a5 26. Na2 fxg4 27. Nc3 Raf8 28. Rc5 Rxf2": "Vau. Kes oleks seda osanud oodata?",
+        "29. Bxf2 Rf8 30. Nd1 Bf3": "31...g3!",
+        "31. Ne3 Bd5 32. Be1": "32. Og1!\n",
+        "32... Rf3 33. Bd2 b6 34. Rb5 Rf2 35. Be1 Rf3 36. Bd2 Rf2": "Viik."
+    },
+    "url": "https://gameknot.com/annotation.pl/11-karpov-poikovski?gm=31901",
+    "gameName": "11. Karpov, Poikovski",
+    "players": "Rjazantsev, A. (2674) vs. Naiditsch, A. (2686)",
+    "opening": "Queen's pawn game (E10)"
+}

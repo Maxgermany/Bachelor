@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Team Match, I'm playing white and begin with the open game.",
+        "1... e5 2. Nf3 d6 3. d4": "Old Phil.",
+        "3... exd4 4. Qxd4": "I've been lately having lots of fun with this move, and probably will continue to do so until I get put in my place for it.",
+        "4... Nc6 5. Bb5 Bd7 6. Bxc6": "Black always attacks, white always pins, black always breaks, white always captures.",
+        "6... Bxc6 7. Nc3": "But now the white queen is relatively safe out there, domiating the center.",
+        "7... Be7 8. Qxg7": "Oops, a bit of a blunder that. 7. ... Be7? lets that domating queen capture a pawn and wreck black's kingside.",
+        "8... Bf6 9. Qg3 Qe7 10. O-O": "Indirectly defending the pawn on e4. If black plays 10. ... Bxe4?, white responds with 11. Nxe4 and now if 11. ... Qxe4?? white wins black's queen with 12. Re1, skewering her to her king.",
+        "10... O-O-O 11. Nd2": "11. Re1 seemed a more progressive defense of the pawn at e4, but I also worried about 11. ... Bxc3 and wanted the white queen to be able to recapture.",
+        "11... Bxc3 12. Qxc3": "See? Now not 12. ... Bxe4? losing the rook on h8 to 13. Qxh8.",
+        "12... Nf6 13. f3 Kb8 14. Nc4 d5 15. Bg5": "No time for the en prise knight, there's bigger game afoot.",
+        "15... Qc5+ 16. Kh1 d4 17. Qd2": "Black is getting tiresome. His discovered attack against the white queen exposes an attack by his queen against the white bishop on g5. Only one move can save them both. The knight at c4 is still en prise, but that is of no consequence at the moment.",
+        "17... Rhe8 18. Bxf6": "17. ... Rhe8 was a mistake that costs black the exchange. However, he had little better, though 17. ... Qe7 defends the black knight at f6, but leaves the knight pinned and vulnerable to attack, such as with 18. Qf4.",
+        "18... Rd7 19. Na5": "Rescuing the white knight.",
+        "19... Rd6 20. Nb3 Qh5 21. Bxd4": "Rescuing the white bishop. All is good, white won a free piece and another pawn.",
+        "21... Qg6 22. Qf2": "Unpinning the white bishop with a threat against the black pawn at a7.",
+        "22... b6 23. Qg3 Qxg3 24. hxg3": "Queens off the board limits black's counterplay.",
+        "24... Bd7 25. Be3 Be6 26. Rad1 Bxb3 27. cxb3": "More exchanges favoring white's material advantage.",
+        "27... Rxd1 28. Rxd1": "Ditto",
+        "28... Re5 29. Bf4 Rh5+ 30. Kg1 Kb7 31. Rd7": "Forking two pawns.",
+        "31... Rc5 32. Rxf7 Rc2 33. Rxc7+": "Enough is enough. Sure, this loses material, but it forces black to trade off his last piece, leaving white a huge majority of 7 pawns vs. 3 pawns.",
+        "33... Rxc7 34. Bxc7 Kxc7 35. Kf2": "King to the center to promote a pawn.",
+        "35... Kd6 36. f4 a5 37. Ke3 Ke6 38. Kd4 Ke7 39. Ke5": "Opposition, supporting two passed pawns. Black's pawns on the flanks are going nowhere. With nothing left to play for, black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/bigger-game-afoot?gm=22893",
+    "gameName": "Bigger Game Afoot",
+    "players": "blake84120 (1839) vs. rafabio (1547)",
+    "opening": "Philidor (C41), Boden variation"
+}

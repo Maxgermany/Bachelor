@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. c4 g6 3. b4": "this move transforms the game to Polish Game.",
+        "3... d5 4. cxd5 Nxd5 5. Bb2 Rg8": "a weak move, better is 5- ..... Nf6",
+        "6. a3 Bh6 7. d4 c6 8. e4 Nc7 9. Nbd2 e6 10. e5 Bf8": "forced retreat, to prevent White of occupying d6 ",
+        "11. Ne4 Be7 12. Qd2 g5 13. h4 g4 14. Nfg5 Rg7 15. Ng3 Bxg5 16. hxg5 Nd5 17. Ne4 Kd7 18. Nf6+ Kc7 19. Bd3 Nd7 20. g3": "a strong move! White threatens 21- Bxh7 and after Qh8 Bishop can retreat to e4. Meanwhile, the pawn in g3 prevents the advance of Black's g pawn and the Knight's advance to f4",
+        "20... Nf8 21. b5 Bd7 22. a4 Rc8 23. Ba3": "the threat is mate in two, 24. Bd5 Kb6 25. a5 # ",
+        "23... Ra8": "unfortunately, 23. ..... Kb1 will be met by 24. Bxf1 and the Black Queen can not take the Bishop because 24. ..... Qxf1 will be punished by Nxd7 and neat fork \n\n",
+        "24. Rc1 Nxf6 25. gxf6 Rg8 26. Bd6+ Kc8 27. bxc6 Bxc6 28. d5 exd5 29. Bf5+ Ne6 30. Qxd5 Qd7 31. Rxh7": "a lethal attack, after 32. Rxf7 Qxf7 another neat fork by the Bishop this time",
+        "31... Kd8 32. Qa5+ Ke8 33. Bxg4": "the Black is totally paralysed of course the Bishop can not be taken",
+        "33... Rc8 34. Bh5 Ng5 35. Rg7 Qf5": "an attempt to mobilize his forces to launch a counter attack, as he can not the Rook in g7 !! simply because the f-pawn recapture the black rook and then get a promotion. There is no force on the board can prevent of delay this Queening process.",
+        "36. Rxg8+ Kd7 37. Rxc8 Qe4+ 38. Be2 Nf3+": "Ooops, the White wizard is trapped, moving to f1 will give Black a chance to claim draw by playing Nh2 - Nf3",
+        "39. Kd1 Bxa4+": "the Black avoided the sorcerer's trap, 39. ..... Qd4+ 40. Kc2\tBxa4+ 41. Kb1 Nd2+ 42. Qxd2 Qxd2 43. Bg4#",
+        "40. Rc1c2 Qd4+ 41. Bd3": "simply, the White wizard avoids the mate in c1 41. ..... Qa1 # ",
+        "41... Qxd3+": "a sacrifice was needed to escape ",
+        "42. Kc1": "now, there are more dangerous checks for Black, Qf1+ is useless, White King flees to b2 safely ",
+        "42... Bxc2 43. Qc7+": "After the Black Powder smoke is gone it is White's turn to fire and marches to a victory",
+        "43... Ke6 44. Qe7+ Kf5 45. Qd7+": "and Black resigned \nThere are two unavoidable mates a) 45. .....Ke4 46. Qg4+ Kd5 47. Rc5 #\nand b) 45. ..... Kg6 or g5 46. Rg8+ Kh4 47. Qh3+ Nh4 48. Qxh4 #\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/republican-championship-of-egypt?gm=30564",
+    "gameName": "Republican Championship of Egypt",
+    "players": "Saad Zaghloul Bassiouny  vs. Ahmed Mahmoud Nedjm ",
+    "opening": "Reti opening (A05)"
+}

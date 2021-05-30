@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "This is another Walking the Walk and Learning to Run MT but unlike my last game where I lost to a high rated myevilluck I tasted victory against a much lower rated chrisforbes21 who played well, but played 2 losing blunders. I hope you enjoy!",
+        "1... Nc6": "Nimzowitch defense ",
+        "2. d4 d5": "This is the line Aron Nimzowitch played followed by 3.e5 Bf5",
+        "3. e5 Bf5 4. Be3": "Developing, I think slightly better was 4.Nf3",
+        "4... e6": "Letting out my DSB and Queen",
+        "5. Bd3": "Trying to force the trade",
+        "5... Nge7": "I protect the Bishop. I think this was necessary because if I played something else then 6.Bxf5 exf5 ruins my pawn structure,",
+        "6. g4 Bxd3": "I think Slightly better was 6. ....Bg6",
+        "7. Qxd3 h5": "Trying to give the f5 square to my knight",
+        "8. g5 Nf5": "Continuing with my plan.",
+        "9. Ne2 Nb4": "I thought a lot about this move, and I thought it was best because It forces the Queen to d2 unless you want to lose a pawn",
+        "10. Qb5+": "? I don't really understand this move",
+        "10... c6 11. Qa4": "Protects c2",
+        "11... Nxe3 12. Na3": "?? Gives me a free Bishop",
+        "12... Nf5 13. Rg1": "Protects the pawn on g5",
+        "13... Qb6": "Attack d4",
+        "14. g6 Nxd4 15. O-O-O": "?? This is just a really bad blunder that loses a ton of material",
+        "15... Nxe2+ 16. Kb1 Nxg1 17. Rxg1 Qxf2 18. gxf7+ Kxf7 19. Rc1": "? Hangs the other pawn.",
+        "19... Qxh2 20. c3 Nd3": "Threatens Mate,",
+        "21. Qd1": "Does not stop Mate.",
+        "21... Qxb2#": "That's all she wrote for chrisforbes21. Please feel free to comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/walking-the-walk-and-learning-to-run-mt-part-4?gm=48166",
+    "gameName": "Walking the Walk and Learning to Run MT Part 4",
+    "players": "chrisforbes21 (1164) vs. sanjay2000 (1522)",
+    "opening": "KP (B00), Nimzovich defence, Marshall gambit"
+}

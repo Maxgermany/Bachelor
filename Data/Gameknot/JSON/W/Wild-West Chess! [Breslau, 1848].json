@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4": "As a man of honor, Anderssen must accept the gambit!",
+        "3. Bc4 Qh4+": "Anderssen attacks at once, forcing Harrwitz' monarch to bestir himself.",
+        "4. Kf1 Bc5": "Only move 4, and already Anderssen threatens 5... Q-B7 mate!",
+        "5. d4": "Harrwitz not only cuts off the Bishop, he opens lines for his own attack.",
+        "5... Bb6 6. Nf3": "Driving back Anderssen's Q.",
+        "6... Qe7 7. Nc3 Nf6 8. e5": "Harrwitz' counterattack begins now. ",
+        "8... Nh5 9. Nd5": "Centralizing the Knight with tempo.",
+        "9... Qd8 10. g4": "Attempting to drive the Knight.",
+        "10... fxg3 e.p.": "Anderssen instead captures the Pawn.",
+        "11. Bg5 f6": "Forced to avoid losing material.",
+        "12. exf6 gxf6": "Thinking the Bishop must retreat. But...",
+        "13. Ne5": "Harrwitz proceeds with the attack against Anderssen's denuded K-side.",
+        "13... O-O": "This doesn't help, but Anderssen's real problem his his useless Q-side pieces.",
+        "14. Qxh5": "Bringing the powerful Queen to bear on Black's helpless King.",
+        "14... fxg5+": "14... PxN dis ch is equally bad. With 4 pieces assaulting his K, Anderssen is in big trouble.",
+        "15. Nf6+": "This double check forces mate in 2.",
+        "15... Kg7": "15... K-R1 ends the game a move sooner [16 QxP mate].",
+        "16. Qxh7+": "Closing in.",
+        "16... Kxf6": "Forced.",
+        "17. Ng4#": "A smashing attacking game by Harrwitz."
+    },
+    "url": "https://gameknot.com/annotation.pl/wild-west-chess-breslau-1848?gm=37356",
+    "gameName": "Wild-West Chess! [Breslau, 1848]",
+    "players": "Daniel Harrwitz  vs. Adolph Anderssen ",
+    "opening": "KGA (C33), bishop's gambit, Greco variation"
+}

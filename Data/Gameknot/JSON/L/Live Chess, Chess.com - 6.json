@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. c3": "My favorite opening. The Ponziani. Although it's not the main choice among the elite, it has been successfully used by Magnus Carlsen, back in the Wijk an Zee tournament of 2013 when he beat Harikrishna from this opening. ",
+        "3... Nf6 4. d4 exd4 5. e5 Nd5 6. Qb3 Nce7": "?! This is already quite dubious for black",
+        "7. Bc4 c6 8. cxd4 h6 9. Nc3 Qa5 10. Bd2 Qb4 11. Nxd5 Qxb3 12. Nc7+ Kd8 13. axb3": "Hoping to use the a-file. Was thinking Ba5+, b6, Bxb6 using the pin on the a-pawn, but for the moment black has Kxb6. ",
+        "13... Kxc7 14. Bxf7": "The point of the whole combination. White wins a pawn and black really struggles with development.",
+        "14... d5": "?! Gives white a passed e-pawn, but it opens up for development...",
+        "15. O-O": "Connecting the rooks.",
+        "15... Nf5 16. b4": "Locking down on c5 which would undermine my passed e-pawn making it possibly a weak pawn rather than a strenght. ",
+        "16... b5": "? This is very dubious. Gives me an obvious target on c6. ",
+        "17. Rac1": "Attacking d5 indirectly because of the c-file pin. I dont know if neglecting the a-file by playing Rac1 was the most precise way here. Rfc1 is interesting as well, but I wanted to be able to play this rook to the e-file if ever pushing e6 becomes useful.",
+        "17... Bd7 18. Bxd5 Ne7 19. Be4 Kb6 20. Ne1": "This knight is heading for c5",
+        "20... Bf5 21. f3": "Taking was never an option. If black dares take on e4 that Ne7 looks like a donkey and wont ever use any good squares. A good example that doubled pawns are potentially really useful, especially in the center.",
+        "21... g5 22. g4": "Asking black why he moved to f5 and asking if he wants to double my pawns. The downside , that f4 is now weak didn't worry me because there's limited targets for the knight from there, while the bishop will never ever get there unless i play e6 - which I would only do under the right circumstances. ",
+        "22... Be6 23. Nd3 Bc4 24. Be3": "?! This move is theoretically good, lining the bishop up on the same diagonal as the black king. But in this concrete position black has a good reply in.. Nd5, which was played",
+        "24... Nd5": "Blockade the pawns and leaving my dark square bishop rather passive behind d4. ",
+        "25. Bf2 Bxd3": "Wins one pawn back, but there's now some light squares to exploit. I love my light square bishop here, it will now rule the board!",
+        "26. Bxd3 Bxb4 27. Be4 Rad8 28. Rc2 Rd7 29. Rfc1 Rc7": "?? It's a difficult position, but this just drops a piece, using the pin on the c-pawn. ",
+        "30. Bxd5 Rhc8 31. Be4": "?! Stronger was the tactical Bxc6",
+        "31... a5": "Desperate attempt for counterplay with the queenside pawn majority, but it's way to late for that. ",
+        "32. d5+": "! d6 is coming through with force and black does the most common thing in such positions, he resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/live-chess-chess-com?gm=57649",
+    "gameName": "Live Chess, Chess.com",
+    "players": "MrUlekleiv (1627) vs. ravikumar77 (1570)",
+    "opening": "Ponziani (C44), Fraser defence"
+}

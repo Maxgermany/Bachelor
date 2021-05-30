@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6": "First 6 moves of the good 'ol Benoni 6 (A65)\r\n",
+        "7. Bf4": "perhaps white should wait a little to make this move, as the bishop could be harassed by Nh5 now. Bf4 is indeed a good move, though, and I didn't play Nh5. ",
+        "7... Qe7": "Developing the queen and hitting e4. Looking back I think Nh5 is better. ",
+        "8. Nb5": "A surprising move, indeed, but not a bad one. I think however, better for white is Nf3, or maybe Qc2. Both moves save e4 and give white good position. (If 8)Nf3 Nxe4 9)Qa5  wins a piece). Instead, the following moves leave black in an at least okay situation. I feel that white was better after my not so hot Qe7 move. ",
+        "8... Qxe4+ 9. Qe2": "..forced.",
+        "9... Qxe2+ 10. Bxe2": "This is the situation I assume white saw when he played Nb5. He'll lose a pawn, but have nice pressure on the black king and invasive pieces in return. ",
+        "10... Nxd5": "I could have tryed to hold the position with Kd7, and probably should have. Another mini mistake for me. ",
+        "11. Bxd6": "I really think Nxd6  with the bishop pair for white is stronger. ",
+        "11... Bxd6 12. Nxd6+ Ke7 13. Nxc8+ Rxc8 14. Bf3": "Setting up an odd position. ",
+        "14... Nb4": "The only move that doesn't fail materialwise..",
+        "15. Bxb7 Nc2+ 16. Ke2 Nxa1 17. Bxc8": "Hard to believe this is a mistake of a move, but it is. Nf3 is better, as the rooks remain forked, and the black knight must scurry away. ",
+        "17... Nc6 18. Nf3 Nc2 19. Bh3 Rb8 20. Rb1": "A mistake, losing a pawn. ",
+        "20... Na3 21. Rd1 Rxb2+ 22. Rd2 Rb7 23. Bc8": "It looks like a fine move, but white is getting his bishop in the line of fire. ",
+        "23... Rc7 24. Ba6": "Rd3 is much much stronger. ",
+        "24... Nb4": "White's bishop is going to either hang or be the stepladder to black promoting the c pawn. The game is over. ",
+        "25. Bd3 c4": "If the bishop doesn't fall now, it will soon. "
+    },
+    "url": "https://gameknot.com/annotation.pl/thematic-benoni-6-for-fast-players-only?gm=15429",
+    "gameName": "Thematic Benoni 6 for FAST players only",
+    "players": "altera (1857) vs. jakey101 (1813)",
+    "opening": "Benoni (A66), pawn storm variation"
+}

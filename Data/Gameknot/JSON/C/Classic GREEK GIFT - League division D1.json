@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 5. cxd5 Nxd5 6. Bd2 Bxc3 7. bxc3 O-O 8. e4 Ne7 9. Bd3": "Set up Bd3 to attack h7, in absence of a knight on f6...",
+        "9... Bd7 10. O-O Ng6 11. e5 Ne7": "?? exposes pawn on h6",
+        "12. Bxh7+": "The GREEK GIFT is offered - classic sacrifice which, if accepted leads to exposed king if not mate.",
+        "12... Kxh7": "Gift accepted...",
+        "13. Ng5+": "Knight moves in. Unfortunately, 11.Ne7 allows this piece a very strong square.",
+        "13... Kg8 14. Qh5": "Mate inevitable on h7.",
+        "14... Ng6": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/classic-greek-gift-league-division-d1?gm=16324",
+    "gameName": "Classic GREEK GIFT - League division D1",
+    "players": "deejie (1513) vs. killkingagn (1445)",
+    "opening": "QGD Slav (D30)"
+}

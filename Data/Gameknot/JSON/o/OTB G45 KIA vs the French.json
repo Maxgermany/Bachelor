@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "This is a game I played OTB - G45 with a friend.  I don't normally play 1. e4, but I have been experimenting with various lines to increase my chess knowledge.",
+        "1... e6 2. d3": "Intending to keep the position closed along the lines of the KIA.  My friend and I have played dozens of main line classical French lines, so I wanted to deviate to increase my practical chances.",
+        "2... d5 3. Nd2 c5": "This is the most aggresive continuation.  Black takes immediate advantage of the fact that White has held back his d4 pawn.  3..Nf6 is an interesting line of play, intending 4...b6.  Before I switched to the Sicilian, this was my favorite line against the KIA in the French.  For more information, see Watson's \"Play the French\".",
+        "4. Ngf3 Nc6 5. g3 Bd6": "Black intends to play aggressively, and can get a very solid game with a lot of dynamic chances, as long as he follows up with the correct development plan.",
+        "6. Bg2 Nf6": "This is clearly not it.  The best is 6...Nge7.  Now the constant threat of the fork on e5 causes Black some problems.",
+        "7. O-O O-O 8. Re1": "Threatening e5!",
+        "8... Qc7 9. Qe2": "This can prove to be a little annoying for Black.",
+        "9... dxe4": "Best is probably ...Be7, although if Black doesnt want to admit the mistake, then he can play ...e5 and after ed, Nxd5; c3, Bf5; at least has good piece play, although White's position is looking much better, with the e4-square for his pieces and the weak e5 pawn as a target.",
+        "10. dxe4": "Fritz likes the knight capture, but I liked the idea of opening the d-file and either playing e5, or forcing Black to make his bishop bad by playing it first.",
+        "10... e5": "Keeps the dark-square bishop passive, and weakens d5 and f5.",
+        "11. c3": "Necessary to take away the d4 and b4-squares from the Black knight.",
+        "11... h6": "This is a waste of time and critically weakens the Black kingside for no good reason.",
+        "12. Nc4": "The Queen's knight eyes the e3 square with plans of going to f5.",
+        "12... Be7 13. Ne3 Be6": "Black is finally developed, but the White pieces are better poised to take advantage of the Black weaknesses.  Indeed, White's only weakness, e4, is protected by tactical means.  If 13...Nxe4 14. Nd5, winning the piece.",
+        "14. Nh4": "With 13...Be6, Black now threatens to take on e4, however, Nh4 not only discovers a bishop defense, but naturally aims both knights at the weak f5-square.",
+        "14... g6": "If the pawn were not on h6, then this move wouldn't lose the pawn, but it would critically weaken the dark-squares.",
+        "15. Nd5 Qd8": "Also bad, however both captures dont help Black much.  ...Qb8 would keep the Queen of of the d-file.",
+        "16. Bxh6 Re8 17. Rad1": "Developing with threat to include all pieces in the attack.",
+        "17... Qc8 18. Nxe7+": "The plan is to remove the dark-squared bishop before Black can shore up the dark-squares.",
+        "18... Nxe7 19. Rd6 Ng4 20. Qd2 Kh7 21. Bg5 f6 22. Be3 Nxe3 23. Qxe3 Kg7 24. f4 Rh8 25. fxe5 fxe5 26. Qg5": "Black resigns, as the dual threat of Qxe7 and Qxe5  are too much."
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-g45-kia-vs-the-french?gm=4190",
+    "gameName": "OTB G45 KIA vs the French",
+    "players": "ME  vs. A Friend ",
+    "opening": "French (C00), Reversed Philidor formation"
+}

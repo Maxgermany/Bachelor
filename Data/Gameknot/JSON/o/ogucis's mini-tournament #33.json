@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "My usual.",
+        "1... Nc6": "slightly odd. but ok.",
+        "2. Nf3": "sticking with my usual setup. ",
+        "2... d5": "kind of delayed center counter. I love an open game!",
+        "3. exd5 Qxd5 4. Nc3": "similar to the center counter I develop with tempo",
+        "4... Qd8 5. d4 Bg4": "pinning the knight.",
+        "6. d5": "this pawn was threatened, now he cannot take it.",
+        "6... Ne5": "??",
+        "7. Nxe5": "the queen sacrifice?",
+        "7... Bxd1 8. Bb5+": "he is already at least down a piece here.",
+        "8... c6 9. dxc6 Qc7": "?? Best is a6 or e6 and down a piece. This is just lost.",
+        "10. cxb7+": "and he resigns, completely lost."
+    },
+    "url": "https://gameknot.com/annotation.pl/oguciss-mini-tournament-33?gm=24059",
+    "gameName": "ogucis's mini-tournament #33",
+    "players": "jeffegg2 (1491) vs. slis (1549)",
+    "opening": "KP (B00), Nimzovich defence"
+}

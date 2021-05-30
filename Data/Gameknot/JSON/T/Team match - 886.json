@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "King's pawn opening",
+        "1... e5 2. Nf3 d6": "Phildor's Defense",
+        "3. Bc4 Bg4": "Pinning the Knight and developing, white has two choices to break the pin, h3 or Be2 he didn't want to move the bishop twice in a row so",
+        "4. h3 Bh5": "The Knight is still pinned but g4 is a mistake",
+        "5. c3": "Supporting the d4 thrust, in retrospect a poor move, it blocks the white knight's development to the center and allows black to gain temp with Nf6.\n\n5...Nf6 attacks apawn with few good defensive moves.",
+        "5... Nf6": "Attacking and developing",
+        "6. d3": "d3 allows continued development, threatens pinning the f3 knight and protects the e4 pawn.\n\nOther moves don't seem effective\n\nQc3 would double my kingside pawns after Bxf3\nBd3 blocks the advance of my d2 pawn which was the point of c3\n",
+        "6... h6": "Avoiding the pin on the Nf6",
+        "7. Nbd2": "Maybe not the best move, hems in the dark squared bishop\n\nHowever, protects the knight so the queen can safely move without worrying about doubled pawns on the kingside.",
+        "7... d5": "Trying to give the dark squared bishop more space",
+        "8. exd5 Nxd5 9. Qb3": "threatening the Knight, the b7 pawn, and the e5 pawn",
+        "9... Nb6": "Bishop is protecting f7, so I prepare to take e5.\n\nNxe5 right away is a mistake because Qe7 pins and wins the knight",
+        "10. O-O Nxc4 11. Qxc4 Bd6": "Preparing the kingside castle",
+        "12. Nh2": "White want his Knight on e4 but still afraid of doubled pawns in front of his king",
+        "12... Nd7 13. Ne4": "freeing up the bishop",
+        "13... f5": "Planning to castle Queenside and attack Kingside",
+        "14. Ng3 Bg6": "Bg6?, In trying to save the pawn Black loses a bishop, better is Bf7. 15 Qa4 Be6.  Still protecting the pawn, allowing for king side expansion against the castled king.",
+        "15. Qe6+": "And the bishop is lost",
+        "15... Qe7 16. Qxg6+ Qf7 17. Qxf5": "Trading queens probably a better move.  While White's queen is very active there are few supporting pieces to continue the attack.  Black wants to keep his queen to develop a counterattack and maybe win back his bishop.  White's queen is also prone to harrassment by black's surrounding minor pieces.",
+        "17... Nf6 18. Ne4 O-O": "trying to generate an attack against white's queen",
+        "19. Nxd6": "Trading material towards a K vs K,B,P endgame",
+        "19... cxd6 20. f4": "f4??",
+        "20... g6": "g6! White's queen has no flight squares! White's previous move f4 blocks f3, White's last safe square.\r\n\r\n21. Ng4! offers some interesting counterplay threatening Nxh6  winning black's queen. A move neither my opponent or I had contemplated and probably would have saved white's game. Black's active King probably won't be enough to stave off white's bishop and kingside pawns."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=1262",
+    "gameName": "Team match",
+    "players": "toto0207 (1481) vs. cheg1 (1470)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

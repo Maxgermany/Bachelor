@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I started two games with ekkieandrosie simulataneously.  In this one I play black.",
+        "1... c5": "I used to avoid this play but I am growing fonder of it.",
+        "2. Nf3": "This is how I respond to c4 so I've seen the resulting situations a lot.",
+        "2... e6 3. e5 Nc6 4. Nc3 d5": "I feel as though at this pace its going to be hard for white to regain the center.",
+        "5. exd6 e.p. Bxd6 6. Bb5 Bd7 7. O-O Nge7 8. Bxc6 Bxc6": "I like the bishops both targeting the king. And I didn't recapture with the knight because I want it on the kingside.",
+        "9. d4": "Now he wants to battle...",
+        "9... Qc7": "Threatening bxf6...bxh2+",
+        "10. Re1 cxd4": "If knight recaptures then bxh2+ and if queen takes then bxf3 forcing gxf3 which would weaken the defense of his king.",
+        "11. Qxd4 Bxf3 12. Ne4": "I don't understand this move. Maybe he didn't figure the bishop was worth weakening his king position but why let me just trade away pieces when I am already up.",
+        "12... Bxe4 13. Rxe4": "He now was big guns in the center but they are subject to harassment because of their high value.",
+        "13... Bxh2+": "Now comes that...",
+        "14. Kh1 Rd8": "watch rd1+...checkmate",
+        "15. Qa4+": "Interrupts it",
+        "15... Nc6 16. Be3": "Now his a-rook is defending against the mating attack",
+        "16... O-O": "take a step back to defend and get the development of my other rook going.",
+        "17. f4 Bg3 18. b4 Rd5": "two things. first this allows the rook to check by moving to d1 or h5. and it allows the f rook to move in behind it on the d column. ",
+        "19. b5 Rfd8": "threatening the mating attack again",
+        "20. c4": "now queen defends against it. ",
+        "20... Rh5+ 21. Kg1 Ne7 22. Bxa7 Bxf4 23. Rf1": "at this point he has trapped his king too much to escape without damage",
+        "23... Bh2+ 24. Kf2 Qg3+ 25. Ke2 Qxg2+ 26. Ke1 Qxe4+ 27. Kf2 Rd2#": "and there it is. with his queen trapped uselessly behind those pawns"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=24465",
+    "gameName": "Let's play chess",
+    "players": "ekkieandrosie (1368) vs. elipsky (1386)",
+    "opening": "Sicilian defence (B40)"
+}

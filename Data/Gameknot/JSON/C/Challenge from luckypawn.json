@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "{C38: King's Gambit Accepted: 3 Nf3 g5 4 Bc4 Bg7}\nThis is not a standard annotation, it is just Fritz's analysis of variations copied and pasted (my brief comments are those not in parenthesis).  At the beginning of every relevant move a number is given by Fritz which indicates who is winning in terms of pawns, positive for white and negative for black. It is only intended to allow Luckpawn and I to have a look at our game and see where we went wrong tactically - so if you could refrain from giving it a bad rating then that would be great, thanks.  ;) The threshold for blunders was set at 1 pawn (i.e moves that lose the equivalent of 1 or more pawns have variations suggested).\n",
+        "1... e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O": "(0.12)\n\n{last book move}",
+        "5... Qe7 6. d4 d6": "(0.53)\n\n{Secures e5}",
+        "7. Nc3 Nc6": "(1.66)\n\n{7... c6 is the best chance}",
+        "8. Nd5 Qd8 9. Nxg5": "(2.49)\n\n{finishing the game}\n\n...apparently!",
+        "9... Bxd4+": "(3.21)\n\nBetter than 9... Qxg5 {A deflection} 10. Nxc7  {A double attack}",
+        "10. Kh1 h6": "(10.27)\n\nCauses many problems, much better is:\n(10... Nh6 11. Qh5 Bg7 12. Nxf4 O-O)",
+        "11. Nxf7": "(10.27)\n\n{Demolition of pawn structure}",
+        "11... Kxf7": "(11.65)\n\n{Decoy to f7}",
+        "12. Qh5+": "(5.50)\n\n12. Nxf4  Kg7 13. Nh5  is much better.",
+        "12... Kg7 13. Nxf4 Ne5": "(#4)\n\nAllows a mate in 4.",
+        "14. Nd3": "(-0.52)\n\nA horrendous blunder, misses the mate in four:\n14. Qg6  Nxg6\n15. Nh5  Kh7\n16. Rf7  Bg7\n17. Rxg7#   for some strange reason I missed this last move! I had looked at the queen sacrifice for quite a while and thought it looked promising but for some reason I completely overlooked what should have been the easiest move of the combination! ",
+        "14... Rh7 15. c3": "(-2.25)\n\nNxe5 was much better.",
+        "15... Bg4 16. Rf7+ Nxf7": "(0.20)\n\n{Sacrifices material. what a pity, victory was in sight. Deflection from g4}\n(16... Kh8 {and Black wins} \n17. Rxh7  Kxh7 \n18. Bxg8  Kxg8 \n19. Qxh6 Qf8 \n20. Qg5  Qg7 \n21. Qxg7  Kxg7)",
+        "17. Qxf7+": "(-1.02)\n\nQxg4  is better.",
+        "17... Kh8 18. Qf4 Nf6": "(1.00)\n\n18...b5 is better",
+        "19. cxd4 Qe7": "(1.63)\n\n{e4 becomes a target}\n(19... Be2 {and Black hangs on})",
+        "20. e5 d5": "(4.03)\n\n(20... Rf8 21. Bd2 Be2 22. exf6 Rxf6) is better",
+        "21. exf6 Qe2 22. f7 Qd1+ 23. Ne1 Qxe1+ 24. Bf1": "All optimal moves from 21 to 24 for both sides.",
+        "24... Rf8": "(#3)\n\nMistake, mate in three now possible.\n\n(24... Qe7 {the only chance to get some counterplay}",
+        "25. Qf6+ Rg7 26. Qxh6+ Rh7 27. Qxf8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-luckypawn?gm=2302",
+    "gameName": "Challenge from luckypawn",
+    "players": "mattdw (1589) vs. luckypawn (1553)",
+    "opening": "KGA (C38), Hanstein gambit"
+}

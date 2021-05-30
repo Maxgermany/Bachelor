@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. Nf3": "I'm playing white, and this is my preferred opening at present.",
+        "1... d5": "This is the standard response",
+        "2. c4": "Rather than D4, this immediately threatens to disrupt his centre.",
+        "2... dxc4 3. e3 b5": "He seems keen to hold onto his slim material advantage.",
+        "4. b3 cxb3 5. Bxb5+": "No need to worry about the other pawn yet.",
+        "5... c6 6. Bc4 bxa2 7. Nc3": "There's no way he can save the pawn really, so there's no hurry to take it.",
+        "7... Nf6 8. Qb3": "Attacking f7.",
+        "8... e6 9. Rxa2 Qc7 10. O-O Nbd7": "I was hoping he'd do this as he's weakened his e pawn.",
+        "11. Ng5": "I need back-up for my attack.",
+        "11... h6": "I could have backed off here, but thought it was worth going all out.",
+        "12. Bxe6 fxe6": "He should have taken the knight there, now he's in trouble.",
+        "13. Qxe6+ Be7": "King d8 loses, but then so does this!",
+        "14. Qf7+ Kd8 15. Ne6#": "very satisfying."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2?gm=5797",
+    "gameName": "League division D2",
+    "players": "alexmilne (1462) vs. odor (1516)",
+    "opening": "Reti accepted (A09), Keres variation"
+}

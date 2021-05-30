@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3": "French defense, main line.",
+        "4... g6 5. f4 Qc7 6. e5": "Setting up the usual Pawn formation and rendering lil' bro's intended fianchetto worse than useless...",
+        "6... Bh6": "...so he takes a different diagonal.",
+        "7. Nb3 cxd4 8. cxd4": "Solidifying my central Pawn wedge and opening the QB file. I decide I must occupy this file with a Rook as quickly as possible.",
+        "8... Bd7 9. Nh3": "Adding additional protection to the supporting P at KB4.",
+        "9... Ne7 10. Be3 Nf5": "Seizing a good outpost.",
+        "11. Rc1": "I counter by seizing the open file, as intended.",
+        "11... Qd8 12. Qd3 O-O 13. Nc5": "With my bro threatening to win a minor exchange, I position my Knight to win one back. If now 13... NxB, 14 NxB NxN 15 QxN and we've each lost a Bishop and a Knight.",
+        "13... Qa5+ 14. Kf2": "My King may appear exposed, but I'm confident that I can adequately protect it with 4 pieces nearby to guard.",
+        "14... Bc6": "14... QxP wins a Pawn. He overlooked it, or didn't want his Q in a position where it could easily be trapped.",
+        "15. a3 Na6 16. Bd2": "Getting my B out of the line of fire with a threat.",
+        "16... Bb5": "Anticipating 17 BxQ BxQ 18 BxB P-N3 forking and winning back the piece. However, this combination has a flaw.",
+        "17. Bxa5 Bxd3 18. Bxd3 b6 19. Nxa6": "The move he overlooked. Now Black ends up a piece down.",
+        "19... bxa5 20. Bxf5 gxf5 21. g3": "With a piece up, it's now just a matter of technique.",
+        "21... f6 22. exf6 Rxf6 23. Rhe1 Kf7 24. Ng5+": "My brother graciously conceded rather than play out the hopeless endgame."
+    },
+    "url": "https://gameknot.com/annotation.pl/bro-vs-bro-2nd-weekend?gm=36311",
+    "gameName": "Bro vs. bro, 2nd weekend",
+    "players": "Hellion  vs. Brother ",
+    "opening": "French (C07), Tarrasch, open variation"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Standard Roy Lopez",
+        "3... Nf6": "This is the Berlin defence a very solid defence for black. ",
+        "4. O-O": "castling and preparing to meet 4. ...Nxe4",
+        "4... Nxe4": "This is the whole point of why black plays 3. ...Nf6. Black grabs a pawn and plans to play Nd6 checking the bishop on b5.",
+        "5. Re1": "?! This the old main line that has fallen out of favor somewhat mostly because as this game proves black gets very good play from it. However, 5. d4!? is very dangerous for black. ",
+        "5... Nd6 6. Nxe5": "!? This is it folks. Nothing really earth shattering but it is a very cheeky response to black. White deferres the retreat of the bishop for a quick tactical shot. The idea is that white regains the pawn and if black plays 6. ...Nxb5?? 7. Nxc6+ winning the queen. So black's next move is forced",
+        "6... Be7": "Now black threatens 7. ...Nxe5 8. Rxe5 0-0 9. Nc3 Bf6 gaining tempo against white's rook. ",
+        "7. Bd3": "Now 7. Bf1 is played most of the time but I did not like the idea of placing my bishop on an useless square. So I opted for 7. Bd3 with prospects of attacking h7. The drawback of course is that the DSB is going to be hard to develop. ",
+        "7... Nxe5": "A strong move, Shirov Alexei 2695  - Ivanchuk Vassily 2740 , Monte Carlo 1995 went\n7... O-O 8. Nc3 Nxe5 9. Rxe5 c6 10. b3 Ne8 11. Qf3 d5 12. Bb21/2 1/2. This is blacks best since after 8. Rxe5 black can improve his pieces by attacking the rook.",
+        "8. Rxe5 O-O": "castles in order to be able to play Bf6 putting the bishop on a very nice diagonal.",
+        "9. Nc3": "Developing the knight and creating potential threats on f6 via Nd5",
+        "9... Bf6": "attacking the rook and improving the strength of the bishop\n",
+        "10. Re3": "Novelty. !? This is an interesting alternative to Re1 because it keeps the rook as active as possible. Now the attack on h7 is starting to take shape. This is exactly the types of positions that are very difficult to defend for black. He has no really counter play. White on the other hand has real prospects on h7. ",
+        "10... Bd4": "This is black's most active defense. Other defenses include ..Bg5 and ..g6 all lead to equality. The key for black is his active bishop and White's rook that has very few options. ",
+        "11. Bxh7+": "This is an immediate draw but on the other hand it also gives white the best chance to pull off a quick win. ",
+        "11... Kxh7 12. Qh5+ Kg8 13. Rh3": "Threatening mate on h8. ",
+        "13... f5": "!! the only move. As 13. ...f6 is better for white after. 14. Qd5! Rf7 15. Qxd4 Qe7 16. Kf1 Nf5 17. Qd3 and white's advantage is getting clearer. ",
+        "14. d3": "The threat is to play 15. Bg5 when something like 15. ...Qe8 16. Qh7+ Kf7 17. Kf1 Bxc3 18. bxc3 Qe6 19. Rh6! with a huge advantage. ",
+        "14... Ne8": "Defending against Bg5 by planning to interpose the knight on f6. ",
+        "15. Bg5": "The most aggressive since 15.Nd5 Nf6 16. Nxf6 Bxf6 17. Bf4 d6 is a very dull ending. \n\n\n",
+        "15... Nf6 16. Bxf6 Qxf6 17. Nd5": "The threat is 18.Nxf6 with mating net almost set",
+        "17... Qe5": "defending c7 with Qxc7",
+        "18. Nxc7 Bxf2+ 19. Kxf2 Qxc7 20. Qh7+": "The game ends in a draw by threefold rep. In conclusion, even though the game is a sure draw after 11. Bxh7 I feel that it is a good game for a novice to know since the pressure down the h-file maybe enough to scare a black opponent into a rash defense. Especially after 13. ...f6 after which 14. Qd5 could give what the upper hand. "
+    },
+    "url": "https://gameknot.com/annotation.pl/miniture-roy-lopez-berlin-defence-with-several-noveltys?gm=45690",
+    "gameName": "Miniture Roy Lopez berlin defence with several noveltys",
+    "players": "elyhim (2256) vs. armandon (2462)",
+    "opening": "Ruy Lopez (C67), Berlin defence, open variation"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Bxd5 Bb4+": "If I was going to take the bishop with my queen, I should have done it here, instead.  Really, though, I shouldn't have done it at all.",
+        "7. Nc3 Qxd5": "I thought I was so clever, his knight being pinned, but my bishop was just too close to his pawns, I couldn't maintain, and should have seen that in the first place.  It was at this point I lost my queen.",
+        "8. d4 exd4 9. a3 Ba5 10. b4 Bb6 11. Nxd5": "Ok, so at this point, I freaked out, and instead of protecting my pieces, I, um... I dunno.  ",
+        "11... O-O 12. Nxb6 Re8+": "This move turned out to be a crucial one, but I don't think I realized it at the time.  I think I was just trying to take back the rhythm of the game.  ",
+        "13. Kf1 Be6": "I don't think I even realized that my rook might be taken.  ",
+        "14. Nxa8": "after this move (14), I saw a potential winning scenario, made a comment to myself on what it would be so I would remember it, and watched to see if he would follow what I thought he would do.  The next four moves were exactly as I predicted.  I was way behind at this point, and so I don't know if I was lucky, or good.",
+        "14... Bc4+ 15. Kg1 Be2 16. Qd2 Ne5 17. Qxe2 Nxf3+ 18. Qxf3 Re1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=64",
+    "gameName": "Let's play chess",
+    "players": "genisis10 (1274) vs. ecawilson13 (1164)",
+    "opening": "Two knights defence (Modern bishop's opening) (C55)"
+}

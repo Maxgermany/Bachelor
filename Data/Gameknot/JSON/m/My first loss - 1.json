@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "So here we are at the start of my game against lougri. I felt like I could conquer the whole world, well, at least every chessplayer on Gameknot, having won my first 7 games on the server (including a mate in 7!). I'm an e4-player, but try to experiment with some openings on gameknot, exploring whether 1d4 might be a good choice in real games.",
+        "1... d5 2. c4 e5": "So of course I am not familiar with this opening. I sank into thoughts (which no-one notices on gameknot). I was wondering about 3.dxe5,dxc4 4.Qd8:,Kd8: and expected to have a small plus. However, after for example 5.e4,Nc6 6.f4 (or Nf3),Nb4 I wasn't able to find my plus anymore. It seemed that black was ok because he wins a tempo on my e5-pawn or something. And besides that, 3...,dxc4 isn't even forced. So an alternative.",
+        "3. e3": "I'm not so sure about this move.",
+        "3... exd4 4. exd4 Nf6 5. Nf3 Bb4+ 6. Nc3 O-O 7. Be2 Be6": "This was the first moment of happiness in this game for me. I didn't believe that black should place his bishop on this rather inactive square to win the pawn. In fact, I was a little bit happy to sacrifice it.",
+        "8. O-O dxc4 9. Bg5": "At least some active play, and it's hard to move the e6-bishop because of the c4-pawn. However, I didn't like my isolani on the d-file.",
+        "9... h6 10. Bh4 Nbd7 11. Qc2 c6": "Threatening b5. I have a choice now to continue the position with a pawn down and activate my pieces (Rac1, Rfd1, b3 and Ne4) or try to regain the pawn immediately with Ne4. I think I made the wrong choice.",
+        "12. Ne4 Be7": "I don't really know what I planned on b5, but in the game I didn't like this retreat. It forces me to exchange my active pieces against black less active ones. But at least I'm regaining my pawn.",
+        "13. Nxf6+ Bxf6 14. Bxf6 Qxf6 15. Bxc4 Rfe8 16. Rfd1": "Judging the finish of the game, it might have been better to exchange the light-squared bishops.",
+        "16... Bg4 17. Be2": "Rd3 wasn't possible because of Bf5 and 17.Qb3,Bf3: 18.Qf3:(or gf3:),Qf3: 19.gf3: didn't look too nice for me.",
+        "17... Re7": "18.h3,Bf5 19.Bd3,Bh3:",
+        "18. Rd2 Rae8": "Threatening Bf3:. I kinda missed that, again planned h3 but that's still not working. Also Ne5 isn't enough. Black is more active and has a healthier pawn structure. ",
+        "19. Kf1 Bxf3": "Didn't see that one coming either.",
+        "20. Bxf3 Qf4": "I'd love to play d5, but always got into Ne5 which seemed to ruin the last of my defence",
+        "21. Rad1 Qxh2 22. g3 Nf6 23. Qf5": "I was convinced that this would be a rather good defence.",
+        "23... Ne4": "but this move was already awkward. 24.Be4:,Re4: 25.Qf3,Qh3 26.Qg2,Re1 already loses. Since Re2 fails on Ng3:, my last defence was Rc2. Then 24...,Qg3:? 25.Be4: would be embarrassing, but also 24...,Ng3: 25.fg3: is not that clear fpr black, as the white queen suddenly defends his companion on c2 again. I really loved this discovered defence. Nevertheless, again I completely missed black's best move....",
+        "24. Rc2 Qxf2+": "Ai, was that a threat as well.....\nGood game by my opponent, brought me back with two feets on the ground. The end of a beautiful winning streak of 7 games, but of course it is also the start of a new winning streak, which hopefully lasts more than 7 games this time."
+    },
+    "url": "https://gameknot.com/annotation.pl/my-first-loss?gm=44161",
+    "gameName": "My first loss",
+    "players": "heartshapedbox (1592) vs. lougri (1888)",
+    "opening": "QGD (D08), Albin counter-gambit"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5": "1. ....... c5 (this is the Sicilian Defence - this pawn move is to prevent 2. d4 so I prepare it with 2. Nf3)",
+        "2. Nf3 e6": "2. ........ e6 (a pretty standard response to 2. Nf3)",
+        "3. d4 cxd4 4. Nxd4": "4. N x d4 (all book standard so far but Marin's next move takes me right out of the book - in the database there did not seem to be that many good lines for white after 4. ........... Qb6)",
+        "4... Qb6 5. Nb3": "5. Nb3 (I move the knight out of the way)",
+        "5... a6 6. Nc3": "6.  I get on with my development with 6. Nc3 - this move backs up the e pawn.",
+        "6... Nc6 7. Be3": "7. Be3 develops a piece and attacks the Wicked Witch of the West (my opponent's queen) and Marin hides her on c7.",
+        "7... Qc7 8. f4": "8. I consolidate the centre with f4",
+        "8... b5": "8. .......... b5 (a pawn roll - they are after my knights!!)",
+        "9. a3": "9. I try to halt this pawn roll with a3",
+        "9... Bb7": "9. ........ Bb7 (develops a piece, prepares queenside castling and puts pressure on my e pawn)",
+        "10. Be2 d6 11. Bf3": "11. Bf3 (my bishop zig-zags along to defend the pawn on e4 and challenge the b7 bishop's power on the h1-a8 diagonal)",
+        "11... Nf6": "11. ....... Nf6 develops a piece and more pressure on my e pawn!",
+        "12. O-O Be7 13. Qe2 O-O 14. Rad1": "From moves 12 to 14 I castle and complete my development by putting a rook on the half open d-file",
+        "14... Rac8 15. Qd3": "15. My queen comes to d3 to help guard the e pawn and has her beady eye on h7 - although in this game she never gets there!",
+        "15... b4": "15. ......... b4 (a pawn push forces an exchange of pawns which results in me having to move my queen to d2 on move 17).  Marin then pushes his pawn to d5.  Because my e pawn is under so much pressure I decide to exchange it.  Marin asked me whether I had considered e5?  Oops - maybe I have made the wrong decision.  There then follows a plethora of exchanges and I come off worse.",
+        "16. axb4 Nxb4 17. Qd2 d5 18. exd5 Nfxd5 19. Nxd5 Bxd5 20. Bxd5 Nxd5 21. Rdc1 Nxe3 22. Qxe3 a5": "22. ........ a5 - a pawn push threatening a removal of the guard by playing a4 so I move my queen off the pin line.  Maybe this was another mistake, judging by what followed next and I would have done much better to get my KING off the pin line instead!",
+        "23. Qe2 a4 24. Na1 Bf6": "24. ........... Bf6 (attacking the b pawn so I defend it by playing c4?? but this move loses because of the queen fork on b6 - maybe I should have played b3 instead).  Hindsight is always 20/20 vision (I think you have heard this before and may hear this many more times from me when playing 2000  players!!) so I now lose a pawn.",
+        "25. c4 Qb6+ 26. Kh1 Qxb2 27. Qd1": "27. I try and complicate things by attacking the a pawn by Qd1 but he simply pushes it on.  I spend the next few moves trying to win it but to no avail.",
+        "27... a3 28. Rb1 Qd4 29. Rb3 a2 30. Qxd4 Bxd4 31. Ra3 Rca8 32. Rxa8 Rxa8 33. Rd1": "33. Rd1 - I attack the bishop but I have just seen what is about to happen.  He will play B x N, I will have to reply with R x B and he will then play 34....... Rb8 - this will lead to mate on the back rank (if 35. Rxa2) or ruinous loss of material - he will crown his pawn on if 35. g3, h3 or Kg1).  So I decided to resign the game.\r\n\r\nSo that is five games against five experts and 5 blobs to me.  At the moment, except for my Expert game in Battle of the Wings I have looked way, way out of my depth against the Experts so far - but I will not give up, although I will continue to play unrated games below master level).  The only thing I can say is that this week I managed to draw against two 1600s players (my record against the complete 1600s games is played 3, drawn 2, lost 1) so maybe I am on the upward curve - only time will tell.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/its-time-to-face-the-music?gm=11777",
+    "gameName": "It's time to face the music!",
+    "players": "jstevens1 (1525) vs. marinvukusic (2072)",
+    "opening": "Sicilian (B40), Anderssen variation"
+}

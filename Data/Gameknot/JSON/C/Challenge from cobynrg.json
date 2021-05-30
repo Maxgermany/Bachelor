@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": " Classic e4.",
+        "1... e5": "Regular by NRG.",
+        "2. Nc3": "Developing...",
+        "2... Nc6": "Developing as well...",
+        "3. b3": "Want mayB 2 control the diagonal? with Bb2?",
+        "3... Nf6": "Strengthening same diagonal of a1 h8,   threatening e4 & developing further.",
+        "4. Bb2": "obviously.",
+        "4... Nd4": "Exellent move by black, captures the middle while protected by e5 well developed, has no threat of c2 because of Nc3 blocking the way.",
+        "5. Nge2": "White wants to remove the threat. Black will need to strengthen the posiyion even further to remain in control.",
+        "5... Bc5": "As the prophecy foretold.",
+        "6. Na4": "Opening up Bb2   a threat on Bc5, but, mistake, left the guerd on e4, now Nxe5, gaining a magor center position.",
+        "6... d6": "But 1st, protect the B, wasting a bit of time, but also opening for Bc8.",
+        "7. f4": "Bad move by white, should have went for BxNd4 to remove the threat, but probably didn't want to lose the diagonal, then was also possible Nxd5 at least.",
+        "7... Bg4": "Development & the begining of the end game.",
+        "8. h3": "Weak try to remove the threat, Black's next move is obvious...",
+        "8... Bxe2": "Staying in offence & weakening the K's defence.",
+        "9. Bxe2": "Obviously.",
+        "9... Nxe4": "Now is the right time to go in.",
+        "10. Nxc5": "2 little, 2 late. Bxd4 would have been much better.",
+        "10... Qh4+": "White resigns because Qh4   Ne4   Nd4 will win anyway, while white's Q is blocked & all others are 2 far from reaching the battlefield. Swift victory by Black."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-cobynrg?gm=20688",
+    "gameName": "Challenge from cobynrg",
+    "players": "calijack (1311) vs. cobynrg (1452)",
+    "opening": "Vienna game, Max Lange defence (C25)"
+}

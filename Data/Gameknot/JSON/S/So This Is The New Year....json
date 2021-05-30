@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4": "I'm playing black.  This was just a tough battle won by interesting kingside positional movement. ",
+        "1... d6 2. e4 c5 3. Nf3 g6 4. c4 Bg7": "This is my lame attempt at the sicillian defense.  I'm no pro, and have no clue how this actually works....",
+        "5. Be3 cxd4 6. Nxd4 Nc6 7. Nc3 Nxd4 8. Bxd4 e5 9. Be3 Ne7 10. Bd3 O-O": "Well, it ended up similar to the sicillian...",
+        "11. O-O Be6 12. b3 Nc6 13. Qc2 Nb4 14. Qd2 Nxd3 15. Qxd3 f5 16. f3 f4": "I'm sure he assumed I would take xe4",
+        "17. Bf2 a6": "no need for a free piece, and I block his knight",
+        "18. Nd5": "he says oh yeah FU I'm gonna move him anyways. ",
+        "18... Bxd5": "so I kill him",
+        "19. cxd5": "so now we have a nice little pawn arrangement, hell actually",
+        "19... Kh8": "I have noticed a way to infiltrate his king side, and I must make this king move in order to do so.",
+        "20. Rac1": "he makes a series of moves, not really knowing exactly what's coming...",
+        "20... g5 21. a4 Rg8 22. b4 Bh6": "bishop here in case once everything clears out I may get a shot at the rook on c1",
+        "23. b5": "I don't care about his moves right now, plus I'm sure he'd rather not have my rook roaming around freely on the backside, so I know he's not going to take.",
+        "23... g4 24. b6 g3": "look at the wall-o-pawn!",
+        "25. hxg3 fxg3 26. Be3": "of course",
+        "26... Qh4": "now I believe he's beginning to get worried about what's to come. ",
+        "27. Rfd1": "avoiding mate",
+        "27... Qh2+ 28. Kf1 Qh1+ 29. Ke2 Qxg2+ 30. Ke1 Qh1+ 31. Kd2": "FLEE WILDLY KING, FLEE FLEE FLEE!",
+        "31... Bxe3+ 32. Qxe3": "I believe he is more concerned about my pawn advancement than anything else.  He's got 3 major pieces aimed at the g1 square...",
+        "32... Qh2+ 33. Kc3": "This was the move I was hoping for, he would've been better off on d3",
+        "33... Qa2": "SURPRISE!",
+        "34. Rca1 Rac8+ 35. Kb4 Rc4+ 36. Ka5 Rxa4#": "AND THAT'S THE GAME!"
+    },
+    "url": "https://gameknot.com/annotation.pl/so-this-is-the-new-year?gm=21329",
+    "gameName": "So This Is The New Year...",
+    "players": "northcoaster (1403) vs. cyko (1461)",
+    "opening": "Queen's Pawn (A41)"
+}

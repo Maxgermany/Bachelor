@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. c4": "Hi everyone!\n\nNormally losing games can be quite depressing but sometimes, if you find yourself making threats of your own against your opponent, before you succumb, particularly if he/she is nearly 700 points north of your rating, it can sometimes be quite uplifting.  Here is the first of two such games against my IM opponent David Patron where Glenda does her best to take down King David but alas is beaten back and this time Henry cannot evade Old Matey's scythe. So how does this happen?  Well, you can look at gameknot analysis, read on or both.\n",
+        "1... e5 2. Nc3 Bb4": "2. .... Bb4 - after deciding to play e5 against The English Opening and David responding with Nc3 I put a potential pin on that knight using Fou Lenoir.",
+        "3. Nd5 Be7": "3. .... Be7 - retreat.",
+        "4. d4 exd4 5. Qxd4": "5. Qxd4 - pawn trade.",
+        "5... Nf6 6. Nf3 Nc6 7. Qd1": "7. Qd1 - forced retreat.",
+        "7... O-O 8. g3 d6 9. Bg2 Rb8": "9. ..... Rb8 - evading a potential pin by David's light square bishop and protecting the b7 pawn.",
+        "10. O-O Nxd5 11. cxd5 Ne5": "11. ..... Ne5 - after one knight trade I prepare another.",
+        "12. Bf4 Nxf3+ 13. Bxf3": "13. Bxf3 - both knights now traded.",
+        "13... Bh3 14. Re1 Bg5 15. Bxg5 Qxg5": "15. ...... Qxg5 - bishop trade.  Now Glenda sees holes in King David's castled position and scents blood.",
+        "16. Qd4 b6 17. Rac1 Rfc8": "17. .... Rfc8 - however, David hits back by putting pressure on my queenside.  Suddenly the c7 pawn is looking a little vulnerable.",
+        "18. e4 h5": "18. ...... h5 - looking to break open David's castled position by playing the pawn up to h4.  David scotches that plan next move by inviting a bishop trade.",
+        "19. Bg2 Bxg2 20. Kxg2": "20. Kxg2 - trade complete.",
+        "20... f6 21. Qa4": "21. Qa4! - uh oh!  The WQ is threatening to invade on d7 or c6 and btw capture on a7.",
+        "21... a5 22. Qd7": "22. Qd7 - I save the a pawn but oh dear, my c7 pawn is seriously en prise.  Glenda tries to counter by attacking the b2 pawn but now some black wood is about to be burned.",
+        "22... Qe5 23. Rxc7 Rxc7 24. Qxc7 Re8 25. Qxb6 Rc8 26. Qxa5 Qxb2": "26. ...... Qxb2 - the defining moment of the game.  The WQ has done a lot of damage, giving me a two pawn minus against an IM.  So, which of the following options should I take?  Option A - hit resign button.  Option B - defend passively and later hit the resign button.  Finally Option C - go for an all out attack against King David and risk copping Old Matey.  As Options A and B seemed sooo depressing I decided to go for Option C.  Let the adrenaline rush begin!",
+        "27. Qa4 Kh7 28. Qd1 Rc2": "28. .... Rc2 - after the prophylactic move of putting Henry on h7 to prevent any annoying checks by the WQ I then decided to attack King David's second rank so that I can give him a .......... BONE IN THE THROAT!!",
+        "29. Qxh5+ Kg8 30. Qf5 Qxa2": "30. ...... Qxa2 - maintains the Bone in the throat and snaffles up a passer on a2.",
+        "31. Re3 Qc4": "31. ..... Qc4 - preparing to switch invasion point to f1.",
+        "32. Qe6+ Kh7 33. g4 Rc1 34. Rh3+": "34. Rh3+! - unfortunately Henry now succumbs to a mating net before my plan can be executed.",
+        "34... Kg6 35. Qe8+ Kg5 36. Qh5+ Kf4 37. Qf5#": "37. Qf5 MATE!!  Well played David!"
+    },
+    "url": "https://gameknot.com/annotation.pl/liven-up-the-loss-part-1?gm=64167",
+    "gameName": "Liven up the Loss - Part 1",
+    "players": "drhpatron (2427) vs. jstevens1 (1728)",
+    "opening": "English, Kramnik-Shirov counterattack (A21)"
+}

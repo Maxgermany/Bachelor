@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Nf3 dxc4 5. e4 Bb4 6. Bg5": "This by transposition became a QGD Vienna variation ",
+        "6... h6 7. Bxf6 Qxf6 8. Bxc4 Bxc3+ 9. bxc3 O-O 10. Qe2 c5 11. Rd1": "Mikhail Botvinik would usually place a rook behind the Queen's pawn",
+        "11... a6 12. e5 Qe7 13. O-O b5 14. Bd3 Bb7 15. Rfe1 Bd5 16. Bb1 Nc6 17. h3 Rac8 18. Nh2 Qg5 19. Ng4 h5 20. Ne3": "For the longest time I was looking at Qd3",
+        "20... Ne7 21. Nxd5 Nxd5 22. Qe4 g6 23. Rd3 cxd4 24. Rg3 Nxc3": "?",
+        "25. Rxg5 Nxe4 26. Bxe4": "I'm up the exchange! I believe he miscalculated the combination. ",
+        "26... Rfd8 27. Rg3 Rc5 28. Bd3": "whether the bishop move inhibits the g3-Rook remains unanalyzed. I actually like the Bishop on d3 for reasons to follow. Yes I analyzed Rook-d3 but didn't like it.",
+        "28... a5 29. f4 b4 30. Ba6 Rc2 31. a4 Rc3 32. Rd3 Rxd3 33. Bxd3 Rc8 34. Kf2 Rc3 35. Rd1 b3 36. Ke2 b2 37. Rb1 Ra3 38. Bb5 d3+ 39. Kd2 Kg7 40. Rxb2 f6 41. Bc6 g5 42. Rb7+ Kf8 43. exf6 gxf4": "Ok so reassessing the board this game turned into an endgame to casting the net for checkmate. ",
+        "44. Bf3": "!!",
+        "44... Ra2+ 45. Kxd3 Ra3+ 46. Ke4 Rxa4+ 47. Ke5 Rc4 48. Rb8+ Rc8 49. Rxc8+ Kf7 50. Bxh5#": "Checkmate"
+    },
+    "url": "https://gameknot.com/annotation.pl/pcc-winter-open?gm=57586",
+    "gameName": "PCC Winter Open",
+    "players": "freeman8201  vs. J. G. (1698)",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

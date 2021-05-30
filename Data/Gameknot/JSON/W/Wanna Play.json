@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. d4": "First amazing move: d4 instead of usual e4!!",
+        "1... d5 2. Nf3 e6 3. c4 Bb4+ 4. Nc3 dxc4 5. e3 b5 6. a4 c6 7. axb5 cxb5 8. Ne5 Nf6 9. Bd2 Bxc3 10. Bxc3 Bb7 11. b3 Bd5": "From Black 7th move, I thought that he mustn't defense this Pawn!",
+        "12. bxc4 bxc4 13. Bxc4 Bxg2": "I think my attack will be strong enough!",
+        "14. Rg1 Be4 15. Rxg7 Bg6": "Black try to trap my Rook!",
+        "16. Bb4": "An important move: Black King cant scape to King side!",
+        "16... Qc8 17. Bb5+ Nfd7 18. Nxf7 Bxf7 19. Qf3": "I never think of taking the Black Rook on a8!!",
+        "19... Bg6 20. Qf6": "Without hope!"
+    },
+    "url": "https://gameknot.com/annotation.pl/wanna-play?gm=44978",
+    "gameName": "Wanna Play?",
+    "players": "mehd872 (1801) vs. dingougly (1812)",
+    "opening": "Queen's pawn game (D02)"
+}

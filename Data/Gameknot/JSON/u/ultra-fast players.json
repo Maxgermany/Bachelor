@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "I feel that this is one of the best games I have played. Articulator probably just underestimated me. If someone sees something that I did not, feel free to comment. ",
+        "1... d5": "At this point he is trying to gain control of the center of the board. ",
+        "2. e5": "So I move my king pawn to e5, something I hate having done to me. ",
+        "2... a6 3. d4 e6 4. a3 Ne7 5. Nc3 Nbc6 6. Qg4": "Probably not the best move move. I should have developed my king,knight or queen,bishop. ",
+        "6... b6 7. Bd3 Bb7 8. Be3 Qd7 9. Nf3 h6 10. O-O O-O-O": "Was not expecting a queen side castle. ",
+        "11. Nd2": " ",
+        "11... g5 12. b4": "Applying pawn pressure to break up the wall of pieces he has built in front of his King.",
+        "12... b5 13. a4": "Maybe not the best move, but I want to keep applying pressure. I do not want him to finish developing his pieces for an attack, instead I want to be the one applying pressure. ",
+        "13... Nxb4 14. axb5 axb5 15. Bxb5 c6": "Nice defensive move, but I have already started to break down his defence. ",
+        "16. Ba4": "I had to retreat my bishop to keep his knight from capturing c2.",
+        "16... Ng6 17. Nb3 Be7 18. Nc5": "I move Nc5 to lure e7 bishop.",
+        "18... Bxc5": "It worked.\r\n",
+        "19. dxc5 Nxe5 20. Qxb4 Nc4 21. Nb5": "At this point I feel I have enough piece to push my attack. So I sacrifice my knight to open things up. I played this out many times and feel that this is what needed done to decapitate his King.",
+        "21... cxb5 22. Bxb5 Qc7 23. c6 Bxc6 24. Bxc6 Qxc6 25. Rfb1 Kd7": "Got him on the run. ",
+        "26. Ra7+": "He can't stop what is coming, but only prolong it.  ",
+        "26... Ke8 27. Qe7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/ultra-fast-players?gm=18455",
+    "gameName": " ultra-fast players ",
+    "players": "rtaylor7796 (1300) vs. articulator (1564)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

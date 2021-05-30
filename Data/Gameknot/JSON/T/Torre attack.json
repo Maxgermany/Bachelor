@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "Recently I choose 1.d4 opening to train my skills in closed games ",
+        "1... d5 2. Nf3 Nf6 3. Bg5": "Torre attack I guess? I like it - it's solid and aggressive at the same time",
+        "3... Nbd7": "I'm not sure but maybe 3...e6 is better here - it would develop the k-bishop ",
+        "4. e3 a6": "Black maybe preparing for b5 and then fianchetting the Q-bishop ",
+        "5. a4": "To prevent b5",
+        "5... b6 6. Bd3 Bb7 7. O-O e6 8. Nbd2 Be7 9. c3": "Good base for eventual queen side attack later. At the same time it opens c2 pole for the Queen",
+        "9... O-O 10. Re1": "To support the e-pawn ",
+        "10... c5": "Weak try to threaten the white queen side position. Nothing to worry about",
+        "11. Ne5": "Now White has opened diagonals for the queen and white pole bishop, option for attacking with f-pawn, and good placed Knight. In the other hand if 11...N7xe5 then 12.dxe5 and good game for White again",
+        "11... c4": "Actually this is a better move for White conception",
+        "12. Bc2 a5": "Unnecessary",
+        "13. e4 Nxe5 14. dxe5 Nd7 15. Bxe7 Qxe7 16. f4": "Obviously better than exd5. Now White has occupied the center",
+        "16... Nc5 17. Re3": "To consolidate forces on K-side",
+        "17... g6 18. exd5": "To open the too important diagonal for the bishop",
+        "18... Bxd5 19. Qg4 h5 20. Qh3 Kg7 21. Rg3 Kh6 22. Rg5": "To not allow g5 and to close Black Queen e7-h4 diagonal. At the same time to open place for g4",
+        "22... Rfg8 23. Qh4": "A little trap for the black queen but my opponent revealed it...",
+        "23... Ra7": "...and prevent it",
+        "24. g4 Kg7 25. gxh5 Nd3": "Black hasn't many options",
+        "26. Bxd3 cxd3 27. Qg3": "Pressure on d3",
+        "27... Qc5+ 28. Kf1 Rd7 29. Ke1": "To avoid eventualy fork by Bg2+ after Qxd3",
+        "29... Kh7 30. Rc1": "A little trick - the basic idea is to get out the bishop and to free b3 for the Knight ",
+        "30... Bc6 31. Qh3 Kg7 32. Rg3": "Good move - if white Queen attacks, the rook will prevent checks from the black Queen. At the same time the pressure on d3 is stronger",
+        "32... Rd4": "Black answers with threat on f4 but it isn't important already. Now White are ready for attack",
+        "33. hxg6 fxg6 34. Qxe6 Kf8 35. Qf6+ Ke8 36. e6 Rf8 37. Qxd4": "And Black resigns. Thanks for watching"
+    },
+    "url": "https://gameknot.com/annotation.pl/torre-attack?gm=23736",
+    "gameName": "Torre attack",
+    "players": "luni4av (1613) vs. hansdevries (1631)",
+    "opening": "Torre attack (Tartakower variation) (D03)"
+}

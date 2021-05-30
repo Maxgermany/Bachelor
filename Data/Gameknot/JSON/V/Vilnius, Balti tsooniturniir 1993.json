@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. c3 Nxe4 8. d4 Na5 9. Nxe5 Nxb3 10. Qxb3 Nd6 11. c4": "Alternative variation: 11. Re1 [- 57/(338)]\n",
+        "11... Qf6": "N\nAlternative variation: 11... bxc4 [- 47/(415)]\nAlternative variation: 11... f6 [Mikhalchishin,A]\n",
+        "12. Nc3": "Alternative variation: 12. c5 Nf5 13. Bg5 Qe6 (13... Nxd4 14. Bxf6 Nxb3 15. Re1 gxf6 16. Ng6+ Be7 17. Nxe7 Nxa1 18. Ng6+ Kd8 19. Nxh8 Bd5 20. Nc3 Nc2 21. Re2 Nb4 22. Nxd5 Nxd5 23. Nxf7+ Kc8 )\n",
+        "12... Qe6 13. Nd5": "Alternative variation: 13. Re1 bxc4 14. Qd1 O-O-O\n",
+        "13... O-O-O 14. Nf4 Qe8 15. c5 Nf5 16. Be3 f6 17. Nf7 g5 18. Nxd8 Kxd8 19. Nd3 Nh4": "Alternative variation: 19... Bxg2 20. Kxg2 Qe4+ 21. f3 (21. Kg1 Qg4+) 21... Nxe3+ 22. Kh1 Qxd4 23. Rfe1 $14\nAlternative variation: 19... Nxe3 20. fxe3 Qxe3+ 21. Nf2 Qxd4 22. Rad1 Qc4 $13\n",
+        "20. Bxg5": "Alternative variation: 20. Ne1 Bxg2 21. Bxg5 $1 (21. Nxg2 $2 Nf3+ 22. Kh1 Qh5 23. h4 Qg4 $19) 21... Bxf1 22. Bxh4 Bc4 23. Qf3 Rg8+ 24. Bg3 Qe6 $13\n",
+        "20... fxg5 21. Rfe1": "Alternative variation: 21. Ne5 Kc8 22. Nf7 Rg8 23. Rfe1 Be7 24. Nd6+ cxd6 25. cxd6 $13\n",
+        "21... Be7 22. Ne5 Rf8 23. c6": "Alternative variation: 23. d5 Rxf2 $3 (23... Bxc5 24. Nc6+ dxc6 25. Rxe8+ Kxe8 26. dxc6 Bxf2+ 27. Kh1 Bc8 28. Rf1 Bc5 29. Re1+ Be7 30. Qe3 Rf7 $140 $2 31. Qa7 Kd8 32. Rd1+ Bd6 33. Rxd6+ $18) 24. Kxf2 Bxc5+ 25. Kf1 (25. Kg3 Bd6 $1 $19 [->]) 25... Qf8+ 26. Nf3 (26. Ke2 Qf2+ 27. Kd1 Nxg2 $19 [->]) 26...g4 27. Re4 Nxf3 28. gxf3 Bxd5 29. Qxd5 Qxf3+ 30. Ke1 Bb4+ $19\nAlternative variation: 23. a4 d6 $1 24. cxd6 (24. axb5 $2 dxe5 25. c6 Bxc6 26. bxc6 Qxc6 27. f3 exd4 $17) 24...Bxd6 25. axb5 axb5 $13\n",
+        "23... dxc6 24. Rac1 Rf6 25. Qc3 Qf8 26. Re2 Ng6 27. Nxg6": "Alternative variation: 27. Qh3 Bc8 28. Qe3 (28. Qxh7 Nf4 [/\\ Bf5-+]) 28... Nf4 29. Rec2 Bb7 30. Nxc6+ Bxc6 31. Rxc6 Rxc6 32. Rxc6 Qf5 $17\n",
+        "27... Rxg6 28. Rce1 Rg7 29. Re2e6 Bc8 30. Re6e4": "Alternative variation: 30. Rxc6 Bb4\n",
+        "30... Bd7 31. Qb3 Bd6 32. a4 Re7 33. Re4xe7 Bxe7 34. axb5 axb5 35. Qa2 Bc8 36. Qa8 Qf6 37. d5 Bc5 38. Re2 Qd6": "Alternative variation: 38...Qd4 $5\n",
+        "39. Qxc6 Qxc6 40. dxc6 Bd6 41. f3 b4 42. g3 Ba6 43. Rc2 Bd3 44. Rd2 Bg6 45. Kf2 Ke7 46. Re2+ Kf6 47. Ke1 Bf7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/vilnius-balti-tsooniturniir-1993?gm=31300",
+    "gameName": "Vilnius, Balti tsooniturniir 1993",
+    "players": "Lauk, U. (2410) vs. Sepp, O. (2390)",
+    "opening": "Ruy Lopez (C78), Archangelsk (counterthrust) variation"
+}

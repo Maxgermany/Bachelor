@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "This game is from the tourney organized by freddy (easy19).  The first six moves are thematic.  This is my 2nd game against dmaestro.  If you scroll down a few games, you can see where he defeated me.",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc7": "Kc6, I believe, is the better move.  Kc7 is going to require an additional move otherwise the N is going to land on e6 and fork Black's K and Q.",
+        "9. Bxg4 Qe8 10. Ne6+": "I went Ne6+ simply to stop e7 from moving with the plan to keep Black blocked in.  This is avoided with 8...Kc6 because then Black can move 9...e6",
+        "10... Kb6 11. Na3 a6 12. b4": "Up to this point, the moves are straight from the database.",
+        "12... cxb4": "dmaestro strays from the database and we're on our own.",
+        "13. Nc4+": "My plan at this point is to develop my pieces (with tempo, if possible) and keep Black's pieces as inactive as possible.  Obviously, this is typically a goal in chess but in this opening, it's particularly important for White.",
+        "13... Ka7 14. Bb2": "Preventing g7 from moving for the time being.",
+        "14... Nd7 15. Bd4+": "Developing with tempo and still striving to keep Black bottled up.  So far, so good.",
+        "15... b6 16. O-O": "I thought long and hard about this move.  I saw no \"killer\" move that would bring gasps of awe from the audience.  I knew that Nc7 was available but prior to castling, but two of my four pieces on the 4th row were en prise (and the two that were not were both protected by my N on e6).  I figured if I went Nc7, I'd end up with Black's rook but he'd take my N and likely another piece.  In addition, freddy has told me that I should play a bit less aggressively and use more pieces to achieve my goals.  I also felt that this might be a good waiting move.",
+        "16... Rb8": "Nc7 is no longer an option.",
+        "17. a3": "I'm wanting to clear some room for my Rooks to get into the attack.",
+        "17... Qc8 18. d3 Nc5": "It's clear to me at this point that we're going to exchange Knights.  I looked at Ne6xc5 but obviously Black takes g4 with his Q and becomes active.  In this opening, White cannot let the Black Q become active.",
+        "19. f5 Nxe6 20. fxe6": "This continues to keep e7 from moving and keeps Black bottled up.",
+        "20... Rg8": "Well, nothing lasts forever.  It's clear that the Bishop will be loose soon, but I have a little time.",
+        "21. axb4 g6": "With my B and R on the a1-h8 diagonal, I know if I don't move, Black will exchange with me and I'm in no position to exchange and so it's time to move.",
+        "22. Ra2 Bg7 23. Be3": "My thought at this point was to perhaps work Rf1-b1-b3-a3.  I didn't know if I'd have time to do all that but I needed a plan.",
+        "23... Kb7": "Well if his King is going to run away, what's the point of bringing Rf1 all the way over.  I scanned the board looking for some way to apply pressure and came up with Rf7.",
+        "24. Rf7 Bf6": "Bf6? was the first real mistake I saw by either player (of course, you may all feel free to point out the ones I haven't seen).  e7 is the only thing keeping my Knight from going to d6 and forking the K and Q.",
+        "25. Rxf6": "Here, Black resigned.  The \"material score\" is even.  If I had been Black, I would have played on a bit more and made White prove that his lead in development was enough to win.  In addition, any of you who have read my three prior annotations are aware that I'm capable of spectacular blunders.  \n\nAs always, any and all comments are welcome."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-an-abrupt-ending?gm=24258",
+    "gameName": "The Annotation Project - An Abrupt Ending",
+    "players": "untateve (1585) vs. dmaestro (1463)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

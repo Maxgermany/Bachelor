@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5": "the same Najdorf 6. Bg5 tournament...",
+        "6... e6": "my favorite 6th move",
+        "7. f4": "white usual response",
+        "7... Nbd7 8. Qe2 Be7 9. O-O-O Qc7 10. g4 h6 11. Bh4 b5": "quite classical, but now, black are note permitted to castle, due to white pawn pressure",
+        "12. a3 Bb7 13. Bg2 Rc8 14. Rhe1 Qc4 15. Qxc4 Rxc4 16. h3 Rc7 17. Rd2 Rg8 18. Ndxb5": "white decides to attack and impose a majority of pawns on queen side for the price of a knight",
+        "18... axb5 19. Nxb5 Rc4 20. Bxf6 gxf6": "not Bxf6: loses b7-bishop on Nxd6",
+        "21. b3 Rc5": "go away!",
+        "22. Nxd6+": "obviously recuperated all the material",
+        "22... Bxd6 23. Rxd6": "the pressure is higher and higher... How to stop this fabulous pawn armada?",
+        "23... Ke7 24. Rd2 Rgc8 25. c4 Ra5 26. Kb2 Ra7 27. Re3 Rca8 28. a4 Rb8 29. Kc2": "i have tried to put my rooks in a way to be able to use my only superiority: the horse. But white escapes all potential traps",
+        "29... Nc5 30. e5": "forces exchange, but maybe i could have let him the moves to double my rooks on b column.",
+        "30... Bxg2 31. Rxg2 fxe5 32. fxe5 Rd7 33. Rf2 Rdb7 34. Rff3 Na6 35. h4 Rd7 36. Kb2 Nb4 37. Re2 Rbd8 38. Kc3 Rd7d3+": "this was not clever: as my forces are on pieces, i had to keep them all.",
+        "39. Rxd3 Nxd3": "of course not Rxd3: who would defend my poor horse?",
+        "40. b4": "going further",
+        "40... Nf4 41. Re4 Ng6": "there is still nothing on Rd3+",
+        "42. h5": "was surprised by this move, but it prepares g5 to make h-pawn passes",
+        "42... Nf8 43. b5 Nd7 44. Kb4 f6": "should have made directly f5, as he cannot take en passant.",
+        "45. a5 f5 46. gxf5 exf5 47. Rd4 Nxe5": "and a draw... Analyses show that white had the advantage. "
+    },
+    "url": "https://gameknot.com/annotation.pl/najdorf-for-fast-players?gm=32971",
+    "gameName": "Najdorf for fast players",
+    "players": "savsams (1672) vs. thitho (1732)",
+    "opening": "Sicilian (B96), Najdorf, 7.f4"
+}

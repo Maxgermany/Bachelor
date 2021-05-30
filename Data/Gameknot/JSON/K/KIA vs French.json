@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e6 2. d3 d5 3. Nd2": "I have played a number of different lines against the French but the KIA is one of the easiest to play in blitz chess.  It has a limited number of plans for white.\n\n",
+        "3... c5 4. g3 Nc6 5. Bg2 d4": "The opening now takes on the characteristics of a King's Indian reversed but black is an extra tempo down since e6 followed by e5 at some point is a tempo more than white usually expends.",
+        "6. Ngf3 e5 7. Nc4": "Threatening the e5 pawn and opening the black squared bishop's diagonal.",
+        "7... Qc7 8. a4": "a4 was played to secure knight post on c4.",
+        "8... Be6 9. b3": "White won't mind if black exchanges his good bishop for the knight but he wants to recapture with the b pawn.",
+        "9... Bxc4 10. bxc4 Bd6 11. O-O Nf6": "Black has lead in development but the position is closed.",
+        "12. h3": "this prevents Ng4 and sets up a way for white to advance the f pawn.",
+        "12... O-O 13. Nh2": "I think black could have castled queenside since white doesn't have enough space on the queen's wing to mount an attack currently.  ( I could be wrong about that if you would help me out with your opinion I would appreciate it. )  If black still had the bishop on e6, white would need find a different way to get f4 in.  If black could play Qd7 the pawn on h3 would hang and the replies for white are not all that appealing.\n",
+        "13... Nd7 14. f4": "White has finally gotten in f4 and can start a pawn storm.",
+        "14... Rae8 15. f5 f6": "Temporarily stopping f6 but white may have a new pawn level now.\n",
+        "16. g4 Rf7 17. h4": "I thought black was doubling rooks on the f file but he really wanted to support g6.\n",
+        "17... g6 18. g5 fxg5 19. hxg5 Nf8": "If white plays 20. f5xg6 then black plays Nxg6 and there is no attack - black can defend. If white plays 20. f6 the position becomes blocked and white won't make progress.  So white must find a way to increase the pressure.\n",
+        "20. Ng4": "This threatens the fork at 21. h6 so \n",
+        "20... Kh8 21. Nh6": "Black moves the king to get out of the fork and white chases the rook away.\n",
+        "21... Rd7 22. Bh3": "The bishop move threatens 23. f5xg6 discovering on the rook.  But while black might lose a pawn  ( 23. f5xg6 Rg7  24. g6xh7 Rxh7 ) there is some question in my mind whose king worse off.  \n",
+        "22... Rdd8": "Black avoids the discovery.\n",
+        "23. fxg6": "White now threatens to win the exchange with Nf7ch, but that is the least of threats because the 7th rank is weak.",
+        "23... Rdb8 24. Rf7": "The threat is to the queen or mate with g7.  ",
+        "24... Re7 25. g7#": "Kind of an odd finish. White has three pieces that never moved and checkmates with a pawn.  I hope you enjoy the game, please rate and any comments would be appreciated."
+    },
+    "url": "https://gameknot.com/annotation.pl/kia-vs-french?gm=65550",
+    "gameName": "KIA vs French",
+    "players": "JMD1952 (1200) vs. Mo7475 (2037)",
+    "opening": "French (C00), Reversed Philidor formation"
+}

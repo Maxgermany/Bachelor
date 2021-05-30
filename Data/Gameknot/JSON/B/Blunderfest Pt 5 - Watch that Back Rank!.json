@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone - this was an unrated game between me and one of my buddies who has an optimum rating in the high 1600s.  He played very well until his last move, but that last move was fatal and allowed an incursion of Glenda onto the back rank.  My opponent resigned on the grounds of unavoidable mate in 3.  Please note.  I do NOT mind if my opponents wish to resign rather than be checkmated.  Nice just to get the points.  I decide to kick off with d4.",
+        "1... Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O": "4. ....... 0-0 early castling.",
+        "5. Bd3 c5 6. Nf3 d5 7. O-O": "7.0-0 - after a load of tension in the middle I now castle kingside.",
+        "7... Nc6 8. a3 Ba5": "8. ........ Ba5 - after a3 black chooses to retreat his bishop.  Now follows and exchange of pawns.",
+        "9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3": "11. bxc3 - extra pawn but my queenside pawns are shattered and could drop off at any time. ",
+        "11... Bg4 12. c4 Ne5 13. cxd5 Bxf3 14. gxf3": "14. gxf3 - now my kingside pawns are busted.",
+        "14... Qxd5 15. Be2 Qxc5": "15. ...... Qxc5 - as predicted my queenside pawns duly drop off.",
+        "16. Bb2 Rad8 17. Qc1 Qe7 18. Qc2 Rdc8 19. Qb3": "19. Qb3 - Glenda moves onto the b file putting pressure on b3.  Black prepares to double rooks on the c file and I now challenge the c file.",
+        "19... Rc7 20. Rac1 Rfc8 21. Rxc7 Rxc7": "21. Rxc7 - a rook trade.",
+        "22. Rc1 Nc6 23. f4": "23. f4 - preparing Bb5 in order to either force a rook swap or break up black's united queenside pawns.",
+        "23... Rd7 24. Rd1 Rc7 25. Rc1 Ne4": "25. ....... Ne4 - the black knight finds an outpost on e4 and breaks a threefold repetition.  If my opponent had a crystal ball I think he would have played into it!",
+        "26. f3 Nf6 27. Bb5 Na5 28. Rxc7": "28. Rxc7 - the swap.",
+        "28... Qxc7 29. Qc3 Qb6": "29. ....... Qb6?? - this move allows a fatal incursion of Glenda onto c8.  She moves onto c8 with the greatest of glee.  It is now mate in 3.  My opponent waves the white flag. This leaves the lesson, watch your back rank!",
+        "30. Qc8+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/blunderfest-pt-5-watch-that-back-rank?gm=22519",
+    "gameName": "Blunderfest Pt 5 - Watch that Back Rank!",
+    "players": "jstevens1 (1777) vs. Buddy X (1628)",
+    "opening": "Nimzo-Indian (E47), 4.e3 O-O, 5.Bd3"
+}

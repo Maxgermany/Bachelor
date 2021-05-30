@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "The Philador defence, an opening that I have not encountered before.",
+        "3. c4 Nf6": "White's e4 pawn is in jeopardy!",
+        "4. d3": "both players simply start protecting their e-pawns from each other's knights.",
+        "4... Nc6": "Black's knight aims to challenge d4.",
+        "5. Nc3 Be6 6. Nd5 Nd4": "The center catastrophie!",
+        "7. Nxd4 exd4 8. Be2 c6 9. Nb4": "white blocks his pieces in (exept for his Queen). Never try attempts if they weaken your position.",
+        "9... Qa5 10. Bd2": "The most unusual way to try and earn a knight.",
+        "10... Qc7 11. a4 c5 12. Nd5": "Center challenge #2!",
+        "12... Nxd5 13. exd5 Bf5 14. O-O O-O-O": "both sides castle opposite ways. The center pawns are staring into nothingness, as they block each other from getting to the other side",
+        "15. a5 a6 16. Bg4": "An open e-file and a probable bishop trade.",
+        "16... Bd7 17. f3": "Here we go. the pawn is blocking the queen out.",
+        "17... f5": "White has a smart idea after 18...fxg4. This however fails because if black's bishop moves, the queen has punishing offence.",
+        "18. Bh3 g6 19. Bg5 Re8 20. f4 h6 21. Bh4": "This is an example of what you should not do to a bishop. Black's pawns start up the oven to cook white's kingside. White's bishop should have played 21.Bf6, but black must refrain from playing 21...g5.",
+        "21... Be7 22. Bg3 h5 23. Bf2 g5 24. fxg5": "nice attempt to grapple the game white! Unfortunately, it deepens the weakness as 24...Bxg5.",
+        "24... Bxg5 25. b3 Ref8 26. g3 f4 27. g4 Qd8": "Black probably got a little weak with the unorganized pawn structure, but that is no reason to give up the game.",
+        "28. Qf3 Bh4": "The battle of h4 begins!",
+        "29. Bxh4 Qxh4 30. Ra2 Bxg4": "Unbelievable, there is now a g4 war!",
+        "31. Bxg4+ hxg4 32. Qe2 g3 33. Qe6+ Kd8 34. Qxd6+ Ke8 35. Re1+ Kf7 36. Qc7+": "Qxc7? leads white's queen astray. White should have tried 36.Qe6+. Black ends up with White's kingside in his grasp.",
+        "36... Kg8 37. Rg2 Rh7 38. Qxc5": "Never pawn-snatch when your kingside is in trouble. Besides, the white queen is too late to help out the overwhelmed and crushed army.",
+        "38... Rg7 39. Qxd4 Rg4 40. d6 f3": "This is why pawn snatching is a common chess mistake.",
+        "41. Qd5+ Rf7 42. Rxg3 Rxg3+ 43. Kf1 Qh3+": "I feel bad for white being crushed. I seriously feel bad, but black's last move was unwise. If black had done 43...Qxh2!, then he has a force mate in 1. Feel free to post a comment, suggesting something you see, but I did not see."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=36581",
+    "gameName": "Team match",
+    "players": "bjornboy (1221) vs. bullsprig (1271)",
+    "opening": "Philidor's defence (C41)"
+}

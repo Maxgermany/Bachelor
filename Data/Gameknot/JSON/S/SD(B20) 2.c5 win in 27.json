@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4": "Sicilian Defence, Bowlder Attack",
+        "2... e6": "To prevent the white b from hitting f7",
+        "3. Nf3 Nf6 4. Nc3 a6": "In order to prevent the white B from checking after moving the d pawn to d5(which is the next move in fact.)\r\n\r\n",
+        "5. a4": "preventing ...b5 and then ...Bb7 thus controlling the long white diagonal(also another reason why 4...a6 was played)",
+        "5... d5 6. exd5 exd5 7. Qe2+": "a mistake? Could anyone pls. comment?",
+        "7... Be7 8. Ba2 Nc6": "played with the aim of restricting white(see 11...cxd4)",
+        "9. h3 O-O": "putting the k to safety ",
+        "10. O-O": "same conclusion",
+        "10... Nd4 11. Nxd4": "11. Qd1 is a better move although white would still be constricted",
+        "11... cxd4": "the start of whites' constriction(see 8...Nc6)",
+        "12. Nd1 Re8": "thus controlling the e file.",
+        "13. d3": "with the aim of releasing the b from c1",
+        "13... Bd6 14. Qf3 Qc7 15. Bxd5 Nxd5 16. Qxd5 Rd8": "A quaint little trap is sprung on white. ",
+        "17. Qb3": "another mistake?(the q is out of place in the q-side) this prevents black from going thru with his quaint little trap.",
+        "17... Re8 18. c4": "Maybe white is hoping that black would attack this pawn en passant.",
+        "18... Re2": "the start of black rook domination of the e file",
+        "19. f4": "white is desperate to put on a semblance of defense for his k",
+        "19... Bd7": "In order to control the long white diagonal",
+        "20. Rf2 Re1+": "The beginning of whites' rapid deterioration.",
+        "21. Kh2 Rae8": "thus controlling the e file",
+        "22. g3": "white is in virtual zugzwang position due to the black pawn on d4. the white knight has nowhere to go.",
+        "22... Bc6 23. g4 Rh1+ 24. Kg3 Ree1": "thus controlling the back rank, too",
+        "25. Bd2 Reg1+ 26. Kh4 g5+ 27. fxg5": "if 27. Kxg5 be7ch and white is still in big trouble.",
+        "27... Bg3+": "the reason for 14...Qc7!!!? White resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/sd-b20-2-c5-win-in-27?gm=4244",
+    "gameName": "SD(B20) 2.c5 win in 27",
+    "players": "puti  vs. hamis (1490)",
+    "opening": "Sicilian defence (B20)"
+}

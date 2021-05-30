@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\r\n\r\nJust to let you know that I met my usual fate against Freddy, you can now guess what that is!  Anyhow, it was not before he found himself in Old Matey's shadow so it was a case of us being at each other's throats but he got in first!  We pick up the action on move 6 when after responding to the main line 5. ....... Ke7 he plays Bb3.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8": "6. ....... Rf8 - also fairly standard.",
+        "7. Nc3 d6": "7. ...... d6 - this move is played to bolster my e5 pawn should the white horsie return to f3.",
+        "8. d3 Nd4": "8. ..... Nd4 - an aggressive placement for my knight but Freddy's response is equally aggressive .....",
+        "9. Nd5+": "9.  Nd5+ - this check triggers off some exchanges.  Firstly a knight trade.",
+        "9... Nxd5 10. Bxd5 h6 11. c3 Ne6 12. d4 exd4 13. Nxe6 Bxe6 14. Bxe6 Kxe6 15. cxd4 Bb6": "15. ...... Bb6 - yup, a lot of wood has cleared from the board and I am a pawn down.  Freddy now castles.",
+        "16. O-O Qh4": "16. ..... Qh4 - whoho, whoho, Glenda has the temerity to leap on her broomstick and put Freddy's king under her glare!",
+        "17. f4 Rae8": "17. ...... Rae8 - this was intentioned to hide Henry away on the queenside and for my cannons to attack Freddy on the kingside.",
+        "18. a4 a6": "18. ...... a6? - In retrospect I think a5 would have been so much better.",
+        "19. a5 Ba7 20. Qb3+": "20. Qb3+ - ouch, a queen fork.  Not only does the b7 pawn fall but the Witch crosses my idea of tucking Henry away on the queenside.",
+        "20... Kd7 21. Qxb7 Bxd4+ 22. Kh1 g5": "22. ........ g5 - I now proceed with a kingside mating attack.  How dare I contemplate doing this to the Master Mater!",
+        "23. Ra4 Be5": "23. .... Be5 - if PXB?? then Freddy wins Fou Lenoir but loses his rook and his king!",
+        "24. Rc4 Rec8": "24. ..... Rc8 - defends Henry but this will fail later on.",
+        "25. Qxa6 Bxf4 26. Bxf4 Rxf4": "26. ..... Rxf4 - keeps my mating atack going, this time a back row mate threat.",
+        "27. Rd1 Qg4": "27. ..... Qg4 - again keeping the back row under the hammer but now Freddy launches his attack and that is successful ...... for him, sigh!",
+        "28. Rxc7+ Rxc7 29. Qxd6+ Kc8 30. Qd8+": "30. Qd8+ - nasty.",
+        "30... Kb7 31. a6+": "31. a6+ - nice pawn sac.  One can only admire.",
+        "31... Kxa6 32. Qa8+": "32. Qa8+ - Henry is now hunted and he will not escape.",
+        "32... Kb6 33. Rd6+ Kc5 34. Qd5+": "34. Qd5+ - now Henry must face the firing squad.",
+        "34... Kb4 35. Rb6+ Ka4 36. Qb5#": "36. Qb5 MATE - the kiss of death.  Well played Freddy."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-traxler-variation-at-each-others-throats?gm=27334",
+    "gameName": "- - The Traxler Variation - - At each other's throats!",
+    "players": "easy19 (2274) vs. jstevens1 (1838)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

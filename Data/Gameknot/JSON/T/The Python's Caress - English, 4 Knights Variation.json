@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. c4 Nf6 2. Nc3 Nc6 3. Nf3 e5 4. d3 Bb4 5. e3 Qe7 6. Nd2 e4 7. d4 d6 8. Be2 Bf5 9. Nf1": "A little unorthodox ... The N is heading to g3, naturally.",
+        "9... O-O-O": "?! ... My personal experience with Q-side castling by Black in the English, is that White almost always wins simply by pushing a direct attack right down the throat of Black's Q-side, be it by pawnstorm or heavy pieces down a half-open file.",
+        "10. Ng3 Bg6 11. a3 Bxc3+ 12. bxc3": "Now White has his half-open file.",
+        "12... h5 13. Nf1": "Mission accomplished.",
+        "13... Qd7 14. a4": "And here comes a pawnstorm ... of one! White has little to worry about on the K-side, until Black gets his pieces out from in front of his pawns.",
+        "14... Ne7 15. a5 a6 16. Nd2 Qf5 17. Nb3 Ng4 18. O-O Qg5": "So blunt! And so slow!",
+        "19. h3 Qh4 20. Bxg4+ hxg4 21. Qxg4+ f5 22. Qxh4 Rxh4 23. d5 Rdh8 24. Nd4 Rh4h5 25. Bd2": "White calmly pursues his Q-side build-up. Black has nothing on the Kingside.",
+        "25... Rg5 26. Kh2 Bf7": "Well, his Bishop's finally out of the way but now his own Rook spoils the activation of Black's K-side pawns.",
+        "27. Rab1 Rh6 28. Rb2 Rhg6 29. g3 Rh5 30. Rfb1 Kd8 31. Ne2": "Taking just a moment to attend to the defense of g3 and h3, for whichever need arises.",
+        "31... Rgh6 32. Nf4 Rg5 33. Rb2xb7": "Since White has defended everything, it's time to get the attack under way.",
+        "33... Kd7 34. Ra7 Nc8 35. Rxa6 Bh5 36. Rb7 Bf7 37. Rc6": "Black has no counterplay, and White's threats are unendurable. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-pythons-caress-english-4-knights-variation?gm=45171",
+    "gameName": "The Python's Caress - English, 4 Knights Variation",
+    "players": "Avocet (1200) vs. avidpxq (1700)",
+    "opening": "English opening (A16)"
+}

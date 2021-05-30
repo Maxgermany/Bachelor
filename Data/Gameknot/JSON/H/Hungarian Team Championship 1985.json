@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. e4 Bg7 9. Qa4+ Bd7 10. Qb3 Bg4": "?!",
+        "11. Qxb7 Bxf3": "The annotation started here, as he or she wrote, \"Hardicsay had won a game a few months before after 12.gxf3 Nh5, when Black has good compensation for the sacrificed pawn after either 13.Be3 Nd7 or 13.Bg3 Nxg3 14.hxg3 Nd7.\"",
+        "12. Qxa8": "!",
+        "12... Nxe4 13. Rc1": "! This was a theoretical novelty; Black had been thought to be better after 13.Nxe4 Bxe4. ",
+        "13... Bd4": "After 13...Nxc3 14.bxc3 Be4 15.f3 Bf5 16.g4, Black would have no good retreat for his bishop, e.g. 16...Bd7 17.Bxd6. ",
+        "14. Rc2 Nxf2": "?! 14...Nxc3 15.gxf3! also leaves White with a large advantage.",
+        "15. Rxf2 Bxf2+ 16. Kxf2 Bg4 17. Bb5+": "!",
+        "17... axb5 18. Re1+ Kf8": "If 18...Kd7, 19.Qb7+ Qc7 20.Re7+! wins the queen.",
+        "19. Bh6+ Kg8 20. Re7": "! Paralyzing Black and stopping any counterplay with ...Qh4+. The rook is immune because 20...Qxe7 21.Qxb8+ forces mate.",
+        "20... Bd7 21. Qxb8": "!",
+        "21... Qxb8 22. Ne4": "Although Black is up a queen for a knight, he cannot stop 23.Nf6#."
+    },
+    "url": "https://gameknot.com/annotation.pl/hungarian-team-championship-1985?gm=67830",
+    "gameName": "\" Hungarian Team Championship 1985\"",
+    "players": "Susan Polgar  vs. Hardicsay ",
+    "opening": "Benoni defence (A61)"
+}

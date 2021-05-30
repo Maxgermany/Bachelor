@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Hi all, here is a little gamelet from about when I first started chess - maybe a month later. A little informal blitz tournament, which came after a coaching session. I had the misfortune of being paired against a good friend of mine in Round 2...for his sakes, I'll call him N.N. (I'd just like to make it clear that this game is for entertainment value only, as with many blitz games!). Anyway, onto the moves...you can see how old this game is, as I was at the time playing 1.e4.",
+        "1... Nc6": "The uncommon Nimzowitsch Defence. Develops a piece.",
+        "2. Bb5": "Premature. The best move is definitely 2.d4 here, occupying the centre. At the time I was hoping to mess up Black's pawn formation by doubling his pawns on the c-file. As a beginner, I for some reason saw doubled pawns as an out-and-out liability...a weakness which resulted in many a painful loss.",
+        "2... Ne5": "Forcing Black to waste a tempo with his knight had not occurred to me, for the simple reason that at the time I had no comprehension whatsoever of the value of time (i.e. number of moves) in chess. However, my favourite activity was using the underestimated pawns to shove my opponents' pieces around. Knights are particularly susceptible to this, as we are about to see.",
+        "3. d4": "Yay! Gaining space with tempo, and my opponent's silly horse has to leap out of sight.",
+        "3... Nc6": "Not quite out of sight. Never mind. I had no intention of relenting from annoying and harrassing my opponent's pieces.",
+        "4. d5": "The intrepid pawns move forward into the opponent's half, and the stupid knight has to get some more exercise.",
+        "4... Ne5": "The knight is running around in circles. Truly pawns are the soul of chess (Andre Dani Philidor).",
+        "5. f4 Ng6": "White's powerful pawn centre is faintly reminiscent of the Alekhine's Defence; Four Pawns Attack. Playing nowadays, I would have been content to hold on to this pawn structure. But not then.",
+        "6. f5": "Let's see how far we can advance our units with tempo.",
+        "6... Ne5 7. Bf4": "Time to develop a few pieces behind the broad shoulders of my powerful central pawns. Even I had to be content with a pawn centre as dominant as that. It wasn't that I saw that 7.c4? a6 8.Ba4 Nxc4 loses me a pawn...it just didn't occur to me to play 7.c4. Good thing, really.",
+        "7... f6": "Obviously the knight has nowhere to do, he has to content himself with defending with a pawn. Black chose the WRONG PAWN! He has opened himself up to attacks on the kingside, and my f-pawn is perfectly placed to help.",
+        "8. Bxe5 fxe5 9. Qh5+": "Time to call in the town bully (to quote GM Yasser Seirawan). Even I could see a (practically) winning attack when it danced under my nose.",
+        "9... g6 10. fxg6": "I was expecting, I confess, 10...hxg6 11.Qxg6#. I wasn't thinking about the saving move 10...Bg7 or 10...Bh6. I also wasn't expecting the stylish and unusual option that followed...",
+        "10... h6 11. g7#": "Checkmate with a pawn. A nice way to end a blitz tournament game."
+    },
+    "url": "https://gameknot.com/annotation.pl/short-but-sweet-for-entertainment?gm=22810",
+    "gameName": "Short but Sweet (for entertainment)",
+    "players": "fatcat2 (- at the time) vs. N.N. (-)",
+    "opening": "KP (B00), Nimzovich defence"
+}

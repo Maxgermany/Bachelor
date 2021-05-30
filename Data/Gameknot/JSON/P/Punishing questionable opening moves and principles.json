@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "Of all the openings that I've tried out over the course of the past few years to counter e4, I find this one the most interesting. The games are usually exciting and aggressive and although it contradicts my playstyle, something about this opening is just very appealing. ",
+        "2. Bc4": "This is a move you never really see in an over the board game, but here on gameknot I see it all the time. It's not played a lot in real life games, so there's not much opening theory behind it. I suppose the opponent wants to draw me out of the book lines. I personally think it's a mistake since it allows black to equalize far too easily after an eventual d5 push.That being said, black still has to be a little bit careful. The proper move order to equalize has to be e6 -> Nc6 -> d5. Nc6 generally has to be played before the d5 push since otherwise the black king is exposed on the a4-e8 diagonal. White can then play Bb5+ immediately or in the near future and it makes things slightly bothersome. An example could be 1.\te4\tc5\n2.\tBc4\te6\n3.\tNf3\td5\n4.\tBb5+\tNc6\n5.\texd5\texd5\n6.\tNe5.\t\nThis cramps the position for black enormously. Of course you can always play Bd7 to defend rather than Nc6, but that isn't optimal either. I'm pretty sure that Bd7 does also lead to at least a positional advantage for white. If It wasn't for me preferring the Taimanov Sicilian I probably wouldn't know about this tiny piece of opening theory that Bc4 brings, so I can definitely see how it could throw d6 Sicilian players out of their comfort zone.",
+        "2... e6 3. a3": "I guess his plan is to get his bishop on a2 if it has to flee and maybe prepare a b4 push. With this we're already out of the gameknot database. ",
+        "3... Nc6": "Preparing d5 and immediately putting a halt to b4 ideas. I was also considering a6, with the idea to chase his bishop to the end of the earth. ( figuratively speaking of course ) That being said, Nc6 is probably the best/most multifunctional move here.",
+        "4. d3 d5": "And the fun starts.",
+        "5. exd5": "I wonder, is immediately retreating the bishop better or does it leave too much pressure?",
+        "5... exd5 6. Bb5": "I actually wasn't expecting this move despite it being such an important theme in the limited amount of opening theory for this opening. It's probably correct, but trading here doesn't seem optimal for white. Granted I get 3 finicky pawns, but that's worth it considering the development and space advantage I'd have after bxc6. I was anticipating either Ba2 of Bb3.",
+        "6... Nf6 7. Bxc6+": "This feels too early. You usually don't want to get rid of pins as they sometimes can be exploited. For example if white had played Nf3 here instead then black would have to be cautious of Ne5 ideas in the future, which is a move solely possible because the knight on c6 wouldn't be able to move. ",
+        "7... bxc6": "The bishop pair, a semi-open b-file,  strong control of the center and a potential a6 square for my light squared bishop. I can definitely work with this. It aren't game winning advantages just yet, but white will have to thread carefully. The only real weakness black has are double pawns and a very weak c6 pawn, but that pawn isn't that easy to reach for white at this moment.",
+        "8. Nf3 Bg4": "I immediately wanted to seize the initiative.  9.h3 Bb5 10. g4 creates too much issues for white in my opinion since it makes castling king side really risky and his queen side isn't exactly the most solid fortress either.",
+        "9. h3": "The anticipated response.",
+        "9... Bh5": "Keeping the pin and luring out g4.",
+        "10. Qe2+": "I haven't checked with a computer yet, but there's no way in hell that this is the best move. Qe7 almost ensures a queen trade, but I'm so ahead in development that it seems really questionable to me. I guess his plan is to trade all the pieces of the board and then try and pry on the c6 pawn ( which believe it or not is actually a mistake and his eventual downfall. )",
+        "10... Qe7 11. Qxe7+ Bxe7": "Almost fully developed and ready to rumble. The past 11 moves were unusual, but not abnormally exciting, but the real fun will soon start.",
+        "12. Ne5": "Ignoring an opening principle of moving a minor piece only once until fully developped and a mistake that will cost him. Better would have been to castle kingside or play something like Bf4. At this point in time I start calculating whether or not it's worth it to make him win the pawn on c6 if he moves the same knight a 3th time.",
+        "12... Bd6": "The calculations are made. After Nxc6 I calculated 13. Nxc6 Kd7 14. Na5 Rh8e8+ with Re2 ideas.",
+        "13. Nxc6": "He took the bait, time to reel in the fish.",
+        "13... Kd7 14. Na5": "I checked this one with a chess program after the game. The computer says that white should just ignore the knight and accept that he lost material. I guess this attack was more powerful than I realized at this moment.",
+        "14... Rhe8+": "2 options for white and none are appealing. Option 1:  15. Kd2 Re2+ 16. Kc3 moving his king to dangerous territory or option 2: 15. Kf1 Be2+ 16.Kg1 Bxd3 and I don't see how white defends that properly.",
+        "15. Kd2": "He chooses for the better option, although his future seems bleak nonetheless. ",
+        "15... Re2+ 16. Kc3 Rb8": "Cutting of his last flight squares. The checkmate idea is Be5+ The only decent way for white to properly defend is b4, which creates b3 as a new flight square.",
+        "17. Nb3": "He didn't find b4. The rest is a forced mate in 3.",
+        "17... Be5+ 18. d4": "The only defence",
+        "18... Ne4+ 19. Kd3 c4#": "And checkmate. Usually my games tend to go on for quite a while, this one was a lot different.It was amusing to finish a teamgame the same day as it started. Guess the moral of the story is: don't move the same minor piece 3 times for a pawn if it gives the other side attacking options."
+    },
+    "url": "https://gameknot.com/annotation.pl/punishing-questionable-opening-moves-and-principles?gm=58641",
+    "gameName": "Punishing questionable opening moves and principles",
+    "players": "sergeyl (1500) vs. bipolarcorner (1530)",
+    "opening": "Sicilian defence (B20)"
+}

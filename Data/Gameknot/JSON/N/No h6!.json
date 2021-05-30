@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "I wrote this annotation because I believe a common mistake in chess is for h6 as black tries to prevent a queen pin. As this game proves, that move can allow white to blow a hole in the defense. ",
+        "1... e5 2. d4 exd4 3. Nf3 c5": "As far the center game opening goes, I do not believe this move is sound. It doesn't develop black in a meaningful way, in fact I think it actually becomes harder for black to defend out of this position. Nc6 I think is the right choice. ",
+        "4. Bc4": "Standard attack on the f7 pawn. Not hard to stop. ",
+        "4... h6": "In trying to prevent queen pin, (which cannot happen anyway because of c5, black has created an opening. The knight can no longer shield the f7 pawn. It does not stop the advance of the knight either (Ne5 instead of Ng5). ",
+        "5. Ne5": "Obvious",
+        "5... Qf6": "This move is bad for black, but I am not sure what he should do to catch up defensively. Nxf7 creates leverage to push the pawn to e5, which will make black's life a lot more difficult. The queen has to move though if black wants to prevent a fork. Maybe Qb6 is this best choice here. ",
+        "6. Nxf7 Rh7 7. e5 Qc6": "Qh4 would have been better. You cannot help but seeing how vulnerable the H file is to white's queen. And at some point black needs to get his b8 knight moving since the other one is basically stuck.",
+        "8. Qh5 g6": "Not sure black has much of a choice here. Realizing check now would be very bad. ",
+        "9. Nd6+": "This was probably a mistake. Black should take the knight with the queen, which forces white to exchange queens. And in this situation that would be bad for white as his queen is a lot more valuable. ",
+        "9... Kd8": "Perhaps trying to hold unto the queen? This is a very bad move, the g6 pawn is now lost which threatens the rook. ",
+        "10. Qxg6 Rg7": "The only other choice is rook e7 which immediately costs black the knight. ",
+        "11. Qe8+ Kc7 12. Qxc8+ Kb6": "From here, white cannot get the mate and is so spread out that soon black will be able to force a piece exchange. So how to do the most damage? The knight could pick off the rook, if only there was a way to get the king onto c7...",
+        "13. Qd8+ Qc7 14. Qxc7+ Kxc7": "And there it is",
+        "15. Ne8+": "White can now seize a lead in material so as to deprive black a way to launch a meaningful counter. In this situation, trading material even for undeveloped pieces is probably okay. ",
+        "15... Kc6 16. Nxg7 Bxg7 17. Bxg8": "The chips fall where they may. ",
+        "17... Bxe5 18. O-O Na6 19. Bb3": "white is now underdeveloped compared to black, but it doesn't matter as black as nothing to attack with. ",
+        "19... b5 20. c3 dxc3 21. Nxc3 Nb4 22. a3 c4 23. axb4": "trade and consolidate. ",
+        "23... cxb3 24. Bxh6 Bxc3 25. bxc3": "The passed pawn is a nuisance, even dangerous if black had more pieces. Now however it is easy to deal with. Black can create difficulties if he can get the king to c4. Maybe black has a chance to promote if he can reinforce the push with the rook. Although I admit I have no idea how he'd get the rook into play. ",
+        "25... d5 26. Rab1 Rh8": "this doesn't accomplish much, the bishop just pulls back to a defendable square. And the rook can't do much after. ",
+        "27. Be3 a6 28. Rxb3 Rh4 29. g3 Re4 30. Rd1 Re6 31. Rd4 Re5 32. Rb1 Re8 33. Rbd1": "To end this, white needs to pin down black's rook and prevent it from attacking advancing pawns. Because black's pieces are all on white squares, the ability of the bishop to add pressure is limited. ",
+        "33... Rd8 34. f4 Rd7 35. g4 Rd8 36. f5 Rd6 37. g5 Rd7 38. f6": "Black either stop the pawn with Rd7, or keep defending his pawn. ",
+        "38... Rd6": "Here black either loses",
+        "39. f7": "opts to defend, but the rook is now married to the back rank to stop promotion. ",
+        "39... Rd8 40. Rd4xd5": "Trading away two rooks for one probably isn't necessary but this probably the fastest way to bring the game to a close.  ",
+        "40... Rxd5 41. Rxd5 Kxd5 42. f8=Q Ke4 43. Bd4 Kd3 44. g6 Kc2": "Black resigns. Morale of the story. h6 pawn is not the answer if you need the knight to defend the king pawn. Moving pawns in the opening is a dicey proposition because they can be serious obstructions to your own defense! Move with care. "
+    },
+    "url": "https://gameknot.com/annotation.pl/no-h6?gm=34901",
+    "gameName": "No h6! ",
+    "players": "big_red (1497) vs. Anon ",
+    "opening": "Centre game, Kieseritsky variation (C21)"
+}

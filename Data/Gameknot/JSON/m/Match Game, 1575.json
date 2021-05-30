@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 d6": "The opening is instead a King's Gambit Declined. ",
+        "3. Bc4": "Chess tactics were primitive in 1575, but attacking KB7 has been part of the game since it was given its modern form.",
+        "3... c6": "I guess da Cutri wanted another open diagonal for his Queen. I can think of no other explanation for this move. ",
+        "4. Nf3": "Ruy Lopez is planning a sacrificial attack on KB7. ",
+        "4... Bg4": "Da Cutri tries to defend with a pin, immobilizing the Knight.",
+        "5. fxe5": "Ruy Lopez has seen one move farther.",
+        "5... dxe5": "Da Cutri completes the exchange...",
+        "6. Bxf7+": "Now this move wins two Pawns.",
+        "6... Kxf7": "There are no good alternatives.",
+        "7. Nxe5+": "This fork wins the exposed Bishop.",
+        "7... Ke8": "As good or bad as anything else.",
+        "8. Qxg4": "Not only does Ruy Lopez win back the piece, he also augments his attack on da Cutri's undeveloped position by mobilizing the Queen.",
+        "8... Nf6": "He has to do somethig to slow the onslaught.",
+        "9. Qe6+": "Turning up the heat.",
+        "9... Qe7": "Trying to break the attack, although even if Ruy Lopez exchanges Queens his two Pawns up give him a technically easy win [by modern standards].",
+        "10. Qc8+": "Forcing da Cutri's response.",
+        "10... Qd8": "He has no choice, but now disaster strikes.",
+        "11. Qxd8+": "Setting up a deadly fork.",
+        "11... Kxd8": "Forced again, but...",
+        "12. Nf7+": "The Rook falls. Da Cutri resigned the game. Ruy Lopez went on to win the match and become the unofficial \"champion\"."
+    },
+    "url": "https://gameknot.com/annotation.pl/match-game-1575?gm=36502",
+    "gameName": "Match Game, 1575",
+    "players": "Ruy Lopez de Segura  vs. Giovanni Leonardo di Bona da Cutri ",
+    "opening": "King's gambit (C30)"
+}

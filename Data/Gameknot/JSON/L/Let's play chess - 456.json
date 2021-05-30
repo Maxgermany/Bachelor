@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": ".I played C20 Portuguese opening, as a surprise weapon, it allows black to easily equalize the game, but he has to know how to do it, also allows some dangerous tactics to the unaware... black mishandled it, and overextended his queen side pawns, postpone the castle and underdeveloped his pieces... all this means certain loss, in a short game.",
+        "1... e5 2. Bb5": "C20 Portuguese opening ",
+        "2... a6 3. Ba4 b5 4. Bb3 c5": "It makes sense to advance the c pawn before Nc6, Noha's ark maybe the other idea from black",
+        "5. d3": "resembles a Ruy Lopez with an overextended pawn chain by black, d5 is the week square for black now, my main ideas are the pawn break a2-a4 and an outpost in d5",
+        "5... h6 6. a4": "The a4 break theme",
+        "6... b4": "either option (b4 or bxa4) would mean the lost of control of light squares for black, b4 is better as it gets more space and controls c3",
+        "7. Qh5": "increasing the pressure over f7",
+        "7... Qe7": "forced",
+        "8. Nf3": "transposing to a Ruy Lopez but with black under developed and over extended in the queen's wing ",
+        "8... d6": "? black might try to exchange the light squared bishops with Be6",
+        "9. Ng5": "again more presure over f7, and a little trap if hxg5 then Qxh8 gains a quality",
+        "9... g6": "needed",
+        "10. Bxf7+": "and now black only option is to capture with the queen exchanging rook and two pawns for two minor pieces: 10...Qxf7 11.Nxf7 gxh5 12.Nxh8 Ne7 and the knight is trapped but the h pawn soon drops",
+        "10... Kd8 11. Qxg6": "removing the queen from danger, and if hxg5 then Bxg5 wins the queen",
+        "11... Bg7": "?? final blunder",
+        "12. Qxg7": "The lack of developed pieces and the absence of castle allowed some tactics against f7, the resulting game would lead to in an material imbalance of tow minor pieces and two pawns for a rook, with the queens of the board and a majority of white pawns in the king's wing..."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=41207",
+    "gameName": "Let's play chess",
+    "players": "kaspanatola (1200) vs. huffy1 (1359)",
+    "opening": "King's pawn game (C20)"
+}

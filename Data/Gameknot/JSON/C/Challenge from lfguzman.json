@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4": "Esta es una partida de la cual me siento muy orgulloso, ya que es la primera mano que le gano a mi amigo Pawnstar211 con el cual llevo 3 manos y me ha demostrado ser un gran jugador.\n\nMi salida fue e4 como lo hago en el 95% de las manos que juego con las balncas.",
+        "1... e6 2. d4": "mi adversario hizo la francesa, por lo que opte por controlar el centro con ambos peones.",
+        "2... Nf6 3. e5": "Considero que mi amigo cometi\u00f3 errores muy tempranamente al salir con el caballo f6 despu\u00e9s de esa salida que hice. Entonces aprobech\u00e9 la oportunidad para hacerle perder tiempo.",
+        "3... Nd5 4. c4 Nb6 5. c5 Nd5": "Tres jugadas mas tarde yo tenia, aunque solo con peones, el control del centro y las diagonales abiertas de mis alfiles y mi dama.",
+        "6. Nf3": "Es hora de sacar la artiller\u00eda pesada. para respaldo de las tropas que van delante.",
+        "6... b6 7. Bc4 bxc5": "Ahora aprovecho el tiempo mientras el intenta liberase del yugo de mis peones. Como pueden ver a la altura de la septima jugada, parecer\u00eda que yo he jugado varias veces consecutivamente sin permitir que el juegue.",
+        "8. Bxd5 exd5 9. Nc3": "Al intercambiar mi alfil de c4 por su caballo (en 8. Bxd5 exd5), en vez de cobrar el pe\u00f3n que tengo en desventaja, capitalizo as\u00ed la ventaja de tiempo que tengo dej\u00e1ndolo sin fichas importantes en el centro y yo ya tengo desarrollados mis dos caballos.",
+        "9... c6 10. Bf4": "En su novena jugada tuvo que defender su peon d5 con c6, otra jugada de peon de mi adversario la cual es aprovechada una vez mas por m\u00ed para continuar mi desarrollo. con mi alfil a f4.",
+        "10... d6 11. O-O": "Ooootra jugada de peon, esta vez en d6 que imagino que ha sido buscando abrirle la diagonal a su alfil de dama mientras propone el cambio de mi peon en e5. Una vez mas aprovech\u00e9 para continuar mi desarrollo esta vez enrocando.",
+        "11... Bg4 12. h3": "A esta altura estoy completamente desarrollado mientras el solo tiene fuera un alfil. Decido atarlo a ver si quiere realizar el cambio por el caballo. En este momento pens\u00e9 que \u00e9l podr\u00eda optar por el sacrificio de su alfil por mi pe\u00f3n h3 para vulnerar la defensa de mi rey, este iba a ser un sacrificio que yo hubiera aceptado inmediatamente ya que mi ventaja de tiempo me lo permite.",
+        "12... Bh5": "Rechaz\u00f3 el cambio, y decid\u00ed manejar el riesgo que representa ese alfil en h5 dado que no quiero abrir la defensa de mi rey.",
+        "13. dxc5 dxc5": "Empiezo a despejar las columnas centrales para mis torres.",
+        "14. Qb3": "Este no fue un error. Mas bien fue un riesgo calculado que asum\u00ed para lograr poner mi reina en b7 si el opta por capturar mi caballo.",
+        "14... Bxf3 15. gxf3": "Efectivamente, opt\u00f3 por la captura del caballo. la jugada 15. gxf3? fue mala ya que abr\u00ed mi rey y no aproveche ese tiempo para lo que originalmente la hab\u00eda concebido. que era bajar de una con Qb7.",
+        "15... Qh4": "Debilidad aprovechada. Mi adversario se dispuso a atacar la vulnerabilidad creada, atacando mi alfil, mi pe\u00f3n en h3 y mas tarde probablemente mi rey.",
+        "16. Qb7": "Como v\u00ed que le faltaban por lo menos dos tiempos para darme jaque, fui por su torre.",
+        "16... Qxf4 17. Qxa8": "Efectivamente el captur\u00f3 mi alfil y yo su torre. Para mi fue un buen negocio. Dado que yo tambi\u00e9n tengo mi dama con un jaque a una jugada.",
+        "17... Be7": "Be7??",
+        "18. Qxb8+": "Capturo su caballo, Jaque.",
+        "18... Bd8": "A partir de aqu\u00ed mi misi\u00f3n era evitar su enroque.",
+        "19. Qd6": "Asi lo hice.",
+        "19... Be7 20. Qxc6+": "Trat\u00f3 de cubrir la diagonal con su alfil para enrocarse pero eso solo aceler\u00f3 el mate.",
+        "20... Kd8 21. Qxd5+": "Jaque, liberando la columna D.",
+        "21... Ke8 22. Qc6+": "Jaque Mate 2 en si juega kf8.",
+        "22... Kf8 23. Qc8+": "As\u00ed lo hizo y el mate era en la pr\u00f3xima jugada si no se rend\u00eda antes, como efectivamente lo hizo. Me llena de satisfacci\u00f3n haberle ganado en 23 jugadas a un adversario tan bueno, aunque esta mano no es precisamente su mejor actuaci\u00f3n. Al que dude de su capacidad le invito a que lo rete."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-lfguzman?gm=34781",
+    "gameName": "Challenge from lfguzman",
+    "players": "lfguzman (1482) vs. pawnstar211 (1606)",
+    "opening": "French defence (C00)"
+}

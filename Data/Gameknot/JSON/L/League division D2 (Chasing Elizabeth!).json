@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "The old lady is going to need some oxygen after this affair.  This ends in a nice bishop sacrifice, enabling my queen to make her presence felt in the kings backside. :)",
+        "1... d5 2. exd5 Qxd5 3. Nc3": "Here's where the chase for her royal highness begins. ",
+        "3... Qd6 4. Nf3 Nf6 5. d4 Nc6 6. Bb5 Bd7": "He just trapped his queen with that move, time to set up an attack.",
+        "7. O-O a6 8. Bc4 Ng4 9. Ne4": "subtle, but if you notice only has 2 spaces she can go!! b4, which sucks, and g6 not much better! ",
+        "9... Qg6 10. Bd3 Qh5": "moves to avoid being discovered, and a chance on h2",
+        "11. Ng3": "royal steed forcing another 2 square option for the queen, she can now only go to d5 or a5,  I like chasing her.",
+        "11... Qd5 12. c4 Qd6 13. Nf5 Bxf5": "He decided it was time to end this charade.  But it's already too late, it's 13 moves into the game and he's spent 3/4's of it running his queen around. ",
+        "14. Bxf5 Nf6 15. Ng5 Nd8 16. g3 e6 17. Bf4": "blatant attack on she-woman.",
+        "17... Qb4 18. Re1": "sealing the deal on the e6 pawn.",
+        "18... Qxc4": "here I believe he senses an exchange, so Queenie guards e6 as well",
+        "19. Rc1": "This move is multi-purpose, it rids the queen of the central area, and gains my rook access to the C file (which comes in quite handy later)",
+        "19... Qxa2 20. Qc2": "Another multi purpose move.  Attacking c7 and H7, but he's not suspecting h7 I'm sure.",
+        "20... Bd6": "i was right, immediate threat is c7",
+        "21. Bxd6": "I take to control the c file",
+        "21... cxd6 22. Bxh7 g6": "He traps, in retrospect I think he should've taken with the N",
+        "23. Bxg6": "begging for him to take my bishop",
+        "23... fxg6 24. Qxg6+": "now he's in a hurt lock, and there's no escape ",
+        "24... Kd7 25. Qg7+": "He can't move onto the C file because of my trusty rook on c1",
+        "25... Nf7 26. Qxf7+ Kd8": "forced this move",
+        "27. Nxe6+": "He resigns here, his next option, by force, was Qxe6.  Followed by my QxQ. Then it's just a matter of a couple moves. #"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2-chasing-elizabeth?gm=22026",
+    "gameName": "League division D2 (Chasing Elizabeth!)",
+    "players": "cyko (1483) vs. daib (1413)",
+    "opening": "Scandinavian (B01), Pytel-Wade variation"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "In this game we can study the importance of a strong tactical game.",
+        "1... Nf6 2. c4 e6 3. Nc3 Bb4": "Nimzo-Indian",
+        "4. e3 O-O 5. Bd3 d5 6. Nf3 Ne4": "Strange move here for Black. It was better to develop the other pieces.",
+        "7. Qc2 Bxc3+ 8. bxc3 f5 9. O-O Bd7 10. Ba3 Rf6": "An attempt to place the Rook in position for an attack.",
+        "11. cxd5 exd5": "Here white has all the pieces developed, but black has a well placed Knight.",
+        "12. c4": "White tries to get rid of the weak back pawn.",
+        "12... c6": "Another bad move in my opinion. Better was Be6 and later develop the Knight to c6",
+        "13. Qb3": "Now Black is starting to feel the pressure and is beeing punished for not developing faster.",
+        "13... Be8": "Black tries to leave a place todevelop the Knight. At this point I saw a wonderful tactical blow.",
+        "14. Qxb7 Nd7": "Do you see it?",
+        "15. Be7": "15. Be7 ! a superb blow right in the middle of Black defence. A Black Rook is gone.",
+        "15... Qxe7 16. Qxa8 g5": "16... g3? Black tries to counter but at the same time weakens even further the position of its King. Here I had a number of options. I decided not to take the advancing pawn because it could pose a threat to my King since lines would open to the remaining Black Rook. That couls be dangerous for my King and Black still had a well placed Knight.",
+        "17. cxd5": "So I went for the center where I was stronger.",
+        "17... Nb6 18. Qb8 g4 19. Bxe4 fxe4 20. Ne5": "Now White has a well placed Knight.",
+        "20... cxd5 21. Rac1": "Now is a matter of bringing the remaining forces.",
+        "21... Nc4 22. Nxc4 dxc4 23. Rxc4": "Black resigned. Rc7 would follow and with the King in bad position it would be an easy win. Hope you learned something with this game."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-importance-of-tactics?gm=5772",
+    "gameName": "The importance of tactics.",
+    "players": "rafias (1804) vs. napehb (1823)",
+    "opening": "Nimzo-Indian (E48), 4.e3 O-O, 5.Bd3 d5"
+}

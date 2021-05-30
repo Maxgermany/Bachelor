@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4 f6": "Odd move, don't do that. ",
+        "2. Bf4 d6 3. Nf3": "g5 is still possible, but it doesn't go well for black (told by experience). ",
+        "3... Bf5 4. Nbd2": "Threatening e4. ",
+        "4... Nc6": "Not \"seeing\" it. ",
+        "5. e3": "? Stupidly leaving e4. ",
+        "5... Qd7": "Clearing the way for castling and supporting his lsb. Black here misses a much better move: can you spot it?",
+        "6. h3": "? Starting a \"standard\" plan, without looking carefully to the board. e4 was still possible! (...and necessary, since Nb4 would have been very unconfortable for white!)",
+        "6... d5": "Finally stops e4, at the cost of a tempo. He is also freeing the way for his dsb. Prepares Nb4, in a way.",
+        "7. g4": "Standard attack, giving up kingside castling perspectives at all. ",
+        "7... Be4": "This \"wonderful\" Bishop can be easily controlled by white, who just leaves it there.",
+        "8. Rh2": "BxN, NxN would be very fine for me. So black has a wonderful piece... Now. But white can exchange it when he wants, making Nb4 almost useless. Black has Nb5, but in that case I (white) plays NxB, then Nf3-d2, and everything's ok. ",
+        "8... f5": "What an aggressive move! Nice! Of course it uncovers the kingside. ",
+        "9. Ne5": "Eliminating the Nb4 jump, and setting a nasty threat on black. Which one?",
+        "9... Nxe5": "After white retakes, black must be aware of a trapped B... did you realize it?",
+        "10. Bxe5": "Normally I take it with the pawn, but in this case, this B here is a monster, since no pawn nor N can exchange it, and black's dsb is condemned to g7's defence for some time. ",
+        "10... O-O-O": "! ...or it should be. Black gives his K a remote fortress instead of the useless fxg4. g5 would have been an option, or e6 - Bd6. But before those plans can be even considered, black should have taken care of white's f3, that traps the \"wonderful\" bishop. ",
+        "11. c4": "I ovelooked it! Instead, I started right away the queenside attack. No reason to lose time: dxc4, Bxc4, and d4 is still solid. ",
+        "11... e6": "Right, and I have to be careful about a possible / future Bb4(+), so I preferred to... (still ignoring f3, which may have came to be a better choice than to take it).",
+        "12. c5": "This works because after f6, white can still attack via a Ba6 sac at some point. ",
+        "12... Qf7": "? No, wrong direction. Black doesn't have time for counterattack on f2. And still doesn't see the potentially trapped B. ",
+        "13. Qa4": "Qxa7 is a \"stupid\" threat, but it must be met. ",
+        "13... Kb8 14. c6": "? If Qe8, Bb5, h6, and white has to exchange or retire. White still has attack, but the game will go on a little more. Still, Qe8 is the \"only\" answer black has...",
+        "14... Bd6": "Sensible, but wrong. ",
+        "15. Qb5": "! The right move. Black is lost without hope. ",
+        "15... b6 16. Qa6": "A depressing end for a good player. Be aware of apparently \"innocent\" positions... :-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/a-killer-pawn-http-gameknot-com?gm=59438",
+    "gameName": "A killer pawn, http://gameknot.com/",
+    "players": "damalfi  vs. from Suez ",
+    "opening": "Queen's pawn (A40)"
+}

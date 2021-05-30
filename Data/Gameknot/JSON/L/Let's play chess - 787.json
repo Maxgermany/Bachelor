@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. b4 e5 2. Bb2 Nc6": "Think d7-d6 is actually better because...",
+        "3. b5": "...of this move",
+        "3... Nd4 4. e3 Ne6 5. Bxe5 d6 6. Bb2 a6 7. a4 a5 8. Nf3 Nf6 9. d3": "Perhaps too passive - would have used d2-d4 here",
+        "9... Bd7 10. h3 c6 11. e4 cxb5 12. c3": "Again I'd have used d3-d4 here instead",
+        "12... b4 13. cxb4 axb4 14. Qb3 d5 15. Nbd2 Bc5": "Clearing the way to castle but also threatening f2",
+        "16. Bxf6 Qxf6": "Threatens a1 plus hidden attack on f2",
+        "17. Rd1 Nd4": "Lures away the knight on f3",
+        "18. Nxd4 Qxd4": "f2 mate next move"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=25326",
+    "gameName": "Let's play chess",
+    "players": "overtoom (1298) vs. mrfox27 (1384)",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

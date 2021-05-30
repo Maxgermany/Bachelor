@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "This is from a themed tourni, and I stopped playing E4 because of the Sicilian",
+        "1... c5": "I debated going for a Smith Morra gambit, but played the more conventional NF3",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Bb5": "More usual would be Nc3 but I thought I would givw this a go",
+        "5... Bd7 6. O-O": "King tucked away nice and safe",
+        "6... Nf6 7. Nc3 Nxd4 8. Bxd7+ Qxd7 9. Qxd4": "It is all equal, but Black is slightly behind in terms of development and the bishop is boxed in",
+        "9... e5 10. Qd3 Be7 11. f3 Qc6 12. Be3": "White completes development",
+        "12... O-O 13. Rfd1 Rfd8 14. a4 a6 15. Ra3": "I am trying to open up the centre by getting black to play d5 with the discovered attack on the rook",
+        "15... d5 16. exd5 Nxd5 17. Nxd5 Bxa3 18. bxa3": "White come out of the exchange ahead",
+        "18... Kh8 19. Qe4 f5 20. Qxe5 Qxc2 21. Rd2 Qc1+ 22. Kf2 Rde8 23. Ne7": "I like this move",
+        "23... Qxa3 24. Rd7": "Black is in serios trouble now",
+        "24... Rac8": "Black misses the mating attack",
+        "25. Ng6+": "Ng6 !! game over",
+        "25... hxg6 26. Qxg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/catifs-x-mt-sicilian-battles?gm=25602",
+    "gameName": "Catifs X MT - Sicilian battles",
+    "players": "dwardman (1976) vs. bud_spencer (1557)",
+    "opening": "Sicilian (B54)"
+}

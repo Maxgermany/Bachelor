@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 c5": "I hadn't faced this before and ended up making it up as I went along.",
+        "2. dxc5 Qa5+ 3. Nc3 e6 4. e3": "I'm not sure any of this stands up to much theoretical scrutiny!",
+        "4... Bxc5 5. Bd2 Bb4 6. Nge2 Nc6 7. a3 Be7 8. b4 Qc7": "I suspect Black is too passive with his last two moves.  I'd prefer to see the queen swing over to the kingside here.",
+        "9. Ng3": "My plan - as far as I could be said to have one - was to redevelop the dark-square bishop to the long diagonal, and to find a way of advancing the c-pawn in order to stake a claim for d5.",
+        "9... h6 10. Bd3": "White's control of the long diagonals is thematic in this game.",
+        "10... Bf6 11. Rb1": "I think I had the idea of moving my QN to e4 at this stage.",
+        "11... Nge7 12. Nb5 Qb8": "Black really needed to guard against the knight incursion at b5.  His queen is virtually irrelevant now.",
+        "13. c4 a6 14. Nc3 b5 15. c5": "I like this move, creating dark-square weaknesses and ensuring the queen remains shut out.",
+        "15... Ng6 16. Nce4 Be5 17. f4 Bc7": "Black's bishop and queen are completely shut out.",
+        "18. Bc3 O-O": "At this stage we were both short of time and I started looking for sacs to end it.",
+        "19. Nf6+": "Not sound, as it turns out, but it did the job.",
+        "19... gxf6 20. Bxf6 Nxf4": "Black tries to create a few threats of his own by returning the material and opening the diagonal, but he misses his only chance to nullify the dark square threat.  Bd8 does the job, I think.",
+        "21. Qg4+": "Black is doomed.",
+        "21... Ng6 22. Bxg6 Bxg3+": "Desperation - mate is not far away.\n",
+        "23. hxg3 Ne5 24. Bh7+": "Another minor-piece sacrifice finishes the job.",
+        "24... Kxh7 25. Qg7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-game?gm=40978",
+    "gameName": "Blitz game",
+    "players": "tngm2000  vs. ??? ",
+    "opening": "Old Benoni defence (A43)"
+}

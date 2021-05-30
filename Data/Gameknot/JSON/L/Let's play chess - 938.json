@@ -1,0 +1,12 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 Nc6": "Ooer! If it's not in the Batsfords Modern Chess Openings then I am stumped.",
+        "3. Nf3 d6 4. fxe5 dxe5 5. Bc4 Bg4 6. h3 Bxf3 7. Qxf3 Nf6 8. c3 a6 9. O-O Qe7": "Threatening ...Qc5 ",
+        "10. Kh1 O-O-O 11. a4 g5 12. Qxf6 Qxf6 13. Rxf6 g4 14. b4 gxh3 15. gxh3 Be7 16. Rxf7 Bg5 17. b5 Nb8 18. Ba3 Bxd2 19. Be6+ Nd7 20. Bxd7+": "In hindsight 20. Nxd2 may have been the better move",
+        "20... Rxd7 21. Rxd7 Kxd7 22. Nxd2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=18555",
+    "gameName": "Let's play chess",
+    "players": "kingnick (1200) vs. sbok (1200)",
+    "opening": "King's gambit (C30)"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "Playing for a positional affair.",
+        "1... Nf6": "Deciding to withhold his central Pawns.",
+        "2. Nf3": "Developing his own Knight.",
+        "2... e6": "Cautious play.",
+        "3. Bg5": "Pinning at once.",
+        "3... c5": "Attacking the Pawn.",
+        "4. e4": "With the threat of P-K5 winning the pinned Knight.",
+        "4... Qb6": "Countering by unpinning.",
+        "5. Nbd2": "Baiting the trap.",
+        "5... Qxb2": "Black succumbs to his greed.",
+        "6. Nc4": "The Black Q is in trouble.",
+        "6... Qb4+": "Trying to squirm loose.",
+        "7. c3": "Defending with a counterattack. if 7... Q-N4, 8 N-Q6 ch wins the Q [8... BxN 9 BxQ.]",
+        "7... Qxc3+": "The last gasp.",
+        "8. Bd2": "The Q is trapped. Black resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-nice-opening-trap?gm=41402",
+    "gameName": "A nice opening trap",
+    "players": "\"A\"  vs. \"B\" ",
+    "opening": "Queen's pawn (A46), Torre attack, Wagner gambit"
+}

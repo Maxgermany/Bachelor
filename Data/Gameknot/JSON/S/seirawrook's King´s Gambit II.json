@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "Thematic tournament, ",
+        "1... e5 2. f4 exf4 3. Bc4 Qh4+": "!? A speculative move, not considered the strongest reply, leading to the type of tactics that appeal to KG players.",
+        "4. Kf1 Bc5": "?! Increases Whites lead in development.",
+        "5. d4 Bb6 6. Nf3": "White has good development in compensation for the pawn and loss of right to castle.",
+        "6... Qf6 7. e5 Qc6": "Moving the Q again.",
+        "8. Qe2 Qh6": "?! Another Q move. White seems to have full compensation for the pawn which remains weak.",
+        "9. Nc3 Ne7 10. Qe4 g5": "?! Determined to try and hold the pawn, but White is developing a strong attack.",
+        "11. h4 Rg8 12. Rh2": "Not just threatening the g pawn but preparing the R for action.",
+        "12... Qg6": "Black decides, belatedly, to give back the pawn but White retains a ferocious initiative even so.",
+        "13. hxg5 Nf5 14. Bxf4 Nc6 15. Nd5": "White has Black in a strong bind.",
+        "15... Kf8": "To prevent the fork.",
+        "16. c3 Nce7 17. Nf6": "The White N settles on f6, and at this point is worth as much as Black's trapped rook.",
+        "17... Rh8 18. Bd3 d6 19. Kf2 Ng8": "Black wants to exchange Ns, but...",
+        "20. Rah1": "Here exd was to be considered, but White wanted to be cautious and strengthen the bind.",
+        "20... Nfe7 21. exd6 cxd6 22. Bxd6 Qxe4 23. Bxe4 a5 24. Rh2xh7": "Obvious, but crushing. ",
+        "24... Rxh7 25. Rxh7 Ba7 26. Ne5 Nxf6": "Black is desperate to try and shake the bind, but it is too late.",
+        "27. gxf6 Kg8 28. Rg7+": "Here Black resigns. If...Kh8, it is mate. If... Kf8, then Bxf8+ Ke8 Rg8#."
+    },
+    "url": "https://gameknot.com/annotation.pl/seirawrooks-king-s-gambit-ii?gm=30536",
+    "gameName": "seirawrook's King\u00b4s Gambit II",
+    "players": "dmaestro (1575) vs. ??? (1790)",
+    "opening": "KGA (C33), bishop's gambit, Greco variation"
+}

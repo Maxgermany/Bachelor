@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e3": "Here's another thrashing!  Freddy continues with his rope-a-dope strategy.",
+        "1... g6": "heading for a fianchetto and a probable King's Indian setup",
+        "2. Nf3 Bg7 3. Be2 Nf6 4. O-O O-O": "We're both playing at a distance here.  I'm trying to keep it as tight as my opponent...",
+        "5. Nc3 d6 6. d4 Nbd7 7. h3 e5": "At last I crack!  Contact is made.",
+        "8. dxe5 dxe5 9. Qd3 Qe8 10. e4 c6": "?  Looks harmless enough but leaves a hole in the heart of Black's position.",
+        "11. Qd6": "!!  Completely unexpected and devastating to my position.  How can I continue to develop normally?  Neither N has a sensible move.  My QB can't move and if I play my b-pawn, the c-pawn falls.  In retrospect, perhaps 11...Nh5 is better than the move played.",
+        "11... Qe6 12. Qxe6": "! Saddling me with doubled pawns that completely cramp my position.",
+        "12... fxe6 13. Be3 Nh5 14. g3 Nb6 15. Kg2 Bd7": "I was starting to feel that I'd nearly sorted out my problems at this stage... WRONG!",
+        "16. a4 Be8": "The N needed a decent square to retreat to.  I couldn't oppose the a-pawn with mine because the N would have been left undefended.  Perhaps Rad8 would have been better here.",
+        "17. Bc5": "Now this R is doomed.  Move it to f7 and White's N attacks it, to f6 and my e5-pawn falls (perhaps not such a bad thing) or 18. Be7!",
+        "17... Rf7": "I play along anyway.",
+        "18. Ng5 Rf6 19. Be7 Bf7": "My position is becoming quite comical, all huddled up like the pigs in their little house, hiding from the Big Bad Wolf!",
+        "20. a5 Nd7 21. Rfd1 Nf8": "even more so!  Note that, as my R can't go anywhere, White leaves it be, choosing instead to impose more torture, till he's got nothing better to do.",
+        "22. Rd6 Re8": "and even more little piggies huddle together!",
+        "23. Bd8 h6 24. Bxh5 gxh5 25. a6": "now a new threat: the a-pawn will promote if I don't stop it.  I have a choice: swap or advance my b-pawn, which would probably be followed by 26. Rd7 (or maybe 26. Bxf6 followed by 27. Rd7)",
+        "25... bxa6 26. Bxf6 hxg5 27. Bxg5 Rc8 28. Rxa6 Rc7 29. Rdxc6 Rb7": "trying to avoid unnecessary swapping when material down, but it makes no difference",
+        "30. b3 Nh7 31. Be3 Nf6 32. Rxa7 Rxa7 33. Bxa7": "Now what can I do?  In the absence of anything more constructive, I try to \"do nothing\" while centralising my K and hoping that an opportunity to mobilise my Bs may arise.",
+        "33... Kf8 34. Bc5+ Ke8 35. Rc7 Ng8 36. Nb5 Nh6": "missing the threat.",
+        "37. Be7": "announcing mate in 2",
+        "37... Nf5 38. exf5 exf5 39. Nd6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-big-bad-wolf-blows-down-the-little-piggies-house?gm=21361",
+    "gameName": "The Big Bad Wolf blows down the little piggies' house",
+    "players": "easy19 (2239) vs. rjacobs (1515)",
+    "opening": "Van't Kruijs opening (A00)"
+}

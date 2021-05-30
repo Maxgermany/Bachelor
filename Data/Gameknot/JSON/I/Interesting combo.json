@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxd4 exd4 5. Qxd4": "Scotch Game",
+        "5... c5": "Black tries to make me move my queen, but I have a better idea.",
+        "6. Qe5+": "Qe5 .  This either gives a queen trade after 6 ...Qe7, gives me the pawn after 6 ...Ne7, or gives me a pawn (and possibly a rook) after 6 ...Be7? 7.Qxg7.",
+        "6... Ne7": "Black plays smart and chooses to block with the knight.",
+        "7. Qxc5": "I gladly take the pawn, but wary for the discovered attack on the queen if the knight moves.",
+        "7... Nc6": "Sure enough, there's the attack.",
+        "8. Qc4": "So I move my queen back.",
+        "8... Ne5 9. Qd5 Qf6 10. Be2": "I play Be2, hoping to castle on my next turn to avoid any f2 attacks.  I also want to play Bb5, to pin the pawn and trap the black bishop and thus also trap the queenside rook.",
+        "10... d6": "d6? Black wants to activate his bishop, but this leaves him open for checks.",
+        "11. Bb5+": "I play Bb5 , taking advantage of this opportunity.",
+        "11... Bd7": "Black defends with Bb7.  This leaves me free to take the b-pawn and cripple black''s defensive position!",
+        "12. Qxb7": "Qxb7!  I now dominate this game.",
+        "12... Rc8": "Black tries to save his rook.",
+        "13. Bxd7+": "Bxd7 ! Seriously pressuring black's king, who now realizes his mistake of being under-defended.",
+        "13... Nxd7 14. Qxc8+": "Qxc8 .  This forces black to move and leaves me with the possibility for a huge pin of the h4-d8 diagonal.",
+        "14... Ke7 15. O-O": "I castle to get my king out of the way in case black decides to try and check me.",
+        "15... Qe5 16. Nc3": "Nc3, threatening 17.Nd5  Ke6 18. Qe8  Be7 19. Qxe7#, unless black wants to give up his queen.",
+        "16... Nf6": "Nf6, a valiant attempt to stop the knight.",
+        "17. Bg5 h6": "h6, a try to stop the pin.  However, I don't have to worry about that as..",
+        "18. Nd5+": "Nd5 !! Black's only move is to take the knight and give up his queen.  Black resigned, an excellent well-needed victory for me."
+    },
+    "url": "https://gameknot.com/annotation.pl/interesting-combo?gm=9558",
+    "gameName": "Interesting combo",
+    "players": "joshshadowfax (974) vs. dohbaby (978)",
+    "opening": "Scotch (C44), Lolli variation"
+}

@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4": "Queen's gambit can be fun...to watch! I do not enjoy this particular opening regardless of the color I play as it seems much too solid if one plays ordinary moves.",
+        "1... d5 2. c4 dxc4 3. Nc3": "Standard.",
+        "3... c5": "Not so popular for good reason as the invitation for d5 is rather tempting and hard to dislodge for black.",
+        "4. d5 a6 5. a4 Nf6": "So far my main task is simply to take the pawn on d5. However, white has enough to defend it and so it looks like he has the advantage for the opening as I will have to plant my undeveloped knight on d7 and suffer spacial disadvantages.",
+        "6. Nf3 e6 7. e4": "White has made it clear that d5 is going no where. There is simply no way for me to take the pawn after white plays Bxc4.",
+        "7... Nxe4": "!? In blitz it is hard to see if a move is solid. This move seemed the only way to not die a slow strategic death. 8. dxe Qxd1+ 9. Nxd1 Bxe6 and I am up two pawns.",
+        "8. Nxe4 exd5 9. Nc3 Be6 10. Be2": "?? This is a very natural move but has consequences. ",
+        "10... d4 11. Ne4 d3 12. Bf1": "Although I do not have any deadly threats (comments welcome!!), white is positionally behind. Material is now equal, although black's pawns are going to pose a weakness if white recovers.",
+        "12... Nc6 13. Nfg5": "13. Be3 seems like a better choice as my bishop is somewhat passive and white is behind on development. Maybe he was planning Bg2. ",
+        "13... Nd4": "White simply has no way to parry Nc2+",
+        "14. Nxe6 fxe6": "This is correct as 14. ... Nc2+ 15. Qxc2! dxc2 16. Nxd8 Rxd8 17. Bd2 and white should regain the pawns...someday.",
+        "15. Kd2": "? I don't understand this move. Help?",
+        "15... Nb3+ 16. Kc3 Qd4#": "A rather pretty mate if you ask me! "
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-to-recover-is-zesty?gm=34946",
+    "gameName": "GameKnot Blitz, to recover is zesty",
+    "players": "pablodiscobar  vs. coolistdude ",
+    "opening": "Queen's gambit accepted (D20)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 Nf6": "I wasn't sure what I wanted to play against this paticular opponent. I didn't want to play my usual 1... c5 and I dislike the king pawn oppenings. So what did that leave me with. I dont like the Scandinavian or something like the modern. It came doen to to options. Either I would play the French But then I figured why not try the Alkhine? \n",
+        "2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4": "The four pawn attack. I wasn't the only one playing out a little differently to how we normaly play. My opponent normally plays the modern.\n",
+        "5... dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nf3 e6 9. Nc3 g6": "?! I wasnt sure if this was very good at all to be honest. The problem is my LSB. It has very few squares to go to and is not really doing much at the moment. I concerned myself at this point weather my opponent might try Bg5!? \n",
+        "10. Be2": "No he didn't play Bg5 which was what I half expected.\n",
+        "10... Bg7 11. O-O O-O": "I wanted to begin to undermine whites centre but I figured I may as well tuck my king away before I begin those operations. \n",
+        "12. Qd2 h5": "I was very tempted to play 12...h6?! witht the idea that if white plays 13.Bxh6 Nxd4 leads to some interesting sharp play. however there were plaenty of other options at whites disposal. Including h3 with the idea of trapping blacks LSB. That woul;d force me to play h5 anyway so I decided rather than waste a tempo I wpuld play h7-h5 in one go.\n",
+        "13. Bh6": "? I had wondered if white might try this. I had calculated that this was a mistake though. this tactical oversight cost white two pawns.\n",
+        "13... Nxd4": "!  The key was to play this first and follow up with Bxh6.\n",
+        "14. Nxd4": "forced.\n",
+        "14... Bxh6 15. Qxh6": "Again forced.\n",
+        "15... Qxd4+ 16. Kh1 Qxe5": "I had a bit of a decsision here. Which pawn to take? I went with this one as it seemed less complicated than trying to take c4.\r\n",
+        "17. Rae1 Qg7": "I decided I would hunker down and prepare for a long hard game. I was hoping for a queen trade but figured there was no way white would oblige. still though. I figured it was worth having my queen here for protection of my king side even if there were more active options available.\n",
+        "18. Qe3 c6": "probably a waste of ttime, it doesn't gain a whole lot but it does have it's points. \n",
+        "19. b3 Nd7 20. Ne4 Bxe4": "My bishop has been nothing but a pain most of the game. I wanted to simplify wherever possible.\n",
+        "21. Qxe4 Rad8 22. Rf3 Nf6 23. Qf4 Ng4": "Means a trades are pracrtically impossible to avoid.\r\n",
+        "24. Rg3 Qf6": "?! Forces a trade of queens or pieces. but perhaps this was the wrong idea, after all my knight is quite usefull right now so perhaps trading it for the bishop was the wrong move.     The point is that on the surface Rxe4!? seems to win a piece but if you look deeper it becomes apparent that it is only a piece trade. 25.Rxe4 Qc3 16.Rc1 Qb2 and white needs to give back the bishop to save the rook.    Possibly whitemight have tried Qf1!? I suspect that that would regain a pawn.\n",
+        "25. Qc7": "?? But in his eagerness to avoid trades white makes this game losing blunder. At first Qf2 seems interesting but Qa5 and its hard to see what black gains. However black has a winning move at his disposal.\n",
+        "25... Nf2+": "!! this should win at least a rook or a lot more if white is not carefull.\n",
+        "26. Kg1 Qd4": "The best follow up by far. This threatns the infamous smothered mate with Nh3+ Kh1 Qg1+ Rxg1 Nf2# there are only two defences to mate in this position. 1. h4 which losses two rooks. and gives white a horrific position. 2.h3 which is probably whites best reply. It looses a rook for a pawn or two which is obviously dead lost for white but is most stubborn. and the reply white played in the game. \n",
+        "27. Kf1 Ne4": "However !! this wins the queen. The point is black thretns mate on both d2 and f2 and the only way to prevent it is giving up the queen for the knight. Faced with the loss of his queen white resigned this position.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/nearly-a-smothered?gm=41830",
+    "gameName": "nearly a smothered",
+    "players": "opponent (1448) vs. thereaper1 (1072)",
+    "opening": "Alekhine's defence (B02), Steiner variation"
+}

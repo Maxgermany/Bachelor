@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. d4": "Queen's pawn opening",
+        "1... Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 Ne4 6. Bd2": "6. Qc2 is also playable 6...O-O 7. Bd3 f5 8. O-O\n",
+        "6... Nxd2 7. Qxd2 c6": "Other move is 7...O-O 8. a3 Be7\n",
+        "8. Bd3 Nd7 9. O-O dxc4 10. Bxc4 Nb6 11. Bb3 Nd5": "Other than Black have to played 11... O-O here 12. a3 Be7 13. Qc2 a5\n",
+        "12. e4 Nf6": "12...Nxc3 is playable\n",
+        "13. Rfe1 O-O 14. e5 Nd5": "pressuring on  white's Nc3\n",
+        "15. Bc2": "Very Surprising move here 15. Bc2!! White should aware about Black's Qa5 makes more pressure on Nc3\n",
+        "15... Qa5": "No doubt this the correct move\n",
+        "16. Ng5": "Now the game will start from here\n",
+        "16... Nxc3": "The best alternative is 16...g6, 17. Nge5 control on his Nc3\n",
+        "17. Bxh7+ Kh8 18. Qd3": "sacrificing a Knight, this is the Winning point\n",
+        "18... Nd5 19. Qh3 Nf6 20. Bg6+ Kg8 21. exf6 Rd8 22. Bxf7+ Kf8 23. Qh8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-real-nimzo-logical-game-you-must-see?gm=52590",
+    "gameName": "The Real Nimzo! Logical Game..You Must See..",
+    "players": "Rakic (2089) vs. Wombat (1771)",
+    "opening": "Nimzo-Indian (E40), 4.e3"
+}

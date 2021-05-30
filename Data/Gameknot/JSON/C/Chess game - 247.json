@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. a4": "One of my students challenged me to a game. Although the game is a bit one-sided, there is a nice finish to the game. See if you can spot it! Black is a beginner, and doesn't make the best first move",
+        "1... e5": "So I occupy the centre",
+        "2. e4": "White now starts making reasonable moves",
+        "2... Nf6 3. d3 d5 4. exd5 Nxd5 5. Nc3 Be6 6. Nf3 Nc6 7. Bg5 f6 8. Bh4 Bb4": "Now Qd2 is the only way to protect the Nc3 again.",
+        "9. Nd2 Nxc3 10. Qh5+ g6": "Bf7 is even stronger. Now he is losing a piece rather than a pawn",
+        "11. Qh6 Nd5 12. Qg7 Rg8 13. Qxh7 Qd6 14. c3 Nxc3": "I didn't want his knight coming to e4 or c4 attacking my queen.",
+        "15. bxc3 Bxc3 16. Rb1 O-O-O 17. Bxf6 Rd7 18. Qh4 Nb4": "The d pawn is now a goner",
+        "19. g4 Nxd3+ 20. Ke2 Nf4+ 21. Kf3": "OK, black to play. What is the quickest way to win?",
+        "21... Qd3+": "Did you find that?",
+        "22. Bxd3 Rxd3+ 23. Ke4 Bd5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=25811",
+    "gameName": "Chess game",
+    "players": "Carlos(Spanish Student  vs. Charles Higgie ",
+    "opening": "Crab opening (A00)"
+}

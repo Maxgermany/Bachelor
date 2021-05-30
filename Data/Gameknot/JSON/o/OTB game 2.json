@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "White starts off with the king pawn opening...",
+        "1... e6": "...And I reply with the French Defence.",
+        "2. d4 d5 3. e5": "He plays the advance variation.",
+        "3... c5": "I attack the d-pawn...",
+        "4. Nf3": "...Which he defends with the knight. Standard is 4. c3",
+        "4... Nc6": "Attacking again...",
+        "5. c3": "...Caleb defends with the c2 pawn going to c3.",
+        "5... Qb6 6. Be3": "This is bad. I saw Qxb2 a few moves later.",
+        "6... f6": "But, I try to develop my other knight to f6 by trading.",
+        "7. Bd3 c4 8. Bc2": "The bishop stays on th b1-h7 diagonal...",
+        "8... Qxb2": "...But here I realize how bad 6. Be3 is.",
+        "9. Nbd2": "The only move.",
+        "9... Qxc3 10. O-O fxe5": "I gobble up 3 yummy pawns...",
+        "11. dxe5 Nxe5": "...And we have some minor trades.",
+        "12. Ng5": "Mr. Knight comes to g5.",
+        "12... Nf6": "I stop a potential threat Qh5+, but h6 was the way to go, being that if 13. Qh6+ g6 and the queen is attcked by the g-pawn. The bishop cannot take due to Nxg6.",
+        "13. Rb1 h6": "Now.",
+        "14. Ngf3 Nxf3+ 15. Nxf3 Bd6 16. Re1 O-O 17. Qd2": "I am not sure why Caleb wants the queens off the board. I am winning by 3 pawns.",
+        "17... Qxd2 18. Bxd2 Ne4 19. Bc1 Nc3 20. Rb2": "My opponents gladly falls into my trap...",
+        "20... Ba3": "...Of the rook not escaping.",
+        "21. Nd4 Bxb2 22. Bxb2 Nxa2 23. Nxe6 Bxe6 24. Rxe6 Rae8": "A forced rook trade.",
+        "25. Rd6": "Which my opponent declines, falling into a deadly mating net.",
+        "25... Re1#": "Checkmate. A beautiful finish!"
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-game-2?gm=66011",
+    "gameName": "OTB game 2",
+    "players": "Caleb (968) vs. Eric (1271)",
+    "opening": "French (C02), advance, Nimzovich system"
+}

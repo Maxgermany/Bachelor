@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. Nc3": "1. Nc3 not a normal first move but not bad, good for taking theory whoars out of their comfort zone.  ",
+        "1... e6 2. d4 d5 3. Bf4 Nf6 4. Nb5": "an unprincipled response white moves a piece twice in the opening",
+        "4... Bd6 5. Bg5 Bd7 6. Nxd6+ cxd6 7. a4": "a4? this move does not help complete whites development",
+        "7... Nc6 8. Qd3": "Qd3?  The queen could easily be put under attack in this position better would be nf3",
+        "8... h6 9. Bxf6 Qxf6 10. O-O-O O-O 11. e4 dxe4 12. Qxe4 Rac8 13. Bd3 g6 14. Nf3 Nb4 15. h4 Nxd3+ 16. Rxd3 Rc7 17. h5": "h5 black is not afraid of ghosts",
+        "17... Rfc8 18. b3": "b3?? white's position collapes shortly",
+        "18... Rc7xc2+ 19. Kb1 g5 20. Qxb7": "Qxb7?? leaving the center and the b1-h7 diagnal weak",
+        "20... Qf5 21. Nxg5": "Ghosts again",
+        "21... Qxd3 22. Qxd7 Rc2c7+ 23. Kb2 Rxd7 24. Rh3 Rc2+ 25. Ka3 Qd2 26. b4 Ra2+ 27. Kb3 Qc2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=19394",
+    "gameName": "Let's play chess",
+    "players": "tinoli10 (1200) vs. hurryheathen (1200)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

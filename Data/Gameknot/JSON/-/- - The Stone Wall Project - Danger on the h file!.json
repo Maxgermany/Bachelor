@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\r\n\r\nI would like to draw your attention to the fact that when you castle kingside, your h and your g columns can become very vulnerable to mating attacks.  Black, who is a Class D player did not sort out his problems with the h column in a timely manner and as a result got Freddied.  This was really sad because Freddy had made a horrible blunder costing him a rook for a pawn.  If Waxwing (John) had done something about the h column then he could well have gone on to the Chessic Upset of the Century!  This game came from the Stonewall project which I am not taking part in but I did see this game and thought it very interesting to annotate.  The game starts with Freddy playing 1. d4.",
+        "1... d5 2. e3 Nf6 3. Bd3": "3. Bd3 - this move to d3 hits at h7 and hints at a possible future Q/B line up on the b1-h7 diagonal.",
+        "3... e6 4. Nd2 Be7 5. f4 c5": "5. ...... c5 - interesting pawn break.",
+        "6. c3 O-O 7. Ngf3 c4": "7. ..... c4 - trying to put Freddy in a bind.",
+        "8. Bc2 Nc6 9. e4": "9. e4 - Freddy tries to undermine the pawn chain.",
+        "9... Ng4": "9. ..... Ng4 - hmm, aggressive and aiming to play a move like Bh4+ followed by Qh4+ which could be very unpleasant for Freddy.",
+        "10. e5": "10. e5?? - this is a real howler which will cost Freddy a piece, but this is just for starters!",
+        "10... Ne3 11. Bxh7+": "11. Bxh7+ - this is a desperado, but it does open the h column to a possible Q+R combo.  Old Matey just lurves those back rows and corridors.",
+        "11... Kxh7 12. Ng5+": "12. Ng5+ - this knight check opens up a line for the WQ to come to h5.",
+        "12... Kg8 13. Qf3 Nc2+": "13. ...... Nc2+ - and here is the main course, that cadaverous black steed will gobble up Freddy's rook in the corner.  John (Waxwing) was a very happy man at this point.  Now, wouldn't we all be happy with this position against Freddy?  Yup, but before you get that chamfers out of the fridge, just hold your, erm, horses until he either cops Old Matey (preferably) or waves the white flag, then and only then can you go absolutely and utterly besom!",
+        "14. Kd1": "14. Kd1 - good move here, that knight can be rounded up later.  Freddy has some more important things on his mind though with a pawn march on that h column.  Beware!",
+        "14... Nxa1 15. h4 Bxg5": "15. ...... Bxg5 - I can understand him wanting to remove the knight but oh dear, this move opens up the h column to a WR!",
+        "16. hxg5 Qd7": "16. ....... Qd7??? - any improvements on Re8?  That is what I would do in response to 16. hxg5 and then proceed to move Henry back towards the centre post haste!",
+        "17. Qh3": "17. Qh3 - it is too late for Re8 because 18. Qh8 will be mate!",
+        "17... f6 18. g6": "18. g6!! - this little pawn move hammers the final nail in the BK's coffin.  Whatever black does he is gonna get Freddied next turn.  The rest is silence.",
+        "18... Rf7 19. Qh8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/the-stone-wall-project-danger-on-the-h-file?gm=32382",
+    "gameName": "- - The Stone Wall Project - Danger on the h file!",
+    "players": "easy19 (2192) vs. waxwing1 (1209)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

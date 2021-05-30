@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "King's Gambit",
+        "1... e5 2. f4 Nc6 3. Nf3 d6 4. Nc3 Bg4 5. Bb5 Nf6 6. h3 Bxf3 7. Qxf3 Be7 8. d3 O-O 9. Be3": "Be3: The good thing is this move develops piece, clears the back for a possible queenside castle, and reinforces the center. \nHowever, Bxc6 is the better move.  (Engine favors white with this move).",
+        "9... exf4 10. Bxf4 Nd4 11. Qd1 a6": "This move is okay.  Perhaps c6 would be a good alternative.",
+        "12. Ba4 b5 13. Bb3 c5 14. O-O c4": "This is a small inaccuracy in calculation.\nEngine shows why: \u2026 c4 15. dxc4 Nxb3 16. cxb3 Qb6+ 17. Rf2 Rac8 18. Nd5 Nxd5 19. Qxd5 Rc7 20. cxb5 axb5 21. Bg5 Kh8 22. Bxe7 Rxe7.\nThis gives white the extra pawn.\n\nEven Kh8 is an improvement.\n",
+        "15. dxc4 Nxb3 16. axb3": "Nothing wrong with this move, although something like cxb3 might be a better move. ",
+        "16... Qb6+ 17. Kh1 bxc4 18. bxc4 Qxb2 19. Na4": "By going Na4 I protect the piece and also attack his queen (hoping for some momentum).\nThe knight in such a location doesnt look too nice though.\n\nA move like Qd3 is slightly better because it develops my Queen, defends the center, protects all the pieces, and the rooks are now free in the back.",
+        "19... Qb7 20. Bxd6": "This was an error on my part.  I was hoping to get the pawn advantage.\nUnfortunately 20. ...Nxe4 21. Bxe7 Qxe7 gives the opponent a slight lead.\n\nShould have done Nc3 to bring it back to action. ",
+        "20... Nxe4 21. Bxe7 Qxe7 22. Nb2": "Big mistake my me.  Kg3+ being the danger which the opponent does in game.",
+        "22... Ng3+ 23. Kg1 Nxf1 24. Qxf1 Rfd8 25. Nd3 a5 26. Qf5 f6": "This is a mistake by the opponent.  The pawn on a5 is free to take.\na4! would be a nice move.",
+        "27. Rxa5 Rxa5 28. Qxa5 Rb8 29. Qa2 g5 30. c5+ Kg7 31. Qc4 Qe3+ 32. Kh2 Rb1": "The purpose of this move is to start create a mating net.\nThis move is too premature and white can still advance pawn to c6.\n\nHowever, h5! is a much better move limiting the options for whites king to escape.\n ",
+        "33. c6 h5 34. c7": "Here I was too much in a hurry.  I was planning to promote while neglecting the defence of my King.\nEngine says this is a blunder which gives black a checkmate in 7:\n34. c7 h4 35. Qg8+ Kxg8 36. c8=Q+ Kg7 37. Qb7+ Rxb7 38. Nc1 Qxc1 39. c4 Rb1 40. g3 Rb2#\n\n34. Qc5 would still make this a game worth playing.",
+        "34... h4": "Opponent realizes the checkmate so I resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=36630",
+    "gameName": "Let's play chess",
+    "players": "chess_avenger (1525) vs. howardhunt (1515)",
+    "opening": "King's gambit (C30)"
+}

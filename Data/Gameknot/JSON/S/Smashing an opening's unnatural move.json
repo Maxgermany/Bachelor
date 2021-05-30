@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "An undeserved victory. Still, an interesting position if black had played better!",
+        "1... a5 2. e4 b6 3. c4 Bb7 4. Nc3 c6": "Ok, when someone starts with A5, you are almost sure you have to destroy him. .. unless he is very skillful and wants to surprise you. So you have to be careful. Anyway, this move seems to be bad. ",
+        "5. Be3": "Aiming to b6, obviously.",
+        "5... e6 6. Qb3 Be7 7. d5 cxd5 8. Bxb6": "Of course. ",
+        "8... Qc8 9. Nb5": "If a4, Qg3, before or after the check in c7. Everything's going ok.",
+        "9... Nf6 10. Nc7+ Kf8": "White has already won a quality. Very good. Of course, if I play knight x a8, all I have is a quality. And I would have lost the center, so I tried to be a little more harmful. ",
+        "11. e5": "It is not so easy. Bishop has check in b4. Knight in g4 will menace f2. I had to think about those perils. ",
+        "11... Ng4 12. Qg3 Nh6": "Ok, now I had the same problem: to take the rock or to go on attacking? Observe that black has check in b4 that make me lose castle, and my king stays in the center, in a very bad position. After knight f5, my queen has to move. Where? I was taking the game pretty seriously, despite my advantage, and I analyzed this position for a while, finding surprising combinations. I cannot report all of them here, it would be very large. Find them yourself, and have a good time. \n\nMy move was \"resigning\" to the complicated game that generates from here. Alternatives were: 13 c5, 13 a3, 13 Rc1, 13 Be2, 13. h4...",
+        "13. cxd5": "...and if bishop b7xd5, I considered for a long time knight c7xd5, instead of winning the quality",
+        "13... exd5 14. Rc1": "Ok, now the black player made a definitive mistake, and the game lost interest.",
+        "14... d6 15. exd6 Bxd6 16. Qxd6+ Kg8 17. Kd1": "Very funny. I found the king move as the best with such an attack. ",
+        "17... f5 18. Nxa8": "Of course, with 18 Kxd5 I would have won even quicker. 18... Qe8 or 18... Qf8, 19 Ke7 ...",
+        "18... Qe8 19. Nc7 Qc8 20. Bb5 Nc6 21. Bxc6 Bxc6 22. Rxc6 Nf7 23. Qe7 g6 24. Ne6": "It's wonderful to play with such a superiority.",
+        "24... Qb8 25. Bd4 h5 26. Ng5 Nd8 27. Rxg6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/smashing-an-openings-unnatural-move?gm=14326",
+    "gameName": "Smashing an opening's unnatural move ",
+    "players": "Damalfi  vs. ? ",
+    "opening": "Queen's pawn (A40)"
+}

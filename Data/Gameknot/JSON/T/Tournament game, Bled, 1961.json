@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6": "The Ruy Lopez, one of the most analyzed openings in history. Even in 1961, there were very few surprises left. But Geller has one prepared.",
+        "4. Ba4 d6 5. O-O Bg4 6. h3 Bh5 7. c3": "Standard book stuff so far. But...",
+        "7... Qf6": "...Geller springs his surprise! 7...N-B3, 8 P-Q4 N-Q2 is the more solid \"book\" line. Geller throws caution to the winds and intends to try and smash Fischer's K-side quickly.",
+        "8. g4": "Fischer decides to counter sharply rather than relying on passive defense.",
+        "8... Bg6 9. d4": "This sacrifices a Pawn in return for a quick attack.",
+        "9... Bxe4 10. Nbd2 Bg6 11. Bxc6+": "Wrecking Geller's Q-side Pawns.",
+        "11... bxc6 12. dxe5": "If 12 Q-R4 instead, 12... K-Q2! holds for Black. But 12... N-K2? 13 PxP PxP 14 R-K1! is very strong for White. Would Geller have been able to find the correct move over the board? We'll never know.",
+        "12... dxe5 13. Nxe5": "Wining back the sacrificed Pawn and opening attacking lines.",
+        "13... Bd6 14. Nxg6 Qxg6": "14... RPxN would fall to 15 N-K4!",
+        "15. Re1+ Kf8 16. Nc4 h5": "Geller is still trying to open a line leading to Fischer's King.",
+        "17. Nxd6 cxd6 18. Bf4": "Threatening BxP ch.",
+        "18... d5": "18... R-Q1 is the alternative.",
+        "19. Qb3 hxg4": "Geller tries to counter by threatening a discovered check.",
+        "20. Qb7": "Sealing Geller's fate.",
+        "20... gxh3+ 21. Bg3 Rd8 22. Qb4+": "Geller resigns. If he plays on, 22...N-K2 23 QxN mate, or 22...R-Q3 23 QxR ch N-K2 QxN ch wins 2 pieces."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-bled-1961?gm=31396",
+    "gameName": "Tournament game, Bled, 1961",
+    "players": "Bobby Fischer (GM) vs. Yefim Geller (GM)",
+    "opening": "Ruy Lopez (C72), modern Steinitz defence, 5.O-O"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3 c6": "This possition pops up in 90% of my games, but the only point I see in C6 or C5 is the narrow escape for your queen.",
+        "3. Nf3": "I've became addicted to it though, and I do it in most of my games.",
+        "3... Nf6": "Most people when they move out to f3, and the opponent's pawn is on E5, don't take advantage of the factor that the E5 pawn is unprotected. They do not take advantage of it and they respond with either Nc3 or D4. I, honestly, see that, yet I do not push and respond with one of those two. There is no point after you kill the pawn, they push you back, and they are more well developed.",
+        "4. Bc4 d6 5. d3 Bg4 6. h3 Bxf3 7. Qxf3 a6": "That is very common, yet there is absolutely NO point in it. You might as well do something usefull.",
+        "8. Be3 Nbd7 9. O-O-O Qe7 10. g4 h6 11. a3 O-O-O 12. b4 b5 13. Bb3 Nh7": "That move was completelly unexpected. That is because I am a very ofensive player, and I see that as the LAST move I would have done.",
+        "14. h4 g5 15. h5 Kc7": "hmm\r\n",
+        "16. Kd2": "hmm",
+        "16... Ra8 17. Rda1": "R-a1 on the 17th move looked especially suspicious. I don't exactly know for sure why he did that, or what he's trying to do with that move, but it just makes me to see that my queen side especially needs more work.",
+        "17... c5 18. Bd5 Rc8 19. Bb3": "Knight fork. So common. But this ones tricky! My queen is so backed up, I don't need to back it up and lock it up any more.",
+        "19... Kb7 20. Bxf7": "I say it's not worth it. You get 1 more pt, but you get it in a bad position",
+        "20... Nhf6": "I try to break up the queen contact for the bishop to be protected.",
+        "21. Bb3 Bg7": "that move, I regret.",
+        "22. Rhc1": "that move was even more suspicious",
+        "22... c4": "protected twice, attacked twice, safe\r\n",
+        "23. Ba2 Qe6 24. a4 bxa4 25. Nxa4 Nxg4": "I need to get in there",
+        "26. Qh3 Ndf6 27. c3 Rce8 28. Bxc4": "he was still looking at that pawn\r\n",
+        "28... Nxe4+ 29. Ke2 Nexf2": "I do not know why I am breaking in. I could have lost a knight, I would have gained a pawn.",
+        "30. Qg2+ Kc7 31. Bxe6": "I was mad at myself when I went online, and found out my queen was gone. I was mad, and I didn't have a chance at this game.",
+        "31... Rxe6 32. Bxf2 Nxf2 33. Qxf2 Rb8 34. Qf7+ Kc6 35. Qxe6": "I was useless. After looking awile, I found out it was mate in 5. 1.D4, xD4, 2.xD4+, Kb7, 3.QD7+, Ka8, 4.Rc7, (OPTIONAL, BF6,) RA7++. I'm sorry, for the majurity of this game I have been annotating on the wrong side, but i still hope you like my annotations"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-dpmcd?gm=22194",
+    "gameName": "Challenge from dpmcd",
+    "players": "dpmcd (1200) vs. posthuma (1200)",
+    "opening": "Vienna game (C25)"
+}

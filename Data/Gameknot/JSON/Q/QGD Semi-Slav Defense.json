@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 e5": "good move , after caste ling , black wishes to attack whites center ith the move 9.e5! while d5 square is still defended by c6 and the knight on f6 , another idea is to make isolator (in russian it means lonly pawn) on d4 which later black will blocked it and try to attack the isolator however, the dis advantage of the isolator is that on endgame this pawn going to be very dangerous for black on the endgame. the former world champion Botvinik has many victories using the isolator on endgame  in great games as white .",
+        "10. Bb3": "the idea is maneuver the whites LSB to c2 and attack blacks king side, any moves like g6 or h6 will make weakness .",
+        "10... h6": "probably black didn't want the move Ng5 on the future . but as i said earlier this move make weakness on black king side , which will  harm him latter .",
+        "11. Rd1": "good move , white is entering the rook to the game , i thought maybe 11.Re1 with the idea of if black plays 11..exd.12.exd and my E file will open however ,the rook on d1is more use full on d1 with getting advantage after 12.exd- which win a free pawn with good position . for example :12.exd5-Bxd5?.13.Nxd5 or 12...Nxd5?.13.Nxd5 and for the same reason either the  black knight or DSB are pined by the rook on d1.",
+        "11... exd4 12. exd4 Nb6": "mistake , the idea of developing pieces to opening the blacks LSB in this case is bad because of the black king weakness on the king side which i made nice combination , better was 12...Re8 for making an escape square for the king .",
+        "13. Bxh6": "good move , the bishop sucrifies leads a total exposing of the black s king , the idea is after 13....gxh.14.Qg6+-Kh8.15.Qh6+Kg8.16.Ng5 with strong attack .",
+        "13... gxh6 14. Qg6+ Kh8 15. Qxh6+ Nh7 16. Ne4": "important move , 16.Ne4 with the idea of attcking the black bishop on d6 and maneuver the knight on g5 and Bc2 with strong attack .",
+        "16... Be7": "16..f6 was better but still white with much better position after 16.Nxd6-Qxd6.17.Re1-Nd5.18.Bc2-Qc7.19.Bxh7-Qg7(19...Qxh7?.20.Qxh8+).",
+        "17. Nf6": "another sucrifies wich finishes the game  , the threat is Qxh7#which black  must take  this offer ,but after 18.Bc2 its all lost for black ",
+        "17... Bxf6 18. Bc2": "and black risings , black can not defend he's king any more , the mate is  un stoppable."
+    },
+    "url": "https://gameknot.com/annotation.pl/qgd-semi-slav-defense?gm=45638",
+    "gameName": "QGD: Semi-Slav Defense",
+    "players": "matsany (1720) vs. freeman8201 (1727)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

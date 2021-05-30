@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+": "I had prepared this Scandinavian Defence for this tournament. 3...Qa5 and Qd6 are more usual here but I like 3...Qe6 .",
+        "4. Be2 Qg6": "Threatening to play Qg6xg2.",
+        "5. Nd5": "I was little surprised here as I was expecting 5.Nf3 Qxg2 6.Rg1 Qh3 or 5.Bf3 that has been played quite often too in the internet. 5.Nd5 and white is after Nd5xc7.",
+        "5... Na6": "Nd5xc7 threat has to be proctected.",
+        "6. Bf3": "6.Ne3 e5 7.Nf3 e4 should be considered as it looks to be more correct. If white plays 6.Bxa6 then Qe6  7.Be2 Qxd5.",
+        "6... e5 7. d3": "7.Qe2 Qxc2 8.Qxe5 Be6 is possible to play even that it looks quite weird position.",
+        "7... Nf6": "7...Be6 8.Be3 c6 9.Nc3 can also be played.",
+        "8. Be3 Bd6": "8...Ng4 9.Qd2 is better than 8...Bd6",
+        "9. Ne2 O-O": "Now I was thinking that its good time to get king to safety.",
+        "10. O-O c6": "If someone better has time I would be glad to know if 10...Ng4!? is any good.",
+        "11. Nxf6+ Qxf6 12. Be4": "12.Ng3 Qe7 looks equal.",
+        "12... Nc5": "12...Qe7!? should be considered in here too.",
+        "13. Ng3": "Now white plays Ng3 even that he had possibility to play it earlier.",
+        "13... Qh4 14. Nf5 Bxf5 15. Bxf5 e4 16. h3": "15...g6 16.Qg4 Qxg4 17.Bxg4 I should have played as after 15...e4 16.g3!? Qf6 17.Bxc5 Bxc5 18.Bxe4 and white has advantage but as we know everything cant be seen on blitz games.",
+        "16... exd3 17. Bxc5 Bxc5 18. Qxd3": "Now we had opposite coloured bishops in this game.",
+        "18... g6": "Im trying to force whites bishop to move and white doesnt have black squared bishop so my king is still in good safety",
+        "19. Qc3 Bb6": "19.Qc3?? Bb6?? I had winning chance here but I was too worried about my bishop so I didnt saw possibility to play 19...Bd4 20.Qf3 gxf5 and game is blacks game by playing accurately.",
+        "20. Bd7 Rad8 21. Rad1 Qe7 22. Rfe1 Qc5": "Threatening to play Qc5xf2",
+        "23. Qxc5 Bxc5 24. a3": "White prevents b4 intrusion.",
+        "24... f6 25. Be6+ Kh8 26. Bd7 Kg7 27. c3": "white now protects b4 and d4.",
+        "27... Rf7 28. b4 Bxf2+": "28.Bxf2 ! I played this straight away to break kings pawn shield and getting one pawn. 28.Bg4!? Re7 29.Rxe7 Bxe7 30.Rxd8 Bxd8 31.Bc8 is what white should have played.",
+        "29. Kxf2 Rfxd7 30. Rxd7+ Rxd7 31. c4 Kf7 32. c5 Rd3 33. a4 Rb3 34. Re4 Rb2+ 35. Kf3 Ra2": "35...f5 36.Rd4 Kf6 37.Rh4 is even better but I was quite confident that I can win this with technical playing.",
+        "36. b5 cxb5 37. axb5 Rb2 38. c6": "38.Ra4!? Rxb5 39.Rxa7 and white would have slightly better chances to get into game if black makes mistake.",
+        "38... Rxb5 39. c7": "Now white is completely lost I have three more pawns fully open a b line for my two pawns and three pawns against whites two on other side.",
+        "39... Rc5 40. Rh4 Kg7 41. Ra4 a6 42. Ke3 Rxc7 43. Kd4 Rc6 44. Ra5 Re6 45. g3 Kh6 46. Kc4 Re3 47. Kb4 Rxg3 48. Rd5 Rxh3 49. Rd4 Rh5 50. Rf4 f5": "Now white finally resigned as I had enough time to end this game and white has completely lost position. K R against my K R 5pawns"
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-tournament?gm=14098",
+    "gameName": "Blitz tournament",
+    "players": "Opponent (1613) vs. Koijja (1421)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

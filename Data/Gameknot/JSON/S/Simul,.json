@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "\"Wham!\" the King pawn came down with a thud, I was amazed at the force with which Fischer slammed the king pawn down.",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "I looked at Fischer, and saw pure hatred staring back at me.  I thought this must be what Jack the Rippers victims must have seen.  After that, I concentrated on the board and didn't look at Fischer.",
+        "6. Bc4 e5": "this is not quite as bad as it looks with the proper follow up.  Still e6 has to be the best move.  e6 takes the pressure off f7 for a while.  White often follows up with f2-f4-f5 and Black has to choose between ...exf5 or  ...e5 either of which opens things up for the Sozin bishop.  Also there are tactics based on Nd5 exd5, Bxd5 to look out for.",
+        "7. Nf5": "Wow, I thought Fischer has overlooked something.  I am going to win a pawn.  7...Nxe4 8 Nxe4 Bxf5 and I am a pawn up.",
+        "7... Nxe4 8. Nxg7+": "Well, I guess I don't win a pawn; but look at that mobile pawn center.  ",
+        "8... Bxg7 9. Nxe4": "At this point Fischer actually took about 15 seconds to look something over.  All his prior moves had been made instantly.  It took him about 2 minutes to make the rounds.  Which was a fair amount of time to think about your move, but less than I thought I would have.   Now I had figure out how to defend my d-pawn.",
+        "9... Bf8": "This was the only way I could figure out to defend the pawn.  I felt slightly sick as I realized all my pieces were on their original squares.",
+        "10. Qh5": "Now I needed to defend against the mate threat.  I did see that Qd7 would lose to Nf6 check.  That left Queen to e7 or c7.  ",
+        "10... Qe7": "Wrong choice, Qc7 was relatively better.  I could have safely resigned here.",
+        "11. Bg5": "Now I did resign.  If ...Qc7 then 12 Nf6   Kd8 13  Nd5 discovered check wins the queen."
+    },
+    "url": "https://gameknot.com/annotation.pl/simul?gm=19207",
+    "gameName": "Simul, ?",
+    "players": "Bobby Fischer  vs. Blake ",
+    "opening": "Sicilian (B90), Najdorf, Lipnitzky attack"
+}

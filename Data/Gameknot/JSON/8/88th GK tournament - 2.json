@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. c4": "Definitely not one of my best games, I would appreciate any thoughts on where I may have done better",
+        "1... e5": "I've been experimenting with the English opening recently and decided to have a go with that",
+        "2. g3 Nc6 3. Nc3 f5 4. Bg2 Nf6 5. e3": "This seems a bit passive but it was to give my g1 knight somewhere to go to, I didn't like the idea of Nf3,e4 and from e2 it could support e4",
+        "5... g6 6. Nge2 Bg7 7. d4 d6 8. Nd5 O-O 9. O-O Nxd5 10. Bxd5+ Kh8 11. Rb1 Ne7": "Chasing away the bishop which could get annoying if allowed to stay there.",
+        "12. Bg2 c6 13. b4 g5": "This seemed a little risky to me but as my opponent was around 200 points north of my rating I guess he felt he didn't have to worry too much",
+        "14. Bb2 f4 15. dxe5 f3 16. exd6 fxe2 17. Bxg7+": "What I was trying to do here was to get the black king a bit more exposed.",
+        "17... Kxg7 18. Qd4+ Kg8 19. Rfe1 Nf5 20. Qc3 Qxd6 21. Rxe2 Qf6 22. Qc2": "I decided not to exchange but I'm still not sure it was the right decision",
+        "22... Be6 23. Rd2 Rad8 24. Rxd8 Rxd8 25. a4 Nd6 26. c5 Nc4 27. Qc1": "preventing the fork on a3",
+        "27... Nd2 28. Rb2": "pretty much forced due to the fork threat on b3",
+        "28... Nf3+ 29. Kh1": "I didn't like the look of Kf1 was this a mistake?",
+        "29... Ne1 30. Rd2": "Looking to reduce blacks attacking force before its too late.",
+        "30... Nxg2 31. Rxd8+ Qxd8 32. Kxg2 Qd5+ 33. Kf1": "The final blunder, probably f3 was better",
+        "33... Qh1+": "Time for me to resign.\n\nPlease comment."
+    },
+    "url": "https://gameknot.com/annotation.pl/88th-gk-tournament?gm=42439",
+    "gameName": "88th GK tournament",
+    "players": "elwoos (1529) vs. kalaan (1704)",
+    "opening": "English opening (A20)"
+}

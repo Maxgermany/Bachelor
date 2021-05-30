@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5": "Here the computers tend to prefer 3. exd5.  White's advantage is tiny, but other lines do no better.  \n\nPersonally, if I wanted to play for an advantage as white, I would play 3. Nc3.",
+        "3. e5": "\n",
+        "3... c5": "Equal.\n",
+        "4. c3 Nc6 5. Nf3 Qb6": "Here the computer prefers 6. a3.  The idea is that playing b4 and Bb2 later will secure white's center.",
+        "6. Be2": "Now 6... Nh6  is the line that keeps black equal, threatening to bring the knight to f5 putting pressure on the center.  Then if white plays passively with 7. O-O cxd4 8. cxd4 Nf5 and the pawn will fall.\n\nSo instead the computer line that follows is ... 7. a4  cxd4 (7... Nf5? 8. g4) 8. a5 Qd8  or 8... Nxa5 9. b4 Nc6 10. b5 Na5 is equal for reasons that I don't quite understand.\n",
+        "6... Bd7": " 6... Nh6 was better.",
+        "7. O-O": "One possibility here is now a6.\n",
+        "7... cxd4": "f6, Rc8 and a6 are just as good.\n",
+        "8. cxd4 Nge7": "Now white should play 9. Nc3 Nf5 10. Na4 Qd8 which leaves White miniscule better. \n\n10... Qa5 11. b3 is slightly better for White.",
+        "9. b3": "\n",
+        "9... Nf5": "Now Bb2 gives white equality.\n",
+        "10. Be3": "Creates a target for black to attack later.",
+        "10... Rc8 11. a4 Na5 12. Nbd2": "Now 12. ... Rc3 double attacks e3 and b3.",
+        "12... Nc6": "12. ... Rc3 was better.\n",
+        "13. Rc1 Be7 14. h3": "Wastes time.\n",
+        "14... O-O 15. Nh2": "Fails tactically.\n\n15. Bd3 Nxe3 16. fxe3 Is not as bad because g5 is guarded.  Then 16. ... Nb4 with a significant edge for black.\n",
+        "15... Nxe3": "This is disaster for White because his center is about to fall apart.\n",
+        "16. fxe3 Bg5": "Now 17. Rc3 would fail to Nxd4.\n",
+        "17. Rf3 Nxd4 18. exd4 Qxd4+ 19. Kh1 Qxd2 20. Rxc8 Rxc8 21. Qxd2 Bxd2 22. Nf1": "Black's advantage is really strong here.  Just moving the bishop out of danger or playing Rc1 is great for black.  Rc2 is not as good because it gives up the bishop pair, and black needs his dark square bishop to attack e5.\n",
+        "22... Bc3": "This will pick up another pawn.  White resigned here.  Play could continue ...\n",
+        "23. Re3 Bd4 24. Rd3 Bxe5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=60620",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "henk  vs. John Coffey, Utah Senior Chess C ",
+    "opening": "French (C02), advance, Milner-Barry gambit"
+}

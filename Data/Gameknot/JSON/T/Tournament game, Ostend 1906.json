@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 d5": "Taubenhaus declines Mieses' offer of a tasty Danish. ",
+        "4. exd5 Qxd5 5. cxd4 Nc6": "After the initial flurry, development begins.",
+        "6. Nf3": "Protecting the QP...",
+        "6... Bg4": "Pinning the Knight and preparing to castle.",
+        "7. Be2 O-O-O": "Still focusing on the QP.",
+        "8. Nc3": "Looking to drive off the Queen.",
+        "8... Qh5": "Targeting the K-side, where he thinks Mieses might castle.",
+        "9. a3": "To prevent ...N-N5.",
+        "9... Bd6": "Locking in on the KRP.",
+        "10. Be3": "Clearing the last minor piece.",
+        "10... Nf6": "Taubenhaus clears *his* first rank and connects his Rooks.",
+        "11. Rc1": "Moving into position on the half-open QB file and targeting Black's King.",
+        "11... Rhe8": "Seizing the fully open K file and targeting *White's* King.",
+        "12. Nb5": "Locking in on QB7.",
+        "12... Nd5": "Taubenhaus presses his own attack.",
+        "13. Rxc6": "Mieses' sacrifice of the Exchange ensures his attack gets there first.",
+        "13... bxc6": "Forced.",
+        "14. Nxa7+": "Opening a line for the KB to join the attack. If Taubenhaus moves his King to the QN file, it will be cut off from pieces that can defend it. So...",
+        "14... Kd7": "...he moves here, seeking shelter among his cluster of pieces.",
+        "15. Ne5+": "The winning stroke. If Taubenhaus gives back the Exchange with 15... RxN 16 PxR, he is behind a Pawn and Mieses' passed QRP gives him a winning advantage in an end game. If Taubenhaus moves his K to the King file, 16 NxB wins a piece. So Taubenhaus resigns at once."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-ostend-1906?gm=37203",
+    "gameName": "Tournament game, Ostend 1906",
+    "players": "Jacques Mieses  vs. Jean Taubenhaus ",
+    "opening": "Danish gambit (C21), Soerensen defence"
+}

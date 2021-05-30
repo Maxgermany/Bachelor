@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "This is a strong opening move. This is also one of my favorites. This move controls the center and aids for future development.",
+        "1... a6": "This is the Baker Defense. This is very uncommon at my current level and basically gives me further tempo.",
+        "2. Bc4": "I am practicing to play more offensive (i.e. Vienna game).",
+        "2... b5": "Attacking the bishop. This also gives room for Bb7. At first to me, a6 looked like nothing, but now is turning to the Polish played by black.",
+        "3. Bb3": "Any other move is passive, loses an exchange, or gives the opponent a tempo.",
+        "3... Nc6": "This develops the opponents knight controlling the center. In my experience of observing games with this rating, this probably does not mean much to the opponent. I was expecting e5 from a player my strength because I can calmly play d4 this way, making the knight in a tight spot.",
+        "4. Qf3": "I thought that I could go Scholar's Mate on my opponent, seeing games of my opponents rating. This move is actually OK, but there are many more moves which are better. This sort of equalizes the position...",
+        "4... Nf6": "Here, the opponent must have noticed the checkmate because most players this rating would go for Nd4. This is still not a good move.",
+        "5. e5": "This is a strong move. If the knight moves out of the way, I either win it or checkmate them. If the knight captures the pawn, I can take the rook on a8 with my queen.",
+        "5... Bb7": "This move prepares for a discovered attack, but I can still take the knight. If my checkmate plan fails, I will still win.",
+        "6. exf6": "Capture wins a knight for a pawn.",
+        "6... gxf6": "Recapture, but now the opponents g-file and f7 pawn looks really weak. I still pursue my dream of checkmating.",
+        "7. Qh5": "If Qd5, e6 will make me lose a tempo.",
+        "7... Rg8": "I have no idea here why anyone would play that if they already defended against all of the other threats...",
+        "8. Qxf7#": "Bxf7 would also have checkmated.\n\nThis is not exactly the Scholar's Mate. That mate is typically four moves, with the same pattern of the bishop on the f7 diagonal and the queen also attacking the square from f3 or h5, and no other pieces are blocking the way of checkmate.\n\nThis is a good strategy for winning games against low rated players quickly and efficiently, but otherwise NEVER play this opening. Be smart in defending against this, or end up like that..."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-sparkery?gm=32103",
+    "gameName": "Challenge from sparkery",
+    "players": "sparkery (1208) vs. pruathome (716)",
+    "opening": "St. George (Baker) defence (B00)"
+}

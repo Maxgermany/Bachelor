@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Ruy Lopez.",
+        "3... a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. h3": "To stop Bg4 before it happens.",
+        "8... O-O 9. c3": "To threaten d4.",
+        "9... Bb7 10. d4 Re8 11. Nbd2": "Typical maneuver.",
+        "11... Bf8": "To add more support on e5. I was planning Bxf7+, Kxf7, and then Ng5+ and get a superior position, but black has some defenses. i just play Ng5 to misplace the rook.",
+        "12. Ng5 Re7 13. d5": "To make the misplaced rook more of an advantage to me.",
+        "13... Nb8 14. Nf1 c6": "This move I overlooked. Now my e-pawn will become weak and the d-file will be in black's favor.",
+        "15. dxc6 Nxc6 16. Ng3": "To get to f5. ",
+        "16... g6": "To guard f5.",
+        "17. Nf3": "My knight serves no purpose on g5 anymore.",
+        "17... Bg7 18. Bg5 Qc7 19. Bxf6": "This move makes it easier to outpost on d5.",
+        "19... Bxf6 20. Nf1": "To do Ne3 and get to d5.",
+        "20... Rd8 21. Ne3 Na5": "To attack the bishop and protect d5.",
+        "22. Bd5 Bg7 23. Bxb7 Qxb7 24. Nd5 Ree8 25. Qe2": "To connect rooks.",
+        "25... Nc4 26. Rad1": "To centralize the rook.",
+        "26... Kh8 27. b3 Nb6": "I must now relinquish my outpost.",
+        "28. Nxb6 Qxb6 29. c4": "To get d5.",
+        "29... Rdc8 30. cxb5 axb5 31. Rd5": "To attack b5 and later attack d6.",
+        "31... Rc5 32. Red1 Bf8 33. Rxc5": "I was going crazy with trading this game.",
+        "33... dxc5": "Not Qxc5 due to Rd5 winning b5.",
+        "34. Rd5": "I do it anyway.",
+        "34... Bd6": "Perhaps better would be Qb8, protecting b5 and e5.",
+        "35. Qd2": "Applying pressure on d6. Moving the bishop out would be best.",
+        "35... Re6": "Loses the bishop.",
+        "36. Ng5 Rf6 37. Rxd6": "Here, black resigned. The lesson here is to understand the importance of weak squares and how to make use of them."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game?gm=25332",
+    "gameName": "Tournament Game",
+    "players": "Me (USCF 1733) vs. Opponent (USCF 1872)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2": "I was quite relieved to see this move, as it is less aggresive than Bc4 or Bg5. The other moves are more popular and score better on the Gameknot World Database.",
+        "6... e5": "The Boleslavsky variation, Black puts up with a weak pawn on d6 and a weak square on d5, but in return has central control.",
+        "7. Nb3": "This was considered the best square to retreat the knight to, although recently Nf3 is becoming more popular - and scoring well.",
+        "7... Be6": "I wanted to contest control of d5",
+        "8. O-O Be7 9. f4 exf4": "Black cannot allow white to play f5. Although the d pawn is isolated as well as backward, black has adequate compensation as his minor pieces has good play on the central squares. e5 is a lovely square to put a black knight, and maybe, in some variations, black can play N(f6)-d7 and Bf6",
+        "10. Bxf4 O-O": "We are still in the Gameknot opening databases - not that either of us were using them of course. Now white comes up with a move which was not in the databases",
+        "11. Nb5": "This move attacks the d pawn, but leaves the e pawn unprotected. I looked at taking it, but after 11. Nxe4 Bf3 what was I going to do? Retreating my Ne4 would lose the d pawn, if I protect it with f5 or Bf5 he can exchange on e4 and then take on d6 and if d5 then he has Nc7, then he can exchange on e6 and e4 and leave me with weak doubled e pawns. So I decided just to carry on with my plan.",
+        "11... Ne5 12. Nb5d4": "I think this is a mistake, now I can take the e pawn, but first I wanted to drive his bishop to g3, so when my knight takes on e4 I can follow it up with taking on g3.",
+        "12... Ng6": "He may have been better to protect the e pawn, and surrender his nice bishop on f4 for my knight. In this open position, bishops are better than knights.",
+        "13. Bg3 Nxe4": "I'm not convinced by the following exchange white plays though. Although bishops are better than knights in this position, this move improves black's pawn formation greatly.",
+        "14. Nxe6 fxe6 15. Bf3 Nxg3 16. hxg3 Ne5": "There is no need to protect b7, as I have a queen fork on b6 with check, if he does take.",
+        "17. Qe2 Qb6+": "This check was mainly played to prevent his knight on b3 getting into the game.",
+        "18. Kh1": "Although it looks safe in the corner, it is anything but! Probably he should have just blocked on f2",
+        "18... Rf6": "With a deadly threat!",
+        "19. Rad1": "Which he appeared not to see!",
+        "19... Rh6+ 20. Bh5 g6 21. g4": "Now I can just take the bishop and be materially ahead, but there is a far better move!",
+        "21... Nxg4": "White resigns, as after 22. Qxg4, Rxh5 white has to sac his queen on h5 to get out of check. Don't forget to rate this game and leave some comments!"
+    },
+    "url": "https://gameknot.com/annotation.pl/3rd-round-wrexham-rapid-play?gm=34646",
+    "gameName": "3rd Round Wrexham Rapid Play",
+    "players": "Howard Roberts  vs. Charles Higgie ",
+    "opening": "Sicilian (B59), Boleslavsky variation, 7.Nb3"
+}

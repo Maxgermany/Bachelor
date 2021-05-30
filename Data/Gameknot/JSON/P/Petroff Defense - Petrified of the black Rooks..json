@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "Russian game aka Petroff Defence - A drawish tools employed and popularized by Former world champion GM Kramnik during his reign. Although it look symmetrical but done be fool by it as it is lethal as any other opening which is rich on theory. ",
+        "3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3": "5. Nc3!? This move is debaticle as an attacking move. After 5. ... Nxc3 6. dxc3 white bishops has greater attacking combo. Some of notable wielder include Michael Adam. \n\n5. d4 is mostly played - taking the center early. ",
+        "5... Nf6 6. Bc4 d5 7. Qe2+ Be7 8. Bb3": "Sozin like structure. virtually attacking f7. ",
+        "8... Nc6 9. O-O O-O 10. d4 Bg4 11. a3": "11. a3?  Usual 11. Be3 save for white.",
+        "11... Nxd4": "Combo move! wachaa.",
+        "12. Qd3 Nxf3+ 13. gxf3 Bh3": "Black better here! ",
+        "14. f4": "14. f4?! Usual move 14. Re1 look dangerous for white. ",
+        "14... Qd7": "14. Qd7 Better was BxRf1! Positionally black better.",
+        "15. Re1": "Out of threatening",
+        "15... Bf5": "15. ... Bf5? with continuation 16. RxBe7 BxQd3 17. RxQd7 NxRd7 18. cxd3 = \nor ... ",
+        "16. Rxe7 Qxe7 17. Qxf5 Qe1+ 18. Kg2": "black better here. ",
+        "18... c6": "18. ... c6 Better was d4!",
+        "19. Rb1": "Rb1! now d4 is useless",
+        "19... d4": "d4?",
+        "20. Be3": "Be3!",
+        "20... Qxb1 21. Nxb1 dxe3 22. fxe3": "White better here. ",
+        "22... Rae8 23. Kf3 Ne4 24. Qd7": "threatening b7 and a nice combo. Can you see?",
+        "24... Nc5 25. Bxf7+": "Waaacha!!!",
+        "25... Kh8 26. Qxe8": "ashera: Very nicely done\nknazmi: TQ\n1-0"
+    },
+    "url": "https://gameknot.com/annotation.pl/petroff-defense-petrified-of-the-black-rooks?gm=20942",
+    "gameName": "Petroff Defense - Petrified of the black Rooks. ",
+    "players": "knazmi (1632) vs. ashera (1851)",
+    "opening": "Petrov (C42), Nimzovich attack"
+}

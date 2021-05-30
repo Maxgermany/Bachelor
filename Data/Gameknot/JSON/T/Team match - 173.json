@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4 Nf6": "Berlin Defense of the Bishop's Opening.\n",
+        "3. Nc3 Bb4 4. Nd5": "NxNd5 yields the best result for black, according to the database.",
+        "4... Nxd5 5. Bxd5 Na6": "Na6 drifts out of the database.  The typical response (good for black) is Pc6, though in a few games black does well with Pd6.  O-O seems to give white an advantage.",
+        "6. a3 c6": "I like this.  It pushes the bishop while giving the black queen access to the board.  Not that you want to bring her out into the field--but it is nice she has a passage.\n\nThe engine likes Be7 better, though, deducting 1.15 points for this move and calling it an \"inaccuracy.\"",
+        "7. Ba2": "The engine prefers BxPf7+, a non obvious move that pulls the black king into the field.  Material stays the same, but white achieves a better position.",
+        "7... Be7": "...and the bishops withdraw.",
+        "8. Qf3": "Oh ha ha, white seeks a quick end to the game.  Black sees through this hollow ploy, defending with O-O.",
+        "8... O-O 9. d3 b5 10. Be3 d6 11. Qg3": "White next intends to take the black rook with Bh6--another cheap trick.  Black could open the castle with Pg6.",
+        "11... Bh4": "But this works even better.  The white queen is forced off the g file.",
+        "12. Qf3 Qf6 13. Qxf6": "White retires the queens from the field.",
+        "13... Bxf6 14. h3 Re8 15. Nf3 Be6 16. Bxe6 Rxe6 17. O-O h5 18. h4 Nc7 19. g3 d5 20. exd5 Nxd5 21. c3 Be7 22. Bd2 a5 23. c4 Nc7 24. Rfe1 f6 25. b3 bxc4 26. dxc4 Rd6 27. Re2 Rd3 28. Re3 Rxe3 29. Bxe3 Ne6 30. Rb1 Bxa3 31. Nd2 Nc5 32. Bxc5 Bxc5 33. Ne4 Bb4 34. f3 Rd8 35. g4 hxg4 36. fxg4 Rd4 37. Nf2 Bc5 38. Kg2 Bb4 39. Kf3 Rf4+ 40. Kg3 Kf7 41. h5 Ke6 42. Rd1 Rd4 43. Kf3 e4+ 44. Kg2 Rxd1 45. Nxd1 Ke5 46. Ne3 Kf4 47. Nf5 Kxg4 48. Nxg7 Kg5 49. Ne8 f5 50. Ng7 Bc3 51. h6 Kxh6 52. Nxf5+ Kg5 53. Ng3 Bd4 54. Nxe4+ Kf4 55. Nd6 Bc5 56. Nb7 Bb4 57. Kf2 Ke4 58. Ke2 Kd4 59. Nd8 c5 60. Nc6+ Kc3 61. Kd1 Kxb3 62. Nxb4 axb4 63. Kc1 Kxc4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=56124",
+    "gameName": "Team match",
+    "players": "eggardner (1430) vs. investorjensen (1417)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

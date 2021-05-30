@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4": "In this game, Black employs an odd opening, and I am forced to show why 2...h6 is an obscure line...",
+        "1... d5 2. c4 h6": "A very odd line.  Black is trying to take me out of my opening repertoire, but there is a reason that no one plays this line.  2...h6 neglects the center, so I develop classically, which I feel is the best way to meet out-of-book moves. ",
+        "3. Nc3 Nf6": "This transposes to a short of Gruenfeld exchange line, without the bishop fianchettoed at g7.",
+        "4. cxd5 Nxd5 5. e4": "Taking the center.",
+        "5... Nxc3 6. bxc3 a6": "Another weak move, neglecting the center.  My response, play classically and develop my pieces actively.",
+        "7. Bc4 Qd6": "Breaking the known rule \"Don't bring your queen out too early\"",
+        "8. Nf3 Nc6 9. O-O Bg4 10. Qb3": "Attacking the two weak points b7 and f7",
+        "10... e6 11. Qxb7": "So White has gained a material advantage from his positional one.",
+        "11... Rb8 12. Qxa6 Bxf3 13. gxf3": "Not really a weakness as it simply strengthens White's center and his king is perfectly safe.",
+        "13... Be7 14. e5": "actually a weak move on my part.  I should not have forced things, instead developing the dark squared bishop would have been better.",
+        "14... Qd7 15. Bb5 Rb6 16. Qa4 O-O": "This shows the weakness of my continuation.  I have allowed Black to develop and castle, yet White's material advantage still guarantees his success.",
+        "17. Be3 Rfb8 18. c4 Rb8b7 19. Qd1 Bg5 20. f4 Bxf4": "???  I have not idea, what provoked this move.",
+        "21. Bxf4 Qxd4 22. Qxd4 Nxd4 23. Be3 c5 24. Bxd4 cxd4 25. Rfd1": "The pawn is lost, white has a material advantage of +4.",
+        "25... Ra7 26. Rxd4 Rb8 27. a4 Rf8 28. Rad1 Raa8": "Black is left to passivity while White controls the 7th and advances his passed pawns.",
+        "29. c5 Kh7 30. c6 f6 31. exf6 Rxf6 32. Rd4d8 Rg6+ 33. Kf1 Rxd8 34. Rxd8 e5 35. c7": "Blacked resigned.  He can not stop the pawn."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23213",
+    "gameName": "Let's play chess",
+    "players": "brahmslover (1200) vs. doychester (1350)",
+    "opening": "Queen's Gambit (D06)"
+}

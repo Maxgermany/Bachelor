@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Philidor's Defense isn't supposed to lead to quick, smashing wins by BLACK. But with the genius of Alekhine, anything is possible!",
+        "3. Bc4 Nc6 4. c3": "Too slow, and interferes with the development of the QN. Against Alekhine, you can't make these kind of small mistakes!",
+        "4... Bg4": "Alekhine was never one to be passive.",
+        "5. Qb3": "Unpinning.",
+        "5... Qe7 6. Ng5": "This attack is easily repulsed, as the Q-side pieces are still undeveloped.",
+        "6... Nh6 7. Bxf7+ Nxf7 8. Nxf7 Qxf7": "White's \"attack\" is gone. Now Alekhine will prepare a devastating counterstrike.",
+        "9. Qxb7": "Removing the Q from the defense, his only active piece. White would have been better served with a move such as 9 P-Q3, allowing the development of his Q-side pieces with B-K3 and N-Q2.",
+        "9... Kd7 10. Qxa8": "At least he has the consolation of winning some material before being buried by Black's coming onslaught.",
+        "10... Qc4": "Threatening mate on the move with ...Q-K7! White's undeveloped Q-side is useless.",
+        "11. f3 Bxf3 12. gxf3 Nd4": "Renewing the mate threat.",
+        "13. d3 Qxd3": "Sacrificing the Knight as well. But if mate is in the offing...",
+        "14. cxd4 Be7": "White overlooks the threat. 15 K-B2 is the only way to prolong the game.",
+        "15. Qxh8": "Blinded by greed.",
+        "15... Bh4#": "Proving that material is less important than skill. Well done by the young Alekhine."
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-paris-1913?gm=35953",
+    "gameName": "Tournament game, Paris 1913",
+    "players": "Rodzynski  vs. Alekhine ",
+    "opening": "Philidor (C41), Steinitz variation"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "Queen's gambit.\n",
+        "2... dxc4": "...accepted.",
+        "3. e4 e5 4. Bxc4 Nc6 5. d5 Nd4 6. Be3 Nf6 7. f3 Bb4+ 8. Kf1 O-O 9. a3 Bc5 10. b4 Bd6 11. h3": "Ng4 was already protected against, this pawn seems like a weak move.\n",
+        "11... h6 12. Nc3 a6 13. Qc1": "BxN, PxB, QxP leaves white up one point.  Qc1 puts white at risk of Nb3 queen rook fork.  Black must first drive the white bishop off that diagonal, of course.\n",
+        "13... b5": "...just like that.",
+        "14. Ba2": "White's best response, absent any credible counter attack.",
+        "14... Nh5": "Black prepares a king rook fork.",
+        "15. Bf2": "Ne2 would also parry, and get the knight out.",
+        "15... Nf4 16. Bxd4 exd4 17. Nd1 Qg5 18. g4 Qh4 19. Nf2 Bb7 20. Qd2 Be5 21. Nd3 Nxd3 22. Qxd3 Rac8 23. Ne2 c6 24. f4 Bd6 25. e5 Be7 26. d6": "Three pawns moves drive the black bishop inexorably back.",
+        "26... Bd8 27. Nxd4 c5": "If white moves the knight, black takes the rook with Bxh1.  White counter threats.",
+        "28. d7 Rc7 29. e6": "I love this move.  If black takes the pawn white forks the black rooks.  The drawback is Rh1 remains lost, whereas the fork is a rook/knight trade.",
+        "29... fxe6 30. Nxe6 Bxh1 31. Nxf8+ Kxf8 32. Qf5+ Qf6 33. Qh7 Qxa1+": "Now it looks like white is in serious trouble.",
+        "34. Bb1 Qxa3 35. Qf5+ Kg8": "Oops.  Black did not think this through, and white snatches victory from the jaws of defeat with a forced mate.",
+        "36. Qe6+ Kf8 37. Qe8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/brandonkelley08s-mini-tournament-ii?gm=66972",
+    "gameName": "brandonkelley08's mini-tournament II",
+    "players": "servantmk1042 (1100) vs. _jack_russell_ (1493)",
+    "opening": "QGA (D20), 3.e4"
+}

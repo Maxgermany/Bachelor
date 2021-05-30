@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4": "Not long after I played this move, I regretted it.  White should play for a king\u2019s Indian Reversed type formation with moves like 0-0, d3, Nbd2 and eventually e2-e4.",
+        "4... dxc4": " 4. ...\tdxc4!  \r\n\r\nChessmaster snatches a pawn that will be very difficult, if not impossible for White to recover. I was vaguely aware of this possibility when I played 4 c4 but I had foolishly discounted it.",
+        "5. Na3 Qd5 6. Nc2 Qc5": " 5.Na3 \tQd5! \r\n 6.Nc2 \tQc5! \r\n\r\nAn excellent move by CM9k that anticipates the coming 7 Ne3 and bolts down the extra pawn. I searched in vain now for a way to exploit the position of Black\u2019s queen, but I could not find an effective plan.",
+        "7. Ne3 Be6 8. b3": "This move acknowledges that I am unable to recover the lost pawn. I was hoping now to complete the development of my queenside and open up some files to bring pressure to bear on Black\u2019s queenside.",
+        "8... cxb3 9. axb3 Nf6 10. Ba3 Qb6 11. Nc4 Bxc4": "8. ...\tcxb3 \r\n  9.axb3 \tNf6 \r\n10.Ba3 \tQb6 \r\n11.Nc4 \tBxc4?! \r\n\r\nThis move gives me some hope. 9K should retreat with 11\u2026Qc7, planning on finishing development with \u2026Bd5 followed by \u2026e6.",
+        "12. bxc4 Nbd7 13. O-O e5 14. Qb1": "12.bxc4  \tNbd7 \r\n13.0-0 \te5 \r\n14.Qb1?!  ...\r\n\r\nA bone-head move!!! I could have made life much more difficult for 9K by first denying Black his right to castle with 14 Bxf8 Kxf8 and then playing 15 Qb1. Then, 15\u2026Qc7 16 Qb4  Kg8 17 Rfb1 gives me very strong pressure on the queenside.",
+        "14... Bxa3 15. Rxa3 Qc7": "14. ...\tBxa3 \r\n15.Rxa3 \tQc7!  \r\n\r\nNormally the side with the extra pawn would prefer to trade queens, but here that would give White too much pressure on the queenside. Black needs his queen to help guard the queenside for the moment.",
+        "16. Qa1 a5 17. d3 O-O 18. Nd2 Nc5": "16.Qa1 \ta5 \r\n17.d3 \t0-0 \r\n18.Nd2 \tNc5!  \r\n\r\nAfter this move, I knew there was almost no way I could win the game.",
+        "19. Rb1 b6 20. Nb3 Nfd7": "19.Rb1 \tb6 \r\n20.Nb3 \tNfd7 \r\n\r\nCM9000 is happy to trade a pair of knights. My only logical plan now was to drive off the well placed knight on c5 and that can only be achieved by forcing through the advance d3-d4.",
+        "21. Nxc5 Nxc5 22. e3 Rad8 23. d4 exd4 24. exd4 Na6 25. c5": "At least I am playing well in \"bail-out mode\" ... This move helps to break up Black\u2019s pawn structure. The position is starting to turn drawish, but there are some pitfalls for both sides to avoid.",
+        "25... Nb4 26. cxb6 Qxb6 27. d5 Rfe8 28. Bf3": "28 dxc6 Re2 29 Rf1 Nxc6 30 Bxc6 Qxc6 31 Rxa5 leads to an equal position. I was still hoping for a miracle which explains the game continuation.",
+        "28... cxd5 29. Rxa5 Rdc8": "The tactical justification of this move is seen in the variation 30 Qa3 Rc2! 31 Rf1 Ra2! And Black wins material.",
+        "30. Qa4 Qf6": "9K breaks the pin by counter-attacking my bishop on f3. I had to accept further simplification which brings us closer to a draw.",
+        "31. Qxb4 Qxf3 32. Qd4": "31.Qxb4 \tQxf3 \r\n32.Qd4!  \t...\r\n\r\nMy old friend centralization saves the day. Black cannot make further progress thanks to the well placed position of the queen where it blockades and attacks the d-pawn.",
+        "32... Rcd8 33. Rab5 h6 34. Rb5b3 Qf5 35. Kg2 Re4 36. Qb6 Rde8 37. Rf3": "This rook will guard the f2 pawn while also taking aim at Black\u2019s vulnerable f7 pawn. This efficient combination of attack and defense assures me a draw.",
+        "37... Qd7 38. Qb7 Re4e7 39. Qxd7 Rxd7 40. Rd3 d4 41. h4": "37. ...\tQd7 \r\n38.Qb7 \tR4e7 \r\n39.Qxd7 \tRxd7 \r\n40.Rd3 \td4 \r\n41.h4! \t...\r\n\r\nMore petting myself on the back ... This move helps to restrain a possible advance of  9K\u2019s kingside pawns. I did not want 9K to beat me to the punch by advancing his pawns and cramping mine.",
+        "41... Re5 42. Rb4 Red5 43. Kf3 g6 44. g4 f5 45. g5": "41. ...\tRe5 \r\n42.Rb4 \tRed5 \r\n43.Kf3 \tg6 \r\n44.g4 \tf5 \r\n45.g5  \r\n\r\nGame drawn! Although 9K is a pawn ahead, he has no realistic winning chances. The d-pawn is firmly blockaded and Black is unable to activate his king to assist in advancing that extra pawn up the board. \r\n\r\n  My respect for the CM9k program grew as the match progressed. CM9k particularly impressed me with its tenacious defensive skill.  \r\n\r\nIn the crucial game 3 I blew my chances to win, but credit is due to 9K for making a win a very tough assignment. In the last game (Game 4), 9K outplayed me in the opening for the first time in the match and then skillfully neutralized my attempts to mount a come-back. My hat is off to a great program!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/larry-christiansen-chessmaster-9000-game-four-4?gm=2240",
+    "gameName": "Larry Christiansen - Chessmaster 9000 game four (#4)",
+    "players": "Larry Christiansen  vs. Chessmaster 9000 ",
+    "opening": "Reti (A07), King's Indian attack (Barcza system)"
+}

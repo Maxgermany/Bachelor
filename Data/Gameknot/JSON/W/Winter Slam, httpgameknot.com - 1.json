@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3": "7 Nf3 is the other option.  Retreating the knight to b3 allows White to advance his kingside pawns.  the downside is that White will have to castle queenside and black will get to play a queenside pawn storm.",
+        "7... Be6 8. f3 Be7 9. Qd2 Nbd7 10. g4 h6 11. O-O-O b5 12. h4 Nb6 13. Qf2 Nfd7 14. Nd5 Bxd5 15. exd5 Nc4 16. Bxc4 bxc4 17. Nd2 c3 18. Nc4": "?!  better was 18 Ne4 cxb2  19 Kxb2 Rc8",
+        "18... cxb2+ 19. Kb1 Qc8 20. Nxb2": "?!  Much better was 20 Na5 Bd8 (20... Qc7 21 Nc6 Nb8 22 Nxe7) 21 Nc6 Nb8 22 Nxd8 Qxd8",
+        "20... Rb8 21. Ka1": "?!  Better was 21 Rd3 Qb7 22 c4 Qc7 23 Rb3 O-O 24 g5",
+        "21... Qc3 22. Rdb1 h5": "22... Rb5 23 Bd2 Qa3 24 Nc4 - ",
+        "23. Bd2 Qxc2": "Better was 23...Qc7, now White is back in the game.",
+        "24. Rhc1": "position is equal, White has compensation for the pawn.",
+        "24... Qg6 25. Rc7": "?! Better was 25 Qa7!? Bxh4 26 Ba5 hxg4 27 Nc4",
+        "25... Nc5": "Now Black is back in command.  If 25 ... hxg4? 26 Rxd7 Bxh4 27 Qa7  -",
+        "26. Rg1 Qc2": "?? Black tries to snatch defeat from the jaws of victory.   Better was 26 ... Rxb2 27 Rxc5 Ra2  28 Kxa2 dxc5- ",
+        "27. Be3": "?? White responds with a counter-mistake.  Better was 27 Rxe7 ! Kf8 (of course not 27...Kxe7? 28 Bg5 ck wins the black queen) 28 Rb1 Nb3  29 axb3 Qxb3 30 Qe3 Kxe7 31 Qxb3 Rxb3 32 Nc4.",
+        "27... Nb3+ 28. axb3 Qxc7": "game is over, White makes a few more desperate moves before resigning. ",
+        "29. gxh5 Bf6 30. h6 Qa5+ 31. Kb1 gxh6 32. Bxh6 Qxd5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/winter-slam-http-gameknot-com?gm=21772",
+    "gameName": "Winter Slam, http://gameknot.com/",
+    "players": "blake78613 (1820) vs. hariharan (1781)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

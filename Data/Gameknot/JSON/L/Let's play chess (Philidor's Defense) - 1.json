@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. Nc3 a6 4. b3 c6": "Up to here the play has been standard.  The book would dictate 4. ... Nc6 and there really is no excuse for this move.  It does lead to the pawn push which contains White's Queen-side somewhat, but it retards development and chokes the Queen's knight.",
+        "5. Bb2 b5 6. d4 Bg4 7. Be2": "Having learned from previous games, White does not take the pin lightly, especially with such a tempo advantage and now clearing to castle.",
+        "7... Nf6 8. O-O b4": "A reasonably well orchestrated attack on White's King's pawn, although not followed through particularly well.",
+        "9. Na4": "Castling was perhaps premature: 8. a3 might have suited better.  Despite his unconventional opening, Black has a deal of freedom here, and has forced the knight to the side.  In the center, White anticipates 9. ... Nxe4, and plans to answer with 10. dxe5.",
+        "9... Be7 10. Re1 Bxf3 11. Bxf3": "Although White's knight is still poorly positioned, the last series of moves has blunted Black's attack.",
+        "11... h6 12. dxe5 dxe5 13. Qxd8+ Bxd8 14. Nc5 Bb6 15. Nd3 Nbd7 16. Nxb4": "Against a less-developed Black side and unprotected pawns, the Knight has been able to seize the advantage all by itself.",
+        "16... c5 17. Nd3 O-O 18. Nxe5 Nxe5 19. Bxe5": "The knight's reign is at an end, but White now has two bishops and two extra pawns.  The win should be fairly straightforward.",
+        "19... Nd7 20. Bd6 Rfd8 21. Bg3 Ra7 22. Rad1 Nf6 23. Rxd8+ Bxd8": "The pin looked worse than it was, but Black has accepted an exchange which leaves him relatively weaker.",
+        "24. e5 Ne8 25. e6 f6 26. Bd5 Ba5 27. e7+ Kh8 28. Re2 Rd7 29. c4 Bc7 30. Bxc7 Rxc7 31. Bf7 Rc8 32. Rd2 Nc7 33. Rd8+ Rxd8 34. exd8=Q+ Kh7 35. Qg8#": "Game.  The early development proved to be the difference"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess-philidors-defense?gm=27992",
+    "gameName": "Let's play chess (Philidor's Defense)",
+    "players": "jmfpeaceable (1448) vs. tonyforell (1283)",
+    "opening": "Philidor's defence (C41)"
+}

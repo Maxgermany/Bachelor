@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 e6 3. e3 Nc6 4. c3 b6 5. Bd3 Bb7 6. Nbd2 Bd6 7. e4 Be7 8. e5 Nd5 9. Nf1 d6 10. Qe2 dxe5 11. dxe5 O-O 12. Qc2 g6 13. Bh6 Re8 14. Ng3 Bf8 15. Bg5 Nce7 16. O-O-O": "Blacks' pieces are all defensive. The Bishop on b7 is useless because of 0-0-0, and the Knight on d5 has no place to go. But the position is equal. If I want to catch the Knight, I must first take away the sqare b4, and then I can push the deadly c4.",
+        "16... a5 17. a3 c6 18. c4 Rc8": "After Nc7 I have an attack with Bxg6 Qc8 Bxh7  Kh8 Bf6  Bg7 Nh5...",
+        "19. Kb1": "To get away from the pin.",
+        "19... b5 20. cxd5 cxd5 21. Qe2 b4 22. Bb5": "I have a piece more, so I go on exchanges.",
+        "22... Bc6 23. Bxc6 Rxc6 24. Bxe7 Rxe7 25. Rdc1 Rb6 26. a4": "To keep closed the lines.",
+        "26... b3 27. Nd4 Reb7 28. Nb5 Qd7 29. Rc3 Rb6xb5 30. axb5 Rxb5 31. Rd1": "Make a pin, otherwise getting back the Knight into the game is too long.",
+        "31... a4 32. Ne4 Qb7 33. Nf6+ Kg7 34. Ne8+": "I missed a very good chance. I wanted for the first look, changing the pieces - now the Knight on d6.",
+        "34... Kg8 35. Nf6+ Kg7": "It is just my luck, that black repeats. Maybe he thought, I go for the three-repetition.",
+        "36. Qh5": "Now everything is over.",
+        "36... gxh5 37. Rg3+ Kh6 38. Ng8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=7152",
+    "gameName": "Let's play chess",
+    "players": "gazdvez (1566) vs. crimsonsky44 (1558)",
+    "opening": "Queen's pawn (A46), Yusupov-Rubinstein system"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c6": "The Caro-Kann, a solid counter-attacking defence espoused by Karpov, among others.",
+        "2. d4 d5 3. e5": "My guide in this opening is Greek GM Vasilios Kotronias, whose book Beating the Caro-Kann advocates the Advance Variation. Unfortunately, my memory of the intricate variations is not as good as it could be, so don't be surprised if I stray from the chosen path...  Last week, I watched a different approach on a neighbouring board, so may try that next time.",
+        "3... Bf5 4. Nc3 e6 5. g4": "Characteristic of Kotronias's robust approach.  The risk is that White overstretches himself by advancing his kingside pawns, leaving his King exposed at the back.",
+        "5... Bg6 6. Nge2 Nd7 7. h4": "White threatens to trap Black's exposed wsb, so Black has to create a hole to escape into.",
+        "7... h6": "The more aggressive 7... h5 is not recommended by Kotronias, though I haven't had much success trying to refute it.",
+        "8. Be3": "I could have pushed Black's bishop back immediately but preferred to develop another piece, hoping also to discourage ..c5 which is always a useful freeing move for Black",
+        "8... Ne7": "Black develops his knights as best he can, preparing to counter-attack in due course.",
+        "9. Nf4": "9. h5 or 9. Ng3 were my main alternatives but I haven't had great success with thse, so thought it time to give this a go.  White's move attacks the Black wsb while freeing White's own and putting the N on an attractive-looking square.",
+        "9... Bh7 10. Bd3": "The logic behind this is to cause Black to swap off a piece in which he has already invested 3 tempi for one in which White has apparently invested just the one but of course it's not as simple as that.  The moves that White expended to force Black to spend those tempi were mostly weakening pawn moves.  That said, White's position looks pretty good at this stage: minor pieces on good-looking squares, whereas Black's look cramped.",
+        "10... Bxd3 11. Qxd3": "Now all White has to do is find a plan ... whereas Black's is almost self-evident.",
+        "11... a6 12. O-O-O": "? Though this looked reasonable at the time, it was quickly made to look stupid.  Black's attack develops naturally, thanks to the flexible disposition of his pieces and pawns.  I haven't decided whether castling kingside or not castling at all would have been better.  Perhaps the latter.",
+        "12... Qc7 13. Nfe2": "The knight was in the way of my f-pawn on f4, and of my B on e3.  It also provides additional cover for the N on c3.",
+        "13... c5": "c5 finally arrives and threatens to embarrass White's Q by advancing again, when Black's dsb will threaten to leap into the attack, once the Ne7 has moved to the recently vacated c6 square.",
+        "14. f4": "White attempts to pursue his kingside attack but it's all too slow.  There's nothing really to bite on - or with.",
+        "14... c4 15. Qd2 Nc6 16. a3": "Although this discourages Black's minor pieces from coming to b4, it also creates a weakness at b3",
+        "16... b5 17. f5": "I was still managing to feel quite optimistic at this point, though I knew my opponent was quite capable of dealing with me (he beat me last season)",
+        "17... b4 18. axb4 Bxb4 19. fxe6": "The logic of the game continues but Black's attack is much more penetrative and flowing.  I underestimated the strength of the B on b4.",
+        "19... fxe6 20. Nf4 Qa5": "!  Now the threat of Qa1+ is devastating.",
+        "21. Qf2": "White relieves the pin on the N so that it can block the check on b1 but worse is to follow..",
+        "21... Qa1+ 22. Kd2 Qxb2 23. Nfe2": "That N keeps bobbing back and forth, achieving little: but I had to defend c3, right?  Otherwise, Qxc3 was forced mate, I thought.  However, 23. Nxe6 Qxc3+ 24. Ke2 Qxc2+ 25. Kf3 Qe4+ 26. Kg3 might have offered some respite, with White's Ne6 offering some counter-chances.",
+        "23... Rf8": "Another nasty move.  I thought my response was quite clever but was quickly disabused of that notion.",
+        "24. Rdb1 Rxf2 25. Rxb2 Rxe2+": "!  The move I'd missed",
+        "26. Kxe2 Bxc3": "Black has two pieces and a pawn for a rook and is about to win two more pawns at least (d4 and e5), so I raised the white flag: a disappointing start to the season."
+    },
+    "url": "https://gameknot.com/annotation.pl/cowley-2-v-didcot-1-o-d-league-d1-bd-5?gm=34976",
+    "gameName": "Cowley 2 v Didcot 1 (O&D League D1 Bd 5)",
+    "players": "Bob Jacobs (1752) vs. Stephen Burns (1840)",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

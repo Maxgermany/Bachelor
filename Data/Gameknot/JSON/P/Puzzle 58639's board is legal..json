@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. g4": "Here, white's a pawn has to be stationary. White's other pawns (files b-f) need to capture a combined total of 15 black pieces (black's entire army except the king), so they cannot push either. That leaves either the g or h pawn or a knight as the first move of this proof.",
+        "1... h5 2. h4 g5 3. Rh3 gxh4 4. Re3 hxg4": "The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice.",
+        "5. Nf3": "Getting the knight out of the way of the promotions; 3 Rh3 followed by 4 Re3 gets the king's rook out of the way as well. The bishop needs to stay on f1 to prevent the newly promoted queens from delivering check. ",
+        "5... g3 6. Na3 h3 7. Nb5 g2 8. Na3 h2 9. Nb1 g1=Q 10. Na3 h1=Q 11. Nb1 f6": "I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way.",
+        "12. Ng5 fxg5 13. Nc3 Qg4": "An alternative is 13 ... Qh2.",
+        "14. Nb1 Qd4 15. Na3 g4 16. Nb1 g3 17. Na3 g2 18. Nb1 g1=Q 19. Na3 Qg5": "Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur.",
+        "20. Nb1 Qhh6 21. Rh3 e5 22. Ra3 d5": "Now the e and d pawns can be pushed to their capture squares.",
+        "23. Rh3 Qdh4": "Now the queen has to be moved back again, else the d pawn cannot progress.",
+        "24. Ra3 d4 25. Rh3 e4 26. Rh1 e3 27. Rh3 Bf5 28. Rh1 Bd3": "The d and e files are now ready to be captured.",
+        "29. Rh3 Ba3 30. bxa3": "Now's the right time to get white's first capture.",
+        "30... Nc6 31. Rh1 Qdf6 32. Rh3 O-O-O": "The idea is to get black's army clumped up into the a3-e3-a6 triangle. One of these, a bishop, was already taken.",
+        "33. Rh1 Nb4 34. Rg1 Nd5 35. Rh1 Nc3": "Knight's in place!",
+        "36. Rg1 Qb5 37. Rh1 Qfe6 38. Rg1 Qeb3": "Queen can go here to take knight, bishop, and queen on b1-d1.",
+        "39. Rh1 Kb8": "King stays here for the rest of the proof.",
+        "40. Rg1 Qb5a4 41. Rh1 Qf8 42. Rg1 Qfb4 43. Rh1 Qg5 44. Rg1 Rh6 45. Rh1 Ra6 46. Rg1 Nf6 47. Bb2": "Now to offer to the queen.",
+        "47... Qb3xb2 48. Qc1 Qb2xb1 49. Qd1 Qb1b3 50. Qb1 Qe6 51. Qb3 Ra5 52. Qb1 a6 53. Qb3 Qeb6 54. Qb1 Qa7": "I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move.",
+        "55. Qb3 Qbxb3 56. cxb3": "Now the capture spree.",
+        "56... Qgb5 57. dxc3 b6 58. Rg5 Bc4 59. Rd5 Nxd5 60. Bh3 Bd3 61. Bd7 Rxd7 62. fxe3 Rd6 63. exd3 Rc6 64. exd4 Nb4 65. bxa4 Rc4 66. dxc4 c5 67. dxc5 Qa8 68. cxb4 Qa7 69. cxb5 Qa8 70. bxa5 Qa7 71. cxb6 Qa8 72. bxa6 Qa7": "And this is the perfect parity for the puzzle board.",
+        "73. bxa7+ Ka8": "And now to enact the solution...",
+        "74. O-O-O Kxa7 75. Rd8 Kxa6 76. Rd7 Kxa5 77. Rd6 Kxa4 78. Rd5 Kxa3 79. Rd4 Kxa2 80. Rd3 Ka1 81. Ra3#": "...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+    },
+    "url": "https://gameknot.com/annotation.pl/puzzle-58639s-board-is-legal?gm=43785",
+    "gameName": "Puzzle 58639's board is legal.",
+    "players": "pika25  vs. pika25 ",
+    "opening": "Grob's attack (A00)"
+}

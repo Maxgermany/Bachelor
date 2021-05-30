@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "54th GK tournament. I'm playing white and begin with the Open Game.",
+        "1... Nf6 2. e5": "Alekhine's Defense. I follow the main line.",
+        "2... Nd5 3. d4": "The old school said 3. c4 to chase the knight again, but the new school says 3. d4 to consolidate the center first. The Modern Variation.",
+        "3... d6 4. Nf3 dxe5 5. Nxe5": "4. ... dxe5 is the Larsen Variation and white follows the main line.",
+        "5... c6 6. Be2 Bf5 7. g4": "The choice was between castling and attacking. I like attacking. Besides, the DB says the highest rated players go with this option, so how can I refute that?",
+        "7... Be6 8. c4": "Finally.",
+        "8... Nb6 9. b3": "White has made a whole lot of pawn moves, and only developed two pieces in 9 moves. However, many of those pawn moves were made with tempo, attacking black's minor pieces, and as a result, black has moved his knight three times and his bishop twice, and neither are on great squares, and development is even, though white controls significantly more space and has greater freedom and scope for his pieces. Sad to say, since Alekhine is my favorite champion, that the defense that bears his name is not worthy of his eminence. This move, 9. b3?! is a dubious move at best, sure to lose a pawn, but hoping to gain sufficient compensation to justify it as a gambit of sorts.",
+        "9... f6 10. Nd3": "9. b3?! and now 10. Nd3 may have been a miscalculation. I decided to gambit the d4 pawn, thinking white would get more than enough of a developmental and attacking compensation for it. Having played out the moves, I'm not so sure that I got as much compensation as I had hoped for. 10. Nf3? just loses the pawn on g4 and there really isn't anywhere else for the knight to go. The real miscalculation might have been 9. b3?! leaving myself in this mess. I briefly considered 10. c5 to counterattack, but I think that just ends up losing a pawn anyway. So, of all the pawn-losing options, 10. Nd3 seems the best of the bunch. This may turn out to be a dubious gambit indeed.",
+        "10... Qxd4 11. Bb2 Qd8 12. Nc3": "In exchange for losing a center pawn, white has gained a 4-2 lead in development and black's queen knight has only weak development options and his king's bishop has no development options. It may not be all bad. White needs to keep this initiative and turn it into a whole bucketload of pain for black before black gets a chance to equalize and punish white for this gambit.",
+        "12... Na6 13. Ne4": "Defending c5 to keep blacks' knights cramped.",
+        "13... Qc7 14. f4 O-O-O 15. Qc1": "Unpinning the knight and adding a defender to f4.",
+        "15... Bf7 16. Qe3": "Centralization, plus a bit of a pin on the black knight on b6. -edit: fixed, good catch.",
+        "16... e6 17. O-O-O Kb8 18. Ne5": "17. ... Kb8?! feels like a waiting move. Better still, it allows 18. Ne5! which starts the ball rolling here. Black cannot play 18. ... fxe5?? for that allows 19. Bxe5 skewering the black queen to her king.",
+        "18... Be8 19. Rxd8+ Qxd8 20. Rd1": "Owning the open d-file.",
+        "20... Qc7 21. g5 Be7 22. gxf6 gxf6 23. Nxf6": "White gains back his lost pawn. Now if 23. ... Bxf6? White plays 23. Nxc6+ Qxc6 24. Bxf6 Rf8 25. Rd8+ Nc8 26. Bf3 Qb6 27. Be5+ Nc7 28. Bd4 Nd5 29. Bxb6 Nxe3 30. Bxe3. White comes out materially ahead and still with a strong attack. Black does well to find another option, but white's attack has a lot of momentum now.",
+        "23... Ka8 24. Ne4": "Black robbed white of the discovered attack with check, and now white must retreat his knight. This also creates a discovered threat against the black rook on h8.",
+        "24... Rg8 25. Bg4": "Black gets his rook off of the diagonal with white's DSB on b2 and seizes an open file. White shuts off that file with an attack against blacks' isolated d-pawn.",
+        "25... h5 26. Bxe6": "Black goes bishop hunting, but, that leaves his pawn hanging. Both 25. Bf7 and 25. ... Bd7 seem to hold onto the position better. White grabs the pawn while he can, adding his LSB to the swarm of pieces aimed at black's queenside.",
+        "26... Rg2 27. h4": "Black follows the old adage about getting a rook on the 7th rank, not a bad idea, but he's at risk of having this lone rook cut off by swarming white knights. First, white shuts down the black pawn. White's pawn on a4 is en prise and undefended, but black would do well to leave him alone.",
+        "27... Bxh4 28. Qh3": "Black misses the threat, and with 27. ... Bxh4? black loses at least the exchange. Evidently, black felt like he's had enough and threw in the towel at this point. 28. ... Qe7 keeps the fight going after 29. Qxg2 Qxe6, at which point white's attack is faltering and white is only up by the exchange. Black might have decent drawing chances, though the endgame will revolve around white almost certainly eliminating the black h-pawn and then pushing to promote his own f-pawn, a strategy that is likely to bear fruit for white."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-dubious-gambit?gm=25244",
+    "gameName": "A Dubious Gambit",
+    "players": "blake84120 (2031) vs. nijesvejedno (1817)",
+    "opening": "Alekhine's defence (B04), modern, Larsen variation"
+}

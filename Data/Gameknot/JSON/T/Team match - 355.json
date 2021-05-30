@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5": "The Sicilian Defense. I don't like this opening, because it has too much defense. I like more open games, preferably the Scottish. Anyhow, I always play the same way against opponents that play this.",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3": "Bd3, and not Nc3. I don't like that later, Black's knight can go to Ne5, then Nc4. I protect that, and start up a new game.",
+        "5... Nc6 6. Be3": "Be3, followed up by c3, and Nd2. I get a great center.",
+        "6... e5": "Not exactly the best. Preferably Ng4 for black here, attacking the bishop, and forcing my queen to go to Qe2.",
+        "7. Nf3": "Bringing back the knight.",
+        "7... Bg4": "Once again, Ng4 is better.",
+        "8. O-O Be7 9. Nc3": "Here I chose to play Nc3 instead of c3, because my f3 knight isn't on d4, and c3 would be very irrelevant. ",
+        "9... h6": "Not sure why he played this. No way I'm going for the pin, since there isn't a pin. His bishop is there.",
+        "10. h3": "Blocking him off my pin.",
+        "10... Bh5 11. Qe2 a6 12. Rad1 Bxf3 13. Qxf3 O-O 14. a3": "Preventing Nb4.",
+        "14... Rb8 15. Nd5": "Sending my knight in the center.",
+        "15... Nxd5 16. exd5 Nd4": "Mistake, I win a pawn.",
+        "17. Bxd4 exd4 18. Qe4": "Threatening Qh7 mate. However, my opponent was more into the pawn to notice the mate.",
+        "18... Bf6": "Worst move ever seen.",
+        "19. Qh7#": "Easily checkmated him. That's why I think you should look around, and not focused on the pawns instead of checkmates. Thanks for watching!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=45313",
+    "gameName": "Team match",
+    "players": "romrychkov (1656) vs. bkniaz (1526)",
+    "opening": "Sicilian (B54), Prins (Moscow) variation"
+}

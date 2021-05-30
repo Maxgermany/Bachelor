@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. c4": "English opening. I'm starting to use this opening in my last games.",
+        "1... c5 2. Nc3 g6 3. Nf3": "Black doesn't follow the main line...",
+        "3... Nf6 4. e4 d6 5. d4": "I try to \"reach\" the center.",
+        "5... Qa5 6. e5 Ne4 7. Bd2 Nxd2 8. Qxd2 Be6": "development of light pieces.",
+        "9. d5 Bd7 10. Be2 h5": "h5!?",
+        "11. O-O Bh6": "oh that's why.",
+        "12. Qe1 dxe5 13. Nxe5 Bg4": "Bg4? ",
+        "14. Nxg4 hxg4 15. Bxg4": "And I'm a pawn up.",
+        "15... f5 16. Bf3 a6 17. d6": "d6! b7 is in danger, but above all I threaten Qe7#.",
+        "17... Nc6": "Nc6??",
+        "18. Bxc6+ Kf8": "he can capture with b:c6 but it's followed by Qe7#, so he plays Kf8",
+        "19. Qxe7+ Kg8 20. Bd5#": "Bd5#. I know this is a short game but i'd like to know your impressions on my opening. Thank u for reading....waiting for nuntar and ruachessnut2 comments. Bye!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-datboi_elroi?gm=18902",
+    "gameName": "Challenge from datboi_elroi",
+    "players": "andy94 (1406) vs. datboi_elroi (1199)",
+    "opening": "English (A34), symmetrical variation"
+}

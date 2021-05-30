@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 d5": "Part of my series of annotations explaining the Scandinavian Defence, 1.e4 d5",
+        "2. exd5 Qxd5 3. Nc3 Qa5": "3.. Qd6 and ..Qd8 are also possible. But this is the signature move. The classic books say \"..Qa5 is bad as it allows white to chase the queen around and rapidly develop\", but this is not the case if black plays accurately",
+        "4. Qe2": "Unusual, but interesting. White wants to exchange off queens early to avoid complications. Black of course wants to keep queens.. so what's the solution for black? I can't find any games with my move, but here's another game to study, played in 1998.\n[White \"Barbic, Zlatko\"]\n[Black \"Kroekel, Bernd\"]\n[Result \"0-1\"]\n[BlackElo \"2055\"]\n1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Qe2 c6 5. Nf3 Nf6 6. a3 Bg4 7. Qe5 Qd8 8.\nBe2 e6 9. Qd4 Nbd7 10. Ne4 Bf5 11. Nxf6+ gxf6 12. Qc3 Rg8 13. d3 Bc5 14. Nh4\nQb6 15. Rf1 Bg4 16. f3 Bh5 17. g4 Bg6 18. f4 f5 19. g5 Bd4 20. Qb4 f6 21. Nxg6\nQxb4+ 22. axb4 hxg6 23. c3 Bb6 24. h4 Rh8 25. h5 gxh5 26. Rh1 h4 27. d4 fxg5\n28. fxg5 Bc7 29. Be3 Bg3+ 30. Bf2 Bxf2+ 31. Kxf2 Kf7 32. b5 cxb5 33. Bf3 a6 34.\nBxb7 Ra7 35. Bc6 Nf8 36. Bxb5 Rb7 37. Bxa6 Rxb2+ 38. Be2 Kg6 39. Rag1 Rh5 40.\nKe3 Rxg5 41. Rxg5+ Kxg5 42. Rg1+ Kf6 43. Rg8 Ng6 44. Bh5 Ne7 45. Rf8+ Kg5 46.\nBf7 h3 47. Bxe6 h2 48. Rh8 Ng6 49. Rh3 Nf4 50. Rh8 Nxe6 51. d5 Nc5 52. d6 Kg4\n53. Rg8+ Kh3 54. Kf3 0-1\n\n",
+        "4... Nc6": "Trying to exploit the absence of white's normal move, 4. d4. Now this move will be more difficult to play. Also looking at a tactical ..Nd4 later to exploit the queen postion",
+        "5. Qb5": "\"Let's exchange queens\"",
+        "5... Qb4 6. Nd5 Qd6": "\"Let's not\"",
+        "7. d4": "Loses. The simple Nc3 was better",
+        "7... a6": "Now its black's turn to chase the white queen around",
+        "8. Qc5 Qd7": "A difficult move to find at the board, as it looks counterintuitive. Black's plan is ..e5 with strong pressure winning the d4 pawn, and with more open lines to make's white's life difficult. ",
+        "9. Ne3": "Look how the position has played out. Classical theory says in this line that black will pay for his early queen development, and white will finish his piece development early.. but in fact the opposite is true here. White has been a little too ambitious.",
+        "9... e5": "Very unpleasant for white. Where does the queen go?",
+        "10. Qc4 exd4 11. Nd5 Bd6": "Planning to complete development with ..Nge7, ..O-O",
+        "12. a3": "Too slow",
+        "12... Nge7 13. Nxe7 Qxe7+ 14. Qe2": "14. Be2 was better",
+        "14... Ne5": "Black is still happy to keep the queens on due to his advanced development. White still has too many pieces on their starting squares",
+        "15. f4 Bg4": "Soon the queen will be lost",
+        "16. Qe4 f5": "White resigns (17. Qd5 Nd3+ 18. Kd2 Qe3 mate)"
+    },
+    "url": "https://gameknot.com/annotation.pl/scandinavian-defence-4-qe2?gm=28613",
+    "gameName": "Scandinavian Defence (4. Qe2)",
+    "players": "hahnsel (1556) vs. longtail99 (1896)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

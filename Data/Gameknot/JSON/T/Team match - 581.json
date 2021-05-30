@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. c4 e5 2. d3 Nf6 3. a3": "a suggestion of Bent Larsen, playing a Najdorf with the white pieces!",
+        "3... Nc6 4. Nc3 d5 5. cxd5 Nxd5 6. Nf3 Nxc3 7. bxc3 Bc5 8. d4": "intending after 8 ... exd4 9 cxd4 Bishop moves the cautious 10 e3 (not 10 e4 overextending the pawn!)",
+        "8... e4": "causing me to think some",
+        "9. Ng5 Be7": "I spent a lot of time analyzing 9 ... Nxd4 10 cxd4 Bxd4 finally I found 11 Qb3! Qf6 \r\n12 Nxe4 now 12 ... Qf5? 13 Qa4+! winning.  ",
+        "10. Nxe4 Bf5 11. Ng3 Bg6 12. e4 Qd7 13. Be2 Bh4": "this is good.  the doubled pawns made it more difficult for white to realize his advantage.",
+        "14. e5 Bxg3 15. hxg3 O-O-O 16. O-O f6 17. f4 h5 18. Be3 Rhe8 19. Bf3": "hereabouts we enter a phase of careful maneuvering by white.",
+        "19... fxe5 20. fxe5 Bf5 21. Bxh5 Reg8": "not 21 ... Rh8 22 Rxf5!",
+        "22. Be2": "an option was to play 22 Rxf5 but things get complicated after 22 ... g6",
+        "22... Ne7 23. Bg5 Rdf8 24. Qd2 Rgh8 25. g4": "seeming the only way to make progress and setting a trap into which black falls",
+        "25... Bxg4 26. Rxf8+ Rxf8 27. Bxe7 Rh8 28. Bg5 Bxe2 29. Qxe2 b6": "this allows white to win rapidly.  29 ... Qf5 offered more resistance",
+        "30. e6": "much stronger than 30 Qf3 which would have also probably won.",
+        "30... Qd6 31. Qe5": "intending after 31 ... Qc6 to set up a decisive advance of the pawn with e7 and Rf1",
+        "31... Qxe5 32. dxe5": "now after 32 ... Rh5 33 Rd1!! Rxg5 34 e7 Rxe5 35 Rd8+ Kb7 36 e8Q wins",
+        "32... Rh5 33. Rd1 Rxg5 34. e7 Rxe5 35. Rd8+ Kb7 36. e8=Q Rxe8 37. Rxe8 g5 38. Rg8 a5 39. Rxg5 c6 40. c4 c5 41. a4 Ka6 42. g4 b5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=27127",
+    "gameName": "Team match",
+    "players": "francisbaron08 (1797) vs. foalone (1815)",
+    "opening": "English opening (A20)"
+}

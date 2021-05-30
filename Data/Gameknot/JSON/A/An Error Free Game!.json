@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nAfter an ignominious defeat against Ardin (Sonata) in which I dropped 18 rating points I was really chuffed when I got the result of Gameknot Analysis for this game.  Remarkably neither player made so much as an innaccuracy - a game with such a strong Expert and no errors - whew!  How on earth did this happen?  Well, first of all, read the following analysis     http://gameknot.com/analyze-board.pl?bd=15713503&fb=1&rnd=0.48895922418947063 then read on ....\n\n",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "3. Bb5 - as with Coach Ion and Brigadecommander (Janet) I decided to test Dave with the Ruy Lopez.  Both Ion and Janet got the better of me so I was even more chuffed with that 14th Expert Draw!  Dave responds with a lesser known defense called The Cordel Defense.",
+        "3... Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4": "7. d4 - after a pair of knights has been exchanged I now challenge the centre with d4 and I am preparing to develop my queenside.",
+        "7... c6 8. Bc4 d6 9. dxe5 dxe5": "9. ...... dxe5 - I think you can guess what I am gonna do here .....",
+        "10. Qxd8+": "10. Qxd8+ - I just can't resist it can't I?",
+        "10... Bxd8 11. Be3 Nf6 12. f3": "12. f3 - I have nearly cleared the decks and I have now backed up my e4 pawn.  As the queens are off the board, Henry will make his way back towards the centre.",
+        "12... Bb6 13. Kf2": "13. Kf2 - tempted, very tempted to play BxB here, but the DB does not recommend it.  I think it is because it will open up the a column to the rook on a8 even though it does double up the black pawns on the b column, so Henry moves towards the centre as mentioned in my previous note.  ",
+        "13... Ke7 14. Nd2": "14. Nd2 - after the BK has the same idea, I cleared the decks with Nd2.",
+        "14... Ne8 15. Rfd1 Nd6 16. Bb3 Be6 17. Bxe6 Bxe3+ 18. Kxe3 Kxe6": "18. ...... Kxe6 - both sets of bishops have been traded off and both kings are on the third rank on the e column.  I then decided to get some active play with pushing up my queenside pawns.",
+        "19. a4 Rhd8 20. c4 b6 21. b4": "21. b4 - three little white pawnies, all in a row!  Dave finds a way to puncture this arrangement however.",
+        "21... Nb7 22. Nb3 Rxd1 23. Rxd1": "23. Rxd1 - it looks good for white, a WR on the d column, but now comes the puncture!",
+        "23... a5 24. b5 Nd6 25. Nd2 cxb5 26. cxb5": "26. cxb5 - I know there is a principle about take towards the centre but no way do I wish to gift Dave a passer on the a column.  Unfortunately Dave now has a file of his own for his rook, the c column.  I just hope my queenside pawns do not now become sitting ducks for it. ",
+        "26... Rc8 27. Kd3 Rc7 28. Rb1 Nb7": "28. ..... nb7 - threatening Nc5+ forking Henry and the pawn on a4.",
+        "29. Nb3 Rc8 30. Rb2": "30. Rb2 - keeping black at bay.",
+        "30... f6 31. Rc2 Rxc2 32. Kxc2": "32. Kxc2 - I feel a little relieved at the rook trade because my position was starting to show worrying signs of passivitis.  Although Henry has been forced back it is still very difficult for black to find a way of ingress.  Here comes the Joblock!",
+        "32... Kd6 33. Kd3 g6 34. Kc4": "34. Kc4 - after putting Henry into a very commanding looking position to deter Nc5 I decided to hit the offer draw button and see if Dave thought my Joblock was effective enough.  He thought it was and kindly accepted my draw offer.  I have a couple of promising looking results in my active games list at the moment.  If only I can pull off victories in those two games then I may well regain my Class A 1800+ status.  Ah well, I hope you all enjoyed the Royal Wedding and this lurvely early summer weather. "
+    },
+    "url": "https://gameknot.com/annotation.pl/an-error-free-game?gm=38358",
+    "gameName": "An Error Free Game!",
+    "players": "jstevens1 (1782) vs. dynamic_dv (2140)",
+    "opening": "Ruy Lopez (C64), classical defence, Zaitsev variation"
+}

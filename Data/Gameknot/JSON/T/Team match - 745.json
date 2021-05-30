@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 d6 2. Qh5": "? why taking out the queen so early?",
+        "2... g6 3. Qf3 f5": "3... Nf6 with Bg4 to chase the queen all over the board.",
+        "4. exf5 gxf5": "no choice. 4... Bxf5 5. Qxb7",
+        "5. g3": "?? 5. Qh5 !",
+        "5... e5": "? 5... Nf6 was needed.",
+        "6. Bc4": "? 6. Qh5 ! with 7. d4!",
+        "6... Nf6": "a must.",
+        "7. d3 c6": "wants d5.",
+        "8. Bg5 Bg7 9. Nc3 h6": "why not d5? where would the bishop go to?",
+        "10. Bxf6 Bxf6 11. Qh5+ Kd7": "only move...\r\n11... Ke7 12. Qf7#",
+        "12. Qxf5+ Kc7": "the black king is going for a walk...",
+        "13. Qf3 a5 14. h4": "?? misses b5...",
+        "14... Rf8 15. Qh5 b5": "black is using hus advantage on the queen side.",
+        "16. Bxb5": "a piece down...",
+        "16... cxb5 17. Nxb5+ Kc6 18. a4 Bg7 19. Qg6": "waht is the idea here?\r\nbetter was Ne2 with 0-0.",
+        "19... Qe7 20. g4": "white is trying to attack with no pieces. it is impossible.",
+        "20... Ba6 21. g5 Rh8 22. Nxd6": "nice. now there are 4 pawns for the piece.",
+        "22... Qxd6 23. Qxg7 Nd7 24. g6": "losing one pawn.",
+        "24... Rag8 25. Qf7 Rxg6 26. Nf3": "?? must play Qf3  or there will be no queen...",
+        "26... Rf8 27. Nd4+ exd4 28. Qb3 Re8+": "the king is left naked in the center and the mate is near...",
+        "29. Kf1 Qe5 30. Qf7 Qe2#": "the end."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13429",
+    "gameName": "Team match",
+    "players": "dutchmans (1139) vs. scouseste (1178)",
+    "opening": "Pirc defence (B07)"
+}

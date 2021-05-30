@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4": "As far as I know, my greatest drawback in chess is my opening skills/repertoire. I don't have any :-) The sad thing for me is that this is the only part of chess I find not interesting at all to study... And here too I start off with one pawn down",
+        "1... e6 2. d4 d5 3. Bb5+ c6 4. Bd3 c5 5. exd5 Qxd5 6. Nf3 cxd4 7. c3": "Lost one pawn...",
+        "7... dxc3": "but at least getting ahead in development of the pieces",
+        "8. Nxc3 Qd8 9. Be3 Nf6 10. Qd2 Be7 11. O-O O-O 12. Rad1 Nc6 13. a3 a6 14. Qc2 Qc7 15. Rd2 Bd7 16. Rfd1 Na7 17. Bd4": "Here I felt good about my position. Fully developed, seemingly control of center and both B's and Q pointing towards the king",
+        "17... Bc6": "Here I saw the plan of equalizing in material and in addition weakening the black king side. My worries was to protect Nf3 so I didn't end up weakening by king side as well, and I did found it ( I think)",
+        "18. Be5 Qc8 19. Bxf6 Bxf6 20. Bxh7+ Kh8 21. Be4 g6 22. Rd2d6 Be5": "I guess black overlooked something tactical here because later he didn't show anything for the sacrificing of the bishop",
+        "23. Nxe5 Bxe4 24. Qxe4 Nb5": "Again I spent a lot of time calculating. My first idea was Nxg6 because I assumed he will take my knight and I will win... But then I did see a better move for black, Kg7 and I would most likely have sacrificed my knight for a pawn and lost my advantage in the game. Then I found a better one: \r\n25. Nxf7  Then if ...Kg7, a suggestion like this follows (or a quicker mate):\r\n26. Rxe6 Rxf7 27. Qxg6  Kf8 28. Qh6  Rg7 29. Rf6  Ke7 30. Qxg7  \r\nSo I felt very comfortable about Nxf7 , actually this being a winning move for me. 25... Kg8 is a quick loss for black and taking back with the rook is also a loss by losing heavy material, as the rest of the game shows",
+        "25. Nxf7+ Rxf7 26. Rd6d8+ Qxd8 27. Rxd8+ Rxd8 28. Qh4+ Kg7 29. Qxd8": "Thanks for the game! As a curiosity I lost the other game vs. jeb123 in 7 moves, bd=8497434 , which only emphasize my poor skills in the opening game"
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-movers-mini-tournament?gm=12354",
+    "gameName": "quick movers mini-tournament",
+    "players": "norjoa (1463) vs. jeb123 (1788)",
+    "opening": "French defence (C00)"
+}

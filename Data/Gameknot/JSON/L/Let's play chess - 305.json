@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "This is my first game in game knot. ",
+        "1... e5": "Black moves e5. ",
+        "2. Nf3": "I move Nf3. My favourite second move.",
+        "2... f6": "Black moves f6. Damiano defense. I learned this opening while playing in ps home.",
+        "3. Nxe5": "Nxf6. Players that play casually think white may be dont know how to play.",
+        "3... fxe5": "Fxe5. Black is committing suicide here.",
+        "4. Qh5+": "Players that want to be success must learn this move.",
+        "4... g6": "Good defense.",
+        "5. Qxe5+": "Many grandmaster playing this. Look at the damiano defense database grandmaster games.",
+        "5... Be7": "Bad defense. Qe7 better.",
+        "6. Qxh8": "Logical move.",
+        "6... Kf8": "Bad move.",
+        "7. Bc4": "Right tactics.",
+        "7... Ke8": "No other option.",
+        "8. Qxg8+": "Obvious.",
+        "8... Bf8": "No other option.",
+        "9. Qf7#": "Checkmate. My first game in game knot. I hope to learn more."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=50640",
+    "gameName": "Let's play chess",
+    "players": "paknik (1200) vs. zippp3 (1209)",
+    "opening": "Damiano's defence (C40)"
+}

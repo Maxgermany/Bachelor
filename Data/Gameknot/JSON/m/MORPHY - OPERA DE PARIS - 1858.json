@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "The classical . el clasico e4",
+        "1... e5 2. Nf3 d6": "defiende el peon de e5. to defend the pawn in e5",
+        "3. d4 Bg4": "there is no reason to develop the bishop, without the previous development of the knight. no hay razon para desarrollar el alfil previo al desarrollo del caballo. es regla del ajedrez primero desarrollar los caballos y luego los alfiles. ",
+        "4. dxe5 Bxf3": "that is a bad move, because it is developing the queen of the white",
+        "5. Qxf3": "the queen is threatening the square f7. la reina esta amenazando la casilla f7",
+        "5... dxe5 6. Bc4": "more presure in the square f7. mas presion en la casilla f7",
+        "6... Nf6 7. Qb3 Qe7 8. Nc3": "with the knight morphy close the diagonal e1 - b4. and the black queen can not check. ",
+        "8... c6 9. Bg5": "this move is to castle. esta movida es para enrocar. ",
+        "9... b5 10. Nxb5": "come con el caballo y no con el alfil para poder luego dominar la diagonal con el alfil ",
+        "10... cxb5 11. Bxb5+ Nbd7 12. O-O-O": "Morphy castles for the porpouse of occupy the file d1 d8, with the rook. Morphy enroca con el proposito de ocupar la columna d1-d8, con la torre. Como el caballo esta clavado por el alfil, entonces es conveniente aumentar la presion sobre el caballo con la torre. ",
+        "12... Rd8 13. Rxd7 Rxd7 14. Rd1": "el mismo razonamiento que la jugada del enroque, aumenta la presion sobre el punto d7, donde el jugador de las piezas negras tiene una pieza clavada. ",
+        "14... Qe6 15. Bxd7+ Nxd7 16. Qb8+ Nxb8 17. Rd8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/morphy-opera-de-paris-1858?gm=11367",
+    "gameName": "MORPHY - OPERA DE PARIS - 1858",
+    "players": "MORPHY (1200) vs. ISOUARD (1200)",
+    "opening": "Philidor's defence (C41)"
+}

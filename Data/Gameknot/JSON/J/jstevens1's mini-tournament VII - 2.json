@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Ne2": "This is the Sicilian opening. 2. Ne2 (the Keres variation) is much less played than Nf3. In most cases (like here) it makes no practical difference, but Ne2 sometimes has a good effect of confusing the opponent in an OTB game, especially a blitz",
+        "2... Nc6 3. Nbc3 g6": "3.....g6 is meant to develop the DSB (dark-squared bishop) to g7 (called fianchetto), a rather typical procedure in this opening",
+        "4. d4": "White opens up the lines and clears the centre. This leads to the very typical exchange of pawns in the Sicilian",
+        "4... cxd4 5. Nxd4": "You may note that 5. Nxd4 had been the same if the knight had stood at f3 (see above)!",
+        "5... Bg7 6. Be3 Nf6 7. Bc4 e6 8. O-O O-O 9. Nxc6 bxc6 10. Bc5": "10. Bc5 is a maneuvre that, via the threat on Rf8, positions the bishop at d6, nicely WITHIN black's defense zone where it cannot be chased away by pawns",
+        "10... Re8 11. Bd6 Qb6": "11.....Qb6 is a good aggressive move threatening b2 and preventing advance of white's f pawn",
+        "12. Na4": "12. Na4 protects the pawn and chases the Q away at the same time",
+        "12... Qa5": "12....Qa5 attacks the knight, but this knight's idea was all the time - not to harass the queen - but to reach the position c5, another piece within the black bastion!",
+        "13. Nc5 Nxe4": "13.....Nxe4 is a serious blunder. The knight at c5 covers this square!",
+        "14. Nxe4 Bxb2": "black takes another pawn, but.....",
+        "15. Rb1 Ba3": "15....Ba3 is another serious mistake, leaving the a1-h8 diagonal, because.....",
+        "16. Nf6+ Kg7 17. Nxe8+": "black resigned, and would be checkmated shortly "
+    },
+    "url": "https://gameknot.com/annotation.pl/jstevens1s-mini-tournament-vii?gm=48024",
+    "gameName": "jstevens1's mini-tournament VII",
+    "players": "stalhandske (2086) vs. thebishop1000 (1285)",
+    "opening": "Sicilian (B20), Keres variation (2.Ne2)"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. e5 c5": "It immediately becomes clear that 3. e5 is not a move aiming for fast development, for it can be said with only a slight amount of exaggeration that Black is now taking the initiative. He attacks d4 and has plenty of opportunity to become aggressive on the queenside. In fact this is exactly why, from time to time, theory has considered the Advance Variation to be inferior. But the crucial question is: how does Black's short-term initiative compare to White's long-term prospects? This is where theory has changed its mind again and again in the past (and is likely to keep on doing so in the future).\n",
+        "4. c3 Nc6": "Alternative variation: [A major strategic motif characteristic of this type of closed position comes to the fore if Black plays] 4... Qb6 5. Nf3 Bd7 [The idea is to exchange bishops with 6... Bb5, very desirable from a purely positional or static point of view. White has two options. He can simply allow Black to carry out his plan and make the best of it (after all, White does retain his spatial advantage) or he can play the sharp] 6. Be2 Bb5 7. c4 [seeking to open the position. This variation is thought to be theoretically critical.] [After] 7... Bxc4 8. Bxc4 dxc4 9. d5 [for instance, dynamic considerations suddenly dominate the game, making static considerations like the exchange of bishops less important.]\n",
+        "5. Bb5": "Prematured. d3 or even e2 are better squares for the light colored bishop.\nAlternative variation: 5. Nf3 [Keeps an eye on both d4 and e5] 5... Qb6 [The classical approach. Black continues to attack d4, while keeping b2 covered as well, making it difficult for White to develop his queen's bishop. Naturally, in the wave of popularity that has swept the Advance Variation during the past two decades, a thorough search has been made for possible alternatives at practically every turn.]\n",
+        "5... Qb6": "Alternative variation: 5... Bd7 6. Nf3 (6. Bxc6 bxc6 7. Nf3 cxd4 8. cxd4 c5 9. O-O Qb6 (9... cxd4)) 6... Nxe5 7. Bxd7+ (7. Nxe5 Bxb5) 7... Nxd7 8. O-O Ngf6-+\n",
+        "6. Bxc6+ bxc6 7. Ne2": "Alternative variation: 7. Nf3 Ba6 8. Nbd2 cxd4 9. cxd4 (9. Nxd4 Ne7) 9... Ne7 10. Nb3 (10. Qb3 Rb8) 10... Nf5\n",
+        "7... Ba6 8. b3 cxd4 9. cxd4": "Alternative variation: 9. Nxd4 c5 10. Nf3 Ne7\n",
+        "9... Ne7": "Alternative variation: 9... Bxe2 10. Kxe2 (10. Qxe2?! Qxd4 11. Bb2 Bb4+ 12. Kf1 (12. Nd2?! Qxb2) 12... Qb6) 10... Ne7 11. Be3 Nf5\n",
+        "10. Nbc3 Nf5 11. O-O Bb4 12. Bb2 c5 13. Na4": "Gives Black the initiative also fails tactically as happened in the game.\n",
+        "13... Qb5 14. Nac3 Bxc3 15. Nxc3": "Alternative variation: 15. Bxc3 Qxe2 16. Re1 Qxd1\n",
+        "15... Qxf1+ 16. Qxf1 Bxf1 17. Rxf1 cxd4": "Alternative variation: [Or] 17... Nxd4 [in any case Black is an exchange up and has excellent pawn structure with an extra \npassed pawn.]",
+        "18. Nb5 Rb8 19. Nc7+ Kd7 20. Rc1 Rbc8 21. Na6 Rxc1+ 22. Bxc1 Rc8 23. Bb2 Rc2 24. Ba3 Rxa2 25. Nc5+ Kc6 26. g3 Rxa3 27. b4 d3": "White resigns\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-somnathmukherjee-http-gameknot-com?gm=55778",
+    "gameName": "Challenge from somnathmukherjee, http://gameknot.com/",
+    "players": "purerwandb (1497) vs. somnathmukherjee (1200)",
+    "opening": "French (C02), advance variation"
+}

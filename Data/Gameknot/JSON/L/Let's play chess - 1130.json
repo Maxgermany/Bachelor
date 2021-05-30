@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Kings pawn opening.",
+        "1... e5 2. Qf3": "Scholars mate? White should be careful not to under develop.",
+        "2... Nc6 3. Bc4": "Now it's mate in one if black doesn't respond correctly. ",
+        "3... Nf6": "Stops scholars mate. White can't play Qxf6 because blacks queen is prepared.",
+        "4. d3 d6": "Black might need this pawn here later to bring out his light squared bishop.",
+        "5. Bg5 Be7": "Backing up blacks knight. Now the knight is attacked twice and defended 3 times.",
+        "6. Nc3 O-O": "Getting the king to a safer place.",
+        "7. Bxf6 Bxf6 8. Nd5": "Attacking the bishop but not seeing the danger that awaits.",
+        "8... Nd4": "Attacking the queen. This is why they tell you not to bring out your queen early on in the game. The knight has a good outpost here.",
+        "9. Qg3": "The queen tries to run but runs the wrong way.",
+        "9... Bh4": "The dark square bishop chases.",
+        "10. Qe3 Bg5": "A blunder by black but the queen still has no where to run.",
+        "11. Qg3 Bh4 12. Qe3 Nxc2+": "A royal fork. Black is actually forking three pieces. ",
+        "13. Ke2 Nxe3 14. Kxe3 Bg5+ 15. Ke2 Bg4+ 16. Nf3 h6 17. h3 Bxf3+ 18. gxf3 c6 19. Nb4 d5 20. exd5 cxd5 21. Nxd5 a6 22. Nb6": "White should look twice before crossing the street.",
+        "22... Qxb6": "Now the queen is lined up with the b pawn and can check the king.",
+        "23. b3": "White notices this and creates a pawn chain.",
+        "23... Rad8 24. f4 Bxf4 25. f3": "The move that leads to distruction.",
+        "25... Qd4": "Poor move. Black is attacking the rook but needs to be attacking the king.",
+        "26. Rhg1 Qe3+": "Now the correct move!",
+        "27. Kd1": "If he had have played Kf1 here then his life would have been prolonged for a few more moves. Qd2#",
+        "27... Qd2#": "I wonder why they say focus on the endgame instead of opening traps?"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=4056",
+    "gameName": "Let's play chess",
+    "players": "newochess (989) vs. atomicpc (1045)",
+    "opening": "KP (C20), Napoleon's opening"
+}

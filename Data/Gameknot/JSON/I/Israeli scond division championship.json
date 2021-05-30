@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Bg5": "Maybe its not one of the main lines in the disliked queens gambit variation , but  I choose a clam variation with almost no risk at all , however it might be that black also can feel fine because white doesn't give him to much trouble to deal with .",
+        "5... Be7 6. e3 c6": "The idea is to defend the d5 pawn and  develop the LSB to f5 , with out c6 6...Bf5? 7.Bxf6-Bxf6.8.Qb3 attacking the pawns on d5 and b7 and surly one of them will fall .",
+        "7. Bd3 O-O 8. Qc2": "Good move , white building Strong battery on the diagonal b1-h7 and threatening to win a free pawn by Bxf6and Bxh7+ .",
+        "8... Nbd7 9. Nf3": "maybe 9. h3 was better ?! the idea is if 9...h6 .10.Bf4 -Nh5 and Bh2 and white keeps his strong Bishop pare , But 9. Nf3 is also good move , white almost complete his development while black must find an alternative for his LSB soon .",
+        "9... Re8": "good move , the black rook enters the game and the idea is Nf8 preventing any whites attack on h7 and than the black is going to maneuver his knight to e6 or g6 and black doesn't have to worry so much for his king .",
+        "10. O-O h6 11. Bf4": "The idea is to control the diagonal h2-b8 and if black tries to destroy whites bishop pare by 11...Nh5 which he did , black just misplaced his pieces and anyway black stays with a very bad LSB and not so effective DSB. the right move was 11...Nf8",
+        "11... Nh5 12. Be5": "I choose to trade my DSB with the other knight on e7 and create some problems for black like what he is going to do with his knight on h5 ?! and any try to divorce the bishop will create weaknesses in the king side .",
+        "12... Nxe5 13. dxe5": "what black is going to do with his knight on the rim ?!",
+        "13... Bg4": "Finlay black develops his bishop , and he wishes to trade on f3 and open the white king ",
+        "14. Nd4": "white have so much space , sticking the knight on the center ,threatening to trap the poor knight on the rim , by f3 and g4 and provocation black to play c5 and make his D pawn weak . ",
+        "14... c5 15. Nde2 c4": "Bad move , black lose control on the d4 totaly and the knights is going to have a party . ",
+        "16. Bf5 Bxf5 17. Qxf5 g6": "17...Bg5.18.f4!-g6 .19.Qh3 and winning position for white ",
+        "18. Qf3 Bg5": "18...Bc5 or Bf8 better , the idea is to attack the e5 pawn in case white will hurry and capture on d5, 19.Qxd5 -Qxd5 .20.Nxd5-Rxe5.. or .19.Nxd5-Rxe5",
+        "19. g4": "good move , white doesn't hurry to capture on d5 , he attacks the black knight first , and than protects the e5 by killer fork . if Rxe5?? than f4! attacking the rook and the bishop on the same time . another idea is to move the queen to g2 and play f4 ",
+        "19... Ng7 20. Qg2 Bh4 21. f4": "Now !! when e5 is protected , white is going to win the d5 pawn with no compensation .",
+        "21... Qb6": "Black doesn't give up so quick , attacking e3 and b2 with some chances to get some play , but white avoids the last attack easily.",
+        "22. Nd4": "Blockade !!, blocks the attack on e3 and b2 is protected by the queen on g2. now nothig going to stop white to capture the d5 pawn .",
+        "22... Rad8 23. Nxd5 Qc5 24. Nc3 Ne6": "Steel , black treys to get some play but its is too late and white is much better ",
+        "25. Ne4 Qb6 26. Nd6 Re7 27. Nxc4": "Its tempo by tempo , Black just dont have time to do somthing here .",
+        "27... Qc5 28. Nxe6 Rxe6 29. f5": "White keeps with the tempo , any try of black sacrifice an exchange is no use , white is much better and more quicker!!",
+        "29... Rc6": "mistake !! 29.Re8 was better . ",
+        "30. Rac1 b5": "and the last blunder black last try to resist will leave his to his doom , he missed whites last move . ",
+        "31. b4": "the winning move destructing the black queen from protecting the rook and the annoying pin is over , the end is near .",
+        "31... Qxb4 32. Qxc6 bxc4 33. fxg6": "and black resigns , if he doesn't lose his king yet , he is going to lose all of his pieces one by one . thank you I hope you enjoyed the game and remember . quick development , control the center , getting space advantage , protecting the king do this right and you will be fine thank you "
+    },
+    "url": "https://gameknot.com/annotation.pl/israeli-scond-division-championship?gm=63440",
+    "gameName": "Israeli scond division championship ",
+    "players": "???matsany (1882) vs. Levi (1750)",
+    "opening": "Queen's gambit declined (D30)"
+}

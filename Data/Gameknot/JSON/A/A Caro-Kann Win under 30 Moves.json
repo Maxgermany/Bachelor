@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. e5": "The advance variation of the caro-kann",
+        "3... Bf5 4. Ne2": "Not the strongest move",
+        "4... e6 5. Ng3 Bg6 6. f4": "Weak",
+        "6... Be7 7. Bd3 Bh4 8. Bxg6 hxg6": "Now ... Bxg3+ is threatened.",
+        "9. Qd3 Qa5+ 10. c3 Qa6 11. Qf3 Ne7 12. Be3 Bxg3+": "Exchanging the Bishop, which has no other squares",
+        "13. Qxg3 Nf5 14. Qf2 Qd3": "The Black queen has penetrated White's position.",
+        "15. Bd2 Qc2 16. O-O Qxb2": "Now White either loses a rook or a knight.",
+        "17. g4 Nh4 18. f5": "Threatening to open the f-file and attacking the f7 weakness",
+        "18... gxf5 19. Bg5 Qxa1 20. Bxh4": "Black has won the exchange plus 2 pawns.",
+        "20... g6 21. Bf6 Rh7 22. gxf5 gxf5 23. Qc2": "Black's Queen is trapped and Na3 is threatened.",
+        "23... Rh3": "The only move to avoid losing the Queen. Now, if Na3, then simply ... Qxc3.",
+        "24. Bg5 Na6 25. Kg2 Rh5": "White should play Na3 now. After ... Rxg5+; Kf2 ... Qxf1+; Kxf1, it's Queen and Knight vs. 2 Rooks and Knight",
+        "26. Be3": "Losing",
+        "26... Kd7 27. Na3 Rg8+": "If Kf2, then ... Rxh2+, which wins the rook on f1 after Kf3 ... Qxf1+",
+        "28. Kh1": "This allows mate in 2.",
+        "28... Qxf1+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a-caro-kann-win-under-30-moves?gm=47657",
+    "gameName": "A Caro-Kann Win under 30 Moves",
+    "players": "vator15  vs. dsfei ",
+    "opening": "Caro-Kann (B12), advance, Short variation"
+}

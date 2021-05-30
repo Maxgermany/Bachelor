@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "As usual, black fights back with a Sicilian.",
+        "2. Nf3 Nc6 3. d4": "The trouble with this variation is it leaves white with a rather weak center.",
+        "3... cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. f4": "An unusual attack here, and not a terribly useful one. It leaves the e4 pawn unsupported.",
+        "7... Qc7 8. Qf3 Bb4 9. Bd2 d6 10. f5": "This pawn is a bit of a sticking point, but it never turns into more than an annoyance.",
+        "10... O-O 11. Bd3 Qb6 12. a3 Bc5 13. Na4 Qc7 14. Nxc5 dxc5": "Black is now set with the task of exchanging one of his doubled pawns for a non-doubled white pawn.",
+        "15. O-O Qb6 16. b3": "This is the threat that needs to be defended. If 16. ... c4+ 17. Be3 Qmoves 18. bxc4.",
+        "16... Ba6": "Forcing a trade of a relatively bad bishop for a good one.",
+        "17. Bxa6 Qxa6 18. Qc3": "? e4 is the key to this position, and needs to be defended.",
+        "18... Nxe4": "! If 19. Qxe5 Nxd2 and worse to follow. This capture has also given black the passed pawn that will eventually win the game.",
+        "19. Qe3 Nxd2 20. Qxd2 f6": "Risky, as it exposes the black king to attack along the a2-g8 diagonal, but the e5 pawn needs support.",
+        "21. Qd6 Qb6": "Those doubled pawns still need protection. The threatened Qe6+ is of no significant consequence, whereas the black's threat of c4+ allows black to trade off one of his doubled pawns.",
+        "22. Qe6+ Kh8 23. Kh1 Rad8 24. Rad1 Rxd1 25. Rxd1 Rd8": "Black's queen makes this move possible, and forces white off of the d file. Black is now trying to take advantage of white's back rank while protecting his own.",
+        "26. Re1 Qa5 27. Rf1 Qxa3": "And black has managed to trade off a doubled pawn.",
+        "28. Qxc6 Qb4 29. Qc7": "! Definitely the right attacking move here.",
+        "29... Qb6": "! Defends d8, a7, and c5 all at once. White has to run or trade.",
+        "30. Qe7 a5 31. h3 h5": "Correcting black's back rank weakness, but more aggressively than white's. This becomes important shortly.",
+        "32. Rf3 h4": "To prevent an immediate Rg3 followed by attacks on g7.",
+        "33. Qf7 Rd1+ 34. Kh2 Qd6": "Offering draw by perpetual check, if white chooses to take it.",
+        "35. Qh5+ Kg8 36. Qxh4": "? White is better off with the draw.",
+        "36... e4+": "! This is the most difficult step this pawn has to take towards victory.",
+        "37. Rg3": "The two alternatives, Rf4 and Qf4, leave white hard-pressed to stop the e-pawn. For instance, 37. Qf4 Qxf4 38. Rxf4 Rd4 39. Rf1 e3 40. Re1 Re4 and white is nearly out of options.",
+        "37... Qe5": "Otherwise, e3 is met by Qe4.",
+        "38. Qg4 Rd7 39. Kg1 e3 40. Qc4+ Kf8": "Not Kh8, which would allow perpetual check. Not Rf7, which gives up too much mobility.",
+        "41. Rf3 e2": "White has no way to stop the pawn from doing serious damage:\n(A) 42. Kf2? e1=Q#\n(B) 42. Rf1 exf1 0-1\n(C) 42. Qxe2 Qxe2 0-1\n(E) 42. Qb5 Rd1+ (E1) 43. Kf2 e1=Q# (E2) 43. Rf1 Rxf1#\n(F) 42. Qf4 e1=Q+ 43. Kh2 Qxf4 44. Rxf4 e1=Q+ 45. Kh2 Qe5 0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/82nd-gk-tournament?gm=40883",
+    "gameName": "82nd GK tournament",
+    "players": "coxa-branca (1501) vs. thexalon (1553)",
+    "opening": "Sicilian (B33), Pelikan (Lasker/Sveshnikov) variation"
+}

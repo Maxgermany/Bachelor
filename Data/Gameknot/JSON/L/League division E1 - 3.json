@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5": "Normally would have played c5 to the kings pawn but thought I'd start off with this for a change",
+        "2. Nf3 Nc6 3. Bc4": "All book so far",
+        "3... Nd4": "Offering a free pawn",
+        "4. Nxe5": "Happily taken",
+        "4... Qg5 5. Nxf7": "Well that was a mistake",
+        "5... Qxg2 6. Rf1": "Checkmate or loss of queen in 2 moves",
+        "6... Qxe4+ 7. Be2 Nf3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e1?gm=39779",
+    "gameName": "League division E1",
+    "players": "cacarvos (1231) vs. georgeo1991 (1216)",
+    "opening": "Blackburne shilling gambit (C50)"
+}

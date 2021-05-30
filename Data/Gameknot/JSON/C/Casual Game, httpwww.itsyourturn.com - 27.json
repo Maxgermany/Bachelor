@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 Nbd7 7. e5 h6 8. Bd2 c5": "Just blunders away a piece.\n",
+        "9. exf6 Nxf6 10. Bxc4": "The best, but almost as good are dxc5 and a3.\n",
+        "10... cxd4 11. Qa4+ Bd7 12. Qxb4 a5": "dxc3 is slightly better.\n",
+        "13. Qxb7": "Slightly better than Qb3 and Qd6.\n",
+        "13... a4": "dxc3 is much better. \nHoudini 3 Pro w32: 1)\n",
+        "14. Ne4": "The best of many winning moves.  It is hard to go wrong here.\n",
+        "14... Nxe4": "\n",
+        "15. Qxe4 O-O 16. O-O": "Almost all moves are winning.\n",
+        "16... e5": "\n",
+        "17. Rfe1": "Ditto.\n",
+        "17... Re8 18. Nxe5 Rxe5": "Terrible game.\n",
+        "19. Qxe5 Bc6 20. Bxf7+ Kxf7 21. Qe6+": "\n",
+        "21... Kf8 22. Bb4+ Qe7 23. Bxe7+ Ke8 24. Bc5+ Kd8 25. Bb6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=56334",
+    "gameName": "Casual Game, http://www.itsyourturn.com",
+    "players": "John Coffey, Chess Player at Lar  vs. Nick@Knight ",
+    "opening": "Queen's pawn game (E10)"
+}

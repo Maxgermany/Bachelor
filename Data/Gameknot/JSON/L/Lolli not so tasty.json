@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Here shows the danger of the Lolli attack. My opponent blundered but my attack was still going to be quite strong and he discovered that this Lolli wasn't very sweet.",
+        "1... e5 2. Nf3 Nc6 3. Bc4": "I decided to play the Italian game. While considered toothless it still has some dangerous lines if black isn't prepared for them. It however has been overshadowed by it's big brother the Ruy Lopez.",
+        "3... Nf6": "Two Knights, Not seen much over the board because black needs to be quite accurate in his defence however common in correspondence.",
+        "4. Ng5": "Main Line",
+        "4... d5": "Not Bc5 the Traxler gambit which is a pretty wild game",
+        "5. exd5 Nxd5": "?! Preferred is Na5 this is because of Nxf7 (The fried liver attack) and d4 the Lolli.",
+        "6. d4 Be7": "? exd4 is more common however White still wins more than he loses. This was played in an exhibition game against Fischer.",
+        "7. Nxf7": "Same as played by Fischer. This is now a combination of the Lolli and the Fried Liver attack. The Lolli Liver?\nFischer-Snuske continued:\n...Kxf7 8. Qf3+ Ke6 9. Nc3 9... Bb4 10. Bxd5+ Kd6\n11. Bxc6 Bxc3+ 12. bxc3 bxc6 13. O-O Be6 14. dxe5+ Kd7\n15. Rd1+ Bd5 16. c4 Rf8 17. Qh3+ 1-0\n\nHowever my opponent missed something.\n",
+        "7... Nxd4": "??? Oh no",
+        "8. Nxd8": "Black resigns however I planned on Kxf7 Qf3+ and then I had a variety of lines which I will post once I find them."
+    },
+    "url": "https://gameknot.com/annotation.pl/lolli-not-so-tasty?gm=42992",
+    "gameName": "Lolli not so tasty",
+    "players": "thedessertfox (1386) vs. steveoehley3 (1395)",
+    "opening": "two knights defence (C57), Lolli attack"
+}

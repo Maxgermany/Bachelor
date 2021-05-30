@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "This is a game I should have lost. I blundered and lost the queen, and against such as strong player this should have been fatal.\nChess shock normally kicks in, and the game is flawed from such a point forward. I had hoped to get a draw, and was surprised to win",
+        "1... g6 2. Nf3 Bg7 3. d4 b6 4. Nc3 Bb7 5. Be3 d6 6. Bd3 Nd7 7. Qd2 Ngf6 8. h3 O-O 9. g4 c5 10. g5": "The attack by the pawns proved to be powerful later in the game",
+        "10... Ne8 11. d5 a6 12. h4 b5 13. h5 b4": "First blunder. I should have seen the attack on b2",
+        "14. Ne2 Bxb2 15. Rb1 Ne5 16. Nxe5": "What choice is there. If I let it be, I would have a fork on the king and queen on 3, I would loose my queen.",
+        "16... Bxe5 17. f4 Bg7 18. f5 Nc7 19. Nf4": "What was I thinking? Serious blunder",
+        "19... Bc3": "At this stage the game was probably over.",
+        "20. Qxc3": "Might as well get the bishop in exchange for the queen. Not a nice feeling.",
+        "20... bxc3 21. Rxb7": "Also captured the bishop, but still seriously down on pieces.",
+        "21... Rb8 22. hxg6": "Got another pawn, and the pawn at g6 can do some damage if ignored. Perhaps not, but it looks dangerous",
+        "22... hxg6 23. Rxb8": "I think he should have taken the rook.",
+        "23... Qxb8 24. Ke2": "Don't want the king pined in front of a defenseless rook",
+        "24... Qb2 25. fxg6 fxg6 26. Nxg6": "Ok, the opponents king is open. I have a rook on h, and a bishop on white.",
+        "26... Rf7 27. Rh8+ Kg7 28. Rh6 Qb1": "Now I have to watch f1. Block the line for the rook",
+        "29. Nf4 Qxa2 30. Nh5+": "I can move the knite back again, now that the queen has moved.",
+        "30... Kg8 31. g6": "Attack is the best defense.",
+        "31... Rf8 32. g7 Re8 33. e5 Qxd5": "Now I need to be careful. That queen has a lot of places to move to and can do some serious damage.\nBut since I have the initiative, I might as well work with it.",
+        "34. Bh7+ Kf7 35. Bg6+": "The rook is pinned, but swapping the rook for my bishop would not be good. I still have a deficit of pieces and the queen is protecting g8.",
+        "35... Ke6": "This is forced. Forking the king and  queen will help my desperate situation.",
+        "36. Nf4+": "I consider myself very fortunate. The opponent is very strong and has a material advantage.\nBut I had the initiative, the more mobile pieces and perhaps a better position."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=34435",
+    "gameName": "Let's play chess",
+    "players": "karibu (1590) vs. neutrinno (1673)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

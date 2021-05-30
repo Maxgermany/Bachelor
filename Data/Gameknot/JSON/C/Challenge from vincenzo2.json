@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Qe2": "While there are standard opening lines where the queen moves in front of the king, they are rare and this isn't one of them. Such a move always should be made with care. ",
+        "4... Bc5": "I had considered Nb4, threatening a K-R fork and possible cause white to disrupt its plans.",
+        "5. h3": "pawn moves in an opening should be very much thought about, especially pawn moves where one plans on castling since any advanced pawn there weakens the kings position of safety and invites a sacrifice.",
+        "5... O-O": "Normally, black should wait for white to castle, since white is up a tempo, but I felt white's previous pawn move wasted that tempo and put the ball in my court.",
+        "6. c3": "Another pawn move with three pieces undeveloped. While i see that it's meant to support the eventual advance of the d pawn, in reality, it blocks the natural square for the knight and prevents the bishop from getting out. The immediate advance of the d pawn might have been better, except the the Queen is in front of the King, so castling seems the more relevant move.",
+        "6... d5": "Black wants to open the center as fast as possible",
+        "7. exd5 Nxd5 8. Qe4 Nf4": "I think this was a minor blunder on black's part. White should now simply play d4",
+        "9. O-O Qf6 10. d3 Bf5": "Black connects rooks with tempo.",
+        "11. Qd5": "White's fatal blunder.",
+        "11... Nxd5 12. Bxd5 Bxd3 13. Re1 Rae8 14. b4": "a free pawn. .",
+        "14... Bxb4": "if cxb, then e4, attacking both the knight and the rook.",
+        "15. Bd2 Bd6 16. a3 e4 17. Re3 Bf4 18. Rxd3 exd3 19. Ra2 Re2 20. Bc4 Rd8 21. g3": "this sets up for a simple trade of Knight pawn for Bishop.",
+        "21... Bxg3 22. Bg5": "this moves give black a free knight.",
+        "22... Qxf3 23. Rxe2 dxe2": "black has forced mate in several lines.",
+        "24. Bxe2": "Mate in 2",
+        "24... Qxf2+ 25. Kh1 Qh2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-vincenzo2?gm=639",
+    "gameName": "Challenge from vincenzo2",
+    "players": "vincenzo2 (1200) vs. batgirl (1200)",
+    "opening": "Two knights defence (C55)"
+}

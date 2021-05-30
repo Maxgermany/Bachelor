@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e6": "French Defense.",
+        "2. d4 d5 3. Nc3": "Supports the center but blocks the c P",
+        "3... Nf6 4. e5 Nfd7 5. f4": "5 Nf3 locks in the important f P.",
+        "5... g6 6. Nf3 Bg7 7. Be3": "Pressuring c5",
+        "7... c6": "b6 seems better",
+        "8. Bd3 b5 9. a3": "Stopping ...b4 for at least few moves",
+        "9... f6 10. exf6": "If W play any other move Blk might move f6 - f5 blocking the k side",
+        "10... Nxf6 11. Ne5 Qc7 12. O-O": "The K R may go to f3 - h3 later",
+        "12... O-O 13. Qe1 a5 14. Nb1": "N was not doing much on c3",
+        "14... Na6 15. Nd2 Ng4": "Blunder.",
+        "16. Nxg4 b4 17. Qh4": "Start of mating attack",
+        "17... c5 18. Nf3 c4 19. Be2 a4": "Black has achieved what he wanted when he played the 8th move. That is, far advancing of the Q side pawns.",
+        "20. Ng5": "W pieces getting closer to the K",
+        "20... h5 21. Ne5 Bxe5 22. fxe5 Bd7 23. Bxh5": "Destroying the K side. g4 is also very useful.",
+        "23... gxh5 24. Qxh5 Bc8 25. Qg6+ Qg7 26. Rxf8+ Kxf8 27. Rf1+ Kg8 28. Qe8+": "Blk resigned.\nHe didn't let me mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/home?gm=45864",
+    "gameName": "HOME",
+    "players": "fauzan (2018) vs. lamjed (1554)",
+    "opening": "French (C11), Steinitz, Bradford attack"
+}

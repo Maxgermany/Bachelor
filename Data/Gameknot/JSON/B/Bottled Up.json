@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "In this game my opponent got bottled up early and never recovered. Some instructive missed opportunities including a forced mate for White.",
+        "1... c5 2. c3 Nc6": "More aggressive is 2...d5, with very slight edge for White. But this is perfectly playable.",
+        "3. d4 cxd4 4. cxd4 e6 5. d5 exd5 6. exd5 Nb8": "?! A weak move, overlooking the strength of the possible bind. Better was 6 \u2026 Bb4+ 7. Nc3 Qe7+ 8. Be2 Ne5 9. a3 Bxc3+ 10. bxc3 Nf6 11. d6 Qe6 12. Nh3 O-O 13. O-O Re8 14. Ng5 Qf5 +=",
+        "7. d6": "!? To tie Black up. GK Analysis considers Qe2+ Qe7 8. Be3 Nh6 9. Nf3 Na6 10. Nd4 d6 11. Qb5+ Qd7 12. Bxh6 gxh6 13. Nc3 Bg7 14. Nf5 Be5 15. Nxh6 Qxb5 16. Bxb5+ with clear white advantage as best.",
+        "7... Qf6 8. Qe2+ Qe6 9. Bf4 Nc6 10. Nc3 Nd4": "Black wants to exchange, White wants to develop and maintain the pressure.",
+        "11. Qxe6+ Nxe6 12. Bg3 Nd4": "? A significant error Black can't afford. Best according to GK Analysis is \u2026 Nf6 13. O-O-O a6 14. f4 g6 15. Be2 Bh6 16. Nh3 O-O 17. Rhe1 Re8 18. Bf3 a5 19. Re5 Ra6 20. Kc2, significant advantage White.",
+        "13. O-O-O": "Best. GK Analysis now gives  13... Ne6 14. Nb5 Nf6 15. Nf3 a6 16. Nc7+ Nxc7 17. dxc7 Bb4 18. Nd2 Be7 19. Nc4 Ne4 20. Nd6+ Nxd6 21. Bxd6 Bxd6 22. Rxd6, big advantage White.",
+        "13... Ne6 14. Nf3 a6 15. Nd5 b5": "? A serious error. GK Analysis gives as best \u2026 Nf6 16. Nxf6+ gxf6 17. Bd3 Bh6+ 18. Kb1 b5 19. Be4 Rb8 20. Rhe1 Bb7 21. Bxb7 Rxb7 22. h4 a5 23. Rd5 O-O, advantage White.",
+        "16. Nd4": "? Here White starts to miss the strongest moves. White should play 16. Re1 Ra7 17. Nc7+ Rxc7+ 18. dxc7 Nf6 19. Ng5 Bb4 20. Re2 Nd5 21. Nxe6 fxe6 22. Be5 O-O 23. Bg3 d6 24. Re4 a5 with a huge advantage. ",
+        "16... Bb7": "? Another error by Black. missing the threat. Black should try  \u2026 Ra7 17. Nc7+ Kd8 18. Ndxe6+ fxe6 19. Be5 Nh6 20. Bd4 Rxc7+ 21. dxc7+ Kxc7 22. Bc3 d5 23. Be5+ Kb7 24. Bd3 Ng4 25. Bd4 e5, advantage still to white.",
+        "17. Nxe6 Rc8+": "?? A terrible blunder. Black should have just accepted\u2026 fxe6 18. Nc7+ Kf7 19. Nxa8 Bxa8 20. f3 Nh6 21. Bd3 g6 22. Kb1 Nf5 23. Be5 Bg7 24. Bxg7 Kxg7 25. Bxf5 gxf5 26. Rc1 despite Whites advantage.",
+        "18. Nec7+": "? Again White misses the strongest move. Better was 18. Ndc7+ Rxc7+ 19. Nxc7+ Kd8 20. a4 bxa4 21. Bxa6 Bxa6 22. Nxa6 Nh6 23. Nc5 Nf5 24. Bf4 f6 25. h4 g6 26. Nxa4 Bh6 27. Bxh6 Nxh6 with an overwhelming advantage.",
+        "18... Kd8 19. Kb1 g6": "?? A terrible blunder which allows a forced mate in 9 although I did not see it to the end. 20. Bh4+ g5 21. Bxg5+ f6 22. Re1 Ne7 23. Rxe7 Bg7 24. Bxb5 axb5 25. Rhe1 Rxc7 26. dxc7+ Kc8 27. Re8+ Rxe8 28. Rxe8#",
+        "20. Bh4+ f6 21. Nxf6": "? Another weak move, missing the rest of the mate in 7, 21. Re1 Ne7 22. Rxe7 Bg7 23. Bxb5 axb5 24. Rhe1 Rxc7 25. dxc7+ Kc8 26. Re8+ Rxe8 27. Rxe8#",
+        "21... Rb8": "? Another bad move which should be met by 22. Nfd5+ Ne7 23. dxe7+ Bxe7 24. Bxe7+ Kc8 25. Bd6 Bxd5 26. Nxd5 Kb7 27. Bxb8 Rxb8 28. Rc1 Rd8 29. Bd3 Rc8 30. Rxc8 Kxc8",
+        "22. Nxg8+": "? Not as strong as 22. Nfd5+ Ne7 23. dxe7+ Bxe7 24. Bxe7+ Kc8 25. Bd6 Bxd5 26. Nxd5 Kb7 27. Bxb8 Rxb8 28. Be2 Rf8 29. Bf3 Rxf3 30. gxf3 d6",
+        "22... Kc8 23. Ne7+": "Of course White still wins easily...",
+        "23... Bxe7 24. Bxe7": "Here Black resigns, the game is hopeless. Despite flawed play the game is instructive for how quickly Black got into trouble by playing more passively. "
+    },
+    "url": "https://gameknot.com/annotation.pl/bottled-up?gm=44156",
+    "gameName": "Bottled Up",
+    "players": "dmaestro (1522) vs. NN (1576)",
+    "opening": "Sicilian (B22), Alapin's variation (2.c3)"
+}

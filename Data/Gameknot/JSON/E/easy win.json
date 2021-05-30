@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "The game will start very basic, the moves are the most common moves on the chess game database.",
+        "1... e5": "standard",
+        "2. Bc4": "This is my usual game opening with white though I'm thinking of playing  1d4 some more because I'm not known to that opening.",
+        "2... Nf6": "still standard.",
+        "3. Nc3 Nc6 4. Nf3": "This is pretty standard. Black could play Nxe4 here. The most standard move is Bc5 here. H6 is possible too.",
+        "4... d6": "This move isn't really standard, but it's not really that bad. However after Ng5 black should play d5, so this may be counted as losing a tempo.",
+        "5. Ng5": "Here I go trying to get some fun. d5 is pretty standard here but black had a surprising move that lost immediately.",
+        "5... Ng4": "This move looks ok, but it is not! Nxf7 looks good, probably Qf6 will follow and there will probably be some material loss for black. However there is a better move.",
+        "6. Bxf7+": "Bxf7+ this will go into a forced mate!",
+        "6... Ke7": "The player probably thought kd7 would lose the knight. However he is in a worse situation right now.",
+        "7. Nd5+": "check. Only space is d7.",
+        "7... Kd7": "And so this will result in",
+        "8. Qxg4#": "checkmate in 8. I was happy I saw it."
+    },
+    "url": "https://gameknot.com/annotation.pl/easy-win?gm=49245",
+    "gameName": "easy win",
+    "players": "me (1550(ELO)) vs. other player (~1400(ELO))",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

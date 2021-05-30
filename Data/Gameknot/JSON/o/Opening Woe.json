@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4": "A nifty miniature that has Black misplay an opening with disastrous results\n",
+        "1... d5 2. c4 e6 3. Nc3 c5": "Queen's Gambit Declined, leading to a dynamic position here - not sure if there is a specific variation associated with this position but it looks exciting!\n",
+        "4. cxd5 cxd4": "Exchanging of pawns?\n",
+        "5. dxe6": "! Nope!\n",
+        "5... dxc3": "?? Black should know better than to trust this - notice how the king is the only piece defending the queen? fxe6 seems to be the only viable move here\n",
+        "6. exf7+": "Step 1...\n",
+        "6... Ke7": "Only move that preserves the queen, but...\n",
+        "7. fxg8=N+": "! Nifty use of promotion! The knight had access to f6 and White removes that protection - with tempo!\n",
+        "7... Rxg8 8. Bg5+": "Obvious - Game, Set and Match! Short but sweet game!\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/opening-woe?gm=45529",
+    "gameName": "Opening Woe",
+    "players": "Daniel Fidlow (?) vs. Albert Maier (?)",
+    "opening": "QGD (D32), Tarrasch, von Hennig-Schara gambit"
+}

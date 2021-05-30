@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4": "A re-match to another game I won and annotated.  That one also ended in a checkmate and had a fun opening like this.  This must be my best streak ever... 8 in a row (later on went to 13 and still counting!!  My best streak ever and highest rating ever achieved 1604).",
+        "1... Nf6 2. Nf3 d5 3. Bf4 e6 4. h3 c5 5. dxc5 Bxc5 6. Nc3 O-O 7. e3 a6 8. a3 Nc6": "8...Nc6 controls 8 vs 8",
+        "9. b4 Ba7 10. Bd3 Bd7 11. Ne2 Rc8 12. c3 b5 13. Qc2 Bb8 14. Bg5 g6": "I'm aware of his K-side threats.  Felt confident enough but I have no initiative.",
+        "15. Bh6 Re8 16. Nh4 Kh8 17. Nf4": "?  Takes away an escape square for his B, which never really should have moved to h6 anyway.  Nice idea to tighten the screws (15.Bh6) but he can't really manoeuver any other pieces down there to help it.  Now let's look at my 17...Bxf4?  I panicked to relieve the stress of his attack, which I now realize is not __so__ strong.  The immediate 17...Ng8 proves his DSB's poor placement and also reveals a discovered attack on the h4 N which I was aware of.",
+        "17... Bxf4 18. Bxf4 Kg7 19. Bg5 h6 20. Bxf6+": "I thought 20.Bxg6 was a threat but of course ...hxg5 introduces additional complications for him.",
+        "20... Qxf6 21. Nf3 Ne5 22. Nxe5 Qxe5 23. Kd2 Qf6 24. Raf1 Rc7 25. f4 Rec8 26. Rfc1": "Loading up the c-file which will become important.  I looked hard at 26...d4 to free my LSB and mix up the centre.",
+        "26... d4 27. cxd4": "??  Whoa!!  Capturing with the e-pawn isn't pretty but giving up your Q???",
+        "27... Rc7xc2+ 28. Bxc2 Qd8 29. Be4 Rc4 30. Rcb1 Rc8 31. g4 Bc6 32. Bxc6 Rxc6 33. h4 Rc4": "Back on c4",
+        "34. Kd3 Qc7 35. Rb3 Rc1": "Computer overwhelmingly wants 35...Rc2 for mate in 8.  I sure don't see it but I'll investigate.  He can't move his K for fear of immediate mate.  He can't put me in check.  He can't attack either piece because they're guarded and his R's aren't connected.  Pawn moves just delay the inevitable ...Qc4+.  Essentially he is smothered which I should have seen.  Anyway I was close.  The computer says the longest lines are those that open the g-file for a check from his R.  'nuff said.  He makes a few more bobos and I get a mate in 6 anyway.  I either could have mated or taken his remaining R at move 40.",
+        "36. Rxc1 Qxc1 37. Rc3 Qd1+ 38. Ke4 Qxg4 39. Rc6 Qg2+ 40. Ke5 Qd5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-blacktrojan?gm=63588",
+    "gameName": "Challenge from blacktrojan",
+    "players": "blacktrojan (1422) vs. e4newman (1563)",
+    "opening": "Queen's pawn game (A46)"
+}

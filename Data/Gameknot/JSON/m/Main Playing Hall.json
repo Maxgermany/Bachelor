@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4 Nc6 3. Nf3 e6": "Se Bc4, ent\u00e3o ...e6. E j\u00e1 tive m\u00e1s experi\u00eancias com 3...d6 4.Bxf7\n",
+        "4. d3 Nge7": "com a ideia de ..Cg6 and ...Cce5\nAlternative variation: 4... Na5 5. Bb3 Nxb3 6. axb3 [ n\u00e3o parece t\u00e3o bom para as Pretas;]  \nAlternative variation: [ Mais simples poderia ser: ] 4... Nf6 5. c3 d5 6. exd5 exd5 7. Bb3 Be7 8. O-O O-O [ 0-1 Halpern,J-Pillsbury,H/New York 1893/HCL (67)]  \n",
+        "5. Bg5 Na5 6. Bb5 a6 7. Ba4 b5": "e as Pretas ganham algum espa\u00e7o na ala da Dama.\n",
+        "8. Bb3 Nxb3": "N\u00e3o estou seguro sobre esta troca.\n",
+        "9. axb3 Qc7": "Alternative variation: 9... a5 10. Bh4 d6 [ e talvez 10...g5 recomendado \u00e9lo Houdini, mas parce muito arriscado.]  ( 10... Qc7 11. Bg3 d6 )11. Bg3 Nc6 \n",
+        "10. Nc3 Bb7": "pensei em criar algumas complica\u00e7\u00f5es com 10...b4 fechando a ala da Dama com: 11.Na4 Bb7=. Mas al\u00e9m do Cavalo no canto, n\u00e3o parece haver nada mais.\n",
+        "11. Qd2 Nc6": "11...h6 poderia ser melhor 12.Be3 Nc6 (12...Cg6 n\u00e3o \u00e9 t\u00e3o bom por causa de h4-h5.\n",
+        "12. Bf4 d6": "Alternative variation: 12... e5 13. Nd5 Qb8 14. Bg3 [ N\u00e3o me parece muito seguro.]  \n",
+        "13. O-O Be7": "Alternative variation: 13... h6 14. Be3 Be7 [ \u00e9 a recomenda\u00e7\u00e3o de Houdini.]  \nAlternative variation: 13... Nd4 14. Nxd4 cxd4 15. Ne2 e5 [ tamb\u00e9m me parece poss\u00edvel.]  \nAlternative variation: 13... b4 14. Na4 e5 15. Bg3 $10 \n",
+        "14. d4 cxd4": "Alternative variation: 14... Nxd4 15. Nxd4 cxd4 16. Ne2 ( 16. Qxd4 e5 17. Nd5 Bxd5 ( 17... Qxc2 18. Qb6 Bxd5 19. exd5 O-O ( 19... exf4 $2 20. Rfc1 Qxc1+ ( 20... Qxb3 $4 21. Qc6+ Kd8 22. Qxa8+ Kd7 23. Qc6+ Kd8 24. Qc8# ) 21. Rxc1 $18 ) 20. Qb7 $17 ) 18. Qxd5 O-O )16... e5 17. Bg3 Bxe4 $19 \n",
+        "15. Nxd4 O-O": "Alternative variation: 15... Nxd4 16. Qxd4 e5 17. Nd5 Qxc2 18. Qb6 Bxd5 19. exd5 $19 \n",
+        "16. Ndxb5 axb5 17. Nxb5 Qd7 18. Rxa8 Rxa8 19. Bxd6": "Alternative variation: 19. Rd1 e5 20. Be3 ( 20. Nxd6 $2 Qxd6 ( 20... Bxd6 21. Qxd6 Qxd6 [ Amea\u00e7a de mate, as Brs. n\u00e3o podem capturar.]  ) 21. Qxd6 Bxd6 [ as Brancas n\u00e3o podem capturar em d6: 22.Txd6 Ta1 e mate em dois.]  )20... f5 $19 \n",
+        "19... Rd8 20. Rd1 e5 21. c4": "Alternative variation: 21. Qe1 Ba6 \n",
+        "21... Nd4": "Alternative variation: 21... Ba6 [ \u00e9 melhor.] \n",
+        "22. Nxd4 exd4": "Alternative variation: 22... Qxd6 23. Nf3 Qf6 \n",
+        "23. Bxe7 Qxe7 24. f3 Qc5 25. Qf2 h5 26. Ra1 g5": "Alternative variation: 26... Bc8 27. h3 f6 28. Qe2 g5 [ Houdini.]  \n",
+        "27. b4": "Alternative variation: 27. Qd2\n",
+        "27... Qxc4 28. Qd2 f6 29. e5 fxe5": "Um erro fatal.\nAlternative variation: 29... d3 30. exf6 Qf4 31. Qe1 Qxf6 \n",
+        "30. Qxg5+ Kf7 31. Qxd8 Qc2": "Alternative variation: 31... Qxb4 32. Rc1 Ke6 \n",
+        "32. Qd7+ Kf6 33. Qd6+ Kf7 34. Re1 d3": "N\u00e3o h\u00e1 tempo para promo\u00e7\u00e3o.\n",
+        "35. Qd7+ Kg6 36. Qxb7 d2 37. Qa6+ Kg5": "Alternative variation: 37... Kf7 38. Qa7+ Ke6 \n",
+        "38. Qf1": "Alternative variation: 38. Rxe5+ [ e mate alguns movimentos \u00e0 frente.] \n",
+        "38... dxe1=Q 39. Qxe1 Qxb2 40. h3 h4 41. g3 hxg3 42. Qxg3+ Kf6 43. Qh4+ Ke6 44. Qc4+ Kf6": "as Pretas oferecem empate.\n",
+        "45. b5 Qb1+ 46. Kg2 Qg6+ 47. Kf2 Qh5 48. b6 Qh4+ 49. Qxh4+": "Pretas desistem, depois de tantos erros numa s\u00f3 partida.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/main-playing-hall?gm=65384",
+    "gameName": "Main Playing Hall",
+    "players": "S\u00f8nderk\u00e6r (1621) vs.  C_tavares (1522)",
+    "opening": "Sicilian defence (B20)"
+}

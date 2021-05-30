@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Na3 Nf6 3. e5 Nd5 4. d4 e6 5. f4 cxd4 6. Qxd4": "I think queens early excursion maybe dubious but I am no expert on whites opening strategy ",
+        "6... Nc6 7. Qa4 Nb6": "Hitting the queen again ..did not see any other ideas..probably good to move the knight now as it may be attacked with c4 ",
+        "8. Qb3 Nd4": "Harassing the queen some more .. moving both knights more than once in the opening, hoping this is justified by whites queen placement",
+        "9. Qd3 Bc5 10. Nf3 Nxf3+ 11. Qxf3 d6": "I was not sure what black should play here, I did not want to play d5 as I thought it locks my pieces in on the queenside and whites Knight can possibly make it to d4",
+        "12. Qg3": "I think this is questionable as black is probably going to castle anyway, maybe white needed something else here but it is hard to find a plan",
+        "12... O-O 13. Bd3 dxe5 14. fxe5 f5": "blocking white's white squared bishop",
+        "15. Bg5 Qd4 16. Rb1": "White's King will remain in the center now",
+        "16... Bxa3 17. bxa3 f4 18. Qh4 Qxe5+ 19. Kf1 g6 20. Re1 Qg7 21. Bh6 Qf6 22. Bg5 Qc3 23. Be7 Rf7 24. Bb4 Qc7 25. Bd2": "Spent a long time thinking about black's next move and finally came up with the following plan",
+        "25... Nc4 26. Bc1": "Black's knight now offers attacking possibilities on e3",
+        "26... Bd7 27. Re4 Bb5": "This move looks to be dropping a pawn but conceals something more sinister",
+        "28. Rxe6 Ne3+ 29. Bxe3 fxe3+ 30. Ke2 Qxc2+": "Here my buddy resigned, I am sure he will kick my ass again soon but nice to pull one back"
+    },
+    "url": "https://gameknot.com/annotation.pl/it-begins-again?gm=32065",
+    "gameName": "It begins again...",
+    "players": "shambobala (1669) vs. neimaq (1589)",
+    "opening": "Sicilian defence (B20)"
+}

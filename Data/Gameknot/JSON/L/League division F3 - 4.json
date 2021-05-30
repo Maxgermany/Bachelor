@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "I did not appreciated the danger of an opposing pawn at h4 which assisted my opponent in the endgame.",
+        "1... d5 2. Nf3 Nf6": "We mirrored each others moves at the start with d4 and d5 and then I moved Nf3 and black went with Nf6.",
+        "3. c4 Nbd7": "I moved pawn to c4 attacking black's pawn at d5 and black developed his knight to Nd7.",
+        "4. Nc3 b6": "I now moved knight to c3 and black moved pawn to b6 allowing his bishop to fianchetto.",
+        "5. Bf4 Bb7": "I moved my DB to f4 in anticipation of moving my pawn to e4 and then e5 so this bishop was there to protect the e5 square.  Black moved his LB to b7.",
+        "6. Ne5 Nh5": "i now moved my f3 knight to the e5 square as I wanted to surprise my opponent with an early attack on his 7th row.  Black moved his f6 knight to h5 attacking my DB at f4.  He could have captured my knight with his knight at d7 but he would have been recaptured by my pawn at d4 and my DB at f4.",
+        "7. e3 Nxf4": "I knew my DB was at risk from the h5 knight and I decided to push my e pawn to e3 and black took my DB with his h5 knight.  ",
+        "8. exf4 dxc4": "I retook the knight and black took my c4 pawn.  This left me with doubled pawns on the f file which can be useful protection once the king is castled.",
+        "9. f3 Nxe5": "I pushed my pawn at f2 to f3 and black moved his knight down to e5 supporting the c4 pawn.",
+        "10. dxe5 e6": "I took the e5 knight with my pawn at d4 and black moved his pawn to e6 allowing his DB access to the diagonal to a3.  I now have my pawn at e5.  Yesss",
+        "11. Be2 Be7": "Now I moved my LB out to e2 to protect my king as there are no pawns to protect the king now and d file is open. Black moved his DB to e7 in front of his king and he now has access to 2 diagonals one to a3 and one to h3.",
+        "12. a3 O-O": "I push my pawn to a3 and black castles.",
+        "13. O-O f5": "I castle and black pushes his f pawn to f5.  I think the attack is on.  Black has the DB at e7 and the queen at d8 so they are both pointing to h4.",
+        "14. h3 h5": "I decide to move my pawn to h3 and black moves his pawn to h5.",
+        "15. g4 fxg4": "Now I move my g pawn up to g4 and black captures with his pawn at f5.",
+        "16. fxg4 h4": "Now I recapture with my doubled pawn at f3 and this undoubles them.  Black moves his pawn down to h4 but this can go no further and I think that I am safe from any further pawn storms and black only has one pawn now at g7.",
+        "17. Qc2 Qd4+": "So that attack has stopped on the g file.  Now I move my queen out of the black queen's reach to c2 and black moves his queen down to d4 and checks the king.",
+        "18. Kh2 Rxf4": "My queen is protecting my bishop at e2 and my knight at c3 and the rooks are protecting the 1st row.  I move my king over to h2 and out of check.  Black moves rook down to f4 and this file is protected by my rook at f1.  However the black queen is also on the 4th row at d4.",
+        "19. Rf3 Rxf3": "So I decide to move my rook to f3 and this means that the black rook will have to come down to the 3rd row to capture my rook.  The f3 square is protected by my LB at e2.",
+        "20. Bxf3 Qf4+": "So I capture the rook at f3 and the queen moves across to f4 to check my king.",
+        "21. Kg2 Qxf3+": "I moved the king out of check to g2 (wrong!!) as I knew the queen was on the same row so would intervene if the black queen moved down onto 2nd row.   Now black queen captures my LB at f3 checking me again.  I think I must have forgotten that the LB is way up at b7 and now the queen is protected by this piece. ",
+        "22. Kh2 Qg3#": "This is where I did not foresee the use of the pawn at h4.  As if I had moved my king to g1 on the last move then my queen would have been able to defend and there is the rook at a1.  So black queen moved to g3 and its checkmate."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-f3?gm=61190",
+    "gameName": "League division F3",
+    "players": "milly64 (1086) vs. des2723 (1131)",
+    "opening": "Queen's pawn game (D02)"
+}

@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. d4": "This game is more or less focuses on the d7 square, and a pin on Black's knight on that square which I held since move 9. If I had dedicated myself more to the attack on the square on d7, I may have had a pretty strong attack...",
+        "1... d5": "King's pawn opening - I deviate from my normal pattern of the English Opening (I wanted a solid position given the rating difference of me and david1223",
+        "2. Nf3 Nf6": "a symmetrical position so far",
+        "3. Nc3": "bringing out knight #2 and threatening the d5 square",
+        "3... e6": "I remember another annotated game where a knight sacrifice on taking that e6 pawn led to White decimating Black (but that was with the Queen's pawn opening... I may be wrong on this, but I can't remember what the game was, it was awhile ago)",
+        "4. Bg5": "I like to play moves like this when I am in doubt of what else to do",
+        "4... Nbd7": "brings out the other knight, and that knight stays there for the rest of the game",
+        "5. Qd2": "Black takes advantage of this move later in the game, but for now this seems like a good move - it opens up castling opportunities and allows a rook-and-queen formation on the d-file when I do castle (I considered Qd3 but felt that Qd2 was safer)",
+        "5... c5": "challenging the center - if I retake White's center control is weakened considerably",
+        "6. e3": "this is where I see a chance to pin the knight at d7, and focus on that, but after that I pretty much forget the idea of castling",
+        "6... h6 7. Bh4": "keeping the pressure on that knight",
+        "7... cxd4 8. exd4": "pawn trade",
+        "8... Be7": "I was expecting g5 here... I should have taken that knight straight away, but I don't realise the significance of this move until it was too late",
+        "9. Bb5": "the pin I mentioned at the beginning",
+        "9... a6": "chasing my bishop...",
+        "10. Ba4": "retreating my bishop..",
+        "10... b5": "I was expecting this, and then I saw a possible move that could give me the advantage. Was I right? ",
+        "11. Nxb5": "? No, I wasn't - this move drops me down a piece due to the position of my queen - any other situation and this move would have been great. I saw this as a gambit that was beneficial for White - for the sake of just one point, White could maintain the pin on the h7 knight and create passed pawns on my a and b file (of course, White could simply break the pin by castling, but then I'd just opt for the exchange - the less pieces stopping my pawns, the better)",
+        "11... axb5 12. Bxb5 Ne4": "(!) ouch! This move guarantees Black a piece advantage ",
+        "13. Qd3": "maybe Bxe7 would have been better - Black would still be a piece up, but it'd clear the queenside up more for my pawns",
+        "13... Bxh4 14. Nxh4": "?? I call this my losing move - I should have pressured d7 with Nf5...",
+        "14... Qxh4": "now the queen's in a dangerous spot!",
+        "15. Bc6": "? I admit, I was panicking a little here - I felt the d7 knight pin was the only thing I had going for me here...",
+        "15... Qxf2+": "I completely overlooked this!",
+        "16. Kd1 Ba6 17. Qa3": "?? And I overlooked something else here - Be2+! wins my queen. I didn't realise this until after I made this move, and once I spotted it, I resigned. I'm just curious as to whether me putting pressure on the f7 knight was the right course of action for this particular game"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-f7-knight?gm=26639",
+    "gameName": "The f7 knight",
+    "players": "x-machine (1166) vs. david1223 (1516)",
+    "opening": "Queen's pawn game (D02)"
+}

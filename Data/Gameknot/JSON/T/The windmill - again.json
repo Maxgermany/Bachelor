@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 c5": "e5 might have been better",
+        "2. Nf3": "Setting up to open the centre early",
+        "2... Nc6 3. d4": "Forcing by taking contol of the centre",
+        "3... cxd4": "hoped for",
+        "4. Nxd4": "if no exchange on d4, I would play Bc4 or Nc3",
+        "4... Nxd4": "opening up",
+        "5. Qxd4": "Centralising my Queen - Now you will note that the black pawns are blocking in all his pieces except the Queen and there has to be pawn movement to open up and develop",
+        "5... e6 6. Nc3": "1-0 minor pieces",
+        "6... Ne7": "Stil 1-0 as his knight now blocks the line that was opened for the queen and bishop - but he was scared of e5 - which would chace the knight around....",
+        "7. Bc4": "2-0 minor pieces",
+        "7... Nc6 8. Qe3": "2-1 minor pieces",
+        "8... b6 9. Nb5": "Here I saw the fianchetto comming, but without a c pawn to anchor it I thought I might try to get the a pawn out or get my Knight in his face - which is always dangerous - and you will see how costly this was",
+        "9... Bb7 10. Qg3": "I wanted to stop Be7 or c5 which would have been nice development for him and- also looking at Nc7 - and this would stop black from castling queen side - while I had the bishop allocated to defence of g7 - there would thus be no castling..... or atleast not without blood loss",
+        "10... Rc8 11. Bf4": "I wanted to force the issue on c7 which he could not further defend - except with a bad move",
+        "11... e5 12. Bxe5": "Going one pawn up - note that untill now white had 3 active minor pieces against a knight that blocked in his bishop and another bishop that has to defend g7",
+        "12... Nxe5 13. Qxe5+": "Up to here I had planned, and I liked what I saw - but then the gift that kept on giving Qe7 - in hind sight Be7 looked worse to me, but it would be less costly......",
+        "13... Qe7 14. Nd6+": "So here we have the windmill!!  Starting with a check and ending in victory!\r\n\r\nNote that the King only has D8 & E8 open and as long as I could keep him in check I could clean up around him\r\nblack can also never take the white queen as every move forces him from one square to another - keeping him in check\r\n\r\nI worked it out to find the best combination",
+        "14... Kd8": "Forced",
+        "15. Nxb7+": "Forcing another move",
+        "15... Ke8 16. Nd6+": "forcing",
+        "16... Kd8 17. Nxf7+": "forcing again - I was thinking of Qxe7 Nxh8 to save the brave Knight who won the battle single handedly, but then I saw it would cost me the bishop on c4 whithout whom the knight is caught on the back rank....",
+        "17... Ke8 18. Nd6+": "forced",
+        "18... Kd8 19. Qxe7+": "No more need for the queens",
+        "19... Bxe7 20. Nxc8": "Last turn of the mill",
+        "20... Kxc8 21. Ba6+": "Here my oponent resigned after a brave battle."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-windmill-again?gm=45717",
+    "gameName": "The windmill - again",
+    "players": "nieh (1542) vs. egold (1409)",
+    "opening": "Sicilian (B32), Flohr variation"
+}

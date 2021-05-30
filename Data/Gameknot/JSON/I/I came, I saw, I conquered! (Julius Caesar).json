@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "The Queen's Gambit, my favourite opening.",
+        "2... e6": "The Classical Queen's Gambit Declined.",
+        "3. Nc3 c5": "I am unfamiliar with this line - the Tartakower, I think it is called.",
+        "4. cxd5 exd5 5. Nf3 Nf6 6. Bg5 Be7 7. dxc5 Bxc5 8. Bxf6": "This is all theory, walking along the beaten track. Now watch while my opponent (Black) drags us off into the wilderness!",
+        "8... Qb6": "!!!!! Black does not recapture! At first, I think he has blundered. But then I realise that he can play 9...Bxf2 . Then after 10. Kd2 Qd4  or Qe3 . Either way, I escape to c2, and then I think I can squirrel away into the queenside. But I didn't really feel safe with that. What can I do to stop him? Firstly, 9.Na4 or Nxd5 suggest themselves, but they don't really stop the attack I have just detailed. I see now that I SHOULD HAVE PLAYED 9.Bd4, blocking the attack and sneaking away with the material too! But at the time I saw no way of stopping the attack, so I hoped that it would not be fatal and played the greedy move 9.Bxg7.",
+        "9. Bxg7 Bxf2+": "As expected.",
+        "10. Kd2 Qe3+": "The pressure is still on, but I am not panicking just yet...",
+        "11. Kc2 Bf5+": "I didn't see that one coming. Not I really am scared. My king now has no option but to escape to the queenside, but instead of being hidden behind the pawns as I had hoped it will be exposed in front of the pawns.",
+        "12. Kb3 Qb6+": "My king is pushed up against the side.",
+        "13. Ka3 Bc5+": "The forced checkmate looms ever closer as my opponent's pieces stab my king with attack lines.",
+        "14. Ka4 Qb4#": "WHAM! The king is dead."
+    },
+    "url": "https://gameknot.com/annotation.pl/i-came-i-saw-i-conquered-julius-caesar?gm=19440",
+    "gameName": "I came, I saw, I conquered! (Julius Caesar)",
+    "players": "fatcat2 (1380) vs. toeknee2u (1146)",
+    "opening": "QGD (D32), Tarrasch defence"
+}

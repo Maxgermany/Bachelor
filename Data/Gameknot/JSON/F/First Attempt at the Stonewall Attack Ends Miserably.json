@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "This not actually my first Stonewall Attack game, but my second. The first one being played so poorly that it did not even resemble a SW game after just a few moves. This one looks like a SW game but I blunder early on and never recovered from the mistake. My opponent usually wins our games and I am on a bit of a losing streak lately (having a bad cold and sort of burned out with chess both)so I am not surprised I give up the game after 23 moves. But the game was instructional for me. ",
+        "1... d5 2. e3 Nf6 3. Bd3 e6 4. Nd2 c5 5. c3": "At this pint it look like a book of a basic SW game. ",
+        "5... cxd4": "This not considered a good move for black in the SW but I am not good enough a player or experienced enough in the line to exploit the situation really.",
+        "6. cxd4 b6": "I figure he is going to attack my LS bishop (and he does) and the piece is needed for the line to work. ",
+        "7. f4 Ba6 8. Bc2": "I retreat to the square I opened up earlier for this purpose. If possible one wants to keep his LS bishop for the critical H7 sacrifice later. But in my haste to play a \"book perfect\" line I over look a blunder on my opponent's part. Taking his bishop would have led, I assume, to him taking my bishop with his knight, followed by queen to A4 check, and black losing his knight. ",
+        "8... Nbd7 9. Ne2": "Problem for me: I need to castle to get my rook out into the action but his bishop preent thats. I move out my knight to castle, but I need that knight on E5 later to guard the G4 square when that apwn advances. ",
+        "9... Be7 10. O-O O-O 11. g4": "This is my blunder. I am tired and hasty and I move the pawn to G4 without the support of knight on E5 or at least my pawn on H3. On the up note I remembered the lessons I had watched on Youtube, but I screwed it all up. ",
+        "11... Nxg4 12. Bxh7+": "I figure I have lost the game and ruined the chance to play the line out well. Though I do not like it I make the sacrifice anyway, more to just see what happens now. I know seeker2 is a slow and cautious player and being 3 points down now will not help me as I am not good enough to beat him, but at the same time I have sort of given up on the game due to the simple pawn error. ",
+        "12... Kxh7 13. Rf3 f5 14. Rh3+": "This never really helps me out in the end. I need that pawn on G6 at some point later. Just shows how losing even a single pawn can unravel a plan. ",
+        "14... Bh4 15. Nf3 Nf2": "I am just getting sloppy and careless now. ",
+        "16. Ng5+": "It is my best option, bit it is clear what he will do next. ",
+        "16... Qxg5+": "It will be a queen trade off and I am still 3 points down with my rook threatened. ",
+        "17. fxg5 Nxd1 18. Nf4 Rfe8": "My o",
+        "19. Rxh4+ Kg8 20. Rb1": "My one hope here to equalize things a little is to get his knight. But his bishop prevents me from just waltzing over and taking it. I know there is an issue with F3 and his knight, but I don't have much time really. ",
+        "20... e5": "Sure, exactly what I did not want him to do right now. ",
+        "21. dxe5 Nxe5 22. Kg2": "To prevent the inevitable fork and loss of my rook. ",
+        "22... Ng4 23. Bd2 Ndxe3+": "Here I have just had enough and resign. I am not up to playing three points down much less four. GG seeker2. "
+    },
+    "url": "https://gameknot.com/annotation.pl/first-attempt-at-the-stonewall-attack-ends-miserably?gm=53048",
+    "gameName": "First Attempt at the Stonewall Attack Ends Miserably",
+    "players": "billdancourtney (1352) vs. seeker2 (1511)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

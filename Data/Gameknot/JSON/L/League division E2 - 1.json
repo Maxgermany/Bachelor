@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. Nf3 d5 2. d4": "I broke from my original game plan and opted to counter my opponents first move. ",
+        "2... Nf6 3. c4": "I did not want to play e4 and lose the e file. I opted for something slightly different from my recent matches.",
+        "3... e6 4. Nbd2": "I opted for Nd2 vice Nc3 to provide protection to my c pawn. ",
+        "4... Bb4 5. Qa4+": "I did not plan on moving the Q out early however I saw an opening for something different. I played the Q in case my opponent blocked with either his b or c pawn. I would have an easy capture of his B.",
+        "5... Nc6 6. Ne5": "I wanted to exert pressure on his N. An exchange would still leave me the opportunity of capturing his B on b4. ",
+        "6... Bd7": "The stage is still set for an exchange. ",
+        "7. Nxc6 Bxd2+ 8. Bxd2 Bxc6 9. Qc2": "I retreated my Q from her exposed position. I did not want to move her back to her starting postion. That would have been pointless. I opted for Qc3 due to the protection for the c pawn and the ability for her to control the b1-h7 diagonal. ",
+        "9... O-O 10. e3": "I wanted to open a lane for my LSB and did not want to break the K-side pawns. e4 would have been a very poor move due to the amount of pieces my opponent had aimed towards it. ",
+        "10... dxc4 11. Qxc4 Ne4 12. Bb4 Bd5 13. Qc2 b6 14. Bd3": "The computer wanted me to capture the R here. The thought had crossed my mind and in retrospect I probably should have moved forward with it.",
+        "14... f5 15. O-O": "Again, the computer says I should have captured the R here. It was my next move. I have seen this before where swapping my moves leaves me with a bigger advantage. So far, I have trouble fully seeing the situations that will follow suit. ",
+        "15... a5 16. Bxf8": "My opponent forced my B to move...so I captured his R. I don't know why he left me the open lane still. My previous delays on this capture presented him with opportunities to take the initiative. ",
+        "16... Qxf8 17. f3": "At this point, there was not much else I saw that would benefit me. I also wanted to unclog the middle if possible and force his N to out. ",
+        "17... Nd6 18. e4 fxe4": "My opponent played what I wanted him to. I would be left with the advantage in the center. ",
+        "19. fxe4 Qe7 20. Rae1": "I played Rae1 here to provide a look at the Q if the e file opened up and create more tention on e4. Playing exf5 would have opened the line to h7 which I saw and had plans for later. ",
+        "20... c5 21. exd5 Qg5": "I really do not know what this move accomplished. ",
+        "22. Rf2 exd5 23. Ref1": "My plan was in place at this point barring any blockades from my opponent. There was potential to stop my intentions but I would re-direct if they came up.",
+        "23... c4": "I do not think my opponent realized what I was going to do. ",
+        "24. Bxh7+": "Step 1. ",
+        "24... Kh8 25. Rf2f8+": "Step 2. ",
+        "25... Rxf8 26. Rxf8#": "Mate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e2?gm=55781",
+    "gameName": "League division E2",
+    "players": "jallen85 (1121) vs. frank85715 (1240)",
+    "opening": "Reti opening (A06)"
+}

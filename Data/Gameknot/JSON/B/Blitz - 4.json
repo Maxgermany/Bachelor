@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. b4": "Unusual opening move but more common in blitz.\n",
+        "1... e5": "Attacking b4 straight away. \n",
+        "2. b5": "? Havent seen this before, and i suspect the IM was a little surprised also. \n",
+        "2... a6": "I think i would have left the pawn and played d5 or Nf6 first. \n",
+        "3. e4": "At last a white pawn reaches the center.  \n",
+        "3... axb5 4. Bxb5 Ra5": "? This doesn't look right, but black is a very high rated master. Maybe he wants to switch to g5 or h5 later and the rook cannot be easily attacked on a5.  \n",
+        "5. Nc3 Nf6 6. Qe2 Bc5": "This bishop will become a crucial attacking piece. \n",
+        "7. Nf3 c6": "Maybe prepearing Qb6 and Ng4? \n",
+        "8. Bd3": "? I think this was a mistake. Blocking the d pawn also means the c1 bishop doesn't have much to look forward to. Maybe better was 8. Bc4 d6 9. d3 0-0 10. 0-0.  \n",
+        "8... d6": "Defending e5.  \n",
+        "9. O-O O-O": "Black is definitely better out of the opening.  \n",
+        "10. h3": "Possibly worried about the potential pressure against f2. White should be more worried about the lack of influence most of his pieces have. Maybe 10. Bb2 (to try to justify the 8th move) or even Re1 were better alternatives. Otherwise this seems like a waste of a move. \n",
+        "10... Nbd7 11. Bb2": "Unfortunately this bishop is misplaced on this diagonal. The dark square attack which follows would not have been possible if white had followed the Bc4, d3 plan.  \n",
+        "11... Nh5": "Heading for f4. \n",
+        "12. Rfd1": "I think this is a sign that white does not have any good moves. \n",
+        "12... Qf6": "Now Nf4 is a nasty threat. For example, if black was on the move..  13... Nf4 14. Qf1 (14. Qe1 Qg6! 15. Bf1 Nxh3+ 16. Kh2 Bxf2 17. Qe2 Qg3+ black wins) ...Nxh3+ 15. gxh3 Qxf3 with a strong attack. \n",
+        "13. Ne1": "A good move. Defending g2 and simultaneously attacking the knight on h5.  \n",
+        "13... g5": "!? At first site this looks completely crazy. As if black meant to play g6 but instead missed and dropped the knight! But this move actually sets a diabolical trap which white falls straight into. \n",
+        "14. Qxh5": "?? Immediately losing the game. I suspect white played this too quickly. If white had correctly rejected the knight he must still play accurately as blacks attack is dangerous, and builds in momentum.  For example, 14. Qf3 Qg6 15. g3 Ndf6 16. Qg2 g4 17. h4 Nxg3!! 18. Qxg3 Nh5 19. Qg2 g3! and black wins.  14. Qf3 Qg6 15. Bf1 Ndf6 16. g4 ( 16. g3 g4! and white falls apart as black is winning the exchange on d1 ) ...Nf4  There are many other complicated variations but i still cant find a defence for white better than the second variation after black plays Qg6 and Ndf6. Maybe white is just lost after 13...g5. \r\n",
+        "14... Qxf2+": "White must have calculated this forced variation and assumed he would remain a piece up. \n",
+        "15. Kh2": "Kh1 Qg1# \n",
+        "15... Qg1+ 16. Kg3 Bf2+ 17. Kf3 Bh4": "! This is the move white missed when he played 14. Qxh5. Threatens a nice mate in 2, with 18...Qf2+ 19. Kg4 Nf6(double checkmate!). \n",
+        "18. Qxh4": "And resigns. Greed and speed proved to be a detrimental mixture in this unusual game. 0-1\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz?gm=27831",
+    "gameName": "Blitz",
+    "players": "White (1900) vs. Black (2450)",
+    "opening": "Polish (Sokolsky) opening (A00)"
+}

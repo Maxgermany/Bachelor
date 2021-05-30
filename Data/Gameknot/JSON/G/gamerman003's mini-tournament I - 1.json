@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "In this game I used some skill in judging the concentration level of my opponent to win a game I was surely supposed to lose. The last move was an interesting bait.",
+        "1... e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. Ng5 d5": "Usually I would castle at this point but this move takes me into the attack with king attacking white knight.",
+        "6. exd5 Nxd5 7. Bxd5 Qxg5": "My bishops are in good positions now. My eyes are on the g pawn but then I realise that the white bishop is attacking it.",
+        "8. d3 Qg6": "f5 was probably a better move. Eyes still on g pawn.",
+        "9. Qe2 O-O 10. Ne4 Qxg2": "This is obviously a mistake as the white bishop is hidden behind the white knight which is a checking position.",
+        "11. Nf6+ gxf6 12. Bxg2": "Now I'm in big problems. The queen is gone and my king is quite exposed.",
+        "12... Nd4": "Just chasing white around to see what mistakes he can make.",
+        "13. Qd2 Bh3": "This move should lead to Nf3 in case white does not see it.",
+        "14. Bxb7": "This is a good capture but white's attack is quite disbanded. The white bishop is not in the attack, the black bishop and a rook are inactive.",
+        "14... c6": "I'm still trying to make a folk with Nf3 to regain my queen and this time white's white bishop is even more isolated from the attack.",
+        "15. Bxc6": "Well read. But white has makes a sacrifice. Qh6 would have been a better move.",
+        "15... Nxc6 16. Qh6": "A bit late but a good enough attacking move. Now I have only one sensible option....Bf5.",
+        "16... Bf5 17. Rg1+ Bg6": "In this position black's white bishop plays the same role as a pawn but better as it can attack faster when possible.",
+        "18. c3 Rad8 19. Rg3 Rfe8": "Trying to use as many pieces as possible to try to match up to the queen lose.",
+        "20. Bd2 e4": "An effort to have 2 open flanges occupied by rooks.",
+        "21. d4": "Good move by white but it turns out bad later as the white bishop is brought into the attack.",
+        "21... Bd6 22. Rg2 Na5 23. O-O-O Nc4 24. Bf4 Bf8 25. Qh4 f5 26. Bg5 Rdb8": "At this point black has a good attack but an inexperienced player may not be able to see it. My next move would have been Ba3 if allowed to make it.",
+        "27. b3 f4": "This was to produce 28. bxc4 e3. I somehow suspected that white would not see the mate.",
+        "28. Bxf4 e3": "Now white seems to have 2 big pieces that black can lose but these sacks' being captured would lead to a mate.",
+        "29. Bxb8 Ba3#": "So having sensed my opponent's strength and seen that he was an intermediate player I managed to trick him. And I just had to win this game in this tourney."
+    },
+    "url": "https://gameknot.com/annotation.pl/gamerman003s-mini-tournament-i?gm=27840",
+    "gameName": "gamerman003's mini-tournament I",
+    "players": "stojanc (1271) vs. demadone (1581)",
+    "opening": "Four knights (C46), Italian variation"
+}

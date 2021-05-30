@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Bc4": "C33, Kings Gambit Accepted, Bishop's gambit.",
+        "3... Qh4+": "A less agressive approach would have been 3..., Nf6. 4. Nc3, c6.",
+        "4. Kf1": "No choice, g3 loses a pawn. White can not castle anymore and with the f-pawn offered in the gambit black may have a chance to launch an attack on this side.",
+        "4... Nf6 5. Nf3 Qh6 6. Ne5 d5": "To stop the threat at f7 and to open up the bishop. (which will not move during the entire game...).",
+        "7. exd5 Bd6": "This blocks the pawn and the bishop, while attacking the knight.",
+        "8. d4 O-O 9. Qf3 Nh5": "Threatens Kg3  and wins material.",
+        "10. Kf2 Nd7": "If 11 Ng4 then not 11...., Qg5 because of 12 h4, Qf5, 13 Bd3 loses Q.",
+        "11. Re1 Nb6": "11 ..., Nf6? N on h5 has no space to go anymore. It follows 12 g3, note fork on pawn f4 (white Bishop takes black Queen). Possible is Nxg3, 13 hxg3, Qh2  14 Qg2, Qxg3 15 Qxg3, fxg3 16 Kxg3. White has material and black 3 free pawns on the King's wing.",
+        "12. Bd3 f6 13. g4 fxe5": "13 ..., fxg3ep? 14 hxg3, fxe5. 15 Bxh6, Rxf3. 16 Kxf3, gxh6. 17 dxe5 is definitely better for white, leaving black with two awkward h pawns and having converted the blocked d pawns into strong d e front.",
+        "14. dxe5 Bc5+": "I looked at Ng3. White can not take hxg3 for fxg3 will lose the Q. But 15. Kg2 works for white, still attacking 2 pieces.\r\nNot 15. exd6? Qxh2  16. Qg2, Qxg2 17. Kxg2 and maybe equal play?",
+        "15. Kg2 Qg5": "White can still not take that Knight back. But 15. Ke2? Ng3 ! 16. hxg3, Qh2  17. Kd1 (Kf1, Qg2  ), fxg3 (attacks Q with Rook) gets real dangerous for white.",
+        "16. h3 Ng3 17. Nd2 h5 18. Ne4 Qxe5": "Note: This is the first move on the second day of the game. Black is playing from a hotel room in North Carolina at 4 am (jetlag).",
+        "19. Nxc5": "Bad move, gives away Rook instantly. Bd2 was better, in preparation of moving that Knight. \r\n\r\nShows how undeveloped pieces work against you.",
+        "19... Qxe1 20. Bxf4": "White gives up the other rook to completely stop the black attack and develop one of his own.",
+        "20... Qxa1": "Not much choice actually, maybe Qe7 or Qb4. This is actually a fairly risky move, with many black pieces parked in corners.",
+        "21. Qxg3": "White completely owns the center of the board!",
+        "21... Rxf4": "The white attack will be too strong for example when that Bishop had moved to e5.",
+        "22. Qxf4 Qxb2": "Important to get the black Queen back to where the action is, occupy that diagonal and square f3 accessible to come to the rescue.",
+        "23. Qe4 hxg4": "Thinking that there's time for such a move, black takes the g-pawn with its h-pawn that was written off already, completely missing the checkmate in one.....",
+        "24. Qe8#": "Terrible finish of an exciting game...\r\n\r\n23..., Qf6. 24. Qh7 , Kf8. 25. Qxh5, would have saved the day."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-luni4av?gm=15198",
+    "gameName": "Challenge from luni4av",
+    "players": "luni4av (1645) vs. radboud (1585)",
+    "opening": "KGA (C33), bishop's gambit, Chigorin's attack"
+}

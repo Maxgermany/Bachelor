@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2": "The game starts here.",
+        "5... d5": "I think this is best.",
+        "6. exd5": "I would have taken with the bishop.",
+        "6... Nf6 7. Qf3 Bg4": "Chasing his queen.",
+        "8. Bxf6": "?? Blunder, he must have miscalculated.",
+        "8... Bxf3 9. Bxd8 Bxg2 10. Bxc7 Bxh1": "And he ends up down by three points. Now to just trade off the remaining material.",
+        "11. Bb5+ Ke7": "I still have to be careful though, his pieces are swarming around me and that pawn looks dangerous.",
+        "12. d6+ Ke6 13. Bc4+ Kd7 14. Bxf7": "? I wouldn't have done this, it loses his passed pawn.",
+        "14... Bxd6 15. Bxd6 Kxd6": "And my king is much more centralized for the endgame. This is a very interesting endgame, we both still have a knight undeveloped and it's only move 15. Some people might say it's still the middlegame, but I think it's the endgame.",
+        "16. Nd2 Bd5 17. Bxd5 Kxd5": "Black has a huge advantage.",
+        "18. O-O-O": "Probably good as it gets his rook ready.",
+        "18... Kc5 19. Nb3+ Kb5 20. Nd4+ Kb6 21. Kb1": "I wouldn't have done that, he should centralize.",
+        "21... Nc6 22. Ngf3 Nxd4 23. Rxd4 Rhf8": "Getting my rook out.",
+        "24. Rd3 Rad8 25. Rb3+ Kc6 26. Ne5+ Kd5 27. Rb5+ Ke6 28. a4": "? Loses a pawn.",
+        "28... Rxf2 29. Kc1 Rdd2 30. Ng4 Rdc2+ 31. Kb1 Rfe2 32. a5 Rcd2": "I threaten mate.",
+        "33. Kc1 Rda2 34. Kb1 Reg2": "Trying to make his knight leave from the defense of the h pawn.",
+        "35. Re5+ Kd6 36. Re4 Rxa5 37. Rd4+ Kc5 38. Rd7": "?? Loses his knight.",
+        "38... Rxg4 39. Rxb7": "?? He got greedy.",
+        "39... Rb5+": "! Forces and exchange.",
+        "40. Kc1": "?? I suppose this was his way of resigning.",
+        "40... Rxb7 41. h3 Rg2 42. h4 Rf7 43. Kd1 Rf1#": "Good game guysterbro, I had fun."
+    },
+    "url": "https://gameknot.com/annotation.pl/porchos-mini-tournament-x?gm=51440",
+    "gameName": "porcho's mini-tournament X",
+    "players": "guysterbro (1253) vs. porcho (1326)",
+    "opening": "Danish gambit (C21), Schlechter defence"
+}

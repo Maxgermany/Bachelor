@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. e3": "I was expecting 2 P-QB4.",
+        "2... d5": "I take advantage of the opportunity to play this move.",
+        "3. c4 c6 4. b4": "Clearly his plans lie on the Q-side.",
+        "4... Nbd7 5. Nc3 Nb6": "This move provokes a sharp response.",
+        "6. c5 Nc4 7. Bxc4 dxc4": "This Pawn may prove difficult to guard.",
+        "8. Qe2 Be6": "Blocking my KP and sealing in my KB for the moment, but I'm confident I can untangle my pieces before it becomes a problem.",
+        "9. f4 b5": "I was hoping to be able to move my B and develop my K-side pieces after this, but...",
+        "10. cxb6 e.p.": "...my brother tossed a spanner into the works with this move.",
+        "10... axb6 11. a3 b5": "Now I can *actually* move my B away and complete my development.",
+        "12. Nf3 Bg4 13. h3 Bd7 14. g4 Nd5": "Centralizing, and provoking my brother into undoubling my Pawns.",
+        "15. Nxd5 cxd5 16. Ne5 f6": "I'm certainly not going to let him plant his Knight in the center.",
+        "17. Nxd7 Qxd7 18. Bd2 e6": "Finally opening a diagonal for the KB.",
+        "19. g5 f5": "Draw agreed. Neither side can make progress. My passed QBP can be blocked by 20 B-B3 and White can easily guard the backwards QRP with Rooks at QR1 and QR2 and the Q at QB1. In conjunction with P-KR4, this would set up a drawing fortress."
+    },
+    "url": "https://gameknot.com/annotation.pl/2nd-weekend-game-2?gm=36336",
+    "gameName": "2nd weekend game 2",
+    "players": "Brother  vs. Hellion ",
+    "opening": "Queen's pawn game (A45)"
+}

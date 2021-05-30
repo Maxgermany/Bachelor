@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "2nd most common opening move behind 1.e4",
+        "1... d5": "A solid response,but more popular is 1...Nf6",
+        "2. Nf3 Nf6 3. c4 e6 4. Nc3": "We have transposed to a Queen's Gambit Declined which I am more comfortable from both sides/",
+        "4... Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2": "The Rubenstein Attack.",
+        "7... c5": "The best response.",
+        "8. cxd5 Nxd5 9. Bxe7 Nxe7": "!?This move is not main line.More popular is 9...Qxe7,but I wanted to take my opponent out of book because the book line leads to dismal results for Black.",
+        "10. Bd3 cxd4 11. Nxd4 Nf6": "Looking to place a knight on d5 without having an isolated pawn after Nxd5 exd5.",
+        "12. Rd1 Bd7 13. O-O Qb6 14. Qe2 Ned5": "The knight has a good,strong central post.",
+        "15. Nxd5 Nxd5 16. Nf3 Nf6": "To protect the bishop when White plays 17.Ne5",
+        "17. e4 Bc6 18. Rd2 Rfd8 19. Rfd1 Rac8": "Centralizing the rooks.",
+        "20. Ne5 Bb5": "This leads to a big tradedown.",
+        "21. Bxb5 Rxd2 22. Rxd2 Rc1+ 23. Rd1 Rxd1+ 24. Qxd1 Qxb5 25. Qd8+ Qe8": "The dust is cleared and most the pieces have been traded down.",
+        "26. Qxe8+": "This leads to a drawn knight ending.If White wants to win,26.Qc7 might be called for.",
+        "26... Nxe8": "I offered a draw here,which my opponent declined.",
+        "27. a4 Nd6 28. f3 f6": "Paving a way for the Black king.",
+        "29. Nd3 Kf7 30. Kf2 e5 31. b3 b6": "Except for the Queenside pawns,this is a symmetrical position!",
+        "32. Ke3 Ke6 33. Nb4 Nb7": "I offered a draw again,which my opponent accepted.This is not the most exciting of my games,but this excited me.I beat a 1760,but he blundered a rook so this was first blunder-free(no horrible blunders were made) non-loss for me."
+    },
+    "url": "https://gameknot.com/annotation.pl/drawing-a-1750?gm=24928",
+    "gameName": "Drawing a 1750",
+    "players": "peteepete (1752) vs. rookie879 (1501)",
+    "opening": "Queen's pawn game (D02)"
+}

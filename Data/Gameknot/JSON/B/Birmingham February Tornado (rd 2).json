@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "!!! Yes, I give my 1. e4 a triple exclam !!! Why, you may ask? Here'e the deal - I didn't discover OTB until 1991, when I played in my first tournament. My second tournament wasn't until 2006, and since then I've played in almost 100 OTB tourneys. That's roughly 500 rated games, meaning roughly 250 with white. I had NEVER played 1. e4 during all that time. Doug, a loooooong time nemesis, is well aware of this fact. I am 1-0-6 against him in rated play (yes, you read that right). He wants me BAAAAD. When I whipped out 1. e4, he looked JUST LIKE robertor's newest pic:) He spent almost 7 minutes on his first move:)",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bg4 6. h3 Bxf3 7. Qxf3 Bc5 8. Qg3 Qf6": "Practically forced.",
+        "9. Be3 Bb6 10. Bxb6 cxb6 11. Qe3 c5 12. Nc3 O-O-O": "?! We discussed this one at length afterwards. I still don't like it.",
+        "13. Nd5 Qd6 14. Qg5 g6 15. O-O f6": "! Good move.",
+        "16. Qe3 Ne7 17. Nxe7+ Qxe7 18. f4 Rhf8 19. fxe5 Qxe5 20. Rab1 Qd4": "?! We REALLY talked about this one. As much as I disliked it, I still couldn't refute it in the endgame. ",
+        "21. Qxd4 Rxd4 22. Rf3": "?! Should have played e5 immediately.",
+        "22... Kd8 23. e5 Ke7 24. exf6+ Rxf6 25. Rxf6 Kxf6 26. Rf1+ Ke7 27. Re1+ Kf7 28. Kf2 Rd6 29. Re4 b5 30. Ke3 Kf6 31. Re8 Rc6 32. Rd8 Rc7 33. c3 Re7+ 34. Kd2 Ke5 35. d4+ cxd4 36. Rxd4 Ke6 37. Re4+ Kd6 38. Rxe7 Kxe7 39. Kd3 Kd6 40. Kd4 g5": "! Good move Douglass.",
+        "41. g4 b6 42. b4": "?! I kinda wish I had that one back.",
+        "42... a5 43. a3": "(43. bxa leads into very murky waters. Several A and B players analyzed this one with both Doug and me.)",
+        "43... axb4 44. axb4 h6": "The gift of a waiting move.",
+        "45. c4": "The only live line left.",
+        "45... Kc6 46. Kc3 bxc4 47. Kxc4 b5+ 48. Kd4": "Draw agreed. Make that 1-0-7:)"
+    },
+    "url": "https://gameknot.com/annotation.pl/birmingham-february-tornado-rd-2?gm=29917",
+    "gameName": "Birmingham February Tornado (rd 2)",
+    "players": "Thomas G. (1439) vs. Doug S. (1448)",
+    "opening": "Ruy Lopez (C68), exchange, Alekhine variation"
+}

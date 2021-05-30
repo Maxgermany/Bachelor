@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "Normal opening.",
+        "1... a5": "Pretty dumb move.",
+        "2. Qh5": "Queen out.",
+        "2... b5": "Sacrificing the pawn.",
+        "3. Bc4": "Bishop doesn't take it.",
+        "3... c5": "Another pawn moved forward.",
+        "4. Bxf7#": "It's checkmate."
+    },
+    "url": "https://gameknot.com/annotation.pl/scholars-mate?gm=38506",
+    "gameName": "Scholars mate",
+    "players": "no one (1-0) vs. no one ",
+    "opening": "Corn stalk defence (B00)"
+}

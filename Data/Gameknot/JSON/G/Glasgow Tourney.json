@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. Nc3": "It's unusual for me to play against the Dunst opening, but I think d4-d5 was a good answer to gain space.",
+        "1... d5": "As said before...",
+        "2. e4": "This move move directly attack my center. I could have pushed d5-d4 but it would have been met by Nd5 and soon, I would lose my d pawn. Taking e4 was another answer.",
+        "2... c6": "If Jaysoon, accept the exchange, he would have lost a central pawn for my c pawn, perfect for me.",
+        "3. g4": "I think this was a mistake. I can now take the center by pushing e5 and opening the d8-h4 diagonal for my queen, menacing a dangerous check if he push his f pawn.",
+        "3... e5": "Establishing my center.",
+        "4. a4": "Another lost of time..",
+        "4... Nf6": "Developing another piece, and attacking the g4 pawn.",
+        "5. f3": "Pushing g5 could have been a good move forcing my knight to retreat or to exchange at e4. It would have been too bad for me to exchange so I would have played  Nd7, while attacking the g5 pawn with my queen. He would have to protect with e3 or Nf3.\n",
+        "5... dxe4": "Here I was wishing to force things. I was thinking about 6.fxe4 Nxe4 7.Nxe4 Qh4  8. Ng3 Bxg4 9.Ne2... and White position would be under huge pressure for my knight sacrifice, but still I must not make any mistake or I would in trouble.",
+        "6. Nxe4": "This move surprised me! I was feeling that my opponent gave me something with this move.",
+        "6... Nxe4": "I was happily accepting this exchange, while reopening the diagonal for my queen. After, 7. fxe4, the only way for him to escape Qh4  was to move his king at e2 and I would have the choice between taking g4 with my light-squared bishop or with my queen.",
+        "7. fxe4": "No choice or he would have been giving a piece for nothing...  ",
+        "7... Qh4+": "As mention before...",
+        "8. Ke2": "The only move.",
+        "8... Qxg4+": "I chose to take with the queen to attack the e4 pawn at the same time.",
+        "9. Nf3": "No choice, but to block the check.",
+        "9... Qxe4+": "Taking another free pawn while attacking.",
+        "10. Kf2": "One again the only move.",
+        "10... Bc5+": "Attacking with a forced mate if he moves the king.",
+        "11. Kg2": "This was the fatal mistake. I think pushing d4 was the only answer. White position stay a total mess after all the exchanges this move is proposing but still he's not mated. ",
+        "11... Qg4#": "I enjoyed this game. Everything has been done fast. "
+    },
+    "url": "https://gameknot.com/annotation.pl/glasgow-tourney?gm=22293",
+    "gameName": "Glasgow Tourney",
+    "players": "jaysoon (1286) vs. jp_cote1337 (1137)",
+    "opening": "Dunst (Sleipner, Heinrichsen) opening (A00)"
+}

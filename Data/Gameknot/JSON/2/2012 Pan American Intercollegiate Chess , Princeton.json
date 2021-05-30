@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Qc7": "last book move\n",
+        "6. Nb3 Nf6 7. Be2": "Alternative variation: 7. Nb5 Qb8 $14\n",
+        "7... Bb4 8. Qd3 d5 9. exd5 Nxd5 10. Bd2 Nxc3 11. Bxc3 Bxc3+ 12. Qxc3": "Alternative variation: [Weaker is] 12. bxc3 O-O $15\n",
+        "12... O-O 13. O-O-O b6": "Consolidates a5+c5\n",
+        "14. Bf3 Bb7 15. Kb1 Rac8 16. Rd2 Qe7 17. a3 Na5": "Discovered attack\n",
+        "18. Qd3": "Alternative variation: 18. Nxa5 Rxc3\n",
+        "18... Nc4 19. Rdd1 Ne5 20. Qe3 Nxf3 21. gxf3 Qf6 22. Rd3 Rfd8 23. Rhd1 Rxd3 24. Rxd3 Rd8 25. Rc3 h6 26. f4 Rd1+ 27. Ka2 Qd8 28. Qe5 Rd6 29. Rg3 g6 30. h4 Ba6": "Alternative variation: 30... Rd5 31. Qe3 Rh5 $17\n",
+        "31. h5 Rd5 32. Qe4 g5": "Alternative variation: 32... Rxh5 33. Rxg6+ [Demolishes the pawn shield] fxg6 34. Qxg6+ Kf8 35. Qxh5 $14\n",
+        "33. fxg5 Rxg5 34. Qh4 Qd5 35. Rc3 Kg7": "Alternative variation: 35... Rxh5 36. Qg3+ Kh7 37. Qb8 $11\n",
+        "36. f4 Rg1 37. Qf2": "Alternative variation: 37. f5 exf5 (37... Qxf5 38. Qd4+ Kh7 39. Qxg1 $18) 38. Qd4+ Qxd4 39. Nxd4 Rg5 $15\n",
+        "37... Qd1": "Alternative variation: 37... Rg2 38. Qd4+ Qxd4 39. Nxd4 \n",
+        "38. Nd4": "White plans f5\n",
+        "38... Qg4": "Alternative variation: 38... Bb7 39. Kb3 Bd5+ 40. Kb4 $15\n",
+        "39. f5": "Alternative variation: 39. Rc7 Kg8 40. Qe3 (40. Rxa7 $4 [ taking the pawn will cause White grave problems] Bc4+ 41. b3 Qd1 42. Qxg1+ Qxg1 $19)\n",
+        "39... exf5": "Alternative variation: 39... e5 40. Nf3 Rg2 41. f6+ Kh7 $17\n",
+        "40. Nxf5+": "Alternative variation: 40. Qe3 $5 Rg2 41. Qe5+ Kh7 42. Rc7 (42. Nxf5 $6 Qxh5 43. Qf6 Qg6 44. Qxg6+ fxg6 ( 44... Kxg6 $4 45. Nh4+ Kg5 46. Nxg2 $18) (44... Rxg6 $6 45. Rc7 $11) 45. Rc7+ Kh8 46. Nxh6 Be2 $11) (42. Qxf5+ $6 [is clearly weaker] Qxf5 43. Nxf5 Be2 $11) 42... Qxh5 43. Ne6 $18 (43. Nxf5 [ White again will not be able to digest the pawn] Rg5 $19)\n",
+        "40... Kh7 41. Rc6": "Alternative variation: 41. Ne3 Qe6+ 42. b3 $16\n",
+        "41... Bc4+ 42. b3 Qd1": "Alternative variation: 42... Be6 43. Ne3 Qg7 $17\n",
+        "43. Rxh6+": "Alternative variation: 43. bxc4 [leads to mate in 1] Qb1#\nAlternative variation: 43. Rxc4 [ simply mating in 1] Qb1#\n",
+        "43... Kg8 44. Ne7+": "Alternative variation: 44. bxc4 [fails to mate in 1] Qb1#\n",
+        "44... Kf8 45. Ng6+": "ignoring the path to victory\nAlternative variation: 45. Rh8+ [ is the best chance] Kxe7 46. Qh4+ (46. bxc4 $4 [leads to instant demise in 1] Qb1#) 46... f6 47. Qe4+ (47. bxc4 [mating in 1] Qxc2#) (47. Qxc4 $4 [ is not to be advocated because of the following mate in 1] Qa1#) 47... Be6 48. Rh7+ Kd8 49. Qa8+ (49. Qxe6 $4 [ is impossible because of the following mate in 1] Qxc2#) 49... Bc8 50. Rh8+ Ke7 51. Qe4+ (51. Qxc8 $4 [will allow the opponent to give mate in 1] Qa1#) (51. Rxc8 $4 [leads to mate in 1] Qa1#) 51... Be6 52. Rh7+ Kd8 53. Qa8+ (53. Qxe6 [ is followed by mate in 1] Qxc2#) 53... Bc8 54. Rh8+ Ke7 55. Qe4+ (55. Qxc8 [ mating quickly in 1] Qa1#) (55. Rxc8 [ is not directly advisable because of the following mate in 1] Qa1#) 55... Be6 $11\n",
+        "45... Kg7 46. bxc4": "Alternative variation: 46. Qxg1 [praying for a miracle] Qxg1 47. Rh8 $19\n",
+        "46... Kxh6": "Alternative variation: 46... Qb1#\n",
+        "47. Qf5": "Alternative variation: 47. Kb3 [otherwise it's curtains at once] fxg6 48. hxg6 Kxg6 49. Qf4 $19\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/2012-pan-american-intercollegiate-chess-princeton?gm=48168",
+    "gameName": "2012 Pan American Intercollegiate Chess , Princeton",
+    "players": "Zhu, Joshua  vs. Osbourn, Josh ",
+    "opening": "Sicilian (B23), closed, Korchnoi variation"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e6": "black go to the french defence",
+        "2. d4": "d4 is typical move",
+        "2... d5 3. e5": "now black have good position for attack in c line",
+        "3... c5 4. c3 Nc6 5. Bb5 Qb6": "other move is bishop on d7",
+        "6. Bxc6+ bxc6": "also can play and queen :c6",
+        "7. Nf3 Ba6": "now white have not short 0-0",
+        "8. b3": "b3 is slowly move and dont look good for white",
+        "8... Ne7 9. Nbd2 cxd4 10. Nxd4": "strange move... now black have c5 and after this 0-0-0 or d4",
+        "10... c5 11. Nd4f3 Nc6": "black have center",
+        "12. c4": "now black  must dint play d:c ",
+        "12... Rd8": "or may be 0-0-0???",
+        "13. Qc2": "so stupid move... no idea in this play...",
+        "13... Nb4": "and now queen must stay in b8...",
+        "14. Qc3": "so stupid move again.... too bad for white moves in row",
+        "14... d4": "d4!!! and attack!",
+        "15. Nxd4": "good move becouse if queen go to the b7 black have N d6 and N:b7 :-)",
+        "15... cxd4 16. Qg3 Nc2+": "check and game over :-)",
+        "17. Kd1 Nxa1": "white must resign there :-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=11415",
+    "gameName": "Let's play chess",
+    "players": "muzica (1555) vs. toni_the_man (1200)",
+    "opening": "French (C02), advance variation"
+}

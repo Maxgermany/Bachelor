@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. a3": "A departure from well-known lines. I've seen this move a few times before, and have never been impressed by it when it's played this early in the game. At this juncture, all it really does is give Black a free tempo. I take advantage of the move by setting up a Dragon formation, one of Black's most flexible and aggressive plans.",
+        "4... g6 5. d3": "The opening is now a Closed Sicilian.",
+        "5... Bg7 6. Bd2 Nf6 7. Qe2": "Anti-positional: the Queen blocks White Bishop from its most natural square. Obviously the text signals White's intention to fianchetto, probably soon.",
+        "7... Bd7": "Black has no fear of 8. e5 de5  9. Ne5 Nd4, exposing the awkward placement of White's lady and gaining a nice central post in the process.",
+        "8. O-O-O O-O 9. h3": "If Bobby Fischer left we mere mortals any specific legacy it was showing us how to attack a fianchettoed Kingside using the White pieces in the Sicilian: As the late Larry Evans succinctly spelled it out, \"Push the h-pawn to h5, sac, sac, and win.\" The correct move is 9. h4.",
+        "9... Nd4": "Already initiating the Q-side attack.",
+        "10. Nxd4 cxd4 11. Nd5 b5": "! -- The White steed is oddly worthless on what's usually a great square for it to occupy. Black's simply not worried about about it: it can either be exchanged or chased, and neither option slows down his Q-side attack.",
+        "12. g4 e6 13. Nxf6+ Bxf6 14. f4": "? -- 14. h4! keeps White alive. The text looks impressive - all that space! - which does nothing for White's attack. ------ Raymond 2002 says in his note that 14. h4 is met effectively with 14. ...Bh4. Is he right? No. After 14. ...Bh4??  15. f4! threatening (unstoppably) either 16. g5 winning the Bishop for a couple pawns, or 16. Qh2! doubling on the Bishop with an x-ray to mate on h7. Sorry, Ray.  ;-)",
+        "14... a5 15. g5 Be7": "! -- Redirecting the Bishop so it can help in the attack.",
+        "16. h4 b4": "! -- Things are heating up, and White has a dilemma: he can't play 16. ab4 ab4, opening the Rook file, and 16. a4 Ba4 isn't very pleasant either after 17. b3 Bd7 followed by 18. ...a4.",
+        "17. h5": "Too slow now.",
+        "17... bxa3 18. b3 a4": "The fortress around White's King is about to collapse.",
+        "19. bxa4": "?? -- Stiffer was 19. b4. Now Black rams the blade home.",
+        "19... Qb6": "Brings down the house.",
+        "20. Be1 Qb2+ 21. Kd2 Rfc8 22. Rc1 a2": "0-1 --- White's seen enough."
+    },
+    "url": "https://gameknot.com/annotation.pl/miniature-closed-sicilian-blitz-game?gm=45602",
+    "gameName": "Miniature -- Closed Sicilian (Blitz game)",
+    "players": "mnagell (1200) vs. avocet (1200)",
+    "opening": "Sicilian (B50)"
+}

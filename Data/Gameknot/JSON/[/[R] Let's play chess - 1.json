@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "Straight-up Queen's Gambit.",
+        "2... dxc4 3. Nc3 Bd7": "Black can't actually hold on to the gambit pawn.  It's usually worse to try because White normally regains it under favorable circumstances.",
+        "4. a4 e6 5. e3 Nf6 6. Bxc4": "White gets back the pawn.",
+        "6... Bc6": "Although this threatens the g2 pawn, the threat is easily met with normal development.  c6 is not a great square for the B and it wastes a tempo.",
+        "7. Nf3 Bb4 8. O-O Bxc3 9. bxc3 O-O 10. Qe2 Qd7 11. Ne5": "White gets the N to a good square with the gain of a tempo.",
+        "11... Qe8 12. Ba3": "The R is trapped.",
+        "12... Bxa4 13. Bxf8 Kxf8 14. Qa2 Bc6 15. Bd3 Be4 16. Rfb1": "Black's development is lagging because of the loss of time earlier.",
+        "16... b6 17. Bxe4 Nxe4 18. c4": "Nc3 for Black looks like it forks the Q and R, but after Qa3+ the N is lost.",
+        "18... c5": "This blocks the check.",
+        "19. Qc2 f5 20. f3": "f3 kicks the N from a good square.  Note that Black cannot kick White's N with a pawn after playing f5.",
+        "20... Nd6 21. Rxb6": "Sneaking another pawn.",
+        "21... axb6 22. Rxa8": "This also wins the N, which Black realizes too late.",
+        "22... Qc8 23. Rxb8": "If Qxb2, Nd7+ wins the Q.",
+        "23... Qxb8": "Black resigned right after this capture when they realized Nd7 would be crushing."
+    },
+    "url": "https://gameknot.com/annotation.pl/r-lets-play-chess?gm=59364",
+    "gameName": "[R] Let's play chess",
+    "players": "mmoody95 (1779) vs. oxfordrick (1594)",
+    "opening": "Queen's gambit accepted (D20)"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4": "Played mostly to avoid the Petroff.",
+        "2... Nf6 3. d3 Nc6 4. Nf3 Be7": "The Hungarian Defense. Somewhat passive, but solid.",
+        "5. O-O O-O 6. Bb3 d6 7. c3 Na5": "Similar to the Chigorin Defense to the Ruy Lopez, but White is a couple of tempi up since Black hasn't played ...a6 and ...b5.",
+        "8. Bc2 c5 9. a3": "White intends to gain space on the Queenside with b5.  Note this wouldn't work in the Ruy Lopez where Black has played ...a6 and ....b5.",
+        "9... Nc6 10. b4 a6": "10..cxb4 11.axb4! would increase White's control of the center and activate the a1-rook.",
+        "11. h3": "12. Nbd2 is the most common move in this position, but Triviakov has another idea.",
+        "11... Re8 12. Re1 Bf8 13. Be3": "This why White played h3 and delayed Nbd2.  This move applies pressure against c5.  Bg5 comes into consideration.  ",
+        "13... cxb4 14. axb4 b5 15. Nbd2 Bb7": "To discourage White from playing d4.",
+        "16. Bg5": "Now that the tension on the b4-c5 lever has been resolved the Bishop has done its job on e3 and White is ready to fight for control of d5.",
+        "16... h6 17. Bh4 Rc8 18. Nf1": "headed for e3, Tiviakov masses his forces on the fight for control of d5.",
+        "18... Nb8": "The knight is headed for d7.",
+        "19. Ra3 Nbd7 20. Ne3 Qc7 21. Bb3 g6": "Better was ...a5! when White would have only  a slight advantage.",
+        "22. Nh2 Bg7 23. Qf3": "White has control of d5 and if Black doesn't take decisive action White will tighten the screws with Nhg4. ",
+        "23... d5": "! best practical chance, passive defense would lose.",
+        "24. Nxd5 Nxd5 25. Bxd5 Bxd5 26. exd5 Qd6 27. Rea1 Nb8 28. g4": "If 28.Nf1 f5 29.Nd2 f4 and the bishop is trapped.",
+        "28... g5 29. Bg3 Red8": "Black now wins back his pawn, but White retains the advantage.  If White can maneuver his knight to f5 he probably has a won game.",
+        "30. Qe2 Qxd5 31. Rd1 Rc6": "Tiviakov stated that an active defense was Black's best chance and recommended 31...e4.",
+        "32. Nf1 Nd7 33. Ne3 Qe6 34. Nf5 Bf8 35. d4": "White will now win material, and Tiviakov will keep control of the game until the end.",
+        "35... exd4 36. Qxe6 fxe6 37. Nxd4 Nf6 38. Rda1 Rcc8 39. Nxe6 Rd3 40. Ra3xa6 Rdxc3 41. Nxg5 Rc3c6 42. Ne6 Bxb4 43. Rxc6 Rxc6 44. Ra8+ Kh7 45. Ra7+ Kg8 46. Nd4 Rc5 47. Nf5 h5 48. Nh6+ Kh8 49. g5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/ned-ch-leeuwarden?gm=44617",
+    "gameName": "NED-ch, Leeuwarden",
+    "players": "Tiviakov, Sergei (2678) vs. Werle, Jan (2514)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

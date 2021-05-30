@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4": "Kewparknick 1345(my brother) vs. thehobbit  (1369)\n\nplays e4 - Classical Chess Opening",
+        "1... e5": "A good reply (if you want to play a classical game)",
+        "2. Nf3": "best position for your knight to move ",
+        "2... Nc6": "again the threat is met by a good defence",
+        "3. Bc4": "attacking move by white",
+        "3... Nf6": "a good move - threatens the pawn on e4 as well as develops the king's side ",
+        "4. Ng5 Bc5": "a strange move (or so it seems to white)",
+        "5. Nxf7": "what else would you do?",
+        "5... Bxf2+": "? white is now thinking: yay a free bishop. how wrong can you get?",
+        "6. Kxf2 Nxe4+": "an attacking move",
+        "7. Ke2": "this tactic also works if th king moves to e3 or f3",
+        "7... Qh4": "ok, black is now really on the attack. white has to be careful",
+        "8. Nxh8": "what else would you do?",
+        "8... Qf2+": "a mistake from white (taking the rook) lead to a forced mate",
+        "9. Kd3 Nb4+": "a good move. white has only one option left...",
+        "10. Kxe4 Qf4#": "gone!"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=12587",
+    "gameName": "Let's play chess",
+    "players": "kewparknick (1345) vs. thehobbit (1369)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

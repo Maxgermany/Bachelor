@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "standard",
+        "1... e6": "when i was playing O-T-B games, the French was one of my favorite openings",
+        "2. d4 d5 3. e5": "the advance variation",
+        "3... c5 4. Bb5+": "? not the best move, better is to guard the center by going c3.",
+        "4... Bd7 5. Qd3": "? again, not the best move! best is BxB then c3.",
+        "5... a6 6. Bxd7+ Nxd7 7. f4": "better is c3.",
+        "7... h5": "now, this was so i could go Nh6-f5 and i wont worry about him going g4.",
+        "8. Be3 Nh6 9. h3 Nf5": "if g4? i go, hxg4! and if hxg4?? i take his rook on h1!!",
+        "10. Bf2 Rc8 11. Na3 Qc7 12. Nf3 Be7": "just developing.",
+        "13. O-O-O b5": "going to attack on the queen side.",
+        "14. Nxb5": "? i dont know why he did this???",
+        "14... axb5 15. Qxb5 Rb8 16. Qd3 c4 17. Qc3": "???????? a terrible move:) better is Qd2.",
+        "17... Bb4": "! now his queen is trapped!",
+        "18. Qxb4 Rxb4": "i dont think i need to annotate the rest of the game (unless you want me to??)",
+        "19. c3 Rb7 20. Kc2 O-O 21. Rdb1 Rfb8 22. g4 Ne7 23. Bh4 Nc6 24. gxh5 Qa5 25. Be1 Qxa2 26. Nd2 Rb7xb2+ 27. Kc1 Rb2xb1+ 28. Nxb1 Rxb1#": "mate!! hope that you liked it??? please comment and rate it on the star system thanks..."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-water123?gm=45218",
+    "gameName": "Challenge from water123",
+    "players": "chicoboy (1207) vs. water123 (1973)",
+    "opening": "French (C02), advance, Steinitz variation"
+}

@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5": "I tried diffrent variations against e4 but nothing has proven to be better than sicilian.",
+        "2. c4": "White pushed the game into Gloria variation. I've rarely met this variation so I decided to follow the book strictky or at least as far as I could.",
+        "2... Nc6 3. Nc3 g6 4. d3 Bg7 5. Bg5": "Until this move everything was usual. I don't know what the idea of ths move was but it didn't existed in the DB. I decided to castle early, because as I said I haven't played the Gloria variation so often.",
+        "5... Nf6 6. Bxf6": "Well if Bg5 wasn't a complete mistake so that is a blunder. Why would you possibly play that ? Can someone answer me ? You lose a turn to bring your bishop ahead and then exchange it for a undeveloped knight. Additionaly he allows my black squared bishop to open his diagonal and threaten c3 and put pressure on b2 and a1",
+        "6... Bxf6 7. Nf3 d6 8. Nd5": "This move is obviously a mistake. He wants to have the possibility of Bc7 but doesn't see that Bxb2",
+        "8... Bxb2 9. Rb1 Qa5+": "Of course I don't retreat immediately. White's mistakes give me a oppurtunity to attack the uncastled king.",
+        "10. Nd2": "Only possible move if he wants to castle in the future.",
+        "10... Bd4": "I retreat but not fully. My bishop is still in a good position, but White's chances to castle and put an end to my attack are big.",
+        "11. f3": "Another mistake. I don't have an idea what's the purpose of this move. He opens my black squared and makes his castling very complicated. ",
+        "11... e6": "I eliminate the danger of Bc7 i order to make my attack easier.",
+        "12. Nf4": "he retreats to the ony possible position and ",
+        "12... Qxa2": "I win another pawn.",
+        "13. Ne2": "Well that is another move I don't like. He leaves the pawn on d3 without any support and tries without having enough power to force my bishop to retreat.",
+        "13... Be3": "As I said - not enough support",
+        "14. Nb3 Nb4": "I involve my kight in the attack in order to have more power and to push him for Bc7#",
+        "15. Na1 Bd2+": "I decide that is it time to attack and force the king to move from his hide place",
+        "16. Kf2 Nxd3+": "The unsupported d3 pawn helps me to continue my attack and bring the king further away.",
+        "17. Kg3": "only possible move because of Be3#",
+        "17... h5": "Here I need to bring another figure in the attack and the h7 pawn is ideal for it.",
+        "18. Nc2": "White's last mistake. Not so bad as a move but only when the king isn't near mate. I mean the knight does nothing to help the king of escaping the dangoures situation. A possibly better move is h4 which would at least give the king a chance to survive.",
+        "18... h4+": "Predictable and leading in any way to checkmate.",
+        "19. Kh3": "the other possibility leads to Kg4\te5#",
+        "19... Nf2#": "The thing which I've learned from this game is always to be concentrated because every move can be a step to a win but also to a loss."
+    },
+    "url": "https://gameknot.com/annotation.pl/gloria-variation-turning-into-a-disaster?gm=34299",
+    "gameName": "Gloria variation turning into a disaster",
+    "players": "f770632 (1420) vs. alexaand (1585)",
+    "opening": "Sicilian (B20), Gloria variation"
+}

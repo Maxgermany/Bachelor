@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7": "The Karpov/Smyslov/Steinitz Variation of the Caro-Kann",
+        "5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Bg4 8. c3 e6 9. O-O Be7 10. Bf4 O-O 11. h3 Bh5 12. Be2": "Black has equalized in the opening.",
+        "12... Nd5 13. Bh2 Rc8 14. Ne5 Bxe2 15. Qxe2 c5 16. Rac1": "Here, Black can capture on d4 and give White an isolated pawn, but then White gets the c-file.",
+        "16... Qa5 17. Nd7": "This is a dubious move. The knight was well-posted on e5. Now White prepares to exchange this piece.",
+        "17... Rfd8 18. Nxc5 Bxc5 19. dxc5": "Of course not ... Rxc5?? b4",
+        "19... Qxc5 20. Rfd1 h6 21. a3 Qc4 22. Qxc4 Rxc4": "If White tries to win the pinned knight with 23. b3 Rc8 24. c4 Nf6 and the Black rooks defend each other.",
+        "23. Rd4 Rdc8 24. Rxc4 Rxc4": "Black has a slight advantage in this endgame.",
+        "25. Be5": "The bishop is heading for d4.",
+        "25... f6 26. Bd4 b6 27. Kf1 e5 28. Be3 Nxe3+": "damaging White's pawn structure",
+        "29. fxe3 Kf7 30. Rd1 Ke7": "Keeping the rook in check",
+        "31. Ke2 f5 32. Rf1 g6 33. Kd3 b5 34. b3 e4+ 35. Kc2 Rc6 36. Rd1 Ra6 37. Kb2 Rd6 38. Kc2 g5 39. Rf1": "Here Black should have played ... Rf6 so that g4 can be met by f4, with a pawn steam-roller on the way.",
+        "39... Ke6": "White can play g4 here, since ... f4 is no longer possible. If black exchanges pawns with ... fxg4; hxg4 ... Rd3; Re1 Kf5, followed by ... Kg6 and ... h5 creating a passed pawn.",
+        "40. c4 bxc4 41. bxc4 Rd3": "White is in trouble.",
+        "42. a4 Rxe3": "Threatening Re2+, winning the g2 pawn",
+        "43. Rf2 Ra3 44. Kb2 Rxa4": "Black is up 2 pawns.",
+        "45. Rc2 Ra6 46. Kb3 Rc6": "Creating a blockade in front of the white c-pawn.",
+        "47. Kb4 a6": "This keeps the King out of b5, so White cannot make any progress.",
+        "48. c5 f4": "Black advances his kingside pawns.",
+        "49. Re2 Ke5": "Threatening Kd4",
+        "50. Kc4 h5 51. Re1 g4 52. h4 e3 53. Re2 Ke4 54. Re1 f3": "White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-winning-endgame?gm=47659",
+    "gameName": "A Winning Endgame",
+    "players": "gamblingpawn  vs. dsfei ",
+    "opening": "Caro-Kann (B17), Steinitz variation"
+}

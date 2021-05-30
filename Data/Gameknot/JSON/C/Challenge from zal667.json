@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 Ne7": "King's Gambit\\Accepted\\Bonsch-Osmolovsky Variation -a rather rare variation. Frankly speaking I have played it for the first time",
+        "4. Bc4 Ng6": "definitely it was better to d5, than to protect a gambit",
+        "5. O-O Be7 6. d4 c6 7. Bxf4": "After passive moves by my opponent I have notice an opportunity of making pressure on f7 square, so I decided on making a bishop sack",
+        "7... Nxf4 8. Ne5 d5": "nice try to get the tempo back",
+        "9. Rxf4 f6": "2 lesser figures are hanging yet I have a tempo and a nice edgy way to use it",
+        "10. Qh5+ g6 11. Nxg6 Kd7 12. Nxh8 Qxh8 13. exd5 Bd6 14. Qf7+ Be7 15. Qe6+ Kd8 16. Qf7 cxd5 17. Qxd5+": "few last moves weren't the sharpest ones yet they played their role",
+        "17... Nd7 18. Nc3 Rb8 19. Qa5+ Ke8 20. Re1 b6 21. Qb4": "at this point opponent resign. Possible continuation after Qg7 Rg4. Qf8 Rg8 or something like this"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-zal667?gm=11877",
+    "gameName": "Challenge from zal667",
+    "players": "zal667 (1440) vs. fltugboat1 (1562)",
+    "opening": "KGA (C34), Bonsch-Osmolovsky variation"
+}

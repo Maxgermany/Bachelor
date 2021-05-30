@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nMany moons ago, a Class C player called Fiver played the Allgaier Gambit of the KGA and lost.  Ardin also tried that on me and met the same fate.  So, how did this happen?  Please see the Gameknot Analysis link below:-\n\n",
+        "1... e5 2. f4": "2. f4 - King's Gambit ......",
+        "2... exf4": "2. ..... exf4 ...... Accepted.",
+        "3. Nf3 g5 4. h4 g4": "4. ..... g4 - fairly standard play so far but now here comes the .......",
+        "5. Ng5": "5. Ng5 ...... Allgaier Gambit.  This involves sacrificing a piece for two pawns to get the enemy king out into the open.  Thankfully, on both occasions the Class C players tried this on me, Henry managed to find some way of preserving his modesty and I was able to turn the tables on them big time!",
+        "5... h6 6. Nxf7 Kxf7": "6. ..... Kxf7 - Ah Henry - he often goes into battle and ends up trying to find ways of getting new clothing - poor old chappie!",
+        "7. d4": "7. d4 - Gameknot Analysis recommends Qxg4.",
+        "7... f3 8. gxf3 d5 9. e5 Be7": "9. ..... Be7 - at last, Fou Lenoir is soon gonna lend Henry his cassock!",
+        "10. fxg4": "10. fxg4 - Henry looks dangerously exposed to a check from the Wicked Witch of the West along the f column but he can take a modicum of cover on g7.  I also land a check of my own.",
+        "10... Bxh4+ 11. Kd2": "11. Kd2 - now the WK is exposed!",
+        "11... Bg5+": "11. ...... Bg5+ - at last Henry is afforded some decency on the g column.  Ardin's g4 pawn is temporarily anchored on g4.  I now have an idea of attacking the WK who exposes himself further on the next turn with a normal developing move such as Nc6.",
+        "12. Kd3 Nc6 13. Qf3+": "13. Qf3+ - that check comes but I am not afraid of it.  Henry also defends the rook on h8 to release Glenda from defending Fou Lenoir on b5 - please note that my h6 pawn was hitherto pinned to my h8 rook by Ardin's h1 rook.",
+        "13... Kg7 14. Nc3": "14. Nc3?? - a reasonable developing move, but it allows a couple of knight forks to get Yours Truly off to a good start in my Part 2 MT.",
+        "14... Nb4+ 15. Ke2 Nxc2": "15. ..... Nxc2 - white, who is already a piece down must now drop at least a full rook.  Ardin moves his bishop to h3 and I do not take the rook because there is a bigger fish, fit for Henry's table to fry - a white p(r)awn on d4 and the WK must part company with his other half on the next turn.  Ardin spares that ill-fated Royal couple the agony by waving the white flag.  I think the Allgaier is playable but white must be precise to avoid incurring a calamity, do you the Inquest Jury agree?  Anyhow, I hope you have all had a good read.  Bye for now - Joanne",
+        "16. Bh3 Nxd4+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/allgaier-gambit-part-2?gm=47921",
+    "gameName": "Allgaier Gambit - Part 2",
+    "players": "sonata296 (1468) vs. jstevens1 (1952)",
+    "opening": "KGA (C39), Allgaier, Thorold variation"
+}

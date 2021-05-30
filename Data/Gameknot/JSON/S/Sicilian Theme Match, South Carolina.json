@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "A Sicilian thematic match Judith Polgar vs Gregory Kaidanov. Annotated by Susan Polgar. http://susanpolgar.blogspot.com/2010/02/match-recap.html\n\nIni adalah pertandingan dengan tema Pembelaan Sisilia yang digelar di South Carolina Amerika. Judit Polgar dan Gregory Kaidanov dikenal sebagai pakar di pembelaan ini.",
+        "1... c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3": "Judit surprised Gregory on move 6. She usually plays either the regular Scheveningen with 6.Be2 or the Keres Attack with 6.g4.   Judit mengejutkan Gregory dengan langkah ini, biasanya di memakai Gajah e2 atau serangan Keres di bidak g4.\n",
+        "6... Nc6 7. Qd2 Be7 8. Be2 O-O 9. O-O-O": "So far all book moves. The basic key ideas in the Sicilian are: White to launch a ferocious attack on the Kingside while Black to launch a counter attack on the Queenside / Center.  Masih dalam langkah teks, idenya di Pembelaan Sisilia adalah, putih bermain tajam di sayap raja dan hitam di sayap ratu.\n",
+        "9... a6 10. f4 e5": "This is unusual. 10...Qc7, 10...Nxd4, 10...Bd7, 10...Nd7 are the typical choices. I do not have access to the opening database but I do not recall seeing this move before at this exact order. If Black chooses to play e5, it is usually done right away instead of e6 first then e5.\n",
+        "11. Nf5 Bxf5 12. exf5": "Now White potentially has a very strong Kingside attack with g4, g5, etc. Black must find a way to create pressure on the Queenside or else Black will have problems.\n",
+        "12... Qa5": "One option is to launch 13. g4 here.\n",
+        "13. Kb1": "Now Judit's Knight on c3 is free to go to d5 at the right moment.\n",
+        "13... Rfd8": "Gregory has about 54 minutes, Judit has about 1:20 minutes.\n",
+        "14. Bf3 exf4 15. Bxf4 Qxf5": "White sacrifices a pawn but she has plenty of compensation for it in the form of a Bishop pair, a weak d6 pawn, space advantage, and superior piece placement.\n",
+        "16. g4 Qa5": "Black could take the pawn of g4 but Gregory decided that it would be too risky to open up the Kingside for Judit.\n",
+        "17. g5 Nd7 18. Bd5 Nce5 19. Qf2": "At this point, Judit has about 49 minutes while Gregory has about 39 minutes.\n",
+        "19... Rac8": "20. h4 is a strong option here.\n",
+        "20. Bxe5 Nxe5 21. Ne4 Kh8 22. h4 Nc4 23. Rhe1 Nb6": "24. Bxb7 looks good here.\n",
+        "24. Bxb7": "24...Rb8 25. Qxf7 Bf8 26. Bd5 Nxd5 27. Qxd5 Qxd5 28. Rxd5 and White has a big edge in this endgame.\n",
+        "24... Rcb8 25. Qxf7": "Black is in trouble here.\n",
+        "25... Na4": "It looks dangerous but White can comfortably take the Bishop on e7.\n",
+        "26. Qxe7": "If 26...Qb6 27. b3 Rxb7 28. Qe6+-. If 26...Re8 27. Qxd6 Rxb7 28. b3+-\n",
+        "26... Qb6 27. b3 Rxb7 28. Qe6 Qb4": "This makes things worse as 29. Nxd6 gives White an overwhelming advantage.\n",
+        "29. Nxd6 Nc3+ 30. Ka1 Rf8": "31. Rf1 and it is basically over for Black. 31...Rg8 32. Rde1 +-\n",
+        "31. Nxb7": "This also wins comfortably as the endgame is hopeless.\n",
+        "31... Nxd1 32. Rxd1 Qxb7 33. Kb2": "black resign to see inevitable queen+rook combination attack that able to force queen exchange or checkmate, black will playing minus two pawns as the ending. 1-0. Hitam menyerah karena kombinasi serangan ratu+benteng putih yang sanggup memaksa pertukaran materi, di ujung2 nya putih akan bermain dengan unggul 2 bidak."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-theme-match-south-carolina?gm=29878",
+    "gameName": "Sicilian Theme Match, South Carolina",
+    "players": "Polgar, Judit  vs. Kaidanov, Gregory ",
+    "opening": "Sicilian (B80), Scheveningen, English variation"
+}

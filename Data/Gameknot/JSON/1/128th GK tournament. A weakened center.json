@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 c5": " Trying to avoid the most classical (and safer) French defence lines, allowing for a change of gears in case white decides to advance on d5.",
+        "3. Nf3 cxd4": "Instead of going for a \"frenchier\" approach with 3...d5. Now it is transformed into a Sicilian (no idea of the variant) ",
+        "4. Nxd4 Nc6 5. Nc3 Bb4": "I don't think this is good at this time. It is played on the French lines but I don't remember being a common option during the Sicilian opening phase. 5...Bc5 or Be7 seemed (now, to me) more adequate. also, a6 is played very often here to avoid the next move, that white, wisely, uses to his advantage.",
+        "6. Ndb5": "This is also common if a6 has not been played. See now that the weakness on d6 starts to be clearer and clearer.",
+        "6... a6": "?\nJust helping white with his plan. d5 was a must, even when that pawn might look like a weak one.",
+        "7. Nd6+ Kf8": "Thinking that maybe later I can do something about that N there. Did not see much better chances after the exchange on d6. White has achieved a clear superiority in just 7 moves! This shows how important is to know not only the openings theory but also the concepts of development, including the center.",
+        "8. a3": "White now has just to start reinforcing d6 and then throw all the firepower onto the undeveloped BK flank.",
+        "8... Bxc3+": "This at least creates a weakened pawn flank. Not enough compensation though.",
+        "9. bxc3 Qf6": "Trying to trick my opponent into 10.Nxc8, Rxc8; 11.Qxd7 and 11...Qxc3+, but at this level, small chances to get that bluff reaching a safe port. An alternative 9...e5 doesn't seem to alleviate things more.",
+        "10. Qd3 Nge7 11. Be2 Ng6": "Several N moves that lead to nothing. I cant even try things like h5. Notice that Bc8 is trapped for a long time, pretty useless there. White has no need to change its situation there.",
+        "12. O-O Nge5 13. Qg3": "White is now threatening so many things, and you can foresee several winning plans here that I just threw the towel off. Things like 14.Bg5, or h4 to get the bishop onto a3, or else f4 with e5 were just too much for me, so I tried to focus on the rest of the games of this round.\nHope some of you have learned a lesson: develop properly and do not leave your center exposed to an attack early in the game, it will mostly cost you the game!\nNicely played by laslandes!"
+    },
+    "url": "https://gameknot.com/annotation.pl/128th-gk-tournament-a-weakened-center?gm=60285",
+    "gameName": "128th GK tournament. A weakened center",
+    "players": "laslandes (1962) vs. kenderfender (1886)",
+    "opening": "French defence (C00)"
+}

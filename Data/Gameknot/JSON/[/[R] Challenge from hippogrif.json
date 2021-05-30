@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. c4": "Hello mate. I'm annotating this to help you in future games. I've been playing a lot in the last couple of years and I reckon I'm a bit better than in my university days. Therefore I reckon you'll need some advice if you want to stand a chance of beating me. ",
+        "1... e5": "This opening move is fine. ",
+        "2. Nc3 d6": "This is ok, but bear in mind if you play this that you're blocking an exit for the bishop on f8. ",
+        "3. g3 Nf6": "Good move. You'll probably remember that you want to 'develop' pieces at this stage. That is, you need to get knights and bishops into the centre. ",
+        "4. Bg2": "You need to watch this bishop. It's now pointed directly at the pawn on b7. Your rook is behind this! ",
+        "4... Bg4": "A mistake. The bishop was defending the aforementioned pawn. A better move would have been Nc6 (moving the knight on b8 to c6). This develops another piece and defends against my bishop. ",
+        "5. Bxb7": "Nothing can save the rook now. ",
+        "5... e4 6. Bxa8 Nbd7": "Your undefended pawn is in danger now. ",
+        "7. Bxe4 Nc5": "This move's ok as far as I can see. At this stage you really need to think about getting that bishop out and castling. This also brings your rook into play. Those pieces are no good to you stuck in the corner. ",
+        "8. d3": "Defending my bishop. ",
+        "8... d5": "This is just giving me another pawn. ",
+        "9. Bxd5 Qe7": "Maybe you were thinking about attacking e2? I'm not worried because it's defended by the queen and both knights. The downside for you is that it blocks in that bishop. ",
+        "10. Nf3": "Bringing the knight into play. This releases the 'pin' you had on my queen (i.e. that I couldn't move the pawn on e2 because of the threat from your bish). ",
+        "10... Bxf3": "This would be a great move if it wasn't for my bishop on d5. ",
+        "11. Bxf3": "A general rule of thumb is not to trade pieces when you're already behind. It just increases my advantage coz you need all the pieces you can get. ",
+        "11... Qe6": "Maybe you're thinking about finally unleashing that bishop. ",
+        "12. O-O": "Castling is generally sth you want to do early. It tucks the king up safely and - if you've cleared the back row of bishops, knights and queens - 'connects' the rooks. ",
+        "12... Qa6": "Not really sure what you're driving at here mate. ",
+        "13. Nb5": "Watch out for knights! They're tricky little bastards. Here I'm hoping you'll let me move it to c7, thus forking your poor queen. ",
+        "13... c6 14. Nc7+": "You let me. As soon as a knight moves anywhere near your queen your brain should be on fork alert. Can your opponent check you and create a fork? Can he fork queen and rook? ",
+        "14... Kd7 15. Nxa6": "You're almost certainly buggered now. ",
+        "15... Nxa6 16. Qa4 Nb8 17. Qxa7+": "I'm now threatening your knight. You should look into possibilities of defending it. If you move the king to c6 I won't be able to take it. ",
+        "17... Ke6 18. Qxb8": "A free rook. ",
+        "18... Nd7 19. Qe8+ Kd6 20. Bf4+": "Can't see much you can do now. ",
+        "20... Kc5 21. Qxd7 Kb6 22. Qxc6+": "The end is nigh! "
+    },
+    "url": "https://gameknot.com/annotation.pl/r-challenge-from-hippogrif?gm=24329",
+    "gameName": "[R] Challenge from hippogrif",
+    "players": "wil2711 (1558) vs. hippogrif (1200)",
+    "opening": "English, Troeger defence (A21)"
+}

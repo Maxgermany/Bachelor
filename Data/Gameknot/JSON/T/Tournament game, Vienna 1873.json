@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6": "Book moves all in the Giuoco Piano.",
+        "5. d4 Bxd4 6. Nxd4 Nxd4": "Dr. Fleissig naturally accepts the gambit. He is a man of honor!",
+        "7. f4 d6": "Supporting the KP solidly.",
+        "8. fxe5 dxe5": "Completing the exchange of Pawns.",
+        "9. Bg5 Be6": "Offering to exchange B's.",
+        "10. Na3 Qe7": "Clearing the last piece off the first rank. He can now castle on either side.",
+        "11. c3 Bxc4": "Initiating an exchange of pieces.",
+        "12. Nxc4 Ne6": "Threatening the pinning Bishop.",
+        "13. Bxf6 gxf6": "Opening the KN file for his Rook to aim directly at Anderssen's King.",
+        "14. Kh1 Qc5": "Attacking the Knight and activating his Q.",
+        "15. Na3 Rg8": "Seizing the open line.",
+        "16. Rxf6 Nf4": "Adding force to his attack on the vulnerable K-side.",
+        "17. Rf5 Qf2": "Threatening 18... QxP mate!",
+        "18. Qf3 Qxb2": "Winning a Pawn and forking two White pieces. ",
+        "19. Rxe5+ Ne6": "Sealing off White's attempted counter-attack.",
+        "20. Rf1 O-O-O": "Securing his King and seizing the open file with his QR.",
+        "21. Ra5 Rd3": "The Rook is immune [22 QxR??? QxNP mate!]",
+        "22. g3 Rxf3": "Gaining a decisive material advantage.",
+        "23. Rxf3 Qc1+": "Closing in.",
+        "24. Kg2 Nf4+": "Anderssen resigns. [25 QxN QxR and the pinned KNP cannot retake, or 25 K-B2 Q-Q7 ch with mate in the offing.]"
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-game-vienna-1873?gm=37637",
+    "gameName": "Tournament game, Vienna 1873",
+    "players": "Adolph Anderssen  vs. Dr. Maximilian Fleissig ",
+    "opening": "Giuoco Piano (C50)"
+}

@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. e4 g6": "My feeling is that g6 is a weak response, as it immediately increases white's advantate with space, development in the center, and already defines your intentions on the kingside.  I would try a more open and active response to 1. e4, perhaps e5 or c5.",
+        "2. Bc4 Bg7": "Notice how white is building control of the center.",
+        "3. d4 e6 4. e5 Ne7": "Your dsB is locked in, and the knight is alreaady constricted.",
+        "5. Nf3 h6": "White is playing a conventional opening.  Check the database and you can see the usual moves that are played, and consider why they are typical.  Why are you playing h6?  Your queenside pieces are not yet developed.  ",
+        "6. Be3 O-O": "Your kingside is hemmed in.  White already has a major advantage in space, activity, and development.",
+        "7. Nbd2 a5": "Why the pawn move?  You need to develop your pieces.  Usually consider knights before bishops, bishops before rooks etc.  Control of the center is important in the openings and middlegames.  Pawn moves are usually weak unless they enable development of your pieces.",
+        "8. c3 b6": "Your queenside pieces are still hemmed in.  What is your plan to develop them and gain greater activity?",
+        "9. Bd3": "White is trying to figure out what to do.  ",
+        "9... Nbc6": "Okay, knight out.  This is good.  The game is in a precarious position at this point.  Much can be done to improve the opening position in subsequent games.  Additional comments are welcome by anyone.  ",
+        "10. Ne4 d5": "d5 is good.",
+        "11. Ng3 Bb7 12. Qd2 g5": "Why are you moving this pawn?  Generally you don't want to advance pawns, unless you already have an advantage with pieces and activity.  My first objective in this position would be to gain equality, and then after that to gain the initiative.  ",
+        "13. Nh5": "The knight move was allowed by the pawn advance.",
+        "13... f5": "Why moving f5?",
+        "14. exf6 e.p. Bxf6 15. Nxg5 hxg5 16. Bxg5 Bxg5 17. Qxg5+": "It's a very tough position at this point.",
+        "17... Kf7 18. Qg7+ Ke8 19. Nf6+ Rxf6 20. Qxf6 Kd7 21. O-O Nf5 22. Rae1": "White blundered, losing the queen.  A simple but devastating mistake.",
+        "22... Qxf6 23. Re2 Re8 24. Rfe1 Ng7 25. a3 Nh5": "White had a much better position, but blundered the queen and lost."
+    },
+    "url": "https://gameknot.com/annotation.pl/game-for-analysis?gm=46003",
+    "gameName": "game for analysis",
+    "players": "navkanth (1060) vs. black (1245)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

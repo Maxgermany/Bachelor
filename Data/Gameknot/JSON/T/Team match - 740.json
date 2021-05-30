@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e6 2. Nf3": "a possible move...",
+        "2... Nf6 3. e5 Nd5 4. c4 Nb6 5. d4 Nc6": "look like the alekhin defence...",
+        "6. Be3 Bb4+ 7. Nbd2 O-O 8. Bd3 d6": "but the c8 bishop is not in the game. by that diference white has a great center.",
+        "9. Ng5": "wants the h7 pawn. it looks like a great attack on the black king and there is no piece to defend it.",
+        "9... dxe5": "?? h6 or g6 must be considered here.",
+        "10. Bxh7+ Kh8 11. Qh5": "a great attack.",
+        "11... Bxd2+ 12. Bxd2 g6": "only move?",
+        "13. Bxg6+ Kg7 14. Qh7+": "?? missed mate in 3 or taking the queen: 14. Nxe6 ! Kf6 [14... Bxe6 or 14... fxe6 15. Qh6  Kf6 (15... Kg8 16. Qh7#) 16. Bg5#] 15. Nxd8.",
+        "14... Kf6 15. Ne4+ Ke7 16. Bg5+": "winning the queen. nothing to see from here on...",
+        "16... Ke8 17. Bxd8 Kxd8 18. Bxf7 Nxd4 19. O-O Nxc4 20. Qg7 Rxf7 21. Qxf7 Ne2+ 22. Kh1 Nd4 23. Nf6 c6 24. Ng8 Bd7 25. Qf8+ Kc7 26. Qxa8 Nd2 27. Rfd1 Ne4 28. Rdc1 Nxf2+ 29. Kg1 Ng4 30. Rc4 Ne2+ 31. Kf1 Ne3+ 32. Kxe2 Nxc4 33. Qxa7 Be8 34. Qc5 Bh5+ 35. Kf2 Nd6 36. Qxe5 Bf7 37. Nf6 Bg6 38. Rd1 Kb6 39. Rxd6 Ka6 40. b4 b6 41. Rxc6 Bf5 42. Rc7 Bd3 43. a4 Bc4 44. Nd7 Bd5 45. Nb8#": "the end."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13499",
+    "gameName": "Team match",
+    "players": "zwitter (1413) vs. ankurjohari1984 (1389)",
+    "opening": "French defence (C00)"
+}

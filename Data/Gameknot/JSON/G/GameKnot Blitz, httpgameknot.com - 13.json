@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4": "My First Annotated game, all comments and tips greatly appreciated",
+        "1... c5": "Sicilian defence, one of my favorites",
+        "2. Nf3 Nc6 3. Bc4": "Unusual move by white here, I was unable to find this variant in the database. More common would be d4 as white would gain advantage in the centre. This also breaks the rule of knights before bishops",
+        "3... e6": "standard defense, I guess",
+        "4. d4": "Now it comes.",
+        "4... h6": "defended here rather than taking d4 pawn as I would lose, but hoping for d5 from white",
+        "5. d5 Na5 6. Be2 exd5 7. exd5 Nf6": "I feel this move was a mistake by me. Whites central pawn is going to be my undoing",
+        "8. O-O b6": "hoping to get the bishop onto the d5 pawn",
+        "9. Bf4 d6": "lock it in place",
+        "10. Bb5+ Bd7 11. Re1+ Be7 12. Bxd7+": "I think this was a mistake by white. Perhaps 12 Bxd6 Bxb5 13 Rxe7+ Kf8 14 Rd7+ and the loss of my queen",
+        "12... Qxd7 13. Nc3 O-O-O": "I felt safer castling queen side in this situation due to the threat of the bishop opening up my defense on the king side had I castled the opp side",
+        "14. Qd3": "white spots my weakness but better is 14 Qe2 threatening the check in the corner and Qxe7",
+        "14... c4": "easily defended",
+        "15. Qe2": "now e7 is defendable",
+        "15... Rhe8": "In hindsight I should have done Rde8 here.",
+        "16. a4 Nh5": "hoping to open up my bishop here",
+        "17. Qd2 Nxf4 18. Qxf4 g5 19. Qd2 Bf6 20. Nd4 h5 21. Reb1 h4 22. b3 cxb3 23. cxb3 Nb7 24. Nc6 Nc5 25. Ra2 Ne4 26. Nxe4 Rxe4 27. Nxd8 Rd4 28. Qe2 Bxd8 29. Rc1+ Bc7 30. a5 b5 31. Qe3 Qg4 32. Rac2 Rd1+": "Game!"
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=61225",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "krishnas83  vs. ic3man1970 ",
+    "opening": "Sicilian defence (B30)"
+}

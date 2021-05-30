@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "Off we go",
+        "1... c6": "mmm",
+        "2. Nf3 g6 3. c3 Bg7 4. Bf4 Nf6 5. Nbd2 O-O 6. e4": "So I go with e4 for a change, I think black is going to have difficulties developing his other pieces",
+        "6... d5": "As expected",
+        "7. e5 Nh5 8. Be3 b5": "I did expect the bishop to move here so black could develop th knight via d7",
+        "9. Bd3 a5": "Queen side storm, am going to put my king away and complete my initial development",
+        "10. O-O f5": "Black is certainly aggressive with the pawns, but I think my pieces are better placed",
+        "11. exf6 e.p. exf6 12. a4": "time to give black something to think about",
+        "12... b4 13. cxb4 axb4": "I now have a passed pawn, well if I can get rid of everything else first ;)",
+        "14. Nh4": "Now to switch to the K side",
+        "14... f5 15. Ndf3 f4": "Black is opening up his K side, and that Bishop and Knight have still to move",
+        "16. Bd2 Bxd4": "I am going to get rid of this bishop, takes away a defensive piece for the black king, and will give my black bishop the edge hopefully",
+        "17. Nxd4 Qxh4 18. Bxb4 Re8 19. Re1": "Black's pieces are not working well together",
+        "19... Nf6": "Swapping makes sense especially as it put all of black's minor pieces on the back rank away from the action",
+        "20. Rxe8+ Nxe8 21. Qe2": "White takes control of the open file",
+        "21... Bd7": "Time to chase the queen",
+        "22. Be7 Qh6 23. Ne6 g5": "Strange move, white just takes it, and black's king is exposed even further",
+        "24. Nxg5 Nf6 25. h4": "Black doesn't take the bait",
+        "25... Bg4 26. f3": "pawn power",
+        "26... Nbd7": "Move 26 and the other knight finally enters the fray, moving te bishop would have been better...",
+        "27. fxg4 Re8": "This game is all but over",
+        "28. Qe6+ Kg7 29. Qf7+": "Forcing the king into the corner",
+        "29... Kh8 30. Bxf6+ Nxf6 31. Qxe8+": "Balck resigns"
+    },
+    "url": "https://gameknot.com/annotation.pl/68th-gk-tournament?gm=30807",
+    "gameName": "68th GK tournament",
+    "players": "dwardman (1865) vs. reskay (1537)",
+    "opening": "Queen's pawn (A40)"
+}

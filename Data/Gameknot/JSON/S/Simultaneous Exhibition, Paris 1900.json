@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Pillsbury intends to drive his KBP forward, so he doesn't yet move his KN.",
+        "2... Nc6": "The amateur responds with symmetry, unsure of how to handle Pillsbury's unusual opening.",
+        "3. f4": "In effect, a delayed King's Gambit.",
+        "3... d6": "Declining the gambit, a move that even by a grandmaster leads to equality at best. The proper way to refute the King's Gambit is to accept the Pawn and return it later for a positional advantage.",
+        "4. Nf3": "Now that his KBP is advanced, Pillsbury can develop this Knight.",
+        "4... a6": "A wasted move. The pin was no real threat.",
+        "5. Bc4": "Pointing balefully at the K-side.",
+        "5... Bg4": "Apparently the amateur is unaware of the Legal pitfall.",
+        "6. fxe5": "The junction point. The correct reply is 6... PxP!",
+        "6... Nxe5": "This move loses the game, either quickly or slowly.",
+        "7. Nxe5": "Black can lose slowly by conceding a piece: 7... PxN 8 QxB, and White has a long but easy win with his material advantage.",
+        "7... Bxd1": "Black chooses to die quickly. Mate in 2 follows.",
+        "8. Bxf7+": "Forcing Black's response.",
+        "8... Ke7": "The final gasp.",
+        "9. Nd5#": "A classic trap, well executed by Pillsbury."
+    },
+    "url": "https://gameknot.com/annotation.pl/simultaneous-exhibition-paris-1900?gm=35862",
+    "gameName": "Simultaneous Exhibition, Paris 1900",
+    "players": "Harry N. Pillsbury  vs. Amateur ",
+    "opening": "Vienna gambit (C25)"
+}

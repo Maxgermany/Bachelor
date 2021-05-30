@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6": "A four knights opening.  Old but it can be interesting.\n",
+        "4. Bb5 d6 5. O-O a6 6. Bxc6+ bxc6": "White has to take 6. Ba4 is met by 6. ..., b5,  7. Bb3, b4 and the pawn on e4 falls.  \n",
+        "7. d4": "Threatening 8.  d4xe5, d6xe5, 9. Qd1xQd8, Kxd8  10. Nxe5\n",
+        "7... exd4 8. Nxd4 c5": "The knight on d4 has a nice central position so black kicks the knight.  Going back to f3 allows the pin with 9. ..., Bg4 and other retreats don't look all that appealing.\n",
+        "9. Nf5 Bxf5 10. exf5": "Yes the pawn is weak and it actually could impede a king side assault instead of help it, but the e-file is open.  Black should play Be7 and castle before any real pressure builds.  \n",
+        "10... Qd7 11. Qf3": "Black immediately attacks the f pawn, but this is a mistake. White defends the pawn and attacks the rook on a8.  This is a slight gain of time that white needs.  ( Although Re1 check immediately might have been even better. )",
+        "11... Rb8": "A natural move that was expected it seems to attack the b2 pawn and saves the rook.  However it leaves the pawn on a6 undefended and if black had played 11. ..., Ra7 he would've had an easy way to counter the coming pin.\n",
+        "12. Re1+ Be7 13. Qe2": "Black wants to castle but that would leave the bishop on e7 vulnerable.  The pawn on f5 is defended indirectly because the capture on e7 would be mate and white also can now take the pawn on a6.\n",
+        "13... Ng8 14. Nd5": "Black perhaps wants to take on f5 and he also wants to increase the protection for the bishop on e7.  However 14. Nd5 keeps the pressure up.\n",
+        "14... c6": "If the rook were on a7 this move would have solved all his problems earlier.  But hindsight is always wonderful.\n",
+        "15. Nxe7 Nxe7": "Taking with the queen allows 16. Qd1 (or Qd2) winning the queen for a rook so he has to recapture with the knight.\n",
+        "16. f6": "This is obvious.  By threatening the pinned knight black must take and give up any hopes of a safe castled position.\n",
+        "16... gxf6 17. b3": "White could take on a6 but keeping the pressure on e7 and focusing the bishop on f6 is the priority.",
+        "17... Kd8 18. Bb2 Ng8": "This is the only way to defend the f6 pawn. Black has spent a lot of tempo's on the knight to have it back on its original square.\n",
+        "19. Qxa6 h5": "White decides to get the material even and create a passed pawn on the a-file that may come in useful.  At first I thought black might trying to start a king side attack, but actually he wants to protect his f pawn and get out of the potential fork.\n",
+        "20. Rad1 d5": "Closing off the bishop's diagonal is a good idea.  I think he should have played this a move earlier.",
+        "21. Qa4": "This indirectly prevents d4 since 21. ..., d4, 22, Bxd4, c5xBd4, 23. Rxd4  pins the queen to the king and wins the queen and two pawns for the bishop and rook.",
+        "21... Rh6 22. Qh4 Qf5": "Black still wants to protect f6 and redevelop the knight.  There is also a potential threat to the pawn on c2.  White has a winning move but misses it.\n",
+        "23. Rd3 d4": "White was thinking of Rf3 but now he finds the winning move.\n",
+        "24. Qg3": "The knight and the rook on b8 both hang and black can't save both.\n",
+        "24... Rb7 25. Qxg8+ Kc7 26. Re7+ Kb6 27. Qd8+ Ka6 28. Qa8+ Kb6 29. Rxb7#": "Black tried to save the rook but the rook down the e-file was just too much.  I hope you enjoyed the game.  If you have any thoughts please comment.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/pressure-on-the-e-file?gm=63233",
+    "gameName": "Pressure on the e-file",
+    "players": "jmd1952 (1200) vs. guia (1725)",
+    "opening": "Petrov three knights game (C42)"
+}

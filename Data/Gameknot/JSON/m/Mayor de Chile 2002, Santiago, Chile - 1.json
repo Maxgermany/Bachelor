@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c4": "Alternative variation: 6.c3 [ Es la continuaci\u00f3n principal. La jugada ensayada en la partida tiene por objetivo llevar el planteo a una formaci\u00f3n Maroczy, con los peones en las casillas blancas, ahora que el alfil del mismo color ha sido cambiado, las negras no tendr\u00e1n protecci\u00f3n en ellas. ] \n",
+        "6... Ne5": "Ahora me sent\u00ed inc\u00f3mod ante la \"amenaza\" posicional 7..Dg4!? doblando los peones en f3, ya que la blancas no quieren tomar el caballo de \"e5\" por la presi\u00f3n que tendr\u00edan las negras por la columna \"d\". En ese instante me arrepent\u00ed de haber jugado esta variante.\nAlternative variation: \n",
+        "7. Qe2 g6": "Alternative variation: 7...Qg4 [ Era perfectamente jugable, las blancas tienen algo de ventaja de espacio, las negras tendr\u00e1n mejor rey y la casilla c5 si las blancas insisten en jugar con d4.] 8.Nc3 Nxf3+ 9.Qxf3 Qxf3 10.gxf3 \n",
+        "8. b3": "Asum\u00ed que como Gabriel no la hizo antes, ahora tampoco jugar\u00eda Dg4. Ve\u00eda que tendr\u00eda ciertos problemas con los descubiertos, pero me interesaba m\u00e1s activar mis piezas en torno al posible ataque sobre el flanco de rey por medio de f4-f5. Por otro lado, en esta formaci\u00f3n de peones, b3 en alg\u00fan momento se realiza.\n",
+        "8... Bg7 9. Nc3 e6 10. Bb2 Ne7 11. Na4": "Alternative variation: 11.Ng5 [De conocer las partidas de Morozevich la hubiese jugado. Era una continuaci\u00f3n m\u00e1s directa, acorde al plan comentando antes, que involucra el sacrificio de calidad en una de sus variantes:] 11...N7c6 12.f4 Nd4 13.Qe3 Nc2 14.Qh3 Nc6 15.f5 \n",
+        "11... b6 12. Ne1 O-O 13. f4 Ne5c6 14. Bxg7 Kxg7 15. Nc2": "Ahora las negras tienen la oportunidad  de jugar 15.., f5!? aprovechando la centralizaci\u00f3n de sus piezas. Sin embargo, Gabriel apunta hacia la ruptura en d5, la cual es perfectamente l\u00f3gica, pero d\u00e9bil en la parte pr\u00e1ctica, ya que me dar\u00e1 m\u00e1s \"cuerda\" en el flanco de rey.\n",
+        "15... d5 16. exd5": "Apart\u00e1ndome del camino pre concebido. V\u00ed que me quedaba con un c\u00f3modo juego contra un pe\u00f3n aislado luego de los cambios y el golpe en \"d4\". Pienso que era mejor ser consecuente y jugar 16 f5, por ejemplo:\nAlternative variation: 16.f5 gxf5 17.cxd5 exd5 18.exf5 Kh8 19.Qh5 \n",
+        "16... exd5 17. d4 dxc4": "Deber\u00eda ser mejor la captura en d4. La posici\u00f3n alcanzada claramente no es lo que buscan las blancas. \n",
+        "18. dxc5 b5": "? Parece que omit\u00ed 18.. Dd3 del manojo de variantes que estaba revisando antes de jugar el cambio en \"d5\". En r\u00edo revuelto las blancas pescar\u00e1n un pe\u00f3n, ahorrando la posibilidad de atacar con el prometido \"f5\".\n",
+        "19. Nc3 Nd5 20. Nxb5 cxb3 21. axb3 Rab8 22. Nbd4 Rfe8 23. Qf2": "\u00c2\u00a1No pierdo la esperanza de jugar f5! sobre todo ahora que la torre dej\u00f3 la columna \"f\". \n",
+        "23... Re4 24. f5": "\u00c2\u00a1Ah\u00ed est\u00e1! por fin, eso s\u00ed, estoy sacrificando una calidad al permitir Ce3 por parte de las negras, pero el ataque ser\u00e1 tan fuerte que estar\u00e1 compensado. En este momento se justifica el cambio de alfiles de casillas negras para debilitar el flanco.\n",
+        "24... Nxd4 25. Nxd4 Ne3 26. fxg6 hxg6 27. Qf6+ Kg8 28. Nc6 Rf8 29. Rf3": "Tira pinta por s\u00ed misma esta jugada, sin embargo 29.., Cd1 pone las cosas en su lugar. De todas maneras, pronto viene Ta7 y los peones del flanco de dama ser\u00e1n los verdugos de las negras. \n",
+        "29... Rfe8": "Craso error entrando en los apuros de tiempo, Gabriel no ve m\u00e1s que el sacrificio de la dama alargando la agon\u00eda. \n",
+        "30. Rh3 Qxh3 31. gxh3 Nd5 32. Qf3 Nf4 33. Nxa7 Ne2+ 34. Kh1 Nd4 35. Qd3 Nf5 36. c6 Re4e3 37. Qd1 Rc3 38. Rc1": "Y las negran rindieron. \n"
+    },
+    "url": "https://gameknot.com/annotation.pl/mayor-de-chile-2002-santiago-chile?gm=36145",
+    "gameName": "Mayor de Chile 2002, Santiago, Chile",
+    "players": "Mamani, H\u00e9ctor  vs. Lenoir, Gabriel ",
+    "opening": "Sicilian (B52), Canal-Sokolsky attack, Bronstein gambit"
+}

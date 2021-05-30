@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "annotations by micah wiesner. keep in mind this is a blitz game so there are some blunders but any feedback would still be very helpful",
+        "1... Nf6": "I haven't played too many queen pawn games in my life so to keep it sharp I opted for a gambit, the Gibbens Gambit, played often by Clyde Nakamura to make the game a tad more tactical",
+        "2. g4 Nxg4": "deflecting the knight from the center and opening up a strong g-file for my rooks. Already it is clear I must castle long ",
+        "3. e4 d6 4. f3": "4. Be2 h5 5. h3 is also a common line but I didn't know that at the time and also was very content at the idea of controlling such a large center",
+        "4... Nf6 5. Nc3 g6 6. Bg5": "6. Be3 may be even stronger but I figured if I was kicked with h6 blacks kingside would just be weakened",
+        "6... Bg7 7. Qd2 O-O": "I think my opponent may have castled too soon. Now I am set up to pick apart his kingside pawn structure, exchange his defenders by his kind and he will have a very exposed king",
+        "8. Bc4": "pinning the f7 pawn",
+        "8... c5": "looking for d5 to immobilize my bishop",
+        "9. Nge2 cxd4 10. Nxd4 Nc6 11. O-O-O": "My king is safe I still control the center fairly well and my pieces are all on great squares",
+        "11... Nxd4 12. Qxd4 Ng4": "looking for the rook fork on f2",
+        "13. Qd2 Ne5": "With Ne5 black's knight gains a great square and kicks my bishop but also becomes a possible target to my pawns as I plan on opening up the kingside by exchanging my e and f pawn",
+        "14. Be2 Qa5": "adding pressure to c3 but dropping the center pawns. what a blunder",
+        "15. Bxe7 Re8 16. Bxd6 Be6": "black is now down 1 pawn but has great piece placement with bishops on adjacent diagonals pointed at my king. ",
+        "17. f4 Nc6 18. e5": "This essentially ruins blacks plan for any attack. My dark-squared bishop also helps put a cap on the d-file and any ideas of counterplay look to have gone down the drain",
+        "18... Nb4 19. a3 Nc6 20. h4": "with my king safe it is finally time to go to work on his",
+        "20... Bf5": "20. h5 may be better for him but bear in mind i still have possibilities with f5 in the future",
+        "21. h5 g5 22. h6 Bf8 23. Nd5 Bxd6 24. Nf6+ Kf8 25. Qxd6+ Ne7": "black's king is essentially trapped but what to do now? I feel like my next few moves may have been a bit too slow and allowed black to stay in the game longer than he should have",
+        "26. Rhg1 Rad8 27. Qb4 Qxb4 28. axb4": "I felt like black had too many weak pieces to defend at this point so simplifying the game by eliminating the queens wouldn't make much of a difference for me",
+        "28... Rxd1+ 29. Bxd1": "protecting c2 and keeping the threat of Rxg5",
+        "29... Rc8 30. Rxg5 Bg6 31. c3 Nf5": "stopping the threat of f5... but not for long",
+        "32. Bc2 Ne3": "a terrible blunder ",
+        "33. f5 Nxc2 34. fxg6 fxg6": "if hxg6 then 35. h7",
+        "35. Nxh7+ Kf7 36. Kxc2 Rc4 37. Nf6 Rf4": "everything after this point is just endgames tactics which i'm not very good at as you will see, but i squeeze out the win",
+        "38. h7 Rf2+ 39. Kb3 Rh2 40. Rg4 Kg7 41. Re4 Kf7 42. Rd4 Ke6 43. Rd8": "black resigns 1-0 :) overall I think that the gibbins-weidenhagen gambit is quite playable at my level and is also a fantastic way to get people out of book. From the second move you'll be playing your own game !! :)"
+    },
+    "url": "https://gameknot.com/annotation.pl/gibbins-weidenhagen-gambit?gm=32451",
+    "gameName": "Gibbins-Weidenhagen Gambit",
+    "players": "Wiesner14 (1529) vs. Mandy007 (1683)",
+    "opening": "Queen's pawn (A45), Bronstein gambit"
+}

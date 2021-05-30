@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nf6 6. Bb5+ Bd7 7. Qe2+ Be7 8. dxc5 O-O 9. Nb3 Re8 10. Be3 a6 11. Bd3 a5 12. a4 Na6 13. c6 Bxc6 14. Nfd4 Bd7 15. Bb5 Ng4 16. O-O Qc7 17. g3 Nxe3 18. Qxe3 Bf6 19. Qd3": "I was expecting 19. Qf3  Nb4 and next 20...Nc6, which parallels Karpov-Bareev, Tilburg 1994.  But 19. Qd3 let's black's queen's knight into action quickly. It seems to shift the momentum now.",
+        "19... Nb4 20. Qf3 Bxb5 21. Nxb5 Qxc2 22. Rac1 Qe2 23. Qf5 Rad8 24. Rfe1 Qxe1+ 25. Rxe1 Rxe1+ 26. Kg2 b6 27. h4": "27. h4  Best. If 27. Qf3, then 27...Nc2 and ...d4 and white is facing a dangerous passed pawn.",
+        "27... Re5 28. Qg4 Re4 29. Qf3 Nc2 30. Kh3 Nd4": "30...Nd4  This is my attempt to exchange a few pieces with the hope of pairing the rooks and the passed pawn against the queen.  It seemed to be a formidable threat, so that explains White's 32nd move.",
+        "31. Nb3xd4 Bxd4 32. Nc7": "It is important in this position for black to watch his first rank, since the white queen can always find a way to spring loose and checkmate the black king effortlessly.  That theme develops into a significant threat shortly. ",
+        "32... Bxb2 33. Nxd5 Re6": "The computer prefers for me to take the a-pawn 33...Rxa4, but 34. Qb3! looked too strong for me to counter all the threats.",
+        "34. Nc7 Red6 35. Nb5 Re6 36. Qf4 Be5 37. Qg5 Bf6 38. Qf5 g6": "38....g6 gives my king a little \"luft\" or an escape hatch.  That is, until he starts to mount his h-pawn mini-storm.",
+        "39. Qf4 Kg7 40. g4": "40. g4  This gives the rooks a chance to mount a very serious challenge now, as long as Black's king can avoid getting checkmated first!",
+        "40... Rd3+ 41. Kg2 Re2 42. h5 Be5": "42...Be5  I now had to calculate the moves precisely.  I could not afford to abandon the king's protection of the bishop, but that is precisely why the coming 43.h6+ is so effective.  And so I had to rescue the bishop first, knowing I would then have to send my King on a merry chase around the board.  Ironically, the following rain of checks against me gives me a chance to hide my king behind the bishop, just long enough to mount what will be the death blow to the white king. ",
+        "43. h6+ Kf8 44. Qc4 Rdd2": "44....Aligning the battering ram now against the white king.  Only giving up the white queen can stop it now.",
+        "45. Qc8+ Ke7 46. Qb7+ Kf6 47. Qxb6+ Kg5 48. Qc5 Rexf2+ 49. Kg1 Rfg2+ 50. Kh1": "50.  Kh1.  Seemingly giving up, since this is now a mate in two.  White still has life after 50. Kf1, but for how long?",
+        "50... Rgh2+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=38491",
+    "gameName": "Team match",
+    "players": "diedjee (1753) vs. huckjim (1838)",
+    "opening": "French (C09), Tarrasch, open variation, main line"
+}

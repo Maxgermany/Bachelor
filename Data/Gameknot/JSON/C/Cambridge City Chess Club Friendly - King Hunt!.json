@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone, I found this game in my old folder.  This, I suppose you could call a king hunt.  I did not get to deliver checkmate but I did net a big material gain as a result of it which did at least force eventual resignation.\r\n\r\nTo put the result of this game into perspective, well, it was my second game against Andrew that evening.  It was Andrew's first evening and he had an estimated BCF rating of 120 - translated into ELO above.  The first game which I played against him as black ended in disaster as follows:-\r\n\r\n1. d4 d5 \r\n2. c4 dxc4 \r\n3. Nc3 Nf6 \r\n4. e4 e5 \r\n5. d5 Bb4 \r\n6. Qa4  c6 \r\n7. Qxb4 cxd5 \r\n8. exd5 Nxd5 \r\n9. Qb5  Resigns\r\n",
+        "1... g6 2. f4 d6 3. Nf3 Bg7 4. d4": "4. d4 - this is the Austrian Attack which can arise from both the Pirc and Robatsch Defense.",
+        "4... Nf6 5. Nc3 c6 6. Be3 O-O 7. Bd3 a5 8. O-O Ng4": "8. ................. Ng4 - over the last few moves both sides have got on with developing their pieces.  Black plays an aggressive move but maybe he should have been concentrating on getting his queenside pieces out here.",
+        "9. Bd2 Qb6 10. Kh1": "10. Kh1 - black has a choice of 2 pawns to win here.  He chooses the d pawn.",
+        "10... Bxd4 11. Nxd4 Qxd4 12. Qe2 e5 13. f5 gxf5 14. exf5": "14. exf5 - this pawn exchange has opened up the g file which will have disastrous consequences for black a few moves down the line.  Now, at the moment, whose queen is the aggressive one and whose looks the passive one?",
+        "14... d5 15. Qe1 e4 16. Be2 e3 17. Bxg4 exd2 18. Qg3": "18. Qg3 - in the space of a few moves though, things can change a little.",
+        "18... Kh8 19. Qh4 Rg8 20. h3 Ra6 21. Qf2 Rxg4": "21.  ................ Rxg4 - bizarre!  Why not Qxf2?",
+        "22. hxg4 Qxg4 23. Qxd2 Qh5+ 24. Kg1 Bxf5": "24. .................. Bxf5 - restores material equality.",
+        "25. Qd4+ Kg8 26. Rae1 Be6 27. Rf3 Nd7": "27. ......................... Nd7 - black develops his final piece.",
+        "28. Rg3+": "28. Rg3  - the king hunt begins.",
+        "28... Kf8 29. Qg7+ Ke8 30. Rge3 c5 31. Nb5": "31. Nb5 - threatening a deadly knight fork on c7.",
+        "31... Rc6 32. Re3xe6+": "32.  Rxe6  - now comes a pseudo-sac.",
+        "32... fxe6 33. Rxe6+ Rxe6 34. Nc7+ Kd8 35. Nxe6+ Kc8 36. Qg8+": "36. Qg8 !!  - this move forces black to give up his knight.",
+        "36... Nf8 37. Qxf8+ Kd7 38. Nxc5+ Kc6 39. Qc8+ Kb5 40. a4+": "40. a4   - now an infantryman wades in but my opponent's king still has a flight square.",
+        "40... Kc4 41. Nxb7+ Kd4 42. Qc3+ Ke4 43. Nd6+ Kf4 44. Qf3+ Qxf3 45. gxf3 Kxf3": "45. .................. Kxf3 - I decided to simplify down to a K   P ending with me a piece up.",
+        "46. c3 Ke2 47. Nb5 Kd3 48. b4 axb4 49. cxb4": "49. cxb4 - I now have 2 connected passers but black has a passed d pawn",
+        "49... Kc4 50. Nc7 d4": "50. ................. d4?? - misses a chance to draw with Kxb4.",
+        "51. a5 d3 52. Kf2": "52. Kf2 - this d pawn can be stopped.",
+        "52... d2 53. Ke2 Kxb4 54. a6 Kc3 55. Kd1": "55. Kd1 - after I managed to stop the d pawn crowning black realises he cannot stop Glenda from reappearing, cleaning up the two black pawns and then turning her attention to the enemy king and threw in the sponge."
+    },
+    "url": "https://gameknot.com/annotation.pl/cambridge-city-chess-club-friendly-king-hunt?gm=17977",
+    "gameName": "Cambridge City Chess Club Friendly - King Hunt!",
+    "players": "Joanne Stevens (1112) vs. Andrew Wilson (E1560)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

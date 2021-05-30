@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 c5 2. Bc4 g6 3. c3 Bg7 4. f4 e6 5. Nf3 Ne7 6. d4 cxd4 7. cxd4 O-O 8. Nc3 a6 9. e5 b5 10. Bd3 d5": "so far, a regular Bulgarian variation in the Sicilian: against some form of a Grand Prix Attack; but White takes a wrong turn...",
+        "11. exd6 e.p. Qxd6 12. Be4 Ra7 13. Be3 Nf5 14. Bf2 Bb7": "exposing the weakness of White: Black is just a move away from finishing development...",
+        "15. Bxb7 Rxb7 16. Ne4 Qb4+ 17. Qd2 Qxd2+ 18. Kxd2": "White prefers this, over losing d4: that will cost him...",
+        "18... Rd8 19. Rhd1": "probably the losing move...",
+        "19... Nc6": "d4 is lost...",
+        "20. Ke2 Ncxd4+ 21. Nxd4 Nxd4+ 22. Bxd4 Bxd4 23. Nf6+": "losing it...",
+        "23... Bxf6 24. Rxd8+ Bxd8 25. Rd1 Bb6 26. Rd6 Bg1 27. h3 Bh2 28. Kf3 e5 29. g3 exf4 30. gxf4 Bg1": "the work is done...",
+        "31. Rxa6 b4 32. Ke4 f5+ 33. Ke5 Re7+ 34. Kf6": "the move of a madman: White is seriously considering a mate attempt...",
+        "34... Rf7+ 35. Ke6 Kg7": "threatening Rf6+: White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game-in-3-10-blitz?gm=64992",
+    "gameName": "Chess game in 3+10 blitz...",
+    "players": "clubfeet (1525) vs. fiercequeen (2059)",
+    "opening": "Sicilian defence (B20)"
+}

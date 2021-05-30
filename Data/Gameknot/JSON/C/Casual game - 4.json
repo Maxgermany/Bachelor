@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 b6 2. Nc3": "Preemptively guarding the KP against Black's fianchetto.",
+        "2... Bb7 3. Bc4 Na6": "Presumably so as not to block the long diagonal.",
+        "4. Nh3": "In preparation for an advance of the KBP.",
+        "4... e5 5. O-O": "Tucking the King away before the K-side advance.",
+        "5... h6": "I assume this was to guard against a potential move of N-N5.",
+        "6. d3": "Securing the KP.",
+        "6... c5 7. f4": "The long-awaited K-side attack begins.",
+        "7... f6": "Allowing White to open the KB file, and thus a mistake.",
+        "8. fxe5 fxe5 9. Qh5+": "The King-hunt begins now.",
+        "9... g6 10. Qxg6+ Ke7 11. Qf7+": "Turning up the heat.",
+        "11... Kd6 12. Nb5+": "Closing in.",
+        "12... Kc6 13. Qd5#": "A nice finish."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game?gm=34333",
+    "gameName": "Casual game",
+    "players": "Burdine  vs. Anagastopoulos ",
+    "opening": "Owen defence (B00)"
+}

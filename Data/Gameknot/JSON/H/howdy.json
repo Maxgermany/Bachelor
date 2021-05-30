@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. Nc3 d5 3. d4 Bf5 4. e3 e6 5. Ne5": "Not often played.",
+        "5... Nbd7 6. Bd3 Bxd3 7. cxd3 Bd6 8. Nxd7 Qxd7": "Black has an advantage in development which will tell.",
+        "9. O-O O-O-O": "I want a race and castling on the oppoaite side is the way to do it.",
+        "10. Bd2 h5 11. Qb3 Ng4 12. f4 g5": "Trying to open things.",
+        "13. Nb5 a6 14. Na7+": "??Much better is NxB then after Q takes Bb4 winning the g5 pawn.",
+        "14... Kb8 15. Bb4 Kxa7 16. h3 Nxe3 17. Rfe1 Bxb4 18. Rxe3 Bd2 19. Rf3 Bxf4": "Maybe gxf5 would create more play on the g file.",
+        "20. g3 Bd6 21. a4 e5 22. dxe5 Bxe5 23. Qd1": "Better is Kg2.",
+        "23... Qxh3 24. Qf1 Bd4+ 25. Rf2 Qxg3+ 26. Kh1 Bxf2 27. Qg2 h4 28. Rf1 Rde8": "I am winning so much there is no wrong move. So take the Bishop. I'm not gonna go out of my way to save it.",
+        "29. Qh2 g4 30. Qxf2+": "If QxQ hxQ Kg2 Rh2#",
+        "30... Qxf2 31. Rxf2 g3 32. Rxf7 h3 33. Rf1 g2+ 34. Kg1 Re2": "He resigned as there is no adequate defense against h2#. Kh2 gxf1=Q."
+    },
+    "url": "https://gameknot.com/annotation.pl/howdy?gm=31219",
+    "gameName": "howdy",
+    "players": "winterrosemartha (1150) vs. minital (1578)",
+    "opening": "Reti opening (A05)"
+}

@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 a6 3. Nf3 d6 4. Bc4 b5 5. Bb3 Bb7 6. Nbd2 d5 7. e5 Nc6 8. c3": "White's pawn chain has effectively sealed off black's wB.",
+        "8... f6 9. exf6 Qxf6 10. Nf1 Bd6 11. Ng3 g6": "unnecessary. better is 11....h6, preventing Bg5 once black castles Q-side.",
+        "12. O-O O-O-O 13. Bg5": "could have been prevented with 11....h6.",
+        "13... Qf8 14. Bxd8 Qxd8 15. Re1 Qe8 16. Ng5": "white switches gears from protecting the unoccupied e5 square to attacking black's P at e6.",
+        "16... Nd8": "forced. black cannot play 16....e5 since 17.PxP N/BxP 18.f4, and thus winning a pinned piece.",
+        "17. Qg4": "not only puts pressure on the e6 P, but white's Q is aligned with the enemy K.",
+        "17... Nf6 18. Qh3 h6": "better for black is 18....Kd7",
+        "19. Nxe6 Nxe6 20. Rxe6": "white threatens a discovered check with his next move.",
+        "20... Qf7": "black miscalculates white's double check for mate with 21.Re8++. better is 20....Qd7 21.RxN QxQ 22.PxQ Re8, leaving black, albeit down, with a fighting chance.",
+        "21. Re8#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/double-check-checkmate?gm=23582",
+    "gameName": "Double-check checkmate",
+    "players": "mistindantacles (1200) vs. kalamoon (1293)",
+    "opening": "St. George defence (C00)"
+}

@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "\"Best by test\"\nBobby Fischer",
+        "1... e5 2. Nf3 Nc6 3. Bb5": "The spanish its popular even at patzer levels.",
+        "3... d6": "Entering into the old Steinitz Variation of the Ruy Lopez.",
+        "4. d4": "The most popular continuation.",
+        "4... Bd7 5. O-O": "5.-Nc3 was also possible, while \n5.-Bxc6 Bxc5\n6.-dxe5 Bxe4 its out of question nothing but equality.",
+        "5... exd4": "The tension should have been mantained.",
+        "6. Nxd4 Nxd4": "Allows the centralization of white's queen.",
+        "7. Bxd7+ Qxd7 8. Qxd4 Nf6 9. c4": "Establishing an academic Maroczy Bind formation.",
+        "9... c5": "A clear mistake, weakening d5 and d6. Now white has a clear plan: Double rooks on the d file and press the backward pawn.",
+        "10. Qd3 g6": "Continuing with the mistakes. Be7 was needed in order to defend the weak d6 pawn. \n10.-...a6 in order to obtain counterplay by b5 and mine the maroczy bind should have been triyed instead. But what can black do after white's 11.-a4?",
+        "11. Rd1 Rd8 12. Nc3 Bg7 13. Bf4 Bf8": "Accepting the mistake that g6 was...but it is too late.",
+        "14. Rd2": "Nd5 was very strong as well, to ocupy the weak square d5 with a piece.",
+        "14... Qg4 15. Qg3 Qxg3": "The exchange of queens only increases white's positional advantage.",
+        "16. Bxg3 Be7 17. Rad1 O-O": "The pawn was lost.",
+        "18. Bxd6 Bxd6 19. Rd2xd6 Rxd6 20. Rxd6 Ng4": "a move without a purpose. Kg7 was indicated.",
+        "21. Rd7 b6": "Pasive defense should have been triyed, this was the moment for Rb8.",
+        "22. Rxa7 Rd8 23. Nd5 Nf6": "A blunder, the rest require no comments.",
+        "24. Nxf6+ Kg7 25. Nd5 Re8 26. f3 h5 27. Rb7 Ra8 28. a3 Ra4 29. Nxb6 Rb4": "A positional sacrifice. Black gives the rook with no apparent compensation in order to give white a whole piece up (psychologycal pressure) and a passed pawn. Sarcasm its welcome.",
+        "30. axb4 cxb4 31. Nd5 b3 32. c5": "Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-mini-tournament?gm=545",
+    "gameName": "A mini-tournament",
+    "players": "poder_yaqui (1134) vs. chessgregory (1181)",
+    "opening": "Ruy Lopez (C62), old Steinitz defence, Nimzovich attack"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "The fact alone that I live in Vienna myself makes that opening very attractive for me ;-)",
+        "2... Nf6 3. f4": "Alright, let's experiment, this is called the \"Vienna gambit (C29)\".",
+        "3... exf4": "Instead of taking, more common is 3... d5.",
+        "4. Nf3 Qe7": "My pawn on e4 is attacked...",
+        "5. e5": "... so let's go for a counter-attack on his knight.",
+        "5... Nd5": "?",
+        "6. Nxd5": "Of course, I take the free knight and attack the opponent's queen at the same time.",
+        "6... Qe6 7. Nxf4": "Again taking material and attacking the queen.",
+        "7... Qf5 8. d4": "Defending the knight and occupying the center.",
+        "8... Qe4+ 9. Qe2": "Being ahead of material, I don't have anything against a queen exchange.",
+        "9... Qxf4": "??",
+        "10. Bxf4": "There falls the queen.",
+        "10... d5 11. O-O-O": "11. exd6 e.p.+ would also have been a very nice move.",
+        "11... Bf5 12. Qb5+": "Now that the point b7 is undefended, I exploit that.",
+        "12... Nc6 13. Qxb7 Rd8 14. Qxc7": "Qxc6 would have been better, but the game is not very interesting any more anyway.",
+        "14... Bxc2": "?",
+        "15. Qxc6+ Rd7 16. Qxc2": "At this point my opponent resigned. This is a first success with the Vienna Game. It is clear that my win doesn't have anything to do with the opening - my opponent just blundered, but hey, this encourages me to try out the Vienna Game (or Vienna Gambit) more often in the future anyway!"
+    },
+    "url": "https://gameknot.com/annotation.pl/adventures-with-the-vienna-game-part-i?gm=31549",
+    "gameName": "Adventures with the Vienna Game - Part I",
+    "players": "thestack  vs. shaka50 ",
+    "opening": "Vienna gambit (C29)"
+}

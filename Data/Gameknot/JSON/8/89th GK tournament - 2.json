@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Bd3 Nc6 8. d5 exd5 9. cxd5 Nxd5 10. Bxh7+ Kxh7 11. Qxd5 d6 12. Qh5+ Kg8 13. Nf3 Qf6 14. Bb2 Bf5 15. O-O Bg6 16. Qh3 Na5 17. Rad1 Nc4": "The Knight is blockading the bisshop from c4.\r\nBest now was Bc1, because after whites next move the Bisshop is remains inactive at the side",
+        "18. Ba1 Bf5 19. Qg3 Rfd8 20. Nh4 Be4 21. Qg4 d5 22. a4 Bc2": "With the intend of freeing his own a pawn, which will have gain a free road to a1",
+        "23. Rdc1 Bxa4 24. e4 Ne5": "Black has a clever plan",
+        "25. Qg3 c4": "An there it is: Whites bisshop is permanently sidetracked, while the KNight gains a great position at d3",
+        "26. exd5 Rxd5": "Another piece comes to join in",
+        "27. Rfe1 Nd3 28. Rcb1 Rg5": "In just a few moves white position has deteriorated fast.\r\nAfter a futute Bc6, whites King should feel very uncomfortable.\r\n\r\nOf course Black has no intention of trading his Knight against a white rook.\r\nThe Knight in this position is stringer then a rook!",
+        "29. Qe3": "Now Re5 wins a rook and the game.\r\nHowever the position on the Kings side it just too tempting, and black decides to go for having some fun, and hunting for bigger game",
+        "29... Bc6 30. Ref1 Rg4": "Wining the Knight.\r\n\r\nThe outcome is better then it would have been after 29.Re5, since most of blacks pieces are aming for whites King. \r\n",
+        "31. Nf3 Bxf3": "The attack on whites Kings is simply overwhelming. \r\n\r\nThe white rook on b1 and the white Bisshop on a1 are out of action.\r\nAt the moment white is two practically pieces ahead.",
+        "32. g3": "Weakens whites King position further.\r\nCheckmate is not far away",
+        "32... Re4": "Prearing the way for the Knight to go to f4",
+        "33. Qd2 Nf4": "Threatening Nh3#.",
+        "34. h4": "Forced, but no solution",
+        "34... Ne2+ 35. Kh2 Qxh4+": "The Queens sacrifice is a simple one, but a nice ending for a good game.\r\nOf course hxg4, Rxg4 is checkmate, using all pioeces white has available, except the rook on a8.\r\nThe simply Rxh4 would have been just as effective, but I just liked the idea of sacrificing my Qeeun."
+    },
+    "url": "https://gameknot.com/annotation.pl/89th-gk-tournament?gm=42821",
+    "gameName": "89th GK tournament",
+    "players": "adedee (1611) vs. eduard352 (1715)",
+    "opening": "Nimzo-Indian (E26), Saemisch variation"
+}

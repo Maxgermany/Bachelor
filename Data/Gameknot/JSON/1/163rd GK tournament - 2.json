@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 b6": "I've been experimenting with Owens Defense.  I don't always like the positions I get.  In this game, Black had no advantage, but finally won in the endgame.",
+        "2. d4 Bb7 3. Nc3 e6 4. a3": "This move is not bad, but uses a tempo.  White will have to play vigorously from here.",
+        "4... Nf6 5. e5 Ne4 6. Nge2 Nxc3": "The Black N has no escape squares.",
+        "7. Nxc3 d5 8. Be3 Be7 9. Be2 Nd7 10. Qd2 c5 11. h3 Rc8 12. Bb5 O-O": "White's position here is good.  There are lots of possible plans, but the pawn on e5 makes it difficult for Black to defend the K.  If I were White, I would be tempted to castle Queenside and use the mobile Kingside pawns to attack.",
+        "13. Qe2 cxd4 14. Bxd4 Bc5 15. Bxc5 Nxc5": "After these exchanges, I think Black is ok here.",
+        "16. b4 Nd7 17. Bxd7 Qxd7 18. Nb5 Ba6 19. a4 Rc7": "I also looked at Rc4 here, but Nd6 causes problems.",
+        "20. Rc1 Bxb5 21. Qxb5 Qxb5 22. axb5": "Now material is even, but Black might be slightly better owing to more control of the open file.",
+        "22... Rc4 23. c3 Re4+ 24. Kd2 Rxe5 25. Rhe1 Rf5 26. f3 Rf4 27. Ke3 Rc4": "Now Black is a pawn to the good, still with some pressure on the open file.  There is some urgency to exchange because White can pressure a7 if given time.",
+        "28. Kd3 Rfc8 29. Rc2 h6 30. g3 d4 31. Rec1 Rc4xc3+ 32. Rc2xc3 Rxc3+ 33. Rxc3 dxc3 34. Kxc3": "Black should have an endgame advantage.  The key is that Black's K has to penetrate to threaten White's pawns.",
+        "34... Kf8 35. Kd4 Ke7 36. Ke5 f6+ 37. Ke4 g6 38. Kd4 Kd6": "Black now has the opposition.",
+        "39. f4 e5+ 40. fxe5+ fxe5+ 41. Ke4 Ke6": "This endgame should now be winnable for Black.",
+        "42. Kd3 Kd5 43. g4 g5": "This freezes White's pawns.  White has only K moves--and Black has the opposition.",
+        "44. Ke3 e4 45. Kd2 Kd4 46. Kc2": "This is immediately fatal.  The K has to stay in front of the pawn to extend the game.",
+        "46... Ke3 47. Kd1 Kf2": "On f2, the K controls the e1 promotion square and the game is effectively over.  White resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/163rd-gk-tournament?gm=64448",
+    "gameName": "163rd GK tournament",
+    "players": "anneboleyn (1637) vs. mmoody95 (1889)",
+    "opening": "Guatemala defence (B00)"
+}

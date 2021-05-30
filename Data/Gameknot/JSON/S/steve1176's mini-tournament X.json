@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Finally!\n\nAfter a succession of defeats by this opponent I finally got him, though not without a few hairy moments on the way.",
+        "1... e5 2. f4": "I hate non standard openings. People should have the decency to play Ruy Lopez.",
+        "2... d6 3. Nf3 Bg4 4. h4 Nc6 5. Be2 Bxf3 6. Bxf3 Nd4 7. O-O": "Not sure whether he forgot the pawn or wasn't fussed there.",
+        "7... Qxh4 8. d3 Qg3": "Looking back at this now, that doesn't look as good as it did at the time. I probably should have taken more time to develop but in situ I was just trying to keep my opponent off balance and reacting rather than having the initiative.",
+        "9. Nd2": "Another odd one",
+        "9... Qxf4 10. Nc4 Qg3 11. Be3 Nxf3+ 12. Rxf3 Qg6": "Bit of a developmental problem now. Despite the cushion of 2 pawns I'm very aware I hadn't ever beaten this fellow.",
+        "13. Qd2 Nf6 14. Raf1 Be7": "So its pile out time to try and develop something.",
+        "15. Bg5 O-O 16. Bh6": "Took me a moment to see the reasoning for this one, the potential for pinning the queen to the king, still think it was a very brave move.",
+        "16... gxh6": "But free(ish) bishop.... I'm greedy enough to fall for it.",
+        "17. Rh3 Kh8": "Quite willing to hand the pawn back but didn't want the pin happening. Nearly cost me dearly.",
+        "18. Rxh6 Qg7": "I figured that was the safest place, considering the double attack on the knight.",
+        "19. Rh3 Rfg8": "My original intent was to try and exchange queens next move.",
+        "20. Rff3 Qf8": "Can't quite rem why I changed my mind. ",
+        "21. Ne3 Rg6 22. Nf5": "I can see the h6 space being filled with a rook or queen and then backed up threatening h7.",
+        "22... Ng8": "Trying to stop the danger at h6.",
+        "23. Rfg3 Rxg3 24. Rxg3": "Quite happy to swap material.",
+        "24... c6": "Bit of a negative move really. Content to let him take the tempo for a moment.",
+        "25. Rh3 d5 26. c3 Rd8 27. exd5 Rxd5 28. c4 Rd8 29. a3 b6": "Neither of us willing to commit on the kingside, so both playing slow and steady.",
+        "30. b4 e4 31. Qf4 exd3 32. Qe5+": "That caught me a bit by surprise. Was expecting him to backtrack.",
+        "32... f6 33. Qe1 d2 34. Qd1 Qf7 35. Nh6 Nxh6 36. Rxh6 Qxc4 37. Rxh7+ Kxh7 38. Qh5+ Kg7": "And since I can force the queen exchange and/or promote he resigned at that point. Always satisfying to finally beat a bogey player!"
+    },
+    "url": "https://gameknot.com/annotation.pl/steve1176s-mini-tournament-x?gm=51527",
+    "gameName": "steve1176's mini-tournament X",
+    "players": "buzzwold (1345) vs. grey_panda (1394)",
+    "opening": "King's gambit (C30)"
+}

@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d5": "The Latvian or elephant gambit, my second favourite black opening after the scilian dragon.",
+        "3. Nxe5 dxe4 4. Bc4 Qd4": "This was very risky but the only move to save his knight would have to be 4.Qd4 Qh5 and then white's queen would inevitably be chased around the board.",
+        "5. c3 Qxe5 6. O-O Qg5": "Once again I've been rather stupid. This is a terrible move.",
+        "7. g3": "The correct move.",
+        "7... Bh3 8. Re1 Qf5": "To protect black's e-pawn",
+        "9. Be2": "To stop 9. ... Qf3 threatening checkmate.",
+        "9... Bc5": "Black's intention's are  to take his pawn wth check then checkmate white on g2.",
+        "10. d4 Bb6 11. a3": "? A very strange move. It seems white might be trying to get a good pawn structure, but on the wrong side.",
+        "11... Nf6 12. Nd2 Ng4": "Threatening to go for the f2 pawn again.",
+        "13. Nxe4": "This is a very good move. White protects the f2 square and black's queen can't take it because 13.Nxe4 Qxe4 14. Bb5  wins black's queen.",
+        "13... Nc6 14. Bf3 O-O-O": "Black now looks at piling up on d4 and maybe sacrificing a piece.",
+        "15. Be3": "White anticipates black's plan.",
+        "15... Rhe8": "Black attacks white's knight which is only defended once.",
+        "16. b4": "? While normally in this position this would have been a good move, while black is threatening numerous checkmates perhaps the best offense is a good defense?",
+        "16... Rxe4 17. Bxe4 Qxe4": "Threating checkmate on f2.",
+        "18. a4": "Unfortunatly white doesn't see this.\r\n",
+        "18... Qg2#": "0-1"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=2245",
+    "gameName": "Team match",
+    "players": "chessbob7 (1308) vs. amnesia7 (1265)",
+    "opening": "QP counter-gambit (elephant gambit) (C40)"
+}

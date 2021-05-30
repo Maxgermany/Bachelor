@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 c5 5. c3 Bd6 6. Bg3 O-O 7. Nbd2": "I was worried black might close the position with c4...",
+        "7... Nc6 8. Ne5": "trying to fork knight and bishop if knight should take e5...",
+        "8... a6 9. Nxc6": "with doubled pawns perhaps black is going to be less eager to close the center....",
+        "9... bxc6 10. Nf3 cxd4 11. cxd4": "I think white is slightly better here with the weak pawn on c6",
+        "11... Qa5+ 12. Nd2": "Qd2 may have been better",
+        "12... Bxg3 13. fxg3": "black's defensive knight looks like it will be difficult to dislodge, so I opted to try and castle with the prospect of f-file pressure",
+        "13... Ne4": "a bit crude...better might have been ...e5 with ideas of bg4",
+        "14. Bd3": "preparing for castling with the possibility of shattering black's pawn structure.",
+        "14... Nxd2 15. Qxd2 Qxd2+ 16. Kxd2": "after this simplification white has the better bishop, but his pawns are much worse.  I was thinking about swinging my h-rook to f8, f4, then h4 and playing e4 to develop pressure on h7, but this probably would have been too slow.",
+        "16... Rb8 17. b3 a5 18. a4": "a bad blunder that swings the advantage decisively in black's favor.",
+        "18... Rxb3 19. Rhf1 f5 20. Rac1 Bd7 21. h4 h5 22. g4": "a questionable pawn sac meant to open some lines to the black king.  I am playing desperately here.",
+        "22... Rb2+ 23. Bc2 hxg4 24. h5 Ra2": "threats of rook h-8 to b8 and then b2",
+        "25. h6 gxh6 26. Rfh1 Kg7": "and white's attack appears to have petered out...",
+        "27. Rcb1 c5 28. Rb7 Rf7 29. Rhb1 Bxa4 30. Rb1b6": "better would have been just rook 7 to b6",
+        "30... Kf6": "black should have simplified and headed into a winning endgame.  it's probably no excuse, but both sides are under time pressure here.",
+        "31. dxc5": "hoping for a runner",
+        "31... Rxc2+ 32. Kd3 Rxc5 33. Rxf7+ Kxf7 34. Rb7+": "black has under a minute and i proceed to ignominiously harry him with a series of checks.",
+        "34... Kf6 35. Rb8 Bd1": "black misses another opportunity.  in retrospect, this game may be too sloppy to annotate...",
+        "36. Kd4 Rc4+ 37. Kd3 Rc2 38. Kd4 a4 39. e4 fxe4 40. Rf8+ Kg6 41. Re8 Kf6 42. Rh8 Kg7 43. Re8 a3 44. Re7+ Kf6 45. Rh7 Kg5 46. Rg7+ Kf6 47. Rh7 a2 48. Rxh6+ Kf5 49. Rh5+ Kg6 50. Rh8": "black has the crushing a1=Q but runs out of time..."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-game-that-should-never-have-been-won?gm=32678",
+    "gameName": "a game that should never have been won",
+    "players": "kitrich_omar  vs. miguelroldan ",
+    "opening": "Queen's bishop game (D02)"
+}

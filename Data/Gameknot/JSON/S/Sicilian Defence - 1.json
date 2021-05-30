@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5": "The Sicilian Defence",
+        "2. Nf3 e6 3. Nc3": "This move takes us out of book.  3. d4 is the Marshall variation.  I'm mostly winging it on general principles.",
+        "3... a6 4. d4 Nf6 5. e5": "Establishes an advanced (if somewhat difficult to defend) pawn and attacks the knight. ",
+        "5... cxd4": "A coounter threat that weakens the e-pawn in the process.  A good move overall.",
+        "6. Nxd4 Ng8 7. Bd3": "Black now has no developed pieces while White has three and an annoying advanced pawn.  This isn't a fantastic square for the bishop, but it is better than where it started and is safe from pawn attack. ",
+        "7... Nc6 8. Be3 Nxe5 9. O-O": "White has completed his development, except for the queen.  His pieces are a little limited and Black is about to gain counterplay in the centre, but White is in good shape if he can move his forces into action.",
+        "9... d5 10. Qh5 Nxd3 11. cxd3 g6": "This looks like a weak move to me.  The queen wasn't doing much harm where it was and this opens up a diagonal on the rook that White can exploit to gain an aggressively-placed queen.  Nf6 would have also moved the queen on if Black really wanted that, with better benefits.",
+        "12. Qe5 Qf6 13. Qc7": "The trade of queens would not be beneficial to White at this time. Instead, the queen heads for the seventh rank, from where it can be a pain in Black's side.",
+        "13... Ne7 14. Na4": "The White knight is off to join the attack via a4 to b6.  White also hopes to bring the bishop in, and perhaps establish a rook at c1 for good measure",
+        "14... e5 15. Nb3 Qf5": "Attacking the isolated d-pawn.  Note that Black still has four pieces that have gone nowhere.",
+        "16. Rad1": "Rfd1 might have been better, retaining Rac1 for later.  White could also have played Bb6 to threaten Qd8#, but Bd7/Be6 and f6 defend against it and the knight can no longer go to b6 himself (whereas the bishop will be equally effective at a5).",
+        "16... d4 17. Bd2 Qf6": " I don't know what the queen is doing here.  It's on a locked-up diagonal and doesn't attack any of the essential squares.  The one thing it would do is defend d8 after Nd5.  Nd5 now works better, attacking the queen and either breaking up the attack or forcing it to redirect by taking b6 away from the knight.",
+        "18. Ba5 Be6": "The bishop develops to allow the rook to operate along the back rank, defending against the attacks.  Again, Nd5 was better.",
+        "19. Nb6": "Directly attacking the rook.  White should now win at minimum two pawns and a battered Black queenside (19. ... Nd5 20. Qxb7 Rd8 21. Qxa6) and if Black tries to preserve the rook and with 19. ... Rd8, 20 Nd7 wins the queen, while 19. ... Ra7 collapses to the same move.",
+        "19... Ra7 20. Nd7": "Attacking the queen and re-establishing the queen-bishop diagonal.  The best defence is probably Qxf2+, continuing Rxf2 f6, but even with best play White is just too far ahead (I easily beat full-strength Shredder after 20. Nd7). ",
+        "20... Qf5": "Of the moves that do nothing to defend against the attack, this is perhaps the best.  ",
+        "21. Qd8#": "Note that the Black king is almost totally hemmed in by his own pieces.  Only one Black piece ever made it into the White half of the board.  Black's failure to develop proved costly as White was able to smother him."
+    },
+    "url": "https://gameknot.com/annotation.pl/sicilian-defence?gm=43759",
+    "gameName": "Sicilian Defence",
+    "players": "Jokeslayer  vs. Shredder 4 (1400)",
+    "opening": "Sicilian defence (B40)"
+}

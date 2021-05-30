@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e6 2. Nf3 Nc6 3. d4 g6 4. Bb5": "3... g6, Ok, this move is just off. Why up the f8-a3 diagonal for your bishop if you plan to play g6 getting the h8-a1 diagonal? This was his first blunder, but since I did not know if this was a mainline opening, I just kept developing. 4. d5 is the best move, getting to chase his knight to b4, then 5.a3 chasing it to a6.",
+        "4... Nf6 5. Bg5 Be7 6. e5": "This move should have been played on move 5. However, now I get to remove his knight, and trade my bad colored bishop for his good colored bishop, considering my pawns plan to be on dark squares.",
+        "6... Nd5 7. Bxe7 Ncxe7 8. c4 Nf4": "This move seems to threaten Nxg2, but I noticed that after Qd2, he cannot capture due to Kf1! So I get to chase his knight around some more. (I love to chase knights!)",
+        "9. Qd2 Nh5 10. Nc3 Ng7 11. Ne4 Ng8": "10. I should have chased the knight even more, but I thought I would be over extending myself. 10.g4 a6 11.Ba4 b5 12Bd1 Ng7 13.Qh6 Kf8 14.0-0 and I am clearly winning.\n\n10...Ng7? He has no reason to retreat at this time. He is wasting his own tempo, and un-developing his pieces.\n\n11...Ng8?? He is preventing himself from castling and putting his knight back on the square it started. I began thinking, \"can this get any better?\"",
+        "12. g4 f6 13. exf6 Nxf6 14. Qh6 Qe7 15. Nxf6+ Qxf6 16. Ng5 Qxd4 17. Nxh7": "I thought I had an attack here, but 13 exf6 is a very bad move, because after Nxf6 I relieve the pressure and allow him to re-develop that knight. At this point, white only has a slight advantage.",
+        "17... Qe4+ 18. Kd2 Qd4+ 19. Kc1 Kf7 20. Rd1 Qxg4 21. Ng5+ Kg8 22. Qxg6 Qf4+ 23. Kc2 Qxf2+ 24. Kb3 Rxh2": "I missed Ng5+ on move 20, and so when I play it on move 21 not only am I not up a pawn, the position is now even.\n\nBut, I get my big break when he plays Rxh2. Now I have my fun attempt at a sacrifice, Rd2! Threatening to take the queen, and if he captures I have 26.Qf7+ Kh8 27.Qf8#.",
+        "25. Rd2 Rh3+ 26. Ka4 Qf8": "I should have just taken the rook 26. Nxh3, but I thought I had better than just a free rook. So I got my king to a square I thought would be safe for a while. Black should have played Qf5 and traded queens, but again he gives another blunder Qf8??",
+        "27. Nxh3 c6 28. Bxc6": "I grab the rook, and when he plays c6 I got a little scared about xb5+. Best move is Rf2 with mate in 15 (which I may or may not have been able to figure out). Bxc6 allows me a little more peace.",
+        "28... bxc6 29. Rf2 Qe7": "I found Rf2, and he blunders by playing Qe7 and immediately after moving he resigned. The incoming mate in 6 is easy to see. 30.Ng5 Qxg5 31.Qxg5 Ba6 32.Rg1 Bb5+ 33.cxb5 cxb5+ 34. Kxb5 a6+ 35.Ka4 and nothing can stop 36.Qxg7#\n\nI hope you found this game interesting, with the many blunders on both sides, and the cool opening where white was so clearly ahead!"
+    },
+    "url": "https://gameknot.com/annotation.pl/oregon-open?gm=63763",
+    "gameName": "Oregon Open",
+    "players": "Me (1450 USCF) vs. Opponent (1350 USCF)",
+    "opening": "French defence (C00)"
+}

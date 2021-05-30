@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "The Sicilian Najdorf, my favorite opening with Black!",
+        "6. Be3": "Terence opts for the Byrne (English) Attack, which I believe (and during my conversation a couple of years ago with ICCF Correspondence GM Arno Nickel, currently ranked number 13 in the world, he had confirmed that to be the case) leads to an equal but unclear position after Black plays 6...Ng4",
+        "6... Ng4 7. Bc1 Nf6": "The position is now the same as it was after Black's fifth move. I would be perfectly fine with repeating our moves two more times and securing the draw that way, as that would have ensured my advancement to the next round of this tournament.",
+        "8. Bg5": "A new plan. White switches to the Main Line of the Sicilian Najdorf.",
+        "8... Nbd7 9. Qe2": "This was a new move for me, and the beginning of the trouble that befell me during this game. I expected the more common 9.Bc4, 9.Be2 or 9.f4 here.",
+        "9... h6": "Looking back at where I might have gone wrong, this was probably not the culprit. I see nothing wrong with Black's plan, the idea behind ...h6 being to secure g5 for the possibility of pushing the g-pawn, relieving the pressure on the f6-knight in the event of ...e6 down the line.",
+        "10. Bh4 b5": "While this move appears to weaken c6 considerably, practically inviting the white knight to jump to c6 and attack the Black Queen, it accomplishes nothing good for White -- Black simply plays ...Qb6!, strengthening the position of the Queen, attacking the knight which is now quite poorly-placed on the c6 square, as well as attacking f2.",
+        "11. f4": "Very strong. I am beginning to see the merit of 9.Qe2, but here is where I begin to see ghosts and make a miscalculation. This is definitely the first critical position of the game.",
+        "11... g5": "(?) And this is where things begin to go wrong. I think that 11...e6 deserved a much more careful and deeper look, as Black finds itself in serious trouble after the text move was played. When playing 11...g5, it appeared to me that Black would get more than enough compensation for the sacrificed pawn in terms of open lines and the ability to deploy the remaining pieces onto active squares quite rapidly...",
+        "12. fxg5 hxg5 13. Bxg5": "White finds itself up a pawn, while Black enjoys increased piece activity, but unfortunately the black king is stuck in the center and its kingside is quite cramped at the moment. At the time, I was still under the impression that Black's position was OK. I was wrong.",
+        "13... Bb7": "This is meant as prophylaxis against the threat of Nd5, which is also the reason why 13...e6 is now bad: 13...e6? 14.Nd5! (14.a4!? followed by Be3 is definitely worth further investigation, as is 14.Nc6) Bb7 (14...exd5?? is fatal: 15.Nc6! Qc7 (or 15...Qb6) 16.exd5+ Ne5 17.Bxf6) 15.Nxf6+ Nxf6 16.e5)",
+        "14. O-O-O e6 15. Qe1 Rc8 16. Kb1 Be7 17. a3 Rxc3 18. Bxf6 Nxf6 19. Qxc3 Nxe4 20. Qe3 Bg5 21. Qe1 Bh4 22. Qb4 Ke7 23. g3 Nf2 24. Rd2 Bg5 25. Rxf2 Bxh1 26. Qe1 Bf6 27. Qe3 Be5 28. Be2 Ke8 29. Bf3 Qb6 30. c3 Bxf3 31. Qxf3 Rh7 32. Nc6 f5 33. Rd2 Rxh2 34. Nxe5 dxe5 35. Qa8+ Ke7 36. Rd1 Qc7 37. g4 e4 38. gxf5 exf5 39. Qd5 Kf6 40. Rf1 Rh5 41. Qxe4 Qd7 42. Qf3 Rh2 43. Ka1 a5 44. Qf4 Rd2 45. Qh6+ Kf7 46. Qh5+ Kf6 47. Rh1 Ke5 48. Rh4 Kd5 49. Qh6 Rd1+ 50. Ka2 Qe6 51. Qf8 Kc6+ 52. c4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/113th-gk-tournament-the-great-escape?gm=59762",
+    "gameName": "113th GK tournament - The Great Escape!",
+    "players": "elyhim (2490) vs. alex_ratchkov (2500)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

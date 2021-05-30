@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "Ruy Lopez, Closed, C96",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 Nc6 14. d5": "14. Nf1 can lead to a draw by repetition, at least in one line.  14. d5 gains space, and space is one of the important 3 S's (space, structure, strategy) of opening principles taught in the Chinese School of Chess, as delineated by Liu Wenzhe in his magnificent book.",
+        "14... Nce5 15. a4 Rb8": "15...Bb7 is better than 15...Rb8, as Black loses a vital tempo with this move.",
+        "16. axb5 axb5 17. Nxe5 Nxe5 18. f4 Ng6 19. Nf3 Bh4 20. Nxh4 Qxh4 21. f5 Ne5 22. Rf1 Bd7 23. Bf4 Rba8": "Back to where it should have remained...",
+        "24. Bxe5 dxe5 25. b3 b4": "Now White has a protected passed d-pawn, and Black's c-pawn is backwards on a half-open file...",
+        "26. Qd2 g6 27. fxg6": "Now White has a half-open f-file with its rook strongly posted on f1.",
+        "27... hxg6 28. Rxa8": "Removing and diverting one of Black's heavy defenders...",
+        "28... Rxa8 29. Bd3": "Now, two of White's pieces will re-position, with the queen going to e3, and the bishop going to c4 via d3.  Also note that White's \"bad\" bishop \"shapes\" out to be actually quite good...",
+        "29... Kg7 30. Qe3 Qe7 31. Qg3": "First, the queen goes to g3 and puts pressure on the e5 pawn and pins the g6 pawn, and after the next move when the bishop goes to c4, there will be 3 critical pieces bearing down on Black's kingside...",
+        "31... Ra3": "It's as though the b3 pawn is alluring bait, thereby diverting Black's lone rook from any possible defending position on the kingside...as master war strategist Sun Tzu says in his epic, \"The Art of War\" ...\"All [successful] warfare is based on deception...Offer the enemy a bait to lure him...\" 1:17,20.",
+        "32. Bc4 f6 33. h4": "Now there are 4 White pieces bearing down on Black's undefended kingside...queen, rook, bishop, and rook pawn.  As Sun Tzu says, \"The ultimate in disposing one's troops is to be without ascertainable shape...It is according to the shapes that I lay the plans for victory, but the multitude does not comprehend this.  Although everyone can see the outward aspects, none understands the way in which I have created victory\" (6:24-25).",
+        "33... Kh6 34. d6": "!!!  This move decides the game, as Black can now choose to die quickly or much more slowly...",
+        "34... Qxd6": "Black chose to die quickly...notice that Black's queen, bishop, and rook are all stationed queenside...",
+        "35. Bf7": "And here, after this magnificent rear penetration move by the \"bad\" bishop, Black resigned.  He most likely saw 35...Qd4+ 36. Kh2 Qxe4 37. Rxf6 Bf5 38. Bxg6 Bxg6 39. Qg5+ Kh7 40. h5 Ra2 41. hxg6+ Kg8 42. g7 where his position is hopeless...as Sun Tzu advises, \"Speed is the essence of war.  Take advantage of the opponent's unpreparedness; travel by unexpected routes and strike him where he has taken no precautions\" (11:29).  For \"it is sufficient to estimate the opponent's situation correctly and to concentrate your strength to capture him.  There is no more to it than this\" (9:46).  Therefore, \"to estimate the opponent's situation and to calculate distances and the degree of difficulty of the terrain so as to control victory are virtues of the superior general.  He who fights with full knowledge of these factors is certain to win; he who does not will surely be defeated\" (10:17)."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=28766",
+    "gameName": "Let's play chess",
+    "players": "prophylaxiss (2080) vs. gfranco (2086)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 b6 2. d4 Bb7 3. Nc3 e6": "I've been experimenting with this setup for Black.  I wasn't very happy with the position I got in this game!",
+        "4. Nf3 d6 5. Bb5+ Nd7 6. Bg5 Be7 7. Qd2": "I feel like Black's pieces are already placed passively.",
+        "7... Bxg5 8. Nxg5 Qe7 9. Qf4 f6 10. Nf3 O-O-O": "Black's King is a little more secure, but White is better developed and has more space.",
+        "11. O-O g5 12. Qe3 h5": "Black gains some space.",
+        "13. d5 e5 14. Bc6": "I'm not sure it was best for White to trade off this piece.",
+        "14... Bxc6 15. dxc6 Nb8 16. Nd5 Qe8": "The c6 pawn will be lost now.",
+        "17. Qc3 Qxc6 18. b4 Qxc3 19. Nxc3": "Trading Queens improves Black's chances of survival.  ",
+        "19... Ne7": "White's N on d5 would be very annoying.",
+        "20. a4 Nbc6 21. b5 Na5": "White's pieces are still better.",
+        "22. Nd2 d5 23. Rad1 d4 24. Na2 c5 25. c3 Rd7 26. Rfe1 Rhd8 27. cxd4 Rd7xd4": "Attacking the d2 N twice.",
+        "28. Re2 Nc4": "Adding a third attacker, which will win the exchange."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=58990",
+    "gameName": "Let's play chess",
+    "players": "tomkazz (1512) vs. mmoody95 (1764)",
+    "opening": "Guatemala defence (B00)"
+}

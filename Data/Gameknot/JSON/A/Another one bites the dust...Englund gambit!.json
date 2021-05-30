@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4": "This is a game I played on the playchess server. It demonstrates a neat trap wich a lot of players tend to fall for..Enjoy!",
+        "1... e5": "A rather strange move, black offers a pawn straight away.",
+        "2. dxe5": "Most players will take here and in fact that is the right choice..",
+        "2... Nc6": "Ofcourse black attacks the pawn, trying to regain material...",
+        "3. Nf3": "But it can easily be defended.",
+        "3... Qe7": "Ok? black moves his queen on the third move...Generally not a wise choice. However this move does attack the e-pawn again.",
+        "4. Bf4": "And again it is easily defended..",
+        "4... Qb4+": "Check! hmm..",
+        "5. Bd2": "Forced or the bishop is lost.",
+        "5... Qxb2": "Ah..Now black's play starts to make more sense! This is a critical moment and there's a good chance white will crumble under the pressure. (this is obviously a prepared opening.)",
+        "6. Bc3": "?? This move is tempting since it attacks the queen and protects the rook, but a trained eye can see 6...Bb4 coming up, so instead 6.Nc3 is the only move here, with 6...Bb4 7.Rb1 Qa3 8.Nd5! as a common continuation, wich shows black has to be really careful!",
+        "6... Bb4": "Now black has all the advantage, threatening 7...Bxc3  ofcourse..",
+        "7. Qd2": "?? A tragical mistake....7.Nfd2 was forced, but ofcourse 7...Bxc3 8.Nxc3 Qxc3 wins a piece for black...",
+        "7... Bxc3": "The queen is now pinned.",
+        "8. Qxc3": "?? 8.Nxc3 was the only option, but white didn't want to give up his rook. So instead it's...",
+        "8... Qc1#": "Checkmate!  ...Thanks for checking out this annotated game and maybe you can try this trick for yourself in one of your games, but be careful, for the white player might have read this same annotation...lol."
+    },
+    "url": "https://gameknot.com/annotation.pl/another-one-bites-the-dust-englund-gambit?gm=10974",
+    "gameName": "Another one bites the dust...Englund gambit!",
+    "players": "Unknown guest  vs. Sarasani (1837)",
+    "opening": "Queen's pawn (A40), Englund gambit"
+}

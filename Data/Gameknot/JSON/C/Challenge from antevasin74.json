@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "We arrive at the classic position of Petrov's Defense. ",
+        "3. Nxe5 d6 4. Nf3": "This is the main line of the Defense",
+        "4... Nxe4 5. d4 Bg4 6. Bd3": "Attacking my Knight while developing and getting ready to castle",
+        "6... d5 7. O-O Nc6 8. c4 Nxd4": "8. ... dxc4 9. Bxe4 is no good so I take advantage of the pinned knight but I might have been better served to develop the dark squared Bishop with an eye towards castling",
+        "9. Qa4+ c6": "My first blunder. White's Knight is no longer pinned",
+        "10. Nxd4 Qg5": "Of course, a bad mistake must be followed by a horrendous blunder.",
+        "11. Bxg5": "There is no real point in continuing at this stage so I resigned. My d-pawn and Knight are under attack. The Rook can pin my knight if desired. 12. Nxc6 bxc6 13. Qxc6+ Bd7 14. Qxa8+ and so on. This is a good example of how quickly a game can be lost with any sort of loose move. Always examine the position and look for your opponents reply before touching anything."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-antevasin74?gm=29336",
+    "gameName": "Challenge from antevasin74",
+    "players": "antevasin74 (1316) vs. tomlib (1452)",
+    "opening": "Petrov (C42), classical attack"
+}

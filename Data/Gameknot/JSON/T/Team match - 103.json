@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. c4": "English opening.",
+        "1... e6 2. e4": "Nc3 or Pd4 are popular responses, whereas Pe4 seems to favor black slightly.",
+        "2... d5 3. cxd5 exd5 4. exd5 Qxd5 5. Qa4+ c6 6. Nc3 Qd6 7. Ne4 Qd8 8. Nf3 Nf6 9. Bd3": "Nope.  Nothing protects Bd3 from QxBd3.",
+        "9... Bd6": "So much for QxBd3.",
+        "10. O-O O-O": "BxPh2+ may seem like a bad idea, but black comes out a pawn ahead with QxBd3.",
+        "11. b4 Qc7": "White wrecks black's castle pawns with NxNf6.",
+        "12. Bc4": "Nope.  Now Ne4 is free, sacrificed for nothing.  Later on black will play Pb5, a pawn fork of the queen and bishop.",
+        "12... Nxe4 13. d3 Nf6 14. Bg5 Ng4": "Ph2 is overpowered.  Ph3 might work.",
+        "15. h3": ":)",
+        "15... Nh2 16. Nxh2 Bxh2+ 17. Kh1 Be5 18. g3": "Black moved Be5 to attack Ra1.  This move also abandons support of Ph3, now susceptible to BxPh3.",
+        "18... Bxa1 19. Rxa1 b5": "...as foretold on move 11.",
+        "20. Bxb5 Bxh3": "The bishop, PxBb5, was worth more.",
+        "21. Bxc6": "Terrible idea.  Better would be Bc4.",
+        "21... Nxc6": "White should defend against Qe5, netting Bg5 in a bishop/rook fork.",
+        "22. b5 Nd4": "Out of the frying pan, into the fire.",
+        "23. Qxd4 Qb7+": "White loses with Kh2 or Kg1, and must interpose the queen, Qe4.",
+        "24. Kh2": "Black should have programmed Qg2#.",
+        "24... Bd7": "Blunder.  It was game over.",
+        "25. a4 Rae8 26. f4 f6 27. Bh4 Re2+": "Game over again.  White cannot interpose, and Kh3 or Kg1 end with Qg2#.",
+        "28. Kg1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=59043",
+    "gameName": "Team match",
+    "players": "mrp800 (960) vs. debbied (827)",
+    "opening": "English opening (A13)"
+}

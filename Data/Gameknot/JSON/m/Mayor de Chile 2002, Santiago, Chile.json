@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7": "Ahora llega el momento de poner en pr\u00e1ctica otra idea. Jugar Rossolimo para dirigir el planteo hacia una apertura espa\u00f1ola. En esta caso espec\u00edfico, las negras no jugaron \"e5\", as\u00ed que el planteo deriv\u00f3 en una especie de ataque indio de rey. \n",
+        "4. O-O Ngf6 5. Re1 e6 6. c3 Be7 7. d4 O-O 8. Nbd2 a6 9. Bd3": "\u00c2\u00a1Ah\u00ed est\u00e1! Ahora si las negras quieren silenciar al asesino de las casillas blancas, jugar\u00e1n \"e5\", derivando el planteo hacia posiciones de la apertura Espa\u00f1ola, en donde uno de los temas principales ser\u00e1 aprovechar las casillas blancas \"d5\" y \"f5\" respectivamente.\n",
+        "9... b5 10. e5": "Ok, las negras no jugaron \"e5\", entonces la lucha deriva hacia el Ataque Indio de rey, en donde la diagonal b1-h7 es un tema de preocupaci\u00f3n constante para las negras. \n",
+        "10... dxe5 11. dxe5 Nd5 12. Ne4": "Ultra conceptual, sin embargo, Toga opina que \"c4\" es una interesante alternativa. Resulta que las piezas negras no est\u00e1n muy bien organizadas en el flanco de dama, tomar en c4 dejar\u00e1 una debilidad en \"c5\" y no hacerlo permite aprovechar la gran diagonal blanca: \nAlternative variation: 12.c4 Nf4 13.Be4 Rb8 14.Nb3 Ng6 15.Qc2 \n",
+        "12... h6 13. Bb1 Re8": "Preparando al defensor N\u00c2\u00ba1 del flanco de rey de las negras, el caballo en \"f8\". La defensa es excelente, pero tiene el precio de atar una pieza.\n",
+        "14. b3 Bb7 15. c4 bxc4 16. bxc4 Nb4": "Ok, consegu\u00ed sacar al caballo centralizado, pero c\u00f3mo llevo m\u00e1s piezas al flanco? Pasar la torre de \"a1\" a lo Kasparov, por la tercera fila me llevar\u00e1 muchos tiempos. Me empezaba a sentir inc\u00f3modo al no encontrar una continuaci\u00f3n claramente fuerte. \n",
+        "17. Qe2 Qc7 18. Bf4 Bxe4 19. Qxe4 Nf8": "Las negras escupen su gran alfil para evitarse dolores de cabeza, confiando en los cambios de pieza para aliviar la presi\u00f3n.\n",
+        "20. h4 Red8 21. a4 Rab8 22. Ra3 Nc6 23. h5 Nd4 24. Nh2 Qc6": "El avance de h4-h5 cost\u00f3 un par de valiosos tiempos a las blancas. el flanco de dama se empieza a te\u00f1ir de negro, las chances pr\u00e1cticas ser\u00e1n del primer jugador.\n",
+        "25. Qe3 Rxb1": "El fin de la maniobra defensiva de las negras. Las blancas deber\u00edan estar perdidas... \n",
+        "26. Rxb1 Nc2 27. Qg3 Nxa3 28. Bxh6 g6": "Era mejor 28..., Cg6, pero hab\u00eda que tener nervios de acero para aguantar la ofensiva de las blancas mientras el reloj de a poco empieza a influir en la certeza del an\u00e1lisis.\n",
+        "29. Qxa3 gxh5 30. Re1 Rd4 31. Qb3 Ng6": "De un vistazo comprend\u00ed que necesitaba agregar m\u00e1s debilidades para poder llegar, as\u00ed que opt\u00e9 por una idea bien compleja y arriesgada, reorganizar las piezas, darle algo de espacio a las negras y aprovechar cuando se expandan. Un objetivo en el mediano plazo ser\u00e1 el cambio de alfiles de casillas negras y mejorar mi caballo. \n",
+        "32. Be3 Rd7 33. Nf3 Rb7 34. Qd1 Rb4": "Ok, las primeras fases se cumplen a cabalidad, las negras avanzan en el flanco y mi caballo ya est\u00e1 de nuevo en el tablero\n",
+        "35. Nd2 Nxe5": "Las negras han ca\u00eddo en la trampa sicol\u00f3gica. Era mejor 35.., Ch4 obligando a bloquear la diagonal d1-h5, el camino hacia la ventaja de las blancas.\n",
+        "36. Qxh5 Ng6 37. Bg5": "Ahora Af8 permite Ce4, as\u00ed que las negras se la juegan por acumular riquezas en el flanco opuesto. El resultado ser\u00e1 un premio a la tenacidad de las blancas.\n",
+        "37... Rxa4 38. Bxe7 Nxe7 39. Ne4 Rxc4 40. Ng5 Qe8 41. Rxe6 Rc1+ 42. Kh2 Qb8+ 43. g3": "Se acaban los jaques, la bruma de los ca\u00f1onazos se esfuma y el rey negro yace completamente acorralado. Las negras se rinden.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/mayor-de-chile-2002-santiago-chile?gm=36146",
+    "gameName": "Mayor de Chile 2002, Santiago, Chile",
+    "players": "Mamani, H\u00e9ctor  vs. Romero, Claudio ",
+    "opening": "Sicilian (B51), Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"
+}

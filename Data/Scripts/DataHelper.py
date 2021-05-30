@@ -17,16 +17,21 @@ def sortFilesInFolder():
 
 
 def createCorpus():
-    _, _, filenames = next(walk("../GameknotJSON"))
-    filenames.remove("links.json")
+    folders = os.listdir("../Gameknot/JSON/")
 
-    file = open("../GameknotJSON/corpus.txt", "w+", encoding="utf-8")
+    file = open("../Gameknot/corpus.txt", "w+", encoding="utf-8")
 
-    for filename in filenames:
-        jsonFile = open("../GameknotJSON/" + filename, "r", encoding="utf-8")
-        content = json.load(jsonFile)
-        for move in content["moves"]:
-            file.write(content["moves"][move] + " ")
-        jsonFile.close()
+    for folder in folders:
+        _, _, filenames = next(walk("../Gameknot/JSON/" + folder + "/"))
+        for filename in filenames:
+            jsonFile = open("../Gameknot/JSON/" + folder + "/" + filename, "r", encoding="utf-8")
+            content = json.load(jsonFile)
+            for move in content["moves"]:
+                file.write(content["moves"][move] + " ")
+            jsonFile.close()
 
     file.close()
+
+
+
+

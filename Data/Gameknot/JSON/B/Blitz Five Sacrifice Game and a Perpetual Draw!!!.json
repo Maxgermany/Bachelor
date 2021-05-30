@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "This is one of the greatest games I have played on blitz. I sacrificed FIVE pieces in order to reach a draw. Amazing! Not much commentary else to do here, just enjoy the game and its complexity. ",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e3": "A curious King's Indian formation arises. Main line is e4.",
+        "4... d6 5. Bd3 O-O 6. h4": "!? probably overtly aggresive. This move intends to attack before he completes his development. ",
+        "6... Nbd7 7. Nge2 Re8 8. Ng3 e5": "Playing in the center is more important than the kingside.",
+        "9. d5 Nc5 10. Bc2 Bg4": "Overall this looks very good for me because of my active pieces.",
+        "11. f3": "11. Nge2 runs into 11...e4! and most of the other moves are met by c6 activating the queenside pawns.",
+        "11... Bd7 12. h5 Qb8": "!?/?! I don't especially like this idea, but it is somewhat common and the advance c7-c6 now is quite strong because the queen guards d6. 12...a5! would be best here.",
+        "13. hxg6 fxg6": "?! I don't want to open the h-file, but as it turns out, White's attack on the h-file is bound to never succeed. ",
+        "14. b4": "! very good. I missed it when I was playing 12...Qb8?!",
+        "14... Na6 15. a3 c6 16. e4 cxd5 17. exd5": "?! taking with the c-pawn was better.",
+        "17... b5": "! very strong in this position.",
+        "18. Bd3 bxc4 19. Bxc4 Qb6 20. Bd3 e4": "!! The first sacrifice of the game. This is probably definitely sound because of the tactics in the position.",
+        "21. fxe4": "maybe the best capture, but if anyone can tell me something better for white...",
+        "21... Bg4 22. Qc2 Rac8": "!",
+        "23. Bd2 Re7 24. Rc1 Rec7 25. Qb3 Qd4": "?!?!?!?!!?!?!?!?!?!?!?!? Really risky.",
+        "26. Bxa6 Nxe4": "!! The only move in this position that keeps the game going for Black.",
+        "27. Ngxe4 Re8 28. Qb1": "hmm...I'm a little suspicious of this move.",
+        "28... Bf5 29. Bd3 Rxc3": "!! Wham...another sacrifice in the basket! I wouldn't stop!",
+        "30. Bxc3 Qe3+ 31. Kf1 Bxe4": "I think I thought in the game I was winning here, but we shall soon find out...",
+        "32. Bxe4 Bxc3": "I have no idea if 32...Rxe4 was a better move, though I think  33. Rh3! might hold for White.",
+        "33. Bf3 Rf8": "okay...",
+        "34. Qc2 Rxf3+": "! last sacrifice!",
+        "35. gxf3 Qxf3+ 36. Kg1 Bd4+ 37. Kh2 Be5+ 38. Kg1 Bd4+": "Here the game was agreed to a draw since White cannot stop the checks. Amazing game, thanks to alleyb, good game, and I hope you enjoyed it!"
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-five-sacrifice-game-and-a-perpetual-draw?gm=49802",
+    "gameName": "Blitz: Five Sacrifice Game and a Perpetual Draw!!!",
+    "players": "alleyb (1569) vs. chesswar100 (1200)",
+    "opening": "King's Indian (E61), Smyslov system"
+}

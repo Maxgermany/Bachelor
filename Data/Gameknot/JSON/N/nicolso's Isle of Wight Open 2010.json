@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "And he has become a fan of playing the Najdorf Sicilian against me.  He's had pretty good success, too, as I've struggled to keep up with his improved play.",
+        "6. Bg5 e6 7. f4 Qb6 8. Qd2": "The poisoned pawn variation.  While the cute 8. a3?! could lead to Qxb2 9. Na4!, trapping the queen, it's a waste of a move if black sees through that simple threat.",
+        "8... Qxb2": "Black wins a pawn, and the game gets wild after that.",
+        "9. Rb1": "Forcing the queen to a3.",
+        "9... Qa3 10. e5": "With many moves available, this is one of the most aggressive continuations, as it forces the knight off of f6.",
+        "10... h6": "...or, perhaps not!  After 11. Bxf6 gxf6 12. exf6, white wins his pawn back, but is that really good for white?",
+        "11. Bh4": "I don't think so.",
+        "11... dxe5 12. fxe5 g5": "Looking to force the bishop back.  At this point, I briefly considered 13. Bxg5, but after hxg5 14. exf6 Nd7, white looks worse off to me than he is after...",
+        "13. exf6": "13. exf6.  Which basically forces...",
+        "13... gxh4": "Black's response.  Now, while black is still up a pawn, his doubled h-pawns, underdevelopment and the annoying f6 pawn will give him headaches for a little while.",
+        "14. Be2": "Quietly, this sets up a threat that black will need to address.  Right now, the bishop on c8 is the only thing preventing Nxe6, and if fxe6 in response, Bh5 is mate!\n\nThere's an old game, Spielmann vs. Eliskases (1932) -- link here: http://www.chessgames.com/perl/chessgame?gid=1040762 -- where if black plays gxf5 on his 12th move, white gets a mate in exactly this fashion.  Somehow, I thought of that tactic in this position.",
+        "14... Qa5": "Wisely covering h5.",
+        "15. O-O": "Getting the king out of the center of the board, connecting the rooks, protecting f6, and showing just how exposed the black king is at the moment.",
+        "15... Nd7": "Of course, I say all of this, and black still has a pawn advantage.  For all of it, the position is roughly equal.",
+        "16. Bf3": "A part of me is worried that black will play Bc5, pinning the knight, and so I had thought about Kh1.  But this move carries -- at least I saw -- the immediate threat of Bxb7, where white achieves (at least) material equality and a superior position to boot.",
+        "16... h3": "Well, after this move and a little thought, maybe that's not exactly true!  After 17. Bxb7 Bxb7 18. Rxb7, I realized I don't have a good answer to Qc5!  But white does have a shot...",
+        "17. Nd5": "!!  I'm not sure, but I think this is the best move I've ever played.\n\nWhite offers his QUEEN for what must be an all-out attack.  The only reasonable way to decline the sacrifice that I've found is Qc5, as Qd8 runs into the nightmarish Nxe6, and all other moves either result in her capture or a loss of material after something like Nc7+.",
+        "17... Qxd2": "\"Prove it,\" says black!\n\nAnd white can; he has a mate in four now!  Can you find it?",
+        "18. Nc7+": "Forcing the king to d8.",
+        "18... Kd8 19. Ndxe6+": "...this forces fxe6, now that the knight on d7 blocks the Bc8's path to e6.",
+        "19... fxe6 20. Nxe6+": "And this forces the king back to e8...",
+        "20... Ke8": "Where the bishop comes in to finish the job!",
+        "21. Bh5#": "Thanks to nicolso for a great game!  In hindsight, I wonder if I could have played Nd5 a bit earlier, on move 16, but Qxd5 would leave me a knight down for nothing.  Instead, what a wild sac and finish!!  Comments welcome!"
+    },
+    "url": "https://gameknot.com/annotation.pl/nicolsos-isle-of-wight-open-2010?gm=37371",
+    "gameName": "nicolso's Isle of Wight Open 2010",
+    "players": "ethansiegel (1789) vs. nicolso (1669)",
+    "opening": "Sicilian (B97), Najdorf, Poisoned pawn variation"
+}

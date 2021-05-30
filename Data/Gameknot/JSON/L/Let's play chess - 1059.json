@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "D4 opening.",
+        "1... d5 2. Nc3 e6 3. e4": "Strong double pawn push.",
+        "3... Bb4 4. Bb5+ c6 5. Bd3 dxe4": "Doesn't double up pawns with Bxc3??",
+        "6. Bxe4 Nf6": "Still no double pawn.",
+        "7. Bg5 O-O": "Black castle 7th move.",
+        "8. Nf3": "Horses at the 3 line. strong offense.",
+        "8... h6 9. Bxf6 Qxf6": "Queen @ F6 . Opponents play that alot.. I don't like. ",
+        "10. O-O": "Castle 10th move.",
+        "10... Bxc3 11. bxc3": "Double up finally happens.",
+        "11... Nd7 12. Qd3": "Moving queen into play.",
+        "12... Qf4": "Dumb move on black.",
+        "13. g3 Qg4 14. Ne5 Nxe5 15. dxe5": "Queen threat, trade knight, pawn on 5 line.",
+        "15... f6 16. f3 Qh3": "Queen in worthless spot for rest of game.",
+        "17. Qd6 Rf7": "Dumb move. Should of went f6xe5.",
+        "18. exf6 Rxf6 19. Qd8+ Rf8 20. Qd3": "Moved queen back into line with bishop.",
+        "20... e5 21. Rae1": "Setting up control of d-f line of board.",
+        "21... Kf7": "Dumb move. should of moved queen to d7.\r\n",
+        "22. f4 exf4 23. Rxf4+ Ke8 24. Rxf8+": "Rook exchange.",
+        "24... Kxf8 25. Bh7": "Jered's bishop line. Game over unless he moves the queen.",
+        "25... Bg4 26. Qd6+ Kf7 27. Qe7#": "End Game."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=9774",
+    "gameName": "Let's play chess",
+    "players": "jeremyrayross (1229) vs. ard756 (1185)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

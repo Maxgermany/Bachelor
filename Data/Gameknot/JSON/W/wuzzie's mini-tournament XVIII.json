@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "(C89) Marshall Attack",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4": "Spoiler Alert: 4.Bxc6.  Fear not players of the Black pieces as you can spice this variation up too.  No risk no reward.",
+        "4... Nf6 5. O-O Be7 6. Re1": "6.Bxc6 is a grind to face....",
+        "6... b5 7. Bb3 O-O 8. c3": "Lots of anti-Marshall's out there including 8.a4",
+        "8... d5": "The start position of the game from the thematic tournament.  When I went through the CHESS OPENINGS link on GK's front page I found absolutely no annotated Spanish Game: Marshall Attacks to reference as I prepared to start games in two separate thematic tournaments on the site.  So....I will remedy that to a degree.  Not saying these are necessarily outstanding examples of the Marshall, but they are indicative of the tactical nature of the line.",
+        "9. exd5": "9.d4 is seen from time to time.  My take on things is the Marshall is more likely to occur in correspondence (server) play than in high level otb games.",
+        "9... Nxd5 10. Nxe5 Nxe5 11. Rxe5 Bb7": "Milos Pavlovic in \"Fighting the Ruy Lopez\" (Everyman Chess, 2009), on page 12, calls 11...Bb7 one Black's strongest replies.  More common are 11...c6 and the \"original Marshall\" 11...Nf6.",
+        "12. Qf3 c6": "Both Pavlovic and David Vigorito in \"Understanding the Marshall Attack\" (Gambit, 2010), p. 6, prefer 12...Bd6.  There is probably nothing wrong with the overprotection, but it does greatly limit the scope of the Bishop in an attacking system.  My gut feeling is White benefits more from the overprotection of the d5 Knight than Black...  Of course after I wrote all this and plugged the position into Stockfish 7 the silicon beast says 12...c6 and 12...Bd6 are Black's two best choices at a depth of 21.  At 22. the move 12....Bd6 is slightly favored at 0.25 to 0.32.  No real edge to White there! ",
+        "13. Bxd5 cxd5 14. d4": "I would not be surprised if this is a main line of the 12.Bxd5 cxd5 variation arrived at via transposition.",
+        "14... Bf6": "Note that ...Bf6 follows d4 at move 12 (alternative line) also.",
+        "15. Re1 b4": "The Q-side minority attack often associated with the Queen's Gambit Declined is also seen in the Marshall Attack!",
+        "16. c4": "I believe I made a blunder here.  Better was 16.Bf4.",
+        "16... Bxd4": "Materialy even now as I have blundered back the gambit pawn.  And now Black's Bishops are well placed for an attack!",
+        "17. Nd2 Qb6": "More pressure on f2.",
+        "18. Qg3": "A safe square before the Queen is forced to run.  Perhaps the seeds of a counter attack after a future Bg6.",
+        "18... Rae8 19. Rxe8": "Not quite forced, but darn near...",
+        "19... Rxe8 20. Nf1 Re1": "A HUGE blunder in a winning position.  Just about any other move retains Black's winning edge. Evidently 20...dxc4, 20...h6, 20...g6 all seem to fit the bill.",
+        "21. Qb8+": "All roads lead to mate.  I was definitely more lucky than good...."
+    },
+    "url": "https://gameknot.com/annotation.pl/wuzzies-mini-tournament-xviii?gm=61197",
+    "gameName": "wuzzie's mini-tournament XVIII",
+    "players": "a50tango (1814) vs. fafa (1734)",
+    "opening": "Ruy Lopez (C89), Marshall counter-attack, 11...c6"
+}

@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Bc5 3. c3 d6": "I don't like what black has done. I think it's too passive unless black plays accurately, which he soon does not.",
+        "4. d4 exd4 5. cxd4 Bb4+ 6. Nc3 Bxc3+": "This move surprises me. There is no need to let a bishop go in this position; better to keep some pressure on. But hey, I'll accept this trade gladly.",
+        "7. bxc3 Bg4 8. Bb5+ c6": "Chasing the bishop?",
+        "9. Ba4 Qe7": "This could have been a decent way for black to  find counter play, but he doesn't follow through.",
+        "10. Qd3 d5 11. e5": "I chose the pawn move forward. I wanted to see what he would do, besides, I don't want exchanges happening with my king still out in the open.",
+        "11... f6 12. O-O Nd7": "In this position, I thought it better to go ahead and take f6; surely he would take f3 with the black bishop soon, and I wanted to keep things a bit tied up in the center rather than the open positions that would otherwise likely result.",
+        "13. exf6 Qxf6": "The queen is not well placed in this position. I immediately put black on the defensive with my next move.",
+        "14. Re1+ Ne7 15. Ne5": "Black has dithered around too much in this game, and it's about to bite him as he dithers around even more.",
+        "15... Bf5 16. Qg3": "In this position, I was thinking he would initiate some trades; the position is getting dangerous for black's king. Black castles long next, but that really was not wise as the next few moves would prove.",
+        "16... O-O-O 17. Bg5": "Bg5! And now Black is in serious difficulty. F7 must remain protected, but there is only one place the black queen can go to do that, and it still results in a losing position.",
+        "17... Qf8 18. Bxe7": "Bxe7! The game is all but over, for black must lose the exchange or be checkmated, but he still doesn't see the danger to his King... ",
+        "18... Qxe7 19. Nxc6": "Nxc6!! Here he thought a while, but still doesn't see the obvious checkmate in one if he doesn't give up a piece, or give up the queen exchange. My next move will be Nxa7 checkmate, which actually occurs because black overlooks it. Playing back through this game slowly, one can see several dubious choices black made; none seemed horribly wrong, but together, they caused this losing position. I don't want to analyze what black should have done in those past moves, for he had several better moves to pick from, and my play as white wasn't necessarily completely accurate either. But here, is there something better for black than Qxe1? I'd say... no. bryanofbay, when you've learned to form a more cohesive plan, and understand positional play a bit better, your game will greatly improve.",
+        "19... Qa3": "This loses immediately as previously noted.",
+        "20. Nxa7#": "A nice mate. "
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=48329",
+    "gameName": "Chess game",
+    "players": "Pierre99 (1200) vs. bryanofbay (1200)",
+    "opening": "King's knight opening (C40)"
+}

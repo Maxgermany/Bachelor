@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Joanne asked me if I wanted to annotate this game, and I will. I lost to her, but it was a learning experience.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7": "All book through here. This is probably the most played variation of the Ruy Lopez.",
+        "12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5": "I try to gain space on the Q side.",
+        "15. Be3 a4": "Continuing to push.",
+        "16. Nbd2 Bd7": "Clearing my back rank and connecting Rooks.",
+        "17. Rc1 Qb7": "Supporting my attack.",
+        "18. Qe2 Rfe8": "Marking time.",
+        "19. Bd3 Rab8": "Still looking to push on the Q side. Joanne's position is very solid, though.",
+        "20. dxe5 dxe5": "Completing the exchange.",
+        "21. Bc5": "Joanne looks to clear some lines by getting rid of some of my defensive fortress.",
+        "21... Nh5": "I'm hoping to move this Knight to KB5...",
+        "22. g3": "...but Joanne cuts me off at the pass.",
+        "22... Nb4": "I advance the other Knight instead.",
+        "23. Nxe5": "H'mmm. Perhaps I should have left the Pawn guarded.",
+        "23... Nxd3": "Oh well. May as well go through with my plan. Znosko-Borovsky always said that a bad plan is better than no plan. If you get in the habit of planning, eventually your plans will get better. But if you never plan your moves, you'll never improve.",
+        "24. Nxd3": "Joanne completes the exchange of pieces.",
+        "24... Nf6": "Since KB5 is unavailable, I may as well go back to my solid post for this Knight.",
+        "25. Kh2": "Giving support to the Pawns.",
+        "25... Qc8": "Up until now, I had played decently well. I was thinking about winning my Pawn back and exposing Joanne's K-side a bit. But I gave her the chance to play...",
+        "26. Bxe7": "...this tactical shot, which ended the game with swift and thunderous suddenness. If I recapture the B my Q falls. No reason to drag out my resistance any longer, so I honorably resign. Well played by Joanne."
+    },
+    "url": "https://gameknot.com/annotation.pl/jstevens1s-mini-tournament-vii?gm=48772",
+    "gameName": "jstevens1's mini-tournament VII",
+    "players": "jstevens1 (1938) vs. last_archimedean (1418)",
+    "opening": "Ruy Lopez (C99), closed, Chigorin, 12...c5d4"
+}

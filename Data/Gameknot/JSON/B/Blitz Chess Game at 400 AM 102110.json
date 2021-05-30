@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "First off, This game was a blitz chess game that I played at 4:00 in the morning If you didn't get that to start. It has some interesting moves. I will be annotating this from the first person so I can give thoughts and opinions on the matter, lets get started shall we?",
+        "1... e5 2. d4": "The game begins with a battle for the center of the board.",
+        "2... exd4 3. Qxd4": "The most common response to ...exd4, except for on GK apparently.",
+        "3... Nc6 4. Qe3": "My opponent chooses the Paulsen attack, A variation I haven't studied too much.",
+        "4... b6": "I respond with b6, the Jarvinen variation.",
+        "5. c3": "This move blocks both of our knight's mobility. Nc3 would have been a much stronger option, developing a knight and giving extra coverage to the e4 pawn.",
+        "5... Nf6 6. Be2 Bc5": "This move develops my bishop and allows the king to castle, but more importantly attacks white's queen and applies pressure to f2.",
+        "7. Qf4": "In my opinion, g3 or even g5 are stronger moves, but neither option fits into my opponent's plan.",
+        "7... O-O 8. f3": "White has a number of stronger moves, but chooses to once again lock in his own knight.",
+        "8... Bb7 9. g4": "This was the move that scared me, white is fiercely marching his pawns at my kingside.",
+        "9... Re8": "This move allows me to put extra coverage on the e5 square, and more importantly set up my own attack on white's king.",
+        "10. h4": "I expected g5 here, my knight's only escape square is h5 once he does decide to push it up.",
+        "10... Ne5": "This move may seem strange here, but it'll come in handy later.",
+        "11. h5": "This move cuts off all escape for my knight, plus this guy is all up in my grill. I once again expected g5 here.",
+        "11... Qe7": "Now my plan is ready for action. if white had played g5, my attack would be much less devastating.",
+        "12. g5 Nxf3+": "my opponent did not expect this, and because he's in check he has to do something about it.",
+        "13. Nxf3": "Finally getting that piece developed! This is actually quite a mistake that will lose white some material or the game in the long run. Bb7 was slightly better but still problematic for white.\n\nWhite could have played 13. Bxf3...Nxe4 Then he would have a few options If he chooses to take the knight then he's in some mega trouble 14. Bxe4...Bxe4 then he can either lose the rook and have mate once again threatened or 15. Rh2...Bd3+ 16. Kd2...Be3 and I win white's queen for my bishop, stranding his king on a very unsafe d3.\n\nafter hypothetical 13. Bxf3...Nxe4, if white had played something like 14. Kf1 then ...Ng5 threatening mate with the queen on d1. 15. Bd2 and i get a free knight and because after 15. ...Nxf3 16. Nxf3...Qd2# ... This option results in a huge loss of material and position as well.\n\n14. Kd1 is the white kings best option here although it still lands him down a pawn and in a precarious spot: 14.Kd4...Nf2+ 15. Kc2...Bxf3 16.Qxf3...Nh1 17. Qxh1...Bxg1 18. Qxg1...Qe4+ then 19. Kb3 is forced due to his other options being mate in 1 for me.",
+        "13... Nxe4": "Escaping the clutches of the advancing pawn wall by tearing it down. Because my opponent spent all of his time with that pawn attack he could not get many pieces developed and now is in a tight spot although he has a one pawn material advantage.",
+        "14. Rh4": "White sees that his rook is in danger by way of the bishop on b7. Rh2 would have been a much better option.",
+        "14... Nxg5": "Material is even and white is now in danger of checkmate in 1! I have a crushing position now",
+        "15. Qe5": "Trying to trade of his queens, this blunder will cost white dearly.",
+        "15... Nxf3+": "White resigns in this position because after 16. Bxf3...Qxe5+\n\nAnd that's all folks, I hope you've enjoyed my annotations and sloppy opening."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-chess-game-at-4-00-am-10-21-10?gm=34575",
+    "gameName": "Blitz Chess Game at 4:00 AM 10/21/10",
+    "players": "snel (1466) vs. johnjarvinen (1948)",
+    "opening": "Centre game (C22), Paulsen attack"
+}

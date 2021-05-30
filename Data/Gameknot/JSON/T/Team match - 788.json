@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 c5 2. c4 Nc6 3. d3 g6": "I have no idea what to play on this line, so I will concentrate on the d4 square, which looks like a lovely square to control with my knights if possible.",
+        "4. Bd2 Bg7 5. Bc3": "Ah, forcing my hand I think. Could play e5 here but that seems to block my bishop for good, and makes the fianchetto much less useful to me I think.",
+        "5... Nd4 6. Nf3 e6 7. Be2": "This bishop cannot get near the Queenside - that plus both sides being likely to castle kingside makes me aware of the likelihood for a big kingside attack by white if the opportunity presents itself.",
+        "7... Ne7 8. O-O O-O 9. Na3 a6 10. Nc2": "Again, this knight now also appears to move towards the kingside, so I decide to remove one of white's bishops - this may have been a bad call, but my only other options were e5, which I still did not like, and Ne-c6, which may have been the best choice.",
+        "10... Nxe2+ 11. Qxe2 Nc6": "Having decided Nc6 was strong before, this now seems appropriate -- keeps my mobility up and gives proper defence of d4 and e5 again.",
+        "12. Bxg7 Kxg7 13. Qe3 b6": "Defending the c5 pawn.",
+        "14. a3 d6": "Aiming for e5 and leaving the option of both Bg4 and Nd4 open. I also can now look at b5 if the centre locks up.",
+        "15. Rfd1 e5": "Decided to lock the centre, Nd4 is playable if required, and b5 remains useful. I also now look at f5 to bring the rook into play. I could do with more firepower if this is to be the strategy, and will play Ra7 whilst I have no imminent threats, in the hope of playing f5 and having Ra-f7 in the reserves",
+        "16. h3 Ra7 17. b4 f5 18. exf5 Bxf5 19. Rab1": "Presumably attacking the b6 pawn after 20. bxc5 dxc5, or controlling the open file if 20... dxc5 -- Neither of these seem problematic.",
+        "19... Nd4": "Opening up the file -- neither 20... Nxc2 or 20... Nxf3  are nice for white.",
+        "20. Ncxd4 exd4 21. Qc1 Re7": "Takiing control of the open file -- must remember that Queen is tied up defending b6 -- it would be useful to get a rook on e6 to protect against this.",
+        "22. Rb3 Rfe8 23. bxc5 dxc5 24. g4 Bd7": "Possibly allowing b5 later, when c5 pawn won't fall to the white queen.",
+        "25. Re1": "Seems slightly odd, both Rxe1  and Re2 are left for black, and I don't know which is stronger.",
+        "25... Re7xe1+": "Chose to capture as white has to capture with the knight, losing initiative.",
+        "26. Nxe1 Qe7": "Forces the knight to move or be defended, and protects the c5 pawn allowing the b5 push.",
+        "27. Nf3 Qe2 28. Ng5 h6 29. Ne4 h5": "Hoping to formulate a mating threat with bishop and queen, for example after 30. gxh5 Bxh3.",
+        "30. Kh2 Bc6": "b6 pawn is hanging, but hopefully the threats to the f2 pawn (following the capture of the knight) are enough to maintain intiative.",
+        "31. Qf4 Bxe4": "if 32. fxe4 Rxe4 seems strong, and 32... Qxe4 33. Qxe4 Rxe4 34. Rxb6 d3 also seems ok. The exchange will hopefully work in my favour here.",
+        "32. Qc7+ Kh6 33. Qf4+ Kg7 34. Qc7+ Kg8": "Avoiding draw by repetition - White cannot play a check here.",
+        "35. Qf4 Rf8": "Binding the queen.",
+        "36. Qxf8+": "If white did not capture the rook, either the rook would capture the queen or  checkmate was to follow with Qxf2.\n\nHowever, after 36... Kxf8 the game is well and truly over.",
+        "36... Kxf8 37. dxe4 Qxf2+ 38. Kh1 Qf1+": "Game annotation for team benefit --"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=10151",
+    "gameName": "Team match",
+    "players": "hinki99 (1479) vs. topazg (1531)",
+    "opening": "Sicilian (B20), Gloria variation"
+}

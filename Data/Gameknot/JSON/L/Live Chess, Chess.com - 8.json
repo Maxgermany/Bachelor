@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "The Ruy Lopez",
+        "3... a6 4. Ba4 d6": "The Deferred Steinitz variation",
+        "5. d4": "Immediately playing for the centre",
+        "5... b5 6. Bb3 exd4 7. Nxd4 Ne5": "?! - Better would have been to follow general principles and develop another piece",
+        "8. O-O Nf6 9. Re1 Be7 10. Nd2 Bg4 11. Nd4f3 Nxf3+ 12. Nxf3 O-O 13. h3": "To see if Black will maintain the pin or give White the Bishop pair.  A luft for the King is also useful",
+        "13... Bh5 14. Bf4": "Continuing development",
+        "14... Bg6 15. e5 Ne8 16. e6": "I thought that exchanging on d6 was better for Black as he could place his knight on a better square (d6).  If Black had captured on e6 with fxe6 then his kingside is weakened which may allow for tatics later in the game",
+        "16... h6 17. Qe2": "Now fxe6 would be a mistake after Qxe6+ followed by Qxe7 winning a piece",
+        "17... f6 18. Rad1": "White's pieces are centralised and at this juncture looks to have the better position",
+        "18... Ra7 19. Bd5": "The start of a mis-guided plan but fortunately no lasting harm comes of it",
+        "19... c5 20. c3 Nc7 21. Bb3 c4 22. Bc2 Bxc2 23. Qxc2 a5": "Here I was calculating lines after the Bishop sacrifice; Bxh6.  I could see a forced draw if Black accepted and thought I could always fall back on this if an attack was not forthcoming",
+        "24. Bxh6 gxh6 25. Qg6+ Kh8 26. Qxh6+ Kg8 27. Qg6+": "And now to find a way of exploiting the relative weakness of Black's King",
+        "27... Kh8 28. Rd4 f5": "Defending the h4 square",
+        "29. Ne5": "The d6 pawn is pinned and a check on f7 beckons",
+        "29... Qe8 30. Nf7+": "White has two pawns for the piece and will now win the exchange",
+        "30... Rxf7 31. exf7 Qf8 32. Rxe7": "If 32. ...Qxe7 then 33. Rh4#",
+        "32... Qg7": "Black resigns.  (33. Rh4+ and mate to follow)"
+    },
+    "url": "https://gameknot.com/annotation.pl/live-chess-chess-com?gm=52397",
+    "gameName": "Live Chess, Chess.com",
+    "players": "Iohannes7 (1366) vs. dec_b (1339)",
+    "opening": "Ruy Lopez (C71), Noah's ark trap"
+}

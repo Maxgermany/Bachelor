@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 a6": "Up until now, it has been a standard Yugoslav Attack 9.Bc4 variation. This move is certainly not a great one, as the b and a pawns hardly ever join in Black's attack. Better was 9...Qa5",
+        "10. O-O-O Re8": "? A pointless move. Black should be mobilizing his Q-side.",
+        "11. h4 Ne5 12. Bb3 Bd7 13. h5 Rc8 14. Bh6 Bh8": "Black is now so woefully behind in his Q-side attack that he can only really prolong the inevitable.",
+        "15. hxg6 hxg6 16. Bg5 Nc4 17. Qf2": "Interesting also would have been Rxh8+. The move in the game is slightly more conservative.",
+        "17... Nxb2 18. Qh4": "Material is hardly what White is after. Taking the knight would have, however, been almost entirely safe.",
+        "18... Bg7 19. Bh6 Nh5": "Bh8 is also possible.",
+        "20. Bxg7 Kxg7 21. g4 Rxc3": "? Far better was the simple Nf6, but that too loses to 22.Nd5",
+        "22. gxh5 Rh8 23. h6+ Kh7 24. Bxf7": "Black resigned."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=24509",
+    "gameName": "Chess game",
+    "players": "???  vs. ??? ",
+    "opening": "Sicilian (B77), dragon, Yugoslav attack, 9.Bc4"
+}

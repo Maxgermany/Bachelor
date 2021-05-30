@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nf3 e6 3. Bf4": "this variation is very popular lately...",
+        "3... Nf6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3": "black has doubled white's pawns but they are not weak at all. white can break twice through c4!",
+        "6... Ne4 7. Qd3 a6": "black is not developing pieces. it is hard to play that way.",
+        "8. Nd2 f5": "black is making bad moves. white squares are now weak. e6 is weak. the whole queenside pieces didnt move yet.",
+        "9. Nxe4 fxe4 10. Qd2": "also playable: Qg3, Qh3.",
+        "10... b5 11. f3": "with no developed pieces black will see white floating to the victory.",
+        "11... exf3 12. exf3 a5 13. Rb1 c6 14. Bd3": "white is making pressure on both sides.",
+        "14... Nd7 15. Bg5 Qc7 16. O-O e5": "black's break is too ealy. the king is still in the center...",
+        "17. Rbe1 h6": "?? giving away the g6 spot.",
+        "18. Bg6+ Kf8 19. dxe5": "white is taking as much as he can.",
+        "19... hxg5 20. Qxg5": "the position of the black is so bad that with a piece down white is winning easily",
+        "20... Rh6 21. e6": "the mate is near...",
+        "21... Rxg6 22. Qxg6 Ne5 23. Rxe5 Qxe5": "misses Qf7#, but what else?",
+        "24. Qf7#": "the end."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=14409",
+    "gameName": "Team match",
+    "players": "jabbathehud (1306) vs. bonnernose (1311)",
+    "opening": "Queen's pawn game (D02)"
+}

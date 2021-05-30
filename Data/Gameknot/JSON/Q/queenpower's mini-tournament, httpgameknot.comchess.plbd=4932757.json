@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. Nf3": "The game went smoothly, no big mistakes where made from both parts.",
+        "1... d5 2. c4 dxc4 3. Nc3 Nf6 4. e3 g6 5. Bxc4 Bg7 6. O-O O-O 7. d4 Bg4 8. Be2 Nbd7 9. a3 c5 10. dxc5 Nxc5 11. Qc2 b6 12. b4 Ne6 13. Bb2 Rc8 14. Rad1 Qc7 15. Qb3 Bxf3 16. Bxf3 Ng5 17. Be2 Nfe4 18. Nd5": "It all starts here! \nThe black queen doesn't have many places to go: 18. ... Qc2 was probably the only move that would prevent what came next. And even that isn't very good because of 19. Qa2! which is very dangerous: 19. ... Qxe2, 20. Nxe7  Kh8, 21. Bxg7 Kxg7 and the black Queen falls...",
+        "18... Qb7 19. Bxg7 Kxg7 20. Qb2+ Kg8": "This was a blunder from the Black player, which leads to my trap!...",
+        "21. Ba6": "This was the master move :-).  I think this was my best move ever!\nI have seen this when thinking on move 18. Nd5, but I never expected him to fall in my trap. It's a nice decoy one could lead into...\nAnd to avoid mate, the Queen must be sacrificed. (after 21. ... Qd7; 22. Nf6 , and white stays with a very good advantage; another alternative after 21. ...Qd7, is 22. Bxc8 Rxc8, 23. Rc1 !, after which there isn't much thinking to do...; any other move from Black its terrible)",
+        "21... Qxa6": "Ups!...",
+        "22. Nxe7#": "Check mate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/queenpowers-mini-tournament-http-gameknot-com-chess-pl-bd-4932757?gm=4739",
+    "gameName": "queenpower's mini-tournament, http://gameknot.com/chess.pl?bd=4932757",
+    "players": "fisgada (1600) vs. cbear2 (1621)",
+    "opening": "Reti accepted (A09)"
+}

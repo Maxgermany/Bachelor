@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. a3": "Already taking the game out of the normal lines. Since my opponent has a higher rating, I assume he wanted to throw me on my own resources.",
+        "2... Nf6 3. Nc3 Bc5 4. Bc4": "The game has become in effect a Giuoco Piano with colors reversed.",
+        "4... Nc6 5. d3 O-O 6. Nf3 d6 7. h3 Be6": "Up until now, both of us have simply developed on natural lines. The game gets its first conflict here, as my opponent has to choose whether or not to capture the Bishop.",
+        "8. Bxe6 fxe6": "The exchange leaves me with a central Pawn mass and an open file for my KR.",
+        "9. Ng5 Qd7 10. O-O h6 11. Nf3 Nd4": "With both sides having Castled, the middle-game now begins. I have a slight advantage in development, but the position is roughly even.",
+        "12. b4 Bb6 13. Be3 Nh5 14. Nh4 Nf4": "Both my Knights are now on fine outposts.",
+        "15. a4 a6 16. a5 Ba7": "If White were to be foolish enough to play BxN(Q4), I could play ...BxB and incidentally pin his undefended QN to his QR. But unless he makes that blunder, this B will remain inactive for a while.",
+        "17. Qd2 Kh7 18. Bxd4 Bxd4": "With the Knight now guarded, this move does not have the same impact. ",
+        "19. Ra3 Qe7 20. Nf3 Rf7 21. Ne2": "With my B threatened, I now have to exchange off my Knight if I want to retain the end-game advantage of a B vs a N.",
+        "21... Nxe2+ 22. Qxe2 Raf8": "The positional maneuvering begins.",
+        "23. c3 Ba7 24. d4 exd4 25. cxd4 c6 26. Rc3 d5": "The unassailable base of my Pawn chain is now QN2. White has no way to access this square.",
+        "27. e5 Qxb4": "Now I'm up a Pawn. With my Bishop stuck in the corner for the moment, that probably isn't a winning advantage in and of itself, but it means I can pressure White by threatening exchanges.",
+        "28. Qd3+ Kg8 29. Rb3 Qxa5": "Now I'm up by two connected passed Pawns, and if the major pieces go the endgame win will be a snap. White must seek complications.",
+        "30. Rfb1 Rb8 31. Qg6 Re7 32. Rb3b4 Qd8": "White does play aggressively. I need to defend accurately and force some exchanges.",
+        "33. Rb1b3 Qf8 34. Nh4 Qf7": "Forcing the Queen away.",
+        "35. Qg3 g5 36. Qg4 Kh7": "I'm determined to make him retreat his Knight.",
+        "37. Rf3 Qg8 38. Rg3": "He never does...",
+        "38... gxh4": "..and simply loses it instead.",
+        "39. Qxh4 Qf8 40. Qh5 Rg7": "Trying to drive off White's pieces and eliminate any counterplay based on mating possibilities.",
+        "41. Ra4 Rxg3": "Finally I remove a pair of major pieces.",
+        "42. fxg3 Qe7 43. Qd1 Rg8": "Now that White has lost his aggressive position, I need to trade off the Queens and mop up in the ensuing endgame.",
+        "44. Qd3+ Kh8 45. Ra2 Qb4 46. Qd1 Qxd4+": "Forcing White's hand. The Queens must exit the board.",
+        "47. Qxd4 Bxd4+ 48. Kh1 Rxg3": "Now it's a matter of advancing the Q-side Pawns.",
+        "49. Re2 b5 50. Ra2 c5 51. Rxa6 Rg6 52. Rb6 b4 53. g4 Bc3 54. Rb5 c4 55. h4 b3": "The Pawns are in position now to coast home to the 8th rank.",
+        "56. Rb6 Bxe5 57. Kg2 Rxg4+ 58. Kf3 Rg6 59. h5 Rf6+ 60. Kg4 b2": "White bows to the inevitable. After 61... P-B6 and 62... P-B7 a Pawn promotes. So White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/79th-gk-tournament?gm=37843",
+    "gameName": "79th GK tournament",
+    "players": "rh141009 (1437) vs. thehellion (1387)",
+    "opening": "KP (C20), Mengarini's opening"
+}

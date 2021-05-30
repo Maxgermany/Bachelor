@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. c4 d5 2. cxd5": "The Exchange variation. Can be boring and therefore drawish. For more interest, try 2. e3 or 2. Nf3.",
+        "2... Nf6 3. Nc3 Nxd5 4. Nf3 Bg4": "A Trompowski-type move, so I meet it as I do a Tromp-proper.",
+        "5. g3 Bxf3 6. exf3 Nxc3 7. bxc3 Qd5 8. d4 e6 9. Bg2 Qc4 10. Qb3 Qxb3 11. axb3": "Queens gone, two pairs of minor pieces gone, neither side developed: this game seems destined to drift toward a lifeless draw.",
+        "11... c5": "? -- This weakens b7 severely, and will come back to haunt Black shortly. Better Was 11. ...c6 which neither impedes Black's KB nor the Knight's eventual development to d7.",
+        "12. Be3 Nd7 13. O-O Be7 14. Ra2": "I've got a half-open file, so I may as well at least threaten to use it for something.",
+        "14... a6 15. f4 Rb8 16. f5": "! -- Taking advantage of Black's weakness on his Q-side diagonals. Suddenly Black is in difficulty.",
+        "16... O-O 17. Bf4 Rbd8 18. Bxb7 cxd4 19. cxd4": "Keeps Black's Knight inactive.",
+        "19... exf5 20. Bc7 Rde8 21. Rxa6 Bf6 22. d5": "! -- Passed pawns must be pushed!",
+        "22... Nc5 23. Rb6 Nxb7 24. Rxb7 Re7": "Black wants to play ...Rc8 next, but it's too slow.",
+        "25. d6 Rd7 26. Re1 Bc3 27. Re7 Rxe7 28. dxe7 Re8 29. Rb8": "Brings down the curtain. But Black needs a little more convincing.",
+        "29... Rxb8 30. Bxb8": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/english-another-day-at-the-office-blitz-game?gm=47754",
+    "gameName": "English -- Another Day at the Office-- Blitz Game",
+    "players": "Avocet  vs. bobetuin (1687)",
+    "opening": "English opening (A10)"
+}

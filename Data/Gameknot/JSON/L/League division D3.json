@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. Bc4 Be6": "An unusual variation.",
+        "4. Bxe6": "I go in for the immediate exchange...",
+        "4... fxe6": "...and Black completes it. ",
+        "5. d4": "Opening the game up at once. ",
+        "5... exd4": "This exchange...",
+        "6. Nxd4": "...centralizes my Knight.",
+        "6... e5": "Black tries to kick it...",
+        "7. Ne6": "...but I advance instead. ",
+        "7... Qd7": "Again trying to kick the Knight.",
+        "8. Qh5+": "With the black KBP gone, I can develop my Queen with tempo. ",
+        "8... g6": "8... Q-B2 was a better choice. ",
+        "9. Qh3": "To secure the Knight. ",
+        "9... Nf6": "Attacking the KP.",
+        "10. f3": "Defending the KP. ",
+        "10... Ke7": "Black should instead continue developing and prepare to castle. ",
+        "11. Ng5": "Practically forcing the exchange of Q's. ",
+        "11... Qc6": "A horrific blunder. ",
+        "12. Qe6+": "Mate is now forced. ",
+        "12... Kd8": "Black has no choice. ",
+        "13. Nf7#": "Finis. "
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3?gm=63929",
+    "gameName": "League division D3",
+    "players": "last_archimedean (1465) vs. zendob (1487)",
+    "opening": "Philidor (C41), Steinitz variation"
+}

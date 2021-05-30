@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. c4 b6 4. Nc3 Bd7 5. Be2 g5 6. h3 c6 7. O-O": "Todas sus jugadas son con los peones, excepto el alfil, todas sus piezas grandes est\u00e1n \"no desarrolladas\". ",
+        "7... h6 8. d4": "comienza el ataque por el centro",
+        "8... Bg7 9. d5": "avanzo pe\u00f3n bien respaldado por dos piezas y dos peones. trato de llegar a su rey que est\u00e1 expuesto",
+        "9... Bf8 10. Nh2 Nf6 11. a3 a6": "sigue avanzando sus peones, debilitando su posici\u00f3n",
+        "12. Re1": "con \u00e9sta jugada ataco al rey con la tore, ya que el pe\u00f3n de rey de los negros tiene poca protecci\u00f3n.",
+        "12... cxd5": "ataque del negro, sin tener resguardado a su rey",
+        "13. exd5 h5": "contin\u00faa con su ataque ahora a mi enroque",
+        "14. Bxg5": "capturo el pe\u00f3n que qued\u00f3 sin protecci\u00f3n.",
+        "14... a5 15. Nb5 Rg8 16. Bxh5": "Error terrible porque mi alfil negro no ten\u00eda protecci\u00f3n, gan\u00e9 pe\u00f3n pero\nperd\u00ed el alfil",
+        "16... Rxg5 17. g4": "segundo error, ese pe\u00f3n no pod\u00eda defender al alfil por estar \"clavado\"\npor la torre.",
+        "17... Nxh5 18. Kh1 Nf6 19. f4": "Empieza el ataque al rey. ",
+        "19... Rg7 20. fxe5 Nh7 21. exd6+": "Aqu\u00ed a pesar de no tener muchas piezas en el ataque, sin embargo \nten\u00eda dos peones pasados, uno de los cuales me puede ayudar en\nun ataque directo al rey. incluso para hacer jaque al rey y ganar su \ntorre. con el caballo.",
+        "21... Be7 22. Nc7+": "con esto obligo a que se mueva el rey y luego al comer con el \npe\u00f3n (al alfil) queden en jaque rey y reina (tenedor) \n",
+        "22... Kf8 23. dxe7+": "tenedor a rey y reina.",
+        "23... Qxe7 24. Rxe7 Kxe7 25. Nxa8 b5 26. Qe1+": "Rey expuesto, es hora de sacar a la reyna",
+        "26... Kd8 27. Qe5": "como caballo o torre",
+        "27... f6 28. Qxb8+ Bc8 29. Re1": "cerr\u00e1ndole las salidas",
+        "29... Rb7": "Ataque a la reina",
+        "30. Qd6+ Bd7 31. Nb6": "Aqui, la mejor continuaci\u00f3n ser\u00eda: 31...RxNb6 32 QxR+ Kc8 33.d6 ",
+        "31... bxc4 32. Nxd7 Rxd7 33. Qb8#": "La misma torre le cerr\u00f3 las salidas a su rey."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=64934",
+    "gameName": "Let's play chess",
+    "players": "alexcajan (1262) vs. gika1945 (1156)",
+    "opening": "Philidor's defence (C41)"
+}

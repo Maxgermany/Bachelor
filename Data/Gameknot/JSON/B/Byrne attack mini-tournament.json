@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Be7": "The starting position. ",
+        "9. Nd5 Nxd5 10. exd5 Bf5 11. Bd3 Bxd3 12. Qxd3": "A couple of minors vanish for each side. ",
+        "12... O-O 13. O-O-O Nd7": "Development is now complete, and the middle game proper begins. ",
+        "14. f4 Rc8 15. f5 Bg5 16. g4 Bxe3+ 17. Qxe3": "More wood vanishes. ",
+        "17... f6 18. h4 h6 19. Rhg1 Qc7 20. c3 Kf7 21. g5 Rfg8 22. g6+ Ke7": "White succeeds in driving my King back into the center. ",
+        "23. Kb1 Nc5 24. Nd4 Kf8 25. Ne6+ Nxe6 26. dxe6": "The final minors vanish. ",
+        "26... Ke7": "\"Blockade the passed pawn!\"",
+        "27. Rd5 Qc4 28. Rgd1 Rgd8 29. Qb6 Qc6 30. Qb4": "White secures a positional advantage. I am close to move-bound. ",
+        "30... b6 31. a3 a5 32. Qb5 Qxb5 33. Rxb5": "Two Rooks and Pawns is the most difficult end game to play well. ",
+        "33... Rc6 34. Rd3 Rb8 35. b3 Ke8 36. c4 Rb7 37. Rbd5 Ke7 38. Rb5 Rcc7": "Slow, patient maneuvering. ",
+        "39. Rbd5 Rc6 40. Kb2 Rb8 41. Rc3 Rbc8 42. Rb5 Rb8 43. b4 axb4 44. Rxb4": "Finally, some action. ",
+        "44... Rbc8 45. Kb3 Rb8 46. a4 Rcc8 47. Rb5 Rc7 48. a5 Rc6 49. c5 dxc5": "A file finally opens fully. ",
+        "50. Ka4 Rd6 51. Rcb3 Kd8 52. Rb5xb6 Rdxb6 53. axb6": "The game simplifies. ",
+        "53... c4 54. Rb4 c3 55. b7 c2 56. Rc4 Rxb7": "First one...",
+        "57. Rxc2": "...and then the other passed Q side pawn vanish. ",
+        "57... Rb1 58. Rd2+ Kc8 59. Rd7": "White turns up the pressure.",
+        "59... Rb7 60. Rxb7 Kxb7": "White could now win with 61 P-K7. ",
+        "61. Kb5 Kc7": "I hasten back towards the threat. ",
+        "62. Kc5 Kd8 63. Kd6 Ke8": "64 K-Q5 holds the position. ",
+        "64. h5 e4": "White resigns. "
+    },
+    "url": "https://gameknot.com/annotation.pl/byrne-attack-mini-tournament?gm=65846",
+    "gameName": "Byrne attack mini-tournament",
+    "players": "archiphile (1396) vs. last_archimedean (1511)",
+    "opening": "Sicilian (B90), Najdorf, Byrne (English) attack"
+}

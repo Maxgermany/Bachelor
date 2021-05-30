@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. d4": "The opening I dislike facing and have yet to settle on a system to use.  Early in my career I played the Budapest Gambit but as I moved up in rating  this does not work as well against the strong opponent who has seen it  before. I have dabbled with other responses and at this tournament was going  to aim to play the Cambridge Springs against the queens gambit.\n",
+        "1... d5 2. Nc3": "So much for that idea. A bit flummoxed I play an old standby of a move.\nAlternative variation: 2.  c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. Nf3 Nbd7 6. e3 Qa5 [The position that I was  hoping to see] \n",
+        "2... g6": "Not sure where to put your DSB? Why not g7!\n",
+        "3. Nf3 Nf6 4. Bg5 Bg7 5. e3 c6 6. Bd3 Nbd7 7. e4 dxe4 8. Nxe4 O-O 9. Qd2 Nxe4 10. Bxe4 Nf6 11. Bd3": "I felt happy about the past few moves, gaining tempo on White's  LSB and activating my knight, seems like I've come out of the opening just  fine.\n",
+        "11... Re8 12. c3 Qc7 13. Ne5 Nd5 14. Bf4": "I spent a long time here trying to look at all the lines\n",
+        "14... Nxf4": "Alternative variation: 14. ... f6 15. Nxg6 e5 [! Again the saving move  for Black, and the best way to play this position, eliminating the check on  c4! However so confident I was that the text worked that I went ahead with  it, even though I saw this line, I thought that was stronger.] \n",
+        "15. Qxf4 f6 16. Bc4+": "Focused on all the possible sacrifices around the king, I  missed even seeing that there was a check! = or possibly\nAlternative variation: 16. Bxg6 hxg6 17.  Nxg6 e5 [! The move that makes these sac lines not work.] 18. dxe5 (18. Qf3  exd4+ 19. Kd2 dxc3+ 20. bxc3 Qd7+ 21. Kc1 Qg4 ) Qf7 19. Nh4 Rxe5+ 20. Kf1  [And Black's king is very safe, White definitely does not have enough for the  piece.] \nAlternative variation: 16. Nxg6 e5 17. Bc4+ [Admittedly not the line I looked at OTB  (otherwise I would have seen the check in the text line) but possibly White's  strongest try, allows for the queen to come to f5 with tempo on the rook, but  still not strong.] (17. Qf3 exd4+ 18. Kd2 dxc3+ 19. bxc3 hxg6 20. Bxg6 Re5  [The line I looked at OTB. Ensured that neither sac on g6 worked, I played  ahead, not seeing the check on c4.] ) Be6 18. Bxe6+ Rxe6 19. Qf5 Rae8 20.  O-O-O hxg6 21. Qxg6 exd4 22. Rxd4 Re2 \n",
+        "16... e6 17. Nd3": "Evens the position out  again, as White could have open Black's king even more.\nAlternative variation: 17. Nxg6 Qb6 18.  Nh4 Qxb2 19. Rc1 [Probably a pretty easy position, but a little more  uncomfortable for Black perhaps if he does not find the correct plan of  immediate queen-side expansion.] \n",
+        "17... Qxf4": "Helps to alleviate much of the  pressure in Black's position.\n",
+        "18. Nxf4 b5 19. Bb3 Kf8 20. Nd3 e5 21. dxe5 Be6": "A bit of a blunder as I miscalculated, but my opponent does as well.\n",
+        "22. O-O": "Alternative variation: 22. Bxe6 Rxe6 23. O-O-O fxe5 24. Nc5 Re7 25. Rd6 [And White has a  lot of pressure] \n",
+        "22... Bxb3": "Again not a great evaluation, let's the White rook  easily into the game. Better to keep the Bishops on for now.\nAlternative variation: 22. ... Bf5 \n",
+        "23. axb3 fxe5 24. Ra6": "White starts to build up pressure now.\n",
+        "24... Red8": "The  other rook is better, to keep the e6 square covered after Nc5 and to keep a  rook behind the pawn.\nAlternative variation: 24. ... Rad8 25. Nc5 Rd2 26. Rxa7 Rxb2 \n",
+        "25. Nc5 Rd6": "Giving in to White's plan and playing defensive chess. Better to create your  own threats!\n",
+        "26. Ne4 Rd3 27. Rxc6 b4 28. Nc5 Rd2 29. Ne6+ Kf7 30. f4 e4": "Some sloppy moves from Black (but White has plenty of pressure and finding  good moves is hard in the face of his good attack), and White has almost a  winning advantage now. But next his attacking spirit gives out and he gives  Black a breath of hope!\n",
+        "31. Ng5+": "Allows Black to mop up the queenside a  little and for the attack to peter out.\nAlternative variation: 31. f5 [! Bust open the Black king  and bring the other rook into the game. Has to be considered after f4. Black  is basically defensless to White's onslaught here.] \n",
+        "31... Kg8 32. Nxe4 Rxb2 33. cxb4 Re8": "Yet another miscalculation! (Apparently I was not very sharp this  game)\nAlternative variation: 33. ... Rxb3 [Better to play this immediately, and now the b4-pawn  must also fall.] 34. Rc4 Rb8 \n",
+        "34. Rc4 Rxb3 35. Kf2": "White gives Black one  last chance to get back on an even field.\nAlternative variation: 35. f5 [Bust the position open!]  gxf5 36. Rxf5 Rb8 37. Rg5 [And Black is starting to have bigger problems than  the b-pawn.] \n",
+        "35... Bf8": "But Black is determined to throw the nice gesture aside!\nAlternative variation: 35. ... Rb8 [Again the b-pawn must fall and the game will probably end in a  draw.] \n",
+        "36. Nf6+": "A bad blunder late in the game. My only excuse is that it  was getting to be late in the evening in the first round.\n",
+        "36... Kf7 37. Nxe8 Kxe8 38. Rc8+ Kf7 39. Ra1 Rxb4 40. Rxa7+ Kg8 41. g3 Rb6 42. Kf3 h5 43. Raa8 Rf6 44. Rcxf8+ Rxf8 45. Rxf8+ Kxf8": "Black tries but in the end he has no tricks.  White smartly recognizes a won pawn endgame and simplifies into it and  executes it precisely.\n",
+        "46. Ke4 Kf7 47. Ke5 Kg7 48. Ke6 Kh6 49. Kf6 h4 50. gxh4 Kh5 51. Kg7": "1-0\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/kings-island-mason-oh?gm=53121",
+    "gameName": "Kings Island, Mason OH",
+    "players": "WilliamPursel (1800) vs. MWebber (1767)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

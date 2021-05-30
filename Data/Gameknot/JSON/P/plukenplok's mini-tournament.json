@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. c4": "I started off with the English opening",
+        "1... e5 2. Nc3": "I then moved the Knight to prevent E4",
+        "2... Bb4": "He then brought out the Bishop to attack the Knight",
+        "3. Ne4": "So I blocked the pawn instead",
+        "3... Nf6": "He again attacked the Knight",
+        "4. Qc2": "So I protected it with the Queen",
+        "4... Nxe4": "he then for some reason took it",
+        "5. Qxe4": "A free Knight meaning it's not protected and quicker to type then exchanged",
+        "5... Nc6 6. a3": "I decided to try and move his Bishop away by doing A3",
+        "6... Be7 7. b4 d6 8. c5": "move to C5 to attack the D6 Pawn",
+        "8... dxc5": "which he then took and I thought he would of declined and gone to D5 and attack my Queen with the protection of the Queen on D8",
+        "9. bxc5": "I then took back",
+        "9... Bxc5 10. e3": "I moved pawn to E3 just in case of Qf6",
+        "10... h6 11. Bb5": "I then moved bishop to B5 to attack C6 then the black xc6 and then I would do Qxc6 which would be check and then Qxa8 as the pawn that was on B7 was taken by the queen when checking the King",
+        "11... Bd7": "but he stopped that by doing Bd7",
+        "12. Bxc6": "I decided to exchange",
+        "12... Bxc6 13. Qg4": "moved Queen to attack G7",
+        "13... O-O": "He then castled to prevent that",
+        "14. Bb2": "Moved my Bishop in the hope of E4 by my opponent",
+        "14... Bd6": "but instead did Bd6 to protect it",
+        "15. f4": "I decided to bait him with the pawn",
+        "15... exf4": "he then fell for it",
+        "16. Qxg7#": "Checkmate------------------------------------------------------------------------------- Lucky or not everyone entitled to an opinion even if there wrong "
+    },
+    "url": "https://gameknot.com/annotation.pl/plukenploks-mini-tournament?gm=21654",
+    "gameName": "plukenplok's mini-tournament",
+    "players": "the_villa (1195) vs. ashfordgooner (1331)",
+    "opening": "English, Kramnik-Shirov counterattack (A21)"
+}

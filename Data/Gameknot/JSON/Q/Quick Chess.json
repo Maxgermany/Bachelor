@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "Here is another quick win! Ended in 20 minutes! Anyways, as always, I play the e4 opening.",
+        "1... e5": "Standard response.",
+        "2. Nf3": "Sometimes I play the Ruy Lopez, but here I am aiming for a 4 knights game.",
+        "2... f6": "Huge mistake! This opens the floodgates.",
+        "3. Nxe5": "But first i need to get the knight out of the way. And not only did I manage to get it out of the way, but now I have made it possible to launch an attack. Now don't misinterprete, I never!!! attack early. But it was a game for fun, and I decided to try to attack his weakness.",
+        "3... fxe5 4. Qh5+": "Now this move forces him to do one of two things. Either play g6, and Qxe5 claims the rook, or he can move his king forward. Personally, I would prefer to keep material where possible, and I would move ke7.",
+        "4... Ke7 5. Qxe5+": "Now I am going to force him all over the board. This is similar to another one of my annotations, but this one requires more work.",
+        "5... Kf7": "...",
+        "6. Bc4+": "Now the bishop comes out, forcing him to move to g6, he is now defenseless, with no developed pieces.",
+        "6... Kg6": "...",
+        "7. Qf5+": "Now, had I played d4 before this it would be a checkmate. But I saw a semi-forced checkmate, and I didn't want to give him a free move to improve his position. So force him there, then put him in check again.",
+        "7... Kh6": "...",
+        "8. d4+": "Take more centre control in case my attack fails, while putting him in a revealed check. He could always play Qg5, but then Qxg5 is a checkmate. His only viable option is g5.",
+        "8... g5": "As I said, his only option...",
+        "9. h4": "Now I am challenging the pawn. Here I hope he tries to protect the pawn, so that the revealed check with the rook would send him into disarray, and a possible checkmate.",
+        "9... Be7": "He falls for it, not seeing the revealed check. There is now a forced checkmate in 2. ",
+        "10. hxg5+": "His only legal option is kg7, and I can mate him in this position.",
+        "10... Kg7 11. Qf7#": "Here the bishop protects the king. Another fast checkmate. Let me know what you think."
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-chess?gm=32689",
+    "gameName": "Quick Chess",
+    "players": "soccer14 (1321) vs. asam (1255)",
+    "opening": "Damiano's defence (C40)"
+}

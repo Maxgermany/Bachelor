@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 g6 2. Bc4": "We have played many times before so I had expected a Modern Defence",
+        "2... Bg7 3. Nc3 d6 4. Nge2": "Keeping the option of a later f4",
+        "4... Nf6 5. d3 c5 6. O-O": "beginning to transpose into a closed Sicilian",
+        "6... Nc6 7. Bb3": "kind of a waiting move but I prefer B on b3 so that I can recapture with axb3 if he decides to play Na5 and Nxb3",
+        "7... a6 8. f4 b5 9. Nd5": "need to make c3 square available in case he threatens to trap my Bishop.",
+        "9... e6 10. Nxf6+ Bxf6 11. c3": "making c2 available to preserve the Bishop, also to reduce the control he has on the a1 > h8 diagonal and maybe prepare for a later d4",
+        "11... Bd7 12. Be3 Bg7 13. Ng3": "with the idea of f5 should he Castle",
+        "13... Na5 14. Bc2 f5 15. Qe1 O-O 16. e5": "and if dxe5 then Bxc5",
+        "16... Qc7 17. exd6 Qxd6 18. Qf2": "adding to the pressure on his c Pawn",
+        "18... Rac8 19. Rad1": "preparing d4",
+        "19... Qe7 20. Ne2": "Knight no longer needed on g3 since my f5 idea is now not possible...",
+        "20... Rfe8 21. Rfe1 c4 22. Bd4 cxd3 23. Bxd3 Nc4 24. Bxg7 Qxg7 25. Bxc4": "maybe I could have played Nd4 but I think the endgame is better for me...",
+        "25... Rxc4 26. Rd6": "I preferred my position slightly here due to my control of the d file, his bad Bishop and his backward e Pawn. Also had the idea of Nd4, Nf3 and then fixing Knight permanently on e5",
+        "26... e5": "he had other ideas though, removing the weakness",
+        "27. Red1": "seemed to make sense to grab control of d file and threaten Rxd7",
+        "27... Bc8 28. Rd6d8 Qe7": "My opponent offered a draw here, we both had about 6 minutes left on our clocks and 6 moves to meet the time control.  I decided to play on as I felt the threat of Qb6 was worth trying for.....\n",
+        "29. Rxe8+ Qxe8 30. Qb6": "Threatening Rd8",
+        "30... Rc6": "a mistake, Kf7 is best... can you see why?",
+        "31. Rd8": ".... winning material",
+        "31... Rxb6 32. Rxe8+ Kf7 33. Rxc8 exf4 34. Rc7+ Kf6 35. Nxf4": "Leaving me a piece up",
+        "35... Rd6 36. Kf2": "Maybe 35. Nd4 would have been better than Nxf4 as this would stop any counter-play down the d file.  But I still felt in control and had answers to the Rd2+ threat.....\nsuch as Rc6, picking up the a Pawn.",
+        "36... Rd2+ 37. Ne2 a5": "if Black plays Rxb2 here then White can play Rc6+ followed by Rxa6",
+        "38. Ra7 a4 39. c4": "breaking up the Pawns",
+        "39... bxc4 40. Rxa4 Rxb2 41. Ra8 Ke5 42. Re8+ Kd5 43. Ke3": "Removing the pin to stop c3, also the trap... if Rxa2, then Nc3",
+        "43... Kc5 44. a4 Rb3+ 45. Kd2": "We adjourned in this position where my opponent playing Black made a sealed move.\nWe had arranged a date to finish the game but after looking at the position when over the following days he decided to resign.\n\nMy Knight and King should be able to stop the c Pawn leaving my Rook to mop up the Kingside pawns.  \n\nH had sealed the move g5, which I could meet with Re5.  I expected Rb2+ but after Kc3, Black is clearly winning and if then Rb3 then Kc2 with Nc3 to follow.\n\nThanks for looking. "
+    },
+    "url": "https://gameknot.com/annotation.pl/wolverhamton-dist-div-1-halesowen-v-kidderminster?gm=47361",
+    "gameName": "Wolverhamton & Dist. Div 1 Halesowen v Kidderminster",
+    "players": "J Wrench (173) vs. S Fishburne (189)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nf6 6. h3 d6 7. Nge2 O-O 8. Be3 Rb8": "All book so far.  Rb8 can be a testing line but if Black plays b5 he needs to be wary of threats of e5 after f4 potentially hitting both knights",
+        "9. O-O b5 10. Qd2 b4 11. Nd1 Ba6": "Not 100% sure about this - usually hitting d3 is a good plan after c3 has been played.  I think either 11.... a5 or Bd7 would've been better with the aim of opening a line on the queenside so if white's attack fizzles then black has all the play.   \n11..... e5 has also been played a lot by Botvinnik and still enjoys popularity at the highest level.",
+        "12. Bh6 Qa5": "Looks dangerous but I don't think there's anything substantial behind this.  The queen isn't best placed over there.",
+        "13. Bxg7": "Time to get rid of the good black bishop and key defender",
+        "13... Kxg7 14. f4": "Shoving through the attack f4 - f5 is 9 times out 10 the best way to attack white here, especially after Nf6. After Nf6, there's no ....f5 possible from black in response to f4.",
+        "14... Qb6": "Puts some pressure down the diagonal but I want my king out of the way to use g1 for a rook and I have a dangerous attack coming so black needs something more forcing.  e5 might have been better or Qd8 to prepare d5",
+        "15. Kh2 Bb7": "This seems to be an admission that 11 .... Ba6 wasn't the right plan.  I prefer the bishop on the c8 - h3 diagonal usually because if it's on say d7 then Qc8 and black can put pressure on h3 and prepare the likes of c4",
+        "16. g4": "Charge!  I play this opening a lot against the sicilian and whilst the pawn pushes in front of the king look, quite frankly, bonkers, it's quite playable.   g4 removes h5 as a flight square for the white knight and more importantly frees up g3 for a knight of my own.",
+        "16... Nd4": "d4 is a good square for the black knight but my attack is now rolling so I can ignore it",
+        "17. Ng3 e6": "Trying to defend f5 but I wonder if d5 is better to try to open the position so if I play \n18. f5 then \n18... dxe 19. dxe Rbd8 threatening the white queen with discovered attacks down the open file\nThe white queen has to defend c2 potentially so harassing it from d2 might be troublesome.  As my king's now not rock solid, I don't want to see it all opening up.",
+        "18. f5": "Now we're cooking.  19 g5 and 20 f6+ are usually crushing so black has a real dilemna now. ",
+        "18... exf5": "if 18.... gxf then Qg5+ wins the knight on f6",
+        "19. Nxf5+": "Again playing on the g5 square because if PxN then there's a check winning the loose knight on f6\n\nIf NxN then 20. exf5 BxB 21 QxB and I have to prepare g5 carefully because if the knight gets to h5 it's an annoyingly good square.",
+        "19... gxf5 20. Qg5+": "Winning at least a pawn but probably just winning",
+        "20... Kh8 21. Qxf6+ Kg8 22. gxf5 Qc7": "Maybe 22... d5 would have prolonged the game.  ",
+        "23. Rf4": "Now that's just nasty....",
+        "23... d5": "Pinning the rook",
+        "24. e5": "I carried out a LONG piece of analysis here and I think black is still struggling after\n24 ... Re8\n25. Rg4+ Kf8\n26. Qg7+ Ke7\n \nbut the pawn on e5 is weak, c2 is hanging and white also needs to get that Rook on a1 and the Knight on d1 into the game.  I don't think e6 quite works but might be good after Nf2 or maybe Kh1 unpinning the rook",
+        "24... h5": "Sadly, just doesn't work.",
+        "25. Qg5+": "and mate now follows.  \n\nGood game - the Ba6 and Qa5 ideas were the ones I think black needed to change but even after that, I think there were some dangerous threats from black."
+    },
+    "url": "https://gameknot.com/annotation.pl/trafalgar-2nd-anniversary-tournament?gm=42222",
+    "gameName": "Trafalgar 2nd anniversary tournament",
+    "players": "richn (1862) vs. martindarcy (1334)",
+    "opening": "Sicilian (B24), closed, Smyslov variation"
+}

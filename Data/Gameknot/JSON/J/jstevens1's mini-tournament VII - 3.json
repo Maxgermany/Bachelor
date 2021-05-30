@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3": "I hate playing against the Sicilian defense as White, but once I open with P-K4, my opponent can force it on me. ",
+        "2... d6 3. d4": "The best thing I can do is force a variation of the Sicilian which I feel is bad for Black. If I can play P-QB4, it will negate the effect of Black's opening move.",
+        "3... cxd4 4. Nxd4": "The usual exchange.",
+        "4... Nf6 5. Bd3": "By playing this move instead of 5 N-QB3, I preserve my ability...",
+        "5... g6 6. c4": "...to do this. ",
+        "6... Bg7 7. Nc3": "Now I can develop my Knight *behind* the Pawn.",
+        "7... O-O 8. O-O": "Both sides tuck their Kings away, and the middle game can begin even though development still needs to be finished.",
+        "8... Nfd7 9. Bf4": "Oops. 9 B-K3 was the correct move. i simply overlooked the fact my Knight was en prise.",
+        "9... Bxd4 10. Nd5": "Another oversight. 10 N-R4 guards the Pawn, which now falls.",
+        "10... Bxb2 11. Rb1": "I *did*, however, see that my Rook was attacked.",
+        "11... Bd4 12. Qg4": "Now that I'm down a piece and a Pawn, I have no choice but to launch an attack. Passive play will surely lose.",
+        "12... Nc5 13. Qg3": "Ducking out of the line of fire.",
+        "13... Nxd3 14. Qxd3": "I have to retake, of course. But every exchange is to my detriment, as it simplifies the position.",
+        "14... Nc6 15. Rb3": "I'm hoping to generate a K-side attack with the Q and R, in conjunction with my well posted Knight and Bishop.",
+        "15... e5 16. Bh6": "The beginnings of a plan. If I can get my Q to KB6... but the problem is that Black's Q is guarding that square. ",
+        "16... Re8 17. Qf3": "I move the Q into position. But now what?",
+        "17... Na5 18. Rd3": "Must duck out of the way. It's now 4th and 26, and I'm down to one desperation play.",
+        "18... Nxc4 19. Nf6+": "And the pass is complete! I win the Rook, reestablishing material equality. ",
+        "19... Kh8 20. Nxe8": "If Black doesn't retake, I simply retreat the Knight, having reestablished material equality. If Black does recapture...",
+        "20... Qxe8 21. Qf6+": "...I gain access to the crucial square, and have a mate in 1. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/jstevens1s-mini-tournament-vii?gm=48018",
+    "gameName": "jstevens1's mini-tournament VII",
+    "players": "last_archimedean (1367) vs. jkarp (1175)",
+    "opening": "Sicilian (B54), Prins (Moscow) variation"
+}

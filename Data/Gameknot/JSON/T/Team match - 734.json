@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d3 Bc5 5. Be3": "I'm not too keen on this move. It compromises your kingside pawn structure too much. If you want to exchange bishops, play Qe2 first.",
+        "5... Bxe3 6. fxe3 Nf6 7. h3": "Another weakening move. There is now a big hole on g3 just waiting for Black's knight.",
+        "7... d6 8. O-O Nh5 9. Nh2": "The knight is out of the game here and your threat is easily defended.",
+        "9... Nf6": "0-0 was a better move.",
+        "10. Nc3 g5": "Black needs to safeguard his king before playing moves like this.",
+        "11. Qf3 Be6 12. Bxe6 fxe6 13. Qxf6 Qxf6 14. Rxf6": "Black should resign at this point!",
+        "14... Ke7 15. Raf1 Rag8 16. Ng4": "Try to work out what your opponent's response will be before you make a move. Rf7  was the obvious move.",
+        "16... h5 17. Nh2 g4": "Threatening ...g3, winning the knight.",
+        "18. Kh1": "This doesn't help, Black can still play ...g3. The best solution was Rf7  followed by R1f6, vacating f1 for the knight.",
+        "18... gxh3": "...g3 would have put Black right back in the game.",
+        "19. gxh3 Rg3 20. Rf6f3 Rhg8 21. Rxg3 Rxg3 22. Rf3 Rg5 23. a3 a6 24. b4": "At this point White needs to make a plan. The first priority is activate the knight on h2.",
+        "24... b5 25. Ne2": "The wrong knight moves!",
+        "25... d5 26. exd5 exd5 27. c3 Ke6 28. e4 dxe4 29. dxe4 h4": "This helps White a lot!",
+        "30. Ng4 Ne7 31. Rf8 Rg7 32. Ra8 c6 33. Rxa6 Rf7 34. Kg2 Kd6 35. a4": "Don't be in a hurr to push your extra pawn. Improve the position of your knight on e2 first (e2-c1-d3).",
+        "35... bxa4 36. Rxa4 Ng6 37. c4": "This weakens your pawn on b4. The best plan was still to activate the knight on e2. But before you can do that you must challenge Black's control of the f-file by playing your rook to f3 (via a3).",
+        "37... Ne7 38. Ra5 Ng6 39. c5+ Ke6 40. Ng1": "This was your opportunity to exchange rooks by playing 40.Ra6 Kd7 41.Ra7 . The more pieces go off, the bigger your advantage becomes.",
+        "40... Nf4+ 41. Kh2 Nh5": "Black could have won the b-pawn by playing 41...Rb7 42.Ra4 Nd3.",
+        "42. Ra6 Rf4 43. Rxc6+ Ke7 44. Nxe5": "I don't think you needed another pawn! You should have been able to see the consequences.",
+        "44... Rf2+ 45. Kh1 Ng3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13627",
+    "gameName": "Team match",
+    "players": "friction009 (1387) vs. vpartsch (1349)",
+    "opening": "King's pawn game (C50)"
+}

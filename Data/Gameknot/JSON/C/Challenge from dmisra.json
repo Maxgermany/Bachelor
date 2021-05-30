@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "Let the guy castle and then attack his kingside- more entertainment than education. Blitzkrieg- works some times. The key was sacrificing a pawn to get his strong defensive bishop. Josep and I have had some good games. Enjoy.",
+        "1... e5 2. Nf3 d6 3. Nc3 Nf6 4. Bc4": "routine",
+        "4... Be7 5. d3 O-O": "he castles- i am in a dangerous mood. Plan to attack his kingside- fasten your seat belts.",
+        "6. Be3 Bg4 7. h3 Bh5 8. g4": "pawn storm- my intentions are revealed",
+        "8... Bg6": "could still end in grief for me",
+        "9. g5 Nfd7 10. Nh4": "this is the key move for me- i could have advanced my h pawn to protect my g pawn but his bishop on g row was too strong for me",
+        "10... Bxg5": "pawn sacrifice",
+        "11. Nxg6": "he has to take it with the h pawn",
+        "11... hxg6": "now to advance the h pawn",
+        "12. Qd2 Bxe3 13. Qxe3 a6 14. h4": "up up",
+        "14... Nc6 15. h5 gxh5 16. Rxh5 Nd4 17. O-O-O b5": "no problem, coz my d-rook will go to h1",
+        "18. Rdh1": "i dont get the q over to the h row yet, better to advance the 2 rooks right down the h file and the q will come in later",
+        "18... g6 19. Rh5h8+ Kg7 20. Rh1h7+": "next my knight will go to f6, he will go to e6, my queen will come to h3 etc. he resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-dmisra?gm=16490",
+    "gameName": "Challenge from dmisra",
+    "players": "dmisra (1510) vs. josep (1565)",
+    "opening": "Philidor's defence (C41)"
+}

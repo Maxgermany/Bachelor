@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "I figured this could work, since the Ruey Lopez opening frequently (when the bishop goes full retreat) turns into something that looks a lot like the Italian opening. ",
+        "3... a6 4. Ba4 b5 5. Bb3": "See?",
+        "5... Nf6": "Ruey Lopez two knights defense?",
+        "6. Ng5 Bc5 7. Nxf7 Bxf2+ 8. Kxf2 Nxe4+ 9. Kg1 Qh4 10. g3 Nxg3 11. hxg3 Qxg3+ 12. Kf1 Rf8 13. Qe2": "ionadowman (2046) on 28-Feb-09:\nTake the game from move 13. White could have considered 13.Qh5, which is a possibility in the main Wilkes-Barre line as well. Against 13.Qe2, Black could have tried 13...d6. ... True maybe I was impatient there.",
+        "13... Nd4 14. Qf2 Nxb3": "goflb (1377) on 28-Feb-09:\nAll fine except 15. Qxg3 (QxQ!) instead of 15. axb3??. ... Dangit! Too right! Black should have went Rxf7 instead of to Nb3. Thanks. No wait that wouldn't work. Forgot about the bishop. ... ionadowman (2046) on 28-Feb-09: But after 13...Nd4 14.Qf2 Qg4 carries several threats: 15...Nxb3 becomes a real threat (with ...Rxf7 to follow), but also ...Qd1 and ...Bb7 also require thought. How might White have responded to 14...Qg4, then? ... Yeah, you're right Qg4 is better, saving Nb3 for later. My impatience again.",
+        "15. axb3 Rxf7 16. Rh2 Rxf2+ 17. Rxf2 d6 18. Nc3 Bh3+ 19. Ke2 Qg4+ 20. Ke1 Qg1+ 21. Ke2 Bg4+ 22. Ke3 Qe1+ 23. Kd3 Qxf2 24. Ne4 Qd4#": "I love this thing!"
+    },
+    "url": "https://gameknot.com/annotation.pl/wilkes-barre-lopez?gm=22157",
+    "gameName": "Wilkes Barre Lopez?",
+    "players": "Me  vs. Me ",
+    "opening": "Ruy Lopez (C70), Graz variation"
+}

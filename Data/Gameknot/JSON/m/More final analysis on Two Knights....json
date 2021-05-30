@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Qf3": "As always, the Blackburne variation...",
+        "8... Bd7": "Not too strong... Better 8. ... Qd5 9. Qxd5 Nxd5 10. Be2 h6 11. Ne4...",
+        "9. Be2 Be7": "Slightly better, is 9. ... Bd6, to hinder white's next move...",
+        "10. Qg3 e4": "This might well be the losing move... The position is screaming for 10. ... 0-0 11. d3 c5 12. 0-0 Nc6 13. c3...",
+        "11. Nc3 Bf5 12. Qe5": "Gross loss of tempo, for black, but probably forced... After 12. ... Bg6 13. Ngxe4 0-0 14. d3 Re8 15. Qg3, matters are bad enough as it is... After 15. ... Nxe4 16. Nxe4 Nc4 17. 0-0 Nd6 18. Bf3, white wins the opening...",
+        "12... Qd7": "I have to apologize for black... He (or she, in this game) did not find the right move... Did this game really happen? Ask my opponent...",
+        "13. Qxa5": "A clean execution... Black resigns... And do not dare mock my opponent, for being weak... I am simply stronger..."
+    },
+    "url": "https://gameknot.com/annotation.pl/more-final-analysis-on-two-knights?gm=45433",
+    "gameName": "More final analysis on Two Knights...",
+    "players": "vonbonkagain (1200) vs. marjan36 (1863)",
+    "opening": "two knights defence (C58), Bogolyubov variation"
+}

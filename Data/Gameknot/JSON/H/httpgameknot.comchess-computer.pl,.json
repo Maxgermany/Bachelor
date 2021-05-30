@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4": "This is my first victory against the intermediate (~1600) GK Computer.\n",
+        "1... d5 2. exd5 c6 3. dxc6": "I accept it to keep the game interesting, curious to see how the cpu plans to compensate.",
+        "3... Nxc6 4. Nc3 e5 5. Bc4 Nf6 6. d3 Bc5 7. Bg5": "Not my safest move, but an actively developed piece none the less.",
+        "7... Qb6 8. Bxf6": "feeling the pinch on f2 and b2, I take my chance to open up the kingside.",
+        "8... Bxf2+": "black has regained its lost pawn and I have lost castling rights.",
+        "9. Kf1 Bxg1": "\"I think 9...Bxg1? is a very bad move. Your knight was doing nothing while his bishop was very active on that diagonal. ~ l-d-j (1747) on 18-Apr-12\"",
+        "10. Rxg1 gxf6 11. Qh5": "now its my turn to sacrafice a pawn for rapid development.",
+        "11... O-O": "? Castling queen-side seemed like the safer choice.\n\n\"GM Roman Dzindzichasvili has said that computers throw up moves like these in games and as such are unreliable. ~liam1260 (1625) on 17-Apr-12\"",
+        "12. Ne4 Qxb2 13. Nxf6+ Kg7 14. Qg5+ Kh8 15. Re1": "fleeing for safety and trying to get the only mobile rook in play on the kingside.",
+        "15... Qd4": "But black assess' the potential danger mounting and passes up the pawn",
+        "16. Re4 Qa1+ 17. Kf2 Qc3 18. Rge1": "knowing the undeveloped pawns are dead weight and that the chances for perpetual check are diminished after ...Qxc2+, I forsake the pawn and continue getting pieces in on the action.\n\n\"i would go rh4! with a mating threat ~ blitzkov (1880) on 19-Apr-12\"",
+        "18... Qxc2+ 19. Re1e2 Qb1 20. Rh4 Qb6+ 21. Kg3 Bf5": "Forced capture",
+        "22. Qxf5 Rfg8+ 23. Kh3 Rg3+": "Forced capture 2",
+        "24. hxg3 Kg7 25. Rxh7+ Kf8 26. Nd7+": "fork for the win",
+        "26... Ke7 27. Qxf7+": "but white ignores the queen and goes for mate.",
+        "27... Kd6 28. Qd5+ Kc7 29. Nc5+ Kc8 30. Qd7+ Kb8 31. Rh8+ Nd8": "Forced",
+        "32. Rxd8+ Qxd8": "Forced",
+        "33. Qxd8#": "Thanks for watching my game. This is my first and only victory vs. the intermediate GK cpu to date.\n\n\"I think you did well to defend when the temptation must have been there to make one more attacking move e.g. Rh4 earlier than it should. ~liam1260 (1625) on 17-Apr-12\""
+    },
+    "url": "https://gameknot.com/annotation.pl/http-gameknot-com-chess-computer-pl?gm=44341",
+    "gameName": "http://gameknot.com/chess-computer.pl,",
+    "players": "porygon (1500) vs. Computer (Intermediate level) (1600)",
+    "opening": "Scandinavian defence, Lasker variation (B01)"
+}

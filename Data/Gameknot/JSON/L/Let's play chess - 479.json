@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "A fairly short game though I can't help but feel it could have been a little shorter, any insights would be gratefully received",
+        "1... d5 2. c4 Nf6": "QGD Marshall Defence, not one I have seen all that often.",
+        "3. Nf3 Bg4 4. Ne5": "Not a move I have played often but I like the knight here as it can be hard to shift",
+        "4... Be6": "Blocks the e pawn and limits blacks dsb, so he is pretty much forced to fianchetto it",
+        "5. Nc3 dxc4 6. e4 Nfd7 7. Nxc4 Bxc4": "Possibly not the best move from black as I can now develop with tempo and black loses his most oactive piece",
+        "8. Bxc4 e6 9. O-O g6 10. Qf3 Bg7 11. e5": "I have a good grip on the light squares, particularly those in the centre, so I wasn't too worried about this move, it also allows Ne4",
+        "11... O-O": "Castling into potential danger, as some of my pieces are already pointing that way",
+        "12. Bf4 c6": "I don't understand this move at all as it means blacks b8 knight can only move to a6 where it is no better off than it is now.",
+        "13. Ne4": "I found this irresistable after blacks previous move",
+        "13... f5": "Loses a pawn and also will give me a passed pawn.",
+        "14. Bxe6+ Kh8 15. Ng5": "threatens a royal fork",
+        "15... Nb6": "Another strange move from black, I can't see what this achieves other than allowing the Nb8 to go to d7",
+        "16. Qh3": "Threatening mate with Qxh7 means that black has to allow me the Royal fork gaining me a rook for a knight",
+        "16... h5": "About the only option I could see that worked for black,  16...,h6, Nf7+ piles pressure on h6",
+        "17. Nf7+ Rxf7 18. Bxf7": "To my mind I was clearly ahead here however I couldn't see a clear win",
+        "18... Qe7 19. Bxg6": "Also tempting was e6 but I felt this was better as it restricts the black king to the 8th rank",
+        "19... Nb8d7": "Kg8 looks better to me.",
+        "20. Qxh5+ Kg8 21. Bg5": "pushing the black queen away from defence of the bishop, Qf8 loses to Qh7#",
+        "21... Qe6 22. Qh7+ Kf8 23. Bxf5": "I wasn't thrilled with this move but couldn't see anything better",
+        "23... Qd5 24. e6": "restricting the black king still to the 8th rank",
+        "24... Nf6": "This is a blunder from black as we will see",
+        "25. Bxf6": "the bishop on f6 is immune due to Qf7#. \n\nBlack resigned\n\nThanks for reading please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=40433",
+    "gameName": "Let's play chess",
+    "players": "elwoos (1555) vs. catacrok (1486)",
+    "opening": "QGD (D06), Marshall defence"
+}

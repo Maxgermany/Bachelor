@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e3 e5 2. d4 e4 3. Nc3 d5": "I tried to find what this opening was called and I found it as Irregular opening. ",
+        "4. b3 Nf6 5. Bb2 Bb4": "Pinning my Knight.",
+        "6. a3 Bxc3+ 7. Bxc3 O-O 8. f3 Qe7": "Fatal Mistake.",
+        "9. Bb4": "!! Winning a Rook early in the game. Cannot push c5 because of Bishop takes c5.",
+        "9... Qe6 10. Bxf8 Kxf8 11. Nh3 b6 12. Ng5 Qe7 13. c4 c6 14. Qc2 Bb7 15. fxe4": "I wanted to move the f pawn out of the way so I can castle with my Rook having a good open file.",
+        "15... Nxe4 16. Nxe4 dxe4 17. Be2 Nd7 18. O-O Rd8 19. Bh5": "Threatening check.",
+        "19... g6 20. Bg4 c5 21. d5 h5 22. Bxd7 Rxd7 23. Rf4 f5 24. Raf1 Qe5 25. Rxe4": "!! F pawn cannot take my Rook because it is pinned.",
+        "25... Qf6 26. Re6": "I like my Rook to be there.",
+        "26... Qg5 27. h4 Qg4": "Black see's the Queen takes h4 Rook takes g6.",
+        "28. Rf4 Qg3 29. Qf2": "I decided to trade Queens because I was up material.",
+        "29... Qxf2+ 30. Kxf2 Kf7": "To stop the Rook from taking g6.",
+        "31. e4 Bc8 32. exf5 gxf5 33. Rxf5+ Kg8 34. Re8+": "Winning his Bishop.",
+        "34... Kg7 35. Rxc8 Re7 36. Rg5+ Kf6 37. Rc6+ Kf7 38. Rxh5 Ke8 39. Rh8+ Kd7 40. Kf3 Re5 41. Rh7+ Kd8 42. d6 Re6 43. Kf4 Re8 44. Rcc7 b5": "He really had nothing else to do. If he wanted the game to go on longer he could keep checking me.",
+        "45. Rhd7#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/irregular-opening?gm=23876",
+    "gameName": "Irregular Opening",
+    "players": "Larsen, Zachary (1208) vs. Do, Steven (1097)",
+    "opening": "Amsterdam attack (A00)"
+}

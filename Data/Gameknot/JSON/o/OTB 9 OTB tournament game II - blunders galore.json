@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "My opponent starts normal.",
+        "1... e5": "I continue with the King pawn opening.",
+        "2. Nf3 Nc6 3. Nc3": "Four knights game! I never play this as white unless I use the rule of the fork, a tactic for when people play 3... Bc5 I continue with 4. Nxe5 Nxe5 d4! which forks the knight and bishop.",
+        "3... Bc5": "He could play Nxe5 now, but I don\u2019t think he knew the trick.",
+        "4. Bc4 d6 5. d3": "This is asking for Bg4!",
+        "5... Bg4 6. h3 Bh5 7. g4": "Ruins the kingside. This is fine - as long as he does not castle kingside.",
+        "7... Bg6 8. O-O": "?? Now I punish him for this.",
+        "8... Nf6 9. Be3 Nd4 10. Ng5 O-O 11. Bxf7+": "?? This sacrifices a bishop for a pawn!",
+        "11... Bxf7 12. Nxf7 Rxf7": "I am at +2 and a winning kingside!",
+        "13. g5 Nd7 14. Na4 Nf3+": "Now, we see me storming through Raj\u2019s defences!",
+        "15. Kg2 Nxg5 16. Bxc5": "!?",
+        "16... dxc5 17. Nxc5 Nxc5": "Now at +5.",
+        "18. h4 Nf3 19. Kh3": "Touch move. This is a blunder, but Raj touched his king and didn\u2019t have anywhere to move it. Mate in 2.",
+        "19... Qxh4+ 20. Kg2 Qh2#": "Checkmate. My second tournament game won!"
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-9-otb-tournament-game-ii-blunders-galore?gm=66159",
+    "gameName": "OTB 9: OTB tournament game II - blunders galore",
+    "players": "Raj (white) vs. Eric (black)",
+    "opening": "Three knights game (C46)"
+}

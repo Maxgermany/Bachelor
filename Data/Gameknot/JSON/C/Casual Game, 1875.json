@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5": "Rather than form an ideal center by recapturing the Pawn, White presses forward. ",
+        "6... d5": "The Cardinal, naturally, prefers a Bishop to a Knight.",
+        "7. exf6 dxc4": "Now it is in fact *Black* who has a strong Pawn center.",
+        "8. Qe2+ Be6 9. fxg7 Rg8": "Aiming, after capturing the obstructing Pawn, at the future home of the White King.",
+        "10. cxd4 Nxd4 11. Nxd4 Bxd4": "Leaving White nearly undeveloped.",
+        "12. Qh5 Qf6": "Pressuring KB2.",
+        "13. O-O": "Forced, to guard the KBP.",
+        "13... Rxg7": "Black has four pieces now trained on the denuded White K-side.",
+        "14. Qb5+": "Removing the Q from the defense of the imperiled K-side.",
+        "14... c6": "Setting a trap...",
+        "15. Qxb7": "...which White falls into. Now the Q is cut off entirely from the scene of action.",
+        "15... Rxg2+": "The riposte is swift.",
+        "16. Kxg2": "The King is now exposed to the fury of the Cardinal's pieces.",
+        "16... Qg6+": "Forcing the pace.",
+        "17. Kh1": "Forced [17 K-B3??? Q-N5 mate!]",
+        "17... Bd5+": "Excellent utilization of a Bishop by the Cardinal.",
+        "18. f3": "Forced.",
+        "18... Bxf3+": "With mate to follow.",
+        "19. Rxf3": "The only legal move, allowing...",
+        "19... Qg1#": "...this delightful finish."
+    },
+    "url": "https://gameknot.com/annotation.pl/casual-game-1875?gm=37917",
+    "gameName": "Casual Game, 1875",
+    "players": "[Unknown]  vs. Cardinal Vincenzo Pecci ",
+    "opening": "Giuoco Piano (C53)"
+}

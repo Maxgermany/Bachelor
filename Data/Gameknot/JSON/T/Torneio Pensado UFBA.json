@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bc5 5. d3 O-O 6. O-O h6 7. Be3 Bxe3 8. fxe3 d6 9. Qe1 Nb4 10. Ba4 c6 11. a3 Na6 12. b4 Qb6": "Joguei 12...Db6 com inten\u00e7\u00e3o de 13...Cg4 e pressionar o pe\u00e3o atrasado dele de e3, Geraldo responde corretamente 13.h3!",
+        "13. h3 Nc7 14. Nh4": "Geraldo joga 14.Ch4, com inten\u00e7\u00e3o de 15.Txf6 gxf6 16.Cf5 e finalmente 17.Dg3 com amea\u00e7a de mate! Respondi 14...Ch5 ",
+        "14... Nh5 15. Nf5 Nf4": "Cometi um descuido nesse lance, mas em troca do pe\u00e3o, obtive 1 tempo na constru\u00e7\u00e3o do meu ataque aos pe\u00f5es centrais brancos!",
+        "16. Nxd6 Be6 17. Kh2 Ng6 18. Nf5 Qa6": "Joguei 18...Da6 com inten\u00e7\u00e3o de 19...b5 20.Bb3 Bxb3 21.cxb3 e finalmente 21...Dxd3 recuperando o pe\u00e3o, mas Geraldo responde 19.d4 evitando a perda do pe\u00e3o e ao mesmo tempo contratacando o meu pe\u00e3o central preto.",
+        "19. d4 Rae8": "Joguei 19...Tae8 como movimento defensivo ja prevendo o avan\u00e7o de d5 por parte das brancas! ",
+        "20. d5 b5": "Contra-atacando o bispo dele, na inten\u00e7\u00e3o de trocar meu bispo mais ou menos pelo bispo bom dele, mas ele recusa",
+        "21. Bb3 cxd5 22. exd5 Bxf5 23. Rxf5 e4": "Avan\u00e7o providencial evitando 24.e4 e defendendo o pe\u00e3o passado branco",
+        "24. Qf2 Qd6+": "Xeque providencial para evitar o avan\u00e7o do pe\u00e3o passado",
+        "25. Kh1 Re5": "Lance para pressionar o pe\u00e3o passado dele",
+        "26. Rf1 f6": "26...f6 \u00fanico pois a sequencia de trocas favorecia as brancas",
+        "27. a4 bxa4 28. Nxa4 Rb8 29. Qg3 Kh7 30. h4": "Geraldo busca expulsar meu cavalo de g6, nesse momento eu estava calculando um contra jogo ap\u00f3s as trocas que viriam a seguir",
+        "30... Nb5 31. h5 Ne7 32. Rxe5": "Ap\u00f3s esse lance, fui for\u00e7ado a tomar a torre de dama, devido ao lance branco 33.Dg4, causando s\u00e9rios problemas na posi\u00e7\u00e3o para as negras",
+        "32... Qxe5 33. Qxe5 fxe5 34. Rf7": "Lance previs\u00edvel que ja tinha visto desde o lance 31.h5",
+        "34... Ng8": "Final equilibrado, onde um erro \u00e9 fatal",
+        "35. Nc5 Nd6": "Amea\u00e7o a torre na inten\u00e7\u00e3o de desenvolver rapidamente os meus cavalos para atacar o rei branco",
+        "36. Rd7 Nf5 37. Nxe4 Rxb4 38. Nc5 Nf6": "Nova amea\u00e7a, entregando o pe\u00e3o mas desenvolvendo o cavalo",
+        "39. Rxa7 Nxe3 40. d6 Rd4": "40...Td4! lance l\u00f3gico que \u00e9 atacante e defensivo ao mesmo tempo",
+        "41. Ne6": "Ap\u00f3s 41.Ce6, eu poderia simplesmente tomar o pe\u00e3o com 41...Td6, Geraldo responderia 42.Txg7+ Rh8 43.Tg6 Th4+ 44.Rg1 Txh5 e ficaria empatado tecnicamente, mas eu queria ir alem, foi pura estrat\u00e9gia da minha parte, j\u00e1 estava calculando possibilidade de mate! Seguiu 41.Td1+ ",
+        "41... Rd1+ 42. Kh2 Nxh5": "Meu calculo estava t\u00e3o imprevis\u00edvel que esqueci da possibilidade do perpetuo de Cavalo, por sorte Geraldo n\u00e3o viu tambem, eu fui ver ap\u00f3s o lance 43.Cf8+",
+        "43. Nf8+ Kh8": "Posi\u00e7\u00e3o de Perp\u00e9tuo, bastava Geraldo jogar Cg6+, depois Cf8+, repetindo, se fosse Moacir com certeza iria empatar kkkkkkkkkkkkkkk!",
+        "44. d7": "Ap\u00f3s esse lance continuei com a minha combina\u00e7\u00e3o, esperando s\u00f3 mais um erro da parte de Geraldo",
+        "44... Rd2": "Mate quase pronto, ou Geraldo perpetua ou ele leva mate! Ele acabou jogando 45.Ta8, amea\u00e7ando promover e da mate com bispo em g6 e descoberto de cavalo, mas meu mate ja estava pronto.",
+        "45. Ra8": "Posi\u00e7\u00e3o de problema: Pretas jogam e d\u00e3o mate em 3 lances!",
+        "45... Rxg2+ 46. Kh3 Nf4+": "Ap\u00f3s esse lance Geraldo abandona, mas vamos seguir para ver como iria terminar a partida!",
+        "47. Kh4 Nf5#": "Mate muito bonito, com 2 cavalos e uma torre, partida digna de GMS. um abra\u00e7o!"
+    },
+    "url": "https://gameknot.com/annotation.pl/torneio-pensado-ufba?gm=56137",
+    "gameName": "Torneio Pensado UFBA",
+    "players": "Geraldo da Silva (3212) vs. Romulo Melgaco (2106)",
+    "opening": "Petrov three knights game (C42)"
+}

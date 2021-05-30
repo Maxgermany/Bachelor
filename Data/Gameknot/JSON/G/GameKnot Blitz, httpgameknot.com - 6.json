@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4": "Center game. After ...exd4, c3 dxc3, Bc4 cxb2, Bxb2. White has a lead in development.",
+        "2... Nc6": "Best for black is to accept the pawns.",
+        "3. dxe5 Nxe5 4. Nc3 d6 5. Bb5+": "I do not fear c6 as it weakens the d-pawn.",
+        "5... Bd7 6. Bxd7+ Nxd7": "Capture with the queen is better. This inactivates the knight.",
+        "7. Nf3 a6 8. O-O h6 9. Re1": "Setting a little trap...",
+        "9... Ngf6": "He falls for it. Now I jump into the drivers seat.",
+        "10. e5 dxe5 11. Nxe5 Nxe5 12. Rxe5+ Be7 13. Bf4": "Defending the queen.",
+        "13... Qxd1+ 14. Rxd1 O-O": "?????",
+        "15. Rxe7": "I take the free bishop.",
+        "15... Ng4": "This doesn't do anything.",
+        "16. Rdd7": "!! The seventh rank is mine!",
+        "16... Nf6 17. Rdxc7": "I start gobbling up pawns.",
+        "17... b5 18. Be5": "I drive the knight away from the potential fork on d5.",
+        "18... Ng4 19. f4 b4 20. Nd5 Rad8": "Now I wonder how to defend the back rank threat.",
+        "21. h3 Nxe5 22. Rxe5 f6": "?? Now I penetrate into his king's fortress with mate.",
+        "23. Ree7": "Daring him to take the knight.",
+        "23... Kh8": "It is too late",
+        "24. Rexg7 Rxd5": "There was no way to prevent mate.",
+        "25. Rgh7+ Kg8 26. Rcg7#": "That is why you should avoid at all cost letting your opponent get his rooks on the seventh."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz-http-gameknot-com?gm=64235",
+    "gameName": "GameKnot Blitz, http://gameknot.com/",
+    "players": "lake-bay (1439) vs. alforjasruca (1200)",
+    "opening": "Centre game (C21)"
+}

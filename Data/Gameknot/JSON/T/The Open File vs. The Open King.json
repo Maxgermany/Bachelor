@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "I started the game into a King pawn oppenig..",
+        "1... e5": "Black answers directly in the opening..",
+        "2. Nf3 d6": "A bad defense.. It will block the movement of opponent black bishop...",
+        "3. Nc3": "I am starting to development my pieces..",
+        "3... c6": "Black move c6 to support the advancement of d6 to d5..",
+        "4. Bc4": "The white bishop block the pawn threat at d5.... If I didn't do that, my opponent will have advantage in the center..",
+        "4... Be6": "I accept the trade of bishop because It can weaken the defense in the king side..",
+        "5. Bxe6 fxe6 6. d4": "This move gives lot of movement to knight, bishop and queen..",
+        "6... h6": "that is a mistake.. bcoz of 7. d4xe5... ",
+        "7. dxe5": "so the best move for black is to move the pawn..",
+        "7... dxe5": "another mistake for black..  ",
+        "8. Qxd8+": "The trade of queen lost black chance of castling..",
+        "8... Kxd8 9. Nxe5": "I am planning to fork the king and the rook..",
+        "9... Kc7": "Another mistake.. The best move is Ke8",
+        "10. Bf4": "the bishop will provide a check when I move the knight in f7... If the opponent make a mistake, then black will lost rook..",
+        "10... Kc8 11. O-O-O": "I decided to castling the rook and the king on the queen side bcoz of the rook power in d file..",
+        "11... g5": "watch for the checkmate",
+        "12. Nf7": "white near to victory.. bcoz of the move, rook to d8.. the only hope for black is to take the bishop... then I will eat the take rook...",
+        "12... Rh7": "Black lost bcoz of this blunder... ",
+        "13. Rd8#": "victory...\r\nIf you observe the game carefully, the reason why I win against black are the open d file that occupy by the rook, the weak defense, the open king, no development of black pieces, the lost of castling to black and enemy blunder.."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-open-file-vs-the-open-king?gm=7366",
+    "gameName": "The Open File vs. The Open King",
+    "players": "davidjosh_28 (1571) vs. napthetap (1429)",
+    "opening": "Philidor's defence (C41)"
+}

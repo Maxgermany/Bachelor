@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 b6": "Right away, I go out of \"book\". ",
+        "2. d4 Bb7": "Completing the fianchetto while my opponent forms a so-called \"ideal center\".",
+        "3. Nc3 e6": "Opening a line to develop my other B.",
+        "4. Bd3 Nf6": "Continuing logically.",
+        "5. Bg5 Be7": "Cutting off the pin.",
+        "6. e5 Nd5": "With a somewhat cramped position, exchanges are welcome.",
+        "7. Nxd5 Bxd5": "First one...",
+        "8. Bxe7 Qxe7": "...and now two sets of minor pieces vanish. White should now play either 9 N-B3 or 9 P-KB3 [preferably the former, as it develops a piece on its natural square]...",
+        "9. c4 Bxg2": "...to prevent this move, winning the Rook. ",
+        "10. Nf3 Bxh1": "Now I threaten to exchange off another set of minor pieces. With my material advantage, trading down is in my favor.",
+        "11. Kd2 Bxf3": "And here is the exchange.",
+        "12. Qxf3 Nc6": "Clearing the back rank and preparing to castle.",
+        "13. d5 Nxe5": "Winning more material and forcing the last minors off the board.",
+        "14. Qe2 Nxd3": "The final swap.",
+        "15. Qxd3 O-O-O": "Securing my King.",
+        "16. Re1 Qd6": "Preparing to simplify down again.",
+        "17. b3 Rhe8": "Threatening 18... PxP forcing an exchange of major pieces [if White moves his Rook, 19... PxP forces the Queens off the board.] White resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d3?gm=39768",
+    "gameName": "League division D3",
+    "players": "cruiseboat (1148) vs. thehellion (1308)",
+    "opening": "Guatemala defence (B00)"
+}

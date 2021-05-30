@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4": "Following along main lines. ",
+        "4... d5": "d5?! This move gains center space but after c5 black's knight is forced to c4 where it is dying to get trapped , or d7 when after nc3 , c6 black has a very hard time activating his pieces. ",
+        "5. c5 Nc4": "Black decides to , essentially, sacrifice a piece as he wastes a lot of time getting his knight back to c6.",
+        "6. Nf3 Bg4": "Pinning the knight but it just gives up the two Bishops after h3, better is Bf5.",
+        "7. b3": "Forcing the knight to a5.",
+        "7... Bxf3 8. Qxf3 Nc6": "Black decided to sacrifice his c4 knight because after Na5 white gets the superior game because of white's extra space and black's hard development. ",
+        "9. bxc4 Nxd4 10. Qc3 Nf5": "Better would be dxc5 but the sacrifice is already wearing off. ",
+        "11. cxd5 Qxd5 12. Bb2 Qe4+ 13. Be2 Qxg2 14. Qf3": "Now black is almost forced to trade queens as after Qg5 Qxb7 white is clearly better. Though white could of played Bf3 and won the b7 pawn I played Qf3 because I was up material.",
+        "14... Qxf3 15. Bxf3 O-O-O 16. Nd2 e6 17. Ne4 Nh4 18. Ke2 f5": "f5?! this creates a big weakness on e6 after Ng5 not to mention the fork threat of Nf7.",
+        "19. Ng5 Rd7 20. Nxe6 Ng6": "Black moves back his knight. Better was Nxf3 Kxf3 Rd2 when black get's rooks on the seventh.",
+        "21. Rad1 Rxd1 22. Rxd1": "Now white is in control and black has the awkward development. ",
+        "22... Be7 23. Nxg7": "White wins another pawn .",
+        "23... f4 24. c6": "I try to break up the queenside and introduce mating threats of Rd8 later in the game but another idea is e6 threatening N discoveries and Rd7.",
+        "24... bxc6": "Black should play b6 as this wrecks his queenside and activates my bishop.",
+        "25. Bxc6 Rg8 26. Nf5 Rd8": "This loses the exchange by force and the game as black will be down heavily by material. ",
+        "27. Nxe7+": "Removing the defender of the d8 rook. ",
+        "27... Nxe7 28. Bb7+": "! And decoying the king away . The sacrifice must be accepted as Kb8 Rxd8 and white wins a tempo from the line played. ",
+        "28... Kxb7 29. Rxd8 h6": "Better would probably be to activate his knight but black's doomed. ",
+        "30. Rd7 Nf5 31. e6 Kc8 32. Bf6 h5 33. Rd8+ Kb7 34. e7 Nxe7": "Forced to stop queening.",
+        "35. Bxe7 c6 36. Rf8 Kc7 37. Rxf4 Kd7 38. Re4 Kc7 39. Bc5": "With this move white plans to play Re7  and then bring his king over to checkmate , which can't be stopped. ",
+        "39... a6 40. Re7+ Kd8 41. Kd3 a5 42. Kd4 a4 43. Ke5 a3 44. Kd6": "Black resigns as h4, Bb6 , Kc8, Kxc6  there is no defense to the mate on e8."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=1265",
+    "gameName": "Let's play chess",
+    "players": "cheetah08 (1632) vs. jotaeme (1555)",
+    "opening": "Alekhine's defence (B02), Steiner variation"
+}

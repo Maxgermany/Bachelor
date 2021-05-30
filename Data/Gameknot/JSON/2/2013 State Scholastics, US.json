@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. d4 e6 2. e4 d5 3. e5 c5 4. Nc3 Nc6 5. Nf3 b6": "   Desmond was playing the French Defense and the game proceeded to develop in to the Advance Variation of the French.  However, 5. ..b6 was not the best response.  5. ..cxd4 would have been much better.  I believe he was nervous.",
+        "6. Bb5 Nge7 7. Bg5 Qc7": "Qc7 is a nice move to get some control back by targeting the e5 pawn after removing d4.  But, Savanna sees this as well and goes on the attack to gain tempo.",
+        "8. dxc5 bxc5 9. O-O Bb7 10. Be3 Nf5": "Be3 was a mistake.  10 . .Nf5 attacks bishop while the black-square bishop protects the c5 pawn.  Tempo gained by Desmond.",
+        "11. Bf4 Be7 12. g4 Nh4 13. Nxh4 Bxh4": "oh, oh . . .Bishop is now trapped with g5!",
+        "14. g5 h6 15. Qh5 Bxg5 16. Bxg5 Qxe5 17. f4 Qd4+ 18. Rf2 g6": "I like moves like this.  g6!! attacks the white queen while providing space for the black queen to protect the rook when hxg5.",
+        "19. Qh4 hxg5": "The queen cannot take the rook on h8 because of the queen protection from d4.  ",
+        "20. Qxg5": "Now Desmond's rook is bearing down on h2! and Fritz and Dad says Desmond is better.",
+        "20... Rxh2 21. Raf1 Rh5 22. Qg3": "22. ..c4 would prevent white's bishop's retreat.",
+        "22... O-O-O 23. Be2 Rh6 24. Nb5": "The queen's gotta move.  Why not e4 where Rh1 would be a mate threat?  ",
+        "24... Qxb2 25. f5": "Savanna comes back with her own mate threat with her queen eyeing c7.  But, does she have time?",
+        "25... Qe5 26. Nxa7+ Kc7 27. Nb5+": "Here is the fork in the road, Kd7 or Kb8?  It is at these moments where bummers are discovered.  Kd7 allows for fxe6+ and also opens space for the stacked rooks to pound through the created hole!  Kd8 guards any further harassing checks from the knight and now Savanna would have to trade queens with her king exposed and pawns in a mess.  Desmond certainly can compete with any of the top players in the state.",
+        "27... Kd7": "27.  . . Kd7, bummer.  Alternative variation: 27... Kb6 28. Qxe5 Nxe5 29. fxe6 fxe6 30. Rb1 Kc6\n",
+        "28. fxe6+ Qxe6 29. Rf2xf7+ Ne7 30. Qc7+ Ke8 31. Rf7f8#": "It's a bummer, dude."
+    },
+    "url": "https://gameknot.com/annotation.pl/2013-state-scholastics-us?gm=49470",
+    "gameName": "2013 State Scholastics, US",
+    "players": "Naccarato, Savanna  vs. Porth, Desmond ",
+    "opening": "Queen's pawn (A40)"
+}

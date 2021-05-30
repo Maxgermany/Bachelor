@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 c5 2. d4": "Fighting the Sicialian is awkward business. I prefer 2. f4, the Grand Prix, or 2. Ne2 (Keres System), above 2. Nf3... So does my opponent: he prefers a quick 2. d4, and get it over with... Get to d5, or die...",
+        "2... cxd4": "I am not the type of player, that will defend c5, via d6, or even e6. That will lose tempo along the way. The main object for black, is to control d5... Most of the times, I prefer 2. ... g6 here, with quick Dragon tendencies... In the event of 3. dxc5, Qa5+, followed by Qxc5 at some point... Eventually cxd4 gets forced, so I decided to call whites bluff...",
+        "3. Nf3": "3. Qxd4 Nc6 4. Qa4 Nf6, promises white nothing... But this is too slow...",
+        "3... e5": "Of course! After 4. Nxe5? Qa5+...",
+        "4. c3": "4. Bc4 Qc7, is no good... This is probably best...",
+        "4... Nc6 5. Bc4": "Surely, white had to play 5. cxd4 exd4 first, before even considering Bc4. After 6. Nxd4 Bb4+ 7. Nc3 Nf6...",
+        "5... Nf6": "Of course. We threaten d5, and black wins the opening stage...",
+        "6. Ng5 d5 7. exd5 b5": "Surely much stronger than 7. ... Nxd5 8. Qb3(!) Be6...",
+        "8. dxc6": "White crumbles... After 8. Bxb5 Qxd5 9. Qb3 Bd7 10. Qxd5 Nxd5 11. Bc4 Be6 12. Nxe6 fxe6...",
+        "8... bxc4 9. O-O Bc5 10. Qa4": "10. Nf3 is best...",
+        "10... O-O 11. Nd2": "After 11. Qxc4 Qb6! (threatens Ba6) 12. b4 Bd6 13. a4 h6 14. Nf3 Bg4...",
+        "11... dxc3 12. bxc3 Qc7 13. Nxc4": "Probably, 13. Rb1 Be7, or 13. Re1 Rd8, followed by 14. Nxc4, is best...",
+        "13... h6 14. Nf3": "14. Qb5 Bb6 15. Nf3 e4 16. Nd4 Rb8 17. Nxb6 Rxb6...",
+        "14... e4 15. Nd4 Rd8": "15. ... a5 16. Re1 Rd8 17. Ba3!, so no pondering...",
+        "16. Rb1": "After 16. Qa5 Qax5 17. Nxa5 Ba6! 18. Re1 Bxd4...",
+        "16... Bxd4 17. cxd4 Rxd4 18. Bb2 Ng4 19. g3 Rd3": "There is not much choosing for black. We hold a fairly equal position...",
+        "20. Bc1": "20. Rfe1 Bf5 21. Qb5 Be6 22. Qb7 Rc8...",
+        "20... Be6": "A clear blunder... Better is 20. ... Ne5 21. Nxe5 Qxe5 22. Bf4 (c7, Bd7!, Qc4 (Bf4, Bxa4, Bxe5, Rc8), Rc8 might just hold) Qe8... Black loses control now...",
+        "21. Bf4 Qe7 22. c7": "22. Rfc1 g5! 23. Bb8 Nxf2!",
+        "22... Rc8 23. Rb8 g5": "Pure bluff... 23. ... Rc3 24. Nd6...",
+        "24. Nd6": "I was hoping for 24. Bd6 Rxd6 25. Qb4 (or Nxd6, Qxd6) Qxc7 etcetera... But white is relentless...",
+        "24... gxf4 25. Nxc8 Qxc7 26. Ne7+ Kg7 27. Rg8+ Kf6 28. Qxe4 Nxf2": "Not better is 28. ... Qd6 29. Nc8 Qd4 30. Qh7...",
+        "29. Rxf2 Rd1+ 30. Kg2 Kxe7 31. Qb4+": "White cracks, probably out of frustration. Correct is 31. Rxf4 (threatening deadly Rxf7) Rd2+ 32.Rf2 Rxf2+... Now, black escapes...",
+        "31... Qd6 32. Qxd6+ Rxd6": "For some reason - probably out of resentment for my luck -  white resigned... I did not object... 33. Rxf4 Bxa2 looks not promising for white, but he's still slightly better... After this game, I broke the 1900 barrier; later, my opponent would stop me from breaking the 2000 barrier, in a thrilling draw... Maybe later...",
+        "33. Rxf4 Bxa2 34. Kf2 Bd5": "This is what might have followed. White has no clear way of threatening black's free pawn... And no clear way, to start an attack againgst black's King... Of course, white must win this in the end. My opponent preferred to resign alltogether..."
+    },
+    "url": "https://gameknot.com/annotation.pl/pondering-the-wonder-of-the-sicilian?gm=41861",
+    "gameName": "Pondering the Wonder of the Sicilian",
+    "players": "royho (1836) vs. vonbonkisback (1800+)",
+    "opening": "Sicilian (B21), Andreaschek gambit"
+}

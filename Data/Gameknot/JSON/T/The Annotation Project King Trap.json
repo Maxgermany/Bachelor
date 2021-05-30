@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Another game from the ongoing Annotation Project, in which a total of 110 games are being played to explore all the ups and downs of an intriguing early queen sacrifice. For further comments on the opening, see my recent annotated game vs. untateve.",
+        "1... c5 2. f4 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Qxg4 Nxg4 7. Bxf7+ Kd7 8. Be6+ Kc6 9. Bxg4 Qe8": "The first diversion from my game against untateve, in which 9... e6 was played. That is also the move I have encountered more often. This alternative prevents a knight incursion on f7, but has the disadvantage of further delaying the development of Black's minor pieces.",
+        "10. O-O": "King safety and activating the rook. This is, however, rarer than 10. Nc3. But in the GK database it has a higher win percentage for White and was chosen by players with an average rating of 2221, against 1994 for 10. Nc3. Still, a small number of games doesn't prove much.",
+        "10... h6": "And now we are out of the database altogether; 10... Nd7 was chosen in all three previous games reaching this position. 10... h6 instead drives the knight away so that Black can set out developing in peace.",
+        "11. Nxe4 e6 12. Nbc3": "White gets another piece out in the hope that his strong central presence and developmental advantage will pay dividends.",
+        "12... Na6 13. a3": "As in the earlier game, this move prevents Nb4.",
+        "13... g6": "Black opens a second line for the bishop, perhaps hoping to exchange it for the c3 knight. This does, however, seem to make 11... e6 look questionable.",
+        "14. d3": "White responds by getting his own bishop out, choosing to develop on e3 since if Black's bishop goes to g7, White has some pressure on the c5 pawn, and the c3 knight is free to move (unless Black takes it immediately).",
+        "14... Bg7 15. Be3 Bd4": "Instead Black chooses to pin the White bishop, with an exchange looking likely.",
+        "16. Rae1": "White does not take the immediate exchange, since the c3 knight would have to move after 16. Bxd4 cxd4, and none of the available squares look particularly enticing.",
+        "16... b6": "Black protects the c5 pawn and prepares to get his king behind some pawn cover. Unfortunately....",
+        "17. Bf3": "The diagonal is opened, which White immediately seizes. Black must now respond to the threat of Nf6+.",
+        "17... Kc7 18. a4": "An anchor, allowing the knight to join the attack at b5. White could play 18. Nf6 winning the exchange, but since White is still material down, that seemed unappetising; it would involve surrendering White's active minor pieces and would lead to a difficult endgame.",
+        "18... Bxc3": "It's hard to see what this exchange achieves, since White recaptures with tempo and still has a knight ready to come to b5. Perhaps 18... Bxe3+ was better.",
+        "19. Nxc3 Rd8": "(?) The rook gets out of the way, but to the wrong square! Black needed d8 for the king.",
+        "20. Nb5+ Kb8": "The only other legal move now is 20... Kd7, but 21. Nxa7 threatens 22. Bc6+ and there is no good defence: 21... Ke7 Nc6+ or 21... Qf8 (or f7, g8) 22. Bc6+ Ke7 23. Bb7. Still, after 21... Ke7 White only wins the exchange and a pawn, and Black is still in the fight.",
+        "21. f5": "(!) Taking advantage of the Black king's incarceration.",
+        "21... gxf5": "Better was 21... e5, when 22. Bf4 exf4 23. Rxe8 R(either)xe8 24. fxg6 enters an unclear endgame in which White is still nominally at a disadvantage, but the g6 pawn is strong. This move loses immediately:",
+        "22. Bf4+": "There is no escape. Black's only legal moves are 22... Rd6 or 22... Nc7, both losing a rook for nothing, or the move played.",
+        "22... Kc8 23. Nxa7+ Kd7 24. Bc6+": "And now Black's queen is doomed. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-annotation-project-king-trap?gm=25204",
+    "gameName": "The Annotation Project: King Trap",
+    "players": "nuntar (1639) vs. yodean (1557)",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

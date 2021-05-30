@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. c4 Nf6": "I haven't really decided what to play against the english opening, so I chose an Indian defence setup. (I think it's called the English Indian)",
+        "2. Nc3 e6 3. g3 Bb4": "Putting pressure on his knight",
+        "4. Qc2 c5 5. e3 Nc6 6. Nge2 O-O 7. a3 Ba5": "Preserving my bishop.",
+        "8. Bg2 a6": "Denying his knight more squares, which means his other knight won't be too hopeful",
+        "9. O-O d5": "Claiming the centre",
+        "10. cxd5 exd5 11. d3 Bf5": "The pawn on d3 can't move",
+        "12. e4": "His bishop won't thank him for this move",
+        "12... d4": "Retreating the bishop doesn't look great, so I look for complications",
+        "13. Na4": "I guess now I'm in trouble",
+        "13... b5": "I can't save the c5 pawn, so I just hope that Ra-c1 will give me counterplay.",
+        "14. Nxc5 Bg4 15. f3 Bd7": "The bishop went to g4 first so he'd be forced to block in his bishop",
+        "16. b4 Bb6": "I'm down a pawn, but I think I have good chances",
+        "17. Bb2 a5 18. Nxd4 Ne5": "Exchanging knigts would probably be good for white. Now I'm 2 pawns down, I have to keep pieces on the board if I want to win",
+        "19. Nxb5 Bxb5 20. Bxe5 Bxd3": "Did he miss that his knight was pinned? Now I'm only 2 pawns down again \\O/",
+        "21. Bxf6 Bxc2 22. Bxd8 Raxd8 23. Kh1 Bxc5 24. bxc5 Rdc8 25. f4 Rxc5 26. e5": "I'm probably worse here, but I play for complications",
+        "26... g5 27. h3 h5 28. Bf3 Rc3 29. Kg2 h4 30. fxg5 Rc5 31. Rfe1 Re8 32. gxh4 Rcxe5 33. Rxe5 Rxe5 34. Kg3 Kg7 35. Kf4 Rf5+ 36. Kg4 Rc5": "I saw that the bishop could be pinned - and then I realised it really wasn't a pin at all!",
+        "37. Rc1 Bf5+": "Honestly, I'm pretty lucky he didn't see it.",
+        "38. Kf4 Rxc1 39. Kxf5 Rc3 40. Bg4 Rxa3": "yay, passed pawn.",
+        "41. h5 Rc3 42. h6+ Kh7 43. Kf6 Rc5": "Maybe just pushing the passed pawn is better, but Bf5+ worried me",
+        "44. Bf5+ Rxf5+ 45. Kxf5": "I was pretty pleased with the exchange sac - and then I realised that all the variations led to white winning! Keeping my rook might've been better",
+        "45... a4 46. h4": "Wasting time. I thought Kc3xc2 should win, but after 46. Kc3 a3 47. Kxc2 a7 48. g6+ Kxh6 49. g2 a1=Q g8=Q black can probably hold the draw. (edge-pawns are drawish anyway, and queen engames as well, so this endgame doubly so). a4 may still draw, but it gives me chances I don't really deserve",
+        "46... a3 47. h5": "Looks nasty",
+        "47... a2 48. g6+ fxg6+ 49. hxg6+ Kxh6": "The point is that white needed to get to f6 to advance his pawn, where I just queen with check. (I even thought the final position was drawn, and was shocked when he resigned)\n\nSo, in summary: the player who's worse off should probably look to complicate things, seeing as he doesn't have much to lose. But he could probably do better off by making sure he doesn't end up with a bad position in the first place. (I think what I did was look for complications in a balanced position, which isn't quite right, but at least I got my worse position in the end. Complications will do that!)"
+    },
+    "url": "https://gameknot.com/annotation.pl/63rd-gk-tournament-epic-win?gm=28196",
+    "gameName": "63rd GK tournament (epic win)",
+    "players": "sacripante4 (1494) vs. no_genius (1403)",
+    "opening": "English opening (A17)"
+}

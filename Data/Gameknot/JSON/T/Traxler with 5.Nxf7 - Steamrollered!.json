@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nI have been trying to find a game to annotate which involved yours truly and a fellow Bigpeta Club member.  I think it may be best to fish out one of my games with Coach Ion which I did not get round to annotate.  Sadly it was not one of my best efforts against The Coach and indeed I was absolutely steamrollered!  However, it does have some interest value because the guy who ran this mini-tournament was Freddy the Master Mater.  Freddy just lurves to play unusual openings and this is one of his experiments.  Anyhow, this is the Traxler (Wilkes-Barre Opening) arising out of the Two Knights Defense.",
+        "1... e5 2. Nf3 Nc6 3. Bc4 Nf6": "3. ..... Nf6 - this is the Two Knights Defense.  Now comes the first wild move.",
+        "4. Ng5": "4. Ng5 - which hits out at f7 threatening a knight fork.",
+        "4... Bc5": "4. ..... Bc5 - of which black ignores.  Yee Ha - this is the Traxler - guys and dolls!",
+        "5. Nxf7": "5. Nxf7 - fork.",
+        "5... Bxf2+ 6. Kf1": "6. Kf1 - if Henry takes the dsb then Nxe4+ is not pleasant.",
+        "6... Qe7 7. Nxh8": "8. Nxh8 - gobble, gobble!",
+        "7... d5 8. exd5 Nd4": "8. ...... Nd4 - in come the cavalry!",
+        "9. d6": "9. d6 - line opener for Fou Leblanc to enable the knight on h8 to extricate itself onto f7.",
+        "9... cxd6 10. Kxf2 d5": "10. ..... d5 - but Ion cuts off this pipeline.",
+        "11. d3": "11. d3 - this opens lines for Fou Leblanc to get out, but moresoever it creates a flight square for Glenda should Ion's lsb come to g4.",
+        "11... Bg4 12. Qd2 dxc4 13. h3 Ne4+ 14. dxe4 Qh4+": "14. ..... Qh4+!! - Ssssss and double sssss! Here comes the Wicked Witch of the West and this is looking really nasty for Henry.",
+        "15. g3": "15. g3 - this does not cut the mustard.",
+        "15... Qf6+ 16. Kg2 Bf3+ 17. Kg1 Be2": "17. .... Be2 - Ion does not take my rook.  This is a really horrible move as not only does it threaten a royal fork on f3 but Old Matey is threatening to descend onto f1.",
+        "18. Qe1": "18. Qe1 - stops Old Matey in his tracks but alas, Glenda is a gonner.  Here commeth that Royal Fork!",
+        "18... Nf3+ 19. Kf2 Nxe1+ 20. Kxe1": "20. Kxe1 - I still have a material advantage, but not for long.",
+        "20... Qf3 21. Rg1 Rd8": "21. Rd8 - now Old Matey is threatening to descend on d1!",
+        "22. Nc3": "22. Nc3 - development at last but too little too late.  Now Ion sacs his rook!",
+        "22... Rd1+ 23. Nxd1 Bxd1 24. Kd2": "24. Kd2 - Henry tries to run for the hills.  However .......",
+        "24... c3+": "24. ...... c4+!! - Here I resigned on the grounds of Unavoidable Mate.  If PXP then Qe2 is mate.  Ion's Wargaming Project has certainly stood him in excellent stead to steamroller \"She Who Wants to be TheBlackQueen!\"  I hope you all have a good read.  Bye for now - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/traxler-with-5-nxf7-steamrollered?gm=54104",
+    "gameName": "Traxler with 5.Nxf7 - Steamrollered!",
+    "players": "jstevens1 (1779) vs. archduke_piccolo (2096)",
+    "opening": "two knights defence (C57), Wilkes Barre (Traxler) variation"
+}

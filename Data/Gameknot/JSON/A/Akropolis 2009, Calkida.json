@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Bg2 O-O 7. Nf3 d6 8. O-O a5 9. a3 Na6 10. Nbd2 Qc7 11. h3 Rd8 12. e4 e5 13. Qe2 b6 14. a4 Bb7 15. b3 Rde8 16. Rad1 Rad8 17. Rfe1 exd4 18. Nxd4 Nc5 19. f3 Nh5 20. Nf1 d5 21. cxd5 Bxd5 22. exd5": "!?!\nAlternative: 22.Qc2 or 22.f4 with equal chances...",
+        "22... Rxe2 23. Rxe2 g6": "Perhaps black wanted to avoid the variation: 23... Nxg3 \n24. Nxg3 Qxg3 25. Nc6 Rf8 26. d6 Ne6 27. d7 h6 \n28. Rxe6!  fxe6 29. d8=Q Rxd8 30. Rxd8+ +/=\n",
+        "24. f4 Nf6 25. Nc6 Rd7 26. Ne5 Rd8 27. Nc6 Rd7 28. Ne5 Nxb3": "!+/=\nOtherwise black must offer the draw.",
+        "29. Nxd7 Nxd7": "?\nWrong choise.\nBetter was: 29..., Qxd7 30. d6, Nc5 31. Re7 Qxa4 and the black \npieces seem to stand better.\n",
+        "30. d6 Qc5+ 31. Kh2 Kg7 32. Re7 Qc8 33. Ne3 Nf6": "Black is helpless.\nNeither 33..., Nc5 saves the position. It would follow: 34.Bd5! ",
+        "34. d7": "Also good is: 34. Rc7!  (If 34\u2026, Qd8, then 35.d7, Qxc7 \n36.d8=Q, Qxd8 37.Rxd8 +-)",
+        "34... Qd8 35. Ng4": "!\nSimple and decisive.",
+        "35... Kf8": "Alternative variation: 35... Nxg4+ 36. hxg4, Qxe7 \n37. d8=Q, Qxd8 38.Rxd8, Nc5 39. Bc6 +-\n",
+        "36. Ne5": "Coup de grace!\nBlack cannot take the Rook and must resign.",
+        "36... Nc5": "It would follow 37.Rxf7+ and 38.Rxf6+-\n\nBut fate decided otherwise..."
+    },
+    "url": "https://gameknot.com/annotation.pl/akropolis-2009-calkida?gm=25710",
+    "gameName": "Akropolis 2009, Calkida?",
+    "players": "Karapanos, Nikolaos (2208) vs. Zoler, Dan (2472)",
+    "opening": "Catalan opening (E00)"
+}

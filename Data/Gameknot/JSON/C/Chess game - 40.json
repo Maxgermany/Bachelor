@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "always...",
+        "2. Bc4": "here we go again: no clue...",
+        "2... g6": "always...",
+        "3. Nc3 a6": "Najdorfs' extension: always, after Nc3; d6 is also an option, but we need the d-pawn for later...",
+        "4. a4": "u tell me...",
+        "4... Bg7": "always...",
+        "5. Nf3 e6": "always...",
+        "6. d3": "why not d4?",
+        "6... Ne7": "always...",
+        "7. O-O O-O 8. Bg5": "a minor distraction...",
+        "8... f6 9. Be3": "that would have been a sound move: in an earlier life...",
+        "9... d5": "always d5...",
+        "10. exd5 exd5 11. Bb3": "making d5-d4 a lethal move...",
+        "11... Kh8": "so we first need this...",
+        "12. Bxc5 Qc7 13. Bxe7 Qxe7 14. Nxd5 Qc5": "not discouraged at all...",
+        "15. h3 Be6": "pushing Nd5...",
+        "16. d4": "a bit too late...",
+        "16... Qc6 17. Nc7 Bxb3": "fearless...",
+        "18. Nxa8": "idiot: this Knight will never survive...",
+        "18... Bxc2 19. Qd2 Be4": "setting up, multiple targets...",
+        "20. Rac1 Qd5 21. Qe3 b5": "after Nb6/Nc7, Qb7...",
+        "22. Nc7 Qb7": "like so...",
+        "23. axb5 Bxf3 24. Qxf3 Qxf3": "like planned...",
+        "25. g3": "a sudden end of the game: what is this? a mouse slip? a resignation? a cunning plan, to foil Black? we will never know: White resigned..."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=65312",
+    "gameName": "Chess game?",
+    "players": "ilr2001 (UR) vs. fiercequeen (2059)",
+    "opening": "Sicilian defence (B20)"
+}

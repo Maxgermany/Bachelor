@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4": "The Ruy Lopez. my favourite.",
+        "4... b5": "not the best move. I think that the order of the moves in this opening is important.",
+        "5. Bb3 Na5 6. O-O d6 7. c3": "according to the books that was not a good move. white should strike in the center at once and play 7. d4.\r\nthe continue may be 7... Nxb3 8. axb3 f6 9. c4 b4 10. Nh4 Ne7 11. Be3 g6 12. Qd2 exd4 13. Bxd4 Bg7 14. Be3 a5 15. Bh6 0-0 16. Bxg7 Kxg7 17. Qe3 with great advantage for white (Ernst - Agdestein, Gausdal, 1987)",
+        "7... Nxb3 8. Qxb3 Bb7": "black is left with two bishops. in the future it might be advantage.",
+        "9. Re1 c5 10. d4 Qc7": "it seems black got lots of space to maneuver in.",
+        "11. d5": "first, I thought that the best move here was 11. dxe4 with an open d file that looks promising. \r\nthan I realized that there is no place to put the bishop and the Knight in order to move the second rook to that file.\r\nsince that plan seems to take quite a while I'll agree that 11. d5 is the best move in that position.",
+        "11... Be7": "maybe 11... Nf6 was a bit better in order to pin the rook to the e pawn.",
+        "12. a4": "white gains his space back and ruin black's pawn shield all at once.",
+        "12... bxa4": "what about 12... Qa5? there are few options afterwards:\r\n1) 13. Nd2 Rb8 (13.... Nf6 14. Nc4! +-) 14. Nf1 Nf6 15. Bg5 0-0 with an equal position.\r\n2) 13. axb5!! Qxa1 14. Bh6! Nxh6 15. Na3 Qxe1+ 16. Nxe1 0-0 17. b6 and despite the lack of material there is an advantage to white.",
+        "13. Qxa4+ Qd7 14. Qxd7+": "14. Qc4 must be considered.\r\n14... Qb5 15. Na3 Qxc4 16. Nxc4 and white is better.",
+        "14... Kxd7 15. Na3 Nf6 16. Nc4 Ra7": "maybe Kc7 is better for black.",
+        "17. Bg5 h6 18. Bxf6": "white is entering a difficult ending. it is hard to face a pair bishops with a pair of knights. I think that white is counting that the semi-closed position will be in favour of the knights.",
+        "18... Bxf6": "the black king is misplaced. if it was on c7 (as I mentioned before) black could play gxf6 with the idea of f5 and weakening the d5 pawn.",
+        "19. Na5 Ba8": "still: Kc7",
+        "20. Nd2 Bd8 21. Ndc4": "it is not easy to win a position like that. the main black weakness is the a pawn and lack of activity for the white squares bishop.",
+        "21... Rf8 22. Ref1": "wants f4.",
+        "22... g5": "why not f5? I think that opening up a bit the king side will be better for one of the bishops...",
+        "23. g4": "and the king side is closed, too.",
+        "23... h5 24. h3 hxg4 25. hxg4 Bxa5 26. Nxa5 Rc7 27. Nc4 Bb7": "the a pawn is a great weakness wich is very hard to defend. it seems that the knight is clearly better than the bishop.",
+        "28. Kg2 Ke7 29. Rfh1": "taking also the h-file (black should have playes Rh8 a while ago...)",
+        "29... Rcc8 30. Rh5 f6": "Rg8 is better. with the move that black played the 7th row is very weak.\r\nblack resigned due to Rh7+ foloowed by Nxd6+ or simply taking the b7 pawn.\r\nnevertheless, there was clearly an advantsge to white even if black played Rg8:\r\n30... Rg8 31. Na5 Ba8 32. Nb3 Bb7 33. Nd2 Ra8 34. Nf3 f6 35. Rah1 Bc8 36. Kg3 a5 37. Rh7+ Rf7 38. Rxf7+ Kxf7 39. Rh7+ Ke8 40. Nd2 a4 41. Nc4 +-."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23481",
+    "gameName": "Let's play chess",
+    "players": "gerom (1708) vs. bister (1868)",
+    "opening": "Ruy Lopez (C70), Taimanov (chase/wing/accelerated counterthrust) variation"
+}

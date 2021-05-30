@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be7 8. Be3 Be6 9. Qd2 Nbd7 10. O-O-O O-O 11. g4 b5 12. Kb1 Nb6 13. g5 Nh5 14. Na5 Qc7 15. Nd5 Nxd5 16. exd5 Bd7 17. Qb4": "Esa era la jugada personal. Era mejor 17.Bd3 y el blanco queda perfecto. La dama en b4 es innecesaria.\n",
+        "17... Rfc8": "\n",
+        "18. Bd3 g6": "\n",
+        "19. Nc6": "Parece que est\u00e1 bien el blanco.",
+        "19... Bf8 20. Be4": "Aqu\u00ed era prudente mover la dama blanca hacia la casilla b3, apuntando la casilla f7.",
+        "20... Ng7 21. h4": "Aqu\u00ed de nuevo era prudente mover la dama (bien hacia b3 o d2), puesto que est\u00e1 siendo atacada indirectamente por el alfil ubicado en f8.",
+        "21... Nf5": "Aqu\u00ed todav\u00eda hay chance de recuperaci\u00f3n.\n",
+        "22. Bf2 Bxc6": "Este es el momento cr\u00edtico. Pensaba que 23.dxc6 segu\u00eda ...d5! intermedia, perdiendo el alfil, pero lo que no calcul\u00e9 fue que despu\u00e9s de 24.Qb3! si ...dxe4 sigue 25.Rd7! y la dama negra debe sacrificarse para no dejar entrar la dama blanca a la casilla f7.",
+        "23. Bxf5": "Lastimosamente no la calcul\u00e9 y a partir de aqu\u00ed las blancas cometen todos los errores posibles.",
+        "23... gxf5 24. dxc6 Qxc6 25. Qb3 a5 26. g6": "\n",
+        "26... hxg6 27. Rhg1": "\n",
+        "27... Qc4 28. h5 Qxb3 29. axb3 Kh7 30. hxg6+ fxg6 31. Rgh1+": "\n",
+        "31... Kg7 32. f4 Be7": "\n",
+        "33. Rd5": "\n",
+        "33... Kf6 34. Rxb5 Rcb8 35. Rd5 Ke6 36. Rd3 Rbh8 37. Rg1 Rh6 38. Rc3 Rah8 39. Ka2 exf4 40. Re1+ Kd7 41. Bb6 Bd8 42. Bd4 Re8 43. Rd1": "\n",
+        "43... g5 44. Bc5": "\n",
+        "44... g4 45. Rcd3 Ree6 46. Rd3d5": "\n",
+        "46... Kc6 47. Rxf5": "\n",
+        "47... Rhf6 48. Rg5": "\n",
+        "48... dxc5 49. Rxd8": "\n",
+        "49... f3 50. Rc8+": "\n",
+        "50... Kd7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/ascun-2016-1-ecsan-ecsan?gm=61286",
+    "gameName": "ASCUN 2016-1, ECSAN, ECSAN",
+    "players": "Montiel, Oscar  vs. Obando, Soren ",
+    "opening": "Sicilian (B90), Najdorf"
+}

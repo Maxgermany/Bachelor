@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e6 2. Bc4 c5 3. Nf3 Nc6 4. O-O d5": "? Rips open the centre while uncastled. My first mistake.",
+        "5. exd5 exd5 6. Bb5 Bd6 7. Ba4": "Touch move! This bishop move is meaningless, probably inaccurate. Kartic\u2019s first mistake.",
+        "7... Nf6": "Preparing o-o, hoping Re1 doesn\u2019t happen soon.",
+        "8. h3": "Whew!",
+        "8... O-O 9. c3": "Huh, low on development and blocking the c3 square, perfect for the knight.",
+        "9... Bf5": "Completing my development.",
+        "10. Bc2": "The meaning of c3 kind of becomes clear now.",
+        "10... Bd7": "Not trading my good bishop for his horrible one, but placing it on a worse square.",
+        "11. Bd3": "Dude, you need more development! 4 LSB moves!",
+        "11... c4 12. Be2": "6 now",
+        "12... Re8": "Open file taken",
+        "13. Ng5": "?? Asking for trouble. His 3rd mistake(2nd being moving his LSB too many times).",
+        "13... h6 14. Nf3 Bb8": "Preparing a simple checkmate along the h2-b8 diagonal.",
+        "15. d3": "Preparing DSB development (finally!)",
+        "15... Qc7 16. dxc4 dxc4 17. Na3 Rd8 18. Nxc4 Bg4": "Better probably was Bxh3",
+        "19. hxg4": "?? Didn\u2019t see the masked battery.",
+        "19... Rxd1 20. Rxd1 Nxg4 21. Nfe5": "?? One of the final blunders.",
+        "21... Ngxe5 22. Nxe5 Qxe5 23. Re1": "???",
+        "23... Qh2+ 24. Kf1 Qh1#": "Hope you enjoyed!"
+    },
+    "url": "https://gameknot.com/annotation.pl/otb-game-6?gm=66151",
+    "gameName": "OTB game 6",
+    "players": "Kartic (white) vs. Eric (black)",
+    "opening": "French defence (C00)"
+}

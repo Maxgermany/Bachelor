@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "Annotiamoci..... ",
+        "1... Nf6 2. c4 g6 3. Nc3": "Fin qui son pronto a tutto....",
+        "3... d5": "Mi sembra proprio una bella Grunfeld, si fa interessante, non l'amo tanto e sinceramente col bianco mi rompe un p\u00f2. ",
+        "4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 O-O 8. Nf3": "Le mosse precedenti le ho giocate in automatico, Cf3 l'ho scelta in alternativa a Ac4 che giocavo regolarmente fino a 2 anni fa e mi creava grossi problemi dopo Cc6 e poi a5; l'ho abolita dopo aver preso una scoperta stupida con Dc7 e c5xd4 che mi cost\u00f2 un pezzo!",
+        "8... c5": "Molto regolare....",
+        "9. Qd2": "Qd2 forever qui!",
+        "9... Qa5 10. Rc1": "Qui l'alternativa era Tb1 con l'idea Tb5, continuando a non fidarmi e non gradire la grunfeld preferisco il gioco conservativo. Tc1.",
+        "10... Bg4 11. Be2": "...Aspettando Cc6",
+        "11... Nc6 12. d5": "Secondo me con questa spinta viene a cadere tutto il gioco della Grunfeld. Non dico che sto in vantaggio, ma mi riprendo un p\u00f2 d'iniziativa.",
+        "12... Rad8": "Questa l'aspettavo, qui l'inchiodatura non mi preoccupa, devo liberare la donna, percio: O-O",
+        "13. O-O e6 14. Rfd1": "L'idea \u00e8 di creare un bel pedone passato e sostenuto prima delle possibili semplificazioni.",
+        "14... exd5 15. exd5 Rfe8 16. Qb2": "Con questa mossa si da il via alle danze! Non potendo difendere cavallo e pedone b7 ho calcolato: 16...; Ce5 17. Cxe5;Axe2 18. Cxf7; Axd1 19. Cxd8;Txd8 20 Txd1; Axc3(o Dxc3) 21 Dxb7\r\nSecondo me con posizione complicata ma bianco in vantaggio netto!",
+        "16... Ne5 17. Nxe5 Bxe2 18. Nxf7": "Qui come da copione!",
+        "18... Bxc3": "Svista clamorosa! Come approfittarne? Intanto Ch6  porta in salvo l'equino poi c'\u00e8 pensare a mangiare un alfiere. E andiamo  3 netti!",
+        "19. Nh6+ Kf8 20. Qxe2": " 3!!!Con svariate possibilit\u00e0 d'attacco...'n capita mica sempre!",
+        "20... Bd4": "Debole e disperata!",
+        "21. Qf3+": "Attacco diretto!Re7 unica! ( Rg7,Df7 ,Rh8,Axd4 ,cxd4,Df6#)\r\npoi Df7 , Rd6? no no...meglio Axd4 cxd4 Df7  e la rete di matto dovrebbe esserci, dopo Dxb7 l'ingresso della torre in sesta decide!!\r\n",
+        "21... Ke7 22. Bxd4 cxd4 23. Qf7+ Kd6 24. Qxb7": "Qui la vedo scura per il nero, forse la migliore \u00e8 Dxd5 in ogni modo da parte mia non vedo grosse chance!",
+        "24... Rdc8": "Immagino un tentativo di difesa!",
+        "25. Nf7#": "Questo \u00e8 un colpo di fulmine...stavo pensando agli scacchi oppure a mangiarmi la torre netta, poi ho guardato distrattamente il subdolo equide, nascosto e quasi dimenticato e.....Slam! 3 secondi netti per innamorarmi!\r\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=13708",
+    "gameName": "Let's play chess",
+    "players": "arrotino (1721) vs. robzam5 (1658)",
+    "opening": "Gruenfeld (D85), modern exchange variation"
+}

@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. d4 Bg4 5. d5 Nf6 6. Bc4 Be7 7. Bg5 b5 8. Bxf6 Bxf6 9. Be2 a6 10. dxc6 Nxc6 11. a3 Bxf3 12. Bxf3 Nd4 13. O-O O-O 14. Qd3 Rc8 15. Bg4 Rc7 16. Rac1 Bg5": "Now, he is attacking my Rook; but I think I can drive him away.",
+        "17. f4": "The exchange looks like a loser except that the Pawn at e5 is the only defender of the Knight, so if he takes with the Bishop, I take with the Rook, he takes with the Pawn and I take the Knight.",
+        "17... Bh6 18. Nd5": "This attacks hsi Rook, givin me the initiative and lets me advance the Pawn on c.",
+        "18... Rc6 19. c3 Ne6": "His attack on the Pawn on f looks dangerous.",
+        "20. g3": "I don't like opening my Pawns in front of the King like that, but I needed another defender",
+        "20... Nc7 21. Rcd1 Ne8": "I guess he didn't really want to trade Knights\r\n",
+        "22. Nb4": "This has real possibilities. I can take the Pawn on e and he cannot take back.",
+        "22... Qb6+ 23. Kg2 Rc5 24. Nd5 Qb7 25. b4": "Does he move the Rook to c4 or c6? ",
+        "25... Rc4 26. Ne3": "He made the move with his Rook that I hoped he wouel make. That lets me gain a tempo and get my Knight to f5 attacking his Bishop. that should open the file in front of his King giving me some attacking possibilities.",
+        "26... Rc7 27. Nf5": "He made the \"wrong\" Rook move again. he shoudl have defended the Pawn on d. Now my Knight is attacking it along with my Queen and Rook backing her up. He needs to use another move.",
+        "27... Rc4 28. Nxh6+": "Taking the Pawn on d was not as good as it looked as he could take back with his Knight and if I take his knoght with my Queen, he takes my Pawn on c. Disrupting his King's defense seems much better.",
+        "28... gxh6 29. Bf3 Qc6 30. Rdc1 Nf6 31. Rfe1 Kh8 32. fxe5 dxe5": "He just doesn't seem to make any \"bad\" moves, so it is hard to get an advantage. ",
+        "33. Re3 Rg8 34. Qe2": "Now that I have made that move, I kind of wish I had moved the Queen to d1 instead.",
+        "34... Qe6 35. Kh1 Rg5 36. Rg1 Qb6 37. Rd3": "In hindsight I should have pushed the Pawn to a4 since his Pawn on b is the only defender of the Rook, but instead I moved my Rook. I realized that after I moved,",
+        "37... a5 38. Qd1 Nxe4 39. Bxe4": "That Rook move was really a mistake.",
+        "39... Rxe4 40. Qf3": "My move 37. was a blunder and now I am struggling to survive.",
+        "40... f5 41. Rf1 Qc6 42. h4 Rg8 43. Kh2 axb4 44. axb4 Qg6 45. Qxf5 Rxh4+ 46. Kg2 Rh5 47. Qf6+ Qg7 48. Qxg7+ Kxg7 49. Rd5 Rb8 50. g4 Rg5 51. Kg3 Rb7 52. Rf3 h5 53. Kh4 Rxg4+ 54. Kxh5 Rf4 55. Re3 e4 56. Re5 Kf6 57. Re5xe4 Rxe4 58. Rxe4": "It is looking a lot like a draw. If I don;t lose this game after that stupid 37th move, I will be happy.  Danny is very good and does not make many mistakes. He consistently made what I thougt was the best move or one even better than I had thought of. Very tough player!",
+        "58... Kf5 59. Rh4 Rb6 60. Rd4 Ke5 61. Rg4 Rg6 62. Rh4 Rc6 63. Rh3 Kd5 64. Kg5 h6+ 65. Kf5 Kc4 66. Ke5 Kb3 67. Kd5 Rxc3 68. Rh4 h5 69. Rxh5 Kxb4 70. Kd4 Rc8 71. Rxb5+ Kxb5 72. Kd5 Rd8+ 73. Ke6 Kc6 74. Ke7 Rd6 75. Ke8 Re6+ 76. Kd8 Re5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=5123",
+    "gameName": "Let's play chess",
+    "players": "almageccom (1457) vs. demurrer (1481)",
+    "opening": "Philidor's defence (C41)"
+}

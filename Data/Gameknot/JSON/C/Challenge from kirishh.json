@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4": "A normal openning",
+        "1... c5": "A normal opening",
+        "2. Bc4": "It's an attackive move",
+        "2... Nc6 3. Qh5": "Might try and get scholars mate if not I'll take his pawn",
+        "3... Nf6": "Trys to take my king",
+        "4. Qxf7#": "So I scholars mate \nThat game was long"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-kirishh?gm=42286",
+    "gameName": "Challenge from kirishh",
+    "players": "kirishh (1404) vs. postmanpat (1503)",
+    "opening": "Sicilian defence (B20)"
+}

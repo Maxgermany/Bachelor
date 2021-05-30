@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4": "The Accidental Mate.\n\n",
+        "1... e5 2. f4 Nc6 3. fxe5 Nxe5 4. d4": "Hmmm, don't move pieces twice in dev. Thats what they drum into you. So I didn't.",
+        "4... Qh4+": "Hoping for g3, but thats optimistic.",
+        "5. Ke2 Qxe4+ 6. Kf2": "That surprised me, b-e3 would have been my choice.",
+        "6... Ng4+ 7. Kg3 Bd6+": "Still not expecting much, just taking the opportunity to develop unopposed.",
+        "8. Kh3": "Bad move, bad bad move. Not a lot of choices, as it allows me a fork on K/Q....",
+        "8... Nf2#": "Oh. Right. Well ok then. No I didn't realise. I was just being greedy and nabbing the queen I thought. Sorry ;-)"
+    },
+    "url": "https://gameknot.com/annotation.pl/foresttrees-mini-tournament-xxxviii?gm=48411",
+    "gameName": "foresttree's mini-tournament XXXVIII",
+    "players": "cardinal8 (1305) vs. grey_panda (1459)",
+    "opening": "King's gambit (C30)"
+}

@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4": "Never had scotch before",
+        "3... exd4 4. Nxd4 d6 5. Bb5": "pinning a knight and attacking it with 2 pieces-rather good",
+        "5... Bd7": "unpins knight",
+        "6. Nc3": "preventing 6...Knxd4 7...Bxb5",
+        "6... Nf6 7. O-O Be7 8. Be3": "nice development\r\nblack right behind",
+        "8... O-O 9. Qe1": "going for g3, having a nice shot of the king",
+        "9... h6 10. f4 Nh7": "opening bishop to h4, keeps queen away from g3\r\n",
+        "11. Bxc6 bxc6": "no need for bishop, but his king was attacking mine.",
+        "12. Nf3": "possible c5 from black\r\nmoves knight to f3, protecting h4 from bishop",
+        "12... Re8 13. Qg3 Bf6": "threatens 14...Bxc3 15...Rxe4",
+        "14. e5 Be7 15. Rad1": "attack queen, (in the long run)",
+        "15... d5 16. Rd2": "double rooks at some point",
+        "16... Kh8 17. Ne2 a5 18. f5": "nice little trick\r\nhe fell right in",
+        "18... Bxf5": "opens my F line for rooks",
+        "19. Nfd4": "Forks bishop and pawn\nPins bishop to pawn with rook",
+        "19... Be6 20. Nxc6 Qd7 21. Ned4 Bc5 22. Kh1": "No more threat of check",
+        "22... Ra6 23. Nxe6 Qxe6 24. Bxc5 Rxc6 25. Bd4": "Protects pawn until end of game",
+        "25... Ra6 26. Rdf2": "Weakens pawn at f7",
+        "26... Re7 27. h4": "Prevent knight from g5",
+        "27... Ra8": "BLUNDER!",
+        "28. Rf2f6 Qc8 29. Rf6xf7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=45765",
+    "gameName": "Let's play chess",
+    "players": "warp_speed (1781) vs. borbos (1709)",
+    "opening": "Scotch game (C45)"
+}

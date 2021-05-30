@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 d6 7. Bf4 e5 8. Bg5 a6 9. Na3 b5": "Main line of the Sicilian Pelikan variation",
+        "10. Bxf6": "White's other choice is the immediate Nd5.",
+        "10... Qxf6": "A mistake; I play Nd5 with tempo, and black must be wary of tactics.",
+        "11. Nd5 Qd8": "Forced.",
+        "12. Bxb5": "I will get two pawns and a rook for two pieces, a material advantage, after black's best moves",
+        "12... axb5 13. Nxb5 Qa5+ 14. c3 Rb8": "Obviously Qxb5 loses to Nc7+ with Nxb5. Black's best try was actually 14..Ra7, being wary of his queen's location..",
+        "15. b4": "! and the queen is trapped."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=26060",
+    "gameName": "Team match",
+    "players": "chessy131 (1860) vs. mlenurse (1657)",
+    "opening": "Sicilian (B33), Pelikan (Lasker/Sveshnikov) variation"
+}

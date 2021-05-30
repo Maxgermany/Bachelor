@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4": "This unrated training game ended up as one of my rare draws. The GK computer found no errors for either side up to move 20 when the draw was offered, which is why the annotation may be instructive. ",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3": "All well known book, the main line. ",
+        "9... Bb7": "This is a critical choice. Black is signaling that they intend to counterattack on the Queenside.",
+        "10. d4": "White wants to try and take control of the center.",
+        "10... Re8 11. Nbd2 Bf8 12. Ng5": "!? I debated about this move. However, trying to tangle up Black's plans seemed worthwhile.",
+        "12... Re7 13. d5": "This is the right moment to push forward. ",
+        "13... Na5": "This move seems much more active than the retreat, which the GK database shows favors white. ",
+        "14. Bc2 c6": "Black must attack the center while White's pieces are not in their optimal positions.",
+        "15. b4": "Otherwise Black threatens to overrun the Q side.",
+        "15... Nc4 16. Nxc4 bxc4 17. dxc6 Bxc6 18. Qe2": "So far the game follows Tinman vs Karpov, the only game I could find that reached this position, however, Tinman tried a4 here and and lost. This move seems like an improvement to me. In fact the GK computer shows White retains a very tiny edge here.",
+        "18... h6 19. Nf3 Rc7": "This move indirectly protects the weak c pawn.",
+        "20. Be3": "Threatening Bb6 and developing the Bishop. ",
+        "20... Rcc8": "Prevents Bb6. Because this is an unrated training game and the position is essentially even (GK rates the position +0.32 for White but Black has adequate resources), a draw is offered and agreed. "
+    },
+    "url": "https://gameknot.com/annotation.pl/ruy-lopez-training-game-draw?gm=47221",
+    "gameName": "Ruy lopez Training Game Draw",
+    "players": "dmaestro (1595) vs. brigadecommander (2226)",
+    "opening": "Ruy Lopez (C88), closed, Leonhardt variation"
+}

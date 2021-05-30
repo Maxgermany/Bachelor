@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5": "Sicilian Defense",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "Najdorf Variation",
+        "6. h3": "I got this idea from Fischer's book \"My 60 Memorable Games\"",
+        "6... e5 7. Nde2 Be6 8. g4 Be7 9. g5 Nfd7 10. h4 O-O": "Castling into it",
+        "11. Ng3 f5 12. exf5 Bxf5": "Very bad: this gives the white knight an outpost on d5.",
+        "13. Nxf5 Rxf5 14. Bh3 Rf8 15. Nd5 Nc6 16. c3": "Black is weak on the light squares and his darksquare bishop might as well be a pawn. Notice how the black bishop never makes another move for the rest of the game.",
+        "16... Nb6": "What else?",
+        "17. Be3 Nxd5 18. Qxd5+ Kh8 19. O-O-O Qc7 20. Kb1": "avoiding the threat of Nb4",
+        "20... b5 21. Bg2 Rac8 22. Be4 b4 23. c4 a5 24. b3 Nd8 25. h5 Nf7": "losing",
+        "26. g6 Ng5 27. h6 Nxe4 28. hxg7+ Kxg7 29. Rxh7+ Kxg6 30. Qxe4+ Rf5": "Now black loses a rook and will get mated.",
+        "31. Rh6+": "Gameover"
+    },
+    "url": "https://gameknot.com/annotation.pl/how-knot-to-play-the-sicilian-najdorf?gm=47415",
+    "gameName": "How \"KNOT\" to play the Sicilian Najdorf",
+    "players": "dsfei  vs. acti ",
+    "opening": "Sicilian (B90), Najdorf, Adams attack"
+}

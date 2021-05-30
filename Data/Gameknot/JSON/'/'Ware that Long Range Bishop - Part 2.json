@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "2. .......... d6 - the Philidor Defense - have played against this opening but not played it myself on Gameknot before so this is a bit of an experiment for me.  This game is unrated by the way.",
+        "3. d4 exd4 4. Nxd4": "4. Nxd4 - the Exchange Variation of the Philidor - white appears to have command of the centre but black has a few surprises up her sleeve.",
+        "4... Nf6 5. Nc3 Be7 6. Bc4 O-O 7. O-O Nxe4 8. Nxe4 d5 9. Bxd5 Qxd5": "9. ........ Qxd5 - both sides havedeveloped their kingside pieces and castled.  Move 7 appeared to blunder a piece for a pawn but a fork trick on d5 regained the piece.  The centre has been liquidated as a result.  White still has a lead in development and black now goes into reverse but luckily I just about manage to clear my back row by move 14.",
+        "10. Nc3 Qd8 11. Re1 c6 12. Be3 Na6 13. a3 Nc7": "13. ......... Nc7 - to support e6 and prepare for the lsb to develop on that square and to contest the control of d5.",
+        "14. Qd2 Be6 15. Rad1 Bf6": "15....... Bf6 - improves the position of the prelate - protects g7 and hits at b2 - this will be a crucial square for black later on in the game.  I am now fully developed but I need to centralise my rooks.",
+        "16. Nce2 Qe7": "16. ........ Qe7 - the first step towards rook centralisation.",
+        "17. Bf4 Rad8 18. Bxc7 Qxc7 19. Nxe6 fxe6": "19. ......... fxe6 - a couple more pieces are exchanged and the e pawn is an isolani but now look at that dsb on that long diagonal pointing towards b2 in my previous note.  The Wicked Witch of the West is en prise so she moves to e3 forking a and e pawns.  To avoid losing a pawn my bishop takes on b2 to break up white's queenside pawns.",
+        "20. Qe3 Bxb2 21. Qxe6+": "21. Qxe6  - white chooses to take the e pawn - very tempting indeed when it involves a check.  White has a plan, but unfortunately for him but fortunately for me it will backfire big time!",
+        "21... Qf7 22. Qxf7+ Kxf7 23. Rdb1 Bxa3 24. Rxb7+": "24. Rxb7  - this looks a really nasty fork, but my \"meek little\" king retreat to g1 has a stinger!",
+        "24... Kg8 25. Rxa7": "25. Rxa7?? - now white, for taking jstevens1's a pawn without consent I fine you two material points!!!",
+        "25... Bc5": "25. ........ Bc5!! - this bishop forks the rook on a7 and the white pawn on f2 - notice that the king retreat unmasked an attacking battery from the rook on f8.  The best white can now do is give up the exchange by backing off the rook from a7 to a1.  I now collect  the two material points over the next two moves.",
+        "26. Raa1 Bxf2+ 27. Kh1 Bxe1 28. Rxe1 Rd2 29. Kg1 Re8 30. Kf2 Rxc2": "30.  ....... Rxc2 - I could have taken this pawn a couple of moves ago but decide to improve the position of my rooks by piling up on the e2 knight.  This knight escapes houdini style but I still manage to keep the pressure on.",
+        "31. Kf3 c5": "31. ........ Passed pawns must be pushed.",
+        "32. h4 Rc4 33. Rh1 Rce4 34. Ng3 Re4e1 35. Rxe1 Rxe1": "35 ........ Rxe1 - after a bit of shilly shallying over the last few moves I am glad to exchange off one pair of rooks - now it really is rook and pawn against a knight.  I should have been confident of winning this one but my opponent was more than 200 points north of my rating and this is only the second time in my entire life that I have beaten an 1800  player.  The last time this happened was 10 years ago when I had a BCF rating of 80 (Elo 1240) and my opponent's was BCF 153 (Elo 1824)!  So this was very nerve wracking, especially as I had to watch where I put my rook and my king to evade dastardly knight forks.",
+        "36. Ne4 c4": "36.  ....... c4 - this is as far as this pawn gets but I still get the result!",
+        "37. g3 Rd1": "37. ........ Rd1 - this rook will stay on this file to act as the Berlin Wall against the WK.",
+        "38. Ke2 Rd8 39. Ke3 h6": "39. ......... h6 - another quiet move.  This move is to stop an annoying knight check on g5 - I do need to get my king out but as in a previous note I must watch out for knight forks.",
+        "40. g4 Kf7 41. g5 hxg5 42. Nxg5+ Kg6": "42. ........ Kg6 - after the spite check I play my king to g6, eyeing up the h pawn.  When that falls white will certainly not be able to win should I walk into a knight fork.  But before I could carry out this plan my opponent waved the white flag.  I am soooo relieved!!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/ware-that-long-range-bishop-part-2?gm=15995",
+    "gameName": "'Ware that Long Range Bishop - Part 2",
+    "players": "NN (1863) vs. jstevens1 (1632)",
+    "opening": "Philidor (C41), Berger variation"
+}

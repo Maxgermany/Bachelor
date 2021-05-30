@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. e3 g6 3. c3 Bg7 4. Bc4": "4d3 is Colle. not a bad choice, This loses a move to ...d5. ",
+        "4... O-O 5. Nd2 d5 6. Bd3": "At this point, game is about even. ",
+        "6... Nbd7 7. h3 c5 8. Ngf3 Re8 9. dxc5 Nxc5 10. Bc2 e5 11. O-O b6 12. Nb3 Nxb3 13. Bxb3 Bb7 14. Bc2 Qc7 15. b4 Rad8": "both missed 15....Ne4! wins the c pawn and unleashes Black's bishops. ",
+        "16. Bd2": "Bb2 might be a smidge better.",
+        "16... Ne4 17. Ba4 Re7 18. Rc1 Qd6 19. Qe2 a6 20. Rfd1 b5 21. Bb3 Qc7 22. Be1 Red7 23. a4 Bc6 24. axb5 axb5 25. Qb2 Qb7 26. h4": "both are ignoring the open file. Does White have sufficient support to make this attack be important? i think not. ",
+        "26... d4": "the answer to a wing attack is a well prepared center attack. or so the pundits say.",
+        "27. cxd4 exd4 28. exd4": "28.Nxd4 might be a little better than this. keep pawn islands to a minimum. ",
+        "28... Nd6 29. Qc3": "29.Ne5 is a bit stronger.",
+        "29... Bxf3 30. Qxf3 Qxf3 31. gxf3 Nf5": "Now white's pawns are weak everywhere. all islands.",
+        "32. d5 Nxh4": "32....Nd4 is better seeking to eliminate one of the bishops. the isolated pawns will wait.",
+        "33. Rd3 Nf5 34. Rc5 Nd4 35. Bd1": "35.Ba5 better.  after ...Ra7, Bb2 the d button does not fall immediately. ",
+        "35... Rd7xd5 36. Rxd5 Rxd5 37. Re3": "37.Kg2 better.",
+        "37... Ne6 38. Bb3 Rg5+": "...Rd6 better.",
+        "39. Kf1 Re5 40. Rxe5 Bxe5 41. Bxe6": "after this move, White's King must stay to stop the h-pawn, accordingly the b4 button will fall to the K+B. interesting game. ",
+        "41... fxe6 42. Ke2 Kf7 43. Bd2 Kf6 44. f4 Bd6 45. Ke3 Kf5 46. Kf3 h5 47. Kg3 e5 48. fxe5 Bxe5+ 49. Kh4 Bf4 50. Bc3 g5+ 51. Kh3 Be5 52. Be1 Ke4 53. Kg2 Kd3 54. f3 Bc3 55. Bg3 Bxb4 56. Bc7 Be7 57. Kf2 b4 58. Be5 b3 59. Ke1 Kc2 60. Ke2 Bb4 61. Bf6 Bc3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/c-b-team-tournament?gm=66920",
+    "gameName": "C B Team Tournament",
+    "players": "gur-dial (1580) vs. phasma (1849)",
+    "opening": "Queen's pawn game (A45)"
+}

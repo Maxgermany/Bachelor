@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "Queens pawn I'm white. ",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O": "I tend to have the most difficulty with this set up. Black only slowly makes a claim to the center while quickly castling. ",
+        "5. Bf4": "Developing my bishop out. ",
+        "5... d6": "Clears the diagonal for the bishop\n",
+        "6. e3 Bg4": "Pins knight to queen",
+        "7. Be2": "Removes the pin, clears the way for a king side castle. ",
+        "7... c6": "I'm not exactly sure what that was for other than perhaps to solidify the space that he had left. The move prevents the queens knight from going to c6 but in this position it was doubtful for me that it was going there in the first place. ",
+        "8. O-O": "Castle",
+        "8... Nbd7": "Links the knights. ",
+        "9. Qd2": "Idea is that perhaps form a battery with my bishop. Also it links up the rooks",
+        "9... e5": "attacks pawn and bishop\n",
+        "10. dxe5": "Removes the threat on my bishop. The d file is opening up. this could be useful in the middle to end game. ",
+        "10... dxe5": "Bishop attacked again. ",
+        "11. Bg3": "Looking back Bg5 seems slightly better. ",
+        "11... Re8": "lining the rook up with a central file. ",
+        "12. h3": "Might not be the best move. Attacks the bishop. ",
+        "12... Bxf3": "Surprised me? I didn't think he would take the knight. My bishops are now lined up adjacently but they are not attacking the enemy king. Never the less I was happy to see the move. ",
+        "13. Bxf3": "Taking back material even",
+        "13... a5": "I can't understand that one. perhaps he is trying to get his rook out. A better move might have been Qe7. ",
+        "14. Rad1": "Forms a battery. Helps control the d file a little more. ",
+        "14... e4": "A blunder. Nf6 is an overloaded piece. A possible line that continues the blunder is: 15.\t... \tNxe4\n16.\tBxe4 \tRxe4\n17.\tQxd7 \tQxd7\n18.\tRxd7 \tBxb2\n19.\tRxb7 \tBf6\n20.\tRc1 \t\n\nand so forth. I'm a pawn up in the endgame and I have a rook on the seventh rank. ",
+        "15. Nxe4": "Knight take the pawn. "
+    },
+    "url": "https://gameknot.com/annotation.pl/mr-haze-is-back-in-black?gm=16688",
+    "gameName": "Mr Haze Is Back In Black!",
+    "players": "silencer4101st (1320) vs. haze (1363)",
+    "opening": "King's Indian (E61), Smyslov system"
+}

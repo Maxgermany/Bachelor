@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 d6": "A passive opening.",
+        "4. Nc3 Be7 5. e4 Nc6 6. Bd3 O-O 7. O-O h6 8. a3": "Or h3.\n",
+        "8... b6 9. e5": "My hope is to get the queen to e4 with a dual threat on h7 and c6.",
+        "9... Nd7": "Black's passive play gives white a strong advantage.\n9... dxe5 10. dxe5 Nd7 11. Be4 Bb7 12. Qe2 Qc8 13. Bc2  Now play could continue ... Re8 14. Qe4 Nf8 15. Qg4 Kh8 16. Qh5 [ and black is lost.] Nd8 17. Ne4 Bxe4 18. Bxe4 Rb8 19. Bxh6 gxh6 20. Qxh6+ Kg8 21. Ng5 f5 (21... Bxg5 22. Qxg5+ Kh8 23. Rfd1) 22. exf6 Bxf6 23. Qxf6 Qd7 [0] 24. Rfe1 Qg7 25. Qf4 Nf7 26. Nh3 e5 27. Qh4 Ng6 28. Qh5 Nf4 29. Nxf4 exf4 30. Bd5 Qf6 31. Qg4+ Kf8 32. Qd7 Ne5 33. Qxc7 [Threatening Rxe5.] Rbc8 34. Qh7 Nf7 35. Rad1 Rcd8 (35... Rc7 36. Rxe8+ Kxe8 37. Qg8+ Ke7 38. Bxf7 Qxf7 39. Qd8+ Ke6 40. Qd6+ Kf5 41. Rd5+ Kg4 42. f3+) 36. Bxf7 Qxf7 37. Qh8+ Qg8 38. Rxd8 Rxd8 39. Qf6+",
+        "10. Qe2 Bb7 11. Qe4 g6 12. Bxh6 f5 13. exf6 e.p. Rxf6 14. Qg4 Qe8 15. Nb5": "Or Rae1.\n",
+        "15... Rc8": "15... Qf7 16. Rae1 Qh7 defends a little better.\n",
+        "16. Rae1 Bf8 17. Bg5": "Now the black position collapses.\n",
+        "17... Ne7 18. Bxf6 Nxf6 19. Qxe6+": "It is worth noting that white will come back to this square multiple times.",
+        "19... Kg7 20. Ng5": "Or d5 (with the idea of a6 then Nbd4) or also interesting is Nxa7.\n",
+        "20... a6 21. Nc3 Rd8 22. Qh3 Qd7": "22... Bc8 23. Qh4 Qd7 24. Ne6+ Qxe6 25. Rxe6 Bxe6 Survives a little longer.\n",
+        "23. Ne6+ Kf7": "Now Stockfish prefers to build up the attack with moves like Re2, Re3, Qh8 or d5.  Instead white plays ...\n",
+        "24. Nxd8+": "Maybe not the best, but the simplest.\n",
+        "24... Qxd8 25. Qe6+": "25. Re6 is stronger. Bc8 26. Rxf6+ Kxf6 27. Qh7 Bg7 28. Nd5+ Kf7 (28... Nxd5 29. Qxg6+ Ke7 30. Qxg7+ Ke6 31. Re1+) 29. Re1 Nf5 (29... Nxd5 30. Bxg6+ Kf8 (30... Kf6 31. Qh4+) 31. cxd5 Bd7 32. Re3) 30. Bxf5 Bxf5 31. Re7+\n",
+        "25... Kg7 26. Ne4": "This is a tactical bludner. White thinks that he can win by trading pieces.  \nStockfish thinks that a more positional approach is much stronger.\n\n26. Ne2 [Headed to e6.] Bc8 27. Qe3 Qd7 28. d5 Qg4 29. Nf4 Nf5 30. Bxf5 Qxf5 31. h3 g5 32. Ne6+ Bxe6 33. Qxe6 Qxe6 34. Rxe6 Kf7 35. g4 Kg7 36. f4 Nh7 37. fxg5 Nxg5 38. Re8\n\n26. Qe3  Followed by Ne2 is the same idea.\n",
+        "26... Nxe4 27. Bxe4": "Overlooking that now Bc8 traps the queen.\n\n27. Re2 Nf6 28. Rfe1 Bc8 29. Qe3  and White has a material and positional plus.\n",
+        "27... Bxe4": "27... Bc8 28. Qxc8 Qxc8 29. d5 and White is losing but barely hanging on.\n",
+        "28. Rxe4 Nf5 29. Rfe1 c6 30. Rg4 Nh4": "Now 31. R1e4 is complicated by 31. ... d5.  So Stockfish likes 31. d5 soon followed by R1e4.\n\nInstead white played ...",
+        "31. Qe4 d5 32. cxd5 cxd5 33. Qe5+ Kh7 34. Qe8": "Now Qxe8 is met with Rxh4+.  Black resigns here.  Now if ...\n",
+        "34... Qf6 35. Re6": "The overloaded queen can no longer defend everything.\n",
+        "35... Qf5": "35... Qg7 36. Rxh4+ Kg8 37. Rxg6\n",
+        "36. Rxh4+ Kg7 37. Qd7+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/http-www-itsyourturn-com?gm=60481",
+    "gameName": "http://www.itsyourturn.com",
+    "players": "John Coffey, Utah Senior Champ  vs. Samurai_Master ",
+    "opening": "Queen's pawn game (E10)"
+}

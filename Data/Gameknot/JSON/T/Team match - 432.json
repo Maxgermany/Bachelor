@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4": "A nice little ending I strung together. A higher rated player would probably have seen it but still lost the queen",
+        "1... e5 2. Nf3 Nc6": "standard",
+        "3. Bb5 Bc5 4. O-O Nf6 5. Nc3 Bd6 6. d3 O-O 7. Bg5 Re8 8. Qd2": "this is where it kicks off, bad move for black next i think",
+        "8... h6": "black tries to push the bishop away but it is supported by the queen!",
+        "9. Bxh6 gxh6": "i take the pawn with my bishop and tear open the kings defence",
+        "10. Qxh6": "kings in a dangerous place",
+        "10... Ng4 11. Qh5": "opponent tries to push my queen away",
+        "11... Kf8": "and moves king",
+        "12. Qh8+": "i see check mate",
+        "12... Ke7": "no where else to go",
+        "13. Nd5+": "fores the king to move again",
+        "13... Ke6 14. Qxe8+": "the player can force a queen swap here by moving the bishop in the way",
+        "14... Qxe8": "but the queen is to tempting and....",
+        "15. Ng5#": "checkmate!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=37938",
+    "gameName": "Team match",
+    "players": "bharryb (1275) vs. audrey1552 (1204)",
+    "opening": "Ruy Lopez (C64), classical defence, Zaitsev variation"
+}

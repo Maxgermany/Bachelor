@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7": "An uncommon variation of the Ruy Lopez",
+        "4. O-O a6 5. Ba4 h6": "wastes a tempo",
+        "6. c3 b5 7. Bc2": "Bc2 instead of Bb3 because of ... Na5, followed by c5",
+        "7... d6 8. h3": "prevents Bg4",
+        "8... Be6 9. d4 exd4 10. cxd4": "pawn fork is threatened",
+        "10... Bc4": "Bd7 is safer.",
+        "11. Re1 b4 12. b3 Bb5 13. a4 bxa3 e.p.": "Thank God for en passant!",
+        "14. Nxa3 Na7 15. e5": "It's been 15 moves and Black still hasn't castled. The kingside is horribly under-developed. Perhaps h6 was a mouse-slip and black intended g6 followed by Bg7.",
+        "15... d5": "To avoid opening the E-file",
+        "16. e6": "It's MURDER time!",
+        "16... f6 17. Nh4 Nac8": "Black is lost.",
+        "18. Qh5+": "... and Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/what-happens-when-you-dont-castle-in-the-opening?gm=47426",
+    "gameName": "What happens when you don't castle in the opening",
+    "players": "dsfei  vs. jentb737 ",
+    "opening": "Ruy Lopez (C60), Cozio defence"
+}

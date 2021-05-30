@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 c5": "Aha a Sicilian.",
+        "2. c3": "The Alapin. Avoids many book lines.",
+        "2... Nc6 3. d4 cxd4 4. cxd4 e6 5. d5 exd5 6. exd5 Nce7 7. d6": "A very advanced pawn! No real development on either side.",
+        "7... Qa5+": "An aggressive move from black.",
+        "8. Nc3 Qe5+ 9. Be2 Ng6 10. Nb5": "Knight is now threatening Nc7+ winning the rook.",
+        "10... Kd8 11. Nf3": "Queen is rather vulnerable.",
+        "11... Qe6 12. Ng5": "Attacking the queen and threatening Nxf7 (which will win the rook).",
+        "12... Qf6 13. Qd5": "Queen is now safe to advance this far.\nBoth Black bishops are trapped.",
+        "13... Nh6": "To prevent Nxf7+",
+        "14. Ne4": "Threatening both the Queen and the h-knight.",
+        "14... Qe6 15. Bc4": "I prefer to exchange with a recapture.",
+        "15... Ne5 16. Nc7": "Forks rook and queen, guarding own queen.",
+        "16... Qxd5 17. Bxd5": "Recaptures.  Here I expected Rb8.",
+        "17... Bxd6 18. Nxa8": "Exchanging a rook for a pawn.",
+        "18... Re8 19. Nxd6": "The pin is not scary. All options can be defused.",
+        "19... Rf8": "With a strong lead it's now just a matter of exchanging off.",
+        "20. Bxh6 gxh6 21. O-O-O": "Covers the bishop (and later the rook).",
+        "21... b6": "Trying to finally get some life out of the trapped bishop.",
+        "22. Bb7": "Trading off the bishop.",
+        "22... Bxb7 23. Nxb7+ Kc8": "Here I can't keep both knights.",
+        "24. Nd6+ Kb8 25. Nxb6": "The best that I can do with the knight is to break up the last of the paired pawns.",
+        "25... axb6 26. Rhe1": "The knight on d6 prevents the Re8/Nd3 trap which would win a rook.",
+        "26... Nc6": "The plan is now to force the exchange.",
+        "27. Re8+ Rxe8 28. Nxe8 Kc8 29. Nd6+": "A pawn won on the next move.  Black conceded that there was not much left."
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=35758",
+    "gameName": "Team match",
+    "players": "chriseyre2000 (1582) vs. mreckblad (1495)",
+    "opening": "Sicilian (B22), Alapin's variation (2.c3)"
+}

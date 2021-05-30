@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. Nf3 Nf6 2. d4 d5 3. e3 e6 4. b3 c5 5. Bb2 Nc6": "I've been experimenting with this Zukertort setup for White.",
+        "6. a3": "To prevent Nb5.",
+        "6... Bd6 7. Be2 a6 8. O-O O-O 9. Nbd2 b5 10. dxc5 Bxc5 11. c4 dxc4 12. bxc4 b4 13. axb4 Bxb4 14. Qc2 Bb7 15. Rfd1 Qe7": "Here I think the game is fairly equal.  Both players have decent minor pieces and each has an isolated pawn.  The idea, I think, is to try to provoke a weakness.",
+        "16. Ng5": "Threatening Bxf6 followed by Qxh7#.",
+        "16... g6 17. Ngf3 Rfd8 18. Nb3 Nd7 19. Nbd4 Rac8 20. Nxc6 Rxc6 21. Nd4 Rc5 22. Bc3 Bxc3 23. Qxc3 Bd5": "I think the idea behind this--pinning the c4 pawn while attacking it--is good, but it didn't work in execution.",
+        "24. Qa3": "Pinning the Rook against the hanging Queen.  If the Bd5 moves away, Nb3 wins the exchange.",
+        "24... Bxg2 25. Kxg2 Rg5+": "Priority of check keeps White from grabbing Black's Queen.",
+        "26. Kf1 Qf6 27. Nc6": "Attacking the Rook.  If the Rook moves away, the N falls.",
+        "27... Rf5": "Black tries to bear down on f2.  Again a good idea but flawed in execution.",
+        "28. Ne7+": "Black resigned here in view of the loss of the exchange, after already being down a piece for a pawn."
+    },
+    "url": "https://gameknot.com/annotation.pl/cedricparkers-mini-tournament-ii?gm=62576",
+    "gameName": "cedricparker's mini-tournament II",
+    "players": "mmoody95 (1828) vs. cedricparker (1546)",
+    "opening": "Reti opening (A05)"
+}

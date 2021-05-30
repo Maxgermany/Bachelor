@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bd3 Bg7 5. Nf3 O-O 6. O-O c6 7. b4 a6 8. Bb2 b5 9. Re1 e5": "Advancing e7 two squares, asked for the trouble.",
+        "10. dxe5 dxe5 11. Nxe5": "White got the advantage of a pawn.",
+        "11... Nbd7 12. Nxd7 Nxd7": "Going Knight back might be little disadvantage !",
+        "13. Rb1 a5 14. a3 axb4 15. axb4 c5 16. bxc5 Nxc5 17. Bxb5 Bb7 18. Qxd8 Raxd8 19. Na4 Ne6 20. Bxg7 Kxg7 21. Nc3 Nd4": "Knight came into the middle, without doing better Bishop at b7 get protected. ",
+        "22. Bd3": "Watch out !!!! Bishop is in danger.",
+        "22... Kf6 23. Rxb7": "Oops ! Got rid of Bishop. White has better chance of dominating the board. As expected, because of the lack of the pieces Black resigned. White is victorious. So, Kapila ruled this game !"
+    },
+    "url": "https://gameknot.com/annotation.pl/quick-chess-game?gm=36467",
+    "gameName": "Quick Chess game",
+    "players": "Kapila  vs. Black ",
+    "opening": "Pirc defence (B07)"
+}

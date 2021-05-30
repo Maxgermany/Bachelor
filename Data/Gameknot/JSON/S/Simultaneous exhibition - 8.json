@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4": "Probably the world's oldest opening.",
+        "3. Bc4 Be7 4. Nf3 Bh4+": "Black is not intimidated by playing a grandmaster. He fully intends to counterattack.",
+        "5. g3": "White alao chooses an aggressive line, sacrificing more Pawns to open the lines on the King-side.",
+        "5... fxg3 6. O-O gxh2+ 7. Kh1": "White's King is exposed, but his Rook and Bishop bear down ominously on KB7.",
+        "7... Nh6": "A mistake by the amateur. According to analysis by Philidor in *1749* (!), the best move is 7... B-B3. Philidor's analysis continued with 8 P-K5 P-Q4! 9 PxB NxP and Black is ahead in material with good chances to beat back the attack.",
+        "8. d4 Qe7": "Black adds to his defenses of the weak KBP.",
+        "9. Bxh6 gxh6 10. Ne5": "White must press the attack. Even if he wins 2 of Black's tripled KRP's, an endgame would be lost. Blacks passed KRP would be crushing.",
+        "10... Bf6 11. Qh5 Rf8": "Black tries to consolidate his defenses, but White has a brilliant attacking resource.",
+        "12. Nxf7": "If now 12...RxN, White has 13 BxRch!",
+        "12... Qxe4+ 13. Kxh2": "White now threatens N-Q6 dbl ch, winning Black's Queen.",
+        "13... Qxc2+": "Black is not about to go down without a fight. ",
+        "14. Kg3": "14...R-N1ch can now be met with 15 N-N5 dis ch!",
+        "14... Bh4+": "Black is still fighting on. But he overlooks White's move after the exchange of Bishops.",
+        "15. Qxh4 Qxc4 16. Qd8#": "A short, but hard-fought win. "
+    },
+    "url": "https://gameknot.com/annotation.pl/simultaneous-exhibition?gm=29664",
+    "gameName": "Simultaneous exhibition",
+    "players": "Grandmaster  vs. Amateur ",
+    "opening": "KGA (C33), bishop's gambit"
+}

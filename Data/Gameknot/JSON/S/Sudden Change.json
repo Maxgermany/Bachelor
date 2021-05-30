@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "As usual, the King's Pawn Opening.",
+        "1... e5": "And, I am used to seeing the King's Pawn Game.  Of course, this is going to become a Ruy Lopez.",
+        "2. Nf3 Nc6 3. Bb5 a6": "This is a pretty common move in the Ruy Lopez.  But, I am not too crazy about that.  Why?  I am going to exchange, so his pawns are going to become doubled and eventually isolated.",
+        "4. Bxc6 dxc6": "On a normal basis, I would just take on e5.  But, I have played 5.Nxe5?! in order to win a pawn against Jack Stockel, and he responded with 5...Qd4.  So, after I defend my piece, he wins back a pawn.  Therefore, I just waist time, so I am going to castle Kingside, instead.  Afterall, I generally try to castle early.",
+        "5. O-O Nf6": "Of course, he is determined to develop, so I can't fault him for this move.  But, 5...Be6 was also feasible, for the exact same reason.  In fact, that is what I would have played, if I were white.  ",
+        "6. Nc3": "In the meantime, I also want to develop.",
+        "6... b5": "? In this position, his main goal is to attack my c3 N which is why he moved here, but this is his first mistake.  Why?  Because of my last move, I win a pawn after 7.Nxe5, which I will get to keep, this time.  Instead, he could have played 6...Bd6 which also develops and protects e5.",
+        "7. Nxe5 Be6": "? I understand that he still wants, to develop.  But, best was 7...Bd7 as it protects c6.  In that, white wins another pawn and attacks blacks Q, after 8.Nxc6.  Therefore, I have an edge, but I have to be careful, if I want to keep it. ",
+        "8. Nxc6 Qd6 9. Na5": "Because he decided to attack my c6 N, this is my only as anything else loses a N.  Unfortunately, however, I am going to make one mistake that will end the game, as we will see shortly.",
+        "9... Ng4": "Very interesting, although I did not see it.  In this position, he is threatening mate.",
+        "10. Qf3": "?? Unfortunately, this is the losing blunder and decisive mistake.  That's right, like my game against the Master Mater, when Fred was, \"Back with a Vengeance\", I am only interested in winning his N.  Believe it or not, I thought that this move actually does that.  At the same time, however, I was playing and enjoying my game.  But, at the very last minute, I was asked to come in and work.  Believe it or not that happened on this move.  Therefore, all I was thinking about was helping my coworkers and customers as we were shorthanded and understaffed, so I missed a very obvious threat.  In this position, the only move was 10.g3.  Because of this, however, he now has an unavoidable mate in one, after 10...Qxh2#.  Now, if my schedule had not changed like that, I would have seen the threat, as I did in my game against Joann.",
+        "10... Qxh2#": "Overall, what's important is how you handle sudden changes.  Believe it or not, this is something that happens to Class A Players. Tom, another member of the chess club whose USFC rating is also about 1800 showed everyone a recent game in an OTB tourney. Of course, Jack Stockel did give some helpful commentary.  However, he also lost several games and played one or two horribly. Why? His shifts changed, at the last minute without any warning.   "
+    },
+    "url": "https://gameknot.com/annotation.pl/sudden-change?gm=49958",
+    "gameName": "Sudden Change",
+    "players": "jkarp (1138) vs. mafiapossum (1157)",
+    "opening": "Ruy Lopez (C69), exchange variation, 5.O-O"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nf6": "Petrov's defence (C42)",
+        "3. Nc3": "Petrov three knights game (C42)",
+        "3... Bc5 4. h3 O-O 5. d3 d5": "H\u00e4r l\u00e4mnade jag Petrov three knights game (C42). 5...Nc6 hade varit i den linjen, och statistiken hade varit till min f\u00f6rdel. Men,men...",
+        "6. exd5 Nxd5 7. Nxe5 Qf6 8. d4 Nxc3 9. bxc3 Bd6 10. Nf3 Re8+ 11. Be2 Nc6 12. O-O h6 13. Bb5 a6 14. Ba4 b5 15. Bb3 Ne7 16. d5 Bb7 17. a4 b4 18. Bd2 bxc3 19. Be3 Qf5 20. Rb1 Nxd5 21. Bxd5 Bxd5 22. Bd4 Bc6 23. a5 Rad8 24. Bxc3 Ba3": "H\u00e4r t\u00e4nkte jag lite v\u00e4l optimistiskt p\u00e5 att hota vits dam, men jag borts\u00e5g fr\u00e5n hans gaffel med S p\u00e5 d4. L till c5 hade varit b\u00e4ttre.",
+        "25. Nd4 Qe4": "Bygger upp en annan offensiv ist\u00e4llet, och bibeh\u00e5ller pressen i mitten. Tabbar han sig s\u00e5 mattar jag p\u00e5 g2.",
+        "26. Re1": "Ahhh, ibland f\u00e5r man tacka gudarna :-). Nu f\u00e5r jag en snygg matt med Qxg2 !!",
+        "26... Qxg2#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=29043",
+    "gameName": "Team match",
+    "players": "the_chess_boxer (1210) vs. chekof (1256)",
+    "opening": "Petrov three knights game (C42)"
+}

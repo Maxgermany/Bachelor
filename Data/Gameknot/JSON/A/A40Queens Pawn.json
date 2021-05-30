@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 e6 2. c4 c5 3. Nf3 d5 4. e3 Nc6 5. Nc3": "That is something that you've seen many times",
+        "5... dxc4": "Not a very good move giving a tempo to white bishop",
+        "6. Bxc4 cxd4 7. Nxd4 Nb4": "The first thing in the opening is to develop your pieces...\nWhite have 3 developed and Black - only the Knight on b4",
+        "8. O-O Nf6 9. Qb3 a5": "Black is behind in development. It is not a time to catch a queen",
+        "10. Rd1 Bd7 11. a4 e5": "Final mistake. 11... Rc8 seems much better",
+        "12. Bxf7+": "Not a difficult combination...",
+        "12... Ke7 13. Nf5+ Bxf5 14. Rxd8 Rxd8 15. e4": "Preparing Bc1-e3, but game finished in other way",
+        "15... Nxe4 16. Nxe4 Bxe4": "And easy mate in 1",
+        "17. Qe6#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/a40-queens-pawn?gm=28301",
+    "gameName": "A40:Queens Pawn",
+    "players": "dmitrym (1790) vs. tarsier_79 (1342)",
+    "opening": "Queen's pawn (A40), Keres defence"
+}

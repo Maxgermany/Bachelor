@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+": "This is the Bogo Indian defense.",
+        "4. Bd2": "4.Nbd2 is equally common.",
+        "4... Bxd2+ 5. Qxd2 O-O 6. Nc3 d5 7. e3 Qe7 8. Rc1 dxc4": "8\u2026Rd8 is the main line, with idea to wait for White to move the Bishop and only then to take on c4.",
+        "9. Bxc4 c5 10. O-O Rd8 11. Rfd1 cxd4": "A new move, but hardly an improvement on the previously played 11\u2026Nc6.",
+        "12. exd4": "White voluntarily plays with an isolated pawn, to have more active play and also to avoid symmetry.",
+        "12... Nc6 13. a3 Bd7 14. h3 Rac8 15. Ba2": "It was important to hide the Bishop in a safe place.",
+        "15... Be8 16. Qe3 Rc7 17. b4 b6": "17\u2026a6 was logical to prevent a future b4-b5.",
+        "18. Qf4 Nb8 19. d5": "White opens the position and threatens d6.",
+        "19... exd5 20. Rde1": "20.Nxd5 was slightly better. 20\u2026Nxd5 21.Bxd5 Rxc1 22.Qxc1 giving white a small advantage.",
+        "20... Qd7": "? 20\u2026Qd6 was black\u2019s only move. 21.Qxd6 Rxd6 22.Nxd5 Rxc1 23.Nxf6+ gxf6 (23\u2026Rxf6 24.Rxc1 Nc6 25.Ng5 h6 26.Re1 Bd7 27.Nxf7 Rxf7 28.b5 Nd4 29.a4 Kf8? (29\u2026Ne6 30.Rxe6 Kf8 31.Re3) 30.Bxf7 Kxf7 31.Rd1) 24.Rxc1 Bc6 White is slightly better due to black\u2019s inferior pawn structure.",
+        "21. Ne4": "! White find a crushing move which black most likely overlooked.",
+        "21... Rc6": "21\u2026Rxc1 22.Nxf6+ gxf6 23.Qxc1 Qd6 24.Qh6 Ba4 25.Nd4 and White has a killer attack.",
+        "22. Rxc6": "White didn\u2019t find a complicated better alternative. 22.Ne5! Rxc1 23.Nxf6+ gxf6 24.Qxc1 (24.Nxd7?? Rxe1+ 25.Kh2 Bxd7 and Black is better) 24\u2026fxe5 25.Qg5+ Kf8 26.Rxe5 White threatens with 27.Qh6 Kg8 28.Rg5 Kh8 and 29.Qg7 mate as well as 27.Rxd5 winning a rook. 26\u2026Qd6 27.Rxd5.",
+        "22... Qxc6": "? Black missed his last chance to stay in te game which was 22\u2026Nh5 23.Nf6+ gxf6 24.Qh6 Nxc6 25.Bb1 f5 26.b5 Na5 27.Qxh5 f6 28.Qh4 Bg6 29.Qxf6 Rf8 30.Re7 Rxf6 31.Rxd7 White has a comfortable advantage.",
+        "23. Nd4 Nh5": "If 23\u2026Qd7, 24.Nxf6+ gxf6 25.Nf5 White threatens mate in 2 and black can\u2019t do anything to stop it besides giving up his queen.",
+        "24. Nxc6 Nxf4 25. Nxd8 Nd3 26. Nf6+": "After 26\u2026gxf6 27.Rxe8 white is up a rook."
+    },
+    "url": "https://gameknot.com/annotation.pl/tch-fra-top-12-2015-montpellier-fra?gm=59098",
+    "gameName": "TCh-FRA Top 12 2015 Montpellier FRA",
+    "players": "Tregubov (2571) vs. Nezar (2382)",
+    "opening": "Bogo-Indian defence, Monticelli trap (E11)"
+}

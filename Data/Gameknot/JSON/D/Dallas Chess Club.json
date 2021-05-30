@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6": "Go ATTACK KNIGHT AND BISHOP@@@@@@@@@@@",
+        "4. Ng5 d5 5. exd5": "supposedto do Na5",
+        "5... Nxd5": "Owned",
+        "6. Nxf7 Kxf7 7. Qf3+": "pathetic...",
+        "7... Ke6 8. Nc3": "What the heck is this supposed to do?",
+        "8... Bb4 9. Bxd5+ Kd6 10. Nb5+ Kc5": "surprised he didnt resign...",
+        "11. c4": "???",
+        "11... Rf8 12. Qe3+ Nd4 13. a3 Ba5 14. b4+ Kb6 15. c5+ Ka6": "this is really stupid for him to keepplaying",
+        "16. Nxd4 exd4 17. Qd3+ b5 18. a4 Qd7 19. axb5+ Qxb5": "I like this... pin...",
+        "20. Rxa5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/dallas-chess-club?gm=15136",
+    "gameName": "Dallas Chess Club",
+    "players": "Me (1530) vs. A guy (about 1300)",
+    "opening": "two knights defence (C57), Fegatello attack, Leonhardt variation"
+}

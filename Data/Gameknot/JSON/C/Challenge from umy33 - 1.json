@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2": "The Danish gambit accepted! An opening which I use on a regular basis. Although it gives two extra pawns to black, it is quite difficult for black to defend against whites extremely mobile pieces.",
+        "5... Nc6": "This is not a standard line as far as I know. My opponent takes the game out of the opening books. I had to use my aggressive instincts to stay put.",
+        "6. Nf3 Bb4+ 7. Nc3 Nge7": "Perhaps Nf6 followed by the plan of Ne4 is better!",
+        "8. O-O O-O 9. Nd5 Nxd5 10. Qxd5": "My attack starts building up!",
+        "10... Be7 11. Rad1": "...With the idea of pinning the d pawn after my queen moves out of the d-file.",
+        "11... d6 12. Qh5": "Keeping the queen in close proximity to the black king.",
+        "12... Bd7 13. Rfe1": "Seeing that I'd have to make up my position before beginning the assault!",
+        "13... Qc8": "This,in my view, is the first great error of my opoonent. It allows me to attack instantly.",
+        "14. Ng5 Bxg5": "Almost forced!",
+        "15. Qxg5 Ne5": "A good attempt for defense.",
+        "16. f4": "maybe h6 might have saved the game.",
+        "16... Ng6 17. f5 Ne5 18. Bxe5": "Now I destroy the knight which is the last defense of the king against the f-pawns advance!",
+        "18... dxe5 19. f6": "The decisive advance!",
+        "19... g6": "There is no other defense! ",
+        "20. Qh6": "Here my opoonent resigned because there is no defense for Qg7#. A good game. This is why I love the Danish gambit!"
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-umy33?gm=20332",
+    "gameName": "Challenge from umy33",
+    "players": "chess_nepal8 (1682) vs. umy33 (1972)",
+    "opening": "Danish gambit (C21), Collijn defence"
+}

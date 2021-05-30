@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6": "The Two Knights Defence. In essence, Black gives up a pawn for what can sometimes be a surprisingly sharp attack.",
+        "4. Ng5": "\"A duffer's move\" - Tarrasch.\n\"There is no other way for White to try for an advantage. 4.d3 is tame.\" - Fischer",
+        "4... d5 5. exd5 Na5": "5...Nxd5 can be rather perilous for Black.",
+        "6. Bb5+ Bd7": "Black does not follow the main line of 6...c6 7.dxc6 bxc6 8.Be2 h6.",
+        "7. Qe2": "This seemed good at the time, but I am not so sure now. Black cannot take the Bishop as 7...Bxb5 8.Qxb5+ c6 9.dxc6 looks rather dangerous! But I end up exchanging anyway, so maybe a more straightforward move is better.",
+        "7... Bd6": "Defending the e-pawn and getting his final minor piece out.",
+        "8. Bxd7+ Qxd7 9. c4": "Again, it seemed good to try to hang on to my extra pawn, but maybe castling or 9.Nc3 is more usual.",
+        "9... h6": "Black drives away my Knight, a move usual in this opening.",
+        "10. Nf3": "Now the attack on Black's pawn is back on.",
+        "10... O-O": "He's hoping I take it for after 11...Bxe5 12.Qxe5? Re8 and the Queen is pinned.",
+        "11. O-O": "Now I have my extra pawn and my King castled, but my Q-side is undeveloped and Black has time and space for a K-side attack.",
+        "11... e4": "Revealing an attack on the h-pawn by the Bishop while attacking my Knight.",
+        "12. Nd4": "But the Knight can easily escape.",
+        "12... Ng4": "Doubling the attack on the h-pawn. But really, this is all bluster, less dangerous than it looks. What can Black do after 13.h3? 13...Nh2? 14.Rd1 and Black has nothing. 14...Nf3 15.Nxf3 exf3 16.Qxf3 maybe? But I get alarmed by this build up of pieces and try something tricky and very foolsih...",
+        "13. Ne6": "My thinking was that Black can attack my Rook, but I will be attacking his...",
+        "13... Nxh2 14. Nxf8 Rxf8": "Actually, this gives me a moment of possible escape, while 14...Qg4 is dangerous.",
+        "15. Rd1": "Now I get greedy. Giving up the Rook while simply developing... 15.Nc3 Nxf1 16.Kxf1 and Black has his pawn back but not much more. But I overlook a deadly attack...",
+        "15... Nf3+": "Opening up my King's defences.",
+        "16. gxf3": "Clearly, 16.Kf1 is better; Black gets to play 16...Qg5 but I have some semblance of a defence left. Not enough, but something. This is catastrophic...",
+        "16... Qh3": "I could see the check on h2, but thought Black had nothing better - and was trying for - a draw by perpetual check... 17.Qxe4 Bh2+ 18.Kh1 Bg3+ 19.Kg1 Bh2+ etc. Wrong.",
+        "17. Qxe4": "Bizarrely, the computer analysis has this as a 'book' position. But how can it be? For now Black has a forced mate, one which I quite missed...",
+        "17... Bh2+ 18. Kh1 Bg3+ 19. Kg1 Qh2+": "How I missed this obvious move I cannot imagine.",
+        "20. Kf1 Qxf2#": "From a book position to mate in four moves. Strange indeed."
+    },
+    "url": "https://gameknot.com/annotation.pl/can-a-book-position-already-be-lost?gm=67842",
+    "gameName": "Can a book position already be lost?",
+    "players": "captain_shannon (1734) vs. metcalfe (1827)",
+    "opening": "Two knights defence (C58)"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4": "A very bad game for black",
+        "1... d5 2. e5": "White refuses the trade.",
+        "2... Nc6 3. d4": "Nothing special at this point.",
+        "3... Bf5": "Still following the main lines of this variation",
+        "4. c3 Qd7 5. Bb5 h6": "To prevent Bg5 which could bring trouble in the center",
+        "6. Ne2 a6": "chasing the ennoying bishop",
+        "7. Ba4 b5": "I said chasing the ennoying bishop",
+        "8. Bb3 e6": "It still seems ok for black except that it might be dissicult to castle",
+        "9. O-O": "Logical",
+        "9... Nge7 10. a4 b4 11. a5": "Blocking the situation on the queen side",
+        "11... Ng6": "Black will soon be able to castle",
+        "12. Ng3 Be7": "preparing the castle",
+        "13. cxb4 Bxb4": "Black sees little danger tyo the situation",
+        "14. Nc3 Rb8": "This move was done to prevent 15. Nb5 but this was not the main danger. Black should have castle",
+        "15. Ba4": "The knight is pinned",
+        "15... O-O 16. Nh5 Nge7": "To protect the c knight, in order to enable the queen to move.",
+        "17. Bxh6": "! good move (if 17. gxh6 18. Nf3 + the queen is lost)",
+        "17... Qd8": "No choice",
+        "18. Bxg7 Nxa5 19. Bxf8": "The game is finished. I holded 7 more moves but it's hopeless",
+        "19... Kxf8 20. Nf6 Rb7 21. Qh5 Ng6 22. Nd7+ Kg7 23. Nf6 Nf4 24. Qg5+ Ng6 25. Nh5+ Kh7 26. Qxd8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/scandin-gambit-ref-l?gm=48993",
+    "gameName": "scandin. gambit ref. (L)",
+    "players": "jxoneto (1682) vs. ptitroque (1685)",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

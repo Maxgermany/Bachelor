@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. c4 f5 2. Nf3 Nf6 3. Nc3": "I started English, my opponent - Dutch.",
+        "3... g6 4. d4": "I return to usual Dutch defence.",
+        "4... Bg7 5. g3 d6 6. Bg2 c6 7. O-O O-O 8. Re1 Ne4": "I think this move isn't good. Instead of developing other peaces Black moves Knight to exchange.",
+        "9. Qc2 Nxc3 10. bxc3": "I double pawns but save my Queen from possible attack of black Bishop.",
+        "10... Nd7": "10 ... e5 was better. Now I can get advantage in space.",
+        "11. d5 c5 12. Ng5 Nf6 13. Ne6 Bxe6 14. dxe6 Qc8 15. Bd5": "I think White get a small advantage, but I can't imagine how to realize it, if Black only defend. My opponent starting some activity, but it is more profitable for White...",
+        "15... Rb8 16. a4 h6 17. Kg2 Kh7": "Black prepares to attack pawn e6. But they weakening position of King.",
+        "18. Rb1 b6 19. Bd2": "I move peaces for slightly better position, but I have no plan what to do with Black's position - it is still solid.",
+        "19... Ne8": "Black continues their plan against pawn e6, but now I can open center.",
+        "20. e4": "White will have even more space now.",
+        "20... Nc7 21. exf5 Rxf5 22. Qd3 Rf6": "I think better was 22 ... Nxd5 and then waiting what White will do. Now Black eliminate pawn e6 but loses e-file.",
+        "23. h4 Nxe6 24. h5": "Pressing pawn g6.",
+        "24... Nf8 25. Rxe7 a5 26. Rbe1 Qf5": "Attack of pawns h5, f2 and Queen exchange offer. White now can play 27. Qxf5 Rxf5 28. Rc7 but 28 ... Re5 prevents doubling white Rooks at 7th rank. But White have one beautiful way to win!",
+        "27. Rxg7+": "Starting! Bishop g7 is to be eliminated!",
+        "27... Kxg7 28. Re7+ Kh8 29. Bxh6": "Culmination! Queen is sacrificied. Or Black can attack at f2! But in any way White's threat at g7 is stronger!",
+        "29... Qxd3 30. Bg7+ Kh7 31. Bxf8+ Kh8 32. Bg7+ Kh7 33. Bxf6+": "Two Black peaces nearest to King leaved board!",
+        "33... Kh6 34. g4": "White have only two bishops and pawn for Black Queen, but Black can't escape checkmate! White threatening 35. g5  Kxh5 36. Bf3  and 37. Rh7 !",
+        "34... gxh5 35. g5+": "Black resigned because after 35 ... Kg6 36. Be4  Qxe4 37. Rxe4 White have enough material advantage to win."
+    },
+    "url": "https://gameknot.com/annotation.pl/gollums-2nd-mini-tournament?gm=997",
+    "gameName": "gollum's 2nd mini-tournament",
+    "players": "patapum (1810) vs. nervo (1696)",
+    "opening": "English (A10), Anglo-Dutch defense"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nd4 h5": "Alternative variation: 6... h5\nAlternative variation: 6... Bxg3+ 7. hxg3\n",
+        "7. Nb5": "This is a new move. However, it seems a bit slow move as it is the third one with the knight\nAlternative variation: 7. Rg1\n",
+        "7... h4 8. Nxd6+": "The white ar e forced to make fourth move with the knight and develop the black queen. The position is even now.\nAlternative variation: 8. Rg1 hxg3 9. hxg3 Rh1 10. Rg2 Qf6 11. Rf2 Bxg3 12. Nxc7+ Kd7 13. d3 (13. d4 Qxf2+ 14. Kd2 Qxd4#) 13... Bxf2+ 14. Kd2 Kxc7\n",
+        "8... Qxd6 9. Rg1": "Alternative variation: 9. gxh4 Qf6 10. d3 Qxh4+ 11. Kd2 $11\nAlternative variation: 9. Nc3 [ This should be the main move here. It develops a piece and protect g3] Nc6 ( 9... hxg3 10. Ne4) (9... Bf5 10. e4 (10. Bg2 hxg3 11. e4 (11. Bxb7 Qb6 12. Rf1 Qxb7) 11... Be6 $11) 10... Be6) 10. Bg2 $11\n",
+        "9... hxg3 10. hxg3": "Alternative variation: 10. d3 gxh2 11. Rh1 Qg3+ 12. Kd2 Qg1\nAlternative variation: 10. Rxg3 Rxh2 11. Re3+ Be6\n",
+        "10... Rh1 11. Rg2 Rh3": "Alternative variation: 11... Qf6 12. Rf2 $11\nAlternative variation: 11... Nf6 [ The strongest move here which increase the pressure over g3] 12. d3 Nh5 13. Qd2 [Protect g3 with 14. Qe3+] Be6 14. Qe3 Nc6\n",
+        "12. Kf2": "Alternative variation: 12. d3 Rxg3 13. Nc3 Rxg2 (13... Nf6 14. Nb5) 14. Bxg2 Nc6 (14... Qg3+ 15. Kf1) 15. Nb5 Qg3+ 16. Kf1 Bd7 17. Qe1 Qxe1+ 18. Kxe1 O-O-O 19. Bxc6 bxc6 20. Nxa7+ Kb7 21. Be3 f5\nAlternative variation: 12. Nc3 Nf6 13. d4 Nc6 (13... Rxg3 14. Nb5 Qb4+ 15. Qd2 Qxd2+ 16. Bxd2 Rxg2 17. Bxg2 Kd8 18. Bf4) 14. Bf4 Qb4 15. Qd2\n",
+        "12... Rh1": "The black couldn't find the correct move\nAlternative variation: 12... Nf6 13. Nc3 Nh5 14. d4 Nxg3\n",
+        "13. d4 Nc6": "Alternative variation: 13... Nf6 14. Nc3 (14. Bf4 Ne4+ 15. Ke1) 14... Nc6 15. e4\n",
+        "14. c3": "Weak move for the white here. A piece should be developed\nAlternative variation: 14. Bf4 Qb4 (14... Qxd4+ 15. Qxd4 Nxd4 16. Nc3 Nxc2 17. Rc1 Nb4 18. Nb5)\nAlternative variation: 14. Nc3 Qxd4+ 15. Qxd4 Nxd4 16. Bf4 Bd7 17. Bxc7 Rc8 18. Be5 Nxc2\n",
+        "14... Bf5": "Alternative variation: 14... Nf6 [ This one is better] 15. Qc2 (15. Bf4 Ne4+ 16. Ke1) 15... Bd7 16. Bf4 Qe7 17. Nd2 (17. Bxc7 Ne4+ 18. Ke1 Bf5 19. Qd3 (19. Bf4 Nxg3) 19... Qxc7)\n",
+        "15. Bf4 Qe7": "Alternative variation: 15... Qd7 16. Rg1 Rxg1 17. Kxg1 Nf6\nAlternative variation: 15... Qg6 16. Rg1 Rxg1 17. Kxg1 O-O-O\n",
+        "16. Nd2 Nf6 17. Rg1 Rxg1": "The computer suggest not to take here, but to keep the rook which will help to increase the pressure over the exposed king\nAlternative variation: 17... Rh8 18. Bg2 O-O-O 19. e4\n",
+        "18. Kxg1 Nd5": "Alternative variation: 18... Nh5 19. e4 (19. e3 Nxf4 20. exf4 Qe3+ 21. Kg2 Nxd4 22. cxd4 O-O-O 23. Qe2 Qxd4 $11) 19... Nxf4 20. gxf4 O-O-O [ This position occured few moves later with different move order]\n",
+        "19. e4": "Alternative variation: 19. Bg2 Nxf4 20. Bxc6+ bxc6 21. gxf4 Qe3+ $19\n",
+        "19... Nxf4": "Alternative variation: 19... Bxe4 20. Qxg4 Nxf4 (20... Nf6 21. Qg7 O-O-O 22. Bg5 Rg8 23. Qxf6 Qxf6 24. Bxf6 Rxg3+ 25. Kh2) 21. Qxf4 (21. Re1 f5 22. Qxf4)\n",
+        "20. gxf4 O-O-O": "Alternative variation: 20... Bxe4 21. Qxg4 Bg6 22. Kf2\nAlternative variation: 20... Qh4 21. Qe2 (21. exf5 Qg3+ 22. Bg2 (22. Kh1 Kd7) 22... Qe3+ 23. Kf1 Qxf4+ 24. Ke2 $18) 21... g3 22. exf5+ Kd7 23. Nf3 Qxf4 24. Ne5+ Nxe5 25. dxe5 Qxf5 26. Rd1+\n",
+        "21. d5": "Alternative variation: 21. exf5 Qe3+ 22. Kg2 Rh8 23. Qxg4 Qxd2+ 24. Be2\n",
+        "21... Bxe4": "White resigned here\nAlternative variation: 21... Qc5+ [This was the winning move here] 22. Kg2 Ne7 (22... Qe3 23. Qe2 Qxf4 24. exf5) 23. Qe1 (23. Be2 Qe3 24. Bxg4 Bxg4 25. Qxg4+ f5 26. Nf1 Qb6) 23... Nxd5 24. exd5 Qxd5+ 25. Kg3 Qxd2 26. Qxd2 Rxd2\nAlternative variation: 21... Rh8 22. dxc6 Qc5+ 23. Kg2 Qe3 24. cxb7+\n",
+        "22. Nxe4 Qxe4 23. Qxg4+ f5 24. Qg2 Qxd5 25. Qxd5 Rxd5": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-105th-tournament?gm=50681",
+    "gameName": "Gameknot 105th tournament, ?",
+    "players": "Chessie218, 1748.  vs. Tyrin, 1901. ",
+    "opening": "Bird (A02), From gambit, Lasker variation"
+}

@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Nf3 d5 3. c4 c6": "Finally I came to a semi-slav.",
+        "4. Nc3 e6": "Although the book recommend dxc, I don't like to loose tempo.",
+        "5. Bg5 h6": "Forcing 6.Bxf6 Dxf6 and my Queen is creating pression on the week f pawn.",
+        "6. Bxf6 Qxf6 7. e3": "The white is protecting his c pawn.",
+        "7... Nd7 8. cxd5 exd5": "Not 8. ... cxd5. Queen on a4 and Bishop on b5 can be very annoying. More than that, after 8. ... exd5 and king-side castling, my rook on e file can be very dangerous.",
+        "9. Qc2 Be7": "Preparing for castling on kingside.",
+        "10. h4": "Loosing time. I think the best is 10.Bd3 0-0 11. 0-0. That was the biggest strategic mistake of the White. And you'll see why.",
+        "10... Nb6": "After 10. h4 the g4 square became very attractive for  the black LSB. And after Nb6 he is ready to jump. ",
+        "11. Bd3 O-O 12. Ne5": "The White tries to defend g4 square.",
+        "12... c5 13. g4": "I think here he pursue to get rid of the dangerous LSB with consecutive Bg5. ",
+        "13... cxd4 14. exd4 Qf4": "The Queen start the Black's attack. The pawn on d5 and g5 are in danger.",
+        "15. Ne2 Bb4+ 16. Kd1": "This was a big mistake. It starts an avalanche of pins and skews that led to a powerful attack. Now after 16. ... Bxg4 the Night is pinned and will be so till the end.",
+        "16... Bxg4 17. Nxg4 Qxg4 18. a3": "I was afraid of 18. Bh7+ and 19.Qg5, but luckily for me the Black missed it.",
+        "18... Qf3 19. Rg1": "Offering a pawn for free, but I had other plans.",
+        "19... Rac8 20. Qb3": "And the king is in very big troubles. Now I had to prevent Bh7+ loosing my Queen, and I did it with Bc3. ",
+        "20... Bc3": "Now the white Bishop is unprotected. If the White take on c3 I will regain material with tempo with Qxd3+. The only solution for White is to take away the white Bishop to b5, continuing to control d3.",
+        "21. bxc3": "A definite blunder. What follow was a disaster.",
+        "21... Qxd3+ 22. Ke1 Rfe8": "The white Knight is completely useless and the pressure on c and e files is literally crushing White's pieces. He must defend the immediate Qxe2#.",
+        "23. Ra2 Rxc3": "I was threatening Rc1#.",
+        "24. Qb2 Nc4": "After the game I realized that I was able to play right away 24. ... Rxe2+ 25. Qxe2 Rc1+ 26. Qd1 Rxd1#\n",
+        "25. Qxb7": "Better 25. Qa1 prolongs the agony, but not for too long. After 25. Qxb7 White is mated with Rc1. The white Knight didn't move from the opening, the Rook hasn't had even the time to move, and I think my victory was due to full exploitation of the pinned knight and blocked king. And it all started with an useless move in the opening, h4, instead of castling. It was an interesting game, with lots of tactical traps that I fully enjoyed.",
+        "25... Rc1#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/pin-pin-pin?gm=59281",
+    "gameName": "Pin, pin, pin...",
+    "players": "mrmobil (1458) vs. volandm (1631)",
+    "opening": "Queen's pawn game (A46)"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nc6 3. Bg5 f6 4. Bh4": "is this a playable line? - comments very welcome, as i'm new to this opening",
+        "4... e5 5. e3": "(obviously defending d4 with Nf3 is less effective as it allows e4! forcing the knight back to d2. - leaving a few problems to follow on the queenside)",
+        "5... Bf5": "presumably with the plan of Nb4, -i figured this wasn't much of a problem as Bd3?! would give me a chance to exchange a fairly useless piece for one of blacks developed pieces - as well as giving me a fairly solid centre witha pawn on d3. The open c file that would result i thought would be better for me as i clearly plan to castle kingside - whereas blacks kingside is less strong, therefore i thought i could take advantage of the weak f6 pawn with a little central pressure.",
+        "6. dxe5 Nxe5": "i almost expeected black to ignore this and play Bb4- planning to develop the Knight after exf6, Nxf6. as it is - this move centralizes the knight nicely, but allows white to gain the d pawn for free instead of the f pawn - suggestions??",
+        "7. Nxd5 c6 8. Nc3 Bb4 9. Nge2 Qa5 10. a3 Rd8 11. Qc1 Bd6 12. Nd4 Ne7 13. Be2 O-O 14. O-O Qc7 15. f4 Ne5g6 16. Bg3 Rfe8": "that knight on e7 seems to be a real problem for black - i expected it to have been moved by now to somewhere out the way - i like white's position here - but if black defends correctly i dont think he should have too many problems. White's extra pawn and more forward development is i think equalled by blacks potentially huge firepower down the centre. the queen's lack of flight squares could be a problem.",
+        "17. e4 Bxe4": "?? surely a mistake? - or perhaps with the idea of Nxe4, Nd5, Bd3, Nxf4 - giving two pawns for the bishop and putting the knight pair right in the heart of whites position?\n\nhowever it overlooks the fact that the e6 square is now a serious hole in blacks own position.\n\nI was expecting Bc8 - comanding a potentially important diagonal, and perhaps getting ready for a pawn exchange on e5, or to protect an adfance on f5? the problem is that white still has a pawn centre in this case, whereas black doesn't really.",
+        "18. Ne6 Qb6+": "a good idea to try and get out of the problem, however there just arent enought flight squares in the world for that queen.",
+        "19. Bf2 Bc5": "?? game loosing blunder - white can (and did) just take. however what is better? c5 looses to Nxd8 (the bishop on e4 is hanging)",
+        "20. Bxc5": "Black Resigns, the bishop is lost, and the queen is soon also lost ( after Qa5 (the only move) b4 traps and captures it."
+    },
+    "url": "https://gameknot.com/annotation.pl/gameknot-blitz?gm=30119",
+    "gameName": "gameknot blitz ",
+    "players": "crazyeye180 (1698) vs. johnjarvinen (1934)",
+    "opening": "Queen's pawn (D00), Chigorin variation"
+}

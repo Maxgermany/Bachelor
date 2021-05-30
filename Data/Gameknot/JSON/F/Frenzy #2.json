@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. c4 Nf6": "An opening unfamiliar to me: the English Opening 1...Nf6 (Anglo-Indian Defense) (A15). I have a well placed knight at f6, preventing him from using 2.e4, unless he does 2.d3 first.",
+        "2. d4": "Question: Why did White go there? For my opponent, his next moves should not be pawn moves. 3.Nf3 is preferred.",
+        "2... e6": "Developing my bishop and trying to develope my knight by protecting the d5 square.",
+        "3. e3": "Inaccurate. Correct play was 3.Nf3.",
+        "3... Nc6": "It is impossible to attack by pawns. White's only hope is to develope his knights. It is too late for White to develope anything to save his pawn foretress.",
+        "4. d5": "Too late!",
+        "4... exd5 5. cxd5 Ne5": "Knight escape #1. The trade's aftermath rendered White's pawn's almost useless.",
+        "6. f3": "What's with White's pawns? Couldn't White have developed at least one knight by now, preferrably his g-knight? This was more of a complete blunder.",
+        "6... Bb4+ 7. Nc3 d6": "Sure enough, after those greedy pawn moves, White looked weakened and his pieces look like a standstill army that had no experience. This is THE consequence for too much pawn movements. White overlooked this even position, and...resigned!? feel free to post any suggestions about this because I need to know whether this was even or not and how White could play better or how he could have continued this game."
+    },
+    "url": "https://gameknot.com/annotation.pl/frenzy-2?gm=39161",
+    "gameName": "Frenzy #2",
+    "players": "mikeyhannah (810) vs. chesskingdom64 (1012)",
+    "opening": "English, 1...Nf6 (Anglo-Indian defense) (A15)"
+}

@@ -1,0 +1,15 @@
+{
+    "moves": {
+        "1. e4 d5 2. exd5 Nf6 3. Nf3": "Do not want to get a pawn instead of initiative: 3.c4 c6 4.dxc6 Nxc6",
+        "3... Nxd5 4. d4 Nc6": "Can't say that this is a mistake, but after this move white pawns are invited to go ahead. Black can easily find themselves behind in development. One should pay attention at some other moves: 4...g6, 4...Bg4.",
+        "5. c4 Nb6 6. d5 Nb8": "May be Nb4 is better?",
+        "7. Nc3 g6": "But this seems to be a mistake, because white queen occupies black diagonal and prevents natural development of black pieces. 7...e6 looks better.",
+        "8. Qd4 Rg8 9. Bf4 Bg7 10. Qe3 Nb8d7": "This is an error after which black looses material.",
+        "11. Nb5 Bxb2": "Probably black overlooked that not only rook, but also the queen are in danger",
+        "12. Rb1 Na4 13. Bxc7 Bc3+ 14. Kd1": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fighting-warriors-team-tourney?gm=29441",
+    "gameName": "Fighting Warriors Team Tourney",
+    "players": "yatsyshin (1933) vs. bobbob78 (1457)",
+    "opening": "Scandinavian defence (B01)"
+}

@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6": "The Slav seems to be popular these days.",
+        "3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2": "6.Bd3 is more popular, but I prefer to play 6.Qc2 first, which forces black to come up with a useful move, since now 6...dxc4 7.Bxc4 and white gains a tempo on the usual line, as the bishop has only moved once to recapture on c4.\n",
+        "6... Be7": "I think this is \"?!\"  The bishop belongs on the b8-h2 diagonal, so 6...Bd6 is preferred.",
+        "7. Bd3 dxc4 8. Bxc4 O-O": "It's hard to call this a mistake, but in this opening, black really needs to get the Q-side going with ...b5 and ...b4.",
+        "9. O-O Qc7": "Again missing the opportunity to play ...b5 and ...b4.\n ",
+        "10. e4": "Black's lack of counter-play gives white a free hand in the center.\n",
+        "10... e5": "Pretty much forced; white is threatening e5 followed by Bd3 with a nasty K-side attack.",
+        "11. h3": "Preparing Be3 by restricting black's N on f6.",
+        "11... exd4 12. Nb5 Qb6": "Of course not 12...cxb5 13.Bxf7+ and black can resign.",
+        "13. Nbxd4 Ne5 14. Bb3 Nxf3+ 15. Nxf3 Qc5 16. Qe2": "White has a space advantage, and therefore wants to keep as many pieces on the board as possible.",
+        "16... Qh5": "Trying to drum up some counter-play ...",
+        "17. Bg5": "But now white sees an opportunity to bottle up the black Q.",
+        "17... h6 18. Bxf6 Bxf6 19. e5 Be7 20. Bc2": "Black's queen is running out of squares.\n\n",
+        "20... Be6 21. Rad1 Rad8 22. Qe4": "Threatening mate ...",
+        "22... g6 23. Qe3 Bd5": "I was expecting 23...Bg5 24.Nxg5 Qxg5 25.f4 Qe7, with a plus to white because of the space advantage.  Note that 23...Bxa2? simply loses the B to 24.b3. This bishop really should stay on the c8-h3 diagonal.",
+        "24. Rxd5": "With this bishop gone, white has a serious threat of Kh2 followed by g4, winning the black queen.\n",
+        "24... cxd5": "24...Rxd5 is not much better after 25.Kh2 Bc5 26.Qe1 f5 (all pretty much forced) 27.Bb3.\n",
+        "25. Kh2 Bg5 26. Qd4 f5": "The only way to stop g4. But now black's queen is out of the game.\n",
+        "27. Qxa7 Rfe8": "27... Ra8 28.Qxb8 Rxa2? 29.Qxd5+ wins\n",
+        "28. Qxb7 Bf4+ 29. Kg1 Bxe5": "Better is 39...g5, getting the Q back into the game.",
+        "30. Ba4": "White now regains material, and has two healthy outside passers.  Black is lost.\n",
+        "30... Re6 31. Nxe5 Rxe5 32. Qc7 Rde8 33. Bxe8 Rxe8 34. Qc6 Re7": "The d-pawn is a goner.  If 34...Re5 white wins the pawn anyway with 35.Qc8+ Kf7 36.Qd7 Re7 37.Qxd5\n",
+        "35. Qxd5+ Kh7 36. b4 Qe2": "Finally getting back into the game, but it's too late ...",
+        "37. b5 f4 38. a4 Qc2 39. a5": "The pawns can't be stopped without shedding more material.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=34640",
+    "gameName": "Team match",
+    "players": "hityerclock (2107) vs. antawn007 (1880)",
+    "opening": "QGD Slav (D15), 4.Nc3"
+}

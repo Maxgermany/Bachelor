@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 c6 3. Nc3 dxc4": "Alekhine's choice with the Slav, hence his name being attached to this variation. ",
+        "4. e3 b5 5. a4 b4 6. Ne4 Qd5 7. Nd2 Nd7": "...c3 is book and ...Ba6 is an option. This gives up the button without a fight. Not an issue, yet. but Black's pawns over there look very difficult to protect. ",
+        "8. Nxc4 a5": "...Ba6 first. attack the N. if it moves, Bxf1, if not then get other side developed. ",
+        "9. Ne2 Ba6 10. Nf4 Qg5 11. Qc2": "threatening c6 & a8. ",
+        "11... e6": "...Bxc4 should be better defense. ",
+        "12. Nb6 c5": "drops the R on a1. ",
+        "13. Nxa8 Bd6": "...Bxf1 was better. ",
+        "14. Bxa6 Ne7 15. h4 Qf6 16. Bb5 Nd5 17. Nxd5 exd5 18. Nb6 Kd8 19. Nxd7 Qg6 20. Qxg6 hxg6 21. dxc5 Bc7 22. b3 Rh5 23. Bb2 f6 24. g4 Rh8 25. Nxf6 Rf8 26. Nxd5 Rf7 27. f4 Bb8 28. c6 Bd6 29. Bd3 Kc8 30. Bxg6 Ra7 31. Bd4 Ra6 32. Bf5+ Kb8 33. Rc1 Bc7 34. Nxc7 Kxc7 35. Be5+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/c-b-team-tournament?gm=66919",
+    "gameName": "C B Team Tournament",
+    "players": "greenjade (2176) vs. gur-dial (1580)",
+    "opening": "QGD Slav defence, Alekhine variation (D10)"
+}

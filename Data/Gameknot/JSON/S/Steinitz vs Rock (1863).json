@@ -1,0 +1,26 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bc4": "Personally, I prefer 3. Bb5 for more of a Ruy Lopez approach, but this is a good alternative and accomplishes the same goal: develops the piece and prepares for castle. As Hicks points out and as I tell my over-the-board students: the best opening moves accomplish multiple goals!",
+        "3... Bc5": "The Giuoco Piano, in which the goals are for white:  to take control of the center with a d4 push. White must choose if he does it right now--4. d4 to get a lead in development (despite the loss of the pawn)--or if he prepares it with moves like 4. c3 or 4. b4. White may also forget about the d4-push, and play a quieter line, by supporting the center with 4. d3. But these are too conventional for white's tastes...",
+        "4. b4": "!? - Instead, white elects to go for an Evans Gambit, in which the goal is to trade a pawn for better center position.",
+        "4... Bxb4": "Black takes, as most people who see this line do. After all, even the original annotator says the best way to refute a gambit is to accept the offer.",
+        "5. c3 Ba5": "Played to keep pressure on c3. After d4(?) c3 is pinned",
+        "6. O-O": "3rd goal of the chess opening? Protect the king! This standard move fixes the pin problem and makes d4 a playable move again.",
+        "6... Nf6": "!? - A good move since the pawn on c3 makes e4 difficult to defend, and ideally would allow black to castle as well...",
+        "7. Ba3": "However, as many people will tell you, offense is the best defense. Ignoring the attack on e4, white invites black to take it, knowing that this opens the e-file for the white rook, giving him a positional edge! This move also prevents black from castling, which will become a problem later in the game.",
+        "7... Bb6": "Attacks d4, as black looks to prepare for an attack on the center.",
+        "8. d4 exd4 9. Qb3": "Develops the queen and attacks f7!",
+        "9... d5": "?! - a dubious move as black's king hasn't castled yet and is stuck in the middle. On the flip side, there is not much else he can do to defend f7. Bad positions force bad moves.",
+        "10. exd5": "Opens the e-file for the rook to attack the king! Time to make black pay for not castling.",
+        "10... Na5": "Black's plan? Trade and simplify. It's really his only hope.",
+        "11. Re1+ Be6": "Quiz for you spectators: Why isn't Kd7 an option here? (Hint: The move made is the only good move for black!)",
+        "12. dxe6": "!! - a beautiful queen sacrifice.",
+        "12... Nxb3 13. exf7+ Kd7 14. Be6+ Kc6": "An exposed king = no es bueno for anyone.",
+        "15. Ne5+": "Time for white to make the most of the queen sacrifice. One bad move, and black can sneak back into the game.",
+        "15... Kb5 16. Bc4+ Ka5 17. Bb4+ Ka4 18. axb3#": "A beautiful finish! Lesson of this game: Castle! And if your opponent doesn't, look for and capitalize on the weak square f7 (and/or f2)."
+    },
+    "url": "https://gameknot.com/annotation.pl/steinitz-vs-rock-1863?gm=54142",
+    "gameName": "Steinitz vs Rock (1863)",
+    "players": "Steinitz, Wlihelm (2735) vs. Rock, J. (2000)",
+    "opening": "Evans gambit (C52), Richardson attack"
+}

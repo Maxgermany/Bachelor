@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import os
-import Data.Scripts.Database as DatabaseHelper
+import Data.Scripts.DatabaseHelper as DatabaseHelper
 
 def scrapChessGameSite(url):
     page = requests.get(url)
@@ -45,11 +45,11 @@ def scrapChessGameSite(url):
     exportData['players'] = gameData[2]
     exportData['opening'] = gameData[4][15:]
 
-    path = "../Data/GameknotJSON/" + gameData[1].replace('"', "") + ".json"
+    path = "../Data/Gameknot/JSON/" + convertToValidFilename(gameData[1].replace('"', "")) + ".json"
     i = 1
 
     while os.path.exists(path):
-        path = "../Data/GameknotJSON/" + gameData[1].replace('"', "") + " - " + str(i) + ".json"
+        path = "../Data/Gameknot/JSON/" + convertToValidFilename(gameData[1].replace('"', "")) + " - " + str(i) + ".json"
         i += 1
 
     f = open(path, "w+")
@@ -108,7 +108,7 @@ def scrapChessGames(url, pagingationString = '?p='):
 
         DatabaseHelper.writeGameIntoDB(gameName = gameObject['gameName'], url = gameObject['url'], initialURL = url, players = gameObject['players'], result = gameObject['result'], time = gameObject['time'])
 
-    path = '../Data/GameknotJSON/links.json'
+    path = '../Data/Gameknot/links.json'
 
     if os.path.exists(path):
         f = open(path, "r+")
@@ -125,6 +125,17 @@ def scrapChessGames(url, pagingationString = '?p='):
         f.seek(0)
         json.dump(data, f, indent = 4)
         f.close()
+
+
+def convertToValidFilename(fileName):
+    invalid = '<>:"/\|?*'
+
+    for char in invalid:
+        fileName = fileName.replace(char, '')
+
+    fileName = " ".join(fileName.split())
+
+    return fileName
 
 
 def scrapChessGameSiteAutomatic():
@@ -144,5 +155,3 @@ def scrapChessGameSiteAutomatic():
 #scrapChessGames('https://gameknot.com/best-annotated-games.pl', '?pp=')
 #scrapChessGames('https://gameknot.com/list_annotated.pl?u=all', '&p=')
 
-
-scrapChessGameSiteAutomatic()

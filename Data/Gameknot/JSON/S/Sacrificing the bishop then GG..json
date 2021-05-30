@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3": "Here playing white on a King's knight gambit. It's a blitz game 5min+15.",
+        "3... Nc6": "Well, me too I like to open with this knight. Fischer said d6 was the best continuation, giving the oportunity to pin quickly the knight with Bg4.",
+        "4. Bc4 h6": "Thinking about to follow with g5, protecting the f pawn and threatening the king. I still prefer to do directly g5. When playing the king gambit, the tempo is so much important.",
+        "5. O-O d6 6. d4 a6": "Thinking to move out my bishop, but by doing so he is losing tempo.",
+        "7. Bxf4": "Getting back my pawn.",
+        "7... Nge7 8. e5": "Well I was thinking about a way to move away my knight or my bishop to attack f7. If black exchange it will give me this oportunity + it will give me space on the e line.",
+        "8... d5": "Well done.",
+        "9. Be2": "Getting away of the knight's reach.",
+        "9... Be6 10. Nbd2": "Thinking about to continue with c4.",
+        "10... Nf5 11. Nb3": "I like going to b3 with my knight it give most of the times some nice places to go.",
+        "11... Qd7 12. Nc5": "? Well played too quickly here and forgot about the bishop. Rc1 would have been better I think. ",
+        "12... Bxc5 13. dxc5": "Now Black got a passed pawn on the center and some of my pawns are pretty weak now.",
+        "13... O-O-O 14. b4": "? Well the knight just need to take it.",
+        "14... d4 15. b5 axb5 16. Bxb5 Ne3": "Threatening my queen and my rook, no choice to take it.",
+        "17. Bxe3 dxe3 18. Qe2": "Qxd7, Rxd7, Bxc6, bxc6 would have gave me a nice position. But I didn't like that e pawn. Black was doing fine at this point.",
+        "18... Bd5 19. Ba6": "!! This side of the field is completly unprotected and the b line is freed. I don't think there's a way for black to escape the mate at this point.\n\nIf bxa6, then Qxa6+ followed by Rb1#",
+        "19... Bxf3 20. Bxb7+ Kxb7": "If Kb8, then Qa6 then Qa8#.",
+        "21. Rab1+ Ka7 22. Qb5": "There's no way out.",
+        "22... Rdb8 23. Qa4+ Na5 24. Qxa5#": "Well it was a good game."
+    },
+    "url": "https://gameknot.com/annotation.pl/sacrificing-the-bishop-then-gg?gm=41300",
+    "gameName": "Sacrificing the bishop then GG.",
+    "players": "drchopper  vs. casanova9515 ",
+    "opening": "King's knight's gambit (C34)"
+}

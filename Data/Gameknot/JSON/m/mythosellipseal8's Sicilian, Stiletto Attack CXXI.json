@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Qa5": "The stilleto attack. Dubious reputation",
+        "3. c3": "Preparing d4",
+        "3... d6 4. a4 Bg4 5. Bb5+ Bd7 6. b4": "Blundering a pawn. After 6.... cxb4 7. cxb4 Qxb4 white has nothing, and still has to defend the pawn on e4",
+        "6... Qc7": "?",
+        "7. h3": "Quite unnecessary. Perhaps 0-0 should have been considered, with d4 in mind",
+        "7... Bxb5 8. axb5 cxb4 9. Qb3 a6 10. Qxb4 a5 11. Qd4 Nf6 12. b6": "Look how fast it gets crazy. Should have castled!!",
+        "12... Qc6 13. d3 e5": "The antipositional thrust e5, a move that has not been refuted to date in these Sicilian type positions",
+        "14. Qe3 a4": "What is the idea behind this move? Perhaps sanity was better with Be7 and 0-0",
+        "15. g4": "White responds aggressively",
+        "15... Ra6": "Black wants to munch pawns at the expense of his development",
+        "16. Nbd2": "Hanging the pawn on c3",
+        "16... Rxb6 17. Nc4 Ra6 18. Ba3": "White's development is almost complete",
+        "18... d5": "Black breaking in the centre while his development is incomplete.....what a recipe!",
+        "19. Ncxe5": "Blunder, as black shows",
+        "19... Qxc3+ 20. Ke2": "No castling now for white. Black should aim to get his king away from the centre quickly",
+        "20... dxe4 21. dxe4 Qc2+ 22. Nd2": "He disregards this principle",
+        "22... Re6 23. Rhc1 Qxe4": "And blunders the queen lol! What does he have after Nxe4? Yeah....you got that right.... precisely NOTHING!!"
+    },
+    "url": "https://gameknot.com/annotation.pl/mythosellipseal8s-sicilian-stiletto-attack-cxxi?gm=66962",
+    "gameName": "mythosellipseal8's Sicilian, Stiletto Attack CXXI",
+    "players": "rvpop (1133) vs. dumbartonbluebir (1323)",
+    "opening": "Sicilian (B27), Stiletto (Althouse) variation"
+}

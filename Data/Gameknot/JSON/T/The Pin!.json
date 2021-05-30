@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4": "e4 is my favorite Opening Move.",
+        "1... e5 2. Nf3 Nf6": "Petrov's Defence. It offers attacking opportunities for both sides, and a few lines are quite sharp.",
+        "3. Nxe5": "Classical Variation. Other Possible Moves are 3.Nc3 , 3.Bc4 , 3.d4 (Steinitz Variation)",
+        "3... Qe7": "Black should not continue to copy White's moves and try to restore the material balance immediately with 3...Nxe4? because after 4.Qe2 White will either win material (4...Nf6?? 5.Nc6+ wins Black's queen, and after 4...d5 5.d3 Qe7 6.dxe4 Qxe5 7.exd5 Black loses a pawn), or obtain a superior position (4...Qe7 5.Qxe4 d6 6.d4 f6 7.Nc3 dxe5 8.Nd5 Qd6 9.Bf4 Nd7 10.0-0-0 and White has a big advantage). \n3... d6 is a better move.",
+        "4. Nf3": "This is the main Line. other Lines are: 4.Nc4 , 4.Nd3 and 4.Nxf7 (Cochrane Gambit) \n4...Kxf7 5.Nc3 c5!? 6.Bc4+ Be6 7.Bxe6+ Kxe6 8.d4 Kf7 9.dxc5 Nc6.",
+        "4... Nxe4 5. Be2": "natural development. \nOther Possible Line is : 5.Qe2 d5 6.d3 Nf6 7.Bf4 [7.Qxe7 Bxe7 draw] Be6 = (and Black has a good position and opportunities).",
+        "5... g6": "5...d5 or 5...Nf6 are  better moves here. the knight at e4 is vulnerable. \n",
+        "6. O-O Bg7 7. Re1": "I place my rook in front of black's queen. ",
+        "7... O-O": "?? this move is wrong. black's knight is pin to the queen after white's bishop leaves the e file.\n7...d5 was the right move.",
+        "8. Bf1 d5": "it's late!",
+        "9. d3 f5 10. dxe4 dxe4": "the pawn on e4 is pin to the queen. \nnow white can start his strong attack!",
+        "11. Nc3": "just see this knight in the following moves!\nAlso see the a1-h8 diagonal, the black king is open to white's attack. ",
+        "11... Nc6 12. Nd5 Qf7": "? black place his queen in a bad diagonal!",
+        "13. Bc4": "! another pin",
+        "13... Kh8 14. Nb6 Qf6 15. Nxa8": "this knight is a very strong piece!",
+        "15... exf3 16. Nxc7": "back to the battle! the Knight's Travel Path: b1-c3-d5-b6-a8-c7!!!",
+        "16... Ne5 17. Qd5 fxg2": "this pawn has no threat to the white's king. it acts like a defender!",
+        "18. Bf4": "jsut see the board! all of the black pieces are around the black king. but ... ",
+        "18... Nxc4 19. Qxc4 Qxb2": "the black queen escaped from the battle! \n19...Qc6 was better. the black position is very bad, and he can not find a way to survive.",
+        "20. Bd6 Rd8 21. Qf7": "! with the threat of Re8 and mate",
+        "21... Bd7 22. Ne8": "!! very strong move. ",
+        "22... Bc6": "22...Qxa1 23.Rxa1 Rxe8 24.Qxd7 Rg8 25.Re1 h5 26.Re7 Kh7 27.Be5 Kh6 28.h4 a5 29.Rxg7 Rh8 30.Bf4+ g5 31.Bxg5 #",
+        "23. Be5": "very beautiful position."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-pin?gm=62313",
+    "gameName": "The Pin!",
+    "players": "nima-masghadi (2006) vs. atdr (1907)",
+    "opening": "Petrov (C42), French attack"
+}

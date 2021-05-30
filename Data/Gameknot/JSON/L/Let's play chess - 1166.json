@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 Nc6 3. Nf3 d6 4. fxe5 dxe5 5. Bc4 Be6 6. Bxe6 fxe6 7. O-O Bc5+ 8. Kh1 Nf6 9. d3 Ng4": "I don't remember why I did this.  I had great position in the center of the board.  Must have been anxious to move into the midgame.",
+        "10. Bg5": "Should have seen that coming with the previous pawn move.  It wasn't just to protect e4 from my knight.",
+        "10... Qd6 11. Nfd2": "I don't know why he did that, but it turned out great for him.  That knight is what really began my problems.",
+        "11... Ne3": "I thought it was a good move...",
+        "12. Bxe3": "It wasn't",
+        "12... Bxe3": "I suppose I could pretend it was an even trade...",
+        "13. Nc4": "But it wasn't, opened me up to a fork on my queen and the bishop.",
+        "13... Qc5": "I could delay it...",
+        "14. Nc3": "I knew he was going after my queen, she was not properly developed.",
+        "14... O-O-O": "Should have moved my bishop at this point... dunno where though.  Probably f4.",
+        "15. Na4 Qb5": "Best move at the time, if I had seen the whole of the game I would have realized that I was not just saving my queen, but threatening an exchange for my bishop.  But I wasn't paying enough attention.",
+        "16. b3": "Didn't want to lose his knight quite yet.  Good idea.",
+        "16... Nd4": "Again, should have moved my bishop.  I was thinking that by moving my knight, I would have more room for my queen to flee if need be.",
+        "17. Nxe3": "Good move.",
+        "17... Qc6": "Attacking c2, and moving a little further from the situation, sounded like the best idea.",
+        "18. Nc4": "I assume that he moved his knight here to take e5, threatening the queen, or maybe just negating the attack on c2...  either way, I got no options.",
+        "18... a6 19. Nxe5 Qxc2 20. Nf7 Qxd1 21. Raxd1 b5 22. Nc5 Rhe8": "Had to choose, Rd was 'defended' by my K, if you will, so I decided to offer that one.",
+        "23. Nxd8 Kxd8": "The N is dead!  Ha!...  10 moves and 5 points later.  ",
+        "24. Nxa6 g5 25. Rf7": "Has he gotten a little greedy, or has he moved into end-game, leaving me in the dust?",
+        "25... h5 26. Rxc7 g4": "26. Rxc7 g4 \r\n27. Rh7 Ne2 \r\n28. Rxh5 g3 \r\n29. hxg3 Nxg3  \r\nhighly unlikely... ?\r\nif his R doesn't come to h, then mine can, threatening mate",
+        "27. Rf1": "ok, so we are in the end-game now... if I had seen that, I wonder if I could have prevented it.\r\nif I don't protect 8 (f8), that is mate. if R stays at e8, then white R at d7 is mate. moving R-h8 saves me, but I have a one move cushion.",
+        "27... h4 28. Rff7 Rh8 29. Rfd7+": "not unexpected... but now i see the fork on N... !",
+        "29... Ke8 30. Rxd4": "I see nothing, considering resigning... but may as well keep going, hoping for a mistake",
+        "30... g3 31. Rc8+ Kf7 32. Rxh8": "It's too painful to look at every time I log on... I have to resign.  I must remember where I messed up.  \r\nOver and over I thought I had an additional cushion before I had to retreat.  Over and over I was wrong.  I needed to be just a little more cautious in about 4 or 5 moves, and I wouldn't have needed to resign."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=1352",
+    "gameName": "Let's play chess",
+    "players": "bunyipboy (1472) vs. ecawilson13 (1164)",
+    "opening": "King's gambit (C30)"
+}

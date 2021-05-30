@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 c5": "? A mistake, which gives White a clear lead.",
+        "8. Nb5": "! Pointing out that d6 is no more defended.",
+        "8... Nb6 9. Nd6+ Kd8 10. dxc5": "Now White is up a pawn, and Black has no compensation at all for the deficit and the bad King.",
+        "10... Nb6d7 11. c4": "! Opening even more the Black King position. White one is safe because Black is too behind in development to highlight it.",
+        "11... Na6 12. cxd5 Naxc5 13. Nf3 b6": "Now White can bring the Queen into play gaining a tempo.",
+        "14. dxe6 Nxe6 15. Qd5 Rb8 16. f5": "Now Black is completely lost, but he will set up a quite funny try.",
+        "16... Nf6": "!? It is obviously a blunder, but at least he tried something.",
+        "17. exf6 Qxf6": "?? OK, now this is too much creative...",
+        "18. Ne4+": "Simple."
+    },
+    "url": "https://gameknot.com/annotation.pl/fianbish64s-mini-tournament-i?gm=45962",
+    "gameName": "fianbish64's mini-tournament I",
+    "players": "cavillus (1645) vs. swearengen (1622)",
+    "opening": "French (C14), classical, Steinitz variation"
+}

@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 c5": "This is a training game between id=stalhandske and MGW (Mighty G Warriors), where the members of the G team conferred about the next move before making it. The opening is Sicilian, but....",
+        "2. b4": "I have an inbuilt dislike of the Sicilian (either colour), probably because it is one of the most complicated and at the same time most studied opening with huge amounts of theory (that I have not absorbed). I have therefore actively looked at alternatives. 2. b4 is the Wing Gambit that is practised also in other openings (see http://en.wikipedia.org/wiki/Wing_Gambit), which was recommended to me by one of GK:s top players, and which I liked instantly. Perhaps because it changes the nature of the game entirely away from most (all?) Sicilian variations.",
+        "2... cxb4": "There is no reason for black not to accept the sacrifice",
+        "3. a3": "3. a3 is perhaps the most common move, but 3. Nf3 is perfectly playable as well",
+        "3... Nc6": "3....Nc6 is logical, but leaves the initiative with white. 3...d5 had been better; after 4. exd5 Qxd5 the position would smell like the Scandinavian opening, but  - relative to that - with advantage for black, since white cannot play Nc3 ",
+        "4. axb4": "White now takes the initiative ",
+        "4... Nxb4 5. d4": "...and from this position the advantage of the Wing Gambit is obvious. Control of the centre and better development than black. Personally, I like the open lines and the possibilities of white's attack via the Q side ",
+        "5... d5 6. c3 Nc6": "This is a clear loss of a tempo for black whilst white supports his centre pawns",
+        "7. exd5 Qxd5 8. Na3": "This initiates the first leg of white's Q-side attack",
+        "8... e5": "8....Bd7 or 8...a6 were probably better, the latter to prevent the Odyssey of the white knight",
+        "9. Nb5": "This is the result of black's neglect of the danger on the Q side. Notice the threat of \"triple fork\" with Nc7+. Without much \"noise\" at all, white has already achieved a far better position.",
+        "9... Bd6": "Necessary move. However, the bold 9...Kd8 was also possible",
+        "10. Bc4": "The white attack is now on. 10....Qxc4 is not possible, of course, due to 11. Nxd6+ (notice the interplay between the white knight and LSB.",
+        "10... Qe4+": "In fact, 10. Qe4+ is the only move that spares black from disaster",
+        "11. Ne2 Bb8": "11. Bb8 is the best move! Notice the strength of the threats of Nc7+ and Nd6+. 11.Qg6 was also possible, but had been followed by 11...0-0, after which the same problems remain for black",
+        "12. O-O Nge7 13. Ng3 Qh4": "Now there will be a veritable \"Queen's hunt\" ",
+        "14. Ra4 exd4 15. Nxd4 Qf6": "15....Qf6 is a wise move due to the indirect but strong threat from the rook at a4",
+        "16. Nh5 Qg6 17. Nxc6 bxc6 18. Re1": "White now has an attack from left, right and middle",
+        "18... Qd6": "18...Qd6 is a blunder; an attempt to exchange queens. 18....0-0 has been the natural move.",
+        "19. Nxg7+": "At this point the G team and id=stalhandske agreed to a win by white, and that nothing much was to be learned more from this game"
+    },
+    "url": "https://gameknot.com/annotation.pl/stalhandske-vs-g-warriors?gm=50671",
+    "gameName": "Stalhandske VS G Warriors!",
+    "players": "stalhandske (2128) vs. solascriptura (1234)",
+    "opening": "Sicilian (B20), wing gambit, Marshall variation"
+}

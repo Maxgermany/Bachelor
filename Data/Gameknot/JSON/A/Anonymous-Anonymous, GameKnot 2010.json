@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "Everything is standard so far.",
+        "2... d6": "Interesting. I was hoping that it would end quickly just like Legall's famous game, but my hopes were futile.",
+        "3. Nc3 h6": "A bit of a poor move by Black. I already have two knights developed and Black should instead focus on a move like 3. ... Nf6 or 3. ... Nc6.",
+        "4. Bc4 c6": "Sure, Black's pawn on h6 was helping to stop my knight coming to g5, but I sensed that I had an advantage here.",
+        "5. d4": "This is an alright move, as I wanted to open up the position. 5. d3 might have been better.",
+        "5... exd4 6. Qxd4": "I decide to recapture using the queen instead of the knight. Black is very open to attack and so has to be careful.",
+        "6... Be7": "A mistake. I can now capture the pawn on g7.",
+        "7. e5": "Unfortunately, I didn't see it. Instead, I block the possibility. After 7. Qxg7, Black can only defend the rook with 7. ... Bf6, after which I can play Qxf7#.",
+        "7... c5 8. Qd5 Nc6": "Now Black is in serious trouble.",
+        "9. Qxf7+": "This is similar to Scholar's Mate, but with one vital difference. Black's king can run to d7.",
+        "9... Kd7 10. exd6 Kxd6": "Black gets greedy. Not something you want to do when you're in this type of situation.",
+        "11. Bf4+ Kd7 12. Be6#": "Stunning. I never would have expected myself to pull something like this off. If you wish to leave me a suggestion for an annotated game, or want to leave me feedback, please drop me a message. Your help is appreciated."
+    },
+    "url": "https://gameknot.com/annotation.pl/anonymous-anonymous-gameknot-2010?gm=34731",
+    "gameName": "Anonymous-Anonymous, GameKnot 2010",
+    "players": "Anonymous (1213) vs. Anonymous (1177)",
+    "opening": "Philidor's defence (C41)"
+}

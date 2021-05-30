@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e3": "Hi everyone.  I know this is against a newcomer to the game, but this game is a perfect demonstration of the value of development.  I am not an advocate of memorizing hundreds of lines, but everyone should learn the funamentals of opening theory.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "1... e5 2. Qf3": "New players should understand that, while you're bringing the big guns out, I'll be harrassing her all over the board while I bring out the rest of my pieces.",
+        "2... Nf6 3. h4": "?",
+        "3... d5": "Gathering more space",
+        "4. d3 Bd6": "preparing 5....Bg4 6.Qg3 e4",
+        "5. g3": "sidestepping the trap",
+        "5... Bg4": "I still want to control this very important diagonal.  Notice how I have developed 3 minor pieces and completely control the center, while white has made 4 pawn moves and now 2 with his Q",
+        "6. Qg2 e4": "When ahead in development and the oppsing K is uncastled, open it up!!",
+        "7. dxe4 dxe4 8. b3": "This move loses material at best",
+        "8... Be5": "threatening 9...Qd1# & 9...Bxa1",
+        "9. c3 Qd1#": "This annotation was not meant to brag about a checkmate.  Obviously, my opponent is new to the game and still learning the ropes.  This was more of a shining example to other newcomers as to the importance of King safety and development."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-value-of-development?gm=20557",
+    "gameName": "The Value of Development",
+    "players": "pedropk (1080) vs. phishbone6984 (1423)",
+    "opening": "Amsterdam attack (A00)"
+}

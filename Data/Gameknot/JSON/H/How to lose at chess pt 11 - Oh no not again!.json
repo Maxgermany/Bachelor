@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4": "This was a ladder challenge from an opponent who was over 200 points north of my rating at the start of the game. I got into a good position and managed to completely blunder it away. From move 15 on, the analysis shows something wrong with almost all my moves. Sadly for me by this point my opponent had woken up and stopped his similar sequence in the first half of the game",
+        "1... e5 2. f4": "I've been playing Kings gambit quite a bit and so wanted to stay on relatively familiar territory.",
+        "2... exf4 3. Nf3 d6 4. Bc4 Nc6 5. O-O h6 6. d4 Nf6": "The first mistake of the game\n\nMistake: +0.81 \u00bb \u2026 Nf6 7. Bxf4 Be7 8. Nc3 Bg4 9. h3 Bh5 10. e5 dxe5 11. dxe5 Nd7 12. Ne4 O-O 13. e6 Nc5 14. exf7+ Bxf7\nBest: -0.63 \u00bb \u2026 g5 7. Qd3 Na5 8. Na3 Nxc4 9. Nxc4 Be7 10. Bd2 Nf6 11. e5 dxe5 12. Nfxe5 O-O",
+        "7. Nc3 Be7 8. Bxf4 a6 9. Qd2 Na5 10. Qe2 O-O 11. e5 Nh7 12. Bd3 Bd7": "The analysis calls this a mistake but then gives a line which ends with me +2 on material.\n\nMistake: +3.36 \u00bb \u2026 Bd7 13. Qe4 g6 14. Bxh6 Re8 15. Qf4 Bf8 16. Bxf8 Rxf8 17. exd6 cxd6 18. Qxd6 Bg4 19. Ne4 Nc6 20. Ne5 Qxd6 21. Nxd6 Nxe5 22. dxe5\nBest: +0.76 \u00bb \u2026 d5 13. Be3 Nc6 14. a3 Bg4 15. Qf2 Be6 16. Qg3 Kh8 17. Qf4 Re8 18. Kh1 Ng5",
+        "13. Nd5": "Qe4 would have been better here ",
+        "13... Be6 14. Nxe7+ Qxe7": "The analysis gives me +4.37 here, which is the most I achieved in this game and I quite liked my position here, I have the bishop pair and his knight on a5 doesnt' seem to be doing anything useful. ",
+        "15. Qe4": "I'm trying to work out how to get the most from the b1h7 diagonal, this seemed a decent move to me but the analysis calls it a mistake. I felt I had some chances here but was worried about messing it up\n\n\nMistake: +1.81 \u00bb 15. Qe4 f5 16. Qe1 Nc6 17. exd6 cxd6 18. Qg3 Rad8 19. Rae1 Nb4 20. Bxh6 Rf6 21. Bf4 Nxd3 22. cxd3 Qd7 23. b3\nBest: +4.37 \u00bb 15. exd6 Qd7 16. b4 Nc6 17. Bxh7+ Kxh7 18. d5 Bxd5 19. Qd3+ Kh8 20. Qxd5 cxd6 21. Qxd6 Qxd6 22. Bxd6 Rfe8",
+        "15... f5 16. exf6 e.p. Nxf6 17. Qe3": "looking at sacrificing the bishop on h6. however black doesn't allow that",
+        "17... Nd5 18. Qd2": "And all of a sudden the position is more equal",
+        "18... Nc6 19. Rae1": "This move pretty much seals my fate as it loses my dsb",
+        "19... Nxf4 20. Nh4": "This is a terrible move, I have no idea what I was thinking",
+        "20... Qxh4 21. Be4 Qg5 22. c3 Nh3+": "At this point I'd had enough, I'd managed to go from a relatively good position to complete defeat in the space of a handful of moves.\n\nThanks for reading please comment"
+    },
+    "url": "https://gameknot.com/annotation.pl/how-to-lose-at-chess-pt-11-oh-no-not-again?gm=59930",
+    "gameName": "How to lose at chess pt 11 - Oh no not again!",
+    "players": "elwoos (1493) vs. damien-13 (1783)",
+    "opening": "KGA (C34), Fischer defence"
+}

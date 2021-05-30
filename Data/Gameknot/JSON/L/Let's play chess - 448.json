@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4": "in this game I struggled for a space advantage in the centre and slowly profited from my opponent inaccuracies until I was able to win a pawn, and create a passed pawn",
+        "1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5": "King's Indian, Averbakh system, black allow white to overextend his pawns in the center hoping to contest that occupation latter with the push c5 or e5, the move Bg5 intends to prevent the immediate e5, black usualy replies with h6 to repel the bishop with the possibility of a future g5, although this last move may weaken the castled king",
+        "6... c6": "an unusual move, c5, h6, Nbd7, and Na6 (a Judith Polgar favourite) are all common replies",
+        "7. Nf3": "Qc2 is also possible, any other thematic move h4, f4, for this line lead to an equal game for black",
+        "7... Qc7 8. O-O Nbd7 9. Qd2 e5 10. Rad1 exd4": "N Re8 is the favoured move here, but leads to heavy percentage of defeats by black,a6 has worth attention in three games with two wins by black and one draw... ",
+        "11. Nxd4": "keeping the queen behind the g5 bishop to avoid h6",
+        "11... Nc5 12. Qf4": "pins the d pawn to keep it from advancing, keeping it as a weakness on black's field",
+        "12... Nfd7 13. Bh6": "I will try to exchange bishops to exert some pressure over d6 latter on",
+        "13... Re8 14. Bxg7": "I'll exchange bishops and try to use the holes on black's dark squares...",
+        "14... Kxg7 15. b4": "gains space with tempo, and forces the knight to define it's location either on the king's side, or on the queen's side...",
+        "15... Ne6 16. Nxe6+": "Now black is forced to recapture, probably with the pawn and not with the rook (I'll detail latter the complications to black arisen by recapturing with the rook), either way he will lose a pawn to Rxd6 if he captures with the pawn or with c5 Rxd5 if he captures with the rook, notice how the d6 pawn is pinned in the h2-b8 diagonal by white's queen, now several ideas arise from the position:\n\nIf black recaptures with the rook, then in addiction to c5 Rxd6, white may try also Bg4 to skewer the knight, and if black tries to block the bishop he will lose two pawns covering his king, whom will be left exposed.\nAlso after c5 and Rxd6, Rxg6+ is another possibility with a discovered attack on black's queen.\n\nSo Black has to deal with several threats now...  ",
+        "16... Rxe6 17. c5": "to put pressure on d6, that is about to fall",
+        "17... Rf6": "? pointless, Qg3 keeps the same threats, and offers the chance of playing e5 with tempo",
+        "18. Qg3": "d6 still under the queens aim",
+        "18... a5": "to challenge my b pawn position",
+        "19. cxd6": "zwischenzug, ignoring the pawn at a5 and now I have a passed pawn... a very important threat that black can't ignore",
+        "19... Qb6 20. b5": "only now I play b5, if cxb5 I have the strong Nxb5 were it will add further support for the d6 pawn and even keep an eye for Nc7, on the other hand Nd5 forking queen and rook, loses the d6 pawn because blocks the d1 rook that defends it",
+        "20... Nc5 21. a4": "adding further support to my b pawn, as I may want to move my knight or my bishop, e5 will follow",
+        "21... Be6 22. e5": "I expect now Rf5 and I will play Qe3 to pin the knight while defending the e pawn",
+        "22... Rf5 23. Qe3": "pins the knight, and threatens Ne4",
+        "23... f6": "!? interesting challenges my e pawn, I have to make a choice either exf6 or f4",
+        "24. exf6+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=41298",
+    "gameName": "Let's play chess",
+    "players": "kaspanatola (1761) vs. lobotomy (1904)",
+    "opening": "King's Indian (E73), Averbakh system"
+}

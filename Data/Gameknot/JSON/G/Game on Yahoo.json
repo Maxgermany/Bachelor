@@ -1,0 +1,31 @@
+{
+    "moves": {
+        "1. e4 g6": "He played this opening both times.  The first time, I did some sort of classical response, with pawns on d4 and e4.  This time, I decided to try something a little more hypermodern.",
+        "2. d3 e6 3. Nf3 Bg7 4. g3 b6 5. Bg2 Bb7 6. O-O": "King's Indian Attack, my first time really playing it.",
+        "6... Nf6 7. Bg5": "Pinning his knight, preparing for the e5 pawn push.",
+        "7... O-O 8. Nbd2": "Backup in case his bishop takes my knight.",
+        "8... Nc6 9. Rb1": "Protecting the b2 square from his bishop, and possible pawn push to release the rook and exert some control on that side of the board.",
+        "9... Ne7": "Ok so I spent too much time prepping but I can still attack the knight, I think.",
+        "10. Re1 c5": "Perfect opportunity for my pawn push.  If he passes, I grab it with my knight.",
+        "11. b4 cxb4 12. Rxb4": "My rook is now active, but I have to be wary bringing it out this early in the game.",
+        "12... Qc7 13. e5 Nfd5 14. Rc4": "Juicy targets.",
+        "14... Nc6 15. Nd4": "double attack on the knight",
+        "15... Ba6": "And the rook starts to feel a little heat.  I took a good 45 seconds off my clock thinking about this situation.",
+        "16. Ra4 Nc3": "That's a DAMN good move by him.  I spent 2 whole minutes looking at this.",
+        "17. Qf3": "Expecting 17...Nxa4, I can fork the rook and his knight with 18.Nxc6 dxc6 19.Qxc6 Qxc6 20. Bxc6 Rac8 Bxa4.  That will make up for at least 3 of the 5 points I lost.  The pawn I win with the queen will make that 4 of the 5 points.",
+        "17... Nxa4 18. Nxc6 dxc6 19. Qxc6 Qxc6 20. Bxc6 Rac8 21. Bxa4": "It's so nice when things go according to plan.",
+        "21... Rc5": "He's attacking my pawn on e5.  I debated pulling my bishop back to f4 but I really didn't like that idea.  It's mobility would be cut in half and 30 second in I spotted what I thought was a better square.  e7.",
+        "22. Be7 Rxe5 23. Rxe5 Bxe5": "He wins a pawn there.",
+        "24. Bxf8 Kxf8": "And that makes me even on points.",
+        "25. f4 Bd4+ 26. Kf1 Bb7 27. Nc4 Bd5 28. Bb3 Kg7 29. Nd6 Bf3": "I really expected him to trade bishops there.  Instead, he puts the only piece he has that can counter my white bishop and tucks it away at the bottom of the board.",
+        "30. Ne8+ Kf8 31. Nd6 Kg7 32. Nc8 b5 33. Nd6 a6 34. Ne4": "When I made this move I thought it might be a blunder.  It gives him a chance to trade off his weak bishop and curb my knights rampaging.  I was looking at 34. Ne8  Kf8 35. Nc7 winning one of the pawns, but he makes a blunder next move and I stopped worrying.",
+        "34... Kh6": "He leaves his back pawns undefended.",
+        "35. Ng5 Bc6 36. Nxf7+ Kh5 37. Bxe6": "And now his king can't move.",
+        "37... Bc5": "I have to start thinking about pawn advancement.  At this point both of us had 2 mins left on our clocks.  I knew he'd be going on the defensive now so I decided to make quick, safe moves and force him to  watch his clock.",
+        "38. Ng5 Kh6 39. Ne4 Bb6 40. c4 b4 41. c5 Ba7 42. Ke2 Bxe4 43. dxe4 Bxc5 44. Kd3 a5 45. Kc4 Be7 46. e5 Kg7 47. Bh3 Kf8 48. e6 Bd8 49. f5 Ke7 50. fxg6 hxg6 51. Bg4 Kd6 52. h4 Ke5 53. Kc5 Ke4 54. Kd6": "And he resigned, he only had 20 seconds left on his clock anyway."
+    },
+    "url": "https://gameknot.com/annotation.pl/game-on-yahoo?gm=13791",
+    "gameName": "Game on Yahoo",
+    "players": "rajsahae (1350) vs. dappa10 (1350)",
+    "opening": "Robatsch (modern) defence (B06)"
+}

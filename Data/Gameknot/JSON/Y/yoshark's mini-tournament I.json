@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. Nf3": "Reti I've had a bit of success with this opening of late. Most of my games in this little mini tourney started with this move.",
+        "1... Nf6 2. b3": "Book is g3 preparing to go into a Kings Indian Attack structure Though with this move I hope to strengthen my dark squares d4 and e5.",
+        "2... d5 3. Bb2 e6 4. e3 c5 5. Be2": "This move might be a bit slow since c4 is in my plans might as well play it on the last move. Since if dxc4 I'm going to recapture with my bishop Bxc4.",
+        "5... Nc6 6. c4 Be7 7. O-O O-O 8. d4": "The idea behind my b3 opening to break open the queen side.",
+        "8... a6 9. Nbd2 h6 10. Qc2 Qc7 11. cxd5": "?! This move is a bit hasty. No need to release the tension yet. Better was moves like Rac1 or Rfd1 since these files will open up very quickly.",
+        "11... Nxd5 12. dxc5 Ncb4 13. Qc1 Bxc5": "Notice black has taken advantage of my poor timing.",
+        "14. Nc4 b5 15. Nce5 Bb7 16. Qb1 Rac8 17. Rc1 Qd6 18. Nd3": "?! I feel this was a slight inaccuracy a3 kicks the b4 knight back to c6 then Nd3. White would begin to push black back a bit.",
+        "18... Nxd3 19. Qxd3 Rfd8 20. Qe4 Qe7 21. Qg4 f6": "Blocks mate but weakens the light squares around blacks king.",
+        "22. Bd3 f5 23. Qg6 Nf6 24. Ne5 Bd6": "Threatens to remove the defender of the d3 bishop.",
+        "25. Rcd1 Be4 26. Bxe4 Nxe4 27. Rac1": "Note the fork at c6 is impossible at the moment because of Nc6 Rxc6 Rxc6 Bxh2+ Kxh2 (Kf1 Rxd1+ Ke2 black wins a piece) Qh4+ Kg1 Rxd1# ",
+        "27... Rxc1 28. Rxc1 Qf6 29. Qxf6 Nxf6 30. Nc6 Re8": "Rc8 Ne7+ would make black sorry.",
+        "31. h3": "Stops Ng4 moves pawns to light squares and frees the king to move to f1 if desired.",
+        "31... Ne4 32. Rd1 Bc5": "? Black allows white to attack the e6 pawn.",
+        "33. Rd8 Rxd8 34. Nxd8 Ng5 35. h4": "Removes the defender of e6",
+        "35... Nf7 36. Nxe6": "Good bye e6",
+        "36... Be7 37. Nxg7": "g7",
+        "37... Bxh4": "loss of h4 but gives f5 with tempo",
+        "38. Nxf5 Bd8 39. e4 Kh7 40. f4 Bc7 41. e5 Kg6 42. Ne7+": "The black king can either go to h7 or h5 (g7 e6+) just losses a piece. Kh5 e6 Nd6 Be5 which leads to similar position to what happened in game.",
+        "42... Kh7 43. e6 Nd6 44. Nd5 Bb8 45. Be5": "The white pieces dominate the board. The black king is locked in the corner due to checks. Kg8?? Nf6+ wins the b8 bishop.",
+        "45... Kg6 46. Ne7+": "Forces the king back and wins easily.",
+        "46... Kh7 47. Nc6 Bc7": "e7 can be played but Bxd6 is much more forcing.",
+        "48. Bxd6 Bxd6 49. e7": "Black must now give up the bishop for pawn. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/yosharks-mini-tournament-i?gm=32083",
+    "gameName": "yoshark's mini-tournament I",
+    "players": "yoshark (1443) vs. hexinqius (1415)",
+    "opening": "Reti opening (A05)"
+}

@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 d5": "My favourite defense against e4!",
+        "2. Qe2 dxe4 3. Qxe4 Nf6 4. Qf3 Nc6 5. Nc3": "A poor move my Knight has a good square on d4 now.",
+        "5... Nd4 6. Qd3": "An even worse move!",
+        "6... Bf5": "I get my bishop out with a tempo and the pawn on c2 is dead",
+        "7. Qe3": "The worst move of the game(so far!)",
+        "7... Nxc2+ 8. Ke2 Nxe3 9. Kxe3": "??????????",
+        "9... e5 10. Bb5+ c6": "The only piece stopping me from checkmating on the d3 square with my queen is his bishop...",
+        "11. Ba4": "...so he moves it away lol!",
+        "11... Qd3#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/watch-me-slaughter-this-guy-comic-value-only?gm=15601",
+    "gameName": "Watch me slaughter this guy!(Comic value only)",
+    "players": "S. guy  vs. richiscool ",
+    "opening": "Scandinavian (centre counter) defence (B01)"
+}

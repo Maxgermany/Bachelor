@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6 13. O-O Qb6 14. Re1": "Looks a natural move but it hands the advantage to black. Better was Be4 threatening the R\n",
+        "14... Bb7 15. Bf4": "This was a simple misreading of my own analysis notes. Should have been Be4. Moral - Dont play when tired.\n",
+        "15... Bb4 16. Nd2": "Trying to protect the R and keep it in the semi open file. Much better was the simple Rf1.\n",
+        "16... h5 17. Qe2": "Too fixated on that e-file.\n",
+        "17... h4 18. Rec1 e5 19. Nb3 Kd8 20. Bd2 Bxd2 21. Nxd2 Rg8": "Playing my best options but these trades are working in black's favour\n",
+        "22. f3 Nc5 23. Bf5 Bc8": "Finally black is human after all. I assume looking to continue trades. Better was Ke7 connecting the Rs and protecting the doubled pawns.\nAlternative variation: 23... Ke7 24. Kh1 Ne6\n",
+        "24. Bh7 Rg7 25. Be4 Rb8 26. Kh1 Ke7 27. b4 Ne6 28. Qe1 h3 29. g3 Bd7 30. Bf5": "looking at all the attacks i was making and get rid of the h3 pawn. But better was Nb3 giving the Q room to work and protect b4.\n",
+        "30... Rg5 31. Qe4 Rh5 32. Bxe6 Qxe6 33. Nb3 Rc8 34. Rxc8 Bxc8 35. Kg1 f5 36. Qe2 f4 37. Qxb5": "Trying to clear a space for some Q-side action\n",
+        "37... fxg3 38. hxg3": "Now blacks line up is looking dangerous. Note for lower ranked players who attack with just one piece. Look at the combination of R Q B and pawn\n",
+        "38... h2+ 39. Kh1 Qh3 40. Nd2 e4 41. Qb8 exf3": "A mistake. Far better was e3 attacking the N and threatening another Q chance.\n",
+        "42. Nxf3 Qf5 43. Rf1": "finally that R wakes up and gets into the game.\n",
+        "43... d3 44. Qc7+ Bd7 45. Qc4 Be6 46. Qc7+ Kf8 47. Qd8+ Kg7 48. Qd4+ Kg6 49. g4 Qxg4 50. Ne5+ Rxe5 51. Qxe5 d2 52. Rf6+ Kh7 53. Qxh2+ Kg8 54. Qxd2 Qh4+ 55. Kg2 Qxf6 56. a4 Qg6+ 57. Kf2 Qf5+ 58. Ke3 Qe5+ 59. Kd3 f5 60. Qg5+ Kf7 61. Qh5+ Ke7 62. Qh4+ Kd7": "And here having survived enormous pressure for the last 20 moves i missed my one chance of salvation. The correct move was 63.Qd4+ forcing a Q trade and from that the game is drawn.\n",
+        "63. Qh7+": "Alternative variation: 63. Qd4+ Qxd4+ 64. Kxd4 Ke7 65. Ke5\n",
+        "63... Kc8": "Black still has to play carefully to bring home the win. I give him a few more moves to see if he will trip up.\n",
+        "64. Qa7 Qe4+ 65. Kc3 Qc4+ 66. Kd2 Qxb4+ 67. Ke2 Bd7 68. Qa6+ Kb8 69. Qd3 Qxa4 70. Ke3 f4+ 71. Kf2 Bc6 72. Qb1+ Kc7": "The game is over so I resign. Well played Monkofunk. Pressure all the way so a well deserved win. And promotion to the 2200+ club.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/pi-day-group-a-http-gameknot-com-chess-pl?gm=58320",
+    "gameName": "Pi-Day Group A , http://gameknot.com/chess.pl?",
+    "players": "bigpeta (2225) vs. monkofunk (2172)",
+    "opening": "English (A11), Caro-Kann defensive system"
+}

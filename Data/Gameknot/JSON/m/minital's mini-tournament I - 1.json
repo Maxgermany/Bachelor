@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4": "Into this game I get into some trouble. I was truly lucky to win this. I joined this site yesterday and have a perfect score. This one almost took that perfect score from me.",
+        "1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8. c3 Bg4 9. d3 h6 10. Nbd2 O-O 11. Nf1 Nd7": "slight mistake.",
+        "12. Bd5 Ndb8 13. Ne3 Be6 14. d4 Bxd5 15. exd5": "Perhaps Nxd5 was better.",
+        "15... exd4 16. Nxd4 Nxd4 17. Qxd4": "So here material is even. My d pawn is slightly weak because at the moment I cant defend it with c4 cause he'll just take it. I have more space. I tried to attack and let's see how that goes.",
+        "17... Nd7 18. Nf5 Bf6 19. Qg4": "Shifting my pieces over for the assault.",
+        "19... Kh7 20. Qh5 Bg5": "! good move. I foolishly dismissed the possibility of this move when playing. Now my position is in danger as he is now threatening g6.",
+        "21. Re7": "!? I dont really know if this is good. It creates complications for sure.",
+        "21... g6 22. Qh3": "!",
+        "22... Bxc1 23. Rxc1 h5": "If gxf5 Qxf5 blowing up his position.",
+        "24. Re3 Qg5 25. Nxd6": "? What a sad move. So tactically inaccurate it's almost hard to believe I played it. If you want to see how to take advantage of it watch my opponent play. I should have played the safe ng3.",
+        "25... Nf6 26. f4": "? I dont know if there was anything to be done.",
+        "26... Qxd5": "Qxf5 works as well.",
+        "27. Rd3 Qc5+ 28. Kh1 cxd6 29. b4 Qb6 30. Rd4 Ng4 31. Rf1 Rae8 32. f5 Re1": "! One blow after another. I was sure when he made this excellent move I was lost. Rxe1 nf2+.",
+        "33. Qf3 Rxf1+ 34. Qxf1 Kg7 35. Qf4": "What can I do.",
+        "35... Ne5": "?! This is a mistake because it freely gives me f6 to play with. It should not lose the game, but unfortunately my pawn being a f6 eventually becomes the my lucky win.",
+        "36. f6+ Kh7 37. Qg5 Rh8 38. h3 Kg8 39. Qf4": "Just shuffling around.",
+        "39... Qc7 40. Qe3 Kh7 41. Rh4 Rc8": "The rook which was passive now becomes dangerously active.",
+        "42. c4": "!",
+        "42... bxc4": "He should have played Qd8 for defense to come to f8.",
+        "43. Qg5": "It is hard to say. ",
+        "43... c3": "This game is now won for me. He could have played 43...Qe8 49. Rxh5+ hxg5 (49...Kg8 50. Rh8+ Kxh8 51. Qh6+ Kg8 52.Qg7#) 50. Qxh5+ Kg8 51. Qh6 Qf8 and I lose.",
+        "44. Rxh5+": "He resigned as now there is no defense to the coming mate."
+    },
+    "url": "https://gameknot.com/annotation.pl/minitals-mini-tournament-i?gm=31222",
+    "gameName": "minital's mini-tournament I",
+    "players": "minital (1578) vs. romarychkov (1558)",
+    "opening": "Ruy Lopez (C78), Wing attack"
+}

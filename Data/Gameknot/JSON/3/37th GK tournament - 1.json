@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e6": "Here's a secret: I hate playing against the French defense.",
+        "2. d4 d5 3. Nc3 Bb4 4. e5": "MCO recommends this for anti-french players. I don't like giving away my queenside pawn structure, though the spacial advantage is supposed to compensate. Still, I'm not a happy camper right now.",
+        "4... Ne7 5. a3 Bxc3+ 6. bxc3 O-O 7. Nf3 c5": "Still book.",
+        "8. g3 Nbc6 9. c4": "Trying, as ever, to compromise black's superior pawn structure.",
+        "9... cxd4 10. cxd5 Qxd5 11. Bg2 Nxe5": "I think black should go ahead and play 11... Qe4, trade queens, and use the time to further develop while white tries to shuffle his king to safety. 11... Nxe5 grabs a pawn but allows white to castle and eventually equalize.",
+        "12. O-O d3 13. Ne1": "Unnatural looking, but best. After 13... dxc2 14. Nxc2 Qxd1 15. Rxd1 white at least has control of the open file.",
+        "13... Qb5": "To bring the rook into the game.",
+        "14. Nxd3 Rd8 15. Re1 Nxd3 16. Bf1": "Taking back immediately obviously loses another pawn and the file. This is white's best hope, though black still has the initiative. Of course black cannot try 16... Nb2, or any other knight move, because they all lose to 17. Qxd8 and then mate.",
+        "16... Qb6": "Regrouping. There's no way to immediately continue the attack on d3.",
+        "17. Bxd3 e5": "White's pieces are in disarray, but this simply gives up a pawn and evens the material. Up until now I felt my opponent had been playing quite well; he'd played an opening that phases me, and had forced me into a series of uncomfortable defenses. Here his play begins to go wrong.",
+        "18. Rxe5": "I assume black was aiming for 18... Bh3, but can't play it now that the knight is under attack.",
+        "18... Be6 19. Re1 Nd5 20. Qh5": "At last, counterplay. Threatening 21. Qxh7  and forcing the king back onto the central files.",
+        "20... g6": "20... h6 isn't much better; After 21. Bxh6 gxh6 22. Qxh6 black is in deep trouble. Best, probably, would be 20... Nf6, adding defense to the h-pawn. 20... g6 opens up dark-squared holes that white will use in a mating attack later.",
+        "21. Qe5 Qd6 22. Qb2": "After a queen trade, black would be left with the centralized minor pieces and a stronger position.",
+        "22... b6 23. Bh6": "Mirroring the attack black has been eyeing for the last ten moves.",
+        "23... f6": "Forced. This weakens the kingside pawns, but black has no other defense.",
+        "24. c4 Bh3": "If it'd been me, I probably would've moved the knight. After 24... Nc7 25. Qxf6 Black's kingside is open but he still has many defensive possiblities. Material isn't everything, but it is something, and the knight on c7 would go a long way toward defending against white's major pieces.",
+        "25. cxd5 Qxd5": "Threatening mate early is a mistake; it's easily rebuffed by the 26. Be4 skewer.",
+        "26. Be4 Qd6": "Black hadn't been playing well for a few moves, but this seems to be the key blunder. Black MUST keep the queen on the a2-g7 diagonal for defense. 26... Qf7 is probably best, since white can't immediately harass it any further there; Rooks on the d-file prevent the queen-winning pin.",
+        "27. Bxa8 Rxa8": "Ouch. Chess games are often lost when one player can't bring himself to concede material and a won piece becomes a mating attack. Black needed to be able to bring his rook to the seventh rank, since the queen is preparing to threaten mate on it. Now he can't.",
+        "28. Qb3+": "The mating combination materializes.",
+        "28... Kh8": "28... Be6 isn't much better, since after 29. Rxe6 white wins the bishop, gains a tempo and prepares a brutal discovery check on the diagonal. Black is lost.",
+        "29. Qf7": "The irony is that black is not in check and is a move away from delivering a mate almost identical to the one white is preparing. But his queen isn't in position, and he has no time.",
+        "29... Rg8": "Delaying the inevitable.",
+        "30. Re8": "Aaaand the arrival of another major piece seals it. Anything black does with his rook or bishop will be met with any number of mating moves, the most elegant being 31. Bg7#. The only way to delay is to sac the queen with 30... Qf8, Qd1  or Qxg3 , all of which are empty. Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/37th-gk-tournament?gm=9957",
+    "gameName": "37th GK tournament",
+    "players": "darthmix (1619) vs. vents (1559)",
+    "opening": "French (C16), Winawer, advance variation"
+}

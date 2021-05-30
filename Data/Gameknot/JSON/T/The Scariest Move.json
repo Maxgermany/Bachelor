@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. d4 Nf6": "Team match. This game took over 10 weeks to conclude, but it's only 35 moves long. We were just taking our time I guess. Back then, I was rated 1504 (I had completed only 26 games on GameKnot at that time) and my opponent was rated 1490. Our first game ended on 2/24/09 and is annotated, titled Aggressive Plans on that date. It's a short little gem that ends on move 26 after white walks black's king over to whites side of the board for a checkmate. White begins this game with the queen's pawn, and I reply Indian.",
+        "2. c4 g6": "King's Indian Defense.",
+        "3. Nc3 Bg7 4. Bf4 O-O": "4. Bg5 is the Smyslov Variation, but white pulled up short. His bishop on c4 hinders the \"Four Pawn Attack\", the popular white treatment of the King's Indian. Black castles.",
+        "5. e4 d6": "I guess white will make do with the \"Three Pawns Attack\". ",
+        "6. Nf3 Bg4": "The pin. Everyone's doing it. I just wanted to fit in.",
+        "7. Be2 c5": "Time to break up white's center.",
+        "8. h3 Bxf3 9. Bxf3 cxd4 10. Qxd4 Nc6": "Developing with tempo.",
+        "11. Qd2 Nh5 12. g4 Nxf4 13. Qxf4 Nd4": "Threatening the fork on c2.",
+        "14. O-O Rc8": "Seizing the half-open file, with a threat on the undefended pawn at c4.",
+        "15. b3 Qa5": "I was thinking of 15. ... Nxf3+ followed by 16. ... Bxc3 to win a piece, but white would ruin it with 16. Qxf3 defending his lonely knight. And then 16. ... Qa5 is refuted by 17. Rfc1 and the knight will escape. Then I realized I could reverse the move order a bit, lead with the queen, and good things might happen.",
+        "16. Nd5 Nxf3+": "A discovered attack against white's rook on a1, given with check.",
+        "17. Qxf3 Rfe8": "White is attacking the black pawn at e7, which is a fork of black's king and the rook at c8. That's the only thing that saves his rook on a1 from the discovered attack. However, all is not lost, this fork was anticipated and is now prevented. And though white's rook will escape, white will not remain unharmed.",
+        "18. b4 Qa6 19. b5 Qa4 20. Rac1 Rxc4": "The white pawn on a2 was free for the taking, but it still is. Black senses a two-for-one sale: take one pawn, get another free.",
+        "21. Rxc4 Qxc4 22. b6 axb6 23. Nxb6 Qxa2": "Sold!",
+        "24. h4 Qb2 25. Nd5 b5": "Let's see if this passed pawn can make something of himself.",
+        "26. Qd1 Bd4 27. Qf3 e6": "Black really wants his queen on c3, but there is a little problem of white's knight. Time to chase it away.",
+        "28. Nf6+ Bxf6": "Oops. 28. Nf6+? looked like a fork, but it was well defended. Black didn't expect to chase the knight there. White loses a piece.",
+        "29. g5 Be5 30. Qd3 Qc3": "Now we're on c3. 31. Qxc3 is just about forced at this point, a trade that greatly favors black given his material lead and passed pawn. Said pawn is dangling, undefended and en prise, tempting white to remove his queen from vital defense.",
+        "31. Qxb5 Qh3": "31. ... Qh3!! needs a pair of exclamations. Well, maybe only 1. It's one of the scariest moves I've played in a long time. Black is leaving his rook en prise, and white can capture it with check, gaining a tempo. That's usually certain doom, but oddly enough, in this case, even that extra tempo won't let the white queen return to defense in time as she has to run around the forest of black pawns. There is always the fear of perpetual check, and 3-move repetitions, but nothing of that sort presents itself to white either, so it's time for the poor rook to take one for the team.",
+        "32. Qxe8+ Kg7": "White took the bait, and now he's doomed. I suspect he may have realized it too, for he didn't return to this game for almost the full three days. I took the time to enter the final Conditional moves, in all their possible combinations, including queen stalling moves with Qh8+, Qg8+, Qf8+, and Qxf7+ (which came up in several combinations, adding 4 extra conditional variations to each combination), and ended up with something like 25 or 30 combinations. The immediate threat, of course, is 33. ... Qh7#",
+        "33. f4 Bd4+": "33. f4 blocked the immediate mate. White's next move is forced.",
+        "34. Rf2 Qg3+ 35. Kf1 Qxf2#": "White could have held out for another two moves with 35. Kh1 Qxf2, 36. Qxf7+ Kxf7, 37. (any) Qg1# - not that it really mattered."
+    },
+    "url": "https://gameknot.com/annotation.pl/the-scariest-move?gm=22804",
+    "gameName": "The Scariest Move",
+    "players": "five_colours (1454) vs. blake84120 (1807)",
+    "opening": "King's Indian (E61), Smyslov system"
+}

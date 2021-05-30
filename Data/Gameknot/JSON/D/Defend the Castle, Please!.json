@@ -1,0 +1,20 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Ruy Lopez, of course.",
+        "3... Qf6 4. Nc3": "Haven't seen that queen move before, so now I'm winging it.",
+        "4... Bb4 5. Nd5": "Threaten the queen, the bishop, and the fork at c7.",
+        "5... Qd6 6. c3": "Chasing the bishop.",
+        "6... Bc5 7. d4": "Chasing the bishop some more, and busting up the center.",
+        "7... exd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2": "White has deployed 4 pieces to blacks's 2, and dominates the center, and black is fairly stuck behind his pawns. And it's mostly due to that early queen move.",
+        "10... Nf6 11. Bc4": "I really wanted to play e5 but my poor knight on d5 was unprotected. ",
+        "11... Nxd5 12. Bxd5": "I guess I don't have to worry about the knight anymore, but now I don't gain much from e5 - besides, now my bishop on d5 must remain protected.",
+        "12... O-O 13. O-O h6 14. Bb3": "Not sure what h6 was about, unless black was worried about Ng5. Come to think of it, black should be worried about his f7 pawn.",
+        "14... Re8 15. Rfe1 Qb4": "\n",
+        "16. Qf4": "Black's queen was in a fairly defensive position at d6. 15. ... Qb4 takes her farther away from the action. Time to capitalize. I feel that attacking with my queen is more productive than trading queens, especially since this move forks two pawns.",
+        "16... Nxd4 17. Qxf7+": "Wow, I had expected black to protect f7, not to gobble a free pawn. 16. ... Rf8 was probably best. 16. ... Re7 loses at least a pawn since after 18 Qxc7, black cannot play Nxd4 because of 19 Nxd4 and now if 19 Qxd4, 20 Qd8  loses black's rook. But, Nxd4 was not the best solution. Turns out 13. ...h6 saved black's life, but he decided he had had enough at this point."
+    },
+    "url": "https://gameknot.com/annotation.pl/defend-the-castle-please?gm=20617",
+    "gameName": "Defend the Castle, Please!",
+    "players": "blake84120 (1200) vs. luisma34 (1026)",
+    "opening": "Ruy Lopez (Spanish opening) (C60)"
+}

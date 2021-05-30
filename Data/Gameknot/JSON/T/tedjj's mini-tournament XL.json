@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. e4 e6 2. Nc3 Bb4 3. d3 d5 4. exd5 exd5 5. d4 Nf6 6. Nf3 O-O 7. Be2 Ne4 8. Bd2 Bxc3 9. Bxc3 Nxc3 10. bxc3": "I like your play so far and I would say that strategically you have a small edge. Due to your better pawn structure and slightly more mobile pieces. The pawn on c3 and open e-file are white's true weaknesses. ",
+        "10... Re8": "Excellent move that highlights a major problem for white. ",
+        "11. O-O Nc6": "The right idea that develops a piece, prevents white from playing c4 and contests e5. ",
+        "12. Re1 a5": "Not sure what your intention was with this move but it looks like it is not doing anything special. Instead I believe you should have continued to focus on getting your pieces out and attack down the e-file. May I suggest 12. Bg4 in the future. As a general rule you should focus on piece deployment over pawn moves in the early stages of the game. The reason being is that pawn moves tend to create more weaknesses than they are worth. ",
+        "13. Bb5": "Your opponent should have played 13.c4 here with a slight edge for white. ",
+        "13... Bg4": "Should have been played one move earlier",
+        "14. h3": "A big mistake by your opponent who under estimates your strength on the e-file. ",
+        "14... Bxf3": "?? I guess you did not understand your strength either. Almost winning for black is 14...Rxe1 15. Qxe1 Bxf3 16. gxf3 Qf6 winning the pawn. For if white tries to hold onto the pawn with 17. Qe3 then 17...Ne7 18. Bd3 Ng6! white is busted. ",
+        "15. Rxe8+": "You got lucky here as 15. Qxf3 equalizes the game for white. ",
+        "15... Qxe8 16. Qxf3 Qe4": "?? You need your queen on the board. Do not be quick to give her up! Though I suspect it would be hard to see: 16...Nxd4!? 17. cxd4 Qxb5 18. Re1 Qc4 when black is better. ",
+        "17. Qxe4 dxe4 18. Bxc6": "White has a substantial advantage after the destruction of your pawn structure. ",
+        "18... bxc6 19. Rb1": "White has all kinds of targets now!",
+        "19... Rd8": "You are behind the 8-ball and need to play with urgency better is defending e4 with 19...f5!? ",
+        "20. Rb7 h6": "Again when your opponent attacks on the wing counter in the center therefore 20...f5 is called for here. ",
+        "21. Rxc7 Rd6": "?? loses badly to 22. a4 best was 21...Rb8 22. Rxc6 Rb2 23. Rc5 Rxa7 24. Rxf5 a4 and you may have enough counter play to force a draw.  ",
+        "22. Re7 Re6": "When down material you should never initiate exchanges. After this you are in serious trouble. ",
+        "23. Rxe6 fxe6 24. Kf1 Kf7 25. Ke2 Kf6 26. Ke3 Kf5 27. g4+ Kg5 28. Kxe4 Kh4 29. Ke5": "White owns the center and a seriously strong pawns on the queen side. your goose is cooked. ",
+        "29... Kxh3 30. Kxe6 Kxg4 31. Kd6": "?? this is a huge blunder the correct move is 31. c4!! and white wins. ",
+        "31... h5 32. Kxc6": "?? and believe it or not your back in the game. C4 is necessary ",
+        "32... h4": "I think your opponent forgot that you had a past pawn. Nevertheless the game is a draw. As both past pawns will cancel each other out. Overall your opening choice and play was good, with the exception of 12...a5. As a rule you should put a premium on piece deployment over pawn moves in the early stages. Where you could improve on is spotting combinations and tactics. You missed two killer ones on move 14. and 17. After this your opponent rebounded and turned thing on your head. The real turning point was when you unnecessarily offered the queen exchange. This gave your opponent the upper hand in center and queen side. Also take note how you survived as you continued to play actively and set problems for your opponent(we call this counter play) who lacked the endgame knowledge to put you to bed.  "
+    },
+    "url": "https://gameknot.com/annotation.pl/tedjjs-mini-tournament-xl?gm=57806",
+    "gameName": "tedjj's mini-tournament XL",
+    "players": "azlk (1820) vs. russ20124 (1409)",
+    "opening": "French defence (C00)"
+}

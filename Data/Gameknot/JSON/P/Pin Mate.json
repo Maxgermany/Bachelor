@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4": "Hi everyone!\n\nAfter a two week holiday in sunny Weymouth (including a day trip to Jersey) I have now returned back to Cambridge and Gameknotland.  Time to catch up on some annotating.  I have a series of victories to annotate and this is the first of them.  Gameknot analysis is provided here. http://gameknot.com/analyze-board.pl?bd=16113581&fb=1&rnd=0.44279073601021224.  The game starts as a Sicilian Defense and comes to a sudden, violent, end.",
+        "1... c5 2. Nf3 d6 3. Bc4": "3. Bc4 - Here I decided on a novelty.  My usual moves here are either d4 or Bb5+, so Bc4 is a novelty to me.  It still develops a piece and Fou Leblanc cannot immediately be assailed from the a2-f7 diagonal which bears down on the BK while he is uncastled.",
+        "3... Nc6 4. c3 g6 5. O-O": "5. 0-0 - and Henry now tucks himself away on the kingside.",
+        "5... Nf6 6. d3 Bg7 7. Bb3 Bg4 8. Nbd2": "8. Nbd2 - develops another piece and gives support to the knight on f3.  This also allows Glenda to move out of the pin to a square such as c2.",
+        "8... Ne5 9. Qe2 Nxf3+ 10. Nxf3": "10. Nxf3 - knight trade.",
+        "10... O-O 11. Qe3": "11. Qe3 - still supporting the knight on f3, Glenda moves out of the pin.",
+        "11... e6 12. e5 dxe5 13. Nxe5": "13. Nxe5 - my knight moves away from f3 and to a more commanding square.  Of course, a future f6 could drive it away but the f6 knight must move away first.",
+        "13... Bf5 14. Qxc5": "14. Qxc5 - that juicy p(r)awn on c5 was just too tempting for Glenda so she wastes no time in devouring it.  Please note that if black now plays BxP then Rd1 pins the bishop against the Wicked Witch of the West on d8.  The bishop will then be removed by my e5 knight on the next turn and black will be a whole piece down.  My opponent spots this, however, and decided to harass Glenda with b6.",
+        "14... b6 15. Qe3 Ng4 16. Nxg4 Bxg4": "16. ..... Bxg4 - knight trade.  I am very happy with this trade because I am a pawn up and trading pieces will increase my advantage in the endgame.",
+        "17. d4 Bf5 18. Qe2 Qd6 19. Bc2 Bxc2 20. Qxc2": "20. Qxc2 - and now a bishop trade which keeps the endgame principle going.",
+        "20... f5 21. Bd2": "21. Bd2 - at last, I complete my development on move 21.  The downside of pawn grabbing in the opening or early middle game means that you waste a tempo in getting your pieces out which can in some cases prove very costly to the grabber.  Thankfully it did not do this in this case.",
+        "21... e5 22. dxe5 Bxe5": "22. ..... Bxe5 - pawn trade and black threatens to win back a pawn with Bxh2+.  He can check Henry if he wants to, but he ain't gonna have the pawn, so he moves to h3.",
+        "23. h3 Rad8 24. Rad1": "24. Rad1 - black piles up on Fou Lenoir but I decided to defend by centralising my QR.  This move threatens Bh6 winning the exchange as it discovers an attack on the Wicked Witch.",
+        "24... Bf4 25. Bxf4 Qxf4 26. Rxd8 Rxd8": "26. ...... Rxd8 - rook trade.  Now I offer another one but black declines the trade.",
+        "27. Rd1 Re8 28. Qb3+": "28. Qb3+ - aha, just when it looks as though the BR and the Witch could do menacing things to Henry, Glenda decides it's time the BK was made to feel the white heat.  Black moves his king to h8, nacht and now Glenda hops on her broomstick right into the enemy camp on f7, that's right, f7.  Not quite so defensive, eh!?",
+        "28... Kh8 29. Qf7 Rg8": "29. ..... Rg8 - this naturally defensive move leads spectacularly to a back row mate.  A few moves back you would not think this at all possible, would you with the black pawns in a chain from h7 to f5, but here it comes .....",
+        "30. Qf6+": "30. Qf6+ ..... wait for it ......",
+        "30... Rg7": "30. .... Rg7 ...... wait for it ......",
+        "31. Rd8#": "31. Rd8 MATE!! - .... NOW!!!  So black has copped Old Matey giving me two handy rating points.  It is checkmate because the rook on g7 is pinned to the BK and cannot block the check on d8 and the king is tied to the black row and cannot escape.  This is just a taster of what is to come, so keep watching this space ......"
+    },
+    "url": "https://gameknot.com/annotation.pl/pin-mate?gm=40610",
+    "gameName": "Pin Mate",
+    "players": "jstevens1 (1775) vs. jj414 (1411)",
+    "opening": "Sicilian (B50)"
+}

@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. g4 Be6 10. Nxe6 fxe6 11. O-O-O Ne5 12. Be2 Rc8 13. Nb5 Qd7 14. Nd4": "Vallejo ya ha jugado antes hasta aqu\u00ed en una partida de la Olimpiada de Dresde en 2008. Entonces prefiri\u00f3 lanovedad\nAlternative variation: 14.Nxa7 Ra8 15.Kb1 b5 $2 16.g5 Nh5 17.Nxb5 Nxf3 18.Qb4 Ne5 19.Rhf1 [con posici\u00f3n ganadora para las blancas que se impusieron, no sin algunas imprecisiones en 65 jugadas. Vallejo Pons,F (2664)-Azarov,S (2613)/Dresden 2008. Esta vez Paco se decide por la continuaci\u00f3n principal]\n",
+        "14... Nc4 15. Bxc4 Rxc4 16. Kb1 Rfc8 17. c3 b5 18. Rdc1": "esta jugada profil\u00e1ctica es una novedad muy interesante\nLa teor\u00eda considera esta posici\u00f3n poco clara bas\u00e1ndose en la siguiente partida\nAlternative variation: 18.h4 a5 19.h5 b4 20.cxb4 Rxb4 21.hxg6 hxg6 22.Rc1 Rcb8 23.Rc2 Qa4 24.Nb3 Rxb3 25.axb3 Qxb3 [Breder,D (2441)-Polzin,R (2462) Alemania 2002]\n",
+        "18... a5 19. h4 b4": "Alternative variation: 19...Rb8 [con la idea de mantener las dos torres se encuentra con problemas tras] 20.h5 b4 21.Qd3 [y si] Rcc8 22.cxb4 axb4 23.h6 Bh8 24.Qb3 d5 25.e5 Ne8 26.f4 [la posici\u00f3n negra es una ruina]\n",
+        "20. cxb4 Rxb4 21. a3 Rbc4": "La diferencia entre el orden utilizado por Vallejo y el de la partida de referencia es que las negras no han podido doblar torres en la columna b con lo cual el contrajuego es mucho menos peligroso.\nLa alternativa para mantener cierta presi\u00f3n en la columna b es\nAlternative variation: 21...Rbb8 22.Rxc8+ Qxc8 23.Rc1 [ser\u00eda malo] (23.Qxa5 [por] Nxg4 24.fxg4 Qb7 25.Rh2 Qxe4+ $17) 23...Qb7 24.Rc2 [y la posici\u00f3n negra es muy delicada debido a su d\u00e9bil estructura de peones]\n",
+        "22. Rxc4 Rxc4 23. Qxa5 Rc5 24. Qb4": "el pe\u00f3n de m\u00e1s y la ausencia de contrajuego negro otorgan gran ventaja a las blancas\n",
+        "24... Kf7 25. Rd1 Qc8 26. Nxe6": "una decisi\u00f3n t\u00edpica del estilo espeditivo de Vallejo\n",
+        "26... Qxe6 27. Bxc5 dxc5 28. Qb5": "amenazando Rd8\n",
+        "28... c4": "Carlsson muy apurado de tiempo entrega la partida con este error\nera el momento de patalear sacrificando el caballo\nAlternative variation: 28...Nxe4 29.fxe4 Qxe4+ 30.Ka2 Qxg4 31.Rd8 Qxh4 [aunque despu\u00e9s de] 32.a4 [las negras deben estar perdidas]\n",
+        "29. e5": "es muy fuerte tambi\u00e9n\nAlternative variation: 29.Rd8 [amenazando e5 o g5] Nxg4 30.Qe8+ Kf6 31.fxg4 Qxe4+ 32.Ka2 Qxg4 33.Qc6+ Kf7 34.Rc8 $18\n",
+        "29... Ne8 30. f4 c3 31. Qd5 Nc7 32. Qxe6+ Kxe6 33. a4": "este pe\u00f3n decide la partida\n",
+        "33... Nd5 34. a5 h5 35. g5 cxb2 36. a6 Nb6 37. Rd8": "Vallejo ha dado una lecci\u00f3n de como se debe enfocar la preparaci\u00f3n de la apertura: el matiz profil\u00e1ctico que introduce su novedad ha sido suficiente para desarmar el drag\u00f3n de Carlsson.\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/8th-gibtelecom-chess-festival-2010-gibraltar?gm=29185",
+    "gameName": "8th Gibtelecom Chess Festival 2010, Gibraltar",
+    "players": "Vallejo Pons, Paco (2705) vs. Carlsson, Pontus (2476)",
+    "opening": "Sicilian (B76), dragon, Yugoslav attack, Rauser variation"
+}

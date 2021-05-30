@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. d4": "Hi everyone!\n\nI feel I need to give myself a bit of a lift after losing a game to an Expert that I should have won, albeit I lost because I adopted the wrong plan in the endgame.  Many thanks to Coach Ion btw for annotating that game.  At least I can take some heart that I learned a lesson from GM Cyrano (annotated game here http://gameknot.com/annotation.pl/cyrano?gm=38055) about the value of connected passed central pawns.  In this game I did manage to get one of those pawns one square away from Glendadom before my opponent waved the white flag on the grounds of ruinous loss of material.  Gameknot analysis is provided here. http://gameknot.com/analyze-board.pl?bd=16118149&fb=1&rnd=0.00941152281071661",
+        "1... d5": "1. .... d5 - a double QP opening.",
+        "2. Nf3 c5": "2. ..... c5 - a temporary pawn sac because if PxP then the pawn on c5 may be very difficult to retain.",
+        "3. Bg5 Nc6 4. e3 Bg4": "4. ..... Bg4 - pin",
+        "5. c3 Qb6": "5. .... Glenda emerges and hits at the b2 pawn.",
+        "6. Nbd2 Qxb2": "6. ..... Qxb2 - tvm.",
+        "7. Rb1 Qxc3": "7. ...... Qxc3 - in the enemy camp, Glenda feasts away on another juicy p(r)awn.",
+        "8. Rb3 Qa5 9. Qb1 f6 10. Bf4 Bxf3 11. gxf3": "11. gxf3 - I decided to trade Fou Leblanc for white's knight because I am two pawns up and so I take advantage of the pin on the d2 knight to mess up white's pawn structure on the kingside.",
+        "11... e5 12. dxe5 fxe5": "12. ..... fxe5 - another pawn trade gives me a strong central pawn line up.",
+        "13. Bg3 Bd6": "13. ...... Bd6 - I have badly neglected my kingside development - it is time to remedy that with Fou Lenoir coming out to support that pawn centre.",
+        "14. Rxb7 Nge7": "14. ..... Nge7 - white regains one of his pawns and I develop my king knight to clear the decks and to block off the WR's control on my second rank.",
+        "15. Rb5 Rb8 16. Rxa5 Rxb1+ 17. Nxb1 Nxa5": "17. ..... Nxa5 - I retain my 1 pawn advantage and I have swapped off two sets of major pieces in the process in order to get a won endgame.",
+        "18. Bb5+ Kf7": "18. ......Kf7 - I do not mind this check as Henry clears the way for my rook to come to wherever he pleases on the first rank.  Henry is also better nearer the centre with the queens off so I do not mind foregoing castling rights here.",
+        "19. O-O Rb8 20. Bd3 g6 21. f4 exf4 22. exf4": "22. ..... exf4 - now you have it, two connected passed pawns on the c and d columns!",
+        "22... Rb2": "22. ...... Rb2 - now I return the compliment of my opponent - sticking a rook on his 2nd rank!",
+        "23. Nc3 c4 24. Bb1 Nac6": "24. ....... Nac6 - improving the position of my knight.",
+        "25. Rd1 d4 26. Ne4 Bb4": "26. ...... Bb4 - evading capture and putting pressure on white's position and aiding the possible further advance of those centre pawns.",
+        "27. Ng5+ Kg8 28. Ne6 d3": "28. ...... d3 - I now push on.",
+        "29. f3 d2": "29. ...... d2 ...... further, and now my d pawn is just one square away from Glendadom.",
+        "30. Bf2 c3": "30. ...... c3 - and now comes his brother-in-arms.",
+        "31. Nd4 Nxd4 32. Bxd4": "32. Bxd4 - B for N trade.",
+        "32... Nf5 33. Bxa7": "33. Bxa7 - material is even but not for long!",
+        "33... c2": "33. .... c2 - fork and another footman is one step away from Glendadom.  This time, white must give up his bishop to prevent this.",
+        "34. Bxc2 Rxc2 35. Rb1 Rc1+": "35. ..... Rc1+ - the killer - there is no way white can prevent Glenda from making her appearance next turn so white waves the white flag - nice win.  Hope you've all had a good read.  I will have another annotation coming up with a victory by pawn promotion, this time it will be against a Class A player!  So watch this space!  Bye for now - Joanne"
+    },
+    "url": "https://gameknot.com/annotation.pl/the-decisive-central-passed-pawns?gm=40191",
+    "gameName": "The Decisive Central Passed Pawns!",
+    "players": "ubermensch43 (1563) vs. jstevens1 (1771)",
+    "opening": "Queen's pawn game, Krause variation (D02)"
+}

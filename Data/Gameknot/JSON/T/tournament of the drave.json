@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Nf3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 O-O 10. Be2 b6 11. O-O Bb7 12. Ne5 Rd8 13. Qe3 Nd7 14. f4 c5 15. Rad1 cxd4 16. Rxd4 Nxe5 17. fxe5 Qg6 18. Rg4 Qc2 19. Bf3": "?\r\nWhite missed 19 Qh6! g6 20 Rh4 g5 21 Rg4 Be4 22 Bf3 Bg6 (all Black's moves are forced) 23 Bxa8 Rxa8 24 Qxg5 then if Qxb2 25 h4 Qxa2 26 h5 +-",
+        "19... Bxf3 20. Qxf3": "? White missed 21 Qg3 Rd3 22 Rxg7+ Kh8 23 Rxf5 Rxg3 24 Rgxf7 exf5 25 hxg3 Rc8 26 b3 Re8 27 Rxa7 Rxe5 28 Ra6 b5 +-",
+        "20... Qf5 21. Qxf5 exf5 22. Rgf4": "22 Rxf5 Rd2 23 Rf2 Rad8 24 Re4 Rd1+ 25 Rf1 R1d2 26 Ref4 +=\r\nI wanted to avoid this for fear of the Black rook on my 2nd rank but it seems fine because of the counter-threats",
+        "22... g6 23. g4 fxg4 24. Rf4xf7 Rd2 25. Rf1f2": "? I am playing altogether too passively probably out of respect for my opponent. I should have been looking for more forcing moves. This is the third time I missed a better one because I was nervous of his plans. The obvious 25 e6! is much stronger here\r\n\r\n25 e6! then if 25 .. Rxb2 26 e7 wins eg .. Re8 27 Rf8+ Kg7 28 R1f7+ 1-0\r\n\r\nPassed pawns need to be pushed!",
+        "25... Rxf2 26. Rxf2 Rf8 27. Kg2 Rxf2+ 28. Kxf2": "at this point the start of the K+P ending, the computer has the game dead level. So where did things go wrong for me?",
+        "28... Kf7 29. Ke3": "? 29 Kg3 would have been better for me .. g5 30 Kxg4 Kg6 =",
+        "29... g5": "! this was the the right move, keeping my King out, which Id not seen coming. ",
+        "30. b4 Ke6 31. Ke4 h5 32. c5 h4 33. c6 g3": "? A mistake by Black (first one!). This only draws, 33 .. h3 is winning\r\n\r\n33 .. h3! 34 c7 Kd7 35 c8=Q Kxc8 36 Ke3 g3 0-1\r\n\r\nSo how did I miss the draw after 33 .. g3?",
+        "34. hxg3 h3 35. c7": "?? Losing\r\n\r\nThe correct move was 35 Kf3 with a draw\r\n\r\n35 Kf3 g4+ 36 Kf2 a6 37 Kf1 Ke7 38 Kg1 Ke6 39 Kf1 etc\r\n\r\nIts drawn because the Black King can't take either pawn. I should have seen this possibility - an important motif to remember. ",
+        "35... Kd7 36. c8=Q+ Kxc8 37. Kf3 g4+ 38. Kf2 Kd7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/tournament-of-the-drave?gm=25754",
+    "gameName": "tournament of the drave",
+    "players": "wasspwot (1772) vs. theinnergame (1745)",
+    "opening": "QGD (D31), semi-Slav, Marshall gambit"
+}

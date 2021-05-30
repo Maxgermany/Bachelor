@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4": "King's gambit that gives a strong and open game for white. ",
+        "2... exf4 3. Nf3": "Needed to prevent Q-h4 and develop the knight at the same time. ",
+        "3... Nf6 4. Nc3 Bb4 5. e5 Qe7 6. d4 Bxc3+ 7. bxc3 Nd5 8. c4 Nb6": "The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game. ",
+        "9. Bxf4": "Re-winning the gambit pawn. ",
+        "9... O-O 10. Bd3": "Threatening capture of R7 pawn, followed by N-g5 and Q-h5. One can see the faster development on white side which is typical in King's gambit.",
+        "10... h6 11. h4": "To prevent advancement of g7 pawn. ",
+        "11... d6": "Black opens the line for his bishop threatening to pin the knight at f3.",
+        "12. h5": "To prevent the black pawn at h6 from advancing further.",
+        "12... Bg4 13. Kf2": "Relieving the king from the pin and also moving it closer to other white pieces. \nOpens the option of moving the king to g3, threatening the g4 bishop while protecting \nthe otherwise unprotected f4 bishop.",
+        "13... Qe6": "Another wasted queen move which is a mistake as will be shown next. ",
+        "14. d5 Qc8": "That is too far and locks the queen in. Q-e7 would have been far better\nand would have prevented the coming attack on the king side. ",
+        "15. Qd2": "Threatening the pawn at h6. ",
+        "15... Nb8d7": "Too late to bring in the knight. d6Xe5 followed by f7-f6 would have prevented the \nensuing attack.",
+        "16. Bxh6": "if g7Xh6, d2Xh6 threatening h6-h7 mate. If f7-f5, e5Xf6 e.p. ",
+        "16... Re8": "Unfortunate waste of time. This takes the rook away from the scene of action.\nf7-f6, e5Xf6, f8Xf6 might have delayed the attack.",
+        "17. Qg5": "Threatening QXg7 mate. If K-f8, BXg7ch. K-g7,B-f6ch. K-f8 or K-h8,Q-g7 mate. \n",
+        "17... g6": "The only other option left. ",
+        "18. Bxg6": "If PXg6, QXg6. K-h8, Q-g7 mate. If P-f6, B-h7ch. KXh7, Q-g7 mate or K-f6, Q-g7 mate. \nBlack resigned at this point. K-h8 would have delayed the game a little but not for long. \nK-h8, B-f8! NXf8,Q-f6ch. K-g8,BXf7ch. K-h7,N-g5 mate. If k-h8, B-f8, RXf8 then Q-h6,\nK-g8, Q-h7 mate. If K-h8, B-f8, PXg6 then Q-h6, K-g8, Q-g7 mate. ",
+        "18... Kh8 19. Bf8 Nxf8 20. Qf6+ Kg8 21. Bxf7+ Kh7 22. Ng5#": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=35946",
+    "gameName": "Let's play chess",
+    "players": "tadepalli (1200) vs. kaunteya (1416)",
+    "opening": "KGA (C34), Schallop defence"
+}

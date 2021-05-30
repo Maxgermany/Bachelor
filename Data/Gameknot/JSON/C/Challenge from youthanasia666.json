@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3": "going for ruy lopez.",
+        "2... Qf6": "?",
+        "3. Nc3": "threatening Nd5.",
+        "3... Bc5": "black wants to march up the G pawn and then do Qxf2#",
+        "4. Nd5": "threatening both Nxf6 and also Nxc7+.",
+        "4... Qd6": "stopping both treats but trapping the d7 pawn.",
+        "5. Bc4": "development.",
+        "5... Nf6": "trying to take off the pressure.",
+        "6. Ng5": "more attack!",
+        "6... O-O": "black has no choice but to get his king to saftey.",
+        "7. Qf3": "MORE pressure! at this point black has already lost",
+        "7... Nc6": "getting the knight into the action.",
+        "8. Qh3": "threatening  Nxf6+ Qxf6 Qxh7#",
+        "8... Nd4": "which",
+        "9. Nxf6+": "is",
+        "9... Qxf6": "just",
+        "10. Qxh7#": "what happened."
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-youthanasia666?gm=47625",
+    "gameName": "Challenge from youthanasia666",
+    "players": "creatoronline (1636) vs. youthanasia666 (1039)",
+    "opening": "Greco defence (C40)"
+}

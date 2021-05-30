@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4": "Quick win with the Kings Gambit...",
+        "1... e5 2. f4 Qh4+ 3. g3 Qe7 4. fxe5 Qxe5 5. Nc3 d5": "!? Opens the position up, but White is ahead in development.",
+        "6. Nf3 Qe6 7. Nxd5 Qxe4+": "Forced...",
+        "8. Qe2 Qxe2+ 9. Bxe2": "White has 3 pieces developed, Black none.",
+        "9... Bd6 10. O-O c6": "?! A nice idea, but another pawn move",
+        "11. Re1": "! The N is immune since double check (mate) would follow.",
+        "11... Ne7 12. Nxe7 Bxe7": "Leaves bishop indirectly pinned",
+        "13. Bc4 b5": "Another pawn move ?!",
+        "14. Bb3 c5": "?? Loses a rook",
+        "15. Bd5 O-O 16. Bxa8 Bg4 17. Rxe7": "Black resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/in-doubt-develop-first?gm=23434",
+    "gameName": "In Doubt...Develop First!",
+    "players": "dmaestro (1511) vs. NN (1400)",
+    "opening": "KGD (C30), Keene's defence"
+}

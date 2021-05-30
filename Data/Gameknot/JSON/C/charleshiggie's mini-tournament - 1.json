@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4": "This is clearly a case of \"Trying too hard to win\". Having obtained a winning position I made one error. Rather than admit that the position was now equal, and accept a perpetual check, being materially up, I tried to play on for a win and ended up getting mated!",
+        "1... Nf6 2. c4 g6 3. Nc3 d5": "The Gr\u00fcnfeld defence, also sometimes called the Gr\u00fcnfeld-Indian Defence. The Indian player Moheschunder Bannerjee played the opening as early as 1855 against John Cochrane. However, it is named for Ernst Gr\u00fcnfeld, who introduced it into international tournament play at Vienna 1922, where Gr\u00fcnfeld, in his first game with the defense, beat future World Champion Alexander Alekhine.",
+        "4. cxd5": "And this is the exchange variation, the most common way of playing against it",
+        "4... Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3": "This move came back into vogue towards the end of the 20th century. Bc4 followed by Ne2 had been the more usual way of developing the white king side, preventing black from pinning the knight with Bg4. With the knight on e2, this can just be met by f3",
+        "7... c5 8. Rb1": "Rb1 delays the development of the black Bc8 as the pawn on b7 is attacked",
+        "8... O-O 9. Be2 Nd7 10. O-O Nf6 11. Bd3 b6": "Now that the pawn b7 has gone to b6 and is protected, I decided to prevent the pin with h3",
+        "12. h3 Bb7 13. Re1 Rc8 14. Bf4 Nh5 15. Be3 Nf6": "Black almost seems to be offering a draw. Perhaps if I play Bf4 black will play Nh5 again and we can just repeat and agree a draw. But I have the white pieces, and a higher grade, I must play on!",
+        "16. Bg5 h6 17. Bf4 Nh5 18. Bd2 cxd4 19. cxd4 Qd7 20. e5": "Now his knight is short of squares",
+        "20... Bxf3 21. Qxf3 Qxd4 22. g4 Rfd8 23. Rb3 Rc2": "what is this? Black sacs the exchange. I was a bit surprised. What of it? I can just take it surely?",
+        "24. Bxc2 Qxd2 25. Rd1 Qxc2 26. Rxd8+": "Now I am two exchanges up, and the black knight is still hanging.",
+        "26... Kh7": "Now I have got two alternatives. I should have just taken the knight and be winning on material. But I thought I could take on f7 and threaten mate. After the mate threat is dealt with, I can take the knight. I did actually at this stage look at the game continuation 27. Qxf7 Qc1+, 28. Kg2 Nf4+, 29. Kf3 g5, 30. Qf5+ and thought that Qf5 was mate. I didn't see that the knight could then drop back and block the check. Funnily enough there are quite a few cases in chess where strong players overlook knight moves jumping backwards, the most famous being when in 1956 future world champion Petrosian left his queen en pris to a knight retreat from Bronstein.\r\n",
+        "27. Qxf7 Qc1+ 28. Kg2 Nf4+ 29. Kf3 g5 30. Qf5+ Ng6": "Oops, so I don't get the knight after all. But so what, I am still two exchanges up, I should be winning easily....",
+        "31. e6 Qh1+ 32. Ke2 Bf6 33. Rd1 Qc6 34. Rd7 Kg7 35. Rxa7 Nf4+ 36. Kd2 Qd6+ 37. Ke1 Qc6 38. Kd1 Qd6+ 39. Ke1 Qc6": "Here I should just keeping repeating the position, however, as I said, I wanted to win....",
+        "40. Kd1 Qd6+ 41. Kc2 Qc6+ 42. Kd2 Qd6+ 43. Rd3": "Offering one of the exchanges back, to try and get some pieces off the board. Black wisely, is not bought off so easily..",
+        "43... Qb4+ 44. Ke3 Ng2+": "This is lost now. If I go to f3 black has Nh4 forking king and queen. Ke2 is nearly as bad, black just plays Qe1 first. I thought Ke2 was the lesser of the two evils, as it forces black to find Qe1... you never know!",
+        "45. Ke2 Qe1+": "I played the next two moves quickly, as they are forced.",
+        "46. Kf3 Nh4+ 47. Kg3 Qg1#": "A clear demonstration of the rule, \"if you see a good move, look for a better one!\" Instead of taking off the queen, black checkmates."
+    },
+    "url": "https://gameknot.com/annotation.pl/charleshiggies-mini-tournament?gm=24249",
+    "gameName": "charleshiggie's mini-tournament",
+    "players": "charleshiggie (1900) vs. righa (1843)",
+    "opening": "Gruenfeld (D85), modern exchange variation"
+}

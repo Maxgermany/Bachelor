@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "the philidor a ok game",
+        "3. d4 exd4 4. Nxd4 h6": "? not sure why?",
+        "5. Bc4 Be6": "? this loses a pawn",
+        "6. Nxe6 fxe6 7. Qh5+ Kd7 8. Qf7+ Be7 9. Qxe6+": "mate is on its way!",
+        "9... Kc6": "if ke8 qf7+ kd7 qf5+! ke8 bf7+ mating on a few moves!",
+        "10. Qd5+ Kb6 11. Qb5#": "please leave a comment or two and rank it on the star system thank you!"
+    },
+    "url": "https://gameknot.com/annotation.pl/mate-in-ten?gm=44398",
+    "gameName": "mate in ten",
+    "players": "water123 (1861) vs. mothernautreboy (1300)",
+    "opening": "Philidor (C41), exchange variation"
+}

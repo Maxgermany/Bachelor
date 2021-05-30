@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. c4 e5 2. g3 Nc6 3. Bg2 d6 4. Nc3 g6 5. Rb1 Bg7 6. e3 f5 7. d3 Nf6 8. Nge2 O-O 9. b4": "Advancing the b pawn to gain space on the queenside. ",
+        "9... Rb8": "? a slight error: the best way to deal with a flank attack is to attack in the centre. Better is e5-e4. ",
+        "10. b5 Ne7 11. O-O g5": "? another positional blunder that does not quite give up the game but seriously weakens the squares in front of the castled king. The aim of this move is to play a supported f5-f4 which results in a open g file. However, I am not afraid to open the g file because I see that I can make great use of the file.",
+        "12. f4 gxf4 13. gxf4 Ng6": "a good move that breaths some life into a dying horse. ",
+        "14. Qa4": "Not 14...Nd5 which leads to a draw by allowing black to exchange pieces to lessen black's cramped position. I played 14. ...Qa4 because I wanted to give myself a chance to win.",
+        "14... Ng4": "A big blunder that makes black's life very hard. The knight has abandoned d5 and does nothing to stop ...Qxa7. Both Be6 and Ra8 keep the game semi-equal. ",
+        "15. Qxa7 Be6": "Black can not afford to allow white to invade with Nd5",
+        "16. h3": "evicting the knight before knocking of the the pawn. Which is important because if:\n16. Bxb7 then 16. ...Qh4 gives black the advantage. The pawn on h3 prevents black from creating mating threats on h2.",
+        "16... Nh6 17. Bxb7 Qh4": "e5-e4 is better because it cuts whites forces in half.",
+        "18. Bg2 exf4": "?? a huge error that gives up all hope for black to make a defense. ",
+        "19. exf4": "The pawn on f4 creates a massive bind in black's position. It is amazing that one pawn can render 5 pieces absolutely useless. ",
+        "19... Rbc8 20. a4": "Because black has the vast majority of his pieces on the king side white can pretty much march a pawn to victory",
+        "20... Bd7 21. a5 Rfe8 22. Qf2": "Offering to remove the queens. The exchange would be in whites favor because the absence of the queens increases the strength of the past pawn.",
+        "22... Qf6 23. Nd5 Qf7 24. a6 Ne7 25. Nxc7 Rxc7 26. b6 Rc5 27. b7 Nc6 28. Bxc6 Bxc6 29. b8=Q Rxb8 30. Rxb8+ Bf8 31. Qg3+ Kh8": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=23576",
+    "gameName": "Let's play chess",
+    "players": "elyhim (1881) vs. rusmil (1662)",
+    "opening": "English opening (A20)"
+}

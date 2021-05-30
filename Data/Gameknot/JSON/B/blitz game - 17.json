@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4": "A great blitz game I played recently.",
+        "1... c5 2. f4 a6 3. Nf3 h6 4. c3": "Preparing d4.",
+        "4... d6 5. d4 cxd4 6. cxd4": "10 of the past 11 moves have been pawn moves.",
+        "6... Bg4 7. Be2 Bxf3 8. Bxf3 Qb6 9. O-O": "(?) This move loses a pawn.",
+        "9... Nc6": "d5 can't be played because the pawn is pinned.\r\nBe3 loses the pawn on b2.\r\nQa4 pins the knight, but the queen takes d4 instead.\r\nb3 will force a queen exchange if the queen takes d4.\r\nKh1 doesn't stop the capture. ",
+        "10. Nc3": "Instead I developed my knight.",
+        "10... Nxd4 11. Be3": "(?) Loses the pawn on b2",
+        "11... Nxf3+": "gxf3 loses the bishop on e3",
+        "12. Rxf3 Qxb2 13. Rc1 Rc8 14. Bd4 Qb4": "The discovered attack (Bishop on d4) just traded the rooks and queens.I think that Qb4 was a waste of time.",
+        "15. Nd5": "(??) Loses the bishop. I didn't notice that the bishop would be taken on check.",
+        "15... Rxc1 16. Qxc1 Qxd4+ 17. Kh1 Qc5": "Attempting to trade queens. I would have brought out the knight instead.",
+        "18. Rc3 Qxc3": "(??) Why he did that, I have no idea. I thought that he would play Qa5.(Doesn't Qa5 work?)",
+        "19. Qxc3 Kd7": "Mate in 2 that I didn't see:Qc7-->Ke6 Qc8#\r\n                                         -->Ke8 Qc8#",
+        "20. f5": "My way still works.",
+        "20... e6 21. Qc7+ Ke8 22. Qc8#": "Notice that the bishop, rook and knight never moved once."
+    },
+    "url": "https://gameknot.com/annotation.pl/blitz-game?gm=33404",
+    "gameName": "blitz game",
+    "players": "mla96  vs. ??? ",
+    "opening": "Sicilian (B21), Grand Prix attack"
+}

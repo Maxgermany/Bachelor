@@ -1,0 +1,17 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. Nd2 c5": "Tarrasch, open variation till now, where I make an out-of-place move, letting black develop his pieces.",
+        "4. dxc5 Bxc5 5. Nb3 Bb6 6. exd5 exd5 7. Nf3 Nf6 8. Bg5": "A blunder by me. I should've played for castling first, as the rook will be dangerous on the open e-file.",
+        "8... O-O 9. Bxf6": "Another blunder by white, trying to earn a pawn, totally ignoring the e-file attack.",
+        "9... Qxf6 10. Qxd5 Qxb2 11. Bd3 Re8+ 12. Kf1": "My castling is now broken, and black has a great advantage. ",
+        "12... Nd7 13. Ng5 Nf6": "13 ...  Qf6 is superior, with the mate-threat on f2.",
+        "14. Qxf7+ Kh8 15. Qc4 g6 16. Nf7+ Kg7 17. Nd6 Be6 18. Nxe8+ Rxe8 19. Qa4": "I passively defend the rook at a1, against Bxb3.\n19 ... Rf8! is the strong move, since the attack after Ng4 is unavoidable.\n",
+        "19... Bxb3 20. axb3 Qe5 21. Rd1 Bxf2 22. Kxf2 Qe3+ 23. Kf1": "23 ... Ng4\n24 Qxg4 Rf8+\n25 Bf5  (25 Qf3?? Rxf3  26 gxf3 Qxf3+  27 Ke1 Qxh1+)\n25 ... Rxf5+\n26 Qxf5 gxf5\n\nshould be the way this got played, as two rooks vs a queen is pretty equal, especially when one rook is essentially stuck.",
+        "23... Rf8 24. Bf5": "The only way to avoid a wicked loss.\nAfter 24 ... gxf5, the game is lost for black with the material advantage of white.\n\n24 ... Ng4 is still better than Ne4, since after 25 Qd4, 25 ... Kh6  26 Qxe3+ Nxe3+  27 Ke2 Nxd1, white only has a small positional advantage. ",
+        "24... Ne4 25. Qd4+ Qxd4 26. Rxd4 Rxf5+ 27. Ke2 Rf7 28. Rxe4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/great-comeback?gm=22426",
+    "gameName": "Great Comeback",
+    "players": "ozgun92 (1694) vs. mystery13 (1650)",
+    "opening": "French (C07), Tarrasch, open variation"
+}

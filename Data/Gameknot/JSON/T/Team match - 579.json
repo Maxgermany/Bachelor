@@ -1,0 +1,18 @@
+{
+    "moves": {
+        "1. e4 c5": "this follows the sicilian defense.",
+        "2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6": "this is Sicilian defense Najdorf variation. i play it as black.",
+        "6. Bd3 e5 7. Nb3 Be7 8. O-O O-O 9. Kh1 Re8 10. Bg5 h6 11. Bh4 Nxe4": "11....Ne4!! black wins a pawn.",
+        "12. Bxe7 Nxc3 13. bxc3 Qxe7 14. Re1 Nc6 15. Nd4 Qg5": "i didn't want to exchange knights because white has 2 doubled pawns .",
+        "16. Nxc6 bxc6 17. Be4 Bg4": "17....Bg4??? black should play 17....d5",
+        "18. Qxd6 Rac8 19. Bd3": "if 19.Bxc6 19....Re6! and bishop dies.",
+        "19... a5 20. Re3 c5 21. Rae1 Re6 22. Qd5 Bf5 23. Bxf5 Qxf5 24. Re3xe5 Rxe5 25. Qxe5 Qxc2 26. Qe3 Qxa2 27. g3 Qd5+ 28. Kg1 a4 29. Qc1 Qb3 30. Qa1 a3 31. Rb1 Qc2 32. Rc1": "if instead 32.Qxa3?? 32....Qxb1+.",
+        "32... Qb2 33. Rb1 Qxa1 34. Rxa1 Ra8 35. f4 f5 36. Kf2 Kf7 37. Ke3 Ke6 38. h4": "38.h4??? white should have played 38.c4 to prevent 38....Kd5.",
+        "38... Kd5 39. Kd3 c4+ 40. Kc2 Ke4 41. Kb1 Kd3 42. Ka2 Kxc3 43. Rb1 Ra7": "43....Ra7! i wanted to prevent white from playing 44.Rb7",
+        "44. Rc1+ Kd3 45. Ra1 c3 46. Kb3 c2 47. Rc1 a2": "here white resigned because he can't prevent black from promoting. "
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=27446",
+    "gameName": "Team match",
+    "players": "Player A (1200) vs. abdalmoneem (1200)",
+    "opening": "Sicilian (B90), Najdorf"
+}

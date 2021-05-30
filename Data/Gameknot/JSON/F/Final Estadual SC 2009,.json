@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 e5 2. f4 exf4 3. Nf3 Nf6": "Um plano antigo e raramente empregado, mas muito eficiente.\n",
+        "4. Nc3 d5 5. exd5 Nxd5 6. Bc4 Be6 7. Qe2 Be7 8. O-O O-O 9. d4 Nc6 10. Kh1": "Deixando margem para o preto transformar seu pe\u00e3o a mais em vantagem de verdade.\nAlternative variation: 10. Nxd5 Bxd5 11. Bxd5 Qxd5 12. Bxf4\n",
+        "10... Re8 11. Nxd5 Bxd5 12. Bxd5 Qxd5 13. c4 Qd6 14. d5 Bf6 15. Qc2 Nb4": "Aqui foi sugerido o seguinte plano, que parece mesmo bom: Cc6-e7, g7-g5 e Ce7-g6, com perspectivas de jogo ativo no flanco rei - fazendo uso do pe\u00e3o a mais para atacar! No entanto o Fritz concorda com meu lance, que eu mesmo considero anti-posicional.\n",
+        "16. Qf5 Re2": "Achei que minha vantagem residia na posse da coluna 'e' e tratei de ocupar a 7a logo, mas a coisa poderia ter sido feita de uma forma mais precisa\nAlternative variation: 16... Qa6 17. Nd2 Re5 18. Qxf4 Rae8\n",
+        "17. Bxf4 Qe7 18. Bg5 h6": "Se \u00e9 pra trocar em f6 de qualquer jeito, pra que debilitar um pouco mais??\n",
+        "19. Bxf6 Qxf6 20. Qxf6 gxf6 21. Nd4 Re4": "Capturar em b2 seria muito mais simples. Daqui em diante o preto faz um lance ruim ap\u00f3s o outro, ajudando o branco de todos os modos poss\u00edveis.\n",
+        "22. Rad1 Rae8 23. h3 Nxa2 24. Kh2 Nc1 25. Rxf6 Ne2 26. Nf5 Nf4 27. d6": "Decisivo. Devo isso a uma falha de c\u00e1lculo pois ao jogar 26.Cf4 n\u00e3o percebi que o cavalo ficaria pendurado ap\u00f3s 27...cd6 28.Cd6 Td8 29. Ce4 Td1 30.Tf4+-.\n",
+        "27... Rxc4 28. Nxh6+": "28.d7 seria a continua\u00e7\u00e3o l\u00f3gica. Aqui ordem dos fatores altera tudo.\n",
+        "28... Kg7 29. d7 Rd8 30. Rxf7+ Kxh6 31. Re7 Rc6": "31...Tc2 defende muito mais f\u00e1cil.\n",
+        "32. Re8 Ne6 33. Re1 Rxd7 34. Re1xe6+ Rxe6 35. Rxe6+ Kg7 36. h4 Kf7": "Um erro inacredit\u00e1ve l!! Muito mais simples, com empate garantido, seria 36...Td2.\nAlternative variation: 36... Rd2 37. Re7+ Kg6 38. Rxc7 Rxb2\n",
+        "37. Re2 Kg6": "Melhor seria come\u00e7ar a marchar na ala da dama com 37...a5\n",
+        "38. Kh3 c5 39. Re5 Rc7": "Mais uma vez 39.Td2 seria melhor.\n",
+        "40. h5+ Kh7": "Ainda assim, o final \u00e9 de empate!! O mais incr\u00edvel \u00e9 que, ap\u00f3s jogar toda a partida muito rapidamente, contava com mais de 1h contra menos de 10min do meu advers\u00e1rio. Certas derrotas s\u00e3o mais que merecidas.\n",
+        "41. g4 b5 42. Kh4 b4 43. b3 a5 44. g5 a4": "O lance perdedor. 44...c4 manteria o equil\u00edbrio.\n",
+        "45. g6+ Kh6 46. Re8 axb3 47. Rh8+ Kg7 48. Rh7+ Kf8 49. Rxc7 b2 50. Rf7+ Kg8 51. h6": "Amea\u00e7ando promover seguido de mate.\nAlternative variation: 51. h6 b1=Q 52. h7+ Kh8 53. Rf8+ Kg7 54. h8=Q+ Kxg6 55. Rf6#\n"
+    },
+    "url": "https://gameknot.com/annotation.pl/final-estadual-sc-2009?gm=30623",
+    "gameName": "Final Estadual SC 2009, ?",
+    "players": "Zonta, Juliano  vs. Brandao, Daniel (2049)",
+    "opening": "KGA (C34), Schallop defence"
+}

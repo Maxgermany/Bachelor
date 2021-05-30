@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. d4 d5 2. Nc3 Nf6 3. Be3": "A move that is bad for three reasons. It blocks the e-pawn. This in turn prevents the f-bishop from developing normally. And it does nothing (protects a pawn that does not need protection).",
+        "3... Bf5 4. Nf3 e6 5. g3": "At least the bishop will try a fianchetto.",
+        "5... Bb4 6. a3 Ba5 7. Bf4": "Finally this bishop is at a better square, but maybe g5 was better.",
+        "7... Ne4 8. a4": "Useless. Now black will win a pawn.",
+        "8... Nxc3": "BxN was also possible.",
+        "9. Qd2 Nxe2 10. Qxa5 Nxf4 11. gxf4 O-O": "Bxc2 was possible, since after Rc1 black can play b6. But black plays it safe.",
+        "12. c4": "This could have been a good idea, were it not for white's reply.",
+        "12... Be4 13. Bg2 b6 14. Qd2": "Why not c3?",
+        "14... dxc4": "Another pawn is netted.",
+        "15. Qe3 Bd5 16. O-O Nd7 17. Ne5 Nf6": "With an idea that is interesting...",
+        "18. Rac1 Bxg2 19. Kxg2 Qd5+ 20. f3 Rac8 21. Rxc4 Ng4": "This is the move black had in mind, but it is unsound.",
+        "22. Qe2": "Not so bad, but Qc3 was better to put pressure on the weak c7 pawn.",
+        "22... Nxe5": "Maybe black would have been better off swallowing his pride and put the knight back on f6.",
+        "23. fxe5": "Now white is back on track. The c column is all his. But black has the d column with a passed pawn.",
+        "23... Rfd8 24. Rg1": "It is tempting to use the open column to attack the black king, but I beleive here the right strategy was to go for the c7 pawn. So R(f)-c1 was called for. The attack on the g file is not as dangerous as it seems.",
+        "24... Qd7": "The queen must yield the front position to the rook (and possibly come to the rescue of the king).",
+        "25. Kf1": "Kh1 was much to be preferred, putting the king to safety, and still allowing for the g rook to go to c1.",
+        "25... c5": "Now black can play this freeing move which also becomes an attacking move.",
+        "26. Qg2 g6 27. f4": "Even though this move does not help the attack, it is already difficult to find a saving move for white, since opening the center is suicidal for white. But it will be opened anyway.",
+        "27... cxd4 28. Rb4": "Rc2 (or RxR) was an absolute necessity.",
+        "28... Rc1+ 29. Kf2 Rc2+ 30. Kf3 Rxg2 31. Rxg2 d3 32. h4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-guy04?gm=3350",
+    "gameName": "Challenge from guy04",
+    "players": "nathana (1176) vs. guy04 (1770)",
+    "opening": "Blackmar-Diemer gambit (D00)"
+}

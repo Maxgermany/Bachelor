@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4 Nf6 3. Nc3 c6 4. e3 g6 5. c5 b6 6. b4 b5 7. Nf3 Bf5 8. Bd3 Na6 9. a3 Bg7": "And already the position is complex. Both sides need to play careful",
+        "10. O-O Ne4 11. Nxe4 dxe4": "I didn't see the fork",
+        "12. Bxe4 Bxe4": "Black is a piece up",
+        "13. Nd2 Bd3 14. Re1 Qd5 15. Nf3 Be4 16. Qe2 Bxf3 17. Qxf3 Qxf3 18. gxf3 O-O 19. f4 Nb8": "The queenside being blocked, black switches to the kingside",
+        "20. Rd1 e6 21. e4 Nd7 22. e5 a5 23. Bd2 a4 24. Kg2 f6 25. Bc3 g5 26. Kf3 gxf4 27. Rdg1 Kf7 28. Kxf4 Bh6+ 29. Kf3 Bg5 30. Rg3 h5 31. Rag1 Bh6 32. Bb2 fxe5 33. Ke4 Nf6+ 34. Kxe5": "Black is having a field day with my pawns and weak position",
+        "34... Rfg8 35. Rg3xg8 Nxg8 36. Rxg8 Rxg8 37. Kd6 Bf4+ 38. Kxc6 Bxh2 39. Kxb5 h4 40. c6 Rc8 41. Kb6 h3 42. b5 Bd6": "I have no way on stopping the h pawn"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-d2?gm=12779",
+    "gameName": "League division D2",
+    "players": "lovechiefs (1200) vs. mjpruzin (1221)",
+    "opening": "QGD (D06), Marshall defence"
+}

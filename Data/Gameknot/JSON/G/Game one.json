@@ -1,0 +1,24 @@
+{
+    "moves": {
+        "1. d4 d5 2. c4": "I start out with my favorite opening, the queen's gambit.",
+        "2... dxc4 3. e3": "I prepare to win back the pawn and put my LSB in a nice spot.",
+        "3... Nc6 4. Bxc4 Nf6 5. d5": "?! this isn't so great, better would have been just developing or playing Qb3, a trappy move that threatens Bxf7+. I know that moves that make traps aren't great, but I don't think it would damage my position either.",
+        "5... Ne5 6. b3": "I prepare to fianchetto my DSB on a long diagonal.",
+        "6... e6 7. dxe6 Bxe6 8. Bxe6 fxe6": "Somehow I'm behind in development, my position isn't great.",
+        "9. Bb2 Qxd1+ 10. Kxd1 O-O-O+ 11. Nd2": "Now, I'm starting to catch up but I can't castle.",
+        "11... Ne4 12. Bxe5": "?? I thought all he could do is win it back with Rxd2+, but I missed the fork.",
+        "12... Nxf2+": "Wham!",
+        "13. Ke1 Nxh1": "There goes my rook, but if I'm lucky I can trap his knight.",
+        "14. Rc1 Bd6 15. Bxd6": "Trades are bad when you're behind, but if I moved my bishop he could take my h pawn.",
+        "15... Rxd6 16. Kf1": "My king inches closer to try to trap, but this is a huge ????????????????????????????????????? because it undefends my d knight.",
+        "16... Rxd2 17. Nf3 Rf8": "Ouch, that was a strong move and the best I can do is to trap his knight.",
+        "18. Kg1 Rxa2": "?? loses the knight, better would have been Nf2. ",
+        "19. Kxh1 b6 20. Ne5 Rff2 21. Nc6 Rfxg2": "He starts gobbling my pawns",
+        "22. Ne7+": "Spite check",
+        "22... Kb7 23. h4 Rgh2+ 24. Kg1 Rxh4": "I resign, because I don't think I have any hope. Now for game two."
+    },
+    "url": "https://gameknot.com/annotation.pl/game-one?gm=50766",
+    "gameName": "Game one",
+    "players": "porcho (1127) vs. richfeet (1103)",
+    "opening": "Queen's gambit accepted (D20)"
+}

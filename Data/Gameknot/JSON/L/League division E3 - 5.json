@@ -1,0 +1,14 @@
+{
+    "moves": {
+        "1. e4": "Hey, welcome to the chess lesson.  ",
+        "1... e5 2. Nf3 f6 3. Nxe5 fxe5": "Now I decide my queen chess move to QD1-h5 to check it.  I have 3 move still check.  The black got king stuck.  ",
+        "4. Qh5+ Ke7 5. Qxe5+ Kf7 6. Bc4+ Kg6 7. h4": "Now I move a white pawn.",
+        "7... d6 8. h5+": "I next pawn to check the king.  The black forgot to move away the king. :O",
+        "8... Kh6 9. d3+": "the pawn move to de-d3 because of Bb1 to check it. ",
+        "9... g5 10. hxg6 e.p.+ Kxg6 11. Qh5+ Kg7 12. Qf7#": "If you have any question and hope you understand. :D  Enjoy!"
+    },
+    "url": "https://gameknot.com/annotation.pl/league-division-e3?gm=10876",
+    "gameName": "League division E3",
+    "players": "scottw (978) vs. soweaver11 (1093)",
+    "opening": "Damiano's defence (C40)"
+}

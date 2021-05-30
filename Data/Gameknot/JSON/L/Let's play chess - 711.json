@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. d4": "this is awful.  again with the gruenfeld ideas but be warned this isn't pretty",
+        "1... Nf6 2. Nc3": "blocks the c-pawn",
+        "2... g6 3. e4 d5 4. e5 Ne4 5. Qd3": "at this point, probably better to play Bf5 and cover the N and develop the B.",
+        "5... Nxf2": "I get carried away with forks that force the K to move and prevent castling",
+        "6. Kxf2 Bf5": "too late.",
+        "7. Qb5+ Nd7 8. Qxb7": "bringing the B back might have been better but boy those b7 pawns attract Qs like flies to excrement",
+        "8... Bxc2 9. Bg5": "this is a price for not developing properly.  i resist f6 because I like castling over there, but Nb6 wasn't the response",
+        "9... Nb6 10. Bb5+": "now, I'm stuck.  no initiative, down in points.  the B can't help because it just HAD to go pawn-grabbin.",
+        "10... Nd7": "the only move",
+        "11. Nxd5": "bringing in reinforcements",
+        "11... Rc8": "better to play Bg7?  there's a N fork looming, and that's not the least of the troubles",
+        "12. Rc1 Be4 13. Rxc7 Bxd5": " the B gets into the action but  with the other three--no four--pieces, it makes no difference.  the game is lost",
+        "14. Bxd7+ Qxd7 15. Rxc8+ Qd8 16. Qb5+ Bc6": "the only move but better refered to as a delay.  ",
+        "17. Qxc6#": "I look at this game when I feel too confident.  poor opening play can bring the reaper within twenty moves.  the opponent's name should have warned me.."
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=27809",
+    "gameName": "Let's play chess",
+    "players": "quetzalcoatl08 (1138) vs. roan99 (1339)",
+    "opening": "Queen's pawn game (A45)"
+}

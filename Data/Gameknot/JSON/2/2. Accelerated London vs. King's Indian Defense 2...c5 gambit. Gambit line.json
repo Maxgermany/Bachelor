@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. d4 Nf6 2. Bf4": "Accelerated London system. Resembling the Colle System, white develops the Bishop to Bc1-f4 the hallmark of the London. The orthodox move order has always been on the 3rd move, e.g., 1. d4 2. Nf3 3. Bf4 to what ever Black plays. The Accelerated London develops the bishop on move 2. I'm not a Londoner so I'm not going to write the pros and cons of The orthodox London vs the accelerated London system and how it is meant to deal with Black's moves. I just know it's really in vogue right now and a hot opening for White because Magnus Carlsen has played it. I will add black will face a blunted King's Indian Defense if both sides were to develop their own system, i.e., The london system vs the King's Indian Defense. For example, 1. d4...Nf6 2. Nf3...g6 3. Bf4...Bg7 4. e3...d6 5. Be2..0-0 6. 0-0.",
+        "2... c5 3. e3 Nd5 4. Bg3 Qb6 5. Qc1": "!!! A very peculiar reply to the dreaded Qb6 line. \nI'm curious how White's antidote will work. \nI believe this to be a new gambit line for White.  ",
+        "5... cxd4 6. exd4 Qxd4": "Gambit accepted!",
+        "7. Nf3 Qe4+": "A gain of tempo. ",
+        "8. Be2 b6": "This proves to be to slow for Black. I was thinking ...Ba6 but it never comes. \nBetter for Black is 8...Nc6 guarding the e5/d4 squares so Black's queen can retreat to g6 safely. ",
+        "9. Nbd2": "White regains the tempo lost and is ahead of development. \nI believe with correct play White should have an opening advantage over Black. \n9.c4 doesn't work for White as Black has Nb4 threatening a fork check on d3. White can't castle because the Be2 is hanging. ",
+        "9... Qg6 10. O-O Nc6": "Now the Knight protects e5/d4 squares. ",
+        "11. Re1": "White has 5 pieces developed to Black's 2!",
+        "11... e6": "and here I thought it's time to castle as soon as possible. ",
+        "12. Bd3 Qh6 13. Qd1": "White wants to keep pieces on the board. ",
+        "13... Be7 14. Ne4 O-O 15. Nd6 f5": "! Black's pawn structure resembles that of Dutch classical system. \nThe Dutch defensive is an opening in Queen's pawn opening. ",
+        "16. Nxc8 Raxc8 17. c3": "?\nthe first mistake? ",
+        "17... f4": "! winning a piece. ",
+        "18. Bxf4 Qxf4 19. Bc2 Bc5": "!\nBe7 wasn't doing to much and is much more attacking on c5 than e7. \n20. b5...Bxf2+ 21. Kxf2 21. Ne5 to open the game up. ",
+        "20. Qd3 Qh6 21. c4": "?? 2nd mistake?\nand I would grade it as the losing move? ",
+        "21... Ndb4 22. Qe2 Nxc2 23. Qxc2 Rxf3": "exchange sacrifice. The Nf3 is a protector of the King's fortress with pawns at h2/g2/f2. Now with doubled pawns on the f-file White has holes in fortress black can exploit. ",
+        "24. gxf3 Bd6 25. Kf1 Qh3+ 26. Ke2 Nd4+": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/2-accelerated-london-vs-kings-indian-defense-2-c5-gambit-gambit-line?gm=69087",
+    "gameName": "2. Accelerated London vs. King's Indian Defense 2...c5 gambit. Gambit line",
+    "players": "mischo (1876) vs. freeman8201 (1901)",
+    "opening": "Queen's pawn game (A45)"
+}

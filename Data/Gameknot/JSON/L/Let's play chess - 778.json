@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3 dxe5 6. Nxe5": "White's move order means that he misses out on the line with Bc4, which is probably slightly stronger because it bears down on f7.  Black will defend with Be6 and c6 as necessary, but his position can get rather cramped. ",
+        "6... g6 7. Be2": "7. Qf3 can be met with ... f6, driving the knight away and controlling e5. ",
+        "7... Bg7 8. O-O c5": "Black needs to keep active in this line.  8. ... 0-0 9. Be3 can cause him some problems. ",
+        "9. dxc5": "This line is given as a footnote in Burgess's book on the Alekhine.  From recollection, I had to buy my copy from the author. ",
+        "9... Qxd1 10. Rxd1 Na4 11. f4": "The knight needs to be supported.  There's no hurry for Black to recapture on c5.  Amusingly, with his pieces confined to the edges of the board, Black is nicely placed at the moment. ",
+        "11... Nd7 12. Nd3 Ndxc5": "Building pressure on the White position.  If 13. Nxc5 Nxc5, b2 is still vulnerable and Black has Be6 and a choice of where to put his rooks.  Black is no worse. ",
+        "13. Nc3": "The knight has to go somewhere, although things go wrong pretty drastically for White from hereon in. ",
+        "13... Nxd3 14. Rxd3 Nc5 15. Re3 Be6": "Black plays natural moves and the White position starts to creak. ",
+        "16. Nb5 O-O": "In my view, the pawn structure does White no favours.  The Black bishops are well placed and White's about to get diagonlised. ",
+        "17. Rb1 Rfc8 18. b4": "18. b3 a6 is suitably horrible and White decides on drastic action. ",
+        "18... Nd7 19. Na3": "This looks like a losing move, although the threat of ... a6 makes White's life very difficult.  The exchange sacrifice on e6 has to be considered, but the e-pawns are hard to attack and after exchanging the front pawn for that on f4, Black will have a passed pawn in any endgame. ",
+        "19... Bd4 20. Bf3 Bxc4": "There's no rush to take on e3 - the rook isn't going anywhere and the rest of White's position will fall off the board first.",
+        "21. Bxb7 Bxa2": "Splendid - all 4 rooks en prise to bishops.  Unfortunately for White, his bishop can only take one of Black's rooks, whilst his own rooks are going nowhere. ",
+        "22. g3": "Tantamount to surrender. The rest is forced. ",
+        "22... Bxb1 23. Bxa8 Rxc1+ 24. Kf2 Bxe3+ 25. Kxe3 Rc3+ 26. Kd2 Rxa3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/lets-play-chess?gm=25654",
+    "gameName": "Let's play chess",
+    "players": "_hitman_ (1431) vs. dsb13 (1659)",
+    "opening": "Alekhine's defence (B02), Steiner variation"
+}

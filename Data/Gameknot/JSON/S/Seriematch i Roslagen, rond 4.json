@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 Nc6 3. c3": "Ett drag som tvingar kamp om centrum, vilket inte \u00e4r typiskt f\u00f6r Sicilianskt spel.\r\nF\u00f6rdelen \u00e4r allts\u00e5 att man sl\u00e5r h\u00e5l p\u00e5 svarts f\u00f6rhoppning att f\u00e5 spela den typiska strategin.\r\nNackdelen \u00e4r att b-springaren f\u00e5r sv\u00e5rare att komma ut.",
+        "3... d6 4. d4 cxd4": "Vanligare \u00e4r att h\u00e5lla centrum st\u00e4ngt. Nu gav motst\u00e5ndaren mig centrum och min b-springare kan utvecklas normalt.",
+        "5. cxd4 Nf6 6. Nc3 a6 7. h3": "F\u00f6rhindrar L\u00f6pare g4",
+        "7... e6": "Motst\u00e5ndaren vill uppenbarligen spela defensivt inledningsvis.",
+        "8. Bd3 Be7 9. a3 O-O 10. Bg5": "Om jag har m\u00f6jlighet utvecklar jag g\u00e4rna alla pj\u00e4ser innan jag g\u00f6r rockad. Jag ser inga komplikationer h\u00e4r.",
+        "10... Qc7": "B\u00e4ttre drag h\u00e4r f\u00f6r motst\u00e5ndaren \u00e4r f\u00f6rmodligen b5.",
+        "11. O-O b5 12. d5 Na5 13. b4": "T\u00f6vligt av mig att gl\u00f6mma bort att b-bonden \u00e4r det enda som skyddar min springare p\u00e5 c3",
+        "13... Qxc3 14. bxa5 Qxa5 15. a4": "H\u00e4r f\u00f6rv\u00e4ntade jag mig b4 som svar. Jag funderade att det \u00e4r l\u00e4ttare att attackera hans b\u00f6nder om de \u00e4r l\u00f6sgjorda fr\u00e5n varandra.",
+        "15... bxa4 16. Rxa4 Qb6 17. Qe2": "S\u00e4tter press p\u00e5 a6, skyddar e4 b\u00e4ttre och ger rum \u00e5t tornet p\u00e5 f1.",
+        "17... exd5": "Och mitt drag f\u00f6rhindrar motst\u00e5ndarens drag exd5 att vara lika effektivt.",
+        "18. exd5 Qd8 19. Re1 Bd7": "Hotar mitt torn ist\u00e4llet f\u00f6r att skydda sin l\u00f6pare.",
+        "20. Bxh7+": "Ett drag jag \u00e4r stolt att jag s\u00e5g. Om Kxh7 s\u00e5 Th4+ innan jag tar hans l\u00f6pare p\u00e5 e7 med damen.\r\nOm Kh8 s\u00e5 Th4 och fortfarande om\u00f6jligt att vinna l\u00f6paren utan att jag f\u00e5r hans l\u00f6pare ocks\u00e5.",
+        "20... Nxh7 21. Bxe7 Re8": "Hans enda m\u00f6jliga goda drag h\u00e4r gissar jag.",
+        "22. Re4": "En mycket vacker dominans av e-filen.",
+        "22... Qb8 23. Bh4": "Jag m\u00e5ste erk\u00e4nna att jag var n\u00e4ra att g\u00f6ra bort mig totalt. Jag trodde att min l\u00f6pare kunde ta d6 och tog tag i min l\u00f6pare f\u00f6re jag s\u00e5g hur d\u00e5ligt draget var. Som tur \u00e4r s\u00e5 fanns det ett vettigt st\u00e4lle att flytta l\u00f6paren till, som jag enligt reglerna m\u00e5ste flytta p\u00e5 eftersom jag har r\u00f6rt pj\u00e4sen.",
+        "23... Qb7 24. Qd2 Rxe4 25. Rxe4 Bf5 26. Re7": "Hans b\u00e4sta svar h\u00e4r \u00e4r f\u00f6rmodligen att g\u00e5 26. Db1+ f\u00f6r att vinna ett viktigt tempo i hans pressade situation. Mitt svar skulle f\u00f6rmodligen ha varit 27. Kh2",
+        "26... Qc8 27. Qf4": "Ett mycket bra drag fr\u00e5n min sida. Hotar l\u00f6pare (vilket tvingar hans Dam att h\u00e5lla kvar skyddet p\u00e5 den) och bonde p\u00e5 d6. M\u00e4rk att draget \u00e4ven s\u00e4tter press p\u00e5 f7 s\u00e5 att l\u00f6paren inte kan g\u00e5 n\u00e5gonstans annat \u00e4n m\u00f6jligen g6. Bonden p\u00e5 d6 \u00e4r mao f\u00f6rlorad. Min motst\u00e5ndare har h\u00e4r ca 4 minuter kvar p\u00e5 sin klocka och m\u00e5ste g\u00f6ra tre drag till innan han f\u00e5r 30 minuter extra bet\u00e4nketid. Sj\u00e4lv har jag en hel kvart p\u00e5 mig att g\u00f6ra tv\u00e5 drag till.",
+        "27... Bxh3": "Blunder i tidspress fr\u00e5n motst\u00e5ndaren.",
+        "28. Qxf7+": "H\u00e4r ger motst\u00e5ndaren upp. Efter tvingat drag 28. Kh8 f\u00f6ljer 29. Dg7++"
+    },
+    "url": "https://gameknot.com/annotation.pl/seriematch-i-roslagen-rond-4?gm=53919",
+    "gameName": "Seriematch i Roslagen, rond 4",
+    "players": "Ronnie Aspb\u00e4ck (1481) vs. Claes-\u00c5ke Andersson (1492)",
+    "opening": "Sicilian defence (B30)"
+}

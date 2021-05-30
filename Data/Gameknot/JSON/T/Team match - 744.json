@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. e3": "the reason c4 is played before e3 is the bishop on c1.",
+        "2... c6 3. c4 Be6": "? strange... the move in the text blocks black from developing properly.",
+        "4. cxd5 Bxd5 5. f3": "wants e4. maybe Nc3 was better with the \"regular\" development Nf3 Bd3 0-0 etc.",
+        "5... e6": "?? after e4 the bishop has nowhere to go.",
+        "6. e4 Qa5+": "a lame try to take a2...",
+        "7. Bd2 Bb4 8. exd5": "white with a piece up gains great advantage.",
+        "8... Bxd2+ 9. Nxd2 Qxd5 10. Ne4 f5": "weakening the king side.",
+        "11. Nc5 b6 12. Nb3 Nf6 13. Rc1 O-O 14. Bc4": "white looks fantastic while black is poorly placed over the board.",
+        "14... Qd6 15. Ne2": "preparing 0-0",
+        "15... b5 16. Bd3 Nd5": "at least the knight can not be vanished by a pawn.",
+        "17. Qd2 Nb4 18. Nc5": "18. Bb1!",
+        "18... Nxa2 19. Rc2 Nd7 20. Nxd7": "with material advantage it is always good to exchange pieces.",
+        "20... Qxd7 21. Qa5 Qd5": "white needs 0-0 soon.",
+        "22. O-O Qb3 23. Rd1": "? Qd2 is a must!",
+        "23... Nb4 24. Nc1 Qa4 25. Qxa4 bxa4 26. Rc4 Nxd3 27. Rxd3": "after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.",
+        "27... Rab8 28. Rxa4": "28. b2 locks the b file.",
+        "28... Rxb2 29. Rxa7 Rc2 30. Nb3 Rb8 31. Nd2 Rbb2": "black has to rooks on the second so even if he is with a piece down he looks not that bad.",
+        "32. Ra8+ Kf7 33. Ra7+ Kf6 34. Ne4+": "sacrifices the only light piece that is left in order to loose-up a bit.",
+        "34... fxe4 35. Rd1 exf3 36. gxf3 Rcxh2": "no need to carry on. the end!"
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=13451",
+    "gameName": "Team match",
+    "players": "scouseste (1178) vs. ohiostaterules (1281)",
+    "opening": "Queen's pawn (D00), stonewall attack"
+}

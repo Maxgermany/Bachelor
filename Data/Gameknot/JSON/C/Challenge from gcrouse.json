@@ -1,0 +1,30 @@
+{
+    "moves": {
+        "1. e4 e5 2. Bc4": "Looks like a fairly standard opening and I'm expecting n-f3 next",
+        "2... Nf6 3. Nf3 d6 4. Ng5 d5": "The start of the rot, I've not prepared properly and am experimenting with a defence. Never a good idea against an opponent such as you!",
+        "5. exd5 Nxd5 6. Qf3": "Now cos I've been lazy I'm starting to get into trouble. The direct threat is to f7 threatening mate. I can block that easily enough but the problem I have is I'm likely to leave two of your queen, bishop, knight combination attacking f7",
+        "6... Qxg5": "I decided to abandon the knight on d5, I'm sure that there would be a better move if I looked hard, possibly b-e6. As it is I think the move I made exposes two weaknesses in my play. Firstly I tend to be too materially biased, liking to keep even or better material than my opponent. Secondly I have a bad habit of playing pieces individually rather than launching co-ordinated attacks.",
+        "7. Bxd5": "Now I realise how much trouble I've put myself in. Either I sacrifice the f pawn and allow you to threaten the king directly or I sacrifice the b pawn to your bishop. If I do the former then the permutations are too complicated for me to calculate, I think I can defend it but I'm not sure. If I do the latter and allow bxp, then to protect the rook I have to countertake bxb, at which time qxb and the rook is going to fall anyway....(play it out on a board if it helps)",
+        "7... Nc6": "Again I'm not sure this was the best response, c7-c6 may be better. I've decided to lose the f pawn and hope for the best rather than swallow a rook loss. Again after I made the move I considered the implications (always try to do that before, it helps *lol*). If you take the knight and I counter take with the pawn then qxp and I'm forked on rook and king, so it was a very poor response from me.",
+        "8. Qxf7+": "The obvious move....",
+        "8... Kd8": "Forced response....",
+        "9. Nc3": "Good idea, you can't really do much with the queen and bishop alone so time to bring up reinforcements.",
+        "9... Qe7": "Trying to force you away from the danger area",
+        "10. Qxe7+ Nxe7": "Had the choice of pieces to counter take with, but didn't want my queenside pawns doubled (if you had taken bxn it gives me great difficulty that side)",
+        "11. d3 Nxd5 12. Nxd5 Be6 13. Bg5+ Kd7 14. Ne3 h6 15. Bh4 g5 16. Bg3 Bg7": "That e pawn was a major thorn throughout most of the game, trying to protect it, a fault of my materialistic thinking but it proves its worth in the end.",
+        "17. h4 g4 18. O-O Kd6 19. Nc4+ Bxc4 20. f4": "Not sure about this move, I think its a mistake. The obvious move is the counter take but I can see your thinking in attacking the e pawn and possibly clearing a path for your rooks. I think it could have waited a move though, the tempo would still have been yours.",
+        "20... gxf3 e.p. 21. Rxf3": "Again, having offered the pawn en passant you decided to take this. I kind of hoped you would but didn't really expect it. Now I have a chance to extract the bishop and I'm ahead materially. Not just that but it sends my confidence back to a high level. Much of my chess (and for many others) is so much about confidence, so in terms of tempo and psychology those last two moves cost you so much",
+        "21... Bd5 22. Rf7": "You know already that wasn't the wisest move, but if you hadn't said anything I might have missed it. I'd anticipated you coming down that f file and reckoned I had enough to defend it, I wasn't at that time thinking of bxr but your comment made me look harder.",
+        "22... Bxf7 23. a3": "Sensible move preparing for the a rook to come over",
+        "23... Rhg8 24. Rf1 Raf8 25. Rf5": "Not sure that was the best move, not overly sure what was though",
+        "25... Bg6 26. Rf3": "At this point you HAVE to offer the rook exchange (as you can't move to e5, g5 or h5 without losing the rook anyway). I would have gone back to f2 myself. Going to f3 means I can split your pawns. Rem I didn't want my pawns doubled earlier? Thats cos pawns only retain their power if they are together. Especially if you are materially down.",
+        "26... Rxf3 27. gxf3 Rf8": "I'm now a rook and bishop to pawn up so I'm going to do some sniping. With my e pawn as it is and your pawns separated you really only have the one method of defending the f pawn.",
+        "28. Kg2 Kd5": "Frees the pin on the e pawn",
+        "29. b4 Bh5 30. Kf2 Bxf3 31. h5 Bxh5+": "From here on in its pretty one sided, I might have ended up sacrificing the rook to get your bishop but then you moved that anyway meaning you had little chance of stopping me queening, if not with the e pawn then with one of them",
+        "32. Kg2 Bg4 33. c3 Rf3 34. b5 Rxd3 35. a4 e4 36. Bxc7 e3": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/challenge-from-gcrouse?gm=11679",
+    "gameName": "Challenge from gcrouse",
+    "players": "gcrouse (1239) vs. greyrabbit (1390)",
+    "opening": "Bishop's opening (C24), Berlin defence"
+}

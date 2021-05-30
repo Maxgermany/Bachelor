@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "The other day, I couldn't resist having a peak through my buddy, The Dentist's past games profile because his rating had suddenly shot up about 18 points.  I saw this brevity and I couldn't help playing through it to see how The Dentist managed to pulverise his opponent in just TWELVE MOVES!  I saw how, he showed his opponent the utter folly of leaving the Fool's Mate diagonal unprotected.  Yes, white was certainly awakened from a Fool's Paradise.",
+        "1... Nc6 2. f4 e5": "2......... e5 - transposes into a sort of King's Gambit declined.",
+        "3. f5": "3. f5? - bad move - this leaves the Fool's Mate diagonal unprotected to the BQ.  Better was Nf3 guarding the h4 square and developing a piece at the same time - in this case white will now drop a pawn as 3........ Qh4  forks WK and e4 pawn.",
+        "3... Qh4+ 4. g3 Qxe4+": "4. ........ Qxe4  - after 4. g3?? this allows another queen fork on e4 and the WR on h1 is toast.  The Dentist may have a low rating, but as you saw with my earlier annotated game \"In the Dentist's Chair\" in which I very nearly lost he is not to be underestimated!  Now white really feels the drill as a lot of enammel is about to disappear from his side of the board!!",
+        "5. Qe2 Qxh1 6. Nf3": "6. Nf3 - develops a piece but three moves too late.  The Dentist now develops very sensibly bringing out a knight to f6.",
+        "6... Nf6 7. Qc4": "7. Qc4?? - white tries to counter-attack by zeroing in on f7 with his queen but he leaves the f3 knight en prise.",
+        "7... Qxf3 8. Be2": "8. Be2 - develops a piece but white is way down on material.  Had it been me I would have resigned when I knew I was going to drop a rook even though The Dentist is 300 points south of my rating.  But I don't think I would have left the Fool's Mate diagonal unprotected in the first place.",
+        "8... Qh1+ 9. Kf2": "9. Kf2 - would interposing with 9. Bf1 been any better?  Now the WK is driven into open country.",
+        "9... Qxh2+": "9. ........... Qxh2 , yet still more ennamel is drilled away!!",
+        "10. Kf3 e4+": "10. ....... e4  - deadly pawn stab!",
+        "11. Ke3 Qxg3+ 12. Bf3": "12. Bf3 - white throws in the sponge after playing this move because he knows that when the Dentist next comes on line, white is going to cop Old Matey on f3!"
+    },
+    "url": "https://gameknot.com/annotation.pl/fools-paradise?gm=15408",
+    "gameName": "Fool's Paradise!",
+    "players": "NN (1653) vs. The Dentist (1297)",
+    "opening": "KP (B00), Nimzovich defence"
+}

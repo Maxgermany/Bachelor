@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "Wanting to slow the game down.",
+        "1... Nf6": "The young lady has been brushing up on her game and is confident enough to try a non-Classical line.",
+        "2. c4": "Natrural.",
+        "2... e6": "Heading for...",
+        "3. Nc3": "..after this move...",
+        "3... Bb4": "...a Nimzo-Indian.",
+        "4. Qb3": "Aggresive play. 4 Q-B2 also guards the N but doesn't put the B en prise.",
+        "4... Nc6": "Guarding.",
+        "5. e3": "Opening the line for the KB to guard the QBP.",
+        "5... d5": "Challenging the center.",
+        "6. c5": "6 N-B3 was the right move. Now White falls behind in development.",
+        "6... e5": "The girl smartly opens up the board with this temporary sacrifice.",
+        "7. dxe5": "Her boyfriend takes up the challenge.",
+        "7... Ne4": "Adding pressure to the pinned Knight.",
+        "8. Bb5": "White goes in for the counterpin.",
+        "8... Nxc5": "Winning back the material and provoking White into a fatal trap.",
+        "9. Qxb4": "White *thinks* he has just won a piece. Obviously NxQ is impossible, as the Knight is pinned to the King... right?",
+        "9... Nd3+": "Brilliant! The pin vanishes like smoke in a sirocco wind!",
+        "10. Bxd3": "Forced...",
+        "10... Nxb4": "...but now the Queen falls. White had the dignity to resign and congratulate his girlfriend on her brilliant play."
+    },
+    "url": "https://gameknot.com/annotation.pl/a-brilliant-surprise?gm=41363",
+    "gameName": "A brilliant surprise",
+    "players": "\"M\"  vs. \"F\" ",
+    "opening": "Nimzo-Indian (E22), Spielmann variation"
+}

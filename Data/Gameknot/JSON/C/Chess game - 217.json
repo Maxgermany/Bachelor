@@ -1,0 +1,22 @@
+{
+    "moves": {
+        "1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4": "My favorite position",
+        "4... Bg7 5. Nc3": "Controlling the center .",
+        "5... Nc6": "black increases pressure on d4 knight .",
+        "6. Be3 d6 7. Qd2": "ready to long castle",
+        "7... Be6": "peculiar move ! but i was scared of pressure on a2 pawn ",
+        "8. Bb5 Bxd4": "I liked this !",
+        "9. Bxd4 Nf6 10. O-O-O": "although black was attacking from queen side I decided to long castle .",
+        "10... a6 11. Bxc6+ bxc6 12. e5": "I needed some open files .",
+        "12... dxe5 13. Bxe5 O-O": "Worst move (in my opinion) . now I could attack .",
+        "14. Qh6": "fork . force to defend the queen .",
+        "14... Qb6": "I think Bd5 was much better  .",
+        "15. Ne4": "And the game is going to finish",
+        "15... Nh5": "Qxf2 ?! late mate !",
+        "16. Ng5": "Black Resigned . \r\n\r\nI think there was several moves that makes my advantage \r\n\r\n7 ... Be6 by black / 8... Bxd4 by back / and 12.e5 ."
+    },
+    "url": "https://gameknot.com/annotation.pl/chess-game?gm=30300",
+    "gameName": "Chess game",
+    "players": "Ridation  (1600) vs. Vahanlsoft (1520)",
+    "opening": "Sicilian (B27), Hungarian variation"
+}

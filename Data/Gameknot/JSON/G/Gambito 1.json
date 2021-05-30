@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. d4 exd4": "Gambito Escos\u00e8s con respuesta sorpresa de negro",
+        "4. c3 dxc3 5. Bc4 b5": "Esa jugada es para estudiar",
+        "6. Bxb5 cxb2 7. Bxb2 Rb8 8. Qe2": "parec\u00eca que se com\u00eca uno de los dos alfilesero NO !",
+        "8... Bb4+ 9. Nc3 Bb7 10. O-O": "Pienso que el blanco tiene un tiempo de mas porque se ha enrocado y puede empezar a fabricar su ataque mientras que el negro si se enroca va a tener que recuperar el tiempo perdido",
+        "10... Nge7 11. Nd5 O-O 12. Qe3": "Preparo traslado de la dama a d4",
+        "12... Ng6": "???, Pienso que Cxd5,ed,Te8 !! 8puede sacar al negro del apuro",
+        "13. Bxc6": "Pieza de mas en la jugada 13..",
+        "13... Bxc6 14. Qd4": "Amenaza de mate Cxb4"
+    },
+    "url": "https://gameknot.com/annotation.pl/gambito-1?gm=29910",
+    "gameName": "Gambito 1",
+    "players": "rromeroh (1615) vs. burt65 (1705)",
+    "opening": "Scotch (C44), Sea-cadet mate"
+}

@@ -1,0 +1,23 @@
+{
+    "moves": {
+        "1. e4 c6 2. b3 d5": "b3 is an unusual move from White. It is either to support c4 or prepare for a fiancetto. I follow the usual plan of the Carokann and attack e4 with d5.",
+        "3. exd5 cxd5 4. d4 Nf6": "After the exchange usual development occurs, white places a central pawn, but this blocks their Bishop if they procede to place it at b2. Nf6 strikes at the centre, defends d4 against the c4 threat, and helps prepare the Kingside for castling. ",
+        "5. Bb2 Bf5": "In my opinion the fiancetto is wasted and accomplishes nothing with d4 blocked. I further build the pressure on e5.",
+        "6. Bd3 Bxd3": "White offers an exchange, I accept. A key strategy behind the Carokann is working towards a favourable endgame for Black, so simplifying the board with the exchange suits my goals.",
+        "7. Qxd3 Nc6": "The only option for White, doubled pawns would only consolidate their Bishop's problem. Nc6 is standard development.",
+        "8. Nd2 e6": "White enables Queenside castling but the Knight contributes little, it does attack e5 but does not help defend the King. Nc3 is better, White could retreat their Bishop to c8 and look for Kingside play or look to move to a3 once it is safe.",
+        "9. O-O-O Qc7": "White castles their King, but Black's position enables them to quickly mount an attack on the Queenside. a3 is better and defends against Nb4. Black brings the Queen in to play, this is a bit passive and is waiting for Rc8, Qa5 would have been more to the point.",
+        "10. Ngf3 Bd6": "White develops to the Kingside \u2013 but the threat is on the Queenside, Ne3 (with the aim of Nc3) is better. Bd6 does create a strong threat on the Kingside, but again this was too passive, Nb4 would have been better.",
+        "11. g3 O-O": "g3 blocks my Bishop, but the real threat is all Queenside. Black loses momentum with castling, there is a tenet of ensuring the King is safe before attacking \u2013 but there was no current threat to the black King! Again Nb4 would have been the best option.",
+        "12. h4 Nb4": "h4 is a blunder from White. h4 provides no benefit to White's position and the Queenside threat needs to be addressed.. Black finally starts the attack with Nb4 which threatens the Queen and Qxc2#.",
+        "13. Qc3 Nxa2+": "Another blunder, and the Queen is lost with a fork from Black's Knight.",
+        "14. Kb1 Nxc3+ 15. Bxc3 Qxc3": "The combination has won Black the Queen and a pawn to further weaken White's position. Black Queen's is in a perfect position to continue the attack.\n",
+        "16. Ne1 Ba3": "Ne1 is probably the best move for White, their Knight becomes active and defends against the threat of Rac8 followed by Qxc2#. Ba3 prevents the King from escaping and threatens Qb2# after removing the Knight on d3.",
+        "17. Nd3 Rac8": "White sees the threat and defends with their Knight. Black has plenty of options, if Qb2# is prevented then Rac8 followed by Qxc2# is a solid plan to fall back on.",
+        "18. Nc4 dxc4": "A final blunder from White, Rdc1 would have defend against this threat but at the cost of their Rook ( Rdc1 Bxc1 19. Rxc1).\n\nWhite resigns."
+    },
+    "url": "https://gameknot.com/annotation.pl/queenside-attack-via-the-carokann?gm=49277",
+    "gameName": "Queenside Attack via the Carokann",
+    "players": "vikert (1309) vs. wellhairedbeast (1367)",
+    "opening": "Caro-Kann defence (B10)"
+}

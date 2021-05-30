@@ -1,0 +1,29 @@
+{
+    "moves": {
+        "1. e4": "Popular first move.",
+        "1... e5": "A normal reply.",
+        "2. Nf3": "Threatens the pawn.",
+        "2... Nc6": "Protects with the knight.",
+        "3. Bc4": "Opens up bishop early.",
+        "3... Nf6": "Threatens the e-pawn. Now, for the gambit.",
+        "4. Ng5": "Someone threatens Nf7, winning queen or rook.",
+        "4... d5": "The only way to stop it.",
+        "5. exd5": "Takes the pawn.",
+        "5... Nxd5": "Takes back.",
+        "6. Nxf7": "Someone takes the pawn. One would think: What? But someone is smart.",
+        "6... Kxf7": "Takes the knight.",
+        "7. Qf3+": "Checks the king with the queen, now the knight is vulnerable.",
+        "7... Ke6": "Protects the knight. A risky move. Someone else is not in a good position.",
+        "8. Nc3": "Threatens the knight, as it is pinned to the king by the bishop.",
+        "8... Kd6": "?? Gets out of the pin, but this is a really bad move. Checkmate in 3.",
+        "9. Qxd5+": "I am plus one and am about to get checkmate.",
+        "9... Ke7": "King moves to the only possible square.",
+        "10. Qf7+": "I check the king again, being protected by my bishop. Now, mate in one.",
+        "10... Kd6": "Moves to the only possible square and\u2026",
+        "11. Ne4#": "Checkmate! The knight checkmates the king, also blocking his escape square: c5. The queen does the rest. That is a perfect example of why NOT to protect the knight with your king when the Fried liver gambit is being played against you."
+    },
+    "url": "https://gameknot.com/annotation.pl/fried-liver-gambit-so-vs-soe-i?gm=44147",
+    "gameName": "Fried Liver Gambit - SO vs. SOE I",
+    "players": "Someone (1200) vs. Someone else (1200)",
+    "opening": "two knights defence (C57), Fegatello attack, Leonhardt variation"
+}

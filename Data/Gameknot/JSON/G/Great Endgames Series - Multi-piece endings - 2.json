@@ -1,0 +1,28 @@
+{
+    "moves": {
+        "1. d4": "Main annotations taken from Steve Giddins excellent 'Greatest Ever Chess Endgames'",
+        "1... d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Bf5 7. Qf3 Bg6 8. Bxf6 Qxf6 9. Qxf6 gxf6 10. Nf3 Nd7 11. Nh4 Bb4 12. Rc1 Nb6 13. a3 Bxc3+ 14. Rxc3 Nc8 15. f3 Nd6 16. g3 a5 17. b3 a4 18. b4 Bb1 19. Kf2 Ba2 20. Rc1 Bc4": "This is quite a complex endgame; indeed, it could almost be called a queenless middlegame, given the number of pieces on the board. The principal feature which grabs one's eye is the weakened black kingside pawns. Black has well-placed pieces, and the possibility of tying White down somewhat to the defence of the a3-pawn. The pawn on e3 could also come under attack. Overall, White is somewhat better, because the black kingside pawns are the most serious weakness on the board, but it requires great technique to show this. Carlsen, despite being aged just 14 when this game was played, handles the position as well as\nany of the great endgame masters could have done, even in their prime.",
+        "21. Bh3": "White wants to avoid exchanging the enemy bishop, which, although apparently actively placed, is potentially bad, because the black queenside pawns are all on light squares.",
+        "21... Nb5 22. Rca1 O-O": "In view of Black's 24th, 2 5th and 26th moves, castling turns out to be a loss of tempi, but with the white knight pointing at fs, Black cannot put his king on e7 at once.",
+        "23. Ng2": "An excellent choice. Most players would have automatically plonked the knight on the glorious-looking outpost on fs, but although the steed is optically impressive on that square, it does not actually attack Black's weaknesses. I remember John Nunn once telling me that blockading isolated pawns was rather overrated, and that winning them was better! Magnus clearly agrees; his knight is on its way to hS, from where it will attack the f6-pawn, which is not easily defended.",
+        "23... Rfd8 24. Nf4 Kf8": "The king heads back to e7, to defend the f6-pawn.",
+        "25. Bf5 h6 26. Nh5 Ke7 27. g4": "Now the black kingside weaknesses are fixed. Note, too, that by forcing the black king to occupy e7, White has shielded his e3-pawn from pressure down the e-file.",
+        "27... b6": "Black prepares the break ... c6-c5, in an attempt to loosen White's grip.",
+        "28. Rhe1 Ra7 29. Ng3": "The knight has done its job on hs. Now that the black pawn has advanced to h6, it is a bigger target than the f6- pawn, so Carlsen prepares to redeploy his knight to fs.",
+        "29... Kf8": "Anticipating a later lZ:lfs+.",
+        "30. Bc2": "In freeing the fS-square for the knight, the bishop also takes aim at the a4-pawn, tying Black's rook to its defence.",
+        "30... c5": "Black makes his break, which opens some lines and gains his pieces a little more freedom. However, White's pieces can also exploit the newly opened lines, and Black now has further weaknesses at d5 and a4 (the latter becoming more vulnerable after the opening of the bfile).",
+        "31. bxc5 bxc5 32. dxc5 Rc8 33. Nf5": "The knight lands on fS with much greater effect than would have been the case earlier. The h6-pawn is already doomed, but as it turns out, White already has bigger fish to fry.",
+        "33... Rxc5 34. Reb1": "See note to Black's 30th. The white rook makes use of the freshly opened bfile, and will attack the a4-pawn from b4.",
+        "34... Rc8 35. Rb4 d4 36. exd4 Be6 37. Bxa4 Nc3 38. Bc2": "White has netted two extra pawns, and is objectively winning. As frequently happens in such cases,  shedding material enables the defender to obtain some temporary activity, but Carlsen's tactical control is admirable. Once more, we see that \"endgames always become concrete\".",
+        "38... h5 39. h3 hxg4 40. hxg4 Na2 41. Rb2 Rxa3": "Black has regained one of his  pawns, but now Carlsen switches his rook to the other flank, to exploit another freshly opened file.",
+        "42. Rh1": "Threatening no more and no less than mate in one, and so forcing the following exchange. It is rather nice\nhow each time Black opens a file in this game, Carlsen immediately exploits it for his own rook!",
+        "42... Bxf5 43. Bxf5 Rca8 44. Rb7": "Usually, when material ahead, the best advice is to trade pieces, but here that would be inappropriate. One thing that could potentially cause White technical problems in realizing his rnaterial advantage is the \"narrowness\" of the position, i.e. the fact that the pawns are all concentrated within three files. Such a factor favours the knight (see Torre-Jakobsen), and so White should be a little careful about relying on routine simplification and the promotion of the d-pawn, with a line such as 44. Rh8+ Ke7 45. Rxa8 Rxa8. Instead, Carlsen uses the greater activity of his pieces to attack, and win more material. He threatens to double rooks on the seventh,and the f7-pawn is doomed.",
+        "44... Nc3 45. Rh8+ Kg7 46. Rh7+ Kg8 47. Rhxf7": "The rest is easy.",
+        "47... Ra3a2+ 48. Ke3 Re8+ 49. Kd3 Nd1 50. Rfg7+ Kh8 51. Rgh7+ Kg8 52. Rhg7+ Kh8 53. Rgh7+ Kg8 54. d5 Re3+ 55. Kd4": "A wonderfully mature performance by Carlsen."
+    },
+    "url": "https://gameknot.com/annotation.pl/great-endgames-series-multi-piece-endings?gm=52318",
+    "gameName": "Great Endgames Series - Multi-piece endings",
+    "players": "Magnus Carlsen (2570) vs. Zurab Azmaiparashvili (2658)",
+    "opening": "QGD (D35), exchange, positional line, 5...c6"
+}

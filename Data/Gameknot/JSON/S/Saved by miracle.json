@@ -1,0 +1,27 @@
+{
+    "moves": {
+        "1. d4 d5 2. Bf4 Nf6 3. Nf3 g6 4. Nbd2 Bg7 5. c3": "For who is not used with my games, the London system is my favourite. I must admit that the black's fianchetto is always harder to manage than the normal line.",
+        "5... O-O 6. h3": "I have to be prepared to contest Bf5 whithout committing any other piece. In the London I don't care about castling... short. ",
+        "6... Nbd7": "Passive play, good.",
+        "7. Qc2": "Now I can pretend e4.",
+        "7... a5": "Almost useless move, premature attack. ",
+        "8. e4 dxe4 9. Nxe4 b6": "Opening the better line for the lsb. Now I have to be careful. I can play Bg2 myself and Rg1, but I wanted \"more\" from the position and I bet I could handle the pressure. I was wrong. ",
+        "10. g4 Bb7 11. Bd3 Nd5 12. Bg3 Nd7f6 13. Nfd2": "...f3 in emergency. NxN+ is another way out. No problem. ",
+        "13... e6 14. O-O-O Rc8": "This I missed: f5. ",
+        "15. Nb3": "?? Horrible mistake that costs me the game. ",
+        "15... a4 16. Nbd2": "Two lost tempoes are like surrender. ",
+        "16... Qd7 17. a3 c5 18. c4": "?? Another horrible mistake. ",
+        "18... cxd4 19. Ng5": "In desperation. ",
+        "19... Ne3": "My opponent should have prepared this with Rd8 first.",
+        "20. fxe3 dxe3 21. Nde4": "...and now black is a little worried! I'm not worried for my R, as long as the BQ is on the R's column. ",
+        "21... b5": "Critic moment: I can't afford the opening of the column, I only have two tempoes before he opens it. My R wll become vulnerable... a disaster. But from here, I had the tactic strike NxNf6+, BxN, Bxg6 (discovering the threat on the WQ) and if the Q is saved, black is under mate attack, ",
+        "22. Nc3": "...I missed it. ",
+        "22... bxc4": "...but not now! It also works, I think: ",
+        "23. Bxg6 Qe7 24. Bxh7+ Kh8 25. Be5": "I can't see what can black do to prevent BxN, followed by Bg8 and mate! Can you?",
+        "25... Bxh1 26. Bxf6 Bxf6 27. Bg8 Be4 28. Qxe4": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/saved-by-miracle?gm=62759",
+    "gameName": "Saved by miracle",
+    "players": "damafi (1454) vs. the_blitz6794 (1396)",
+    "opening": "Queen's pawn, Mason variation (D00)"
+}

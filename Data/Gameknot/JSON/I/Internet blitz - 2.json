@@ -1,0 +1,32 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 d6": "Philidor's Defense. \nThis move isn't exactly bad, but I don't recommend it unless you know exactly what you're doing. Black would be better off defending the pawn while developing a piece (\u2026Nc6, \u2026Nf6).",
+        "3. h3": "? Way too slow. White also should be developing his pieces.",
+        "3... c5": "!? Interesting. This grabs a big share of the center, but again I think Black would be better off developing pieces.",
+        "4. c3": "! A good plan: preparing to blow the center open.",
+        "4... Bd7": "?! Black now develops a piece, but not the right one or to the right square. \u2026Nf6 would be more to the point: it gets Black one step closer to castling and attacks the e-pawn. Also, the LSB (Light-Squared Bishop) is better placed on e6, not d7. Development is good, but should be planned out and not done randomly.",
+        "5. d4": "! Again, White has exactly the right idea: to open the center and then punish Black's slow development. White's pieces will be able to develop rapidly once the Black pawns are weakened.",
+        "5... Nc6": "Good, now Black is catching up. \u2026Nf6 is still better for the reasons stated in Black's last move.",
+        "6. Ng5": "? Too much! White cannot attack with just one Knight. Bc4 was just crying out to be played.",
+        "6... Nf6": "? This developing move is too late. \u2026Be7 is better, attacking the Knight and leaving the defensive move \u2026Nh6 open.",
+        "7. Nxf7": "?? This is the logical follow-up to White's play, but it just loses a piece. Again, you can't attack with just one piece! Bc4 was again obvious, natural and good. Black would have no good way to defend the f-pawn.\n",
+        "7... Kxf7 8. Bc4+": "Now this move comes\u2026 two moves too late.",
+        "8... Ke8 9. Qb3": "Where is White's attack? Black has the extra material AND the lead in development.",
+        "9... exd4": "! Good, clearing some tension in the center to reduce complications.",
+        "10. Bf7+": "?! Pointless checks are pointless.",
+        "10... Ke7 11. Bg5": "Finally getting some more pieces involved.",
+        "11... h6 12. Bxf6+ gxf6 13. Bg8": "With a cheapo threat.",
+        "13... Ne5": "!? A very tricky way to defend, giving back a single pawn to exchange off White's last aggressive piece. Good eye!",
+        "14. cxd4 c4": "! Forcing exchanges.",
+        "15. Bxc4 Nxc4 16. Qxc4 Rc8 17. Qe2": "Now it is Black who attacks. I like how you didn't get stuck in defensive mode and seized your chance to end it quickly.",
+        "17... Rc1+": "! Things don't look good for White\u2026",
+        "18. Kd2 Rxh1 19. e5": "! White seizes on every chance for counterplay, but it's not enough.",
+        "19... Qa5+": "! Rather than defending, Black wraps things up with a nice attack before anything strange can happen on the e-file.",
+        "20. Kd3": "The worst of a set of bad options.",
+        "20... Bb5+": "! No way Black was letting that one go. Excellent counterattacking."
+    },
+    "url": "https://gameknot.com/annotation.pl/internet-blitz?gm=36622",
+    "gameName": "Internet blitz",
+    "players": "carlos123  vs. WestcoastLove ",
+    "opening": "Philidor's defence (C41)"
+}

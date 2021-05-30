@@ -1,0 +1,19 @@
+{
+    "moves": {
+        "1. e4": "This is an aggressive variation of the Fisher/Reti opening for black, that results in an upset win over a stronger player.  I got lucky, but it is interesting to see that this typically closed, slow, ponderous opening can be played very aggressively, provided white gives you an opening.  He opens with the common e4, to which I often respond with what is perceived be a weak reply, d6.",
+        "1... d6 2. d4": "d4 is also common at this point.  Nf6 is a common reply for this opening, setting up pressure on the e4 pawn.",
+        "2... Nf6": "At this point, e5 is common setting up a series of early maneuvers that can weaken the castle.  But, in this case, white responds with Nc3, a defensive move.",
+        "3. Nc3 Bg4": "That allows me to counterattack early.  A common response might be f3, but ...",
+        "4. Be2": "He offers the bishop trade, and I accept.",
+        "4... Bxe2 5. Qxe2 d5": "Another critical series of moves that define the game.  Any variation would have led to a different result, but I get lucky, and white takes the d5 pawn.",
+        "6. exd5 Nxd5 7. Nxd5 Qxd5": "The best play is Nf3 (protecting against Qxg3 and protecting d4), but he just flat misses it.",
+        "8. c3 Qxg2 9. Qb5+": "A weak counter-attack.  I'm not sure why I didn't play c6 here.  Certainly, the queen was protecting b7, but c6 seems stronger.  In any event ...",
+        "9... Nd7 10. Be3 Qxh1": "At this point, I was half-expecting this exchange ...\n11. f3 b6\n12. Qd5 Rc8\n... but he long castles.",
+        "11. O-O-O a6 12. Qh5 Qc6": "And my queen escapes unscathed.  White resigns early.",
+        "13. Nf3 Nf6": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/fisher-reti-for-black-more-aggressive-variant-black-sets-trap-white-misses-it?gm=3964",
+    "gameName": "Fisher/Reti for black, more aggressive variant, black sets trap, white misses it",
+    "players": "silhouet2003 (1527) vs. rpilaud (1432)",
+    "opening": "Pirc defence (B07)"
+}

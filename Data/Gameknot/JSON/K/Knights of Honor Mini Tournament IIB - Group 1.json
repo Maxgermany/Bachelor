@@ -1,0 +1,21 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4": "Changing from my preferred line with d3.",
+        "2... d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3": "It seems a dull move, but I thought the g1 knight could develop anyway.",
+        "7... cxd4 8. cxd4 Qb6 9. Ne2 Be7 10. h4": "In this game, losing a \"good castling\" on the kingside is normal. ",
+        "10... f6 11. g4 fxe5 12. fxe5 O-O": "Black's checks on the black diagonal doesn't lead to a real advantage for him... maybe. ",
+        "13. Bg2 Qd8 14. a3": "He's cramped, so I can consolidate my position. ",
+        "14... Nb6 15. b3 Bd7 16. g5 Be8 17. Nf4 Qd7": "Being black, I would have considered RxN, followed by Bh5.",
+        "18. Bh3 Nd8 19. Rg1 a5 20. g6 Rxf4 21. gxh7+ Kh8 22. Bxf4 Bh5 23. Bg4 Bg6 24. Ng5 Bxg5 25. hxg5": "Blocks my own BSB, but opens the h column. ",
+        "25... Kxh7": "Mistake! He should use my own pawn to protect his king. ",
+        "26. Rh1+ Kg8 27. Bh5 Bf5 28. g6 Nc6 29. Ra2 a4 30. Rah2 Ne7 31. Rg1 axb3 32. Bg5 Bc2 33. Rxc2": "Returning the quality, and exposign myself to an attack on the c column and the black diagonal. If he uses it, I'm lost. ",
+        "33... bxc2 34. Qxc2 Nf5": "But he doesn't go for it.",
+        "35. Bd1 Rxa3 36. Qh2 Nh6 37. Bxh6 gxh6 38. g7 Qb5": "Now is too late. ",
+        "39. Qf4 Nd7": "His only chance is to harass my king with checks. ",
+        "40. Qf7+": "Sure he didn't expect this one..."
+    },
+    "url": "https://gameknot.com/annotation.pl/knights-of-honor-mini-tournament-iib-group-1?gm=23586",
+    "gameName": "Knights of Honor Mini Tournament IIB - Group 1",
+    "players": "chrisg (1718) vs. abimelech (1687)",
+    "opening": "French (C05), Tarrasch, Botvinnik variation"
+}

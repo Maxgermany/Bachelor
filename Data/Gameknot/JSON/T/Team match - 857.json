@@ -1,0 +1,16 @@
+{
+    "moves": {
+        "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. Rb1 Bd7 9. b4": "Je pense que les blancs se trompe d'aile pour attaquer.",
+        "9... cxb3 e.p.": "Une ouverture sur l'aile dame avec l'ouverture de la colonne c !\r\n",
+        "10. Nxb3 Ba4 11. Nfd2 Rc8": "pression sur la colonne c",
+        "12. Qc2 Ne7 13. Be2 Nec6 14. Qd3 Nxb3 15. Bd1": "?? 15. Cxb3",
+        "15... Nxc1": "La partie est gagn\u00e9e pour les noirs",
+        "16. Rxc1 Bxd1 17. Rxd1 Bxa3 18. O-O Na5 19. Rdb1 Qc7 20. Qg3": "C'est trop tard pour attaquer sur l'aile roi. L'avantage mat\u00e9riel noir est trop important.",
+        "20... O-O 21. f4 Qxc3 22. Nf3 b6 23. Qh4 Nc4 24. Ng5 h6 25. Rf3": "La position blanche n'est plus tenable et les erreurs se succ\u00e8dent.",
+        "25... Qxd4+ 26. Kh1 Nd2": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=5736",
+    "gameName": "Team match",
+    "players": "cheg1 (1607) vs. jeanlucbe (1598)",
+    "opening": "French (C02), advance, Milner-Barry gambit"
+}

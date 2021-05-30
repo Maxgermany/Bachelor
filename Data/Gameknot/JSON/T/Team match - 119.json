@@ -1,0 +1,25 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nc3": "Vienna game.",
+        "2... Nh6": "An unusual move.",
+        "3. Qh5 d6": "Black defends against the threat of QxPe5+.",
+        "4. Bc4": "Classic set up for the four move check mate, which black already foiled at the outset with Nh6.  White might better conceal ulterior motive with Pd3 first, and trading Bc1 for Nh6, which would also serve to double black's pawns.  Of course, black, perhaps wary of an early mate, would likely counter with some other appropriate action.",
+        "4... g6": "To continue pressing for an early game white should respond Qf3 (which is probably a stronger opening anyway--fewer wasted moves).",
+        "5. Qf3": "B-)",
+        "5... c6": "Here I kind of like Pd4.  Throw it out there as bait.\n6. Pd4 exd4\n7. BxNh6 BxBh6 (which would be bad for black because...)\n8. QxPf7#",
+        "6. d3": "B-)",
+        "6... Bg4 7. Bxf7+": "This actually puts white up a pawn, provided black plays NxBf7 instead of Ke7.  Ke7 wouldn't be that great.  But Ke7, white must move the queen off the f column, withdrawing protection from the white bishop which black follows with KxBf7.  Then white must hold funeral services for the slain priest.",
+        "7... Nxf7 8. Qxg4 Qd7": "Up one all trades benefit white, though it is still pretty early in the game to start counting pawns.",
+        "9. Qg3": "I probably would have traded just to intimidate black.",
+        "9... Be7 10. Bd2 Na6": "Again with the knight against the wall move.  Very strange.",
+        "11. f4 Bf6 12. O-O-O b5 13. Nf3 b4 14. Ne2 Qe6": "Black issues a threat against lonely, defenseless Pa2.",
+        "15. b3": "White parries.",
+        "15... c5": "I kind of like Ng5 here.",
+        "16. Nh4": "Ng5 is much more menacing.  But white may be thinking of providing support for Pf5.",
+        "16... Qe7 17. Nf3 Nc7": ""
+    },
+    "url": "https://gameknot.com/annotation.pl/team-match?gm=57954",
+    "gameName": "Team match",
+    "players": "bevcol (1357) vs. taffyboyo (1407)",
+    "opening": "Vienna game (C25)"
+}

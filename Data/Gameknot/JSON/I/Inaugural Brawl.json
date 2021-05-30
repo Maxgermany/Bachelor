@@ -1,0 +1,33 @@
+{
+    "moves": {
+        "1. e4 e5 2. Nf3 Nc6 3. Bb5": "Nothing dispels opening-day jitters like starting off with the standard and familiar Ruy Lopez.",
+        "3... Nge7": "But I wasn't expecting this.  Turns out that this is part of the Cozio Defense.  In this line the Black king bishop is supposed to make its way to g7.  I was at first figuring on things like a6, Bc5, or Nf6 instead, with usual development, so this is an early deviation from my game plan.  Nge7 would prevent doubled pawns in case of Bxc6, but it also temporarily leaves that KB on ice (therefore postponing castling) and puts the e7-knight on a less central square.  I don't know, dude might be planning f5 at some point.",
+        "4. O-O d6": "An aggressive move like d4 might work but I'll be cautious and develop a little more first.",
+        "5. Nc3 a6": "What to do with the bishop now?  I don't want to trade on c6 because that would let him bring the other knight up from e7 as well as free up the king bishop.  Retreating to e2 seems too passive.  Putting it on c4 will occupy a decent diagonal and focus on f7.  If then Na5 or b5 to attack it then I probably would be forced to send it back to e2 after all to avoid trading bishop for knight.",
+        "6. Bc4 h6": "I was bracing for b5 first.  Then it would have been either put the bishop on b3 and risk trading it off its good diagonal after Na5, or scurry back to e2.  Now I have time to prevent b5.  The bishop's current diagonal looks pretty good since the f7 square is lightly defended and he's still a few moves away from castling.  However, h6 stops my knight from joining the fray.  And if he had played b5 first a Bxf7 sacrifice wouldn't have lead anywhere. [6. ...b5  7. Bb3 Na5  8. d3 Nxb3  9. axb3 Bb7]",
+        "7. a4 Na5": "He might now follow with c5, before returning the knight to c6.  c5 would prevent a possible b4 from me but might weaken the d5 square as well as make a backward d6 pawn.  And after I move the bishop he won't play c6 followed by d5 to contest the center because I could trap the knight with b4.",
+        "8. Ba2 Bg4 9. Nxe5": "This wins me an entire pawn (oh boy!).  At first I looked at some kind of sacrifice starting with 9. Bxf7+ Kxf7  10. Nxe5+ dxe5  11. Qxg4, but I would lose a piece for two pawns and couldn't further exploit his exposed King.  Then I saw that I could reverse moves and play Nxe5 first, threatening Bxf7++.  If 9. ...Be6 then 10. Bxe6 dxe5 (10. ...fxe6  11. Qh5+ wins another pawn).  His reply is probably the best way to continue.",
+        "9... dxe5 10. Qxg4 Ng6 11. Qf5": "I was thinking about another pawn-winning line: 11. Bxf7+ Kxf7  12. Qf5+ Qf6  13. Qd7+ and then 14. Qd5+ to nab the knight on a5.  But after 13. Qd7+ then Ne7 blocks my queen from forking on d5.  So instead I figured I'd play a \"safer\" threatening move by ganging up on f7.",
+        "11... Qf6": "In guarding f7 there is a choice of three moves: Qd7, Qe7, or Qf6.  11. ...Qd7 12. Qxd7+ Kxd7  13. Bxf7 wins a pawn and the knight's gotta move.  I don't know what I would have done after 11. ...Qe7, maybe play d3 to keep developing and then try Nd5 a move or two later.  The downside to 11. ...Qe7 is that it would have blocked in the king bishop again, forced the queen to act as a defender, and kept the king stuck in the middle.  [11. ...Qe7  12. f4 Nxf4  13. d4 Ne6  14. Qxe5 Nc6]",
+        "12. Qxf6 gxf6": "An immediate Nd5 was probably better than Qxf6, as now I've removed an attacking piece for a defending one. Still, I get to grab another pawn.",
+        "13. Nd5 Bd6": "[13. ...O-O-O  14. Nxf6 Rd6.  It also said I could have played 13. d3 before taking the f6-pawn]",
+        "14. Nxf6+ Kf8": "Forced to castle manually, the king aims for g7.  If 14....Kd8 then I win another pawn with 15. Bxf7 Rf8  16. Bxg6 Rxf6.",
+        "15. d3 Nc6 16. Bd5": "I thought about something like Ng4 first but then decided on this move, hoping to give up my decent bishop in order to wreck the Queenside pawns and create more weaknesses. [16. c3]",
+        "16... Nd8": "[16. ...Nge7]",
+        "17. Ng4": "Starting to get the knight to f5.  Then finally to activate the rest of the minions.",
+        "17... Kg7 18. Ne3 Bc5": "Another pawn falls.  Ne7 would have caused more resistance.",
+        "19. Nf5+ Kf6 20. Bxh6 Rh7": "Stopping the obvious bishop fork on g7.  There is also a chance for Black counterplay after an eventual Rah8.  But his king is in a bit of peril with three of my pieces in its face.",
+        "21. Be3": "Attacking an undefended piece.  If 21. ...Bxe3 then 22. fxe3 opens the f-file for the rook and have a discovery on the king (I can also then possibly play a future d4 to undouble my e-pawns and open the center).  If he withdraws the Bishop to d6 or e7 I could then trade and have two bishops vs. two knights.",
+        "21... Bf8": "[21. ...c6  22. Bxf7 Bxe3  23. Bxg6 Bxf2+  24. Rxf2 Kxg6, too complicated for me!]  Now it's time to open up the position and see if I can get the rooks involved.",
+        "22. d4 Bd6 23. dxe5+ Nxe5": "Bxe5 might have been more squirrelly.",
+        "24. f4 Ng4": "I thought maybe Nec6.",
+        "25. Bd4+ Kg6 26. Rf3": "Finally a big piece gets to join the fracas.  The vultures are circling.",
+        "26... Rxh2": "This pawn-grabbing move overextends his rook.  Maybe Ne6 in order to regroup.",
+        "27. Rg3 Kh5 28. e5": "28. Ng7+ Kh4  29. Rxg4 Kxg4  30. Kxh2 Bxf4+ is also okay.  At first I didn't want to block out the QB with e5, thinking that I could use it to cut off his king's retreat squares.  But moving the pawn up allows a decisive pin on g4.",
+        "28... Bf8 29. Bf3": "Andy throws in the towel in light of 28. ...Kg6  29. Rxg4+ Kxf5  30. Kxh2.  He was never able to get on track after 3. ...Nge7, and my minor pieces buzzing around his undefended king made things too hectic for him.  Being the competitive sort, he returned soon after seeking revenge.  Check out how our rematch fared."
+    },
+    "url": "https://gameknot.com/annotation.pl/inaugural-brawl?gm=42432",
+    "gameName": "Inaugural Brawl",
+    "players": "led_chessmen (1200) vs. abreyer (1625)",
+    "opening": "Ruy Lopez (C60), Cozio defence"
+}
