@@ -1,5 +1,20 @@
 from os import walk
+import os
 import json
+
+def sortFilesInFolder():
+    _, _, filenames = next(walk("../Gameknot/JSON/"))
+
+    for filename in filenames:
+        if filename[0] == " ":
+            os.rename("../Gameknot/JSON/" + filename, "../Gameknot/JSON/space/" + filename)
+        else:
+            if os.path.exists("../Gameknot/JSON/" + filename[0] + "/"):
+                os.rename("../Gameknot/JSON/" + filename, "../Gameknot/JSON/" + filename[0] + "/" + filename)
+            else:
+                os.mkdir("../Gameknot/JSON/" + filename[0] + "/")
+                os.rename("../Gameknot/JSON/" + filename, "../Gameknot/JSON/" + filename[0] + "/" + filename)
+
 
 def createCorpus():
     _, _, filenames = next(walk("../GameknotJSON"))
