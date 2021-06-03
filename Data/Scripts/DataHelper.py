@@ -19,6 +19,9 @@ def sortFilesInFolder():
 
 
 def createCorpus():
+
+    amountComments = 0
+
     folders = os.listdir("../Gameknot/JSON/")
 
     file = open("../Gameknot/corpus.txt", "w+", encoding="utf-8")
@@ -29,11 +32,14 @@ def createCorpus():
             jsonFile = open("../Gameknot/JSON/" + folder + "/" + filename, "r", encoding="utf-8")
             content = json.load(jsonFile)
             for move in content["moves"]:
+                amountComments += 1
                 file.write((content["moves"][move] + " ").replace("\n", " "))
             file.write("\n")
             jsonFile.close()
 
     file.close()
+
+    print("Found " + str(amountComments) + " move-commment-pairs")
 
 def preprocessCorpus():
 
@@ -74,7 +80,4 @@ def filterOtherLanguages(content):
     file.close()
 
     return contentTemp
-
-
-
 
