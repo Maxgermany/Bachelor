@@ -1,0 +1,62 @@
+ 17. qe6  kf8 
+ si 18.. t e8 19. dh7 ,rf8 20.ah6,axh6 21. dxh6,rg8 22. dh8     mate !! 
+ 33. qxf7 qe1+ 
+ 15.qe3 nd5,  
+          e. 28...qe6 29. bxa5; if 29...rc8 30. rd6 qe7 31. rd7 qe6 32. r1d6. 
+ 25. qxc7  ke8 
+ 26. qxc8  ke7 
+ 27. qe6  kd8 
+ in this game, didn't it just!!! - js
+ 18. qe2 rxf1  
+ 25. rh6+ qxh6 
+ 25. rh6+ qxh6 
+ 18. e5 h4 
+ 18. e5 h4 
+ 51. ra6 rxh6 
+ if 9. ... ke7 then 10. qe6  kd8, 11. qe8  
+ if 9. ... kd7 then 10. qd5  nd7, 11. qxa8  ke7, 12. qe8  kd6, 13. qe6  kc5, 14. qd5  kb4, 15. a3  ka4, 16 nc3  . not 12. ... kf6 for then 13. qe6  . if 10. ...bd6, 11 qxa8 qc1 ?, 12. ke2 qxa1??, 13. qxb8  ke7, 14. qe8  kf6, 15. qe6  kg5, 16. qf5  k moves 17. qh5  .
+ if 22...ke8, then 23. nc6  ...qe7 24. rxe7  
+ 14. nxh4 nxd5 
+ 34. qb7 mate.  
+  i like this move  
+ 16...be3+ 17.ke1 bd4+ 18.ne5 qxe5+ 19.kd2 qe3# 
+ 37...kf7 also loses after qh7  kf8 qh8  qg8 (if kf7 then nd6  ke7 qe8#) qf6  qf7 qd6  ke8 qb8  kd7 qb7  ke8 nd6 
+ 26. qf7+ ke5 
+ 26. qxf5+ ke3 
+ 30. qxg4+ ke3 
+ 32. ... qe7
+ 33. rxqe7 kxre7
+ [a] 43...kg7  44.rb7 qa5  45.nd4 re8  46.qg4+ 
+ 17. qg6  ke7 
+ 19. e6  kd6 
+ rg8# qg6# rg6# qh6# or qh4#  
+ [site "http://gameknot.com/"]
+ 13.0-0 	e5 
+ 38.qb7 	r4e7 
+  9.e3? 	...
+ 34.e4 	...
+ 43.rf2 	qe7 
+ 60.qe3 !  ...
+ 61.rf1! 	qe5 
+ 2.e3!?  	...
+  6.e4!  	...
+ 10.ke1 	nxh1 
+ 31. ... re2 31. ... qxb3! +- 33. ... qe7!
+ 45. ...e3 46. g5 e2 47. kd2 nc3
+ 35.	h8-e8+	
+ best: +3.56 » 18. nd5 kf8 19. rxg7 e5 20. qe3 qc5 21. qh6 bxd5 22. exd5 ke8 23. bf5 rb8 24. bxh7 nxh7 25. qxh7
+  fritz' 44... f3+ delivers a nasty promotion: 45. kh3 fxe2 46. kg4 e1=q 47. nc5 qe2+ 48. kg5 qe7+ 49. kg6 qe8+ 50. kg5 bf4+ 51. kf6 be5+ 52. kf5 qf7+ 53. kg5 rg3+ 54. kxh4 qh7#
+ 15. ... qxf7 16. bg6 qe7 17. qh8  
+ 33. qe4  kd6 
+ 34. qe5  kd7 
+ 35. qe7  qxe7 
+ 12.qf3 qe7 13.bxd5 exd5 14.bd2 0-0-0 15.qxf7 qb4 16.qf2 qxb2 17.rab1 qxc2 18.nxd5 qe4 19.nf4 bd6 20.rbe1 qf5 21.qg2 rh4 22.ne2 qd3 23.bf4 bxf4 24.rxf4 rxf4 25.nxf4 qxd4+ 26.qf2 ne5 27.qxd4 rxd4 28.ne6 nf3+ 29.kf2 nxe1 30.nxd4 nd3+ 31.ke3 nc5 32.nf3 kd8 33.kd4 ne6+ 34.ke5 ke7 35.h4 nd8 36.nd2 nf7+ 37.kf4 ke6 38.ne4 b6 39.ng3 nd6 40.ne2 nf5 41.kg4 ke5 42.nf4 nxh4 43.nd3+ ke4 44.nb4 c5 45.nc6 nf5 46.nxa7 c4 47.nb5 kd3, 0-1, m hartwig - c michna, germany 1996.  
+ 25. rad1 qe7 
+ 30.1 nd5, qh2+
+ 25. qh8  ke7
+ 10. g3 qe7
+ not 18...kb8? 19.qd6!
+ alternative variation: 11... ke8 12. qh5  ke7 13. nd5  cxd5 14. qe5# 
+ alternative variation: 12... ke8 13. nxg7  ke7 14. qe2  kd6 15. qe5# 
+ joshua. p 
+ 28. qf4  ke8 

@@ -1,0 +1,20 @@
+ best: +0.16 » 14. kh1 c6 15. b4 bc7 16. f4 a5 17. bb2 axb4 18. be5 qe7 19. bb3 rfe8 20. re1 bb6
+ 19. bb5 bxc3 
+          kb7
+ 19. bb5 bxc3 
+ 28. kb2 rc4 
+ 34. a4 rb7 
+ 38. a6 rb8 
+ 56. kb3 rb7  
+ a) 40. rh8  ke7
+ 66. kb4 kb7 
+ 68. a6 kb8 
+ 16.be3 	a5!
+ 45.kf2 a3! 
+ 19.a6? 	...
+ 12.bb5  	kd8 
+ 40.ke3 	a6 
+ 14.	b3	bb5
+ 6. bb5  bd7 
+  mistake: +7.27 » … kc7 44. rf7+ kb8 45. rb6 ka8 46. rbxb7 rf1 47. ra7+ kb8 48. rfb7+ kc8 49. rh7 kb8 50. rab7+ ka8 51. rbc7 kb8 52. rxc5 rf2 53. rxg5
+ eg ... kb6

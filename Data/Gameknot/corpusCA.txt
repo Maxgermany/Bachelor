@@ -1,0 +1,119 @@
+ b) 19.dxe6 e.p. rxe6 (or bxe6, prevents bf5 later)
+ c) 21.a3 bd7 22.qg5 qd8 ?
+ b) 28.rxg4 rxr 29.qxr qxb and still -5.... - 
+ a2) 35.rxg4 
+ a21) 35...rxg4
+ best: -8.67 » 34. rc7 nd7 35. ne5 nxe5 36. dxe5 nc5 37. rxc5 kh8 38. rc7 qg8 39. rd6 rh4 40. f4 qe8 41. rxb6 rxb6 42. qxb6 gxf4
+ best: -7.77 » 35. kg1 nxe5 36. dxe5 re8 37. rc7 nc5 38. nxc5 qxb3 39. nxb3 kf8 40. rd6 rxe5 41. rxb6 rh4 42. nd4 re7 43. rc8+ re8 44. rxe8+ kxe8 45. nxf5
+  what else? desperate times call for desperate measures!
+ 37. qxc6 qb1 
+ or  38. ...re6 39. qd3+ kc7 40. qc3+ kb6 41. qxc8 bxc8 42. rxf8 re2 43. bd4+
+ 3. bc4 fxe4 
+ 5. d4 qxg2 
+ 14. nc3 qxa1 
+alternative variation: 7. nf3 cxd4 (7... qxc3+ 8. bd2 qb2 9. rb1 qxa3 10. ra1 qb2 11. rb1 qa3 12. ra1 qb2 13. rb1 [1/2-1/2 malaniuk,v (2575) -oll,l (2430)/tallinn 1987/ext 1997]) 8. bd3 [1/2-1/2 seifert,m (2315)-mojzis, j (2330)/wroclaw 1981/ext 2003] nc6 9. o-o qxc3 10. rb1 nge7 11. rb5 nd8 12. bb2 qc7 13. bxd4 bd7 14. rb3 b6 15. qe2 ndc6 16. bb2 ng6 17. g3 o-o 18. qe3 qd8 19. h4 nge7 20. h5 nf5 21. bxf5 exf5 22. h6 be6 23. hxg7 [young,r (2290) -agrest,e (2475)/new york 1991/ext 2000/1-0 (55)] alternative variation: 7. bb2 qa4 8. nf3 b6 9. c4 ba6 10. cxd5 bxf1 11. kxf1 exd5 12. h4 ne7 13. h5 nf5 14. h6 rg8 15. c3 qc4+ 16. qe2 qxe2+ 17. kxe2 cxd4 18. cxd4 nc6 19. kd3 gxh6 20. rh5 nce7 [1-0 kovalev,a (2539)-hasangatin,r (2523)/karvina 2003/ext 2005] alternative variation: 7. bd2 $14  el negro gana espacio alternative variation: 9... nge7 10. dxc5 nf5 11. bd4 o-o 12. g4 nh4 13. ng3 f6 14. exf6 nxd4 15. cxd4 qa5+ alternative variation: 9... f6 10. exf6 nxf6 11. ng3 $11  las negras amenazan ganar material: h5xg4  alternative variation: 11. f3 $11 [debería examinarse con más detalle]  las blancas amenazan ganar material: tc1xc2  controla h5  las negras amenazan ganar material: ch6xg4 alternative variation: 15... b5 $17  alternative variation: 17... qh5 18. rg4 (18. qf4 nb8)  las blancas amenazan ganar material: af6xh8. una casilla ideal para el alfil blanco.  lo deja escapar alternative variation: 18... rh7 19. ng5 rh4 20. bh3 $11  alternative variation: 19. qxh5 $1 [asegura la victoria] b5 20. rb1 $18  las negras amenazan ganar material: df8xa3 alternative variation: 19... qh7 20. rg5 $15  alternative variation: 21... ncxd4 22. cxd4 nxd4 23. qc3 qc5  alternative variation: 22... gxf5 [ el alfil no debe tocarse] 23. qg3 $18  las blancas amenazan ganar material: dg3xh2  la posición se escapa por el desagüe alternative variation: 23... nxf5 alternative variation: 23... rxf2 24. bxg6 rxf4 25. bxf7+ kd7 26. qxf4 (26. cxd4 [sería un terrible fallo] qa5+ 27. kd1 rxd4+ 28. ke2 qd2+ 29. kf1 rf4+ 30. qxf4 qxf4+ 31. kg2 c3 $19) 26... qxc3+ 27. kf1 qd3+ 28. kg2 qc2+ 29. qf2 qe4+ 30. kh3 qd3+ 31. kg4 $14  las negras tienen un peón pasado protegido: c4 alternative variation: 24. e6 $5 [lo haría todo más fácil para el blanco] nxe6 25. nxe6 bxe6 26. qxh2 d4 $18  alternative variation: 24... qxg3 25. fxg3 $14 alternative variation: 24... qxg3 [es la mejor apuesta para salvar la posición] 25. fxg3 c3 $14  las blancas amenazan mate. deja pasar una clara victoria alternative variation: 27. kf3 qb3+ 28. kg2 $18  alternative variation: 28... qg4+ 29. qg3 be6 30. qxg4 fxg4 31. nxe6 fxe6 32. rh1 rc8 $11  
+ 3. d4 cxd4 
+ 13. qxc5 rxc5 
+ 16. rxc5 bd4  
+ 23. rb5 ra6 
+ 28. rxe7 a4 
+ 31. ra8 rc1  
+  [%eval 0,0] [%emt 0:00:00]
+  [%eval -6,12] [%emt 0:00:04]
+  [%eval -407,17] [%emt 0:00:26]
+  [%eval -878,16] [%emt 0:00:03]
+0.27/21 9 ambos ãºltima jugada del libro  0.09/22 6  0.31/18 6 (nf3)  0.00/20 5 (d5)  0.34/16 7 (dxc5)  0.00/23 10 (d6)  0.20/17 10 (nc3)  -0.07/21 6  0.19/18 2   -0.10/22 2 (d5)  0.00/16 12 (dxc5)  -0.12/21 7  0.00/17 11 (be2)  -0.21/23 4 (e6)  -0.21/16 11 (rb5)  -0.32/ 22 7  -0.26/17 0  -0.40/23 6  -0.30/19 17 (bc7)  -0. 55/21 8 (qb4+)  -0.45/16 12  -0.56/26 0  -0.46/16 15  -0.68/26 0 (b6)  -0.35/14 6  -0.70/26 0  -0.35/14 4  -0.79/25 20 (qxb6)  -0.27/15 7  -0.74/26 4 (qxb6)  -0.48/15 5  -0.79/25 0 (0-0)  -0.48/15 8  -0.75/23 0  -0.77/17 23 (ndc4)  -0.86/24 5  -1.01/17 9 (nf3)  -1.07/22 9  -1.07/17 10 (ne4)  -1.23/22 4 (bxe2)  -1. 14/16 10  -1.47/25 0  -1.26/15 4  -1.49/26 0  -1. 45/15 8  -1.61/26 0  -1.75/16 6 (rfe1)  -1.80/23 5  -1.90/18 9  -1.98/23 2  -2.12/17 5  -1.95/22 1  -2. 15/16 3 (h4)  -1.98/22 5  -2.40/16 1  -2.11/23 4  -3. 27/16 8  -2.78/26 0  -3.29/15 2  -3.00/23 2  -3.36/ 15 0  -3.15/26 6 (ra7)  -3.20/15 2 (rdd1)  -3.61/27 5 (c4)  -0.10/15 0 (qd6)  -0.19/28 16  -0.26/20 0  -0.19/ 29 4  -0.30/17 0  -0.10/27 6  -0.31/19 3  -0.10/ 29 0  -0.43/12 0  -0.10/28 3  -0.37/14 0  -0.11/ 29 3  -0.47/17 5  -0.19/29 0  -0.55/13 1  -0.12/ 25 4  -0.34/16 2  -0.24/24 2  -0.23/16 0  -0.19/22 5   -0.23/18 0 (ke2)  -1.10/24 5  -1.75/18 2 (ke2)  -1.84/23 5  -1.98/15 1  -1.60/24 7  -1.97/19 0  -1.63/25 5  -1.98/19 0  -1.64/26 3  -1.83/16 0  -1. 63/27 3  -1.93/18 0  -1.90/25 3  -1.73/18 0  -2. 16/26 3  -1.74/18 0  -2.24/27 5  -2.38/17 2 (ra5)  -2.55/24 3  -3.01/16 0 (rc6)  -3.01/25 3  -3.48/18 3  -3.12/26 0  -3.75/16 2 (rd7)  -4.11/24 3  -4.02/18 0  -4.50/25 2  -4.34/17 1  -4.70/26 1  -5.83/17 4  -5.28/28 0  -6.53/16 5 (ba3)  -7.06/23 3  -6.66/ 16 0  -9.90/21 3  -7.24/16 1 (bb2)  -12.83/20 2  
+           d4
+ 5. d5 bb4 
+ 9. qb5  resigns
+ 3. d4 cxd4 
+ 13. qxc5 rxc5 
+ 28. rxe7 a4 
+ 31. ra8 rc1  
+ 22. qxc3 qxc3 
+ 23. bxc3 rac8 
+ 27. exd5 rc8 
+ 30. nc6 rxd5 
+ 33. nb4 d5 
+ 39. a7 ra8 
+ 48. rxd4 nc8 
+ d) 8.bxc6  bxc6:
+ i can still castle queen side...
+ 25. rc6 rxc6
+ 55. g7 a1=q
+c01: defensa francesa: variante del cambio, montecarlo. (0.29) (0.37) (0.37) (0.49) (0.36) (0.34) (0.43) (0.42) (0.38) (0.32) (0.02) (0.45) algo mejor era : 10... bxc3 11. bxc3 ne4 12. qb3 nc6 13. qxb7 nxc3 14. bd3 qb6 15. qxb6 axb6 16. bd2 ne4  ) si 10... ba5 entonces 11. h3 bf5 12. g4 bxc3 13. bxc3 be4 14. bf4 nc6 15. qb3 bxf3 16. bxf3 con ligera ventaja para las blancas (0.43) (0.37) (0.35) (0.63) (0.32) (0.73) mala jugada. era mejor 13... nc6 14. b5 na5 15. bd3 nc4 16. qc2 h6 17. bf4 bc7 18. ne5 nxe5 19. dxe5 con posición igualada. con  13... nbd7 14. bd3 h6 15. bf4 re8 16. re1 bc7 17. bxc7 qxc7 18. qb3 rac8 con ventaja para las blancas. (0.38) (0.70) una alternativa sería 14... bc7 15. bd3 bf4 16. bg5 bxg5 17. nxg5 h6 18. nf3 rc8 19. rc1 re8 20. re1 con ligera ventaja para las blancas. (0.61) (0.77) la mejor continuación era 15... qd6 16. bg3 qe7 17. bd3 a5 18. qb3 rfc8 19. b5 bc7 20. bxc7 rxc7 (0.59) (0.76) (0.18) (0.84) era mejor 17... nxe5 18. dxe5 ne4 19. qf4 nxc3 20. rxc3 f6 21. rxc8 qxc8 22. exf6 qc2 23. re1 qg6 con posición igualada. (0.99) (1.72) error de la negras que provoca la pérdida de un peón. era mejor 18... ne4 19. nxe4 rxc1 20. rxc1 dxe4 21. nc4 bc7 22. d5 bf5 23. d6 bd8 24. ne3 (1.62) (1.62) (0.09) error de las blancas. era mejor 20. nxd5 rxc1 21. rxc1 qd8 22. nxd7 bg5 23. n5f6+ gxf6 24. f4 bxd7 25. bxd7 bxf4 26. qxf4 qxd7 27. qxf6 con ventaja decisiva para las blancas. con  20. nxd7 bxd7 21. a4 qe6 22. rfe1 qd6 23. bxd7 qxd7 24. nb5 rxc1 25. rxc1 re8 26. rc7 se llega a una posición igualada. (0.15) (0) (1.11) error de las negras ya que 22. rfe1 qd8 23. nxd5 rxc1 24. qxc1 bxd4 25. qf4 bb2 26. re7 f5 (1.27) (0.75) (0.77) (0.58) (0.58) (0.63) (0.56) (0.74) (0.21) (1.02) era mejor 26... qb6 27. re2 qd6 28. nd5 be5 29. f4 ba1 30. re1 bb2 31. re7 rc8  (-0.73) era mejor 27. rxe6 b5 28. qc2 fxe6 29. ng6+ kg8 30. nxf8 qxf8 31. bxb5 qf5 32. bd3 bxf2+ 33. qxf2 qxd3 34. qxa7 con ventaja para las blancas. con 27. ng6+ fxg6 28. rxe6 qh4 29. qc1 qg3 30. bxg6 rxf2 31. re8+ rf8+ 32. kh1 rxe8 33. bxe8 qd6 34. bb5 y la ventaja es para las negras. (-0.85) (-4.88) error de las blancas. con  bxf2+ 29. kh1 qxd3 30. ra1 bg3 31. rg1 qxa3 32. qe7 rf2 33. qxb7 be5 las negras tienen ventaja decisiva. (-4.93) (-4.93) (-4.86) (-mat02) nuevo error de las blancas. el mate llega en dos jugadas. las blancas abandonan por  31. kh2 qg1 
+ 64. nc3 a5 
+ ... - d4 x c3
+ 12.qxc6+ qd7 (forced)
+ 17.qb6+ qc7
+ qc7 qa8+, then qb8 qxb8# or qc8 qxc8#
+ qc1 (0-1), qd3 (1-0), a3 (1-0)...
+ 30. qxc1 rxc1 
+ 31. rxc1 bxc1=q+ 
+ 29. qb1 qc1 
+ 30. rxc1 rxc1+ 
+ 34. rxc8# 
+      26. dxg2 txg2 27. kxg2 d4! 28. pb1 dxc2+ 29. td2 dxb1 30. txd4 db2+, 0-1
+ aunque es jugada normalmente, esperaba primero c3. obviamente el blanco quiere iniciar el ataque de inmediato, a costa de un peon i've got a pawn and my "bad" bishop is out. i felt fine in this position, but i didn't have a plan...
+ 19.rc3 	...
+ 43.rxh6	d3 
+ d2xh6 d8-c7
+ a1-d1 c8-a6
+  25.d6 ... 
+ 46.rxc3 rc1! 47.rxa3 ... 
+alternative variation: 8. bd3 dxc4 9. bxc4 nd5 10. bxe7 qxe7 11. o-o $14  alternative variation: 8... exd5 9. bd3 re8 10. o-o nf8 11. h3 $14 alternative variation: 8... nxd5 9. bxe7 qxe7 10. be2  alternative variation: 9... nb6 10. bxf6 bxf6 11. bxh7+ kh8 12. bd3 [cusmuliuc,d-trippold,d/mureck 2008/cbm 125 extra/1-0 (54)]  alternative variation: 10. o-o re8 11. rac1 [1/2-1/2 farago, s (2365)-kahn,e (2315)/budapest 1996/cbm 052 ext (22)]  alternative variation: 12. rac1 h6 13. bh4 $14 alternative variation: 12. rfc1 h6 13. bf4 nh5 14. be5 nxe5 15. dxe5 [liszka,z-jablonowski,z/tarnow 1979/ext 2003/0-1 (61)]  alternative variation: 15. qd1 kg7 16. h3 rh8 17. nh2 f5 18. ne2 $14  alternative variation: 16. h3 rh8 17. nh2 nb8 18. nf3 nc6 19. e4 $14  alternative variation: 17. f5 $142  diagrama #  error estratégico, debilita las casillas claras y cede la pareja de alfiles al rival. aunque las blancas cuentan con una estructura superior, la posición dinámica de las negras inclinan la balanza a su favor. alternative variation: 20. nf3 bb4 21. rfc1 h4 22. rc2 h3 (22... qe7 23. bxe4 dxe4 24. ne5 $11) 23. gxh3 f6 $44 alternative variation: 20. ngxe4 fxe4 21. bc2 f5 [e el centro esta cerrado,pero de todas manera el blanco tiene una ligera ventaja]  alternative variation: 21. nh3 rc8 $15  alternative variation: 22. qc4 rac8 23. qb3 qd6 $17  alternative variation: 23... rac8 24. rdc1 kh6 $17  alternative variation: 24... rhg8 25. kh2 rac8 $17  excelente movimiento, habilita la casilla b4 para el alfil de e7 y deja latente un futuro aa6.  alternative variation: 27. qb5 bc6 $19  alternative variation: 28... rg4 29. g3 bd5 $19  alternative variation: 30... qxc8 31. kh2 (31. qf2 qc4 $19) 31... bc4 32. qf2 bxb5 33. axb5 qc4 $19  alternative variation: 31... qg7 32. rc1 qg4 $19  alternative variation: 40... qxb6 41. qc8 $11  alternative variation: 41. exf4 qxb6 42. qc8 qxd4+ 43. kh1 qd7 44. qh8+ kg6 45. nxh5 $11  alternative variation: 48... qc7 49. ke2 qxf4 50. nxe3 $14 alternative variation: 48... e2+ 49. qxe2 qc7 $11  alternative variation: 50. qd3 qg4+ 51. kf1 qg3 52. qe2 qxh4 53. nxe3 $11   
+alternative variation: 10... o-o 11. h3 (11. nxe4 dxe4 12. bxe6 fxe6 13. nd2 nxe5 (13... qd5 14. qg4 nxe5 15. qxe4 rad8 16. qxd5 exd5 17. nb3 nc4 18. bc5 rfe8 19. rfe1 bf6 20. nd4 nxb2 21. nc6 ra8 22. be7 bc3 23. re3 d4 24. rg3 kf7 25. bb4 bxb4 26. nxb4 c5 27. nd5 re2 28. rf3+ [westerinen,h (2376)-lagerman,r (2354)/reykjavik 2008/cbm 125 extra/ 0-1 (38)]) 14. nxe4 [1/2-1/2 kobalia,m (2614)-golod,v (2582)/biel 2005/cbm 107 ext]) 11... nc5 12. c3 bf5 13. nd4 nxd4 14. cxd4 nd3 15. qh5 bg6 16. qf3 c6 17. rab1 f6 18. exf6 rxf6 19. qd1 qd7 20. bc2 raf8 21. nb3 nf4 22. bxf4 bxc2 23. qxc2 rxf4 24. rbc1 r8f6 25. rce1 [kupreichik,v (2490)-szmetan,j (2435)/wijk aan zee 1977/mcl/1-0 (59)] alternative variation: 10... nxd2 11. qxd2 qd7 12. a4 o-o 13. rfd1 rad8 14. axb5 axb5 15. c3 qc8 16. qd3 qb7 17. bc2 g6 18. h3 bf5 19. qe2 bxc2 20. qxc2 rd7 21. h4 ra8 22. rxa8+ qxa8 23. qb3 b4 24. h5 bxc3 25. bxc3 [grushevsky, a (2200)-hermlin,a (2330)/moscow 1979/mcd/0-1 (55)] alternative variation: 10... bg4 11. nxe4 dxe4 12. qd5 o-o 13. qxe4 bxf3 14. gxf3 na5 15. rfd1 qc8 16. qg4 nxb3 17. qxc8 rfxc8 18. axb3 a5 19. f4 kf8 20. kg2 ke8 21. f5 ra6 22. kf3 rca8 23. rd4 a4 24. bxa4 rxa4 25. raxa4 [gostisa,l (2405)-rodman,f (2150)/slovenia 1996/ext 1997/ [bulletin]/1-0 (36)] alternative variation: 10... nc5 $11  da nueva vida al contrincante alternative variation: 11. a4 [es la mejor apuesta para salvar la posición] b4 12. nxe4 dxe4 13. nd4 nxd4 14. bxd4 $11  alternative variation: 13. e6 o-o (13... cxd4 14. exf7+ kf8 15. nf3 $17) 14. exf7+ rxf7 $19  alternative variation: 13... dxe4 [pudiera ser un camino más corto] 14. be3 qxd1 15. rfxd1 $19  alternative variation: 14... cxd4 [es claramente más débil] 15. fxe4 qc7 16. bxd5 $18  alternative variation: 15. kh1 cxd4 16. qxd4 rc8 $19  alternative variation: 15... cxd4 [es claramente inferior] 16. f5 $11  alternative variation: 16. be3 c4 17. qg4 $19  alternative variation: 17. a4 [ya no cambiará nada] o-o 18. qg4 kh8 19. axb5 qb6 $19  alternative variation: 18. kh1 [es una última esperanza] bc5 19. qc3 $19  alternative variation: 18... bc5 19. bxe4 bxd4+ 20. kh1 rd8 $19  
+ 17.d3 	0-0 
+ 40.rd3 	d4 
+ 13.qc2 	re8 
+ 44.qd2 	reg5 
+ 4.d4 	d5?! 
+ 7.d5(?) 	...
+ 23.rc1?!	...
+ 27. qxc6 rd1+ 
+ 27. qxc6 rd1+ 
+ (4. bxn bxc6, 5. nc3 nf6, 6. o-o bc5, (7. d3 d6, 8. re1 o-o.) or (7. d4 bb6)   5. nxe5!? maybe a blunder.
+  mistake: +0.22 » 20. rd2 qxc5 21. dxc5 e5 22. re1 o-o 23. nce2 d4 24. nxd4 exd4 25. bxd4 bxd4 26. rxd4 h5 27. ne4
+ a] e5, b] f5, c] nd5, d] qg3, e] qh3
+  (5.nxe4 d5...)
+ 1.d4 nf6 2.c4 e6 3.a3 c5 4.d5 exd5 5.cxd5 g6 6.nc3 bg7 7.e4 d6 8.bd3 0-0 9.nge2 re8 10.0-0 a6 11.f3 nbd7 12.b4 cxb4 13.axb4 qb6  14.kh1 ne5 15.na4 qd8 16.be3 bd7 17.nb6 nxd3 18.qxd3 bb5 19.qc2 rb8 20.ra3 nd7 21.nxd7 qxd7 22.re1 rbc8 23.qd2 bxe2 24.qxe2 f5 25.bf4 fxe4 26.fxe4 bc3 27.rxc3 rxc3 28.e5 dxe5 29.qd2 rc4 30.bxe5 qf5 31.bg3 rxe1  32.qxe1 qe4 0-1 laengl,m-horvath,g/cattolica 1992 line
+ i'll remind you
+ 13.	e1-c1	c5-d4
+ 14.	e3-d4	d8-a5
+ 22.	c3-d4	b8-c6
+ 23.	d4-d5	c6-b4
+ 25.	d5-d6	b4-d3
+ best: +0.21 » … kf8 20. a3 rc7 21. qf1 rdc8 22. bd3 g5 23. e5 dxe5 24. rxe5 g4 25. rh6 qd6
+ best: +1.27 » 25. qf3 qc5 26. a3 b5 27. qf5 bxc4 28. rxh7 qa5 29. b4 qc7 30. ba4 rde7 31. bc3 g6 32. rh6
+ best: +1.99 » … qc3 28. ra2 ra8 29. bf1 ba6 30. nb1 qc6 31. rb2 bb5 32. nd2 rc8 33. nf3 qc3 34. be2 qxa3 35. rxb5
+ best: +1.98 » 31. nc4 rxc4 32. bxc4 exd4 33. qf2 nxe4 34. qb2 qxb2 35. bxb2 nc3 36. bd3 kf8 37. rc1 bg5 38. re1
+ best: +3.30 » … d5 32. exd5 nxd5 33. qxe5 bf6 34. qe2 a3 35. ba1 nc3 36. bxc3 rxc3 37. nb3 bxd4+ 38. nxd4 qxd4+ 39. qf2
+ best: +0.41 » … nc6 5. bc4 nf6 6. e5 d5 7. bb5 d4 8. exf6 dxc3 9. qxd8+ kxd8 10. bxc6 bxc6 11. fxg7 bxg7
+ fritz:: 16... ne5 [praying for a miracle] 17. nxe5 dxe5
+ and conquers important squares i am forced to retreat i hate
+ 28. bxc3 d4 
+ 37. rxb7 d3 
+ 15.  be3 qd7 16. rb1 rc8 or alternatively 16. d5 qxb5 17. rb1 qa5+. 
+ move # 21. 21. e5 gxf5 22. bc6 qc7 23. bxa8 rxa8.
+ move # 25.  25. qa1 rc7 26. bd2 qd7 27. qb2 f6 
+ i dont care, i attack d4 ! defending an developing, 
+ 3. d4 exd4 
+ 16. rxb7 rc8 
+ variation a: 40. nxe6 d4 41. rxc5 dxe3  42. kxe3 rxc5 43. nxc5 
+ 9. d3 fxe4 
+ best: -0.21 » 7. d4 cxd4 8. nxd4 o-o 9. nxc6 bxc6 10. be3 bd7 11. rb1 e5 12. bf3 qc7 13. qe2 rab8 14. qa6 rb7
+  inaccuracy: +0.92 » … ne6 19. nxf5 rd8 20. nb1 ra2 21. ne7 bd7 22. bc3 bxc3 23. nxc3 rc2 24. rc1 rxc1 25. rxc1 kd6
+ best: +0.83 » 24. rfd1 rh7 25. b5 kb6 26. bxc6 bxc6 27. rb1 kc7 28. na2 c5 29. bc3 rxa2 30. bxe5+ nxe5 31. rxa2 bxc4 score: -0.47
+ a) 11. ... d4 12. bd2 dxc3 13. bxc3 qc7
+ ·i can't go on c6 square;
+ belacqua17 
+ e)   4.qb3 dxc4 5. qxc4 bg7.
+ b) 16. ... rxc6 17.bxc5 rxc5 18.rfe1 -
+ 19.re1 qc4
+ 20.qxc5 rxc5
+ 20. bxq rc1+
+ 21. re1 rxe1+
+alternative variation: 9. qc2 c6 10. b3 exd4 11. nxd4 nc5 12. be2 ne6 13. bb2 nxd4 14. exd4 bf5 15. qd2 qc7 16. rac1 re7 17. bf3 rae8 18. rxe7 qxe7 19. h3 h5 20. kf1 nh7 21. re1 qxe1+ 22. qxe1 rxe1+ 23. kxe1 bxd4 [djakova,d-dimova,n/pamporovo 2001/cbm 084 ext/1-0 (53)]  alternative variation: [fritz 11:] 11. be3 qc7 12. h3 b6 13. qc2 nc5 14. rad1 rd8 15. be2 bb7 16. bxc5 bxc5 17. qb3 nd7 18. qa3 qb6 19. rd2 qb4 [0.15/22]  alternative variation: [fritz 11:] 16... be6 17. e5 nd7 18. ne4 nxe5 19. nd6 red8 20. c5 nd7 21. b4 bc3 22. ng5 ne5 23. qe4 bxa2 24. qxf4 h6 [-0.45/22]  alternative variation: [fritz 11:] 17... h6 18. bb3 g5 19. na4 ne5 20. nxe5 bxe5 21. qe2 be6 22. nc5 rad8 23. nxe6 fxe6 24. c5 qe7 25. qg4 kg7 [-0.18/21]  alternative variation: [fritz 11:] 18. e5 [tal vez la última oportunidad de las blancas de recuperar la iniciativa] nc5 19. b4 ne6 20. ne4 rd8 21. qc3 rxd1 22. rxd1 a5 23. nf6+ kh8 24. a3 axb4 25. axb4 bg7 26. be4 ra2 27. qb3 [0.84/22]  alternative variation: [fritz 11:] 19. qe2 bg7 20. nxe5 bxe5 21. rd3 be6 22. na4 qe7 23. red1 rac8 24. qc2 b6 25. c5 b5 26. bxe6 qxe6 27. nc3 b4 [-0.50/21]  alternative variation: [fritz 11:] 20. c5 bg7 21. qc1 f3 22. qe3 fxg2 23. kxg2 qh5 24. f4 bf5 25. qf3 qxf3+ 26. kxf3 bxh3 27. rh1 bc8 28. rd6 bxc3 29. bxc3 kg7 30. bc4 [-0.36/21]  un poco bestia, pero efectiva  alternative variation: [fritz 11:] 21. e5 bf5 22. ne4 bxe4 23. rxe4 rxe5 24. rxe5 qxe5 25. qd4 qxd4+ 26. rxd4 bg5 27. c5 re8 28. kh2 kg7 29. rd1 re7 30. bc4 bf6 [-0.70/21] alternative variation: [fritz 11:] 21. kh1 be6 22. qf2 bg7 23. c5 bxb3 24. axb3 bf8 25. na4 rad8 26. qc2 bg7 27. qc4 qh4 28. qb4 qe7 29. qa5 a6 30. nc3 bd4 [-0.78/21]  alternative variation: [fritz 11:] 22. ne2 red8 23. qc1 c5 24. nc3 bg7 25. nd5 be5 26. qc2 rd6 27. qf2 b6 28. rd3 re8 29. ba4 red8 30. red1 [-0.78/23]  alternative variation: [fritz 11:] 22... bg7 23. re2 red8 24. red2 rxd2 25. qxd2 bf6 26. qc1 rd8 27. rxd8+ bxd8 28. ne2 bc7 29. c5 bc8 30. qc4 qf6 31. nc3 qe7 32. qb4 b6 [-0.78/21]  alternative variation: [fritz 11:] 22... qa5 23. c5 bxb3 24. axb3 bf8 25. qh4 bxc5 26. qxf4 qa6+ 27. ne2 rad8 28. qc1 bd6 29. qc4 qb6 30. rd3 be5 31. red1 rxd3 [-0.71/21]  alternative variation: [fritz 11:] 23... red8 24. ne4 qxe5 25. nd6 qg5 26. h4 qf6 27. nxb7 rxd1 28. rxd1 bb4 29. c5 bxb3 30. axb3 rb8 31. nd6 qe5 32. rc1 rd8 33. rc4 [-0. 73/21] alternative variation: [fritz 11:] 23... bb4 24. a3 ba5 25. re2 rad8 26. rxd8 qxd8 27. ne4 bxc4 28. bxc4 qd1+ 29. re1 bxe1 30. qxe1 qxe1+ 31. kxe1 rxe5 32. kd2 b5 [-0.69/ 21] alternative variation: [fritz 11:] 23... b6 24. h4 qf5 25. ne4 qxe5 26. nd6 qf6 27. nxe8 rxe8 28. re2 bc5 29. qe1 a6 30. rd3 qe7 31. bc2 be3 32. bb3 [-0.58/21]  alternative variation: [fritz 11:] 25. ne4 bxe4 26. rxd8 qxd8 27. rxe4 qd3+ 28. kg1 qb5 29. kh2 bxc5 30. qe1 bb6 31. e6 f6 32. kh1 g5 33. e7+ kg7 34. h4 qa5 35. qxa5 bxa5 36. hxg5 fxg5 37. re5 [-0.23/22] alternative variation: [fritz 11:] 25. h4 qe7 26. ne4 rxd1 27. bxd1 bxe4 28. rxe4 qxc5 29. qxc5 bxc5 30. b4 be3 31. bb3 rd8 32. g3 kg7 33. gxf4 bd2 34. ke2 a5 35. bxa5 bxa5 36. ra4 rd2+ 37. ke3 bc3 [-0.41/0] alternative variation: [fritz 11:] 25. e6 fxe6 26. ne4 bxe4 27. rxd8 rxd8 28. rxe4 kg7 29. qe1 qxc5 30. rxf4 bd6 31. rc4 qf5 32. re4 e5 33. qa5 rf8 34. kg1 ra8 35. a3 a6 [-0.67/22]  alternative variation: [fritz 11:] 26. rd1 qb8 27. e6 bxe6 28. bxe6 rxe6 29. qd4 be7 30. ne4 b6 31. cxb6 axb6 32. a4 qc7 33. b4 qe5 34. qxe5 rxe5 35. nd6 b5 36. a5 [-0.98/ 22] alternative variation: [fritz 11:] 26. ne4 rxe5 27. rd1 qe7 28. nd6 be6 29. qc2 bxb3 30. axb3 b5 31. b4 re3 32. qd2 bg7 33. nc8 qe8 34. nxa7 bf6 35. qd6 bh4 [-1.05/22]  alternative variation: [fritz 11:] 26... bg7 27. rd1 qe7 28. e6 bxe6 29. ne4 bxb3 30. axb3 rd8 31. rxd8+ qxd8 32. nd6 be5 33. qd2 qf6 34. nxb7 bxb2 35. qa5 bd4+ 36. kf1 qh4 37. qd2 qf6 38. qe2 be5 39. nd8 [-1.52/21] alternative variation: [fritz 11:] 26... be7 27. rd1 qa5 28. na4 rd8 29. kh2 rxd1 30. bxd1 qd8 31. bb3 kg7 32. nc3 qd3 33. kg1 qe3 34. qxe3 fxe3 35. ne4 bxe4 [-1.31/21]  alternative variation: [fritz 11:]  28... bd4 29. qxf4 bxe5 30. qe3 re7 31. g4 bd6 32. qxe7 (32. qd2 [fritz 11:] rxe1+ 33. qxe1 bd7 34. qd2 qb4 35. kg2 qf4 36. qxf4 bxf4 37. ne4 bc8 38. nc5 h5 39. kf2 kg7 40. nd3 bd6 41. ke3 bd7 42. nf4 bc5+ 43. kd3 hxg4 44. fxg4 kf6 [-1. 64/21]) 32... bxe7 33. rxe7 be6 34. bxe6 fxe6 35. rxb7 qa6 36. rb8+ kf7 37. kg2 e5 38. kg3 ke6 [-1.15/21] alternative variation: [fritz 11:] 28... re7 29. qf6 be6 30. rd1 bxb3 31. axb3 re6 32. qxf4 qc7 33. ne4 qxe5 34. qxe5 rxe5 35. rd7 b5 36. nxc5 rxc5 37. rxa7 rc2 38. rc7 rxb2 39. rxc6 [-0.67/21]  alternative variation: [fritz 11:] 29. g4 be6 30. ne4 bxb3 31. nf6+ kf8 32. axb3 rxe5 33. rd1 kg7 34. b4 qb5 35. qxh7+ kxf6 36. qh8+ ke6 37. qe8+ kf6 38. qh8+ [0.00/19]  alternative variation: [fritz 11:] 29... be6 30. rd1 bxb3 31. axb3 qxe5 32. ne4 kf8 33. rd7 qxf6 34. nxf6 re5 35. rxb7 kg7 36. ne4 rb5 37. rxb5 cxb5 38. nc3 a6 39. nd5 bd4 40. nc7 bxb2 [-1.97/24]  alternative variation: [fritz 11:] 30. rd1 qe7 31. ne4 bxe4 32. fxe4 c5 33. bd5 bd4 34. b4 bxe5 35. qxe7 rxe7 36. bxc5 rc7 37. kg1 rxc5 38. bxb7 rc7 39. bd5 kg7 40. bb3 kf6 [ -1.14/22]  alternative variation: [fritz 11:] 31. rd1 bxb3 32. axb3 qxe5 33. ne4 kf8 34. g5 qxf6 35. nxf6 ra8 36. rd7 b5 37. nxh7+ kg7 38. nf6 bb6 39. kg2 rd8 40. b4 rxd7 41. nxd7 be3 42. ne5 c5 43. nd3 [-1.52/23]  alternative variation: [fritz 11:] 31... bd5 32. kg2 re6 33. qh4 rxe5 34. re2 bd4 35. ne4 re7 36. bb1 f6 37. bd3 qd8 38. qh6 f5 39. gxf5 gxf5 [-2.92/21]  alternative variation: [fritz 11:] 32. rd1 bf2 33. ne4 bg3 34. rd2 qe3 35. kg2 bd5 36. bb3 a5 37. rc2 bxb3 38. axb3 qxb3 39. rd2 qe3 40. b3 c5 41. qb6 [-1.48/21]  sencillamente no defiende la posición alternative variation: [fritz 11:] 33. qd6 bxe4 34. bxe4 qxb2 35. rb1 qf2 36. qd3 qh4 37. qf1 bb6 38. rd1 rxe5 39. qg2 h5 40. kh2 re7 41. kh1 re8 42. gxh5 qxh5 43. qg4 qe5 44. qd7 [-3.66/21]  no era necesario alternative variation: 38... bf2 $19   
+ 1.e4 e5 2.nf3 nc6 3.d4 exd4 4.c3 [4.nxd4 bc5 5.nxc6 qf6= ] 
+ 18.qxf6  qc7
+ best: +0.95 » 24. qxd5 nxf4 25. qf3 c6 26. a4 qd6 27. bc4 b6 28. qg4 g6 29. qf5 nd5 30. qf3 a5 31. qf5

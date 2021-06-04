@@ -1,0 +1,8 @@
+ ka3 .. ra4 mate
+ 43. nc5  kf5 
+ 69. kb6 ka8 
+ 59. ka4 kc4 
+ 61. ka2 kc3 
+ 62. ka5 kc5 
+ 62. ka1 kc3 
+  20. ... nc6 

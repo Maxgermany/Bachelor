@@ -1,0 +1,11 @@
+ 12. kd2  o-o-o
+ 33. cxb3 rxc3  34.  rb2? kd6   35. ke2  kc5 
+ 72. a7 kd7 
+ 37.kd2 	...
+ 39.ne2 	kd6! 
+ jeremy ross 
+ 58. kb4 kd4 
+ 59. kb3 kd4 
+ a: 24. ... kc8 25. rb8+ kd7 26. r2b7+ kd6 rd8#
+ 36. kc5 kd7 
+ best: -2.22 » 28. ra7 g4 29. bh1 rh7 30. rxb7+ kd8 31. ke2 rg7 32. rb8+ kc7 33. rh8 kd7 34. c4 kc7 35. bd6+ kd7 36. kd3 dxc4+ 37. bxc4 score: +1.85

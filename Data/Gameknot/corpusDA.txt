@@ -1,0 +1,133 @@
+ a1) 16...bg7 17.bg5 d6 // 17.bf4 d6 // 17.bxg7 kxg7 later: nd7 aiming for e5.
+ 10....  be7
+ 21.kf2   is better 
+ (31. ...g6 32. rxf6+ ke7 33. qg7#)
+ 41. rg5+ kf8
+ blunder: -4.30 » 35. nxg4 fxg4 36. f3 g3+ 37. kg1 re8 38. d5 nf2 39. rdd2 rh4 40. e4 g4 41. fxg4 nxe4 42. re2 qg6 43. qxb6
+ 20. ... kd6 21. nf4  kf6 22. nh5  ke5 (22. ... kd6 ng7 ) 23. qf4  kd6 
+ best: -5.44 » 43. kd2 h4 44. gxh4 bxh4 45. ke2 kxf4 46. b5 ke4 47. a6 b6 48. kd2 f4 49. ke2 f3+ 50. kd2 bf6 51. ke1 be7 52. h3 kd3 53. kf2
+ 25. bd4 fxg2 
+ if 55. kg2 rf2   etc  
+ 7. bf7  kd8 
+ best: -0.14 » 27. ke2 ke6 28. c4 nf5 29. kd3 kd7 30. bd2 nd6 31. c5 bxc5 32. dxc5 nf5 33. ke4 ke6 34. bf4 c6 35. a5
+ after 41. ke5 i still have drawing chances despite being a pawn down! 34. kg3?! - gameknot has flagged up another inaccuracy: -4.05 » 34. kg3 kf5 35. kf2 kxf4 36. ke2 h5 37. kf2 g5 38. ke2 f5 39. kf2 ke5 40. ke3 f4+ 41. kf2 kd4 42. h3 kxc4 43. ke2 kb3 44. kd3
+ best: -3.24 » 34. kg2 kf5 35. kg3 g6 36. kg2 kxf4 37. kf2 h5 38. ke2 g5 39. kf2 f5 40. ke2 g4 41. fxg4 fxg4 42. kf2 h4 43. kg2 g3 44. kh1
+ best: -4.28 » 35. kf2 kxf4 36. ke2 g5 37. kf2 h5 38. ke2 f5 39. kf2 ke5 40. h3 kd4 41. f4 g4 42. hxg4 hxg4 43. ke2 kxc4 44. ke3 kxd5 45. kd3
+ 19. kxf1 rf8  
+ 54. gxf4 kg6 
+ 58. b7 ke4 
+ 14. nf6  ke7 
+ 17. bxf6  ke8 
+[%emt 0:00:00]
+  [%emt 0:00:00]
+  [%emt 0:00:00]
+  [%emt 0:00:04]
+  [%emt 0:00:00]
+  [%eval 6,14] [%emt 0:00:09]
+  [%emt 0:02:07]  (ad6)
+  [%emt 0:00:00]
+  [%emt 0:00:05]
+  [%eval 4,15] [%emt 0:00:00]
+  [%emt 0:00:04]  [%emt 0:00:00]  [%eval 15,14] [%emt 0:00:06]  [%emt 0:00:03]  [%eval 12,14] [%emt 0:00:01]  [%emt 0:00:03] (0-0)  [%emt 0: 00:00]  [%emt 0:00:00]  [%eval 15,15] [%emt 0:00:06]  [%emt 0:00:06] (0-0)  [%eval 38,14] [%emt 0:00:08]  [%emt 0:00: 00]  [%emt 0:00:00]  [%eval 35,13] [%emt 0:00:02]  [%emt 0:00:41] (ad2)  [%eval 22,13] [%emt 0:00:02]  [%emt 0: 00:13]  [%eval 26,16] [%emt 0:00:00]  [%emt 0:00:13] (de1)  [%emt 0:00:00]  [%emt 0:00:00]  [%eval 17,12] [%emt 0:00:02]  [%emt 0:00:08] (tb1)  [%eval -70,13] [%emt 0:00:03]  [%emt 0:00:05] (fxe3)  [%eval -138,15] [%emt 0:00:02]  [%emt 0: 00:02]  [%eval -137,18] [%emt 0:00:00]  [%emt 0:00:08]  [%emt 0:00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%eval 0,18] [%emt 0:00:02]  [%emt 0:00:02]  [%emt 0:00:00]  [%emt 0:00:00]  [%eval -48,16] [%emt 0:00:02]  [%emt 0:00:33]  [%eval -47,23] [%emt 0:00:00]  [%emt 0:00:06]  [%eval -47,23] [%emt 0:00:00]  [%emt 0:00:06]  [%emt 0:00:00]  [%eval -47, 22] [%emt 0:00:30]  [%emt 0:00:04]  [%eval -47,22] [%emt 0:00:00]  [%emt 0:00:07] (rd3)  [%emt 0:00:00]  [%eval -45,16]  [%emt 0:00:02]  [%emt 0:00:06] (ce8)  [%emt 0:00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%eval -34,22] [%emt 0:00:06]  [%emt 0:00:04] (ac8)  [%emt 0: 00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%eval -45,19] [%emt 0:00:03]  [%emt 0:00:13] (rc3)  [%eval -20,21] [%emt 0:00:03]  [%emt 0:00:23]  [%eval -20,24] [%emt 0:00: 00]  [%emt 0:00:08] (c3)  [%eval -48,23] [%emt 0:00:07]  [%emt 0:00:07]  [%eval -48,25] [%emt 0:00:00]  [%emt 0:00:03]  [%eval -48,24] [%emt 0:00:00]  [%emt 0:00:08] (re2)  [%emt 0:00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%emt 0:00:00]  [%eval -194,23] [%emt 0:00:03]
+  [%emt 0:00:03] (re2)
+  [%eval -261,16] [%emt 0:00:03]
+  [%emt 0:00: 00]
+  [%eval -519,18] [%emt 0:00: 03]
+  [%emt 0:00:06]
+  [%emt 0:00:00]
+  [%emt 0:00:00]
+  [%emt 0:00:00]
+  [%emt 0:00:00]
+0.27/20 6 ambos ãºltima jugada del libro  0.18/17 4   0.26/20 5  0.11/19 6  0.23/19 2  0.14/18 2  0.23/19 2  0.16/18 6  0.22/20 3  0.10/20 5  0.20/ 20 2  0.13/19 6  0.22/20 2 (a3)  0.08/18 4 (nge7)  0.22/19 2  0.11/18 3 (nf6)  0.21/19 5 (ne2)  0.05/17 2  0.21/18 4 (a3)  -0.10/16 1 (nh6)  0.17/19 9  -0.05/18 4  0.18/18 3  -0.04/19 6  0.19/17 2  -0.13/18 4 (h4)   0.03/19 6  -0.04/19 3  -0.03/19 3  -0.11/18 2  0.00/20 5  -0.06/19 2  0.00/20 1  -0.13/18 2  -0.05/19 3  -0.08/18 2  -0.01/17 1  -0.05/18 11 (nf7)  -0.03/19 4 (rfd1)  -0.14/18 3 (ng4)  -0.02/19 2  -0. 11/18 3 (ne5)  -0.03/18 1  -0.16/19 3  -0.04/20 3  -0.11/19 3  0.01/20 1  -0.19/19 3  -0.02/20 3  -0.19/19 6 (nd6)  0.04/19 4 (f3)  -0.22/19 5 (rhg8)  0.06/18 2 (g3)  -0.32/18 2 (nd6)  0.13/15 1  -0.30/19 2 (kb5)  0.02/19 5  -0.28/18 7 (nc4)  0.04/20 2 (re6)  -0.21/17 1  0.07/20 1 (rb1)  -0.20/17 1  0.06/18 1  -0.25/17 2 (nd6)  -0.04/19 1  -0.22/17 3  -0.03/20 2  -0.30/16 3 (d4)  -0.03/20 2  -0.40/16 1  -0.03/22 1 (rg8)  -0.39/18 3 (kb6)  -0.03/21 1  -0.30/19 1 (rd6)  -0.03/20 1  -0.30/17 1 (kb6)  -0.07/16 1  -0.31/19 1  (nb6)  -0.07/19 2 (g4)  -0.96/16 1  -0.07/18 6 (g4)  -1.67/18 5 (kb7)  -0.70/17 10  -1.55/17 1  -0.83/ 18 3 (rxh4)  -1.82/15 1  -0.82/19 2  -2.25/16 1 (c3)  -2.06/15 3 (ke2)  -2.40/16 1  -2.21/15 1 (ke2)  -2. 48/16 1  -2.31/17 2  -2.58/16 1  -3.08/18 7  -3. 34/15 1  -2.97/16 3  -3.46/17 1  -3.45/16 3  -4. 18/17 2  -2.93/16 1  -4.11/17 1 (rd6)  -3.09/16 2  -4.33/18 1  -2.71/16 1  -5.19/18 3 (nxa4)  -4.72/16 1  -5.34/18 0 (kc7)  -7.88/18 4  -5.54/19 0  -8.36/ 18 1  -6.33/20 1 (d3)  -8.44/19 0  -6.64/20 1  
+ best regards - tag1153 
+ 49. kg3 fxg5 
+ 53. re3 kf6 
+ 35. kb3 f5 
+ 52. rd6  kf5 
+ 58. kb3 f3 
+ 59. rf8  ke4 
+ best regards,
+ hmmmmm how did i get so aggressive here - i'm black
+ be3, bg4 think i prefer be3 bb5, bd5, bxb
+ better is: 41. kd3 be6 42. kc2 a4 43. e5 fxe5 44. fxe5 a3 45. g5 hxg5 46. hxg5 g6 47. kd3 kb3 48. kd4 kb2 gives the advantage back to me 42... a4 43. gxf6 gxf6 44. e5 fxe5 45. fxe5 be6 46. rc1 a3 47. rg1 kc4 48. ke3 kc3 49. ke4 bb3 50. kf4 kb2 51. rg2+ kc3 52. rg3+ kd4 
+ better was: 42... a4 43. gxf6 gxf6 44. e5 fxe545. fxe5 be6 46. rc1 a3 47. rg1 kc4 48. ke3 kc3 49. ke4 bb3 50. kf4 kb2 51. rg2+ kc3 52. rg3+ kd4 
+ but after:
+ 32...        kf6
+ 32...     kf8
+normally i wouldn't take that knight, but after having looked at very old games for some times i had an urge to play old fashioned chess. too cocky ofcourse i missed this, what a blunder so early in the game! and this had to follow... c4 is a bad move because of bf5. i played it with a feeling of being silly, but never the less it turned out to confuse my opponent... o-o is really too a bad move, not taking advantage of my split-up pawns and overlooking the following move by white. + jeg står ikke synderligt godt, men har en materiel overvægt. for at udvilke mig videre skal jeg have kongen i tryghed på f eller d. da kongen nu er havnet på f-linien, c2 er dækket, ligeledes er e2, og ved yderligere forstærkning fra sorts side på e2, ignoreres truslen med d3 (forberedende le3 (trussel mod springeren)) da det kun er tårnet hvid ikke vil have stående på e2. springer og løber er ikke nogen trussel og kommer mere til at stå i vejen for sort, end den vil spille rollen som angriber.  meaning that i have plan for what to do, being in control of the posistion sort of... black wants to take advantage of the weak white squares. en naturlig blokering, der også åbner for hvids sortfeltede løber, som kan placeres på enten e3 eller f4. lb2 synes ikke at have samme effekt, da trækket kræver forberedelse med b4  it seemd to me as a natural blocker also preparing for the bishop to work sort holder løberen i diagonalen og undgår at ståi vejen for tårnene. diagonalen h5-d1 er dog ikke længere en mulighed da tårnet dækker h5. indtagelsen af den diagonal virkede for mig farligere i det presset ikke umiddelbart kunne blokeres af hvid.  maybe black should have looked at the diagonal h5-d1 and the square at e2. maybe there had been some pressure. lf4 er ikke nogen direkte trussel. i stedet kunne der som nævnt tidligere være spillet b4 og l b2 eller le3. den direkte trussel af springeren på d4 gennem le3 er ved første øjekast indlysende, men efter 18..., sf5 taber hvid et tempo. stillingen er ikke uden muligheder for begge sider, og gennem upræcist spil kan der opstå ubehageligheder for hvid, der er foran i materiel, men som overhovedet ikke har sat sig på stillingen endnu.  at first i wanted to plant the bishop at e3, but got scared seeing nf5 se6 var forventet men ikke farligt, da hvid gerne vil bytte af, specielt når afbytningen løser op for en ellers hæmmende dobbeltbonde. forbereder sf3 og en magtkamp om centrum, feltet e5 begynder. sort kan forsvare sig med f6, men det vil kun resultere i f5, og der kan etableres en forpost.  getting ready to play nf3, but overlooking nxc5 which is a step-back for white might not have been nessasary covering the pawns are consolidating the attacking quuen-side of black seemed undangerous to me, but later on it got a little dangerous this move wanted to provoke f6, but it did not give me anything playing a3 instead mighthave been more a standard defence, but i chose the following moves the fight over a2 takes a lot of effort for black, but the centre was too crowded  this move wins at least a pawn, but can black lose so many pieces? instead f5 or ng5 should have been played by white... attacking the centrelines  and a free pawn is coming... loses the game a bad game for both parts, whom both have a lot to learn about chess.  please give me a comment if you see this... 
+ 70. nd5 kb8 
+ i never did get to move nf3!!! 
+ [b] 43...bg7  44.rxf7!
+ 19. kf1 rxf4  
+ 20. kg1 bf2  
+ 46.kd2 	rf1! 
+ 51.kd3 	rf2 
+ 52.rg8 	rxf3  
+ 54.rxg5  ke4 
+ 45. be4+ f5 
+ 43.kf3 	g6 
+ 24.bd5 	rbe8 
+ 57.kf1 	f3  
+ 70.ke2 	kf6 
+ 13.ne5 	rg8! 
+ 15.kf1 	g5!!  
+ 22.kg1 	rf5 
+ 24.rf1 	re5 
+ 27.kf2 	re6!  
+ 29.rg8 	rf6  
+ 30.ke2?! 	g4!  
+ 41.kf2 	rf5   
+ 43.kd2 	be8! 
+ even 7.....o-o is better for black
+ 9. ... be6 10. nxe5 nxe5 11. d4 bd6 12. dxe5 bxe5 doesn't seem bad for black;
+ best: +1.14 » 27. nfe3 bf3 28. c3 h5 29. bg1 g4 30. ng2 bf6 31. bd4 kg7 32. nde3 bxg2 33. rxg2 re8 34. rg3 bxd4 35. cxd4
+ 19. ... f5!
+ 19.	e6-d5	f8-f3
+ 14.	f4-e5	g5-g4
+ in progessing order:
+ 20. nf7+    kg7
+ defense move. (+0.22)
+ forever more
+  17. rg3?? blunder: +0.37 » 17. rg3 g6 18. qf3 nd7 19. qe3 nf6 20. rd1 b5 21. e5 dxe5 22. cxb5 axb5 23. qxe5 rfd8 24. rxd8+ bxd8
+ best: -0.12 » 42. b4 e3 43. fxe3 rxe3+ 44. kf2 re8 45. kf3 d3 46. bxf6 rxf6+ 47. rf4 rxf4+ 48. kxf4 re2 49. b5 rxg2 50. ke4
+ best: -0.03 » … bd8 43. fxe3 dxe3 44. a4 ba5+ 45. ke2 rd2+ 46. kf3 rf2+ 47. kg3 bd8 48. bd4 rd2 49. bc3 rd7 50. kf3
+ best: +0.76 » … re3 48. rb1 be5 49. a5 rd3 50. ke2 re3+ 51. kd2 f6 52. g3 rf3 53. b4 ra3 54. rc1 h6
+ blunder: +7.65 » … nf6 7. nc7+ qxc7 8. bxc7 bb7 9. e5 ne4 10. bc4 rc8 11. bxf7+ kxf7 12. qxd7+ ne7 13. e6+ kg6 14. ne5+ kf5 15. g4+ kf6 16. nf7
+i denne stilling slår sort normalt på c3 18 ... bb4 19. axb4 axb4 20. bxb4 nxb4 24... e4 25. nxb6 rxd3 26. fxe4 fxe4 26... e4 27. fxe4 f4 28. gxf4 bg4+ 29. nf3 (29. ke3 bb6#) 29... bxf3+ 30. kxf3 rxd3+ 31. ke2 rh3 28... bxf3+ 29. nxf3 e4 30. bxe4 fxe4 31. nd2 bxg3 ? 45... rc7 46. c6 bxc6 47. bxc6 51... be1+ 52. kb3 rc3+ 53. kb4 re3+ 54 ka4 re4 55. kb3 re3+  
+ • 14. ... re7 15. bg6 
+ for eg if 
+ 20. ...  be5 
+ 24. be5 re8 
+ 29. f6  kd6 
+ 27. rb1 rg4 
+ 28. kf3 rxg5
+ qxf8 12. bg5  ke6 13. d5  kd6 14. nd2 kc5 15. be3  kb5
+ i'm getting late, i should develop also
+ 14. rb1 rg8 
+ 17. bxe5 rg6 
+trainingsspiel im team synergie. kommentare sind "live" aus der partie.
+ 30. rxf8+ kg7 
+  27. g3 baffles me. :)
+ 12. bf7+ ke7 
+ 12. bf7+ ke7 
+ 29. kg1, bf4
+ 30. re3, rf6
+ 33.2 fxg3, rxg3+
+ blunder: +mate(9) » 27. rfe1 rxh3+ 28. gxh3 qxh3+ 29. kg1 bf4 30. f3 be3+ 31. rxe3 rf6 32. re3e2 rg6+ 33. kf2 rg2+ 34. ke3 qh6+ 35. f4 qxf4#
+ blunder: +mate(5) » 28. gxf3 qxh3+ 29. kg1 rf4 30. nd5 rh4 31. ne7+ bxe7 32. re3 qh1#
+ best: +3.20 » 10. nxe5 ke7 11. nc7 rb8 12. bf4 rg8 13. nxd7 bxd7 14. nd5+ cxd5 15. bxb8 dxc4 16. bc7 a4 17. e4 bb5 18. bd6+ ke6
+ best: -1.64 » … f4 27. re1 f3 28. gxf3 exf3 29. bf1 rd8 30. rxd8 kxd8 31. nb2 rb3 32. rd1+ ke7 33. nd3 nxd3 34. bxd3 bxh3 35. be4
+ a blunder.  
+reti opening !
+     26. bf8   h6     27. nd6    kd8     28. nxf7    ke8    29. nxh8  kxf8  30. ng6 
+ black resigns
+ 2-moeller system 4.ba4 bc5
+ 35 kf3 g4+ 36 kf2 a6 37 kf1 ke7 38 kg1 ke6 39 kf1 etc
+ 17         ...f6
+ (27 .. rxf6 28 qg3+ kf7 29 ng5+ ke8 30 nxe6 1-0) 
+ mistake: -2.37 » … kd7 27. ra7 g4 28. bh1 ng6 29. rxb7+ kd8 30. ke2 g3 31. rg7 rh6 32. kf1 f4 33. exf4 g2+ 34. bxg2 hxg2+ 35. kxg2 nxf4+ 36. kf3
+ blunder: +1.24 » 28. bb6 g4 29. bh1 g3 30. bf3 g2 31. ra1 f4 32. ke2 rg8 33. rg1 fxe3 34. kxe3 h2 35. rxg2 nf5+ 36. kf4 h1=q 37. rxg8
+ mistake: +0.01 » … ng6 29. ra7 rb8 30. ra1 rg8 31. rg1 nh4 32. rg3 ra8 33. rg1 rg8
+ mistake: +1.78 » 31. c4 g3 32. ke2 nh4 33. ra1 g2 34. bxg2 hxg2 35. kf2 rc8 36. rg1 rg8 37. bc5 b5 38. cxb5 cxb5
+ best: +0.23 » 31. ke2 g3 32. bc5 f4 33. bd6 g2 34. bxg2 hxg2 35. kf2 fxe3+ 36. kxg2 nf4+ 37. kf1 rg8 38. rxb7+ ke8 39. rb8+ kf7 40. rxg8 kxg8 score: +1.78
+ blunder: +7.57 » 35. c5 nf3+ 36. ke2 nxg1+ 37. kf2 f4 38. exf4 ne2 39. kxg2 nxd4 40. b4 rf8 41. kg3 ne2+ 42. kf3 nxf4 43. ke3 ng2+ 44. kd4 rf4+ 45. kc3
