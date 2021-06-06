@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=38371"]
+[Date "??"]
+[Round "1"]
+[White "??? "]
+[Black "??? "]
+[Opening "Sicilian defence (B20)"]
+
+1. e4 {a normal opening} c5 2. Bc4 {i stop his pawns path} e5 3. Nf3 {i attack his pawn} d6 4. Nc3 {bring out my other knight} Nc6 5. O-O {move my king to safty} Nd4 6. d3 {open my bishop's line} Bg4 7. Nxe5 {queen sacrifice} Bxd1 8. Bxf7+ {check} Ke7 9. Nd5# {checkmate} 

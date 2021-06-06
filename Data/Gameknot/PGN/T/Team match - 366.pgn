@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=43568"]
+[Date "??"]
+[Round "1"]
+[White "worldtraveler (1453)"]
+[Black "paspalov (1517)"]
+[Opening "Nimzo-Indian defence (E20)"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 Qa5 6. Bd2 Qb6 7. b3 g6 8. Nf3 d6 9. e4 Bg7 10. Bd3 O-O 11. O-O Bg4 12. h3 Bh5 13. Be2 {Here I think I like Pg4 better.  Sure, it opens up the white king's castle, but trading little g2 for Bh5 (or g2 & h3 for Nf6?) seems like a fair deal when the black queen is buried on the far corner of the board.} Nbd7 14. g4 {:)} Nxg4 15. hxg4 {The obvious choice for black.} Bxg4 16. Nh2 Bxe2 17. Qxe2 Rae8 18. f3 {That opens up black's queen diagonal.  -P4xb3, a2xb3 leaves black's queen and bishop bearing on the white knight at c3.  Although black's a7 pawn becomes vulnerable to white's rook, white must first defend Nc3 giving black opportunity to protect Pa7-Pa6.} c4+ 19. Kg2 Re5 {?  Seems like black is tossing a good opportunity here.} 20. bxc4 Qd8 {Mm, slightly awkward.} 21. Ng4 Ree8 {It looks like black might want to move Qh4, though that would be easily countered by Rh1.} 22. Rab1 h5 23. Nh2 {I liked Nf2 better.} f5 24. Rxb7 Bxc3 25. Bxc3 Qg5+ 26. Kf2 fxe4 {Would Pf4 have been too obvious?  The free knight seems like a bargain.} 27. Rxd7 Rf5 {I see no advantage for black with that.  Maybe the grand plan will be revealed further on.} 28. Be1 {I still completely miss the threat here.  RxPd6 puts pressure on Pg6+ in the event the black queen moves off the g file without checking the white king.  The f3 pawn is still protected by white's knight.} Qh4+ 29. Ke3 exf3+ 30. Kd3 fxe2 31. Rxf5 {Why not take the queen?  PxRf1+ is then answered by NxQ RxN.  Black ends up with two rooks against the white rook instead of a queen and rook and well positioned pawn...} Qe4+ 32. Kc3 gxf5 {} 

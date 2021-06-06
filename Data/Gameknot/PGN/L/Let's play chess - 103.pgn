@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=64383"]
+[Date "??"]
+[Round "1"]
+[White "mmoody95 (1874)"]
+[Black "treeman12 (1410)"]
+[Opening "Queen's pawn game (D02)"]
+
+1. d4 d5 2. Nf3 h6 {This is an unusual move and seems to spend a tempo for no reason.} 3. c4 dxc4 4. Nc3 a6 {Threatening to hold on to the pawn with b4.} 5. a4 {Preventing b4.} e6 6. e4 Bb4 {Playing a4 does create a hole on b5, which Black exploits.} 7. Bxc4 Nf6 8. Bd3 Nc6 9. Be3 Ng4 {This seems to spend another tempo without a good reason by moving the N twice.} 10. O-O Bxc3 {Moving the B twice, this time to capture, also spends a tempo.} 11. bxc3 f6 {I'm not sure of the purpose of this move.  I think 0-0 may have been preferable.} 12. Bd2 {Keeping the two bishops, at the cost of a tempo.} h5 {Black seems to have the idea of making a direct Kingside attack.} 13. h3 Nh6 14. Nh2 g6 15. Bxh6 Rxh6 16. f4 f5 17. Nf3 h4 18. exf5 gxf5 19. Qe2 Qf6 20. Ng5 {White has a significant lead in development due to Black spending some extra tempos in the opening.  Black's K is also somewhat exposed.  There is no cover to be had by castling Kingside, and potential castling Queenside is a few moves away.} Bd7 21. d5 {White attacks immediately to prevent Black from castling and consolidating.} Ne5 22. dxe6 {Another immediate threat.} Bxe6 23. Nxe6 Qxe6 24. Qxe5 {Now White is up a piece, with Black's Q pinned.} O-O-O {Black belatedly castles, but this leads to further material losses.} 25. Qxe6+ Rxe6 26. Bxf5 {Pinning the R.} Rde8 27. Rfe1 {Piling on to the pinned R.} Kd7 28. Rad1+ {This forces the R's second defender away.} Kc6 {Black resigned before White's next move.  Rxe6+ is coming, leaving White up more than two pieces in an easy endgame.  Ke7 instead of Kc6 would have lead to the same outcome.} 

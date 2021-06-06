@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=27560"]
+[Date "??"]
+[Round "1"]
+[White "abdalmoneem (1665)"]
+[Black "martin_sneesby (1706)"]
+[Opening "Giuoco Piano (C54), Krause variation"]
+
+1. e4 { } e5 { } 2. Nf3 { } Nc6 { } 3. Bc4 {this is the Italian game.} Bc5 {this is called Giuoco Piano.} 4. c3 { } Nf6 { } 5. d4 { } exd4 { } 6. cxd4 { } Bb4+ { } 7. Bd2 { } Nxe4 { } 8. Bxb4 { } Nxb4 { } 9. Bxf7+ { } Kxf7 { } 10. Qb3+ { } d5 { } 11. Qxb4 { } Re8 { } 12. O-O { } b6 { } 13. Qb3 {till now,this follows Gameknot database.} Be6 { } 14. Ne5+ { } Kg8 { } 15. Qe3 { } Nd6 { } 16. b3 { } Nf5 { } 17. Qc3 { } Bd7 { } 18. Nd2 { } Rc8 {to play 19....c5.} 19. Ndf3 {i think better is 19.f4.} c5 { } 20. dxc5 { } bxc5 { } 21. Rfe1 {give more support to e5. } d4 { } 22. Qb2 { } Bb5 { } 23. Rad1 { } Ne7 { } 24. b4 {b4! } Nc6 {if instead 24....cxb4?? 25.Rxd4! then 26.Rxb4.} 25. a4 {25.a4!!! } Nxe5 {the best answer as if 25....Bxa4 then white to move and mate in 8 starting with 26.Qa2+!!!} 26. Nxe5 { } Qc7 {threatening 27....Rxe5.} 27. f4 {gives a very strong support to e5.} Bc6 {black is forced to move his bishop but i think better was 27....Ba6.} 28. bxc5 { } Red8 { } 29. Rxd4 { } Be8 { } 30. Rxd8 { } Qxc5+ {30.Qxc5+??? a very bad move that loses the rook by either 31.Qd4! or Rd4.} 31. Qd4 {Qd4!! the best answer to force black to exchange queens or his king would die. } Qa5 {another very bad move.now it is mate in 3 moves.} 32. Qc4+ {32.Qc4+!!!} Rxc4 {this made the mate faster.} 33. Rxe8# {a beautiful queen sacrifice that leads to mate next move.} 

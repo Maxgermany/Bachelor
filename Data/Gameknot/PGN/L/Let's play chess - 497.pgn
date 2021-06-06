@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=39110"]
+[Date "??"]
+[Round "1"]
+[White "atajdahan (1324)"]
+[Black "esofos (1200)"]
+[Opening "Queen's pawn game (A45)"]
+
+1. d4 Nf6 2. e3 d5 3. Be2 Bf5 4. Nf3 e6 5. Ne5 {moving the same piece in the opening without an obvious goal doesn't make sense} Nbd7 6. O-O Bd6 7. c3 {here f2-f4 might be a good move to consider.} Nxe5 8. dxe5 Bxe5 9. Na3 O-O 10. Bd2 Ne4 11. f3 {this move weakens the e3 pawn, and it also allows the knight to remove its basic defender, namely Bd2} Nxd2 12. Qxd2 Qh4 {in order to induce pawn weaknessess such as h2-h3 or f2-f4} 13. f4 Bd6 14. Bf3 g5 {taking advantage of the weaknesses created for opening a file towards the king on g1} 15. g3 Qh6 16. Bg2 Bc5 17. fxg5 Qxg5 18. Rfe1 Kh8 19. b4 Bb6 20. Nb5 {this knight should have moved to c2 in order to protect the e3 square. A knight is a better defender than a rook (as it costs less)} c6 21. Nd6 Bg6 22. a4 Bc7 23. Nxb7 {the pawn grabbing is completely irrelevant as long as the central pawns are enough to prohibit any action of the bishop on g2} f5 24. Nc5 Rae8 25. Qd4+ e5 26. Qh4 {black wouldn't have allowed the exchange of the queens but he had seen that after the pawn on h4 falls, the black squared bishop becomes a very dominant piece on the board} Qxh4 27. gxh4 Bd8 28. Ref1 Bxh4 29. Nd3 {the majority of the black pawns on the centre will decide the result of the game.} f4 30. Nc5 fxe3 31. Rxf8+ Rxf8 32. Ne6 Bf2+ 33. Kh1 Rf6 34. Ng5 e2 35. Nf3 Rxf3 36. Bxf3 e1=Q+ 37. Rxe1 Bxe1 {} 

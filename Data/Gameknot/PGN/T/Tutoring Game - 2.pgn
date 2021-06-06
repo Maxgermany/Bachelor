@@ -1,0 +1,9 @@
+[Event "Tutoring Game"]
+[Site "https://gameknot.com/annotation.pl/tutoring-game?gm=39621"]
+[Date "??"]
+[Round "1"]
+[White "jcalebb (1328)"]
+[Black "gsvc (1916)"]
+[Opening "King's Indian (E91), 6.Be2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 {The King's Indian Defense} 5. Nf3 {The Classical System } O-O 6. Be2 c5 {A not so popular move, the "normal" one is e5 } 7. O-O {The other option was d5 transposing into a Benoni Defense} Nc6 8. dxc5 {I think this is a dubious move, because it opens the d-file,lets an excellent place for a black N on d4 in the future and opens the a1-h8 diagonal for the black B. The alternative was 8 d5} dxc5 9. Nd5 {This move is letting the e4-pawn hanging. Better was Be3, trying to cover the d4-square and attack black's c5-pawn} Nxe4 10. Rb1 {Necessary for developing the c1-bishop, because the b2-pawn needs protection} b6 {Not so precise, the c5-pawn is not requiring protection now. Better was Bf5 or Be6} 11. Bf4 Nd6 {A dubious move again. Now, white can regain his pawn with Nxe7+ and Qxd6, with only a slight advantage for black. Again, better was Bf5} 12. Qd2 {White did not see Nxe7+. } Bf5 {Finally I played it!} 13. Rbd1 {Again, with the threat of Nxe7+} Nd4 {Stopping Nxe7+ and improving the knight's position} 14. Ng5 {Dubious move, the Knight is doing nothing on g5. Better was Nxd4, but black was clearly better after cxd4} e5 15. Be3 h6 {Now, the knight has to go to h3, because if Nf3, black plays Ne4 (as in the game)} 16. Nf3 Ne4 17. Qc1 {Losing the Queen, but the other moves were losing too, for example: 17 Qd3 Nxf2} Nxe2+ {Now, the game is over} 18. Kh1 Nxc1 19. Rdxc1 Nd6 20. Rfd1 Be4 21. Nd2 Bxd5 22. Nb3 {Another bad move} Nxc4 {White resigned, because if 23 Rxc4 black plays Bxg2+ and captures the d1-rook} 

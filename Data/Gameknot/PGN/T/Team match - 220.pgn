@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=55059"]
+[Date "??"]
+[Round "1"]
+[White "kvikas (1473)"]
+[Black "sanjinp (1498)"]
+[Opening "Owen defence (B00)"]
+
+1. e4 b6 {Owen Defense of the King's pawn opening.} 2. Nf3 Bb7 3. Nc3 e6 4. d4 Bb4 {The typical response (according to the database) is Bd3, though I prefer Bd2--the second most common response.  Bd3 is probably better as black usually wins with Bd2.} 5. a3 {This was fourth on the database list--with black usually coming out ahead, apparently.} Bxc3+ 6. bxc3 h6 {Bxe4 is preferred here.  Otherwise white responds with Bd3 to protect the undefended pawn.} 7. Bc4 {This move abandons the database.} Bxe4 8. O-O d5 9. Bb5+ c6 10. Ba4 b5 11. Bb3 {White has now moved the same piece three times in a row, allowing black to develop his pawn structure.} Nf6 12. Re1 O-O 13. Bf4 Nh5 14. Be3 Nd7 15. Ne5 Nxe5 16. dxe5 Qh4 17. f3 {I like this move--it was the first response I considered to black's defense of the knight.  But it does put the pawn in the way of QxN.} Bg6 18. Bf2 Qe7 19. Qd2 Qg5 20. f4 {That seems questionable.  Trading queens would not have been bad--it would open up black's h file.} Nxf4 21. Be3 Nh3+ 22. Kh1 Qg4 {This move looks foolhardy at first blush, but the knight sacrifice turns out to be ingenious.} 23. gxh3 {23... Be4+, 24. Qg2 Qxg2#.  I guess most of my advice ended up being for white.  Not my original intention.  But if you do this, what is your opponent's best response?  It is wise to look at least one move ahead.  Bc5 shows some promise.  Black retains the knight, but white could follow with Qd4.  White is down two pawns so trading is best avoided.  Maybe instead of Qd4, Pa4.  Trading pawns lets white attack black's c6 with rook and bishop.  Black saves the knight, but the game lasts longer.} Be4+ {} 

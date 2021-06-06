@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=58035"]
+[Date "??"]
+[Round "1"]
+[White "reubencpiplupyay (1273)"]
+[Black "seblou (1246)"]
+[Opening "Philidor (C41), Improved Hanham variation"]
+
+1. e4 e5 {Typical King's Pawn Opening.} 2. Nf3 d6 {The Philidor Defence. A fairly solid opening, although it blocks the DSB, and unnecessarily.} 3. d4 {I follow with the usual response.} Nf6 4. Nc3 {I decide to defend e4.} Qe7 {Defending e5. Is this a usual move?} 5. dxe5 {I go for a trade of pawns.} dxe5 6. Bc4 {I develop my LSB, allow myself to castle and apply pressure onto f7.} Be6 {Threatening my bishop.} 7. Bxe6 {I decide to trade. Is this OK?} Qxe6 8. O-O {I get my king to safety by castling.} Bc5 9. Bg5 {I develop my bishop. I guess it's OK to trade a bishop with a knight, because we both no longer have our bishop pairs.} h6 {Threatening my bishop.} 10. Bxf6 Qxf6 {?? Better would be gxf6, which reduces the threat of Qd5.} 11. Qd5 {This forks Black's DSB and the pawn on b7. Taking b7 also lets me take the rook on a8. The best move I can see is Qc6, but even that allows Qxe5+.} Qc6 {As I expected, Black does the best move.} 12. Qxe5+ {Winning a pawn with check.} Kf8 13. Rad1 {Preparing to do Rd8#, if Black doesn't intervene.} Nd7 {? Loses a bishop and knight for a rook. Better would be Be7.} 14. Rxd7 Qxd7 15. Qxc5+ {Check.} Kg8 16. Ne5 {Threatening the queen.} Qe7 {?? Loses a queen for free.} 17. Qxe7 {Faced with an overwhelming material disadvantage, Black resigns here. Feel free to comment and give constructive criticism.} 

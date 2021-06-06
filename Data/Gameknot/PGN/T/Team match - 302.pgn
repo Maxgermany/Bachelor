@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=49263"]
+[Date "??"]
+[Round "1"]
+[White "last_archimedean (1347)"]
+[Black "ivorthurston (1340)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 {Best by test.} e5 {The Classical response.} 2. Nf3 {The usual reply.} d6 {A move that leads, if followed up properly, to a solid [albeit somewhat cramped] position for Black.} 3. d4 {Immediately pressuring the center.} Bg4 {This move compels Black to concede a minor exchange...} 4. dxe5 {...after this reply, in order to avoid losing material.} Bxf3 {This move...} 5. Qxf3 {...compels this response.} dxe5 {Completing the exchange.} 6. Bc4 {White now has an advantage in development, and incidentally threatens the weak spot at Black's KB2.} Nf6 {Shielding the weakness from the White Q.} 7. Qb3 {Doubling on the diagonal.} b6 {The fatal error. Further development was called for. 7... Q-Q2 adds valuable protection to the KBP, and even 7... B-K2 would create a flight square.} 8. Bxf7+ {Black cannot interpose or capture, so he must move his K.} Kd7 {8... K-K2 also falls victim to White's next move.} 9. Qe6# {A stunningly abrupt finish.} 

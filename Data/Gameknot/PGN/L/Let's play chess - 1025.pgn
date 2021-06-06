@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=12550"]
+[Date "??"]
+[Round "1"]
+[White "kingshiznit (1124)"]
+[Black "angelbear_oh (1200)"]
+[Opening "Two knights defence (Modern bishop's opening) (C55)"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bb4+ 5. Bd2 d6 6. a3 d5 7. exd5 e4 8. dxe4 Nxe4 9. Bxb4 Nxb4 {This is the knight sacrifice that eventually opened up the h-file for my queen to go through.} 10. axb4 O-O 11. Qe2 Re8 12. O-O Bf5 13. Nd4 Nd6 {Discovering an attack against the queen, winning a bishop she can no longer hang around to protect.} 14. Qf3 Qd7 {This matches the firepower White has on my bishop at f5.} 15. Bd3 Re5 {Attacked thrice, defended thrice.} 16. Nc3 Rae8 17. Rae1 {White responds to my challenge up the e-file. Big showdown!} Re5xe1 18. Nce2 {Frankly, I didn't expect the knight to come in like this and cut off support for my rook.} Rxf1+ {The rook is dead, no matter what he does. Might as well take out White's rook as his dying act.} 19. Kxf1 Qa4 {This is when I realized I had an open door to the back rank. At this point, the best White could have done was 20. Bb5, forking queen and rook, but it's too late for him. Keep the pressure on his king and I'll at least save both pieces.} 20. Nxf5 {This knight was the one piece that could have protected a1 from my Queen (via 20. Nb3), and it goes the wrong way.} Qa1+ {All White can do is vainly throw material between my queen and his king. I have mate in two moves.} 21. Nc1 Qxc1+ 22. Qd1 Qxd1# {} 

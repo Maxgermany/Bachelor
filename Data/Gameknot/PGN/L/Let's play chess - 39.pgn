@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=67105"]
+[Date "??"]
+[Round "1"]
+[White "roundfinger (1330)"]
+[Black "a3schaak (1200)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 e5 2. Nf3 d6 3. h3 f5 4. exf5 {? Development of the queen's bishop for free.} Bxf5 5. d3 Nc6 6. a3 {? why weaken the pawn formation just to keep the knight off b4.} Qd7 7. c3 O-O-O 8. Be2 h6 9. O-O Nf6 10. b4 {? Too many pawn moves, minor pieces aren't developed yet.} g5 11. Nh2 Rg8 12. Bg4 h5 {! pawn sacrifice to open files. White should not have taken.} 13. Bxh5 Nxh5 14. Qxh5 Be7 15. Qe2 g4 16. hxg4 Bxg4 17. Nxg4 Rxg4 18. g3 Rh8 19. Qf3 Rg6 20. Rd1 Qh3 21. Qg2 {And this is where the queen will be for the rest of the game.} Qh5 22. Re1 Bh4 23. Nd2 Bg5 24. Nf3 Bf4 25. Kf1 Qf5 26. Ke2 e4 {! another pawn sacrifice keeps the pressure on te king alive.} 27. dxe4 Qb5+ 28. Kd1 Qd3+ 29. Bd2 Bxd2 30. Nxd2 Qxc3 {Now it is time for black to get some pawns back.} 31. Rb1 Nd4 32. Rc1 Qxa3 33. Re3 Qxb4 {Black is now one pwn up. The King is stranded in the middle. The Knight on d4 is a menace. And white's queen is stuck. Still black has to p[lay carefully not to allow an attack on c7.} 34. Rec3 Qa4+ {Without this check, white might have been able to take over initiative.} 35. Ke1 c5 36. g4 Qd7 37. f3 Qe7 38. Kf2 Qh4+ {Black has cleverly maneuvered the queen back to the other side where it again joins in the harassment of the white King. } 39. Ke3 Qg5+ 40. Kd3 Qf4 41. Rg1 {Nope, Nf1.} Rh2 42. Qg3 {White probably thought Qxg3, but ...} Qxd2+ {Ends the game.} 43. Kc4 b5+ 44. Kd5 Qa2+ {White resigned. } 45. Rb3 Qxb3# {Summary: white's queen got stuck on g2 defending while black's queen freely roamed the board chasing and harassing white's king. The black knight on d4 was key to black's win by restrictig white's pieces and the movement of it's King.} 

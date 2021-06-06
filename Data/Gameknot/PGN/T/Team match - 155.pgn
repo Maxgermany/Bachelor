@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=56512"]
+[Date "??"]
+[Round "1"]
+[White "psycho422 (1024)"]
+[Black "boxsterjohn (1000)"]
+[Opening "QP counter-gambit (elephant gambit) (C40)"]
+
+1. e4 e5 2. Nf3 d5 {Queens pawn counter gambit (Elephant gambit).} 3. Nxe5 dxe4 4. d3 Qe7 5. Bf4 g5 6. Bg3 f6 7. Qh5+ {This forces the king to move.  Nice surprise.} Kd8 8. Nf7+ {...and the rook goes bye.} Kd7 9. Nxh8 {Actually, this could wait while PxPd3+ was dealt with.} f5 10. Nf7 {Now white rescues the rook.  Black still likes PxPd3+.  Picks up two pawns.  Actually, Qb4+ might be better, followed by QxPb2.} Nf6 {Ne5+ saves the knight.} 11. Ne5+ {:)} Kd8 12. Qxg5 Bg7 13. dxe4 Nxe4 14. Qf4 Bf6 15. Nc4 {Not a good idea.  NxBg3+ gives black a free bishop.} Bg5 16. Qf3 {Oh, terrible!  Nd2+ and the white queen must move to e2 to block.  Then NxNc4 for free.  Black is better off with NxB+, followed by NxR  White loses two major pieces in as many moves.} Nxg3+ 17. Be2 Nxh1 18. Nc3 Qb4 {O-O-O+ won't work--cannot castle into check.  :(  Rd1 could be good.} 19. a3 Qc5 20. Nd1 {?  Not sure the point of that.} Be6 {Oh, bad move.  That bishop was all that was protecting black from QxPb7.  Of course, Bd5 keeps white from taking the rook.} 21. b3 Bd5 {Now QxPf5 traps black's white bishop.} 22. Qxf5 Bh4 23. g3 Be7 24. Bf3 Qc6 {Oops.  This won't defend against BxB.  Pc6 would have protected the bishop.} 25. Bxd5 Qc5 26. Nde3 Qd4 27. Rd1 Qc3+ 28. Rd2 Qa1+ 29. Rd1 Qc3+ 30. Nd2 Na6 31. Bxh1 Rc8 {That doesn't protect against BxPb7 forking the rook and knight.} 32. Bxb7 {Just like that.} Rb8 33. Ke2 Rxb7 {Oops.  Nb1+ and the black queen falls.} 34. Ne4+ {Or Ne4+, even better (gets the knight out more in the center--though it still ends up on c3, unless RxQd4.} 

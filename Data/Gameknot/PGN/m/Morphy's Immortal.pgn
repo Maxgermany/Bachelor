@@ -1,0 +1,9 @@
+[Event "Morphy's Immortal"]
+[Site "https://gameknot.com/annotation.pl/morphys-immortal?gm=62968"]
+[Date "??"]
+[Round "1"]
+[White "Paulsen "]
+[Black "Morphy "]
+[Opening "Four knights (C48), Bardeleben variation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bc5 5. O-O O-O 6. Nxe5 Re8 {Rather than permit the "fork trick" 6...Nxe5 7.d4, Black sacrifices a pawn for rapid development.} 7. Nxc6 dxc6 8. Bc4 b5 9. Be2 {The seemingly more logical 9.Bb3 fails to 9...Bg4 10.Qe1 [or 10.Ne2 Rxe4 winning the pinned Knight] 10...b4, and if 11.Na4 Rxe4 traps the White Queen.} Nxe4 10. Nxe4 Rxe4 11. Bf3 Re6 12. c3 {If White were able to follow up with 13.d4, this would be a good move, but he can't. He should reconcile himself to 12.d3.} Qd3 13. b4 Bb6 14. a4 bxa4 15. Qxa4 Bd7 16. Ra2 Rae8 {Threatens mate with 17...Qxf1+. White's reply defends against this sacrifice but allows another, which Paulsen can hardly be blamed for missing. Relatively best was 17.Qd1} 17. Qa6 Qxf3 18. gxf3 {Morphy took 12 minutes to decide on 17...Qxf3, an unusually long time for him. Paulsen, a notoriously slow player, thought for over an hour before capturing the queen.} Rg6+ 19. Kh1 Bh3 20. Rd1 {Black threatened 20...Bg2+ 21.Kg1 Bxf3++, and 20.Rg1 fails to 20...Rxg1+ 21.Kxg1 Re1+. The key line, which Paulsen probably missed at move 17, is 20.Qd3 [hoping to return the queen with 20...Qxg6] 20...f5! and White is helpless.} Bg2+ 21. Kg1 Bxf3+ 22. Kf1 Bg2+ 23. Kg1 Bh3+ 24. Kh1 Bxf2 25. Qf1 Bxf1 26. Rxf1 Re2 27. Ra1 Rh6 28. d4 Be3 {White resigns.} 

@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=2704"]
+[Date "??"]
+[Round "1"]
+[White "turboteddy (1656)"]
+[Black "acerbiter (1664)"]
+[Opening "Bishop's opening (C24), Berlin defence"]
+
+1. e4 e5 2. Bc4 {there is an unwritten rule (with almost no exceptions) to develop knights before bishops} Nf6 3. d3 Nc6 4. a3 d5 5. exd5 Nxd5 6. Qf3 Nd4 7. Qd1 Bg4 8. f3 Be6 9. Bxd5 Qxd5 10. Nc3 Qc6 11. Nge2 Bc5 12. Ne4 {12. ... Nxc2?! looks tempting with 13. Qxc2 Bf2  but after 14. Kd1 black loses a piece (14. Kxf2? of course loses the queen)} O-O-O 13. Nxc5 Qxc5 14. Be3 {a total blunder, allows black to play 14. ... Nxc2 } Nxc2+ 15. Kd2 {The worst place for the king, as he will be exposed to a crushing attack by black.  However 15.Kf1 loses the queen to Nxe3  and 15. Kf2 is met with ... Qxe3  15. Kf1 Nxa1 and white is lost in any case.} Rxd3+ {a nice move by black 16. Kxd3? leads to ... Bf5  17. Kd2 Qxe3 mate} 16. Kxd3 {missed the mate in two, however 16. Kc1 leads soon to a mate as well} Bf5+ {} 

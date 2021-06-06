@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=16426"]
+[Date "??"]
+[Round "1"]
+[White "veracitus (1327)"]
+[Black "billygoat57 (1395)"]
+[Opening "Ruy Lopez (C70), Graz variation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Nxe4 {The most common moves here are 6...Be7 and 6...Bb7.} 7. Re1 {7.d4 is usually played, but there is nothing wrong with this.} Nc5 8. d4 {Nigel Short has played 8.Bd5 Bb7 9.d4 in order to preserve the bishop. 8.Nxe5 Nxe5 9.Rxe5  is the commonest continuation.} Nxb3 9. cxb3 {Always capture towards the centre (axb3), unless there is a very good reason not to. 9.Nxe5 is also playable.} Bb4 10. Nc3 O-O 11. dxe5 Bxc3 {Black has played pretty well up to now, but this is crazy.} 12. bxc3 Re8 13. Qd5 {13.Bg5 looks stronger.} h6 14. Bb2 {A solid developing move, but I might have been tempted to leave the bishop on the c1-h6 diagonal, in the hope of playing Bxh6 at some future date.} Rb8 15. Rad1 {White is totally dominant in the centre, but Black has no significant weaknesses, so it won't be easy to convert this to a win. The logical continuation is an attack on Black's undefended kingside.} Ne7 16. Qd4 {Because both the c-pawn and the e-pawn are mobile, there is a serious mating threat here.} Nf5 {Black decides he can't leave the queen on that dangerous diagonal.} 17. Qf4 d5 18. exd6 e.p. c6 {It's probably better to take the pawn.} 19. Rxe8+ Qxe8 20. d7 {Well seen! 20.g4 also wins material.} Bxd7 21. Rxd7 Qxd7 22. Qxb8+ Kh7 23. Qe5 Qd1+ 24. Qe1 Qc2 25. Qc1 Qe2 26. h3 g5 27. Nd4 Nxd4 28. cxd4 b4 29. a3 bxa3 30. Bxa3 Qb5 31. Qc3 {Qc4 was stronger.} a5 32. Bb2 Qd5 33. Qc5 Qxb3 34. Bc3 a4 35. Qxc6 Qc2 36. d5 a3 {It looks as though Black could have got a perpetual check here: 36...Qc1  37.Kh2 Qf4  38.g3 Qxf2 } 37. Qf6 Qc1+ 38. Kh2 a2 39. Qg7# {} 

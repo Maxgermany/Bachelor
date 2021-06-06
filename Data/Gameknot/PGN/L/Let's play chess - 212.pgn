@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=56491"]
+[Date "??"]
+[Round "1"]
+[White "chrisoco (1020)"]
+[Black "reachforgoals (777)"]
+[Opening "Queen's pawn (D00), stonewall attack"]
+
+1. d4 {queen pawn opening} d5 {same} 2. e3 {pawn} Nc6 {knight} 3. Bd3 {bishop} Nf6 {knight} 4. Nf3 {same} g6 {pawn} 5. O-O {case king side} Bh6 {3 mniors piece out} 6. Nc3 {same} O-O {castle king side} 7. b3 {pawn} Bg4 {all minor peices out} 8. a4 Nxd4 9. exd4 {pawn} Bxc1 {bishop} 10. Qxc1 {queen} c5 {pawn} 11. dxc5 {pawn} d4 {pawn} 12. Nxd4 {knight} b6 {pawn} 13. f3 {in this case should black save the bishop or the pawn} Bf5 {saved the bishop} 14. Nc6 {knight} Bxd3 {out of bishops} 15. Nxd8 { lose queen} Raxd8 {rook} 16. cxd3 {lost bishop} bxc5 {pawn} 17. Qe1 {queen} a5 {pawn} 18. Qxe7 {is this a fork} Rfe8 {rook} 19. Qxf6 {out of minor peices} c4 {is this a fork} 20. dxc4 {-14} Rd3 {rook} 21. Nd5 {knight} Rxb3 {rook} 22. Ne7+ {check} Rxe7 {safe} 23. Qxe7 {queen} Rb2 {rook} 24. Qe8+ {check} Kg7 {king} 25. Rfe1 {rook} Rc2 {same} 26. Re7 {same} Kf6 {same} 27. Qxf7+ Kg5 {same} 28. f4+ {check} Kg4 {queen} 29. Qe6+ {check} Kxf4 {king} 30. Qe4+ {check} Kg5 {knig} 31. Qxc2 {queen} Kf4 {king} 32. Qe4+ {vcheck} Kg5 {knig} 33. Rf1 {rook} Kh5 {king} 34. Rxh7+ {rook} Kg5 {queen} 35. h4# {I lost} 

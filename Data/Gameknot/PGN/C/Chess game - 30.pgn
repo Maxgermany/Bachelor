@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=65386"]
+[Date "??"]
+[Round "1"]
+[White "linusinsulins (white)"]
+[Black "eric2jin (black)"]
+[Opening "Giuoco Pianissimo (C50)"]
+
+1. e4 {King pawn} e5 {Pawn} 2. Nf3 {I am black} Nc6 {Guarding } 3. Bc4 {Bishop } Bc5 {Development } 4. d3 {Pawn } h6 {Stopping the pin} 5. Be3 {Ah!} d6 {Guarding } 6. h3 {Stopping the pin} Be6 {Ya!} 7. O-O {Castling } Nf6 {Development } 8. Nc3 {Last of whites development} O-O {Standard opening} 9. Bxe6 {Oh no.} fxe6 {Yummy} 10. Bxc5 {Die} dxc5 {Bishop trades } 11. h4 {?} Ng4 {Yay!} 12. Qd2 {?} Rxf3 {Oops} 13. gxf3 {Oof} Qxh4 {Oops} 14. fxg4 {Oh} Qxg4+ {Ah!} 15. Kh1 {King} Qh3+ {Check} 16. Kg1 {King} Qg4+ {Check } 17. Kh2 {King} Qh4+ {Check} 18. Kg2 {King} Qg4+ {Check} 19. Kh1 {King} Qh3+ {Check} 20. Kg1 {King} Qg4+ {Check} 21. Kh2 {King} Qh4+ {Check} 22. Kg2 {King} Qg4+ {Check} 23. Kh1 {King} Qh3+ {Check} 24. Kg1 {Draw by 3 fold repetition} 

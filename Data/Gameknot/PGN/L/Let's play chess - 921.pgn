@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=19542"]
+[Date "??"]
+[Round "1"]
+[White "blake78613 (1797)"]
+[Black "serge2001 (1750)"]
+[Opening "Sicilian (B54)"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Bd7 {Invites White to play a Maroczy Bind} 5. c4 {Which White accepts} Nf6 6. Nc3 Nc6 7. Be2 Qa5 8. O-O g6 9. Nc2 {One of my favorite moves in the Maroczy Bind, but with the Queen on a5 the position screams for 9 Nb3 which pretty much forces 9...Qd8 (9...Qc7 10 Bg5 Bb7 11 Bxf6 Bxf6 12 Nd5 with the idea 13 Nxf6 ) 10 f4 and White has a good game.} Bg7 10. Be3 {10 f4 would be good.} O-O 11. f3 {Unduly passive, makes the LS bishop bad and restricts the f1-rook.  With the Black Queen offside, no reason not to play 11 f4.} Nh5 12. Bd2 {12 c5 would be strong here 12...Rfd8 13 cxd6 exd6 and Black's isolated d-pawn would be weak.} Nd4 13. Nd5 Nxe2+ {Why take White's bad bishop?} 14. Qxe2 {I think White now has an edge} Qd8 15. g4 {This gives the edge away.  15 Bc3 Bxc3 16 Nxc3 maintains White edge.} e6 {Black has equalized} 16. Nc3 Nf6 17. Kh1 {17 Be3 is better} Ne8 {Now Black has more than equalized.} 18. Qf2 f5 19. Qg3 {better would be 19 gxf5 gxf5 20 Rg1} Be5 20. f4 Bxc3 21. Bxc3 Bc6 22. Ne3 {22 Kg1 is more accurate 22...Bxe4 23 Ne3 Ng7} Bxe4+ {Black misses his chance 22...Nf6 23 Bxf6 Bxe4  24 Kg1 Qxf6 25 Rf2 and Black would have a clear advantage} 23. Kg1 Nf6 24. h3 {24 Rad1 would be stronger} fxg4 25. hxg4 Qb6 {Better would be 25...Bc6 26 Bxf6 Qxf6} 26. Rf2 Bd3 {Black could have kept an edge with 26 ... Bc6 27 Bxf6 Rxf6} 27. Rd1 {A blunder, White should have played 27 Bxf6 Rxf6 28 Rd1} Be4 {27...Ne4! would win the game 28 Qf3 Nxf2 29 Qxf2 Bxc4} 28. f5 {better was 28 Bd4 Qa5 29 g5 and White is in the game.} e5 {Black again has a clear advantage} 29. Kh2 {the final mistake in a bad position.  29 Qh3 was relatively better} Qxe3 {30 Qxe3 Nxg4 } 

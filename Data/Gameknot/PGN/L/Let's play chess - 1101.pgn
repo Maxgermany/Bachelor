@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=6217"]
+[Date "??"]
+[Round "1"]
+[White "belacqua17 (1273)"]
+[Black "boyko (1305)"]
+[Opening "French defence (C00)"]
+
+1. e4 e6 2. Nf3 {my favorite line against what I thought would be the french...} f6 {??} 3. d4 {staking a claim to the center} d6 {??} 4. e5 {maybe not the best move, but an aggressive one nonetheless} dxe5 5. dxe5 Qxd1+ {eliminates the option of castling} 6. Kxd1 f5 7. Bc4 Be7 8. Bf4 h6 9. Nc3 c6 10. Ke2 {brings the king into the game, connects the rooks} b5 11. Bb3 Bb4 12. Nd4 Bxc3 {opens the b file for later attacks...} 13. bxc3 g5 14. Bd2 Ke7 15. c4 {clearing out the b file completely} bxc4 16. Bxc4 a5 17. Rhb1 {threatens Rxb8 followed by Rxb8 and Nxb8 , forking the king and rook} f4 {he misses the attack and...} 18. Rxb8 {boom!} Rxb8 19. Nxc6+ Kf7 20. Nxb8 {all of a sudden the game has been busted wide open} Bb7 21. Bxa5 Bxg2 22. Rd1 f3+ {last ditch checking attempt inadvertently traps his bishop} 23. Ke3 Ne7 {attacks my knight prepares for a last ditch check} 24. Na6 Nf5+ 25. Ke4 Rc8 26. Bb3 Ne7 27. Rd7 {pins the knight} Ke8 {bad way to remove the pin, allows me to take e6} 28. Bxe6 Nc6 {attacks the bishop on a5} 29. Nc7+ Kf8 {moves his king away from his other pieces} 30. Rf7+ {continues the attack} Kg8 31. Rf6+ {gets rid of his rook and moves his knight away if he takes the bishop back} Kg7 32. Bxc8 Nxa5 33. Ne6+ {sets up quick mating possibilites} Kg8 34. Rxh6 {removes the defender of g5 so my knight can go there after Rg6  if he goes Kh8, then Nf7  , if Kf7 then Rg7  Ke8 and then Bd7  } g4 {no other good moves} 35. Rg6+ Kf7 36. Rg7+ Ke8 37. Bd7# {checkmate!} 

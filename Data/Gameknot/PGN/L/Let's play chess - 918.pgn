@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=19700"]
+[Date "??"]
+[Round "1"]
+[White "sacred-guardian (1415)"]
+[Black "matpalm (1333)"]
+[Opening "Queen's pawn, Mason variation (D00)"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 {open up for bishop, queen along diagonal and protect d5} 4. Nf3 Bd6 {king side castle} 5. Bg5 {moving same piece twice? pins N} c5 {occupy space, this was the fundamental theme for this game} 6. Bxf6 Qxf6 {trade of pieces as well as safely mobilising queen} 7. c3 {defends d4 but maybe not required? 7... cxd4 8. Nxd4 would be safe for white. now c3 is not free N on b1} Bd7 {take diagonal} 8. b3 {occupy space} b5 {even more space} 9. a3 c4 10. b4 {was expecting bxc4, consider how locked in white pieces are now. neither Nb1 or Bf1 can do much} O-O 11. Nbd2 a5 12. Be2 a4 {now totally locked in} 13. Qc2 Nc6 14. Bd1 {slow maneuvers from white } e5 {start to open middle} 15. dxe5 Nxe5 {wanted B on e5 more than N so start trade with N} 16. Nxe5 Bxe5 {threatens Bxc3 winning pawn and further threatening Bxa1} 17. Nb1 {defends c3} Bf5 18. Qb2 Bxb1 {remove defender of c3} 19. Rxb1 {blunder, loses queen for white, better was 19 Qxb1} Bxc3+ {wins white queen} 20. Qd2 Bxd2+ 21. Kxd2 c3+ 22. Ke2 Qg6 {threaten c2. if Bxc2 then Qxc2  and trouble} 

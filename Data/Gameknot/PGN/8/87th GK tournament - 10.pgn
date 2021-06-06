@@ -1,0 +1,9 @@
+[Event "87th GK tournament"]
+[Site "https://gameknot.com/annotation.pl/87th-gk-tournament?gm=41546"]
+[Date "??"]
+[Round "1"]
+[White "kaspanatola (1866)"]
+[Black "morgansm (1504)"]
+[Opening "King's pawn game (C20)"]
+
+1. e4 {An uncommon opening lead to a blunder that sealed the fate of the game } e5 2. Bb5 {Portuguese opening, my frequent choice against e5} Nf6 3. d4 {the main line after 2...Nf6} Bd6 {?? allows a decisive attack} 4. dxe5 {forks both bishop and knight} Bxe5 {or: a) Ng4 Qxg4 b) Bb4 c3 and black has two pieces en prise, will lose one of them } 5. f4 {to support e5, if Bxf4 then Bxf4 and white's activity is overwhelming } Nxe4 {wins another pawn, but then I have Qd5 leaving again two black pieces "en prise"} 6. Qd5 {again attacking both black pieces and also f7} Qh4+ 7. g3 {blocks the queen} Nxg3 {hoping for hxg3} 8. Nf3 {again two of black pieces attacked} Qh5 {the knight is defended by my queen, and e2 is defended by my b5 bishop} 9. Ng5 {a mate threat has appeared now, and black still has two pieces "en prise"} Bf6 10. hxg3 {to get some pieces back and harden black's queen life} c6 {?? Loses the queen} 11. Qe4+ {black king moves, or the bishop blocks the check and then Rxh5 win the queen, plus with my rook on h5 and knight on g5 I can avoid the pin that wins back the queen:   11...Kd8 12.Rxh5:  a) 12...Re8 to pin the queen 13.Nxf7 wins the rook also b) 12...Bxg5 I don't even have to move the queen away, 13.Rxg5 and I have my rook to block black's rook 13...Re8 14.Re5} Be7 12. Rxh5 {now if cxb5, I'll play Nxh7 aimed at Nf6+ to win the h8 rook} d5 {?? the c pawn is pinned} 13. Qxd5 Bxg5 14. Qxg5 {} 

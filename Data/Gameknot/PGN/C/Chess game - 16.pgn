@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=66332"]
+[Date "??"]
+[Round "1"]
+[White "windandrain72 (970)"]
+[Black "ph-lampe (1097)"]
+[Opening "Queen's pawn (D00), Chigorin variation"]
+
+1. d4 d5 {QP opening.} 2. Nc3 Bf5 3. Bf4 f6 4. Nb5 {Attacking the Q side.} c6 {?} 5. Nc7+ Kd7 6. Nxa8 {+5!!!!!} Na6 {Not for long...:(} 7. e3 {Marked as an error by Stockfish.} Nb4 8. Bd3 {Also marked as a mistake.} Bxd3 9. cxd3 Nxd3+ {???} 10. Qxd3 {+7!!!!!} Qxa8 11. Qf5+ e6 12. Qh3 Bb4+ {Oops...} 13. Ke2 Ne7 14. Nf3 a5 15. Qg3 Qa6+ {Oops again...} 16. Kd1 Qd3+ 17. Kc1 {Not good. :(} c5 {???} 18. Bc7 Bd2+ {What?} 19. Nxd2 {+7 again. :)} e5 20. dxe5 {My opponent resigned because of the loss of material but he could have gained back a piece with 20...Kxc7.} 

@@ -1,0 +1,9 @@
+[Event "Rated game, http://lichess.org/3CWqsAvY"]
+[Site "https://gameknot.com/annotation.pl/rated-game-http-lichess-org-3cwqsavy?gm=60784"]
+[Date "??"]
+[Round "1"]
+[White "Analysis of Cocumhehe (1660)"]
+[Black "john2001plus (1850)"]
+[Opening "French (C02), advance, Steinitz variation"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. c3 Nc6 7. Nf3 cxd4 8. cxd4 Bb4+ 9. Bd2 Nge7 10. Bxb4 Nxb4 11. Nc3 Rc8 12. a3 Nbc6 13. O-O O-O 14. Qd3 Na5 15. Nd2 Nc4 16. Nxc4 dxc4 17. Qe4 Nd5 18. Nxd5 Qxd5 19. Qxd5 exd5 20. f4 b5 21. Rac1 a5 22. Rf3 b4 23. a4 {The critical position.} c3 {This temporary pawn sacrifice ended up decisive. } 24. bxc3 Rc4 25. f5 {Here black played 25. ... bxc3.  Instead he could have made a much better move, so what follows is computer analysis. } Rb8 { } 26. Rb1 { } b3 27. h3 Rxa4 28. Kh2 Ra2 29. c4 dxc4 30. Rc3 Rb4 31. Rcc1 a4 32. d5 Rd2 33. d6 f6 34. d7 Rxd7 35. e6 Rd3 36. e7 Kf7 37. Rce1 Ke8 38. Re4 a3 39. Rg4 b2 40. Rxg7 {Now if 40... a2?? 41. Re1 and black gets mated. } Rbb3 41. Rg8+ Kxe7 42. Ra8 c3 43. Re1+ Kd7 44. Ra7+ Kc8 {Why Kc6 is a tiny bit worse according to the computer will be explained shortly ... } 45. Ra6 {Or 45. Re8+ Rd8 46. Ra8+ Rb8...       Now in this position if the king and rooks were on the 6th rank instead, white would be able to play 47. Rxa6 because the rook on e6 is protected.  Of course, black still wins.  So with the king and rooks on the 8th rank ...  47. Rxb8+ Kxb8 48. Rxd8+ Kc7 and the pawns win. } Kb7 46. Rxf6 Rd7 47. Rf8 c2 48. Ree8 c1=Q 49. Reb8+ Ka6 50. Rba8+ Kb6 51. Rab8+ Rb7 52. Rf6+ Ka7 53. Rxb7+ Kxb7 54. Rf7+ Kc6 55. Rf6+ Kd5 56. h4 Qf4+ {} 

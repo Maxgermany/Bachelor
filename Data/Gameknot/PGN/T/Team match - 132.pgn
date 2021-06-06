@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=57253"]
+[Date "??"]
+[Round "1"]
+[White "goodlifer (1224)"]
+[Black "phoag53 (1251)"]
+[Opening "Philidor (C41), Steinitz variation"]
+
+1. e4 e5 2. Nf3 d6 {Philidor's Defense.} 3. Bc4 {Steinitz variation of Philidor's defense. } Bg4 4. h3 Bxf3 {QxBf3 sets white up for the "four move" checkmate.} 5. Qxf3 {White now has two pawns in the field, a queen and bishop, and is set to castle on the king's side.  Black has two pawns, making him a little underdeveloped.} f6 {That works to prevent rapid mate.} 6. O-O a6 7. d3 Ne7 8. Nc3 Nbc6 9. Be3 Nb4 10. Rac1 Nbc6 11. a3 Qd7 12. Nd5 Nxd5 13. Bxd5 Be7 14. b4 b5 15. c4 Na7 {?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.} 16. Bxa8 O-O {Nothing is protecting BxNa7.  White will probably move Bd5+ first, then nab the knight for free.  My recommendation is Pc6, to first trap the bishop behind its enemy lines.} 17. Bd5+ Kh8 18. Bxa7 {c6 makes white choose which bishop to lose.} c6 {Good!} 19. Qe3 {White chooses white, doubling black's pawns.} c5 {?  PxBd5, PxP.  White gains back two points.  Here Bb6 preserves white's black bishop.} 20. Bb6 Bd8 {Down eight points black is better off NOT offering even trades.} 21. Ba5 Bxa5 22. bxa5 bxc4 23. Bxc4 Qa4 24. Be6 Qxa3 25. Bf5 {White has moved this bishop three times, sacrificing the left side pawns in the process.} Qxa5 26. Rca1 Qb6 27. f4 g6 28. Be6 Qb8 {With this move black sacrifices Pa6.} 29. Bc4 {RxPa6 looked better to me.  Bc4 could have waited.} Qb2 30. fxe5 Kg7 31. exf6+ Rxf6 {White is likely to play RxPa6.  Ahead 7 points (or 8), white can then afford to trade down, increasing piece value in the process.  RxRf6 would be disastrous for white, because QxRa1+ would be followed by QxRf6.  Though black would only pick up 5 points-black has a lot of catching up to do.  And white probably won't make that mistake anyway.} 

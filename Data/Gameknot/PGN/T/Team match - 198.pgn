@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=55275"]
+[Date "??"]
+[Round "1"]
+[White "sanjinp (1490)"]
+[Black "millerdias_chess (1516)"]
+[Opening "Benko's opening (A00)"]
+
+1. g3 {Benko's opening.} c5 2. Bg2 Nf6 3. Nf3 g6 4. O-O Bg7 {Per the database Nc6 seems like a stronger move for black, though this move is the most common response.} 5. d4 cxd4 6. Qxd4 O-O 7. Bg5 Nc6 8. Qd2 Rb8 9. Bf4 d6 10. Na3 Bd7 11. b4 a6 12. c4 Ne8 13. Rad1 Na7 14. c5 b5 15. cxd6 Nxd6 16. Bxd6 exd6 17. Qxd6 Bc6 18. Qc5 Qb6 19. Rdc1 Qxc5 20. Rxc5 Bxf3 21. Bxf3 Nc8 22. Rd1 Rb6 23. Rcd5 Ne7 24. Rd5d6 Rxd6 25. Rxd6 Bb2 26. Nb1 Rc8 27. Nd2 Bc3 28. a3 Bb2 29. Rxa6 Nf5 {Bg4 temporarily pins the black knight.} 30. Bg4 Rd8 31. Ne4 Nd4 32. e3 Nc2 33. a4 {Oops, white is vulnerable to a pawn fork of his knight and bishop.} Nxb4 34. Ra5 bxa4 35. Rxa4 Nd5 36. Ra2 Bg7 37. Rd2 f5 {...and there it is.  White is able to recover since the black rook is pinned.} 38. Bf3 fxe4 39. Bxe4 Bc3 40. Rxd5 {Bxd5+ seems better.  41. Rd3 counter threats the black bishop, and white can defend the white bishop with e4, freeing up his rook with a pawn advance.} Rxd5 41. Bxd5+ {On the other hand, forcing a trade while up two pawns also plays to white's advantage.} Kf8 42. Kg2 g5 43. f4 gxf4 44. gxf4 Ke7 45. Kg3 Kf6 46. Kg4 Bd2 47. e4 h6 48. h4 {The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.} Bc1 49. e5+ {...just like that.} Ke7 50. f5 Bb2 51. Kf4 Bc1+ 52. Ke4 Bd2 53. h5 Bc3 54. f6+ Kf8 55. Kf5 Ke8 56. e6 {} 

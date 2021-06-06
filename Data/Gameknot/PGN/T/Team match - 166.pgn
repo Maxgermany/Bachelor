@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=56291"]
+[Date "??"]
+[Round "1"]
+[White "nevhelp (1081)"]
+[Black "revcedbur (1014)"]
+[Opening "Queen's pawn game (A45)"]
+
+1. d4 Nf6 2. d5 {Queen's pawn.  Most of the responses to this move look pretty good for black. } c6 3. Bg5 {NxPd5 seems like a safe bet.  Lesmondo vs. Arcamax.   http://gameknot.com/analyze-board.pl?bd=8581297&mv=6&rnd=0.6282644271850586 } h6 4. Be3 e5 {Pxe6 e.p.} 5. c4 {...or that.} Bb4+ 6. Nd2 O-O 7. Qa4 a5 8. f4 exf4 9. Bxf4 d6 10. a3 Bc5 11. e3 cxd5 12. Be2 Bd7 13. Qc2 dxc4 14. Qxc4 Nc6 15. Qd3 {White has moved the queen three times in a row.  This aids black development.} d5 16. Bd1 Ne4 17. Nxe4 dxe4 18. Qxe4 Qh4+ 19. g3 Qf6 20. Ra2 {I think I like Bc2 much better.  If black blocks checkmate, then Rb1 keeps the rook from getting buried.} b5 21. Bc2 {There it is.} Bg4 {Black ignores impending doom.} 22. Qh7# {} 

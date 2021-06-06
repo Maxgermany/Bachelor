@@ -1,0 +1,9 @@
+[Event "chess is fun"]
+[Site "https://gameknot.com/annotation.pl/chess-is-fun?gm=26842"]
+[Date "??"]
+[Round "1"]
+[White "burlanisback (1672)"]
+[Black "sfarquharson (1094)"]
+[Opening "Queen's pawn (A40), Lundin (Kevitz-Mikenas) defence"]
+
+1. d4 Nc6 2. c4 e6 3. Nc3 f5 4. Nf3 g6 5. d5 exd5 6. Nxd5 b6 {big mistake! this allows Bg5} 7. Bg5 Nge7 {if Be7 then Nxe7} 8. e3 h6 9. Bf6 {Keeping pressure on black's king side} Rh7 10. Nh4 Bg7 11. Nxg6 Ba6 {11...Bxf6 12.Nxf6+ Kf7 might have been good} 12. Ngxe7 Nxe7 13. Qh5+ {bringing the queen into action} Kf8 14. Bxe7+ Qxe7 15. Nxe7 Kxe7 16. O-O-O {developing the rook on the open column} d6 17. Qxf5 Rhh8 18. c5 {good move! this solves the problem with where to develop the white square bishop! best response should be here 18...Bxf1 19.cxd6+ cxd6 Rhxf1} Rhf8 19. cxd6+ cxd6 20. Qe4+ Kd7 21. Bxa6 Rae8 22. Bb5+ Kd8 23. Rxd6+ {black is lost!} Kc7 {the other move leads to mate too 23... Kc7 24.Qc6+ Kb8 25. Rd7} 24. Rd7+ {queen will deliver the mate on b7 next move} 

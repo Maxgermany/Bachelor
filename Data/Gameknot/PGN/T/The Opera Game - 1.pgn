@@ -1,0 +1,9 @@
+[Event "The Opera Game"]
+[Site "https://gameknot.com/annotation.pl/the-opera-game?gm=12022"]
+[Date "??"]
+[Round "1"]
+[White "Paul Morphy "]
+[Black "Duke Karl of Brunswick/Count Isouard "]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 {As Bobby Fischer noted, "This is a weak move already."} 4. dxe5 Bxf3 {If 4. ... dxe5, then 5. Qxd8 Kxd8 6. Nxe5 and black has lost the pawn and the ability to castle.} 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 {Attacking f7.  Had black adopted a different move order - say 7. ... c6 then white wins with 8. Bxf7  Ke7/d7 9. Qe6#} Qe7 8. Nc3 c6 9. Bg5 {Fischer, again - "Black is in what's like a zugzwang position here. He can't develop the [Queen's] knight because the pawn is hanging, the bishop is blocked because of the Queen."} b5 10. Nxb5 {!} cxb5 11. Bxb5+ Nbd7 12. O-O-O Rd8 13. Rxd7 Rxd7 14. Rd1 Qe6 {Freeing the knight to protect the rook.  This also serves the psychological purpose of threatening the white queen, which might encourage many players to abandon their offensive in favor of an exchange game.  Note, however, that white would even take an advantage after 15. Qxe6  fxe6 16. Bxf6 gxf6 17. Rxd7 ... (the black King has no legal moves) 18. Rxa7+ (by discovery).} 15. Bxd7+ Nxd7 16. Qb8+ {!} Nxb8 {An elegant queen sacrifice, but by no means a swindle.  Black has played his only legal move.} 17. Rd8# {} 

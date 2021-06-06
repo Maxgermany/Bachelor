@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=56026"]
+[Date "??"]
+[Round "1"]
+[White "jayl5 (1212)"]
+[Black "dnage (1200)"]
+[Opening "Sicilian (B27), Hungarian variation"]
+
+1. e4 c5 2. Nf3 g6 3. Bc4 Bg7 4. Bxf7+ {A sudden sacrifice that, however, doesn't work. Usually, unless you have a huge lead in development, sacrifices for an attack don't work. } Kxf7 5. Ng5+ Ke8 6. Qf3 Bf6 {When you are attacking your opponent, you have to make sure that his pieces are unable to collapse into defense succesfully. In this position, my dark-squared Bishop alone has stopped the attack.} 7. d4 cxd4 8. O-O {Almost forced, because 8... Bxg5 9. Bxg5 Qa5+ winning the piece on g5 was threatened.} d6 9. Rd1 Nc6 {I am able to complete my development without any problem, therefore the sacrifice hasn't yield anything meaningful for White.} 10. c3 dxc3 11. Nxc3 Ne5 12. Qf4 Bg4 13. Ne6 {Losing another piece. There was no necessity to panic and play such a move, he could have just moved the rook.} Bxe6 14. Nd5 Bxd5 {If ahead in material, why shouldn't I exchange some pieces?} 15. Rxd5 Qb6 16. Be3 Qxb2 17. Rad1 Qxa2 18. Bc5 {Shily trying to complicate the game. Laudable effort but no result.} dxc5 19. Rxc5 {He could have just lost an exchange after 19. Rxe5 Bxe5 20. Qxe5 Nf6.} Qe2 20. Qc1 Bg5 {Trying to deviate White Queen.} 21. f4 Bxf4 {Still employing the same theme. f4 has just lost a pawn, because even though there is no more mate after Qxf4 he will lose an exchange in the process.} 22. Rc8+ Rxc8 23. Qxc8+ Kf7 24. Rf1 {If I could just play Be3+ it would be mate very soon. Unluckily, the Bishop is pinned.} Nf6 {A really nice move, threatening the White Queen and unpinning the Bishop at the same time. } 25. Qxh8 {He should have resigned himself to losing his Queen after Rxf4. Now it is mate.} Be3+ 26. Kh1 Qxf1# {} 

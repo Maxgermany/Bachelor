@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=33689"]
+[Date "??"]
+[Round "1"]
+[White "chess-knot (1769)"]
+[Black "richn (1841)"]
+[Opening "Pirc (B09), Austrian attack"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bc4 Nxe4 {A common trick in the Bc4 lines of the Pirc} 7. Bxf7+ Rxf7 8. Nxe4 h6 {Important to keep the Knights from g5 and e6} 9. O-O Bg4 {9. h3 is recommended to stop this so I thought I'd give it a go. } 10. c3 Nc6 {In light of White's 14th move, I think the knight was much better on d7} 11. Qb3 Bxf3 12. Rxf3 b6 13. f5 g5 14. Qe6 {This is now looking a bit hairy with pieces swarming around my king...  I'd missed how strong 14 Qe6 was.  14... Qc8 might have been better} Qf8 15. Bxg5 {The alarm bells were ringing now - I'd hoped this wasn't coming} hxg5 16. Nxg5 Nd8 17. Qg6 {I had been intending 17 Rf6 but realised as this unfolded that 18 Qh7 was mate...   Hence this rather odd looking move.} Qe8 18. f6 {I was expecting 18 Re1 - absolutely crushing, my e7 pawn can't move and I have no decent reply.  Sadly for white, this plan is unsound..} exf6 19. Rxf6 Qe3+ {There's no way for white to avoid losing material, unluckily } 

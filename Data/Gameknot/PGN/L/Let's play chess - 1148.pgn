@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=2593"]
+[Date "??"]
+[Round "1"]
+[White "juntopunk (1408)"]
+[Black "kansaspatzer (1510)"]
+[Opening "Budapest defence declined (A51)"]
+
+1. d4 {This game comes to a sudden end when White overlooks a combination.} Nf6 2. c4 e5 {This is the Budapest Gambit.} 3. Bg5 {White should have taken the pawn instead. This move isn't bad, but simplifies things too much.} exd4 4. Qxd4 Be7 5. Nc3 Nc6 6. Qe3 {This move hampers White's development. Qd3 would have been wiser, and White could answer Nb4 with Qd2.} O-O 7. Nf3 d6 {Completeing development.} 8. Nd5 Nxd5 9. cxd5 Bxg5 10. Nxg5 Ne5 11. g3 {White intends to develop his bishop to g2, but the bishop will be blocked in by the pawn on d5.} h6 12. Nf3 Re8 13. Bg2 Qf6 14. O-O Nxf3+ 15. Qxf3 Qxb2 16. Rfe1 Qe5 {Black still needs to keep an eye on his weak queenside pawns.} 17. e4 c6 {Black moves the pawn before White can threaten it with Rec1.} 18. dxc6 bxc6 19. Rac1 c5 {Black has a backwards d-pawn, but it can be easily defended, and after all, it is an extra pawn.} 20. Rcd1 a5 21. Rd5 {White blunders. His back rank is completely undefended.} Qxd5 22. exd5 Rxe1+ {Black already has enough material for the queen in the form of two rooks, but he's not done; he can win back the queen.} 23. Bf1 Bh3 {White could have resigned here.} 24. Qd3 Rxf1+ 25. Qxf1 Bxf1 26. Kxf1 Re8 {Now that the king can't cross the e-file, all Black has to do is push his c pawn.} 27. f3 c4 {} 

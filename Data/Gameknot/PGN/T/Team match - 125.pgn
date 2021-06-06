@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=57505"]
+[Date "??"]
+[Round "1"]
+[White "mister100 (946)"]
+[Black "psycho422 (1066)"]
+[Opening "Petrov three knights game (C42)"]
+
+1. e4 e5 2. Nf3 {King's knight opening.} Nf6 {Petrov's Defense.} 3. Nc3 {Petrov three knights.} Bb4 4. d3 Bxc3+ 5. bxc3 d5 6. exd5 Nxd5 7. c4 Nc3 8. Qd2 Na4 9. Be2 Nc6 10. O-O Be6 11. a3 Bf5 {Kind of a wasted move.  That is, 10...Be6 should had been Bf5 instead.} 12. h3 O-O 13. g4 Bg6 14. g5 Nd4 {Now nothing protects Pe5 from NxPe5.} 15. Nxe5 {Just like that.} Bf5 16. Rb1 {While Pb7 is not protected, white will need to move the rook in the event BxPh3.  This will give black time to defend against RxPb7.} Bxh3 17. Re1 Qd6 18. Qf4 {Pc2 is undefended against NxPc2.  White will have to move Rd1 or lose the rook.  This, however, would be bad for white because Nc3 would then fork the two rooks.} Nc3 {This move should have been saved until after NxPc2.} 19. Rb4 {Ok, white is oblivious to the threat of NxPc2 (an undefended pawn) which then forks the rooks.} Ndxe2+ {This is actually a much superior move, though I would have used NcxBe2+, preserving the rook fork until after the queen had fallen.} 20. Rxe2 {Now this will hurt.  Rook, queen, and Ne5 traded for a knight and bishop...} Nxe2+ 21. Kh2 {I take it back--NxQf4 protects the bishop.} Nxf4 22. Bxf4 Qe6 {I kind of like Qd4, which threatens Bf4.  Let white trade bishops if he wants.} 23. Rxb7 f6 24. gxf6 gxf6 {While this threatens the knight, it splits the pawns, and RxPf6 attacks white's bishop instead.  White must move Bg3 to protect both it and the knight.} 25. Rxc7 fxe5 26. Bg3 Bf1 {This move focuses black's attention fully on the king.  Mate in four, if white sacrifices the rook.} 27. Kg1 {Two.} Qh3 {Rg7+, KxR, BxPe5+, king moves to some white square...  This adds a couple extra delaying moves. } 28. Bh2 Qg2# {} 

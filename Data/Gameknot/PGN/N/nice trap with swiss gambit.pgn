@@ -1,0 +1,9 @@
+[Event "nice trap with swiss gambit"]
+[Site "https://gameknot.com/annotation.pl/nice-trap-with-swiss-gambit?gm=47823"]
+[Date "??"]
+[Round "1"]
+[White "31415 (1346)"]
+[Black "dw21 (?)"]
+[Opening "Bird's opening, Swiss gambit (A02)"]
+
+1. f4 {bird opening} f5 {swiss gambit } 2. e4 {Swiss gambit} fxe4 {accepted} 3. d3 {main line : to develop lsb, blacks dont fall in trap} Nf6 4. dxe4 d6 5. Bd3 Bg4 6. Nf3 e5 7. f5 Nbd7 8. O-O Nc5 9. Bg5 Be7 10. Bxf6 Bxf6 11. Bc4 {trap's coming, the knight should not take e4...} Nxe4 {but he did !} 12. Qd5 {the game is lost for blacks !} Ng5 13. Nxg5 Bxg5 14. Qf7# {f5 is one of the worse response i have found playing bird opening} 

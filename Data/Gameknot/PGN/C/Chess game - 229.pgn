@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=28830"]
+[Date "??"]
+[Round "1"]
+[White "Korchnoi "]
+[Black "Spassky "]
+[Opening "Sicilian (B71), dragon, Levenfish variation"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 {Standard stuff...} 5. Nc3 g6 6. f4 Bg4 {A mistake by Spassky.} 7. Bb5+ Nbd7 8. Bxd7+ Qxd7 {He has no better alternative. 8...NxB 9 QxB and 8...BxB 9 P-K5 are strong for Korchnoi.} 9. Qd3 e5 10. Nf3 Bxf3 11. Qxf3 {Spassky's position is still tenable...} Qg4 {Oops. Now it isn't!} 12. Nd5 {Spassky resigns. If 12... QxQ, 13 NxNch K-K2 14 N-Q5ch, followed by 15 PxQ, wins a clear piece.} 

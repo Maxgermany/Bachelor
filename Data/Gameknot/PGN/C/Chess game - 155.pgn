@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=42630"]
+[Date "??"]
+[Round "1"]
+[White "??? "]
+[Black "??? "]
+[Opening "Caro-Kann defence (B12)"]
+
+1. e4 {My normal startup} c6 2. d4 {Testing new waters; seeing if this pawn will do anything up here.} d6 3. b3 {Going for my normal diagonal pawn defense.} Nf6 4. f3 {Blocking the knight.} Qa5+ 5. Bd2 {Blocking the queen} Qb6 6. c4 {finishing the left half of the diagonal.} Qxd4 {without even paying attention to the board} 7. Nc3 {blocking the queen from my rook and not to move the bishop to protect my queen.} Be6 8. Qe2 {I'm starting to get lazy here...hey, it's a computer with scores that don't matter.  Just trying some things out.} Na6 9. O-O-O Nb4 10. Be3 {Putting myself in the offense...} Qxc3+ {So I think...} 11. Kb1 c5 12. Rc1 {Trying to be in the offense again?} Qe5 13. f4 {Pressuring the black queen a little bit} Qxe4+ 14. Kb2 O-O-O 15. Nf3 {I think I may see something...} Kb8 16. Ng5 {I'm going to take the queen away from the play by having her take out my knight.} Qf5 17. Nxe6 Qxe6 18. g4 {Will he/she/it computer thingy take the bait?} Nxg4 19. Qf3 {The queen is lined up...} Nxe3 20. Bg2 {The bishop is lined up} Nd3+ {Very surpried that he went for the check move instead of the blocking move.} 21. Kc3 Nxc1 {I'm at -14.  Can I possibly win the game?} 22. Qxb7# {This just shows that you can win the game at any point.  You can be winning by 20 or losing by 14.  It doesn't matter.  If you make a couple mistakes, fix them, and hook on to their mistakes.} 

@@ -1,0 +1,9 @@
+[Event "Knight sacrifice on f6 with check"]
+[Site "https://gameknot.com/annotation.pl/knight-sacrifice-on-f6-with-check?gm=26621"]
+[Date "??"]
+[Round "1"]
+[White "Kasparov "]
+[Black "Karpov "]
+[Opening "QGD (D31), Charousek (Petrosian) variation"]
+
+1. d4 d5 2. c4 {Queen's gambit.} e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 Bd6 {Black finds white's dark square bishop too strongly placed on f4.} 7. Bxd6 Qxd6 8. e3 {So white has a dark square pawn chain (f2 e3 d4) while black has a light square pawn chain (b7 c6 d5).} Ne7 9. Bd3 Nd7 10. Nge2 {10 Bxh7 is no good, because of ...g6 11 Bxg6 Nxg6.} h6 {Black has to play this before castling kingside - otherwise white can capture the h7 pawn with check and escape.} 11. O-O O-O 12. a3 a5 {Black looks for queenside space, especially for the bishop.} 13. Rad1 b6 14. e4 {White has been planning this pawn break for a long time. Hence the moves Qc2, Nc3 and Bd3.} dxe4 15. Nxe4 {Gaining a tempo.} Qb8 16. Ne2c3 {White has a definite positional edge.} Ba6 {Again black swaps off a poorly placed bishop for a more active white bishop. However this means that the black rook will be stuck on a6 for a while. Another lost tempi.} 17. Bxa6 Rxa6 18. d5 Nxd5 19. Nxd5 cxd5 20. Rxd5 Ra7 21. Qd2 {Simultaneously piling pressure on the d file and aiming at h6. White is interested in a sacrifice of the knight on f6, but the black knight on d7 obstructs this plan. (White wants to lose the knight to a pawn capture [not a knight capture] to leave h6 unguarded and the g file half open.)} Nc5 {Now white can unleash the kingside attack.} 22. Nf6+ gxf6 23. Qxh6 f5 {To stop 24 Rh5.} 24. Qg5+ Kh8 25. Qf6+ Kg8 26. Rxf5 {Threatening 27 Rg5+ leading to mate.} Ne4 27. Qh4 Re8 {To protect the knight. Desperation.} 28. Rh5 {Now white threatens Rh8+.} f5 {And black resigns (after making the move f5).} 

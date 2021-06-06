@@ -1,0 +1,9 @@
+[Event "brianbarnes vs Stockfish 9"]
+[Site "https://gameknot.com/annotation.pl/brianbarnes-vs-stockfish-9?gm=64829"]
+[Date "??"]
+[Round "1"]
+[White "brianbarnes (1708)"]
+[Black "wasiuddin (1642)"]
+[Opening "King's Indian, 3.Nf3 (E60)"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 O-O 5. e3 d5 {Grunfeld. Black usually plays d5 before O-O to avoid e4.} 6. Be2 c5 7. O-O cxd4 8. Nxd4 {White avoids getting an isolated d-pawn, but now the dark-squared bishop can become a problem, as well as the tempo gain e5} dxc4 9. Bxc4 e5 10. Nf3 {Ndb5 seems more reasonable, targeting the weaknesses Black has created.} Nc6 11. e4 {Now d4 is a weakness. White could have tried keeping a solid position and playing against Black's weakness on d5 (even if it means later giving up a rook for Black's light-squared bishop to boost White's grip on d5), but now White has the same weakness on d4.} Bg4 12. Be2 {This bishop has moved 3 times so far.} Qb6 {pressuring b2 and planning to gain tempo with a rook to d8} 13. Qc2 {defends b2 and gets queen off d-file} Rad8 14. Be3 Nd4 {taking advantage of the pawn advance e3-e4} 15. Qb1 {Bxd4 would give Black the bishop pair, a passed pawn, and increase the scope of g7} a6 {solid. Black doesn't want to initiate Bxf3 until provoked by h3} 16. h3 Bxf3 17. Bxf3 Nxf3+ 18. gxf3 {now f4 f3, h4, and h3 are newly created weakness} Qe6 {targeting new weakness on h3} 19. Kh2 Nh5 {targeting new weakness on f4} 20. Ne2 Qf6 {targeting f3} 21. Ng1 Nf4 {the QN combo forces Black to give up good bishop} 22. Bxf4 Qxf4+ {keeping solid position and space for queen. Opening the bishop's diagonal is not important, since it can reactivate on f8 or h6 later.} 23. Kg2 Qg5+ 24. Kh1 Rd2 {White resigned, Stockfish will continue improving his pieces and taking advantage of White's weaknesses} 

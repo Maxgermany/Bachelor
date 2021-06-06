@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=27310"]
+[Date "??"]
+[Round "1"]
+[White "God24 (1271)"]
+[Black "jblind (1351)"]
+[Opening "QGD (D08), Albin counter-gambit, Lasker trap"]
+
+1. d4 {Queen's gambit} d5 2. c4 e5 {Declined with another gambit} 3. dxe5 {Qxd8+ in case of capture and black cannot castle} c6 {trying to reinforce the pawn that is in the center} 4. Nc3 {Attacking the central pawn} Bb4 {a pin to defend } 5. a3 Bc5 {should have just captured } 6. b4 Bd4 {blunder} 7. Qxd4 Ne7 {need 1 more attacker to take out the central pawn out for good} 8. Bg5 {attacking the knight} Be6 {protecting the pawn again} 9. Bxe7 {taking out the knight and making the queen to lose the protection it gave} Qxe7 10. cxd5 cxd5 11. Nxd5 Nc6 12. Qe4 Bxd5 13. Qxd5 Nxb4 14. Qb5+ Nc6 15. Nf3 O-O-O 16. e3 f6 17. exf6 Qxf6 18. Rc1 Rd6 19. Qe5 Qd8 20. Bb5 Rd5 21. Qe6+ Kb8 22. O-O Qa5 23. Qxd5 Rd8 24. Qb3 Qb6 25. Qb1 Ne7 26. a4 Ka8 27. h3 h5 28. Ne5 Nf5 29. Nd7 Qg6 30. Rfd1 Re8 31. a5 Rxe3 32. Rc8# {} 

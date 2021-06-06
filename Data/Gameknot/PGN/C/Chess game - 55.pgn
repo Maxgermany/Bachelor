@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=65178"]
+[Date "??"]
+[Round "1"]
+[White "eric2jin (white)"]
+[Black "latajag (black)"]
+[Opening "Modern defence (A40)"]
+
+1. d4 {queens gambit} g6 {I don't know.} 2. e4 {pawn} Bg7 {Bishop} 3. Bc4 {Bishop} e6 {pawn} 4. Bf4 {bishop} g5 {pawn} 5. Bg3 {bishop} h5 {pawn} 6. h3 {pawn} f5 {pawn} 7. Be5 {bishop} Qe7 {queen: finally some movement other then pawn and bishop} 8. Bxc7 {bishop} d5 {pawn} 9. Bxb8 {bishop} Rxb8 {rook} 10. Bb5+ {bishop} Bd7 {bishop} 11. Bxd7+ {bishop} Qxd7 {queen} 12. exf5 {pawn} exf5 {pawn} 13. Qe2+ {check} Ne7 {knight } 14. Nf3 {knight} g4 {pawn} 15. Ne5 {knight} Bxe5 {bishop} 16. Qxe5 {queen} Kf7 {finally! a king move} 17. hxg4 {pawn} h4 {pawn} 18. Nc3 {knight} fxg4 {pawn} 19. Qf4+ {check} Qf5 {queen} 20. Qxf5+ {queen trade. check} Nxf5 {knight} 21. O-O-O {castle} Rbd8 {rook} 22. Nb5 {knight} a6 {pawn} 23. Nc7 {bad move} g3 {pawn} 24. f3 {nope} Ne3 {knight} 25. Rd2 {rook} Rd7 {rook} 26. Re1 {same} Re7 {same} 27. Nxd5 {knight} Nxd5 {same} 28. Rxe7+ {check} Nxe7 {knight} 29. d5 {minus 1} Rd8 {rook} 30. c4 {pawn} b5 {same} 31. d6 {pawn} Nf5 {knight} 32. c5 {pawn} Rd7 {rook} 33. Rd5 {rook} Ne3 {knight} 34. c6 {!!} Nxd5 {knight} 35. cxd7 {pawn} Ke6 {king} 36. d8=Q {Black resigns!} 

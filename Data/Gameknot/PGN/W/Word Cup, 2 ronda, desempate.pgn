@@ -1,0 +1,9 @@
+[Event "Word Cup, 2 ronda, desempate"]
+[Site "https://gameknot.com/annotation.pl/word-cup-2-ronda-desempate?gm=40615"]
+[Date "??"]
+[Round "1"]
+[White "A. Filipov (2606)"]
+[Black "E. Bacroft (2710)"]
+[Opening "Nimzovich-Larsen attack (A01), modern variation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 {Seems weird, but apparently 4... d6, 5. Ne2, Bd7, 6. 0-0, a6, 7. BxNc6, BxBc6, 8. d4 has been good for white. } 5. Na3 a6 6. Be2 {It seems better 6. BxNc6, dxB, 7. Nc4.} e4 7. d4 exd3 e.p. 8. cxd3 {!?} Bb4+ 9. Kf1 d5 10. Rc1 O-O 11. Nf3 Bd6 {Black looks better, even if seemed convenient to get out the lsb. Black makes room for the N to go to b4.} 12. h3 {12. Nc2, redeploying the useless knight on a3, seemed better. } Nb4 13. Qd2 c5 {Not hurrying for the pawn in a2. } 14. Bc3 Nc6 {Threatening c4, discovering an attack on the Na3.} 15. Qb2 d4 {Takes advantage of the queen's overload due to Na3. } 16. exd4 cxd4 17. Bd2 {If Nxd4, BxN wins material. } Re8 18. Nc2 {White thinks he will win neatly the central pawn. Nc4, Bc5 leaves the knight without squares after b5.} Bc5 19. b4 Bb6 20. a4 {Just to making some room, but a6 just leads to Ba7, and nothing changes for white. } Bf5 21. Na3 {White should have tried Nh4 instead, since there are no ways to take d4 - and probably it is better for white not to take it, freeing the dsb's action. The lsb is more active right now. } Qd5 {Overwhelming space power. } 22. Bf4 {Overlooking...} Rxe2 {If QxR, Qb3 and the knight is lost - to say the less. So...} 23. Kxe2 Bxd3+ {!!} 24. Kxd3 Qe4+ 25. Kd2 Qxf4+ 26. Kd1 Ne4 27. Nc4 Nc3+ 28. Kc2 Qf5+ 29. Kb3 Qd5 30. Qd2 Nxb4 {Blacks finds something more to sac...} 31. Kxb4 Bc5+ 32. Kb3 Ne4 33. Qf4 b5 34. Qe5 bxc4+ 35. Ka2 {If Rxc4, QxQ, NxQ and Nd2+ forking the rook.} Nc3+ 36. Ka1 Qc6 {No defence to Qxa4+ and mate, not even RxN (Qxa4+, Kb1, dxR, Qxc, Rb8+...)} 

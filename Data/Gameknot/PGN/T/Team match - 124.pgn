@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=57516"]
+[Date "??"]
+[Round "1"]
+[White "nevhelp (1044)"]
+[Black "rubyred1120 (1061)"]
+[Opening "Pirc defence (B07)"]
+
+1. e4 d6 {Pirc Defense. } 2. g4 {d4 is far and away the most popular response.  Nc3 seems good for white.  This move is off of the database. } Nf6 3. Bb5+ {Black could interpose a knight, but will more likely choose the bishop or pawn.  White will then want to trade bishops or move Bd3 to protect Pe4 from NxPe4.  Sitting in front of the queen pawn stymies d pawn progress.} c6 4. Bc4 {White sacrifices Pe4.} b5 {...or not.} 5. Bb3 {Now maybe.} Nxe4 6. Qf3 {QxPf7 is easily defended.  Ng5, for example.  Then white must move the queen or lose it ignobly.} d5 7. d3 Ng5 {?  That spot is covered by BxNg5.  Nf6 or possibly Nd6--even Nc5 would have been better.} 8. Bxg5 f6 9. Bh4 {I like Be3 better.} e5 10. Qe3 g5 11. Bg3 d4 12. Qd2 {Qe2 might be better, or Qe4.  Then (if black doesn't defend against it) 13. BxPe5.  If black plays PxBe5, from Qe2 or Qe4 white could play QxPb5+ and seize black's rook.} a5 13. Qe2 Bb4+ 14. c3 Bd6 {BxPe5 doesn't work now.} 15. Qf1 {This seems like a bad idea.  White has moved the queen three times, and here she is both in the way and useless, where as from Qe2 she was at least protecting against BxPg4 (now undefended).} a4 16. Bxa4 {Ill advised.  Bc2 would have been much better.} bxa4 17. Qh3 h6 18. Nd2 {Qh5+ would force the king to move (no interpositions are available to black).} Bc5 19. Nc4 a3 20. b3 dxc3 21. O-O-O Ba6 22. Kc2 Nd7 23. Kxc3 Rb8 24. Qh5+ Ke7 25. Nf3 Rb4 26. Qg6 Bxc4 27. dxc4 Bd4+ 28. Kxb4 {Nope.  Qb6+, 29. Ka4 or KxP3.  30. Ra8#  Sad end to a really nice game.  This was a bad move for black though, since NxBd4, PxNd4, RxPb4 gives white another pawn. } Qb8+ 29. Kxa3 Qa8+ 30. Kb4 Rb8# {} 

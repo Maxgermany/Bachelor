@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=49901"]
+[Date "??"]
+[Round "1"]
+[White "porcho (1065)"]
+[Black "dj-jk (1173)"]
+[Opening "Philidor (C41), Steinitz variation"]
+
+1. e4 e5 2. Nf3 d6 {Philidor's defense. I don't like it because it blocks in your DSB. } 3. Bc4 {Just developing} Nf6 4. d3 Nc6 5. Be3 a6 {Preparing b7-b5 maybe?} 6. Nc3 Nb4 {Maybe not the best. Doesn't really accomplish anything that I can see, and you're not supposed to move the same piece twice in the opening without a good reason.} 7. O-O Bd7 8. a3 {I poke the knight} Nc6 {It runs away} 9. Ng5 {Probably wasn't a great move. The attack on f7 is too obvious.} Bg4 {Somehow he misses it...} 10. f3 {...And then I miss it too.} Bh5 11. g4 {I used to do this a lot. Now I don't think it's very good} h6 12. Nh3 Bg6 13. b4 {Random thing} Qd7 14. Nd5 Nd4 15. Nxf6+ gxf6 16. Bxd4 exd4 17. Qb1 h5 18. a4 hxg4 19. fxg4 {Argh! Now I blunder away a knight.} Rxh3 20. Kg2 {I don't like having the rook there} Qxg4+ 21. Kf2 Rxh2+ {At this point the game is lost for white.} 22. Ke1 Qe2# {And checkmate. } 

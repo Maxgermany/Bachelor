@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=56600"]
+[Date "??"]
+[Round "1"]
+[White "der33 (1579)"]
+[Black "matigaloe (1597)"]
+[Opening "Reti opening (A04)"]
+
+1. Nf3 {Reti Opening.} Nc6 2. e4 d6 3. d4 Nf6 4. Nc3 Bg4 5. d5 Ne5 6. Be2 Nxf3+ 7. Bxf3 Bxf3 8. Qxf3 h6 9. Be3 e5 {White could move Pxe6 e.p.} 10. dxe6 e.p. {...and does.} fxe6 11. O-O-O e5 12. Nd5 Be7 13. Nxf6+ Bxf6 14. Qh5+ Kd7 15. Qg4+ Ke7 16. h4 Qd7 17. Qf3 Rhf8 18. Qe2 {What would be a half way cool move for black here would be Qa4, which attacks two different undefended pawns (Pe4 & Pa2).  White must choose which one to save.} Rae8 {This move leaves Pa7 undefended from BxPa7.} 19. Bxa7 {...like that.} Qa4 {On the other hand, white cannot save both the bishop and Pa2.  Qe3 seems like a good idea.} 20. Qe3 Qxa2 21. g4 g5 22. hxg5 {Oh no, the white queen shares the same diagonal with the king.  With this blunder black can pin the white queen with BxPg5.} Bxg5 23. Qxg5+ hxg5 24. Rh7+ {White would probably have been better off moving the bishop.  This challenge can be defended by Rf7 in which case white is compelled to exchange, and down 6 points every trade works to black's mathematical advantage.} Rf7 25. Rh5 {Trading would have saved white from QxBa7.} Qxa7 26. Rxg5 {Rh2 or Rf1 here.  (Rd2 just makes Qa1# even quicker).} Rxf2 27. Rf5 Qa1# {} 

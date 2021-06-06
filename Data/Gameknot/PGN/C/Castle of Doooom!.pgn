@@ -1,0 +1,9 @@
+[Event "Castle of Doooom!"]
+[Site "https://gameknot.com/annotation.pl/castle-of-doooom?gm=20563"]
+[Date "??"]
+[Round "1"]
+[White "blake84120 (1200)"]
+[Black "remohgramps (1200)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 e5 2. Nf3 d6 3. d4 {Philidor's Defence} Bg4 4. dxe5 {Black's bishop move allows white to insist on the weak exchange of bishop for knight, if Black plays 4 ... Pxe5, 5 Qxd8 Kxd8, 6 Nxe5 wins a pawn for white.} Bxf3 5. Qxf3 dxe5 6. Bc4 {Mmmm, Scholar's Mate. Or, just rapid piece deployment} Qf6 7. Qb3 {Keep pressure on f7 and add new pressure on b7} b6 8. Bg5 {Sweet move, if I do say so myself. 8 ... Qxg5 loses after 9 Bxf7  as follows: If 9. ... Ke7 then 10. Qe6  Kd8, 11. Qe8   If 9. ... Kd7 then 10. Qd5  Nd7, 11. Qxa8  Ke7, 12. Qe8  Kd6, 13. Qe6  Kc5, 14. Qd5  Kb4, 15. a3  Ka4, 16 Nc3  . Not 12. ... Kf6 for then 13. Qe6  . If 10. ...Bd6, 11 Qxa8 Qc1 ?, 12. Ke2 Qxa1??, 13. Qxb8  Ke7, 14. Qe8  Kf6, 15. Qe6  Kg5, 16. Qf5  K moves 17. Qh5  . If 9. ... Kd7 then 10. Qd5  Bd6, 11. Qxa8 Ke7! saves black's life, but now 12. Qxb8 threatens the previous checkmates so 12. ... Kxf7, 13. 0-0 and white is ahead in material and threatens to munch on black's pawns.} Qg6 9. Qb5+ Nd7 10. Nc3 {Need more pieces, especially my rook on a1} Ngf6 11. Qc6 {Expecting Rc8 to save the pawn. Then white brings out his rook with 12. Rd1 followed by 13. Bxf6 and 14. Qxd7  . No, none of that is forced, but at this point white is just mounting attacks and bottling black up on the defence while I deploy more pieces.} O-O-O 12. Ba6+ {Black overlooked mate in two.} Kb8 13. Qb7# {} 

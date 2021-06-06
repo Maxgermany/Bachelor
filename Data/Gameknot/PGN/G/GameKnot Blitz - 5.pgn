@@ -1,0 +1,9 @@
+[Event "GameKnot Blitz"]
+[Site "https://gameknot.com/annotation.pl/gameknot-blitz?gm=41508"]
+[Date "??"]
+[Round "1"]
+[White "simleechem "]
+[Black "coolistdude "]
+[Opening "QGD Slav defence, Alekhine variation (D10)"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Bf5 {I like and don't like taking my bishop off the e8 a3 diagonal. } 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 Nbd7 7. e3 e6 8. Rc1 Bb4 9. cxd5 cxd5 10. Bd3 O-O 11. O-O Qb6 12. a3 Bxc3 13. bxc3 {I like white's position above my own here. I just don't really have anything going on. } Ne4 14. c4 Rac8 15. c5 {White chooses to extend.} Qa5 16. Qb3 Rc7 {Black is becoming more tangled up, white needs to build the pressure.} 17. Bxe4 dxe4 {!? Although this damages my pawn structure, it gains a tempo, forces white into an awkward spot as his knight must move to e5 or e1, and gives me time to halt white's pawn advancement pressure.} 18. Nd2 {?? Flat out blunder.} Qxd2 19. Bg3 Rcc8 20. Qxb7 Nf6 21. Qa6 {White still has a chance with his free pawn on c.} Nd5 {I was toying with the idea of Nxe3, but the bishop barred it from being a successful plan. } 22. Rcb1 Qd3 {Nc3 is just not strong enough due to Rb7} 23. Qxa7 Rca8 24. Qd7 Qxa3 {Now there is only one pawn for me to deal with. At worst, my knight can be exchanged for it.} 25. Rba1 {?? This move augments a vulnerability in white's back rank. Black's queen goes kamikaze and annihilates white.} Qxa1 {! The rook was hanging. If white retakes, 26. ... Rxa1#} 26. Bd6 {Interesting, if 26. ... Qany, 27. Bxf8. If 26. ... Qa7 27. Qxa7 Rxa7 28. Bxf8. If 26. ... Rd8 27. Qxd8+ Rxd8 28. Rxa1 It's winning for black but not an immediate win. I went for more.} Nc3 {! White is undone. I am threatening Ne2+ followed by Qxf1# and Qxf1 followed by Ra1#. } 27. h3 Qxf1+ {! If 28. Kh2 Ne2 followed by Qg1#. Note, 27. Ne2+ Kh2 28. Qxf1 works as well. I think this looks prettier though as it gives the option of Kxf1.} 28. Kxf1 {? This loses quicker.} Ra1# {gg simleechem. 0:48 vs 1:45.} 

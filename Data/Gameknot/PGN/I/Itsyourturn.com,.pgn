@@ -1,0 +1,9 @@
+[Event "Itsyourturn.com, ?"]
+[Site "https://gameknot.com/annotation.pl/itsyourturn-com?gm=58912"]
+[Date "??"]
+[Round "1"]
+[White "Coffey, John "]
+[Black "NN "]
+[Opening "Budapest (A52), Rubinstein variation"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 g5 5. Bg3 Nc6 6. Nf3 Bg7 7. h4 Ngxe5 8. Nxe5 Bxe5 {Black surrenders his best piece, which could have been used to help defend the kingside.  His position becomes fatally weak. } 9. Bxe5 Nxe5 10. hxg5 Qxg5 11. Nc3 d6 12. Nd5 Qd8 13. Qd4 c6 14. Nc3 c5 15. Qe4 Be6 {Weak.  15. ... f5  16. Qd5 Qe7 was a better choice.  If 16. Qe3 O-O. } 16. f4 Nxc4 17. f5 d5 18. Qf4 Bc8 {This is bad because after 19. e3 black can't stop all the threats, which includes 20. Bxc4 and Qe5+.  Black can't defend with 19. ... Qe7 or Qf6  because of a pending Nxd5.  Castling kingside is suicidal because of Qg3+ and Qh3.  If instead 19. ... Rg8 (or something dumb like Kd7) then 21. O-O-O and with Nxd5 coming, black 's position is in shambles.  So computer analysis prefers 18. ... Qb8 giving up material. } 19. e3 Qf6 {Computer analysis prefers 19. ... Qd6 and then after 20. Bc4 Qxf4  21. Bb5+ black has lost a piece. } 20. Bxc4 Be6 {Computer analsysis prefers 20. ... dxc4 21. Nd5 Qxf5  22. Qd6 and black has to give up his queen to prevent mate.  22. ... f6??? 23. Qe7 mate. } 21. Bb5+ {According to Houdini, 21. O-O-O is a stronger line I didn't see leading to many mating threats.  For example, 21. .. . dxc4?  22. Ne4 Qe7  23. fxe6 Qxe6  24. Nf6+ Ke7  25. Qc7+ Kf8  26. Rd8+ Rxd8 27. Qxd8+ Kg7  28. Qxh8+!!! } Kf8 22. fxe6 Qxf4 23. e7+ Kxe7 24. Nxd5+ Kf8 25. Nxf4 {Black should have resigned by now. } a6 26. Bd3 h6 27. Rc1 b6 28. Kf2 Rd8 29. Rcd1 b5 30. Bc2 Ke7 31. Nd5+ Kf8 32. Nc7 {} 

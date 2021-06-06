@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=39136"]
+[Date "??"]
+[Round "1"]
+[White "stephenwelsh (1522)"]
+[Black "tesseract104 (1311)"]
+[Opening "Alekhine's defence (B02), Kmoch variation"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 {This seemed like an odd move to me. I've almost always seen 3. c4 instead.} Nb6 4. Bb3 e6 5. Nf3 f6 6. Nd4 fxe5 {Looking back on this move, I believe it would have been better for me to continue with piece development, rather than exchanging pawns.} 7. Qh5+ g6 8. Qxe5 Rg8 {At this point I am devastatingly underdeveloped: I have but one minor piece that is contributing anything to the center of the board, while my opponent has two minor pieces and a major piece. However, I felt that it wouldn't be hopeless since I had just exchanged my f pawn for one of his center pawns.} 9. O-O {It would appear that white could have simply captured the pawn on e6 with the knight (if 9. ... dxe6, 10. Bxe6 Bxe6 11. Qxe6+ and white would win the rook on the next move).} Bd6 10. Qe2 Rf8 11. d3 Qh4 {The black queen now contains a dual threat: the capture of the knight on d4 and checkmate on h2. Unfortunately for White, it is impossible to prevent both.} 12. Nf3 Rxf3 {As you see, White cannot recapture the rook because of 13. ... Qh2#.} 13. g3 Qh5 14. Nd2 Rxg3+ {White will inevitably lose his queen next move.} 15. hxg3 {And so he sensibly takes the rook.} Qxe2 16. Ne4 Be5 17. Bh6 Qh5 18. Bg5 d5 {The bishop's only defender must now retreat.} 19. Nc5 Qxg5 20. f4 {I had no need to worry about this fork because I had the option of simply attacking the white knight with my queen:} Qe7 21. Na4 Bd6 22. Nc3 Nc6 {Finally got around to developing that knight.} 23. Rfe1 Nd4 24. Nxd5 Nxd5 {Even if white retakes the knight on d5 with the bishop, black can fork white's rooks by playing 25. ... Nxc2.} 

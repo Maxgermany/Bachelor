@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=55035"]
+[Date "??"]
+[Round "1"]
+[White "natanya (1066)"]
+[Black "psycho422 (1038)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 e5 2. Nf3 d6 {Philidor's defense.} 3. Nc3 c6 {The most common response here is Nf6, but c6 is decent too.  C5, in the database, shows interesting promise for black.} 4. Bc4 Nf6 5. d3 b5 6. Bb3 b4 7. Na4 Bg4 8. Bd2 d5 9. h3 Bxf3 10. Qxf3 dxe4 11. dxe4 c5 12. Nxc5 Bxc5 13. O-O-O Nc6 {Smart to defend the b4 pawn.  Bd2xPb4 puts the black queen in jeopardy.} 14. c3 bxc3 15. Bxc3 Qb6 16. Bd5 Nxd5 17. exd5 Nd4 18. Qe4 O-O 19. Qxe5 Rfe8 20. Qf4 {Oh, very bad move.  Must keep an eye out for those pesky rook/king and (even worse) queen/king forks.  Ne2+ gives up the queen for free.  Qg5 sets the queen up for QxPg7#, if black moves the knight.  But black would probably still go for Ne2+, followed by NxBc3.  Qh5 wouldn't protect against Ne2+ because black's e rook is defending that square.} Ne2+ 21. Kb1 Nxf4 22. Rde1 {When you are behind, trading down is best avoided.} Bd4 {Mm, I was partial to RxRe1+, followed by BxPf2.} 23. Re4 {?  Nice fork, except black's e rook is guarding that square.} Rxe4 24. Re1 {Here BxBc3 is advised.  If white responds with RxR, QxPb2#.  Actually, RxRe1+ is probably even better.  BxR, QxPb2# anyway.  White can prolong with Kc2. } Bxc3 25. Rxe4 Nd3 {Ok what?  QxPb2#.  Game over.  Don't toy with your food.} 26. Rc4 Qxb2# {} 

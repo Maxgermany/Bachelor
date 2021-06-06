@@ -1,0 +1,9 @@
+[Event "Rook Knight Endgame"]
+[Site "https://gameknot.com/annotation.pl/rook-knight-endgame?gm=64715"]
+[Date "??"]
+[Round "1"]
+[White "hexchess (1797)"]
+[Black "tomvdkelen (1795)"]
+[Opening "Ware (Meadow Hay) opening (A00)"]
+
+1. a4 a5 {symmetrical} 2. b4 b5 {symmetrical} 3. c4 c5 {symmetrical} 4. d4 d5 {symmetrical} 5. e4 e5 {symmetrical} 6. f4 f5 {symmetrical} 7. g4 g5 {symmetrical} 8. h4 h5 {symmetrical} 9. cxd5 {preparing Bxb5+} cxd4 {symmetrical} 10. Bxb5+ {Taking with check. Black is unable to respond in the same way.} Bd7 11. Bxd7+ Nxd7 12. b5 {I am up a pawn, but Black has initiative} Bb4+ 13. Bd2 Bxd2+ 14. Nxd2 gxf4 {bringing flank pawn closer to center} 15. gxf5 {doing the same. Now the g-file is wide open. Both sides have potential outposts Kt-KN5} Ngf6 {bringing knight toward center} 16. Rc1 {eyeing the c6-square to exploit control of the queenside in Black's territory} Rc8 {trade} 17. Rc6 {only if I get to boost the value of b-pawn, then I am good with trade} Ng4 {bringing knight to outpost. Kt-KN5} 18. Nc4 {strong outpost Kt-QB4} Rxc6 19. bxc6 {I bring flank pawn closer to center, improving its value} Nc5 {Kt-QB4 symmetric outpost} 20. Qb1 {taking over b-file} Nxa4 {snatches pawn} 21. Qb7 {but my queen goes to aggressive square.} O-O {castles to safety rook} 22. Nf3 {develops toward g5 outpost Kt-KN5} Rf7 {attacking laterally my queen} 23. Qb5 {retreat attack knight too} Nc3 {retreat attack queen too} 24. Qxa5 {take pawn back} Qxa5 25. Nxa5 {now it is a rook knight endgame} Nxe4 {with equal material} 26. Ng5 {but I fork Black's rook and knight} Nxg5 {so Black is forced to give me an additional passed pawn} 27. hxg5 {and open file} Ne3 {forks d5 and f5} 28. d6 {2 connected passed pawns on the 6th rank will beat a rook} Nxf5 {Black is hoping for c7 but I push the other one instead} 29. d7 {Black resigned, in view of Rf8 c7 followed by d8} 

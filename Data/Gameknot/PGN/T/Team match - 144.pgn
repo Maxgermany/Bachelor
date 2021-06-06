@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=56842"]
+[Date "??"]
+[Round "1"]
+[White "psycho422 (1040)"]
+[Black "mister100 (948)"]
+[Opening "Bishop's opening (C24), Berlin defence"]
+
+1. e4 e5 2. Bc4 {Bishop's opening.} Nf6 {Bishop's Opening, Berlin Defense.} 3. Nf3 Nc6 4. Ng5 d5 5. exd5 Nxd5 {Here NxPf7, KxN, Qf3+ permits white to make back the knight with BxNd5 unless black moves 6 Ke6.  Then Nc3 helps white further develop while putting pressure on black.} 6. Bxd5 Qxd5 7. d3 {This does nothing to protect against QxPg2.  Archduke notes white should have castled (7. O-O) instead.} Qxg2 {...just like that.} 8. Rf1 Qxh2 9. Nc3 f6 10. Nf3 Qg2 11. Rg1 Qh3 12. Nd5 Bd6 13. Rg3 Qh1+ 14. Rg1 Qh3 15. Be3 Bb4+ 16. c3 Bd6 17. Ke2 g5 18. Bc5 {Say what?  Nothing protects this bishop from BxBc5.  Archduke notes a fine alternative (and I ought to think of proposing more of these in my annotations) is NxPf6+.  On the other hand, white's beautiful plan (and bishop sacrifice) will be revealed shortly.} Bxc5 {...just like that.} 19. Nxc7+ {:)  The knight ends up trapped, but still a decent trade.} Kd8 20. Nxa8 g4 21. Rg3 gxf3+ {White is in trouble.  KxPf3 means Bg4+ pins the king against the queen.  RxBg4 is not possible because of discovered check by the black queen.  So black ends up with the white queen for a bishop.} 22. Kxf3 {No!  No no!  Oh the humanity!} Bg4+ 23. Ke4 {Well, the black queen remains in danger.  So white is only down one pawn.  It isn't all that bad a trade.} Bf5+ 24. Kf3 Qh5+ 25. Kg2 Qxd1 26. Rxd1 Kc8 27. b4 Bb6 {Nicely done.  The bishop is driven back where black can trade it for the trapped knight.} 28. d4 {NxBb6 was probably better. Black has a lot of power on Pd4.  PxPd4, PxPd4, BxPd4 and the knight is still protecting the bishop while the white knight is about to feed the black king.} 

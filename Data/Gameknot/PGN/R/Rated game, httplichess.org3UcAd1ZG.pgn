@@ -1,0 +1,9 @@
+[Event "Rated game, http://lichess.org/3UcAd1ZG"]
+[Site "https://gameknot.com/annotation.pl/rated-game-http-lichess-org-3ucad1zg?gm=60872"]
+[Date "??"]
+[Round "1"]
+[White "analysis of pinkopallino (1500)"]
+[Black "john2001plus (1653)"]
+[Opening "French (C01), exchange, Svenonius variation"]
+
+1. e4 {0.15/27 } e6 {0.13/27 } 2. d4 {0.18/27 } d5 {0.09/27 } 3. exd5 {0.05/27 } exd5 {0.09/27 } 4. g3 {An unnecessary opening for the bishop that costs time and creates weaknesses on the kingside. -0.20/27 } Nf6 {-0.20/27 } 5. Bg2 {-0.22/27 } Bd6 {-0.18/27 } 6. Bf4 {Dreadful move that allows black to ruin White's pawn structure. -0.84/27 } Bxf4 {-0.84/27 } 7. gxf4 {-0.86/27 } O-O {-0.89/27 } 8. Nc3 {-0.86/27 } Re8+ {-0.87/27 } 9. Nce2 {Nge2 was the obvious better choice. -1.25/27 } Qd6 {-1.28/27 } 10. Qd2 {-1.20/27 } Bf5 {-0.83/27 Alternative variation: 10... Bg4 11. f3 Bd7 [is a little better.] } 11. Nf3 {-1.18/27 Alternative variation: 11. O-O-O [is a little better.] } Ne4 {-1.09/27 } 12. Qe3 {-1.52/27 Alternative variation: 12. Qc1 [is a little better.] } Nc6 {-1.41/27 } 13. O-O {Black erred here with 13. ... Ng3 which allows 14. Nxg3! Rxe3 15. Nxf5! Qxf4 16. Nxe3. } Nc3 {Gives black a slight edge, and can lead to some exciting lines.  If 14. Nxc3 Rxe3 15. fxe3 Nb4 } 14. Qxc3 { } Rxe2 {If 15. Rac1 Qxf4} 15. Qb3 { } Bxc2 {Now 16. Qb5 Rae8 17. Rae1 Rxe1 18. Rxe1 Rxe1+ 19. Nxe1 Bb1 favors black somewhat. } 16. Qxb7 Rb8 17. Qa6 Re6 18. Rac1 Be4 19. Rfe1 Bxf3 20. Rxe6 Qxe6 21. Rxc6 Qg4 22. Kf1 Qxg2+ 23. Ke1 Qg1+ {If 24. Qf1 Re8+} 24. Kd2 { } Rxb2+ {If  25. Ke3 Qxf2+} 25. Rc2 { } Qxf2+ 26. Kd3 Qxc2+ {} 

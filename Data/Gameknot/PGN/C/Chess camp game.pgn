@@ -1,0 +1,9 @@
+[Event "Chess camp game"]
+[Site "https://gameknot.com/annotation.pl/chess-camp-game?gm=66860"]
+[Date "??"]
+[Round "1"]
+[White "Alex (white)"]
+[Black "Eric (black)"]
+[Opening "KGD (C30), classical, Svenonius variation"]
+
+1. e4 {I’m black here, and Alex starts of with the King Pawn Opening.} e5 {I respond with 1. ... e5.} 2. f4 {King’s Gambit. Risky for white because it opens up their kingside.} Bc5 {A perfectly fine move stopping white from castling kingside (the bishop is guarding g1). Also, note that if 3. fxe5, black responds with 3. ... Qh4+! 4. g3 (if 4. Ke2 Qxe4#) Qxe4 and black wins the rook.} 3. Nf3 {Preventing Qh4 and attacking e5 again.} d6 {Defending e5} 4. Bc4 {Bishop development, aiming at f7.} Bg4 {Pinning the f3 knight.} 5. Bxf7+ {The point here is to check on g5 after Kxf7, but this trap actually does not work, due to the next moves.} Kxf7 6. Ng5+ {It seems like black’s LSB is gone, but...} Qxg5 {Boom! And now white is in a pickle.} 7. fxg5 Bxd1 {I’m up by 2 points after Kxe1.} 8. Rf1+ {Zwischenzug.} Ke8 {Probably best} 9. Kxd1 Ne7 10. Nc3 Nbc6 11. Nb5 {Going for c7} Kd7 12. Rf7 {Pinned.} a6 {Chasing the knight away.} 13. Nc3 Rhf8 14. Rxg7 Nd4 {Threatening mate on f1.} 15. Ke1 {Blunder. Better was 15. d3} Nxc2+ 16. Kd1 Nxa1 17. Nd5 {Putting pressure on e7} Rae8 {Guarding. Didn’t see Nf6+} 18. Nf6+ Kd8 19. Nxe8 Kxe8 20. Rxh7 {Greedy.} Rf1+ 21. Ke2 {I could have took the bishop here.} Rf2+ 22. Kd1 Rxg2 {Up by 5, but it could have been 7, with Rf1, followed by Rxc1. But that removes the whole rook on 2nd effect.} 23. d3 {Seriously? Now the knight is free.} Nc2 24. h4 {Okay...} Ne3+ {Bxe3 is forced.} 25. Ke1 {Blunderof the game.} Bb4+ {Mate in 2.} 26. Bd2 {At this point, Alex resigned, but this is what it would be like if he didn’t...} Bxd2# {Checkmate!} 

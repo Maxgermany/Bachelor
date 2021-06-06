@@ -1,0 +1,9 @@
+[Event "2nd alex_champ's mini-tournament"]
+[Site "https://gameknot.com/annotation.pl/2nd-alex_champs-mini-tournament?gm=18915"]
+[Date "??"]
+[Round "1"]
+[White "blake78613 (1807)"]
+[Black "munis (1807)"]
+[Opening "Caro-Kann (B12), advance, Short variation"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 f6 {Black has played both pawn breaks (c5 and f6) to liquidate the center and occupy it.  Liquidation of the center  suits White since he has a lead in development.} 8. Bg2 {Main line is 8 h5.} Nc6 9. f4 cxd4 {this leads to the win of White's c2 pawn at the cost of putting White even further ahead in development. 9...Nge7 is the normal move.} 10. Nxd4 Nxd4 11. Qxd4 Bxc2 12. f5 {White tries to breakthrough the center to make his lead in development tell.  12 Be3 is probably better and would give White a small edge.} exf5 13. Bxd5 Ne7 14. Rh2 {14 exf6 is probably better, after ...Nxd5 15 Nxd5 White has a small edge.} Nxd5 15. Nxd5 Be4 16. Qa4+ Kf7 17. e6+ {Here Black timed out.  17 Nc3 would be an equal position.  After the text (17 e6 ) White is lost according to Fritz.  Maybe so, but it would take precise defense.} 

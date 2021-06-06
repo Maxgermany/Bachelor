@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=57463"]
+[Date "??"]
+[Round "1"]
+[White "jasonhalabi (1022)"]
+[Black "nevhelp (1058)"]
+[Opening "Scandinavian (centre counter) defence (B01)"]
+
+1. e4 d5 {Scandinavian Defense.} 2. Nc3 d4 3. Nb5 h5 {Not in the database.  Black usually does quite well here with a6, pushing the white knight again.} 4. Nf3 c5 5. Ne5 Qa5 6. a4 Qb6 7. Qf3 Qe6 {Oh no.  Pf6 maybe, but this move trades the queen for a knight.  White is strongly encouraged to fork king, queen, and rook (and take the queen) with Nc7+.} 8. Nc7+ {Just like that.} Kd8 9. Nxe6+ {Black does not have to move the queen.  BxNe6 protects Pf7, so white won't commit the same knight fork crime again on the other side.} Ke8 {Disaster!  QxPf7+ (the knight protects it)...  Actually that is game over.  QxPf7#.  Done.} 10. Nc7+ {White is just toying with black now.  No move beats checkmate.} Kd8 11. Nxa8 f6 {Nope.  Be6.  Be6 prevents white from taking the other rook for free. } 12. Nf7+ Ke8 13. Nxh8 b6 14. e5 {White is 19 points ahead, and encouraged to trade down.  Ng6 followed by NxBf8 looks good.  But white may be looking for a quicker end.  Bb5+ is also recommended.  Kd8, Nf7#.  Or} Bg4 15. Qb7 Nd7 {Uh, no.  The knight here blocks black's white bishop (Bg4) from protecting against Qc8#.  Kd8 is recommended instead, though that pretty much only delays the inevitable at this point.  Kd8, Nf7+, and the king must return to e8 where the queen checkmates.  Black lost the queen and both rooks to knight forks.  The lesson here is to watch out for knight forks.  How best to prevent these?  } 16. Qc8# {} 

@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=32160"]
+[Date "??"]
+[Round "1"]
+[White "pika25 (1106)"]
+[Black "pooryorick (1314)"]
+[Opening "Petrov three knights game (C42)"]
+
+1. e4 e5 2. Nf3 Nf6 {Want a perfectly symmetrical game here? I expected Nc6 first.} 3. Nc3 {I expect 3 ... Nc6, the four knights defense.} Bc5 {Bishop over four knights I can deal with too.} 4. Bc4 {Similar to the Giuoco Piano.} Qe7 {I expected Nc6, the four knights variation of Giuoco Piano.} 5. O-O Ng4 6. h3 {Catches the knight, with no safe retreat except the 6th rank.} Nh6 7. d4 {I believe this is an exchange combination that could have been handled by Nc6...} exd4 8. Nxd4 b6 {Not Bxd4 Qxd4 taking out the DSB.} 9. Nd5 {Good move here, threatening to capture the queen.} Qxe4 {And black considers this retreat square, picking off the e pawn that's now helpless.} 10. Re1 {! Traps the queen.} f5 {Defending with f5 only leads to Nxf5 Nxf5.} 11. Nxf5 Qe6 {Or this, this time defended by d7.} 12. Nf4 {The best choice.} Qxe1+ {Trades the queen for the rook,} 13. Qxe1+ {and I still get control of the e file!} Kf8 14. Ng6+ {If it were not for that h pawn...} hxg6 15. Be3 gxf5 16. Bg5 {Violates principle by moving the DSB along the same dark diagonal in two moves without capture. Better is 15 Bg5 right away.} Bb7 17. b4 {Trying to get that DSB out of the a3-f6 diagonal needed to prevent mate. If Bxb4 Qxb4+ threatens Qe7#.} Bd4 {Out of that critical diagonal, so...} 18. Qe7# {mate.} 

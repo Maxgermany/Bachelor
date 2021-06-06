@@ -1,0 +1,9 @@
+[Event "Casual Game, http://www.itsyourturn.com"]
+[Site "https://gameknot.com/annotation.pl/casual-game-http-www-itsyourturn-com?gm=59180"]
+[Date "??"]
+[Round "1"]
+[White "Aaron McKinney "]
+[Black "John Coffey "]
+[Opening "Bogo-Indian defence, Nimzovich variation (E11)"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 b6 6. Bg2 Bb7 7. O-O Bxd2 8. Nbxd2 O-O 9. Qc2 d6 {Equal. } 10. Nb3 {Questionable. } c5 11. dxc5 {11. Rad1 Is slightly better. Then Re8 is about equal. } dxc5 {bxc5 is also good.  } 12. Rfd1 e5 {Slightly better than Re8 and Nc6. } 13. e4 {Unfortuntely, a blunder. } Bxe4 14. Qc3 Nc6 15. Rde1 Rad8 16. Nbd2 {16. Re3 Nd4 -/+ } Rd3 17. Qc1 Bg6 {Or Bxf3. } 18. Nxe5 {Bad because white is going to have to play f4 allowing black to play Qd7 and Qd4+.    18. Nh4 was best. } Nxe5 19. f4 Qd7 {The little tiny tactic that gets out of the pin. } 20. fxe5 Qd4+ {Black doesn't have to take right away because of the weakness of the white king. } 21. Kh1 Ng4 22. Ne4 {Blunder. } Bxe4 {White resigned here.  But if ... } 23. Bxe4 {23. Rxe4 Nf2+ 24. Kg1 Nxe4+ 25. Kh1 Nf2+ 26. Kg1 Rd1+ 27. Qxd1 Nxd1+ 28. Kh1 Nf2+ 29. Kg1 Nh3+ 30. Kh1 Qg1+ 31. Rxg1 Nf2# } Rd2 {White's position is so bad that the computer prefers giving up the queen with 24. Qxd2.  If instead ...} 24. Bg2 Nf2+ {Forces checkmate.} 25. Kg1 Nh3+ 26. Kh1 Qg1+ 27. Rxg1 Nf2# {Philidor's mate.} 

@@ -1,0 +1,9 @@
+[Event "doc's mini-tournament"]
+[Site "https://gameknot.com/annotation.pl/docs-mini-tournament?gm=3635"]
+[Date "??"]
+[Round "1"]
+[White "doc3170 (1311)"]
+[Black "lemonhart (1403)"]
+[Opening "Philidor (C41), exchange variation"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 c5 {Leaves a big gaping hole on d5, and also weakens b5 slightly.} 5. Nf3 {The proper retreat square, keeping an eye on e5.} Bg4 {Black needs to think about castling. Nf6 might have been better. There's little point in pinning the knight at this point because it's not threatening anything.} 6. Be2 Nf6 {A good move, preparing to castle.} 7. Nc3 Qe7 {Be7 was necessary.} 8. O-O {White sees that his e4 pawn isn't really in danger.} Nxe4 {Black takes the bait.} 9. Nxe4 Qxe4 10. Re1 {If the queen doesn't move, Bb5 wins the queen, whether or not it's check. Black's only try is Qb4, but even here, he's in trouble.} Qc6 11. a4 {White could have won the queen right away with Bb5 !.} Qc7 {Now White has a forced mate.} 12. Bb5+ Kd8 13. Re8# {} 

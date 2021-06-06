@@ -1,0 +1,9 @@
+[Event "Sicilian Najdorf I"]
+[Site "https://gameknot.com/annotation.pl/sicilian-najdorf-i?gm=61131"]
+[Date "??"]
+[Round "1"]
+[White "ipsissimus (2426)"]
+[Black "stalhandske (2216)"]
+[Opening "Sicilian (B97), Najdorf, Poisoned pawn variation"]
+
+1. e4 {B97: Sicilian Najdorf: Poisoned Pawn } c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Ne4 h6 { last book move} 13. Bf4 Qxa2 14. Rd1 Qd5 {Threatens the isolated pawn and also threatens Qxe4. } 15. Qe3 Qa5+ 16. c3 {Blocks the check but also prevents bb4.} Nc5 17. Nd6+ Bxd6 18. exd6 {Gives white the Bishop pair.} O-O {It is always good to Castle as this improves King safety.} 19. Be2 Nbd7 {The night is stuck while blocking whites passed pawn. Blacks bishop on c8 cannot move else we might have this kind of sequence: 19... e5 20. Bxe5 Re8 21. O-O. King safety.} 20. O-O {King safety.} Nf6 21. Bxh6 {This move this serves an exclamation mark! The GK computer does not see it that way because engines are by their very nature materialistic.} Nfe4 {Attacking the backward pawn on c3. Black does not see the danger he is in.} 22. Rf3 f5 23. Rh3 {Else 23. Rg3 Rf7 24. Bh5or 23 ... Rf6.} Rf6 24. Bxg7 Kxg7 25. Qf4 Qd8 26. Qh4 Qg8 27. Nb3 Nd7 28. Nd2 Nxd6 29. Nc4 Nf7 30. Rg3+ Rg6 31. Rxg6+ Kxg6 32. Rd3 {Black resigned possible continuations would be 32. Rd3 Ng5 33. Bh5+ Kf6 34. Rg3. } 

@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=56134"]
+[Date "??"]
+[Round "1"]
+[White "jwilsonn (915)"]
+[Black "superandy (1039)"]
+[Opening "Bishop's opening (C23)"]
+
+1. e4 {Kings pawn opening} e5 {standard} 2. Bc4 {Not so common} Nc6 3. Qf3 {4 move checkmate alert!} Nf6 {Block} 4. Nc3 Bc5 {Developing...} 5. Nge2 O-O {Castle} 6. d3 {More development(BSB).} Nd4 {Queen attack and trade} 7. Qf5 {didnt see the queen was attacked, focused on fork} d5 8. Qxe5 {Pawn hunting} Nxc2+ {fork i was talking about} 9. Kd2 Nxa1 {Free rook} 10. Bxd5 Bxf2 {Free pawn(not very useful)} 11. b3 Nxd5 {Trade} 12. exd5 {Expected} Bg4 13. Ba3 Re8 {Pin to the knight, but its defended} 14. Qd4 {And a free queen} Bxd4 {Got the queen} 15. Nxd4 {Expected} b6 {setting up an attack on knight on d4} 16. Rxa1 {Free knight} c5 {Knight attack} 17. Nc2 Qg5+ {Check} 18. Ne3 Qxe3+ {Free} 19. Kc2 Qf2+ {Another check, forced mate} 20. Kc1 {1 out of the 3 moves he could do} Re1+ {Forced mate} 21. Nd1 {Only move} Rxd1# {Win} 

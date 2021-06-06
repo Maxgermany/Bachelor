@@ -1,0 +1,9 @@
+[Event "Mini Tournament"]
+[Site "https://gameknot.com/annotation.pl/mini-tournament?gm=49895"]
+[Date "??"]
+[Round "1"]
+[White "porcho (1035)"]
+[Black "??? (1094)"]
+[Opening "Blackburne shilling gambit (C50)"]
+
+1. e4 {I almost always play this.} e5 {At this level this is the common response.} 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 {I didn't see any reason not to take the pawn, so...} f6 {Decided to poke my knight. Guess he didn't notice the fork} 5. Nf7 Qe7 6. Nxh8 Qxe4+ {Forking my king and G pawn} 7. Be2 {Seemed best to me. Although blocking with the queen might have been better.} Qxg2 {Expected that.} 8. Rf1 {Had to be careful of smothered mate here if pins my bishop} Qxh2 {Nope. Just grabbing another pawn.} 9. Nc3 Nxe2 10. Qxe2+ Ne7 11. Nd5 {Attacking the pinned piece.} Qd6 12. Nxe7 Bxe7 13. d3 {To let out my DSB} b6 {Probably trying to fianchetto. (Is that how you spell it?) } 14. Be3 Qb4+ {Another fork between my king and a pawn.} 15. Bd2 Qxb2 {What else?} 16. Qh5+ g6 17. Qxh7 {I thought that if he took my rook I could checkmate him. I guess I didn't notice it would put me in check} Qxa1+ 18. Ke2 {Now the queen is attacked and I though he would have to either lose his queen or the game. But he noticed something...} Qxa2 19. Qxg6+ {Here I decided a draw was good enough and calculated that I could get perpetual check. If you notice something he could have done to get out of it, please tell me.} Kd8 20. Nf7+ Ke8 21. Nh8+ {Here he had to options. One led to perpetual check, (I think) the other led to checkmate.} Kf8 {Oops} 22. Bh6# {And a nice bishop checkmate to finish.} 

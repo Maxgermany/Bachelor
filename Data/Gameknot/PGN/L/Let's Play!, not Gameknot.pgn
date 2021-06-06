@@ -1,0 +1,9 @@
+[Event "Let's Play!, not Gameknot"]
+[Site "https://gameknot.com/annotation.pl/lets-play-not-gameknot?gm=36093"]
+[Date "??"]
+[Round "1"]
+[White "NN (1726)"]
+[Black "blake78613 (1820)"]
+[Opening "Sicilian (B90), Najdorf, Byrne (English) attack"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 {The Perenyi Attack, an attempt to play Keres like attack against the Najdorf.} e5 8. Nf5 h5 9. g5 Nxe4 10. Nxg7+ Bxg7 11. Nxe4 d5 {Black has a mobile pawn center and an advantage in space.} 12. Ng3 d4 13. Bd2 Qd5 14. Rg1 Bg4 15. Be2 Nd7 16. h4 {I believe this to be a novelty. at least I didn't find it in my database.  16. Bxg4 and 16 f3 are the most popular moves. } f5 {? First move on my own and it's bad.  Fritz likes 16...e4} 17. Bxg4 {?! White misses a chance to get large advantage.  Fritz gives 17. f3 f4 18. fxg4 fxg3 19 gxh5. } fxg4 {Black now has an edge.} 18. Qe2 {Here Black should play 18...Nc5 19. Nf5 (19. O-O-O e4; 19. Bf4 O-O-O) Bf8 20. g6 Rg8.} O-O-O 19. Nf5 {?!  Fritz suggests 19. Qe4 Qe6 and Black only has an edge.} Bf8 {The Black Bishop dominates the White Knight.  Black now has a clear advantage} 20. a3 e4 {I liked this move a lot.  I have my hanging pawns abreast and threaten the White Knight.} 21. Ng3 {?  Black is now full in control. Fritz suggests 21 Nxd4!?} Re8 {Fritz suggests 21...Ne5 22. c4 Qd6 -+} 22. O-O-O {??  White's game collapses.  Relatively better was 22. Kd1 but Black would still be winning. } Qe6 {? gives White a chance to get back in the game with 23. Kb1 preventing Black's next.} 23. Rge1 {?? releasing all pressure against Black} Qa2 {Back on track.} 24. Bf4 {??  creating an escape square for the king, but Bb4 was relatively better although Black should still win.} Bxa3 {It's over.} 25. bxa3 Qa1+ 26. Kd2 Qc3+ 27. Kc1 Nc5 28. Kb1 Na4 29. Bc1 Re6 30. Qxg4 {30 Qb5 axb5 31. Rxe4 would have held out a little longer.} hxg4 {} 

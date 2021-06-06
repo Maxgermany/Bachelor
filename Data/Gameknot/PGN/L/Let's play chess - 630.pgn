@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=31836"]
+[Date "??"]
+[Round "1"]
+[White "stevie-baby (1283)"]
+[Black "freefallife (1276)"]
+[Opening "Sicilian (B21), Andreaschek gambit"]
+
+1. e4 c5 {My usual play as black, the Sicilian} 2. d4 {At this point, I assumed the morra gambit...} cxd4 3. Qxd4 {I disagree with this move only because it allows black to gain tempo...} Nc6 4. Qd1 {A really passive retreat by white makes Qxd4 look a bit silly.} Nf6 5. Nc3 g6 {planning a sort of dragon variation here with a bishop on g7} 6. Nd5 {White hangs the pawn on e4. I looked hard and tried to remember any traps here, but couldn't find one} Nxe4 {Black is up a pawn} 7. Bf4 {An obvious and easily defended threat of Nc7+, but good development of the bishop. At this point, I was sort of eyeing Qa5+. If it weren't for the defence of the white queen, it wins some material.} e5 {Defending Nc7+ and attacking the bishop} 8. Bd3 {Bd3?? Blunder number 1. Loses a Bishop. Now that white has cut off the defence of the knight on d5...} Qa5+ 9. Nc3 Nxc3 10. bxc3 exf4 {White loses a piece. } 11. Qd2 Bg7 {Threatening Bxc3 to win the queen...} 12. Qxf4 Qxc3+ {A nice fork...} 13. Ke2 Nd4+ {Thought about taking the rook, but I figured It get the knight closer to the action first.} 14. Ke3 {Ke3?? Pins the bishop on d3 and loses a queen for a bishop. Do you see it?} Bh6 {A textbook piece sacrifice...} 15. Qxh6 Nf5+ {With the bishop on d3 pinned, Nf5+ wins. White resigned here.} 

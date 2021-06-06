@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=26111"]
+[Date "??"]
+[Round "1"]
+[White "cpace (1709)"]
+[Black "chessy131 (1865)"]
+[Opening "QGD Slav (D11), 4.e3"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Nbd7 {This is an incorrect move, I was in semi-slav mode, even though this is a slav defence sideline. 5..Bf5 is more accurate.} 5. cxd5 cxd5 6. Nc3 e6 7. Qc2 Be7 {Another lazy move by me.. a bit better was probably 7. Nb6} 8. Bd3 O-O 9. O-O b6 10. Ne5 {This is a bit premature, and probably the wrong idea for white. Breaking open my weak queenside seems very easy for white to do, though, with a4-a5} Bb7 11. f4 Rc8 12. Rf3 {An odd move, as a rook lift here accomplishes nothing.} Ne4 13. Bxe4 dxe4 14. Rh3 Nxe5 15. fxe5 f6 {Attacking weak pawns and opening a file for my rook.} 16. Qe2 fxe5 17. Qh5 {I'm not sure if he realized the nice tactic after 17. dxe5 Rxc3! 18. bxc3 Ba6! wins the white queen. Certainly he played the best move.} h6 18. Qxe5 Qd7 19. Bd2 Rf5 {Preparing to stack the f file.} 20. Qg3 Rcf8 21. Qg4 Ba6 {White resigns, due to the grim fact that he cannot defend Rf1+ with anything but his queen. (Ne2 loses to Rg5)} 

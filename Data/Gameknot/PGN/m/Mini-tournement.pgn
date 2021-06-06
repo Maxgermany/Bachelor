@@ -1,0 +1,9 @@
+[Event "Mini-tournement"]
+[Site "https://gameknot.com/annotation.pl/mini-tournement?gm=12669"]
+[Date "??"]
+[Round "1"]
+[White "wouter357 (1325)"]
+[Black "isaiahmillman (1132)"]
+[Opening "King's pawn game (C50)"]
+
+1. e4 {My classic opening} e5 {classic response} 2. Nf3 Nc6 3. Bc4 f6 {This move I hadn't expect creates a "gap" in black's defence and blocks his queen} 4. Nc3 a6 {black's blocking the withe bishop} 5. O-O {castling} g5 {Now his king is very exposed to attacks} 6. d3 {I want to use my bishop} h5 {Another pawn move from black} 7. Nxg5 {This move will result in mate. It seems as I sacrifice a knight but I don't} fxg5 {He captures this ensures my victory a little bit more} 8. Bxg8 {Exhanging my bishop for his knight and undoing the defence of h5} Rxg8 9. Qxh5+ {Because black no longer defends h5 the white queen can give checkon h5} Ke7 10. Bxg5+ {He has to capture my bisop with his rook or he loses his queen} Rxg5 11. Qxg5+ {Giving check again} Ke8 12. Qg6+ Ke7 {Only possible move} 13. Nd5# {And mate. Victory in 13 moves} 

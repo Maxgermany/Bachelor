@@ -1,0 +1,9 @@
+[Event "olive53's mini-tournament I"]
+[Site "https://gameknot.com/annotation.pl/olive53s-mini-tournament-i?gm=41309"]
+[Date "??"]
+[Round "1"]
+[White "theironking (1699)"]
+[Black "nahuta_10 (1456)"]
+[Opening "Bishop's opening (C24), Berlin defence"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 Nc6 5. Nc3 d6 {Fairly standard openings here, board is mirrored.} 6. Bg5 h6 7. Bh4 Bg4 8. Nd5 g5 9. Bg3 Nxd5 10. Bxd5 Nd4 11. h4 Nxf3+ {Trading pieces trying to establish position.} 12. gxf3 Be6 13. Bxb7 Rb8 14. Bc6+ Bd7 15. Bxd7+ Qxd7 16. hxg5 {Attacks beginning to form on the g and h ranks.} Qe6 17. f4 exf4 18. Bxf4 Rxb2 19. Rxh6 Rxh6 20. gxh6 Qf6 21. Qg4 Rxc2 {Attacking the a1 Rook and setting up an attack on white's King.} 22. Rb1 {Blunder, Rc1 has the Rook defended by the Bishop on f4 but is also a blunder, best move with this Rook would be Rd1 to guard against ... Qc3+ with Bd2.} Qc3+ 23. Kf1 {Because he did not play Rd1, Bd2 would just force mate in two with ... Qxd2+ Kf1 Qxf2#.} Qxd3+ 24. Kg2 {Kg1 a better move here, even though mate has been forced since Rb1.  Instead, mate is now in 5 rather than around 8.  I used this position for chess puzzle #47830.} Rxf2+ {The key move here in this mate, with the Rook being protected by the c5 Bishop.} 25. Kh1 {Kg1 would still result in mate with ... Qxb1+ Bc1 Qxc1+ Qd1 Qxd1#.} Qxb1+ {Potentially I could have played ... Qxe4+ here as well, either resulting in Qg2 Qxg2# or Qf3 Qxf3+ Kg1 Qg2#, or if Kg1 then ... Qxb1+ Bc1 Qxc1+ Qd1 Qxd1#.} 26. Qg1 {White could've lengthened the game with Bc1 before this move, preventing ... Qxe4+, but instead would've resulted in ... Qxh6+ Qh2, then either Rxh2# or Qxh2#.} Qxe4+ {Now his only move is Qg2.} 27. Qg2 Qxg2# {And checkmate.} 

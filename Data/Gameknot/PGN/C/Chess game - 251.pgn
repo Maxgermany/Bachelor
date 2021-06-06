@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=24527"]
+[Date "??"]
+[Round "1"]
+[White "Rune Bang Frederiksen "]
+[Black "Søren Lassen "]
+[Opening "French (C02), advance variation"]
+
+1. e4 e6 2. d4 d5 3. e5 {The French opening} Nc6 {This is not usual for this opening} 4. Nc3 Bb4 5. Qd3 {Not a very nice move :(} Nge7 6. Bd2 Bxc3 7. Bxc3 Bd7 8. f4 {Excellent move!} O-O {Castling into an attack is probably not a good idea} 9. Nf3 {Mounting the attack on the king-side...} h6 {Preventing N-g5 (which would be devastating for black)} 10. g4 {Increasing the attack} Ng6 11. h4 {A trap!} Nxf4 {Black falls into the trap head-first} 12. Qe3 g5 13. hxg5 hxg5 {The h-file is now free for attack} 14. O-O-O {This is to free up the f1 Bishop without having to be afraid of g2} Ne7 {Moving another knight into the defence} 15. Bd3 {Getting another piece into the attack} Nxd3+ 16. Qxd3 {Threatening qh7 - Mate} Ng6 {Blocks} 17. Rh5 Kg7 {Planning on f6} 18. Rdh1 {Getting another rook into the attack} Nf4 {Big mistake} 19. Qh7# {} 

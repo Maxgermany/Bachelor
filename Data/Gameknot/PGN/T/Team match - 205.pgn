@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=55227"]
+[Date "??"]
+[Round "1"]
+[White "hamed36 (1493)"]
+[Black "dayneuhde (1474)"]
+[Opening "two knights defence (C57), Lolli attack"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 {Two knights defense.} 4. Ng5 d5 {Ulvestad variation.} 5. exd5 Nxd5 {Lolli attack.} 6. Qf3 Qxg5 7. Bxd5 Be6 {Bd7 would probably have been better.  Alternatively, Qg6 gives black a new line of attack while defending the black knight.} 8. Bxc6+ Kd8 9. Bxb7 Rb8 10. O-O Bd6 11. d4 exd4 {Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.} 12. Bxg5+ Kd7 {While black can ill afford material trades, Be7 would make the game last longer.  The f6 interposition does not work well because BxP+.  PxB, QxB+ and black must move Kd7 or lose the h rook.  White would probably not trade a bishop for two pawns, but instead threaten black's black bishop with Bf4.} 13. Qc6# {} 

@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=49946"]
+[Date "??"]
+[Round "1"]
+[White "treborladlu (1275)"]
+[Black "ravyehoshua (1200)"]
+[Opening "Scandinavian (centre counter) defence (B01)"]
+
+1. e4 {Annotating games of lower rated players isn't instructive for everyone.  However, it is instructive for the weaker player.  This is my first game on GameKnot so I have to start at a low rating and work my way up.  These annotations are for treborladlu.} d5 2. e5 {This is an option many people choose against this defense.  In many cases it allows Black to transpose into the French Defense where his light-squared bishop isn't "bad".} c5 3. d4 cxd4 4. Qxd4 Nc6 {I'm simply taking advantage of the fact that White's queen is in the center of the board.} 5. Qa4 Bd7 6. Qf4 {All of these Queen moves are wasting valuable time.  My friendly advice is to not neglect development.} g6 7. Nf3 Bh6 {White may have assumed I was going to fianchetto my bishop on g7 because that's usually what lower-rated players have seen.  However, look at every possible place the bishop could go and you will be able to avoid these types of mistakes.} 8. Qh4 Bxc1 9. Nc3 Bxb2 10. Rb1 Bxc3+ 11. Kd1 Nxe5 12. Ng5 Qc7 13. Qf4 Nf6 14. Rb3 h6 {I would like to place my knight on e4 but in order to do so I have to kick White's knight away from g5.} 15. Nf3 Ne4 16. Ke2 Qc4+ 17. Kd1 Nxf2+ 18. Kc1 Qxf4+ 19. Kb1 Nxf3 20. Rxc3 Qb4+ 21. Rb3 Qe1+ 22. Kb2 Nd1+ 23. Ka3 Qa5# {The mating sequence wasn't difficult to find.  Another piece of friendly advice is...take the gambit pawn in the opening and force Black to prove the worth of the defense.  } 

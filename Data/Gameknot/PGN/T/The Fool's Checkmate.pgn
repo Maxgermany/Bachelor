@@ -1,0 +1,9 @@
+[Event "The Fool's Checkmate"]
+[Site "https://gameknot.com/annotation.pl/the-fools-checkmate?gm=57208"]
+[Date "??"]
+[Round "1"]
+[White "michel77 (1304)"]
+[Black "otakumadness (1282)"]
+[Opening "Grob (A00), spike attack"]
+
+1. g4 {First error, as you'll see in the following moves. It would have been better to move a different pawn, because this pawn being moved two spaces forward is one of the aspects of the Fool's Mate. If the pawn had moved one space instead of two, it would have protected the h4 square and White would have avoided mate.} d5 2. Nf3 Bxg4 {Taking the unprotected pawn} 3. Nd4 e5 {Threatening the knight} 4. f3 {Second error. Mate is inevitable unless White either protects h4 (to prevent my Queen from moving there) or f2 (in order to interpose) or moves a pawn in front of the king to allow it to escape check.} Bd7 {I didn't recognize the Fool's Mate at first because it's been so long, but then I recognize it two moves after this.} 5. c3 {White forgets to move the knight out of danger} exd4 6. cxd4 {Exchange complete. Mate on the next move.} Qh4# {Mate. White made several crucial errors in this (short) game.} 

@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=26020"]
+[Date "??"]
+[Round "1"]
+[White "rewtasw (1203)"]
+[Black "chessy131 (1625)"]
+[Opening "Sicilian defence (B20)"]
+
+1. e4 c5 2. Bc4 {An uncommon anti-sicilian line; black aims to play d5 with tempo early.} e6 3. Nf3 Nf6 {The immediate d5 is rushed; 3..d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7 Qxd7 7. O-O and white will have good play on the open and vulnerable E-file} 4. d3 {passive move; this should be delayed, perhaps an immediate d4 thrust will be better. developing with Nc3 , Qe2, or O-O would be slightly better.} d5 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 {If Qxd7; 7. e5 and my knight must retreat to g8.} 7. Bg5 dxe4 8. Bxf6 Nxf6 9. a3 {??} exf3 10. Qxf3 Qb6 11. b3 Bd6 12. Nc3 {White has delayed castling far too long and will suffer for it.} Be5 13. Na4 Qa5+ 14. b4 Qxa4 15. Ra2 Bc3+ 16. Kf1 O-O 17. bxc5 Nd5 18. Qe4 Qxe4 19. dxe4 Nf6 20. f3 Rfd8 21. Ke2 Rd2+ 22. Ke3 Rad8 23. Rg1 e5 {A strong mating net is set.} 24. a4 Bb4 {I think I calculate the fastest mating line as: 25. f4 Bxb4+ 26. Kf3 Rf2+ 27. Kg3  Nxe4+ 28. Kh3 Rd6 29. fxe5 (or other) Rh6+ 30. Kg4 Rxh2 with h5# next.} 

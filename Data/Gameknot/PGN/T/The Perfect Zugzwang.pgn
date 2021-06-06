@@ -1,0 +1,9 @@
+[Event "The Perfect Zugzwang"]
+[Site "https://gameknot.com/annotation.pl/the-perfect-zugzwang?gm=28829"]
+[Date "??"]
+[Round "1"]
+[White "Podgayets "]
+[Black "Dvortsky "]
+[Opening "Semi-Benoni (`blockade variation') (A44)"]
+
+1. d4 c5 2. d5 e5 3. e4 {An unusual opening.} d6 4. Nc3 Be7 5. Nf3 Bg4 {The first aggressive move.} 6. h3 Bxf3 7. Qxf3 {The correct recapture. No need to disrupt the Pawn structure.} Bg5 8. Bb5+ Kf8 {Black, smartly, does not let White exchange his useless KB.} 9. Bxg5 Qxg5 10. h4 Qe7 11. Be2 h5 {Stopping White's potential K-side expansion.} 12. a4 g6 13. g3 Kg7 14. O-O Nh6 {Black looks to plant this Knight on KN5.} 15. Nd1 Nd7 16. Ne3 {White guards the square with his own Knight.} Rhf8 17. a5 f5 18. exf5 e4 {Black looks for a K-side bind.} 19. Qg2 Nxf5 20. Nxf5+ Rxf5 {Black wins back his Pawn.} 21. a6 b6 22. g4 hxg4 23. Bxg4 Rf4 {White is severely cramped on the K-side. He needs to try and free his position.} 24. Rae1 Ne5 25. Rxe4 Rxe4 26. Qxe4 Qxh4 {This piece exchange normally would help White free his game... but not this time.} 27. Bf3 Rf8 28. Bh1 Ng4 29. Qg2 Rf3 {This completes the perfect Zugzwang. White's pieces cannot move without loss!} 30. c4 Kh6 {White resigns. After he moves up his QNP, he's stuck for a move.} 

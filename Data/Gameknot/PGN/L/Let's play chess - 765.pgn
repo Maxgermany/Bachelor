@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=26004"]
+[Date "??"]
+[Round "1"]
+[White "chessy131 (1200)"]
+[Black "dpritz (1146)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 e5 2. Nf3 d6 3. d4 {Main line philidor defense.} f6 {Black varies from opening theory, with this awkward move. Immediately one can notice the weak white squares around the black king. These should be attacked immediately.} 4. Bc4 {So I develop, aiming at some weak white squares.} Bg4 5. h3 {I encourage trading off black's white squared bishop for my knight, for without it, his weakened white squares are even less defended.} Bxf3 6. Qxf3 Nc6 7. d5 Nd4 {Black makes this move centering his knight with tempo, however it is very vulnerable to being trapped with c3.} 8. Qd1 a6 9. a4 g6 {The only way to save his knight was 9..b5 10. Bd3 c5 11. dxc5 .. etc} 10. c3 b5 11. axb5 axb5 12. Rxa8 Qxa8 13. Bd3 {It's hard to miss how completely undefended the light squares are for black. } Nf5 14. Bxb5+ Ke7 15. exf5 gxf5 16. Qh5 {Keeping the black queen along the 8th rank; as if it left, Qe8# follows.} h6 17. Bc6 Qb8 18. Na3 {Bringing the knight in on the attack} f4 19. Nb5 f5 20. Qxf5 {It's all over for black.} Nf6 21. Qe6+ Kd8 22. Qxf6+ Kc8 23. Qe6+ Kd8 24. Qd7# {} 

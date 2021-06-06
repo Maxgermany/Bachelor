@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=55222"]
+[Date "??"]
+[Round "1"]
+[White "sanjaygulati (1491)"]
+[Black "donnichols (1447)"]
+[Opening "Queen's pawn, Mason variation (D00)"]
+
+1. d4 d5 2. Bf4 {Queen's pawn, Mason variation.} Bf5 3. Nc3 e6 4. a3 c5 {Black generally does pretty well with Nf6 here.  Pc5 (from the database) appears to give white a slight advantage.} 5. e3 a6 6. h3 Qb6 7. b3 Qc6 8. Nf3 b5 9. Ne5 Qb6 10. Bd3 Bxd3 11. Qxd3 Bd6 12. a4 Bxe5 13. Bxe5 f6 14. dxc5 Qxc5 15. Bg3 b4 16. Ne2 Nd7 17. Nd4 Qb6 18. O-O Nc5 19. Qe2 Ne7 20. Qh5+ Ng6 21. Qg4 {White has two pieces attacking e6, black has two pieces defending it.} O-O 22. a5 {Now black has only one piece defending e6, unless black comes back with f5, to counter threat the white queen.} Qd8 23. Nc6 Qd7 24. Nxb4 Ne4 25. Bh2 {I fancy Rd1 (probably fRd1).  That way NxPd5.} f5 26. Qd1 Rfc8 27. Nd3 Qe7 28. Nf4 Qg5 {Oops.  Nothing is protecting little Pe6 anymore.  The black queen will have to move again, unless black counter threats with Nc3.} 29. Nxe6 Qf6 30. Qxd5 {Beautifully executed.  Without moving the king or interposing the queen Nc7+ snatches Ra8 for free.  Black can't seize it with the other rook since the queen is protecting it.} Nc3 {Counter.  The white queen could move to d6, losing that cool discovered check advantage.  Qd4 sacrifices the knight.} 31. Qd7 Rce8 {Mistake.  White can fork the rooks with Nc7.  Better would be Ne5, or Ne2+, followed by Rxc2 possibly.  Black must be careful about protecting g7 from Qxg7#, but coaxing white's f rook of the #1 rank yields QxRa1.} 32. Nc7 {We anticipate Re7.  Counter threat with the black queen will cost black a rook (of his choice).  Ne5 suffers the same problem--the white queen moves to safety and black surrenders probably the "a" rook.  White could trade the queen for both rooks, but Qd6 looks better.} 

@@ -1,0 +1,9 @@
+[Event "A good tactic?"]
+[Site "https://gameknot.com/annotation.pl/a-good-tactic?gm=60566"]
+[Date "??"]
+[Round "1"]
+[White "damafi (1422)"]
+[Black "berf642000 (1366)"]
+[Opening "Queen's pawn (A40)"]
+
+1. d4 e6 2. Bf4 Nf6 3. Nf3 b6 4. Nbd2 Bb7 5. e3 Bd6 6. Ne5 O-O 7. Rg1 Nc6 8. g4 Nd5 9. g5 Nxf4 10. exf4 Nxd4 11. Bd3 a5 12. c3 Nc6 {I have made a mistake with g5, and I have paid the price under the form of the d4 pawn. If I allow major exchanges, I would be simply down. Can I do something? Here starts the combination. I'm sure you can see it, and it starts with a "bad" move...} 13. Qh5 {The all-too-known "naive" mate threat, easily parried with... } g6 {...so now the Q retires, and NxN, losing another pawn... or not?} 14. Nxg6 {Black has to take it (Ne2+ would be deadly), and if hxN, Qxg6+. But black has fxN...} fxg6 15. Bxg6 {White goes on as a champion, even there is no mate (black can avoid the mate by defending h2 with Qe7, but then the B just retires and g6 should be mate in few.} hxg6 {? a fatal mistake, but difficult to see.} 16. Qxg6+ Kh8 17. Rg3 {The key move in all previous lines. Black can't prevent in one move the mate threat.} Rxf4 18. Rh3+ {A nice thing having seen all the line on a blitz game!} 

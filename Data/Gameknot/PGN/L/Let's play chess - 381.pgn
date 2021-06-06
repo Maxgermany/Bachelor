@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=45653"]
+[Date "??"]
+[Round "1"]
+[White "papawh (1389)"]
+[Black "orobouros (1306)"]
+[Opening "Sicilian defence (B20)"]
+
+1. e4 c5 {Black open with the Sicilian Defense.} 2. e5 f6 3. Nf3 fxe5 4. Nxe5 d6 5. Nc4 b5 6. Ne3 Bd7 7. Nd5 {I wish I knew what my opponent was thinking here, moving the Knight instead of developing.} e6 8. Nf4 Nf6 9. Qe2 Qe7 10. f3 e5 11. Nd3 c4 {This is where I saw an opportunity to come ahead in captured pieces.} 12. Nb4 a5 13. Nd5 {I would have played 13. Nd3 instead to at least win a pawn.} Nxd5 14. Qe4 Bc6 15. Qf5 g6 16. Qh3 Nb4 {Going for a King/Rook fork.} 17. Na3 {But white wisely defends against the fork.} Bd7 18. Qg3 Bf5 {Trying to open the fork again.} 19. d3 Nb8c6 20. Bg5 Qe6 21. O-O-O c3 22. b3 {White is defending well.} Nxa2+ 23. Kb1 Ncb4 24. Nxb5 {White takes the free pawn, leaving Nxc2 defended only by the king.} Qxb3+ {This should probably be 24. .. Qxb3+??} 25. cxb3 c2+ 26. Kb2 cxd1=Q {Regain the queen lost in 25. cxb3} 27. Qf2 a4 28. Nc7+ {White forks the black King and Rook.} Kd7 29. Nxa8 Qxb3+ {This forces 30. Ka1 ...} 30. Ka1 Nc2+ {This forces 31. Qxc2 Qxc2 and black trades a Knight for a Queen.} 31. Qxc2 Qxc2 32. Be2 Bg7 {Black threatens 33. .. e4 #} 33. Nb6+ Kc6 34. Nc4 e4+ 35. d4 {White could also have palyed 35. Bf6 or 35. Ne5, but all variations lead to check each time.} Bxd4+ 36. Nb2 Qxb2# {} 

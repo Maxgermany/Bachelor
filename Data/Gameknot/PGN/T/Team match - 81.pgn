@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=60132"]
+[Date "??"]
+[Round "1"]
+[White "otakumadness (1076)"]
+[Black "watler (1048)"]
+[Opening "Queen's pawn (D00), stonewall attack"]
+
+1. d4 d5 2. e3 e6 3. Bb5+ c6 4. Bd3 b5 5. Bd2 Ba6 6. Nf3 c5 7. Bc3 b4 8. Bd2 cxd4 9. Nxd4 Qe7 10. a3 Nc6 {Black forgets that my knight is within striking distance and can capture it. This also removes the Bishop's protection and now my LSB can capture his without being recaptured.} 11. Nxc6 {I take the knight.} Qc5 12. Nxb4 {Rather than taking his bishop, I instead made this move because the Queen would have otherwise taken my knight. } Bb5 13. Nc3 d4 {Black forgets that the only other thing protecting his bishop right now is the Queen; I can take the bishop with either my knight or my own bishop and I don't have to worry about being recaptured.} 14. Nxb5 {I take it with my knight to avoid being taken by the pawn.} e5 15. Qe2 a5 16. Na2 g6 17. exd4 {Taking the pawn. Black's pawn is pinned and he can't take the knight because the bishop protects it.} Qd5 {This was a bad move on Black's part, as you'll see. Now I can pin both his queen and his rook with one move. Before this, the queen was protecting the key square at c7, so I couldn't move my knight in this manner. Now my knight is free to wreak havoc.} 18. Nc7+ {Pinning the queen.} Kd8 19. Nxd5 {Taking the queen} Bh6 20. Qxe5 {Threatening the rook} f6 21. Qc7+ {Thus begins my forced mate.} Ke8 22. Bb5+ Kf8 23. Bxh6+ Nxh6 24. Qe7+ Kg8 25. Nxf6# {And mate. Black made a few errors in the opening that allowed me to mate. The first was not realizing all possibilities on the board and taking too many risks, which allowed me to capture several key pieces. The second was that he quickly lost almost all his pawns and the king had zero protection. } 

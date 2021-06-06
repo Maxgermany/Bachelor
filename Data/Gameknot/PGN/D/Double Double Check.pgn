@@ -1,0 +1,9 @@
+[Event "Double Double Check"]
+[Site "https://gameknot.com/annotation.pl/double-double-check?gm=32969"]
+[Date "??"]
+[Round "1"]
+[White "NN (1160)"]
+[Black "dmaestro (1594)"]
+[Opening "Pirc defence (B07)"]
+
+1. e4 d6 2. d4 Nd7 3. Nc3 e5 4. dxe5 dxe5 5. Qd5 {!? Unusual and loses time.} Ngf6 6. Qd3 Be7 7. Nf3 O-O 8. Nd5 {? White needs to develop.} Nxd5 9. exd5 Re8 10. Qf5 {? White needs to prevent the pawn for, but this simply aids Black's attack.} Nf6 {! Black is not concerned about the e pawn since the White K is on the file and can't 0-0. } 11. Qxe5 {?? Of course, this loses the White Q after it is pinned. But the question is, can Black get more?} Nxd5 {Looking for a rapid checkmate and not just a winning the Q for a rook due to the pin. If W moves the Q, the discovered check is deadly.} 12. Qg3 {White's best try was something like Be2, still giving up the Q but avoiding mate.} Bd6+ 13. Ne5 {? Not only loses the N but sets up the checkmate/} Bxe5 14. Qf3 {Now White can be mated--do you see it?} Bc3+ {! Double Check, forcing Kd1, followed by Ne3 Double Check, and Qd8 Checkmate. } 

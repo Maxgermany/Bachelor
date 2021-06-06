@@ -1,0 +1,9 @@
+[Event "ICC 15 5, Internet Chess Club"]
+[Site "https://gameknot.com/annotation.pl/icc-15-5-internet-chess-club?gm=64762"]
+[Date "??"]
+[Round "1"]
+[White "Mkueppers (1764)"]
+[Black "John2001plus (1766)"]
+[Opening "French (C02), advance, Nimzovich system"]
+
+1. e4 e6 2. d4 d5 3. e5 {French Advance Variation.  Black to play.} c5 4. Nf3 {If White doesn't play 4. c3 he loses his grip on the center and becomes weaker on the dark squares. } cxd4 5. Nxd4 Ne7 {Preferable to 5... Nc6 so as to be able to recapture on c6 with a knight hitting the center. } 6. c4 Nbc6 7. Nxc6 Nxc6 {White should try 8. Be2 and after 8... Nxe5 9. cxd5 exd5 and White has some compensation for the pawn because Black's center pawn is potentially weak.  So instead Black should try 8... Bb4+ 9. Bd2 Bxd2+ 10. Nxd2 (or 10. Qxd2) Nxe5. } 8. f4 {This looks naturual, but it weakens the White kingside so much that White is going to have problems on the dark squares. } Bc5 {This is a natural move controlling the dark squares.} 9. Nc3 O-O {White has three attackers on d5, but Black is not concerned about the loss of pawn because he gets some good play for it. } 10. cxd5 {This is a loss of time for White.} exd5 {After 11. Nxd5 computer analysis gives 11... Nxe5 12. fxe5 Qh4+ 13. Kd2 (13. g3 Qe4+ 14. Qe2 Qxh1) 13... Rd8 14. Kc3 Be6 15. Bc4 Rxd5 16. Bxd5 Qb4+ 17. Kd3 ( 17. Kc2 Bf5+) 17... Bxd5 with an overwhelming position.} 11. Qxd5 {This is actually losing.  } Qb6 {If 12. Bd3 Nb4 13. Qe4 Nxd3+ 14. Qxd3 Bf2+ or 14... Be6 or 14... Rd8.  If 12. Be2 Nd4 13. Na4 Qb4+ 14. Bd2 Nc2+ 15. Kd1 Ne3+.  } 12. Na4 {This makes a bad situation even worse.} Bf2+ 13. Ke2 Bg4+ 14. Kd2 {Playing a rook to d8 is nice with a pin, but Black can do better. } Qe3+ 15. Kc2 Nb4+ 16. Kb1 {Although Black can take the queen, he is going for bigger game. } Bf5+ {Checkmate is imminent.  White resigns. } 

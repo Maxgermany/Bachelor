@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=63494"]
+[Date "??"]
+[Round "1"]
+[White "e4newman (1530)"]
+[Black "blacktrojan (1405)"]
+[Opening "KP (B00), Nimzovich defence"]
+
+1. e4 {Hung on in the opening to get a rare chance for a rook sacrifice in the end.} Nc6 2. d4 a6 {A wasted tempo really.} 3. Nf3 e6 4. Bg5 f6 5. Bh4 Qe7 6. c3 b5 7. Bd3 g5 8. Bg3 Nh6 9. O-O {9.O-O I totally missed Bxc7 although the computer doesn't like it.} d6 10. Nbd2 Bg7 11. h3 {11.h3 computer puts me about +1.4 +/- already.  I control 6 squares he 4 maybe 5 if he moves 17...Nb7, but wait, 17...Nc4?? that makes it 5 for me and 3 for him} g4 12. hxg4 Nxg4 13. Nh2 Nxh2 14. Bxh2 h5 15. Qf3 e5 16. d5 Na5 17. b4 Nc4 18. Nxc4 bxc4 19. Bxc4 Bg4 20. Qe3 Rg8 21. Qe1 Bh6 22. f3 {22.f3 if I can get my Q back to the diagonal to attack the helpless a6 pawn.  But first he's bringing some pressure 23...Qg7.  Luckily I have the resources to defend.} Bh3 23. Rf2 Qg7 24. Qe2 Bd7 {24...Bc8 maybe.} 25. a4 Qg5 26. Kh1 h4 {26...h4?! so 27.Bxa6 why not.} 27. Bxa6 Ke7 {27...Ke7 ?! re-position LSB?  Connect rooks?} 28. a5 Qe3 29. Bd3 Rg7 30. Re1 Qa7 31. f4 exf4 32. Bxf4 Bg4 33. Qd2 Bg5 34. Bxg5 {34.Bxg5 simplifies to my advantage but still some tactics to watch for.  34...Rxg5 hmmm now his k-side R needs protection.  35.e5 might mix it up.} Rxg5 35. e5 Rxe5 36. Rxe5+ dxe5 {36...dxe5 I'm at +1 so here goes my R sac} 37. Rxf6 Kxf6 38. Qh6+ Ke7 39. Qg7+ Kd6 40. Qxg4 Kxd5 41. Qd7# {} 

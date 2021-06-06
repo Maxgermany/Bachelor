@@ -1,0 +1,9 @@
+[Event "70th GK tournament"]
+[Site "https://gameknot.com/annotation.pl/70th-gk-tournament?gm=32271"]
+[Date "??"]
+[Round "1"]
+[White "topofstack (1307)"]
+[Black "zstocka (1307)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 {A short game, mate with no captures.  A good reminder that the point of the game is checkmate not capturing pieces.} e5 2. Nf3 d6 {Book opening, Philidor's Defense.  } 3. Nc3 Nc6 {We move both our knights out.} 4. Bb5 {A move my knight to b5, pinning his knight on c6 for the moment.} Bd7 {He moves up his bishop to unpin the knight.} 5. d3 {d3 to open up my queenside bishop.} Nge7 {An interesting, though not unusual, move.  Ne7 provides an alternative if I decide to swap pieces at c6.  On the down side, a number of his pieces are temporarily blocked.} 6. Bg5 {Moving my bishop to g5 effectively pins his e7 knight until he can move the queen out of danger.} a6 7. Ba4 {He presents an attack, and I move back.} b5 8. Bb3 {He pushes the attack and has me retreating a bit.} g6 {Since his pieces are somewhat stuck, he moves his G pawn out to get his king bishop in play.} 9. Nh4 {A move my knight off of f3.  My goal is to move my queen on to f3 for a possible mate.  A bit obvious because...} Nd4 {He answers by moving his knight to block the move.} 10. Nd5 {Honestly, I could have done Nd5 on my previous turn instead of moving the other knight.  Perhaps the delay distracted my opponent long enough so that he doesn't see my next move.} c6 {My opponent doesn't see the mate I have next turn and decides to chase my knight away by moving his C pawn.  I was honestly expecting him to move his bishop to C6, but ultimately, that wouldn't have prevented mate.  At this point, he really needs to do Bg7, move his queen, or F5.  Probably the best move would have been Bg7, since he was probably trying to develop that way anyway.} 11. Nf6# {Checkmate with 1 piece.  No captures.  My opponent has unwisely surrounded his king with his own pieces.} 

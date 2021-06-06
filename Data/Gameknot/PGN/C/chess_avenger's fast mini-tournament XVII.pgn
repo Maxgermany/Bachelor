@@ -1,0 +1,9 @@
+[Event "chess_avenger's fast mini-tournament XVII"]
+[Site "https://gameknot.com/annotation.pl/chess_avengers-fast-mini-tournament-xvii?gm=37088"]
+[Date "??"]
+[Round "1"]
+[White "chess_avenger (1496)"]
+[Black "king_k_rool (1476)"]
+[Opening "KGD (C31), Falkbeer counter-gambit"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Qxd5 5. Nc3 Qd8 6. d4 Bd6 7. Bc4 Nf6 8. Qe2+ Qe7 9. Qxe7+ Bxe7 10. Bxf4 O-O 11. Bxc7 Nc6 {Nc6 looks natural however the best move here is Bf5.} 12. Bf4 {I made this move here to develop my bishop and clear the back for potential castles on either side.  d5 is more aggressive (probably better as well) and keeps the pressure against the opponent.} Bg4 13. O-O-O Rad8 {Engine says Bb4 is better after: … Bb4 14. Bg5 Bxc3 15. Bxf6 Bxb2+ 16. Kxb2 gxf6 17. d5 Ne5 18. Be2 Rfc8 19. Rhe1 Bf5 20. Nd4 Be4 Regardless white has a slight advantage. } 14. d5 Na5 {Here d6! is definitely better.  After a few exchanges white is better with this move by about 2 points.} 15. Bb3 Nxb3+ 16. axb3 Bb4 17. Be5 {This move is not good.  The reason I did this move is to defend Nc3 and attack Nf6. The problem with this move is white loses a pawn: Be5 Bxc3 18. bxc3 Nxd5 19. Rhe1 f6 20. c4 fxe5 21. Rxd5 Bxf3 22. gxf3} Bxc3 18. bxc3 Nxd5 19. Rhf1 f6 20. Bd4 a6 21. h3 Bh5 22. c4 Nb4 {Here my opponent makes a big mistake because 23. Bc5! 22. ... Nf4 is the correct move.} 23. Kb2 {And of course now I make the big mistake (refer to previous note)} Nc6 24. Bc3 Bg6 25. Nd4 Nxd4 26. Bxd4 Rfe8 27. Rf2 Re4 28. Rfd2 Re6 29. Kc3 Red6 30. b4 Bf7 31. c5 Rc6 32. Kd3 b6 33. Kc3 bxc5 34. Bxc5 Rxd2 35. Rxd2 h6 36. Rd8+ Kh7 37. Rd7 Be6 38. Rd6 Rxd6 39. Bxd6 Bd5 {We agree to a draw.  I do not think I could have won the battle or pawn race on the queenside.} 

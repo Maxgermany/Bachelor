@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=57054"]
+[Date "??"]
+[Round "1"]
+[White "theknightslayer (1267)"]
+[Black "wichita1967 (1165)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 e5 2. Nf3 d6 {Philidor's defense.} 3. Bb5+ Bd7 4. a4 c6 5. Bc4 f5 6. exf5 Bxf5 7. d3 Nd7 8. Bg5 Be7 9. Qd2 h6 10. Bh4 g5 11. Bg3 d5 12. Bb3 Qc7 13. Qc3 d4 {This just pushes the queen.  I like Pa5, personally.  14. BxPe5 NxB. 15. NxNe5 Bb4.  This pins the white queen, with the bishop protected by Pa5.} 14. Qd2 {Now white can interpose a pawn or knight on any pin.} Ngf6 15. h4 g4 16. Nh2 O-O-O 17. f4 a5 18. Qe2 Nc5 19. Qxe5 Bg6 {Trading queens would most likely have been better.} 20. Be6+ Nfd7 21. f5 {Looks like a blunder.  NxBe6, 22. QxQ+, NxQc7 23. PxBg6.  Seems pretty fair, with good positions for black.  Alternatively, QxQe5+ 23. BxQ5 Bh5 does not seem quite as promising.} Bf7 {This was kind of clever, BxBf7, NxQe5 would be fun.  My guess is white has other ideas.} 22. Bxd7+ Rxd7 {Absolutely wrong.  KxB7 doesn't work because QxQ+.  But NxBd7 lets Rd8 continue protecting Rh8.  Let QxBe7 (bonus!)  R (either one) e8 then pins the white queen.  While white still enjoys BxQc7, black ends up with it.} 23. Qxh8+ {Rd8 would have worked better.} Bd8 {Yikes!  Here black should have absolutely interposed the queen.  BxQ will prove extremely painful.  Even } 24. Bxc7 {} 

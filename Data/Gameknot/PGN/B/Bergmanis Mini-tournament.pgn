@@ -1,0 +1,9 @@
+[Event "Bergmanis Mini-tournament"]
+[Site "https://gameknot.com/annotation.pl/bergmanis-mini-tournament?gm=26508"]
+[Date "??"]
+[Round "1"]
+[White "bergmanis  (1782)"]
+[Black "bengi95  (1816)"]
+[Opening "Ruy Lopez (C70), Cozio defence deferred"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. O-O g6 6. c3 Bg7 7. d4 exd4 8. cxd4 O-O {Out of opening. Possible continuation would be  8...b5 9.Bb3 0–0 10.Nc3 d6 11.h3 Na5 12.Bc2 b4} 9. d5 Ne5 {slightly better was  9...Na5  10.Nc3 d6  11.Bc2  (or 11.Rb1 b5 Haba, P-Varga, Z/St Poelten 2002/CBM)  11...Bg4  12.h3 Bxf3  13.Qxf3 Nc4  14.Qe2 Ne5  15.Bd2 f5  16.f4 Nd7  17.Rae1 fxe4  18.Nxe4 Re8  19.Qd3 Nf5  20.Bc3 Nc5  21.Nxc5 dxc5  22.Bxg7 Nxg7  23.Rxe8+ Qxe8  24.d6  Fogarasi, T-Varga, Z/Gyula 1998/CBM} 10. Nxe5 Bxe5 11. f4 Bg7 12. f5 gxf5 13. exf5 f6 {13... Bf6 is slightly better because bishop is not as passive as in this case. } 14. d6 {Caused by whites consideration of 14... cxd as bad move which is disputable. However, after 14... cxd blacks white bishop would be blocked for few more moves.} Nc6 15. Rf3 {White has simple attack.} Ne5 16. Rh3 Qe8 17. Bb3+ Kh8 18. Nc3 c6 {Way better would be 18... c5 preventing 19.Qd4} 19. Qd4 {Slightly better would be  19...Rf7  20.Qh4 Qg8 +-} Nf7 20. Qh4 {Black is doomed.} h6 21. Bxf7 Rxf7 {Somehow 21...Qxf7 looks better, but still 21...Qxf7  22.Bxh6 Kg8  23.Re1 Bxh6  24.Qxh6 Qg7  25.Qxg7+ Kxg7  26.Rg3+ Kh8  27.Re4 Rf7  28.Re8+ Rf8  29.Rxf8+ Kh7  30.Rh3+ Kg7  31.Rfh8 b6  32.R3h7#} 22. Bxh6 Kg8 23. Bxg7 Rxg7 24. Re1 {Black resigns because of fallowing  24... Qe6  25.Ne4 Kf8  26.fxe6 dxe6  27.Qxf6+ Kg8  28.Qd8+ Kf7  29.Rf1+ Kg6  30.Qg5#} 

@@ -1,0 +1,9 @@
+[Event "French Defense Opening Trap"]
+[Site "https://gameknot.com/annotation.pl/french-defense-opening-trap?gm=31245"]
+[Date "??"]
+[Round "1"]
+[White "dmaestro (1583)"]
+[Black "NN (1600)"]
+[Opening "French (C03), Tarrasch"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Qe2 Be7 7. Nf3 {So far a book line, with a slight edge for White because Black has ceded the center to some extent.} b6 {Black needs to get the Bishop out, but has to be very careful of tactics.} 8. Ne5 {A strong response. If Black takes the N, White controls e5.} Bb7 {?? This natural looking move loses outright. Black has fallen into a subtle opening trap. So how does White win? } 9. Nxf7 {Nxf7!} Kxf7 10. Ng5+ Ke8 11. Nxe6 Qc8 {Black must protect the Q} 12. Nxg7+ Kf7 13. Qe6+ {! A strong response. Black has bad choices. } Kxg7 {This loses, but so does ... Kf8 Bh6!} 14. Qxe7+ Kg8 15. Bc4+ {Bh6 wins the Q since that is the only way to stop mate, but this is even stronger, forcing mate.} Bd5 16. Bxd5+ Nxd5 17. Qe6+ {Now the Black K has to go to either f8 or g7.} Kg7 18. Bh6# {Checkmate. } 

@@ -1,0 +1,9 @@
+[Event "How to lose at chess pt4"]
+[Site "https://gameknot.com/annotation.pl/how-to-lose-at-chess-pt4?gm=45210"]
+[Date "??"]
+[Round "1"]
+[White "elwoos (1429)"]
+[Black "janse133 (1474)"]
+[Opening "Bird (A02), From gambit, Lasker variation"]
+
+1. f4 {This is an excellent example of how one poor move can be disastrous. For those who are interested analysis is available at http://gameknot.com/analyze-board.pl?bd=17937574&rnd=0.6528408743906766  This is a game from a mini tournament, this is the opening position} e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 {to discourage Q h4 or g5} Nf6 5. d4 Bg4 6. h3 {This move which may look harmless at first sight is what led to me losing the game.} Bg3+ 7. Kd2 {forced} Ne4+ 8. Ke3 {Pretty much forced, Kd3 leads to a royal fork with Nf2} Nf2 9. Qd2 {At the time I felt this was pretty much forced but this move leads to forced mate in 2 with 9. Qd2 Qe7+ 10. Ne5 Qg5#} Qe7+ {Thanks for reading} 

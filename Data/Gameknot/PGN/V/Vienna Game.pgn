@@ -1,0 +1,9 @@
+[Event "Vienna Game"]
+[Site "https://gameknot.com/annotation.pl/vienna-game?gm=46986"]
+[Date "??"]
+[Round "1"]
+[White "dimachil (1712)"]
+[Black "nikolausi (1527)"]
+[Opening "Vienna gambit (C29)"]
+
+1. e4 e5 2. Nc3 {Vienna Opening} Nf6 3. f4 {The idea behind this move (f4) is to open the f file, so after white's O-O, the Rook will be in a semi-open file, attacking the king's wing. Also white threatens fxe5.  exf4 is a BAD move for black, because white responds with e5 and the Knight is forced to move back.} Nc6 {BAD move (you'll see why...) Accepted responses for black are d5 or d6} 4. fxe5 Nxe5 5. d4 Nc6 6. e5 {Knight trapped!} Ng8 {white is ahead} 7. Nf3 {This move protects the white king from Qh4} Bb4 8. Bc4 Bxc3+ {Not a good move (in my opinion). Although the upcoming bxc3 will worsen White's pawn formation, the black-square white bishop gets better (he can move to b2 or c3).} 9. bxc3 d5 10. exd6 e.p. Qxd6 11. O-O Bg4 {This is a very BAD move for black that will cost a pawn. Actually this is the reason I annotated this game, because the same situation is very common in several other openings (including Italian). !! Always be careful when pinning the f-Knight (f3 for White, f6 for Black) against the Queen. The f2/f7 pawn is in danger !!  Take a look at the following sequence: Bxf7+  Kxf7 Kg5+   Ke1 Qxg4  White won a pawn} 12. Bxf7+ Kd8 {Black saw what will happen if he captures the bishop, so he decides to move away. Still the pawn is lost. (by the way, I think that Kd7 would be better - to leave access for the a8-Rook in e8)} 13. Bg5+ Nf6 14. Qe1 Kd7 15. Bxf6 Bxf3 16. Rxf3 gxf6 17. Qh4 Kc8 18. Rxf6 {Black resigned} 

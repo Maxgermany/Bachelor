@@ -1,0 +1,9 @@
+[Event "Dutch Defense Trap"]
+[Site "https://gameknot.com/annotation.pl/dutch-defense-trap?gm=54080"]
+[Date "??"]
+[Round "1"]
+[White "??? "]
+[Black "??? "]
+[Opening "Dutch, Korchnoi attack (A80)"]
+
+1. d4 f5 {Dutch defense.} 2. h3 {h3 Variation.} Nf6 3. g4 {White gives a pawn, but the rook gets an half-open h line.} fxg4 4. hxg4 Nxg4 5. Qd3 {Black can not protect the pawn at h7 with the Knight. When black does this, he will lose a rook or will be checkmated!} Nf6 {Mistake! Better is g6, it blocks the queen.} 6. Rxh7 {when black takes the rook, he will be checkmated by Qg6#.} Rxh7 7. Qg6# {Checkmate!} 

@@ -1,0 +1,9 @@
+[Event "Blitz game (nice checkmate)"]
+[Site "https://gameknot.com/annotation.pl/blitz-game-nice-checkmate?gm=27847"]
+[Date "??"]
+[Round "1"]
+[White "krishna80 "]
+[Black "no_genius "]
+[Opening "Paleface attack (A45)"]
+
+1. d4 Nf6 2. f3 {trying to support e4, but c4 and Nc3 is better} g6 3. g4 {To attack the knight, but I don't really understand this.} h6 {Using a tempo to secure my knight} 4. h4 Bg7 5. c3 d6 6. e4 c5 {Trying to get control of d4} 7. d5 a6 {Probably a mistake. I was worried about Bb5+, but O-O and Na6 might be better.} 8. a4 Nbd7 {Delaying castling, as the centre is closed} 9. f4 {Looks scary, but now the g4 and e4 pawns are weak} Nb8 {attacking the pawn on g4 twice. Probably not best, because my knight has nowhere to go other than back to d7 after Be2. (what I didn't notice is that the e4 pawn isn't even defended once)} 10. c4 Bxg4 11. Be2 {White finally moves a piece} h5 {preventing h4-h5} 12. Nc3 O-O {Nbd7 or Qc7 would have prevented white's next move} 13. e5 Bxe2 {With my knight attacked, this exchange is probably forced} 14. Ngxe2 Nfd7 {Skipping away from the pawn} 15. Rg1 {Hoping for tactics based on f5, or Qxh5 if the bishop moves} Qb6 {To prevent Qb3} 16. Ne4 Re8 {Putting the rook facing the king} 17. a5 Qc7 {maybe Qg5+ would have been better, but I didn't want to over-extend myself.} 18. exd6 exd6 {opening the e-file} 19. Qc2 {Not Nc3, because of Bxc3!} Nf6 {The exchange sacrifice Rxe4 Qxe4 Nf6 is interesting. This just misplaces my bishop} 20. Nxf6+ Bxf6 21. Kf1 {So that the pawn on h4 can't be taken with check.} Qd7 {Qh3+ is the threat} 22. f5 Kh8 {seeing as after Kh7 gxf5 exf5, my g-pawn is attacked twice, I get out of the potential check} 23. Ng3 {Preventing me from exchanging queens with Qxf5+} Bxh4 {I think I lost my way a bit earlier, but now I'm probably winning.} 24. fxg6 Qh3+ 25. Rg2 Qh1+ {Couldn't resist the Queen sac. If 26 Rg1, then ... Qf3+ 27 Qf2 Qd1+ and checkmate} 26. Nxh1 Re1# {} 

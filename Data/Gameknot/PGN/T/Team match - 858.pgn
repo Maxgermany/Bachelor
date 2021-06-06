@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=5681"]
+[Date "??"]
+[Round "1"]
+[White "alexmilne (1455)"]
+[Black "diosynus (1461)"]
+[Opening "Reti opening (A06)"]
+
+1. Nf3 {I've been trying this opening recently, and it can have interesting results.} d5 {The most common response} 2. Ne5 {This is an interesting variation, from the games database.} e6 3. e3 Bd6 {I have tried the bold Nxf7, but it hasn't really worked for me.} 4. Nd3 c5 5. Nc3 Nc6 6. b3 Nf6 7. Qe2 {It's all starting to look a little cramped, which I don't really like, but if I can boost, my e pawn things should open up.} Bd7 8. Bb2 {If there's an exchange on e4, I want my bishop on the long diagonal.} O-O 9. e4 d4 {wasn't expecting that, but it's OK...} 10. Nb5 {Was expecting his bishop to retreat to e7 then I could boost my e pawn again...} Bc7 {...but he's seen that, but now he's left his pawn unprotected.} 11. Nxc5 Nb4 {Obviously after the fork, but his other pawn is now vulnerable, and it stops the fork.} 12. Nxd4 Bc6 13. e5 Nfd5 {Now I have a plan, if I take e6 with one knight, then the other, I can fork Rook and Queen.} 14. a3 {But I have to get that knight out of the way first.} Nf4 15. Qg4 {Furthering the pressure on e6} Nbd5 {Need to move his other knight now.} 16. g3 Ng6 17. f4 {I'm ready to attack now, but he does have a way out, by Qd2, then if I took the rook, he gets my queen.} Nge7 {This move makes everything much easier for me!} 18. Ndxe6 fxe6 19. Nxe6 Qd7 {He's seen the fork, and the way out, but missed the greater threat.} 20. Qxg7# {} 

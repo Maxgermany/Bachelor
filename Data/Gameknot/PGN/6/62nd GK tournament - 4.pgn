@@ -1,0 +1,9 @@
+[Event "62nd GK tournament"]
+[Site "https://gameknot.com/annotation.pl/62nd-gk-tournament?gm=26863"]
+[Date "??"]
+[Round "1"]
+[White "burlanisback (1637)"]
+[Black "vetch (1366)"]
+[Opening "Queen's gambit accepted (D20)"]
+
+1. d4 d5 2. c4 dxc4 3. e3 {3. e4 is a better move, but if you feel that your opponent is not such a good player 3. e3 might work as well} b5 4. a4 a6 {black shouldn't try to keep the c4 pawn at all! both 4...a6 as in the game and 4...c6 are awkward; after 4...c6, 5.axb5 cxb5 6.Qf3, capturing a piece, will fallow} 5. axb5 axb5 {?? why offer the rook for nothing?} 6. Rxa8 Na6 7. Bxc4 {with a little trap} bxc4 8. Qa4+ Qd7 {8.Bd7 looses the queen and the knight} 9. Rxc8# {but 8...Qd7 allows mate!} 

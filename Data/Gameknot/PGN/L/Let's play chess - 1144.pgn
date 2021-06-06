@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=2726"]
+[Date "??"]
+[Round "1"]
+[White "asimpasa (1229)"]
+[Black "kuahyeow (1200)"]
+[Opening "Bishop's opening (C24), Urusov gambit"]
+
+1. e4 e5 2. Bc4 {Bishops opening. Again.} Nf6 3. d4 {Bishops Opening, Ponziani Gambit} exd4 {This is the main line. Question is what happens if e5? Oh, if e5, the ...d5.} 4. e5 d5 {According to kibitz28.txt} 5. Bd3 Ne4 6. Be2 Nc6 7. Bh5 Nxe5 {Dangerous move, inviting Qxd5.} 8. f4 {f4?} Qh4+ {No effective way for white to counter the check.} 9. g3 Nxg3 10. Nf3 Nxf3+ 11. Bxf3 Nxh1+ 12. Kd2 Qxf4+ 13. Ke2 Qxh2+ {Key here is to keep checking, but avoid exchange of Queen via a white check} 14. Kd3 Bf5+ 15. Kxd4 c5+ 16. Kxd5 O-O-O+ 17. Kc4 b5+ 18. Kxb5 Qb8+ {} 

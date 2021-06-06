@@ -1,0 +1,9 @@
+[Event "An unlikely trapped Queen"]
+[Site "https://gameknot.com/annotation.pl/an-unlikely-trapped-queen?gm=42410"]
+[Date "??"]
+[Round "1"]
+[White "bluetal "]
+[Black "damalfi "]
+[Opening "Scandinavian (centre counter) defence (B01)"]
+
+1. e4 d5 2. e5 Bf5 3. d4 e6 4. Nf3 a6 {All standard stuff. I could have played c5 here, but then the Bb5+, etc, gives me a too known game. } 5. Be2 c5 6. c3 {Here, an unlikely move is BxN, but nothing clear comes our of this positional sac. } Nc6 7. Nbd2 Qb6 {Or b5. } 8. Nb3 {c4 closes the game too much, and I will have trouble in activating my dsb. } cxd4 9. cxd4 {The only possible retake (or Nxe5).} Bb4+ {Just to get this bishop out, with lots of care. } 10. Bd2 Rc8 {Trying to build something.} 11. O-O Nge7 {More risky: cuts my dsb's way back. } 12. Rc1 O-O {Nearly forced, I have to connect the rooks and defend c8. But maybe not: now, white has the simple Nh4, and the lsb's capture is unavoidable. } 13. Nc5 {Now, the right one was Rf-d8, but I overlooked Nd7. Just plainly. } Na5 14. Nd7 {Uh oh. I can resign. } Rxc1 15. Bxc1 {Even better was NxQ, since I lose a rook in the process. But this one is designed to trap my dsb. } Qc7 {With a shadow of hope, if he misses it...} 16. Nxf8 {...which he does. } Bc2 17. Nxe6 fxe6 {The queen is trapped. Now white can potentially go after 3 minor pieces for a queen, but... let's see: a3, BxQ, axB, BxB, bxN, BxR, KxB, QxBc1+! is not a solution. Whew! :-)} 

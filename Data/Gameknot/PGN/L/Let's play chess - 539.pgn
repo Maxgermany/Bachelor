@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=36582"]
+[Date "??"]
+[Round "1"]
+[White "chess_avenger (1458)"]
+[Black "archenon (1447)"]
+[Opening "KGA (C37), double Muzio gambit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 {The opponent chooses to continue with the Quaade Gambit.} 4. Bc4 g4 {The agressive Lolli Gambit (Wild Muzio Gambit)} 5. O-O {Here the two best options are 5. 0-0 or 5. Ne5.} gxf3 {Muzio Gambit, Paulsen Variation} 6. Qxf3 Qf6 7. e5 {Between d3 and e5 I choose e5.} Qxe5 8. Bxf7+ {Two options are acceptable here. 8. Bxf7+! (double Muzio Gambit) or  8. The less aggressive d3. (The engine prefers this move).  I choose the first.} Kxf7 9. d4 Qxd4+ {The databases favor Qf5 over Qxd4+ (although both are still just fine). } 10. Be3 Qxb2 {Qxb2?  Is a little too aggressive and ignores the pressure white is building up on the king side. The more defensive Qg7 or even Qf6 have better outcomes for black. } 11. Qxf4+ {White attacks.} Nf6 {Nf6?  Another mistake. Qf6 would extend the game much longer. Engine analysis suggests the following: … Qf6 12. Qxc7 Qxf1+ 13. Kxf1 Nc6 14. Qf4+ Nf6 15. Nc3 Be7 16. Nd5 Rg8 17. Nxe7 Nxe7 18. Bd4 Ned5 19. Qe5 Re8} 12. Bd4 {12. Bd4!  Attacks the queen and the knight.} Bc5 {The final mistake by the opponent.  The reason is a checkmate in 3 moves … Bc5 13. Qxf6+ Ke8 14. Re1+ Be7 15. Qxe7#} 13. Qxf6+ Ke8 14. Qf7+ {Here I was a little hasty.  I missed the checkmate in 2. (14. Re1+ Be7 15. Qxe7#). In game I realized I missed it and could still perform a checkmate (14. Qf7+ Kd8 15. Qf6+ Ke8 16. Re8+ Be7 17. Qxe7#).  My opponent realizes this and resigns. } 

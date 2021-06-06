@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=25984"]
+[Date "??"]
+[Round "1"]
+[White "chessy131 (1200)"]
+[Black "chesshicks (1170)"]
+[Opening "Philidor (C41), Nimzovich variation"]
+
+1. e4 e5 2. Nf3 d6 3. d4 {The Main line against the old Philidor defense, not considered great for black.} Nf6 {A dubious line} 4. dxe5 dxe5 {Normal for this line is 4..Nxe4?! 5. Qd5 Nc5 6. Bg5 Qd7 7. exd6 with a small advantage for white. Instead, this line immediately loses material.} 5. Qxd8+ Kxd8 6. Ng5 {Slightly better than Nxe5, because now 6..Be6 is met with Nxe6, f3, Bc4, leaving black with horribly weak pawns. } Rg8 7. Nxf7+ Ke7 8. Nxe5 Nxe4 9. Nd2 Nxd2 10. Bxd2 Nc6 {Probably best is the immediate 10..Be6, but things aren't looking good for black.} 11. Bc4 {Black's losing at least a rook. Unbelieveably, he's in a mating net.} Be6 12. Bg5+ {The net unfolds} Kd6 13. O-O-O+ Kxe5 14. g4 {Cutting off the last retreating square - f5} Bxc4 15. Rhe1+ {Mate in one.} 

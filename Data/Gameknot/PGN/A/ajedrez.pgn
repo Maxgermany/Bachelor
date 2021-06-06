@@ -1,0 +1,9 @@
+[Event "ajedrez"]
+[Site "https://gameknot.com/annotation.pl/ajedrez?gm=66392"]
+[Date "??"]
+[Round "1"]
+[White "ricardoandrestn (1200)"]
+[Black "marco7525 (1534)"]
+[Opening "Philidor's defence (C41)"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 c6 8. Bc4 Ke8 9. O-O Bc5 10. Re1 b5 11. Bb3 Nf6 12. Be3 Bxe3 13. Rxe3 a5 14. a3 a4 15. Ba2 Ke7 16. Rd1 Bg4 17. f3 Bh5 18. g4 Bg6 19. h4 h6 20. Red3 Rhc8 21. Kf2 Ra7 22. Kg3 Bh7 23. g5 Nh5+ 24. Kg4 Nf4 25. Rd3d2 h5+ 26. Kg3 Rac7 27. Ne2 Ng6 28. c4 Bg8 29. cxb5 cxb5 30. Nc3 Rb8 31. Nd5+ Kd7 32. Nxc7+ Kxc7 33. Rc2+ Kb6 34. Rd6+ Ka5 35. Rc7 {This move wins the game, as you will see in the following moves, where his rook is forced to move to certain places in order to avoid checkmate.} Ra8 36. Bd5 {Key move, forces his rook into a6 and some tactics.} Ra6 {Must be done for the following tactic.} 37. Rxa6+ Kxa6 38. Rc6+ {Double attack on king and knight, his knight is defended by the pawn, but his pawn is pinned by the white bishop. If he captures rook with pawn he loses his bishop, if he doesn't he loses his knight and/or more.} Ka5 39. Rxg6 {Using the pin of f7 pawn to my advantage.} fxg6 40. Bxg8 {Game is over at this point. His king takes too long to attack my pawns and succesfully convert one of his pawns to a queen, and he also takes too long to get to my kingside pawns before they turn to a queen.} b4 41. axb4+ Kxb4 42. Bf7 Kc5 43. Bxg6 Kd4 44. Bxh5 Kd3 45. Bf7 Kc2 46. h5 Kxb2 47. h6 gxh6 48. g6 {} 

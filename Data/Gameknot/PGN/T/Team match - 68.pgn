@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=60826"]
+[Date "??"]
+[Round "1"]
+[White "kingjeroen (1285)"]
+[Black "psycho422 (1290)"]
+[Opening "Centre game (C21)"]
+
+1. e4 e5 2. d4 {Center game.} d6 3. d5 c6 4. dxc6 Nxc6 5. Bb5 Bd7 6. a3 Nd4 7. Bc4 b5 8. Bd5 Rc8 {White should defend against NxPc2+.  Maybe Pc3. } 9. Nf3 {The rook gets forked.} Nxc2+ 10. Kd2 Nxa1 11. Re1 Rc2+ 12. Kd3 Be6 {I like RxPf2.} 13. Ba2 {This doesn't help save the bishop.} Bxa2 14. Qxc2 {Here the queen (9) is traded for a rook and knight (5+3).  Not terrible, but white was already down a rook, pawn, and bishop (9).} Nxc2 15. Kxc2 Qc8+ 16. Nc3 a5 17. b3 b4 18. Kb2 {QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.} bxc3+ 19. Kxa2 f5 20. exf5 Nf6 {Although black's king side is undeveloped, Qxf5 might be better.} 21. h3 Qxf5 22. Re3 {Qc2+ gives black the bishop, Bc1.} e4 {If white moves the knight, black is enticed to play QxPf2+.  The bishop protects the rook.} 23. g4 {Counter threat!} Qc5 24. Ng5 Be7 25. Ne6 Qc8 26. Nxg7+ Kf7 27. Nf5 d5 28. g5 Qxf5 29. Rxc3 Qxf2+ 30. Bb2 Nh5 31. Kb1 Bxg5 {Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here.} 32. Rc2 {This move is not as good, as black can force trades.} Qf1+ 33. Rc1 {Black could trade rooks with BxRc1.} Qd3+ 34. Ka2 Bxc1 35. Bxc1 {The rook was probably a better deal.} Qc2+ 36. Bb2 Rg8 37. a4 Rg2 {} 

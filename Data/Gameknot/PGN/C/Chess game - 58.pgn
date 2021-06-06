@@ -1,0 +1,9 @@
+[Event "Chess game"]
+[Site "https://gameknot.com/annotation.pl/chess-game?gm=65174"]
+[Date "??"]
+[Round "1"]
+[White "eric2jin (White)"]
+[Black "gogipalo (Black)"]
+[Opening "QGA (D20), 3.e4"]
+
+1. d4 {Queens gambit!} d5 2. c4 dxc4 {Accepted } 3. e4 e5 {This was new} 4. d5 {Pawn} h6 {Pawn  First I thought ? but then I realized in later moves} 5. Bxc4 {Even now} Nf6 {Knight. You see, the pawn on h6 was so that I couldn’t pin his/her knight.} 6. Nc3 {Knight} Bb4 7. Bd2 Bxc3 {Smart, but...} 8. Bxc3 Nxe4 9. Bxe5 {Bxe5 and we’re back to 0!} Qg5 10. Qf3 {?} Qxe5 {Whew! I was expecting Qd2+} 11. Ne2 {Prepared to castle Kingside} O-O {Beat me to O-O} 12. d6 {!?} Nxd6 13. Bd3 Qxb2 14. O-O {Castling late and guarding rook} Nd7 15. Bb1 {The point here, if QxR, Bh7+ winning the queen.} Ne5 16. Qe3 Ndc4 17. Qe4 {How did I win this!} Nd2 {?? big fork, but...} 18. Qh7# {I win checkmate!} 

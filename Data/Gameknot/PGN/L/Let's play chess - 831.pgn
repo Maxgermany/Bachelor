@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=24375"]
+[Date "??"]
+[Round "1"]
+[White "kingarthur23 (1182)"]
+[Black "francisbaron08 (1526)"]
+[Opening "Ruy Lopez (C70), Classical defence deferred"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 {classical deferred.} 5. O-O b5 6. Bb3 d6 7. Nc3 {another possibility is c3 aiming for d4} Nf6 8. d3 h6 9. Nh4 {this is kind of a risky maneuver white undertakes here.  it clearly aims to jump to g6, but if black plays ... Na5 the horse will be danger.  instead 9 Be3 is worth a try.} O-O {9 ... Nxe4 doesn't work due to 10 Bd5!} 10. Re1 {the losing move.  it was perhaps best for the horse to beat a retreat with 10 Nf3 though after 10 ... Bg4 stands well.} Ng4 {winning material} 11. Nf3 Nxf2 {the strongest way to do it.} 12. Qe2 Nxd3+ 13. Kh1 {white is trying to coax black into settling for being just three pawns up (which isn't bad!)} Nxe1 {a solid approach here.} 14. Qxe1 Be6 15. Bxe6 fxe6 16. Qg3 {this is good by white.  this could have made black work a bit since there is always the possible Bxh6 hanging over black} Qf6 {a little too automatically played.  instead 16 ... Rf6 was the better alternative with the idea of ... Qe8 followed by ... Qg6 or even ... Qh5 followed by ... Raf8 with the possible sacrifice on f3.} 17. Bd2 Nd4 {this is good, stealing a pawn since 18 Rc1 drops the exchange to 18 ... b4} 18. Rf1 Nxc2 {no disadvantage to helping oneself to another pawn.  note that the knight on f3 cannot move due to mate.} 19. b3 Nd4 20. a4 {this hands black the game on a silver platter.  if white had sat tight he would have forced black to work to get this point.  a possible approach by black could have been ... Nc6-e7 followed by ... Qg6} Nxb3 21. axb5 Nxd2 {white overlooked the mate.} 22. Nxd2 Qxf1+ {} 

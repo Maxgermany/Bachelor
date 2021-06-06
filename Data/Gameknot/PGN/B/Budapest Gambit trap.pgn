@@ -1,0 +1,9 @@
+[Event "Budapest Gambit trap"]
+[Site "https://gameknot.com/annotation.pl/budapest-gambit-trap?gm=54081"]
+[Date "??"]
+[Round "1"]
+[White "??? "]
+[Black "??? "]
+[Opening "Budapest (A52), Rubinstein variation"]
+
+1. d4 Nf6 2. c4 e5 {Budapest Gambit.} 3. dxe5 {Accepted Variation.} Ng4 4. Bf4 {normally here will be played Nf3.} Nc6 5. Nf3 Bb4+ {White can also place the Knight at c3, then the mate doesn't come.} 6. Nbd2 Qe7 7. a3 {White thinks, the binding of the Knight isn't nice, he will get the Bishop.} Ncxe5 {Black leaves the Bishop, but White can not take the Bishop, because then is a mate with Nd3#!} 8. axb4 Nd3# {Checkmate (White can not take the Knight, because the queen is on the line with the king (she will give check, when the pawn takes the Knight.} 

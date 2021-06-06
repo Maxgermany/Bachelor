@@ -1,0 +1,9 @@
+[Event "Let's play chess"]
+[Site "https://gameknot.com/annotation.pl/lets-play-chess?gm=24887"]
+[Date "??"]
+[Round "1"]
+[White "fernandod (1136)"]
+[Black "kamshaft (1202)"]
+[Opening "Alekhine's defence (B02)"]
+
+1. e4 {as normal } Nf6 {as allways} 2. f3 {not so normal} e5 3. d4 exd4 4. Qxd4 {possibly queen out to early} Nc6 5. Qc4 Nb4 6. a3 Nc6 7. c3 d5 8. Qb3 { loses a pawn} dxe4 9. Bc4 Ne5 10. Nd2 Nxc4 11. Qxc4 exf3 12. Ngxf3 Qe7+ 13. Kf1 Bd7 14. a4 Qd6 {scared for my pawn} 15. Ng5 {i pretty much invented that mate} Be6 16. Qb5+ c6 17. Qxb7 {darn} Bc4+ {try to open a forced mate that actually wasn't there, after 18nxb qd1+ 19 kf2 bc5+ 20 kg3 qg4# but 20 be3 stops it} 18. Ke1 Qe5+ 19. Kf2 {??? can you see why} Qe2+ 20. Kg3 Bd6+ 21. Kh3 Qg4# {3 move forced mate} 

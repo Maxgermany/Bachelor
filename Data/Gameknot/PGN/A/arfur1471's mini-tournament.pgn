@@ -1,0 +1,9 @@
+[Event "arfur1471's mini-tournament"]
+[Site "https://gameknot.com/annotation.pl/arfur1471s-mini-tournament?gm=7125"]
+[Date "??"]
+[Round "1"]
+[White "dkucak (1460)"]
+[Black "kansaspatzer (1562)"]
+[Opening "Sicilian (B78), dragon, Yugoslav attack, 10.O-O-O"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 {We are still well within theory. This is a thematic move in the Sicilian Dragon. The rook eyes the knight on c3 with x-ray vision, prepared to possibly sacrifice itself there eventually.} 11. Bb3 Ne5 {Obviously, it's not time to do so yet. Just because a sacrifice is thematic and possible does not mean that it should be played automatically. Both sides have signalled their intentions here - to go straight for each other's kings!} 12. h4 h5 {Black cannot allow White's pawn to go to h5.} 13. Bg5 Rc5 14. g4 hxg4 15. f4 Nc4 16. Qd3 b5 {This move, which is still not a new move, works for tactical reasons, as we shall see...} 17. Ndxb5 {Has White won a pawn for nothing?} Nxb2 {Black's dragon bishop breathes fire down the long diagonal.} 18. Kxb2 Bxb5 {The first new move according to the Gameknot database. 18...Nxe4 had been played twice previously.} 19. Nxb5 Nxe4+ 20. Kb1 {I analyzed this game with Shredder, which concluded that 20.Kc1 would have been much better for White. The king is very vulnerable on b1 to mates on b2.} Nf2 {Material isn't the most important consideration here, but it makes sense to remove one of the rooks, as the knight was threatened anyway.} 21. Qe2 Nxd1 {I think I probably should have captured the rook on h1 instead.} 22. Rxd1 Qa5 23. a4 Rb8 {23...Rxb5 followed by Qc3 would have been much better.} 24. Bxe7 Rcxb5 25. Bxd6 Qxa4 26. Be5 Rb5xb3+ 27. cxb3 Qxb3+ 28. Ka1 Bxe5+ 29. fxe5 Qa3+ 30. Qa2 Qc3+ {} 

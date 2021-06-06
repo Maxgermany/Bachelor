@@ -14,7 +14,6 @@ def sortFilesInFolder():
                 os.mkdir("../Gameknot/JSON/" + filename[0] + "/")
             os.rename("../Gameknot/JSON/" + filename, "../Gameknot/JSON/" + filename[0] + "/" + filename)
 
-
 def createCorpus():
 
     folders = os.listdir("../Gameknot/JSON/")
@@ -65,4 +64,37 @@ def filterOtherLanguages(content):
                     file.write(line)
                     file.write("\n")
     return contentTemp
+
+def createPGN():
+
+    folders = os.listdir("../Gameknot/JSON/")
+
+    for folder in folders:
+        _, _, filenames = next(walk("../Gameknot/JSON/" + folder + "/"))
+        if not os.path.exists("../Gameknot/PGN/" + folder + "/"):
+            os.mkdir("../Gameknot/PGN/" + folder + "/")
+        for filename in filenames:
+            pgnFile = open("../Gameknot/PGN/" + folder + "/" + filename[:-5] + ".pgn", "w+", encoding="utf-8")
+            jsonFile = open("../Gameknot/JSON/" + folder + "/" + filename, "r+", encoding="utf-8")
+            content = json.load(jsonFile)
+            pgnFile.write('[Event "' + content["gameName"] + '"]\n')
+            pgnFile.write('[Site "' + content["url"] + '"]\n')
+            pgnFile.write('[Date "??"]\n')
+            pgnFile.write('[Round "1"]\n')
+            pgnFile.write('[White "' + content["players"].split("vs. ")[0][:-1] + '"]\n')
+            pgnFile.write('[Black "' + content["players"].split("vs. ")[1] + '"]\n')
+            pgnFile.write('[Opening "' + content["opening"] + '"]\n\n')
+
+            for move in content["moves"]:
+                if "..." in move:
+                    pgnFile.write(" ".join(move.split(" ")[1:]))
+                    pgnFile.write((" {" + content["moves"][move] + "} ").replace("\n", " "))
+                else:
+                    pgnFile.write(move)
+                    pgnFile.write((" {" + content["moves"][move] + "} ").replace("\n", " "))
+
+            jsonFile.close()
+            pgnFile.close()
+
+createPGN()
 

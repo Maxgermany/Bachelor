@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=58021"]
+[Date "??"]
+[Round "1"]
+[White "nevhelp (1033)"]
+[Black "hughdavenport (1075)"]
+[Opening "KP (C20), Patzer opening"]
+
+1. e4 e5 2. Qh5 {King's Pawn, Patzer opening.} g6 {This is a TERRIBLE defense against the Patzer, as QxPe5+ gives white Rh8. } 3. Qxe5+ Qe7 4. Qxh8 Nf6 {White should now defend Pe4.} 5. e5 {That isn't much of a defense.} Qxe5+ 6. Be2 b6 7. g3 Ba6 {White must watch out for QxBe2#.  We don't want this game to end too quickly.  Pd3 will protect the bishop at Pe2, while letting white's black bishop access to the field.} 8. f4 {Wrong pawn.  If black moves Bb7, white's rook is at risk.} Qe4 {Even better.  Ng1 is the only thing protecting Be2 from QxBe2#.  White's rook is lost.} 9. Nf3 {Oh no!  Game over!} Qxe2# {} 

@@ -1,0 +1,9 @@
+[Event "Team match"]
+[Site "https://gameknot.com/annotation.pl/team-match?gm=55120"]
+[Date "??"]
+[Round "1"]
+[White "gittite (1478)"]
+[Black "veganjohn (1495)"]
+[Opening "King's pawn game (C20)"]
+
+1. e4 e5 2. Bb5 c6 3. Bc4 d5 4. exd5 cxd5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 {After white's poor opening black is a bit better.} 7. Qh5 {This is horrible. Black is going to have a huge lead in development and is much better now.} e4 {e4 is perhaps inaccurate. Not only because the pawn can be easily liquidated (which isn't too big of a problem as black is so far ahead that the open lines may help), but because after 7 ... Nc6! black gets to develop naturally with ... Nf6 and it isn't too clear how white is going to survive black's lead in development.} 8. Qe5+ {This actually doesn't lose much time, since the queen was going to be attacked by Nf6 anyway.} Ne7 9. Nc3 Nbc6 10. Qg5 {Perhaps instead Qh5! and Qd1!, but it isn't clear that white can hold anyway.} h6 {better is Nd4! after this white has Qh5!, and can answer Nd4 with Qd1!.} 11. Qg3 Nf5 {-+} 12. Qf4 Bd6 13. Qg4 Nb4 14. Qd1 {White might as well have tried Kd1!? (Nd4 Qxg7) although then Nxc2! intends Kxc2 Nd4+ and Qxg4.} Nd4 15. Rb1 Nbxc2+ 16. Kf1 Nb4 17. a3 Nbc2 {Nbc2?? is a positional blunder of titanic proportions. Instead after Nd3! white's position is in ruins: The Nd3 is almost impossible to remove in the short term, and it prevents the development of the d2 pawn and c1 bishop. It also focuses on the white king. Just as an example, after ... Qh4 black is already forced into Nh3 to guard f2, and then g5-g4 wins the knight. Very likely many other aggressive maneuvers win by a similarly absurd magnitude. Of course, black appears to remain winning.} 18. Nce2 Nxe2 19. Nxe2 Rc8 20. Nc3 Nd4 21. Qe1 O-O 22. Nxd5 Qb5+ 23. Kg1 Ne2+ 24. Kf1 Ng3+ 25. Kg1 Nxh1 26. Qxe4 Rfe8 27. Qf3 Re1# {} 
