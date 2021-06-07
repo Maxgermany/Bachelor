@@ -2,7 +2,7 @@ import sqlite3
 
 def createTables():
 
-    con = sqlite3.connect('../chessData.db')
+    con = sqlite3.connect('../Data/chessData.db')
 
     with con:
         con.execute("""
@@ -81,3 +81,18 @@ def setURLToScraped(url = "", opening = ""):
 
     con.close()
 
+def getGameIDFromURL(url = ""):
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMES' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT id FROM GAMES WHERE url = ? LIMIT 1"
+        c.execute(sql, (url,))
+        return c.fetchall()[0][0]
+
+    con.close()
