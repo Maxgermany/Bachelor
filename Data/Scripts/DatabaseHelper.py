@@ -96,3 +96,19 @@ def getGameIDFromURL(url = ""):
         return c.fetchall()[0][0]
 
     con.close()
+
+def writeMoveCommentPairIntoDB(gameId = 1, comment = '', stage = 'initial', moves = ''):
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMES' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "INSERT INTO GAMESCOMMENTS (gameId, comment, stage, moves) VALUES(?, ?, ?, ?)"
+
+        con.execute(sql, (gameId, comment, stage, moves))
+
+    con.close()
