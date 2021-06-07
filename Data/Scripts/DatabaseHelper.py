@@ -82,7 +82,7 @@ def setURLToScraped(url = "", opening = ""):
     con.close()
 
 def getGameIDFromURL(url = ""):
-    con = sqlite3.connect('../Data/chessData.db')
+    con = sqlite3.connect('../chessData.db')
 
     c = con.cursor()
     c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMES' ''')
@@ -98,17 +98,33 @@ def getGameIDFromURL(url = ""):
     con.close()
 
 def writeMoveCommentPairIntoDB(gameId = 1, comment = '', stage = 'initial', moves = ''):
-    con = sqlite3.connect('../Data/chessData.db')
+    con = sqlite3.connect('../chessData.db')
 
     c = con.cursor()
-    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMES' ''')
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMECOMMENTS' ''')
 
     if c.fetchone()[0] != 1:
         createTables()
 
     with con:
-        sql = "INSERT INTO GAMESCOMMENTS (gameId, comment, stage, moves) VALUES(?, ?, ?, ?)"
+        sql = "INSERT INTO GAMECOMMENTS (gameId, comment, stage, moves) VALUES(?, ?, ?, ?)"
 
         con.execute(sql, (gameId, comment, stage, moves))
+
+    con.close()
+
+def writeManyMoveCommentPairsIntoDB(records):
+    con = sqlite3.connect('../chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMECOMMENTS' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "INSERT INTO GAMECOMMENTS (gameId, comment, stage, moves) VALUES(?, ?, ?, ?)"
+
+        con.executemany(sql, records)
 
     con.close()
