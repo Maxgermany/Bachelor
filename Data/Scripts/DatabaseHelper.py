@@ -2,7 +2,7 @@ import sqlite3
 
 def createTables():
 
-    con = sqlite3.connect('../Data/chessData.db')
+    con = sqlite3.connect('../chessData.db')
 
     with con:
         con.execute("""
@@ -16,6 +16,17 @@ def createTables():
                 players VARCHAR(255),
                 result varchar(15),
                 time varchar(127)
+            );
+        """)
+
+        con.execute("""
+            CREATE TABLE IF NOT EXISTS GAMECOMMENTS (
+                id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+                gameId INTEGER NOT NULL,
+                comment TEXT,
+                stage VARCHAR(255),
+                moves VARCHAR(255),
+                FOREIGN KEY(gameId) REFERENCES GAMES(id)
             );
         """)
 
@@ -69,3 +80,4 @@ def setURLToScraped(url = "", opening = ""):
         con.execute(sql, (opening, url))
 
     con.close()
+
