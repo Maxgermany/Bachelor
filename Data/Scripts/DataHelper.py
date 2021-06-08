@@ -105,7 +105,8 @@ def writeMovesInDB():
                 gameId = DatabaseHelper.getGameIDFromURL(content["url"])
                 records = []
                 for move in content["moves"]:
-                    for sentence in re.split("[.?!]", content["moves"][move]):
-                        records.append((gameId, sentence, 'initial', move))
+                    records.append((gameId, content["moves"][move], 'initial', move))
                 DatabaseHelper.writeManyMoveCommentPairsIntoDB(records)
+
+writeMovesInDB()
 
