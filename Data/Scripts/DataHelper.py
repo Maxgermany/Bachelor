@@ -5,6 +5,7 @@ from langdetect import detect
 import re
 import Data.Scripts.DatabaseHelper as DatabaseHelper
 
+
 def sortFilesInFolder():
     _, _, filenames = next(walk("../Gameknot/JSON/"))
 
@@ -16,8 +17,8 @@ def sortFilesInFolder():
                 os.mkdir("../Gameknot/JSON/" + filename[0] + "/")
             os.rename("../Gameknot/JSON/" + filename, "../Gameknot/JSON/" + filename[0] + "/" + filename)
 
-def createCorpus():
 
+def createCorpus():
     folders = os.listdir("../Gameknot/JSON/")
 
     with open("../Gameknot/corpus.txt", "w+", encoding="utf-8") as file:
@@ -31,8 +32,8 @@ def createCorpus():
 
                     file.write("\n")
 
-def preprocessCorpus():
 
+def preprocessCorpus():
     processingFunctions = ["lowerCase", "filterOtherLanguages"]
 
     with open("../Gameknot/corpus.txt", "r+", encoding="utf-8") as file:
@@ -43,8 +44,10 @@ def preprocessCorpus():
         with open("../Gameknot/corpus" + function + ".txt", "w+", encoding="utf-8") as file:
             file.write(content)
 
+
 def lowerCase(content):
     return content.lower()
+
 
 def filterOtherLanguages(content):
     lines = content.split("\n")
@@ -67,8 +70,8 @@ def filterOtherLanguages(content):
                     file.write("\n")
     return contentTemp
 
-def createPGN():
 
+def createPGN():
     folders = os.listdir("../Gameknot/JSON/")
 
     for folder in folders:
@@ -94,6 +97,7 @@ def createPGN():
                             pgnFile.write(move)
                         pgnFile.write((" {" + content["moves"][move] + "} ").replace("\n", " "))
 
+
 def writeMovesInDB():
     folders = os.listdir("../Gameknot/JSON/")
 
@@ -108,5 +112,26 @@ def writeMovesInDB():
                     records.append((gameId, content["moves"][move], 'initial', move))
                 DatabaseHelper.writeManyMoveCommentPairsIntoDB(records)
 
-writeMovesInDB()
+
+def filterShortMovesInDB():
+    pairs = DatabaseHelper.getMoveCommentsPairs()
+    finalPairs = []
+    for pair in pairs:
+        if len(pair[2]) > 10:
+            finalPairs.append((pair[1], pair[2], 'shortMoves', pair[3]))
+    DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
+
+
+def filterEnglishMovesInDB():
+    pairs = DatabaseHelper.getMoveCommentsPairs(stage='shortMoves')
+    finalPairs = []
+    for pair in pairs:
+        try:
+            lang = detect(pair[2])
+            if lang == 'en':
+                finalPairs.append((pair[1], pair[2], 'englishMoves', pair[3]))
+        except:
+            continue
+
+    DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
 
