@@ -128,3 +128,19 @@ def writeManyMoveCommentPairsIntoDB(records):
         con.executemany(sql, records)
 
     con.close()
+
+def getMoveCommentsPairs(stage = 'initial'):
+    con = sqlite3.connect('../chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMECOMMENTS' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT * FROM GAMECOMMENTS WHERE stage = ?"
+        c.execute(sql, (stage,))
+        return c.fetchall()
+
+    con.close()
