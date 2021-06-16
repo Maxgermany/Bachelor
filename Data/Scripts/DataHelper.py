@@ -133,5 +133,20 @@ def filterEnglishMovesInDB():
         except:
             continue
 
+def lowerMovesInDB():
+    pairs = DatabaseHelper.getMoveCommentsPairs(stage='englishMoves')
+    finalPairs = []
+    for pair in pairs:
+        finalPairs.append((pair[1], pair[2].casefold(), 'lowerCase', pair[3]))
+
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
+
+def removeTabsNewLinesAndSpacesInDB():
+    pairs = DatabaseHelper.getMoveCommentsPairs(stage='lowerCase')
+    finalPairs = []
+    for pair in pairs:
+        finalPairs.append((pair[1], " ".join(pair[2].split()), 'removeTabsNewLinesAndSpaces', pair[3]))
+
+    DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
+
 
