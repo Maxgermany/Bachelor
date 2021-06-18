@@ -4,6 +4,7 @@ import json
 from langdetect import detect
 import re
 import Data.Scripts.DatabaseHelper as DatabaseHelper
+from collections import defaultdict
 
 
 def sortFilesInFolder():
@@ -148,5 +149,24 @@ def removeTabsNewLinesAndSpacesInDB():
         finalPairs.append((pair[1], " ".join(pair[2].split()), 'removeTabsNewLinesAndSpaces', pair[3]))
 
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
+
+def getAllDistinctWordsOfStage(stage = "initial", findWords=[]):
+    pairs = DatabaseHelper.getMoveCommentsPairs(stage=stage)
+    wordFrequency = defaultdict(int)
+    for pair in pairs:
+        for word in pair[2].split():
+            wordFrequency[word] += 1
+
+    wordFrequency = sorted(wordFrequency.items(), key=lambda item: item[1])
+
+    print(wordFrequency)
+
+    for freq in wordFrequency:
+        if freq[0] in findWords:
+            print(freq)
+
+
+getAllDistinctWordsOfStage('removeTabsNewLinesAndSpaces')
+
 
 
