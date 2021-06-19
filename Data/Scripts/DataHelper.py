@@ -5,6 +5,8 @@ from langdetect import detect
 import re
 import Data.Scripts.DatabaseHelper as DatabaseHelper
 from collections import defaultdict
+from flair.data import Sentence
+from flair.models import SequenceTagger
 
 
 def sortFilesInFolder():
@@ -166,7 +168,19 @@ def getAllDistinctWordsOfStage(stage = "initial", findWords=[]):
             print(freq)
 
 
-getAllDistinctWordsOfStage('removeTabsNewLinesAndSpaces')
+def getAllNamedEntities(stage = "inital"):
+    pairs = DatabaseHelper.getMoveCommentsPairs(stage = stage)
+    tagger = SequenceTagger.load('ner')
+    for pair in pairs:
+        sentence = Sentence(pair[2])
+        tagger.predict(sentence)
+        if len(sentence.get_spans('ner')) > 0:
+            print(pair[2])
+            for entity in sentence.get_spans():
+                print(entity)
+                
+
+
 
 
 
