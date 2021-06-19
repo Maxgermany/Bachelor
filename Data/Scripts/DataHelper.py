@@ -152,6 +152,24 @@ def removeTabsNewLinesAndSpacesInDB():
 
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
 
+def removePairsWithHTMLInDB(stage = 'removeTabsNewLinesAndSpaces'):
+    pairs = DatabaseHelper.getMoveCommentsPairs(stage=stage)
+    finalPairs = []
+    for pair in pairs:
+        if "<" not in pair[2]:
+            finalPairs.append((pair[1], pair[2], 'removeHTML', pair[3]))
+            
+    DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
+    
+def removePairsWithLinksInDB(stage = 'removeHTML'):
+    pairs = DatabaseHelper.getMoveCommentsPairs(stage=stage)
+    finalPairs = []
+    for pair in pairs:
+        if "http" not in pair[2]:
+            finalPairs.append((pair[1], pair[2], 'removeLinks', pair[3]))
+            
+    DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
+
 def getAllDistinctWordsOfStage(stage = "initial", findWords=[]):
     pairs = DatabaseHelper.getMoveCommentsPairs(stage=stage)
     wordFrequency = defaultdict(int)
@@ -178,9 +196,6 @@ def getAllNamedEntities(stage = "inital"):
             print(pair[2])
             for entity in sentence.get_spans():
                 print(entity)
-                
-
-
 
 
 
