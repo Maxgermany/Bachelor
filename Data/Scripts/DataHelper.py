@@ -35,6 +35,35 @@ def createCorpus():
 
                     file.write("\n")
 
+def getFrequencyOfLanguages():
+
+    folders = os.listdir("../Gameknot/JSON/")
+
+    languages = {}
+    counter = 0
+
+    for folder in folders:
+        _, _, filenames = next(walk("../Gameknot/JSON/" + folder + "/"))
+        for filename in filenames:
+            with open("../Gameknot/JSON/" + folder + "/" + filename, "r", encoding="utf-8") as jsonFile:
+                content = json.load(jsonFile)
+                comment = ""
+                for move in content["moves"]:
+                    comment += content["moves"][move] + " "
+                try:
+                    lang = detect(comment)
+                    if lang in languages:
+                        languages[lang] += 1
+                    else:
+                        languages[lang] = 1
+                except:
+                    continue
+
+                counter += 1
+
+    print(languages)
+    print(counter)
+
 
 def preprocessCorpus():
     processingFunctions = ["lowerCase", "filterOtherLanguages"]
