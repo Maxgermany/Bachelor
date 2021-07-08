@@ -2,7 +2,7 @@ import sqlite3
 
 def createTables():
 
-    con = sqlite3.connect('../Data/chessData.db')
+    con = sqlite3.connect('../chessData.db')
 
     with con:
         con.execute("""
@@ -28,6 +28,15 @@ def createTables():
                 moves VARCHAR(255),
                 FOREIGN KEY(gameId) REFERENCES GAMES(id)
             );
+        """)
+
+        con.execute("""
+            CREATE TABLE IF NOT EXISTS NAMEDENTITIES (
+                id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+                commentId INTEGER NOT NULL,
+                tag VARCHAR(16),
+                entityName VARCHAR(255),
+                FOREIGN KEY(commentID) REFERENCES GAMECOMMENTS(id))
         """)
 
     con.close()
@@ -144,3 +153,5 @@ def getMoveCommentsPairs(stage = 'initial'):
         return c.fetchall()
 
     con.close()
+
+createTables()
