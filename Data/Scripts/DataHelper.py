@@ -150,7 +150,7 @@ def filterShortMovesInDB():
     finalPairs = []
     for pair in pairs:
         if len(pair[2]) > 10:
-            finalPairs.append((pair[1], pair[2], 'shortMoves', pair[3]))
+            finalPairs.append((pair[1], pair[2], 'shortMoves', pair[4]))
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
 
 
@@ -161,15 +161,17 @@ def filterEnglishMovesInDB():
         try:
             lang = detect(pair[2])
             if lang == 'en':
-                finalPairs.append((pair[1], pair[2], 'englishMoves', pair[3]))
+                finalPairs.append((pair[1], pair[2], 'englishMoves', pair[4]))
         except:
             continue
+
+    DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
 
 def lowerMovesInDB():
     pairs = DatabaseHelper.getMoveCommentsPairs(stage='englishMoves')
     finalPairs = []
     for pair in pairs:
-        finalPairs.append((pair[1], pair[2].casefold(), 'lowerCase', pair[3]))
+        finalPairs.append((pair[1], pair[2].casefold(), 'lowerCase', pair[4]))
 
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
 
@@ -177,7 +179,7 @@ def removeTabsNewLinesAndSpacesInDB():
     pairs = DatabaseHelper.getMoveCommentsPairs(stage='lowerCase')
     finalPairs = []
     for pair in pairs:
-        finalPairs.append((pair[1], " ".join(pair[2].split()), 'removeTabsNewLinesAndSpaces', pair[3]))
+        finalPairs.append((pair[1], " ".join(pair[2].split()), 'removeTabsNewLinesAndSpaces', pair[4]))
 
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
 
@@ -186,7 +188,7 @@ def removePairsWithHTMLInDB(stage = 'removeTabsNewLinesAndSpaces'):
     finalPairs = []
     for pair in pairs:
         if "<" not in pair[2]:
-            finalPairs.append((pair[1], pair[2], 'removeHTML', pair[3]))
+            finalPairs.append((pair[1], pair[2], 'removeHTML', pair[4]))
             
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
     
@@ -195,7 +197,7 @@ def removePairsWithLinksInDB(stage = 'removeHTML'):
     finalPairs = []
     for pair in pairs:
         if "http" not in pair[2]:
-            finalPairs.append((pair[1], pair[2], 'removeLinks', pair[3]))
+            finalPairs.append((pair[1], pair[2], 'removeLinks', pair[4]))
             
     DatabaseHelper.writeManyMoveCommentPairsIntoDB(finalPairs)
 
@@ -222,9 +224,9 @@ def getAllNamedEntities(stage = "inital"):
         sentence = Sentence(pair[2])
         tagger.predict(sentence)
         if len(sentence.get_spans('ner')) > 0:
-            print(pair[2])
             for entity in sentence.get_spans():
-                print(entity)
+                print(str(pair[0]) + " " + str(entity))
+
 
 
 
