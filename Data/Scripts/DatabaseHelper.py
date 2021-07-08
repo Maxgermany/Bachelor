@@ -138,6 +138,22 @@ def writeManyMoveCommentPairsIntoDB(records):
 
     con.close()
 
+def writeNamedEntitiyIntoDB(commentId = 1, tag = '', entityName = ''):
+    con = sqlite3.connect('../chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='NAMEDENTITIES' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "INSERT INTO NAMEDENTITIES (commentId, tag, entityName) VALUES(?, ?, ?)"
+
+        con.execute(sql, (commentId, tag, entityName))
+
+    con.close()
+
 def getMoveCommentsPairs(stage = 'initial'):
     con = sqlite3.connect('../chessData.db')
 
@@ -153,5 +169,3 @@ def getMoveCommentsPairs(stage = 'initial'):
         return c.fetchall()
 
     con.close()
-
-createTables()
