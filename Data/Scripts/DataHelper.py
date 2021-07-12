@@ -217,16 +217,18 @@ def getAllDistinctWordsOfStage(stage = "initial", findWords=[]):
             print(freq)
 
 
-def getAllNamedEntities(stage = "inital"):
+def writeNamedEntitiesInDB(stage = "inital"):
     pairs = DatabaseHelper.getMoveCommentsPairs(stage = stage)
-    tagger = SequenceTagger.load('ner')
+    tagger = SequenceTagger.load('ner-fast')
+    maxId = DatabaseHelper.getMaxCommentIDFromNamedEntities()
     for pair in pairs:
+        if pair[0] < maxId[0]:
+            continue
         sentence = Sentence(pair[2])
         tagger.predict(sentence)
         if len(sentence.get_spans('ner')) > 0:
             for entity in sentence.get_spans():
-                print(str(pair[0]) + " " + str(entity))
+                DatabaseHelper.writeNamedEntitiyIntoDB(pair[0], entity.tag, entity.text)
 
 
-
-
+writeNamedEntitiesInDB("removeLinks")
