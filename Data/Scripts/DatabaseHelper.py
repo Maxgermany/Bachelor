@@ -39,6 +39,16 @@ def createTables():
                 FOREIGN KEY(commentID) REFERENCES GAMECOMMENTS(id))
         """)
 
+        con.execute("""
+            CREATE TABLE IF NOT EXISTS DATAPOINTS (
+                id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+                commentId INTEGER NOT NULL,
+                entityName VARCHAR(32),
+                attributeName VARCHAR(256),
+                attributeValue VARCHAR(256)
+            )
+        """)
+
     con.close()
 
 def writeGameIntoDB(gameName = "", url = "", initialURL = '', scrapped = False, opening = "", players = "", result = "", time = ""):
@@ -186,3 +196,4 @@ def getMoveCommentsPairs(stage = 'initial'):
         return c.fetchall()
 
     con.close()
+
