@@ -2,7 +2,7 @@ import sqlite3
 
 def createTables():
 
-    con = sqlite3.connect('../chessData.db')
+    con = sqlite3.connect('../Data/chessData.db')
 
     with con:
         con.execute("""
@@ -36,7 +36,8 @@ def createTables():
                 commentId INTEGER NOT NULL,
                 tag VARCHAR(16),
                 entityName VARCHAR(255),
-                FOREIGN KEY(commentID) REFERENCES GAMECOMMENTS(id))
+                FOREIGN KEY(commentID) REFERENCES GAMECOMMENTS(id)
+            );
         """)
 
         con.execute("""
@@ -46,7 +47,7 @@ def createTables():
                 entityName VARCHAR(32),
                 attributeName VARCHAR(256),
                 attributeValue VARCHAR(256)
-            )
+            );
         """)
 
     con.close()
@@ -197,3 +198,45 @@ def getMoveCommentsPairs(stage = 'initial'):
 
     con.close()
 
+def getMoveCommentsOfGame(gameId=1, stage='initial'):
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMECOMMENTS' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT * FROM GAMECOMMENTS WHERE stage = ? AND gameId = ? ORDER BY Id"
+        c.execute(sql, (stage, gameId))
+        return c.fetchall()
+
+def getGame(gameId=1):
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMES' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT * FROM GAMES WHERE Id = ?"
+        c.execute(sql, (gameId,))
+        return c.fetchone()
+
+def writeManyDataPointsIntoDB(records):
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute('''SELECT count(name) FROM sqlite_master WHERE type='table' AND name='DATAPOINTS' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "INSERT INTO DATAPOINTS (commentId, entityName, attributeName, attributeValue) VALUES(?, ?, ?, ?)"
+        con.executemany(sql, records)
+
+    con.close()
