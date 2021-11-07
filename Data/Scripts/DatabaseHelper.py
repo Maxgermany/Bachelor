@@ -257,3 +257,18 @@ def getAllDataPointsOfComment(commentId=1):
 
     con.close()
 
+def getCommentById(commentId=1):
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMECOMMENTS' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT * FROM GAMECOMMENTS WHERE Id = ?"
+        c.execute(sql, (commentId,))
+        return c.fetchone()
+
+    con.close()
