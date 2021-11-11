@@ -257,6 +257,22 @@ def getAllDataPointsOfComment(commentId=1):
 
     con.close()
 
+def getAllDataPoints():
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='DATAPOINTS' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT * FROM DATAPOINTS"
+        c.execute(sql)
+        return c.fetchall()
+
+    con.close()
+
 def getCommentById(commentId=1):
     con = sqlite3.connect('../Data/chessData.db')
 
@@ -270,5 +286,21 @@ def getCommentById(commentId=1):
         sql = "SELECT * FROM GAMECOMMENTS WHERE Id = ?"
         c.execute(sql, (commentId,))
         return c.fetchone()
+
+    con.close()
+
+def getDistinctCommentIdsFromDatapoints():
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='DATAPOINTS' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT DISTINCT commentId FROM DATAPOINTS"
+        c.execute(sql)
+        return c.fetchall()
 
     con.close()
