@@ -320,3 +320,19 @@ def getAllComments(stage = 'removeLinks'):
         return c.fetchall()
 
     con.close()
+
+def getAllGames():
+    con = sqlite3.connect('../Data/chessData.db')
+
+    c = con.cursor()
+    c.execute(''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='GAMES' ''')
+
+    if c.fetchone()[0] != 1:
+        createTables()
+
+    with con:
+        sql = "SELECT * FROM GAMES"
+        c.execute(sql)
+        return c.fetchall()
+
+    con.close()
