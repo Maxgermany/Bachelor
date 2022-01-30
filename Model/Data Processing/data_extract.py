@@ -487,7 +487,7 @@ if __name__ == '__main__':
 
 	# json_data = json.load(open(args.data, 'r'))
 
-	jsonData = json.load(open("../valid.json", 'r'))
+	jsonData = json.load(open("../train.json", 'r'))
 
 	summaryKey = 'summary'
 
@@ -507,34 +507,34 @@ if __name__ == '__main__':
 
 	table_labels_list, summary_labels_list = extract_labels(tableList, final_links, summaryList, False)
 
-	with open("valid.gtable", "w", encoding="utf-8") as outf:
+	with open("train.gtable", "w", encoding="utf-8") as outf:
 		for game in tableList:
 			assert all([len(item.split('|')) == 4 for item in game])
 			outf.write("{}\n".format(' '.join(game)))
 	outf.close()
 
-	with open("valid.summary", "w", encoding="utf-8") as outf:
+	with open("train.summary", "w", encoding="utf-8") as outf:
 		for summary in summaryList:
 			outf.write("{}\n".format(' '.join(summary)))
 	outf.close()
 
-	with open("valid.orig_summary", "w", encoding="utf-8") as outf:
+	with open("train.orig_summary", "w", encoding="utf-8") as outf:
 		for game in jsonData:
 			outf.write("{}\n".format(' '.join(game[summaryKey])))
 	outf.close()
 
-	with open("valid.links", "w", encoding="utf-8") as outf:
+	with open("train.links", "w", encoding="utf-8") as outf:
 		for links in final_links:
 			out_line = ' '.join(sorted(links, key=lambda x: int(x[:x.index(':')])))
 			outf.write("{}\n".format(out_line))
 	outf.close()
 
-	with open("valid.gtable_label", 'w', encoding="utf-8") as outf:
+	with open("train.gtable_label", 'w', encoding="utf-8") as outf:
 		for table_labels in table_labels_list:
 			outf.write("{}\n".format(' '.join(table_labels)))
 	outf.close()
 
-	with open("valid.summary_label", 'w', encoding="utf-8") as outf:
+	with open("train.summary_label", 'w', encoding="utf-8") as outf:
 		for summary_labels in summary_labels_list:
 			outf.write("{}\n".format(' '.join(summary_labels)))
 	outf.close()

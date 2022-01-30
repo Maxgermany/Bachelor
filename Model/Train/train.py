@@ -24,9 +24,9 @@ def get_parser():
     # main parameters
     parser.add_argument("--model_path", type=str, default="../experiments/",
                         help="Experiment dump path")
-    parser.add_argument("--exp_name", type=str, default="First Experiment",
+    parser.add_argument("--exp_name", type=str, default="First",
                         help="Experiment name")
-    parser.add_argument("--exp_id", type=str, default="3",
+    parser.add_argument("--exp_id", type=str, default="1",
                         help="Experiment ID")
     parser.add_argument("--save_periodic", type=int, default=1,
                         help="Save the model periodically (0 to disable)")

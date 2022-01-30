@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
     # print_args(args)
 
-    summary_dico = Dictionary.read_vocab("valid.summary_vocab")
-    summary_data = Dictionary.index_summary("valid.summary", "valid.summary_label", summary_dico,
-                                            "valid.summary.pth", max_len=600)
+    summary_dico = Dictionary.read_vocab("train.summary_vocab")
+    summary_data = Dictionary.index_summary("train.summary", "train.summary_label", summary_dico,
+                                            "train.summary.pth", max_len=600)
 

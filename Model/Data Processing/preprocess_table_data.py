@@ -55,6 +55,6 @@ if __name__ == '__main__':
     #
     # print_args(args)
 
-    table_dico = Dictionary.read_vocab("valid.gtable_vocab")
-    table_data = Dictionary.index_table("valid.gtable", "valid.gtable_label", table_dico, "valid.gtable.pth")
+    table_dico = Dictionary.read_vocab("train.gtable_vocab")
+    table_data = Dictionary.index_table("train.gtable", "train.gtable_label", table_dico, "train.gtable.pth")
     print(table_data)

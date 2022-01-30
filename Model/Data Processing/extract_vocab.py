@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     if True:
         table_vocab = {}
-        for line in open("valid.gtable", 'r', encoding="utf-8"):
+        for line in open("train.gtable", 'r', encoding="utf-8"):
             items = line.strip().split()
             for item in items:
                 elements = item.split('|')
@@ -29,14 +29,14 @@ if __name__ == '__main__':
                     else: table_vocab[element] += 1
 
         sorted_table_vocab = sorted(table_vocab.items(), key = lambda x:x[1], reverse=True)
-        table_outf = open("valid.gtable_vocab", 'w', encoding="utf-8")
+        table_outf = open("train.gtable_vocab", 'w', encoding="utf-8")
         for (w, c) in sorted_table_vocab:
             table_outf.write("{}\t{}\n".format(w, c))
         table_outf.close()
 
     if True:
         summary_word_count = {}
-        for line in open("valid.summary", 'r', encoding="utf-8"):
+        for line in open("train.summary", 'r', encoding="utf-8"):
             words = line.strip().split()
             for w in words:
                 # if w in table_vocab: continue
@@ -46,7 +46,7 @@ if __name__ == '__main__':
                     summary_word_count[w] += 1
 
         sorted_summary_word_count = sorted(summary_word_count.items(), key = lambda x:x[1], reverse=True)
-        summary_outf = open("valid.summary_vocab", 'w', encoding="utf-8")
+        summary_outf = open("train.summary_vocab", 'w', encoding="utf-8")
         # for (w, c) in sorted_table_vocab:
         #     summary_outf.write("{}\t{}\n".format(w, c))
         for (w, c) in sorted_summary_word_count:
