@@ -1,0 +1,529 @@
+[
+  {
+    "box_score": {
+      "PLAYER_NAME": {
+        "0": "Kasparov,_G.",
+        "1": "Topalov,_V."
+      },
+      "MOVE_TURN": {
+        "0": "Yes",
+        "1": "No"
+      },
+      "MATE": {
+        "0": "None",
+        "1": "None"
+      },
+      "SCORE": {
+        "0": "0.33",
+        "1": "-0.33"
+      },
+      "CHANGE": {
+        "0": "-0.02",
+        "1": "0.02"
+      },
+      "CAPTURE": {
+        "0": "False",
+        "1": "False"
+      },
+      "CASTLE": {
+        "0": "False",
+        "1": "False"
+      },
+      "ENPASSANT": {
+        "0": "False",
+        "1": "False"
+      },
+      "MOVE_NUMBER": {
+        "0": "0",
+        "1": "0"
+      },
+      "PIECE": {
+        "0": "Pawn",
+        "1": "None"
+      },
+      "PIECE_VALUE": {
+        "0": "38",
+        "1": "38"
+      }
+    },
+    "summary": [
+      "nothing",
+      "betokened",
+      "a",
+      "storm",
+      "when",
+      "i",
+      "made",
+      "this",
+      "move",
+      ".",
+      "topalov",
+      "who",
+      "is",
+      "always",
+      "eager",
+      "to",
+      "fight",
+      "no",
+      "matter",
+      "if",
+      "he",
+      "has",
+      "black",
+      "or",
+      "white",
+      ",",
+      "if",
+      "he",
+      "plays",
+      "me",
+      "or",
+      "any",
+      "other",
+      "adversary",
+      "answered",
+      "with"
+    ],
+    "game_result": "White"
+  },
+  {
+    "box_score": {
+      "PLAYER_NAME": {
+        "0": "Kasparov,_G.",
+        "1": "Topalov,_V."
+      },
+      "MOVE_TURN": {
+        "0": "No",
+        "1": "Yes"
+      },
+      "MATE": {
+        "0": "None",
+        "1": "None"
+      },
+      "SCORE": {
+        "0": "0.64",
+        "1": "-0.64"
+      },
+      "CHANGE": {
+        "0": "0.33",
+        "1": "-0.33"
+      },
+      "CAPTURE": {
+        "0": "False",
+        "1": "False"
+      },
+      "CASTLE": {
+        "0": "False",
+        "1": "False"
+      },
+      "ENPASSANT": {
+        "0": "False",
+        "1": "False"
+      },
+      "MOVE_NUMBER": {
+        "0": "1",
+        "1": "1"
+      },
+      "PIECE": {
+        "0": "None",
+        "1": "Pawn"
+      },
+      "PIECE_VALUE": {
+        "0": "38",
+        "1": "38"
+      }
+    },
+    "summary": [
+      "i",
+      "was",
+      "sincerely",
+      "surprised",
+      ".",
+      "pirc",
+      "ufimtsev",
+      "defense",
+      "is",
+      "not",
+      "a",
+      "usual",
+      "one",
+      "for",
+      "topalov",
+      ",",
+      "and",
+      "this",
+      "opening",
+      "is",
+      "hardly",
+      "worth",
+      "using",
+      "in",
+      "the",
+      "tournaments",
+      "of",
+      "the",
+      "highest",
+      "category",
+      ".",
+      "white",
+      "has",
+      "too",
+      "many",
+      "opportunities",
+      "for",
+      "anybody's",
+      "liking",
+      "one",
+      "can",
+      "lead",
+      "an",
+      "acute",
+      "or",
+      "a",
+      "positional",
+      "game",
+      ",",
+      "one",
+      "can",
+      "vary",
+      "different",
+      "ways",
+      "of",
+      "developing",
+      "the",
+      "initiative",
+      ".",
+      "nevertheless",
+      ",",
+      "topalov",
+      "obviously",
+      "counted",
+      "on",
+      "surprise",
+      ",",
+      "as",
+      "he",
+      "thought",
+      "that",
+      "i",
+      "would",
+      "play",
+      "worse",
+      "in",
+      "a",
+      "situation",
+      "i",
+      "was",
+      "not",
+      "ready",
+      "for",
+      ",",
+      "and",
+      "besides",
+      ",",
+      "he",
+      "hoped",
+      "to",
+      "avoid",
+      "my",
+      "opening",
+      "preparation",
+      ",",
+      "which",
+      "he",
+      "had",
+      "faced",
+      "before",
+      "."
+    ],
+    "game_result": "White"
+  },
+  {
+    "box_score": {
+      "PLAYER_NAME": {
+        "0": "Kasparov,_G.",
+        "1": "Topalov,_V."
+      },
+      "MOVE_TURN": {
+        "0": "No",
+        "1": "Yes"
+      },
+      "MATE": {
+        "0": "None",
+        "1": "None"
+      },
+      "SCORE": {
+        "0": "0.68",
+        "1": "-0.68"
+      },
+      "CHANGE": {
+        "0": "0.0",
+        "1": "-0.0"
+      },
+      "CAPTURE": {
+        "0": "False",
+        "1": "False"
+      },
+      "CASTLE": {
+        "0": "False",
+        "1": "False"
+      },
+      "ENPASSANT": {
+        "0": "False",
+        "1": "False"
+      },
+      "MOVE_NUMBER": {
+        "0": "3",
+        "1": "3"
+      },
+      "PIECE": {
+        "0": "None",
+        "1": "Pawn"
+      },
+      "PIECE_VALUE": {
+        "0": "38",
+        "1": "38"
+      }
+    },
+    "summary": [
+      "that",
+      "was",
+      "when",
+      "i",
+      "began",
+      "to",
+      "think",
+      ".",
+      "i",
+      "was",
+      "actually",
+      "engrossed",
+      "in",
+      "thoughts",
+      "on",
+      "the",
+      "third",
+      "move",
+      ",",
+      "i",
+      "had",
+      "often",
+      "played",
+      "3",
+      ".",
+      "f3",
+      "threatening",
+      "with",
+      "king's",
+      "indian",
+      "defense",
+      ".",
+      "however",
+      ",",
+      "this",
+      "opening",
+      "couldn't",
+      "scare",
+      "topalov",
+      "off",
+      "as",
+      "he",
+      "was",
+      "used",
+      "to",
+      "it",
+      ",",
+      "moreover",
+      ",",
+      "that",
+      "was",
+      "what",
+      "he",
+      "reckoned",
+      "on",
+      ".",
+      "that",
+      "is",
+      "why",
+      "i",
+      "decided",
+      "to",
+      "play",
+      "at",
+      "sight",
+      ".",
+      "i",
+      "went",
+      "for",
+      "a",
+      "position",
+      "i",
+      "had",
+      "a",
+      "definite",
+      "idea",
+      "about",
+      "but",
+      "never",
+      "met",
+      "in",
+      "practice",
+      "and",
+      ",",
+      "frankly",
+      "speaking",
+      ",",
+      "had",
+      "never",
+      "seriously",
+      "analyzed",
+      "."
+    ],
+    "game_result": "White"
+  },
+  {
+    "box_score": {
+      "PLAYER_NAME": {
+        "0": "Kasparov,_G.",
+        "1": "Topalov,_V."
+      },
+      "MOVE_TURN": {
+        "0": "No",
+        "1": "Yes"
+      },
+      "MATE": {
+        "0": "None",
+        "1": "None"
+      },
+      "SCORE": {
+        "0": "0.78",
+        "1": "-0.78"
+      },
+      "CHANGE": {
+        "0": "-0.12",
+        "1": "0.12"
+      },
+      "CAPTURE": {
+        "0": "False",
+        "1": "False"
+      },
+      "CASTLE": {
+        "0": "False",
+        "1": "False"
+      },
+      "ENPASSANT": {
+        "0": "False",
+        "1": "False"
+      },
+      "MOVE_NUMBER": {
+        "0": "4",
+        "1": "4"
+      },
+      "PIECE": {
+        "0": "None",
+        "1": "Bishop"
+      },
+      "PIECE_VALUE": {
+        "0": "38",
+        "1": "38"
+      }
+    },
+    "summary": [
+      "alternative",
+      "variation",
+      "4",
+      ".",
+      ".",
+      ".",
+      "c6",
+      "5",
+      ".",
+      "qd2",
+      "b5",
+      "6",
+      ".",
+      "f3",
+      "bg7"
+    ],
+    "game_result": "White"
+  },
+  {
+    "box_score": {
+      "PLAYER_NAME": {
+        "0": "Kasparov,_G.",
+        "1": "Topalov,_V."
+      },
+      "MOVE_TURN": {
+        "0": "No",
+        "1": "Yes"
+      },
+      "MATE": {
+        "0": "None",
+        "1": "None"
+      },
+      "SCORE": {
+        "0": "1.01",
+        "1": "-1.01"
+      },
+      "CHANGE": {
+        "0": "0.11",
+        "1": "-0.11"
+      },
+      "CAPTURE": {
+        "0": "False",
+        "1": "False"
+      },
+      "CASTLE": {
+        "0": "False",
+        "1": "False"
+      },
+      "ENPASSANT": {
+        "0": "False",
+        "1": "False"
+      },
+      "MOVE_NUMBER": {
+        "0": "5",
+        "1": "5"
+      },
+      "PIECE": {
+        "0": "None",
+        "1": "Pawn"
+      },
+      "PIECE_VALUE": {
+        "0": "38",
+        "1": "38"
+      }
+    },
+    "summary": [
+      "as",
+      "far",
+      "as",
+      "i",
+      "know",
+      ",",
+      "black",
+      "usually",
+      "plays",
+      "c6",
+      "and",
+      "b5",
+      "before",
+      "the",
+      "move",
+      "bg7",
+      ",",
+      "but",
+      "i",
+      "don't",
+      "think",
+      "that",
+      "this",
+      "shift",
+      "changes",
+      "something",
+      "seriously",
+      "."
+    ],
+    "game_result": "White"
+  }
+]

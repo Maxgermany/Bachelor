@@ -36,6 +36,8 @@ def markov():
 
     print(generateText(markovChains, 1000))
 
+markov()
+
 def generateText(graph, distance=5, startWord=None):
     if distance <= 0:
         return []
